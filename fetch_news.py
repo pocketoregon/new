@@ -7,7 +7,7 @@ def fetch_news():
     """Fetch AI-generated tech news from Gemini and save to news.json."""
 
     genai.configure(api_key=os.environ["GEMINI_API_KEY"])
-    model = genai.GenerativeModel("gemini-1.5-flash")
+    model = genai.GenerativeModel("gemini-2.5-flash-lite")
 
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
