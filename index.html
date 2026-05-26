@@ -3,177 +3,215 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>AI Tech Briefing</title>
+  <title>AI·Brief — Daily Tech Intelligence</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
-  <script>
-    tailwind.config = {
-      theme: {
-        extend: {
-          fontFamily: {
-            display: ['"Playfair Display"', 'serif'],
-            body: ['"DM Sans"', 'sans-serif'],
-          },
-          colors: {
-            ink: '#0d0d0d',
-            paper: '#f5f0e8',
-            accent: '#c8392b',
-            muted: '#7a7060',
-          },
-          animation: {
-            'fade-up': 'fadeUp 0.6s ease forwards',
-          },
-          keyframes: {
-            fadeUp: {
-              '0%': { opacity: '0', transform: 'translateY(24px)' },
-              '100%': { opacity: '1', transform: 'translateY(0)' },
-            },
-          },
-        },
-      },
-    };
-  </script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet" />
   <style>
+    * { box-sizing: border-box; }
+
     body {
-      background-color: #f5f0e8;
-      font-family: 'DM Sans', sans-serif;
-      color: #0d0d0d;
+      background: #0a0a0a;
+      color: #e8e8e8;
+      font-family: 'Inter', sans-serif;
+      min-height: 100vh;
     }
 
-    body::before {
-      content: '';
-      position: fixed;
-      inset: 0;
-      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.04'/%3E%3C/svg%3E");
-      pointer-events: none;
-      z-index: 0;
-      opacity: 0.35;
+    /* Scrollbar */
+    ::-webkit-scrollbar { width: 4px; }
+    ::-webkit-scrollbar-track { background: #0a0a0a; }
+    ::-webkit-scrollbar-thumb { background: #333; border-radius: 2px; }
+
+    /* Header */
+    .site-header {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: rgba(10,10,10,0.92);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid #1e1e1e;
     }
 
-    .card-stagger:nth-child(1) { animation-delay: 0.05s; }
-    .card-stagger:nth-child(2) { animation-delay: 0.15s; }
-    .card-stagger:nth-child(3) { animation-delay: 0.25s; }
-    .card-stagger:nth-child(4) { animation-delay: 0.35s; }
-    .card-stagger:nth-child(5) { animation-delay: 0.45s; }
-    .card-stagger:nth-child(6) { animation-delay: 0.55s; }
-    .card-stagger:nth-child(7) { animation-delay: 0.65s; }
-
-    .divider-line {
-      background: repeating-linear-gradient(
-        90deg,
-        #0d0d0d 0px,
-        #0d0d0d 4px,
-        transparent 4px,
-        transparent 10px
-      );
-      height: 2px;
-    }
-
-    .tag-pill {
-      display: inline-block;
-      padding: 2px 10px;
-      border: 1px solid #0d0d0d;
-      font-size: 0.65rem;
+    .nav-link {
+      font-size: 0.78rem;
       font-weight: 500;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: #888;
+      padding: 4px 0;
+      border-bottom: 2px solid transparent;
+      transition: all 0.2s;
+      cursor: pointer;
+    }
+
+    .nav-link:hover { color: #e8e8e8; }
+    .nav-link.active { color: #e8e8e8; border-bottom-color: #e8384f; }
+
+    /* Category pill */
+    .cat-pill {
+      font-size: 0.6rem;
+      font-weight: 600;
       letter-spacing: 0.1em;
       text-transform: uppercase;
-      border-radius: 999px;
+      padding: 3px 8px;
+      border-radius: 3px;
+      display: inline-block;
     }
 
-    .article-card {
-      border-top: 2px solid #0d0d0d;
-      opacity: 0;
-      transition: background 0.2s ease;
-    }
-
-    .article-card:hover { background: rgba(200, 57, 43, 0.04); }
-
-    .headline-number {
-      font-family: 'Playfair Display', serif;
-      font-weight: 900;
-      font-size: 3rem;
-      line-height: 1;
-      color: #e8e0d0;
-      user-select: none;
-    }
-
-    .top-article {
-      border: 2px solid #0d0d0d;
-      background: white;
-      opacity: 0;
-      overflow: hidden;
-    }
-
-    .hero-image {
+    /* Hero */
+    .hero-img {
       width: 100%;
-      height: 280px;
+      height: 420px;
       object-fit: cover;
       display: block;
     }
 
-    .hero-image-placeholder {
+    .hero-img-placeholder {
       width: 100%;
-      height: 280px;
-      background: linear-gradient(135deg, #e8e0d0 0%, #d4c9b8 100%);
+      height: 420px;
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
       display: flex;
       align-items: center;
       justify-content: center;
     }
 
-.thumb-image {
-      width: 180px;
+    /* Article cards */
+    .article-row {
+      display: grid;
+      grid-template-columns: 220px 1fr;
+      gap: 20px;
+      padding: 24px 0;
+      border-bottom: 1px solid #1e1e1e;
+      align-items: start;
+    }
+
+    .article-row:last-child { border-bottom: none; }
+
+    .article-row-img {
+      width: 220px;
       height: 150px;
       object-fit: cover;
       border-radius: 6px;
+      display: block;
+    }
+
+    .article-row-placeholder {
+      width: 220px;
+      height: 150px;
+      background: #1a1a1a;
+      border-radius: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    /* Grid cards */
+    .grid-card {
+      background: #111;
+      border: 1px solid #1e1e1e;
+      border-radius: 8px;
+      overflow: hidden;
+      transition: border-color 0.2s, transform 0.2s;
+    }
+
+    .grid-card:hover {
+      border-color: #333;
+      transform: translateY(-2px);
+    }
+
+    .grid-card-img {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+      display: block;
+    }
+
+    .grid-card-placeholder {
+      width: 100%;
+      height: 180px;
+      background: #1a1a1a;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    /* Mini cards */
+    .mini-card {
+      display: flex;
+      gap: 14px;
+      align-items: start;
+      padding: 16px 0;
+      border-bottom: 1px solid #1a1a1a;
+    }
+
+    .mini-card:last-child { border-bottom: none; }
+
+    .mini-card-img {
+      width: 72px;
+      height: 60px;
+      object-fit: cover;
+      border-radius: 4px;
       flex-shrink: 0;
     }
 
-    .thumb-placeholder {
-      width: 180px;
-      height: 150px;
-      background: linear-gradient(135deg, #e8e0d0 0%, #d4c9b8 100%);
-      border-radius: 6px;
+    .mini-card-placeholder {
+      width: 72px;
+      height: 60px;
+      background: #1a1a1a;
+      border-radius: 4px;
       flex-shrink: 0;
       display: flex;
       align-items: center;
       justify-content: center;
     }
 
-    .read-more-btn {
+    /* Read more */
+    .read-btn {
       display: inline-flex;
       align-items: center;
-      gap: 6px;
-      font-size: 0.72rem;
-      font-weight: 500;
-      letter-spacing: 0.05em;
+      gap: 5px;
+      font-size: 0.7rem;
+      font-weight: 600;
+      letter-spacing: 0.06em;
       text-transform: uppercase;
-      color: #c8392b;
-      border: 1px solid #c8392b;
-      padding: 4px 12px;
-      border-radius: 999px;
+      color: #e8384f;
       text-decoration: none;
-      transition: all 0.2s ease;
+      transition: gap 0.2s;
     }
 
-    .read-more-btn:hover {
-      background: #c8392b;
-      color: white;
+    .read-btn:hover { gap: 8px; }
+
+    .read-btn svg {
+      width: 10px;
+      height: 10px;
     }
 
-    .read-more-btn svg {
-      width: 11px;
-      height: 11px;
-      transition: transform 0.2s ease;
+    /* Section label */
+    .section-label {
+      font-size: 0.65rem;
+      font-weight: 600;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: #555;
+      padding-bottom: 12px;
+      border-bottom: 1px solid #1e1e1e;
+      margin-bottom: 0;
     }
 
-    .read-more-btn:hover svg { transform: translate(2px, -2px); }
+    /* Article number */
+    .art-num {
+      font-family: 'Playfair Display', serif;
+      font-size: 2.5rem;
+      font-weight: 900;
+      color: #222;
+      line-height: 1;
+      user-select: none;
+    }
 
-    #error-state, #loading-state { display: none; }
-
-    .skeleton {
-      background: linear-gradient(90deg, #e8e0d0 25%, #f0e8dc 50%, #e8e0d0 75%);
+    /* Skeleton */
+    .skel {
+      background: linear-gradient(90deg, #1a1a1a 25%, #222 50%, #1a1a1a 75%);
       background-size: 200% 100%;
       animation: shimmer 1.4s infinite;
       border-radius: 4px;
@@ -184,292 +222,525 @@
       100% { background-position: -200% 0; }
     }
 
-    .progress-bar {
+    /* Progress bar */
+    #progress {
       position: fixed;
-      top: 0;
-      left: 0;
-      height: 3px;
-      background: #c8392b;
-      z-index: 100;
+      top: 0; left: 0;
+      height: 2px;
+      background: #e8384f;
+      z-index: 999;
       transition: width 0.3s ease;
+      width: 0%;
     }
+
+    /* Search box */
+    #search-box {
+      position: absolute;
+      top: 100%;
+      right: 0;
+      background: #111;
+      border: 1px solid #2a2a2a;
+      border-radius: 8px;
+      padding: 12px;
+      width: 280px;
+      display: none;
+      margin-top: 8px;
+    }
+
+    #search-box.open { display: block; }
+
+    #search-input {
+      width: 100%;
+      background: #1a1a1a;
+      border: 1px solid #2a2a2a;
+      border-radius: 6px;
+      padding: 8px 12px;
+      color: #e8e8e8;
+      font-size: 13px;
+      outline: none;
+    }
+
+    #search-input:focus { border-color: #e8384f; }
+
+    /* Fade up */
+    .fade-up {
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeUp 0.5s ease forwards;
+    }
+
+    @keyframes fadeUp {
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .delay-1 { animation-delay: 0.1s; }
+    .delay-2 { animation-delay: 0.2s; }
+    .delay-3 { animation-delay: 0.3s; }
+    .delay-4 { animation-delay: 0.4s; }
+    .delay-5 { animation-delay: 0.5s; }
+    .delay-6 { animation-delay: 0.6s; }
+    .delay-7 { animation-delay: 0.7s; }
   </style>
 </head>
-<body class="min-h-screen relative">
+<body>
 
-  <div class="progress-bar" id="progress-bar" style="width: 0%"></div>
+<div id="progress"></div>
 
-  <header class="relative z-10 border-b-2 border-ink px-6 md:px-12 py-6">
-    <div class="max-w-6xl mx-auto flex items-center justify-between">
+<!-- HEADER -->
+<header class="site-header">
+  <div class="max-w-5xl mx-auto px-5">
+
+    <!-- Top bar -->
+    <div class="flex items-center justify-between py-3 border-b border-neutral-900">
       <div>
-        <div class="text-xs font-body font-500 tracking-widest text-muted uppercase mb-1">Daily Intelligence</div>
-        <h1 class="font-display font-black text-3xl md:text-4xl text-ink leading-none">
-          AI<span class="text-accent">·</span>Brief
-        </h1>
-      </div>
-      <div class="text-right">
-        <div class="text-xs text-muted font-body tracking-wide uppercase" id="edition-date">Loading edition…</div>
-        <div class="text-xs text-muted font-body mt-1" id="article-count"></div>
-      </div>
-    </div>
-  </header>
-
-  <main class="relative z-10 max-w-6xl mx-auto px-6 md:px-12 py-10">
-
-    <!-- Loading State -->
-    <div id="loading-state">
-      <div class="space-y-6">
-        <div class="top-article border-2 border-ink" style="opacity:1">
-          <div class="skeleton w-full" style="height:280px; border-radius:0;"></div>
-          <div class="p-6 space-y-3">
-            <div class="skeleton h-4 w-24"></div>
-            <div class="skeleton h-8 w-full"></div>
-            <div class="skeleton h-16 w-5/6"></div>
-          </div>
-        </div>
-        <div class="space-y-6 mt-8">
-          <div class="article-card pt-4" style="opacity:1; border-top: 2px solid #0d0d0d;">
-            <div class="flex gap-4">
-              <div class="skeleton" style="width:110px; height:90px; border-radius:4px; flex-shrink:0;"></div>
-              <div class="flex-1 space-y-2">
-                <div class="skeleton h-4 w-20"></div>
-                <div class="skeleton h-5 w-full"></div>
-                <div class="skeleton h-10 w-5/6"></div>
-              </div>
-            </div>
-          </div>
-          <div class="article-card pt-4" style="opacity:1; border-top: 2px solid #0d0d0d;">
-            <div class="flex gap-4">
-              <div class="skeleton" style="width:110px; height:90px; border-radius:4px; flex-shrink:0;"></div>
-              <div class="flex-1 space-y-2">
-                <div class="skeleton h-4 w-24"></div>
-                <div class="skeleton h-5 w-3/4"></div>
-                <div class="skeleton h-10 w-full"></div>
-              </div>
-            </div>
-          </div>
+        <div style="font-size:0.6rem; letter-spacing:0.15em; text-transform:uppercase; color:#555; margin-bottom:2px;">Daily Intelligence</div>
+        <div style="font-family:'Playfair Display',serif; font-size:1.4rem; font-weight:900; letter-spacing:-0.02em;">
+          AI<span style="color:#e8384f;">·</span>Brief
         </div>
       </div>
-    </div>
-
-    <!-- Error State -->
-    <div id="error-state" class="text-center py-24">
-      <div class="font-display text-6xl text-accent font-black mb-4">404</div>
-      <div class="font-body text-lg text-muted mb-2">Today's briefing hasn't loaded yet.</div>
-      <p class="text-sm text-muted max-w-sm mx-auto">The daily news fetch runs at midnight UTC. Trigger the workflow manually in your GitHub Actions tab.</p>
-    </div>
-
-    <!-- News Content -->
-    <div id="news-content" style="display:none">
-
-      <!-- Hero Story -->
-      <section class="mb-12">
-        <div class="divider-line mb-6"></div>
-        <div class="text-xs font-body tracking-widest text-muted uppercase mb-4">Top Story</div>
-        <div id="hero-card" class="top-article animate-fade-up"></div>
-      </section>
-
-      <!-- Further Reading -->
-      <section>
-        <div class="divider-line mb-6"></div>
-        <div class="text-xs font-body tracking-widest text-muted uppercase mb-8">Further Reading</div>
-        <div id="articles-grid" class="space-y-0"></div>
-      </section>
-
-      <!-- Footer -->
-      <footer class="mt-16 pt-6 border-t-2 border-ink flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
-        <div class="text-xs text-muted font-body">
-          Real news simplified by <span class="font-500 text-ink">Gemini AI</span> · Refreshes daily at midnight UTC
+      <div class="flex items-center gap-4">
+        <div id="header-date" style="font-size:0.7rem; color:#555; letter-spacing:0.05em; text-transform:uppercase;"></div>
+        <div id="header-count" style="font-size:0.7rem; color:#555;"></div>
+        <div style="position:relative;">
+          <button onclick="toggleSearch()" style="background:none; border:none; color:#888; cursor:pointer; padding:4px;" aria-label="Search">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+            </svg>
+          </button>
+          <div id="search-box">
+            <input id="search-input" type="text" placeholder="Search articles..." oninput="filterArticles(this.value)" />
+            <div id="search-results" style="margin-top:8px; font-size:12px; color:#666;"></div>
+          </div>
         </div>
-        <div class="text-xs text-muted font-body" id="generated-at"></div>
-      </footer>
-
-    </div>
-  </main>
-
-  <script>
-    const progressBar = document.getElementById('progress-bar');
-    function setProgress(pct) { progressBar.style.width = pct + '%'; }
-
-    function formatDate(dateStr) {
-      if (!dateStr) return '';
-      const parts = dateStr.split('-');
-      if (parts.length === 3) {
-        return new Date(parts[0], parts[1] - 1, parts[2])
-          .toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
-      }
-      return dateStr;
-    }
-
-    function getCategoryColor(category) {
-      const map = {
-        'AI': '#c8392b', 'Hardware': '#2563eb', 'Software': '#7c3aed',
-        'Security': '#b45309', 'Science': '#065f46', 'Business': '#374151',
-        'Policy': '#9f1239', 'Startups': '#0e7490',
-      };
-      return map[category] || '#374151';
-    }
-
-    function readMoreBtn(url) {
-      if (!url) return '';
-      return `<a href="${url}" target="_blank" rel="noopener noreferrer" class="read-more-btn">
-        Read full article
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
-          <path d="M7 17L17 7M7 7h10v10"/>
-        </svg>
-      </a>`;
-    }
-
-    function heroImageHtml(image) {
-      if (!image) {
-        return `<div class="hero-image-placeholder">
-          <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#b4a89a" stroke-width="1.5">
-            <rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/>
-            <polyline points="21 15 16 10 5 21"/>
+        <button style="background:none; border:none; color:#888; cursor:pointer; padding:4px;" aria-label="Profile">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.6-7 8-7s8 3 8 7"/>
           </svg>
-        </div>`;
-      }
-      return `<img
-        src="${image}"
-        class="hero-image"
-        alt="Article image"
-        onerror="this.parentElement.innerHTML='<div class=\\'hero-image-placeholder\\'><svg width=\\'48\\' height=\\'48\\' viewBox=\\'0 0 24 24\\' fill=\\'none\\' stroke=\\'#b4a89a\\' stroke-width=\\'1.5\\'><rect x=\\'3\\' y=\\'3\\' width=\\'18\\' height=\\'18\\' rx=\\'2\\'/><circle cx=\\'8.5\\' cy=\\'8.5\\' r=\\'1.5\\'/><polyline points=\\'21 15 16 10 5 21\\'/></svg></div>'"
-      />`;
-    }
+        </button>
+      </div>
+    </div>
 
-    function thumbImageHtml(image) {
-      if (!image) {
-        return `<div class="thumb-placeholder">
-          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#b4a89a" stroke-width="1.5">
-            <rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/>
-            <polyline points="21 15 16 10 5 21"/>
-          </svg>
-        </div>`;
-      }
-      return `<img
-        src="${image}"
-        class="thumb-image"
-        alt="Article thumbnail"
-        onerror="this.outerHTML='<div class=\\'thumb-placeholder\\'><svg width=\\'24\\' height=\\'24\\' viewBox=\\'0 0 24 24\\' fill=\\'none\\' stroke=\\'#b4a89a\\' stroke-width=\\'1.5\\'><rect x=\\'3\\' y=\\'3\\' width=\\'18\\' height=\\'18\\' rx=\\'2\\'/><circle cx=\\'8.5\\' cy=\\'8.5\\' r=\\'1.5\\'/><polyline points=\\'21 15 16 10 5 21\\'/></svg></div>'"
-      />`;
-    }
+    <!-- Nav tabs -->
+    <div class="flex items-center gap-6 py-2" id="nav-tabs">
+      <button class="nav-link active" onclick="filterCategory('all', this)">All</button>
+      <button class="nav-link" onclick="filterCategory('AI', this)">AI</button>
+      <button class="nav-link" onclick="filterCategory('Business', this)">Business</button>
+      <button class="nav-link" onclick="filterCategory('Policy', this)">Policy</button>
+      <button class="nav-link" onclick="filterCategory('Hardware', this)">Hardware</button>
+      <button class="nav-link" onclick="filterCategory('Software', this)">Software</button>
+      <button class="nav-link" onclick="filterCategory('Security', this)">Security</button>
+      <button class="nav-link" onclick="filterCategory('Startups', this)">Startups</button>
+    </div>
 
-    function buildHeroCard(article) {
-      const color = getCategoryColor(article.category);
-      return `
-        ${heroImageHtml(article.image)}
-        <div class="p-6 md:p-8 flex flex-col gap-4">
-          <div class="flex items-center gap-3">
-            <span class="tag-pill" style="border-color:${color}; color:${color}">${article.category || 'Tech'}</span>
-            ${article.source ? `<span class="text-xs text-muted font-body">${article.source}</span>` : ''}
-          </div>
-          <h2 class="font-display font-black text-2xl md:text-4xl text-ink leading-tight">${article.title}</h2>
-          <p class="font-body text-base text-muted leading-relaxed max-w-3xl">${article.summary}</p>
-          ${article.key_points && article.key_points.length > 0 ? `
-            <div class="pt-4 border-t border-gray-200">
-              <div class="text-xs font-body tracking-widest text-muted uppercase mb-3">Key Points</div>
-              <ul class="space-y-2">
-                ${article.key_points.map(pt => `
-                  <li class="flex items-start gap-3 text-sm font-body text-ink">
-                    <span class="mt-1.5 block w-1.5 h-1.5 rounded-full flex-shrink-0" style="background:${color}"></span>
-                    <span>${pt}</span>
-                  </li>`).join('')}
-              </ul>
-            </div>` : ''}
-          ${article.impact ? `
-            <div class="bg-ink text-paper px-4 py-3 text-sm font-body leading-relaxed">
-              <span class="font-500 text-accent uppercase text-xs tracking-wider">Why it matters · </span>${article.impact}
-            </div>` : ''}
-          ${article.url ? `<div>${readMoreBtn(article.url)}</div>` : ''}
-        </div>`;
-    }
+  </div>
+</header>
 
-function buildArticleCard(article, index) {
-      const color = getCategoryColor(article.category);
-      const div = document.createElement('div');
-      div.className = 'article-card card-stagger animate-fade-up py-5 px-0';
-      div.innerHTML = `
-        <div class="flex gap-4 md:gap-6 items-start">
-          <div class="hidden md:flex flex-col items-center pt-1 flex-shrink-0" style="width:36px">
-            <span class="headline-number">${String(index).padStart(2, '0')}</span>
-          </div>
-          <div class="flex-shrink-0" style="width:180px; height:150px; overflow:hidden; border-radius:6px;">
-            ${thumbImageHtml(article.image)}
-          </div>
-          <div class="flex-1 min-w-0 space-y-2">
-            <div class="flex flex-wrap items-center gap-2">
-              <span class="tag-pill" style="border-color:${color}; color:${color}">${article.category || 'Tech'}</span>
-              ${article.source ? `<span class="text-xs text-muted font-body">${article.source}</span>` : ''}
+<!-- MAIN -->
+<main class="max-w-5xl mx-auto px-5 py-8">
+
+  <!-- Loading -->
+  <div id="loading">
+    <div style="border-radius:8px; overflow:hidden; margin-bottom:24px;">
+      <div class="skel" style="height:420px; border-radius:0;"></div>
+      <div style="padding:20px; background:#111; display:grid; grid-template-columns:1fr 1fr; gap:20px;">
+        <div>
+          <div class="skel" style="height:12px; width:60px; margin-bottom:12px;"></div>
+          <div class="skel" style="height:28px; width:100%; margin-bottom:8px;"></div>
+          <div class="skel" style="height:48px; width:100%;"></div>
+        </div>
+        <div>
+          <div class="skel" style="height:12px; width:80px; margin-bottom:12px;"></div>
+          <div class="skel" style="height:12px; width:100%; margin-bottom:8px;"></div>
+          <div class="skel" style="height:12px; width:90%; margin-bottom:8px;"></div>
+          <div class="skel" style="height:12px; width:80%;"></div>
+        </div>
+      </div>
+    </div>
+    <div style="display:grid; grid-template-columns:220px 1fr; gap:20px; padding:24px 0; border-bottom:1px solid #1e1e1e;">
+      <div class="skel" style="height:150px; border-radius:6px;"></div>
+      <div>
+        <div class="skel" style="height:12px; width:80px; margin-bottom:12px;"></div>
+        <div class="skel" style="height:22px; width:100%; margin-bottom:8px;"></div>
+        <div class="skel" style="height:40px; width:90%;"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Error -->
+  <div id="error" style="display:none; text-align:center; padding:80px 0;">
+    <div style="font-family:'Playfair Display',serif; font-size:5rem; font-weight:900; color:#e8384f; line-height:1;">404</div>
+    <div style="font-size:1rem; color:#555; margin-top:12px;">Today's briefing hasn't loaded yet.</div>
+    <div style="font-size:0.8rem; color:#444; margin-top:8px;">Run the GitHub Actions workflow to generate today's news.</div>
+  </div>
+
+  <!-- Content -->
+  <div id="content" style="display:none;">
+
+    <!-- HERO -->
+    <section id="hero-section" class="fade-up" style="margin-bottom:40px;"></section>
+
+    <!-- FURTHER READING -->
+    <div class="section-label" style="margin-bottom:0;">Further Reading</div>
+    <div id="rows-section"></div>
+
+    <!-- GRID (articles 5-6) -->
+    <div id="grid-section" style="margin-top:32px;"></div>
+
+    <!-- MINI (articles 7-8) -->
+    <div id="mini-section" style="margin-top:32px;"></div>
+
+  </div>
+
+</main>
+
+<!-- FOOTER -->
+<footer style="border-top:1px solid #1a1a1a; margin-top:40px; padding:24px 0;">
+  <div class="max-w-5xl mx-auto px-5 flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
+    <div>
+      <div style="font-family:'Playfair Display',serif; font-size:1rem; font-weight:900; margin-bottom:4px;">
+        AI<span style="color:#e8384f;">·</span>Brief
+      </div>
+      <div style="font-size:0.7rem; color:#444;">Real news simplified by Gemini AI · Refreshes daily at midnight UTC</div>
+    </div>
+    <div class="flex items-center gap-6">
+      <span style="font-size:0.7rem; color:#444; cursor:pointer; hover:color:#888;">About</span>
+      <span style="font-size:0.7rem; color:#444; cursor:pointer;">Terms</span>
+      <span style="font-size:0.7rem; color:#444; cursor:pointer;">Privacy</span>
+      <span style="font-size:0.7rem; color:#444; cursor:pointer;">Archive</span>
+      <span id="footer-updated" style="font-size:0.7rem; color:#333;"></span>
+    </div>
+  </div>
+</footer>
+
+<script>
+  const prog = document.getElementById('progress');
+  let allArticles = [];
+  let activeCategory = 'all';
+
+  function setProgress(p) { prog.style.width = p + '%'; }
+
+  function formatDate(d) {
+    if (!d) return '';
+    const parts = d.split('-');
+    if (parts.length === 3) {
+      return new Date(parts[0], parts[1]-1, parts[2])
+        .toLocaleDateString('en-US', { weekday:'long', year:'numeric', month:'long', day:'numeric' });
+    }
+    return d;
+  }
+
+  const catColors = {
+    'AI':'#e8384f','Hardware':'#3b82f6','Software':'#8b5cf6',
+    'Security':'#f59e0b','Science':'#10b981','Business':'#6b7280',
+    'Policy':'#ec4899','Startups':'#06b6d4','Technology':'#6b7280'
+  };
+
+  const catBg = {
+    'AI':'rgba(232,56,79,0.15)','Hardware':'rgba(59,130,246,0.15)',
+    'Software':'rgba(139,92,246,0.15)','Security':'rgba(245,158,11,0.15)',
+    'Science':'rgba(16,185,129,0.15)','Business':'rgba(107,114,128,0.15)',
+    'Policy':'rgba(236,72,153,0.15)','Startups':'rgba(6,182,212,0.15)',
+    'Technology':'rgba(107,114,128,0.15)'
+  };
+
+  function catPill(cat) {
+    const c = catColors[cat] || '#6b7280';
+    const bg = catBg[cat] || 'rgba(107,114,128,0.15)';
+    return `<span class="cat-pill" style="background:${bg}; color:${c};">${cat||'Tech'}</span>`;
+  }
+
+  function readBtn(url, label) {
+    if (!url) return '';
+    label = label || 'Read Article';
+    return `<a href="${url}" target="_blank" rel="noopener noreferrer" class="read-btn">
+      ${label}
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+        <path d="M7 17L17 7M7 7h10v10"/>
+      </svg>
+    </a>`;
+  }
+
+  function heroImg(img) {
+    if (!img) return `<div class="hero-img-placeholder">
+      <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#333" stroke-width="1.5">
+        <rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/>
+        <polyline points="21 15 16 10 5 21"/>
+      </svg></div>`;
+    return `<img src="${img}" class="hero-img" alt="Hero"
+      onerror="this.parentElement.innerHTML='<div class=hero-img-placeholder style=height:420px><svg width=48 height=48 viewBox=\\'0 0 24 24\\' fill=none stroke=#333 stroke-width=1.5><rect x=3 y=3 width=18 height=18 rx=2/><circle cx=8.5 cy=8.5 r=1.5/><polyline points=\\'21 15 16 10 5 21\\'/></svg></div>'"
+    />`;
+  }
+
+  function rowImg(img) {
+    if (!img) return `<div class="article-row-placeholder">
+      <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#333" stroke-width="1.5">
+        <rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/>
+        <polyline points="21 15 16 10 5 21"/>
+      </svg></div>`;
+    return `<img src="${img}" class="article-row-img" alt="Thumbnail"
+      onerror="this.outerHTML='<div class=article-row-placeholder><svg width=28 height=28 viewBox=\\'0 0 24 24\\' fill=none stroke=#333 stroke-width=1.5><rect x=3 y=3 width=18 height=18 rx=2/><circle cx=8.5 cy=8.5 r=1.5/><polyline points=\\'21 15 16 10 5 21\\'/></svg></div>'"
+    />`;
+  }
+
+  function gridImg(img) {
+    if (!img) return `<div class="grid-card-placeholder">
+      <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#333" stroke-width="1.5">
+        <rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/>
+        <polyline points="21 15 16 10 5 21"/>
+      </svg></div>`;
+    return `<img src="${img}" class="grid-card-img" alt="Card image"
+      onerror="this.outerHTML='<div class=grid-card-placeholder><svg width=28 height=28 viewBox=\\'0 0 24 24\\' fill=none stroke=#333 stroke-width=1.5><rect x=3 y=3 width=18 height=18 rx=2/><circle cx=8.5 cy=8.5 r=1.5/><polyline points=\\'21 15 16 10 5 21\\'/></svg></div>'"
+    />`;
+  }
+
+  function miniImg(img) {
+    if (!img) return `<div class="mini-card-placeholder">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#333" stroke-width="1.5">
+        <rect x="3" y="3" width="18" height="18" rx="2"/>
+      </svg></div>`;
+    return `<img src="${img}" class="mini-card-img" alt="Mini thumbnail"
+      onerror="this.outerHTML='<div class=mini-card-placeholder></div>'"
+    />`;
+  }
+
+  function buildHero(a) {
+    const color = catColors[a.category] || '#6b7280';
+    return `
+      <div style="border-radius:8px; overflow:hidden; border:1px solid #1e1e1e;">
+        ${heroImg(a.image)}
+        <div style="background:#111; display:grid; grid-template-columns:1fr 1fr; gap:24px; padding:24px;">
+          <div>
+            <div style="display:flex; align-items:center; gap:8px; margin-bottom:12px;">
+              ${catPill(a.category)}
+              ${a.source ? `<span style="font-size:0.7rem; color:#555;">${a.source}</span>` : ''}
             </div>
-            <h3 class="font-display font-bold text-lg md:text-xl text-ink leading-tight">${article.title}</h3>
-            <p class="font-body text-sm text-muted leading-relaxed">${article.summary}</p>
-            ${article.impact ? `
-              <p class="text-xs font-body text-muted italic">
-                <span class="not-italic font-500 text-ink">Impact:</span> ${article.impact}
-              </p>` : ''}
-            ${article.key_points && article.key_points.length > 0 ? `
-              <div class="flex flex-wrap gap-2 pt-1">
-                ${article.key_points.map(pt =>
-                  `<span class="text-xs font-body bg-ink text-paper px-2 py-0.5 rounded-sm">${pt}</span>`
-                ).join('')}
+            <h1 style="font-family:'Playfair Display',serif; font-size:1.7rem; font-weight:900; line-height:1.2; margin-bottom:12px; color:#f0f0f0;">${a.title}</h1>
+            <p style="font-size:0.82rem; color:#888; line-height:1.6; margin-bottom:16px;">${a.summary}</p>
+            ${a.impact ? `
+              <div style="border-left:2px solid ${color}; padding-left:12px; margin-bottom:16px;">
+                <div style="font-size:0.6rem; font-weight:600; letter-spacing:0.1em; text-transform:uppercase; color:${color}; margin-bottom:4px;">Why it matters</div>
+                <div style="font-size:0.78rem; color:#aaa; font-style:italic;">${a.impact}</div>
               </div>` : ''}
-            ${article.url ? `<div class="pt-1">${readMoreBtn(article.url)}</div>` : ''}
+            ${readBtn(a.url, 'Read Full Article')}
           </div>
+          <div>
+            ${a.key_points && a.key_points.length > 0 ? `
+              <div style="font-size:0.6rem; font-weight:600; letter-spacing:0.12em; text-transform:uppercase; color:#555; margin-bottom:12px; display:flex; align-items:center; gap:6px;">
+                <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+                Key Points
+              </div>
+              <ul style="list-style:none; padding:0; margin:0; space-y:8px;">
+                ${a.key_points.map(pt => `
+                  <li style="display:flex; align-items:start; gap:8px; margin-bottom:10px;">
+                    <span style="width:5px; height:5px; border-radius:50%; background:${color}; flex-shrink:0; margin-top:6px; display:block;"></span>
+                    <span style="font-size:0.78rem; color:#aaa; line-height:1.5;">${pt}</span>
+                  </li>`).join('')}
+              </ul>` : ''}
+          </div>
+        </div>
+      </div>`;
+  }
+
+  function buildRow(a, num) {
+    return `
+      <div class="article-row fade-up">
+        <div style="display:flex; gap:16px; align-items:start;">
+          <span class="art-num">${String(num).padStart(2,'0')}</span>
+          ${rowImg(a.image)}
+        </div>
+        <div>
+          <div style="display:flex; align-items:center; gap:8px; margin-bottom:8px;">
+            ${catPill(a.category)}
+            ${a.source ? `<span style="font-size:0.7rem; color:#555;">${a.source}</span>` : ''}
+          </div>
+          <h3 style="font-family:'Playfair Display',serif; font-size:1.1rem; font-weight:700; line-height:1.3; margin-bottom:8px; color:#f0f0f0;">${a.title}</h3>
+          <p style="font-size:0.78rem; color:#777; line-height:1.6; margin-bottom:10px;">${a.summary}</p>
+          ${a.impact ? `<p style="font-size:0.72rem; color:#666; font-style:italic; margin-bottom:10px;"><span style="color:#aaa; font-style:normal; font-weight:500;">Impact:</span> ${a.impact}</p>` : ''}
+          ${a.key_points && a.key_points.length > 0 ? `
+            <div style="display:flex; flex-wrap:wrap; gap:6px; margin-bottom:10px;">
+              ${a.key_points.map(pt => `<span style="font-size:0.65rem; background:#1a1a1a; color:#777; border:1px solid #2a2a2a; padding:2px 8px; border-radius:3px;">${pt}</span>`).join('')}
+            </div>` : ''}
+          ${readBtn(a.url, 'Read Full Article')}
+        </div>
+      </div>`;
+  }
+
+  function buildGridCard(a, num) {
+    return `
+      <div class="grid-card fade-up">
+        ${gridImg(a.image)}
+        <div style="padding:16px;">
+          <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:8px;">
+            <span class="art-num" style="font-size:1.6rem;">${String(num).padStart(2,'0')}</span>
+            ${catPill(a.category)}
+          </div>
+          <h3 style="font-family:'Playfair Display',serif; font-size:0.95rem; font-weight:700; line-height:1.3; margin-bottom:8px; color:#f0f0f0;">${a.title}</h3>
+          <p style="font-size:0.72rem; color:#777; line-height:1.5; margin-bottom:12px;">${a.summary}</p>
+          ${readBtn(a.url, 'Read Article')}
+        </div>
+      </div>`;
+  }
+
+  function buildMini(a, num) {
+    return `
+      <div class="mini-card fade-up">
+        <span class="art-num" style="font-size:1.4rem; flex-shrink:0; width:32px;">${String(num).padStart(2,'0')}</span>
+        ${miniImg(a.image)}
+        <div style="flex:1; min-width:0;">
+          <div style="display:flex; align-items:center; gap:6px; margin-bottom:4px;">
+            ${catPill(a.category)}
+            ${a.source ? `<span style="font-size:0.65rem; color:#555;">${a.source}</span>` : ''}
+          </div>
+          <h4 style="font-size:0.82rem; font-weight:600; color:#ddd; line-height:1.3; margin-bottom:6px;">${a.title}</h4>
+          ${readBtn(a.url, 'Read Article')}
+        </div>
+      </div>`;
+  }
+
+  function renderArticles(articles) {
+    const hero = document.getElementById('hero-section');
+    const rows = document.getElementById('rows-section');
+    const grid = document.getElementById('grid-section');
+    const mini = document.getElementById('mini-section');
+
+    hero.innerHTML = '';
+    rows.innerHTML = '';
+    grid.innerHTML = '';
+    mini.innerHTML = '';
+
+    if (articles.length === 0) {
+      hero.innerHTML = `<div style="text-align:center; padding:40px 0; color:#555; font-size:0.85rem;">No articles found for this category.</div>`;
+      return;
+    }
+
+    // Article 1 — Hero
+    hero.innerHTML = buildHero(articles[0]);
+
+    // Articles 2-4 — Rows
+    const rowArticles = articles.slice(1, 4);
+    if (rowArticles.length > 0) {
+      rows.innerHTML = rowArticles.map((a, i) => buildRow(a, i+2)).join('');
+    }
+
+    // Articles 5-6 — Grid
+    const gridArticles = articles.slice(4, 6);
+    if (gridArticles.length > 0) {
+      grid.innerHTML = `
+        <div class="section-label" style="margin-bottom:16px;">In Brief</div>
+        <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:16px;">
+          ${gridArticles.map((a, i) => buildGridCard(a, i+5)).join('')}
         </div>`;
-      return div;
-    }
-    async function loadNews() {
-      document.getElementById('loading-state').style.display = 'block';
-      setProgress(20);
-
-      try {
-        const res = await fetch('news.json?t=' + Date.now());
-        setProgress(60);
-        if (!res.ok) throw new Error('Not found');
-
-        const data = await res.json();
-        setProgress(90);
-        if (!data.articles || data.articles.length === 0) throw new Error('Empty');
-
-        document.getElementById('edition-date').textContent = formatDate(data.date) || "Today's Edition";
-        document.getElementById('article-count').textContent = `${data.articles.length} stories`;
-
-        if (data.generated_at) {
-          document.getElementById('generated-at').textContent =
-            'Last updated: ' + new Date(data.generated_at).toLocaleString('en-US', {
-              month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit', timeZoneName: 'short'
-            });
-        }
-
-        document.getElementById('hero-card').innerHTML = buildHeroCard(data.articles[0]);
-
-        const grid = document.getElementById('articles-grid');
-        data.articles.slice(1).forEach((article, i) => {
-          grid.appendChild(buildArticleCard(article, i + 2));
-        });
-
-        document.getElementById('loading-state').style.display = 'none';
-        document.getElementById('news-content').style.display = 'block';
-        setProgress(100);
-        setTimeout(() => { progressBar.style.opacity = '0'; }, 400);
-
-      } catch (e) {
-        document.getElementById('loading-state').style.display = 'none';
-        document.getElementById('error-state').style.display = 'block';
-        setProgress(100);
-      }
     }
 
-    window.addEventListener('scroll', () => {
-      const scrollTop = document.documentElement.scrollTop;
-      const docHeight = document.documentElement.scrollHeight - window.innerHeight;
-      if (docHeight > 0 && document.getElementById('news-content').style.display !== 'none') {
-        progressBar.style.width = (scrollTop / docHeight * 100) + '%';
-        progressBar.style.opacity = '1';
-      }
-    });
+    // Articles 7+ — Mini
+    const miniArticles = articles.slice(6);
+    if (miniArticles.length > 0) {
+      mini.innerHTML = `
+        <div class="section-label" style="margin-bottom:0;">Also Today</div>
+        ${miniArticles.map((a, i) => buildMini(a, i+7)).join('')}`;
+    }
+  }
 
-    loadNews();
-  </script>
+  function filterCategory(cat, btn) {
+    activeCategory = cat;
+    document.querySelectorAll('.nav-link').forEach(b => b.classList.remove('active'));
+    if (btn) btn.classList.add('active');
+
+    const filtered = cat === 'all'
+      ? allArticles
+      : allArticles.filter(a => a.category === cat);
+
+    renderArticles(filtered);
+  }
+
+  function toggleSearch() {
+    document.getElementById('search-box').classList.toggle('open');
+    if (document.getElementById('search-box').classList.contains('open')) {
+      setTimeout(() => document.getElementById('search-input').focus(), 100);
+    }
+  }
+
+  function filterArticles(query) {
+    const q = query.toLowerCase().trim();
+    const resultsEl = document.getElementById('search-results');
+    if (!q) { resultsEl.innerHTML = ''; return; }
+
+    const matches = allArticles.filter(a =>
+      a.title.toLowerCase().includes(q) ||
+      a.summary.toLowerCase().includes(q) ||
+      (a.category || '').toLowerCase().includes(q)
+    );
+
+    if (matches.length === 0) {
+      resultsEl.innerHTML = '<div style="color:#555;">No results found.</div>';
+    } else {
+      resultsEl.innerHTML = matches.map(a => `
+        <div style="padding:8px 0; border-bottom:1px solid #1e1e1e; cursor:pointer;"
+          onclick="document.getElementById('search-box').classList.remove('open')">
+          <div style="font-size:0.72rem; color:#e8384f; margin-bottom:2px;">${a.category}</div>
+          <div style="font-size:0.78rem; color:#ddd;">${a.title}</div>
+          ${a.url ? `<a href="${a.url}" target="_blank" style="font-size:0.65rem; color:#555;">Read →</a>` : ''}
+        </div>`).join('');
+    }
+  }
+
+  // Close search on outside click
+  document.addEventListener('click', e => {
+    const box = document.getElementById('search-box');
+    if (!box.contains(e.target) && !e.target.closest('button[onclick="toggleSearch()"]')) {
+      box.classList.remove('open');
+    }
+  });
+
+  async function loadNews() {
+    document.getElementById('loading').style.display = 'block';
+    setProgress(20);
+
+    try {
+      const res = await fetch('news.json?t=' + Date.now());
+      setProgress(60);
+      if (!res.ok) throw new Error('not found');
+
+      const data = await res.json();
+      setProgress(90);
+      if (!data.articles || data.articles.length === 0) throw new Error('empty');
+
+      allArticles = data.articles;
+
+      // Header info
+      document.getElementById('header-date').textContent = formatDate(data.date);
+      document.getElementById('header-count').textContent = data.articles.length + ' stories';
+      if (data.generated_at) {
+        document.getElementById('footer-updated').textContent =
+          'Last updated: ' + new Date(data.generated_at).toLocaleString('en-US', {
+            month:'short', day:'numeric', hour:'2-digit', minute:'2-digit', timeZoneName:'short'
+          });
+      }
+
+      renderArticles(allArticles);
+
+      document.getElementById('loading').style.display = 'none';
+      document.getElementById('content').style.display = 'block';
+      setProgress(100);
+      setTimeout(() => { prog.style.opacity = '0'; }, 500);
+
+    } catch(e) {
+      document.getElementById('loading').style.display = 'none';
+      document.getElementById('error').style.display = 'block';
+      setProgress(100);
+    }
+  }
+
+  window.addEventListener('scroll', () => {
+    const st = document.documentElement.scrollTop;
+    const dh = document.documentElement.scrollHeight - window.innerHeight;
+    if (dh > 0 && document.getElementById('content').style.display !== 'none') {
+      prog.style.width = (st/dh*100) + '%';
+      prog.style.opacity = '1';
+    }
+  });
+
+  loadNews();
+</script>
 </body>
 </html>
