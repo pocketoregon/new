@@ -126,7 +126,7 @@ Here is the JSON to review:
 {json.dumps(news_data, indent=2)}
 
 Here are the original URLs and images you must preserve exactly:
-{json.dumps([{{"url": a['url'], "image": a['image']}} for a in original_articles], indent=2)}
+{json.dumps([{"url": a["url"], "image": a["image"]} for a in original_articles], indent=2)}
 
 Rules for your response:
 - Fix all problems you find
