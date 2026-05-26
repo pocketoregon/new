@@ -1,119 +1,119 @@
 {
   "date": "2026-05-26",
-  "generated_at": "2026-05-26T06:02:33.233388+00:00",
+  "generated_at": "2026-05-26T14:39:14.956073+00:00",
   "edition": "Daily Tech Briefing",
   "articles": [
     {
-      "title": "Apple Deals: MacBooks, AirPods, iPads",
-      "summary": "Apple has Memorial Day sales. Get discounts on MacBooks. Save on AirPods and iPads now.",
-      "category": "Business",
-      "source": "Yahoo Entertainment",
-      "url": "https://tech.yahoo.com/deals/breaking-news/article/apple-memorial-day-sales-are-here-we-found-sweet-deals-on-macbooks-airpods-ipads-and-more-134656841.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/726864c024ee8cf7821f5b2477f6904669ddf69232129921f4f5e0484c66ccf0/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fapple-memorial-day-sales_3295.png",
-      "key_points": [
-        "Apple sales event",
-        "Memorial Day discounts",
-        "Save on devices"
-      ],
-      "impact": "Save money on Apple products during Memorial Day sales."
-    },
-    {
-      "title": "Sony Wearable AC for Summer",
-      "summary": "Sony made a small wearable air conditioner. It is for staying cool in hot weather. Wear it to beat the heat.",
-      "category": "Hardware",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/davidphelan/2026/05/24/sony-launches-reon-pocket-pro-plus-wearable-air-conditioner-in-time-for-summer-heatwaves/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a1062624e97e3e8564cc823/0x0.png?format=png&height=900&width=1600&fit=bounds",
-      "key_points": [
-        "Sony wearable AC",
-        "Stay cool in heat",
-        "New summer device"
-      ],
-      "impact": "Sony's new wearable device keeps you cool during summer heatwaves."
-    },
-    {
-      "title": "AMD Graphics Card Goes Global",
-      "summary": "AMD's RX 9070 GRE is now global. It was only in China. Now it is available everywhere.",
-      "category": "Hardware",
-      "source": "VideoCardz.com",
-      "url": "https://videocardz.com/newz/amd-radeon-rx-9070-gre-may-launch-globally-soon",
-      "image": "https://cdn.videocardz.com/1/2026/05/SAPPHIRE-RADEON-RX-9070-GRE-BOX.jpg",
-      "key_points": [
-        "AMD RX 9070 GRE",
-        "Global release soon",
-        "Graphics card update"
-      ],
-      "impact": "AMD's popular graphics card is becoming available worldwide soon."
-    },
-    {
-      "title": "Smart Glasses Industry Sees Progress",
-      "summary": "Making smart glasses is hard. Xreal believes they solved it. They work with Google on this.",
-      "category": "Startups",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-22-at-9.02.36-AM.png?resize=1200,673",
-      "key_points": [
-        "Smart glasses getting better",
-        "Xreal's new approach",
-        "Google partner's claim"
-      ],
-      "impact": "A smart glasses company believes it has solved the industry's challenges."
-    },
-    {
-      "title": "James Bond Game: Leak to Release",
-      "summary": "Game footage leaked online. The company removed it. Then they released official game clips.",
+      "title": "Google Search Update Rolled Out",
+      "summary": "Google updated its search system. Many sites felt the change. The update began over the weekend.",
       "category": "Software",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/007-first-light-leak",
-      "image": "https://assetsio.gnwcdn.com/James-Bond-gun-barrel-opening-with-an-image-of-Bond-in-007-First-Light-wearing-a-black-DJ-overlaid-on-top.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Seroundtable.com",
+      "url": "https://www.seroundtable.com/google-may-2026-core-update-landed-41380.html",
+      "image": "https://images.seroundtable.com/google-core-logo-landing-1779707454.jpg",
       "key_points": [
-        "James Bond game leak",
-        "Official footage shown",
-        "New game update"
+        "Google search update",
+        "Sites felt change",
+        "Weekend release"
       ],
-      "impact": "Leaked James Bond game footage was followed by an official release."
+      "impact": "Website visibility may change from this update."
     },
     {
-      "title": "Pixel 11 'Glow' Feature Questioned",
-      "summary": "An image from a Google event showed something. People thought it was a new Pixel feature. It was likely not real.",
+      "title": "AMD's Next Chips Due 2028",
+      "summary": "AMD's new CPUs launch in 2028. They will use a tiny new factory process. New packaging will also be used.",
+      "category": "Hardware",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/amd-zen-7-grimlock-cpus-utilize-tsmc-1-4nm-process-tech-foplp-packaging-launc-2028/",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/AMD-Zen-7-Grimlock-1920x1068.jpg",
+      "key_points": [
+        "New AMD CPUs",
+        "Tiny factory tech",
+        "2028 launch"
+      ],
+      "impact": "Future computer chips will be faster and smaller."
+    },
+    {
+      "title": "Metal Gear Solid 4 Coming to PS5",
+      "summary": "Metal Gear Solid 4 arrives on PS5. It was first released on PS3. Play it on modern consoles now.",
+      "category": "Software",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/05/let-out-of-ps3-jail-heres-an-hour-of-metal-gear-solid-4s-new-ps5-version",
+      "image": "https://images.pushsquare.com/012e23a742bac/large.jpg",
+      "key_points": [
+        "MGS4 to PS5",
+        "Classic game reborn",
+        "Play on new consoles"
+      ],
+      "impact": "Fans can play an old favorite on new systems."
+    },
+    {
+      "title": "Samsung Foldable Phone Name Leaks",
+      "summary": "A new Samsung foldable phone name leaked. It may be called 'Galaxy Z Fold 8 Ultra'. It could challenge Apple's new phone.",
       "category": "Hardware",
       "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/05/24/pixel-11-glow-io-<bos>wink/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/pixel-glow-ultra-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "http://9to5google.com/2026/05/25/galaxy-z-fold-8-ultra-branding-leak/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/galaxy-z-fold-8-wide-leak-renders-onl-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "key_points": [
-        "Pixel 11 feature rumor",
-        "Event photo misunderstood",
-        "Glow feature doubted"
+        "New Samsung name",
+        "'Fold 8 Ultra' name",
+        "Apple phone rival"
       ],
-      "impact": "A supposed new Pixel phone feature seen at an event may not be real."
+      "impact": "Samsung plans a new high-end foldable phone."
     },
     {
-      "title": "AirPods Controls May Improve",
-      "summary": "Apple plans easier AirPods controls. They aim to reduce annoyance. No extra app is needed for this.",
+      "title": "Racer Not Worried by Car Rules",
+      "summary": "A racing boss is not worried about car rules. New GT3 cars are for racing tracks. These cars are track-first designs.",
+      "category": "Business",
+      "source": "Sportscar365",
+      "url": "https://sportscar365.com/lemans/wec/ratel-not-concerned-about-latest-gt3-evolution/",
+      "image": "https://sportscar365.com/wp-content/uploads/2026/05/MercGT3.jpg",
+      "key_points": [
+        "Car racing rules",
+        "New GT3 cars",
+        "Track focus"
+      ],
+      "impact": "New racing car models will prioritize track performance."
+    },
+    {
+      "title": "California Age Law Might Skip Linux",
+      "summary": "A new California law needs age checks. It may not affect Linux software. Open-source systems might be exempt.",
+      "category": "Policy",
+      "source": "Phoronix.com",
+      "url": "https://www.phoronix.com/news/California-AB-1856",
+      "image": "https://www.phoronix.net/image.php?id=2023&image=steam_deck_tweaks",
+      "key_points": [
+        "California age law",
+        "Linux might be exempt",
+        "Open-source relief"
+      ],
+      "impact": "Linux users may not need to share age info due to this law."
+    },
+    {
+      "title": "It's Okay Not to Like Popular Games",
+      "summary": "It's fine not to like popular games. Popularity doesn't guarantee enjoyment. Find games you truly love.",
       "category": "Software",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/apple-is-reportedly-making-airpods-less-frustrating-to-control-2000763000",
-      "image": "https://gizmodo.com/app/uploads/2025/09/Apple-AirPods-Pro-3-Review-1-1200x675.jpg",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/05/the-witcher-3-is-a-good-game-but-that-doesnt-mean-you-have-to-like-it/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/The-Witcher-3-hero-image-1152x648-1779476972.jpg",
       "key_points": [
-        "AirPods controls better",
-        "Less frustrating use",
-        "Apple software update"
+        "Don't force games",
+        "Find what you like",
+        "Popularity isn't everything"
       ],
-      "impact": "Apple is working to make controlling AirPods less frustrating for users."
+      "impact": "Your personal enjoyment matters more than game hype."
     },
     {
-      "title": "Two AMG Cars: Engines, Prices",
-      "summary": "Two AMG cars are for sale. One has 6 cylinders for $43k. The other V8 costs $69k.",
-      "category": "Hardware",
-      "source": "Jalopnik",
-      "url": "https://www.jalopnik.com/2178939/heavily-depreciated-amg-gt53-or-gt63-v8-for-sale/",
-      "image": "https://www.jalopnik.com/img/gallery/choose-your-heavily-depreciated-fighter-43k-amg-gt53-with-an-inline-6-or-69k-amg-gt63-with-a-v8/l-intro-1779393586.jpg",
+      "title": "Indie Games Shown at Japan Event",
+      "summary": "Many indie games were displayed. This was at BitSummit in Japan. Developers showed new titles.",
+      "category": "Software",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/features/round-up-12-switch-1-and-2-games-we-played-at-bitsummit-2026-heres-what-we-thought",
+      "image": "https://images.nintendolife.com/d84c34fe69753/large.jpg",
       "key_points": [
-        "AMG cars for sale",
-        "Inline-6 vs V8",
-        "Price difference noted"
+        "Indie games shown",
+        "BitSummit event",
+        "Japan convention"
       ],
-      "impact": "A choice is offered between two used AMG cars with different engines and prices."
+      "impact": "New independent games were showcased at a Japanese event."
     }
   ]
 }
