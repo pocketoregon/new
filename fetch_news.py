@@ -31,6 +31,7 @@ def fetch_real_news(news_api_key):
                 "content": item.get("content", "") or "",
                 "source": item.get("source", {}).get("name", "Unknown"),
                 "url": item.get("url", ""),
+                "image": item.get("urlToImage", "") or "",
                 "published_at": item.get("publishedAt", "")
             })
 
@@ -51,6 +52,7 @@ Article {i+1}:
 Title: {article['title']}
 Source: {article['source']}
 URL: {article['url']}
+Image: {article['image']}
 Description: {article['description']}
 Content: {article['content'][:300] if article['content'] else 'No content available'}
 ---"""
@@ -65,7 +67,7 @@ WRITING RULES:
 - Summary must be 2-3 short sentences only.
 - Key points must be under 8 words each.
 - Impact must be one simple sentence under 20 words.
-- Keep the EXACT source name and URL as given. Do not change or invent URLs.
+- Keep the EXACT source name, URL and Image URL as given. Do not change or invent them.
 - Category must be ONE of: AI, Hardware, Software, Security, Science, Business, Policy, Startups
 
 Here are the real articles:
@@ -85,6 +87,7 @@ JSON structure:
       "category": "AI or Hardware or Software or Security or Science or Business or Policy or Startups",
       "source": "exact source name as given",
       "url": "exact URL as given, do not change",
+      "image": "exact image URL as given, do not change",
       "key_points": ["under 8 words", "under 8 words", "under 8 words"],
       "impact": "one simple sentence under 20 words"
     }}
@@ -107,7 +110,7 @@ Process all {len(articles)} articles. Most important story first."""
 def review_with_gemini(news_data, original_articles, model, today):
     """Pass 2 — Gemini reviews and improves its own output."""
 
-    review_prompt = f"""You are a strict editor reviewing a tech news JSON file. 
+    review_prompt = f"""You are a strict editor reviewing a tech news JSON file.
 A junior AI wrote this JSON. Your job is to review and fix any issues.
 
 CHECK AND FIX THESE THINGS:
@@ -115,20 +118,21 @@ CHECK AND FIX THESE THINGS:
 2. Are key points short and clear? Under 8 words each. Fix any that are too long.
 3. Is the impact sentence simple and under 20 words? Fix if not.
 4. Are URLs real and unchanged? Every article must have a url field with a real link.
-5. Are titles short and simple? Under 12 words. Fix any that are too long.
-6. Does every article have all fields: title, summary, category, source, url, key_points, impact?
+5. Are image URLs real and unchanged? Every article must have an image field.
+6. Are titles short and simple? Under 12 words. Fix any that are too long.
+7. Does every article have all fields: title, summary, category, source, url, image, key_points, impact?
 
 Here is the JSON to review:
 {json.dumps(news_data, indent=2)}
 
-Here are the original URLs you must preserve exactly:
-{json.dumps([a['url'] for a in original_articles], indent=2)}
+Here are the original URLs and images you must preserve exactly:
+{json.dumps([{{"url": a['url'], "image": a['image']}} for a in original_articles], indent=2)}
 
 Rules for your response:
 - Fix all problems you find
-- Keep all URLs exactly as given in the original URLs list above
-- Make sure every article has a url field
-- Respond with ONLY the fixed valid JSON object. No markdown, no explanation, nothing else.
+- Keep all URLs and image URLs exactly as given above
+- Make sure every article has both url and image fields
+- Respond with ONLY the fixed valid JSON object. No markdown, no explanation.
 
 The JSON must keep this exact structure:
 {{
@@ -142,6 +146,7 @@ The JSON must keep this exact structure:
       "category": "string",
       "source": "string",
       "url": "string",
+      "image": "string",
       "key_points": ["string", "string", "string"],
       "impact": "string"
     }}
@@ -160,7 +165,7 @@ The JSON must keep this exact structure:
 
 
 def validate(news_data, original_articles):
-    """Validate final JSON and restore any missing URLs."""
+    """Validate final JSON and restore any missing URLs or images."""
 
     required_keys = {"date", "generated_at", "edition", "articles"}
     missing = required_keys - set(news_data.keys())
@@ -170,23 +175,27 @@ def validate(news_data, original_articles):
     if not isinstance(news_data["articles"], list) or len(news_data["articles"]) == 0:
         raise ValueError("articles must be a non-empty list")
 
-    article_required = {"title", "summary", "category", "source", "url", "key_points", "impact"}
+    article_required = {"title", "summary", "category", "source", "url", "image", "key_points", "impact"}
     valid_categories = {"AI", "Hardware", "Software", "Security", "Science", "Business", "Policy", "Startups"}
 
     for i, article in enumerate(news_data["articles"]):
-        # Add missing fields check
         missing_fields = article_required - set(article.keys())
         if missing_fields:
             raise ValueError(f"Article {i} missing fields: {missing_fields}")
 
-        # Restore URL if Gemini dropped or emptied it
+        # Restore URL if Gemini dropped it
         if not article.get("url") and i < len(original_articles):
             article["url"] = original_articles[i]["url"]
             print(f"   ⚠️  Restored missing URL for article {i+1}")
 
-        # Fix category if invalid
+        # Restore image if Gemini dropped it
+        if not article.get("image") and i < len(original_articles):
+            article["image"] = original_articles[i]["image"]
+            print(f"   ⚠️  Restored missing image for article {i+1}")
+
+        # Fix invalid category
         if article.get("category") not in valid_categories:
-            article["category"] = "Technology"
+            article["category"] = "Software"
 
     return news_data
 
@@ -201,33 +210,28 @@ def fetch_news():
     genai.configure(api_key=gemini_api_key)
     model = genai.GenerativeModel("gemini-2.5-flash-lite")
 
-    # Step 1 — Get real news
     print(f"[{today}] Step 1: Fetching real news from NewsAPI...")
     original_articles = fetch_real_news(news_api_key)
 
-    # Step 2 — Simplify with Gemini (Pass 1)
     print(f"[{today}] Step 2: Simplifying with Gemini (Pass 1)...")
     news_data = simplify_with_gemini(original_articles, model, today)
 
-    # Step 3 — Review with Gemini (Pass 2)
     print(f"[{today}] Step 3: Reviewing with Gemini (Pass 2)...")
     news_data = review_with_gemini(news_data, original_articles, model, today)
 
-    # Step 4 — Validate and fix
     print(f"[{today}] Step 4: Validating final output...")
     news_data = validate(news_data, original_articles)
 
-    # Step 5 — Override timestamp and save
     news_data["generated_at"] = datetime.now(timezone.utc).isoformat()
 
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(news_data, f, indent=2, ensure_ascii=False)
 
     print(f"\n✅ Done! news.json written with {len(news_data['articles'])} articles.")
-    print(f"   Date: {news_data['date']}")
     for idx, a in enumerate(news_data["articles"]):
         print(f"   [{idx+1}] [{a['category']}] {a['title']}")
         print(f"         🔗 {a.get('url', 'NO URL')}")
+        print(f"         🖼️  {a.get('image', 'NO IMAGE')}")
 
 
 if __name__ == "__main__":
