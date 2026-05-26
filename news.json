@@ -1,111 +1,119 @@
 {
   "date": "2026-05-26",
-  "generated_at": "2026-05-26T05:24:55.633905+00:00",
+  "generated_at": "2026-05-26T06:02:33.233388+00:00",
   "edition": "Daily Tech Briefing",
   "articles": [
     {
-      "title": "Apple Memorial Day Sales on Macs and iPads",
-      "summary": "Apple has Memorial Day sales. Get good prices on Macs and iPads. AirPods are also on sale.",
+      "title": "Apple Deals: MacBooks, AirPods, iPads",
+      "summary": "Apple has Memorial Day sales. Get discounts on MacBooks. Save on AirPods and iPads now.",
       "category": "Business",
       "source": "Yahoo Entertainment",
       "url": "https://tech.yahoo.com/deals/breaking-news/article/apple-memorial-day-sales-are-here-we-found-sweet-deals-on-macbooks-airpods-ipads-and-more-134656841.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/726864c024ee8cf7821f5b2477f6904669ddf69232129921f4f5e0484c66ccf0/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fapple-memorial-day-sales_3295.png",
       "key_points": [
         "Apple sales event",
-        "Deals on devices",
-        "Memorial Day savings"
+        "Memorial Day discounts",
+        "Save on devices"
       ],
-      "impact": "Save money on Apple products this holiday."
+      "impact": "Save money on Apple products during Memorial Day sales."
     },
     {
-      "title": "Sony Wearable AC Keeps You Cool",
-      "summary": "Sony made a wearable AC. It's the Reon Pocket Pro Plus. It helps you stay cool.",
+      "title": "Sony Wearable AC for Summer",
+      "summary": "Sony made a small wearable air conditioner. It is for staying cool in hot weather. Wear it to beat the heat.",
       "category": "Hardware",
       "source": "Forbes",
       "url": "https://www.forbes.com/sites/davidphelan/2026/05/24/sony-launches-reon-pocket-pro-plus-wearable-air-conditioner-in-time-for-summer-heatwaves/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a1062624e97e3e8564cc823/0x0.png?format=png&height=900&width=1600&fit=bounds",
       "key_points": [
-        "Wearable air conditioner",
-        "Sony product launch",
-        "Beat the heat"
+        "Sony wearable AC",
+        "Stay cool in heat",
+        "New summer device"
       ],
-      "impact": "Sony offers a new way to beat summer heat."
+      "impact": "Sony's new wearable device keeps you cool during summer heatwaves."
     },
     {
-      "title": "James Bond Game Footage Leaked, Then Released",
-      "summary": "New James Bond game video leaked. The studio then showed official footage. It shows the first mission.",
+      "title": "AMD Graphics Card Goes Global",
+      "summary": "AMD's RX 9070 GRE is now global. It was only in China. Now it is available everywhere.",
+      "category": "Hardware",
+      "source": "VideoCardz.com",
+      "url": "https://videocardz.com/newz/amd-radeon-rx-9070-gre-may-launch-globally-soon",
+      "image": "https://cdn.videocardz.com/1/2026/05/SAPPHIRE-RADEON-RX-9070-GRE-BOX.jpg",
+      "key_points": [
+        "AMD RX 9070 GRE",
+        "Global release soon",
+        "Graphics card update"
+      ],
+      "impact": "AMD's popular graphics card is becoming available worldwide soon."
+    },
+    {
+      "title": "Smart Glasses Industry Sees Progress",
+      "summary": "Making smart glasses is hard. Xreal believes they solved it. They work with Google on this.",
+      "category": "Startups",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-22-at-9.02.36-AM.png?resize=1200,673",
+      "key_points": [
+        "Smart glasses getting better",
+        "Xreal's new approach",
+        "Google partner's claim"
+      ],
+      "impact": "A smart glasses company believes it has solved the industry's challenges."
+    },
+    {
+      "title": "James Bond Game: Leak to Release",
+      "summary": "Game footage leaked online. The company removed it. Then they released official game clips.",
       "category": "Software",
       "source": "Eurogamer.net",
       "url": "https://www.eurogamer.net/007-first-light-leak",
+      "image": "https://assetsio.gnwcdn.com/James-Bond-gun-barrel-opening-with-an-image-of-Bond-in-007-First-Light-wearing-a-black-DJ-overlaid-on-top.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "key_points": [
-        "Bond game leak",
+        "James Bond game leak",
         "Official footage shown",
-        "Opening mission revealed"
+        "New game update"
       ],
-      "impact": "Fans can now see the start of the new James Bond game."
+      "impact": "Leaked James Bond game footage was followed by an official release."
     },
     {
-      "title": "AMD Graphics Card May Go Global",
-      "summary": "An AMD graphics card was found. It may launch outside China. This is the RX 9070 GRE.",
-      "category": "Hardware",
-      "source": "Videocardz.com",
-      "url": "https://videocardz.com/newz/amd-radeon-rx-9070-gre-may-launch-globally-soon",
-      "key_points": [
-        "AMD graphics card",
-        "Global release possible",
-        "RX 9070 GRE"
-      ],
-      "impact": "More gamers might get this new AMD graphics card."
-    },
-    {
-      "title": "Smart Glasses Tech Now Better",
-      "summary": "A company thinks smart glasses are fixed. Xreal partnered with Google. This tech was difficult.",
-      "category": "Hardware",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
-      "key_points": [
-        "Smart glasses improved",
-        "Xreal and Google",
-        "Tricky tech solved"
-      ],
-      "impact": "Smart glasses could be more useful daily."
-    },
-    {
-      "title": "Apple Improving AirPods Control",
-      "summary": "Apple is changing AirPods. They want fewer annoyances. This is about how you control them.",
-      "category": "Hardware",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/apple-is-reportedly-making-airpods-less-frustrating-to-control-2000763000",
-      "key_points": [
-        "AirPods control update",
-        "Less frustrating",
-        "Apple improvement"
-      ],
-      "impact": "Using AirPods will soon be smoother."
-    },
-    {
-      "title": "Pixel 11 'Glow' Feature Not at I/O",
-      "summary": "A Google phone feature may not exist. It's called 'Pixel Glow'. An event photo caused confusion.",
+      "title": "Pixel 11 'Glow' Feature Questioned",
+      "summary": "An image from a Google event showed something. People thought it was a new Pixel feature. It was likely not real.",
       "category": "Hardware",
       "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/05/24/pixel-11-glow-io-wink/",
+      "url": "http://9to5google.com/2026/05/24/pixel-11-glow-io-<bos>wink/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/pixel-glow-ultra-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "key_points": [
-        "Pixel 11 feature",
-        "Pixel Glow questioned",
-        "Not shown at I/O"
+        "Pixel 11 feature rumor",
+        "Event photo misunderstood",
+        "Glow feature doubted"
       ],
-      "impact": "Rumors about a new Pixel phone feature may be wrong."
+      "impact": "A supposed new Pixel phone feature seen at an event may not be real."
     },
     {
-      "title": "Expensive Used AMG Cars for Sale",
-      "summary": "Two used AMG cars are for sale. One has a V8 engine. The other has six cylinders. The V8 costs more.",
-      "category": "Business",
+      "title": "AirPods Controls May Improve",
+      "summary": "Apple plans easier AirPods controls. They aim to reduce annoyance. No extra app is needed for this.",
+      "category": "Software",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/apple-is-reportedly-making-airpods-less-frustrating-to-control-2000763000",
+      "image": "https://gizmodo.com/app/uploads/2025/09/Apple-AirPods-Pro-3-Review-1-1200x675.jpg",
+      "key_points": [
+        "AirPods controls better",
+        "Less frustrating use",
+        "Apple software update"
+      ],
+      "impact": "Apple is working to make controlling AirPods less frustrating for users."
+    },
+    {
+      "title": "Two AMG Cars: Engines, Prices",
+      "summary": "Two AMG cars are for sale. One has 6 cylinders for $43k. The other V8 costs $69k.",
+      "category": "Hardware",
       "source": "Jalopnik",
       "url": "https://www.jalopnik.com/2178939/heavily-depreciated-amg-gt53-or-gt63-v8-for-sale/",
+      "image": "https://www.jalopnik.com/img/gallery/choose-your-heavily-depreciated-fighter-43k-amg-gt53-with-an-inline-6-or-69k-amg-gt63-with-a-v8/l-intro-1779393586.jpg",
       "key_points": [
-        "Used AMG cars",
-        "V8 vs. six-cylinder",
-        "High prices"
+        "AMG cars for sale",
+        "Inline-6 vs V8",
+        "Price difference noted"
       ],
-      "impact": "Luxury car owners face high prices for older models."
+      "impact": "A choice is offered between two used AMG cars with different engines and prices."
     }
   ]
 }
