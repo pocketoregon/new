@@ -57,6 +57,8 @@
     .card-stagger:nth-child(3) { animation-delay: 0.25s; }
     .card-stagger:nth-child(4) { animation-delay: 0.35s; }
     .card-stagger:nth-child(5) { animation-delay: 0.45s; }
+    .card-stagger:nth-child(6) { animation-delay: 0.55s; }
+    .card-stagger:nth-child(7) { animation-delay: 0.65s; }
 
     .divider-line {
       background: repeating-linear-gradient(
@@ -91,7 +93,7 @@
     .headline-number {
       font-family: 'Playfair Display', serif;
       font-weight: 900;
-      font-size: 3.5rem;
+      font-size: 3rem;
       line-height: 1;
       color: #e8e0d0;
       user-select: none;
@@ -101,13 +103,49 @@
       border: 2px solid #0d0d0d;
       background: white;
       opacity: 0;
+      overflow: hidden;
+    }
+
+    .hero-image {
+      width: 100%;
+      height: 280px;
+      object-fit: cover;
+      display: block;
+    }
+
+    .hero-image-placeholder {
+      width: 100%;
+      height: 280px;
+      background: linear-gradient(135deg, #e8e0d0 0%, #d4c9b8 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .thumb-image {
+      width: 110px;
+      height: 90px;
+      object-fit: cover;
+      border-radius: 4px;
+      flex-shrink: 0;
+    }
+
+    .thumb-placeholder {
+      width: 110px;
+      height: 90px;
+      background: linear-gradient(135deg, #e8e0d0 0%, #d4c9b8 100%);
+      border-radius: 4px;
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
 
     .read-more-btn {
       display: inline-flex;
       align-items: center;
       gap: 6px;
-      font-size: 0.75rem;
+      font-size: 0.72rem;
       font-weight: 500;
       letter-spacing: 0.05em;
       text-transform: uppercase;
@@ -125,8 +163,8 @@
     }
 
     .read-more-btn svg {
-      width: 12px;
-      height: 12px;
+      width: 11px;
+      height: 11px;
       transition: transform 0.2s ease;
     }
 
@@ -178,55 +216,67 @@
 
   <main class="relative z-10 max-w-6xl mx-auto px-6 md:px-12 py-10">
 
+    <!-- Loading State -->
     <div id="loading-state">
       <div class="space-y-6">
-        <div class="skeleton h-6 w-48 mb-8"></div>
-        <div class="top-article p-6 rounded-none space-y-3 border-2 border-ink" style="opacity:1">
-          <div class="skeleton h-4 w-24"></div>
-          <div class="skeleton h-8 w-full"></div>
-          <div class="skeleton h-4 w-3/4"></div>
-          <div class="skeleton h-16 w-full"></div>
+        <div class="top-article border-2 border-ink" style="opacity:1">
+          <div class="skeleton w-full" style="height:280px; border-radius:0;"></div>
+          <div class="p-6 space-y-3">
+            <div class="skeleton h-4 w-24"></div>
+            <div class="skeleton h-8 w-full"></div>
+            <div class="skeleton h-16 w-5/6"></div>
+          </div>
         </div>
-        <div class="space-y-4 mt-8">
-          <div class="skeleton h-4 w-32"></div>
-          <div class="space-y-6">
-            <div class="article-card pt-4 space-y-2" style="opacity:1; border-top: 2px solid #0d0d0d;">
-              <div class="skeleton h-4 w-20"></div>
-              <div class="skeleton h-6 w-full"></div>
-              <div class="skeleton h-12 w-5/6"></div>
+        <div class="space-y-6 mt-8">
+          <div class="article-card pt-4" style="opacity:1; border-top: 2px solid #0d0d0d;">
+            <div class="flex gap-4">
+              <div class="skeleton" style="width:110px; height:90px; border-radius:4px; flex-shrink:0;"></div>
+              <div class="flex-1 space-y-2">
+                <div class="skeleton h-4 w-20"></div>
+                <div class="skeleton h-5 w-full"></div>
+                <div class="skeleton h-10 w-5/6"></div>
+              </div>
             </div>
-            <div class="article-card pt-4 space-y-2" style="opacity:1; border-top: 2px solid #0d0d0d;">
-              <div class="skeleton h-4 w-24"></div>
-              <div class="skeleton h-6 w-3/4"></div>
-              <div class="skeleton h-12 w-full"></div>
+          </div>
+          <div class="article-card pt-4" style="opacity:1; border-top: 2px solid #0d0d0d;">
+            <div class="flex gap-4">
+              <div class="skeleton" style="width:110px; height:90px; border-radius:4px; flex-shrink:0;"></div>
+              <div class="flex-1 space-y-2">
+                <div class="skeleton h-4 w-24"></div>
+                <div class="skeleton h-5 w-3/4"></div>
+                <div class="skeleton h-10 w-full"></div>
+              </div>
             </div>
           </div>
         </div>
       </div>
     </div>
 
+    <!-- Error State -->
     <div id="error-state" class="text-center py-24">
       <div class="font-display text-6xl text-accent font-black mb-4">404</div>
       <div class="font-body text-lg text-muted mb-2">Today's briefing hasn't loaded yet.</div>
-      <p class="text-sm text-muted max-w-sm mx-auto">The daily news fetch runs at midnight UTC. If you just set this up, trigger the workflow manually in your GitHub Actions tab.</p>
+      <p class="text-sm text-muted max-w-sm mx-auto">The daily news fetch runs at midnight UTC. Trigger the workflow manually in your GitHub Actions tab.</p>
     </div>
 
+    <!-- News Content -->
     <div id="news-content" style="display:none">
 
-      <section id="hero-section" class="mb-12">
+      <!-- Hero Story -->
+      <section class="mb-12">
         <div class="divider-line mb-6"></div>
-        <div class="text-xs font-body font-500 tracking-widest text-muted uppercase mb-4">Top Story</div>
-        <div id="hero-card" class="top-article p-6 md:p-8 animate-fade-up"></div>
+        <div class="text-xs font-body tracking-widest text-muted uppercase mb-4">Top Story</div>
+        <div id="hero-card" class="top-article animate-fade-up"></div>
       </section>
 
+      <!-- Further Reading -->
       <section>
         <div class="divider-line mb-6"></div>
-        <div class="flex items-center justify-between mb-8">
-          <div class="text-xs font-body font-500 tracking-widest text-muted uppercase">Further Reading</div>
-        </div>
+        <div class="text-xs font-body tracking-widest text-muted uppercase mb-8">Further Reading</div>
         <div id="articles-grid" class="space-y-0"></div>
       </section>
 
+      <!-- Footer -->
       <footer class="mt-16 pt-6 border-t-2 border-ink flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
         <div class="text-xs text-muted font-body">
           Real news simplified by <span class="font-500 text-ink">Gemini AI</span> · Refreshes daily at midnight UTC
@@ -260,21 +310,55 @@
       return map[category] || '#374151';
     }
 
-    function readMoreBtn(url, label) {
+    function readMoreBtn(url) {
       if (!url) return '';
-      return `
-        <a href="${url}" target="_blank" rel="noopener noreferrer" class="read-more-btn">
-          ${label || 'Read full article'}
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
-            <path d="M7 17L17 7M7 7h10v10"/>
+      return `<a href="${url}" target="_blank" rel="noopener noreferrer" class="read-more-btn">
+        Read full article
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+          <path d="M7 17L17 7M7 7h10v10"/>
+        </svg>
+      </a>`;
+    }
+
+    function heroImageHtml(image) {
+      if (!image) {
+        return `<div class="hero-image-placeholder">
+          <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#b4a89a" stroke-width="1.5">
+            <rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/>
+            <polyline points="21 15 16 10 5 21"/>
           </svg>
-        </a>`;
+        </div>`;
+      }
+      return `<img
+        src="${image}"
+        class="hero-image"
+        alt="Article image"
+        onerror="this.parentElement.innerHTML='<div class=\\'hero-image-placeholder\\'><svg width=\\'48\\' height=\\'48\\' viewBox=\\'0 0 24 24\\' fill=\\'none\\' stroke=\\'#b4a89a\\' stroke-width=\\'1.5\\'><rect x=\\'3\\' y=\\'3\\' width=\\'18\\' height=\\'18\\' rx=\\'2\\'/><circle cx=\\'8.5\\' cy=\\'8.5\\' r=\\'1.5\\'/><polyline points=\\'21 15 16 10 5 21\\'/></svg></div>'"
+      />`;
+    }
+
+    function thumbImageHtml(image) {
+      if (!image) {
+        return `<div class="thumb-placeholder">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#b4a89a" stroke-width="1.5">
+            <rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/>
+            <polyline points="21 15 16 10 5 21"/>
+          </svg>
+        </div>`;
+      }
+      return `<img
+        src="${image}"
+        class="thumb-image"
+        alt="Article thumbnail"
+        onerror="this.outerHTML='<div class=\\'thumb-placeholder\\'><svg width=\\'24\\' height=\\'24\\' viewBox=\\'0 0 24 24\\' fill=\\'none\\' stroke=\\'#b4a89a\\' stroke-width=\\'1.5\\'><rect x=\\'3\\' y=\\'3\\' width=\\'18\\' height=\\'18\\' rx=\\'2\\'/><circle cx=\\'8.5\\' cy=\\'8.5\\' r=\\'1.5\\'/><polyline points=\\'21 15 16 10 5 21\\'/></svg></div>'"
+      />`;
     }
 
     function buildHeroCard(article) {
       const color = getCategoryColor(article.category);
       return `
-        <div class="flex flex-col gap-4">
+        ${heroImageHtml(article.image)}
+        <div class="p-6 md:p-8 flex flex-col gap-4">
           <div class="flex items-center gap-3">
             <span class="tag-pill" style="border-color:${color}; color:${color}">${article.category || 'Tech'}</span>
             ${article.source ? `<span class="text-xs text-muted font-body">${article.source}</span>` : ''}
@@ -282,54 +366,58 @@
           <h2 class="font-display font-black text-2xl md:text-4xl text-ink leading-tight">${article.title}</h2>
           <p class="font-body text-base text-muted leading-relaxed max-w-3xl">${article.summary}</p>
           ${article.key_points && article.key_points.length > 0 ? `
-            <div class="mt-2 pt-4 border-t border-gray-200">
+            <div class="pt-4 border-t border-gray-200">
               <div class="text-xs font-body tracking-widest text-muted uppercase mb-3">Key Points</div>
               <ul class="space-y-2">
                 ${article.key_points.map(pt => `
                   <li class="flex items-start gap-3 text-sm font-body text-ink">
                     <span class="mt-1.5 block w-1.5 h-1.5 rounded-full flex-shrink-0" style="background:${color}"></span>
                     <span>${pt}</span>
-                  </li>
-                `).join('')}
+                  </li>`).join('')}
               </ul>
-            </div>
-          ` : ''}
+            </div>` : ''}
           ${article.impact ? `
-            <div class="mt-2 bg-ink text-paper px-4 py-3 text-sm font-body leading-relaxed">
+            <div class="bg-ink text-paper px-4 py-3 text-sm font-body leading-relaxed">
               <span class="font-500 text-accent uppercase text-xs tracking-wider">Why it matters · </span>${article.impact}
-            </div>
-          ` : ''}
-          ${article.url ? `<div class="mt-2">${readMoreBtn(article.url, 'Read full article')}</div>` : ''}
+            </div>` : ''}
+          ${article.url ? `<div>${readMoreBtn(article.url)}</div>` : ''}
         </div>`;
     }
 
     function buildArticleCard(article, index) {
       const color = getCategoryColor(article.category);
       const div = document.createElement('div');
-      div.className = 'article-card card-stagger animate-fade-up py-6 px-0 grid md:grid-cols-12 gap-4 md:gap-8 cursor-default';
+      div.className = 'article-card card-stagger animate-fade-up py-5 px-0';
 
       div.innerHTML = `
-        <div class="md:col-span-1 hidden md:flex items-start pt-1">
-          <span class="headline-number">${String(index).padStart(2, '0')}</span>
-        </div>
-        <div class="md:col-span-11 space-y-2">
-          <div class="flex flex-wrap items-center gap-3">
-            <span class="tag-pill" style="border-color:${color}; color:${color}">${article.category || 'Tech'}</span>
-            ${article.source ? `<span class="text-xs text-muted font-body">${article.source}</span>` : ''}
+        <div class="flex gap-4 md:gap-6 items-start">
+
+          <div class="hidden md:flex flex-col items-center pt-1 flex-shrink-0" style="width:36px">
+            <span class="headline-number">${String(index).padStart(2, '0')}</span>
           </div>
-          <h3 class="font-display font-bold text-xl md:text-2xl text-ink leading-tight">${article.title}</h3>
-          <p class="font-body text-sm text-muted leading-relaxed">${article.summary}</p>
-          ${article.impact ? `
-            <p class="text-xs font-body text-muted italic pt-1">
-              <span class="not-italic font-500 text-ink">Impact:</span> ${article.impact}
-            </p>` : ''}
-          ${article.key_points && article.key_points.length > 0 ? `
-            <div class="flex flex-wrap gap-2 pt-1">
-              ${article.key_points.map(pt => `
-                <span class="text-xs font-body bg-ink text-paper px-2 py-0.5 rounded-sm">${pt}</span>
-              `).join('')}
-            </div>` : ''}
-          ${article.url ? `<div class="pt-2">${readMoreBtn(article.url, 'Read full article')}</div>` : ''}
+
+          ${thumbImageHtml(article.image)}
+
+          <div class="flex-1 min-w-0 space-y-2">
+            <div class="flex flex-wrap items-center gap-2">
+              <span class="tag-pill" style="border-color:${color}; color:${color}">${article.category || 'Tech'}</span>
+              ${article.source ? `<span class="text-xs text-muted font-body">${article.source}</span>` : ''}
+            </div>
+            <h3 class="font-display font-bold text-lg md:text-xl text-ink leading-tight">${article.title}</h3>
+            <p class="font-body text-sm text-muted leading-relaxed">${article.summary}</p>
+            ${article.impact ? `
+              <p class="text-xs font-body text-muted italic">
+                <span class="not-italic font-500 text-ink">Impact:</span> ${article.impact}
+              </p>` : ''}
+            ${article.key_points && article.key_points.length > 0 ? `
+              <div class="flex flex-wrap gap-2 pt-1">
+                ${article.key_points.map(pt =>
+                  `<span class="text-xs font-body bg-ink text-paper px-2 py-0.5 rounded-sm">${pt}</span>`
+                ).join('')}
+              </div>` : ''}
+            ${article.url ? `<div class="pt-1">${readMoreBtn(article.url)}</div>` : ''}
+          </div>
+
         </div>`;
       return div;
     }
@@ -345,7 +433,6 @@
 
         const data = await res.json();
         setProgress(90);
-
         if (!data.articles || data.articles.length === 0) throw new Error('Empty');
 
         document.getElementById('edition-date').textContent = formatDate(data.date) || "Today's Edition";
@@ -358,8 +445,7 @@
             });
         }
 
-        const hero = data.articles[0];
-        document.getElementById('hero-card').innerHTML = buildHeroCard(hero);
+        document.getElementById('hero-card').innerHTML = buildHeroCard(data.articles[0]);
 
         const grid = document.getElementById('articles-grid');
         data.articles.slice(1).forEach((article, i) => {
