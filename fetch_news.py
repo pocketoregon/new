@@ -11,40 +11,39 @@ def fetch_news():
 
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
-    prompt = f"""Today is {today}. You are a senior tech journalist writing a daily AI-generated technology briefing.
+    prompt = f"""Today is {today}. You are a tech news summarizer. Your job is to write short, simple, easy-to-read tech news for everyday people.
 
-Your task: Produce a briefing of exactly 8 top technology news stories for today. These should be plausible, realistic, high-quality summaries of the kinds of major tech stories that would appear in top outlets like The Verge, Wired, TechCrunch, and Ars Technica.
+WRITING RULES (follow strictly):
+- Use simple everyday words. No complex or fancy English.
+- Keep sentences short. Maximum 15 words per sentence.
+- Be direct. Say what happened. No fluff.
+- Write like you are texting a friend who is smart but not a tech expert.
+- Each summary must be 2-3 short sentences only. No more.
+- Key points must be under 8 words each.
+- Impact must be one simple sentence. Max 20 words.
 
-Each article MUST include:
-- title: A compelling headline (max 15 words)
-- summary: A 2–3 sentence informative summary (80–120 words)
-- category: Exactly ONE of these: AI, Hardware, Software, Security, Science, Business, Policy, Startups
-- source: A realistic news source name (e.g., "The Verge", "Wired", "Reuters", "TechCrunch")
-- key_points: An array of exactly 3 short bullet-point strings (each under 12 words)
-- impact: One sentence explaining why this story matters (30–50 words)
+Your task: Write exactly 5 tech news stories from today.
 
-Ordering: Put the single most important/impactful story FIRST — it will be displayed as the hero article.
+You MUST respond with ONLY a valid JSON object. No markdown, no extra text, nothing outside the JSON.
 
-You MUST respond with ONLY a valid JSON object. Do NOT include any markdown fences, preamble, commentary, or text outside the JSON object.
-
-The JSON object must match this exact schema:
+The JSON must match this exact structure:
 {{
   "date": "{today}",
   "generated_at": "{datetime.now(timezone.utc).isoformat()}",
   "edition": "Daily AI Tech Briefing",
   "articles": [
     {{
-      "title": "string",
-      "summary": "string",
-      "category": "string",
-      "source": "string",
-      "key_points": ["string", "string", "string"],
-      "impact": "string"
+      "title": "short simple headline under 10 words",
+      "summary": "2-3 short simple sentences. Easy words only.",
+      "category": "one of: AI, Hardware, Software, Security, Science, Business, Policy, Startups",
+      "source": "e.g. The Verge, Wired, TechCrunch",
+      "key_points": ["under 8 words", "under 8 words", "under 8 words"],
+      "impact": "one simple sentence under 20 words"
     }}
   ]
 }}
 
-Generate exactly 8 articles covering a diverse range of the categories listed above."""
+Generate exactly 5 articles. Put the most important story first. Use simple English throughout."""
 
     print(f"[{today}] Calling Gemini API...")
 
@@ -77,6 +76,7 @@ Generate exactly 8 articles covering a diverse range of the categories listed ab
         if missing_fields:
             raise ValueError(f"Article {i} missing fields: {missing_fields}")
 
+    # Override generated_at with actual current UTC time for accuracy
     news_data["generated_at"] = datetime.now(timezone.utc).isoformat()
 
     with open("news.json", "w", encoding="utf-8") as f:
