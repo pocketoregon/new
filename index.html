@@ -123,16 +123,16 @@
     }
 
 .thumb-image {
-      width: 120px;
-      height: 120px;
+      width: 180px;
+      height: 150px;
       object-fit: cover;
       border-radius: 6px;
       flex-shrink: 0;
     }
 
     .thumb-placeholder {
-      width: 120px;
-      height: 120px;
+      width: 180px;
+      height: 150px;
       background: linear-gradient(135deg, #e8e0d0 0%, #d4c9b8 100%);
       border-radius: 6px;
       flex-shrink: 0;
@@ -384,20 +384,18 @@
         </div>`;
     }
 
-    function buildArticleCard(article, index) {
+function buildArticleCard(article, index) {
       const color = getCategoryColor(article.category);
       const div = document.createElement('div');
       div.className = 'article-card card-stagger animate-fade-up py-5 px-0';
-
       div.innerHTML = `
         <div class="flex gap-4 md:gap-6 items-start">
-
           <div class="hidden md:flex flex-col items-center pt-1 flex-shrink-0" style="width:36px">
             <span class="headline-number">${String(index).padStart(2, '0')}</span>
           </div>
-
-          ${thumbImageHtml(article.image)}
-
+          <div class="flex-shrink-0" style="width:180px; height:150px; overflow:hidden; border-radius:6px;">
+            ${thumbImageHtml(article.image)}
+          </div>
           <div class="flex-1 min-w-0 space-y-2">
             <div class="flex flex-wrap items-center gap-2">
               <span class="tag-pill" style="border-color:${color}; color:${color}">${article.category || 'Tech'}</span>
@@ -417,11 +415,9 @@
               </div>` : ''}
             ${article.url ? `<div class="pt-1">${readMoreBtn(article.url)}</div>` : ''}
           </div>
-
         </div>`;
       return div;
     }
-
     async function loadNews() {
       document.getElementById('loading-state').style.display = 'block';
       setProgress(20);
