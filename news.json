@@ -1,67 +1,111 @@
 {
   "date": "2026-05-26",
-  "generated_at": "2026-05-26T04:34:05.680071+00:00",
-  "edition": "Daily AI Tech Briefing",
+  "generated_at": "2026-05-26T05:00:18.465338+00:00",
+  "edition": "Daily Tech Briefing",
   "articles": [
     {
-      "title": "AI Can Now Write Your Emails",
-      "summary": "New AI tool helps write emails for you. It learns your style. You can send messages faster.",
-      "category": "AI",
-      "source": "TechToday",
+      "title": "Apple Memorial Day deals are here",
+      "summary": "Apple is having sales now. Get discounts on MacBooks and AirPods. iPads are also on sale.",
+      "category": "Business",
+      "source": "Yahoo Entertainment",
+      "url": "https://tech.yahoo.com/deals/breaking-news/article/apple-memorial-day-sales-are-here-we-found-sweet-deals-on-macbooks-airpods-ipads-and-more-134656841.html",
       "key_points": [
-        "AI writes emails",
-        "Learns your style",
-        "Faster messaging"
+        "Apple sales event",
+        "Discounted devices",
+        "Memorial Day deals"
       ],
-      "impact": "This can save lots of time for busy people."
+      "impact": "Save money on Apple products this weekend."
     },
     {
-      "title": "Faster Chip for Gaming Released",
-      "summary": "A new computer chip is out now. It makes games run much smoother. Gamers will love this upgrade.",
+      "title": "New AMD graphics card coming soon?",
+      "summary": "An AMD graphics card was seen. It is the RX 9070 GRE. It might go on sale everywhere soon.",
       "category": "Hardware",
-      "source": "PCGamer",
+      "source": "Videocardz.com",
+      "url": "https://videocardz.com/newz/amd-radeon-rx-9070-gre-may-launch-globally-soon",
       "key_points": [
-        "New gaming chip",
-        "Smoother game play",
-        "Faster graphics"
+        "AMD RX 9070 GRE",
+        "Global launch possible",
+        "New graphics card"
       ],
-      "impact": "Playing video games will be more fun and look better."
+      "impact": "A new AMD graphics card could be available globally."
     },
     {
-      "title": "App Update Fixes Annoying Bugs",
-      "summary": "Your favorite app got an update. It fixes problems you may have had. Things should work better now.",
+      "title": "Sony's wearable AC is here",
+      "summary": "Sony has a new tiny AC. It is called Reon Pocket Pro Plus. It will keep you cool in summer.",
+      "category": "Hardware",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/davidphelan/2026/05/24/sony-launches-reon-pocket-pro-plus-wearable-air-conditioner-in-time-for-summer-heatwaves/",
+      "key_points": [
+        "Sony wearable AC",
+        "Keeps you cool",
+        "Summer heatwave solution"
+      ],
+      "impact": "Sony's new device helps you beat the summer heat."
+    },
+    {
+      "title": "James Bond game footage leaks",
+      "summary": "A new James Bond game is coming. Some parts of the game leaked online. The game maker showed official footage too.",
       "category": "Software",
-      "source": "AppReviewer",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/007-first-light-leak",
       "key_points": [
-        "App bug fixes",
-        "Improved performance",
-        "Easier to use"
+        "James Bond game",
+        "Opening mission shown",
+        "Footage leaked"
       ],
-      "impact": "Using the app will be less frustrating and more reliable."
+      "impact": "New James Bond game details emerge after leaks."
     },
     {
-      "title": "Hackers Target Small Businesses",
-      "summary": "Cyber attackers are focusing on small shops. They want their customer data. Be careful with your info online.",
-      "category": "Security",
-      "source": "CyberNews",
+      "title": "Xreal thinks smart glasses are ready",
+      "summary": "Xreal makes smart glasses. They partner with Google. The company thinks the tech is now good enough.",
+      "category": "Hardware",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
       "key_points": [
-        "Hackers target small biz",
-        "Stealing customer data",
-        "Online safety needed"
+        "Smart glasses improved",
+        "Xreal confident",
+        "Google partner"
       ],
-      "impact": "Small businesses and their customers need to be extra careful online."
+      "impact": "Smart glasses technology may finally be ready for prime time."
     },
     {
-      "title": "New Robot Explores Mars",
-      "summary": "A new robot is exploring Mars now. It looks for signs of life. Scientists hope for new discoveries.",
-      "category": "Science",
-      "source": "SpaceDaily",
+      "title": "Google Pixel 11 'Glow' feature maybe not real",
+      "summary": "People thought they saw Pixel 11's new feature. It was shown at a Google event. It might not be real.",
+      "category": "Hardware",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/05/24/pixel-11-glow-io-wink/",
       "key_points": [
-        "New robot on Mars",
-        "Searching for life",
-        "Future space study"
+        "Pixel 11 feature",
+        "'Glow' might be fake",
+        "Google event sighting"
       ],
-      "impact": "This mission could teach us if life exists elsewhere in space."
+      "impact": "A rumored Pixel 11 feature might be a misunderstanding."
+    },
+    {
+      "title": "AirPods controls could get easier",
+      "summary": "Apple wants to improve AirPods. Controls might be less confusing. This change is not through an app.",
+      "category": "Hardware",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/apple-is-reportedly-making-airpods-less-frustrating-to-control-2000763000",
+      "key_points": [
+        "Easier AirPods controls",
+        "Less frustrating",
+        "Apple working on it"
+      ],
+      "impact": "AirPods might become easier to control soon."
+    },
+    {
+      "title": "Luxury car comparison: V6 vs V8",
+      "summary": "Two fast cars are for sale. One has a V6 engine, the other a V8. The V8 is much more expensive.",
+      "category": "Hardware",
+      "source": "Jalopnik",
+      "url": "https://www.jalopnik.com/2178939/heavily-depreciated-amg-gt53-or-gt63-v8-for-sale/",
+      "key_points": [
+        "Expensive car choice",
+        "V6 versus V8",
+        "Price difference noted"
+      ],
+      "impact": "Choosing between a powerful V8 and a more affordable V6 car."
     }
   ]
 }
