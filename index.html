@@ -1,853 +1,746 @@
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>AI·Brief — Daily Tech Intelligence</title>
-
   <script src="https://cdn.tailwindcss.com"></script>
-
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet" />
-
   <style>
-    *{
-      box-sizing:border-box;
-      margin:0;
-      padding:0;
-    }
+    * { box-sizing: border-box; }
 
-    html{
-      scroll-behavior:smooth;
-    }
-
-    body{
-      background:#0a0a0a;
-      color:#e8e8e8;
-      font-family:'Inter',sans-serif;
-      min-height:100vh;
-    }
-
-    img{
-      max-width:100%;
-      display:block;
+    body {
+      background: #0a0a0a;
+      color: #e8e8e8;
+      font-family: 'Inter', sans-serif;
+      min-height: 100vh;
     }
 
     /* Scrollbar */
-
-    ::-webkit-scrollbar{
-      width:4px;
-    }
-
-    ::-webkit-scrollbar-track{
-      background:#0a0a0a;
-    }
-
-    ::-webkit-scrollbar-thumb{
-      background:#333;
-      border-radius:2px;
-    }
+    ::-webkit-scrollbar { width: 4px; }
+    ::-webkit-scrollbar-track { background: #0a0a0a; }
+    ::-webkit-scrollbar-thumb { background: #333; border-radius: 2px; }
 
     /* Header */
-
-    .site-header{
-      position:sticky;
-      top:0;
-      z-index:50;
-      background:rgba(10,10,10,0.92);
-      backdrop-filter:blur(12px);
-      border-bottom:1px solid #1e1e1e;
+    .site-header {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: rgba(10,10,10,0.92);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid #1e1e1e;
     }
 
-    .nav-link{
-      font-size:0.78rem;
-      font-weight:500;
-      letter-spacing:0.06em;
-      text-transform:uppercase;
-      color:#888;
-      padding:4px 0;
-      border-bottom:2px solid transparent;
-      transition:all 0.2s;
-      cursor:pointer;
-      background:none;
-      border-top:none;
-      border-left:none;
-      border-right:none;
+    .nav-link {
+      font-size: 0.78rem;
+      font-weight: 500;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: #888;
+      padding: 4px 0;
+      border-bottom: 2px solid transparent;
+      transition: all 0.2s;
+      cursor: pointer;
     }
 
-    .nav-link:hover{
-      color:#e8e8e8;
-    }
-
-    .nav-link.active{
-      color:#e8e8e8;
-      border-bottom-color:#e8384f;
-    }
+    .nav-link:hover { color: #e8e8e8; }
+    .nav-link.active { color: #e8e8e8; border-bottom-color: #e8384f; }
 
     /* Category pill */
-
-    .cat-pill{
-      font-size:0.6rem;
-      font-weight:600;
-      letter-spacing:0.1em;
-      text-transform:uppercase;
-      padding:3px 8px;
-      border-radius:3px;
-      display:inline-block;
+    .cat-pill {
+      font-size: 0.6rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      padding: 3px 8px;
+      border-radius: 3px;
+      display: inline-block;
     }
 
     /* Hero */
-
-    .hero-img{
-      width:100%;
-      height:420px;
-      object-fit:cover;
-      object-position:center;
-      display:block;
-      background:#111;
+    .hero-img {
+      width: 100%;
+      height: 420px;
+      object-fit: cover;
+      display: block;
     }
 
-    .hero-img-placeholder{
-      width:100%;
-      height:420px;
-      background:linear-gradient(135deg,#1a1a2e 0%,#16213e 50%,#0f3460 100%);
-      display:flex;
-      align-items:center;
-      justify-content:center;
+    .hero-img-placeholder {
+      width: 100%;
+      height: 420px;
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
 
-    /* Article rows */
-
-    .article-row{
-      display:grid;
-      grid-template-columns:220px 1fr;
-      gap:20px;
-      padding:24px 0;
-      border-bottom:1px solid #1e1e1e;
-      align-items:start;
+    /* Article cards */
+    .article-row {
+      display: grid;
+      grid-template-columns: 220px 1fr;
+      gap: 20px;
+      padding: 24px 0;
+      border-bottom: 1px solid #1e1e1e;
+      align-items: start;
     }
 
-    .article-row:last-child{
-      border-bottom:none;
+    .article-row:last-child { border-bottom: none; }
+
+    .article-row-img {
+      width: 220px;
+      height: 150px;
+      object-fit: cover;
+      border-radius: 6px;
+      display: block;
     }
 
-    .article-row-img{
-      width:220px;
-      height:150px;
-      object-fit:cover;
-      object-position:center;
-      border-radius:6px;
-      display:block;
-      background:#111;
-      flex-shrink:0;
-    }
-
-    .article-row-placeholder{
-      width:220px;
-      height:150px;
-      background:#1a1a1a;
-      border-radius:6px;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      flex-shrink:0;
+    .article-row-placeholder {
+      width: 220px;
+      height: 150px;
+      background: #1a1a1a;
+      border-radius: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
 
     /* Grid cards */
-
-    .grid-card{
-      background:#111;
-      border:1px solid #1e1e1e;
-      border-radius:8px;
-      overflow:hidden;
-      transition:border-color 0.2s,transform 0.2s;
+    .grid-card {
+      background: #111;
+      border: 1px solid #1e1e1e;
+      border-radius: 8px;
+      overflow: hidden;
+      transition: border-color 0.2s, transform 0.2s;
     }
 
-    .grid-card:hover{
-      border-color:#333;
-      transform:translateY(-2px);
+    .grid-card:hover {
+      border-color: #333;
+      transform: translateY(-2px);
     }
 
-    .grid-card-img{
-      width:100%;
-      height:180px;
-      object-fit:cover;
-      object-position:center;
-      display:block;
-      background:#111;
+    .grid-card-img {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+      display: block;
     }
 
-    .grid-card-placeholder{
-      width:100%;
-      height:180px;
-      background:#1a1a1a;
-      display:flex;
-      align-items:center;
-      justify-content:center;
+    .grid-card-placeholder {
+      width: 100%;
+      height: 180px;
+      background: #1a1a1a;
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
 
     /* Mini cards */
-
-    .mini-card{
-      display:flex;
-      gap:14px;
-      align-items:flex-start;
-      padding:16px 0;
-      border-bottom:1px solid #1a1a1a;
+    .mini-card {
+      display: flex;
+      gap: 14px;
+      align-items: start;
+      padding: 16px 0;
+      border-bottom: 1px solid #1a1a1a;
     }
 
-    .mini-card:last-child{
-      border-bottom:none;
+    .mini-card:last-child { border-bottom: none; }
+
+    .mini-card-img {
+      width: 72px;
+      height: 60px;
+      object-fit: cover;
+      border-radius: 4px;
+      flex-shrink: 0;
     }
 
-    .mini-card-img{
-      width:72px;
-      height:60px;
-      object-fit:cover;
-      object-position:center;
-      border-radius:4px;
-      flex-shrink:0;
-      background:#111;
+    .mini-card-placeholder {
+      width: 72px;
+      height: 60px;
+      background: #1a1a1a;
+      border-radius: 4px;
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
 
-    .mini-card-placeholder{
-      width:72px;
-      height:60px;
-      background:#1a1a1a;
-      border-radius:4px;
-      flex-shrink:0;
-      display:flex;
-      align-items:center;
-      justify-content:center;
+    /* Read more */
+    .read-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      font-size: 0.7rem;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: #e8384f;
+      text-decoration: none;
+      transition: gap 0.2s;
     }
 
-    /* Read button */
+    .read-btn:hover { gap: 8px; }
 
-    .read-btn{
-      display:inline-flex;
-      align-items:center;
-      gap:5px;
-      font-size:0.7rem;
-      font-weight:600;
-      letter-spacing:0.06em;
-      text-transform:uppercase;
-      color:#e8384f;
-      text-decoration:none;
-      transition:gap 0.2s;
-    }
-
-    .read-btn:hover{
-      gap:8px;
-    }
-
-    .read-btn svg{
-      width:10px;
-      height:10px;
+    .read-btn svg {
+      width: 10px;
+      height: 10px;
     }
 
     /* Section label */
-
-    .section-label{
-      font-size:0.65rem;
-      font-weight:600;
-      letter-spacing:0.15em;
-      text-transform:uppercase;
-      color:#555;
-      padding-bottom:12px;
-      border-bottom:1px solid #1e1e1e;
-      margin-bottom:0;
+    .section-label {
+      font-size: 0.65rem;
+      font-weight: 600;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: #555;
+      padding-bottom: 12px;
+      border-bottom: 1px solid #1e1e1e;
+      margin-bottom: 0;
     }
 
     /* Article number */
-
-    .art-num{
-      font-family:'Playfair Display',serif;
-      font-size:2.5rem;
-      font-weight:900;
-      color:#222;
-      line-height:1;
-      user-select:none;
+    .art-num {
+      font-family: 'Playfair Display', serif;
+      font-size: 2.5rem;
+      font-weight: 900;
+      color: #222;
+      line-height: 1;
+      user-select: none;
     }
 
     /* Skeleton */
-
-    .skel{
-      background:linear-gradient(
-        90deg,
-        #1a1a1a 25%,
-        #222 50%,
-        #1a1a1a 75%
-      );
-
-      background-size:200% 100%;
-      animation:shimmer 1.4s infinite;
-      border-radius:4px;
+    .skel {
+      background: linear-gradient(90deg, #1a1a1a 25%, #222 50%, #1a1a1a 75%);
+      background-size: 200% 100%;
+      animation: shimmer 1.4s infinite;
+      border-radius: 4px;
     }
 
-    @keyframes shimmer{
-      0%{
-        background-position:200% 0;
-      }
-
-      100%{
-        background-position:-200% 0;
-      }
+    @keyframes shimmer {
+      0% { background-position: 200% 0; }
+      100% { background-position: -200% 0; }
     }
 
-    /* Progress */
-
-    #progress{
-      position:fixed;
-      top:0;
-      left:0;
-      height:2px;
-      background:#e8384f;
-      z-index:999;
-      transition:width 0.3s ease;
-      width:0%;
+    /* Progress bar */
+    #progress {
+      position: fixed;
+      top: 0; left: 0;
+      height: 2px;
+      background: #e8384f;
+      z-index: 999;
+      transition: width 0.3s ease;
+      width: 0%;
     }
 
-    /* Search */
-
-    #search-box{
-      position:absolute;
-      top:100%;
-      right:0;
-      background:#111;
-      border:1px solid #2a2a2a;
-      border-radius:8px;
-      padding:12px;
-      width:280px;
-      display:none;
-      margin-top:8px;
+    /* Search box */
+    #search-box {
+      position: absolute;
+      top: 100%;
+      right: 0;
+      background: #111;
+      border: 1px solid #2a2a2a;
+      border-radius: 8px;
+      padding: 12px;
+      width: 280px;
+      display: none;
+      margin-top: 8px;
     }
 
-    #search-box.open{
-      display:block;
+    #search-box.open { display: block; }
+
+    #search-input {
+      width: 100%;
+      background: #1a1a1a;
+      border: 1px solid #2a2a2a;
+      border-radius: 6px;
+      padding: 8px 12px;
+      color: #e8e8e8;
+      font-size: 13px;
+      outline: none;
     }
 
-    #search-input{
-      width:100%;
-      background:#1a1a1a;
-      border:1px solid #2a2a2a;
-      border-radius:6px;
-      padding:8px 12px;
-      color:#e8e8e8;
-      font-size:13px;
-      outline:none;
+    #search-input:focus { border-color: #e8384f; }
+
+    /* Fade up */
+    .fade-up {
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeUp 0.5s ease forwards;
     }
 
-    #search-input:focus{
-      border-color:#e8384f;
+    @keyframes fadeUp {
+      to { opacity: 1; transform: translateY(0); }
     }
 
-    /* Fade animation */
-
-    .fade-up{
-      opacity:0;
-      transform:translateY(20px);
-      animation:fadeUp 0.5s ease forwards;
-    }
-
-    @keyframes fadeUp{
-      to{
-        opacity:1;
-        transform:translateY(0);
-      }
-    }
-
-    /* Responsive */
-
-    @media (max-width:768px){
-
-      .article-row{
-        grid-template-columns:1fr;
-      }
-
-      .article-row-img,
-      .article-row-placeholder{
-        width:100%;
-        height:220px;
-      }
-
-      .hero-img,
-      .hero-img-placeholder{
-        height:260px;
-      }
-
-      .grid-card-img{
-        height:220px;
-      }
-
-      #hero-grid{
-        grid-template-columns:1fr !important;
-      }
-
-      #nav-tabs{
-        overflow-x:auto;
-        white-space:nowrap;
-      }
-
-      .art-num{
-        font-size:1.8rem;
-      }
-    }
+    .delay-1 { animation-delay: 0.1s; }
+    .delay-2 { animation-delay: 0.2s; }
+    .delay-3 { animation-delay: 0.3s; }
+    .delay-4 { animation-delay: 0.4s; }
+    .delay-5 { animation-delay: 0.5s; }
+    .delay-6 { animation-delay: 0.6s; }
+    .delay-7 { animation-delay: 0.7s; }
   </style>
 </head>
-
 <body>
 
 <div id="progress"></div>
 
+<!-- HEADER -->
 <header class="site-header">
-
   <div class="max-w-5xl mx-auto px-5">
 
-    <!-- Top -->
-
+    <!-- Top bar -->
     <div class="flex items-center justify-between py-3 border-b border-neutral-900">
-
       <div>
-
-        <div style="font-size:0.6rem; letter-spacing:0.15em; text-transform:uppercase; color:#555; margin-bottom:2px;">
-          Daily Intelligence
-        </div>
-
-        <div style="font-family:'Playfair Display',serif; font-size:1.4rem; font-weight:900;">
+        <div style="font-size:0.6rem; letter-spacing:0.15em; text-transform:uppercase; color:#555; margin-bottom:2px;">Daily Intelligence</div>
+        <div style="font-family:'Playfair Display',serif; font-size:1.4rem; font-weight:900; letter-spacing:-0.02em;">
           AI<span style="color:#e8384f;">·</span>Brief
         </div>
-
       </div>
-
       <div class="flex items-center gap-4">
-
-        <div id="header-date"
-             style="font-size:0.7rem; color:#555; letter-spacing:0.05em; text-transform:uppercase;">
+        <div id="header-date" style="font-size:0.7rem; color:#555; letter-spacing:0.05em; text-transform:uppercase;"></div>
+        <div id="header-count" style="font-size:0.7rem; color:#555;"></div>
+        <div style="position:relative;">
+          <button onclick="toggleSearch()" style="background:none; border:none; color:#888; cursor:pointer; padding:4px;" aria-label="Search">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+            </svg>
+          </button>
+          <div id="search-box">
+            <input id="search-input" type="text" placeholder="Search articles..." oninput="filterArticles(this.value)" />
+            <div id="search-results" style="margin-top:8px; font-size:12px; color:#666;"></div>
+          </div>
         </div>
-
-        <div id="header-count"
-             style="font-size:0.7rem; color:#555;">
-        </div>
-
+        <button style="background:none; border:none; color:#888; cursor:pointer; padding:4px;" aria-label="Profile">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.6-7 8-7s8 3 8 7"/>
+          </svg>
+        </button>
       </div>
-
     </div>
 
-    <!-- Tabs -->
-
+    <!-- Nav tabs -->
     <div class="flex items-center gap-6 py-2" id="nav-tabs">
-
       <button class="nav-link active" onclick="filterCategory('all', this)">All</button>
       <button class="nav-link" onclick="filterCategory('AI', this)">AI</button>
       <button class="nav-link" onclick="filterCategory('Business', this)">Business</button>
       <button class="nav-link" onclick="filterCategory('Policy', this)">Policy</button>
       <button class="nav-link" onclick="filterCategory('Hardware', this)">Hardware</button>
       <button class="nav-link" onclick="filterCategory('Software', this)">Software</button>
-
+      <button class="nav-link" onclick="filterCategory('Security', this)">Security</button>
+      <button class="nav-link" onclick="filterCategory('Startups', this)">Startups</button>
     </div>
 
   </div>
-
 </header>
 
+<!-- MAIN -->
 <main class="max-w-5xl mx-auto px-5 py-8">
 
-  <section id="hero-section"></section>
-
-  <div class="section-label mt-10 mb-2">
-    Further Reading
+  <!-- Loading -->
+  <div id="loading">
+    <div style="border-radius:8px; overflow:hidden; margin-bottom:24px;">
+      <div class="skel" style="height:420px; border-radius:0;"></div>
+      <div style="padding:20px; background:#111; display:grid; grid-template-columns:1fr 1fr; gap:20px;">
+        <div>
+          <div class="skel" style="height:12px; width:60px; margin-bottom:12px;"></div>
+          <div class="skel" style="height:28px; width:100%; margin-bottom:8px;"></div>
+          <div class="skel" style="height:48px; width:100%;"></div>
+        </div>
+        <div>
+          <div class="skel" style="height:12px; width:80px; margin-bottom:12px;"></div>
+          <div class="skel" style="height:12px; width:100%; margin-bottom:8px;"></div>
+          <div class="skel" style="height:12px; width:90%; margin-bottom:8px;"></div>
+          <div class="skel" style="height:12px; width:80%;"></div>
+        </div>
+      </div>
+    </div>
+    <div style="display:grid; grid-template-columns:220px 1fr; gap:20px; padding:24px 0; border-bottom:1px solid #1e1e1e;">
+      <div class="skel" style="height:150px; border-radius:6px;"></div>
+      <div>
+        <div class="skel" style="height:12px; width:80px; margin-bottom:12px;"></div>
+        <div class="skel" style="height:22px; width:100%; margin-bottom:8px;"></div>
+        <div class="skel" style="height:40px; width:90%;"></div>
+      </div>
+    </div>
   </div>
 
-  <div id="rows-section"></div>
+  <!-- Error -->
+  <div id="error" style="display:none; text-align:center; padding:80px 0;">
+    <div style="font-family:'Playfair Display',serif; font-size:5rem; font-weight:900; color:#e8384f; line-height:1;">404</div>
+    <div style="font-size:1rem; color:#555; margin-top:12px;">Today's briefing hasn't loaded yet.</div>
+    <div style="font-size:0.8rem; color:#444; margin-top:8px;">Run the GitHub Actions workflow to generate today's news.</div>
+  </div>
 
-  <div id="grid-section" class="mt-10"></div>
+  <!-- Content -->
+  <div id="content" style="display:none;">
+
+    <!-- HERO -->
+    <section id="hero-section" class="fade-up" style="margin-bottom:40px;"></section>
+
+    <!-- FURTHER READING -->
+    <div class="section-label" style="margin-bottom:0;">Further Reading</div>
+    <div id="rows-section"></div>
+
+    <!-- GRID (articles 5-6) -->
+    <div id="grid-section" style="margin-top:32px;"></div>
+
+    <!-- MINI (articles 7-8) -->
+    <div id="mini-section" style="margin-top:32px;"></div>
+
+  </div>
 
 </main>
 
+<!-- FOOTER -->
+<footer style="border-top:1px solid #1a1a1a; margin-top:40px; padding:24px 0;">
+  <div class="max-w-5xl mx-auto px-5 flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
+    <div>
+      <div style="font-family:'Playfair Display',serif; font-size:1rem; font-weight:900; margin-bottom:4px;">
+        AI<span style="color:#e8384f;">·</span>Brief
+      </div>
+      <div style="font-size:0.7rem; color:#444;">Real news simplified by Gemini AI · Refreshes daily at midnight UTC</div>
+    </div>
+    <div class="flex items-center gap-6">
+      <span style="font-size:0.7rem; color:#444; cursor:pointer; hover:color:#888;">About</span>
+      <span style="font-size:0.7rem; color:#444; cursor:pointer;">Terms</span>
+      <span style="font-size:0.7rem; color:#444; cursor:pointer;">Privacy</span>
+      <span style="font-size:0.7rem; color:#444; cursor:pointer;">Archive</span>
+      <span id="footer-updated" style="font-size:0.7rem; color:#333;"></span>
+    </div>
+  </div>
+</footer>
+
 <script>
+  const prog = document.getElementById('progress');
+  let allArticles = [];
+  let activeCategory = 'all';
 
-const demoArticles = [
+  function setProgress(p) { prog.style.width = p + '%'; }
 
-  {
-    category:'Software',
-    source:'Seroundtable',
-    title:'Google Search Update Rolled Out',
-    summary:'Google updated its search system. Many sites felt the change.',
-    image:'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1400&auto=format&fit=crop',
-    url:'#'
-  },
-
-  {
-    category:'Hardware',
-    source:'Wccftech',
-    title:'AMD Next Chips Due 2028',
-    summary:'New AMD CPUs will use tiny factory process.',
-    image:'https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1400&auto=format&fit=crop',
-    url:'#'
-  },
-
-  {
-    category:'Software',
-    source:'Push Square',
-    title:'Metal Gear Solid 4 Coming to PS5',
-    summary:'MGS4 may return on modern consoles.',
-    image:'https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?q=80&w=1400&auto=format&fit=crop',
-    url:'#'
-  },
-
-  {
-    category:'Hardware',
-    source:'9to5google',
-    title:'Samsung Foldable Phone Name Leaks',
-    summary:'New Samsung foldable naming details leaked.',
-    image:'https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=1400&auto=format&fit=crop',
-    url:'#'
-  },
-
-  {
-    category:'Business',
-    source:'Cars',
-    title:'Racer Not Worried by Car Rules',
-    summary:'GT3 race car rules continue evolving.',
-    image:'https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?q=80&w=1400&auto=format&fit=crop',
-    url:'#'
-  },
-
-  {
-    category:'Policy',
-    source:'Linux',
-    title:'California Age Law Might Skip Linux',
-    summary:'Open-source systems may avoid restrictions.',
-    image:'https://images.unsplash.com/photo-1517336714739-489689fd1ca8?q=80&w=1400&auto=format&fit=crop',
-    url:'#'
+  function formatDate(d) {
+    if (!d) return '';
+    const parts = d.split('-');
+    if (parts.length === 3) {
+      return new Date(parts[0], parts[1]-1, parts[2])
+        .toLocaleDateString('en-US', { weekday:'long', year:'numeric', month:'long', day:'numeric' });
+    }
+    return d;
   }
 
-];
+  const catColors = {
+    'AI':'#e8384f','Hardware':'#3b82f6','Software':'#8b5cf6',
+    'Security':'#f59e0b','Science':'#10b981','Business':'#6b7280',
+    'Policy':'#ec4899','Startups':'#06b6d4','Technology':'#6b7280'
+  };
 
-let allArticles = demoArticles;
+  const catBg = {
+    'AI':'rgba(232,56,79,0.15)','Hardware':'rgba(59,130,246,0.15)',
+    'Software':'rgba(139,92,246,0.15)','Security':'rgba(245,158,11,0.15)',
+    'Science':'rgba(16,185,129,0.15)','Business':'rgba(107,114,128,0.15)',
+    'Policy':'rgba(236,72,153,0.15)','Startups':'rgba(6,182,212,0.15)',
+    'Technology':'rgba(107,114,128,0.15)'
+  };
 
-const catColors = {
-  AI:'#e8384f',
-  Hardware:'#3b82f6',
-  Software:'#8b5cf6',
-  Business:'#6b7280',
-  Policy:'#ec4899'
-};
+  function catPill(cat) {
+    const c = catColors[cat] || '#6b7280';
+    const bg = catBg[cat] || 'rgba(107,114,128,0.15)';
+    return `<span class="cat-pill" style="background:${bg}; color:${c};">${cat||'Tech'}</span>`;
+  }
 
-const catBg = {
-  AI:'rgba(232,56,79,0.15)',
-  Hardware:'rgba(59,130,246,0.15)',
-  Software:'rgba(139,92,246,0.15)',
-  Business:'rgba(107,114,128,0.15)',
-  Policy:'rgba(236,72,153,0.15)'
-};
+  function readBtn(url, label) {
+    if (!url) return '';
+    label = label || 'Read Article';
+    return `<a href="${url}" target="_blank" rel="noopener noreferrer" class="read-btn">
+      ${label}
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+        <path d="M7 17L17 7M7 7h10v10"/>
+      </svg>
+    </a>`;
+  }
 
-function catPill(cat){
+  function heroImg(img) {
+    if (!img) return `<div class="hero-img-placeholder">
+      <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#333" stroke-width="1.5">
+        <rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/>
+        <polyline points="21 15 16 10 5 21"/>
+      </svg></div>`;
+    return `<img src="${img}" class="hero-img" alt="Hero"
+      onerror="this.parentElement.innerHTML='<div class=hero-img-placeholder style=height:420px><svg width=48 height=48 viewBox=\\'0 0 24 24\\' fill=none stroke=#333 stroke-width=1.5><rect x=3 y=3 width=18 height=18 rx=2/><circle cx=8.5 cy=8.5 r=1.5/><polyline points=\\'21 15 16 10 5 21\\'/></svg></div>'"
+    />`;
+  }
 
-  return `
-    <span class="cat-pill"
-      style="
-        background:${catBg[cat]};
-        color:${catColors[cat]};
-      ">
-      ${cat}
-    </span>
-  `;
-}
+  function rowImg(img) {
+    if (!img) return `<div class="article-row-placeholder">
+      <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#333" stroke-width="1.5">
+        <rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/>
+        <polyline points="21 15 16 10 5 21"/>
+      </svg></div>`;
+    return `<img src="${img}" class="article-row-img" alt="Thumbnail"
+      onerror="this.outerHTML='<div class=article-row-placeholder><svg width=28 height=28 viewBox=\\'0 0 24 24\\' fill=none stroke=#333 stroke-width=1.5><rect x=3 y=3 width=18 height=18 rx=2/><circle cx=8.5 cy=8.5 r=1.5/><polyline points=\\'21 15 16 10 5 21\\'/></svg></div>'"
+    />`;
+  }
 
-function heroImg(img){
+  function gridImg(img) {
+    if (!img) return `<div class="grid-card-placeholder">
+      <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#333" stroke-width="1.5">
+        <rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/>
+        <polyline points="21 15 16 10 5 21"/>
+      </svg></div>`;
+    return `<img src="${img}" class="grid-card-img" alt="Card image"
+      onerror="this.outerHTML='<div class=grid-card-placeholder><svg width=28 height=28 viewBox=\\'0 0 24 24\\' fill=none stroke=#333 stroke-width=1.5><rect x=3 y=3 width=18 height=18 rx=2/><circle cx=8.5 cy=8.5 r=1.5/><polyline points=\\'21 15 16 10 5 21\\'/></svg></div>'"
+    />`;
+  }
 
-  return `
-    <img
-      src="${img}"
-      class="hero-img"
-      loading="lazy"
-      alt=""
-    />
-  `;
-}
+  function miniImg(img) {
+    if (!img) return `<div class="mini-card-placeholder">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#333" stroke-width="1.5">
+        <rect x="3" y="3" width="18" height="18" rx="2"/>
+      </svg></div>`;
+    return `<img src="${img}" class="mini-card-img" alt="Mini thumbnail"
+      onerror="this.outerHTML='<div class=mini-card-placeholder></div>'"
+    />`;
+  }
 
-function rowImg(img){
-
-  return `
-    <img
-      src="${img}"
-      class="article-row-img"
-      loading="lazy"
-      alt=""
-    />
-  `;
-}
-
-function gridImg(img){
-
-  return `
-    <img
-      src="${img}"
-      class="grid-card-img"
-      loading="lazy"
-      alt=""
-    />
-  `;
-}
-
-function buildHero(a){
-
-  return `
-
-    <div style="
-      border-radius:8px;
-      overflow:hidden;
-      border:1px solid #1e1e1e;
-    ">
-
-      ${heroImg(a.image)}
-
-      <div
-        id="hero-grid"
-        style="
-          background:#111;
-          display:grid;
-          grid-template-columns:1fr 1fr;
-          gap:24px;
-          padding:24px;
-        ">
-
-        <div>
-
-          <div style="
-            display:flex;
-            align-items:center;
-            gap:8px;
-            margin-bottom:12px;
-          ">
-            ${catPill(a.category)}
-            <span style="font-size:0.7rem; color:#555;">
-              ${a.source}
-            </span>
+  function buildHero(a) {
+    const color = catColors[a.category] || '#6b7280';
+    return `
+      <div style="border-radius:8px; overflow:hidden; border:1px solid #1e1e1e;">
+        ${heroImg(a.image)}
+        <div style="background:#111; display:grid; grid-template-columns:1fr 1fr; gap:24px; padding:24px;">
+          <div>
+            <div style="display:flex; align-items:center; gap:8px; margin-bottom:12px;">
+              ${catPill(a.category)}
+              ${a.source ? `<span style="font-size:0.7rem; color:#555;">${a.source}</span>` : ''}
+            </div>
+            <h1 style="font-family:'Playfair Display',serif; font-size:1.7rem; font-weight:900; line-height:1.2; margin-bottom:12px; color:#f0f0f0;">${a.title}</h1>
+            <p style="font-size:0.82rem; color:#888; line-height:1.6; margin-bottom:16px;">${a.summary}</p>
+            ${a.impact ? `
+              <div style="border-left:2px solid ${color}; padding-left:12px; margin-bottom:16px;">
+                <div style="font-size:0.6rem; font-weight:600; letter-spacing:0.1em; text-transform:uppercase; color:${color}; margin-bottom:4px;">Why it matters</div>
+                <div style="font-size:0.78rem; color:#aaa; font-style:italic;">${a.impact}</div>
+              </div>` : ''}
+            ${readBtn(a.url, 'Read Full Article')}
           </div>
-
-          <h1 style="
-            font-family:'Playfair Display',serif;
-            font-size:1.7rem;
-            font-weight:900;
-            line-height:1.2;
-            margin-bottom:12px;
-            color:#f0f0f0;
-          ">
-            ${a.title}
-          </h1>
-
-          <p style="
-            font-size:0.82rem;
-            color:#888;
-            line-height:1.6;
-            margin-bottom:16px;
-          ">
-            ${a.summary}
-          </p>
-
-          <a href="${a.url}" class="read-btn">
-            Read Full Article
-          </a>
-
+          <div>
+            ${a.key_points && a.key_points.length > 0 ? `
+              <div style="font-size:0.6rem; font-weight:600; letter-spacing:0.12em; text-transform:uppercase; color:#555; margin-bottom:12px; display:flex; align-items:center; gap:6px;">
+                <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+                Key Points
+              </div>
+              <ul style="list-style:none; padding:0; margin:0; space-y:8px;">
+                ${a.key_points.map(pt => `
+                  <li style="display:flex; align-items:start; gap:8px; margin-bottom:10px;">
+                    <span style="width:5px; height:5px; border-radius:50%; background:${color}; flex-shrink:0; margin-top:6px; display:block;"></span>
+                    <span style="font-size:0.78rem; color:#aaa; line-height:1.5;">${pt}</span>
+                  </li>`).join('')}
+              </ul>` : ''}
+          </div>
         </div>
+      </div>`;
+  }
 
-      </div>
-
-    </div>
-
-  `;
-}
-
-function buildRow(a, num){
-
-  return `
-
-    <div class="article-row fade-up">
-
-      <div style="
-        display:flex;
-        gap:16px;
-        align-items:flex-start;
-      ">
-
-        <span class="art-num">
-          ${String(num).padStart(2,'0')}
-        </span>
-
-        ${rowImg(a.image)}
-
-      </div>
-
-      <div>
-
-        <div style="
-          display:flex;
-          align-items:center;
-          gap:8px;
-          margin-bottom:8px;
-        ">
-          ${catPill(a.category)}
+  function buildRow(a, num) {
+    return `
+      <div class="article-row fade-up">
+        <div style="display:flex; gap:16px; align-items:start;">
+          <span class="art-num">${String(num).padStart(2,'0')}</span>
+          ${rowImg(a.image)}
         </div>
-
-        <h3 style="
-          font-family:'Playfair Display',serif;
-          font-size:1.1rem;
-          font-weight:700;
-          line-height:1.3;
-          margin-bottom:8px;
-          color:#f0f0f0;
-        ">
-          ${a.title}
-        </h3>
-
-        <p style="
-          font-size:0.78rem;
-          color:#777;
-          line-height:1.6;
-          margin-bottom:10px;
-        ">
-          ${a.summary}
-        </p>
-
-        <a href="${a.url}" class="read-btn">
-          Read Article
-        </a>
-
-      </div>
-
-    </div>
-
-  `;
-}
-
-function buildGridCard(a, num){
-
-  return `
-
-    <div class="grid-card fade-up">
-
-      ${gridImg(a.image)}
-
-      <div style="padding:16px;">
-
-        <div style="
-          display:flex;
-          align-items:center;
-          justify-content:space-between;
-          margin-bottom:8px;
-        ">
-
-          <span class="art-num" style="font-size:1.6rem;">
-            ${String(num).padStart(2,'0')}
-          </span>
-
-          ${catPill(a.category)}
-
+        <div>
+          <div style="display:flex; align-items:center; gap:8px; margin-bottom:8px;">
+            ${catPill(a.category)}
+            ${a.source ? `<span style="font-size:0.7rem; color:#555;">${a.source}</span>` : ''}
+          </div>
+          <h3 style="font-family:'Playfair Display',serif; font-size:1.1rem; font-weight:700; line-height:1.3; margin-bottom:8px; color:#f0f0f0;">${a.title}</h3>
+          <p style="font-size:0.78rem; color:#777; line-height:1.6; margin-bottom:10px;">${a.summary}</p>
+          ${a.impact ? `<p style="font-size:0.72rem; color:#666; font-style:italic; margin-bottom:10px;"><span style="color:#aaa; font-style:normal; font-weight:500;">Impact:</span> ${a.impact}</p>` : ''}
+          ${a.key_points && a.key_points.length > 0 ? `
+            <div style="display:flex; flex-wrap:wrap; gap:6px; margin-bottom:10px;">
+              ${a.key_points.map(pt => `<span style="font-size:0.65rem; background:#1a1a1a; color:#777; border:1px solid #2a2a2a; padding:2px 8px; border-radius:3px;">${pt}</span>`).join('')}
+            </div>` : ''}
+          ${readBtn(a.url, 'Read Full Article')}
         </div>
+      </div>`;
+  }
 
-        <h3 style="
-          font-family:'Playfair Display',serif;
-          font-size:0.95rem;
-          font-weight:700;
-          line-height:1.3;
-          margin-bottom:8px;
-          color:#f0f0f0;
-        ">
-          ${a.title}
-        </h3>
+  function buildGridCard(a, num) {
+    return `
+      <div class="grid-card fade-up">
+        ${gridImg(a.image)}
+        <div style="padding:16px;">
+          <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:8px;">
+            <span class="art-num" style="font-size:1.6rem;">${String(num).padStart(2,'0')}</span>
+            ${catPill(a.category)}
+          </div>
+          <h3 style="font-family:'Playfair Display',serif; font-size:0.95rem; font-weight:700; line-height:1.3; margin-bottom:8px; color:#f0f0f0;">${a.title}</h3>
+          <p style="font-size:0.72rem; color:#777; line-height:1.5; margin-bottom:12px;">${a.summary}</p>
+          ${readBtn(a.url, 'Read Article')}
+        </div>
+      </div>`;
+  }
 
-        <p style="
-          font-size:0.72rem;
-          color:#777;
-          line-height:1.5;
-          margin-bottom:12px;
-        ">
-          ${a.summary}
-        </p>
+  function buildMini(a, num) {
+    return `
+      <div class="mini-card fade-up">
+        <span class="art-num" style="font-size:1.4rem; flex-shrink:0; width:32px;">${String(num).padStart(2,'0')}</span>
+        ${miniImg(a.image)}
+        <div style="flex:1; min-width:0;">
+          <div style="display:flex; align-items:center; gap:6px; margin-bottom:4px;">
+            ${catPill(a.category)}
+            ${a.source ? `<span style="font-size:0.65rem; color:#555;">${a.source}</span>` : ''}
+          </div>
+          <h4 style="font-size:0.82rem; font-weight:600; color:#ddd; line-height:1.3; margin-bottom:6px;">${a.title}</h4>
+          ${readBtn(a.url, 'Read Article')}
+        </div>
+      </div>`;
+  }
 
-        <a href="${a.url}" class="read-btn">
-          Read Article
-        </a>
+  function renderArticles(articles) {
+    const hero = document.getElementById('hero-section');
+    const rows = document.getElementById('rows-section');
+    const grid = document.getElementById('grid-section');
+    const mini = document.getElementById('mini-section');
 
-      </div>
+    hero.innerHTML = '';
+    rows.innerHTML = '';
+    grid.innerHTML = '';
+    mini.innerHTML = '';
 
-    </div>
+    if (articles.length === 0) {
+      hero.innerHTML = `<div style="text-align:center; padding:40px 0; color:#555; font-size:0.85rem;">No articles found for this category.</div>`;
+      return;
+    }
 
-  `;
-}
+    // Article 1 — Hero
+    hero.innerHTML = buildHero(articles[0]);
 
-function renderArticles(articles){
+    // Articles 2-4 — Rows
+    const rowArticles = articles.slice(1, 4);
+    if (rowArticles.length > 0) {
+      rows.innerHTML = rowArticles.map((a, i) => buildRow(a, i+2)).join('');
+    }
 
-  const hero = document.getElementById('hero-section');
-  const rows = document.getElementById('rows-section');
-  const grid = document.getElementById('grid-section');
+    // Articles 5-6 — Grid
+    const gridArticles = articles.slice(4, 6);
+    if (gridArticles.length > 0) {
+      grid.innerHTML = `
+        <div class="section-label" style="margin-bottom:16px;">In Brief</div>
+        <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:16px;">
+          ${gridArticles.map((a, i) => buildGridCard(a, i+5)).join('')}
+        </div>`;
+    }
 
-  hero.innerHTML = buildHero(articles[0]);
+    // Articles 7+ — Mini
+    const miniArticles = articles.slice(6);
+    if (miniArticles.length > 0) {
+      mini.innerHTML = `
+        <div class="section-label" style="margin-bottom:0;">Also Today</div>
+        ${miniArticles.map((a, i) => buildMini(a, i+7)).join('')}`;
+    }
+  }
 
-  rows.innerHTML = articles
-    .slice(1,4)
-    .map((a,i)=>buildRow(a,i+2))
-    .join('');
+  function filterCategory(cat, btn) {
+    activeCategory = cat;
+    document.querySelectorAll('.nav-link').forEach(b => b.classList.remove('active'));
+    if (btn) btn.classList.add('active');
 
-  grid.innerHTML = `
-    <div class="section-label mb-4">
-      In Brief
-    </div>
+    const filtered = cat === 'all'
+      ? allArticles
+      : allArticles.filter(a => a.category === cat);
 
-    <div style="
-      display:grid;
-      grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
-      gap:16px;
-    ">
+    renderArticles(filtered);
+  }
 
-      ${articles
-        .slice(4,6)
-        .map((a,i)=>buildGridCard(a,i+5))
-        .join('')
+  function toggleSearch() {
+    document.getElementById('search-box').classList.toggle('open');
+    if (document.getElementById('search-box').classList.contains('open')) {
+      setTimeout(() => document.getElementById('search-input').focus(), 100);
+    }
+  }
+
+  function filterArticles(query) {
+    const q = query.toLowerCase().trim();
+    const resultsEl = document.getElementById('search-results');
+    if (!q) { resultsEl.innerHTML = ''; return; }
+
+    const matches = allArticles.filter(a =>
+      a.title.toLowerCase().includes(q) ||
+      a.summary.toLowerCase().includes(q) ||
+      (a.category || '').toLowerCase().includes(q)
+    );
+
+    if (matches.length === 0) {
+      resultsEl.innerHTML = '<div style="color:#555;">No results found.</div>';
+    } else {
+      resultsEl.innerHTML = matches.map(a => `
+        <div style="padding:8px 0; border-bottom:1px solid #1e1e1e; cursor:pointer;"
+          onclick="document.getElementById('search-box').classList.remove('open')">
+          <div style="font-size:0.72rem; color:#e8384f; margin-bottom:2px;">${a.category}</div>
+          <div style="font-size:0.78rem; color:#ddd;">${a.title}</div>
+          ${a.url ? `<a href="${a.url}" target="_blank" style="font-size:0.65rem; color:#555;">Read →</a>` : ''}
+        </div>`).join('');
+    }
+  }
+
+  // Close search on outside click
+  document.addEventListener('click', e => {
+    const box = document.getElementById('search-box');
+    if (!box.contains(e.target) && !e.target.closest('button[onclick="toggleSearch()"]')) {
+      box.classList.remove('open');
+    }
+  });
+
+  async function loadNews() {
+    document.getElementById('loading').style.display = 'block';
+    setProgress(20);
+
+    try {
+      const res = await fetch('news.json?t=' + Date.now());
+      setProgress(60);
+      if (!res.ok) throw new Error('not found');
+
+      const data = await res.json();
+      setProgress(90);
+      if (!data.articles || data.articles.length === 0) throw new Error('empty');
+
+      allArticles = data.articles;
+
+      // Header info
+      document.getElementById('header-date').textContent = formatDate(data.date);
+      document.getElementById('header-count').textContent = data.articles.length + ' stories';
+      if (data.generated_at) {
+        document.getElementById('footer-updated').textContent =
+          'Last updated: ' + new Date(data.generated_at).toLocaleString('en-US', {
+            month:'short', day:'numeric', hour:'2-digit', minute:'2-digit', timeZoneName:'short'
+          });
       }
 
-    </div>
-  `;
-}
+      renderArticles(allArticles);
 
-function filterCategory(cat, btn){
+      document.getElementById('loading').style.display = 'none';
+      document.getElementById('content').style.display = 'block';
+      setProgress(100);
+      setTimeout(() => { prog.style.opacity = '0'; }, 500);
 
-  document
-    .querySelectorAll('.nav-link')
-    .forEach(el=>el.classList.remove('active'));
-
-  btn.classList.add('active');
-
-  const filtered = cat === 'all'
-    ? allArticles
-    : allArticles.filter(a => a.category === cat);
-
-  renderArticles(filtered);
-}
-
-renderArticles(allArticles);
-
-document.getElementById('header-date').textContent =
-  new Date().toLocaleDateString(
-    'en-US',
-    {
-      weekday:'long',
-      month:'long',
-      day:'numeric',
-      year:'numeric'
+    } catch(e) {
+      document.getElementById('loading').style.display = 'none';
+      document.getElementById('error').style.display = 'block';
+      setProgress(100);
     }
-  );
+  }
 
-document.getElementById('header-count').textContent =
-  allArticles.length + ' stories';
+  window.addEventListener('scroll', () => {
+    const st = document.documentElement.scrollTop;
+    const dh = document.documentElement.scrollHeight - window.innerHeight;
+    if (dh > 0 && document.getElementById('content').style.display !== 'none') {
+      prog.style.width = (st/dh*100) + '%';
+      prog.style.opacity = '1';
+    }
+  });
 
+  loadNews();
 </script>
-
 </body>
 </html>
-```
