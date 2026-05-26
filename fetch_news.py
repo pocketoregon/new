@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 
 def fetch_real_news(news_api_key):
     """Fetch real tech news headlines from NewsAPI."""
-    
+
     url = "https://newsapi.org/v2/top-headlines"
     params = {
         "category": "technology",
@@ -14,14 +14,14 @@ def fetch_real_news(news_api_key):
         "pageSize": 10,
         "apiKey": news_api_key
     }
-    
+
     response = requests.get(url, params=params, timeout=10)
     response.raise_for_status()
     data = response.json()
-    
+
     if data.get("status") != "ok":
         raise ValueError(f"NewsAPI error: {data.get('message', 'Unknown error')}")
-    
+
     articles = []
     for item in data.get("articles", []):
         if item.get("title") and item.get("title") != "[Removed]":
@@ -33,23 +33,17 @@ def fetch_real_news(news_api_key):
                 "url": item.get("url", ""),
                 "published_at": item.get("publishedAt", "")
             })
-    
+
     if not articles:
         raise ValueError("No articles returned from NewsAPI")
-    
+
     print(f"   Fetched {len(articles)} real articles from NewsAPI")
     return articles[:8]
 
 
-def simplify_with_gemini(articles, gemini_api_key):
-    """Use Gemini to simplify the real news into easy English."""
-    
-    genai.configure(api_key=gemini_api_key)
-    model = genai.GenerativeModel("gemini-2.5-flash-lite")
-    
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    
-    # Build article list for the prompt
+def simplify_with_gemini(articles, model, today):
+    """Pass 1 — Gemini simplifies the real news into easy English."""
+
     articles_text = ""
     for i, article in enumerate(articles):
         articles_text += f"""
@@ -61,7 +55,7 @@ Description: {article['description']}
 Content: {article['content'][:300] if article['content'] else 'No content available'}
 ---"""
 
-    prompt = f"""You are a tech news simplifier. I will give you {len(articles)} real tech news articles. Your job is to rewrite them in simple, easy English.
+    prompt = f"""You are a tech news simplifier. I will give you {len(articles)} real tech news articles. Rewrite them in simple easy English.
 
 WRITING RULES:
 - Use simple everyday words. No complex English.
@@ -71,15 +65,15 @@ WRITING RULES:
 - Summary must be 2-3 short sentences only.
 - Key points must be under 8 words each.
 - Impact must be one simple sentence under 20 words.
-- Keep the EXACT source name and URL as given. Do not change them.
+- Keep the EXACT source name and URL as given. Do not change or invent URLs.
 - Category must be ONE of: AI, Hardware, Software, Security, Science, Business, Policy, Startups
 
 Here are the real articles:
 {articles_text}
 
-You MUST respond with ONLY a valid JSON object. No markdown, no extra text, nothing outside the JSON.
+Respond with ONLY a valid JSON object. No markdown, no extra text.
 
-The JSON must match this exact structure:
+JSON structure:
 {{
   "date": "{today}",
   "generated_at": "{datetime.now(timezone.utc).isoformat()}",
@@ -97,66 +91,143 @@ The JSON must match this exact structure:
   ]
 }}
 
-Process all {len(articles)} articles. Keep the most important story first. Use simple English throughout. Never change the URL."""
+Process all {len(articles)} articles. Most important story first."""
 
-    print(f"   Sending {len(articles)} real articles to Gemini for simplification...")
-    
+    print("   Pass 1: Simplifying articles...")
     response = model.generate_content(prompt)
-    raw_response = response.text.strip()
-    
-    # Strip accidental markdown fences
-    if raw_response.startswith("```"):
-        lines = raw_response.split("\n")
-        lines = [l for l in lines if not l.strip().startswith("```")]
-        raw_response = "\n".join(lines).strip()
-    
-    news_data = json.loads(raw_response)
+    raw = response.text.strip()
+
+    if raw.startswith("```"):
+        lines = [l for l in raw.split("\n") if not l.strip().startswith("```")]
+        raw = "\n".join(lines).strip()
+
+    return json.loads(raw)
+
+
+def review_with_gemini(news_data, original_articles, model, today):
+    """Pass 2 — Gemini reviews and improves its own output."""
+
+    review_prompt = f"""You are a strict editor reviewing a tech news JSON file. 
+A junior AI wrote this JSON. Your job is to review and fix any issues.
+
+CHECK AND FIX THESE THINGS:
+1. Are summaries truly simple? Max 15 words per sentence. Fix any complex words.
+2. Are key points short and clear? Under 8 words each. Fix any that are too long.
+3. Is the impact sentence simple and under 20 words? Fix if not.
+4. Are URLs real and unchanged? Every article must have a url field with a real link.
+5. Are titles short and simple? Under 12 words. Fix any that are too long.
+6. Does every article have all fields: title, summary, category, source, url, key_points, impact?
+
+Here is the JSON to review:
+{json.dumps(news_data, indent=2)}
+
+Here are the original URLs you must preserve exactly:
+{json.dumps([a['url'] for a in original_articles], indent=2)}
+
+Rules for your response:
+- Fix all problems you find
+- Keep all URLs exactly as given in the original URLs list above
+- Make sure every article has a url field
+- Respond with ONLY the fixed valid JSON object. No markdown, no explanation, nothing else.
+
+The JSON must keep this exact structure:
+{{
+  "date": "{today}",
+  "generated_at": "{datetime.now(timezone.utc).isoformat()}",
+  "edition": "Daily Tech Briefing",
+  "articles": [
+    {{
+      "title": "string",
+      "summary": "string",
+      "category": "string",
+      "source": "string",
+      "url": "string",
+      "key_points": ["string", "string", "string"],
+      "impact": "string"
+    }}
+  ]
+}}"""
+
+    print("   Pass 2: Reviewing and improving output...")
+    response = model.generate_content(review_prompt)
+    raw = response.text.strip()
+
+    if raw.startswith("```"):
+        lines = [l for l in raw.split("\n") if not l.strip().startswith("```")]
+        raw = "\n".join(lines).strip()
+
+    return json.loads(raw)
+
+
+def validate(news_data, original_articles):
+    """Validate final JSON and restore any missing URLs."""
+
+    required_keys = {"date", "generated_at", "edition", "articles"}
+    missing = required_keys - set(news_data.keys())
+    if missing:
+        raise ValueError(f"Missing top-level keys: {missing}")
+
+    if not isinstance(news_data["articles"], list) or len(news_data["articles"]) == 0:
+        raise ValueError("articles must be a non-empty list")
+
+    article_required = {"title", "summary", "category", "source", "url", "key_points", "impact"}
+    valid_categories = {"AI", "Hardware", "Software", "Security", "Science", "Business", "Policy", "Startups"}
+
+    for i, article in enumerate(news_data["articles"]):
+        # Add missing fields check
+        missing_fields = article_required - set(article.keys())
+        if missing_fields:
+            raise ValueError(f"Article {i} missing fields: {missing_fields}")
+
+        # Restore URL if Gemini dropped or emptied it
+        if not article.get("url") and i < len(original_articles):
+            article["url"] = original_articles[i]["url"]
+            print(f"   ⚠️  Restored missing URL for article {i+1}")
+
+        # Fix category if invalid
+        if article.get("category") not in valid_categories:
+            article["category"] = "Technology"
+
     return news_data
 
 
 def fetch_news():
-    """Main function — fetch real news and simplify it."""
-    
+    """Main function — fetch real news, simplify, review, save."""
+
     news_api_key = os.environ["NEWS_API_KEY"]
     gemini_api_key = os.environ["GEMINI_API_KEY"]
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    
+
+    genai.configure(api_key=gemini_api_key)
+    model = genai.GenerativeModel("gemini-2.5-flash-lite")
+
+    # Step 1 — Get real news
     print(f"[{today}] Step 1: Fetching real news from NewsAPI...")
-    real_articles = fetch_real_news(news_api_key)
-    
-    print(f"[{today}] Step 2: Simplifying with Gemini...")
-    news_data = simplify_with_gemini(real_articles, gemini_api_key)
-    
-    # Validate top-level keys
-    required_keys = {"date", "generated_at", "edition", "articles"}
-    missing = required_keys - set(news_data.keys())
-    if missing:
-        raise ValueError(f"Missing required keys: {missing}")
-    
-    if not isinstance(news_data["articles"], list) or len(news_data["articles"]) == 0:
-        raise ValueError("articles must be a non-empty list")
-    
-    # Validate each article and ensure URLs are preserved
-    article_required = {"title", "summary", "category", "source", "url", "key_points", "impact"}
-    for i, article in enumerate(news_data["articles"]):
-        missing_fields = article_required - set(article.keys())
-        if missing_fields:
-            raise ValueError(f"Article {i} missing fields: {missing_fields}")
-        
-        # If Gemini dropped the URL, restore it from original
-        if not article.get("url") and i < len(real_articles):
-            article["url"] = real_articles[i]["url"]
-    
-    # Override generated_at with actual current UTC time
+    original_articles = fetch_real_news(news_api_key)
+
+    # Step 2 — Simplify with Gemini (Pass 1)
+    print(f"[{today}] Step 2: Simplifying with Gemini (Pass 1)...")
+    news_data = simplify_with_gemini(original_articles, model, today)
+
+    # Step 3 — Review with Gemini (Pass 2)
+    print(f"[{today}] Step 3: Reviewing with Gemini (Pass 2)...")
+    news_data = review_with_gemini(news_data, original_articles, model, today)
+
+    # Step 4 — Validate and fix
+    print(f"[{today}] Step 4: Validating final output...")
+    news_data = validate(news_data, original_articles)
+
+    # Step 5 — Override timestamp and save
     news_data["generated_at"] = datetime.now(timezone.utc).isoformat()
-    
+
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(news_data, f, indent=2, ensure_ascii=False)
-    
-    print(f"✅ news.json written with {len(news_data['articles'])} real articles.")
+
+    print(f"\n✅ Done! news.json written with {len(news_data['articles'])} articles.")
+    print(f"   Date: {news_data['date']}")
     for idx, a in enumerate(news_data["articles"]):
         print(f"   [{idx+1}] [{a['category']}] {a['title']}")
-        print(f"         URL: {a.get('url', 'NO URL')}")
+        print(f"         🔗 {a.get('url', 'NO URL')}")
 
 
 if __name__ == "__main__":
