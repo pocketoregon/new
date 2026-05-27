@@ -1,119 +1,119 @@
 {
   "date": "2026-05-27",
-  "generated_at": "2026-05-27T14:48:48.079550+00:00",
+  "generated_at": "2026-05-27T17:50:09.987693+00:00",
   "edition": "Daily Tech Briefing",
   "articles": [
     {
-      "title": "GTA 6 Delayed to November 2026",
-      "summary": "GTA 6 release is delayed. The new date is November 19, 2026. Gamers will wait longer.",
+      "title": "Apple shares new software tests",
+      "summary": "Apple gave new software to testers. It's for phones and tablets. They are testing updates.",
       "category": "Software",
-      "source": "GameSpot",
-      "url": "https://www.gamespot.com/articles/gta-6-was-supposed-to-release-today/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/05/jason.jpg",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/05/26/apple-releases-ios-26-beta-1/",
+      "image": "https://images.macrumors.com/t/RzJYGwPST2fim75_lRKrQt8RKw8=/2500x/article-new/2026/05/iOS-26.6-Glass-Feature.jpg",
       "key_points": [
-        "GTA 6 release pushed",
-        "New date: Nov 19",
-        "Rockstar delayed game"
+        "New iOS beta",
+        "New iPadOS beta",
+        "For developers"
       ],
-      "impact": "Gamers wait longer for the highly anticipated GTA 6."
+      "impact": "Developers can test new phone and tablet software."
     },
     {
-      "title": "Nvidia Control Panel Retired After 20 Years",
-      "summary": "Nvidia is retiring its Control Panel. A new app will replace it soon. This ends 20 years.",
-      "category": "Software",
-      "source": "Videocardz.com",
-      "url": "https://videocardz.com/newz/nvidia-control-panel-is-officially-retiring-after-20-years-for-geforce-users",
-      "image": "https://cdn.videocardz.com/1/2026/05/NVIDIA-CONTROL-PANEL-NVIDIA-APP-TRANSITION-HERO.jpg",
-      "key_points": [
-        "Nvidia Control Panel retired",
-        "20 years of service",
-        "New app takes over"
-      ],
-      "impact": "Nvidia users will use a new app for graphics settings."
-    },
-    {
-      "title": "PlayStation Plus June Games Revealed",
-      "summary": "Sony announced June's PS Plus games. An Xbox game is a main title. New games are available soon.",
+      "title": "Rocket League gets new look preview",
+      "summary": "Rocket League will look different. It uses a new game engine. Epic showed a preview.",
       "category": "Software",
       "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/here-are-our-ps-plus-monthly-games-for-june-with-an-xbox-title-headlining",
-      "image": "https://assetsio.gnwcdn.com/Screenshot-from-Grounded-showing-a-small-human-in-the-back-garden-with-a-PS-Plus-logo-overlaid-to-the-side.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "url": "https://www.eurogamer.net/rocket-league-unreal-engine-6-tease",
+      "image": "https://assetsio.gnwcdn.com/rocket-league-new-era-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "key_points": [
-        "June PS Plus games out",
-        "Xbox title included",
-        "New games for subscribers"
+        "Rocket League update",
+        "New engine preview",
+        "Visual changes"
       ],
-      "impact": "PS Plus subscribers get new games to play next month."
+      "impact": "The game will have a big visual upgrade soon."
     },
     {
-      "title": "PlayStation Days of Play Sales Start Tomorrow",
-      "summary": "PlayStation sales start tomorrow. Find deals in stores and online. The sale ends June 10.",
-      "category": "Business",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/05/playstation-days-of-play-sales-start-tomorrow-with-physical-and-ps-store-offers",
-      "image": "https://images.pushsquare.com/b32e34caa0859/large.jpg",
-      "key_points": [
-        "PlayStation sales begin",
-        "Physical and digital deals",
-        "Sale ends June 10"
-      ],
-      "impact": "PlayStation fans get deals on games and PS Plus."
-    },
-    {
-      "title": "Pokémon GO's Forever Forward Season Begins",
-      "summary": "A new Pokémon GO season starts June 2. It is called Forever Forward. Expect Mega Pokémon and GO Fest.",
+      "title": "New Lego city builder game coming?",
+      "summary": "A new Lego game is hinted. It might be like Cities: Skylines. A rating board listed it.",
       "category": "Software",
-      "source": "Pokemon GO Hub",
-      "url": "https://pokemongohub.net/post/guide/forever-forward/",
-      "image": "https://pokemongohub.net/wp-content/uploads/2026/05/forever-forward-v2.jpg",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/lego-skylines-city-building-paradox",
+      "image": "https://assetsio.gnwcdn.com/Lego-Skylines-custom-EG.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "key_points": [
-        "New Pokémon GO season",
-        "Starts June 2",
-        "Mega Pokémon included"
+        "Lego city game",
+        "Paradox Interactive",
+        "Rating board leak"
       ],
-      "impact": "Pokémon GO players get new events and creatures."
+      "impact": "City builder fans may get a Lego version of the game."
     },
     {
-      "title": "Classic Pokémon Game on Switch Today",
-      "summary": "Another classic Pokémon game is out. It is on Nintendo Switch. Indie developers made it.",
-      "category": "Software",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/05/another-throwback-to-classic-pokemon-arrives-on-switch-today",
-      "image": "https://images.nintendolife.com/b179419dffaa4/large.jpg",
+      "title": "Old Windows pinball game gets real version",
+      "summary": "Classic Space Cadet pinball is back. It will be a real machine. It was a Windows game.",
+      "category": "Hardware",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/05/windows-classic-3d-space-cadet-pinball-is-getting-a-physical-re-creation/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/3dspacecadet-1152x648-1779811060.jpeg",
       "key_points": [
-        "Classic Pokémon game",
-        "Available on Switch",
-        "Indie developer game"
+        "Pinball game remake",
+        "Physical machine",
+        "Windows classic"
       ],
-      "impact": "Fans play a new game inspired by classic Pokémon on Switch."
+      "impact": "A favorite Windows game is becoming an actual pinball machine."
     },
     {
-      "title": "Destiny 2 Service Ending Soon",
-      "summary": "Destiny 2's service is ending. No new content will be added. Servers remain online.",
-      "category": "Software",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/05/26/20-questions-for-bungie-about-what-happens-after-destiny-2-ends/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a15a40e3bf94e009714e4e4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "key_points": [
-        "Destiny 2 service ends",
-        "No new content",
-        "Servers remain active"
-      ],
-      "impact": "Destiny 2 players get no new updates after June 9."
-    },
-    {
-      "title": "People Prefer AI Music Over Real Music",
-      "summary": "Some people only listen to AI music. They use apps like Suno. They skip real songs.",
-      "category": "AI",
+      "title": "Oppo's Bubble helps rear camera selfies",
+      "summary": "Oppo made a small screen. It sticks to your phone's back. You can see yourself for photos.",
+      "category": "Hardware",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_A.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "url": "https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/oppobubble1.jpg?quality=90&strip=all&crop=0,10.751393583258,100,78.497212833484",
       "key_points": [
-        "AI music preference",
-        "Suno app usage",
-        "Abandoning real music"
+        "Selfie preview screen",
+        "Magnetic attachment",
+        "Oppo accessory"
       ],
-      "impact": "AI music is popular; some users prefer it over human-made songs."
+      "impact": "Use your phone's better main cameras for selfies with this accessory."
+    },
+    {
+      "title": "Dragon Quest live stream announced",
+      "summary": "The Dragon Quest team will stream. They will share news. It's a short broadcast.",
+      "category": "Software",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/update-from-the-dragon-quest-team-live-stream-announced/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Update-from-the-Dragon-Quest-team-live-stream.jpg",
+      "key_points": [
+        "Dragon Quest news",
+        "Live stream event",
+        "Square Enix update"
+      ],
+      "impact": "Fans will get new information about the Dragon Quest series."
+    },
+    {
+      "title": "Backpack melts on hot Corvette engine",
+      "summary": "A backpack was on a hot engine. It started to melt. The car is a Corvette C8.",
+      "category": "Hardware",
+      "source": "Guessingheadlights.com",
+      "url": "https://guessingheadlights.com/mans-girlfriend-put-his-backpack-in-what-she-thought-was-the-trunk-of-a-c8-corvette-the-hot-engine-nearly-caught-fire/",
+      "image": "https://s.yimg.com/lo/mysterio/api/0e2c136a9e6002de4011c72697848e73a46e052185ab61e2ef0a40f5eba2a8fb/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fguessing_headlights_178%2F2a2141fb8f61548a9d8d8f636a1fc923",
+      "key_points": [
+        "Car engine heat",
+        "Melted backpack",
+        "Corvette C8 incident"
+      ],
+      "impact": "A backpack melted on a car's hot engine."
+    },
+    {
+      "title": "New community features for The Free Press",
+      "summary": "The Free Press is launching new things. It's for its community. There will be events and talks.",
+      "category": "Business",
+      "source": "Thefp.com",
+      "url": "https://www.thefp.com/p/free-press-community-launch",
+      "image": "https://substackcdn.com/image/fetch/$s_!ci9t!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5c3d801-d25b-4e2d-aea9-4b68e23e230a_1325x876.jpeg",
+      "key_points": [
+        "Community launch",
+        "New events planned",
+        "The Free Press"
+      ],
+      "impact": "The publication offers new ways for readers to connect."
     }
   ]
 }
