@@ -224,9 +224,23 @@
           AI<span style="color:#e8384f;">·</span>Brief
         </div>
       </div>
+      <div id="live-clock" style="font-size:0.7rem; color:#555; letter-spacing:0.05em; font-family:Inter,sans-serif;"></div>
     </div>
   </div>
 </header>
+<script>
+  function updateClock() {
+    const now = new Date();
+    const timeStr = now.toLocaleTimeString("en-US", { hour:"2-digit", minute:"2-digit", second:"2-digit", hour12:false });
+    const offset = -now.getTimezoneOffset() / 60;
+    const sign = offset >= 0 ? "+" : "-";
+    const abs = Math.abs(offset);
+    const tz = "UTC" + sign + (Number.isInteger(abs) ? abs : abs.toFixed(1));
+    document.getElementById("live-clock").textContent = timeStr + " " + tz;
+  }
+  updateClock();
+  setInterval(updateClock, 1000);
+</script>
 
 <!-- MAIN -->
 <main class="max-w-5xl mx-auto px-5 py-8">
