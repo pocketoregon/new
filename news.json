@@ -1,119 +1,119 @@
 {
   "date": "2026-05-27",
-  "generated_at": "2026-05-27T21:42:26.415933+00:00",
+  "generated_at": "2026-05-27T23:06:55.593683+00:00",
   "edition": "Daily Tech Briefing",
   "articles": [
     {
-      "title": "AI agents have security flaw",
-      "summary": "Many AI bots are at risk. A big problem was found in code. This could let hackers take control.",
-      "category": "Security",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
-      "key_points": [
-        "AI agents at risk",
-        "Critical flaw found",
-        "Hackers may gain control"
-      ],
-      "impact": "This flaw could let attackers take over many AI systems."
-    },
-    {
-      "title": "Google Health app replaces Fitbit",
-      "summary": "Google's new Health app is here. It replaced the Fitbit app. Many users dislike the changes.",
+      "title": "Google Health replaces Fitbit app",
+      "summary": "Google's new Health app replaces Fitbit. Many users dislike the new design and AI coach.",
       "category": "AI",
       "source": "The Verge",
       "url": "https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/HealthApp_hero.width-1600.jpg?quality=90&strip=all&crop=0%2C3.5645047073983%2C100%2C92.870990585203&w=1200",
       "key_points": [
-        "Fitbit app retired",
-        "New Google Health app",
-        "Users unhappy with changes"
+        "Google Health app launched",
+        "Replaced Fitbit app",
+        "Users unhappy"
       ],
-      "impact": "Fitbit users do not like the new AI coach and app."
+      "impact": "Some Fitbit users are frustrated with the new Google Health app."
     },
     {
-      "title": "New James Bond game scores well",
-      "summary": "The new 007 game is out. It got high scores from reviewers. It could be a top game this year.",
+      "title": "PlayStation shuts down Destruction AllStars servers",
+      "summary": "PlayStation closed servers for Destruction AllStars. The game is no longer for sale.",
       "category": "Software",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/05/26/the-007-first-light-metacritic-review-score-is-in/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a1597979ee6ecfa2d3f7a24/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/playstation-delists-and-shuts-down-servers-for-destruction-allstars",
+      "image": "https://assets-prd.ignimgs.com/2026/05/26/3793681-review-destructionallstars-v2-1779821237133.webp?width=1280&format=jpg&auto=webp&quality=80",
       "key_points": [
-        "007 game launched",
-        "High review scores",
-        "A top game?"
-      ],
-      "impact": "The new James Bond game is a hit with critics."
-    },
-    {
-      "title": "Indie games to check out",
-      "summary": "Cool new indie games are out. One is Mina the Hollower. Another is a bullet-hell roguelike.",
-      "category": "Software",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/the-week-in-games-mina-the-hollower-and-an-under-the-radar-turn-based-bullet-hell-roguelike-2000699490",
-      "image": "https://kotaku.com/app/uploads/2026/05/minas-2.jpg",
-      "key_points": [
-        "New indie games out",
-        "Mina the Hollower",
-        "Bullet-hell roguelike"
-      ],
-      "impact": "Two unique indie games launch for players this week."
-    },
-    {
-      "title": "Nvidia Control Panel is retired",
-      "summary": "The Nvidia Control Panel is gone. It served users for 20 years. New drivers help recent games.",
-      "category": "Hardware",
-      "source": "Digitalfoundry.net",
-      "url": "https://www.digitalfoundry.net/news/2026/05/rip-after-20-years-its-time-to-say-goodbye-to-the-nvidia-control-panel",
-      "image": "https://images.digitalfoundry.net/74f7bdb27ad8e/large.jpg",
-      "key_points": [
-        "Nvidia panel retired",
-        "Served for 20 years",
-        "New driver support"
-      ],
-      "impact": "The long-time Nvidia Control Panel is now replaced."
-    },
-    {
-      "title": "Destruction AllStars servers shut down",
-      "summary": "The game Destruction AllStars is gone. Its online servers are off. This happened without warning.",
-      "category": "Software",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/05/ps5s-destruction-allstars-delisted-servers-officially-disabled-without-notice",
-      "image": "https://images.pushsquare.com/af024affac1df/large.jpg",
-      "key_points": [
+        "Destruction AllStars servers closed",
         "Game delisted",
-        "Servers now off",
-        "No warning given"
+        "Live-service game ended"
       ],
-      "impact": "Players can no longer play Destruction AllStars online."
+      "impact": "A PlayStation game is now unplayable online."
+    },
+    {
+      "title": "GTA Online mod platform Rage MP shut down",
+      "summary": "Rage MP, a modding server for GTA Online, is closing. It got a takedown notice.",
+      "category": "Software",
+      "source": "MMORPG.com",
+      "url": "https://www.mmorpg.com/news/gta-online-server-platform-ragemp-hit-with-takedown-notice-to-cease-operations-this-summer-2000138148",
+      "image": "https://media.mmorpg.com/images/heroes/posts/138148.jpg",
+      "key_points": [
+        "Rage MP shutting down",
+        "GTA Online mod platform",
+        "Takedown notice received"
+      ],
+      "impact": "A popular way to play GTA Online with mods is ending."
+    },
+    {
+      "title": "Apple Memorial Day deals still available",
+      "summary": "Some Memorial Day deals on Apple products are still active. Get MacBooks and AirPods.",
+      "category": "Hardware",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/best-memorial-day-deals-apple-airpods-macbooks-2026",
+      "image": "https://helios-i.mashable.com/imagery/articles/06ylH5Qobpg8bD9ZkmWUJbh/hero-image.fill.size_1200x675.v1779733508.jpg",
+      "key_points": [
+        "Apple deals still live",
+        "MacBooks and AirPods on sale",
+        "Memorial Day savings"
+      ],
+      "impact": "You can still save money on Apple gear."
+    },
+    {
+      "title": "iPhone 18 Pro might get thicker",
+      "summary": "The next iPhone Pro could be thicker. This might improve usability and features.",
+      "category": "Hardware",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/05/26/iphone-18-pro-could-further-a-design-trend-ive-finally-come-around-on/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "key_points": [
+        "iPhone 18 Pro thicker",
+        "Design trend continues",
+        "May improve function"
+      ],
+      "impact": "Future iPhones might be a bit thicker for better features."
+    },
+    {
+      "title": "PC makers react to Apple's MacBook Neo",
+      "summary": "Computer companies are making PCs to compete with Apple's new MacBook Neo. Cheaper laptops are coming.",
+      "category": "Hardware",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/05/were-starting-to-see-some-pc-makers-respond-to-apples-macbook-neo/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/intel-core-series-3-1152x648.jpg",
+      "key_points": [
+        "PC makers respond to Apple",
+        "New MacBooks coming",
+        "Cheaper PCs expected"
+      ],
+      "impact": "More affordable and competitive laptops are coming to the market."
     },
     {
       "title": "Apple releases iOS 26.6 beta",
-      "summary": "Apple released a new beta. It's for iOS 26.6 on iPhones. Developers can test it now.",
+      "summary": "Apple sent out early versions of iOS 26.6 and iPadOS 26.6. Developers can test them.",
       "category": "Software",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/05/26/apple-releases-first-ios-26-6-beta-for-iphone/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iOS-26.6-b1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/05/26/apple-releases-ios-26-beta-1/",
+      "image": "https://images.macrumors.com/t/RzJYGwPST2fim75_lRKrQt8RKw8=/2500x/article-new/2026/05/iOS-26.6-Glass-Feature.jpg",
       "key_points": [
-        "New iOS beta",
-        "For developers",
-        "iPhone update"
+        "iOS 26.6 beta released",
+        "iPadOS 26.6 beta released",
+        "For developers to test"
       ],
-      "impact": "Developers can test the first iOS 26.6 beta."
+      "impact": "New software versions are being tested by developers."
     },
     {
-      "title": "The Free Press launches community",
-      "summary": "The Free Press is starting new things. They want to build a community. This includes forums and events.",
-      "category": "Business",
+      "title": "The Free Press launches community programs",
+      "summary": "The Free Press is starting new community groups. These include forums and clubs.",
+      "category": "Startups",
       "source": "Thefp.com",
       "url": "https://www.thefp.com/p/free-press-community-launch",
       "image": "https://substackcdn.com/image/fetch/$s_!ci9t!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5c3d801-d25b-4e2d-aea9-4b68e23e230a_1325x876.jpeg",
       "key_points": [
-        "The Free Press initiative",
-        "Building community",
-        "New forums and events"
+        "The Free Press community launch",
+        "New initiatives start",
+        "Forums and clubs planned"
       ],
-      "impact": "The Free Press is expanding with community initiatives."
+      "impact": "The Free Press is building a community around its platform."
     }
   ]
 }
