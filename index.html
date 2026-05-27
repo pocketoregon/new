@@ -223,20 +223,6 @@
         <div style="font-family:'Playfair Display',serif; font-size:1.4rem; font-weight:900; letter-spacing:-0.02em;">
           AI<span style="color:#e8384f;">·</span>Brief
         </div>
-      <div id="live-clock" style="font-size:0.7rem; color:#555; letter-spacing:0.05em; font-family:'Inter',sans-serif;"></div>
-      <script>
-        function updateClock() {
-          const now = new Date();
-          const timeStr = now.toLocaleTimeString('en-US', { hour:'2-digit', minute:'2-digit', second:'2-digit', hour12:false });
-          const offset = -now.getTimezoneOffset() / 60;
-          const sign = offset >= 0 ? '+' : '-';
-          const abs = Math.abs(offset);
-          const tzStr = 'UTC' + sign + (abs % 1 === 0 ? abs : abs.toFixed(1));
-          document.getElementById('live-clock').textContent = timeStr + ' ' + tzStr;
-        }
-        updateClock();
-        setInterval(updateClock, 1000);
-      <\/script>
       </div>
     </div>
   </div>
