@@ -1,119 +1,119 @@
 {
   "date": "2026-05-27",
-  "generated_at": "2026-05-27T02:34:58.034899+00:00",
+  "generated_at": "2026-05-27T11:23:11.280721+00:00",
   "edition": "Daily Tech Briefing",
   "articles": [
     {
-      "title": "Windows 11 Secure Boot Update Needed",
-      "summary": "Microsoft updates Windows 11 security. Older PCs may lose protection. Update Secure Boot by June 2026.",
-      "category": "Security",
-      "source": "WindowsLatest",
-      "url": "https://www.windowslatest.com/2026/05/26/microsoft-reveals-what-happens-to-windows-11-pcs-if-you-ignore-the-secure-boot-deadline-in-june-2026/",
-      "image": "https://www.windowslatest.com/wp-content/uploads/2026/05/Microsoft-conducted-an-AMA-about-Secure-Boot.jpg",
-      "key_points": [
-        "Windows 11 security update",
-        "Secure Boot deadline June 2026",
-        "PCs may lose protection"
-      ],
-      "impact": "Your PC might not get future security updates without this."
-    },
-    {
-      "title": "Street Fighter 6 Adds New Outfits",
-      "summary": "New outfits for Ingrid, Sagat, Alex, and C. Viper arrive. These are for Season 3 DLC. Get new looks.",
-      "category": "Software",
-      "source": "EventHubs",
-      "url": "https://www.eventhubs.com/news/2026/may/25/season-3-costumes-sf6/",
-      "image": "https://media.eventhubs.com/images/2026/05/25-season-3-costumes-sf6t.webp",
-      "key_points": [
-        "Street Fighter 6 DLC",
-        "New character outfits",
-        "Season 3 costumes"
-      ],
-      "impact": "Players can customize fighters with new styles."
-    },
-    {
-      "title": "Samsung Gallery Drops OneDrive Backup",
-      "summary": "Samsung Gallery will stop saving to OneDrive. This happens later this year. Microsoft confirmed the change.",
-      "category": "Software",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/05/25/samsung-gallery-is-ditching-onedrive-integration/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Samsung-Gallery-Screenshots-organizer.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "key_points": [
-        "Samsung Gallery change",
-        "No OneDrive backup",
-        "Happens later this year"
-      ],
-      "impact": "Users need a new way to back up Samsung Gallery photos."
-    },
-    {
-      "title": "Sony Not Angry at Naughty Dog",
-      "summary": "False news spread on social media. A journalist was misquoted. It wrongly claimed Sony was mad.",
+      "title": "NASA picks SpaceX for more crew flights",
+      "summary": "NASA needs more space trips. Boeing is not ready. NASA gives more jobs to SpaceX.",
       "category": "Business",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/05/absurd-social-media-misquotes-journalist-erroneously-claims-sony-is-angry-at-naughty-dog",
-      "image": "https://images.pushsquare.com/a9182506f08ca/large.jpg",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/spacex-nasa-contracts/",
+      "image": "https://www.teslarati.com/wp-content/uploads/2021/11/U5A8266-Edit-c-1000x600.jpg",
       "key_points": [
-        "False Sony Naughty Dog rumor",
-        "Journalist misquoted",
-        "Social media misinformation"
+        "NASA adds SpaceX flights",
+        "Boeing not ready",
+        "More space trips"
       ],
-      "impact": "Online rumors can easily mislead people about company relations."
+      "impact": "SpaceX gets more contracts as Boeing faces delays."
     },
     {
-      "title": "DELTARUNE Creator Needs Help",
-      "summary": "Toby Fox can't make DELTARUNE alone. The work is too much. His health is a factor.",
+      "title": "Motorola phones add Amazon codes",
+      "summary": "Motorola phones add codes to Amazon app. This happens secretly. It affects even costly phones.",
       "category": "Software",
-      "source": "GoNintendo",
-      "url": "https://gonintendo.com/contents/61097-toby-fox-says-creating-deltarune-by-himself-wouldn-t-be-possible-due-to-the-work",
-      "image": "https://gonintendo.com/attachments/image/80905/file/medium-5b5c7a5c014fb72bfb30c0b94104f9db.jpg",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/motorola-razr-fold-white-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "key_points": [
-        "DELTARUNE creator needs help",
-        "Workload too big",
-        "Health concerns"
+        "Motorola hijacks Amazon app",
+        "Adds affiliate codes",
+        "Tracks purchases secretly"
       ],
-      "impact": "Game development is demanding for solo creators."
+      "impact": "Your phone may track Amazon purchases without your knowledge."
     },
     {
-      "title": "TheGamer Writers Unhappy with Pay",
-      "summary": "TheGamer writers got a new contract. It's pay-per-session. This means pay is inconsistent. They are heartbroken.",
-      "category": "Business",
-      "source": "Aftermath.site",
-      "url": "https://aftermath.site/the-gamer-valnet-pay-per-session-contract/",
-      "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/05/Screenshot-2026-05-25-at-1.17.25---PM-1.png",
+      "title": "Google Gemini limits frustrate users",
+      "summary": "Google Gemini users face problems. They hit limits fast. One user hit limits with one command.",
+      "category": "AI",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/google-gemini-usage-limit-problem-3670846/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Gemini-Neural-Expressive-3-scaled.jpg",
       "key_points": [
-        "TheGamer writers' contract",
-        "Pay-per-session model",
-        "Writers are unhappy"
+        "Gemini has usage limits",
+        "Users hit limits fast",
+        "Google admits problem"
       ],
-      "impact": "New payment systems can affect freelance workers' income."
+      "impact": "Google's AI tool has issues with its usage limits."
     },
     {
-      "title": "Powerful Semi-Truck Engines Listed",
-      "summary": "Some semi-truck engines are very powerful. This list shows 11 of the best. They haul heavy loads.",
+      "title": "New LEGO game rated in Korea",
+      "summary": "A new LEGO game is coming. It is called LEGO Skylines. It was rated in Korea.",
       "category": "Hardware",
-      "source": "Jalopnik",
-      "url": "https://www.jalopnik.com/2180153/most-powerful-semi-truck-engines-ever-built/",
-      "image": "https://www.jalopnik.com/img/gallery/these-are-11-of-the-most-powerful-semi-truck-engines-ever-built/l-intro-1779596668.jpg",
+      "source": "Gematsu",
+      "url": "https://gematsu.com/2026/05/lego-skylines-by-paradox-interactive-persona-4-revival-and-more-rated-in-korea",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/05/Korean-Ratings_05-26-26_Top.jpg",
       "key_points": [
-        "Most powerful truck engines",
-        "For heavy hauling",
-        "List of 11 engines"
+        "LEGO Skylines rated",
+        "Game not announced",
+        "Paradox Interactive involved"
       ],
-      "impact": "Engine tech is key for efficient goods transport."
+      "impact": "A new LEGO game, Skylines, is likely coming soon."
     },
     {
-      "title": "Antarctic Isolation Study Warns of Risks",
-      "summary": "Being stuck in Antarctica has risks. Long missions carry dangers. Isolation causes problems.",
-      "category": "Science",
-      "source": "Phys.Org",
-      "url": "https://phys.org/news/2026-05-months-antarctic-isolation-reveal-missions.html",
-      "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/05/Screenshot-2026-05-25-at-1.17.25---PM-1.png",
+      "title": "Persona 4 music hints at revival",
+      "summary": "Music for 'Persona 4 Revival' is listed. This suggests a trailer is coming. It's on a music database.",
+      "category": "Software",
+      "source": "Personacentral.com",
+      "url": "https://personacentral.com/p4r-bgm/",
+      "image": "https://personacentral.com/wp-content/uploads/2025/06/Persona-4-Revival-Screenshot-2.jpg",
       "key_points": [
-        "Antarctic isolation study",
-        "Risks of long missions",
-        "Psychological impact"
+        "Persona 4 music listed",
+        "Suggests new game",
+        "Copyright database filing"
       ],
-      "impact": "Long isolation can have serious psychological effects."
+      "impact": "New music hints at an upcoming Persona 4 game announcement."
+    },
+    {
+      "title": "Free game for Switch Online members",
+      "summary": "Switch Online members can play a game free. It is called BALL x PIT. Play it until June 1st.",
+      "category": "Software",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/05/one-of-2025s-best-games-is-now-free-for-switch-online-members",
+      "image": "https://images.nintendolife.com/3768daeef6f69/large.jpg",
+      "key_points": [
+        "Free game trial",
+        "Switch Online members",
+        "BALL x PIT available"
+      ],
+      "impact": "Nintendo Switch Online members get a free game trial."
+    },
+    {
+      "title": "ARC Raiders adds new outfits",
+      "summary": "ARC Raiders game has an update. New color options for an outfit. They are Midnight and Crimson Frost.",
+      "category": "Software",
+      "source": "Arcraiders.com",
+      "url": "https://arcraiders.com/news/store-update-1-30-0",
+      "image": "https://storage.googleapis.com/web-arc-raiders-cms-assets/temp/social/arc-raiders-social.png",
+      "key_points": [
+        "ARC Raiders store update",
+        "New outfit colors",
+        "Leviathan Set variants"
+      ],
+      "impact": "Players of ARC Raiders can buy new cosmetic items."
+    },
+    {
+      "title": "TEVI gets new DLC soon",
+      "summary": "TEVI is getting new content. It is called 'Fauna Arcana'. It releases on PC June 25th.",
+      "category": "Software",
+      "source": "Gematsu",
+      "url": "https://gematsu.com/2026/05/tevi-dlc-fauna-arcana-announced",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/05/TEVI-Fauna-Arcana-Ann_05-25-26.jpg",
+      "key_points": [
+        "TEVI DLC announced",
+        "Fauna Arcana name",
+        "PC release June 25"
+      ],
+      "impact": "New content for TEVI is coming next month."
     }
   ]
 }
