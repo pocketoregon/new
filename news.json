@@ -1,119 +1,119 @@
 {
   "date": "2026-05-27",
-  "generated_at": "2026-05-27T19:55:36.095360+00:00",
+  "generated_at": "2026-05-27T21:42:26.415933+00:00",
   "edition": "Daily Tech Briefing",
   "articles": [
     {
-      "title": "Apple tests new iOS and iPadOS updates",
-      "summary": "Apple gave developers early versions of iOS and iPadOS. This is for testing new features. They will be released soon.",
-      "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/05/26/apple-releases-ios-26-beta-1/",
-      "image": "https://images.macrumors.com/t/RzJYGwPST2fim75_lRKrQt8RKw8=/2500x/article-new/2026/05/iOS-26.6-Glass-Feature.jpg",
-      "key_points": [
-        "Apple releases beta",
-        "iOS and iPadOS updates",
-        "Developers test features"
-      ],
-      "impact": "Developers are testing new Apple software updates."
-    },
-    {
-      "title": "Rocket League gets new look with Unreal Engine 6",
-      "summary": "Rocket League gets a big visual upgrade. It uses Unreal Engine 6. This will make the game look much better.",
-      "category": "Software",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/rocket-league-unreal-engine-6-tease",
-      "image": "https://assetsio.gnwcdn.com/rocket-league-new-era-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "key_points": [
-        "Rocket League upgrade",
-        "Unreal Engine 6",
-        "Better game visuals"
-      ],
-      "impact": "Rocket League will have a major graphical overhaul."
-    },
-    {
-      "title": "New Lego city-building game is rumored",
-      "summary": "A new Lego city-building game called Skylines is rumored. Paradox might make it. This is based on game ratings.",
-      "category": "Software",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/lego-skylines-city-building-paradox",
-      "image": "https://assetsio.gnwcdn.com/Lego-Skylines-custom-EG.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "key_points": [
-        "Lego Skylines game",
-        "Paradox might develop",
-        "Ratings hint at game"
-      ],
-      "impact": "A Lego city builder like Skylines may be in development."
-    },
-    {
-      "title": "Oppo Bubble helps take better selfies",
-      "summary": "Oppo made a small screen called Bubble. It sticks to your phone. You see yourself to take better selfies with the back camera.",
-      "category": "Hardware",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/oppobubble1.jpg?quality=90&strip=all&crop=0,10.751393583258,100,78.497212833484",
-      "key_points": [
-        "Oppo Bubble screen",
-        "Magnetic selfie aid",
-        "Preview rear camera"
-      ],
-      "impact": "Oppo's accessory helps use rear cameras for selfies."
-    },
-    {
-      "title": "Windows Space Cadet pinball is back",
-      "summary": "The old Windows game Space Cadet pinball gets a real version. It will be a physical pinball machine. This brings back a classic.",
-      "category": "Hardware",
+      "title": "AI agents have security flaw",
+      "summary": "Many AI bots are at risk. A big problem was found in code. This could let hackers take control.",
+      "category": "Security",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/05/windows-classic-3d-space-cadet-pinball-is-getting-a-physical-re-creation/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/3dspacecadet-1152x648-1779811060.jpeg",
+      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
       "key_points": [
-        "Classic pinball game",
-        "Physical machine",
-        "Space Cadet returns"
+        "AI agents at risk",
+        "Critical flaw found",
+        "Hackers may gain control"
       ],
-      "impact": "A physical pinball machine based on the Windows game is coming."
+      "impact": "This flaw could let attackers take over many AI systems."
     },
     {
-      "title": "Dragon Quest team stream announced",
-      "summary": "Square Enix will stream updates. The Dragon Quest team will share news. It's a short, ten-minute broadcast.",
+      "title": "Google Health app replaces Fitbit",
+      "summary": "Google's new Health app is here. It replaced the Fitbit app. Many users dislike the changes.",
+      "category": "AI",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/HealthApp_hero.width-1600.jpg?quality=90&strip=all&crop=0%2C3.5645047073983%2C100%2C92.870990585203&w=1200",
+      "key_points": [
+        "Fitbit app retired",
+        "New Google Health app",
+        "Users unhappy with changes"
+      ],
+      "impact": "Fitbit users do not like the new AI coach and app."
+    },
+    {
+      "title": "New James Bond game scores well",
+      "summary": "The new 007 game is out. It got high scores from reviewers. It could be a top game this year.",
       "category": "Software",
-      "source": "Nintendo Everything",
-      "url": "https://nintendoeverything.com/update-from-the-dragon-quest-team-live-stream-announced/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Update-from-the-Dragon-Quest-team-live-stream.jpg",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/05/26/the-007-first-light-metacritic-review-score-is-in/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a1597979ee6ecfa2d3f7a24/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "key_points": [
-        "Dragon Quest stream",
-        "Team updates shared",
-        "Short broadcast"
+        "007 game launched",
+        "High review scores",
+        "A top game?"
       ],
-      "impact": "The Dragon Quest team will share news in a short live stream."
+      "impact": "The new James Bond game is a hit with critics."
     },
     {
-      "title": "Backpack melted on hot Corvette engine",
-      "summary": "A backpack was on a hot car engine. It was a Corvette C8. The bag melted. The car almost caught fire.",
+      "title": "Indie games to check out",
+      "summary": "Cool new indie games are out. One is Mina the Hollower. Another is a bullet-hell roguelike.",
+      "category": "Software",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/the-week-in-games-mina-the-hollower-and-an-under-the-radar-turn-based-bullet-hell-roguelike-2000699490",
+      "image": "https://kotaku.com/app/uploads/2026/05/minas-2.jpg",
+      "key_points": [
+        "New indie games out",
+        "Mina the Hollower",
+        "Bullet-hell roguelike"
+      ],
+      "impact": "Two unique indie games launch for players this week."
+    },
+    {
+      "title": "Nvidia Control Panel is retired",
+      "summary": "The Nvidia Control Panel is gone. It served users for 20 years. New drivers help recent games.",
       "category": "Hardware",
-      "source": "Guessingheadlights.com",
-      "url": "https://guessingheadlights.com/mans-girlfriend-put-his-backpack-in-what-she-thought-was-the-trunk-of-a-c8-corvette-the-hot-engine-nearly-caught-fire/",
-      "image": "https://s.yimg.com/lo/mysterio/api/0e2c136a9e6002de4011c72697848e73a46e052185ab61e2ef0a40f5eba2a8fb/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fguessing_headlights_178%2F2a2141fb8f61548a9d8d8f636a1fc923",
+      "source": "Digitalfoundry.net",
+      "url": "https://www.digitalfoundry.net/news/2026/05/rip-after-20-years-its-time-to-say-goodbye-to-the-nvidia-control-panel",
+      "image": "https://images.digitalfoundry.net/74f7bdb27ad8e/large.jpg",
       "key_points": [
-        "Backpack on engine",
-        "Corvette C8 incident",
-        "Bag melted"
+        "Nvidia panel retired",
+        "Served for 20 years",
+        "New driver support"
       ],
-      "impact": "A backpack melted after being placed on a hot Corvette engine."
+      "impact": "The long-time Nvidia Control Panel is now replaced."
     },
     {
-      "title": "The Free Press launches community initiatives",
-      "summary": "The Free Press starts new community events. They will have forums and clubs. The goal is to get people to think for themselves.",
+      "title": "Destruction AllStars servers shut down",
+      "summary": "The game Destruction AllStars is gone. Its online servers are off. This happened without warning.",
+      "category": "Software",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/05/ps5s-destruction-allstars-delisted-servers-officially-disabled-without-notice",
+      "image": "https://images.pushsquare.com/af024affac1df/large.jpg",
+      "key_points": [
+        "Game delisted",
+        "Servers now off",
+        "No warning given"
+      ],
+      "impact": "Players can no longer play Destruction AllStars online."
+    },
+    {
+      "title": "Apple releases iOS 26.6 beta",
+      "summary": "Apple released a new beta. It's for iOS 26.6 on iPhones. Developers can test it now.",
+      "category": "Software",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/05/26/apple-releases-first-ios-26-6-beta-for-iphone/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iOS-26.6-b1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "key_points": [
+        "New iOS beta",
+        "For developers",
+        "iPhone update"
+      ],
+      "impact": "Developers can test the first iOS 26.6 beta."
+    },
+    {
+      "title": "The Free Press launches community",
+      "summary": "The Free Press is starting new things. They want to build a community. This includes forums and events.",
       "category": "Business",
       "source": "Thefp.com",
       "url": "https://www.thefp.com/p/free-press-community-launch",
       "image": "https://substackcdn.com/image/fetch/$s_!ci9t!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5c3d801-d25b-4e2d-aea9-4b68e23e230a_1325x876.jpeg",
       "key_points": [
-        "The Free Press community",
-        "Forums and clubs",
-        "Encourages thinking"
+        "The Free Press initiative",
+        "Building community",
+        "New forums and events"
       ],
-      "impact": "The Free Press is launching new community programs."
+      "impact": "The Free Press is expanding with community initiatives."
     }
   ]
 }
