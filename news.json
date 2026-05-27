@@ -1,119 +1,119 @@
 {
   "date": "2026-05-27",
-  "generated_at": "2026-05-27T17:50:09.987693+00:00",
+  "generated_at": "2026-05-27T19:55:36.095360+00:00",
   "edition": "Daily Tech Briefing",
   "articles": [
     {
-      "title": "Apple shares new software tests",
-      "summary": "Apple gave new software to testers. It's for phones and tablets. They are testing updates.",
+      "title": "Apple tests new iOS and iPadOS updates",
+      "summary": "Apple gave developers early versions of iOS and iPadOS. This is for testing new features. They will be released soon.",
       "category": "Software",
       "source": "MacRumors",
       "url": "https://www.macrumors.com/2026/05/26/apple-releases-ios-26-beta-1/",
       "image": "https://images.macrumors.com/t/RzJYGwPST2fim75_lRKrQt8RKw8=/2500x/article-new/2026/05/iOS-26.6-Glass-Feature.jpg",
       "key_points": [
-        "New iOS beta",
-        "New iPadOS beta",
-        "For developers"
+        "Apple releases beta",
+        "iOS and iPadOS updates",
+        "Developers test features"
       ],
-      "impact": "Developers can test new phone and tablet software."
+      "impact": "Developers are testing new Apple software updates."
     },
     {
-      "title": "Rocket League gets new look preview",
-      "summary": "Rocket League will look different. It uses a new game engine. Epic showed a preview.",
+      "title": "Rocket League gets new look with Unreal Engine 6",
+      "summary": "Rocket League gets a big visual upgrade. It uses Unreal Engine 6. This will make the game look much better.",
       "category": "Software",
       "source": "Eurogamer.net",
       "url": "https://www.eurogamer.net/rocket-league-unreal-engine-6-tease",
       "image": "https://assetsio.gnwcdn.com/rocket-league-new-era-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "key_points": [
-        "Rocket League update",
-        "New engine preview",
-        "Visual changes"
+        "Rocket League upgrade",
+        "Unreal Engine 6",
+        "Better game visuals"
       ],
-      "impact": "The game will have a big visual upgrade soon."
+      "impact": "Rocket League will have a major graphical overhaul."
     },
     {
-      "title": "New Lego city builder game coming?",
-      "summary": "A new Lego game is hinted. It might be like Cities: Skylines. A rating board listed it.",
+      "title": "New Lego city-building game is rumored",
+      "summary": "A new Lego city-building game called Skylines is rumored. Paradox might make it. This is based on game ratings.",
       "category": "Software",
       "source": "Eurogamer.net",
       "url": "https://www.eurogamer.net/lego-skylines-city-building-paradox",
       "image": "https://assetsio.gnwcdn.com/Lego-Skylines-custom-EG.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "key_points": [
-        "Lego city game",
-        "Paradox Interactive",
-        "Rating board leak"
+        "Lego Skylines game",
+        "Paradox might develop",
+        "Ratings hint at game"
       ],
-      "impact": "City builder fans may get a Lego version of the game."
+      "impact": "A Lego city builder like Skylines may be in development."
     },
     {
-      "title": "Old Windows pinball game gets real version",
-      "summary": "Classic Space Cadet pinball is back. It will be a real machine. It was a Windows game.",
-      "category": "Hardware",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/05/windows-classic-3d-space-cadet-pinball-is-getting-a-physical-re-creation/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/3dspacecadet-1152x648-1779811060.jpeg",
-      "key_points": [
-        "Pinball game remake",
-        "Physical machine",
-        "Windows classic"
-      ],
-      "impact": "A favorite Windows game is becoming an actual pinball machine."
-    },
-    {
-      "title": "Oppo's Bubble helps rear camera selfies",
-      "summary": "Oppo made a small screen. It sticks to your phone's back. You can see yourself for photos.",
+      "title": "Oppo Bubble helps take better selfies",
+      "summary": "Oppo made a small screen called Bubble. It sticks to your phone. You see yourself to take better selfies with the back camera.",
       "category": "Hardware",
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/oppobubble1.jpg?quality=90&strip=all&crop=0,10.751393583258,100,78.497212833484",
       "key_points": [
-        "Selfie preview screen",
-        "Magnetic attachment",
-        "Oppo accessory"
+        "Oppo Bubble screen",
+        "Magnetic selfie aid",
+        "Preview rear camera"
       ],
-      "impact": "Use your phone's better main cameras for selfies with this accessory."
+      "impact": "Oppo's accessory helps use rear cameras for selfies."
     },
     {
-      "title": "Dragon Quest live stream announced",
-      "summary": "The Dragon Quest team will stream. They will share news. It's a short broadcast.",
+      "title": "Windows Space Cadet pinball is back",
+      "summary": "The old Windows game Space Cadet pinball gets a real version. It will be a physical pinball machine. This brings back a classic.",
+      "category": "Hardware",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/05/windows-classic-3d-space-cadet-pinball-is-getting-a-physical-re-creation/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/3dspacecadet-1152x648-1779811060.jpeg",
+      "key_points": [
+        "Classic pinball game",
+        "Physical machine",
+        "Space Cadet returns"
+      ],
+      "impact": "A physical pinball machine based on the Windows game is coming."
+    },
+    {
+      "title": "Dragon Quest team stream announced",
+      "summary": "Square Enix will stream updates. The Dragon Quest team will share news. It's a short, ten-minute broadcast.",
       "category": "Software",
-      "source": "Nintendoeverything.com",
+      "source": "Nintendo Everything",
       "url": "https://nintendoeverything.com/update-from-the-dragon-quest-team-live-stream-announced/",
       "image": "https://nintendoeverything.com/wp-content/uploads/Update-from-the-Dragon-Quest-team-live-stream.jpg",
       "key_points": [
-        "Dragon Quest news",
-        "Live stream event",
-        "Square Enix update"
+        "Dragon Quest stream",
+        "Team updates shared",
+        "Short broadcast"
       ],
-      "impact": "Fans will get new information about the Dragon Quest series."
+      "impact": "The Dragon Quest team will share news in a short live stream."
     },
     {
-      "title": "Backpack melts on hot Corvette engine",
-      "summary": "A backpack was on a hot engine. It started to melt. The car is a Corvette C8.",
+      "title": "Backpack melted on hot Corvette engine",
+      "summary": "A backpack was on a hot car engine. It was a Corvette C8. The bag melted. The car almost caught fire.",
       "category": "Hardware",
       "source": "Guessingheadlights.com",
       "url": "https://guessingheadlights.com/mans-girlfriend-put-his-backpack-in-what-she-thought-was-the-trunk-of-a-c8-corvette-the-hot-engine-nearly-caught-fire/",
       "image": "https://s.yimg.com/lo/mysterio/api/0e2c136a9e6002de4011c72697848e73a46e052185ab61e2ef0a40f5eba2a8fb/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fguessing_headlights_178%2F2a2141fb8f61548a9d8d8f636a1fc923",
       "key_points": [
-        "Car engine heat",
-        "Melted backpack",
-        "Corvette C8 incident"
+        "Backpack on engine",
+        "Corvette C8 incident",
+        "Bag melted"
       ],
-      "impact": "A backpack melted on a car's hot engine."
+      "impact": "A backpack melted after being placed on a hot Corvette engine."
     },
     {
-      "title": "New community features for The Free Press",
-      "summary": "The Free Press is launching new things. It's for its community. There will be events and talks.",
+      "title": "The Free Press launches community initiatives",
+      "summary": "The Free Press starts new community events. They will have forums and clubs. The goal is to get people to think for themselves.",
       "category": "Business",
       "source": "Thefp.com",
       "url": "https://www.thefp.com/p/free-press-community-launch",
       "image": "https://substackcdn.com/image/fetch/$s_!ci9t!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5c3d801-d25b-4e2d-aea9-4b68e23e230a_1325x876.jpeg",
       "key_points": [
-        "Community launch",
-        "New events planned",
-        "The Free Press"
+        "The Free Press community",
+        "Forums and clubs",
+        "Encourages thinking"
       ],
-      "impact": "The publication offers new ways for readers to connect."
+      "impact": "The Free Press is launching new community programs."
     }
   ]
 }
