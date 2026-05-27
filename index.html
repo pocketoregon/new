@@ -18,12 +18,10 @@
       min-height: 100vh;
     }
 
-    /* Scrollbar */
     ::-webkit-scrollbar { width: 4px; }
     ::-webkit-scrollbar-track { background: #0a0a0a; }
     ::-webkit-scrollbar-thumb { background: #333; border-radius: 2px; }
 
-    /* Header */
     .site-header {
       position: sticky;
       top: 0;
@@ -33,22 +31,6 @@
       border-bottom: 1px solid #1e1e1e;
     }
 
-    .nav-link {
-      font-size: 0.78rem;
-      font-weight: 500;
-      letter-spacing: 0.06em;
-      text-transform: uppercase;
-      color: #888;
-      padding: 4px 0;
-      border-bottom: 2px solid transparent;
-      transition: all 0.2s;
-      cursor: pointer;
-    }
-
-    .nav-link:hover { color: #e8e8e8; }
-    .nav-link.active { color: #e8e8e8; border-bottom-color: #e8384f; }
-
-    /* Category pill */
     .cat-pill {
       font-size: 0.6rem;
       font-weight: 600;
@@ -59,7 +41,6 @@
       display: inline-block;
     }
 
-    /* Hero */
     .hero-img {
       width: 100%;
       height: 420px;
@@ -75,18 +56,6 @@
       align-items: center;
       justify-content: center;
     }
-
-    /* Article cards */
-    .article-row {
-      display: grid;
-      grid-template-columns: 220px 1fr;
-      gap: 20px;
-      padding: 24px 0;
-      border-bottom: 1px solid #1e1e1e;
-      align-items: start;
-    }
-
-    .article-row:last-child { border-bottom: none; }
 
     .article-row-img {
       width: 220px;
@@ -106,7 +75,6 @@
       justify-content: center;
     }
 
-    /* Grid cards */
     .grid-card {
       background: #111;
       border: 1px solid #1e1e1e;
@@ -136,7 +104,6 @@
       justify-content: center;
     }
 
-    /* Mini cards */
     .mini-card {
       display: flex;
       gap: 14px;
@@ -166,7 +133,6 @@
       justify-content: center;
     }
 
-    /* Read more */
     .read-btn {
       display: inline-flex;
       align-items: center;
@@ -181,13 +147,8 @@
     }
 
     .read-btn:hover { gap: 8px; }
+    .read-btn svg { width: 10px; height: 10px; }
 
-    .read-btn svg {
-      width: 10px;
-      height: 10px;
-    }
-
-    /* Section label */
     .section-label {
       font-size: 0.65rem;
       font-weight: 600;
@@ -199,7 +160,6 @@
       margin-bottom: 0;
     }
 
-    /* Article number */
     .art-num {
       font-family: 'Playfair Display', serif;
       font-size: 2.5rem;
@@ -209,7 +169,6 @@
       user-select: none;
     }
 
-    /* Skeleton */
     .skel {
       background: linear-gradient(90deg, #1a1a1a 25%, #222 50%, #1a1a1a 75%);
       background-size: 200% 100%;
@@ -222,7 +181,6 @@
       100% { background-position: -200% 0; }
     }
 
-    /* Progress bar */
     #progress {
       position: fixed;
       top: 0; left: 0;
@@ -233,36 +191,6 @@
       width: 0%;
     }
 
-    /* Search box */
-    #search-box {
-      position: absolute;
-      top: 100%;
-      right: 0;
-      background: #111;
-      border: 1px solid #2a2a2a;
-      border-radius: 8px;
-      padding: 12px;
-      width: 280px;
-      display: none;
-      margin-top: 8px;
-    }
-
-    #search-box.open { display: block; }
-
-    #search-input {
-      width: 100%;
-      background: #1a1a1a;
-      border: 1px solid #2a2a2a;
-      border-radius: 6px;
-      padding: 8px 12px;
-      color: #e8e8e8;
-      font-size: 13px;
-      outline: none;
-    }
-
-    #search-input:focus { border-color: #e8384f; }
-
-    /* Fade up */
     .fade-up {
       opacity: 0;
       transform: translateY(20px);
@@ -289,24 +217,15 @@
 <!-- HEADER -->
 <header class="site-header">
   <div class="max-w-5xl mx-auto px-5">
-
-    <!-- Top bar -->
-    <div class="flex items-center justify-between py-3 border-b border-neutral-900">
+    <div class="flex items-center justify-between py-4">
       <div>
         <div style="font-size:0.6rem; letter-spacing:0.15em; text-transform:uppercase; color:#555; margin-bottom:2px;">Daily Intelligence</div>
         <div style="font-family:'Playfair Display',serif; font-size:1.4rem; font-weight:900; letter-spacing:-0.02em;">
           AI<span style="color:#e8384f;">·</span>Brief
         </div>
       </div>
-      <div class="flex items-center gap-4">
-        <div id="header-date" style="font-size:0.7rem; color:#555; letter-spacing:0.05em; text-transform:uppercase;"></div>
-        <div id="header-count" style="font-size:0.7rem; color:#555;"></div>
-
-
-      </div>
     </div>
-
-    </div>
+  </div>
 </header>
 
 <!-- MAIN -->
@@ -349,20 +268,11 @@
 
   <!-- Content -->
   <div id="content" style="display:none;">
-
-    <!-- HERO -->
     <section id="hero-section" class="fade-up" style="margin-bottom:40px;"></section>
-
-    <!-- FURTHER READING -->
     <div class="section-label" style="margin-bottom:0;">Further Reading</div>
     <div id="rows-section"></div>
-
-    <!-- GRID (articles 5-6) -->
     <div id="grid-section" style="margin-top:32px;"></div>
-
-    <!-- MINI (articles 7-8) -->
     <div id="mini-section" style="margin-top:32px;"></div>
-
   </div>
 
 </main>
@@ -376,11 +286,7 @@
       </div>
       <div style="font-size:0.7rem; color:#444;">Real news simplified by Gemini AI · Refreshes daily at midnight UTC</div>
     </div>
-    <div class="flex items-center gap-6">
-      <span style="font-size:0.7rem; color:#444; cursor:pointer; hover:color:#888;">About</span>
-      <span style="font-size:0.7rem; color:#444; cursor:pointer;">Terms</span>
-      <span style="font-size:0.7rem; color:#444; cursor:pointer;">Privacy</span>
-      <span style="font-size:0.7rem; color:#444; cursor:pointer;">Archive</span>
+    <div>
       <span id="footer-updated" style="font-size:0.7rem; color:#333;"></span>
     </div>
   </div>
@@ -389,7 +295,6 @@
 <script>
   const prog = document.getElementById('progress');
   let allArticles = [];
-  let activeCategory = 'all';
 
   function setProgress(p) { prog.style.width = p + '%'; }
 
@@ -503,7 +408,7 @@
                 <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
                 Key Points
               </div>
-              <ul style="list-style:none; padding:0; margin:0; space-y:8px;">
+              <ul style="list-style:none; padding:0; margin:0;">
                 ${a.key_points.map(pt => `
                   <li style="display:flex; align-items:start; gap:8px; margin-bottom:10px;">
                     <span style="width:5px; height:5px; border-radius:50%; background:${color}; flex-shrink:0; margin-top:6px; display:block;"></span>
@@ -515,18 +420,15 @@
       </div>`;
   }
 
-function buildRow(a, num) {
+  function buildRow(a, num) {
     return `
       <div style="display:grid; grid-template-columns:40px 220px 1fr; gap:16px; align-items:start; padding:24px 0; border-bottom:1px solid #1e1e1e;">
-
         <div style="padding-top:4px;">
           <span class="art-num">${String(num).padStart(2,'0')}</span>
         </div>
-
         <div style="width:220px; height:150px; overflow:hidden; border-radius:6px; flex-shrink:0;">
           ${rowImg(a.image)}
         </div>
-
         <div>
           <div style="display:flex; align-items:center; gap:8px; margin-bottom:8px;">
             ${catPill(a.category)}
@@ -541,7 +443,6 @@ function buildRow(a, num) {
             </div>` : ''}
           ${readBtn(a.url, 'Read Full Article')}
         </div>
-
       </div>`;
   }
 
@@ -589,20 +490,17 @@ function buildRow(a, num) {
     mini.innerHTML = '';
 
     if (articles.length === 0) {
-      hero.innerHTML = `<div style="text-align:center; padding:40px 0; color:#555; font-size:0.85rem;">No articles found for this category.</div>`;
+      hero.innerHTML = `<div style="text-align:center; padding:40px 0; color:#555; font-size:0.85rem;">No articles found.</div>`;
       return;
     }
 
-    // Article 1 — Hero
     hero.innerHTML = buildHero(articles[0]);
 
-    // Articles 2-4 — Rows
     const rowArticles = articles.slice(1, 4);
     if (rowArticles.length > 0) {
       rows.innerHTML = rowArticles.map((a, i) => buildRow(a, i+2)).join('');
     }
 
-    // Articles 5-6 — Grid
     const gridArticles = articles.slice(4, 6);
     if (gridArticles.length > 0) {
       grid.innerHTML = `
@@ -612,7 +510,6 @@ function buildRow(a, num) {
         </div>`;
     }
 
-    // Articles 7+ — Mini
     const miniArticles = articles.slice(6);
     if (miniArticles.length > 0) {
       mini.innerHTML = `
@@ -620,57 +517,6 @@ function buildRow(a, num) {
         ${miniArticles.map((a, i) => buildMini(a, i+7)).join('')}`;
     }
   }
-
-  function filterCategory(cat, btn) {
-    activeCategory = cat;
-    document.querySelectorAll('.nav-link').forEach(b => b.classList.remove('active'));
-    if (btn) btn.classList.add('active');
-
-    const filtered = cat === 'all'
-      ? allArticles
-      : allArticles.filter(a => a.category === cat);
-
-    renderArticles(filtered);
-  }
-
-  function toggleSearch() {
-    document.getElementById('search-box').classList.toggle('open');
-    if (document.getElementById('search-box').classList.contains('open')) {
-      setTimeout(() => document.getElementById('search-input').focus(), 100);
-    }
-  }
-
-  function filterArticles(query) {
-    const q = query.toLowerCase().trim();
-    const resultsEl = document.getElementById('search-results');
-    if (!q) { resultsEl.innerHTML = ''; return; }
-
-    const matches = allArticles.filter(a =>
-      a.title.toLowerCase().includes(q) ||
-      a.summary.toLowerCase().includes(q) ||
-      (a.category || '').toLowerCase().includes(q)
-    );
-
-    if (matches.length === 0) {
-      resultsEl.innerHTML = '<div style="color:#555;">No results found.</div>';
-    } else {
-      resultsEl.innerHTML = matches.map(a => `
-        <div style="padding:8px 0; border-bottom:1px solid #1e1e1e; cursor:pointer;"
-          onclick="document.getElementById('search-box').classList.remove('open')">
-          <div style="font-size:0.72rem; color:#e8384f; margin-bottom:2px;">${a.category}</div>
-          <div style="font-size:0.78rem; color:#ddd;">${a.title}</div>
-          ${a.url ? `<a href="${a.url}" target="_blank" style="font-size:0.65rem; color:#555;">Read →</a>` : ''}
-        </div>`).join('');
-    }
-  }
-
-  // Close search on outside click
-  document.addEventListener('click', e => {
-    const box = document.getElementById('search-box');
-    if (!box.contains(e.target) && !e.target.closest('button[onclick="toggleSearch()"]')) {
-      box.classList.remove('open');
-    }
-  });
 
   async function loadNews() {
     document.getElementById('loading').style.display = 'block';
@@ -687,9 +533,6 @@ function buildRow(a, num) {
 
       allArticles = data.articles;
 
-      // Header info
-      document.getElementById('header-date').textContent = formatDate(data.date);
-      document.getElementById('header-count').textContent = data.articles.length + ' stories';
       if (data.generated_at) {
         document.getElementById('footer-updated').textContent =
           'Last updated: ' + new Date(data.generated_at).toLocaleString('en-US', {
