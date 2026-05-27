@@ -1,119 +1,119 @@
 {
-  "date": "2026-05-26",
-  "generated_at": "2026-05-26T14:39:14.956073+00:00",
+  "date": "2026-05-27",
+  "generated_at": "2026-05-27T02:34:58.034899+00:00",
   "edition": "Daily Tech Briefing",
   "articles": [
     {
-      "title": "Google Search Update Rolled Out",
-      "summary": "Google updated its search system. Many sites felt the change. The update began over the weekend.",
+      "title": "Windows 11 Secure Boot Update Needed",
+      "summary": "Microsoft updates Windows 11 security. Older PCs may lose protection. Update Secure Boot by June 2026.",
+      "category": "Security",
+      "source": "WindowsLatest",
+      "url": "https://www.windowslatest.com/2026/05/26/microsoft-reveals-what-happens-to-windows-11-pcs-if-you-ignore-the-secure-boot-deadline-in-june-2026/",
+      "image": "https://www.windowslatest.com/wp-content/uploads/2026/05/Microsoft-conducted-an-AMA-about-Secure-Boot.jpg",
+      "key_points": [
+        "Windows 11 security update",
+        "Secure Boot deadline June 2026",
+        "PCs may lose protection"
+      ],
+      "impact": "Your PC might not get future security updates without this."
+    },
+    {
+      "title": "Street Fighter 6 Adds New Outfits",
+      "summary": "New outfits for Ingrid, Sagat, Alex, and C. Viper arrive. These are for Season 3 DLC. Get new looks.",
       "category": "Software",
-      "source": "Seroundtable.com",
-      "url": "https://www.seroundtable.com/google-may-2026-core-update-landed-41380.html",
-      "image": "https://images.seroundtable.com/google-core-logo-landing-1779707454.jpg",
+      "source": "EventHubs",
+      "url": "https://www.eventhubs.com/news/2026/may/25/season-3-costumes-sf6/",
+      "image": "https://media.eventhubs.com/images/2026/05/25-season-3-costumes-sf6t.webp",
       "key_points": [
-        "Google search update",
-        "Sites felt change",
-        "Weekend release"
+        "Street Fighter 6 DLC",
+        "New character outfits",
+        "Season 3 costumes"
       ],
-      "impact": "Website visibility may change from this update."
+      "impact": "Players can customize fighters with new styles."
     },
     {
-      "title": "AMD's Next Chips Due 2028",
-      "summary": "AMD's new CPUs launch in 2028. They will use a tiny new factory process. New packaging will also be used.",
-      "category": "Hardware",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/amd-zen-7-grimlock-cpus-utilize-tsmc-1-4nm-process-tech-foplp-packaging-launc-2028/",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/AMD-Zen-7-Grimlock-1920x1068.jpg",
-      "key_points": [
-        "New AMD CPUs",
-        "Tiny factory tech",
-        "2028 launch"
-      ],
-      "impact": "Future computer chips will be faster and smaller."
-    },
-    {
-      "title": "Metal Gear Solid 4 Coming to PS5",
-      "summary": "Metal Gear Solid 4 arrives on PS5. It was first released on PS3. Play it on modern consoles now.",
+      "title": "Samsung Gallery Drops OneDrive Backup",
+      "summary": "Samsung Gallery will stop saving to OneDrive. This happens later this year. Microsoft confirmed the change.",
       "category": "Software",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/05/let-out-of-ps3-jail-heres-an-hour-of-metal-gear-solid-4s-new-ps5-version",
-      "image": "https://images.pushsquare.com/012e23a742bac/large.jpg",
-      "key_points": [
-        "MGS4 to PS5",
-        "Classic game reborn",
-        "Play on new consoles"
-      ],
-      "impact": "Fans can play an old favorite on new systems."
-    },
-    {
-      "title": "Samsung Foldable Phone Name Leaks",
-      "summary": "A new Samsung foldable phone name leaked. It may be called 'Galaxy Z Fold 8 Ultra'. It could challenge Apple's new phone.",
-      "category": "Hardware",
       "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/05/25/galaxy-z-fold-8-ultra-branding-leak/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/galaxy-z-fold-8-wide-leak-renders-onl-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "http://9to5google.com/2026/05/25/samsung-gallery-is-ditching-onedrive-integration/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Samsung-Gallery-Screenshots-organizer.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "key_points": [
-        "New Samsung name",
-        "'Fold 8 Ultra' name",
-        "Apple phone rival"
+        "Samsung Gallery change",
+        "No OneDrive backup",
+        "Happens later this year"
       ],
-      "impact": "Samsung plans a new high-end foldable phone."
+      "impact": "Users need a new way to back up Samsung Gallery photos."
     },
     {
-      "title": "Racer Not Worried by Car Rules",
-      "summary": "A racing boss is not worried about car rules. New GT3 cars are for racing tracks. These cars are track-first designs.",
+      "title": "Sony Not Angry at Naughty Dog",
+      "summary": "False news spread on social media. A journalist was misquoted. It wrongly claimed Sony was mad.",
       "category": "Business",
-      "source": "Sportscar365",
-      "url": "https://sportscar365.com/lemans/wec/ratel-not-concerned-about-latest-gt3-evolution/",
-      "image": "https://sportscar365.com/wp-content/uploads/2026/05/MercGT3.jpg",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/05/absurd-social-media-misquotes-journalist-erroneously-claims-sony-is-angry-at-naughty-dog",
+      "image": "https://images.pushsquare.com/a9182506f08ca/large.jpg",
       "key_points": [
-        "Car racing rules",
-        "New GT3 cars",
-        "Track focus"
+        "False Sony Naughty Dog rumor",
+        "Journalist misquoted",
+        "Social media misinformation"
       ],
-      "impact": "New racing car models will prioritize track performance."
+      "impact": "Online rumors can easily mislead people about company relations."
     },
     {
-      "title": "California Age Law Might Skip Linux",
-      "summary": "A new California law needs age checks. It may not affect Linux software. Open-source systems might be exempt.",
-      "category": "Policy",
-      "source": "Phoronix.com",
-      "url": "https://www.phoronix.com/news/California-AB-1856",
-      "image": "https://www.phoronix.net/image.php?id=2023&image=steam_deck_tweaks",
-      "key_points": [
-        "California age law",
-        "Linux might be exempt",
-        "Open-source relief"
-      ],
-      "impact": "Linux users may not need to share age info due to this law."
-    },
-    {
-      "title": "It's Okay Not to Like Popular Games",
-      "summary": "It's fine not to like popular games. Popularity doesn't guarantee enjoyment. Find games you truly love.",
+      "title": "DELTARUNE Creator Needs Help",
+      "summary": "Toby Fox can't make DELTARUNE alone. The work is too much. His health is a factor.",
       "category": "Software",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/05/the-witcher-3-is-a-good-game-but-that-doesnt-mean-you-have-to-like-it/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/The-Witcher-3-hero-image-1152x648-1779476972.jpg",
+      "source": "GoNintendo",
+      "url": "https://gonintendo.com/contents/61097-toby-fox-says-creating-deltarune-by-himself-wouldn-t-be-possible-due-to-the-work",
+      "image": "https://gonintendo.com/attachments/image/80905/file/medium-5b5c7a5c014fb72bfb30c0b94104f9db.jpg",
       "key_points": [
-        "Don't force games",
-        "Find what you like",
-        "Popularity isn't everything"
+        "DELTARUNE creator needs help",
+        "Workload too big",
+        "Health concerns"
       ],
-      "impact": "Your personal enjoyment matters more than game hype."
+      "impact": "Game development is demanding for solo creators."
     },
     {
-      "title": "Indie Games Shown at Japan Event",
-      "summary": "Many indie games were displayed. This was at BitSummit in Japan. Developers showed new titles.",
-      "category": "Software",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/features/round-up-12-switch-1-and-2-games-we-played-at-bitsummit-2026-heres-what-we-thought",
-      "image": "https://images.nintendolife.com/d84c34fe69753/large.jpg",
+      "title": "TheGamer Writers Unhappy with Pay",
+      "summary": "TheGamer writers got a new contract. It's pay-per-session. This means pay is inconsistent. They are heartbroken.",
+      "category": "Business",
+      "source": "Aftermath.site",
+      "url": "https://aftermath.site/the-gamer-valnet-pay-per-session-contract/",
+      "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/05/Screenshot-2026-05-25-at-1.17.25---PM-1.png",
       "key_points": [
-        "Indie games shown",
-        "BitSummit event",
-        "Japan convention"
+        "TheGamer writers' contract",
+        "Pay-per-session model",
+        "Writers are unhappy"
       ],
-      "impact": "New independent games were showcased at a Japanese event."
+      "impact": "New payment systems can affect freelance workers' income."
+    },
+    {
+      "title": "Powerful Semi-Truck Engines Listed",
+      "summary": "Some semi-truck engines are very powerful. This list shows 11 of the best. They haul heavy loads.",
+      "category": "Hardware",
+      "source": "Jalopnik",
+      "url": "https://www.jalopnik.com/2180153/most-powerful-semi-truck-engines-ever-built/",
+      "image": "https://www.jalopnik.com/img/gallery/these-are-11-of-the-most-powerful-semi-truck-engines-ever-built/l-intro-1779596668.jpg",
+      "key_points": [
+        "Most powerful truck engines",
+        "For heavy hauling",
+        "List of 11 engines"
+      ],
+      "impact": "Engine tech is key for efficient goods transport."
+    },
+    {
+      "title": "Antarctic Isolation Study Warns of Risks",
+      "summary": "Being stuck in Antarctica has risks. Long missions carry dangers. Isolation causes problems.",
+      "category": "Science",
+      "source": "Phys.Org",
+      "url": "https://phys.org/news/2026-05-months-antarctic-isolation-reveal-missions.html",
+      "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/05/Screenshot-2026-05-25-at-1.17.25---PM-1.png",
+      "key_points": [
+        "Antarctic isolation study",
+        "Risks of long missions",
+        "Psychological impact"
+      ],
+      "impact": "Long isolation can have serious psychological effects."
     }
   ]
 }
