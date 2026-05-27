@@ -541,13 +541,18 @@
       </div>`;
   }
 
-  function buildRow(a, num) {
+function buildRow(a, num) {
     return `
-      <div class="article-row fade-up">
-        <div style="display:flex; gap:16px; align-items:start;">
+      <div style="display:grid; grid-template-columns:40px 220px 1fr; gap:16px; align-items:start; padding:24px 0; border-bottom:1px solid #1e1e1e;">
+
+        <div style="padding-top:4px;">
           <span class="art-num">${String(num).padStart(2,'0')}</span>
+        </div>
+
+        <div style="width:220px; height:150px; overflow:hidden; border-radius:6px; flex-shrink:0;">
           ${rowImg(a.image)}
         </div>
+
         <div>
           <div style="display:flex; align-items:center; gap:8px; margin-bottom:8px;">
             ${catPill(a.category)}
@@ -562,6 +567,7 @@
             </div>` : ''}
           ${readBtn(a.url, 'Read Full Article')}
         </div>
+
       </div>`;
   }
 
