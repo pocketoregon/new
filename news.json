@@ -1,135 +1,135 @@
 {
   "date": "2026-05-28",
-  "generated_at": "2026-05-28T18:17:51.958713+00:00",
+  "generated_at": "2026-05-28T21:09:35.449504+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Dragon Quest 12 Delayed as Team Starts Over",
-      "description": "Dragon Quest XII: Beyond Dreams faces delays as Square Enix decides to restart development. Fans will have to wait longer for the sequel they've anticipated for nearly a decade.",
+      "title": "League of Legends Dev Update: New Champion",
+      "description": "The latest Dev Update reveals Locke, a high burst assassin champion. Players can expect exciting gameplay changes and features soon.",
       "category": "Software",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/dragon-quest-12-will-take-longer-to-come-out-after-the-team-decided-to-start-from-scratch-2000699781",
-      "image": "https://kotaku.com/app/uploads/2026/05/thumbs-up.jpg",
-      "published_at": "2026-05-27T15:44:24Z",
+      "source": "Leagueoflegends.com",
+      "url": "https://www.leagueoflegends.com/en-us/news/dev/tldw-mayhem-ranked-5s-more-dev-update/",
+      "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/76a3690320d5c07c48a524e6e42c83c1f4f9327d-1920x1080.png?accountingTag=LoL?w=1200&h=630&fm=webp&fit=crop&crop=center",
+      "published_at": "2026-05-27T20:26:25Z",
       "key_points": [
-        "Development restarted from scratch",
-        "No release date announced",
-        "Fans disappointed by delay"
+        "New champion Locke announced",
+        "High burst assassin gameplay",
+        "Exciting changes coming soon"
       ],
-      "impact": "The delay extends the wait for eager fans.",
-      "id": "81a91321f8dc297516d5af7f8b91ca0b"
+      "impact": "Players can look forward to fresh gameplay.",
+      "id": "22ccc7357cd62a1101846e7792391bf5"
     },
     {
-      "title": "Mina The Hollower Claims Top Metacritic Spot",
-      "description": "Mina the Hollower has achieved the highest Metacritic score of 2026, surpassing competitors by a significant margin. It stands out in a competitive gaming landscape this year.",
+      "title": "Ranked 5s Returns to League of Legends",
+      "description": "League of Legends is testing a new Ranked 5s queue with unique twists. Players can expect a fresh competitive experience.",
       "category": "Software",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/05/27/the-highest-metacritic-scored-game-of-2026-has-just-arrived/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a16fe1e8a48812d17031fad/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published_at": "2026-05-27T15:34:49Z",
+      "source": "Leagueoflegends.com",
+      "url": "https://www.leagueoflegends.com/en-us/news/dev/dev-the-return-of-ranked-5s/",
+      "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/38c3240034d266bc9dc85a1497ebab7e4b9682c2-1920x1080.jpg?accountingTag=LoL?w=1200&h=630&fm=webp&fit=crop&crop=center",
+      "published_at": "2026-05-27T20:06:42Z",
       "key_points": [
-        "Mina the Hollower is #1",
-        "Significant Metacritic lead",
-        "Competing games struggle to catch up"
+        "New Ranked 5s queue introduced",
+        "Unique twists for players",
+        "Fresh competitive experience awaits"
       ],
-      "impact": "Mina the Hollower sets a high bar for 2026.",
-      "id": "9fb6196e33cfbdd0e6882d3f06086db2"
+      "impact": "Players can enjoy a revamped Ranked experience.",
+      "id": "4ea236f5a48206c21491c9932e453459"
     },
     {
-      "title": "Nvidia Retires Legacy Control Panel After 20 Years",
-      "description": "Nvidia has officially retired its Windows XP-era Control Panel, migrating its features to the new Nvidia app. This marks the end of an era for long-time users.",
+      "title": "Roku OS Home Screen Features Permanent Ad",
+      "description": "Roku's home screen now includes a large, permanent advertisement. Users express frustration over unwanted recommendations.",
       "category": "Software",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/05/nvidia-kills-windows-xp-era-control-panel-after-20-years-of-dedicated-service/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/nvidia-control-panel-1152x648-1779893010.jpg",
-      "published_at": "2026-05-27T15:06:01Z",
+      "url": "https://arstechnica.com/gadgets/2026/05/roku-oss-home-screen-now-features-a-large-permanent-ad/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Roku-1-1152x648.jpeg",
+      "published_at": "2026-05-27T19:12:59Z",
       "key_points": [
-        "Control Panel retired after 20 years",
-        "Features moved to Nvidia app",
-        "End of an era for users"
+        "Permanent ad on Roku home screen",
+        "User frustration grows",
+        "Recommendations unwanted by users"
       ],
-      "impact": "Users must adapt to the new Nvidia app.",
-      "id": "ed8ab126732682076d70c87d52bf615b"
+      "impact": "Roku users are unhappy with the new ad.",
+      "id": "c63f5b8f2efc5e7a359486252eff0190"
     },
     {
-      "title": "Kojima and Refn Collaborate on AI Short for Prada",
-      "description": "Hideo Kojima and Nicolas Winding Refn have teamed up for an AI-driven short film for a Prada event. This collaboration explores innovative creative possibilities.",
-      "category": "Startups",
+      "title": "Steam Deck Prices Increase by $200",
+      "description": "Valve raises Steam Deck prices significantly, with the 1TB model now at $949. The 512GB version also sees a price hike.",
+      "category": "Hardware",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/938340/valve-steam-deck-price-increase",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070054/DSCF9155.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-05-27T17:32:48Z",
+      "key_points": [
+        "Steam Deck prices raised significantly",
+        "1TB model now $949",
+        "512GB version also increased"
+      ],
+      "impact": "Gamers face higher costs for Steam Deck.",
+      "id": "5a0dcde9aaac93252f137703b5ba3053"
+    },
+    {
+      "title": "xTool M2: Affordable Crafting Machine",
+      "description": "The xTool M2 is a versatile crafting machine priced at $599, offering laser cutting and full-color printing capabilities.",
+      "category": "Hardware",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/938031/xtool-m2-craft-machine-cmyk-inkjet-printing-laser-diode-cutter",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/xtool_m2_1.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "published_at": "2026-05-27T16:56:02Z",
+      "key_points": [
+        "xTool M2 priced at $599",
+        "Supports laser cutting and printing",
+        "Versatile for various projects"
+      ],
+      "impact": "Crafting enthusiasts gain a powerful tool.",
+      "id": "4cbc68d68d056dc6f8a36c6afcac9161"
+    },
+    {
+      "title": "IO Interactive Enhances 007: First Light Replayability",
+      "description": "IO Interactive plans to boost replayability for 007: First Light with new features, despite its linear gameplay structure.",
+      "category": "Software",
       "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/hideo-kojima-nicolas-winding-refn-ai-short",
-      "image": "https://assetsio.gnwcdn.com/Prada_NWRxKojima.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-05-27T14:11:00Z",
+      "url": "https://www.eurogamer.net/007-first-light-replayability-tacsim-dlc",
+      "image": "https://assetsio.gnwcdn.com/007-First-Light---Mission-2-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-05-27T16:05:07Z",
       "key_points": [
-        "Kojima and Refn's new collaboration",
-        "AI technology used creatively",
-        "Short film for Prada event"
+        "New features for replayability",
+        "Linear gameplay concerns addressed",
+        "Developer aims to enhance experience"
       ],
-      "impact": "The project showcases AI's creative potential.",
-      "id": "d3637ddbe70edc4180ca1c987f21b207"
+      "impact": "Players will enjoy extended gameplay options.",
+      "id": "8859c67e373b7a0d9329087c2772ab54"
     },
     {
-      "title": "Roku Launches Major Home Screen Update",
-      "description": "Roku unveils its first significant home screen update in over a decade, promising a more dynamic and personalized experience for users. The platform continues to grow rapidly.",
+      "title": "Halide Mark III Pro Camera Launches",
+      "description": "Halide's Mark III pro camera app introduces three major photography upgrades for iPhone users, enhancing the photography experience.",
       "category": "Software",
-      "source": "Deadline",
-      "url": "http://deadline.com/2026/05/roku-unveils-major-home-screen-update-1236921759/",
-      "image": "https://deadline.com/wp-content/uploads/2026/05/Destinations.png?w=1024",
-      "published_at": "2026-05-27T14:03:00Z",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/05/27/halide-mark-iii-pro-camera-for-iphone-arrives-with-three-key-photography-upgrades/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/halide-mark-iii-3.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-05-27T16:00:00Z",
       "key_points": [
-        "First update in over a decade",
-        "More dynamic and personalized",
-        "Roku surpasses 100 million households"
+        "Halide Mark III launched",
+        "Three key photography upgrades",
+        "Enhanced iPhone photography experience"
       ],
-      "impact": "The update enhances user engagement on Roku.",
-      "id": "41077da3f35e82548aa33d6200e88de9"
+      "impact": "iPhone users gain powerful photography tools.",
+      "id": "ce900a65d0cabf7facfeb747765fd135"
     },
     {
-      "title": "Destiny 2 Community Divided Over Shutdown",
-      "description": "The impending shutdown of Destiny 2 has split the community, as players react to the end of updates for the long-running game. Many are frustrated with the transition to Marathon.",
-      "category": "Software",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/05/27/a-destiny-2-vs-marathon-civil-war-is-heating-up-frustrating-many/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/696f88d3f014a65b791bbd4e/0x0.jpg?format=jpg&crop=1578,887,x0,y0,safe&height=900&width=1600&fit=bounds",
-      "published_at": "2026-05-27T14:02:09Z",
+      "title": "Sony Bravia 7 II: RGB LED TV Performance",
+      "description": "Sony's Bravia 7 II showcases impressive performance for RGB LED TVs, setting a new standard in display technology.",
+      "category": "Hardware",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/937879/sony-bravia-7-ii-review",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268544_Sony_Bravia_7_II_RGB_LED_TV_JHiggins_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-05-27T16:00:00Z",
       "key_points": [
-        "Destiny 2 shutting down soon",
-        "Community divided over changes",
-        "Frustration over Marathon's rise"
+        "Bravia 7 II impresses with performance",
+        "RGB LED technology shines",
+        "New standard in display quality"
       ],
-      "impact": "The shutdown creates significant community unrest.",
-      "id": "759353721cbc1ac2829c4b0ca9dff997"
-    },
-    {
-      "title": "Motorola Fixes Unintended Amazon App Hijacking",
-      "description": "Motorola has addressed an issue where its phones were hijacking the Amazon app to inject affiliate data. The company confirmed this behavior was unintended and has been resolved.",
-      "category": "Security",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/05/27/motorola-amazon-app-unintended/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/motorola-razr-2026-8.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-05-27T13:55:00Z",
-      "key_points": [
-        "Motorola resolves app hijacking",
-        "Issue confirmed as unintended",
-        "User trust restored with fix"
-      ],
-      "impact": "Motorola's quick response mitigates user concerns.",
-      "id": "6a43a6dab2356dbb23b687ebc7bc23dd"
-    },
-    {
-      "title": "Google Health Faces Fitbit User Backlash",
-      "description": "Google Health's redesign of the Fitbit app has sparked frustration among users. A new roadmap outlines upcoming bug fixes and improvements in response to the backlash.",
-      "category": "Software",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/05/27/google-health-roadmap-fitbit-backlash/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/google-health-logo-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-05-27T13:25:00Z",
-      "key_points": [
-        "Fitbit app redesign causes frustration",
-        "Roadmap promises bug fixes",
-        "User feedback drives improvements"
-      ],
-      "impact": "Google Health aims to regain user satisfaction.",
-      "id": "12f99519545905c38ef1e5000145465e"
+      "impact": "Sony sets a high bar for TV performance.",
+      "id": "1595f0f7a75073104a3d49a996b9c49a"
     }
   ]
 }
