@@ -1,119 +1,119 @@
 {
   "date": "2026-05-28",
-  "generated_at": "2026-05-28T05:58:10.316668+00:00",
+  "generated_at": "2026-05-28T07:02:39.187565+00:00",
   "edition": "Daily Tech Briefing",
   "articles": [
     {
-      "title": "DuckDuckGo sees more users over Google AI search",
-      "summary": "Google is adding AI to search. Many users dislike this change. They are choosing DuckDuckGo instead.",
+      "title": "DuckDuckGo installs rise as users dislike Google's AI search.",
+      "summary": "DuckDuckGo sees a 30% rise in installs. Many users prefer it over Google's new AI search. They don't want AI 'force-fed' to them.",
       "category": "AI",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
       "key_points": [
-        "Google AI search disliked",
-        "DuckDuckGo usage up",
-        "Users want choice"
+        "DuckDuckGo installs up 30%",
+        "Users reject Google AI",
+        "Privacy concerns rise"
       ],
-      "impact": "People are choosing search engines that respect their privacy and choices."
+      "impact": "Users are actively choosing search engines that offer alternatives to AI-driven results."
     },
     {
-      "title": "Windows 11 update makes PCs faster",
-      "summary": "A new Windows 11 update is out. It makes your computer run much better. It feels quicker and smoother.",
+      "title": "Windows 11 update brings noticeable speed boosts.",
+      "summary": "A new Windows 11 update is here. It offers significant performance improvements. Your PC will feel faster and more responsive.",
       "category": "Software",
       "source": "Windows Central",
       "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-rolls-out-windows-11-kb5089573-update-that-makes-your-pc-genuinely-faster-and-more-responsive",
       "image": "https://cdn.mos.cms.futurecdn.net/iSfZLRtdr9rYXFF8StFJcN-2560-80.jpg",
       "key_points": [
-        "Windows 11 speed boost",
-        "Update available now",
-        "Better PC performance"
+        "Windows 11 update released",
+        "Performance gains included",
+        "PC feels faster"
       ],
-      "impact": "Your Windows 11 PC will feel faster after installing this update."
+      "impact": "This update aims to improve the daily user experience with a snappier and more efficient Windows 11."
     },
     {
-      "title": "Apple Wallet ID for age checks",
-      "summary": "Apple Wallet can now check your age. This feature works in new places. It proves you are old enough.",
+      "title": "Apple Wallet's Digital ID now works for age verification.",
+      "summary": "Apple Wallet's Digital ID feature has expanded. It can now be used for age checks. This adds more practical uses for the app.",
       "category": "Software",
       "source": "9to5Mac",
       "url": "https://9to5mac.com/2026/05/26/apple-wallets-new-digital-id-feature-just-added-more-ways-to-use-it/",
       "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/apple-wallet-app-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "key_points": [
-        "Apple Wallet age check",
-        "Digital ID feature",
-        "New use for Wallet"
+        "Digital ID expands uses",
+        "Age verification added",
+        "More practical features"
       ],
-      "impact": "Your iPhone's Wallet app can verify your age for certain services now."
+      "impact": "Apple is integrating more real-world verification functions directly into its Wallet app."
     },
     {
-      "title": "New Resident Evil demo on Switch 2",
-      "summary": "A demo for Resident Evil is out. You can play it on the Switch 2. Try the game's start.",
-      "category": "Software",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/05/capcom-releases-resident-evil-requiem-demo-on-switch-2",
-      "image": "https://images.nintendolife.com/62d250d397f65/large.jpg",
+      "title": "PC makers are creating laptops to rival Apple's MacBook Neo.",
+      "summary": "Some PC makers are responding to Apple. They are making laptops to compete with the MacBook Neo. Affordable, good laptops are becoming more common.",
+      "category": "Hardware",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/05/were-starting-to-see-some-pc-makers-respond-to-apples-macbook-neo/",
+      "image": "https://cdn.ars technica.net/wp-content/uploads/2026/05/intel-core-series-3-1152x648.jpg",
       "key_points": [
-        "Resident Evil demo",
-        "Available on Switch 2",
-        "Play early stages"
+        "PC makers respond to Apple",
+        "MacBook Neo competition",
+        "Better budget laptops"
       ],
-      "impact": "Gamers can try the upcoming Resident Evil game on their new Switch."
+      "impact": "The budget laptop market is heating up with new competition aimed at Apple's offerings."
     },
     {
-      "title": "PlayStation game servers shut down",
-      "summary": "PlayStation closed a game. Destruction AllStars servers are off now. The game is no longer sold.",
-      "category": "Software",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/playstation-delists-and-shuts-down-servers-for-destruction-allstars",
-      "image": "https://assets-prd.ignimgs.com/2026/05/26/3793681-review-destructionallstars-v2-1779821237133.webp?width=1280&format=jpg&auto=webp&quality=80",
-      "key_points": [
-        "Destruction AllStars offline",
-        "Servers shut down",
-        "Game removed from sale"
-      ],
-      "impact": "A PlayStation game is no longer playable online or available for purchase."
-    },
-    {
-      "title": "iPhone 18 Pro might get thicker",
-      "summary": "The iPhone 18 Pro could be thicker. This follows a trend from last year. Some users accept this.",
+      "title": "iPhone 18 Pro might get thicker, and that's a good thing.",
+      "summary": "The iPhone 18 Pro could be thicker. This follows a trend from the iPhone 17 Pro. The author is now in favor of thicker phones.",
       "category": "Hardware",
       "source": "9to5Mac",
       "url": "https://9to5mac.com/2026/05/26/iphone-18-pro-could-further-a-design-trend-ive-finally-come-around-on/",
       "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "key_points": [
-        "iPhone 18 Pro thicker?",
+        "iPhone 18 Pro thicker",
         "Design trend continues",
-        "Thicker phones accepted"
+        "Thicker phones favored"
       ],
-      "impact": "Future iPhones might be thicker, reversing the trend of making them thinner."
+      "impact": "A shift towards slightly thicker iPhones might offer improved features despite previous trends."
     },
     {
-      "title": "PC makers react to Apple laptops",
-      "summary": "PC makers watch Apple's new laptops. They see Apple's design choices. They are making their own better laptops.",
-      "category": "Hardware",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/05/were-starting-to-see-some-pc-makers-respond-to-apples-macbook-neo/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/intel-core-series-3-1152x648.jpg",
+      "title": "Capcom releases a demo for Resident Evil Requiem on Switch 2.",
+      "summary": "A demo for Resident Evil Requiem is out. It is available on the Switch 2. Players can try the early parts of the game.",
+      "category": "Software",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/05/capcom-releases-resident-evil-requiem-demo-on-switch-2",
+      "image": "https://images.nintendolife.com/62d250d397f65/large.jpg",
       "key_points": [
-        "PC makers copying Apple",
-        "Responding to MacBooks",
-        "Better affordable laptops"
+        "Resident Evil demo released",
+        "Available on Switch 2",
+        "Experience early game"
       ],
-      "impact": "PC makers are trying to match Apple's new laptop designs with their own."
+      "impact": "This demo allows players to test the latest Resident Evil experience before its full release on Switch 2."
     },
     {
-      "title": "June events for Pokémon GO",
-      "summary": "Pokémon GO has events in June. Catch special Pokémon like Kartana. There are more raids and battles.",
+      "title": "PlayStation shuts down servers for Destruction AllStars.",
+      "summary": "PlayStation has ended support for Destruction AllStars. The game is no longer sold. Its online servers have been shut down.",
+      "category": "Software",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/playstation-delists-and-shuts-down-servers-for-destruction-allstars",
+      "image": "https://assets-prd.ignimgs.com/2026/05/26/3793681-review-destructionallstars-v2-1779821237133.webp?width=1280&format=jpg&auto=webp&quality=80",
+      "key_points": [
+        "Destruction AllStars delisted",
+        "Servers are shut down",
+        "Live-service game ends"
+      ],
+      "impact": "The game's live-service model has concluded, removing its online functionality and availability."
+    },
+    {
+      "title": "June 2026 Pokémon GO events announced.",
+      "summary": "Pokémon GO has announced its June events. Featured Pokémon include Kartana and Celesteela. There will be raids and Community Day.",
       "category": "Software",
       "source": "Pokemon GO Hub",
       "url": "https://pokemongohub.net/post/event/june-2026-pokemon-go-events/",
       "image": "https://pokemongohub.net/wp-content/uploads/2026/05/june-2026-pokemon-go-events.jpg",
       "key_points": [
-        "Pokémon GO June events",
-        "New Pokémon available",
-        "Raids and Community Day"
+        "June events revealed",
+        "New featured Pokémon",
+        "Raids and GO Fest"
       ],
-      "impact": "Pokémon GO players have new events and Pokémon to catch this June."
+      "impact": "Players can look forward to a month packed with new content and special events in Pokémon GO."
     }
   ]
 }
