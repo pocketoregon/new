@@ -1,135 +1,135 @@
 {
   "date": "2026-05-28",
-  "generated_at": "2026-05-28T14:39:07.965484+00:00",
+  "generated_at": "2026-05-28T18:17:51.958713+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Dragon Quest 12: Beyond Dreams Unveiled After Five Years",
-      "description": "Square Enix finally reveals Dragon Quest 12 with a trailer, celebrating the series’ 40th anniversary. Fans have eagerly awaited this update since its initial announcement five years ago.",
+      "title": "Dragon Quest 12 Delayed as Team Starts Over",
+      "description": "Dragon Quest XII: Beyond Dreams faces delays as Square Enix decides to restart development. Fans will have to wait longer for the sequel they've anticipated for nearly a decade.",
       "category": "Software",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/dragon-quest-12-beyond-dreams-reveals-first-trailer-and-details-five-years-after-announcement/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Dragon-Quest-12-Beyond-Dreams.jpg",
-      "published_at": "2026-05-27T13:20:53Z",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/dragon-quest-12-will-take-longer-to-come-out-after-the-team-decided-to-start-from-scratch-2000699781",
+      "image": "https://kotaku.com/app/uploads/2026/05/thumbs-up.jpg",
+      "published_at": "2026-05-27T15:44:24Z",
       "key_points": [
-        "First trailer released",
-        "Celebrates 40th anniversary",
-        "Five years since announcement"
+        "Development restarted from scratch",
+        "No release date announced",
+        "Fans disappointed by delay"
       ],
-      "impact": "Fans are excited for this long-awaited sequel.",
-      "id": "8490eeb1b3d8c0bd1b5b2a5ac655dbda"
+      "impact": "The delay extends the wait for eager fans.",
+      "id": "81a91321f8dc297516d5af7f8b91ca0b"
     },
     {
-      "title": "Mina the Hollower: A Nostalgic Yet Modern Experience",
-      "description": "Mina the Hollower combines nostalgic design with modern gameplay, offering a fresh take on classic gaming. Its thoughtful mechanics elevate it beyond mere retro homage.",
+      "title": "Mina The Hollower Claims Top Metacritic Spot",
+      "description": "Mina the Hollower has achieved the highest Metacritic score of 2026, surpassing competitors by a significant margin. It stands out in a competitive gaming landscape this year.",
       "category": "Software",
-      "source": "Gameinformer.com",
-      "url": "https://gameinformer.com/review/mina-the-hollower/refined-throwback",
-      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/05/22/8b5f367e/ss_ba216fb4f7dfd28595b2ddfa095dc0bcecb3a0a3.1920x1080.jpg.webp",
-      "published_at": "2026-05-27T13:12:21Z",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/05/27/the-highest-metacritic-scored-game-of-2026-has-just-arrived/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a16fe1e8a48812d17031fad/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published_at": "2026-05-27T15:34:49Z",
       "key_points": [
-        "Nostalgic design",
-        "Modern gameplay mechanics",
-        "Thoughtful game design"
+        "Mina the Hollower is #1",
+        "Significant Metacritic lead",
+        "Competing games struggle to catch up"
       ],
-      "impact": "Players will enjoy a refined gaming experience.",
-      "id": "5c74442522583bc68e2e28d830b47757"
+      "impact": "Mina the Hollower sets a high bar for 2026.",
+      "id": "9fb6196e33cfbdd0e6882d3f06086db2"
     },
     {
-      "title": "Dragon Quest Monsters: The Withered World Announced",
-      "description": "Square Enix announces Dragon Quest Monsters: The Withered World for multiple platforms, including PS5 and Xbox Series. No release date has been provided yet.",
+      "title": "Nvidia Retires Legacy Control Panel After 20 Years",
+      "description": "Nvidia has officially retired its Windows XP-era Control Panel, migrating its features to the new Nvidia app. This marks the end of an era for long-time users.",
       "category": "Software",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/05/dragon-quest-monsters-the-withered-world-announced-for-ps5-xbox-series-switch-2-switch-and-pc",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/05/DQM4-Ann_05-27-26.jpg",
-      "published_at": "2026-05-27T13:10:25Z",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/05/nvidia-kills-windows-xp-era-control-panel-after-20-years-of-dedicated-service/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/nvidia-control-panel-1152x648-1779893010.jpg",
+      "published_at": "2026-05-27T15:06:01Z",
       "key_points": [
-        "New Dragon Quest title announced",
-        "Available on multiple platforms",
-        "Release date not specified"
+        "Control Panel retired after 20 years",
+        "Features moved to Nvidia app",
+        "End of an era for users"
       ],
-      "impact": "Fans await further details on this title.",
-      "id": "0ddc5d3d358aafdc12f9e5ce22f0b189"
+      "impact": "Users must adapt to the new Nvidia app.",
+      "id": "ed8ab126732682076d70c87d52bf615b"
     },
     {
-      "title": "No Man's Sky Swarm Update Introduces Epic Battles",
-      "description": "The Swarm update for No Man's Sky brings massive space battles and new threats ahead of the game's tenth anniversary. Players can expect exciting new gameplay elements.",
+      "title": "Kojima and Refn Collaborate on AI Short for Prada",
+      "description": "Hideo Kojima and Nicolas Winding Refn have teamed up for an AI-driven short film for a Prada event. This collaboration explores innovative creative possibilities.",
+      "category": "Startups",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/hideo-kojima-nicolas-winding-refn-ai-short",
+      "image": "https://assetsio.gnwcdn.com/Prada_NWRxKojima.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-05-27T14:11:00Z",
+      "key_points": [
+        "Kojima and Refn's new collaboration",
+        "AI technology used creatively",
+        "Short film for Prada event"
+      ],
+      "impact": "The project showcases AI's creative potential.",
+      "id": "d3637ddbe70edc4180ca1c987f21b207"
+    },
+    {
+      "title": "Roku Launches Major Home Screen Update",
+      "description": "Roku unveils its first significant home screen update in over a decade, promising a more dynamic and personalized experience for users. The platform continues to grow rapidly.",
       "category": "Software",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/no-mans-sky-swarm-update",
-      "image": "https://assetsio.gnwcdn.com/no-mans-sky-swarm-update-header-correction.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-05-27T13:00:05Z",
+      "source": "Deadline",
+      "url": "http://deadline.com/2026/05/roku-unveils-major-home-screen-update-1236921759/",
+      "image": "https://deadline.com/wp-content/uploads/2026/05/Destinations.png?w=1024",
+      "published_at": "2026-05-27T14:03:00Z",
       "key_points": [
-        "Massive space battles",
-        "New gameplay threats",
-        "Tenth anniversary update"
+        "First update in over a decade",
+        "More dynamic and personalized",
+        "Roku surpasses 100 million households"
       ],
-      "impact": "Players will experience thrilling new content.",
-      "id": "3071d6d3e6532110df78201ecb9818c8"
+      "impact": "The update enhances user engagement on Roku.",
+      "id": "41077da3f35e82548aa33d6200e88de9"
     },
     {
-      "title": "Dragon Quest 11 S Confirmed for Nintendo Switch 2",
-      "description": "Square Enix announces Dragon Quest 11 S will launch on Nintendo Switch 2 on September 24, 2026. This follows recent leaks about the game’s release.",
+      "title": "Destiny 2 Community Divided Over Shutdown",
+      "description": "The impending shutdown of Destiny 2 has split the community, as players react to the end of updates for the long-running game. Many are frustrated with the transition to Marathon.",
       "category": "Software",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/dragon-quest-11-s-coming-to-nintendo-switch-2/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Dragon-Quest-11-S-Switch-2.jpg",
-      "published_at": "2026-05-27T12:27:57Z",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/05/27/a-destiny-2-vs-marathon-civil-war-is-heating-up-frustrating-many/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/696f88d3f014a65b791bbd4e/0x0.jpg?format=jpg&crop=1578,887,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "published_at": "2026-05-27T14:02:09Z",
       "key_points": [
-        "Release date set for September 24",
-        "Coming to Nintendo Switch 2",
-        "Follows recent leaks"
+        "Destiny 2 shutting down soon",
+        "Community divided over changes",
+        "Frustration over Marathon's rise"
       ],
-      "impact": "Fans can mark their calendars for this release.",
-      "id": "a20bf2cde569ee06f24e3524f8ae7e1b"
+      "impact": "The shutdown creates significant community unrest.",
+      "id": "759353721cbc1ac2829c4b0ca9dff997"
     },
     {
-      "title": "Motorola Razr Ultra: Stylish but Flawed",
-      "description": "The 2026 Motorola Razr Ultra impresses with battery life but suffers from bloatware and a mediocre camera. It stands out in design but has notable drawbacks.",
-      "category": "Hardware",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/937763/motorola-razr-ultra-2026-review-battery-camera",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268559_Motorola_Razr_Ultra_2026_review_AJohnson_0001.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-      "published_at": "2026-05-27T12:00:00Z",
+      "title": "Motorola Fixes Unintended Amazon App Hijacking",
+      "description": "Motorola has addressed an issue where its phones were hijacking the Amazon app to inject affiliate data. The company confirmed this behavior was unintended and has been resolved.",
+      "category": "Security",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/05/27/motorola-amazon-app-unintended/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/motorola-razr-2026-8.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-05-27T13:55:00Z",
       "key_points": [
-        "Great battery life",
-        "Bloatware issues",
-        "Camera underwhelming"
+        "Motorola resolves app hijacking",
+        "Issue confirmed as unintended",
+        "User trust restored with fix"
       ],
-      "impact": "Consumers weigh design against performance drawbacks.",
-      "id": "5492b790d5a6bace0ad8b847d804fd6b"
+      "impact": "Motorola's quick response mitigates user concerns.",
+      "id": "6a43a6dab2356dbb23b687ebc7bc23dd"
     },
     {
-      "title": "The Guardian Achieves Record U.S. Revenue of $81M",
-      "description": "The Guardian reports record U.S. revenue driven by its nonprofit model and commitment to free access. This has led to significant reader donations.",
-      "category": "Business",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/05/26/the-guardian-us-record-revenue",
-      "image": "https://images.axios.com/QHhUqRtECpwaQ06JjpFyqIon7Go=/0x0:1600x900/1366x768/2026/05/26/1779818982532.png",
-      "published_at": "2026-05-27T11:54:10Z",
-      "key_points": [
-        "Record U.S. revenue",
-        "Driven by reader donations",
-        "Nonprofit model success"
-      ],
-      "impact": "The Guardian's model proves effective in revenue generation.",
-      "id": "41fa6341d489354cbd00137283a8b2a9"
-    },
-    {
-      "title": "Sonic Frontiers: Definitive Edition Tech Improvements Leaked",
-      "description": "Rumors reveal technical enhancements for Sonic Frontiers: Definitive Edition on Nintendo Switch 2. Fans are eager for details on these improvements.",
+      "title": "Google Health Faces Fitbit User Backlash",
+      "description": "Google Health's redesign of the Fitbit app has sparked frustration among users. A new roadmap outlines upcoming bug fixes and improvements in response to the backlash.",
       "category": "Software",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/rumor-sonic-frontiers-definitive-edition-nintendo-switch-2-tech-improvements-detailed/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Sonic-Frontiers-Switch-2-tech-improvements.jpg",
-      "published_at": "2026-05-27T11:47:57Z",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/05/27/google-health-roadmap-fitbit-backlash/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/google-health-logo-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-05-27T13:25:00Z",
       "key_points": [
-        "Technical improvements detailed",
-        "Rumors circulating",
-        "Fans eager for updates"
+        "Fitbit app redesign causes frustration",
+        "Roadmap promises bug fixes",
+        "User feedback drives improvements"
       ],
-      "impact": "Anticipation builds for the definitive edition.",
-      "id": "98fc1196dba9feb860c10d2828e83699"
+      "impact": "Google Health aims to regain user satisfaction.",
+      "id": "12f99519545905c38ef1e5000145465e"
     }
   ]
 }

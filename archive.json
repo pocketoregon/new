@@ -1,6 +1,141 @@
 {
   "batches": [
     {
+      "id": "2026-05-28T18:17:51.958713+00:00",
+      "fetched_at": "2026-05-28T18:17:51.958713+00:00",
+      "label": "May 28, 2026 — 06:18 PM UTC",
+      "articles": [
+        {
+          "title": "Dragon Quest 12 Delayed as Team Starts Over",
+          "description": "Dragon Quest XII: Beyond Dreams faces delays as Square Enix decides to restart development. Fans will have to wait longer for the sequel they've anticipated for nearly a decade.",
+          "category": "Software",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/dragon-quest-12-will-take-longer-to-come-out-after-the-team-decided-to-start-from-scratch-2000699781",
+          "image": "https://kotaku.com/app/uploads/2026/05/thumbs-up.jpg",
+          "published_at": "2026-05-27T15:44:24Z",
+          "key_points": [
+            "Development restarted from scratch",
+            "No release date announced",
+            "Fans disappointed by delay"
+          ],
+          "impact": "The delay extends the wait for eager fans.",
+          "id": "81a91321f8dc297516d5af7f8b91ca0b"
+        },
+        {
+          "title": "Mina The Hollower Claims Top Metacritic Spot",
+          "description": "Mina the Hollower has achieved the highest Metacritic score of 2026, surpassing competitors by a significant margin. It stands out in a competitive gaming landscape this year.",
+          "category": "Software",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/05/27/the-highest-metacritic-scored-game-of-2026-has-just-arrived/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a16fe1e8a48812d17031fad/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-05-27T15:34:49Z",
+          "key_points": [
+            "Mina the Hollower is #1",
+            "Significant Metacritic lead",
+            "Competing games struggle to catch up"
+          ],
+          "impact": "Mina the Hollower sets a high bar for 2026.",
+          "id": "9fb6196e33cfbdd0e6882d3f06086db2"
+        },
+        {
+          "title": "Nvidia Retires Legacy Control Panel After 20 Years",
+          "description": "Nvidia has officially retired its Windows XP-era Control Panel, migrating its features to the new Nvidia app. This marks the end of an era for long-time users.",
+          "category": "Software",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/05/nvidia-kills-windows-xp-era-control-panel-after-20-years-of-dedicated-service/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/nvidia-control-panel-1152x648-1779893010.jpg",
+          "published_at": "2026-05-27T15:06:01Z",
+          "key_points": [
+            "Control Panel retired after 20 years",
+            "Features moved to Nvidia app",
+            "End of an era for users"
+          ],
+          "impact": "Users must adapt to the new Nvidia app.",
+          "id": "ed8ab126732682076d70c87d52bf615b"
+        },
+        {
+          "title": "Kojima and Refn Collaborate on AI Short for Prada",
+          "description": "Hideo Kojima and Nicolas Winding Refn have teamed up for an AI-driven short film for a Prada event. This collaboration explores innovative creative possibilities.",
+          "category": "Startups",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/hideo-kojima-nicolas-winding-refn-ai-short",
+          "image": "https://assetsio.gnwcdn.com/Prada_NWRxKojima.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-05-27T14:11:00Z",
+          "key_points": [
+            "Kojima and Refn's new collaboration",
+            "AI technology used creatively",
+            "Short film for Prada event"
+          ],
+          "impact": "The project showcases AI's creative potential.",
+          "id": "d3637ddbe70edc4180ca1c987f21b207"
+        },
+        {
+          "title": "Roku Launches Major Home Screen Update",
+          "description": "Roku unveils its first significant home screen update in over a decade, promising a more dynamic and personalized experience for users. The platform continues to grow rapidly.",
+          "category": "Software",
+          "source": "Deadline",
+          "url": "http://deadline.com/2026/05/roku-unveils-major-home-screen-update-1236921759/",
+          "image": "https://deadline.com/wp-content/uploads/2026/05/Destinations.png?w=1024",
+          "published_at": "2026-05-27T14:03:00Z",
+          "key_points": [
+            "First update in over a decade",
+            "More dynamic and personalized",
+            "Roku surpasses 100 million households"
+          ],
+          "impact": "The update enhances user engagement on Roku.",
+          "id": "41077da3f35e82548aa33d6200e88de9"
+        },
+        {
+          "title": "Destiny 2 Community Divided Over Shutdown",
+          "description": "The impending shutdown of Destiny 2 has split the community, as players react to the end of updates for the long-running game. Many are frustrated with the transition to Marathon.",
+          "category": "Software",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/05/27/a-destiny-2-vs-marathon-civil-war-is-heating-up-frustrating-many/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/696f88d3f014a65b791bbd4e/0x0.jpg?format=jpg&crop=1578,887,x0,y0,safe&height=900&width=1600&fit=bounds",
+          "published_at": "2026-05-27T14:02:09Z",
+          "key_points": [
+            "Destiny 2 shutting down soon",
+            "Community divided over changes",
+            "Frustration over Marathon's rise"
+          ],
+          "impact": "The shutdown creates significant community unrest.",
+          "id": "759353721cbc1ac2829c4b0ca9dff997"
+        },
+        {
+          "title": "Motorola Fixes Unintended Amazon App Hijacking",
+          "description": "Motorola has addressed an issue where its phones were hijacking the Amazon app to inject affiliate data. The company confirmed this behavior was unintended and has been resolved.",
+          "category": "Security",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/05/27/motorola-amazon-app-unintended/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/motorola-razr-2026-8.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-05-27T13:55:00Z",
+          "key_points": [
+            "Motorola resolves app hijacking",
+            "Issue confirmed as unintended",
+            "User trust restored with fix"
+          ],
+          "impact": "Motorola's quick response mitigates user concerns.",
+          "id": "6a43a6dab2356dbb23b687ebc7bc23dd"
+        },
+        {
+          "title": "Google Health Faces Fitbit User Backlash",
+          "description": "Google Health's redesign of the Fitbit app has sparked frustration among users. A new roadmap outlines upcoming bug fixes and improvements in response to the backlash.",
+          "category": "Software",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/05/27/google-health-roadmap-fitbit-backlash/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/google-health-logo-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-05-27T13:25:00Z",
+          "key_points": [
+            "Fitbit app redesign causes frustration",
+            "Roadmap promises bug fixes",
+            "User feedback drives improvements"
+          ],
+          "impact": "Google Health aims to regain user satisfaction.",
+          "id": "12f99519545905c38ef1e5000145465e"
+        }
+      ]
+    },
+    {
       "id": "2026-05-28T14:39:07.965484+00:00",
       "fetched_at": "2026-05-28T14:39:07.965484+00:00",
       "label": "May 28, 2026 — 02:39 PM UTC",
