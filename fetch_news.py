@@ -333,6 +333,7 @@ def fetch_news():
     print(f"[{today}] Step 2: Simplifying with Gemini (Pass 1)...")
     news_data = simplify_with_gemini(original_articles, model, today)
 
+    import time; time.sleep(30)
     # Step 3 — Review (Pass 2)
     print(f"[{today}] Step 3: Reviewing with Gemini (Pass 2)...")
     news_data = review_with_gemini(news_data, original_articles, model, today)
@@ -357,6 +358,7 @@ def fetch_news():
     }
     archive = update_archive(new_batch)
 
+    import time; time.sleep(30)
     # Step 7 — Rank for feed.json (FEED section)
     print(f"[{today}] Step 6: Ranking feed with Gemini (Pass 3)...")
     try:
