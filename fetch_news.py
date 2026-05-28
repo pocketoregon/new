@@ -37,17 +37,21 @@ def fetch_real_news(news_api_key):
 
 def call_gpt(client, prompt):
     """Call GitHub Models GPT-4o mini."""
-    response = client.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=[{"role": "user", "content": prompt}],
-        temperature=0.3,
-        max_tokens=4000
-    )
-    raw = response.choices[0].message.content.strip()
-    if raw.startswith("```"):
-        lines = [l for l in raw.split("\n") if not l.strip().startswith("```")]
-        raw = "\n".join(lines).strip()
-    return json.loads(raw)
+    try:
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.3,
+            max_tokens=4000
+        )
+        raw = response.choices[0].message.content.strip()
+        if raw.startswith("```"):
+            lines = [l for l in raw.split("\n") if not l.strip().startswith("```")]
+            raw = "\n".join(lines).strip()
+        return json.loads(raw)
+    except Exception as e:
+        print(f"   ERROR in call_gpt: {e}")
+        raise
 
 
 def process_articles(articles, client, today):
@@ -61,6 +65,7 @@ Title: {article['title']}
 Source: {article['source']}
 URL: {article['url']}
 Image: {article['image']}
+Published: {article['published_at']}
 Description: {article['description']}
 Content: {article['content'][:300] if article['content'] else ''}
 ---"""
@@ -95,6 +100,7 @@ Respond with ONLY valid JSON, no markdown, no extra text:
       "source": "string",
       "url": "string",
       "image": "string",
+      "published_at": "string",
       "key_points": ["string", "string", "string"],
       "impact": "string"
     }}
@@ -105,18 +111,21 @@ Respond with ONLY valid JSON, no markdown, no extra text:
     return call_gpt(client, prompt)
 
 
-def rank_articles(new_articles, recent_batches, client, today):
+def rank_articles(new_articles, all_batches, client, today):
     """Pass 2 — rank new + old articles for the feed."""
     old_articles = []
     cutoff = datetime.now(timezone.utc).timestamp() - (48 * 3600)
-    for batch in recent_batches:
+    
+    # Include ALL batches, not just [1:]
+    for batch in all_batches:
         try:
             batch_time = datetime.fromisoformat(batch["fetched_at"]).timestamp()
             if batch_time >= cutoff:
                 for a in batch["articles"]:
                     a["fetched_at"] = batch["fetched_at"]
                     old_articles.append(a)
-        except:
+        except Exception as e:
+            print(f"   Warning: Skipping batch due to error: {e}")
             pass
 
     all_articles = new_articles + old_articles
@@ -136,6 +145,7 @@ Summary: {a['summary']}
 Key Points: {a.get('key_points',[])}
 Impact: {a.get('impact','')}
 Is New: {'YES' if is_new else 'NO'}
+Published At: {a.get('published_at', '')}
 Fetched At: {a.get('fetched_at', now_iso)}
 ---"""
 
@@ -151,7 +161,7 @@ Rules:
 - New articles rank higher generally
 - Developing stories can outrank boring new ones
 - Variety — avoid 5 same category in a row
-- Keep exact URL and image unchanged
+- Keep exact URL, image, and published_at unchanged
 - Respond ONLY valid JSON no markdown
 
 Articles:
@@ -170,6 +180,7 @@ JSON:
       "source": "string",
       "url": "string",
       "image": "string",
+      "published_at": "string",
       "key_points": ["string", "string", "string"],
       "impact": "string",
       "relevance_score": 0,
@@ -198,10 +209,14 @@ def validate(news_data, original_articles):
         missing_fields = article_required - set(article.keys())
         if missing_fields:
             raise ValueError(f"Article {i} missing: {missing_fields}")
+        # Preserve original URL and image if missing
         if not article.get("url") and i < len(original_articles):
             article["url"] = original_articles[i]["url"]
         if not article.get("image") and i < len(original_articles):
             article["image"] = original_articles[i]["image"]
+        # Preserve published_at
+        if not article.get("published_at") and i < len(original_articles):
+            article["published_at"] = original_articles[i]["published_at"]
         if article.get("category") not in valid_categories:
             article["category"] = "Software"
     return news_data
@@ -211,25 +226,52 @@ def update_archive(new_batch, archive_path="archive.json"):
     try:
         with open(archive_path, "r", encoding="utf-8") as f:
             archive = json.load(f)
-    except:
+        print(f"   Loaded existing archive with {len(archive['batches'])} batches")
+    except FileNotFoundError:
+        print("   No existing archive found, creating new one")
         archive = {"batches": []}
+    except Exception as e:
+        print(f"   Error loading archive: {e}, creating new one")
+        archive = {"batches": []}
+    
+    # Add new batch at the beginning
     archive["batches"].insert(0, new_batch)
+    print(f"   Added new batch: {new_batch['label']}")
+    
+    # Clean up old batches (keep 7 days)
     cutoff = datetime.now(timezone.utc).timestamp() - (7 * 24 * 3600)
+    original_count = len(archive["batches"])
     archive["batches"] = [
         b for b in archive["batches"]
         if datetime.fromisoformat(b["fetched_at"]).timestamp() >= cutoff
     ]
+    removed = original_count - len(archive["batches"])
+    if removed > 0:
+        print(f"   Removed {removed} old batches (>7 days)")
+    
+    # Save archive
     with open(archive_path, "w", encoding="utf-8") as f:
         json.dump(archive, f, indent=2, ensure_ascii=False)
-    print(f"   Archive updated: {len(archive['batches'])} batches stored")
+    print(f"   ✅ Archive saved: {len(archive['batches'])} total batches")
+    
     return archive
 
 
 def fetch_news():
-    news_api_key = os.environ["NEWS_API_KEY"]
-    github_token = os.environ["GITHUB_TOKEN"]
+    news_api_key = os.environ.get("NEWS_API_KEY")
+    github_token = os.environ.get("GITHUB_TOKEN")
+    
+    if not news_api_key:
+        raise ValueError("NEWS_API_KEY environment variable not set")
+    if not github_token:
+        raise ValueError("GITHUB_TOKEN environment variable not set")
+    
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     now_iso = datetime.now(timezone.utc).isoformat()
+
+    print(f"\n{'='*60}")
+    print(f"AI·Brief News Fetch — {today}")
+    print(f"{'='*60}\n")
 
     # Setup GitHub Models client
     client = OpenAI(
@@ -238,49 +280,80 @@ def fetch_news():
     )
 
     # Step 1 — Fetch real news
-    print(f"[{today}] Step 1: Fetching real news from NewsAPI...")
-    original_articles = fetch_real_news(news_api_key)
+    print(f"[Step 1] Fetching real news from NewsAPI...")
+    try:
+        original_articles = fetch_real_news(news_api_key)
+    except Exception as e:
+        print(f"   ❌ ERROR: Failed to fetch news: {e}")
+        raise
 
     # Step 2 — Simplify with GPT-4o mini
-    print(f"[{today}] Step 2: Processing with GPT-4o mini (Pass 1)...")
-    news_data = process_articles(original_articles, client, today)
-    news_data = validate(news_data, original_articles)
-    news_data["generated_at"] = now_iso
+    print(f"\n[Step 2] Processing with GPT-4o mini (Pass 1)...")
+    try:
+        news_data = process_articles(original_articles, client, today)
+        news_data = validate(news_data, original_articles)
+        news_data["generated_at"] = now_iso
+    except Exception as e:
+        print(f"   ❌ ERROR: Failed to process articles: {e}")
+        raise
 
     # Step 3 — Save news.json
-    with open("news.json", "w", encoding="utf-8") as f:
-        json.dump(news_data, f, indent=2, ensure_ascii=False)
-    print(f"   news.json saved with {len(news_data['articles'])} articles")
+    print(f"\n[Step 3] Saving news.json...")
+    try:
+        with open("news.json", "w", encoding="utf-8") as f:
+            json.dump(news_data, f, indent=2, ensure_ascii=False)
+        print(f"   ✅ news.json saved with {len(news_data['articles'])} articles")
+    except Exception as e:
+        print(f"   ❌ ERROR: Failed to save news.json: {e}")
+        raise
 
     # Step 4 — Update archive
-    print(f"[{today}] Step 3: Updating archive...")
-    new_batch = {
-        "id": now_iso,
-        "fetched_at": now_iso,
-        "label": datetime.now(timezone.utc).strftime("%b %d, %Y — %I:%M %p UTC"),
-        "articles": news_data["articles"]
-    }
-    archive = update_archive(new_batch)
+    print(f"\n[Step 4] Updating archive...")
+    try:
+        new_batch = {
+            "id": now_iso,
+            "fetched_at": now_iso,
+            "label": datetime.now(timezone.utc).strftime("%b %d, %Y — %I:%M %p UTC"),
+            "articles": news_data["articles"]
+        }
+        archive = update_archive(new_batch)
+    except Exception as e:
+        print(f"   ❌ ERROR: Failed to update archive: {e}")
+        raise
 
     # Step 5 — Rank feed
-    print(f"[{today}] Step 4: Ranking feed with GPT-4o mini (Pass 2)...")
+    print(f"\n[Step 5] Ranking feed with GPT-4o mini (Pass 2)...")
     try:
         feed_data = rank_articles(
             news_data["articles"],
-            archive["batches"][1:],
+            archive["batches"],  # FIXED: Use all batches, not [1:]
             client,
             today
         )
         with open("feed.json", "w", encoding="utf-8") as f:
             json.dump(feed_data, f, indent=2, ensure_ascii=False)
-        print(f"   feed.json saved with {len(feed_data['articles'])} articles")
+        print(f"   ✅ feed.json saved with {len(feed_data['articles'])} articles")
     except Exception as e:
-        print(f"   Warning: Feed ranking failed: {e}")
+        print(f"   ⚠️  Warning: Feed ranking failed: {e}")
+        print(f"   Continuing without feed update...")
 
-    print(f"\n✅ Done!")
+    # Summary
+    print(f"\n{'='*60}")
+    print(f"✅ Fetch Complete!")
+    print(f"{'='*60}")
+    print(f"Articles processed: {len(news_data['articles'])}")
+    print(f"Archive batches: {len(archive['batches'])}")
+    print(f"\nArticles:")
     for idx, a in enumerate(news_data["articles"]):
-        print(f"   [{idx+1}] [{a['category']}] {a['title']}")
+        print(f"   [{idx+1}] [{a['category']}] {a['title'][:60]}...")
+    print(f"\n")
 
 
 if __name__ == "__main__":
-    fetch_news()
+    try:
+        fetch_news()
+    except Exception as e:
+        print(f"\n❌ FATAL ERROR: {e}")
+        import traceback
+        traceback.print_exc()
+        exit(1)
