@@ -1,1 +1,123 @@
-{"batches":[]}
+{
+  "batches": [
+    {
+      "id": "2026-05-28T07:28:39.483182+00:00",
+      "fetched_at": "2026-05-28T07:28:39.483182+00:00",
+      "label": "May 28, 2026 — 07:28 AM UTC",
+      "articles": [
+        {
+          "title": "Apple working on iPhone anti-snatching feature",
+          "summary": "Apple is making iPhones safer.  A new feature will lock the phone if stolen.  This helps protect your device.",
+          "category": "Security",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/05/26/apple-working-on-iphone-anti-snatching-feature-that-locks-the-device-automatically/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-security-liquid-glass.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "key_points": [
+            "New iPhone security",
+            "Locks if stolen",
+            "Protects user data"
+          ],
+          "impact": "This new feature aims to significantly enhance iPhone security against theft and unauthorized access."
+        },
+        {
+          "title": "DuckDuckGo gains users over Google's AI Search",
+          "summary": "More people use DuckDuckGo now. They dislike Google's AI search changes. DuckDuckGo offers a different way.",
+          "category": "AI",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
+          "key_points": [
+            "DuckDuckGo installs rise",
+            "Users avoid Google AI",
+            "Search preference shift"
+          ],
+          "impact": "This shift highlights user concerns about the direction of AI integration in mainstream search engines."
+        },
+        {
+          "title": "Windows 11 update brings performance gains",
+          "summary": "Windows 11 is getting faster. A new update offers better performance. Your PC will feel more responsive.",
+          "category": "Software",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-rolls-out-windows-11-kb5089573-update-that-makes-your-pc-genuinely-faster-and-more-responsive",
+          "image": "https://cdn.mos.cms.futurecdn.net/iSfZLRtdr9rYXFF8StFJcN-2560-80.jpg",
+          "key_points": [
+            "Windows 11 faster",
+            "New update released",
+            "Improved responsiveness"
+          ],
+          "impact": "This update promises a smoother and quicker computing experience for Windows 11 users."
+        },
+        {
+          "title": "PC makers respond to Apple's MacBook Neo",
+          "summary": "PC makers are reacting. They are making new laptops. These compete with Apple's new machines.",
+          "category": "Hardware",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/05/were-starting-to-see-some-pc-makers-respond-to-apples-macbook-neo/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/intel-core-series-3-1152x648.jpg",
+          "key_points": [
+            "PC makers adapt",
+            "New laptop competition",
+            "Apple's influence grows"
+          ],
+          "impact": "This suggests a new wave of affordable and competitive laptops entering the market."
+        },
+        {
+          "title": "Street Fighter 6 update server maintenance announced",
+          "summary": "Street Fighter 6 is getting a big update. Server maintenance is scheduled soon. Expect new content.",
+          "category": "Software",
+          "source": "EventHubs",
+          "url": "https://eventhubs.com/news/2026/may/26/street-fighter-ingrid-update-maintenance/",
+          "image": "https://media.eventhubs.com/images/2026/05/26-street-fighter-ingrid-update-maintenancet.webp",
+          "key_points": [
+            "SF6 major update",
+            "Server downtime planned",
+            "New character Ingrid"
+          ],
+          "impact": "Players will experience temporary downtime for a significant game update and new character release."
+        },
+        {
+          "title": "Memorial Day Apple deals still available",
+          "summary": "Good deals on Apple products remain. You can still buy MacBooks and AirPods. Save money on tech.",
+          "category": "Hardware",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/best-memorial-day-deals-apple-airpods-macbooks-2026",
+          "image": "https://helios-i.mashable.com/imagery/articles/06ylH5Qobpg8bD9ZkmWUJbh/hero-image.fill.size_1200x675.v1779733508.jpg",
+          "key_points": [
+            "Apple deals active",
+            "MacBooks and AirPods on sale",
+            "Post-holiday savings"
+          ],
+          "impact": "Consumers can still find significant discounts on popular Apple devices."
+        },
+        {
+          "title": "Destruction AllStars removed from PS5 due to issues",
+          "summary": "Destruction AllStars is gone from PS5. The game had ongoing technical problems. It was removed without warning.",
+          "category": "Software",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/05/ps5s-destruction-allstars-delisted-and-disabled-without-notice-due-to-ongoing-technical-issues",
+          "image": "https://images.pushsquare.com/af024affac1df/large.jpg",
+          "key_points": [
+            "Destruction AllStars removed",
+            "Technical issues cited",
+            "No prior notice"
+          ],
+          "impact": "Players can no longer access the game due to persistent technical problems."
+        },
+        {
+          "title": "Marathon Season 2 trailer released",
+          "summary": "Marathon's Season 2 is coming. A new trailer shows changes. The game feels more like survival horror.",
+          "category": "Software",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/marathon-goes-full-survival-horror-mode-in-new-nightfall-trailer-and-i-cant-believe-im-about-to-get-sucked-in-all-over-again-2000699604",
+          "image": "https://kotaku.com/app/uploads/2026/05/Triage-1200x675.jpg",
+          "key_points": [
+            "Marathon Season 2",
+            "New survival horror tone",
+            "Trailer shows changes"
+          ],
+          "impact": "This update promises a significant shift in gameplay experience for Marathon players."
+        }
+      ]
+    }
+  ]
+}
