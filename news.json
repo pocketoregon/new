@@ -1,119 +1,119 @@
 {
-  "date": "2026-05-27",
-  "generated_at": "2026-05-27T23:06:55.593683+00:00",
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T01:45:35.800508+00:00",
   "edition": "Daily Tech Briefing",
   "articles": [
     {
-      "title": "Google Health replaces Fitbit app",
-      "summary": "Google's new Health app replaces Fitbit. Many users dislike the new design and AI coach.",
+      "title": "Google Search AI annoys users; DuckDuckGo gains.",
+      "summary": "Google added AI to Search. Many users dislike it. DuckDuckGo saw installs rise 30%.",
       "category": "AI",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/HealthApp_hero.width-1600.jpg?quality=90&strip=all&crop=0%2C3.5645047073983%2C100%2C92.870990585203&w=1200",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
       "key_points": [
-        "Google Health app launched",
-        "Replaced Fitbit app",
-        "Users unhappy"
+        "Google uses AI in search.",
+        "Users dislike forced AI.",
+        "DuckDuckGo gains users."
       ],
-      "impact": "Some Fitbit users are frustrated with the new Google Health app."
+      "impact": "People are choosing search engines that don't force AI on them."
     },
     {
-      "title": "PlayStation shuts down Destruction AllStars servers",
-      "summary": "PlayStation closed servers for Destruction AllStars. The game is no longer for sale.",
+      "title": "Windows 11 update makes PCs faster.",
+      "summary": "A new Windows 11 update is live. It makes your computer run better. It is faster and more responsive.",
+      "category": "Software",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-rolls-out-windows-11-kb5089573-update-that-makes-your-pc-genuinely-faster-and-more-responsive",
+      "image": "https://cdn.mos.cms.futurecdn.net/iSfZLRtdr9rYXFF8StFJcN-2560-80.jpg",
+      "key_points": [
+        "New Windows 11 update.",
+        "Performance improved.",
+        "PC is faster."
+      ],
+      "impact": "Your Windows 11 computer should feel much quicker after the update."
+    },
+    {
+      "title": "Free costumes for Street Fighter 6 characters.",
+      "summary": "New free costumes are coming soon. They are for all Street Fighter 6 characters. Get them this week.",
+      "category": "Software",
+      "source": "EventHubs",
+      "url": "https://eventhubs.com/news/2026/may/26/drivetech-costumes-sf6-free/",
+      "image": "https://media.eventhubs.com/images/2026/05/26-drivetech-costumes-sf6-freet.webp",
+      "key_points": [
+        "Free Street Fighter 6 costumes.",
+        "All characters get outfits.",
+        "Available this week."
+      ],
+      "impact": "Players can dress up their favorite fighters for free soon."
+    },
+    {
+      "title": "Resident Evil Requiem demo is out now.",
+      "summary": "Play a demo of Resident Evil Requiem. It's for PS5, Xbox, Switch 2, and PC. Try it before release.",
+      "category": "Software",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/05/resident-evil-requiem-demo-now-available",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/05/RE-Requiem-Demo_05-26-26.jpg",
+      "key_points": [
+        "Resident Evil Requiem demo.",
+        "Play on many consoles.",
+        "Available now."
+      ],
+      "impact": "You can try the new Resident Evil game before it is fully released."
+    },
+    {
+      "title": "Pokemon GO events for June 2026 announced.",
+      "summary": "June 2026 events for Pokemon GO are here. New Pokemon are featured. Many in-game events are planned.",
+      "category": "Software",
+      "source": "Pokemon GO Hub",
+      "url": "https://pokemongohub.net/post/event/june-2026-pokemon-go-events/",
+      "image": "https://pokemongohub.net/wp-content/uploads/2026/05/june-2026-pokemon-go-events.jpg",
+      "key_points": [
+        "June Pokemon GO events.",
+        "New Pokemon featured.",
+        "Many activities planned."
+      ],
+      "impact": "Pokemon GO players have new things to do in June."
+    },
+    {
+      "title": "PlayStation shuts down servers for game.",
+      "summary": "PlayStation removed a game. Destruction AllStars servers are off. It is no longer for sale.",
       "category": "Software",
       "source": "IGN",
       "url": "https://www.ign.com/articles/playstation-delists-and-shuts-down-servers-for-destruction-allstars",
       "image": "https://assets-prd.ignimgs.com/2026/05/26/3793681-review-destructionallstars-v2-1779821237133.webp?width=1280&format=jpg&auto=webp&quality=80",
       "key_points": [
-        "Destruction AllStars servers closed",
-        "Game delisted",
-        "Live-service game ended"
+        "Destruction AllStars offline.",
+        "Servers shut down.",
+        "Game removed from sale."
       ],
-      "impact": "A PlayStation game is now unplayable online."
+      "impact": "The online game Destruction AllStars is no longer playable or available."
     },
     {
-      "title": "GTA Online mod platform Rage MP shut down",
-      "summary": "Rage MP, a modding server for GTA Online, is closing. It got a takedown notice.",
-      "category": "Software",
-      "source": "MMORPG.com",
-      "url": "https://www.mmorpg.com/news/gta-online-server-platform-ragemp-hit-with-takedown-notice-to-cease-operations-this-summer-2000138148",
-      "image": "https://media.mmorpg.com/images/heroes/posts/138148.jpg",
-      "key_points": [
-        "Rage MP shutting down",
-        "GTA Online mod platform",
-        "Takedown notice received"
-      ],
-      "impact": "A popular way to play GTA Online with mods is ending."
-    },
-    {
-      "title": "Apple Memorial Day deals still available",
-      "summary": "Some Memorial Day deals on Apple products are still active. Get MacBooks and AirPods.",
+      "title": "Apple MacBook deals still active.",
+      "summary": "Some Memorial Day sales on Apple gear are still on. You can get MacBooks and AirPods. Prices are lower.",
       "category": "Hardware",
       "source": "Mashable",
       "url": "https://mashable.com/tech/best-memorial-day-deals-apple-airpods-macbooks-2026",
       "image": "https://helios-i.mashable.com/imagery/articles/06ylH5Qobpg8bD9ZkmWUJbh/hero-image.fill.size_1200x675.v1779733508.jpg",
       "key_points": [
-        "Apple deals still live",
-        "MacBooks and AirPods on sale",
-        "Memorial Day savings"
+        "Apple deals still active.",
+        "MacBooks and AirPods on sale.",
+        "Prices reduced."
       ],
-      "impact": "You can still save money on Apple gear."
+      "impact": "You can still save money on Apple laptops and earbuds after the holiday."
     },
     {
-      "title": "iPhone 18 Pro might get thicker",
-      "summary": "The next iPhone Pro could be thicker. This might improve usability and features.",
-      "category": "Hardware",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/05/26/iphone-18-pro-could-further-a-design-trend-ive-finally-come-around-on/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "key_points": [
-        "iPhone 18 Pro thicker",
-        "Design trend continues",
-        "May improve function"
-      ],
-      "impact": "Future iPhones might be a bit thicker for better features."
-    },
-    {
-      "title": "PC makers react to Apple's MacBook Neo",
-      "summary": "Computer companies are making PCs to compete with Apple's new MacBook Neo. Cheaper laptops are coming.",
+      "title": "PC makers react to Apple's new laptops.",
+      "summary": "PC companies are making new laptops. They respond to Apple's MacBook Neo. Good cheap laptops are rare.",
       "category": "Hardware",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/gadgets/2026/05/were-starting-to-see-some-pc-makers-respond-to-apples-macbook-neo/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/intel-core-series-3-1152x648.jpg",
       "key_points": [
-        "PC makers respond to Apple",
-        "New MacBooks coming",
-        "Cheaper PCs expected"
+        "PC makers copy Apple.",
+        "Respond to MacBook Neo.",
+        "Focus on affordable laptops."
       ],
-      "impact": "More affordable and competitive laptops are coming to the market."
-    },
-    {
-      "title": "Apple releases iOS 26.6 beta",
-      "summary": "Apple sent out early versions of iOS 26.6 and iPadOS 26.6. Developers can test them.",
-      "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/05/26/apple-releases-ios-26-beta-1/",
-      "image": "https://images.macrumors.com/t/RzJYGwPST2fim75_lRKrQt8RKw8=/2500x/article-new/2026/05/iOS-26.6-Glass-Feature.jpg",
-      "key_points": [
-        "iOS 26.6 beta released",
-        "iPadOS 26.6 beta released",
-        "For developers to test"
-      ],
-      "impact": "New software versions are being tested by developers."
-    },
-    {
-      "title": "The Free Press launches community programs",
-      "summary": "The Free Press is starting new community groups. These include forums and clubs.",
-      "category": "Startups",
-      "source": "Thefp.com",
-      "url": "https://www.thefp.com/p/free-press-community-launch",
-      "image": "https://substackcdn.com/image/fetch/$s_!ci9t!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5c3d801-d25b-4e2d-aea9-4b68e23e230a_1325x876.jpeg",
-      "key_points": [
-        "The Free Press community launch",
-        "New initiatives start",
-        "Forums and clubs planned"
-      ],
-      "impact": "The Free Press is building a community around its platform."
+      "impact": "Competitors are creating new, affordable laptops to compete with Apple."
     }
   ]
 }
