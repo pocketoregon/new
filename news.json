@@ -1,127 +1,127 @@
 {
   "date": "2026-05-28",
-  "generated_at": "2026-05-28T10:29:11.930796+00:00",
-  "edition": "Daily Tech Briefing",
+  "generated_at": "2026-05-28T11:33:33.157541+00:00",
+  "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Street Fighter 6 server maintenance time revealed for Ingrid and the game's largest content update to date - EventHubs",
-      "summary": "Street Fighter 6 is getting a big update soon. Server maintenance times have been shared. This update ends Season 3.",
+      "title": "Sonic Frontiers: Definitive Edition Enhancements Leaked",
+      "summary": "New leaks reveal technical improvements for Sonic Frontiers: Definitive Edition on Nintendo Switch 2. Fans can expect enhanced graphics and performance.",
+      "category": "Software",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/rumor-sonic-frontiers-definitive-edition-nintendo-switch-2-tech-improvements-detailed/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Sonic-Frontiers-Switch-2-tech-improvements.jpg",
+      "published_at": "2026-05-27T11:47:57Z",
+      "key_points": [
+        "Technical upgrades confirmed",
+        "Switch 2 enhancements",
+        "Leaked details emerging"
+      ],
+      "impact": "Improved gameplay experience anticipated for fans."
+    },
+    {
+      "title": "Motorola's 2026 Razrs: Stunning but Pricey",
+      "summary": "Motorola's 2026 Razrs impress with design but come with high price tags. Buyers may hesitate despite their aesthetic appeal.",
+      "category": "Hardware",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/05/motorolas-2026-razrs-are-almost-worth-buying-just-for-their-stunning-looks-almost/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Razr-2026-1-1152x648.jpg",
+      "published_at": "2026-05-27T11:00:28Z",
+      "key_points": [
+        "Stunning design",
+        "High price tags",
+        "Mixed reviews expected"
+      ],
+      "impact": "Consumers may be deterred by costs."
+    },
+    {
+      "title": "New Witcher 3 Expansion 'Songs of the Past' Announced",
+      "summary": "The Witcher 3 expansion 'Songs of the Past' continues Geralt's journey over a decade later. New minimum requirements will apply with the next patch.",
+      "category": "Software",
+      "source": "Digital Foundry",
+      "url": "https://www.digitalfoundry.net/news/2026/05/new-witcher-3-expansion-revealed-songs-of-the-past-continues-geralts-story-more-than-a-decade-on",
+      "image": "https://images.digitalfoundry.net/0036a96700cec/large.jpg",
+      "published_at": "2026-05-27T09:18:00Z",
+      "key_points": [
+        "Expansion revealed",
+        "Continues Geralt's story",
+        "New requirements announced"
+      ],
+      "impact": "Fans excited for Geralt's new adventures."
+    },
+    {
+      "title": "Street Fighter 6 Update: Server Maintenance Scheduled",
+      "summary": "Capcom announces server maintenance for Street Fighter 6's largest content update, featuring Ingrid. Players can expect significant enhancements soon.",
       "category": "Software",
       "source": "EventHubs",
       "url": "https://www.eventhubs.com/news/2026/may/26/street-fighter-ingrid-update-maintenance/",
       "image": "https://media.eventhubs.com/images/2026/05/26-street-fighter-ingrid-update-maintenancet.webp",
       "published_at": "2026-05-27T02:12:35Z",
       "key_points": [
-        "Big update for Street Fighter",
-        "Server maintenance times shared",
-        "Ends Season 3"
+        "Major content update",
+        "Ingrid joins the roster",
+        "Maintenance times revealed"
       ],
-      "impact": "Players can expect new content and improvements soon."
+      "impact": "Players eager for new content and features."
     },
     {
-      "title": "I found 11 surprise Memorial Day Apple deals that are still live: Grab M5 MacBook Airs for $899, AirPods for $99 - Mashable",
-      "summary": "Some Apple deals are still available after Memorial Day. You can get good prices on products. Check out the deals now.",
-      "category": "Business",
+      "title": "Google Health Premium Joins AI Pro Subscription",
+      "summary": "Google Health Premium is now part of the Google AI Pro subscription, enhancing user access to health features. A new mobile app is also rolling out today.",
+      "category": "Software",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/05/26/google-health-premium/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/google-health-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-05-27T01:04:00Z",
+      "key_points": [
+        "New mobile app launched",
+        "Part of AI Pro subscription",
+        "Enhanced health features"
+      ],
+      "impact": "Users gain improved health management tools."
+    },
+    {
+      "title": "Resident Evil Requiem Demo Released on Switch 2",
+      "summary": "Capcom launches a demo for Resident Evil Requiem on Switch 2, allowing players to experience early game stages. Fans can now try before they buy.",
+      "category": "Software",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/05/capcom-releases-resident-evil-requiem-demo-on-switch-2",
+      "image": "https://images.nintendolife.com/62d250d397f65/large.jpg",
+      "published_at": "2026-05-27T00:55:00Z",
+      "key_points": [
+        "Demo available now",
+        "Experience early gameplay",
+        "Switch 2 exclusive"
+      ],
+      "impact": "Players can preview the game before purchase."
+    },
+    {
+      "title": "Memorial Day Apple Deals Still Available",
+      "summary": "Surprise Memorial Day deals on Apple products continue, including M5 MacBook Airs for $899 and AirPods for $99. Limited-time offers attract bargain hunters.",
+      "category": "Startups",
       "source": "Mashable",
       "url": "https://mashable.com/tech/best-memorial-day-deals-apple-airpods-macbooks-2026",
       "image": "https://helios-i.mashable.com/imagery/articles/06ylH5Qobpg8bD9ZkmWUJbh/hero-image.fill.size_1200x675.v1779733508.jpg",
       "published_at": "2026-05-27T00:30:38Z",
       "key_points": [
-        "Apple deals still available",
-        "M5 MacBook Air for $899",
-        "AirPods for $99"
+        "Deals on MacBook Airs",
+        "AirPods discounted",
+        "Limited-time offers"
       ],
-      "impact": "Shoppers can save money on popular Apple products."
+      "impact": "Bargain hunters can save on Apple products."
     },
     {
-      "title": "Apple working on iPhone anti-snatching feature that locks the device automatically - 9to5Mac",
-      "summary": "Apple is making a new feature for iPhones. It locks the phone if someone tries to snatch it. This will help keep phones safe.",
-      "category": "Security",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/05/26/apple-working-on-iphone-anti-snatching-feature-that-locks-the-device-automatically/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-security-liquid-glass.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-05-26T23:29:00Z",
-      "key_points": [
-        "New iPhone security feature",
-        "Locks phone if snatched",
-        "Helps prevent theft"
-      ],
-      "impact": "This feature could reduce phone theft incidents."
-    },
-    {
-      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search - TechCrunch",
-      "summary": "More people are using DuckDuckGo after Google changed its search. DuckDuckGo installs increased by 30%. Users want a simpler search.",
+      "title": "DuckDuckGo Sees 30% Surge in Installs",
+      "summary": "DuckDuckGo installs rise 30% as users reject Google's AI-driven search. The backlash against AI integration in search engines is evident.",
       "category": "Software",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
       "published_at": "2026-05-26T22:32:56Z",
       "key_points": [
-        "DuckDuckGo installs up 30%",
-        "Users dislike Google's AI Search",
-        "Seeking simpler search options"
+        "30% increase in installs",
+        "Users prefer non-AI search",
+        "Backlash against Google AI"
       ],
-      "impact": "DuckDuckGo's growth shows a shift in user preferences."
-    },
-    {
-      "title": "PS5's Destruction AllStars Delisted and Disabled Without Notice Due to 'Ongoing Technical Issues' - Push Square",
-      "summary": "Destruction AllStars on PS5 is offline due to problems. Sony has not given a clear reason. Players are unhappy about this.",
-      "category": "Software",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/05/ps5s-destruction-allstars-delisted-and-disabled-without-notice-due-to-ongoing-technical-issues",
-      "image": "https://images.pushsquare.com/af024affac1df/large.jpg",
-      "published_at": "2026-05-26T22:30:00Z",
-      "key_points": [
-        "Destruction AllStars offline",
-        "Sony cites technical issues",
-        "Players frustrated with lack of notice"
-      ],
-      "impact": "Players are disappointed with the sudden game removal."
-    },
-    {
-      "title": "One Small Season 2 Change Will Completely Change Marathon - Kotaku",
-      "summary": "Marathon's Season 2 is changing a key feature. This will change how players experience the game. Fans are excited for the new season.",
-      "category": "Software",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/marathon-goes-full-survival-horror-mode-in-new-nightfall-trailer-and-i-cant-believe-im-about-to-get-sucked-in-all-over-again-2000699604",
-      "image": "https://kotaku.com/app/uploads/2026/05/Triage-1200x675.jpg",
-      "published_at": "2026-05-26T22:26:25Z",
-      "key_points": [
-        "Marathon Season 2 changes game",
-        "New feature revealed",
-        "Fans excited for updates"
-      ],
-      "impact": "The change could attract more players to the game."
-    },
-    {
-      "title": "Windows 11's latest OS update is packing serious performance gains - Windows Central",
-      "summary": "Windows 11 has a new update that makes PCs faster. It improves performance and responsiveness. Users will notice the difference.",
-      "category": "Software",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-rolls-out-windows-11-kb5089573-update-that-makes-your-pc-genuinely-faster-and-more-responsive",
-      "image": "https://cdn.mos.cms.futurecdn.net/iSfZLRtdr9rYXFF8StFJcN-2560-80.jpg",
-      "published_at": "2026-05-26T21:57:16Z",
-      "key_points": [
-        "Windows 11 update released",
-        "Improves PC performance",
-        "Faster and more responsive"
-      ],
-      "impact": "Users will enjoy a smoother experience on their PCs."
-    },
-    {
-      "title": "We're starting to see some PC makers respond to Apple's MacBook Neo - Ars Technica",
-      "summary": "PC makers are reacting to Apple's new MacBook Neo. They are trying to create better laptops. This could change the market.",
-      "category": "Hardware",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/05/were-starting-to-see-some-pc-makers-respond-to-apples-macbook-neo/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/intel-core-series-3-1152x648.jpg",
-      "published_at": "2026-05-26T20:47:31Z",
-      "key_points": [
-        "PC makers respond to MacBook Neo",
-        "Better laptops in development",
-        "Market changes expected"
-      ],
-      "impact": "This could lead to more competition in the laptop market."
+      "impact": "DuckDuckGo gains traction amid user dissatisfaction."
     }
   ]
 }

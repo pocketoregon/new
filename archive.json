@@ -1,6 +1,133 @@
 {
   "batches": [
     {
+      "id": "2026-05-28T11:33:33.157541+00:00",
+      "fetched_at": "2026-05-28T11:33:33.157541+00:00",
+      "label": "May 28, 2026 — 11:34 AM UTC",
+      "articles": [
+        {
+          "title": "Sonic Frontiers: Definitive Edition Enhancements Leaked",
+          "summary": "New leaks reveal technical improvements for Sonic Frontiers: Definitive Edition on Nintendo Switch 2. Fans can expect enhanced graphics and performance.",
+          "category": "Software",
+          "source": "Nintendoeverything.com",
+          "url": "https://nintendoeverything.com/rumor-sonic-frontiers-definitive-edition-nintendo-switch-2-tech-improvements-detailed/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Sonic-Frontiers-Switch-2-tech-improvements.jpg",
+          "published_at": "2026-05-27T11:47:57Z",
+          "key_points": [
+            "Technical upgrades confirmed",
+            "Switch 2 enhancements",
+            "Leaked details emerging"
+          ],
+          "impact": "Improved gameplay experience anticipated for fans."
+        },
+        {
+          "title": "Motorola's 2026 Razrs: Stunning but Pricey",
+          "summary": "Motorola's 2026 Razrs impress with design but come with high price tags. Buyers may hesitate despite their aesthetic appeal.",
+          "category": "Hardware",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/05/motorolas-2026-razrs-are-almost-worth-buying-just-for-their-stunning-looks-almost/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Razr-2026-1-1152x648.jpg",
+          "published_at": "2026-05-27T11:00:28Z",
+          "key_points": [
+            "Stunning design",
+            "High price tags",
+            "Mixed reviews expected"
+          ],
+          "impact": "Consumers may be deterred by costs."
+        },
+        {
+          "title": "New Witcher 3 Expansion 'Songs of the Past' Announced",
+          "summary": "The Witcher 3 expansion 'Songs of the Past' continues Geralt's journey over a decade later. New minimum requirements will apply with the next patch.",
+          "category": "Software",
+          "source": "Digital Foundry",
+          "url": "https://www.digitalfoundry.net/news/2026/05/new-witcher-3-expansion-revealed-songs-of-the-past-continues-geralts-story-more-than-a-decade-on",
+          "image": "https://images.digitalfoundry.net/0036a96700cec/large.jpg",
+          "published_at": "2026-05-27T09:18:00Z",
+          "key_points": [
+            "Expansion revealed",
+            "Continues Geralt's story",
+            "New requirements announced"
+          ],
+          "impact": "Fans excited for Geralt's new adventures."
+        },
+        {
+          "title": "Street Fighter 6 Update: Server Maintenance Scheduled",
+          "summary": "Capcom announces server maintenance for Street Fighter 6's largest content update, featuring Ingrid. Players can expect significant enhancements soon.",
+          "category": "Software",
+          "source": "EventHubs",
+          "url": "https://www.eventhubs.com/news/2026/may/26/street-fighter-ingrid-update-maintenance/",
+          "image": "https://media.eventhubs.com/images/2026/05/26-street-fighter-ingrid-update-maintenancet.webp",
+          "published_at": "2026-05-27T02:12:35Z",
+          "key_points": [
+            "Major content update",
+            "Ingrid joins the roster",
+            "Maintenance times revealed"
+          ],
+          "impact": "Players eager for new content and features."
+        },
+        {
+          "title": "Google Health Premium Joins AI Pro Subscription",
+          "summary": "Google Health Premium is now part of the Google AI Pro subscription, enhancing user access to health features. A new mobile app is also rolling out today.",
+          "category": "Software",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/05/26/google-health-premium/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/google-health-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-05-27T01:04:00Z",
+          "key_points": [
+            "New mobile app launched",
+            "Part of AI Pro subscription",
+            "Enhanced health features"
+          ],
+          "impact": "Users gain improved health management tools."
+        },
+        {
+          "title": "Resident Evil Requiem Demo Released on Switch 2",
+          "summary": "Capcom launches a demo for Resident Evil Requiem on Switch 2, allowing players to experience early game stages. Fans can now try before they buy.",
+          "category": "Software",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/05/capcom-releases-resident-evil-requiem-demo-on-switch-2",
+          "image": "https://images.nintendolife.com/62d250d397f65/large.jpg",
+          "published_at": "2026-05-27T00:55:00Z",
+          "key_points": [
+            "Demo available now",
+            "Experience early gameplay",
+            "Switch 2 exclusive"
+          ],
+          "impact": "Players can preview the game before purchase."
+        },
+        {
+          "title": "Memorial Day Apple Deals Still Available",
+          "summary": "Surprise Memorial Day deals on Apple products continue, including M5 MacBook Airs for $899 and AirPods for $99. Limited-time offers attract bargain hunters.",
+          "category": "Startups",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/best-memorial-day-deals-apple-airpods-macbooks-2026",
+          "image": "https://helios-i.mashable.com/imagery/articles/06ylH5Qobpg8bD9ZkmWUJbh/hero-image.fill.size_1200x675.v1779733508.jpg",
+          "published_at": "2026-05-27T00:30:38Z",
+          "key_points": [
+            "Deals on MacBook Airs",
+            "AirPods discounted",
+            "Limited-time offers"
+          ],
+          "impact": "Bargain hunters can save on Apple products."
+        },
+        {
+          "title": "DuckDuckGo Sees 30% Surge in Installs",
+          "summary": "DuckDuckGo installs rise 30% as users reject Google's AI-driven search. The backlash against AI integration in search engines is evident.",
+          "category": "Software",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
+          "published_at": "2026-05-26T22:32:56Z",
+          "key_points": [
+            "30% increase in installs",
+            "Users prefer non-AI search",
+            "Backlash against Google AI"
+          ],
+          "impact": "DuckDuckGo gains traction amid user dissatisfaction."
+        }
+      ]
+    },
+    {
       "id": "2026-05-28T10:29:11.930796+00:00",
       "fetched_at": "2026-05-28T10:29:11.930796+00:00",
       "label": "May 28, 2026 — 10:29 AM UTC",
