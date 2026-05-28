@@ -200,38 +200,181 @@ def validate(news_data, original_articles):
     return news_data
 
 
+def rank_with_gemini(new_articles, recent_batches, model, today):
+    """Pass 3 — Gemini ranks new + old articles together for the feed."""
+
+    # Build old articles list from recent batches (last 48hrs)
+    old_articles = []
+    cutoff = datetime.now(timezone.utc).timestamp() - (48 * 3600)
+    for batch in recent_batches:
+        try:
+            batch_time = datetime.fromisoformat(batch["fetched_at"]).timestamp()
+            if batch_time >= cutoff:
+                for a in batch["articles"]:
+                    a["fetched_at"] = batch["fetched_at"]
+                    old_articles.append(a)
+        except:
+            pass
+
+    all_articles = new_articles + old_articles
+
+    now_iso = datetime.now(timezone.utc).isoformat()
+
+    articles_text = ""
+    for i, a in enumerate(all_articles):
+        is_new = i < len(new_articles)
+        articles_text += f"""
+Article {i+1}:
+Title: {a['title']}
+Summary: {a['summary']}
+Category: {a['category']}
+Source: {a['source']}
+URL: {a.get('url','')}
+Image: {a.get('image','')}
+Is New: {'YES' if is_new else 'NO'}
+Fetched At: {a.get('fetched_at', now_iso)}
+---"""
+
+    prompt = f"""You are a news feed curator AI. You have {len(all_articles)} articles — {len(new_articles)} new and {len(old_articles)} older ones.
+
+Your job: rank all of them for a news feed. Pick the best 30 (or all if less than 30).
+
+For each article decide:
+- relevance_score: 0-100 (how important/interesting is this right now)
+- is_new: true if fetched in last hour, false otherwise
+- is_developing: true if this story is likely still evolving
+- age_label: human readable like "Just now", "2 hours ago", "Yesterday"
+
+Rules:
+- New articles generally rank higher but not always
+- A developing old story can outrank a boring new one
+- Variety matters — don't put 5 hardware stories in a row
+- Keep exact URL and image as given
+- Respond with ONLY valid JSON, no markdown
+
+Here are the articles:
+{articles_text}
+
+Current time: {now_iso}
+
+JSON structure:
+{{
+  "generated_at": "{now_iso}",
+  "articles": [
+    {{
+      "title": "string",
+      "summary": "string",
+      "category": "string",
+      "source": "string",
+      "url": "string",
+      "image": "string",
+      "key_points": ["string", "string", "string"],
+      "impact": "string",
+      "relevance_score": 0,
+      "is_new": true,
+      "is_developing": false,
+      "age_label": "string",
+      "fetched_at": "string"
+    }}
+  ]
+}}"""
+
+    print("   Pass 3: Ranking articles for feed...")
+    response = model.generate_content(prompt)
+    raw = response.text.strip()
+    if raw.startswith("```"):
+        lines = [l for l in raw.split("\n") if not l.strip().startswith("```")]
+        raw = "\n".join(lines).strip()
+    return json.loads(raw)
+
+
+def update_archive(new_batch, archive_path="archive.json"):
+    """Append new batch to archive and clean entries older than 7 days."""
+
+    try:
+        with open(archive_path, "r", encoding="utf-8") as f:
+            archive = json.load(f)
+    except:
+        archive = {"batches": []}
+
+    # Add new batch at top
+    archive["batches"].insert(0, new_batch)
+
+    # Remove batches older than 7 days
+    cutoff = datetime.now(timezone.utc).timestamp() - (7 * 24 * 3600)
+    archive["batches"] = [
+        b for b in archive["batches"]
+        if datetime.fromisoformat(b["fetched_at"]).timestamp() >= cutoff
+    ]
+
+    with open(archive_path, "w", encoding="utf-8") as f:
+        json.dump(archive, f, indent=2, ensure_ascii=False)
+
+    print(f"   Archive updated: {len(archive['batches'])} batches stored")
+    return archive
+
+
 def fetch_news():
-    """Main function — fetch real news, simplify, review, save."""
+    """Main function — fetch, simplify, review, rank, archive, save."""
 
     news_api_key = os.environ["NEWS_API_KEY"]
     gemini_api_key = os.environ["GEMINI_API_KEY"]
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    now_iso = datetime.now(timezone.utc).isoformat()
 
     genai.configure(api_key=gemini_api_key)
     model = genai.GenerativeModel("gemini-2.5-flash-lite")
 
+    # Step 1 — Get real news
     print(f"[{today}] Step 1: Fetching real news from NewsAPI...")
     original_articles = fetch_real_news(news_api_key)
 
+    # Step 2 — Simplify (Pass 1)
     print(f"[{today}] Step 2: Simplifying with Gemini (Pass 1)...")
     news_data = simplify_with_gemini(original_articles, model, today)
 
+    # Step 3 — Review (Pass 2)
     print(f"[{today}] Step 3: Reviewing with Gemini (Pass 2)...")
     news_data = review_with_gemini(news_data, original_articles, model, today)
 
-    print(f"[{today}] Step 4: Validating final output...")
+    # Step 4 — Validate
+    print(f"[{today}] Step 4: Validating...")
     news_data = validate(news_data, original_articles)
+    news_data["generated_at"] = now_iso
 
-    news_data["generated_at"] = datetime.now(timezone.utc).isoformat()
-
+    # Step 5 — Save news.json (NOW section)
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(news_data, f, indent=2, ensure_ascii=False)
+    print(f"   news.json saved with {len(news_data['articles'])} articles")
 
-    print(f"\n✅ Done! news.json written with {len(news_data['articles'])} articles.")
+    # Step 6 — Build batch and update archive.json (ALL section)
+    print(f"[{today}] Step 5: Updating archive...")
+    new_batch = {
+        "id": now_iso,
+        "fetched_at": now_iso,
+        "label": datetime.now(timezone.utc).strftime("%b %d, %Y — %I:%M %p UTC"),
+        "articles": news_data["articles"]
+    }
+    archive = update_archive(new_batch)
+
+    # Step 7 — Rank for feed.json (FEED section)
+    print(f"[{today}] Step 6: Ranking feed with Gemini (Pass 3)...")
+    try:
+        feed_data = rank_with_gemini(
+            news_data["articles"],
+            archive["batches"][1:],  # exclude current batch
+            model,
+            today
+        )
+        with open("feed.json", "w", encoding="utf-8") as f:
+            json.dump(feed_data, f, indent=2, ensure_ascii=False)
+        print(f"   feed.json saved with {len(feed_data['articles'])} articles")
+    except Exception as e:
+        print(f"   ⚠️ Feed ranking failed: {e} — skipping feed.json update")
+
+    print(f"\n✅ Done!")
     for idx, a in enumerate(news_data["articles"]):
         print(f"   [{idx+1}] [{a['category']}] {a['title']}")
-        print(f"         🔗 {a.get('url', 'NO URL')}")
-        print(f"         🖼️  {a.get('image', 'NO IMAGE')}")
 
 
 if __name__ == "__main__":

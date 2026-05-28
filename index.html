@@ -201,6 +201,90 @@
       to { opacity: 1; transform: translateY(0); }
     }
 
+    .tab-btn {
+      background: none;
+      border: none;
+      color: #555;
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 10px 20px;
+      cursor: pointer;
+      border-bottom: 2px solid transparent;
+      transition: all 0.2s;
+    }
+    .tab-btn:hover { color: #e8e8e8; }
+    .tab-btn.active { color: #e8e8e8; border-bottom-color: #e8384f; }
+
+    .tab-section { display: none; }
+    .tab-section.active { display: block; }
+
+    .new-badge {
+      display: inline-block;
+      font-size: 0.55rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      background: #e8384f;
+      color: white;
+      padding: 2px 6px;
+      border-radius: 3px;
+      margin-right: 6px;
+      vertical-align: middle;
+    }
+
+    .developing-badge {
+      display: inline-block;
+      font-size: 0.55rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      background: rgba(245,158,11,0.2);
+      color: #f59e0b;
+      border: 1px solid #f59e0b;
+      padding: 2px 6px;
+      border-radius: 3px;
+      margin-right: 6px;
+      vertical-align: middle;
+    }
+
+    .batch-folder {
+      border: 1px solid #1e1e1e;
+      border-radius: 8px;
+      margin-bottom: 12px;
+      overflow: hidden;
+    }
+
+    .batch-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 14px 16px;
+      background: #111;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+
+    .batch-header:hover { background: #161616; }
+
+    .batch-articles {
+      display: none;
+      border-top: 1px solid #1e1e1e;
+    }
+
+    .batch-articles.open { display: block; }
+
+    .batch-article-item {
+      display: flex;
+      gap: 12px;
+      padding: 12px 16px;
+      border-bottom: 1px solid #1a1a1a;
+      align-items: start;
+      transition: background 0.2s;
+    }
+
+    .batch-article-item:last-child { border-bottom: none; }
+    .batch-article-item:hover { background: #0d0d0d; }
+
     .delay-1 { animation-delay: 0.1s; }
     .delay-2 { animation-delay: 0.2s; }
     .delay-3 { animation-delay: 0.3s; }
@@ -224,26 +308,25 @@
           AI<span style="color:#e8384f;">·</span>Brief
         </div>
       </div>
-      <div id="live-clock" style="font-size:0.7rem; color:#555; letter-spacing:0.05em; font-family:Inter,sans-serif;"></div>
+      <div id="live-clock" style="font-size:0.7rem; color:#555; letter-spacing:0.05em;"></div>
+    </div>
+    <!-- Tabs -->
+    <div style="display:flex; gap:0; border-top:1px solid #1a1a1a;">
+      <button class="tab-btn active" onclick="switchTab('now', this)" id="tab-now">
+        <span style="display:inline-block; width:6px; height:6px; border-radius:50%; background:#e8384f; margin-right:6px; vertical-align:middle;"></span>
+        Now
+      </button>
+      <button class="tab-btn" onclick="switchTab('feed', this)" id="tab-feed">Feed</button>
+      <button class="tab-btn" onclick="switchTab('all', this)" id="tab-all">All</button>
     </div>
   </div>
 </header>
-<script>
-  function updateClock() {
-    const now = new Date();
-    const timeStr = now.toLocaleTimeString("en-US", { hour:"2-digit", minute:"2-digit", second:"2-digit", hour12:false });
-    const offset = -now.getTimezoneOffset() / 60;
-    const sign = offset >= 0 ? "+" : "-";
-    const abs = Math.abs(offset);
-    const tz = "UTC" + sign + (Number.isInteger(abs) ? abs : abs.toFixed(1));
-    document.getElementById("live-clock").textContent = timeStr + " " + tz;
-  }
-  updateClock();
-  setInterval(updateClock, 1000);
-</script>
 
 <!-- MAIN -->
 <main class="max-w-5xl mx-auto px-5 py-8">
+
+  <!-- NOW TAB -->
+  <div id="section-now" class="tab-section active">
 
   <!-- Loading -->
   <div id="loading">
@@ -287,6 +370,20 @@
     <div id="rows-section"></div>
     <div id="grid-section" style="margin-top:32px;"></div>
     <div id="mini-section" style="margin-top:32px;"></div>
+  </div>
+
+  </div><!-- end section-now -->
+
+  <!-- FEED TAB -->
+  <div id="section-feed" class="tab-section">
+    <div id="feed-loading" style="text-align:center; padding:40px 0; color:#555; font-size:0.85rem;">Loading feed...</div>
+    <div id="feed-content"></div>
+  </div>
+
+  <!-- ALL TAB -->
+  <div id="section-all" class="tab-section">
+    <div id="all-loading" style="text-align:center; padding:40px 0; color:#555; font-size:0.85rem;">Loading archive...</div>
+    <div id="all-content"></div>
   </div>
 
 </main>
@@ -578,6 +675,143 @@
   });
 
   loadNews();
+
+  // Clock
+  function updateClock() {
+    const now = new Date();
+    const timeStr = now.toLocaleTimeString('en-US', { hour:'2-digit', minute:'2-digit', second:'2-digit', hour12:false });
+    const offset = -now.getTimezoneOffset() / 60;
+    const sign = offset >= 0 ? '+' : '-';
+    const abs = Math.abs(offset);
+    const tz = 'UTC' + sign + (Number.isInteger(abs) ? abs : abs.toFixed(1));
+    const el = document.getElementById('live-clock');
+    if (el) el.textContent = timeStr + ' ' + tz;
+  }
+  updateClock();
+  setInterval(updateClock, 1000);
+
+  // Tab switching
+  function switchTab(tab, btn) {
+    document.querySelectorAll('.tab-section').forEach(s => s.classList.remove('active'));
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.getElementById('section-' + tab).classList.add('active');
+    btn.classList.add('active');
+    if (tab === 'feed') loadFeed();
+    if (tab === 'all') loadAll();
+  }
+
+  // Feed tab
+  async function loadFeed() {
+    const fc = document.getElementById('feed-content');
+    if (fc.innerHTML !== '') return;
+    document.getElementById('feed-loading').style.display = 'block';
+    try {
+      const res = await fetch('feed.json?t=' + Date.now());
+      if (!res.ok) throw new Error('not found');
+      const data = await res.json();
+      if (!data.articles || data.articles.length === 0) throw new Error('empty');
+
+      document.getElementById('feed-loading').style.display = 'none';
+      fc.innerHTML = data.articles.map((a, i) => buildFeedCard(a, i + 1)).join('');
+    } catch(e) {
+      document.getElementById('feed-loading').textContent = 'Feed not available yet. Run the workflow to generate it.';
+    }
+  }
+
+  function buildFeedCard(a, num) {
+    const color = catColors[a.category] || '#6b7280';
+    const bg = catBg[a.category] || 'rgba(107,114,128,0.15)';
+    const newBadge = a.is_new ? '<span class="new-badge">NEW</span>' : '';
+    const devBadge = a.is_developing ? '<span class="developing-badge">DEVELOPING</span>' : '';
+    const scoreBar = `<div style="width:${a.relevance_score || 50}px; height:2px; background:${color}; border-radius:1px; margin-top:4px;"></div>`;
+
+    return `
+      <div style="display:grid; grid-template-columns:40px 180px 1fr; gap:16px; align-items:start; padding:20px 0; border-bottom:1px solid #1e1e1e;">
+        <div style="padding-top:4px;">
+          <span class="art-num">${String(num).padStart(2,'0')}</span>
+        </div>
+        <div style="width:180px; height:130px; overflow:hidden; border-radius:6px; flex-shrink:0;">
+          ${rowImg(a.image)}
+        </div>
+        <div>
+          <div style="display:flex; align-items:center; gap:6px; margin-bottom:8px; flex-wrap:wrap;">
+            ${newBadge}${devBadge}
+            <span class="cat-pill" style="background:${bg}; color:${color};">${a.category || 'Tech'}</span>
+            ${a.source ? `<span style="font-size:0.7rem; color:#555;">${a.source}</span>` : ''}
+            ${a.age_label ? `<span style="font-size:0.65rem; color:#444; margin-left:auto;">${a.age_label}</span>` : ''}
+          </div>
+          <h3 style="font-family:'Playfair Display',serif; font-size:1rem; font-weight:700; line-height:1.3; margin-bottom:6px; color:#f0f0f0;">${a.title}</h3>
+          <p style="font-size:0.75rem; color:#777; line-height:1.5; margin-bottom:8px;">${a.summary}</p>
+          ${scoreBar}
+          ${readBtn(a.url, 'Read Article')}
+        </div>
+      </div>`;
+  }
+
+  // All tab
+  async function loadAll() {
+    const ac = document.getElementById('all-content');
+    if (ac.innerHTML !== '') return;
+    document.getElementById('all-loading').style.display = 'block';
+    try {
+      const res = await fetch('archive.json?t=' + Date.now());
+      if (!res.ok) throw new Error('not found');
+      const data = await res.json();
+      if (!data.batches || data.batches.length === 0) throw new Error('empty');
+
+      document.getElementById('all-loading').style.display = 'none';
+      ac.innerHTML = data.batches.map((batch, i) => buildBatchFolder(batch, i)).join('');
+    } catch(e) {
+      document.getElementById('all-loading').textContent = 'Archive not available yet. Run the workflow to generate it.';
+    }
+  }
+
+  function buildBatchFolder(batch, index) {
+    const isFirst = index === 0;
+    return `
+      <div class="batch-folder">
+        <div class="batch-header" onclick="toggleBatch('batch-${index}')">
+          <div style="display:flex; align-items:center; gap:10px;">
+            <svg id="arrow-${index}" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#555" stroke-width="2.5"
+              style="transition:transform 0.2s; transform:${isFirst ? 'rotate(90deg)' : 'rotate(0deg)'}">
+              <polyline points="9 18 15 12 9 6"/>
+            </svg>
+            <span style="font-size:0.75rem; font-weight:600; color:#aaa;">${batch.label || batch.fetched_at}</span>
+          </div>
+          <span style="font-size:0.65rem; color:#444;">${batch.articles ? batch.articles.length : 0} articles</span>
+        </div>
+        <div class="batch-articles ${isFirst ? 'open' : ''}" id="batch-${index}">
+          ${(batch.articles || []).map(a => buildBatchArticleItem(a)).join('')}
+        </div>
+      </div>`;
+  }
+
+  function buildBatchArticleItem(a) {
+    const color = catColors[a.category] || '#6b7280';
+    const bg = catBg[a.category] || 'rgba(107,114,128,0.15)';
+    return `
+      <div class="batch-article-item">
+        <div style="width:64px; height:50px; overflow:hidden; border-radius:4px; flex-shrink:0;">
+          ${miniImg(a.image)}
+        </div>
+        <div style="flex:1; min-width:0;">
+          <div style="display:flex; align-items:center; gap:6px; margin-bottom:4px;">
+            <span class="cat-pill" style="background:${bg}; color:${color}; font-size:0.55rem;">${a.category || 'Tech'}</span>
+            ${a.source ? `<span style="font-size:0.65rem; color:#444;">${a.source}</span>` : ''}
+          </div>
+          <div style="font-size:0.8rem; font-weight:600; color:#ddd; line-height:1.3; margin-bottom:4px;">${a.title}</div>
+          ${readBtn(a.url, 'Read')}
+        </div>
+      </div>`;
+  }
+
+  function toggleBatch(id) {
+    const el = document.getElementById(id);
+    const index = id.replace('batch-', '');
+    const arrow = document.getElementById('arrow-' + index);
+    el.classList.toggle('open');
+    arrow.style.transform = el.classList.contains('open') ? 'rotate(90deg)' : 'rotate(0deg)';
+  }
 </script>
 </body>
 </html>
