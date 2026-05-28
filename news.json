@@ -1,119 +1,119 @@
 {
   "date": "2026-05-28",
-  "generated_at": "2026-05-28T07:02:39.187565+00:00",
+  "generated_at": "2026-05-28T07:12:43.759540+00:00",
   "edition": "Daily Tech Briefing",
   "articles": [
     {
-      "title": "DuckDuckGo installs rise as users dislike Google's AI search.",
-      "summary": "DuckDuckGo sees a 30% rise in installs. Many users prefer it over Google's new AI search. They don't want AI 'force-fed' to them.",
+      "title": "Apple working on iPhone anti-snatching feature",
+      "summary": "Apple is making a new security feature for iPhones. It will lock the phone if it's taken quickly from a hand.",
+      "category": "Security",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/05/26/apple-working-on-iphone-anti-snatching-feature-that-locks-the-device-automatically/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-security-liquid-glass.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "key_points": [
+        "New iPhone security feature",
+        "Auto-locks phone",
+        "Prevents snatching"
+      ],
+      "impact": "This new feature aims to deter phone theft and protect user data."
+    },
+    {
+      "title": "DuckDuckGo installs rise as users avoid Google's AI Search",
+      "summary": "More people are downloading DuckDuckGo. They don't want Google's new AI search results. DuckDuckGo offers an alternative.",
       "category": "AI",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
       "key_points": [
         "DuckDuckGo installs up 30%",
-        "Users reject Google AI",
-        "Privacy concerns rise"
+        "Users reject AI search",
+        "Google changes search"
       ],
-      "impact": "Users are actively choosing search engines that offer alternatives to AI-driven results."
+      "impact": "This trend shows user preference for search engines that offer more control and less AI integration."
     },
     {
-      "title": "Windows 11 update brings noticeable speed boosts.",
-      "summary": "A new Windows 11 update is here. It offers significant performance improvements. Your PC will feel faster and more responsive.",
+      "title": "Windows 11 update brings performance gains",
+      "summary": "A new Windows 11 update makes PCs faster. It improves responsiveness and overall performance. This update is now available.",
       "category": "Software",
       "source": "Windows Central",
       "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-rolls-out-windows-11-kb5089573-update-that-makes-your-pc-genuinely-faster-and-more-responsive",
       "image": "https://cdn.mos.cms.futurecdn.net/iSfZLRtdr9rYXFF8StFJcN-2560-80.jpg",
       "key_points": [
-        "Windows 11 update released",
-        "Performance gains included",
-        "PC feels faster"
+        "Windows 11 gets faster",
+        "Better responsiveness",
+        "Performance improvements"
       ],
-      "impact": "This update aims to improve the daily user experience with a snappier and more efficient Windows 11."
+      "impact": "Users can expect a smoother and quicker computing experience with this latest update."
     },
     {
-      "title": "Apple Wallet's Digital ID now works for age verification.",
-      "summary": "Apple Wallet's Digital ID feature has expanded. It can now be used for age checks. This adds more practical uses for the app.",
-      "category": "Software",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/05/26/apple-wallets-new-digital-id-feature-just-added-more-ways-to-use-it/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/apple-wallet-app-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Memorial Day Apple deals still active",
+      "summary": "Some good deals on Apple products remain. You can still get MacBook Airs and AirPods at lower prices.",
+      "category": "Business",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/best-memorial-day-deals-apple-airpods-macbooks-2026",
+      "image": "https://helios-i.mashable.com/imagery/articles/06ylH5Qobpg8bD9ZkmWUJbh/hero-image.fill.size_1200x675.v1779733508.jpg",
       "key_points": [
-        "Digital ID expands uses",
-        "Age verification added",
-        "More practical features"
+        "Apple deals available",
+        "MacBooks discounted",
+        "AirPods on sale"
       ],
-      "impact": "Apple is integrating more real-world verification functions directly into its Wallet app."
+      "impact": "These lingering deals offer a chance to buy Apple devices at a reduced cost."
     },
     {
-      "title": "PC makers are creating laptops to rival Apple's MacBook Neo.",
-      "summary": "Some PC makers are responding to Apple. They are making laptops to compete with the MacBook Neo. Affordable, good laptops are becoming more common.",
+      "title": "PC makers respond to Apple's MacBook Neo",
+      "summary": "Computer makers are creating new laptops. They are responding to Apple's recent MacBook Neo. The goal is affordable, good machines.",
       "category": "Hardware",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/gadgets/2026/05/were-starting-to-see-some-pc-makers-respond-to-apples-macbook-neo/",
-      "image": "https://cdn.ars technica.net/wp-content/uploads/2026/05/intel-core-series-3-1152x648.jpg",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/intel-core-series-3-1152x648.jpg",
       "key_points": [
-        "PC makers respond to Apple",
-        "MacBook Neo competition",
-        "Better budget laptops"
+        "PC makers launch new laptops",
+        "Responding to MacBook Neo",
+        "Focus on value"
       ],
-      "impact": "The budget laptop market is heating up with new competition aimed at Apple's offerings."
+      "impact": "This competition aims to bring more affordable and high-quality laptops to the market."
     },
     {
-      "title": "iPhone 18 Pro might get thicker, and that's a good thing.",
-      "summary": "The iPhone 18 Pro could be thicker. This follows a trend from the iPhone 17 Pro. The author is now in favor of thicker phones.",
-      "category": "Hardware",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/05/26/iphone-18-pro-could-further-a-design-trend-ive-finally-come-around-on/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "key_points": [
-        "iPhone 18 Pro thicker",
-        "Design trend continues",
-        "Thicker phones favored"
-      ],
-      "impact": "A shift towards slightly thicker iPhones might offer improved features despite previous trends."
-    },
-    {
-      "title": "Capcom releases a demo for Resident Evil Requiem on Switch 2.",
-      "summary": "A demo for Resident Evil Requiem is out. It is available on the Switch 2. Players can try the early parts of the game.",
+      "title": "Street Fighter 6 update maintenance revealed",
+      "summary": "Street Fighter 6 is getting a big update. It adds Ingrid and new content. Server maintenance times are now known.",
       "category": "Software",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/05/capcom-releases-resident-evil-requiem-demo-on-switch-2",
-      "image": "https://images.nintendolife.com/62d250d397f65/large.jpg",
+      "source": "EventHubs",
+      "url": "https://www.eventhubs.com/news/2026/may/26/street-fighter-ingrid-update-maintenance/",
+      "image": "https://media.eventhubs.com/images/2026/05/26-street-fighter-ingrid-update-maintenancet.webp",
       "key_points": [
-        "Resident Evil demo released",
-        "Available on Switch 2",
-        "Experience early game"
+        "Street Fighter 6 update",
+        "Ingrid added",
+        "Maintenance times set"
       ],
-      "impact": "This demo allows players to test the latest Resident Evil experience before its full release on Switch 2."
+      "impact": "Players can prepare for the new content with scheduled server downtime."
     },
     {
-      "title": "PlayStation shuts down servers for Destruction AllStars.",
-      "summary": "PlayStation has ended support for Destruction AllStars. The game is no longer sold. Its online servers have been shut down.",
+      "title": "Destruction AllStars delisted from PS5",
+      "summary": "The game Destruction AllStars is no longer available on PS5. It was removed due to technical issues. It has been down for a while.",
       "category": "Software",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/playstation-delists-and-shuts-down-servers-for-destruction-allstars",
-      "image": "https://assets-prd.ignimgs.com/2026/05/26/3793681-review-destructionallstars-v2-1779821237133.webp?width=1280&format=jpg&auto=webp&quality=80",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/05/ps5s-destruction-allstars-delisted-and-disabled-without-notice-due-to-ongoing-technical-issues",
+      "image": "https://images.pushsquare.com/af024affac1df/large.jpg",
       "key_points": [
-        "Destruction AllStars delisted",
-        "Servers are shut down",
-        "Live-service game ends"
+        "Destruction AllStars removed",
+        "Due to technical issues",
+        "No longer playable"
       ],
-      "impact": "The game's live-service model has concluded, removing its online functionality and availability."
+      "impact": "Players can no longer access or purchase the game due to persistent technical problems."
     },
     {
-      "title": "June 2026 Pokémon GO events announced.",
-      "summary": "Pokémon GO has announced its June events. Featured Pokémon include Kartana and Celesteela. There will be raids and Community Day.",
+      "title": "Marathon Season 2 brings survival horror change",
+      "summary": "Marathon's second season changes the game significantly. It adds a survival horror element. A new trailer shows this shift.",
       "category": "Software",
-      "source": "Pokemon GO Hub",
-      "url": "https://pokemongohub.net/post/event/june-2026-pokemon-go-events/",
-      "image": "https://pokemongohub.net/wp-content/uploads/2026/05/june-2026-pokemon-go-events.jpg",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/marathon-goes-full-survival-horror-mode-in-new-nightfall-trailer-and-i-cant-believe-im-about-to-get-sucked-in-all-over-again-2000699604",
+      "image": "https://kotaku.com/app/uploads/2026/05/Triage-1200x675.jpg",
       "key_points": [
-        "June events revealed",
-        "New featured Pokémon",
-        "Raids and GO Fest"
+        "Marathon Season 2 update",
+        "Adds survival horror",
+        "Major game change"
       ],
-      "impact": "Players can look forward to a month packed with new content and special events in Pokémon GO."
+      "impact": "This significant shift in gameplay mechanics is expected to draw players back to Marathon."
     }
   ]
 }
