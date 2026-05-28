@@ -1,7 +1,7 @@
 import os
 import json
 import requests
-import google.generativeai as genai
+from openai import OpenAI
 from datetime import datetime, timezone
 
 def fetch_real_news(news_api_key):
@@ -35,8 +35,23 @@ def fetch_real_news(news_api_key):
     return articles[:8]
 
 
-def process_with_gemini(articles, model, today):
-    """Single pass — simplify, validate and rank all in one call."""
+def call_gpt(client, prompt):
+    """Call GitHub Models GPT-4o mini."""
+    response = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.3,
+        max_tokens=4000
+    )
+    raw = response.choices[0].message.content.strip()
+    if raw.startswith("```"):
+        lines = [l for l in raw.split("\n") if not l.strip().startswith("```")]
+        raw = "\n".join(lines).strip()
+    return json.loads(raw)
+
+
+def process_articles(articles, client, today):
+    """Pass 1 — simplify and rewrite articles."""
     now_iso = datetime.now(timezone.utc).isoformat()
     articles_text = ""
     for i, article in enumerate(articles):
@@ -67,7 +82,7 @@ Today: {today}
 Articles:
 {articles_text}
 
-Respond with ONLY valid JSON, no markdown:
+Respond with ONLY valid JSON, no markdown, no extra text:
 {{
   "date": "{today}",
   "generated_at": "{now_iso}",
@@ -86,16 +101,11 @@ Respond with ONLY valid JSON, no markdown:
   ]
 }}"""
 
-    print("   Processing with Gemini (single pass)...")
-    response = model.generate_content(prompt)
-    raw = response.text.strip()
-    if raw.startswith("```"):
-        lines = [l for l in raw.split("\n") if not l.strip().startswith("```")]
-        raw = "\n".join(lines).strip()
-    return json.loads(raw)
+    print("   Pass 1: Simplifying with GPT-4o mini...")
+    return call_gpt(client, prompt)
 
 
-def rank_with_gemini(new_articles, recent_batches, model, today):
+def rank_articles(new_articles, recent_batches, client, today):
     """Pass 2 — rank new + old articles for the feed."""
     old_articles = []
     cutoff = datetime.now(timezone.utc).timestamp() - (48 * 3600)
@@ -129,18 +139,18 @@ Is New: {'YES' if is_new else 'NO'}
 Fetched At: {a.get('fetched_at', now_iso)}
 ---"""
 
-    prompt = f"""You are a news feed curator. Rank these {len(all_articles)} articles for a feed.
+    prompt = f"""You are a news feed curator. Rank these {len(all_articles)} articles for a news feed.
 
-Pick best 30 (or all if less). For each article assign:
+Pick best 30 (or all if less than 30). For each article assign:
 - relevance_score: 0-100
 - is_new: true if fetched in last hour
-- is_developing: true if story still evolving
+- is_developing: true if story is still evolving
 - age_label: "Just now", "2 hours ago", "Yesterday" etc
 
 Rules:
 - New articles rank higher generally
 - Developing stories can outrank boring new ones
-- Variety — no 5 same category in a row
+- Variety — avoid 5 same category in a row
 - Keep exact URL and image unchanged
 - Respond ONLY valid JSON no markdown
 
@@ -171,13 +181,8 @@ JSON:
   ]
 }}"""
 
-    print("   Ranking articles for feed...")
-    response = model.generate_content(prompt)
-    raw = response.text.strip()
-    if raw.startswith("```"):
-        lines = [l for l in raw.split("\n") if not l.strip().startswith("```")]
-        raw = "\n".join(lines).strip()
-    return json.loads(raw)
+    print("   Pass 2: Ranking with GPT-4o mini...")
+    return call_gpt(client, prompt)
 
 
 def validate(news_data, original_articles):
@@ -222,20 +227,23 @@ def update_archive(new_batch, archive_path="archive.json"):
 
 def fetch_news():
     news_api_key = os.environ["NEWS_API_KEY"]
-    gemini_api_key = os.environ["GEMINI_API_KEY"]
+    github_token = os.environ["GITHUB_TOKEN"]
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     now_iso = datetime.now(timezone.utc).isoformat()
 
-    genai.configure(api_key=gemini_api_key)
-    model = genai.GenerativeModel("gemini-2.5-flash-lite")
+    # Setup GitHub Models client
+    client = OpenAI(
+        base_url="https://models.inference.ai.azure.com",
+        api_key=github_token
+    )
 
     # Step 1 — Fetch real news
     print(f"[{today}] Step 1: Fetching real news from NewsAPI...")
     original_articles = fetch_real_news(news_api_key)
 
-    # Step 2 — Single Gemini pass (simplify + validate)
-    print(f"[{today}] Step 2: Processing with Gemini (Pass 1)...")
-    news_data = process_with_gemini(original_articles, model, today)
+    # Step 2 — Simplify with GPT-4o mini
+    print(f"[{today}] Step 2: Processing with GPT-4o mini (Pass 1)...")
+    news_data = process_articles(original_articles, client, today)
     news_data = validate(news_data, original_articles)
     news_data["generated_at"] = now_iso
 
@@ -254,15 +262,13 @@ def fetch_news():
     }
     archive = update_archive(new_batch)
 
-    # Step 5 — Rank feed (second Gemini call)
-    print(f"[{today}] Step 4: Ranking feed with Gemini (Pass 2)...")
-    import time
-    time.sleep(20)
+    # Step 5 — Rank feed
+    print(f"[{today}] Step 4: Ranking feed with GPT-4o mini (Pass 2)...")
     try:
-        feed_data = rank_with_gemini(
+        feed_data = rank_articles(
             news_data["articles"],
             archive["batches"][1:],
-            model,
+            client,
             today
         )
         with open("feed.json", "w", encoding="utf-8") as f:
@@ -274,7 +280,6 @@ def fetch_news():
     print(f"\n✅ Done!")
     for idx, a in enumerate(news_data["articles"]):
         print(f"   [{idx+1}] [{a['category']}] {a['title']}")
-        print(f"         URL: {a.get('url','NO URL')}")
 
 
 if __name__ == "__main__":
