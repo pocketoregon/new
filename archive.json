@@ -1,6 +1,109 @@
 {
   "batches": [
     {
+      "id": "2026-05-28T23:19:55.494408+00:00",
+      "fetched_at": "2026-05-28T23:19:55.494408+00:00",
+      "label": "May 28, 2026 — 11:20 PM UTC",
+      "articles": [
+        {
+          "title": "Superconducting Qubits Achieve Randomness Amplification",
+          "description": "Researchers demonstrated device-independent randomness amplification using superconducting qubits, converting weak randomness into certified perfect bits. This breakthrough enhances quantum information security.",
+          "category": "Science",
+          "source": "Nature.com",
+          "url": "https://www.nature.com/articles/s41586-026-10521-8",
+          "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10521-8/MediaObjects/41586_2026_10521_Fig1_HTML.png",
+          "published_at": "2026-05-27T21:48:41Z",
+          "key_points": [
+            "Device-independent randomness achieved",
+            "Superconducting qubits used",
+            "Enhances quantum security"
+          ],
+          "impact": "This advancement could revolutionize quantum cryptography.",
+          "id": "5cccf333a7fbb077b909bb18bfd3248c"
+        },
+        {
+          "title": "Pokémon Card Demand Surges: 10 Billion Printed",
+          "description": "The Pokémon Company printed 10 billion cards last year, reflecting the franchise's overwhelming popularity. Total cards printed since 1996 exceed 85 billion.",
+          "category": "Business",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/10-billion-pokemon-cards-were-printed-last-year-and-it-still-wasnt-enough-2000699977",
+          "image": "https://kotaku.com/app/uploads/2026/05/pokemon-cards.jpg",
+          "published_at": "2026-05-27T21:42:05Z",
+          "key_points": [
+            "10 billion cards printed last year",
+            "85 billion total since 1996",
+            "Demand remains insatiable"
+          ],
+          "impact": "Pokémon's popularity shows no signs of slowing.",
+          "id": "50833dcfb794e8cc3ecf399714b86e5b"
+        },
+        {
+          "title": "Google Home Enhances Automation with Camera Insights",
+          "description": "Google Home's latest update integrates camera scene understanding for smarter automations. The Home app and voice assistant also received significant improvements.",
+          "category": "Software",
+          "source": "9to5google.com",
+          "url": "http://9to5google.com/2026/05/27/google-home-camera-automation-more/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/google-home-ask-home-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-05-27T17:00:00Z",
+          "key_points": [
+            "Camera insights for automations",
+            "Home app improvements",
+            "Voice assistant updates"
+          ],
+          "impact": "This update enhances smart home functionality.",
+          "id": "d5aeed1f6a7ff41d0cc3c030362b8068"
+        },
+        {
+          "title": "Paralives Developers Share Insights in Q&A",
+          "description": "The Paralives indie team hosted their first Q&A, addressing community questions and confirming no paid DLCs. Fans are eager for ongoing development updates.",
+          "category": "Startups",
+          "source": "Sims Community",
+          "url": "https://simscommunity.info/2026/05/27/paralives-q-and-a-ama-full-summary/",
+          "image": "https://simscommunity.info/wp-content/uploads/2026/05/Paralives-QA-Sess-FI.jpg",
+          "published_at": "2026-05-27T15:39:45Z",
+          "key_points": [
+            "First Q&A session held",
+            "No paid DLCs planned",
+            "Community engagement emphasized"
+          ],
+          "impact": "Fans are excited for Paralives' future.",
+          "id": "c7f044442eec7d808f394050cd794dde"
+        },
+        {
+          "title": "Google Health App Updates Address User Concerns",
+          "description": "Google is rolling out updates to the Health app following user feedback on the Fitbit replacement. Enhancements include an improved AI coach and user interface.",
+          "category": "Software",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/938179/google-health-fitbit-roadmap",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/HealthApp_hero.width-1600.jpg?quality=90&strip=all&crop=0%2C3.5645047073983%2C100%2C92.870990585203&w=1200",
+          "published_at": "2026-05-27T15:28:43Z",
+          "key_points": [
+            "Updates based on user feedback",
+            "AI coach improvements",
+            "New user interface"
+          ],
+          "impact": "Google aims to enhance user satisfaction.",
+          "id": "49bf1f3f78b7340bc7a2c3e167ddd2fd"
+        },
+        {
+          "title": "Windows 11 Update Boosts PC Performance",
+          "description": "The May update for Windows 11 reduces app launch lag and UI stutters, improving overall performance. Users can access this update early for enhanced speed.",
+          "category": "Software",
+          "source": "PCWorld",
+          "url": "https://www.pcworld.com/article/3149631/windows-11s-new-update-actually-makes-your-pc-faster-heres-how-to-get-it.html",
+          "image": "https://www.pcworld.com/wp-content/uploads/2026/05/Windows-11-Start-menu-option-consolidated.png?w=1024",
+          "published_at": "2026-05-27T14:57:00Z",
+          "key_points": [
+            "May update improves performance",
+            "Reduces app launch lag",
+            "Enhances user experience"
+          ],
+          "impact": "This update significantly boosts PC efficiency.",
+          "id": "ca6d448645b89ab485d808f670bd1d8b"
+        }
+      ]
+    },
+    {
       "id": "2026-05-28T21:09:35.449504+00:00",
       "fetched_at": "2026-05-28T21:09:35.449504+00:00",
       "label": "May 28, 2026 — 09:09 PM UTC",

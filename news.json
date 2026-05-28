@@ -1,135 +1,103 @@
 {
   "date": "2026-05-28",
-  "generated_at": "2026-05-28T21:09:35.449504+00:00",
+  "generated_at": "2026-05-28T23:19:55.494408+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "League of Legends Dev Update: New Champion",
-      "description": "The latest Dev Update reveals Locke, a high burst assassin champion. Players can expect exciting gameplay changes and features soon.",
-      "category": "Software",
-      "source": "Leagueoflegends.com",
-      "url": "https://www.leagueoflegends.com/en-us/news/dev/tldw-mayhem-ranked-5s-more-dev-update/",
-      "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/76a3690320d5c07c48a524e6e42c83c1f4f9327d-1920x1080.png?accountingTag=LoL?w=1200&h=630&fm=webp&fit=crop&crop=center",
-      "published_at": "2026-05-27T20:26:25Z",
+      "title": "Superconducting Qubits Achieve Randomness Amplification",
+      "description": "Researchers demonstrated device-independent randomness amplification using superconducting qubits, converting weak randomness into certified perfect bits. This breakthrough enhances quantum information security.",
+      "category": "Science",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41586-026-10521-8",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10521-8/MediaObjects/41586_2026_10521_Fig1_HTML.png",
+      "published_at": "2026-05-27T21:48:41Z",
       "key_points": [
-        "New champion Locke announced",
-        "High burst assassin gameplay",
-        "Exciting changes coming soon"
+        "Device-independent randomness achieved",
+        "Superconducting qubits used",
+        "Enhances quantum security"
       ],
-      "impact": "Players can look forward to fresh gameplay.",
-      "id": "22ccc7357cd62a1101846e7792391bf5"
+      "impact": "This advancement could revolutionize quantum cryptography.",
+      "id": "5cccf333a7fbb077b909bb18bfd3248c"
     },
     {
-      "title": "Ranked 5s Returns to League of Legends",
-      "description": "League of Legends is testing a new Ranked 5s queue with unique twists. Players can expect a fresh competitive experience.",
-      "category": "Software",
-      "source": "Leagueoflegends.com",
-      "url": "https://www.leagueoflegends.com/en-us/news/dev/dev-the-return-of-ranked-5s/",
-      "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/38c3240034d266bc9dc85a1497ebab7e4b9682c2-1920x1080.jpg?accountingTag=LoL?w=1200&h=630&fm=webp&fit=crop&crop=center",
-      "published_at": "2026-05-27T20:06:42Z",
+      "title": "Pokémon Card Demand Surges: 10 Billion Printed",
+      "description": "The Pokémon Company printed 10 billion cards last year, reflecting the franchise's overwhelming popularity. Total cards printed since 1996 exceed 85 billion.",
+      "category": "Business",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/10-billion-pokemon-cards-were-printed-last-year-and-it-still-wasnt-enough-2000699977",
+      "image": "https://kotaku.com/app/uploads/2026/05/pokemon-cards.jpg",
+      "published_at": "2026-05-27T21:42:05Z",
       "key_points": [
-        "New Ranked 5s queue introduced",
-        "Unique twists for players",
-        "Fresh competitive experience awaits"
+        "10 billion cards printed last year",
+        "85 billion total since 1996",
+        "Demand remains insatiable"
       ],
-      "impact": "Players can enjoy a revamped Ranked experience.",
-      "id": "4ea236f5a48206c21491c9932e453459"
+      "impact": "Pokémon's popularity shows no signs of slowing.",
+      "id": "50833dcfb794e8cc3ecf399714b86e5b"
     },
     {
-      "title": "Roku OS Home Screen Features Permanent Ad",
-      "description": "Roku's home screen now includes a large, permanent advertisement. Users express frustration over unwanted recommendations.",
+      "title": "Google Home Enhances Automation with Camera Insights",
+      "description": "Google Home's latest update integrates camera scene understanding for smarter automations. The Home app and voice assistant also received significant improvements.",
       "category": "Software",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/05/roku-oss-home-screen-now-features-a-large-permanent-ad/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Roku-1-1152x648.jpeg",
-      "published_at": "2026-05-27T19:12:59Z",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/05/27/google-home-camera-automation-more/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/google-home-ask-home-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-05-27T17:00:00Z",
       "key_points": [
-        "Permanent ad on Roku home screen",
-        "User frustration grows",
-        "Recommendations unwanted by users"
+        "Camera insights for automations",
+        "Home app improvements",
+        "Voice assistant updates"
       ],
-      "impact": "Roku users are unhappy with the new ad.",
-      "id": "c63f5b8f2efc5e7a359486252eff0190"
+      "impact": "This update enhances smart home functionality.",
+      "id": "d5aeed1f6a7ff41d0cc3c030362b8068"
     },
     {
-      "title": "Steam Deck Prices Increase by $200",
-      "description": "Valve raises Steam Deck prices significantly, with the 1TB model now at $949. The 512GB version also sees a price hike.",
-      "category": "Hardware",
+      "title": "Paralives Developers Share Insights in Q&A",
+      "description": "The Paralives indie team hosted their first Q&A, addressing community questions and confirming no paid DLCs. Fans are eager for ongoing development updates.",
+      "category": "Startups",
+      "source": "Sims Community",
+      "url": "https://simscommunity.info/2026/05/27/paralives-q-and-a-ama-full-summary/",
+      "image": "https://simscommunity.info/wp-content/uploads/2026/05/Paralives-QA-Sess-FI.jpg",
+      "published_at": "2026-05-27T15:39:45Z",
+      "key_points": [
+        "First Q&A session held",
+        "No paid DLCs planned",
+        "Community engagement emphasized"
+      ],
+      "impact": "Fans are excited for Paralives' future.",
+      "id": "c7f044442eec7d808f394050cd794dde"
+    },
+    {
+      "title": "Google Health App Updates Address User Concerns",
+      "description": "Google is rolling out updates to the Health app following user feedback on the Fitbit replacement. Enhancements include an improved AI coach and user interface.",
+      "category": "Software",
       "source": "The Verge",
-      "url": "https://www.theverge.com/games/938340/valve-steam-deck-price-increase",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070054/DSCF9155.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published_at": "2026-05-27T17:32:48Z",
+      "url": "https://www.theverge.com/tech/938179/google-health-fitbit-roadmap",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/HealthApp_hero.width-1600.jpg?quality=90&strip=all&crop=0%2C3.5645047073983%2C100%2C92.870990585203&w=1200",
+      "published_at": "2026-05-27T15:28:43Z",
       "key_points": [
-        "Steam Deck prices raised significantly",
-        "1TB model now $949",
-        "512GB version also increased"
+        "Updates based on user feedback",
+        "AI coach improvements",
+        "New user interface"
       ],
-      "impact": "Gamers face higher costs for Steam Deck.",
-      "id": "5a0dcde9aaac93252f137703b5ba3053"
+      "impact": "Google aims to enhance user satisfaction.",
+      "id": "49bf1f3f78b7340bc7a2c3e167ddd2fd"
     },
     {
-      "title": "xTool M2: Affordable Crafting Machine",
-      "description": "The xTool M2 is a versatile crafting machine priced at $599, offering laser cutting and full-color printing capabilities.",
-      "category": "Hardware",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/938031/xtool-m2-craft-machine-cmyk-inkjet-printing-laser-diode-cutter",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/xtool_m2_1.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-      "published_at": "2026-05-27T16:56:02Z",
-      "key_points": [
-        "xTool M2 priced at $599",
-        "Supports laser cutting and printing",
-        "Versatile for various projects"
-      ],
-      "impact": "Crafting enthusiasts gain a powerful tool.",
-      "id": "4cbc68d68d056dc6f8a36c6afcac9161"
-    },
-    {
-      "title": "IO Interactive Enhances 007: First Light Replayability",
-      "description": "IO Interactive plans to boost replayability for 007: First Light with new features, despite its linear gameplay structure.",
+      "title": "Windows 11 Update Boosts PC Performance",
+      "description": "The May update for Windows 11 reduces app launch lag and UI stutters, improving overall performance. Users can access this update early for enhanced speed.",
       "category": "Software",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/007-first-light-replayability-tacsim-dlc",
-      "image": "https://assetsio.gnwcdn.com/007-First-Light---Mission-2-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-05-27T16:05:07Z",
+      "source": "PCWorld",
+      "url": "https://www.pcworld.com/article/3149631/windows-11s-new-update-actually-makes-your-pc-faster-heres-how-to-get-it.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/05/Windows-11-Start-menu-option-consolidated.png?w=1024",
+      "published_at": "2026-05-27T14:57:00Z",
       "key_points": [
-        "New features for replayability",
-        "Linear gameplay concerns addressed",
-        "Developer aims to enhance experience"
+        "May update improves performance",
+        "Reduces app launch lag",
+        "Enhances user experience"
       ],
-      "impact": "Players will enjoy extended gameplay options.",
-      "id": "8859c67e373b7a0d9329087c2772ab54"
-    },
-    {
-      "title": "Halide Mark III Pro Camera Launches",
-      "description": "Halide's Mark III pro camera app introduces three major photography upgrades for iPhone users, enhancing the photography experience.",
-      "category": "Software",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/05/27/halide-mark-iii-pro-camera-for-iphone-arrives-with-three-key-photography-upgrades/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/halide-mark-iii-3.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-05-27T16:00:00Z",
-      "key_points": [
-        "Halide Mark III launched",
-        "Three key photography upgrades",
-        "Enhanced iPhone photography experience"
-      ],
-      "impact": "iPhone users gain powerful photography tools.",
-      "id": "ce900a65d0cabf7facfeb747765fd135"
-    },
-    {
-      "title": "Sony Bravia 7 II: RGB LED TV Performance",
-      "description": "Sony's Bravia 7 II showcases impressive performance for RGB LED TVs, setting a new standard in display technology.",
-      "category": "Hardware",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/937879/sony-bravia-7-ii-review",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268544_Sony_Bravia_7_II_RGB_LED_TV_JHiggins_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published_at": "2026-05-27T16:00:00Z",
-      "key_points": [
-        "Bravia 7 II impresses with performance",
-        "RGB LED technology shines",
-        "New standard in display quality"
-      ],
-      "impact": "Sony sets a high bar for TV performance.",
-      "id": "1595f0f7a75073104a3d49a996b9c49a"
+      "impact": "This update significantly boosts PC efficiency.",
+      "id": "ca6d448645b89ab485d808f670bd1d8b"
     }
   ]
 }
