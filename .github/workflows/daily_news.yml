@@ -17,7 +17,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.MODEL_ACCESS_TOKEN }}
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
@@ -31,10 +31,9 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run news fetch script
-env:
-  GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-  GITHUB_TOKEN: ${{ secrets.MODEL_ACCESS_TOKEN }} #  Put it here!
-  NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.MODEL_ACCESS_TOKEN }}
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
         run: python fetch_news.py
 
       - name: Verify news.json was created
