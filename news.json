@@ -1,119 +1,119 @@
 {
   "date": "2026-05-28",
-  "generated_at": "2026-05-28T01:45:35.800508+00:00",
+  "generated_at": "2026-05-28T05:58:10.316668+00:00",
   "edition": "Daily Tech Briefing",
   "articles": [
     {
-      "title": "Google Search AI annoys users; DuckDuckGo gains.",
-      "summary": "Google added AI to Search. Many users dislike it. DuckDuckGo saw installs rise 30%.",
+      "title": "DuckDuckGo sees more users over Google AI search",
+      "summary": "Google is adding AI to search. Many users dislike this change. They are choosing DuckDuckGo instead.",
       "category": "AI",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
       "key_points": [
-        "Google uses AI in search.",
-        "Users dislike forced AI.",
-        "DuckDuckGo gains users."
+        "Google AI search disliked",
+        "DuckDuckGo usage up",
+        "Users want choice"
       ],
-      "impact": "People are choosing search engines that don't force AI on them."
+      "impact": "People are choosing search engines that respect their privacy and choices."
     },
     {
-      "title": "Windows 11 update makes PCs faster.",
-      "summary": "A new Windows 11 update is live. It makes your computer run better. It is faster and more responsive.",
+      "title": "Windows 11 update makes PCs faster",
+      "summary": "A new Windows 11 update is out. It makes your computer run much better. It feels quicker and smoother.",
       "category": "Software",
       "source": "Windows Central",
       "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-rolls-out-windows-11-kb5089573-update-that-makes-your-pc-genuinely-faster-and-more-responsive",
       "image": "https://cdn.mos.cms.futurecdn.net/iSfZLRtdr9rYXFF8StFJcN-2560-80.jpg",
       "key_points": [
-        "New Windows 11 update.",
-        "Performance improved.",
-        "PC is faster."
+        "Windows 11 speed boost",
+        "Update available now",
+        "Better PC performance"
       ],
-      "impact": "Your Windows 11 computer should feel much quicker after the update."
+      "impact": "Your Windows 11 PC will feel faster after installing this update."
     },
     {
-      "title": "Free costumes for Street Fighter 6 characters.",
-      "summary": "New free costumes are coming soon. They are for all Street Fighter 6 characters. Get them this week.",
+      "title": "Apple Wallet ID for age checks",
+      "summary": "Apple Wallet can now check your age. This feature works in new places. It proves you are old enough.",
       "category": "Software",
-      "source": "EventHubs",
-      "url": "https://eventhubs.com/news/2026/may/26/drivetech-costumes-sf6-free/",
-      "image": "https://media.eventhubs.com/images/2026/05/26-drivetech-costumes-sf6-freet.webp",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/05/26/apple-wallets-new-digital-id-feature-just-added-more-ways-to-use-it/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/apple-wallet-app-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "key_points": [
-        "Free Street Fighter 6 costumes.",
-        "All characters get outfits.",
-        "Available this week."
+        "Apple Wallet age check",
+        "Digital ID feature",
+        "New use for Wallet"
       ],
-      "impact": "Players can dress up their favorite fighters for free soon."
+      "impact": "Your iPhone's Wallet app can verify your age for certain services now."
     },
     {
-      "title": "Resident Evil Requiem demo is out now.",
-      "summary": "Play a demo of Resident Evil Requiem. It's for PS5, Xbox, Switch 2, and PC. Try it before release.",
+      "title": "New Resident Evil demo on Switch 2",
+      "summary": "A demo for Resident Evil is out. You can play it on the Switch 2. Try the game's start.",
       "category": "Software",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/05/resident-evil-requiem-demo-now-available",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/05/RE-Requiem-Demo_05-26-26.jpg",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/05/capcom-releases-resident-evil-requiem-demo-on-switch-2",
+      "image": "https://images.nintendolife.com/62d250d397f65/large.jpg",
       "key_points": [
-        "Resident Evil Requiem demo.",
-        "Play on many consoles.",
-        "Available now."
+        "Resident Evil demo",
+        "Available on Switch 2",
+        "Play early stages"
       ],
-      "impact": "You can try the new Resident Evil game before it is fully released."
+      "impact": "Gamers can try the upcoming Resident Evil game on their new Switch."
     },
     {
-      "title": "Pokemon GO events for June 2026 announced.",
-      "summary": "June 2026 events for Pokemon GO are here. New Pokemon are featured. Many in-game events are planned.",
-      "category": "Software",
-      "source": "Pokemon GO Hub",
-      "url": "https://pokemongohub.net/post/event/june-2026-pokemon-go-events/",
-      "image": "https://pokemongohub.net/wp-content/uploads/2026/05/june-2026-pokemon-go-events.jpg",
-      "key_points": [
-        "June Pokemon GO events.",
-        "New Pokemon featured.",
-        "Many activities planned."
-      ],
-      "impact": "Pokemon GO players have new things to do in June."
-    },
-    {
-      "title": "PlayStation shuts down servers for game.",
-      "summary": "PlayStation removed a game. Destruction AllStars servers are off. It is no longer for sale.",
+      "title": "PlayStation game servers shut down",
+      "summary": "PlayStation closed a game. Destruction AllStars servers are off now. The game is no longer sold.",
       "category": "Software",
       "source": "IGN",
       "url": "https://www.ign.com/articles/playstation-delists-and-shuts-down-servers-for-destruction-allstars",
       "image": "https://assets-prd.ignimgs.com/2026/05/26/3793681-review-destructionallstars-v2-1779821237133.webp?width=1280&format=jpg&auto=webp&quality=80",
       "key_points": [
-        "Destruction AllStars offline.",
-        "Servers shut down.",
-        "Game removed from sale."
+        "Destruction AllStars offline",
+        "Servers shut down",
+        "Game removed from sale"
       ],
-      "impact": "The online game Destruction AllStars is no longer playable or available."
+      "impact": "A PlayStation game is no longer playable online or available for purchase."
     },
     {
-      "title": "Apple MacBook deals still active.",
-      "summary": "Some Memorial Day sales on Apple gear are still on. You can get MacBooks and AirPods. Prices are lower.",
+      "title": "iPhone 18 Pro might get thicker",
+      "summary": "The iPhone 18 Pro could be thicker. This follows a trend from last year. Some users accept this.",
       "category": "Hardware",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/best-memorial-day-deals-apple-airpods-macbooks-2026",
-      "image": "https://helios-i.mashable.com/imagery/articles/06ylH5Qobpg8bD9ZkmWUJbh/hero-image.fill.size_1200x675.v1779733508.jpg",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/05/26/iphone-18-pro-could-further-a-design-trend-ive-finally-come-around-on/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "key_points": [
-        "Apple deals still active.",
-        "MacBooks and AirPods on sale.",
-        "Prices reduced."
+        "iPhone 18 Pro thicker?",
+        "Design trend continues",
+        "Thicker phones accepted"
       ],
-      "impact": "You can still save money on Apple laptops and earbuds after the holiday."
+      "impact": "Future iPhones might be thicker, reversing the trend of making them thinner."
     },
     {
-      "title": "PC makers react to Apple's new laptops.",
-      "summary": "PC companies are making new laptops. They respond to Apple's MacBook Neo. Good cheap laptops are rare.",
+      "title": "PC makers react to Apple laptops",
+      "summary": "PC makers watch Apple's new laptops. They see Apple's design choices. They are making their own better laptops.",
       "category": "Hardware",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/gadgets/2026/05/were-starting-to-see-some-pc-makers-respond-to-apples-macbook-neo/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/intel-core-series-3-1152x648.jpg",
       "key_points": [
-        "PC makers copy Apple.",
-        "Respond to MacBook Neo.",
-        "Focus on affordable laptops."
+        "PC makers copying Apple",
+        "Responding to MacBooks",
+        "Better affordable laptops"
       ],
-      "impact": "Competitors are creating new, affordable laptops to compete with Apple."
+      "impact": "PC makers are trying to match Apple's new laptop designs with their own."
+    },
+    {
+      "title": "June events for Pokémon GO",
+      "summary": "Pokémon GO has events in June. Catch special Pokémon like Kartana. There are more raids and battles.",
+      "category": "Software",
+      "source": "Pokemon GO Hub",
+      "url": "https://pokemongohub.net/post/event/june-2026-pokemon-go-events/",
+      "image": "https://pokemongohub.net/wp-content/uploads/2026/05/june-2026-pokemon-go-events.jpg",
+      "key_points": [
+        "Pokémon GO June events",
+        "New Pokémon available",
+        "Raids and Community Day"
+      ],
+      "impact": "Pokémon GO players have new events and Pokémon to catch this June."
     }
   ]
 }
