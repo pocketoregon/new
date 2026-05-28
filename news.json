@@ -1,127 +1,135 @@
 {
   "date": "2026-05-28",
-  "generated_at": "2026-05-28T11:33:33.157541+00:00",
+  "generated_at": "2026-05-28T14:39:07.965484+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Sonic Frontiers: Definitive Edition Enhancements Leaked",
-      "summary": "New leaks reveal technical improvements for Sonic Frontiers: Definitive Edition on Nintendo Switch 2. Fans can expect enhanced graphics and performance.",
+      "title": "Dragon Quest 12: Beyond Dreams Unveiled After Five Years",
+      "description": "Square Enix finally reveals Dragon Quest 12 with a trailer, celebrating the series’ 40th anniversary. Fans have eagerly awaited this update since its initial announcement five years ago.",
+      "category": "Software",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/dragon-quest-12-beyond-dreams-reveals-first-trailer-and-details-five-years-after-announcement/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Dragon-Quest-12-Beyond-Dreams.jpg",
+      "published_at": "2026-05-27T13:20:53Z",
+      "key_points": [
+        "First trailer released",
+        "Celebrates 40th anniversary",
+        "Five years since announcement"
+      ],
+      "impact": "Fans are excited for this long-awaited sequel.",
+      "id": "8490eeb1b3d8c0bd1b5b2a5ac655dbda"
+    },
+    {
+      "title": "Mina the Hollower: A Nostalgic Yet Modern Experience",
+      "description": "Mina the Hollower combines nostalgic design with modern gameplay, offering a fresh take on classic gaming. Its thoughtful mechanics elevate it beyond mere retro homage.",
+      "category": "Software",
+      "source": "Gameinformer.com",
+      "url": "https://gameinformer.com/review/mina-the-hollower/refined-throwback",
+      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/05/22/8b5f367e/ss_ba216fb4f7dfd28595b2ddfa095dc0bcecb3a0a3.1920x1080.jpg.webp",
+      "published_at": "2026-05-27T13:12:21Z",
+      "key_points": [
+        "Nostalgic design",
+        "Modern gameplay mechanics",
+        "Thoughtful game design"
+      ],
+      "impact": "Players will enjoy a refined gaming experience.",
+      "id": "5c74442522583bc68e2e28d830b47757"
+    },
+    {
+      "title": "Dragon Quest Monsters: The Withered World Announced",
+      "description": "Square Enix announces Dragon Quest Monsters: The Withered World for multiple platforms, including PS5 and Xbox Series. No release date has been provided yet.",
+      "category": "Software",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/05/dragon-quest-monsters-the-withered-world-announced-for-ps5-xbox-series-switch-2-switch-and-pc",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/05/DQM4-Ann_05-27-26.jpg",
+      "published_at": "2026-05-27T13:10:25Z",
+      "key_points": [
+        "New Dragon Quest title announced",
+        "Available on multiple platforms",
+        "Release date not specified"
+      ],
+      "impact": "Fans await further details on this title.",
+      "id": "0ddc5d3d358aafdc12f9e5ce22f0b189"
+    },
+    {
+      "title": "No Man's Sky Swarm Update Introduces Epic Battles",
+      "description": "The Swarm update for No Man's Sky brings massive space battles and new threats ahead of the game's tenth anniversary. Players can expect exciting new gameplay elements.",
+      "category": "Software",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/no-mans-sky-swarm-update",
+      "image": "https://assetsio.gnwcdn.com/no-mans-sky-swarm-update-header-correction.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-05-27T13:00:05Z",
+      "key_points": [
+        "Massive space battles",
+        "New gameplay threats",
+        "Tenth anniversary update"
+      ],
+      "impact": "Players will experience thrilling new content.",
+      "id": "3071d6d3e6532110df78201ecb9818c8"
+    },
+    {
+      "title": "Dragon Quest 11 S Confirmed for Nintendo Switch 2",
+      "description": "Square Enix announces Dragon Quest 11 S will launch on Nintendo Switch 2 on September 24, 2026. This follows recent leaks about the game’s release.",
+      "category": "Software",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/dragon-quest-11-s-coming-to-nintendo-switch-2/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Dragon-Quest-11-S-Switch-2.jpg",
+      "published_at": "2026-05-27T12:27:57Z",
+      "key_points": [
+        "Release date set for September 24",
+        "Coming to Nintendo Switch 2",
+        "Follows recent leaks"
+      ],
+      "impact": "Fans can mark their calendars for this release.",
+      "id": "a20bf2cde569ee06f24e3524f8ae7e1b"
+    },
+    {
+      "title": "Motorola Razr Ultra: Stylish but Flawed",
+      "description": "The 2026 Motorola Razr Ultra impresses with battery life but suffers from bloatware and a mediocre camera. It stands out in design but has notable drawbacks.",
+      "category": "Hardware",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/937763/motorola-razr-ultra-2026-review-battery-camera",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268559_Motorola_Razr_Ultra_2026_review_AJohnson_0001.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "published_at": "2026-05-27T12:00:00Z",
+      "key_points": [
+        "Great battery life",
+        "Bloatware issues",
+        "Camera underwhelming"
+      ],
+      "impact": "Consumers weigh design against performance drawbacks.",
+      "id": "5492b790d5a6bace0ad8b847d804fd6b"
+    },
+    {
+      "title": "The Guardian Achieves Record U.S. Revenue of $81M",
+      "description": "The Guardian reports record U.S. revenue driven by its nonprofit model and commitment to free access. This has led to significant reader donations.",
+      "category": "Business",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/26/the-guardian-us-record-revenue",
+      "image": "https://images.axios.com/QHhUqRtECpwaQ06JjpFyqIon7Go=/0x0:1600x900/1366x768/2026/05/26/1779818982532.png",
+      "published_at": "2026-05-27T11:54:10Z",
+      "key_points": [
+        "Record U.S. revenue",
+        "Driven by reader donations",
+        "Nonprofit model success"
+      ],
+      "impact": "The Guardian's model proves effective in revenue generation.",
+      "id": "41fa6341d489354cbd00137283a8b2a9"
+    },
+    {
+      "title": "Sonic Frontiers: Definitive Edition Tech Improvements Leaked",
+      "description": "Rumors reveal technical enhancements for Sonic Frontiers: Definitive Edition on Nintendo Switch 2. Fans are eager for details on these improvements.",
       "category": "Software",
       "source": "Nintendoeverything.com",
       "url": "https://nintendoeverything.com/rumor-sonic-frontiers-definitive-edition-nintendo-switch-2-tech-improvements-detailed/",
       "image": "https://nintendoeverything.com/wp-content/uploads/Sonic-Frontiers-Switch-2-tech-improvements.jpg",
       "published_at": "2026-05-27T11:47:57Z",
       "key_points": [
-        "Technical upgrades confirmed",
-        "Switch 2 enhancements",
-        "Leaked details emerging"
+        "Technical improvements detailed",
+        "Rumors circulating",
+        "Fans eager for updates"
       ],
-      "impact": "Improved gameplay experience anticipated for fans."
-    },
-    {
-      "title": "Motorola's 2026 Razrs: Stunning but Pricey",
-      "summary": "Motorola's 2026 Razrs impress with design but come with high price tags. Buyers may hesitate despite their aesthetic appeal.",
-      "category": "Hardware",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/05/motorolas-2026-razrs-are-almost-worth-buying-just-for-their-stunning-looks-almost/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Razr-2026-1-1152x648.jpg",
-      "published_at": "2026-05-27T11:00:28Z",
-      "key_points": [
-        "Stunning design",
-        "High price tags",
-        "Mixed reviews expected"
-      ],
-      "impact": "Consumers may be deterred by costs."
-    },
-    {
-      "title": "New Witcher 3 Expansion 'Songs of the Past' Announced",
-      "summary": "The Witcher 3 expansion 'Songs of the Past' continues Geralt's journey over a decade later. New minimum requirements will apply with the next patch.",
-      "category": "Software",
-      "source": "Digital Foundry",
-      "url": "https://www.digitalfoundry.net/news/2026/05/new-witcher-3-expansion-revealed-songs-of-the-past-continues-geralts-story-more-than-a-decade-on",
-      "image": "https://images.digitalfoundry.net/0036a96700cec/large.jpg",
-      "published_at": "2026-05-27T09:18:00Z",
-      "key_points": [
-        "Expansion revealed",
-        "Continues Geralt's story",
-        "New requirements announced"
-      ],
-      "impact": "Fans excited for Geralt's new adventures."
-    },
-    {
-      "title": "Street Fighter 6 Update: Server Maintenance Scheduled",
-      "summary": "Capcom announces server maintenance for Street Fighter 6's largest content update, featuring Ingrid. Players can expect significant enhancements soon.",
-      "category": "Software",
-      "source": "EventHubs",
-      "url": "https://www.eventhubs.com/news/2026/may/26/street-fighter-ingrid-update-maintenance/",
-      "image": "https://media.eventhubs.com/images/2026/05/26-street-fighter-ingrid-update-maintenancet.webp",
-      "published_at": "2026-05-27T02:12:35Z",
-      "key_points": [
-        "Major content update",
-        "Ingrid joins the roster",
-        "Maintenance times revealed"
-      ],
-      "impact": "Players eager for new content and features."
-    },
-    {
-      "title": "Google Health Premium Joins AI Pro Subscription",
-      "summary": "Google Health Premium is now part of the Google AI Pro subscription, enhancing user access to health features. A new mobile app is also rolling out today.",
-      "category": "Software",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/05/26/google-health-premium/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/google-health-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-05-27T01:04:00Z",
-      "key_points": [
-        "New mobile app launched",
-        "Part of AI Pro subscription",
-        "Enhanced health features"
-      ],
-      "impact": "Users gain improved health management tools."
-    },
-    {
-      "title": "Resident Evil Requiem Demo Released on Switch 2",
-      "summary": "Capcom launches a demo for Resident Evil Requiem on Switch 2, allowing players to experience early game stages. Fans can now try before they buy.",
-      "category": "Software",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/05/capcom-releases-resident-evil-requiem-demo-on-switch-2",
-      "image": "https://images.nintendolife.com/62d250d397f65/large.jpg",
-      "published_at": "2026-05-27T00:55:00Z",
-      "key_points": [
-        "Demo available now",
-        "Experience early gameplay",
-        "Switch 2 exclusive"
-      ],
-      "impact": "Players can preview the game before purchase."
-    },
-    {
-      "title": "Memorial Day Apple Deals Still Available",
-      "summary": "Surprise Memorial Day deals on Apple products continue, including M5 MacBook Airs for $899 and AirPods for $99. Limited-time offers attract bargain hunters.",
-      "category": "Startups",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/best-memorial-day-deals-apple-airpods-macbooks-2026",
-      "image": "https://helios-i.mashable.com/imagery/articles/06ylH5Qobpg8bD9ZkmWUJbh/hero-image.fill.size_1200x675.v1779733508.jpg",
-      "published_at": "2026-05-27T00:30:38Z",
-      "key_points": [
-        "Deals on MacBook Airs",
-        "AirPods discounted",
-        "Limited-time offers"
-      ],
-      "impact": "Bargain hunters can save on Apple products."
-    },
-    {
-      "title": "DuckDuckGo Sees 30% Surge in Installs",
-      "summary": "DuckDuckGo installs rise 30% as users reject Google's AI-driven search. The backlash against AI integration in search engines is evident.",
-      "category": "Software",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
-      "published_at": "2026-05-26T22:32:56Z",
-      "key_points": [
-        "30% increase in installs",
-        "Users prefer non-AI search",
-        "Backlash against Google AI"
-      ],
-      "impact": "DuckDuckGo gains traction amid user dissatisfaction."
+      "impact": "Anticipation builds for the definitive edition.",
+      "id": "98fc1196dba9feb860c10d2828e83699"
     }
   ]
 }
