@@ -1,6 +1,7 @@
 import os
 import json
 import requests
+import hashlib
 from openai import OpenAI
 from pydantic import BaseModel, Field
 from typing import List
@@ -11,7 +12,7 @@ from datetime import datetime, timezone
 # ---------------------------------------------------------------------------
 class StructuredArticle(BaseModel):
     title: str = Field(description="The rewritten punchy headline.")
-    summary: str = Field(description="A brief summary. Exactly 2 to 3 short sentences. Strict maximum of 35 words total.")
+    description: str = Field(description="A brief summary. Exactly 2 to 3 short sentences. Strict maximum of 35 words total.")
     category: str = Field(description="Must be one of: AI, Hardware, Software, Security, Science, Business, Policy, Startups")
     source: str = Field(description="Keep exact original source name unchanged.")
     url: str = Field(description="Keep exact original URL unchanged.")
@@ -26,20 +27,21 @@ class TechBriefingEdition(BaseModel):
     edition: str = "Daily Tech Briefing"
     articles: List[StructuredArticle]
 
-class RankedFeed(BaseModel):
-    generated_at: str
-    articles: List[StructuredArticle]
-
 
 # ---------------------------------------------------------------------------
 # CORE LOGIC
 # ---------------------------------------------------------------------------
+def generate_id(title, published_at):
+    """Creates a unique fixed fingerprint ID for each article."""
+    raw_str = f"{title}_{published_at}"
+    return hashlib.md5(raw_str.encode('utf-8')).hexdigest()
+
 def fetch_real_news(news_api_key):
     url = "https://newsapi.org/v2/top-headlines"
     params = {
         "category": "technology",
         "language": "en",
-        "pageSize": 10,
+        "pageSize": 15,  # Fetch slightly more to account for skipped duplicates
         "apiKey": news_api_key
     }
     response = requests.get(url, params=params, timeout=10)
@@ -51,24 +53,38 @@ def fetch_real_news(news_api_key):
         
     articles = []
     for item in data.get("articles", []):
-        if item.get("title") and item.get("title") != "[Removed]":
+        title = item.get("title", "")
+        if title and title != "[Removed]":
             articles.append({
-                "title": item.get("title", ""),
+                "title": title,
                 "description": item.get("description", "") or "",
                 "content": item.get("content", "") or "",
                 "source": item.get("source", {}).get("name", "Unknown"),
                 "url": item.get("url", ""),
                 "image": item.get("urlToImage", "") or "",
-                "published_at": item.get("publishedAt", "")
+                "published_at": item.get("publishedAt", "") or ""
             })
-    if not articles:
-        raise ValueError("No articles returned from NewsAPI")
-    print(f"   Fetched {len(articles)} real articles from NewsAPI")
-    return articles[:8]
+    return articles
+
+def load_existing_ids(archive_path="archive.json"):
+    """Reads archive to find all previously collected article IDs."""
+    existing_ids = set()
+    try:
+        with open(archive_path, "r", encoding="utf-8") as f:
+            archive = json.load(f)
+        for batch in archive.get("batches", []):
+            for article in batch.get("articles", []):
+                if "id" in article:
+                    existing_ids.add(article["id"])
+    except Exception:
+        pass  # Fresh file or parsing error
+    return existing_ids
 
 def process_articles(articles, client, today):
     """Pass 1 — simplify, shorten, and rewrite articles with strict Pydantic enforcement."""
-    now_iso = datetime.now(timezone.utc).isoformat()
+    if not articles:
+        return {"date": today, "generated_at": datetime.now(timezone.utc).isoformat(), "articles": []}
+
     articles_text = ""
     for i, article in enumerate(articles):
         articles_text += f"""
@@ -86,7 +102,7 @@ Content: {article['content'][:300] if article['content'] else ''}
     
 CRITICAL CONSTRAINTS:
 - Keep everything simple, punchy, and direct. 
-- 'summary' MUST be only 2-3 sentences and UNDER 35 words total. No long fluff paragraphs.
+- 'description' MUST be only 2-3 sentences and UNDER 35 words total. No long fluff paragraphs.
 - 'key_points' MUST contain exactly 3 strings, each under 8 words.
 - 'impact' MUST be exactly 1 sentence under 20 words.
 - Keep original source names, URLs, and image URLs unchanged.
@@ -95,7 +111,7 @@ Today's Date: {today}
 Articles to process:
 {articles_text}"""
 
-    print("   Pass 1: Simplifying with GPT-4o mini (Structured Outputs Mode)...")
+    print(f"   Processing {len(articles)} fresh unseen articles with GPT-4o mini...")
     
     completion = client.beta.chat.completions.parse(
         model="gpt-4o-mini",
@@ -105,72 +121,16 @@ Articles to process:
     )
     return json.loads(completion.choices[0].message.content)
 
-def rank_articles(new_articles, all_batches, client, today):
-    """Pass 2 — rank and maintain the feed using Structured Outputs."""
-    old_articles = []
-    cutoff = datetime.now(timezone.utc).timestamp() - (48 * 3600)
-    
-    for batch in all_batches:
-        try:
-            batch_time = datetime.fromisoformat(batch["fetched_at"]).timestamp()
-            if batch_time >= cutoff:
-                for a in batch["articles"]:
-                    a["fetched_at"] = batch["fetched_at"]
-                    old_articles.append(a)
-        except Exception as e:
-            print(f"   Warning: Skipping batch due to error: {e}")
-            pass
-            
-    all_articles = new_articles + old_articles
-    now_iso = datetime.now(timezone.utc).isoformat()
-    articles_text = ""
-    for i, a in enumerate(all_articles):
-        is_new = i < len(new_articles)
-        articles_text += f"""
-Article {i+1}:
-Title: {a['title']}
-Category: {a['category']}
-Source: {a['source']}
-URL: {a.get('url','')}
-Image: {a.get('image','')}
-Summary: {a['summary']}
-Key Points: {a.get('key_points',[])}
-Impact: {a.get('impact','')}
-Is New: {'YES' if is_new else 'NO'}
-Published At: {a.get('published_at', '')}
-Fetched At: {a.get('fetched_at', now_iso)}
----"""
-
-    prompt = f"""You are a news feed curator. Organize and sort these {len(all_articles)} articles for our tech news homepage. 
-Rules:
-- Order them by relevance, tech importance, and freshness.
-- Prioritize brand new breaking developments over old items.
-- Ensure variety; avoid grouping too many articles of the same category back-to-back.
-- Maintain original lengths and formatting exactly as passed in.
-
-Current time: {now_iso}
-Articles to sort:
-{articles_text}"""
-
-    print("   Pass 2: Ranking feed with GPT-4o mini (Structured Outputs Mode)...")
-    
-    completion = client.beta.chat.completions.parse(
-        model="gpt-4o-mini",
-        messages=[{"role": "user", "content": prompt}],
-        response_format=RankedFeed,
-        temperature=0.2
-    )
-    return json.loads(completion.choices[0].message.content)
-
 def validate(news_data, original_articles):
     valid_categories = {"AI", "Hardware", "Software", "Security", "Science", "Business", "Policy", "Startups"}
     for i, article in enumerate(news_data["articles"]):
-        if not article.get("url") and i < len(original_articles):
-            article["url"] = original_articles[i]["url"]
-        if not article.get("image") and i < len(original_articles):
-            article["image"] = original_articles[i]["image"]
-        if not article.get("published_at") and i < len(original_articles):
-            article["published_at"] = original_articles[i]["published_at"]
+        if i < len(original_articles):
+            if not article.get("url"):
+                article["url"] = original_articles[i]["url"]
+            if not article.get("image"):
+                article["image"] = original_articles[i]["image"]
+            if not article.get("published_at"):
+                article["published_at"] = original_articles[i]["published_at"]
         if article.get("category") not in valid_categories:
             article["category"] = "Software"
     return news_data
@@ -179,25 +139,22 @@ def update_archive(new_batch, archive_path="archive.json"):
     try:
         with open(archive_path, "r", encoding="utf-8") as f:
             archive = json.load(f)
-        print(f"   Loaded existing archive with {len(archive['batches'])} batches")
     except (FileNotFoundError, Exception):
-        print("   No or corrupt archive found, creating a fresh instance")
         archive = {"batches": []}
 
-    archive["batches"].insert(0, new_batch)
-    print(f"   Added new batch: {new_batch['label']}")
+    # Only save the batch if it actually has new unique articles
+    if new_batch["articles"]:
+        archive["batches"].insert(0, new_batch)
+        print(f"   Added new batch with {len(new_batch['articles'])} unseen articles.")
+    else:
+        print("   No new articles to append to archive during this cycle.")
 
+    # Cutoff at 7 days to keep repository clean
     cutoff = datetime.now(timezone.utc).timestamp() - (7 * 24 * 3600)
-    original_count = len(archive["batches"])
     archive["batches"] = [b for b in archive["batches"] if datetime.fromisoformat(b["fetched_at"]).timestamp() >= cutoff]
     
-    removed = original_count - len(archive["batches"])
-    if removed > 0:
-        print(f"   Removed {removed} old batches (>7 days aged)")
-
     with open(archive_path, "w", encoding="utf-8") as f:
         json.dump(archive, f, indent=2, ensure_ascii=False)
-    print(f"   ✅ Archive saved: {len(archive['batches'])} total batches")
     return archive
 
 def fetch_news():
@@ -209,42 +166,52 @@ def fetch_news():
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     now_iso = datetime.now(timezone.utc).isoformat()
 
-    print(f"\n{'='*60}\nAI·Brief News Fetch — {today}\n{'='*60}\n")
+    print(f"\n{'='*60}\nAI·Brief Pipeline — {today}\n{'='*60}\n")
 
     client = OpenAI(base_url="https://models.inference.ai.azure.com", api_key=github_token)
 
-    print("[Step 1] Fetching real news from NewsAPI...")
-    original_articles = fetch_real_news(news_api_key)
+    print("[Step 1] Fetching fresh candidates from NewsAPI...")
+    raw_candidates = fetch_real_news(news_api_key)
+    print(f"   Fetched {len(raw_candidates)} total candidates.")
 
-    print("\n[Step 2] Processing with GPT-4o mini (Pass 1)...")
-    news_data = process_articles(original_articles, client, today)
-    news_data = validate(news_data, original_articles)
+    print("\n[Step 2] Filtering out existing duplicate IDs...")
+    existing_ids = load_existing_ids()
+    
+    unseen_articles = []
+    for article in raw_candidates:
+        art_id = generate_id(article["title"], article["published_at"])
+        if art_id not in existing_ids:
+            article["id"] = art_id
+            unseen_articles.append(article)
+            
+    print(f"   Filtered down to {len(unseen_articles)} brand-new unique articles.")
+
+    # Limit to maximum 8 fresh updates per run to protect API windows
+    unseen_articles = unseen_articles[:8]
+
+    print("\n[Step 3] Rewriting only unseen data...")
+    news_data = process_articles(unseen_articles, client, today)
+    news_data = validate(news_data, unseen_articles)
     news_data["generated_at"] = now_iso
 
-    print("\n[Step 3] Saving news.json...")
+    # Inject calculated IDs into processed output objects
+    for i, article in enumerate(news_data.get("articles", [])):
+        if i < len(unseen_articles):
+            article["id"] = unseen_articles[i]["id"]
+
+    print("\n[Step 4] Saving current news.json snapshot...")
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(news_data, f, indent=2, ensure_ascii=False)
-    print(f"   ✅ news.json saved with {len(news_data['articles'])} articles")
 
-    print("\n[Step 4] Updating archive...")
+    print("\n[Step 5] Synchronizing to archive...")
     new_batch = {
         "id": now_iso,
         "fetched_at": now_iso,
         "label": datetime.now(timezone.utc).strftime("%b %d, %Y — %I:%M %p UTC"),
         "articles": news_data["articles"]
     }
-    archive = update_archive(new_batch)
-
-    print("\n[Step 5] Ranking feed with GPT-4o mini (Pass 2)...")
-    try:
-        feed_data = rank_articles(news_data["articles"], archive["batches"], client, today)
-        with open("feed.json", "w", encoding="utf-8") as f:
-            json.dump(feed_data, f, indent=2, ensure_ascii=False)
-        print(f"   ✅ feed.json saved with {len(feed_data['articles'])} articles")
-    except Exception as e:
-        print(f"   ⚠️ Warning: Feed ranking failed: {e}. Defaulting layout.")
-
-    print(f"\n{'='*60}\n✅ Fetch Complete!\n{'='*60}\n")
+    update_archive(new_batch)
+    print(f"\n{'='*60}\nBackend Operations Complete!\n{'='*60}\n")
 
 if __name__ == "__main__":
     try:
