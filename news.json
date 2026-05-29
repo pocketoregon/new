@@ -1,87 +1,135 @@
 {
   "date": "2026-05-29",
-  "generated_at": "2026-05-29T08:00:36.035000+00:00",
+  "generated_at": "2026-05-29T12:17:16.172245+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Handheld Gaming's Golden Age Ends with Price Hike",
-      "description": "Valve's Steam Deck price rises to $789, signaling the decline of affordable handheld gaming. This shift makes gaming less accessible for many enthusiasts.",
+      "title": "The Outer Worlds PS5 Upgrade Turns Chaotic",
+      "description": "Obsidian's free PS5 upgrade for The Outer Worlds has led to confusion among players. Mixed messaging has complicated the upgrade process for PS4 owners.",
       "category": "Software",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/938451/steam-deck-price-hike-end-of-handheld-gaming-era",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/DSCF9137.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published_at": "2026-05-28T06:30:00Z",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/05/the-outer-worlds-free-ps5-upgrade-has-immediately-turned-into-a-mess",
+      "image": "https://images.pushsquare.com/d7ecb2faf5221/large.jpg",
+      "published_at": "2026-05-28T10:15:00Z",
       "key_points": [
-        "Steam Deck price increase",
-        "Handheld gaming accessibility declines",
-        "End of an era"
+        "Confusion over upgrade process",
+        "Mixed messages from Obsidian",
+        "PS4 owners facing issues"
       ],
-      "impact": "This price hike limits access to gaming.",
-      "id": "1f195faf86f2d6ab438046dd435d239a"
+      "impact": "Players are frustrated by unclear upgrade instructions.",
+      "id": "ac60bd41fcaf0e62d8be3b27abf9b4ac"
     },
     {
-      "title": "Mitochondrial DNA Mutations Linked to Aging",
-      "description": "New research reveals that age-related mitochondrial DNA mutations may stem from cryptic replication errors, becoming detectable as we age. This insight could reshape our understanding of aging.",
-      "category": "Science",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/s41586-026-10569-6",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10569-6/MediaObjects/41586_2026_10569_Fig1_HTML.png",
-      "published_at": "2026-05-27T19:19:01Z",
-      "key_points": [
-        "Mitochondrial mutations increase with age",
-        "Cryptic errors identified",
-        "New insights into aging"
-      ],
-      "impact": "Understanding these mutations could advance aging research.",
-      "id": "f95aa348d619cc8ccba3543f07413aca"
-    },
-    {
-      "title": "Dodge's Copperhead SRT: No V8, No Charger Base",
-      "description": "Dodge's new Copperhead SRT, revealed by its creator, features unique proportions and dismisses hybrid V8 technology as outdated. This marks a shift in Dodge's performance strategy.",
-      "category": "Software",
-      "source": "The Drive",
-      "url": "https://www.thedrive.com/news/dodges-new-copperhead-srt-might-not-have-a-v8-and-its-not-based-on-the-charger",
-      "image": "https://www.thedrive.com/wp-content/uploads/2026/05/1997-Dodge-Copperhead-Concept-front.jpg?w=1200",
-      "published_at": "2026-05-27T18:28:58Z",
-      "key_points": [
-        "Copperhead SRT lacks V8 engine",
-        "Hybrid tech considered outdated",
-        "Unique design proportions"
-      ],
-      "impact": "This shift could redefine Dodge's performance lineup.",
-      "id": "1b5a2f6f59ee9be15efc33c8fdd4e29e"
-    },
-    {
-      "title": "Google Unveils AI-Powered Smart Glasses",
-      "description": "At Google I/O 2026, the company introduced new AI-driven smart glasses, developed with Samsung and Qualcomm, enhancing the Android XR platform. These glasses promise seamless integration with daily tasks.",
+      "title": "Vertu's AI Foldable Targets CEOs at $6,880",
+      "description": "Vertu launches a luxury foldable phone featuring AI workflows aimed at executives. The device integrates enterprise software for enhanced productivity.",
       "category": "Hardware",
-      "source": "Chrome Unboxed",
-      "url": "https://chromeunboxed.com/google-is-bringing-gemini-to-smart-glasses-and-they-come-with-one-big-advantage/",
-      "image": "https://chromeunboxed.com/wp-content/uploads/2026/05/GoogleAndroidXRGlasses.webp",
-      "published_at": "2026-05-27T16:34:19Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/vertu-alphafold-foldable.jpg?resize=1200,800",
+      "published_at": "2026-05-28T07:00:00Z",
       "key_points": [
-        "New AI smart glasses launched",
-        "Collaboration with Samsung",
-        "Enhanced Android XR platform"
+        "Luxury foldable phone",
+        "AI integration for executives",
+        "Starts at $6,880"
       ],
-      "impact": "These glasses could revolutionize smart eyewear.",
-      "id": "7f85336c1ec14e901a79df3f6d1b23d4"
+      "impact": "Vertu aims to redefine productivity for CEOs.",
+      "id": "bcd8e4dc8421f0998efafbbd19298912"
     },
     {
-      "title": "10 Billion Pokémon Cards Printed, Shortages Persist",
-      "description": "Despite producing over 10 billion Pokémon cards last year, shortages and scalping continue to plague the market. The Pokémon Company has printed a total of 85 billion cards to date.",
-      "category": "Business",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/10-billion-pokemon-cards-were-printed-last-year-and-it-still-wasnt-enough-to-stop-shortages-and-scalping",
-      "image": "https://assets-prd.ignimgs.com/2026/05/27/gettyimages-2265564068-1779893407254.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-05-27T14:58:35Z",
+      "title": "Anker Unveils Pokémon-Themed Tech Collection",
+      "description": "Anker Japan celebrates Pokémon's 30th anniversary with a new tech collection. The lineup includes chargers, adapters, and earphones.",
+      "category": "Hardware",
+      "source": "gizmochina",
+      "url": "https://www.gizmochina.com/2026/05/28/anker-pokemon-30th-anniversary-collection-2026-charger-adpater-earphone-pouch/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/Anker-USB-Fast-Charger-70W-Pikachu-Model.jpg",
+      "published_at": "2026-05-28T06:28:14Z",
       "key_points": [
-        "10 billion cards printed last year",
-        "Total of 85 billion cards",
-        "Market shortages continue"
+        "Pokémon-themed tech accessories",
+        "Includes chargers and earphones",
+        "Launches in July 2026"
       ],
-      "impact": "Production can't meet demand, causing issues.",
-      "id": "b666e71092e19a62ba548fe4af80835a"
+      "impact": "Anker targets Pokémon fans with exclusive products.",
+      "id": "e0962f995e672d46a1b8771e36832295"
+    },
+    {
+      "title": "No Switch 2 Upgrade for Dragon Quest XI S",
+      "description": "Square Enix confirms no plans for a Switch 2 upgrade for Dragon Quest XI S. The game will remain as is for the new console.",
+      "category": "Software",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/05/square-enix-has-no-plans-to-sell-a-switch-2-upgrade-for-dragon-quest-xi-s",
+      "image": "https://images.nintendolife.com/fbfe6d2f3d235/large.jpg",
+      "published_at": "2026-05-28T02:55:00Z",
+      "key_points": [
+        "No Switch 2 upgrade planned",
+        "Game remains unchanged",
+        "Square Enix confirms decision"
+      ],
+      "impact": "Fans will not see an upgraded version.",
+      "id": "163835a0bc933cc338b89ff21e369292"
+    },
+    {
+      "title": "Mina the Hollower: A Retro Gaming Masterpiece",
+      "description": "Mina the Hollower impresses with its retro style and gameplay. The game showcases Yacht Club Games' continuous improvement in game design.",
+      "category": "Software",
+      "source": "Gamefile.news",
+      "url": "https://www.gamefile.news/p/mina-the-hollower-review-plus-shovel-knight",
+      "image": "https://substackcdn.com/image/fetch/$s_!tOmH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa39e3c9-7bb2-4151-8cd9-5083e7def3d2_1920x1080.jpeg",
+      "published_at": "2026-05-27T23:55:58Z",
+      "key_points": [
+        "Retro-style gameplay",
+        "Yacht Club's latest release",
+        "Highly praised by reviewers"
+      ],
+      "impact": "Mina the Hollower sets a new standard for retro games.",
+      "id": "7098a17de47bc781281afe973578e901"
+    },
+    {
+      "title": "Top 5 Tech Deals on Amazon Outlet This May",
+      "description": "Amazon Outlet features exciting tech products at discounted prices. Limited-time offers make these deals a must-see for tech enthusiasts.",
+      "category": "Business",
+      "source": "SlashGear",
+      "url": "https://www.slashgear.com/2180660/cool-products-on-amazon-outlet-may-2026/",
+      "image": "https://www.slashgear.com/img/gallery/5-cool-tech-products-you-can-find-on-amazon-outlet-in-may-2026/l-intro-1779731893.jpg",
+      "published_at": "2026-05-27T23:30:00Z",
+      "key_points": [
+        "Discounted tech products",
+        "Limited-time offers",
+        "Must-see for tech lovers"
+      ],
+      "impact": "Shoppers can save big on tech this month.",
+      "id": "19bfa61373e8fe483f070bcd8b73855d"
+    },
+    {
+      "title": "Essential Setup Tips for Google Fitbit Air",
+      "description": "New Fitbit Air users should adjust settings for optimal performance. Key features enhance the user experience right out of the box.",
+      "category": "Software",
+      "source": "Android Central",
+      "url": "https://www.androidcentral.com/wearables/fitbit/first-things-you-should-do-with-google-fitbit-air",
+      "image": "https://cdn.mos.cms.futurecdn.net/pQicYjHRhY8hEWuGF9WzR3-2560-80.jpg",
+      "published_at": "2026-05-27T22:52:12Z",
+      "key_points": [
+        "Adjust settings immediately",
+        "Optimize health tracking",
+        "Enhance user experience"
+      ],
+      "impact": "Users can maximize Fitbit Air's capabilities quickly.",
+      "id": "22bb6582b2a2212c10f5bd5b23551b35"
+    },
+    {
+      "title": "CapCut Pad: Desktop-Level Editing for Android",
+      "description": "CapCut Pad launches for Android tablets, offering desktop-level video editing features. The app caters to the growing demand for high-quality video content.",
+      "category": "Software",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/05/27/capcut-pad-promises-desktop-level-video-editing-for-android-tablets/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/capcut-pad-android-1.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-05-27T21:05:00Z",
+      "key_points": [
+        "Desktop-level video editing",
+        "Designed for Android tablets",
+        "Meets demand for quality content"
+      ],
+      "impact": "CapCut Pad enhances video editing on tablets.",
+      "id": "a04111250dbf86bd748ee59118fef8ca"
     }
   ]
 }

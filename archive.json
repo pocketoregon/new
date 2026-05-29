@@ -1,6 +1,141 @@
 {
   "batches": [
     {
+      "id": "2026-05-29T12:17:16.172245+00:00",
+      "fetched_at": "2026-05-29T12:17:16.172245+00:00",
+      "label": "May 29, 2026 — 12:17 PM UTC",
+      "articles": [
+        {
+          "title": "The Outer Worlds PS5 Upgrade Turns Chaotic",
+          "description": "Obsidian's free PS5 upgrade for The Outer Worlds has led to confusion among players. Mixed messaging has complicated the upgrade process for PS4 owners.",
+          "category": "Software",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/05/the-outer-worlds-free-ps5-upgrade-has-immediately-turned-into-a-mess",
+          "image": "https://images.pushsquare.com/d7ecb2faf5221/large.jpg",
+          "published_at": "2026-05-28T10:15:00Z",
+          "key_points": [
+            "Confusion over upgrade process",
+            "Mixed messages from Obsidian",
+            "PS4 owners facing issues"
+          ],
+          "impact": "Players are frustrated by unclear upgrade instructions.",
+          "id": "ac60bd41fcaf0e62d8be3b27abf9b4ac"
+        },
+        {
+          "title": "Vertu's AI Foldable Targets CEOs at $6,880",
+          "description": "Vertu launches a luxury foldable phone featuring AI workflows aimed at executives. The device integrates enterprise software for enhanced productivity.",
+          "category": "Hardware",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/vertu-alphafold-foldable.jpg?resize=1200,800",
+          "published_at": "2026-05-28T07:00:00Z",
+          "key_points": [
+            "Luxury foldable phone",
+            "AI integration for executives",
+            "Starts at $6,880"
+          ],
+          "impact": "Vertu aims to redefine productivity for CEOs.",
+          "id": "bcd8e4dc8421f0998efafbbd19298912"
+        },
+        {
+          "title": "Anker Unveils Pokémon-Themed Tech Collection",
+          "description": "Anker Japan celebrates Pokémon's 30th anniversary with a new tech collection. The lineup includes chargers, adapters, and earphones.",
+          "category": "Hardware",
+          "source": "gizmochina",
+          "url": "https://www.gizmochina.com/2026/05/28/anker-pokemon-30th-anniversary-collection-2026-charger-adpater-earphone-pouch/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/Anker-USB-Fast-Charger-70W-Pikachu-Model.jpg",
+          "published_at": "2026-05-28T06:28:14Z",
+          "key_points": [
+            "Pokémon-themed tech accessories",
+            "Includes chargers and earphones",
+            "Launches in July 2026"
+          ],
+          "impact": "Anker targets Pokémon fans with exclusive products.",
+          "id": "e0962f995e672d46a1b8771e36832295"
+        },
+        {
+          "title": "No Switch 2 Upgrade for Dragon Quest XI S",
+          "description": "Square Enix confirms no plans for a Switch 2 upgrade for Dragon Quest XI S. The game will remain as is for the new console.",
+          "category": "Software",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/05/square-enix-has-no-plans-to-sell-a-switch-2-upgrade-for-dragon-quest-xi-s",
+          "image": "https://images.nintendolife.com/fbfe6d2f3d235/large.jpg",
+          "published_at": "2026-05-28T02:55:00Z",
+          "key_points": [
+            "No Switch 2 upgrade planned",
+            "Game remains unchanged",
+            "Square Enix confirms decision"
+          ],
+          "impact": "Fans will not see an upgraded version.",
+          "id": "163835a0bc933cc338b89ff21e369292"
+        },
+        {
+          "title": "Mina the Hollower: A Retro Gaming Masterpiece",
+          "description": "Mina the Hollower impresses with its retro style and gameplay. The game showcases Yacht Club Games' continuous improvement in game design.",
+          "category": "Software",
+          "source": "Gamefile.news",
+          "url": "https://www.gamefile.news/p/mina-the-hollower-review-plus-shovel-knight",
+          "image": "https://substackcdn.com/image/fetch/$s_!tOmH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa39e3c9-7bb2-4151-8cd9-5083e7def3d2_1920x1080.jpeg",
+          "published_at": "2026-05-27T23:55:58Z",
+          "key_points": [
+            "Retro-style gameplay",
+            "Yacht Club's latest release",
+            "Highly praised by reviewers"
+          ],
+          "impact": "Mina the Hollower sets a new standard for retro games.",
+          "id": "7098a17de47bc781281afe973578e901"
+        },
+        {
+          "title": "Top 5 Tech Deals on Amazon Outlet This May",
+          "description": "Amazon Outlet features exciting tech products at discounted prices. Limited-time offers make these deals a must-see for tech enthusiasts.",
+          "category": "Business",
+          "source": "SlashGear",
+          "url": "https://www.slashgear.com/2180660/cool-products-on-amazon-outlet-may-2026/",
+          "image": "https://www.slashgear.com/img/gallery/5-cool-tech-products-you-can-find-on-amazon-outlet-in-may-2026/l-intro-1779731893.jpg",
+          "published_at": "2026-05-27T23:30:00Z",
+          "key_points": [
+            "Discounted tech products",
+            "Limited-time offers",
+            "Must-see for tech lovers"
+          ],
+          "impact": "Shoppers can save big on tech this month.",
+          "id": "19bfa61373e8fe483f070bcd8b73855d"
+        },
+        {
+          "title": "Essential Setup Tips for Google Fitbit Air",
+          "description": "New Fitbit Air users should adjust settings for optimal performance. Key features enhance the user experience right out of the box.",
+          "category": "Software",
+          "source": "Android Central",
+          "url": "https://www.androidcentral.com/wearables/fitbit/first-things-you-should-do-with-google-fitbit-air",
+          "image": "https://cdn.mos.cms.futurecdn.net/pQicYjHRhY8hEWuGF9WzR3-2560-80.jpg",
+          "published_at": "2026-05-27T22:52:12Z",
+          "key_points": [
+            "Adjust settings immediately",
+            "Optimize health tracking",
+            "Enhance user experience"
+          ],
+          "impact": "Users can maximize Fitbit Air's capabilities quickly.",
+          "id": "22bb6582b2a2212c10f5bd5b23551b35"
+        },
+        {
+          "title": "CapCut Pad: Desktop-Level Editing for Android",
+          "description": "CapCut Pad launches for Android tablets, offering desktop-level video editing features. The app caters to the growing demand for high-quality video content.",
+          "category": "Software",
+          "source": "9to5google.com",
+          "url": "http://9to5google.com/2026/05/27/capcut-pad-promises-desktop-level-video-editing-for-android-tablets/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/capcut-pad-android-1.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-05-27T21:05:00Z",
+          "key_points": [
+            "Desktop-level video editing",
+            "Designed for Android tablets",
+            "Meets demand for quality content"
+          ],
+          "impact": "CapCut Pad enhances video editing on tablets.",
+          "id": "a04111250dbf86bd748ee59118fef8ca"
+        }
+      ]
+    },
+    {
       "id": "2026-05-29T08:00:36.035000+00:00",
       "fetched_at": "2026-05-29T08:00:36.035000+00:00",
       "label": "May 29, 2026 — 08:00 AM UTC",
