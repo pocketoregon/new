@@ -41,16 +41,16 @@ def fetch_real_news(news_api_key):
     params = {
         "category": "technology",
         "language": "en",
-        "pageSize": 15,  # Fetch slightly more to account for skipped duplicates
+        "pageSize": 15,
         "apiKey": news_api_key
     }
     response = requests.get(url, params=params, timeout=10)
     response.raise_for_status()
     data = response.json()
-    
+
     if data.get("status") != "ok":
         raise ValueError(f"NewsAPI error: {data.get('message')}")
-        
+
     articles = []
     for item in data.get("articles", []):
         title = item.get("title", "")
@@ -77,11 +77,11 @@ def load_existing_ids(archive_path="archive.json"):
                 if "id" in article:
                     existing_ids.add(article["id"])
     except Exception:
-        pass  # Fresh file or parsing error
+        pass
     return existing_ids
 
 def process_articles(articles, client, today):
-    """Pass 1 — simplify, shorten, and rewrite articles with strict Pydantic enforcement."""
+    """Rewrite articles with strict Pydantic enforcement."""
     if not articles:
         return {"date": today, "generated_at": datetime.now(timezone.utc).isoformat(), "articles": []}
 
@@ -99,9 +99,9 @@ Content: {article['content'][:300] if article['content'] else ''}
 ---"""
 
     prompt = f"""You are an expert tech news copyeditor. Rewrite these {len(articles)} articles into brief, ultra-crisp executive summaries.
-    
+
 CRITICAL CONSTRAINTS:
-- Keep everything simple, punchy, and direct. 
+- Keep everything simple, punchy, and direct.
 - 'description' MUST be only 2-3 sentences and UNDER 35 words total. No long fluff paragraphs.
 - 'key_points' MUST contain exactly 3 strings, each under 8 words.
 - 'impact' MUST be exactly 1 sentence under 20 words.
@@ -112,7 +112,7 @@ Articles to process:
 {articles_text}"""
 
     print(f"   Processing {len(articles)} fresh unseen articles with GPT-4o mini...")
-    
+
     completion = client.beta.chat.completions.parse(
         model="gpt-4o-mini",
         messages=[{"role": "user", "content": prompt}],
@@ -142,20 +142,44 @@ def update_archive(new_batch, archive_path="archive.json"):
     except (FileNotFoundError, Exception):
         archive = {"batches": []}
 
-    # Only save the batch if it actually has new unique articles
     if new_batch["articles"]:
         archive["batches"].insert(0, new_batch)
         print(f"   Added new batch with {len(new_batch['articles'])} unseen articles.")
     else:
         print("   No new articles to append to archive during this cycle.")
 
-    # Cutoff at 7 days to keep repository clean
+    # Keep only last 7 days
     cutoff = datetime.now(timezone.utc).timestamp() - (7 * 24 * 3600)
-    archive["batches"] = [b for b in archive["batches"] if datetime.fromisoformat(b["fetched_at"]).timestamp() >= cutoff]
-    
+    archive["batches"] = [
+        b for b in archive["batches"]
+        if datetime.fromisoformat(b["fetched_at"]).timestamp() >= cutoff
+    ]
+
     with open(archive_path, "w", encoding="utf-8") as f:
         json.dump(archive, f, indent=2, ensure_ascii=False)
     return archive
+
+def update_feed(archive, feed_path="feed.json"):
+    """
+    Rebuild feed.json from the most recent batch in the archive.
+    feed.json is the flat list the frontend's FEED tab reads from.
+    """
+    batches = archive.get("batches", [])
+    if not batches:
+        articles = []
+        generated_at = datetime.now(timezone.utc).isoformat()
+    else:
+        latest = batches[0]
+        articles = latest.get("articles", [])
+        generated_at = latest.get("fetched_at", datetime.now(timezone.utc).isoformat())
+
+    feed = {
+        "generated_at": generated_at,
+        "articles": articles
+    }
+    with open(feed_path, "w", encoding="utf-8") as f:
+        json.dump(feed, f, indent=2, ensure_ascii=False)
+    print(f"   feed.json updated with {len(articles)} articles from latest batch.")
 
 def fetch_news():
     news_api_key = os.environ.get("NEWS_API_KEY")
@@ -176,17 +200,17 @@ def fetch_news():
 
     print("\n[Step 2] Filtering out existing duplicate IDs...")
     existing_ids = load_existing_ids()
-    
+
     unseen_articles = []
     for article in raw_candidates:
         art_id = generate_id(article["title"], article["published_at"])
         if art_id not in existing_ids:
             article["id"] = art_id
             unseen_articles.append(article)
-            
+
     print(f"   Filtered down to {len(unseen_articles)} brand-new unique articles.")
 
-    # Limit to maximum 8 fresh updates per run to protect API windows
+    # Limit to max 8 fresh updates per run
     unseen_articles = unseen_articles[:8]
 
     print("\n[Step 3] Rewriting only unseen data...")
@@ -194,7 +218,7 @@ def fetch_news():
     news_data = validate(news_data, unseen_articles)
     news_data["generated_at"] = now_iso
 
-    # Inject calculated IDs into processed output objects
+    # Inject calculated IDs into processed output
     for i, article in enumerate(news_data.get("articles", [])):
         if i < len(unseen_articles):
             article["id"] = unseen_articles[i]["id"]
@@ -210,7 +234,11 @@ def fetch_news():
         "label": datetime.now(timezone.utc).strftime("%b %d, %Y — %I:%M %p UTC"),
         "articles": news_data["articles"]
     }
-    update_archive(new_batch)
+    archive = update_archive(new_batch)
+
+    print("\n[Step 6] Updating feed.json from latest archive batch...")
+    update_feed(archive)
+
     print(f"\n{'='*60}\nBackend Operations Complete!\n{'='*60}\n")
 
 if __name__ == "__main__":
