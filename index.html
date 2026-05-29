@@ -333,8 +333,10 @@
 
     <div id="content" style="display:none;">
       <section id="hero-section" class="fade-up" style="margin-bottom:40px;"></section>
-      <div class="section-label" style="margin-bottom:0;">Further Reading</div>
-      <div id="rows-section"></div>
+      <div id="rows-wrapper">
+        <div class="section-label" style="margin-bottom:0;">Further Reading</div>
+        <div id="rows-section"></div>
+      </div>
       <div id="grid-section" style="margin-top:32px;"></div>
       <div id="mini-section" style="margin-top:32px;"></div>
     </div>
@@ -407,6 +409,11 @@
   function rowImg(img) {
     if (!img) return `<div class="article-row-placeholder"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#333" stroke-width="1.5"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><polyline points="21 15 16 10 5 21"/></svg></div>`;
     return `<img src="${img}" class="article-row-img" alt="Thumbnail" onerror="this.outerHTML='<div class=article-row-placeholder><svg width=28 height=28 viewBox=\\'0 0 24 24\\' fill=none stroke=#333 stroke-width=1.5><rect x=3 y=3 width=18 height=18 rx=2/><circle cx=8.5 cy=8.5 r=1.5/><polyline points=\\'21 15 16 10 5 21\\'/></svg></div>'" />`;
+  }
+
+  function gridImg(img) {
+    if (!img) return `<div class="grid-card-placeholder"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#333" stroke-width="1.5"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><polyline points="21 15 16 10 5 21"/></svg></div>`;
+    return `<img src="${img}" class="grid-card-img" alt="Grid preview" onerror="this.outerHTML='<div class=grid-card-placeholder><svg width=28 height=28 viewBox=\\'0 0 24 24\\' fill=none stroke=#333 stroke-width=1.5><rect x=3 y=3 width=18 height=18 rx=2/><circle cx=8.5 cy=8.5 r=1.5/><polyline points=\\'21 15 16 10 5 21\\'/></svg></div>'" />`;
   }
 
   function miniImg(img) {
@@ -517,10 +524,72 @@
         document.getElementById('footer-updated').textContent = 'Last updated: ' + new Date(data.generated_at).toLocaleString();
       }
       
+      // Clear all active content slots to avoid duplication UI bugs during swaps
+      document.getElementById('hero-section').innerHTML = '';
+      document.getElementById('rows-section').innerHTML = '';
+      document.getElementById('grid-section').innerHTML = '';
+      document.getElementById('mini-section').innerHTML = '';
+      document.getElementById('rows-wrapper').style.display = 'none';
+
+      // TIER 1: The Top Hero Story (Index 0)
       document.getElementById('hero-section').innerHTML = buildHero(allArticles[0]);
+      
+      // TIER 2: Secondary Features Rows (Indices 1 to 3)
       if (allArticles.length > 1) {
-        document.getElementById('rows-section').innerHTML = allArticles.slice(1, 4).map((a, i) => buildRow(a, i + 2)).join('');
+        document.getElementById('rows-wrapper').style.display = 'block';
+        const rowArticles = allArticles.slice(1, 4);
+        document.getElementById('rows-section').innerHTML = rowArticles.map((a, i) => buildRow(a, i + 2)).join('');
       }
+      
+      // TIER 3: The Ecosystem Grid (Indices 4 to 9)
+      if (allArticles.length > 4) {
+        const gridArticles = allArticles.slice(4, 10);
+        const gridHTML = `
+          <div class="section-label" style="margin-top: 32px; margin-bottom: 20px;">Ecosystem Briefings</div>
+          <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px;">
+            ${gridArticles.map(a => `
+              <div class="grid-card">
+                <div style="height: 160px; overflow: hidden;">${gridImg(a.image)}</div>
+                <div style="padding: 16px;">
+                  <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
+                    ${catPill(a.category)}
+                    <span style="font-size: 0.65rem; color: #555;">${a.source || 'Stream'}</span>
+                  </div>
+                  <h4 style="font-family: 'Playfair Display', serif; font-size: 1rem; font-weight: 700; line-height: 1.3; margin-bottom: 8px; color: #f0f0f0;">${a.title}</h4>
+                  <p style="font-size: 0.75rem; color: #777; line-height: 1.5; margin-bottom: 12px; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;">${a.description || ''}</p>
+                  ${readBtn(a.url, 'View Story')}
+                </div>
+              </div>
+            `).join('')}
+          </div>
+        `;
+        document.getElementById('grid-section').innerHTML = gridHTML;
+      }
+
+      // TIER 4: The Continuous News Wire Feed (Indices 10 and beyond)
+      if (allArticles.length > 10) {
+        const wireArticles = allArticles.slice(10);
+        const wireHTML = `
+          <div class="section-label" style="margin-top: 32px; margin-bottom: 16px;">The Wire</div>
+          <div style="background: #111; border: 1px solid #1e1e1e; border-radius: 8px; padding: 0 16px;">
+            ${wireArticles.map(a => `
+              <div class="mini-card" style="align-items: center; justify-content: space-between;">
+                <div style="flex: 1; min-width: 0; padding-right: 16px;">
+                  <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 4px;">
+                    <span style="font-size: 0.55rem; font-weight: 700; color: ${catColors[a.category] || '#6b7280'}; text-transform: uppercase; letter-spacing: 0.05em;">${a.category}</span>
+                    <span style="color: #333; font-size: 0.6rem;">•</span>
+                    <span style="font-size: 0.65rem; color: #555;">${a.source || 'Tech Wire'}</span>
+                  </div>
+                  <div style="font-size: 0.85rem; font-weight: 500; color: #ccc; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;">${a.title}</div>
+                </div>
+                <div style="flex-shrink: 0;">${readBtn(a.url, 'Read')}</div>
+              </div>
+            `).join('')}
+          </div>
+        `;
+        document.getElementById('mini-section').innerHTML = wireHTML;
+      }
+
       document.getElementById('loading').style.display = 'none';
       document.getElementById('content').style.display = 'block';
       setProgress(100);
