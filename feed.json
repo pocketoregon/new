@@ -1,185 +1,469 @@
 {
-  "generated_at": "2026-05-28T11:34:06.839899+00:00",
+  "generated_at": "2026-05-29T16:43:22.161278+00:00",
   "articles": [
     {
-      "title": "Sonic Frontiers: Definitive Edition Enhancements Leaked",
-      "summary": "New leaks reveal technical improvements for Sonic Frontiers: Definitive Edition on Nintendo Switch 2. Fans can expect enhanced graphics and performance.",
-      "category": "Software",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/rumor-sonic-frontiers-definitive-edition-nintendo-switch-2-tech-improvements-detailed/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Sonic-Frontiers-Switch-2-tech-improvements.jpg",
-      "published_at": "2026-05-27T11:47:57Z",
-      "key_points": [
-        "Technical upgrades confirmed",
-        "Switch 2 enhancements",
-        "Leaked details emerging"
-      ],
-      "impact": "Improved gameplay experience anticipated for fans."
-    },
-    {
-      "title": "Motorola's 2026 Razrs: Stunning but Pricey",
-      "summary": "Motorola's 2026 Razrs impress with design but come with high price tags. Buyers may hesitate despite their aesthetic appeal.",
-      "category": "Hardware",
+      "title": "Steam Deck Sells Out Despite Price Increase",
+      "description": "Steam Deck is sold out in North America, while Europe, Australia, and Asia still have stock available. Demand remains high despite the price hike.",
+      "category": "Business",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/05/motorolas-2026-razrs-are-almost-worth-buying-just-for-their-stunning-looks-almost/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Razr-2026-1-1152x648.jpg",
-      "published_at": "2026-05-27T11:00:28Z",
+      "url": "https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-1152x648.jpg",
+      "published_at": "2026-05-28T15:43:41Z",
       "key_points": [
-        "Stunning design",
-        "High price tags",
-        "Mixed reviews expected"
+        "Sold out in North America",
+        "Available in other regions",
+        "High demand persists"
       ],
-      "impact": "Consumers may be deterred by costs."
+      "impact": "Steam Deck's popularity continues to soar.",
+      "id": "aee1c89a2ba558d29d1eaafeafdce7d4"
     },
     {
-      "title": "New Witcher 3 Expansion 'Songs of the Past' Announced",
-      "summary": "The Witcher 3 expansion 'Songs of the Past' continues Geralt's journey over a decade later. New minimum requirements will apply with the next patch.",
+      "title": "Modern Warfare 4 Unveiled with Stunning Trailer",
+      "description": "Infinity Ward reveals details and a trailer for Call of Duty: Modern Warfare 4, promising an epic campaign with new characters.",
       "category": "Software",
-      "source": "Digital Foundry",
-      "url": "https://www.digitalfoundry.net/news/2026/05/new-witcher-3-expansion-revealed-songs-of-the-past-continues-geralts-story-more-than-a-decade-on",
-      "image": "https://images.digitalfoundry.net/0036a96700cec/large.jpg",
-      "published_at": "2026-05-27T09:18:00Z",
+      "source": "Xbox.com",
+      "url": "https://news.xbox.com/en-us/2026/05/28/call-of-duty-modern-warfare-4-first-details-campaign/",
+      "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/05/MW4_CAM_02_BRANDED-d33101d50157514a2175.jpg",
+      "published_at": "2026-05-28T15:08:33Z",
       "key_points": [
-        "Expansion revealed",
-        "Continues Geralt's story",
-        "New requirements announced"
+        "New characters introduced",
+        "Epic campaign promised",
+        "Stunning reveal trailer"
       ],
-      "impact": "Fans excited for Geralt's new adventures."
+      "impact": "Modern Warfare 4 aims to captivate gamers.",
+      "id": "7478d3e1e6d221dcd73f5f8cd6090fc6"
     },
     {
-      "title": "Street Fighter 6 Update: Server Maintenance Scheduled",
-      "summary": "Capcom announces server maintenance for Street Fighter 6's largest content update, featuring Ingrid. Players can expect significant enhancements soon.",
-      "category": "Software",
-      "source": "EventHubs",
-      "url": "https://www.eventhubs.com/news/2026/may/26/street-fighter-ingrid-update-maintenance/",
-      "image": "https://media.eventhubs.com/images/2026/05/26-street-fighter-ingrid-update-maintenancet.webp",
-      "published_at": "2026-05-27T02:12:35Z",
-      "key_points": [
-        "Major content update",
-        "Ingrid joins the roster",
-        "Maintenance times revealed"
-      ],
-      "impact": "Players eager for new content and features."
-    },
-    {
-      "title": "Google Health Premium Joins AI Pro Subscription",
-      "summary": "Google Health Premium is now part of the Google AI Pro subscription, enhancing user access to health features. A new mobile app is also rolling out today.",
-      "category": "Software",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/05/26/google-health-premium/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/google-health-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-05-27T01:04:00Z",
-      "key_points": [
-        "New mobile app launched",
-        "Part of AI Pro subscription",
-        "Enhanced health features"
-      ],
-      "impact": "Users gain improved health management tools."
-    },
-    {
-      "title": "Resident Evil Requiem Demo Released on Switch 2",
-      "summary": "Capcom launches a demo for Resident Evil Requiem on Switch 2, allowing players to experience early game stages. Fans can now try before they buy.",
-      "category": "Software",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/05/capcom-releases-resident-evil-requiem-demo-on-switch-2",
-      "image": "https://images.nintendolife.com/62d250d397f65/large.jpg",
-      "published_at": "2026-05-27T00:55:00Z",
-      "key_points": [
-        "Demo available now",
-        "Experience early gameplay",
-        "Switch 2 exclusive"
-      ],
-      "impact": "Players can preview the game before purchase."
-    },
-    {
-      "title": "Memorial Day Apple Deals Still Available",
-      "summary": "Surprise Memorial Day deals on Apple products continue, including M5 MacBook Airs for $899 and AirPods for $99. Limited-time offers attract bargain hunters.",
-      "category": "Startups",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/best-memorial-day-deals-apple-airpods-macbooks-2026",
-      "image": "https://helios-i.mashable.com/imagery/articles/06ylH5Qobpg8bD9ZkmWUJbh/hero-image.fill.size_1200x675.v1779733508.jpg",
-      "published_at": "2026-05-27T00:30:38Z",
-      "key_points": [
-        "Deals on MacBook Airs",
-        "AirPods discounted",
-        "Limited-time offers"
-      ],
-      "impact": "Bargain hunters can save on Apple products."
-    },
-    {
-      "title": "DuckDuckGo Sees 30% Surge in Installs",
-      "summary": "DuckDuckGo installs rise 30% as users reject Google's AI-driven search. The backlash against AI integration in search engines is evident.",
+      "title": "Apple's Siri App Set for Major Overhaul",
+      "description": "Apple plans a significant redesign of Siri for iOS 27, featuring a standalone app and enhanced AI capabilities.",
       "category": "Software",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
-      "published_at": "2026-05-26T22:32:56Z",
+      "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/1476x1375.webp?resize=1200,1118",
+      "published_at": "2026-05-28T14:45:13Z",
       "key_points": [
-        "30% increase in installs",
-        "Users prefer non-AI search",
-        "Backlash against Google AI"
+        "Standalone Siri app",
+        "AI capabilities enhanced",
+        "Redesigned user experience"
       ],
-      "impact": "DuckDuckGo gains traction amid user dissatisfaction."
+      "impact": "Apple aims to compete with ChatGPT.",
+      "id": "0035f15bd40927327924677f8eb71252"
     },
     {
-      "title": "PS5's Destruction AllStars Delisted and Disabled Without Notice Due to 'Ongoing Technical Issues'",
-      "summary": "Destruction AllStars on PS5 is offline due to problems. Sony has not given a clear reason. Players are unhappy about this.",
-      "category": "Software",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/05/ps5s-destruction-allstars-delisted-and-disabled-without-notice-due-to-ongoing-technical-issues",
-      "image": "https://images.pushsquare.com/af024affac1df/large.jpg",
-      "published_at": "2026-05-26T22:30:00Z",
-      "key_points": [
-        "Destruction AllStars offline",
-        "Sony cites technical issues",
-        "Players frustrated with lack of notice"
-      ],
-      "impact": "Players are disappointed with the sudden game removal."
-    },
-    {
-      "title": "Apple working on iPhone anti-snatching feature that locks the device automatically",
-      "summary": "Apple is making a new feature for iPhones. It locks the phone if someone tries to snatch it. This will help keep phones safe.",
-      "category": "Security",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/05/26/apple-working-on-iphone-anti-snatching-feature-that-locks-the-device-automatically/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-security-liquid-glass.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-05-26T23:29:00Z",
-      "key_points": [
-        "New iPhone security feature",
-        "Locks phone if snatched",
-        "Helps prevent theft"
-      ],
-      "impact": "This feature could reduce phone theft incidents."
-    },
-    {
-      "title": "Windows 11's latest OS update is packing serious performance gains",
-      "summary": "Windows 11 has a new update that makes PCs faster. It improves performance and responsiveness. Users will notice the difference.",
-      "category": "Software",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-rolls-out-windows-11-kb5089573-update-that-makes-your-pc-genuinely-faster-and-more-responsive",
-      "image": "https://cdn.mos.cms.futurecdn.net/iSfZLRtdr9rYXFF8StFJcN-2560-80.jpg",
-      "published_at": "2026-05-26T21:57:16Z",
-      "key_points": [
-        "Windows 11 update released",
-        "Improves PC performance",
-        "Faster and more responsive"
-      ],
-      "impact": "Users will enjoy a smoother experience on their PCs."
-    },
-    {
-      "title": "We're starting to see some PC makers respond to Apple's MacBook Neo",
-      "summary": "PC makers are reacting to Apple's new MacBook Neo. They are trying to create better laptops. This could change the market.",
+      "title": "Samsung Galaxy Z Fold 8 Hardware Leaks",
+      "description": "New leaks reveal Samsung's Galaxy Z Fold 8 with a wider design and thin frame, showcasing its innovative hardware.",
       "category": "Hardware",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/05/were-starting-to-see-some-pc-makers-respond-to-apples-macbook-neo/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/intel-core-series-3-1152x648.jpg",
-      "published_at": "2026-05-26T20:47:31Z",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/05/28/samsung-galaxy-z-fold-8-hardware-hands-on-leak/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/galaxy-z-fold-8-wide-leak-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-05-28T14:20:00Z",
       "key_points": [
-        "PC makers respond to MacBook Neo",
-        "Better laptops in development",
-        "Market changes expected"
+        "Wider design revealed",
+        "Thin frame showcased",
+        "Innovative hardware features"
       ],
-      "impact": "This could lead to more competition in the laptop market."
+      "impact": "Samsung continues to innovate in foldables.",
+      "id": "c7d7af1159d6f2720711e96b8c9ab505"
+    },
+    {
+      "title": "Rockstar Games Offers New Money Laundering Bonuses",
+      "description": "Rockstar introduces new bonuses for players in GTA Online, allowing them to enhance their money laundering operations.",
+      "category": "Startups",
+      "source": "Rockstargames.com",
+      "url": "https://www.rockstargames.com/newswire/article/ak4791a8383k35/launder-your-bottom-line-with-money-fronts-bonuses",
+      "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/ak4791a8383k35/fae32be246f9ce4e633b4b8038bff8a648e577f9.jpg",
+      "published_at": "2026-05-28T13:56:47Z",
+      "key_points": [
+        "New bonuses introduced",
+        "Enhance money laundering",
+        "Free for Hands On Car Wash owners"
+      ],
+      "impact": "GTA Online expands its gameplay options.",
+      "id": "c91844d3db9b1d46816c3d6de35a0758"
+    },
+    {
+      "title": "Persona 6 Protagonist Leaks Surprise Fans",
+      "description": "Rumors about Persona 6's protagonist leak, intensifying excitement among fans after years of speculation.",
+      "category": "Startups",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/05/rumour-persona-6-protagonist-leaks-catch-fans-off-guard-reveal-whispers-intensify",
+      "image": "https://images.pushsquare.com/ca2298d552cf7/large.jpg",
+      "published_at": "2026-05-28T13:30:00Z",
+      "key_points": [
+        "Protagonist leaks surprise fans",
+        "Intensified excitement",
+        "Years of speculation culminate"
+      ],
+      "impact": "Fans eagerly await Persona 6's release.",
+      "id": "a3d06b90a01a0a416a6dba907b95a4ca"
+    },
+    {
+      "title": "Qualcomm Launches Snapdragon C for Budget Laptops",
+      "description": "Qualcomm introduces Snapdragon C, targeting budget Windows 11 ARM laptops priced from $300.",
+      "category": "Hardware",
+      "source": "Videocardz.com",
+      "url": "https://videocardz.com/newz/qualcomm-announces-snapdragon-c-for-budget-windows-11-arm-laptops-targetting-300-and-up",
+      "image": "https://cdn.videocardz.com/1/2026/05/QUALCOMM-SNAPDRAGON-C-WINDOWS-LAPTOPS.jpg",
+      "published_at": "2026-05-28T13:29:31Z",
+      "key_points": [
+        "Targets budget laptops",
+        "Starting at $300",
+        "New ARM processor platform"
+      ],
+      "impact": "Qualcomm aims to dominate budget laptop market.",
+      "id": "52ecca81bbc32cb5cf13576047c31d8f"
+    },
+    {
+      "title": "Destiny 2's Future Uncertain Amid New Info",
+      "description": "New insights reveal challenges faced by Destiny 2 and the role of Marathon in its future.",
+      "category": "Software",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/05/28/new-info-on-destiny-2-alarm-bells-marathons-role-and-destiny-infinity-pitch/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/67a76aa7bed002c6107b6d60/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published_at": "2026-05-28T13:02:56Z",
+      "key_points": [
+        "Destiny 2's challenges revealed",
+        "Marathon's role discussed",
+        "Future remains uncertain"
+      ],
+      "impact": "Bungie's plans for Destiny 2 are unclear.",
+      "id": "eff3b475078ab8c64ed58a98c429d682"
+    },
+    {
+      "title": "Intel's First Handheld Gaming Chip Unveiled",
+      "description": "Intel introduces the Arc G3, its first handheld gaming chip, with Acer set to use it in a new device.",
+      "category": "Hardware",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/938692/intel-arc-g3-extreme-handheld-gaming",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Predator-Atlas-8-PA08-I51-_1.jpeg?quality=90&strip=all&crop=5.6,10.935247784401,94.4,78.129504431198",
+      "published_at": "2026-05-28T13:00:00Z",
+      "key_points": [
+        "Intel's first handheld chip",
+        "Acer to use Arc G3",
+        "Gaming performance enhanced"
+      ],
+      "impact": "Intel enters the handheld gaming market.",
+      "id": "3e6c3dc2408bb9507541f28777e441ea"
+    },
+    {
+      "title": "Apple to Focus on On-Device AI at WWDC",
+      "description": "Apple plans to showcase AI upgrades at its upcoming developer conference, emphasizing on-device processing over cloud reliance.",
+      "category": "Software",
+      "source": "The Information",
+      "url": "https://www.theinformation.com/articles/apple-renew-push-ai-runs-devices-instead-cloud",
+      "image": "https://tii.imgix.net/production/articles/17195/53336641-0186-42cd-aac7-e51112ebe0d1.png?fm=jpg&auto=compress&w=1200&frame=0",
+      "published_at": "2026-05-28T13:00:00Z",
+      "key_points": [
+        "Focus on on-device AI",
+        "WWDC showcase planned",
+        "Cloud reliance reduced"
+      ],
+      "impact": "Apple aims to enhance user privacy.",
+      "id": "99986779eb7e81da9e32bc224798b8b2"
+    },
+    {
+      "title": "Oura Ring 5 Launches with New Health Features",
+      "description": "Oura Ring 5 is 40% smaller and introduces new health tracking features, including hypertension and sleep apnea detection.",
+      "category": "Software",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-28/oura-ring-5-40-smaller-more-like-regular-ring-hypertension-and-sleep-apnea",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iblA_xzPnTes/v2/1200x800.png",
+      "published_at": "2026-05-28T12:00:02Z",
+      "key_points": [
+        "40% smaller design",
+        "Tracks hypertension",
+        "Detects sleep apnea"
+      ],
+      "impact": "Oura enhances health monitoring capabilities.",
+      "id": "eb80725a2d7d7bd91352173eaec7ce51"
+    },
+    {
+      "title": "The Witcher 3 Expansion Announced",
+      "description": "CD Projekt confirms The Witcher 3: Songs of the Past as an expansion, not DLC, emphasizing its significance.",
+      "category": "Software",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/the-witcher-3-songs-of-the-past-is-an-expansion-not-dlc-cd-projekt-insists-while-using-ign-interview-with-idris-elba-to-make-the-point",
+      "image": "https://assets-prd.ignimgs.com/2026/05/28/elba-1779968671556.png?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-05-28T11:46:57Z",
+      "key_points": [
+        "Expansion, not DLC",
+        "Significant content promised",
+        "CD Projekt emphasizes importance"
+      ],
+      "impact": "The Witcher 3 expands its universe.",
+      "id": "248c9e14e51b5f9a272b5e6cba735d83"
+    },
+    {
+      "title": "Bungie Reveals Marathon Season 2 Details",
+      "description": "Bungie announces new content for Marathon Season 2, including a free-to-play week and new class features.",
+      "category": "Software",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/marathon-season-2-rundown",
+      "image": "https://assetsio.gnwcdn.com/2026_Marathon_S2_Launch_Press_Kit_COMPRESSED_008.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-05-28T09:21:17Z",
+      "key_points": [
+        "New content for Season 2",
+        "Free-to-play week announced",
+        "New class features introduced"
+      ],
+      "impact": "Bungie enhances Marathon's gameplay experience.",
+      "id": "8dbbda41fc6183d17a907464c1e21119"
+    },
+    {
+      "title": "Krafton to Pay $250 Million to Subnautica 2 Devs",
+      "description": "Krafton agrees to a $250 million earnout to Subnautica 2 developers following the game's successful launch.",
+      "category": "Business",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/subnautica-2-has-sold-so-well-that-krafton-has-to-pay-that-250-million-earnout-to-the-devs",
+      "image": "https://assets-prd.ignimgs.com/2026/05/28/ss-787e2315a1eb5aaba73c4f75e6f7d7d8835fa260-1920x1080-1779958530846.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-05-28T09:03:00Z",
+      "key_points": [
+        "Krafton to pay $250 million",
+        "Subnautica 2's success",
+        "Legal dispute resolved"
+      ],
+      "impact": "Krafton rewards developers for success.",
+      "id": "4ddc9e69dd350856492f07dd2df94e02"
+    },
+    {
+      "title": "Sony Launches True RGB TVs for Enhanced Viewing",
+      "description": "Sony's new BRAVIA series TVs feature true RGB technology for improved color accuracy and viewing angles.",
+      "category": "Hardware",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/home-theater/sony-launches-true-rgb-tvs-in-the-bravia-series-and-its-the-start-of-a-whole-new-era/",
+      "image": "https://www.digitaltrends.com/tachyon/2026/05/Sony-Bravia-True-RGB-TV-mounted-on-a-wall.jpg?resize=1200%2C630",
+      "published_at": "2026-05-28T06:30:00Z",
+      "key_points": [
+        "True RGB technology introduced",
+        "Improved color accuracy",
+        "Wider viewing angles"
+      ],
+      "impact": "Sony sets a new standard for TVs.",
+      "id": "ffcf8ecdc9cfd4e8354b5056b99f01fa"
+    },
+    {
+      "title": "Websites Can Now Spy on SSD Activity",
+      "description": "New methods allow websites to analyze SSD activity through JavaScript, raising privacy concerns.",
+      "category": "Security",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/solid-state-drive-ssd-1152x648.jpg",
+      "published_at": "2026-05-27T20:56:03Z",
+      "key_points": [
+        "Websites can analyze SSD activity",
+        "Privacy concerns raised",
+        "New JavaScript methods used"
+      ],
+      "impact": "User privacy faces new challenges.",
+      "id": "83d9a53a0f97822efea9315c83db433c"
+    },
+    {
+      "title": "Microsoft's Bing Gains Ground Amid Google Issues",
+      "description": "As Google struggles with AI features, Microsoft has a rare opportunity to attract frustrated users to Bing.",
+      "category": "Business",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/microsoft/bing/google-search-is-destroying-itself-giving-microsofts-bing-a-historic-opportunity",
+      "image": "https://cdn.mos.cms.futurecdn.net/N5V7LUYxWerW8ipaEUfVQm-2560-80.jpg",
+      "published_at": "2026-05-27T19:02:27Z",
+      "key_points": [
+        "Google faces user frustration",
+        "Bing's opportunity to grow",
+        "Microsoft must act decisively"
+      ],
+      "impact": "Bing could gain significant market share.",
+      "id": "feb58ab31ad049e21cb4deef804b3fc3"
+    },
+    {
+      "title": "DuckDuckGo Sees Growth from Google Users",
+      "description": "DuckDuckGo experiences growth as users seek alternatives to Google's AI-driven search features.",
+      "category": "Startups",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/duckduckgo-growth-as-a-result-of-google-io-ai-search-announcements",
+      "image": "https://helios-i.mashable.com/imagery/articles/00cwuQsezim2uzMX2NYKkC4/hero-image.fill.size_1200x675.v1779905428.jpg",
+      "published_at": "2026-05-27T18:46:38Z",
+      "key_points": [
+        "DuckDuckGo's user base grows",
+        "Frustration with Google AI",
+        "Seeking AI-free search experience"
+      ],
+      "impact": "DuckDuckGo capitalizes on user dissatisfaction.",
+      "id": "edf8c64dbcd114443cf2d390f4b19d70"
+    },
+    {
+      "title": "No Man's Sky Update Features Epic Space Battles",
+      "description": "The Swarm update for No Man's Sky introduces massive space battles against an intergalactic threat.",
+      "category": "Software",
+      "source": "UploadVR",
+      "url": "https://www.uploadvr.com/no-mans-skys-the-swarm-update-promises-its-biggest-space-battles-yet/",
+      "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/05/No-Man-s-Sky-The-Swarm-Update-KeyArt-4k.png",
+      "published_at": "2026-05-27T16:15:33Z",
+      "key_points": [
+        "Massive space battles introduced",
+        "Community-wide war declared",
+        "New update available now"
+      ],
+      "impact": "No Man's Sky enhances its gameplay experience.",
+      "id": "9660940d897a12708144f594987f928f"
+    },
+    {
+      "title": "Marvel Rivals Launches Free-to-Play Update",
+      "description": "Marvel Rivals announces a new patch, allowing players to enjoy the game for free with exciting new content.",
+      "category": "Startups",
+      "source": "Marvelrivals.com",
+      "url": "https://www.marvelrivals.com/gameupdate/20260527/41548_1301784.html",
+      "image": "https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg",
+      "published_at": "2026-05-27T15:59:57Z",
+      "key_points": [
+        "Free-to-play patch launched",
+        "New content available",
+        "No server downtime"
+      ],
+      "impact": "Marvel Rivals attracts new players.",
+      "id": "d18c4d058a46113f479465f6291f7fee"
+    },
+    {
+      "title": "Sony's DualSense Controllers on Sale",
+      "description": "Sony's DualSense and DualSense Edge controllers are discounted by up to $30 until June 10th, making them more affordable.",
+      "category": "Business",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/938029/sony-dualsense-wireless-edge-controller-ps5-pc-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24302793/226463_DualSense_Edge_VPavic_0015.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-05-27T14:38:05Z",
+      "key_points": [
+        "Controllers up to $30 off",
+        "Sale ends June 10th",
+        "Affordable gaming options"
+      ],
+      "impact": "Sony boosts controller sales with discounts.",
+      "id": "8b1c5ec990a8d0a41d35893f54d98c92"
+    },
+    {
+      "title": "Roku Redesigns Home Screen for Better Experience",
+      "description": "Roku unveils its most significant home screen redesign in over a decade, aiming for a more dynamic and personalized user experience.",
+      "category": "Software",
+      "source": "Variety",
+      "url": "https://variety.com/2026/digital/news/roku-home-screen-redesign-launch-1236759162/",
+      "image": "https://variety.com/wp-content/uploads/2026/05/Roku-New-Home-Screen.png?w=1000&h=563&crop=1",
+      "published_at": "2026-05-27T14:00:00Z",
+      "key_points": [
+        "Major home screen redesign",
+        "More dynamic interface",
+        "Personalized user experience"
+      ],
+      "impact": "Roku enhances user engagement with redesign.",
+      "id": "bc881d50c6e4d2661a1991c280352245"
+    },
+    {
+      "title": "Dragon Quest XII Development Restarted",
+      "description": "Dragon Quest XII's development has restarted, with a new name and trailer revealed during a livestream event.",
+      "category": "Startups",
+      "source": "Gameinformer.com",
+      "url": "https://gameinformer.com/2026/05/27/dragon-quest-xiis-development-was-restarted-from-scratch-and-it-has-a-new-name-and",
+      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/05/27/d2f050d6/dragon-quest-12-beyond-dreams-screen-1.jpg.webp",
+      "published_at": "2026-05-27T13:52:21Z",
+      "key_points": [
+        "Development restarted from scratch",
+        "New name revealed",
+        "Trailer showcased"
+      ],
+      "impact": "Dragon Quest XII aims for a fresh start.",
+      "id": "f863a2ffada2b51f9006ce3d33817aea"
+    },
+    {
+      "title": "Manitou's Gen 2 Mezzer Fork Impresses Reviewers",
+      "description": "The new Mezzer fork is praised for its sensitivity and smooth performance, setting a high standard for mountain biking.",
+      "category": "Hardware",
+      "source": "Pinkbike.com",
+      "url": "https://www.pinkbike.com/news/first-ride-the-manitou-mezzer-lt-class-leading-sensitivity.html",
+      "image": "https://ep1.pinkbike.org/p4pb29773406/p4pb29773406.jpg",
+      "published_at": "2026-05-27T13:00:00Z",
+      "key_points": [
+        "Highly sensitive fork design",
+        "Smooth performance praised",
+        "Sets high standard"
+      ],
+      "impact": "Manitou raises the bar for mountain biking.",
+      "id": "a82eef8bce88d597861a7346bcb68800"
+    },
+    {
+      "title": "FBI Warns Outlook, Teams, OneDrive Users",
+      "description": "The FBI issues a warning regarding potential security threats for users of Outlook, Teams, and OneDrive.",
+      "category": "Security",
+      "source": "AL.com",
+      "url": "https://www.al.com/news/2026/05/fbi-issues-serious-warning-for-outlook-teams-onedrive-users.html",
+      "image": "",
+      "published_at": "2026-05-27T11:40:00Z",
+      "key_points": [
+        "FBI issues security warning",
+        "Targets Outlook, Teams, OneDrive",
+        "Users advised to stay vigilant"
+      ],
+      "impact": "Security risks prompt FBI alert.",
+      "id": "0bf189efa0b0eafedf641cfcfcb763df"
+    },
+    {
+      "title": "Hidden iPhone Features Revealed",
+      "description": "A BuzzFeed article uncovers 22 hidden features of the iPhone, surprising many users with new functionalities.",
+      "category": "Software",
+      "source": "Buzzfeed",
+      "url": "https://www.buzzfeed.com/angelicaamartinez/hidden-features-iphone-hacks-reddit",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-05/21/21/thumb/ZVXNOKG0C.jpg?crop=1250:654;0,88&downsize=1250:*",
+      "published_at": "2026-05-27T10:31:04Z",
+      "key_points": [
+        "22 hidden iPhone features",
+        "Surprising functionalities revealed",
+        "Users encouraged to explore"
+      ],
+      "impact": "iPhone users discover new capabilities.",
+      "id": "363b8db4bf19de68c917c8513e4bdae8"
+    },
+    {
+      "title": "Windows 11 Update Improves Performance",
+      "description": "Microsoft releases the KB5089573 update for Windows 11, featuring 30 changes that enhance performance and reliability.",
+      "category": "Software",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/01/Windows-11.jpg",
+      "published_at": "2026-05-27T08:33:46Z",
+      "key_points": [
+        "KB5089573 update released",
+        "30 performance improvements",
+        "Enhances reliability"
+      ],
+      "impact": "Windows 11 users benefit from updates.",
+      "id": "4446fe5668685195dcddc0cc8ea3ac32"
+    },
+    {
+      "title": "Take-Two's CEO Discusses Game Development Challenges",
+      "description": "Take-Two's Strauss Zelnick highlights the difficulties in creating hit games like GTA, referencing past failures.",
+      "category": "Business",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/take-twos-boss-takes-a-subtle-shot-at-2025s-worst-reviewed-game-2000700171",
+      "image": "https://kotaku.com/app/uploads/2026/05/simpsons-1200x675.jpg",
+      "published_at": "2026-05-26T19:15:11Z",
+      "key_points": [
+        "Challenges in game development",
+        "GTA's success discussed",
+        "Past failures referenced"
+      ],
+      "impact": "Take-Two reflects on industry challenges.",
+      "id": "454a8e287d04d9f87d21bef8bb0670d3"
+    },
+    {
+      "title": "Trump Mobile Phone Review Sparks Controversy",
+      "description": "A tech expert critiques the Trump Mobile phone, comparing its design to a urine sample, raising eyebrows.",
+      "category": "Startups",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/cnet-editor-brutally-honest-review-trump-mobile-phone-urine-sample_n_6a15cb73e4b0457678e4b2fc",
+      "image": "https://img.huffingtonpost.com/asset/6a15d1a5140000ba2f029642.jpeg?cache=J0koe7fnTQ&ops=500_281%2Cscalefit_1200_630",
+      "published_at": "2026-05-26T18:17:09Z",
+      "key_points": [
+        "Critique of Trump Mobile phone",
+        "Design compared to urine sample",
+        "Expert raises concerns"
+      ],
+      "impact": "Review sparks debate over phone design.",
+      "id": "9427af3f5c8b2c1ffb804f9ce59b78dc"
     }
   ]
 }
