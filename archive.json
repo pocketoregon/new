@@ -1,6 +1,93 @@
 {
   "batches": [
     {
+      "id": "2026-05-29T08:00:36.035000+00:00",
+      "fetched_at": "2026-05-29T08:00:36.035000+00:00",
+      "label": "May 29, 2026 — 08:00 AM UTC",
+      "articles": [
+        {
+          "title": "Handheld Gaming's Golden Age Ends with Price Hike",
+          "description": "Valve's Steam Deck price rises to $789, signaling the decline of affordable handheld gaming. This shift makes gaming less accessible for many enthusiasts.",
+          "category": "Software",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/938451/steam-deck-price-hike-end-of-handheld-gaming-era",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/DSCF9137.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-05-28T06:30:00Z",
+          "key_points": [
+            "Steam Deck price increase",
+            "Handheld gaming accessibility declines",
+            "End of an era"
+          ],
+          "impact": "This price hike limits access to gaming.",
+          "id": "1f195faf86f2d6ab438046dd435d239a"
+        },
+        {
+          "title": "Mitochondrial DNA Mutations Linked to Aging",
+          "description": "New research reveals that age-related mitochondrial DNA mutations may stem from cryptic replication errors, becoming detectable as we age. This insight could reshape our understanding of aging.",
+          "category": "Science",
+          "source": "Nature",
+          "url": "https://www.nature.com/articles/s41586-026-10569-6",
+          "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10569-6/MediaObjects/41586_2026_10569_Fig1_HTML.png",
+          "published_at": "2026-05-27T19:19:01Z",
+          "key_points": [
+            "Mitochondrial mutations increase with age",
+            "Cryptic errors identified",
+            "New insights into aging"
+          ],
+          "impact": "Understanding these mutations could advance aging research.",
+          "id": "f95aa348d619cc8ccba3543f07413aca"
+        },
+        {
+          "title": "Dodge's Copperhead SRT: No V8, No Charger Base",
+          "description": "Dodge's new Copperhead SRT, revealed by its creator, features unique proportions and dismisses hybrid V8 technology as outdated. This marks a shift in Dodge's performance strategy.",
+          "category": "Software",
+          "source": "The Drive",
+          "url": "https://www.thedrive.com/news/dodges-new-copperhead-srt-might-not-have-a-v8-and-its-not-based-on-the-charger",
+          "image": "https://www.thedrive.com/wp-content/uploads/2026/05/1997-Dodge-Copperhead-Concept-front.jpg?w=1200",
+          "published_at": "2026-05-27T18:28:58Z",
+          "key_points": [
+            "Copperhead SRT lacks V8 engine",
+            "Hybrid tech considered outdated",
+            "Unique design proportions"
+          ],
+          "impact": "This shift could redefine Dodge's performance lineup.",
+          "id": "1b5a2f6f59ee9be15efc33c8fdd4e29e"
+        },
+        {
+          "title": "Google Unveils AI-Powered Smart Glasses",
+          "description": "At Google I/O 2026, the company introduced new AI-driven smart glasses, developed with Samsung and Qualcomm, enhancing the Android XR platform. These glasses promise seamless integration with daily tasks.",
+          "category": "Hardware",
+          "source": "Chrome Unboxed",
+          "url": "https://chromeunboxed.com/google-is-bringing-gemini-to-smart-glasses-and-they-come-with-one-big-advantage/",
+          "image": "https://chromeunboxed.com/wp-content/uploads/2026/05/GoogleAndroidXRGlasses.webp",
+          "published_at": "2026-05-27T16:34:19Z",
+          "key_points": [
+            "New AI smart glasses launched",
+            "Collaboration with Samsung",
+            "Enhanced Android XR platform"
+          ],
+          "impact": "These glasses could revolutionize smart eyewear.",
+          "id": "7f85336c1ec14e901a79df3f6d1b23d4"
+        },
+        {
+          "title": "10 Billion Pokémon Cards Printed, Shortages Persist",
+          "description": "Despite producing over 10 billion Pokémon cards last year, shortages and scalping continue to plague the market. The Pokémon Company has printed a total of 85 billion cards to date.",
+          "category": "Business",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/10-billion-pokemon-cards-were-printed-last-year-and-it-still-wasnt-enough-to-stop-shortages-and-scalping",
+          "image": "https://assets-prd.ignimgs.com/2026/05/27/gettyimages-2265564068-1779893407254.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-05-27T14:58:35Z",
+          "key_points": [
+            "10 billion cards printed last year",
+            "Total of 85 billion cards",
+            "Market shortages continue"
+          ],
+          "impact": "Production can't meet demand, causing issues.",
+          "id": "b666e71092e19a62ba548fe4af80835a"
+        }
+      ]
+    },
+    {
       "id": "2026-05-29T03:55:03.325527+00:00",
       "fetched_at": "2026-05-29T03:55:03.325527+00:00",
       "label": "May 29, 2026 — 03:55 AM UTC",

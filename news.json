@@ -1,135 +1,87 @@
 {
   "date": "2026-05-29",
-  "generated_at": "2026-05-29T03:55:03.325527+00:00",
+  "generated_at": "2026-05-29T08:00:36.035000+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "All 109 Paradox Drive Cards Unveiled!",
-      "description": "The Paradox Drive set launches in Pokémon TCG Pocket, featuring 109 cards of Ancient and Future Pokémon. Get ready for new gameplay strategies!",
-      "category": "Startups",
-      "source": "PokeBeach",
-      "url": "https://www.pokebeach.com/2026/05/all-109-paradox-drive-cards-revealed-for-pocket",
-      "image": "https://www.pokebeach.com/news/2026/05/092-Koraidon-ex-Paradox-Drive.jpg",
-      "published_at": "2026-05-28T01:14:15Z",
-      "key_points": [
-        "109 new cards released",
-        "Features Ancient and Future Pokémon",
-        "Available in Pokémon TCG Pocket"
-      ],
-      "impact": "This set enhances gameplay with diverse strategies.",
-      "id": "2e0c2fff6633c2fbf78d932a3e8e7ab9"
-    },
-    {
-      "title": "Donkey Kong 64 Joins Switch Online Next Week!",
-      "description": "Nintendo adds Donkey Kong 64 to the Switch Online + Expansion Pack on June 4, 2026. Fans can relive this classic adventure soon!",
+      "title": "Handheld Gaming's Golden Age Ends with Price Hike",
+      "description": "Valve's Steam Deck price rises to $789, signaling the decline of affordable handheld gaming. This shift makes gaming less accessible for many enthusiasts.",
       "category": "Software",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/05/nintendo-expands-switch-onlines-n64-library-with-another-game-next-week",
-      "image": "https://images.nintendolife.com/2dbd10ec88439/large.jpg",
-      "published_at": "2026-05-28T01:05:00Z",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/938451/steam-deck-price-hike-end-of-handheld-gaming-era",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/DSCF9137.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-05-28T06:30:00Z",
       "key_points": [
-        "Donkey Kong 64 arrives June 4",
-        "Part of N64 library",
-        "Available on Switch Online"
+        "Steam Deck price increase",
+        "Handheld gaming accessibility declines",
+        "End of an era"
       ],
-      "impact": "Classic gaming experience expands for subscribers.",
-      "id": "a15f27e3747eda2e14ecc5d9470d5f33"
+      "impact": "This price hike limits access to gaming.",
+      "id": "1f195faf86f2d6ab438046dd435d239a"
     },
     {
-      "title": "Google's AI Struggles with Basic Spelling",
-      "description": "Google's AI embarrassingly misidentifies spellings, including its own name. This raises questions about its reliability in language processing.",
-      "category": "AI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-two-ps.jpg?resize=1200,675",
-      "published_at": "2026-05-28T00:17:41Z",
+      "title": "Mitochondrial DNA Mutations Linked to Aging",
+      "description": "New research reveals that age-related mitochondrial DNA mutations may stem from cryptic replication errors, becoming detectable as we age. This insight could reshape our understanding of aging.",
+      "category": "Science",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/s41586-026-10569-6",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10569-6/MediaObjects/41586_2026_10569_Fig1_HTML.png",
+      "published_at": "2026-05-27T19:19:01Z",
       "key_points": [
-        "AI misidentifies spellings",
-        "Questions reliability",
-        "Embarrassing errors noted"
+        "Mitochondrial mutations increase with age",
+        "Cryptic errors identified",
+        "New insights into aging"
       ],
-      "impact": "Reliability of Google's AI faces scrutiny.",
-      "id": "17bf3f3832d2e0e8d589282590d6e474"
+      "impact": "Understanding these mutations could advance aging research.",
+      "id": "f95aa348d619cc8ccba3543f07413aca"
     },
     {
-      "title": "Apple's New Anti-Snatching iPhone Feature",
-      "description": "Apple is developing a feature that locks iPhones instantly if snatched. This aims to enhance security for users.",
-      "category": "Security",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/05/27/apple-anti-theft-iphone-feature/",
-      "image": "https://images.macrumors.com/t/DP79CVusAMIqMynljMiYHm13LK8=/2016x/article-new/2026/03/apple-lock-security-bug-vulnerability-fix-privacy.jpg",
-      "published_at": "2026-05-27T21:00:46Z",
+      "title": "Dodge's Copperhead SRT: No V8, No Charger Base",
+      "description": "Dodge's new Copperhead SRT, revealed by its creator, features unique proportions and dismisses hybrid V8 technology as outdated. This marks a shift in Dodge's performance strategy.",
+      "category": "Software",
+      "source": "The Drive",
+      "url": "https://www.thedrive.com/news/dodges-new-copperhead-srt-might-not-have-a-v8-and-its-not-based-on-the-charger",
+      "image": "https://www.thedrive.com/wp-content/uploads/2026/05/1997-Dodge-Copperhead-Concept-front.jpg?w=1200",
+      "published_at": "2026-05-27T18:28:58Z",
       "key_points": [
-        "Locks phone if snatched",
-        "Enhances user security",
-        "Utilizes phone sensors"
+        "Copperhead SRT lacks V8 engine",
+        "Hybrid tech considered outdated",
+        "Unique design proportions"
       ],
-      "impact": "Improves iPhone security against theft.",
-      "id": "e467fcedfafa7f1815f45d1c1c0d83cb"
+      "impact": "This shift could redefine Dodge's performance lineup.",
+      "id": "1b5a2f6f59ee9be15efc33c8fdd4e29e"
     },
     {
-      "title": "Mina the Hollower: A Nostalgic Adventure",
-      "description": "Mina the Hollower impresses with smooth gameplay and engaging combat, offering a nostalgic experience for action-adventure fans.",
-      "category": "Startups",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/05/mina-the-hollower-is-the-best-old-school-action-adventure-ive-played-in-a-while/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/mina1-1152x648.webp",
-      "published_at": "2026-05-27T20:22:04Z",
-      "key_points": [
-        "Smooth movement mechanics",
-        "Compelling combat experience",
-        "Rich in secrets to discover"
-      ],
-      "impact": "Revives classic action-adventure gaming.",
-      "id": "672f78e5b1f349ba0f37d518ec273acc"
-    },
-    {
-      "title": "Sony Bravia 7 II Review: True RGB Performance",
-      "description": "The Sony Bravia 7 II impresses with its True RGB technology, delivering vibrant colors and enhanced viewing experiences.",
+      "title": "Google Unveils AI-Powered Smart Glasses",
+      "description": "At Google I/O 2026, the company introduced new AI-driven smart glasses, developed with Samsung and Qualcomm, enhancing the Android XR platform. These glasses promise seamless integration with daily tasks.",
       "category": "Hardware",
-      "source": "What Hi-Fi? US",
-      "url": "https://www.whathifi.com/tv-home-cinema/televisions/sony-bravia-7-ii",
-      "image": "https://cdn.mos.cms.futurecdn.net/BgHqkKuVEXCCfNuVwffYcV-2560-80.jpg",
-      "published_at": "2026-05-27T16:00:00Z",
+      "source": "Chrome Unboxed",
+      "url": "https://chromeunboxed.com/google-is-bringing-gemini-to-smart-glasses-and-they-come-with-one-big-advantage/",
+      "image": "https://chromeunboxed.com/wp-content/uploads/2026/05/GoogleAndroidXRGlasses.webp",
+      "published_at": "2026-05-27T16:34:19Z",
       "key_points": [
-        "Impressive True RGB technology",
-        "Vibrant color performance",
-        "Enhanced viewing experience"
+        "New AI smart glasses launched",
+        "Collaboration with Samsung",
+        "Enhanced Android XR platform"
       ],
-      "impact": "Sets a new standard for TV displays.",
-      "id": "c3ef25709321d051a30a312e9fb218d2"
+      "impact": "These glasses could revolutionize smart eyewear.",
+      "id": "7f85336c1ec14e901a79df3f6d1b23d4"
     },
     {
-      "title": "iOS 26.5 Introduces Encrypted RCS Messaging",
-      "description": "iOS 26.5 adds end-to-end encrypted RCS messaging in the Messages app. Users can check if it's active in conversations.",
-      "category": "Software",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/05/27/ios-26-5-gave-messages-app-encrypted-rcs-heres-how-to-check-its-working/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/messages-app-icon-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-05-27T15:18:00Z",
+      "title": "10 Billion Pokémon Cards Printed, Shortages Persist",
+      "description": "Despite producing over 10 billion Pokémon cards last year, shortages and scalping continue to plague the market. The Pokémon Company has printed a total of 85 billion cards to date.",
+      "category": "Business",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/10-billion-pokemon-cards-were-printed-last-year-and-it-still-wasnt-enough-to-stop-shortages-and-scalping",
+      "image": "https://assets-prd.ignimgs.com/2026/05/27/gettyimages-2265564068-1779893407254.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-05-27T14:58:35Z",
       "key_points": [
-        "RCS messaging now encrypted",
-        "Check encryption status easily",
-        "Enhanced privacy for users"
+        "10 billion cards printed last year",
+        "Total of 85 billion cards",
+        "Market shortages continue"
       ],
-      "impact": "Boosts messaging security on iPhones.",
-      "id": "8d30205fd997f49d037002819123783e"
-    },
-    {
-      "title": "First Cases for Apple's Foldable iPhone Appear",
-      "description": "iFunSmart lists the first protective cases for Apple's upcoming foldable iPhone, confirming design rumors.",
-      "category": "Startups",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/05/27/ases-for-foldable-iphone-surface-online/",
-      "image": "https://images.macrumors.com/t/RI5EonSJ5s6IT7iadp7i7pG0acg=/1600x/article-new/2026/05/iphone-ultra-case.jpg",
-      "published_at": "2026-05-27T14:43:48Z",
-      "key_points": [
-        "First cases listed online",
-        "Confirms foldable iPhone rumors",
-        "Accessory makers prepare for launch"
-      ],
-      "impact": "Hints at imminent foldable iPhone release.",
-      "id": "82c52615707a65fee262a2dd3a8185d9"
+      "impact": "Production can't meet demand, causing issues.",
+      "id": "b666e71092e19a62ba548fe4af80835a"
     }
   ]
 }
