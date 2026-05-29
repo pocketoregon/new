@@ -1,6 +1,141 @@
 {
   "batches": [
     {
+      "id": "2026-05-29T03:55:03.325527+00:00",
+      "fetched_at": "2026-05-29T03:55:03.325527+00:00",
+      "label": "May 29, 2026 — 03:55 AM UTC",
+      "articles": [
+        {
+          "title": "All 109 Paradox Drive Cards Unveiled!",
+          "description": "The Paradox Drive set launches in Pokémon TCG Pocket, featuring 109 cards of Ancient and Future Pokémon. Get ready for new gameplay strategies!",
+          "category": "Startups",
+          "source": "PokeBeach",
+          "url": "https://www.pokebeach.com/2026/05/all-109-paradox-drive-cards-revealed-for-pocket",
+          "image": "https://www.pokebeach.com/news/2026/05/092-Koraidon-ex-Paradox-Drive.jpg",
+          "published_at": "2026-05-28T01:14:15Z",
+          "key_points": [
+            "109 new cards released",
+            "Features Ancient and Future Pokémon",
+            "Available in Pokémon TCG Pocket"
+          ],
+          "impact": "This set enhances gameplay with diverse strategies.",
+          "id": "2e0c2fff6633c2fbf78d932a3e8e7ab9"
+        },
+        {
+          "title": "Donkey Kong 64 Joins Switch Online Next Week!",
+          "description": "Nintendo adds Donkey Kong 64 to the Switch Online + Expansion Pack on June 4, 2026. Fans can relive this classic adventure soon!",
+          "category": "Software",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/05/nintendo-expands-switch-onlines-n64-library-with-another-game-next-week",
+          "image": "https://images.nintendolife.com/2dbd10ec88439/large.jpg",
+          "published_at": "2026-05-28T01:05:00Z",
+          "key_points": [
+            "Donkey Kong 64 arrives June 4",
+            "Part of N64 library",
+            "Available on Switch Online"
+          ],
+          "impact": "Classic gaming experience expands for subscribers.",
+          "id": "a15f27e3747eda2e14ecc5d9470d5f33"
+        },
+        {
+          "title": "Google's AI Struggles with Basic Spelling",
+          "description": "Google's AI embarrassingly misidentifies spellings, including its own name. This raises questions about its reliability in language processing.",
+          "category": "AI",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-two-ps.jpg?resize=1200,675",
+          "published_at": "2026-05-28T00:17:41Z",
+          "key_points": [
+            "AI misidentifies spellings",
+            "Questions reliability",
+            "Embarrassing errors noted"
+          ],
+          "impact": "Reliability of Google's AI faces scrutiny.",
+          "id": "17bf3f3832d2e0e8d589282590d6e474"
+        },
+        {
+          "title": "Apple's New Anti-Snatching iPhone Feature",
+          "description": "Apple is developing a feature that locks iPhones instantly if snatched. This aims to enhance security for users.",
+          "category": "Security",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/05/27/apple-anti-theft-iphone-feature/",
+          "image": "https://images.macrumors.com/t/DP79CVusAMIqMynljMiYHm13LK8=/2016x/article-new/2026/03/apple-lock-security-bug-vulnerability-fix-privacy.jpg",
+          "published_at": "2026-05-27T21:00:46Z",
+          "key_points": [
+            "Locks phone if snatched",
+            "Enhances user security",
+            "Utilizes phone sensors"
+          ],
+          "impact": "Improves iPhone security against theft.",
+          "id": "e467fcedfafa7f1815f45d1c1c0d83cb"
+        },
+        {
+          "title": "Mina the Hollower: A Nostalgic Adventure",
+          "description": "Mina the Hollower impresses with smooth gameplay and engaging combat, offering a nostalgic experience for action-adventure fans.",
+          "category": "Startups",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gaming/2026/05/mina-the-hollower-is-the-best-old-school-action-adventure-ive-played-in-a-while/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/mina1-1152x648.webp",
+          "published_at": "2026-05-27T20:22:04Z",
+          "key_points": [
+            "Smooth movement mechanics",
+            "Compelling combat experience",
+            "Rich in secrets to discover"
+          ],
+          "impact": "Revives classic action-adventure gaming.",
+          "id": "672f78e5b1f349ba0f37d518ec273acc"
+        },
+        {
+          "title": "Sony Bravia 7 II Review: True RGB Performance",
+          "description": "The Sony Bravia 7 II impresses with its True RGB technology, delivering vibrant colors and enhanced viewing experiences.",
+          "category": "Hardware",
+          "source": "What Hi-Fi? US",
+          "url": "https://www.whathifi.com/tv-home-cinema/televisions/sony-bravia-7-ii",
+          "image": "https://cdn.mos.cms.futurecdn.net/BgHqkKuVEXCCfNuVwffYcV-2560-80.jpg",
+          "published_at": "2026-05-27T16:00:00Z",
+          "key_points": [
+            "Impressive True RGB technology",
+            "Vibrant color performance",
+            "Enhanced viewing experience"
+          ],
+          "impact": "Sets a new standard for TV displays.",
+          "id": "c3ef25709321d051a30a312e9fb218d2"
+        },
+        {
+          "title": "iOS 26.5 Introduces Encrypted RCS Messaging",
+          "description": "iOS 26.5 adds end-to-end encrypted RCS messaging in the Messages app. Users can check if it's active in conversations.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/05/27/ios-26-5-gave-messages-app-encrypted-rcs-heres-how-to-check-its-working/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/messages-app-icon-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-05-27T15:18:00Z",
+          "key_points": [
+            "RCS messaging now encrypted",
+            "Check encryption status easily",
+            "Enhanced privacy for users"
+          ],
+          "impact": "Boosts messaging security on iPhones.",
+          "id": "8d30205fd997f49d037002819123783e"
+        },
+        {
+          "title": "First Cases for Apple's Foldable iPhone Appear",
+          "description": "iFunSmart lists the first protective cases for Apple's upcoming foldable iPhone, confirming design rumors.",
+          "category": "Startups",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/05/27/ases-for-foldable-iphone-surface-online/",
+          "image": "https://images.macrumors.com/t/RI5EonSJ5s6IT7iadp7i7pG0acg=/1600x/article-new/2026/05/iphone-ultra-case.jpg",
+          "published_at": "2026-05-27T14:43:48Z",
+          "key_points": [
+            "First cases listed online",
+            "Confirms foldable iPhone rumors",
+            "Accessory makers prepare for launch"
+          ],
+          "impact": "Hints at imminent foldable iPhone release.",
+          "id": "82c52615707a65fee262a2dd3a8185d9"
+        }
+      ]
+    },
+    {
       "id": "2026-05-28T23:19:55.494408+00:00",
       "fetched_at": "2026-05-28T23:19:55.494408+00:00",
       "label": "May 28, 2026 — 11:20 PM UTC",
