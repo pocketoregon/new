@@ -1,6 +1,285 @@
 {
   "batches": [
     {
+      "id": "2026-05-29T23:16:20.979580+00:00",
+      "fetched_at": "2026-05-29T23:16:20.979580+00:00",
+      "label": "May 29, 2026 — 11:16 PM UTC",
+      "articles": [
+        {
+          "title": "Xbox Faces Tough Choices Ahead, Says CEO",
+          "description": "Xbox CEO Asha Sharma warns of upcoming challenges in a recent memo. Fans must prepare for potential tough decisions regarding Xbox's future.",
+          "category": "Business",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/gaming/xbox/xbox-ceo-asha-sharma-tough-decisions-ahead-what-could-this-mean-for-xbox-helix-xbox-games-studios-or-xbox-exclusives",
+          "image": "https://cdn.mos.cms.futurecdn.net/KkY4E2tTAD3dkkEaooH6r5-2560-80.jpg",
+          "published_at": "2026-05-28T21:09:11Z",
+          "key_points": [
+            "CEO hints at major changes",
+            "Xbox Showcase on June 7",
+            "Fans brace for tough decisions"
+          ],
+          "impact": "Xbox's future direction remains uncertain.",
+          "id": "e738db35984fc628bcadeaaade0c9d8c"
+        },
+        {
+          "title": "Kindle Paperwhite Discounted Below Entry-Level Kindle",
+          "description": "Woot offers the 2021 Kindle Paperwhite for $99.99, its lowest price yet. This waterproof e-reader features a sharp display and adjustable warm light.",
+          "category": "Hardware",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/939259/amazon-kindle-paperwhite-2021-woot-dad-tech-sale",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22954863/cgartenberg_211020_4803_0003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-05-28T20:10:09Z",
+          "key_points": [
+            "Best price for Paperwhite",
+            "Waterproof and adjustable light",
+            "Large 6.8-inch display"
+          ],
+          "impact": "Great deal for e-reader enthusiasts.",
+          "id": "e747b027465a17cb2cbe43a645231eec"
+        },
+        {
+          "title": "Spotify Android App Gains Playlist Folders and More",
+          "description": "Spotify's Android app introduces playlist folders and a new 'Reshuffle' feature for better track management. Users can now organize their music more efficiently.",
+          "category": "Software",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/05/28/spotify-app-for-android-adding-playlist-folders-reshuffle-and-more/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/05/spotify-android-app-icon-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-05-28T17:45:00Z",
+          "key_points": [
+            "New playlist folders feature",
+            "'Reshuffle' button added",
+            "Improved track management"
+          ],
+          "impact": "Enhances user experience on Spotify.",
+          "id": "ddf50e7d68a17c6ee3e5304c2c8aecdf"
+        },
+        {
+          "title": "Apple Launches First iOS 26.6 Public Beta",
+          "description": "Apple has released the first public beta for iOS 26.6, following the developer beta. Users can expect new features and improvements in this update.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/05/28/apple-releases-first-ios-26-6-public-beta-heres-what-to-expect/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iOS-26.6-public-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-05-28T17:38:00Z",
+          "key_points": [
+            "First public beta released",
+            "Follows developer beta",
+            "New features expected"
+          ],
+          "impact": "Users can test upcoming iOS features.",
+          "id": "f44eb1945af25ed05e2815e3b8b47f82"
+        },
+        {
+          "title": "YouTube Enhances Podcast Features for Premium Users",
+          "description": "YouTube Premium introduces new features for podcast listening, including audio-first controls and AI-driven playback speed adjustments. These enhancements aim to improve user experience.",
+          "category": "Software",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/streaming/939051/youtube-premium-podcast-features",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/youtube-on-the-go-mode-news.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+          "published_at": "2026-05-28T16:05:00Z",
+          "key_points": [
+            "New audio-specific controls",
+            "AI playback speed adjustments",
+            "Exclusive to Premium subscribers"
+          ],
+          "impact": "Improves podcast listening on YouTube.",
+          "id": "ed420c9fd392b1d65b65428ce72e8216"
+        },
+        {
+          "title": "Steam Deck Sells Out in North America After Price Hike",
+          "description": "The Steam Deck has sold out in North America within 24 hours of its price increase. Demand remains high despite the hike.",
+          "category": "Hardware",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-1152x648.jpg",
+          "published_at": "2026-05-28T15:43:41Z",
+          "key_points": [
+            "Sold out within 24 hours",
+            "High demand persists",
+            "Price hike didn't deter buyers"
+          ],
+          "impact": "Steam Deck's popularity continues to soar.",
+          "id": "0c92f86084cac9f475ae258abd88c2d0"
+        },
+        {
+          "title": "Call of Duty Returns to Nintendo with Modern Warfare 4",
+          "description": "Modern Warfare 4 will launch on Nintendo Switch 2 on October 23, 2026, marking the series' return to Nintendo platforms.",
+          "category": "Software",
+          "source": "Nintendo.com",
+          "url": "https://www.nintendo.com/us/whatsnew/call-of-duty-modern-warfare-4-coming-to-nintendo-switch-2-this-october/",
+          "image": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
+          "published_at": "2026-05-28T15:35:28Z",
+          "key_points": [
+            "Modern Warfare 4 announced",
+            "Launch date set for October 23",
+            "Returns to Nintendo platform"
+          ],
+          "impact": "Revitalizes Call of Duty on Nintendo.",
+          "id": "84dbdc0d5ad6b54c74155d66e55ab177"
+        },
+        {
+          "title": "Snapdragon C Targets Affordable Windows Laptops",
+          "description": "Qualcomm's Snapdragon C aims to compete with Apple's MacBook Neo by offering affordable Windows laptops priced around $300.",
+          "category": "Hardware",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/05/28/qualcomm-snapdragon-c-windows-macbook-neo/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/snapdragon-c-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-05-28T13:45:00Z",
+          "key_points": [
+            "Targets $300 laptop market",
+            "Competes with MacBook Neo",
+            "Focus on affordability"
+          ],
+          "impact": "Aims to disrupt the budget laptop segment.",
+          "id": "1c2bb47a1dea26de9e4dcc136b3243ba"
+        },
+        {
+          "title": "Krafton to Pay $250M Earnout for Subnautica 2 Success",
+          "description": "Krafton must pay $250 million to Unknown Worlds after Subnautica 2 sells over 4 million units. This payment follows a legal dispute regarding developer compensation.",
+          "category": "Business",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/subnautica-2-krafton-unknown-worlds-earnout",
+          "image": "https://assetsio.gnwcdn.com/Subnautica-2---Storage-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-05-28T12:16:32Z",
+          "key_points": [
+            "Krafton pays $250M earnout",
+            "Subnautica 2 sells 4M copies",
+            "Legal dispute resolved"
+          ],
+          "impact": "Highlights game's commercial success.",
+          "id": "0b53560943926fb0fce086110b5568d7"
+        },
+        {
+          "title": "PlayStation Offers Free Bundle for PS5 Users",
+          "description": "PlayStation Days of Play introduces a free bundle for PS5 users, no PlayStation Plus required. This annual event features discounts and new offers.",
+          "category": "Software",
+          "source": "GAMINGbible",
+          "url": "https://www.gamingbible.com/news/platform/playstation/playstation-days-of-play-free-bundle-925834-20260528",
+          "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt3c73c33b3f15c319/6a1819996c1bdc72d3b49376/playstation5-console-08052026.jpg",
+          "published_at": "2026-05-28T11:20:18Z",
+          "key_points": [
+            "Free bundle for PS5 users",
+            "No PlayStation Plus needed",
+            "Annual event with discounts"
+          ],
+          "impact": "Enhances value for PlayStation users.",
+          "id": "094472bcc2d53dce8102074943ba1e4e"
+        },
+        {
+          "title": "OnePlus 16 Leak Reveals Key Features",
+          "description": "Leaks suggest the OnePlus 16 will feature a high refresh-rate display and a 200MP telephoto camera. The flagship smartphone is expected to launch in Q4 2026.",
+          "category": "Hardware",
+          "source": "Notebookcheck",
+          "url": "https://www.notebookcheck.net/OnePlus-16-leak-reveals-display-and-camera-details.1307981.0.html",
+          "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Oneplus-16-leaked-details.png",
+          "published_at": "2026-05-28T10:57:00Z",
+          "key_points": [
+            "High refresh-rate display",
+            "200MP telephoto camera",
+            "Launch expected in Q4 2026"
+          ],
+          "impact": "Anticipation builds for OnePlus 16.",
+          "id": "82c4fa1c82b4ecc460175721f7a3ec8c"
+        },
+        {
+          "title": "Krafton to Pay $250M Earnout for Subnautica 2 Success",
+          "description": "Krafton must pay $250 million to Unknown Worlds after Subnautica 2 sells over 4 million units. This payment follows a legal dispute regarding developer compensation.",
+          "category": "Business",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/subnautica-2-has-sold-so-well-that-krafton-has-to-pay-that-250-million-earnout-to-the-devs",
+          "image": "https://assets-prd.ignimgs.com/2026/05/28/ss-787e2315a1eb5aaba73c4f75e6f7d7d8835fa260-1920x1080-1779958530846.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-05-28T09:03:00Z",
+          "key_points": [
+            "Krafton pays $250M earnout",
+            "Subnautica 2 sells 4M copies",
+            "Legal dispute resolved"
+          ],
+          "impact": "Highlights game's commercial success.",
+          "id": "ea201fc7fee845dede893a9ba3517b33"
+        },
+        {
+          "title": "Gemini Live Voices and Widget Updates Roll Out",
+          "description": "Gemini app introduces new voices and a redesigned Android widget with Neural Expressive icons. These updates enhance user interaction and experience.",
+          "category": "Software",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/05/27/new-gemini-live-voices/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-05-28T02:49:00Z",
+          "key_points": [
+            "New voices for Gemini app",
+            "Redesigned Android widget",
+            "Enhances user experience"
+          ],
+          "impact": "Improves interaction within the Gemini app.",
+          "id": "6a3266dbe8fcb77a72a0891f3c57a699"
+        },
+        {
+          "title": "Nintendo's New Mobile Game 'Pictonico!' Now Available",
+          "description": "Nintendo's new mobile game 'Pictonico!' is now available, including a demo for users to try. The game promises engaging content and fun gameplay.",
+          "category": "Software",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/05/reminder-nintendos-new-mobile-game-pictonico-is-now-available",
+          "image": "https://images.nintendolife.com/c24546ecd6e1d/large.jpg",
+          "published_at": "2026-05-27T23:55:00Z",
+          "key_points": [
+            "'Pictonico!' now available",
+            "Includes a demo",
+            "Engaging gameplay promised"
+          ],
+          "impact": "Expands Nintendo's mobile game offerings.",
+          "id": "1ebd9b7d56871d27fe3700c99a10154c"
+        },
+        {
+          "title": "Get Google Health Premium Free with AI Pro Plans",
+          "description": "Google Health Premium is now included in Google AI Pro and higher plans, offering users additional health features at no extra cost. This change follows Google I/O announcements.",
+          "category": "Software",
+          "source": "Droid Life",
+          "url": "https://www.droid-life.com/2026/05/27/google-health-premium-added-to-google-ai-pro-plan/",
+          "image": "https://www.droid-life.com/wp-content/uploads/2026/05/Google-AI-Pro-Google-Health-Premium-1-1200x628.jpg",
+          "published_at": "2026-05-27T17:53:12Z",
+          "key_points": [
+            "Google Health Premium included",
+            "Available in AI Pro plans",
+            "No extra cost for users"
+          ],
+          "impact": "Enhances value of Google AI subscriptions.",
+          "id": "9da6c0c09230736046b9d5ff1df51b4f"
+        },
+        {
+          "title": "Anthropic Expands Claude Voice Mode to More Languages",
+          "description": "Anthropic plans to enhance Claude's Voice Mode with push-to-talk features and support for additional languages. This update aims to improve accessibility and usability.",
+          "category": "Software",
+          "source": "Testingcatalog.com",
+          "url": "https://www.testingcatalog.com/anthropic-plans-expanding-claude-voice-mode-to-more-languages/",
+          "image": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/05/FJGs5StyEnkwpq57e3DM7HCI1VPkZUtpM14nd8XJ-1.webp",
+          "published_at": "2026-05-27T14:40:48Z",
+          "key_points": [
+            "Claude Voice Mode updates",
+            "Push-to-talk feature added",
+            "More languages supported"
+          ],
+          "impact": "Improves accessibility for Claude users.",
+          "id": "0437da5384edef38bb1f062fd70ff10a"
+        },
+        {
+          "title": "Sotheby’s Estimates $30M for Tyrannosaurus Rex",
+          "description": "Sotheby’s has placed a $30 million estimate on a Tyrannosaurus rex named Gus, reflecting the growing interest of wealthy collectors in fossils.",
+          "category": "Business",
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/4bfb07f6-5d1a-478f-b632-6a9b51bc82e2?syn-25a6b1a6\\u003d1",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F04f99e67-f10e-4e57-935b-7ecc4102ab4a.jpg?source=next-barrier-page",
+          "published_at": "2026-05-27T13:30:18Z",
+          "key_points": [
+            "$30M estimate for T. rex",
+            "Growing fossil collector interest",
+            "Sotheby’s auction highlights"
+          ],
+          "impact": "Reflects rising value of rare fossils.",
+          "id": "dc6b7355e717690063e9f1bab91236db"
+        }
+      ]
+    },
+    {
       "id": "2026-05-29T19:32:27.881221+00:00",
       "fetched_at": "2026-05-29T19:32:27.881221+00:00",
       "label": "May 29, 2026 — 07:32 PM UTC",
