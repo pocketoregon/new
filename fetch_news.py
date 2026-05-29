@@ -40,7 +40,7 @@ def fetch_real_news(news_api_key):
     params = {
         "category": "technology",
         "language": "en",
-        "pageSize": 15,
+        "pageSize": 40,  # Expanded window size to scan more potential unique variants
         "apiKey": news_api_key
     }
     response = requests.get(url, params=params, timeout=10)
@@ -202,18 +202,23 @@ def fetch_news():
             
     print(f"   Filtered down to {len(unseen_articles)} brand-new unique articles.")
     
-    # Limit to max 8 fresh updates per run
-    unseen_articles = unseen_articles[:8]
-    
-    print("\n[Step 3] Rewriting only unseen data...")
-    news_data = process_articles(unseen_articles, client, today)
-    news_data = validate(news_data, unseen_articles)
-    news_data["generated_at"] = now_iso
-    
-    # Inject calculated IDs into processed output
-    for i, article in enumerate(news_data.get("articles", [])):
-        if i < len(unseen_articles):
-            article["id"] = unseen_articles[i]["id"]
+    # ---------------------------------------------------------------------------
+    # DATA SIPHON SECURITY HOOK: DROPPED FIXED SPLICING CONSTRAINT [:8] 
+    # Captures 100% of incoming items down the pipeline stream gracefully.
+    # ---------------------------------------------------------------------------
+    if not unseen_articles:
+        print("\n   [Notice] Zero fresh articles to pass forward this hourly iteration.")
+        news_data = {"date": today, "generated_at": now_iso, "articles": []}
+    else:
+        print("\n[Step 3] Rewriting only unseen data...")
+        news_data = process_articles(unseen_articles, client, today)
+        news_data = validate(news_data, unseen_articles)
+        news_data["generated_at"] = now_iso
+        
+        # Inject calculated IDs into processed output
+        for i, article in enumerate(news_data.get("articles", [])):
+            if i < len(unseen_articles):
+                article["id"] = unseen_articles[i]["id"]
             
     print("\n[Step 4] Saving current news.json snapshot...")
     with open("news.json", "w", encoding="utf-8") as f:
