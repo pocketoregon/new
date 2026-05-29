@@ -181,6 +181,12 @@
       100% { background-position: -200% 0; }
     }
 
+    @keyframes pulse-dot {
+      0%, 100% { opacity: 0.4; transform: scale(0.95); }
+      50% { opacity: 1; transform: scale(1.1); }
+    }
+    .live-dot { animation: pulse-dot 2s infinite ease-in-out; }
+
     #progress {
       position: fixed;
       top: 0; left: 0;
@@ -578,10 +584,73 @@
       const res = await fetch('archive.json?t=' + Date.now());
       const data = await res.json();
       document.getElementById('all-loading').style.display = 'none';
-      ac.innerHTML = data.batches.map((batch, i) => buildBatchFolder(batch, i)).join('');
+      
+      const archiveHTML = data.batches.map((batch, i) => buildBatchFolder(batch, i)).join('');
+      
+      ac.innerHTML = `
+        <div class="batch-folder" id="skeleton-countdown-batch" style="border: 1px dashed #333; background: #111; margin-bottom: 12px;">
+          <div class="batch-header" style="cursor: default; background: #111; pointer-events: none;">
+            <div style="display:flex; align-items:center; gap:10px;">
+              <span class="live-dot" style="display:inline-block; width:6px; height:6px; border-radius:50%; background:#e8384f;"></span>
+              <span style="font-size:0.75rem; font-weight:600; color:#888; letter-spacing: 0.05em;">
+                NEXT SCHEDULED BATCH IN: <span id="batch-timer" style="color:#e8384f; font-family:monospace; font-weight:bold; margin-left:4px;">00:00</span>
+              </span>
+            </div>
+            <span style="font-size:0.65rem; color:#444; font-style: italic;">Awaiting automated run...</span>
+          </div>
+        </div>
+        ${archiveHTML}
+      `;
+      
+      if (data.batches && data.batches.length > 0) {
+        startExactWorkflowTimer(data.batches[0].fetched_at);
+      }
     } catch(e) {
       document.getElementById('all-loading').textContent = 'Archive updating dynamically...';
     }
+  }
+
+  function startExactWorkflowTimer(latestBatchTimestamp) {
+    const timerDisplay = document.getElementById('batch-timer');
+    if (!timerDisplay || !latestBatchTimestamp) return;
+
+    const lastRun = new Date(latestBatchTimestamp);
+    const scheduledMinuteOffset = lastRun.getUTCMinutes();
+    const scheduledSecondOffset = lastRun.getUTCSeconds();
+
+    function tick() {
+      const now = new Date();
+      let targetTime = Date.UTC(
+        now.getUTCFullYear(),
+        now.getUTCMonth(),
+        now.getUTCDate(),
+        now.getUTCHours(),
+        scheduledMinuteOffset,
+        scheduledSecondOffset
+      );
+
+      if (Date.now() >= targetTime) {
+        targetTime += 60 * 60 * 1000;
+      }
+
+      const remainingMs = targetTime - Date.now();
+      if (remainingMs <= 0) {
+        timerDisplay.innerText = "RUNNING PIPELINE...";
+        timerDisplay.style.color = "#888";
+        return;
+      }
+
+      const minutes = Math.floor((remainingMs / (1000 * 60)) % 60);
+      const seconds = Math.floor((remainingMs / 1000) % 60);
+
+      const strMin = minutes < 10 ? "0" + minutes : minutes;
+      const strSec = seconds < 10 ? "0" + seconds : seconds;
+
+      timerDisplay.innerText = `${strMin}:${strSec}`;
+    }
+
+    tick();
+    setInterval(tick, 1000);
   }
 
   function switchTab(tab, btn) {
