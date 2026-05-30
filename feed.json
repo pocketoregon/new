@@ -1,213 +1,245 @@
 {
-  "generated_at": "2026-05-30T13:44:48.891364+00:00",
+  "generated_at": "2026-05-30T17:10:30.043978+00:00",
   "articles": [
     {
-      "title": "Acer Launches $699 Swift Air 14 Laptop",
-      "description": "Acer unveils several laptops at Computex, including the Swift Air 14 and Aspire 18. The Nitro 16 gaming laptop features an AMD X3D chip.",
-      "category": "Hardware",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/939596/acer-swift-air-14-aspire-18-nitro-16-computex-price-specs",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Acer-Swift-Air-14-SFA14-I31-Lifestyle-03.jpg?quality=90&strip=all&crop=0%2C3.4750998734523%2C100%2C93.049800253095&w=1200",
-      "published_at": "2026-05-29T13:00:00Z",
+      "title": "Custom Wallpapers Arrive in Google Messages",
+      "description": "Google Messages beta introduces custom wallpaper chat themes, enhancing personalization options for users. Exciting updates are finally here!",
+      "category": "Software",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/google-messages-chat-themes-3672651/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2024/03/Google-Messages-logo-on-smartphone-laying-on-table-4.jpg",
+      "published_at": "2026-05-29T15:21:10Z",
       "key_points": [
-        "Multiple models announced",
-        "Includes gaming laptop",
-        "Affordable pricing"
+        "Custom themes now available",
+        "Personalize chat backgrounds",
+        "Enhanced user experience"
       ],
-      "impact": "Acer expands its laptop lineup with competitive pricing.",
-      "id": "84ec891aa9bcec5137013004ba53fab8"
+      "impact": "This update boosts user engagement significantly.",
+      "id": "45d8b04b64ca61becea20e97d994d901"
     },
     {
-      "title": "MSI Unveils Claw 8 EX AI Plus Handheld",
-      "description": "MSI introduces the Claw 8 EX AI Plus gaming handheld featuring Intel's custom Arc G3 Extreme chip. This device aims to enhance portable gaming experiences.",
-      "category": "Hardware",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/939758/msi-claw-8-ex-ai-plus-gaming-handheld-reveal-computex-2026",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/MSI-Claw-8-EX-AI-Plus.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published_at": "2026-05-29T11:11:39Z",
+      "title": "Destiny 2's Final Update Promises Greatness",
+      "description": "Destiny 2's last update before service closure is set to be its best yet, leaving players both excited and nostalgic. June 9 marks the end of an era.",
+      "category": "Software",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/05/29/destiny-2-reveals-its-last-update-will-be-its-best-in-years/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a1990c261763861f27cadef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published_at": "2026-05-29T13:15:51Z",
       "key_points": [
-        "Features Intel Arc G3 chip",
-        "Portable gaming device",
-        "High performance expected"
+        "Final update arrives June 9",
+        "Players express mixed emotions",
+        "Best content in years"
       ],
-      "impact": "MSI targets gamers with innovative handheld technology.",
-      "id": "baa0f1cbbe9f9a00a0b36d542055c1d8"
+      "impact": "This update will leave a lasting legacy.",
+      "id": "e9db115668fd5d362b4e19f0d45a3fd6"
     },
     {
-      "title": "iPhone 18 Pro's Camera Upgrade Costs 50% More",
-      "description": "Apple's iPhone 18 Pro will feature a new variable aperture lens, increasing production costs by 50%. This upgrade aims to enhance photography capabilities.",
+      "title": "iPhone 18 Pro Color Options Leaked",
+      "description": "Dummy models reveal the iPhone 18 Pro's four rumored color options, giving fans a sneak peek at the upcoming design. Excitement builds ahead of launch.",
       "category": "Hardware",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/05/29/iphone-18-pros-camera-upgrade-will-cost-more/",
-      "image": "https://images.macrumors.com/t/lqWUrJOQKKV5pEiUCN1izFwQ4QQ=/2500x/article-new/2026/04/iphone-17-pro-black-feature.jpg",
-      "published_at": "2026-05-29T10:44:01Z",
+      "url": "https://www.macrumors.com/2026/05/29/first-look-at-iphone-18-pro-color-options-revealed/",
+      "image": "https://images.macrumors.com/t/gMD1z9xFRXv2yJf2EP5cEAgI8hQ=/1600x/article-new/2026/05/iphone-18-pro-color-dummies.jpeg",
+      "published_at": "2026-05-29T11:50:22Z",
       "key_points": [
-        "New lens increases costs",
-        "Variable aperture technology",
-        "Enhanced photography features"
+        "New color options revealed",
+        "Dummy models shared online",
+        "Anticipation for iPhone 18 Pro"
       ],
-      "impact": "Apple invests in camera technology for better user experience.",
-      "id": "1f052b4bf4d43305adcc74abccdf5b26"
+      "impact": "Fans eagerly await the official launch.",
+      "id": "e2e540684a62da3efd2ae4c6e3fdd258"
     },
     {
-      "title": "007 First Light Achieves 1.5M Sales in 24 Hours",
-      "description": "IO Interactive's 007 First Light has sold over 1.5 million copies within its first day of release, showcasing strong demand and critical acclaim.",
-      "category": "Startups",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/007-first-light-james-bond-sales-milestone-24-hours",
-      "image": "https://assetsio.gnwcdn.com/007-First-Light-screenshot-showing-Bond-and-his-fellow-recruits-doing-weapons-training-in-Malta.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-05-29T08:50:37Z",
-      "key_points": [
-        "1.5 million copies sold",
-        "Strong critical reception",
-        "Successful launch for IO Interactive"
-      ],
-      "impact": "007 First Light sets a new sales record for launch day.",
-      "id": "60b5eeba271f8e4aac21c7d88a41b710"
-    },
-    {
-      "title": "Valve Steam Deck Sells Out Despite Price Increase",
-      "description": "The Valve Steam Deck OLED sold out within 24 hours, despite a price hike of up to $300. Demand remains high for this gaming handheld.",
-      "category": "Hardware",
-      "source": "Techpowerup.com",
-      "url": "https://www.techpowerup.com/349469/valve-steam-deck-sells-out-in-24-hours-despite-price-hike",
-      "image": "https://www.techpowerup.com/img/4oWcypl2F103CDue.jpg",
-      "published_at": "2026-05-29T03:43:13Z",
-      "key_points": [
-        "Sold out in 24 hours",
-        "Price increased by $300",
-        "High demand continues"
-      ],
-      "impact": "Valve's Steam Deck proves its market appeal despite price hikes.",
-      "id": "29c4c24c532bda7e5747b6d8011f7cd0"
-    },
-    {
-      "title": "Rayman Legends Retold Rumored for Nintendo Switch 2",
-      "description": "Ubisoft is reportedly developing Rayman Legends Retold for the Nintendo Switch 2, reviving interest in the classic platformer.",
-      "category": "Startups",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/rumor-rayman-legends-retold-coming-to-nintendo-switch-2/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Rayman-Legends-Switch-2-rumor.jpg",
-      "published_at": "2026-05-28T22:54:03Z",
-      "key_points": [
-        "Remake in development",
-        "Targeting Nintendo Switch 2",
-        "Classic game revival"
-      ],
-      "impact": "Ubisoft aims to capitalize on nostalgia with a remake.",
-      "id": "181e1452ecc1861bcca501182c0c7d1d"
-    },
-    {
-      "title": "GTA 6 Boss Praises High Review Scores",
-      "description": "Rockstar Games' CEO highlights the high review scores for GTA 6, attributing them to the company's commitment to quality as the release date approaches.",
-      "category": "Startups",
-      "source": "GameSpot",
-      "url": "https://www.gamespot.com/articles/gta-6-boss-says-high-review-scores-reflect-rockstars-commitment-to-quality/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Grand-Theft-Auto-6.jpg",
-      "published_at": "2026-05-28T22:01:59Z",
-      "key_points": [
-        "High review scores noted",
-        "Commitment to quality emphasized",
-        "Release in six months"
-      ],
-      "impact": "Rockstar reinforces its reputation for quality gaming.",
-      "id": "b3b8e7fe838e9a6f24aa82681de35264"
-    },
-    {
-      "title": "Fitbit Air Faces Band Fit Issues",
-      "description": "Early buyers of the Fitbit Air report significant fit issues with the bands, raising concerns about the product's design and usability.",
+      "title": "Galaxy Watch 9 May Feature New Models",
+      "description": "Leaks suggest Samsung's Galaxy Watch 9 could introduce three new models, including a feature borrowed from Google. Innovation continues in wearables.",
       "category": "Hardware",
       "source": "Android Police",
-      "url": "https://www.androidpolice.com/fitbit-air-band-does-not-fit-all/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/fitbit-air.png?w=1600&h=900&fit=crop",
-      "published_at": "2026-05-28T19:26:51Z",
+      "url": "https://www.androidpolice.com/samsung-may-break-tradition-with-the-next-galaxy-watch-range/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/12/galaxy-watch-8-classic-pocket.JPG?w=1600&h=900&fit=crop",
+      "published_at": "2026-05-29T10:32:19Z",
       "key_points": [
-        "Band fit issues reported",
-        "Concerns over design",
-        "User complaints increasing"
+        "Three new models expected",
+        "Feature borrowed from Google",
+        "Samsung innovates wearables"
       ],
-      "impact": "Fitbit may need to address design flaws quickly.",
-      "id": "1d3364c1481636ebd304e9036120321a"
+      "impact": "This could redefine smartwatch offerings.",
+      "id": "44848cc8e5ef13484b13cd0a933088ab"
     },
     {
-      "title": "Call Of Duty: Warzone to Be Delisted Soon",
-      "description": "Call Of Duty: Warzone will be delisted from Xbox One in early June 2026, coinciding with the announcement of Modern Warfare 4.",
+      "title": "Physical Media's Comeback Faces Next-Gen Threat",
+      "description": "As physical media gains traction, upcoming consoles like PlayStation 6 may eliminate disc drives, threatening its resurgence. The future of gaming media is uncertain.",
+      "category": "Business",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/physical-media-is-having-a-comeback-the-next-console-generation-may-kill-it/",
+      "image": "https://media.wired.com/photos/6a16eeef235be46da31f1947/191:100/w_1280,c_limit/GettyImages-2186493403.jpg",
+      "published_at": "2026-05-29T10:30:00Z",
+      "key_points": [
+        "Physical media gains popularity",
+        "Next-gen consoles may eliminate discs",
+        "Future of gaming media uncertain"
+      ],
+      "impact": "This shift could reshape media consumption.",
+      "id": "171539b3b5aea495de8214777c52475a"
+    },
+    {
+      "title": "Xbox Game Pass Price Cut Boosts Subscribers",
+      "description": "Microsoft's Xbox Game Pass price cut is reportedly increasing subscriber activity, according to Asha Sharma. The strategy aims for long-term growth.",
+      "category": "Business",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/xbox-game-pass-price-cut-working-asha-sharma",
+      "image": "https://assetsio.gnwcdn.com/asha-sharma-xbox_ETUJlFF.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-05-29T10:25:25Z",
+      "key_points": [
+        "Price cut boosts subscriber activity",
+        "Focus on long-term growth",
+        "Microsoft strengthens Xbox brand"
+      ],
+      "impact": "This strategy may enhance market competitiveness.",
+      "id": "3de794855b9ea62a1e67792cef59babf"
+    },
+    {
+      "title": "Yuji Naka's Wild Name Idea for Billy Hatcher",
+      "description": "Yuji Naka reveals a surprising alternative name for Billy Hatcher and the Giant Egg, showcasing his creative process. Fans are intrigued by the backstory.",
       "category": "Software",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/05/call-of-duty-warzone-joins-two-other-xbox-one-games-being-delisted-in-early-june-2026",
-      "image": "https://images.purexbox.com/79beea880e950/large.jpg",
-      "published_at": "2026-05-28T18:34:26Z",
+      "source": "Timeextension.com",
+      "url": "https://www.timeextension.com/news/2026/05/i-am-not-making-up-this-story-you-wont-believe-what-yuji-naka-wanted-to-call-billy-hatcher-and-the-giant-egg",
+      "image": "https://images.timeextension.com/b00f7f3842b52/large.jpg",
+      "published_at": "2026-05-29T09:00:00Z",
       "key_points": [
-        "Warzone delisting announced",
-        "Modern Warfare 4 revealed",
-        "New downloads halted"
+        "Yuji Naka shares name idea",
+        "Creative process revealed",
+        "Fans intrigued by backstory"
       ],
-      "impact": "Players must act quickly before delisting occurs.",
-      "id": "93b22c9030e0c698e35aaf4242369af3"
+      "impact": "This insight adds depth to game history.",
+      "id": "dba3180fa73e94e3bafce37436805c94"
     },
     {
-      "title": "Apple Shrinks Gemini AI for iPhone Integration",
-      "description": "Apple is reportedly working to integrate the massive Gemini AI model into iPhones, likely requiring a cloud component for functionality.",
+      "title": "Google's AI Cost Strategy Gains Attention",
+      "description": "Google's approach to AI cost management positions it favorably against competitors, as inference costs continue to decline. The AI landscape is evolving rapidly.",
       "category": "AI",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/apple-google-logo-1152x648.jpg",
-      "published_at": "2026-05-28T18:30:48Z",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/google-ai-cost-tokens-gemini-flash-openai-anthropic-gemini-search-2026-5",
+      "image": "https://i.insider.com/6a0d73cdce0a5b2f12d7da7d?width=1200&format=jpeg",
+      "published_at": "2026-05-29T09:00:00Z",
       "key_points": [
-        "Gemini AI integration planned",
-        "Cloud component likely needed",
-        "Enhancing Siri's capabilities"
+        "Google focuses on cost management",
+        "AI landscape evolving rapidly",
+        "Competitive edge in AI market"
       ],
-      "impact": "Apple aims to boost Siri's performance with advanced AI.",
-      "id": "3a34d93dcb2b597bd6b16c42b9b68579"
+      "impact": "This strategy could reshape AI pricing.",
+      "id": "f9240107b96144783003e18b188c6c42"
     },
     {
-      "title": "Flipper One vs. Flipper Zero Comparison",
-      "description": "The Flipper One is compared to the established Flipper Zero, highlighting differences in availability and features as expectations rise.",
-      "category": "Hardware",
-      "source": "PCMag.com",
-      "url": "https://www.pcmag.com/comparisons/flipper-one-vs-flipper-zero-how-does-the-199-pocket-tool-stack-up-against",
-      "image": "https://i.pcmag.com/imagery/comparisons/328.fit_lim.size_1200x630.v1779909419.png",
-      "published_at": "2026-05-28T14:03:10Z",
+      "title": "Rockstar Games Announces Workers Union",
+      "description": "Rockstar Games developers have formed the Rockstar Game Workers Union, aiming to improve working conditions and representation. A significant step for the industry.",
+      "category": "Business",
+      "source": "Gamedeveloper.com",
+      "url": "https://www.gamedeveloper.com/business/the-rockstar-game-workers-union-breaks-cover",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt58c4bed05eaa33eb/6a18562d7f1d27d9790dbff2/Lucia_Caminos_01.jpg?disable=upscale&width=1200&height=630&fit=crop",
+      "published_at": "2026-05-29T00:58:26Z",
       "key_points": [
-        "Comparing two pocket tools",
-        "Flipper One expectations high",
-        "Flipper Zero well established"
+        "Rockstar forms workers union",
+        "Focus on better working conditions",
+        "Industry representation improves"
       ],
-      "impact": "Consumers weigh options between two innovative devices.",
-      "id": "0c8a80ec0a5837fda0aa32e983247aba"
+      "impact": "This could inspire other studios to follow.",
+      "id": "1087c1eeeb8704539695aa78b77fd59f"
     },
     {
-      "title": "Xbox Deals Unlocked Sale 2026 Now Live",
-      "description": "The Xbox Deals Unlocked Sale 2026 has begun, offering significant discounts on various DLC packs for gamers.",
+      "title": "T-Mobile Users Warned About T-Life App",
+      "description": "T-Mobile users are advised to delete the T-Life app following serious allegations. Users should prioritize their data security.",
+      "category": "Security",
+      "source": "PhoneArena",
+      "url": "https://www.phonearena.com/news/T-Mobile-users-will-want-to-delete-T-Life-after-this-scary-allegation_id180721",
+      "image": "",
+      "published_at": "2026-05-28T22:57:25Z",
+      "key_points": [
+        "T-Mobile users advised to delete app",
+        "Serious allegations raised",
+        "Data security concerns highlighted"
+      ],
+      "impact": "User safety is now at risk.",
+      "id": "6e29c5d35a037beb56eafd5718eecb66"
+    },
+    {
+      "title": "Dead by Daylight's 10th Anniversary Party Approaches",
+      "description": "Dead by Daylight's 10th Anniversary Party on June 14 promises to be the biggest event yet, featuring panels and live broadcasts. Fans are eagerly anticipating the celebration.",
       "category": "Software",
-      "source": "TrueAchievements",
-      "url": "https://www.trueachievements.com/news/xbox-deals-unlocked-sale-2026-dlc",
-      "image": "https://www.trueachievements.com/imgs/175428/xbox-deals-unlocked-sale-2026--dlc.jpg",
-      "published_at": "2026-05-28T08:38:13Z",
+      "source": "Dead by Daylight",
+      "url": "https://deadbydaylight.com/news/dbd-anniversary-party-is-almost-here/",
+      "image": "https://assets.deadbydaylight.com/10th_YR_Key_Art_Horizontal_1080x1920_f499973e7b.jpg",
+      "published_at": "2026-05-28T22:09:42Z",
       "key_points": [
-        "Massive DLC discounts available",
-        "Sale officially underway",
-        "Great deals for gamers"
+        "10th Anniversary Party on June 14",
+        "Biggest event planned",
+        "Panels and live broadcasts included"
       ],
-      "impact": "Gamers can save big during the Xbox sale.",
-      "id": "be7b478b29b72e4badbfe5ee9533cf6f"
+      "impact": "This event will celebrate a decade of success.",
+      "id": "400c4050542f066d36b55e459a57e891"
     },
     {
-      "title": "The Barrelhand Monolith: A New Tool Watch",
-      "description": "The Barrelhand Monolith, a tool watch developed over six years, is designed for the next space age, combining durability and functionality.",
-      "category": "Startups",
-      "source": "HODINKEE",
-      "url": "https://www.hodinkee.com/articles/the-barrelhand-monolith-has-landed",
-      "image": "https://hodinkee.imgix.net/uploads/images/d5a4aafd-1316-4c4c-b8dd-6137f22e3007/barrelhand-monolith-2026-hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
-      "published_at": "2026-05-28T08:00:00Z",
+      "title": "New Space Watch Designed for Future Travel",
+      "description": "Barrelhand introduces the Monolith, a watch developed for the next generation of space travel. This innovative design aims to meet unique challenges.",
+      "category": "Hardware",
+      "source": "Gear Patrol",
+      "url": "https://www.gearpatrol.com/watches/barrelhand-monolith/",
+      "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/05/barrelhand-monolith-lead.webp",
+      "published_at": "2026-05-28T21:10:09Z",
       "key_points": [
-        "Developed over six years",
-        "Designed for space age",
-        "Durable and functional"
+        "New space watch unveiled",
+        "Designed for future travel",
+        "Innovative features included"
       ],
-      "impact": "The Monolith sets a new standard for tool watches.",
-      "id": "d4843bbb23127ac48195cec055dda4ca"
+      "impact": "This could revolutionize space gear.",
+      "id": "875d08f0ad3386f77d85b2f54fb36ce9"
+    },
+    {
+      "title": "Fallout 76: Infestations Promises Co-Op Chaos",
+      "description": "Bethesda reveals Fallout 76: Infestations will enhance co-op gameplay with dynamic challenges and faction bosses. Players can expect thrilling new experiences.",
+      "category": "Software",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/fallout-76-infestations-emergent-co-op-chaos-map-sizzle/",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/FO76IN_Infestations_keyart_banner-HD-1920x1080.jpeg",
+      "published_at": "2026-05-28T19:00:00Z",
+      "key_points": [
+        "New update enhances co-op gameplay",
+        "Dynamic challenges introduced",
+        "Faction bosses to hunt"
+      ],
+      "impact": "This update could revitalize player engagement.",
+      "id": "da9ec3269711e6f2f284deae33404820"
+    },
+    {
+      "title": "Call of Duty: Warzone Ends Support for Older Consoles",
+      "description": "Call of Duty: Warzone will discontinue support for PS4 and Xbox One, urging players to upgrade to newer consoles for continued play. A significant shift in gaming.",
+      "category": "Software",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/939043/call-of-duty-warzone-ps4-xbox-one-end-of-support",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/warzone.jpg?quality=90&strip=all&crop=0%2C7.8694215383805%2C100%2C84.261156923239&w=1200",
+      "published_at": "2026-05-28T16:05:42Z",
+      "key_points": [
+        "Warzone drops PS4 and Xbox One",
+        "Players urged to upgrade",
+        "Significant shift in gaming support"
+      ],
+      "impact": "This may affect a large player base.",
+      "id": "2f6730dc8255f354f571c53588f28e0a"
+    },
+    {
+      "title": "Dragon Quest 12 Protagonist Sparks Fan Theories",
+      "description": "Fans speculate about Dragon Quest 12's protagonist, suggesting deeper layers to his seemingly bland appearance. The game's reboot adds intrigue.",
+      "category": "Software",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/whats-going-on-with-dragon-quest-12-protagonist-2000700186",
+      "image": "https://kotaku.com/app/uploads/2026/05/Update-from-the-DRAGON-QUEST-Team-5-0-screenshot-1200x675.jpg",
+      "published_at": "2026-05-28T16:03:16Z",
+      "key_points": [
+        "Protagonist's design sparks theories",
+        "Game reboot adds intrigue",
+        "Fans eager for more details"
+      ],
+      "impact": "This could enhance player engagement.",
+      "id": "874f344d32a6015873c17bd0eb2c123b"
     }
   ]
 }
