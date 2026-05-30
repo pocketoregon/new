@@ -1,6 +1,93 @@
 {
   "batches": [
     {
+      "id": "2026-05-30T06:48:30.651515+00:00",
+      "fetched_at": "2026-05-30T06:48:30.651515+00:00",
+      "label": "May 30, 2026 — 06:48 AM UTC",
+      "articles": [
+        {
+          "title": "Witcher 3 Expansion Delayed to 2027",
+          "description": "CD Projekt Red confirms Witcher 3 expansion Songs of the Past was initially set for 2026 but is now postponed to 2027 for quality reasons.",
+          "category": "Software",
+          "source": "Eurogamer.net",
+          "url": "https://www.eurogamer.net/witcher-3-expansion-songs-of-the-past-release-date-details",
+          "image": "https://assetsio.gnwcdn.com/the-witcher-3-10-years-piece.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-05-28T18:17:02Z",
+          "key_points": [
+            "Expansion delayed to 2027",
+            "Quality over speed",
+            "Rumors confirmed"
+          ],
+          "impact": "Fans must wait longer for the expansion.",
+          "id": "dcb7c5b02abbe5b2700ec4ad230a725e"
+        },
+        {
+          "title": "Subnautica 2 Set for $250 Million Bonus",
+          "description": "Subnautica 2 has achieved record sales, triggering a potential $250 million bonus for its developers at Unknown Worlds, now part of Krafton.",
+          "category": "Business",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/subnautica-2-devs-will-probably-get-that-250-million-payout-kraftons-ceo-tried-to-avoid-by-asking-chatgpt-for-help-2000700166",
+          "image": "https://kotaku.com/app/uploads/2025/07/c6fe2ac031e2e4dc16c414acdd1c7662-1200x675.jpg",
+          "published_at": "2026-05-28T12:54:22Z",
+          "key_points": [
+            "Subnautica 2 sells millions",
+            "Developers eye $250 million",
+            "Krafton acquisition benefits studio"
+          ],
+          "impact": "Record sales lead to significant developer bonuses.",
+          "id": "c9e3202e2e28f9b6f62a722ff40f1bdc"
+        },
+        {
+          "title": "Persona 6 Character Designs Leak Online",
+          "description": "Leaked designs for Persona 6 reveal character details, but the revival of Persona 4 may delay further announcements.",
+          "category": "Startups",
+          "source": "Wccftech",
+          "url": "https://wccftech.com/persona-6-leaked-character-designs/",
+          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/Persona-6-Character-Design-Leak.jpg",
+          "published_at": "2026-05-28T10:17:00Z",
+          "key_points": [
+            "Persona 6 designs leaked",
+            "Protagonist details revealed",
+            "Persona 4 revival may delay"
+          ],
+          "impact": "Fans await more news amid leaks.",
+          "id": "93eaed20f076c8e17a9b8d6b743eb0b6"
+        },
+        {
+          "title": "Websites Can Now Spy via SSD Activity",
+          "description": "New methods allow websites to track users by analyzing SSD activity through JavaScript, raising privacy concerns.",
+          "category": "Security",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/solid-state-drive-ssd-1152x648.jpg",
+          "published_at": "2026-05-27T20:56:03Z",
+          "key_points": [
+            "Websites track SSD activity",
+            "Privacy risks increase",
+            "JavaScript used for spying"
+          ],
+          "impact": "New tracking methods threaten user privacy.",
+          "id": "67cc0679fbf0bac90b21a3957e964af0"
+        },
+        {
+          "title": "Marathon Season 2 Introduces Survival Horror",
+          "description": "Marathon's Season 2 launches June 2, featuring a new survival horror theme and a free trial from June 2-9.",
+          "category": "Software",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/marathon-is-embracing-survival-horror-in-season-2-and-you-can-try-it-for-free/",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Marathon-Season-2-Details-And-Free-Week.jpg",
+          "published_at": "2026-05-27T19:33:01Z",
+          "key_points": [
+            "Season 2 starts June 2",
+            "Free trial available",
+            "New horror-themed gameplay"
+          ],
+          "impact": "Players can explore new horror elements for free.",
+          "id": "fe8bf2b8a19ebb9385065d7a94c0b41d"
+        }
+      ]
+    },
+    {
       "id": "2026-05-30T03:40:19.490563+00:00",
       "fetched_at": "2026-05-30T03:40:19.490563+00:00",
       "label": "May 30, 2026 — 03:40 AM UTC",
