@@ -1,6 +1,157 @@
 {
   "batches": [
     {
+      "id": "2026-05-30T11:22:43.971141+00:00",
+      "fetched_at": "2026-05-30T11:22:43.971141+00:00",
+      "label": "May 30, 2026 — 11:23 AM UTC",
+      "articles": [
+        {
+          "title": "Ancient Killer Is Rapidly Gaining Resistance to Antibiotics, Study Warns",
+          "description": "A study reveals that Salmonella Typhi is developing antibiotic resistance, posing a renewed threat. This ancient pathogen remains dangerous, especially in developing regions.",
+          "category": "Science",
+          "source": "ScienceAlert",
+          "url": "https://www.sciencealert.com/ancient-killer-is-rapidly-gaining-resistance-to-antibiotics-study-warns",
+          "image": "https://www.sciencealert.com/images/2025/11/SalmonellaTyphiFlagellarStain-1.jpg",
+          "published_at": "2026-05-29T00:16:59Z",
+          "key_points": [
+            "Salmonella Typhi resistance rising",
+            "Threat in developing countries",
+            "Urgent action needed"
+          ],
+          "impact": "Increased resistance could lead to public health crises.",
+          "id": "f7f6c1b66941dc82b67ca801a8e44bd6"
+        },
+        {
+          "title": "The Chrome browser is getting a big safety upgrade — if you use Windows",
+          "description": "Google's Chrome introduces Device Bound Session Credentials, enhancing security against cookie theft. This feature is now available for Windows users.",
+          "category": "Software",
+          "source": "Android Authority",
+          "url": "https://www.androidauthority.com/chrome-browser-dbsc-3672363/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2024/05/Google-or-Google-Search-logo-on-Chromebook-laptop-stock-photo-1.jpg",
+          "published_at": "2026-05-28T20:47:28Z",
+          "key_points": [
+            "New security feature for Chrome",
+            "Protects against cookie theft",
+            "Available for Windows users"
+          ],
+          "impact": "Improved security enhances user trust in Chrome.",
+          "id": "83e9031cdbb6085a07424cc39ea01564"
+        },
+        {
+          "title": "Amex Platinum Cardholders Can Save $200 on the New, Slimmer Oura Ring",
+          "description": "Oura's new Ring 5 is 40% smaller and offers a $200 discount for Amex Platinum cardholders. The updated design includes enhanced durability features.",
+          "category": "Startups",
+          "source": "Upgraded Points",
+          "url": "https://upgradedpoints.com/news/new-slimmer-oura-ring-5/",
+          "image": "https://upgradedpoints.com/wp-content/uploads/2026/05/Oura-Ring-5-1.png",
+          "published_at": "2026-05-28T17:53:34Z",
+          "key_points": [
+            "New Oura Ring 5 launched",
+            "40% smaller design",
+            "$200 discount for Amex users"
+          ],
+          "impact": "Increased accessibility for health-conscious consumers.",
+          "id": "cd1deb5e87a3d0f3b9ca00589d797a2c"
+        },
+        {
+          "title": "Proton Mail just made ditching Gmail way less painful",
+          "description": "Proton Mail now allows users to import Gmail messages, enhancing privacy and ease of transition. This feature strips ads and trackers from imported emails.",
+          "category": "Software",
+          "source": "MakeUseOf",
+          "url": "https://www.makeuseof.com/proton-mail-just-made-ditching-gmail-way-less-painful/",
+          "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/08/proton-mail-vs-gmail-featured.JPG?w=1600&h=900&fit=crop",
+          "published_at": "2026-05-28T16:03:39Z",
+          "key_points": [
+            "Easier Gmail transition",
+            "Strips ads and trackers",
+            "Enhances user privacy"
+          ],
+          "impact": "Encourages users to switch to Proton Mail.",
+          "id": "fd19fac0acc2218f463bcc334effd3c4"
+        },
+        {
+          "title": "Raid Boss 2 now available",
+          "description": "Borderlands 4 introduces Raid Boss 2: Subjugator and Thol the Invincible in its Version 1.7 update. This dual-boss fight is free for all players.",
+          "category": "Software",
+          "source": "2k.com",
+          "url": "https://borderlands.2k.com/borderlands-4/news/subjugator-and-thol-out-now/",
+          "image": "https://assets.2k.com/1a6ngf98576c/4zXpfbA9xO397sI262TrDm/6bbefd7d76850e74bcfda880dd76cf10/BL4_KA.png",
+          "published_at": "2026-05-28T15:53:37Z",
+          "key_points": [
+            "New Raid Boss 2 released",
+            "Free for all players",
+            "Version 1.7 update available"
+          ],
+          "impact": "Enhances gameplay experience for Borderlands fans.",
+          "id": "9a3bd9ca0b30db1a106aa35608e08e1e"
+        },
+        {
+          "title": "9 Of The Best Features Added To Spotify In 2026 (So Far)",
+          "description": "Spotify introduces new features enhancing user experience, including a Taste Profile for personalized recommendations. These updates aim to improve music discovery.",
+          "category": "Software",
+          "source": "BGR",
+          "url": "https://www.bgr.com/2179163/best-features-added-to-spotify-in-2026/",
+          "image": "https://www.bgr.com/img/gallery/9-of-the-best-features-added-to-spotify-in-2026-so-far/l-intro-1779357222.jpg",
+          "published_at": "2026-05-28T14:02:00Z",
+          "key_points": [
+            "New features enhance user experience",
+            "Taste Profile for recommendations",
+            "Improves music discovery"
+          ],
+          "impact": "Boosts user engagement on Spotify.",
+          "id": "3765c2314fd044940f85d3519fd62ec5"
+        },
+        {
+          "title": "Krafton have reportedly agreed to pay Subnautica 2's devs that $250 million bonus, following strong early sales",
+          "description": "Krafton is set to pay a $250 million bonus to Unknown Worlds, the developers of Subnautica 2, following successful early sales. This resolves previous legal disputes.",
+          "category": "Business",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/krafton-have-reportedly-agreed-to-pay-subnautica-2s-devs-that-250-million-bonus-following-strong-early-sales",
+          "image": "https://assetsio.gnwcdn.com/subnautica-2-reportedly-triggers-earnout-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-05-28T10:29:05Z",
+          "key_points": [
+            "Krafton pays $250 million bonus",
+            "Strong early sales trigger payment",
+            "Legal disputes resolved"
+          ],
+          "impact": "Strengthens developer-publisher relationships.",
+          "id": "63cefc9468ae58ec54230e2cb1be0e28"
+        },
+        {
+          "title": "The Google Fitbit Air's 'one size fit' does not fit all",
+          "description": "Concerns arise over the Fitbit Air's 'one size fits all' design, which some users find uncomfortable. Feedback highlights sizing issues for smaller wrists.",
+          "category": "Hardware",
+          "source": "Android Authority",
+          "url": "https://www.androidauthority.com/fitbit-air-one-size-band-3671949/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Fitbit-Air-Elevated-Modern-Band-2-scaled.jpg",
+          "published_at": "2026-05-28T08:36:28Z",
+          "key_points": [
+            "Fitbit Air sizing issues reported",
+            "Not suitable for smaller wrists",
+            "User feedback highlights discomfort"
+          ],
+          "impact": "Calls for improved product design from Fitbit.",
+          "id": "80fa44c391fa0de5a3f9447781da5fc5"
+        },
+        {
+          "title": "Dragon Quest 40th anniversary event reveals DQ12 restart with new title, DQ11 Switch 2 port, and the return of Dragon Quest Monsters series",
+          "description": "Square Enix announces updates for Dragon Quest during its 40th anniversary, including a restart of DQ12 and a Switch 2 port of DQ11. The Monsters series is also returning.",
+          "category": "Software",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/dragon-quest-12-beyond-dreams-revealed",
+          "image": "https://assetsio.gnwcdn.com/DQ12_reboot_footage.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-05-27T15:49:30Z",
+          "key_points": [
+            "DQ12 restarts with new title",
+            "DQ11 port for Switch 2",
+            "Return of Dragon Quest Monsters"
+          ],
+          "impact": "Excites fans for upcoming Dragon Quest releases.",
+          "id": "9f90698cb3b2cdec0a3a5c424d5560d6"
+        }
+      ]
+    },
+    {
       "id": "2026-05-30T09:21:01.530819+00:00",
       "fetched_at": "2026-05-30T09:21:01.530819+00:00",
       "label": "May 30, 2026 — 09:21 AM UTC",

@@ -1,165 +1,149 @@
 {
-  "generated_at": "2026-05-30T09:21:01.530819+00:00",
+  "generated_at": "2026-05-30T11:22:43.971141+00:00",
   "articles": [
     {
-      "title": "FBI Warns of New Phishing Scheme Targeting Microsoft Users",
-      "description": "The FBI alerts Microsoft Teams, Outlook, and OneDrive users about a new phishing scheme. Users are urged to remain vigilant against suspicious communications.",
-      "category": "Security",
-      "source": "Inc.",
-      "url": "https://www.inc.com/amaya-nichole/fbi-just-issued-urgent-warning-anyone-using-microsoft-over-new-phishing-scheme/91351360",
-      "image": "",
-      "published_at": "2026-05-28T20:34:33Z",
+      "title": "Ancient Killer Is Rapidly Gaining Resistance to Antibiotics, Study Warns",
+      "description": "A study reveals that Salmonella Typhi is developing antibiotic resistance, posing a renewed threat. This ancient pathogen remains dangerous, especially in developing regions.",
+      "category": "Science",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/ancient-killer-is-rapidly-gaining-resistance-to-antibiotics-study-warns",
+      "image": "https://www.sciencealert.com/images/2025/11/SalmonellaTyphiFlagellarStain-1.jpg",
+      "published_at": "2026-05-29T00:16:59Z",
       "key_points": [
-        "New phishing scheme detected",
-        "Targets Microsoft services",
-        "Users advised to stay alert"
+        "Salmonella Typhi resistance rising",
+        "Threat in developing countries",
+        "Urgent action needed"
       ],
-      "impact": "Increased vigilance is essential for Microsoft users.",
-      "id": "04a5d0a8289a1ca021782c32e269958a"
+      "impact": "Increased resistance could lead to public health crises.",
+      "id": "f7f6c1b66941dc82b67ca801a8e44bd6"
     },
     {
-      "title": "Asha Sharma Updates on Xbox Progress for 2026",
-      "description": "Xbox CEO Asha Sharma discusses ongoing improvements and challenges for Xbox in 2026. The focus remains on building a stronger gaming platform.",
-      "category": "Business",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/05/we-are-building-a-stronger-xbox-asha-sharma-updates-employees-on-progress-in-2026",
-      "image": "https://images.purexbox.com/25641009dfbd8/large.jpg",
-      "published_at": "2026-05-28T20:26:00Z",
-      "key_points": [
-        "Xbox improvements underway",
-        "Challenges still ahead",
-        "Focus on stronger platform"
-      ],
-      "impact": "Xbox aims for significant enhancements this year.",
-      "id": "932b8d457eb59727e9c0efe8d493073f"
-    },
-    {
-      "title": "Microsoft Faces Threat from Disgruntled 0-Day Hunter",
-      "description": "A disgruntled 0-day hunter threatens to release exploits against Microsoft. The situation escalates as Microsoft involves law enforcement.",
-      "category": "Security",
-      "source": "Theregister.com",
-      "url": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
-      "image": "https://image.theregister.com/254471.jpg?imageId=254471&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "published_at": "2026-05-28T20:19:09Z",
-      "key_points": [
-        "0-day threats escalate",
-        "Microsoft calls police",
-        "Researcher vows major release"
-      ],
-      "impact": "Microsoft's security is under serious threat.",
-      "id": "a9e1e513bc36a51b5f6d483ef89c9f1a"
-    },
-    {
-      "title": "Apple Releases Public Betas for iOS and macOS",
-      "description": "Apple has launched the first public betas of iOS 26.6 and macOS Tahoe 26.6. Users can now test new features ahead of official releases.",
+      "title": "The Chrome browser is getting a big safety upgrade — if you use Windows",
+      "description": "Google's Chrome introduces Device Bound Session Credentials, enhancing security against cookie theft. This feature is now available for Windows users.",
       "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/05/28/apple-seeds-ios-26-6-public-beta-1/",
-      "image": "https://images.macrumors.com/t/RzJYGwPST2fim75_lRKrQt8RKw8=/2500x/article-new/2026/05/iOS-26.6-Glass-Feature.jpg",
-      "published_at": "2026-05-28T17:46:02Z",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/chrome-browser-dbsc-3672363/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2024/05/Google-or-Google-Search-logo-on-Chromebook-laptop-stock-photo-1.jpg",
+      "published_at": "2026-05-28T20:47:28Z",
       "key_points": [
-        "Public betas for iOS 26.6",
-        "Includes macOS Tahoe 26.6",
-        "Users can test new features"
+        "New security feature for Chrome",
+        "Protects against cookie theft",
+        "Available for Windows users"
       ],
-      "impact": "Apple engages users with early software access.",
-      "id": "c4922824553657c01351c4f9d46c9da5"
+      "impact": "Improved security enhances user trust in Chrome.",
+      "id": "83e9031cdbb6085a07424cc39ea01564"
     },
     {
-      "title": "Critical Gogs Vulnerability Allows Code Execution",
-      "description": "A critical RCE vulnerability in Gogs enables authenticated users to execute arbitrary code. Over 1,000 instances are exposed.",
-      "category": "Security",
-      "source": "Internet",
-      "url": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaqRd_3DDSSASg_YzvuUEqv3elhvFWSjk56bXPoqJeNIWVo-K0giuJ3TNEXV-aYpnuVfOv00_VM428vIFVaMiuZzfL0dQdQvz0_xMNFq4CtrppgTZu5dupV0asq1wZjPW3FoMgUnyGMR_RgBpWT2oTnJFuhaldo3Cd3eNP-MOlDNhP9Uu2KDRiDpYHdoeq/s1600/exploit-meta.jpg",
-      "published_at": "2026-05-28T17:24:00Z",
-      "key_points": [
-        "Critical RCE vulnerability found",
-        "Affects Gogs Git service",
-        "Over 1,000 instances exposed"
-      ],
-      "impact": "Immediate action is required to secure Gogs instances.",
-      "id": "270c3a23c29ea48407c6284c163b5db6"
-    },
-    {
-      "title": "Intel Launches Arc G3 CPUs for Handheld Gaming",
-      "description": "Intel officially announces the Arc G3 CPU family, optimized for handheld gaming PCs. The series features powerful integrated graphics.",
-      "category": "Hardware",
-      "source": "Techpowerup.com",
-      "url": "https://www.techpowerup.com/349450/intel-arc-g3-cpu-family-officially-released-for-handheld-gaming-pcs",
-      "image": "https://www.techpowerup.com/img/EXkLNvywlnLdqqMN.jpg",
-      "published_at": "2026-05-28T16:06:42Z",
-      "key_points": [
-        "Arc G3 CPUs released",
-        "Designed for handheld gaming",
-        "Features powerful integrated graphics"
-      ],
-      "impact": "Intel targets the growing handheld gaming market.",
-      "id": "e3eef694f9d99dc7dd6b424ed4732882"
-    },
-    {
-      "title": "Steam Deck Price Hike Raises Concerns",
-      "description": "Valve announces a significant price increase for the Steam Deck, raising costs by $240 to $300. This raises doubts about the upcoming Steam Frame VR headset.",
-      "category": "Business",
-      "source": "Road to VR",
-      "url": "https://roadtovr.com/steam-decks-price-hike-steam-frame-speculation/",
-      "image": "https://roadtovr.com/wp-content/uploads/2026/04/steam-frame-machine-controller.jpg",
-      "published_at": "2026-05-28T14:49:47Z",
-      "key_points": [
-        "Steam Deck price increased",
-        "Concerns for Steam Frame VR",
-        "Price hike by $240 to $300"
-      ],
-      "impact": "Valve's pricing strategy raises market concerns.",
-      "id": "c329e65f36f1ea90f5937e2bae7ecd3c"
-    },
-    {
-      "title": "Qualcomm Launches Snapdragon C for Budget Windows 11 Devices",
-      "description": "Qualcomm introduces the Snapdragon C SoC aimed at affordable Windows 11 devices, expected to retail around $300. This targets budget-conscious consumers.",
-      "category": "Hardware",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/hardware/qualcomm/qualcomm-snapdragon-c-is-official-and-its-taking-aim-at-macbook-neo-and-chromebooks-new-low-end-arm-chip-brings-all-day-battery-life-to-usd300-windows-11-devices",
-      "image": "https://cdn.mos.cms.futurecdn.net/NYc7GhLbxP2nr8itWy9HMV-2560-80.png",
-      "published_at": "2026-05-28T13:00:00Z",
-      "key_points": [
-        "Snapdragon C SoC unveiled",
-        "Targets budget Windows 11 devices",
-        "Expected price around $300"
-      ],
-      "impact": "Qualcomm aims to capture budget market share.",
-      "id": "f385f202b72bf73a104e3069596e088f"
-    },
-    {
-      "title": "Donkey Kong 64 Coming to Nintendo Switch Online",
-      "description": "Nintendo confirms that Donkey Kong 64 will be available on Switch Online starting June 4. Fans can enjoy the classic platformer soon.",
+      "title": "Amex Platinum Cardholders Can Save $200 on the New, Slimmer Oura Ring",
+      "description": "Oura's new Ring 5 is 40% smaller and offers a $200 discount for Amex Platinum cardholders. The updated design includes enhanced durability features.",
       "category": "Startups",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/donkey-kong-64-confirmed-for-nintendo-switch-online",
-      "image": "https://assets-prd.ignimgs.com/2026/05/28/donkey-kong-64-button-fin-1560099410344-1779958218281.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-05-28T08:57:51Z",
+      "source": "Upgraded Points",
+      "url": "https://upgradedpoints.com/news/new-slimmer-oura-ring-5/",
+      "image": "https://upgradedpoints.com/wp-content/uploads/2026/05/Oura-Ring-5-1.png",
+      "published_at": "2026-05-28T17:53:34Z",
       "key_points": [
-        "Donkey Kong 64 confirmed",
-        "Available on Switch Online",
-        "Launch date is June 4"
+        "New Oura Ring 5 launched",
+        "40% smaller design",
+        "$200 discount for Amex users"
       ],
-      "impact": "Nintendo enhances Switch Online with classics.",
-      "id": "cddeb3cccc1754b9369f67ef466b88e3"
+      "impact": "Increased accessibility for health-conscious consumers.",
+      "id": "cd1deb5e87a3d0f3b9ca00589d797a2c"
     },
     {
-      "title": "Xbox Deals Unlocked Sale 2026 Offers Major Discounts",
-      "description": "The Xbox Deals Unlocked Sale 2026 is live, featuring over 2,000 discounts on popular Xbox games. Gamers can save significantly on their favorites.",
-      "category": "Business",
-      "source": "TrueAchievements",
-      "url": "https://www.trueachievements.com/news/xbox-deals-unlocked-sale-2026",
-      "image": "https://www.trueachievements.com/imgs/175426/xbox-deals-unlocked-sale-2026.jpg",
-      "published_at": "2026-05-28T08:38:13Z",
+      "title": "Proton Mail just made ditching Gmail way less painful",
+      "description": "Proton Mail now allows users to import Gmail messages, enhancing privacy and ease of transition. This feature strips ads and trackers from imported emails.",
+      "category": "Software",
+      "source": "MakeUseOf",
+      "url": "https://www.makeuseof.com/proton-mail-just-made-ditching-gmail-way-less-painful/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/08/proton-mail-vs-gmail-featured.JPG?w=1600&h=900&fit=crop",
+      "published_at": "2026-05-28T16:03:39Z",
       "key_points": [
-        "Massive Xbox sale launched",
-        "Over 2,000 discounts available",
-        "Great savings on popular games"
+        "Easier Gmail transition",
+        "Strips ads and trackers",
+        "Enhances user privacy"
       ],
-      "impact": "Gamers can take advantage of significant savings.",
-      "id": "1ed7d9888cfa6687d9f7f091fb11c0fa"
+      "impact": "Encourages users to switch to Proton Mail.",
+      "id": "fd19fac0acc2218f463bcc334effd3c4"
+    },
+    {
+      "title": "Raid Boss 2 now available",
+      "description": "Borderlands 4 introduces Raid Boss 2: Subjugator and Thol the Invincible in its Version 1.7 update. This dual-boss fight is free for all players.",
+      "category": "Software",
+      "source": "2k.com",
+      "url": "https://borderlands.2k.com/borderlands-4/news/subjugator-and-thol-out-now/",
+      "image": "https://assets.2k.com/1a6ngf98576c/4zXpfbA9xO397sI262TrDm/6bbefd7d76850e74bcfda880dd76cf10/BL4_KA.png",
+      "published_at": "2026-05-28T15:53:37Z",
+      "key_points": [
+        "New Raid Boss 2 released",
+        "Free for all players",
+        "Version 1.7 update available"
+      ],
+      "impact": "Enhances gameplay experience for Borderlands fans.",
+      "id": "9a3bd9ca0b30db1a106aa35608e08e1e"
+    },
+    {
+      "title": "9 Of The Best Features Added To Spotify In 2026 (So Far)",
+      "description": "Spotify introduces new features enhancing user experience, including a Taste Profile for personalized recommendations. These updates aim to improve music discovery.",
+      "category": "Software",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2179163/best-features-added-to-spotify-in-2026/",
+      "image": "https://www.bgr.com/img/gallery/9-of-the-best-features-added-to-spotify-in-2026-so-far/l-intro-1779357222.jpg",
+      "published_at": "2026-05-28T14:02:00Z",
+      "key_points": [
+        "New features enhance user experience",
+        "Taste Profile for recommendations",
+        "Improves music discovery"
+      ],
+      "impact": "Boosts user engagement on Spotify.",
+      "id": "3765c2314fd044940f85d3519fd62ec5"
+    },
+    {
+      "title": "Krafton have reportedly agreed to pay Subnautica 2's devs that $250 million bonus, following strong early sales",
+      "description": "Krafton is set to pay a $250 million bonus to Unknown Worlds, the developers of Subnautica 2, following successful early sales. This resolves previous legal disputes.",
+      "category": "Business",
+      "source": "Rock Paper Shotgun",
+      "url": "https://www.rockpapershotgun.com/krafton-have-reportedly-agreed-to-pay-subnautica-2s-devs-that-250-million-bonus-following-strong-early-sales",
+      "image": "https://assetsio.gnwcdn.com/subnautica-2-reportedly-triggers-earnout-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-05-28T10:29:05Z",
+      "key_points": [
+        "Krafton pays $250 million bonus",
+        "Strong early sales trigger payment",
+        "Legal disputes resolved"
+      ],
+      "impact": "Strengthens developer-publisher relationships.",
+      "id": "63cefc9468ae58ec54230e2cb1be0e28"
+    },
+    {
+      "title": "The Google Fitbit Air's 'one size fit' does not fit all",
+      "description": "Concerns arise over the Fitbit Air's 'one size fits all' design, which some users find uncomfortable. Feedback highlights sizing issues for smaller wrists.",
+      "category": "Hardware",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/fitbit-air-one-size-band-3671949/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Fitbit-Air-Elevated-Modern-Band-2-scaled.jpg",
+      "published_at": "2026-05-28T08:36:28Z",
+      "key_points": [
+        "Fitbit Air sizing issues reported",
+        "Not suitable for smaller wrists",
+        "User feedback highlights discomfort"
+      ],
+      "impact": "Calls for improved product design from Fitbit.",
+      "id": "80fa44c391fa0de5a3f9447781da5fc5"
+    },
+    {
+      "title": "Dragon Quest 40th anniversary event reveals DQ12 restart with new title, DQ11 Switch 2 port, and the return of Dragon Quest Monsters series",
+      "description": "Square Enix announces updates for Dragon Quest during its 40th anniversary, including a restart of DQ12 and a Switch 2 port of DQ11. The Monsters series is also returning.",
+      "category": "Software",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/dragon-quest-12-beyond-dreams-revealed",
+      "image": "https://assetsio.gnwcdn.com/DQ12_reboot_footage.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-05-27T15:49:30Z",
+      "key_points": [
+        "DQ12 restarts with new title",
+        "DQ11 port for Switch 2",
+        "Return of Dragon Quest Monsters"
+      ],
+      "impact": "Excites fans for upcoming Dragon Quest releases.",
+      "id": "9f90698cb3b2cdec0a3a5c424d5560d6"
     }
   ]
 }
