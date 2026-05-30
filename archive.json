@@ -1,6 +1,269 @@
 {
   "batches": [
     {
+      "id": "2026-05-30T03:40:19.490563+00:00",
+      "fetched_at": "2026-05-30T03:40:19.490563+00:00",
+      "label": "May 30, 2026 — 03:40 AM UTC",
+      "articles": [
+        {
+          "title": "LLMs Trust False Claims Despite Warnings",
+          "description": "Recent tests reveal LLMs confidently assert false statements even when warned. This highlights inherent biases in AI language models.",
+          "category": "AI",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2207567240-1152x648.jpg",
+          "published_at": "2026-05-28T21:29:43Z",
+          "key_points": [
+            "LLMs show bias towards falsehoods",
+            "Warnings do not alter beliefs",
+            "AI reliability remains questionable"
+          ],
+          "impact": "This raises concerns about AI trustworthiness.",
+          "id": "90ac7827a583030ed9f0d833d51abf68"
+        },
+        {
+          "title": "Nintendo Launches Quirky Mobile Game Pictonico",
+          "description": "Nintendo's new mobile game Pictonico blends elements of WarioWare and Tomodachi Life, offering a unique experience on iOS and Android.",
+          "category": "Startups",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/939283/pictonico-nintendo-mobile-game",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/unnamed.png?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
+          "published_at": "2026-05-28T20:16:16Z",
+          "key_points": [
+            "New mobile game Pictonico launched",
+            "Combines WarioWare and Tomodachi Life",
+            "Available on iOS and Android"
+          ],
+          "impact": "Nintendo diversifies its mobile game offerings.",
+          "id": "0e6ee38d5dca9c12eb74b1a3cffaa071"
+        },
+        {
+          "title": "Bloodborne Player Retires After 11 Years",
+          "description": "A dedicated Bloodborne player stops helping others after over a decade, citing dwindling player interest and lack of engagement.",
+          "category": "Startups",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/bloodborne-sicko-who-spent-11-years-helping-people-with-one-boss-is-retiring-because-nobody-is-playing-it-anymore-2000700265",
+          "image": "https://kotaku.com/app/uploads/2024/02/0cb6efbdf3c68375e2e22a73386b49d1-1200x675.jpg",
+          "published_at": "2026-05-28T20:12:48Z",
+          "key_points": [
+            "Player retires after 11 years",
+            "Helped thousands with a boss",
+            "Game's popularity has declined"
+          ],
+          "impact": "Highlights the fading community around Bloodborne.",
+          "id": "ac6f7f3f73526861fd0d5417d454e84c"
+        },
+        {
+          "title": "iPhone 18 Pro vs Ultra: Key Differences",
+          "description": "Explore the main differences between the iPhone 18 Pro and iPhone Ultra, focusing on features that may influence your purchase decision.",
+          "category": "Hardware",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/05/28/iphone-18-pro-vs-iphone-ultra-three-features-to-win-your-upgrade/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-blue-angle-two.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-05-28T19:59:00Z",
+          "key_points": [
+            "iPhone 18 Pro vs Ultra comparison",
+            "Focus on key feature differences",
+            "Price not included in analysis"
+          ],
+          "impact": "Helps consumers make informed upgrade choices.",
+          "id": "77b8027067c180a95de20ecfe7c229d1"
+        },
+        {
+          "title": "Immortal Snail Chases Cursor in New Game",
+          "description": "A humorous thought experiment comes to life as players navigate a game where an immortal snail relentlessly pursues their mouse cursor.",
+          "category": "Software",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/help-an-immortal-snail-is-chasing-my-mouse-cursor-2000690963",
+          "image": "https://kotaku.com/app/uploads/2026/05/donttouchsnail.jpg",
+          "published_at": "2026-05-28T17:00:43Z",
+          "key_points": [
+            "Immortal snail game concept",
+            "Chases mouse cursor relentlessly",
+            "Humorous take on thought experiments"
+          ],
+          "impact": "Adds a quirky twist to gaming experiences.",
+          "id": "042b1cca2b94c95c5c392b3ad25ee794"
+        },
+        {
+          "title": "StarCraft II Patch 5.0.16 Released",
+          "description": "The new StarCraft II patch introduces economy and balance changes, along with various bug fixes to enhance gameplay.",
+          "category": "Software",
+          "source": "Blizzard.com",
+          "url": "https://news.blizzard.com/en-us/article/24276667/starcraft-ii-5-0-16-ptr-patch-notes",
+          "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/kd/KD50BBXYHMBR1554829677265.jpg",
+          "published_at": "2026-05-28T17:00:00Z",
+          "key_points": [
+            "Patch 5.0.16 now available",
+            "Focus on economy and balance",
+            "Includes various bug fixes"
+          ],
+          "impact": "Improves competitive gameplay experience.",
+          "id": "b19e9e649f2d714658287d426f2e1a66"
+        },
+        {
+          "title": "MediaTek Confirms Dimensity for Googlebooks",
+          "description": "MediaTek announces its Dimensity processors will power the upcoming Googlebooks, clarifying previous speculations about hardware.",
+          "category": "Hardware",
+          "source": "Chrome Unboxed",
+          "url": "https://chromeunboxed.com/mediatek-confirms-dimensity-processors-will-power-new-googlebooks-not-kompanio/",
+          "image": "https://chromeunboxed.com/wp-content/uploads/2026/05/GooglebookMediaTekDimensityCX.webp",
+          "published_at": "2026-05-28T16:26:45Z",
+          "key_points": [
+            "Dimensity processors for Googlebooks",
+            "Clarifies hardware speculations",
+            "AI-powered laptops confirmed"
+          ],
+          "impact": "Strengthens MediaTek's position in the market.",
+          "id": "55dccd156dcb0e46c133cb5739c948f6"
+        },
+        {
+          "title": "SSL Launches Affordable Audio Interface",
+          "description": "SSL introduces the SSL 1, a budget-friendly audio interface that promises high performance for musicians and producers.",
+          "category": "Hardware",
+          "source": "MusicRadar",
+          "url": "https://www.musicradar.com/artists/sets-an-entirely-new-benchmark-for-portable-affordable-audio-interfaces-ssl-just-released-its-cheapest-audio-interface-yet",
+          "image": "https://cdn.mos.cms.futurecdn.net/KZnadxKNyAr2q2naGctnyd-1200-80.jpg",
+          "published_at": "2026-05-28T15:37:38Z",
+          "key_points": [
+            "New SSL 1 audio interface released",
+            "Affordable and portable design",
+            "Targets musicians and producers"
+          ],
+          "impact": "Makes quality audio accessible to more users.",
+          "id": "e9a99bec4f76bdb8bc8bb2b2d345a185"
+        },
+        {
+          "title": "Spotify Introduces Four New Features",
+          "description": "Spotify rolls out four new music-focused features, including background downloads for iOS users, enhancing the listening experience.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/05/28/spotify-releases-four-music-focused-features-including-background-downloads-on-ios/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/spotify-disco-ball.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-05-28T15:18:00Z",
+          "key_points": [
+            "Four new features launched",
+            "Includes background downloads",
+            "Enhances user experience"
+          ],
+          "impact": "Improves Spotify's competitive edge.",
+          "id": "7076886f9bdc9e65d81084297ef59888"
+        },
+        {
+          "title": "Rivian Claims AI Makes CarPlay Obsolete",
+          "description": "Rivian's software chief argues that their new AI assistant renders the CarPlay debate irrelevant, emphasizing a shift in automotive technology.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/05/28/rivian-says-ai-makes-debate-over-carplay-completely-obsolete/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/carplay-ai-ios181.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-05-28T15:02:00Z",
+          "key_points": [
+            "AI assistant makes CarPlay irrelevant",
+            "Rivian's software chief comments",
+            "Shift in automotive technology"
+          ],
+          "impact": "Revolutionizes in-car technology discussions.",
+          "id": "0a14000b9180f54349197c0231702a27"
+        },
+        {
+          "title": "YouTube Enhances Podcast Features for Premium Users",
+          "description": "YouTube improves its app for podcast playback, but new features are exclusive to Premium subscribers, enhancing their listening experience.",
+          "category": "Software",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/05/28/youtube-podcast-playback-improvements-for-premium-users/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/YouTube-Logo-App-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-05-28T14:50:00Z",
+          "key_points": [
+            "Podcast features for Premium users",
+            "Improves listening experience",
+            "Focus on audio-first content"
+          ],
+          "impact": "Incentivizes subscriptions for enhanced features.",
+          "id": "b45e8692c36d34b98f83e67dae51ccac"
+        },
+        {
+          "title": "Heroes of Might and Magic: Olden Era Roadmap Revealed",
+          "description": "The developers of Heroes of Might and Magic: Olden Era celebrate 1 million copies sold and unveil their early access roadmap.",
+          "category": "Startups",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/heroes-of-might-and-magic-olden-era-roadmap",
+          "image": "https://assetsio.gnwcdn.com/heroes-olden-era-steam-headline-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-05-28T14:33:42Z",
+          "key_points": [
+            "1 million copies sold",
+            "Early access roadmap announced",
+            "Developer celebrates success"
+          ],
+          "impact": "Shows strong interest in the franchise.",
+          "id": "39f7ab68d09342d45aa6693e3c059f0a"
+        },
+        {
+          "title": "Overwatch Expands Lore with New Comic",
+          "description": "Blizzard enhances Overwatch's narrative with a new comic focusing on character relationships, fulfilling long-time fan requests.",
+          "category": "Software",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/overwatch-reinhardt-ana-relationship-romance-lore-comic-2000700188",
+          "image": "https://kotaku.com/app/uploads/2026/05/IMG_3551-1-1200x675.jpg",
+          "published_at": "2026-05-28T14:32:43Z",
+          "key_points": [
+            "New comic expands Overwatch lore",
+            "Focus on character relationships",
+            "Addresses fan requests"
+          ],
+          "impact": "Deepens engagement with the game's narrative.",
+          "id": "9c1d95d398350bceb36e8e6b5f3f6355"
+        },
+        {
+          "title": "GTA 6 Developers Form Union Amid Controversy",
+          "description": "Developers of GTA 6 announce a union to address workplace issues, signaling a significant move in the gaming industry.",
+          "category": "Business",
+          "source": "RockstarINTEL",
+          "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+          "image": "https://rockstarintel.com/wp-content/uploads/2025/05/Lucia_Caminos_01-scaled.jpg",
+          "published_at": "2026-05-28T13:51:45Z",
+          "key_points": [
+            "GTA 6 developers form union",
+            "Address workplace issues",
+            "Significant industry move"
+          ],
+          "impact": "Highlights growing labor movements in gaming.",
+          "id": "b053effb202bf7436486918021deb3cd"
+        },
+        {
+          "title": "Take-Two Boss Comments on Game Development Challenges",
+          "description": "Take-Two's Strauss Zelnick discusses the difficulties of creating successful games, hinting at failures by former Rockstar employees.",
+          "category": "Business",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/take-two-boss-says-former-rockstar-employees-have-tried-to-match-gtas-success-and-failed-and-we-all-know-which-game-hes-talking-about",
+          "image": "https://assets-prd.ignimgs.com/2025/06/05/ss-c161f11c9eb64b673ec976f95383f924991cecb5-1920x1080-1749122336673.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-05-28T12:17:24Z",
+          "key_points": [
+            "Zelnick discusses game development",
+            "Hints at failed projects",
+            "Challenges in creating hits"
+          ],
+          "impact": "Sheds light on industry pressures.",
+          "id": "814afe0dde1f3409485661ddad1b9417"
+        },
+        {
+          "title": "Android Auto Introduces New Swipe Control",
+          "description": "Android Auto enhances user experience with a new swipe control feature, making it easier and safer to switch music apps while driving.",
+          "category": "Software",
+          "source": "Android Police",
+          "url": "https://www.androidpolice.com/android-auto-just-got-an-easy-way/",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/tips-to-use-gemini-in-android-auto-4.jpg?w=1600&h=900&fit=crop",
+          "published_at": "2026-05-28T09:54:33Z",
+          "key_points": [
+            "New swipe control feature",
+            "Easier app switching",
+            "Enhances driving safety"
+          ],
+          "impact": "Improves user safety during commutes.",
+          "id": "96dc41012c61b0dbdcba7a04f56e5fcc"
+        }
+      ]
+    },
+    {
       "id": "2026-05-29T23:16:20.979580+00:00",
       "fetched_at": "2026-05-29T23:16:20.979580+00:00",
       "label": "May 29, 2026 — 11:16 PM UTC",
