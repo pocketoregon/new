@@ -1,87 +1,167 @@
 {
   "date": "2026-05-30",
-  "generated_at": "2026-05-30T06:48:30.651515+00:00",
+  "generated_at": "2026-05-30T09:21:01.530819+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Witcher 3 Expansion Delayed to 2027",
-      "description": "CD Projekt Red confirms Witcher 3 expansion Songs of the Past was initially set for 2026 but is now postponed to 2027 for quality reasons.",
-      "category": "Software",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/witcher-3-expansion-songs-of-the-past-release-date-details",
-      "image": "https://assetsio.gnwcdn.com/the-witcher-3-10-years-piece.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-05-28T18:17:02Z",
-      "key_points": [
-        "Expansion delayed to 2027",
-        "Quality over speed",
-        "Rumors confirmed"
-      ],
-      "impact": "Fans must wait longer for the expansion.",
-      "id": "dcb7c5b02abbe5b2700ec4ad230a725e"
-    },
-    {
-      "title": "Subnautica 2 Set for $250 Million Bonus",
-      "description": "Subnautica 2 has achieved record sales, triggering a potential $250 million bonus for its developers at Unknown Worlds, now part of Krafton.",
-      "category": "Business",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/subnautica-2-devs-will-probably-get-that-250-million-payout-kraftons-ceo-tried-to-avoid-by-asking-chatgpt-for-help-2000700166",
-      "image": "https://kotaku.com/app/uploads/2025/07/c6fe2ac031e2e4dc16c414acdd1c7662-1200x675.jpg",
-      "published_at": "2026-05-28T12:54:22Z",
-      "key_points": [
-        "Subnautica 2 sells millions",
-        "Developers eye $250 million",
-        "Krafton acquisition benefits studio"
-      ],
-      "impact": "Record sales lead to significant developer bonuses.",
-      "id": "c9e3202e2e28f9b6f62a722ff40f1bdc"
-    },
-    {
-      "title": "Persona 6 Character Designs Leak Online",
-      "description": "Leaked designs for Persona 6 reveal character details, but the revival of Persona 4 may delay further announcements.",
-      "category": "Startups",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/persona-6-leaked-character-designs/",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/Persona-6-Character-Design-Leak.jpg",
-      "published_at": "2026-05-28T10:17:00Z",
-      "key_points": [
-        "Persona 6 designs leaked",
-        "Protagonist details revealed",
-        "Persona 4 revival may delay"
-      ],
-      "impact": "Fans await more news amid leaks.",
-      "id": "93eaed20f076c8e17a9b8d6b743eb0b6"
-    },
-    {
-      "title": "Websites Can Now Spy via SSD Activity",
-      "description": "New methods allow websites to track users by analyzing SSD activity through JavaScript, raising privacy concerns.",
+      "title": "FBI Warns of New Phishing Scheme Targeting Microsoft Users",
+      "description": "The FBI alerts Microsoft Teams, Outlook, and OneDrive users about a new phishing scheme. Users are urged to remain vigilant against suspicious communications.",
       "category": "Security",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/solid-state-drive-ssd-1152x648.jpg",
-      "published_at": "2026-05-27T20:56:03Z",
+      "source": "Inc.",
+      "url": "https://www.inc.com/amaya-nichole/fbi-just-issued-urgent-warning-anyone-using-microsoft-over-new-phishing-scheme/91351360",
+      "image": "",
+      "published_at": "2026-05-28T20:34:33Z",
       "key_points": [
-        "Websites track SSD activity",
-        "Privacy risks increase",
-        "JavaScript used for spying"
+        "New phishing scheme detected",
+        "Targets Microsoft services",
+        "Users advised to stay alert"
       ],
-      "impact": "New tracking methods threaten user privacy.",
-      "id": "67cc0679fbf0bac90b21a3957e964af0"
+      "impact": "Increased vigilance is essential for Microsoft users.",
+      "id": "04a5d0a8289a1ca021782c32e269958a"
     },
     {
-      "title": "Marathon Season 2 Introduces Survival Horror",
-      "description": "Marathon's Season 2 launches June 2, featuring a new survival horror theme and a free trial from June 2-9.",
-      "category": "Software",
-      "source": "GameSpot",
-      "url": "https://www.gamespot.com/articles/marathon-is-embracing-survival-horror-in-season-2-and-you-can-try-it-for-free/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Marathon-Season-2-Details-And-Free-Week.jpg",
-      "published_at": "2026-05-27T19:33:01Z",
+      "title": "Asha Sharma Updates on Xbox Progress for 2026",
+      "description": "Xbox CEO Asha Sharma discusses ongoing improvements and challenges for Xbox in 2026. The focus remains on building a stronger gaming platform.",
+      "category": "Business",
+      "source": "Pure Xbox",
+      "url": "https://www.purexbox.com/news/2026/05/we-are-building-a-stronger-xbox-asha-sharma-updates-employees-on-progress-in-2026",
+      "image": "https://images.purexbox.com/25641009dfbd8/large.jpg",
+      "published_at": "2026-05-28T20:26:00Z",
       "key_points": [
-        "Season 2 starts June 2",
-        "Free trial available",
-        "New horror-themed gameplay"
+        "Xbox improvements underway",
+        "Challenges still ahead",
+        "Focus on stronger platform"
       ],
-      "impact": "Players can explore new horror elements for free.",
-      "id": "fe8bf2b8a19ebb9385065d7a94c0b41d"
+      "impact": "Xbox aims for significant enhancements this year.",
+      "id": "932b8d457eb59727e9c0efe8d493073f"
+    },
+    {
+      "title": "Microsoft Faces Threat from Disgruntled 0-Day Hunter",
+      "description": "A disgruntled 0-day hunter threatens to release exploits against Microsoft. The situation escalates as Microsoft involves law enforcement.",
+      "category": "Security",
+      "source": "Theregister.com",
+      "url": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
+      "image": "https://image.theregister.com/254471.jpg?imageId=254471&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "published_at": "2026-05-28T20:19:09Z",
+      "key_points": [
+        "0-day threats escalate",
+        "Microsoft calls police",
+        "Researcher vows major release"
+      ],
+      "impact": "Microsoft's security is under serious threat.",
+      "id": "a9e1e513bc36a51b5f6d483ef89c9f1a"
+    },
+    {
+      "title": "Apple Releases Public Betas for iOS and macOS",
+      "description": "Apple has launched the first public betas of iOS 26.6 and macOS Tahoe 26.6. Users can now test new features ahead of official releases.",
+      "category": "Software",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/05/28/apple-seeds-ios-26-6-public-beta-1/",
+      "image": "https://images.macrumors.com/t/RzJYGwPST2fim75_lRKrQt8RKw8=/2500x/article-new/2026/05/iOS-26.6-Glass-Feature.jpg",
+      "published_at": "2026-05-28T17:46:02Z",
+      "key_points": [
+        "Public betas for iOS 26.6",
+        "Includes macOS Tahoe 26.6",
+        "Users can test new features"
+      ],
+      "impact": "Apple engages users with early software access.",
+      "id": "c4922824553657c01351c4f9d46c9da5"
+    },
+    {
+      "title": "Critical Gogs Vulnerability Allows Code Execution",
+      "description": "A critical RCE vulnerability in Gogs enables authenticated users to execute arbitrary code. Over 1,000 instances are exposed.",
+      "category": "Security",
+      "source": "Internet",
+      "url": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaqRd_3DDSSASg_YzvuUEqv3elhvFWSjk56bXPoqJeNIWVo-K0giuJ3TNEXV-aYpnuVfOv00_VM428vIFVaMiuZzfL0dQdQvz0_xMNFq4CtrppgTZu5dupV0asq1wZjPW3FoMgUnyGMR_RgBpWT2oTnJFuhaldo3Cd3eNP-MOlDNhP9Uu2KDRiDpYHdoeq/s1600/exploit-meta.jpg",
+      "published_at": "2026-05-28T17:24:00Z",
+      "key_points": [
+        "Critical RCE vulnerability found",
+        "Affects Gogs Git service",
+        "Over 1,000 instances exposed"
+      ],
+      "impact": "Immediate action is required to secure Gogs instances.",
+      "id": "270c3a23c29ea48407c6284c163b5db6"
+    },
+    {
+      "title": "Intel Launches Arc G3 CPUs for Handheld Gaming",
+      "description": "Intel officially announces the Arc G3 CPU family, optimized for handheld gaming PCs. The series features powerful integrated graphics.",
+      "category": "Hardware",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/349450/intel-arc-g3-cpu-family-officially-released-for-handheld-gaming-pcs",
+      "image": "https://www.techpowerup.com/img/EXkLNvywlnLdqqMN.jpg",
+      "published_at": "2026-05-28T16:06:42Z",
+      "key_points": [
+        "Arc G3 CPUs released",
+        "Designed for handheld gaming",
+        "Features powerful integrated graphics"
+      ],
+      "impact": "Intel targets the growing handheld gaming market.",
+      "id": "e3eef694f9d99dc7dd6b424ed4732882"
+    },
+    {
+      "title": "Steam Deck Price Hike Raises Concerns",
+      "description": "Valve announces a significant price increase for the Steam Deck, raising costs by $240 to $300. This raises doubts about the upcoming Steam Frame VR headset.",
+      "category": "Business",
+      "source": "Road to VR",
+      "url": "https://roadtovr.com/steam-decks-price-hike-steam-frame-speculation/",
+      "image": "https://roadtovr.com/wp-content/uploads/2026/04/steam-frame-machine-controller.jpg",
+      "published_at": "2026-05-28T14:49:47Z",
+      "key_points": [
+        "Steam Deck price increased",
+        "Concerns for Steam Frame VR",
+        "Price hike by $240 to $300"
+      ],
+      "impact": "Valve's pricing strategy raises market concerns.",
+      "id": "c329e65f36f1ea90f5937e2bae7ecd3c"
+    },
+    {
+      "title": "Qualcomm Launches Snapdragon C for Budget Windows 11 Devices",
+      "description": "Qualcomm introduces the Snapdragon C SoC aimed at affordable Windows 11 devices, expected to retail around $300. This targets budget-conscious consumers.",
+      "category": "Hardware",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/hardware/qualcomm/qualcomm-snapdragon-c-is-official-and-its-taking-aim-at-macbook-neo-and-chromebooks-new-low-end-arm-chip-brings-all-day-battery-life-to-usd300-windows-11-devices",
+      "image": "https://cdn.mos.cms.futurecdn.net/NYc7GhLbxP2nr8itWy9HMV-2560-80.png",
+      "published_at": "2026-05-28T13:00:00Z",
+      "key_points": [
+        "Snapdragon C SoC unveiled",
+        "Targets budget Windows 11 devices",
+        "Expected price around $300"
+      ],
+      "impact": "Qualcomm aims to capture budget market share.",
+      "id": "f385f202b72bf73a104e3069596e088f"
+    },
+    {
+      "title": "Donkey Kong 64 Coming to Nintendo Switch Online",
+      "description": "Nintendo confirms that Donkey Kong 64 will be available on Switch Online starting June 4. Fans can enjoy the classic platformer soon.",
+      "category": "Startups",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/donkey-kong-64-confirmed-for-nintendo-switch-online",
+      "image": "https://assets-prd.ignimgs.com/2026/05/28/donkey-kong-64-button-fin-1560099410344-1779958218281.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-05-28T08:57:51Z",
+      "key_points": [
+        "Donkey Kong 64 confirmed",
+        "Available on Switch Online",
+        "Launch date is June 4"
+      ],
+      "impact": "Nintendo enhances Switch Online with classics.",
+      "id": "cddeb3cccc1754b9369f67ef466b88e3"
+    },
+    {
+      "title": "Xbox Deals Unlocked Sale 2026 Offers Major Discounts",
+      "description": "The Xbox Deals Unlocked Sale 2026 is live, featuring over 2,000 discounts on popular Xbox games. Gamers can save significantly on their favorites.",
+      "category": "Business",
+      "source": "TrueAchievements",
+      "url": "https://www.trueachievements.com/news/xbox-deals-unlocked-sale-2026",
+      "image": "https://www.trueachievements.com/imgs/175426/xbox-deals-unlocked-sale-2026.jpg",
+      "published_at": "2026-05-28T08:38:13Z",
+      "key_points": [
+        "Massive Xbox sale launched",
+        "Over 2,000 discounts available",
+        "Great savings on popular games"
+      ],
+      "impact": "Gamers can take advantage of significant savings.",
+      "id": "1ed7d9888cfa6687d9f7f091fb11c0fa"
     }
   ]
 }
