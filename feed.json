@@ -1,229 +1,229 @@
 {
-  "generated_at": "2026-05-30T19:21:02.611479+00:00",
+  "generated_at": "2026-05-30T23:00:19.465804+00:00",
   "articles": [
     {
-      "title": "Microsoft Faces Backlash Over Legal Threats to Researcher",
-      "description": "Microsoft threatens a security researcher with legal action after they disclosed unpatched vulnerabilities, reigniting software security debates.",
-      "category": "Security",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/microsoft-logo.jpg?resize=1200,800",
-      "published_at": "2026-05-29T17:03:39Z",
+      "title": "Diablo 4 Introduces Solo Mode Next Season",
+      "description": "Diablo 4 will launch a long-awaited solo mode in the upcoming season, enhancing gameplay options for players. This feature aims to cater to solo gamers seeking a more personalized experience.",
+      "category": "Software",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/diablo-4-is-getting-a-long-awaited-solo-mode-next-season/",
+      "image": "",
+      "published_at": "2026-05-29T18:40:11Z",
       "key_points": [
-        "Legal threats spark controversy",
-        "Debate over software security",
-        "Researcher faces criminal investigation"
+        "Solo mode arrives next season",
+        "Enhances gameplay options",
+        "Caters to solo gamers"
       ],
-      "impact": "This incident raises concerns about software security responsibility.",
-      "id": "7a044e8659405e220765fd956678551f"
+      "impact": "This update will attract more solo players.",
+      "id": "d8dbbb9eda9939244837ce4392d9e44c"
     },
     {
-      "title": "Xbox Delays Fable Release to 2027",
-      "description": "Xbox pushes the Fable reboot to February 2027 to better align game launches for players, citing scheduling conflicts.",
+      "title": "Microsoft and NVIDIA Tease N1X Chip Announcement",
+      "description": "Microsoft and NVIDIA hint at a major announcement for Computex, likely unveiling the long-rumored N1X chip. This could signal a new era for PC hardware advancements.",
+      "category": "Hardware",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/hardware/surface/a-new-era-of-pc-microsoft-and-nvidia-tease-major-announcement-experts-predict-to-be-the-fabled-n1x-chip",
+      "image": "https://cdn.mos.cms.futurecdn.net/5hCQMAutsQZZNzVTnsvC7P-2560-80.jpg",
+      "published_at": "2026-05-29T18:02:37Z",
+      "key_points": [
+        "Teaser hints at N1X chip",
+        "Announcement at Computex",
+        "New era for PC hardware"
+      ],
+      "impact": "This could revolutionize PC performance.",
+      "id": "53a24c1da5c45333eb753514ea680f0c"
+    },
+    {
+      "title": "Gemini Spark Launches for Google AI Ultra Users",
+      "description": "Gemini Spark is now available for Google AI Ultra subscribers in the US, serving as a 24/7 personal agent for task automation. This feature enhances user productivity significantly.",
+      "category": "AI",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/05/29/gemini-spark-ultra-us/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Gemini-Spark-Availabillity.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-05-29T17:35:00Z",
+      "key_points": [
+        "Gemini Spark now available",
+        "Automates user tasks",
+        "Enhances productivity for users"
+      ],
+      "impact": "This tool will streamline daily tasks.",
+      "id": "166d60f33d90a1405dac23a7ea92e8cf"
+    },
+    {
+      "title": "Xbox to Showcase PS5 Logos Despite Exclusivity Uncertainty",
+      "description": "Microsoft plans to display PS5 logos at its upcoming Xbox Showcase, despite ongoing debates about exclusivity. This decision aims to maintain transparency with gamers.",
       "category": "Business",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/xbox-delays-fable-into-next-year-2000700600",
-      "image": "https://kotaku.com/app/uploads/2026/05/oh-no-1200x675.jpg",
-      "published_at": "2026-05-29T16:48:55Z",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/05/despite-uncertainty-over-exclusivity-xbox-will-still-show-ps5-logos-at-showcase",
+      "image": "https://images.pushsquare.com/43c964633ede2/large.jpg",
+      "published_at": "2026-05-29T17:15:00Z",
       "key_points": [
-        "Fable reboot delayed to 2027",
-        "Scheduling conflicts cited",
-        "Focus on player experience"
+        "Xbox to show PS5 logos",
+        "Maintains transparency",
+        "Debate over exclusivity continues"
       ],
-      "impact": "The delay aims to enhance player satisfaction.",
-      "id": "0d7f0d2c55b45992cfdad1967a994a37"
+      "impact": "This move may ease gamer concerns.",
+      "id": "3ff1d4fb6041d81e2aa86b737aa3ec5a"
     },
     {
-      "title": "Microsoft Teases New Surface Hardware at Computex",
-      "description": "Microsoft hints at upcoming Surface hardware announcements during Computex and Build events next week.",
+      "title": "Mina the Hollower Priced at $20 for Gamers",
+      "description": "Yacht Club Games has priced their new platformer, Mina the Hollower, at $20, citing value for players. This pricing strategy aims to attract a wider audience.",
+      "category": "Startups",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-05-29/why-mina-the-hollower-is-only-20",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiV645zXdT2s/v0/1200x675.jpg",
+      "published_at": "2026-05-29T17:00:01Z",
+      "key_points": [
+        "Mina the Hollower priced at $20",
+        "Value-driven pricing strategy",
+        "Aims to attract wider audience"
+      ],
+      "impact": "This pricing could boost sales significantly.",
+      "id": "364cfaacef9ba9a14f11275cc05f7ebf"
+    },
+    {
+      "title": "Microsoft Delays Fable Launch to February 2027",
+      "description": "Microsoft has postponed the Fable reboot's release to February 2027, aiming to avoid competition with GTA VI. A new look at the game will be revealed at the Xbox Showcase.",
+      "category": "Software",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/939991/microsoft-fable-xbox-delay-gta-vi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ss_8d483674199a602caa1a71e15ebcbc24ce45e11b.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "published_at": "2026-05-29T16:51:08Z",
+      "key_points": [
+        "Fable reboot delayed again",
+        "New release set for February 2027",
+        "Avoids competition with GTA VI"
+      ],
+      "impact": "This delay may affect player anticipation.",
+      "id": "b3838c93eb04b5abd9167d47e53f4e62"
+    },
+    {
+      "title": "Stray Launches on Nintendo Switch 2 with Upgrades",
+      "description": "Stray is now available on Nintendo Switch 2, featuring enhanced visuals, 4K support, and improved frame rates. This upgrade aims to enhance the gaming experience.",
+      "category": "Hardware",
+      "source": "Nintendo Everything",
+      "url": "https://nintendoeverything.com/stray-nintendo-switch-2-launch-trailer-adventure-game-appears-with-upgraded-with-visuals-frame-rate-4k-and-mouse-controls/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Stray-Sw-2-trailer.jpg",
+      "published_at": "2026-05-29T16:33:44Z",
+      "key_points": [
+        "Stray launches on Switch 2",
+        "Includes upgraded visuals",
+        "Supports 4K and improved frame rates"
+      ],
+      "impact": "This upgrade enhances gameplay quality.",
+      "id": "cd608ebce565bd2d73b639bd862d29b3"
+    },
+    {
+      "title": "Anker Offers Two Qi2 Wireless Chargers for $25",
+      "description": "Anker's Zolo Magnetic Wireless Chargers are now available for $23.99, a $16 discount. Additional deals on portable speakers and smart devices are also available.",
       "category": "Hardware",
       "source": "The Verge",
-      "url": "https://www.theverge.com/news/939960/microsoft-computex-teaser-surface-nvidia-windows-rumors",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25503643/DSCF7817_Enhanced_NR_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published_at": "2026-05-29T16:21:22Z",
+      "url": "https://www.theverge.com/gadgets/939445/anker-zolo-magnetic-wireless-charger-ue-wonderboom-4-speaker-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Anker-Zolo-Wireless-Charger-2-Pack.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-05-29T14:46:58Z",
       "key_points": [
-        "Surface hardware teased",
-        "Announcements expected soon",
-        "Focus on innovation"
+        "Anker chargers discounted to $23.99",
+        "Includes portable speaker deals",
+        "Smart devices also on sale"
       ],
-      "impact": "New Surface products could redefine user experience.",
-      "id": "71d1e334cb7aa845e78e38200895a315"
+      "impact": "This sale offers great value for consumers.",
+      "id": "0969a896bdc0d189b32443f8a394e030"
     },
     {
-      "title": "007 First Light Achieves Record Sales in 24 Hours",
-      "description": "The new game 007 First Light has seen massive sales success within its first day, appealing to both new and nostalgic players.",
-      "category": "Startups",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/05/29/007-first-light-is-the-uncontroversial-hit-of-2026-with-huge-24-hour-sales/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a19a5e3248466635668d44a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published_at": "2026-05-29T14:44:15Z",
-      "key_points": [
-        "Record sales in first 24 hours",
-        "Appeals to nostalgic gamers",
-        "Positive reception across audiences"
-      ],
-      "impact": "This success sets a high bar for future releases.",
-      "id": "10513553ae1be37f69b75d95be55130c"
-    },
-    {
-      "title": "Acer Launches High-Refresh Rate Gaming Monitors",
-      "description": "Acer introduces new Predator and Nitro monitors featuring refresh rates up to 1000Hz, targeting gamers seeking high performance.",
-      "category": "Hardware",
-      "source": "Videocardz.com",
-      "url": "https://videocardz.com/newz/acer-announces-predator-and-nitro-monitors-with-up-to-1000hz-refresh-rate",
-      "image": "https://cdn.videocardz.com/1/2026/05/ACER-NITRO-PREDATOR-COMPUTEX-MONITORS-HERO.jpg",
-      "published_at": "2026-05-29T14:25:39Z",
-      "key_points": [
-        "New monitors up to 1000Hz",
-        "Targeting competitive gamers",
-        "Includes various display technologies"
-      ],
-      "impact": "These monitors enhance gaming performance significantly.",
-      "id": "faf430620d6d4ec0e84b65f413e992a3"
-    },
-    {
-      "title": "PlayStation Sale Offers Major Discounts on Ghost Games",
-      "description": "During the Days of Play sale, Ghost of Yotei and Ghost of Tsushima receive significant price cuts, making them more accessible.",
+      "title": "The Witcher 4 Development Team Size Doubles",
+      "description": "The Witcher 4 is being developed by over twice as many staff as The Witcher 3, reflecting the growing scale of blockbuster game productions. This increase aims to enhance game quality.",
       "category": "Business",
+      "source": "Rock Paper Shotgun",
+      "url": "https://www.rockpapershotgun.com/the-witcher-4-is-the-work-of-over-twice-as-many-cd-projekt-staff-as-the-witcher-3-in-a-fresh-display-of-how-blockbluster-team-sizes-have-ballooned",
+      "image": "https://assetsio.gnwcdn.com/the-witcher-4-console-first-development-still-push-pcs-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-05-29T11:20:38Z",
+      "key_points": [
+        "Witcher 4 team size doubled",
+        "Reflects blockbuster game trends",
+        "Aims to enhance game quality"
+      ],
+      "impact": "This could lead to a more polished game.",
+      "id": "eacec3f3b92d644c7cffc252c5d2e686"
+    },
+    {
+      "title": "Pixel 10 Pro Fold Discounted by $615",
+      "description": "Best Buy offers a significant discount on the Pixel 10 Pro Fold, with open-box units priced at $615 off. This deal highlights the competitive pricing in the smartphone market.",
+      "category": "Hardware",
+      "source": "9to5Toys",
+      "url": "http://9to5toys.com/2026/05/29/pixel-10-pro-fold-best-deal/",
+      "image": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/02/Google-Pixel-10-Pro-Fold-Moonstone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-05-29T10:45:00Z",
+      "key_points": [
+        "Pixel 10 Pro Fold discounted",
+        "Open-box units $615 off",
+        "Competitive smartphone pricing"
+      ],
+      "impact": "This deal may boost sales significantly.",
+      "id": "3a2e660fe5abf226da91ab0e105c315c"
+    },
+    {
+      "title": "Microsoft Addresses Outer Worlds Upgrade Confusion",
+      "description": "Obsidian has apologized for confusion regarding The Outer Worlds upgrade eligibility, acknowledging player frustrations. The studio aims to clarify upgrade paths for users.",
+      "category": "Software",
       "source": "IGN",
-      "url": "https://www.ign.com/articles/ghost-of-yotei-and-ghost-of-tsushima-hit-all-time-lows-for-playstations-days-of-play-sale",
-      "image": "https://assets-prd.ignimgs.com/2026/05/29/ghost-game-deals-ps5-1780057264918.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-05-29T14:10:56Z",
+      "url": "https://www.ign.com/articles/microsoft-responds-to-the-outer-worlds-free-upgrade-confusion",
+      "image": "https://assets1.ignimgs.com/2019/06/09/e32019-xbox-the-outer-worlds-screenshot-15-1560111141077.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-05-29T09:43:54Z",
       "key_points": [
-        "Major discounts on popular games",
-        "Prices drop to $49 and $29",
-        "Attracting more buyers"
+        "Obsidian apologizes for confusion",
+        "Clarifies upgrade eligibility",
+        "Acknowledges player frustrations"
       ],
-      "impact": "This sale boosts game accessibility for players.",
-      "id": "6001deef2f9c1b35e90d52787cb05f5f"
+      "impact": "This response may restore player trust.",
+      "id": "84dcc90a46fd23d0f523cb7205c647fe"
     },
     {
-      "title": "Epic Games CEO Criticizes Valve's Price Hike",
-      "description": "Epic Games' CEO publicly criticizes Valve for increasing Steam Deck prices while facing backlash for layoffs at his own company.",
-      "category": "Business",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/epic-games-ceo-tim-sweeney-dunks-on-gabe-newell-raising-steam-deck-prices-while-flaunting-500-super-yacht-2000700489",
-      "image": "https://kotaku.com/app/uploads/2025/06/738ae80f61860cb167203b64a3046417-1200x675.jpg",
-      "published_at": "2026-05-29T13:08:34Z",
+      "title": "Google's AI Costs Set to Drop with New Model",
+      "description": "Google's Gemini 3.5 Flash model aims to reduce inference costs, positioning the company favorably against competitors. This strategy focuses on affordability and efficiency in AI services.",
+      "category": "AI",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/google-ai-cost-tokens-gemini-flash-openai-anthropic-gemini-search-2026-5",
+      "image": "https://i.insider.com/6a0d73cdce0a5b2f12d7da7d?width=1200&format=jpeg",
+      "published_at": "2026-05-29T09:00:08Z",
       "key_points": [
-        "Sweeney criticizes Valve's price increase",
-        "Backlash over Epic layoffs",
-        "Public feud escalates"
+        "Google aims to reduce AI costs",
+        "Gemini model focuses on efficiency",
+        "Competitive edge in AI market"
       ],
-      "impact": "This feud highlights industry tensions over pricing.",
-      "id": "3551c957f196493650e8fb4c22452fa6"
+      "impact": "This could reshape AI service pricing.",
+      "id": "2693f959ba027da59a172723886af8b5"
     },
     {
-      "title": "iPhone 18 Pro Dummy Units Showcase New Colors",
-      "description": "Dummy units of the iPhone 18 Pro reveal four new color options ahead of its anticipated release.",
+      "title": "Cooler Master and G.SKILL Introduce Active Cooling for DDR5",
+      "description": "Cooler Master partners with G.SKILL to launch MasterDimm AC DDR5 memory featuring active cooling technology. This innovation aims to enhance performance and reliability in high-performance computing.",
       "category": "Hardware",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/05/29/iphone-18-pro-dummy-units-reveal-four-color-options-gallery/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-18-pro-dummy-colors.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-05-29T12:14:00Z",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/349481/cooler-master-and-g-skill-partner-to-bring-active-cooling-technology-to-ddr5-memory",
+      "image": "https://www.techpowerup.com/img/KeIOw3Lq6L8d9T3A.jpg",
+      "published_at": "2026-05-29T08:31:33Z",
       "key_points": [
-        "New colors for iPhone 18 Pro",
-        "Dummy units revealed",
-        "Anticipation builds for release"
+        "New DDR5 memory with active cooling",
+        "Partnership with G.SKILL",
+        "Enhances performance and reliability"
       ],
-      "impact": "New colors may attract more buyers.",
-      "id": "f3feda1c1f0bf664a2171f27784f2dee"
+      "impact": "This innovation could improve computing efficiency.",
+      "id": "5c6151b40aa5325f3c851c8ce57bffdc"
     },
     {
-      "title": "Rockstar Games Workers Form Union Amid Legal Battle",
-      "description": "Developers at Rockstar Games announce the formation of the Rockstar Game Workers Union amid ongoing legal disputes.",
-      "category": "Policy",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/were-determined-to-win-justice-for-the-31-fired-workers-rockstar-games-workers-publicly-launch-union-as-legal-battle-with-the-gta-6-maker-rages-on",
-      "image": "https://assetsio.gnwcdn.com/Lucia-in-GTA-6-aiming-a-weapon.-She-has-her-hair-tied-back-and-is-wearing-sunglasses-and-a-mask-to-cover-her-face.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-05-29T11:57:29Z",
+      "title": "Rayman Legends: Retold Rumored for Switch 2 Release",
+      "description": "Rumors suggest Rayman Legends: Retold will launch on Switch 2 on October 1, 2026. This reimagining aims to attract both new and returning players to the beloved franchise.",
+      "category": "Startups",
+      "source": "GoNintendo",
+      "url": "https://gonintendo.com/contents/61248-rumor-rayman-legends-retold-coming-to-switch-2-oct-1st-2026",
+      "image": "https://gonintendo.com/attachments/image/81075/file/medium-f4ae989b847afce66aab552dac9364aa.webp",
+      "published_at": "2026-05-28T22:42:12Z",
       "key_points": [
-        "Rockstar workers form new union",
-        "Legal battles continue",
-        "Focus on worker rights"
+        "Rayman Legends: Retold rumored",
+        "Launch on Switch 2 October 1",
+        "Attracts new and returning players"
       ],
-      "impact": "This unionization effort could reshape industry standards.",
-      "id": "155efa9e56c7ea083b0e21173c2c81d8"
-    },
-    {
-      "title": "MSI Launches First QD-OLED Triple-Mode Monitor",
-      "description": "MSI unveils a groundbreaking 31.5-inch QD-OLED monitor with multiple refresh rates, showcasing at Computex 2026.",
-      "category": "Hardware",
-      "source": "Videocardz.com",
-      "url": "https://videocardz.com/newz/msi-unveils-worlds-first-qd-oled-triple-mode-monitor-4k-360hz-2k-520hz-fhd-680hz",
-      "image": "https://cdn.videocardz.com/1/2026/05/MPG-OLED-322URDX36-HERO.jpg",
-      "published_at": "2026-05-29T11:55:33Z",
-      "key_points": [
-        "First QD-OLED triple-mode monitor",
-        "Supports multiple resolutions",
-        "Showcased at Computex 2026"
-      ],
-      "impact": "This innovation sets new standards for displays.",
-      "id": "8fb7d1d42ec3fa2d587f8a58d14fe770"
-    },
-    {
-      "title": "Starcraft 2 Receives Major Update After Years",
-      "description": "Blizzard releases a significant update for Starcraft 2, introducing fundamental balance changes after a decade of silence.",
-      "category": "Software",
-      "source": "PCGamesN",
-      "url": "https://www.pcgamesn.com/starcraft-2/update-2026-starting-workers-reduced",
-      "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/05/starcraft-2-update-may-2026-ptr-patch-notes-starting-workers-reduced-race-balance-changes-blizzard-rts.jpg",
-      "published_at": "2026-05-29T10:16:22Z",
-      "key_points": [
-        "Major balance changes introduced",
-        "First update in a decade",
-        "Community reacts with shock"
-      ],
-      "impact": "This update revitalizes interest in the game.",
-      "id": "9803792aa5c19cea676f2838ffb96bc6"
-    },
-    {
-      "title": "Google Modifies Gemini's Usage Limits After Feedback",
-      "description": "In response to user complaints, Google adjusts the compute-based usage limits for the Gemini app introduced at I/O 2026.",
-      "category": "Software",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/05/28/gemini-new-usage-limits/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-05-29T02:03:00Z",
-      "key_points": [
-        "Gemini usage limits adjusted",
-        "User feedback prompted changes",
-        "Focus on improving user experience"
-      ],
-      "impact": "These adjustments enhance user satisfaction.",
-      "id": "f2accb9378bb7429a0fa7e0ec34bec36"
-    },
-    {
-      "title": "Galaxy Watch 9 Classic Rumored to Launch This Year",
-      "description": "Codenames suggest that Samsung will release a Galaxy Watch 9 Classic alongside other models this year, despite earlier doubts.",
-      "category": "Hardware",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/galaxy-watch-9-codenames-3672348/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/samsung-galaxy-watch-8-watch-face-selector-hero-2-scaled.jpg",
-      "published_at": "2026-05-28T20:11:46Z",
-      "key_points": [
-        "Galaxy Watch 9 Classic expected",
-        "Codenames hint at new models",
-        "Rumors suggest multiple variants"
-      ],
-      "impact": "This could expand Samsung's smartwatch lineup.",
-      "id": "474ce7a40115d384fd82013555d9eaa3"
-    },
-    {
-      "title": "Samsung Expands Camera Assistant Feature to More Devices",
-      "description": "Samsung's Camera Assistant app is now available on additional Galaxy phones and tablets, enhancing photography capabilities.",
-      "category": "Software",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2182975/every-samsung-phone-getting-new-camera-assistant-feature/",
-      "image": "https://www.bgr.com/img/gallery/every-samsung-phone-getting-the-new-camera-assistant-feature/l-intro-1779984953.jpg",
-      "published_at": "2026-05-28T16:47:00Z",
-      "key_points": [
-        "Camera Assistant expands to more devices",
-        "Includes midrange and budget models",
-        "Enhances photography features"
-      ],
-      "impact": "This update improves camera functionality for users.",
-      "id": "f96337d22de005b274255a1a373da114"
+      "impact": "This could revive interest in the franchise.",
+      "id": "49c7df9a2262085e2101b05348c475b2"
     }
   ]
 }
