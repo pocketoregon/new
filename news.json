@@ -1,151 +1,215 @@
 {
   "date": "2026-05-30",
-  "generated_at": "2026-05-30T11:22:43.971141+00:00",
+  "generated_at": "2026-05-30T13:44:48.891364+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Ancient Killer Is Rapidly Gaining Resistance to Antibiotics, Study Warns",
-      "description": "A study reveals that Salmonella Typhi is developing antibiotic resistance, posing a renewed threat. This ancient pathogen remains dangerous, especially in developing regions.",
-      "category": "Science",
-      "source": "ScienceAlert",
-      "url": "https://www.sciencealert.com/ancient-killer-is-rapidly-gaining-resistance-to-antibiotics-study-warns",
-      "image": "https://www.sciencealert.com/images/2025/11/SalmonellaTyphiFlagellarStain-1.jpg",
-      "published_at": "2026-05-29T00:16:59Z",
-      "key_points": [
-        "Salmonella Typhi resistance rising",
-        "Threat in developing countries",
-        "Urgent action needed"
-      ],
-      "impact": "Increased resistance could lead to public health crises.",
-      "id": "f7f6c1b66941dc82b67ca801a8e44bd6"
-    },
-    {
-      "title": "The Chrome browser is getting a big safety upgrade — if you use Windows",
-      "description": "Google's Chrome introduces Device Bound Session Credentials, enhancing security against cookie theft. This feature is now available for Windows users.",
-      "category": "Software",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/chrome-browser-dbsc-3672363/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2024/05/Google-or-Google-Search-logo-on-Chromebook-laptop-stock-photo-1.jpg",
-      "published_at": "2026-05-28T20:47:28Z",
-      "key_points": [
-        "New security feature for Chrome",
-        "Protects against cookie theft",
-        "Available for Windows users"
-      ],
-      "impact": "Improved security enhances user trust in Chrome.",
-      "id": "83e9031cdbb6085a07424cc39ea01564"
-    },
-    {
-      "title": "Amex Platinum Cardholders Can Save $200 on the New, Slimmer Oura Ring",
-      "description": "Oura's new Ring 5 is 40% smaller and offers a $200 discount for Amex Platinum cardholders. The updated design includes enhanced durability features.",
-      "category": "Startups",
-      "source": "Upgraded Points",
-      "url": "https://upgradedpoints.com/news/new-slimmer-oura-ring-5/",
-      "image": "https://upgradedpoints.com/wp-content/uploads/2026/05/Oura-Ring-5-1.png",
-      "published_at": "2026-05-28T17:53:34Z",
-      "key_points": [
-        "New Oura Ring 5 launched",
-        "40% smaller design",
-        "$200 discount for Amex users"
-      ],
-      "impact": "Increased accessibility for health-conscious consumers.",
-      "id": "cd1deb5e87a3d0f3b9ca00589d797a2c"
-    },
-    {
-      "title": "Proton Mail just made ditching Gmail way less painful",
-      "description": "Proton Mail now allows users to import Gmail messages, enhancing privacy and ease of transition. This feature strips ads and trackers from imported emails.",
-      "category": "Software",
-      "source": "MakeUseOf",
-      "url": "https://www.makeuseof.com/proton-mail-just-made-ditching-gmail-way-less-painful/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/08/proton-mail-vs-gmail-featured.JPG?w=1600&h=900&fit=crop",
-      "published_at": "2026-05-28T16:03:39Z",
-      "key_points": [
-        "Easier Gmail transition",
-        "Strips ads and trackers",
-        "Enhances user privacy"
-      ],
-      "impact": "Encourages users to switch to Proton Mail.",
-      "id": "fd19fac0acc2218f463bcc334effd3c4"
-    },
-    {
-      "title": "Raid Boss 2 now available",
-      "description": "Borderlands 4 introduces Raid Boss 2: Subjugator and Thol the Invincible in its Version 1.7 update. This dual-boss fight is free for all players.",
-      "category": "Software",
-      "source": "2k.com",
-      "url": "https://borderlands.2k.com/borderlands-4/news/subjugator-and-thol-out-now/",
-      "image": "https://assets.2k.com/1a6ngf98576c/4zXpfbA9xO397sI262TrDm/6bbefd7d76850e74bcfda880dd76cf10/BL4_KA.png",
-      "published_at": "2026-05-28T15:53:37Z",
-      "key_points": [
-        "New Raid Boss 2 released",
-        "Free for all players",
-        "Version 1.7 update available"
-      ],
-      "impact": "Enhances gameplay experience for Borderlands fans.",
-      "id": "9a3bd9ca0b30db1a106aa35608e08e1e"
-    },
-    {
-      "title": "9 Of The Best Features Added To Spotify In 2026 (So Far)",
-      "description": "Spotify introduces new features enhancing user experience, including a Taste Profile for personalized recommendations. These updates aim to improve music discovery.",
-      "category": "Software",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2179163/best-features-added-to-spotify-in-2026/",
-      "image": "https://www.bgr.com/img/gallery/9-of-the-best-features-added-to-spotify-in-2026-so-far/l-intro-1779357222.jpg",
-      "published_at": "2026-05-28T14:02:00Z",
-      "key_points": [
-        "New features enhance user experience",
-        "Taste Profile for recommendations",
-        "Improves music discovery"
-      ],
-      "impact": "Boosts user engagement on Spotify.",
-      "id": "3765c2314fd044940f85d3519fd62ec5"
-    },
-    {
-      "title": "Krafton have reportedly agreed to pay Subnautica 2's devs that $250 million bonus, following strong early sales",
-      "description": "Krafton is set to pay a $250 million bonus to Unknown Worlds, the developers of Subnautica 2, following successful early sales. This resolves previous legal disputes.",
-      "category": "Business",
-      "source": "Rock Paper Shotgun",
-      "url": "https://www.rockpapershotgun.com/krafton-have-reportedly-agreed-to-pay-subnautica-2s-devs-that-250-million-bonus-following-strong-early-sales",
-      "image": "https://assetsio.gnwcdn.com/subnautica-2-reportedly-triggers-earnout-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-05-28T10:29:05Z",
-      "key_points": [
-        "Krafton pays $250 million bonus",
-        "Strong early sales trigger payment",
-        "Legal disputes resolved"
-      ],
-      "impact": "Strengthens developer-publisher relationships.",
-      "id": "63cefc9468ae58ec54230e2cb1be0e28"
-    },
-    {
-      "title": "The Google Fitbit Air's 'one size fit' does not fit all",
-      "description": "Concerns arise over the Fitbit Air's 'one size fits all' design, which some users find uncomfortable. Feedback highlights sizing issues for smaller wrists.",
+      "title": "Acer Launches $699 Swift Air 14 Laptop",
+      "description": "Acer unveils several laptops at Computex, including the Swift Air 14 and Aspire 18. The Nitro 16 gaming laptop features an AMD X3D chip.",
       "category": "Hardware",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/fitbit-air-one-size-band-3671949/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Fitbit-Air-Elevated-Modern-Band-2-scaled.jpg",
-      "published_at": "2026-05-28T08:36:28Z",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/939596/acer-swift-air-14-aspire-18-nitro-16-computex-price-specs",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Acer-Swift-Air-14-SFA14-I31-Lifestyle-03.jpg?quality=90&strip=all&crop=0%2C3.4750998734523%2C100%2C93.049800253095&w=1200",
+      "published_at": "2026-05-29T13:00:00Z",
       "key_points": [
-        "Fitbit Air sizing issues reported",
-        "Not suitable for smaller wrists",
-        "User feedback highlights discomfort"
+        "Multiple models announced",
+        "Includes gaming laptop",
+        "Affordable pricing"
       ],
-      "impact": "Calls for improved product design from Fitbit.",
-      "id": "80fa44c391fa0de5a3f9447781da5fc5"
+      "impact": "Acer expands its laptop lineup with competitive pricing.",
+      "id": "84ec891aa9bcec5137013004ba53fab8"
     },
     {
-      "title": "Dragon Quest 40th anniversary event reveals DQ12 restart with new title, DQ11 Switch 2 port, and the return of Dragon Quest Monsters series",
-      "description": "Square Enix announces updates for Dragon Quest during its 40th anniversary, including a restart of DQ12 and a Switch 2 port of DQ11. The Monsters series is also returning.",
-      "category": "Software",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/dragon-quest-12-beyond-dreams-revealed",
-      "image": "https://assetsio.gnwcdn.com/DQ12_reboot_footage.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-05-27T15:49:30Z",
+      "title": "MSI Unveils Claw 8 EX AI Plus Handheld",
+      "description": "MSI introduces the Claw 8 EX AI Plus gaming handheld featuring Intel's custom Arc G3 Extreme chip. This device aims to enhance portable gaming experiences.",
+      "category": "Hardware",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/939758/msi-claw-8-ex-ai-plus-gaming-handheld-reveal-computex-2026",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/MSI-Claw-8-EX-AI-Plus.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-05-29T11:11:39Z",
       "key_points": [
-        "DQ12 restarts with new title",
-        "DQ11 port for Switch 2",
-        "Return of Dragon Quest Monsters"
+        "Features Intel Arc G3 chip",
+        "Portable gaming device",
+        "High performance expected"
       ],
-      "impact": "Excites fans for upcoming Dragon Quest releases.",
-      "id": "9f90698cb3b2cdec0a3a5c424d5560d6"
+      "impact": "MSI targets gamers with innovative handheld technology.",
+      "id": "baa0f1cbbe9f9a00a0b36d542055c1d8"
+    },
+    {
+      "title": "iPhone 18 Pro's Camera Upgrade Costs 50% More",
+      "description": "Apple's iPhone 18 Pro will feature a new variable aperture lens, increasing production costs by 50%. This upgrade aims to enhance photography capabilities.",
+      "category": "Hardware",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/05/29/iphone-18-pros-camera-upgrade-will-cost-more/",
+      "image": "https://images.macrumors.com/t/lqWUrJOQKKV5pEiUCN1izFwQ4QQ=/2500x/article-new/2026/04/iphone-17-pro-black-feature.jpg",
+      "published_at": "2026-05-29T10:44:01Z",
+      "key_points": [
+        "New lens increases costs",
+        "Variable aperture technology",
+        "Enhanced photography features"
+      ],
+      "impact": "Apple invests in camera technology for better user experience.",
+      "id": "1f052b4bf4d43305adcc74abccdf5b26"
+    },
+    {
+      "title": "007 First Light Achieves 1.5M Sales in 24 Hours",
+      "description": "IO Interactive's 007 First Light has sold over 1.5 million copies within its first day of release, showcasing strong demand and critical acclaim.",
+      "category": "Startups",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/007-first-light-james-bond-sales-milestone-24-hours",
+      "image": "https://assetsio.gnwcdn.com/007-First-Light-screenshot-showing-Bond-and-his-fellow-recruits-doing-weapons-training-in-Malta.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-05-29T08:50:37Z",
+      "key_points": [
+        "1.5 million copies sold",
+        "Strong critical reception",
+        "Successful launch for IO Interactive"
+      ],
+      "impact": "007 First Light sets a new sales record for launch day.",
+      "id": "60b5eeba271f8e4aac21c7d88a41b710"
+    },
+    {
+      "title": "Valve Steam Deck Sells Out Despite Price Increase",
+      "description": "The Valve Steam Deck OLED sold out within 24 hours, despite a price hike of up to $300. Demand remains high for this gaming handheld.",
+      "category": "Hardware",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/349469/valve-steam-deck-sells-out-in-24-hours-despite-price-hike",
+      "image": "https://www.techpowerup.com/img/4oWcypl2F103CDue.jpg",
+      "published_at": "2026-05-29T03:43:13Z",
+      "key_points": [
+        "Sold out in 24 hours",
+        "Price increased by $300",
+        "High demand continues"
+      ],
+      "impact": "Valve's Steam Deck proves its market appeal despite price hikes.",
+      "id": "29c4c24c532bda7e5747b6d8011f7cd0"
+    },
+    {
+      "title": "Rayman Legends Retold Rumored for Nintendo Switch 2",
+      "description": "Ubisoft is reportedly developing Rayman Legends Retold for the Nintendo Switch 2, reviving interest in the classic platformer.",
+      "category": "Startups",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/rumor-rayman-legends-retold-coming-to-nintendo-switch-2/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Rayman-Legends-Switch-2-rumor.jpg",
+      "published_at": "2026-05-28T22:54:03Z",
+      "key_points": [
+        "Remake in development",
+        "Targeting Nintendo Switch 2",
+        "Classic game revival"
+      ],
+      "impact": "Ubisoft aims to capitalize on nostalgia with a remake.",
+      "id": "181e1452ecc1861bcca501182c0c7d1d"
+    },
+    {
+      "title": "GTA 6 Boss Praises High Review Scores",
+      "description": "Rockstar Games' CEO highlights the high review scores for GTA 6, attributing them to the company's commitment to quality as the release date approaches.",
+      "category": "Startups",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/gta-6-boss-says-high-review-scores-reflect-rockstars-commitment-to-quality/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Grand-Theft-Auto-6.jpg",
+      "published_at": "2026-05-28T22:01:59Z",
+      "key_points": [
+        "High review scores noted",
+        "Commitment to quality emphasized",
+        "Release in six months"
+      ],
+      "impact": "Rockstar reinforces its reputation for quality gaming.",
+      "id": "b3b8e7fe838e9a6f24aa82681de35264"
+    },
+    {
+      "title": "Fitbit Air Faces Band Fit Issues",
+      "description": "Early buyers of the Fitbit Air report significant fit issues with the bands, raising concerns about the product's design and usability.",
+      "category": "Hardware",
+      "source": "Android Police",
+      "url": "https://www.androidpolice.com/fitbit-air-band-does-not-fit-all/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/fitbit-air.png?w=1600&h=900&fit=crop",
+      "published_at": "2026-05-28T19:26:51Z",
+      "key_points": [
+        "Band fit issues reported",
+        "Concerns over design",
+        "User complaints increasing"
+      ],
+      "impact": "Fitbit may need to address design flaws quickly.",
+      "id": "1d3364c1481636ebd304e9036120321a"
+    },
+    {
+      "title": "Call Of Duty: Warzone to Be Delisted Soon",
+      "description": "Call Of Duty: Warzone will be delisted from Xbox One in early June 2026, coinciding with the announcement of Modern Warfare 4.",
+      "category": "Software",
+      "source": "Pure Xbox",
+      "url": "https://www.purexbox.com/news/2026/05/call-of-duty-warzone-joins-two-other-xbox-one-games-being-delisted-in-early-june-2026",
+      "image": "https://images.purexbox.com/79beea880e950/large.jpg",
+      "published_at": "2026-05-28T18:34:26Z",
+      "key_points": [
+        "Warzone delisting announced",
+        "Modern Warfare 4 revealed",
+        "New downloads halted"
+      ],
+      "impact": "Players must act quickly before delisting occurs.",
+      "id": "93b22c9030e0c698e35aaf4242369af3"
+    },
+    {
+      "title": "Apple Shrinks Gemini AI for iPhone Integration",
+      "description": "Apple is reportedly working to integrate the massive Gemini AI model into iPhones, likely requiring a cloud component for functionality.",
+      "category": "AI",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/apple-google-logo-1152x648.jpg",
+      "published_at": "2026-05-28T18:30:48Z",
+      "key_points": [
+        "Gemini AI integration planned",
+        "Cloud component likely needed",
+        "Enhancing Siri's capabilities"
+      ],
+      "impact": "Apple aims to boost Siri's performance with advanced AI.",
+      "id": "3a34d93dcb2b597bd6b16c42b9b68579"
+    },
+    {
+      "title": "Flipper One vs. Flipper Zero Comparison",
+      "description": "The Flipper One is compared to the established Flipper Zero, highlighting differences in availability and features as expectations rise.",
+      "category": "Hardware",
+      "source": "PCMag.com",
+      "url": "https://www.pcmag.com/comparisons/flipper-one-vs-flipper-zero-how-does-the-199-pocket-tool-stack-up-against",
+      "image": "https://i.pcmag.com/imagery/comparisons/328.fit_lim.size_1200x630.v1779909419.png",
+      "published_at": "2026-05-28T14:03:10Z",
+      "key_points": [
+        "Comparing two pocket tools",
+        "Flipper One expectations high",
+        "Flipper Zero well established"
+      ],
+      "impact": "Consumers weigh options between two innovative devices.",
+      "id": "0c8a80ec0a5837fda0aa32e983247aba"
+    },
+    {
+      "title": "Xbox Deals Unlocked Sale 2026 Now Live",
+      "description": "The Xbox Deals Unlocked Sale 2026 has begun, offering significant discounts on various DLC packs for gamers.",
+      "category": "Software",
+      "source": "TrueAchievements",
+      "url": "https://www.trueachievements.com/news/xbox-deals-unlocked-sale-2026-dlc",
+      "image": "https://www.trueachievements.com/imgs/175428/xbox-deals-unlocked-sale-2026--dlc.jpg",
+      "published_at": "2026-05-28T08:38:13Z",
+      "key_points": [
+        "Massive DLC discounts available",
+        "Sale officially underway",
+        "Great deals for gamers"
+      ],
+      "impact": "Gamers can save big during the Xbox sale.",
+      "id": "be7b478b29b72e4badbfe5ee9533cf6f"
+    },
+    {
+      "title": "The Barrelhand Monolith: A New Tool Watch",
+      "description": "The Barrelhand Monolith, a tool watch developed over six years, is designed for the next space age, combining durability and functionality.",
+      "category": "Startups",
+      "source": "HODINKEE",
+      "url": "https://www.hodinkee.com/articles/the-barrelhand-monolith-has-landed",
+      "image": "https://hodinkee.imgix.net/uploads/images/d5a4aafd-1316-4c4c-b8dd-6137f22e3007/barrelhand-monolith-2026-hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
+      "published_at": "2026-05-28T08:00:00Z",
+      "key_points": [
+        "Developed over six years",
+        "Designed for space age",
+        "Durable and functional"
+      ],
+      "impact": "The Monolith sets a new standard for tool watches.",
+      "id": "d4843bbb23127ac48195cec055dda4ca"
     }
   ]
 }
