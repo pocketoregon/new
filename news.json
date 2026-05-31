@@ -1,135 +1,87 @@
 {
   "date": "2026-05-31",
-  "generated_at": "2026-05-31T08:16:13.531701+00:00",
+  "generated_at": "2026-05-31T11:00:20.296188+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Rayman Origins: Enhanced Edition Leaked",
-      "description": "Rayman Origins: Enhanced Edition has leaked on the Xbox store, promising 4K resolution and 60 FPS. Ubisoft calls it the definitive experience for fans.",
+      "title": "DuckDuckGo's 'No AI' Search Traffic Climbs as Users Reject Google's AI Overhaul",
+      "description": "DuckDuckGo's 'No AI' search option gains popularity as users turn away from Google's AI-driven results. Privacy concerns drive this shift in search preferences.",
       "category": "Software",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/rayman-origins-enhanced-edition-leaked-first-details-and-screenshots/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Rayman-Origins-Enhanced-Edition-leak.jpg",
-      "published_at": "2026-05-29T20:58:44Z",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/05/29/duckduckgo-no-ai-search/",
+      "image": "https://images.macrumors.com/t/Pm624KQECwxx7XGaA9p4-W2O0As=/1688x/article-new/2026/05/duckduckgo-no-ai.jpg",
+      "published_at": "2026-05-29T22:55:24Z",
       "key_points": [
-        "4K resolution confirmed",
-        "60 FPS gameplay",
-        "Leaked on Xbox store"
+        "Surge in DuckDuckGo usage",
+        "Users prefer no AI results",
+        "Privacy concerns drive demand"
       ],
-      "impact": "This leak builds anticipation for the release.",
-      "id": "16fdb687071ecae6dd7595d0bd46a7f2"
+      "impact": "DuckDuckGo's growth highlights user privacy priorities.",
+      "id": "ba23d7c75b9c85834cb3a15789abc7c0"
     },
     {
-      "title": "Call of Duty: Modern Warfare 4 Launches on Switch 2",
-      "description": "Call of Duty: Modern Warfare 4 will launch simultaneously on Switch 2, PS5, Xbox Series X/S, and PC. The campaign will be single-player only.",
+      "title": "Spotify just rolled out three new Premium features to completely change your playlists",
+      "description": "Spotify introduces new Premium features for playlist management, allowing users to create folders directly in the app. This enhances organization and accessibility for mobile users.",
       "category": "Software",
-      "source": "Digitalfoundry.net",
-      "url": "https://www.digitalfoundry.net/previews/call-of-duty-modern-warfare-4-will-be-the-first-to-ship-day-and-date-on-switch-2-alongside-ps5-xbox-series-xs-and-pc",
-      "image": "https://images.digitalfoundry.net/c99c84c8f3d48/large.jpg",
-      "published_at": "2026-05-29T20:34:36Z",
+      "source": "Android Police",
+      "url": "https://www.androidpolice.com/spotify-app-rolls-out-premium-features-to-completely-change-playlists/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/12/a-woman-wearing-headphones-with-a-spotify-dj-icon-behind-her-at-the-center-surrounded-by-floating-3d-spotify-logos.png?w=1600&h=900&fit=crop",
+      "published_at": "2026-05-29T17:37:51Z",
       "key_points": [
-        "First COD on Switch 2",
-        "Single-player campaign only",
-        "Launches on multiple platforms"
+        "New playlist folder feature",
+        "Improved mobile organization",
+        "Easier playlist management"
       ],
-      "impact": "This marks a significant expansion for the franchise.",
-      "id": "5c29073ed11161698870a6bab46ecb3d"
+      "impact": "Spotify enhances user experience with new features.",
+      "id": "0052a6e39e8e240eb0dbb4db91142c43"
     },
     {
-      "title": "TP-Link Announces Wi-Fi 8 Router Launch",
-      "description": "TP-Link plans to launch its first Wi-Fi 8 router, the Archer 8, in October. This will kick off a new line of Wi-Fi 8 products.",
+      "title": "DualSense Edge Controllers Get $30 Price Cut During Days of Play",
+      "description": "DualSense Edge controllers receive a $30 discount during PlayStation's Days of Play sale. Both black and white models are included in this limited-time offer.",
       "category": "Hardware",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/tp-link-says-screw-it-were-doing-wi-fi-8-now-2000765221",
-      "image": "https://gizmodo.com/app/uploads/2026/05/TP-Link-Wi-Fi-8-teaser-image-1200x675.jpg",
-      "published_at": "2026-05-29T20:25:49Z",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/dualsense-edge-controllers-ps5-days-of-play-sale-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/05/29/dualsense-edge-deal-1780063946215.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-05-29T17:30:00Z",
       "key_points": [
-        "First Wi-Fi 8 router",
-        "Launch set for October",
-        "New product line coming"
+        "$30 off DualSense Edge controllers",
+        "Part of Days of Play sale",
+        "Limited-time offer for gamers"
       ],
-      "impact": "Wi-Fi 8 promises faster connectivity options.",
-      "id": "ca472bba65edd44b4a26a8714c168856"
+      "impact": "Price cut boosts sales for PlayStation controllers.",
+      "id": "1951146c035034c74495749acefc6194"
     },
     {
-      "title": "New AC Cobra Coupe Unveiled at $537,000",
-      "description": "The new AC Cobra coupe is priced at $537,000 and boasts 799 HP. This supercar combines modern design with classic performance.",
+      "title": "Xbox CEO Says The Company Needs To Be Making ‘Hard Choices’",
+      "description": "Xbox CEO Asha Sharma emphasizes the need for tough decisions as the company prepares for its summer showcase. Focus on Game Pass and strategic direction is highlighted.",
       "category": "Business",
-      "source": "Theautopian.com",
-      "url": "https://www.theautopian.com/theres-a-new-ac-cobra-coupe-and-its-a-537000-lump-of-carbon-fiber-with-tires-as-thin-as-rubber-bands/",
-      "image": "https://images-stag.jazelc.com/uploads/theautopian-m2en/AC-Cobra-GT-TS.png",
-      "published_at": "2026-05-29T17:25:58Z",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/xbox-ceo-says-the-company-needs-to-be-making-hard-choices-2000700518",
+      "image": "https://kotaku.com/app/uploads/2026/05/marcus.jpg",
+      "published_at": "2026-05-29T14:59:27Z",
       "key_points": [
-        "Priced at $537,000",
-        "799 HP performance",
-        "Modern design meets classic"
+        "CEO calls for strategic decisions",
+        "Focus on Game Pass growth",
+        "Preparing for summer showcase"
       ],
-      "impact": "This supercar targets high-end automotive enthusiasts.",
-      "id": "b2e9ac9a1dd71fc274606d249f3170dc"
+      "impact": "Xbox's future hinges on strategic choices.",
+      "id": "bf95df57e894e4cc115f429d261d94ab"
     },
     {
-      "title": "Intel's Arc G3 Gaming Handhelds Announced",
-      "description": "Intel has officially launched its Arc G3 chipsets for gaming handhelds, debuting with Acer's Predator Atlas 8 and OneXPlayer 3. These devices promise powerful performance.",
-      "category": "Hardware",
-      "source": "Digitalfoundry.net",
-      "url": "https://www.digitalfoundry.net/news/2026/05/intels-arc-g3-goes-official-acer-predator-atlas-8-and-onexplayer-3-pc-gaming-handhelds-look-powerful-expensive",
-      "image": "https://images.digitalfoundry.net/a4e6588ae41e7/large.jpg",
-      "published_at": "2026-05-29T11:15:00Z",
+      "title": "Call of Duty series comes to Nintendo Switch 2",
+      "description": "Modern Warfare 4 launches on Nintendo Switch 2 on October 23, 2026, marking the return of Call of Duty to Nintendo. The game promises darker, more intense missions.",
+      "category": "Startups",
+      "source": "Nintendo.com",
+      "url": "https://www.nintendo.com/us/whatsnew/call-of-duty-modern-warfare-4-coming-to-nintendo-switch-2-this-october/",
+      "image": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
+      "published_at": "2026-05-29T07:03:14Z",
       "key_points": [
-        "Arc G3 chipsets launched",
-        "Powerful gaming handhelds",
-        "Acer Predator Atlas 8 featured"
+        "Modern Warfare 4 on Switch 2",
+        "Launch date: October 23, 2026",
+        "Series returns to Nintendo platform"
       ],
-      "impact": "Intel's entry boosts competition in handheld gaming.",
-      "id": "4455aaae6556cb70aed59fefcc29d424"
-    },
-    {
-      "title": "One UI 9 Watch Beta Launch Imminent",
-      "description": "Samsung is preparing to launch the One UI 9 Watch beta, featuring smarter AI and health upgrades. This follows nearly a year after One UI 8 Watch's debut.",
-      "category": "Software",
-      "source": "SamMobile",
-      "url": "https://www.sammobile.com/news/one-ui-9-watch-beta-may-be-around-the-corner-smarter-ai-health-upgrades/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2025/11/Galaxy-Watch-8-Classic-2-1-1200x675.jpg",
-      "published_at": "2026-05-29T11:07:00Z",
-      "key_points": [
-        "One UI 9 beta coming soon",
-        "Focus on AI and health",
-        "Follows One UI 8 release"
-      ],
-      "impact": "This update enhances Samsung's smartwatch capabilities.",
-      "id": "3a6c395271e254da1db88732a0d88b5d"
-    },
-    {
-      "title": "Turning Off Phone Notifications: A Week's Experience",
-      "description": "A week without phone notifications revealed how much attention was consumed by apps and alerts. The silence was surprisingly refreshing.",
-      "category": "Policy",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/services-and-software/features/i-turned-off-all-my-phone-notifications-for-a-week-heres-why-im-not-going-back/",
-      "image": "https://www.cnet.com/a/img/resize/06f3d55c956d91870a77f5f7e243be6eb66b0a7d/hub/2026/05/28/b35277e4-440e-43a1-9763-4df5de9c14af/hero.png?auto=webp&fit=crop&height=675&width=1200",
-      "published_at": "2026-05-29T10:00:00Z",
-      "key_points": [
-        "Notifications turned off for a week",
-        "Revealed attention consumption",
-        "Experience was refreshing"
-      ],
-      "impact": "This experiment highlights the need for digital balance.",
-      "id": "441050d4d40f01bb76d4371416d10df4"
-    },
-    {
-      "title": "Key Factors for Tipping Food Delivery Drivers",
-      "description": "A food delivery driver shares insights on tipping, emphasizing two main factors that should influence gratuity. Prudie's advice sparks discussion.",
-      "category": "Business",
-      "source": "Slate Magazine",
-      "url": "https://slate.com/advice/2026/05/delivery-food-how-much-to-tip-advice.html",
-      "image": "https://compote.slate.com/images/6abe8feb-56fe-4ca5-8f72-fc445ceacc90.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "published_at": "2026-05-29T10:00:00Z",
-      "key_points": [
-        "Two main tipping factors",
-        "Discussion sparked by Prudie",
-        "Focus on delivery quality"
-      ],
-      "impact": "This advice aims to improve tipping practices.",
-      "id": "7288a81f80819ca057253d06c0986fa3"
+      "impact": "Call of Duty's return boosts Nintendo's game lineup.",
+      "id": "8b64fce4de039b5bd63200b929ef4bb8"
     }
   ]
 }

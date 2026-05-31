@@ -1,6 +1,93 @@
 {
   "batches": [
     {
+      "id": "2026-05-31T11:00:20.296188+00:00",
+      "fetched_at": "2026-05-31T11:00:20.296188+00:00",
+      "label": "May 31, 2026 — 11:00 AM UTC",
+      "articles": [
+        {
+          "title": "DuckDuckGo's 'No AI' Search Traffic Climbs as Users Reject Google's AI Overhaul",
+          "description": "DuckDuckGo's 'No AI' search option gains popularity as users turn away from Google's AI-driven results. Privacy concerns drive this shift in search preferences.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/05/29/duckduckgo-no-ai-search/",
+          "image": "https://images.macrumors.com/t/Pm624KQECwxx7XGaA9p4-W2O0As=/1688x/article-new/2026/05/duckduckgo-no-ai.jpg",
+          "published_at": "2026-05-29T22:55:24Z",
+          "key_points": [
+            "Surge in DuckDuckGo usage",
+            "Users prefer no AI results",
+            "Privacy concerns drive demand"
+          ],
+          "impact": "DuckDuckGo's growth highlights user privacy priorities.",
+          "id": "ba23d7c75b9c85834cb3a15789abc7c0"
+        },
+        {
+          "title": "Spotify just rolled out three new Premium features to completely change your playlists",
+          "description": "Spotify introduces new Premium features for playlist management, allowing users to create folders directly in the app. This enhances organization and accessibility for mobile users.",
+          "category": "Software",
+          "source": "Android Police",
+          "url": "https://www.androidpolice.com/spotify-app-rolls-out-premium-features-to-completely-change-playlists/",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/12/a-woman-wearing-headphones-with-a-spotify-dj-icon-behind-her-at-the-center-surrounded-by-floating-3d-spotify-logos.png?w=1600&h=900&fit=crop",
+          "published_at": "2026-05-29T17:37:51Z",
+          "key_points": [
+            "New playlist folder feature",
+            "Improved mobile organization",
+            "Easier playlist management"
+          ],
+          "impact": "Spotify enhances user experience with new features.",
+          "id": "0052a6e39e8e240eb0dbb4db91142c43"
+        },
+        {
+          "title": "DualSense Edge Controllers Get $30 Price Cut During Days of Play",
+          "description": "DualSense Edge controllers receive a $30 discount during PlayStation's Days of Play sale. Both black and white models are included in this limited-time offer.",
+          "category": "Hardware",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/dualsense-edge-controllers-ps5-days-of-play-sale-2026",
+          "image": "https://assets-prd.ignimgs.com/2026/05/29/dualsense-edge-deal-1780063946215.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-05-29T17:30:00Z",
+          "key_points": [
+            "$30 off DualSense Edge controllers",
+            "Part of Days of Play sale",
+            "Limited-time offer for gamers"
+          ],
+          "impact": "Price cut boosts sales for PlayStation controllers.",
+          "id": "1951146c035034c74495749acefc6194"
+        },
+        {
+          "title": "Xbox CEO Says The Company Needs To Be Making ‘Hard Choices’",
+          "description": "Xbox CEO Asha Sharma emphasizes the need for tough decisions as the company prepares for its summer showcase. Focus on Game Pass and strategic direction is highlighted.",
+          "category": "Business",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/xbox-ceo-says-the-company-needs-to-be-making-hard-choices-2000700518",
+          "image": "https://kotaku.com/app/uploads/2026/05/marcus.jpg",
+          "published_at": "2026-05-29T14:59:27Z",
+          "key_points": [
+            "CEO calls for strategic decisions",
+            "Focus on Game Pass growth",
+            "Preparing for summer showcase"
+          ],
+          "impact": "Xbox's future hinges on strategic choices.",
+          "id": "bf95df57e894e4cc115f429d261d94ab"
+        },
+        {
+          "title": "Call of Duty series comes to Nintendo Switch 2",
+          "description": "Modern Warfare 4 launches on Nintendo Switch 2 on October 23, 2026, marking the return of Call of Duty to Nintendo. The game promises darker, more intense missions.",
+          "category": "Startups",
+          "source": "Nintendo.com",
+          "url": "https://www.nintendo.com/us/whatsnew/call-of-duty-modern-warfare-4-coming-to-nintendo-switch-2-this-october/",
+          "image": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
+          "published_at": "2026-05-29T07:03:14Z",
+          "key_points": [
+            "Modern Warfare 4 on Switch 2",
+            "Launch date: October 23, 2026",
+            "Series returns to Nintendo platform"
+          ],
+          "impact": "Call of Duty's return boosts Nintendo's game lineup.",
+          "id": "8b64fce4de039b5bd63200b929ef4bb8"
+        }
+      ]
+    },
+    {
       "id": "2026-05-31T08:16:13.531701+00:00",
       "fetched_at": "2026-05-31T08:16:13.531701+00:00",
       "label": "May 31, 2026 — 08:16 AM UTC",
