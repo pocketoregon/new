@@ -1,6 +1,349 @@
 {
   "batches": [
     {
+      "id": "2026-05-31T13:49:50.518286+00:00",
+      "fetched_at": "2026-05-31T13:49:50.518286+00:00",
+      "label": "May 31, 2026 — 01:50 PM UTC",
+      "articles": [
+        {
+          "title": "Sony's Destiny 2 Support Decision Is a Mistake",
+          "description": "Sony's decision to halt all Destiny 2 updates is a significant misstep for the franchise. Fans are left disappointed as the game reaches its final chapter.",
+          "category": "Software",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/05/30/sony-is-wrong-to-take-destiny-2-support-down-to-absolute-zero/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a1aea4fe48d12d758ec3526/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-05-30T13:51:30Z",
+          "key_points": [
+            "Sony halts Destiny 2 updates",
+            "Fans express disappointment",
+            "Franchise faces uncertain future"
+          ],
+          "impact": "This decision could alienate dedicated players.",
+          "id": "6cbebefb46c6a5058605600f20c68ca7"
+        },
+        {
+          "title": "Xbox's Return Movement Loses Direction",
+          "description": "Microsoft's efforts to revive Xbox are faltering as they focus on minor fan complaints instead of substantial improvements. Major solutions remain elusive.",
+          "category": "Software",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/05/30/the-return-to-xbox-movement-is-starting-to-lose-the-plot/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a1ad7cbbb33c100b9fb8514/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-05-30T12:35:07Z",
+          "key_points": [
+            "Xbox faces fan backlash",
+            "Focus on minor issues",
+            "Lack of major solutions"
+          ],
+          "impact": "Microsoft risks losing loyal Xbox fans.",
+          "id": "f9ba79c4848b980754a172e2a607c80d"
+        },
+        {
+          "title": "Nvidia-Powered Windows PCs Launch Next Week",
+          "description": "The first Windows PCs featuring Nvidia chips will debut next week, including models from Microsoft and other manufacturers. Exciting developments are on the horizon.",
+          "category": "Hardware",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/05/30/nvidia-microsoft-pcs-ai-surface-dell",
+          "image": "https://images.axios.com/N_M0gF2isOnEArIh1I1tWWtFa3A=/0x221:5398x3257/1366x768/2026/05/30/1780102439546.jpeg",
+          "published_at": "2026-05-30T12:04:49Z",
+          "key_points": [
+            "Nvidia chips debut next week",
+            "Microsoft Surface models included",
+            "Industry conferences showcase PCs"
+          ],
+          "impact": "This launch could redefine Windows performance.",
+          "id": "938ffe919f35c4f7175846e378260a64"
+        },
+        {
+          "title": "Mina The Hollower Tops Metacritic's 2026 Rankings",
+          "description": "Mina The Hollower has become Metacritic's highest-rated game of 2026, showcasing its early sales success. The gaming landscape continues to evolve.",
+          "category": "Software",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/05/mina-the-hollower-is-now-metacritics-highest-rated-game-of-2026",
+          "image": "https://images.nintendolife.com/0613bcfb627e9/large.jpg",
+          "published_at": "2026-05-30T08:00:00Z",
+          "key_points": [
+            "Mina The Hollower is top-rated",
+            "Early sales data released",
+            "2026 gaming year strong"
+          ],
+          "impact": "This success sets a high bar for future titles.",
+          "id": "5f7e919046a73d6d5c046ae7837f8f11"
+        },
+        {
+          "title": "Apple Music May Introduce Subscription Tiers",
+          "description": "Apple is reportedly developing different subscription tiers for Apple Music, hinting at potential changes in pricing and offerings. Details are emerging from the Android app.",
+          "category": "Business",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/05/29/apple-music-could-soon-get-different-subscription-tiers/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-music-free-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-05-30T02:09:00Z",
+          "key_points": [
+            "Apple Music may change tiers",
+            "New pricing models expected",
+            "Android app hints at updates"
+          ],
+          "impact": "This could attract a wider audience.",
+          "id": "fcf4025ef06bdb61a4ab63f8711a4942"
+        },
+        {
+          "title": "Windows 11's Start Menu Gets Major Customization",
+          "description": "Windows 11 introduces a revamped Start menu with enhanced customization options, addressing long-standing user requests. The update is well-received.",
+          "category": "Software",
+          "source": "Windows Latest",
+          "url": "https://www.windowslatest.com/2026/05/30/tested-windows-11s-new-start-menu-lets-you-fully-customize-it-and-it-works-surprisingly-well/",
+          "image": "https://www.windowslatest.com/wp-content/uploads/2026/05/Microsofts-redesigned-Windows-11-Start-menu-finally-adds-long-requested-customization-controls.jpg",
+          "published_at": "2026-05-30T01:47:11Z",
+          "key_points": [
+            "Start menu customization improved",
+            "User feedback addressed",
+            "New layout options available"
+          ],
+          "impact": "This update enhances user experience significantly.",
+          "id": "b7e35abf3818f61f32ec720b8f3e9f16"
+        },
+        {
+          "title": "New Xbox Features Roll Out for Insiders",
+          "description": "Four new features for Xbox consoles are being rolled out to select Xbox Insiders, enhancing the gaming experience. Feedback is encouraged from users.",
+          "category": "Software",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/features/four-new-console-features-begin-rolling-out-today-for-xbox-insiders-may-29",
+          "image": "https://images.purexbox.com/a90f87b13a88f/large.jpg",
+          "published_at": "2026-05-30T00:04:59Z",
+          "key_points": [
+            "New features for Xbox Insiders",
+            "User feedback requested",
+            "Enhancements to gaming experience"
+          ],
+          "impact": "These updates could improve user satisfaction.",
+          "id": "90c896d86ce14df796f71511fadc295f"
+        },
+        {
+          "title": "Apple Increases Trade-In Values for Devices",
+          "description": "Apple has raised trade-in values for various devices, including iPhones and MacBooks, making upgrades more appealing. This change could boost sales.",
+          "category": "Business",
+          "source": "CNET",
+          "url": "https://www.cnet.com/tech/mobile/apple-boosts-trade-in-prices-iphones-ipads-apple-watches-and-macbooks/",
+          "image": "https://www.cnet.com/a/img/resize/1a36ffb8e49867e95d17f02f02941d3331aa38d8/hub/2023/09/18/16cdf1fe-0814-47f4-8c89-0c935084f39c/iphone15-pro-81.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "published_at": "2026-05-29T23:53:00Z",
+          "key_points": [
+            "Apple boosts trade-in values",
+            "Encourages device upgrades",
+            "Increased sales potential"
+          ],
+          "impact": "This could significantly enhance customer retention.",
+          "id": "9c569d51c132f420a7ee30d877f8b315"
+        },
+        {
+          "title": "TPCi Bans Graded Slabs at Events",
+          "description": "TPCi has prohibited the sale of graded slabs and Japanese Pokemon Center products at its events, impacting vendors. The new policy takes effect soon.",
+          "category": "Software",
+          "source": "PokeBeach",
+          "url": "https://www.pokebeach.com/2026/05/tpci-has-banned-sales-of-graded-slabs-and-pokemon-center-products-at-events",
+          "image": "https://www.pokebeach.com/news/2026/05/Banned-Slabs-Pokemon.jpg",
+          "published_at": "2026-05-29T22:46:47Z",
+          "key_points": [
+            "TPCi bans graded slabs",
+            "Policy affects event vendors",
+            "New rules implemented soon"
+          ],
+          "impact": "This could reshape vendor strategies at events.",
+          "id": "f65c2cc72b25488efb0ebf0d79ee78ea"
+        },
+        {
+          "title": "Google Drive's Scanner Gets Major Upgrade",
+          "description": "Google Drive's document scanner now features on-device AI for improved scanning, including batch processing and duplicate skipping. A significant enhancement for users.",
+          "category": "Software",
+          "source": "Android Authority",
+          "url": "https://www.androidauthority.com/google-drive-scanner-ui-upgrade-3672777/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/google-drive-document-scanner-on-samsung-galaxy-s24-ultra-2.jpg",
+          "published_at": "2026-05-29T19:34:58Z",
+          "key_points": [
+            "Google Drive scanner upgraded",
+            "On-device AI features",
+            "Batch scanning capabilities added"
+          ],
+          "impact": "This upgrade enhances productivity for users.",
+          "id": "97236b4f8e459937da6128f2ab628333"
+        },
+        {
+          "title": "Galaxy S22 Update News and Bad News for A53/A33",
+          "description": "The Galaxy S22 series may receive the One UI 8.5 update, but hopes for A53 and A33 owners are dwindling. The situation remains uncertain.",
+          "category": "Software",
+          "source": "Tech-ish.com",
+          "url": "https://tech-ish.com/2026/05/29/galaxy-s22-one-ui-8-5-update-a53-a33-bad-news/",
+          "image": "https://tech-ish.com/wp-content/uploads/2022/02/Samsung_Galaxy-S22-Ultra_Burgundy-Large.jpeg",
+          "published_at": "2026-05-29T18:26:28Z",
+          "key_points": [
+            "Galaxy S22 update possible",
+            "A53/A33 owners disappointed",
+            "Uncertain future for updates"
+          ],
+          "impact": "This could frustrate many Samsung users.",
+          "id": "6086b179d953907344b12fa902e2d138"
+        },
+        {
+          "title": "AC's New Cobra Supercar Revealed",
+          "description": "The new AC Cobra supercar features a fixed top and enhanced power, appealing to enthusiasts. A modern take on a classic design.",
+          "category": "Software",
+          "source": "CarBuzz",
+          "url": "https://carbuzz.com/ac-cobra-gt-coupe-revealed/",
+          "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/05/ac-cobra-gt-coupe-6.jpg?w=1600&h=900&fit=crop",
+          "published_at": "2026-05-29T17:14:53Z",
+          "key_points": [
+            "New AC Cobra unveiled",
+            "Supercharged performance",
+            "Modern design elements"
+          ],
+          "impact": "This car could attract serious collectors.",
+          "id": "b24b3813fd64c6f87c3a02af86bd15f0"
+        },
+        {
+          "title": "Cambridge Audio vs Ruark Audio Speaker Comparison",
+          "description": "A comparison of Cambridge Audio L/R S and Ruark Audio MR1 Mk3 reveals strengths in compact desktop speakers. Both options cater to different needs.",
+          "category": "Software",
+          "source": "What Hi-Fi? US",
+          "url": "https://www.whathifi.com/speakers/cambridge-audio-l-r-s-vs-ruark-audio-mr1-mk3-which-compact-desktop-speakers-are-best-for-you",
+          "image": "https://cdn.mos.cms.futurecdn.net/mTavZhj8jXGt8WtQg87mud-2560-80.jpg",
+          "published_at": "2026-05-29T17:05:32Z",
+          "key_points": [
+            "Speaker comparison analysis",
+            "Compact options available",
+            "Different strengths highlighted"
+          ],
+          "impact": "This guide aids informed purchasing decisions.",
+          "id": "25582a0bfe38be0392ad39e7d37e26b9"
+        },
+        {
+          "title": "Pixel 10 Pro Discounts Available Now",
+          "description": "Significant discounts on Pixel 10 Pro Fold and other devices are available, making them more accessible. Great deals for tech enthusiasts.",
+          "category": "Software",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/05/29/deals-pixel-10-pro-fold-10-pro-xl-lenovo-android-tablets/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/9to5Google-May-29-3.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-05-29T15:32:00Z",
+          "key_points": [
+            "Pixel 10 Pro discounts available",
+            "Great deals on devices",
+            "Savings for tech buyers"
+          ],
+          "impact": "These offers could boost sales significantly.",
+          "id": "c7775c4b7db37c7e702e70fc30109362"
+        },
+        {
+          "title": "Windows PC Industry Reacts to Affordable MacBook",
+          "description": "Apple's release of the MacBook Neo, its most affordable model, has surprised the Windows PC industry. Competitors are reassessing their strategies.",
+          "category": "Business",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/05/29/windows-pc-industry-reacts-to-macbook-neo/",
+          "image": "https://images.macrumors.com/t/uM1O4t-WvpT_0N08sMzApDgK9eg=/1920x/article-new/2026/03/macbook-neo-product-film-feature.jpg",
+          "published_at": "2026-05-29T15:30:32Z",
+          "key_points": [
+            "Apple's MacBook Neo released",
+            "Windows industry surprised",
+            "Competitors reassess strategies"
+          ],
+          "impact": "This could shift market dynamics significantly.",
+          "id": "eafb571c9671fa7f3a197b2122487ca4"
+        },
+        {
+          "title": "Forza Horizon 6 Charts in Japan After Years",
+          "description": "Forza Horizon 6 has become the first Xbox game to chart physically in Japan since 2023, marking a significant milestone for Xbox in the region.",
+          "category": "Software",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/gaming/forza/forza-horizon-6-breaks-a-three-year-drought-the-first-xbox-game-to-chart-physically-in-japan-since-2023",
+          "image": "https://cdn.mos.cms.futurecdn.net/MtLBqSFUxHcEwyPKsufuVm-1920-80.png",
+          "published_at": "2026-05-29T14:57:44Z",
+          "key_points": [
+            "Forza Horizon 6 charts in Japan",
+            "First Xbox game since 2023",
+            "Significant milestone for Xbox"
+          ],
+          "impact": "This success could revitalize Xbox's presence.",
+          "id": "d931a66c1ad57b4ebfcf03f86c086388"
+        },
+        {
+          "title": "Warhammer 40,000: Space Marine 2 Teases New Class",
+          "description": "Focus Entertainment hints at a new class for Warhammer 40,000: Space Marine 2 in 2027, exciting fans for future content. The game continues to evolve.",
+          "category": "Software",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/warhammer-40000-space-marine-2-year-3-content-teased-new-class-confirmed-for-2027",
+          "image": "https://assets-prd.ignimgs.com/2026/04/16/ss-712fe9d84a853d1d2fc1faee8cd8efb36e2278d0-1920x1080-1776359919341.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-05-29T14:11:49Z",
+          "key_points": [
+            "New class teased for 2027",
+            "Focus Entertainment hints",
+            "Exciting future content planned"
+          ],
+          "impact": "This could enhance player engagement significantly.",
+          "id": "cd93f251eff5538bd73f202512c0ef85"
+        },
+        {
+          "title": "iOS 27 May Drive iPhone Upgrades",
+          "description": "Rumors suggest iOS 27 will offer compelling features that could encourage many users to upgrade to new iPhones. Anticipation builds ahead of the release.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/05/29/ios-27-might-convince-a-lot-of-people-to-upgrade-to-a-new-iphone/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-music-free-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-05-29T13:44:00Z",
+          "key_points": [
+            "iOS 27 rumored features",
+            "Potential for increased upgrades",
+            "Anticipation builds for release"
+          ],
+          "impact": "This could significantly boost iPhone sales.",
+          "id": "07b9068dddb1e0825920392648ec294d"
+        },
+        {
+          "title": "Witcher Developer Shifts Focus to Sequels",
+          "description": "CD Projekt Red plans to prioritize sequels over expansions for future Witcher games, signaling a new direction for the franchise. Fans await further developments.",
+          "category": "Software",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/witcher-dev-will-focus-on-sequels-over-expansions-for-witcher-4-5-6/",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Screenshot-2026-05-29-at-8.56.39-AM.png",
+          "published_at": "2026-05-29T12:58:10Z",
+          "key_points": [
+            "Focus on sequels announced",
+            "Expansions not prioritized",
+            "New direction for Witcher series"
+          ],
+          "impact": "This could reshape the Witcher franchise's future.",
+          "id": "101b5f9d154f0cb4f91560d19fe85bc5"
+        },
+        {
+          "title": "iOS 27 Needs Practical Features, Not Just AI",
+          "description": "As Apple prepares for WWDC, there's a call for iOS 27 to address practical user needs rather than focusing solely on AI advancements. Users seek real solutions.",
+          "category": "Software",
+          "source": "CNET",
+          "url": "https://www.cnet.com/tech/services-and-software/i-dont-care-about-ios-27s-ai-tricks-give-me-these-3-useful-iphone-features-instead/",
+          "image": "https://www.cnet.com/a/img/resize/e13aae42717e12bcb97b0f6d766a3a4bb34fae64/hub/2026/05/07/be035da5-9c9a-498e-8827-eda8bf2c46b7/phone-charging-iphone-s26-lanxon-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "published_at": "2026-05-29T11:01:00Z",
+          "key_points": [
+            "Focus on practical features needed",
+            "Users want real solutions",
+            "AI advancements not enough"
+          ],
+          "impact": "This feedback could influence Apple's development.",
+          "id": "16a67de1662c69b5033db6347a5dfad5"
+        },
+        {
+          "title": "Modern Warfare 4 Offers Vault Edition Discounts",
+          "description": "Eligible Xbox Game Pass members can access discounts on the Vault Edition of Modern Warfare 4, despite it not being included in the subscription. New loyalty program announced.",
+          "category": "Software",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/05/modern-warfare-4-isnt-on-xbox-game-pass-but-eligible-members-can-get-vault-edition-discount",
+          "image": "https://images.purexbox.com/e44eff5c2a216/large.jpg",
+          "published_at": "2026-05-29T10:00:00Z",
+          "key_points": [
+            "Vault Edition discounts available",
+            "Not included in Game Pass",
+            "New loyalty program launched"
+          ],
+          "impact": "This could enhance member engagement and loyalty.",
+          "id": "a50a1b7dc4e64c823e11cfc59db376bc"
+        }
+      ]
+    },
+    {
       "id": "2026-05-31T11:00:20.296188+00:00",
       "fetched_at": "2026-05-31T11:00:20.296188+00:00",
       "label": "May 31, 2026 — 11:00 AM UTC",
