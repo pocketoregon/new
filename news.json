@@ -1,247 +1,135 @@
 {
   "date": "2026-05-31",
-  "generated_at": "2026-05-31T04:06:19.465613+00:00",
+  "generated_at": "2026-05-31T08:16:13.531701+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Nvidia Teases New N1X Laptop Processors",
-      "description": "Nvidia, Microsoft, and Arm are gearing up for Nvidia’s keynote at Computex, showcasing the new N1X laptop processors. Anticipation is building for the unveiling.",
-      "category": "Hardware",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2192219004.jpg?quality=90&strip=all&crop=0%2C10.703832833872%2C100%2C78.592334332257&w=1200",
-      "published_at": "2026-05-29T23:03:29Z",
+      "title": "Rayman Origins: Enhanced Edition Leaked",
+      "description": "Rayman Origins: Enhanced Edition has leaked on the Xbox store, promising 4K resolution and 60 FPS. Ubisoft calls it the definitive experience for fans.",
+      "category": "Software",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/rayman-origins-enhanced-edition-leaked-first-details-and-screenshots/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Rayman-Origins-Enhanced-Edition-leak.jpg",
+      "published_at": "2026-05-29T20:58:44Z",
       "key_points": [
-        "Nvidia's keynote at Computex",
-        "New N1X processors revealed",
-        "Collaboration with Microsoft and Arm"
+        "4K resolution confirmed",
+        "60 FPS gameplay",
+        "Leaked on Xbox store"
       ],
-      "impact": "Nvidia's new processors could redefine laptop performance.",
-      "id": "0a7f91c4a5e60b13f3b9dfab5c666680"
+      "impact": "This leak builds anticipation for the release.",
+      "id": "16fdb687071ecae6dd7595d0bd46a7f2"
     },
     {
-      "title": "Apple's iPhone Camera Upgrade to Cost More",
-      "description": "Analyst Ming-Chi Kuo reveals Apple's iPhone camera roadmap, highlighting a costly upgrade involving an ultra-wide module change. Expect significant price increases.",
+      "title": "Call of Duty: Modern Warfare 4 Launches on Switch 2",
+      "description": "Call of Duty: Modern Warfare 4 will launch simultaneously on Switch 2, PS5, Xbox Series X/S, and PC. The campaign will be single-player only.",
+      "category": "Software",
+      "source": "Digitalfoundry.net",
+      "url": "https://www.digitalfoundry.net/previews/call-of-duty-modern-warfare-4-will-be-the-first-to-ship-day-and-date-on-switch-2-alongside-ps5-xbox-series-xs-and-pc",
+      "image": "https://images.digitalfoundry.net/c99c84c8f3d48/large.jpg",
+      "published_at": "2026-05-29T20:34:36Z",
+      "key_points": [
+        "First COD on Switch 2",
+        "Single-player campaign only",
+        "Launches on multiple platforms"
+      ],
+      "impact": "This marks a significant expansion for the franchise.",
+      "id": "5c29073ed11161698870a6bab46ecb3d"
+    },
+    {
+      "title": "TP-Link Announces Wi-Fi 8 Router Launch",
+      "description": "TP-Link plans to launch its first Wi-Fi 8 router, the Archer 8, in October. This will kick off a new line of Wi-Fi 8 products.",
+      "category": "Hardware",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/tp-link-says-screw-it-were-doing-wi-fi-8-now-2000765221",
+      "image": "https://gizmodo.com/app/uploads/2026/05/TP-Link-Wi-Fi-8-teaser-image-1200x675.jpg",
+      "published_at": "2026-05-29T20:25:49Z",
+      "key_points": [
+        "First Wi-Fi 8 router",
+        "Launch set for October",
+        "New product line coming"
+      ],
+      "impact": "Wi-Fi 8 promises faster connectivity options.",
+      "id": "ca472bba65edd44b4a26a8714c168856"
+    },
+    {
+      "title": "New AC Cobra Coupe Unveiled at $537,000",
+      "description": "The new AC Cobra coupe is priced at $537,000 and boasts 799 HP. This supercar combines modern design with classic performance.",
       "category": "Business",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/05/29/kuo-apples-iphone-camera-roadmap-includes-a-costly-upgrade/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/iPhone-18-Pro-variable-aperture-lens-manufacturing-reportedly-underway.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-05-29T21:05:00Z",
+      "source": "Theautopian.com",
+      "url": "https://www.theautopian.com/theres-a-new-ac-cobra-coupe-and-its-a-537000-lump-of-carbon-fiber-with-tires-as-thin-as-rubber-bands/",
+      "image": "https://images-stag.jazelc.com/uploads/theautopian-m2en/AC-Cobra-GT-TS.png",
+      "published_at": "2026-05-29T17:25:58Z",
       "key_points": [
-        "Costly iPhone camera upgrades",
-        "New ultra-wide module",
-        "Analyst Ming-Chi Kuo's insights"
+        "Priced at $537,000",
+        "799 HP performance",
+        "Modern design meets classic"
       ],
-      "impact": "Apple's camera upgrades may impact iPhone sales.",
-      "id": "c24a83f69c90fd9a2a8dcd96fe5ffa84"
+      "impact": "This supercar targets high-end automotive enthusiasts.",
+      "id": "b2e9ac9a1dd71fc274606d249f3170dc"
     },
     {
-      "title": "Xbox to Showcase PS5 Game Availability",
-      "description": "Xbox CCO Matt Booty confirms that the upcoming Xbox Games Showcase will reveal when its titles will be available on PS5 and other platforms. Multiplatform strategy highlighted.",
-      "category": "Software",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/gaming/xbox/xbox-games-chief-confirms-microsoft-will-show-when-its-titles-are-coming-to-ps5-and-other-platforms-at-the-xbox-games-showcase",
-      "image": "https://cdn.mos.cms.futurecdn.net/5SynmdFSYnmmRfUGkSQLsA-1920-80.jpg",
-      "published_at": "2026-05-29T20:13:35Z",
-      "key_points": [
-        "Xbox titles on PS5 confirmed",
-        "Multiplatform strategy emphasized",
-        "Showcase scheduled for next week"
-      ],
-      "impact": "This move could broaden Xbox's audience.",
-      "id": "6d81ca9866bc0f2066cafb5043a9e1d6"
-    },
-    {
-      "title": "Revolutionary Energy Gel for Tour de France",
-      "description": "A groundbreaking energy gel developed by former Ineos scientists promises to transform nutrition for Tour de France athletes. It addresses long-standing challenges in sports nutrition.",
-      "category": "Science",
-      "source": "Outside",
-      "url": "https://velo.outsideonline.com/road/road-training/lactate-energy-gel-tour-de-france/#article",
-      "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/05/Z8C_5588.jpg",
-      "published_at": "2026-05-29T20:07:11Z",
-      "key_points": [
-        "New energy gel innovation",
-        "Targets Tour de France athletes",
-        "Developed by sports scientists"
-      ],
-      "impact": "This gel could enhance athlete performance significantly.",
-      "id": "9909f4378ebe63ad3565b3888c9d3338"
-    },
-    {
-      "title": "Apple Music Faces Outage in Multiple Countries",
-      "description": "Apple Music is experiencing disruptions in several countries, as confirmed by Apple's System Status pages. Users are reporting issues accessing the service.",
-      "category": "Software",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/05/29/apple-music-outage-confirmed-in-multiple-countries/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-music-app-icon-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-05-29T19:16:00Z",
-      "key_points": [
-        "Apple Music outage confirmed",
-        "Multiple countries affected",
-        "Service disruption details provided"
-      ],
-      "impact": "This outage may frustrate Apple Music users.",
-      "id": "e3050813b4bb195d0afa719498a86ee4"
-    },
-    {
-      "title": "Acer Launches Linux Handheld for Game Streaming",
-      "description": "Acer introduces the Nitro Blaze Link, a Linux-based handheld designed for streaming PC games. It features minimal specs with just 1GB of RAM.",
+      "title": "Intel's Arc G3 Gaming Handhelds Announced",
+      "description": "Intel has officially launched its Arc G3 chipsets for gaming handhelds, debuting with Acer's Predator Atlas 8 and OneXPlayer 3. These devices promise powerful performance.",
       "category": "Hardware",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/acer-nitro-blaze-link-announcement-cropped.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "published_at": "2026-05-29T19:01:48Z",
+      "source": "Digitalfoundry.net",
+      "url": "https://www.digitalfoundry.net/news/2026/05/intels-arc-g3-goes-official-acer-predator-atlas-8-and-onexplayer-3-pc-gaming-handhelds-look-powerful-expensive",
+      "image": "https://images.digitalfoundry.net/a4e6588ae41e7/large.jpg",
+      "published_at": "2026-05-29T11:15:00Z",
       "key_points": [
-        "Acer's Nitro Blaze Link launched",
-        "Linux-based game streaming",
-        "Only 1GB of RAM"
+        "Arc G3 chipsets launched",
+        "Powerful gaming handhelds",
+        "Acer Predator Atlas 8 featured"
       ],
-      "impact": "This device targets budget-conscious gamers.",
-      "id": "7d130cf012dc92f29811f63142d6ce59"
+      "impact": "Intel's entry boosts competition in handheld gaming.",
+      "id": "4455aaae6556cb70aed59fefcc29d424"
     },
     {
-      "title": "StarCraft 2 Receives Major Balance Changes",
-      "description": "Blizzard announces significant balance changes for StarCraft 2, shocking the community after years of stability. Update 5.0.16 is set to alter gameplay dynamics.",
+      "title": "One UI 9 Watch Beta Launch Imminent",
+      "description": "Samsung is preparing to launch the One UI 9 Watch beta, featuring smarter AI and health upgrades. This follows nearly a year after One UI 8 Watch's debut.",
       "category": "Software",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/starcraft-2-fans-shocked-after-blizzard-launches-major-balance-changes-for-the-first-time-in-years",
-      "image": "https://assets-prd.ignimgs.com/2026/05/29/stracraft-2-1780069131197.png?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-05-29T17:38:26Z",
+      "source": "SamMobile",
+      "url": "https://www.sammobile.com/news/one-ui-9-watch-beta-may-be-around-the-corner-smarter-ai-health-upgrades/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2025/11/Galaxy-Watch-8-Classic-2-1-1200x675.jpg",
+      "published_at": "2026-05-29T11:07:00Z",
       "key_points": [
-        "Major balance changes announced",
-        "Community reacts strongly",
-        "Update 5.0.16 coming soon"
+        "One UI 9 beta coming soon",
+        "Focus on AI and health",
+        "Follows One UI 8 release"
       ],
-      "impact": "This update could reshape StarCraft 2 strategies.",
-      "id": "e8cccf3ab68f1bd46535c7f59ade4f90"
+      "impact": "This update enhances Samsung's smartwatch capabilities.",
+      "id": "3a6c395271e254da1db88732a0d88b5d"
     },
     {
-      "title": "DuckDuckGo Sees Surge Amid Google AI Search Shift",
-      "description": "As Google shifts to AI-driven search, DuckDuckGo experiences a spike in installations. Users seek alternatives to traditional search methods.",
-      "category": "Software",
-      "source": "Futurism",
-      "url": "https://futurism.com/artificial-intelligence/duckduckgo-installs-spike-google-search-ai",
-      "image": "https://futurism.com/wp-content/uploads/2026/05/duckduckgo-installs-spike-google-search-ai.jpg?w=1200",
-      "published_at": "2026-05-29T17:08:17Z",
+      "title": "Turning Off Phone Notifications: A Week's Experience",
+      "description": "A week without phone notifications revealed how much attention was consumed by apps and alerts. The silence was surprisingly refreshing.",
+      "category": "Policy",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/services-and-software/features/i-turned-off-all-my-phone-notifications-for-a-week-heres-why-im-not-going-back/",
+      "image": "https://www.cnet.com/a/img/resize/06f3d55c956d91870a77f5f7e243be6eb66b0a7d/hub/2026/05/28/b35277e4-440e-43a1-9763-4df5de9c14af/hero.png?auto=webp&fit=crop&height=675&width=1200",
+      "published_at": "2026-05-29T10:00:00Z",
       "key_points": [
-        "DuckDuckGo installations surge",
-        "Users seek search alternatives",
-        "Google's AI search redesign impacts market"
+        "Notifications turned off for a week",
+        "Revealed attention consumption",
+        "Experience was refreshing"
       ],
-      "impact": "DuckDuckGo could gain significant market share.",
-      "id": "ec81c3c18c9ca89256753bc2b8367f45"
+      "impact": "This experiment highlights the need for digital balance.",
+      "id": "441050d4d40f01bb76d4371416d10df4"
     },
     {
-      "title": "Galaxy Z Fold 8 Improves Display Crease",
-      "description": "Reports suggest the Galaxy Z Fold 8 will significantly enhance the display crease, rivaling industry leaders. This improvement addresses a common consumer concern.",
-      "category": "Hardware",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/05/29/galaxy-z-fold-8-series-may-significantly-improve-the-display-crease/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-53.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-05-29T16:45:00Z",
-      "key_points": [
-        "Galaxy Z Fold 8 improvements",
-        "Significant display crease reduction",
-        "Competes with Oppo Find N6"
-      ],
-      "impact": "This could enhance user satisfaction with foldables.",
-      "id": "010c43302d87ae8fc6ba4bd6547358b9"
-    },
-    {
-      "title": "Nintendo Download Features New Titles",
-      "description": "The latest Nintendo Download update introduces exciting new games for North America, including Bluey and Final Fantasy. Gamers can explore fresh content on the eShop.",
-      "category": "Startups",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/05/nintendo-download-28th-may-north-america",
-      "image": "https://images.nintendolife.com/b7c146866cafb/large.jpg",
-      "published_at": "2026-05-29T16:00:00Z",
-      "key_points": [
-        "New games released on eShop",
-        "Includes Bluey and Final Fantasy",
-        "North America update"
-      ],
-      "impact": "This update keeps Nintendo's library fresh.",
-      "id": "5666937592767a069cdc5e183f901df9"
-    },
-    {
-      "title": "Key Chemistry Question Solved Without Quantum Computers",
-      "description": "A groundbreaking study reveals that classical computers can solve complex chemistry questions previously thought to require quantum computing. This challenges existing assumptions.",
-      "category": "Science",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/05/Chem-Quantum-Advantage-cr-Nash-Weerasekera-Social.jpg",
-      "published_at": "2026-05-29T14:24:55Z",
-      "key_points": [
-        "Classical computers solve chemistry questions",
-        "Challenges quantum computing assumptions",
-        "Significant scientific breakthrough"
-      ],
-      "impact": "This could reshape chemistry research methodologies.",
-      "id": "fcfb0122f6120d916acfd8fcffc7627a"
-    },
-    {
-      "title": "Valve's Steam Deck Price Increases Analyzed",
-      "description": "Analysts discuss Valve's recent price hikes for the Steam Deck and implications for the upcoming Steam Machine. Concerns about market behavior are raised.",
+      "title": "Key Factors for Tipping Food Delivery Drivers",
+      "description": "A food delivery driver shares insights on tipping, emphasizing two main factors that should influence gratuity. Prudie's advice sparks discussion.",
       "category": "Business",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/valve-steam-deck-price-increase-steam-machine-future-analysts-reaction",
-      "image": "https://assetsio.gnwcdn.com/The-LED-strim-on-the-Steam-Machine.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-05-29T14:04:36Z",
+      "source": "Slate Magazine",
+      "url": "https://slate.com/advice/2026/05/delivery-food-how-much-to-tip-advice.html",
+      "image": "https://compote.slate.com/images/6abe8feb-56fe-4ca5-8f72-fc445ceacc90.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "published_at": "2026-05-29T10:00:00Z",
       "key_points": [
-        "Steam Deck price increases discussed",
-        "Analysts express market concerns",
-        "Future of Steam Machine uncertain"
+        "Two main tipping factors",
+        "Discussion sparked by Prudie",
+        "Focus on delivery quality"
       ],
-      "impact": "Price hikes may affect consumer interest.",
-      "id": "9a717fc016436de50562955290beac3c"
-    },
-    {
-      "title": "Google's Fitbit Air Emphasizes Minimalism",
-      "description": "The Fitbit Air focuses on passive wellness tracking and AI tools, promoting a minimalist approach to fitness tracking. It aims to simplify user experience.",
-      "category": "Hardware",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/google-fitbit-air-review-3671325/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Google-Fitbit-Air-Hero-1-scaled.jpg",
-      "published_at": "2026-05-29T10:19:18Z",
-      "key_points": [
-        "Fitbit Air promotes minimalism",
-        "Focus on passive wellness tracking",
-        "AI tools enhance user experience"
-      ],
-      "impact": "This could redefine fitness tracking standards.",
-      "id": "7a5e79d92c2d89f017071ed1c9f92710"
-    },
-    {
-      "title": "Microsoft Revamps Copilot's Appearance",
-      "description": "Microsoft unveils a more polished look for its Copilot feature, aiming for a more professional appearance. This update enhances user interaction.",
-      "category": "Software",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS3Z3YXEwUEdaYmlDSWJnQkJ5QXZPSWsxWnNOd0pqRkprNlgxVHNlTldzQ3I3S1l5UUkzUVlpazFwb2xEWkxIX1lvcWg4LU1mRVBCVTlSbHZoUTVpdHdPWHYyNlRwQThfR0E1Z1lXTTNyVGw5RnVEb1Bjd25PWlJ4bjdhMmdoMUhjRllCMUtWNA?oc=5",
-      "image": "",
-      "published_at": "2026-05-28T20:09:49Z",
-      "key_points": [
-        "Microsoft Copilot gets a makeover",
-        "Focus on professional appearance",
-        "Enhances user interaction"
-      ],
-      "impact": "This update may improve user satisfaction.",
-      "id": "cde93c389f776927d4de2a921d02bd38"
-    },
-    {
-      "title": "Rivian Claims CarPlay and Android Auto Are Redundant",
-      "description": "Rivian's software chief argues that AI advancements make CarPlay and Android Auto unnecessary. The focus shifts towards integrated AI solutions in vehicles.",
-      "category": "Business",
-      "source": "The Drive",
-      "url": "https://www.thedrive.com/news/rivian-software-chief-says-carplay-and-android-auto-are-redundant-in-the-world-of-ai",
-      "image": "https://www.thedrive.com/wp-content/uploads/content-b/message-editor/1592853887182-applecarplay14.jpg?w=1200",
-      "published_at": "2026-05-28T19:52:05Z",
-      "key_points": [
-        "Rivian dismisses CarPlay and Android Auto",
-        "AI integration emphasized",
-        "Focus on future vehicle technology"
-      ],
-      "impact": "This could change automotive software development.",
-      "id": "23f9cfd79fa66055197133e1ec185027"
+      "impact": "This advice aims to improve tipping practices.",
+      "id": "7288a81f80819ca057253d06c0986fa3"
     }
   ]
 }

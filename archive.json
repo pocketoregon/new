@@ -1,6 +1,141 @@
 {
   "batches": [
     {
+      "id": "2026-05-31T08:16:13.531701+00:00",
+      "fetched_at": "2026-05-31T08:16:13.531701+00:00",
+      "label": "May 31, 2026 — 08:16 AM UTC",
+      "articles": [
+        {
+          "title": "Rayman Origins: Enhanced Edition Leaked",
+          "description": "Rayman Origins: Enhanced Edition has leaked on the Xbox store, promising 4K resolution and 60 FPS. Ubisoft calls it the definitive experience for fans.",
+          "category": "Software",
+          "source": "Nintendoeverything.com",
+          "url": "https://nintendoeverything.com/rayman-origins-enhanced-edition-leaked-first-details-and-screenshots/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Rayman-Origins-Enhanced-Edition-leak.jpg",
+          "published_at": "2026-05-29T20:58:44Z",
+          "key_points": [
+            "4K resolution confirmed",
+            "60 FPS gameplay",
+            "Leaked on Xbox store"
+          ],
+          "impact": "This leak builds anticipation for the release.",
+          "id": "16fdb687071ecae6dd7595d0bd46a7f2"
+        },
+        {
+          "title": "Call of Duty: Modern Warfare 4 Launches on Switch 2",
+          "description": "Call of Duty: Modern Warfare 4 will launch simultaneously on Switch 2, PS5, Xbox Series X/S, and PC. The campaign will be single-player only.",
+          "category": "Software",
+          "source": "Digitalfoundry.net",
+          "url": "https://www.digitalfoundry.net/previews/call-of-duty-modern-warfare-4-will-be-the-first-to-ship-day-and-date-on-switch-2-alongside-ps5-xbox-series-xs-and-pc",
+          "image": "https://images.digitalfoundry.net/c99c84c8f3d48/large.jpg",
+          "published_at": "2026-05-29T20:34:36Z",
+          "key_points": [
+            "First COD on Switch 2",
+            "Single-player campaign only",
+            "Launches on multiple platforms"
+          ],
+          "impact": "This marks a significant expansion for the franchise.",
+          "id": "5c29073ed11161698870a6bab46ecb3d"
+        },
+        {
+          "title": "TP-Link Announces Wi-Fi 8 Router Launch",
+          "description": "TP-Link plans to launch its first Wi-Fi 8 router, the Archer 8, in October. This will kick off a new line of Wi-Fi 8 products.",
+          "category": "Hardware",
+          "source": "Gizmodo",
+          "url": "https://gizmodo.com/tp-link-says-screw-it-were-doing-wi-fi-8-now-2000765221",
+          "image": "https://gizmodo.com/app/uploads/2026/05/TP-Link-Wi-Fi-8-teaser-image-1200x675.jpg",
+          "published_at": "2026-05-29T20:25:49Z",
+          "key_points": [
+            "First Wi-Fi 8 router",
+            "Launch set for October",
+            "New product line coming"
+          ],
+          "impact": "Wi-Fi 8 promises faster connectivity options.",
+          "id": "ca472bba65edd44b4a26a8714c168856"
+        },
+        {
+          "title": "New AC Cobra Coupe Unveiled at $537,000",
+          "description": "The new AC Cobra coupe is priced at $537,000 and boasts 799 HP. This supercar combines modern design with classic performance.",
+          "category": "Business",
+          "source": "Theautopian.com",
+          "url": "https://www.theautopian.com/theres-a-new-ac-cobra-coupe-and-its-a-537000-lump-of-carbon-fiber-with-tires-as-thin-as-rubber-bands/",
+          "image": "https://images-stag.jazelc.com/uploads/theautopian-m2en/AC-Cobra-GT-TS.png",
+          "published_at": "2026-05-29T17:25:58Z",
+          "key_points": [
+            "Priced at $537,000",
+            "799 HP performance",
+            "Modern design meets classic"
+          ],
+          "impact": "This supercar targets high-end automotive enthusiasts.",
+          "id": "b2e9ac9a1dd71fc274606d249f3170dc"
+        },
+        {
+          "title": "Intel's Arc G3 Gaming Handhelds Announced",
+          "description": "Intel has officially launched its Arc G3 chipsets for gaming handhelds, debuting with Acer's Predator Atlas 8 and OneXPlayer 3. These devices promise powerful performance.",
+          "category": "Hardware",
+          "source": "Digitalfoundry.net",
+          "url": "https://www.digitalfoundry.net/news/2026/05/intels-arc-g3-goes-official-acer-predator-atlas-8-and-onexplayer-3-pc-gaming-handhelds-look-powerful-expensive",
+          "image": "https://images.digitalfoundry.net/a4e6588ae41e7/large.jpg",
+          "published_at": "2026-05-29T11:15:00Z",
+          "key_points": [
+            "Arc G3 chipsets launched",
+            "Powerful gaming handhelds",
+            "Acer Predator Atlas 8 featured"
+          ],
+          "impact": "Intel's entry boosts competition in handheld gaming.",
+          "id": "4455aaae6556cb70aed59fefcc29d424"
+        },
+        {
+          "title": "One UI 9 Watch Beta Launch Imminent",
+          "description": "Samsung is preparing to launch the One UI 9 Watch beta, featuring smarter AI and health upgrades. This follows nearly a year after One UI 8 Watch's debut.",
+          "category": "Software",
+          "source": "SamMobile",
+          "url": "https://www.sammobile.com/news/one-ui-9-watch-beta-may-be-around-the-corner-smarter-ai-health-upgrades/",
+          "image": "https://www.sammobile.com/wp-content/uploads/2025/11/Galaxy-Watch-8-Classic-2-1-1200x675.jpg",
+          "published_at": "2026-05-29T11:07:00Z",
+          "key_points": [
+            "One UI 9 beta coming soon",
+            "Focus on AI and health",
+            "Follows One UI 8 release"
+          ],
+          "impact": "This update enhances Samsung's smartwatch capabilities.",
+          "id": "3a6c395271e254da1db88732a0d88b5d"
+        },
+        {
+          "title": "Turning Off Phone Notifications: A Week's Experience",
+          "description": "A week without phone notifications revealed how much attention was consumed by apps and alerts. The silence was surprisingly refreshing.",
+          "category": "Policy",
+          "source": "CNET",
+          "url": "https://www.cnet.com/tech/services-and-software/features/i-turned-off-all-my-phone-notifications-for-a-week-heres-why-im-not-going-back/",
+          "image": "https://www.cnet.com/a/img/resize/06f3d55c956d91870a77f5f7e243be6eb66b0a7d/hub/2026/05/28/b35277e4-440e-43a1-9763-4df5de9c14af/hero.png?auto=webp&fit=crop&height=675&width=1200",
+          "published_at": "2026-05-29T10:00:00Z",
+          "key_points": [
+            "Notifications turned off for a week",
+            "Revealed attention consumption",
+            "Experience was refreshing"
+          ],
+          "impact": "This experiment highlights the need for digital balance.",
+          "id": "441050d4d40f01bb76d4371416d10df4"
+        },
+        {
+          "title": "Key Factors for Tipping Food Delivery Drivers",
+          "description": "A food delivery driver shares insights on tipping, emphasizing two main factors that should influence gratuity. Prudie's advice sparks discussion.",
+          "category": "Business",
+          "source": "Slate Magazine",
+          "url": "https://slate.com/advice/2026/05/delivery-food-how-much-to-tip-advice.html",
+          "image": "https://compote.slate.com/images/6abe8feb-56fe-4ca5-8f72-fc445ceacc90.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+          "published_at": "2026-05-29T10:00:00Z",
+          "key_points": [
+            "Two main tipping factors",
+            "Discussion sparked by Prudie",
+            "Focus on delivery quality"
+          ],
+          "impact": "This advice aims to improve tipping practices.",
+          "id": "7288a81f80819ca057253d06c0986fa3"
+        }
+      ]
+    },
+    {
       "id": "2026-05-31T04:06:19.465613+00:00",
       "fetched_at": "2026-05-31T04:06:19.465613+00:00",
       "label": "May 31, 2026 — 04:06 AM UTC",
