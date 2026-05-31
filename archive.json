@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-05-31T04:06:19.465613+00:00",
+      "fetched_at": "2026-05-31T04:06:19.465613+00:00",
+      "label": "May 31, 2026 — 04:06 AM UTC",
+      "articles": [
+        {
+          "title": "Nvidia Teases New N1X Laptop Processors",
+          "description": "Nvidia, Microsoft, and Arm are gearing up for Nvidia’s keynote at Computex, showcasing the new N1X laptop processors. Anticipation is building for the unveiling.",
+          "category": "Hardware",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2192219004.jpg?quality=90&strip=all&crop=0%2C10.703832833872%2C100%2C78.592334332257&w=1200",
+          "published_at": "2026-05-29T23:03:29Z",
+          "key_points": [
+            "Nvidia's keynote at Computex",
+            "New N1X processors revealed",
+            "Collaboration with Microsoft and Arm"
+          ],
+          "impact": "Nvidia's new processors could redefine laptop performance.",
+          "id": "0a7f91c4a5e60b13f3b9dfab5c666680"
+        },
+        {
+          "title": "Apple's iPhone Camera Upgrade to Cost More",
+          "description": "Analyst Ming-Chi Kuo reveals Apple's iPhone camera roadmap, highlighting a costly upgrade involving an ultra-wide module change. Expect significant price increases.",
+          "category": "Business",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/05/29/kuo-apples-iphone-camera-roadmap-includes-a-costly-upgrade/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/iPhone-18-Pro-variable-aperture-lens-manufacturing-reportedly-underway.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-05-29T21:05:00Z",
+          "key_points": [
+            "Costly iPhone camera upgrades",
+            "New ultra-wide module",
+            "Analyst Ming-Chi Kuo's insights"
+          ],
+          "impact": "Apple's camera upgrades may impact iPhone sales.",
+          "id": "c24a83f69c90fd9a2a8dcd96fe5ffa84"
+        },
+        {
+          "title": "Xbox to Showcase PS5 Game Availability",
+          "description": "Xbox CCO Matt Booty confirms that the upcoming Xbox Games Showcase will reveal when its titles will be available on PS5 and other platforms. Multiplatform strategy highlighted.",
+          "category": "Software",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/gaming/xbox/xbox-games-chief-confirms-microsoft-will-show-when-its-titles-are-coming-to-ps5-and-other-platforms-at-the-xbox-games-showcase",
+          "image": "https://cdn.mos.cms.futurecdn.net/5SynmdFSYnmmRfUGkSQLsA-1920-80.jpg",
+          "published_at": "2026-05-29T20:13:35Z",
+          "key_points": [
+            "Xbox titles on PS5 confirmed",
+            "Multiplatform strategy emphasized",
+            "Showcase scheduled for next week"
+          ],
+          "impact": "This move could broaden Xbox's audience.",
+          "id": "6d81ca9866bc0f2066cafb5043a9e1d6"
+        },
+        {
+          "title": "Revolutionary Energy Gel for Tour de France",
+          "description": "A groundbreaking energy gel developed by former Ineos scientists promises to transform nutrition for Tour de France athletes. It addresses long-standing challenges in sports nutrition.",
+          "category": "Science",
+          "source": "Outside",
+          "url": "https://velo.outsideonline.com/road/road-training/lactate-energy-gel-tour-de-france/#article",
+          "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/05/Z8C_5588.jpg",
+          "published_at": "2026-05-29T20:07:11Z",
+          "key_points": [
+            "New energy gel innovation",
+            "Targets Tour de France athletes",
+            "Developed by sports scientists"
+          ],
+          "impact": "This gel could enhance athlete performance significantly.",
+          "id": "9909f4378ebe63ad3565b3888c9d3338"
+        },
+        {
+          "title": "Apple Music Faces Outage in Multiple Countries",
+          "description": "Apple Music is experiencing disruptions in several countries, as confirmed by Apple's System Status pages. Users are reporting issues accessing the service.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/05/29/apple-music-outage-confirmed-in-multiple-countries/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-music-app-icon-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-05-29T19:16:00Z",
+          "key_points": [
+            "Apple Music outage confirmed",
+            "Multiple countries affected",
+            "Service disruption details provided"
+          ],
+          "impact": "This outage may frustrate Apple Music users.",
+          "id": "e3050813b4bb195d0afa719498a86ee4"
+        },
+        {
+          "title": "Acer Launches Linux Handheld for Game Streaming",
+          "description": "Acer introduces the Nitro Blaze Link, a Linux-based handheld designed for streaming PC games. It features minimal specs with just 1GB of RAM.",
+          "category": "Hardware",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/acer-nitro-blaze-link-announcement-cropped.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+          "published_at": "2026-05-29T19:01:48Z",
+          "key_points": [
+            "Acer's Nitro Blaze Link launched",
+            "Linux-based game streaming",
+            "Only 1GB of RAM"
+          ],
+          "impact": "This device targets budget-conscious gamers.",
+          "id": "7d130cf012dc92f29811f63142d6ce59"
+        },
+        {
+          "title": "StarCraft 2 Receives Major Balance Changes",
+          "description": "Blizzard announces significant balance changes for StarCraft 2, shocking the community after years of stability. Update 5.0.16 is set to alter gameplay dynamics.",
+          "category": "Software",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/starcraft-2-fans-shocked-after-blizzard-launches-major-balance-changes-for-the-first-time-in-years",
+          "image": "https://assets-prd.ignimgs.com/2026/05/29/stracraft-2-1780069131197.png?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-05-29T17:38:26Z",
+          "key_points": [
+            "Major balance changes announced",
+            "Community reacts strongly",
+            "Update 5.0.16 coming soon"
+          ],
+          "impact": "This update could reshape StarCraft 2 strategies.",
+          "id": "e8cccf3ab68f1bd46535c7f59ade4f90"
+        },
+        {
+          "title": "DuckDuckGo Sees Surge Amid Google AI Search Shift",
+          "description": "As Google shifts to AI-driven search, DuckDuckGo experiences a spike in installations. Users seek alternatives to traditional search methods.",
+          "category": "Software",
+          "source": "Futurism",
+          "url": "https://futurism.com/artificial-intelligence/duckduckgo-installs-spike-google-search-ai",
+          "image": "https://futurism.com/wp-content/uploads/2026/05/duckduckgo-installs-spike-google-search-ai.jpg?w=1200",
+          "published_at": "2026-05-29T17:08:17Z",
+          "key_points": [
+            "DuckDuckGo installations surge",
+            "Users seek search alternatives",
+            "Google's AI search redesign impacts market"
+          ],
+          "impact": "DuckDuckGo could gain significant market share.",
+          "id": "ec81c3c18c9ca89256753bc2b8367f45"
+        },
+        {
+          "title": "Galaxy Z Fold 8 Improves Display Crease",
+          "description": "Reports suggest the Galaxy Z Fold 8 will significantly enhance the display crease, rivaling industry leaders. This improvement addresses a common consumer concern.",
+          "category": "Hardware",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/05/29/galaxy-z-fold-8-series-may-significantly-improve-the-display-crease/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-53.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-05-29T16:45:00Z",
+          "key_points": [
+            "Galaxy Z Fold 8 improvements",
+            "Significant display crease reduction",
+            "Competes with Oppo Find N6"
+          ],
+          "impact": "This could enhance user satisfaction with foldables.",
+          "id": "010c43302d87ae8fc6ba4bd6547358b9"
+        },
+        {
+          "title": "Nintendo Download Features New Titles",
+          "description": "The latest Nintendo Download update introduces exciting new games for North America, including Bluey and Final Fantasy. Gamers can explore fresh content on the eShop.",
+          "category": "Startups",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/05/nintendo-download-28th-may-north-america",
+          "image": "https://images.nintendolife.com/b7c146866cafb/large.jpg",
+          "published_at": "2026-05-29T16:00:00Z",
+          "key_points": [
+            "New games released on eShop",
+            "Includes Bluey and Final Fantasy",
+            "North America update"
+          ],
+          "impact": "This update keeps Nintendo's library fresh.",
+          "id": "5666937592767a069cdc5e183f901df9"
+        },
+        {
+          "title": "Key Chemistry Question Solved Without Quantum Computers",
+          "description": "A groundbreaking study reveals that classical computers can solve complex chemistry questions previously thought to require quantum computing. This challenges existing assumptions.",
+          "category": "Science",
+          "source": "Quanta Magazine",
+          "url": "https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/",
+          "image": "https://www.quantamagazine.org/wp-content/uploads/2026/05/Chem-Quantum-Advantage-cr-Nash-Weerasekera-Social.jpg",
+          "published_at": "2026-05-29T14:24:55Z",
+          "key_points": [
+            "Classical computers solve chemistry questions",
+            "Challenges quantum computing assumptions",
+            "Significant scientific breakthrough"
+          ],
+          "impact": "This could reshape chemistry research methodologies.",
+          "id": "fcfb0122f6120d916acfd8fcffc7627a"
+        },
+        {
+          "title": "Valve's Steam Deck Price Increases Analyzed",
+          "description": "Analysts discuss Valve's recent price hikes for the Steam Deck and implications for the upcoming Steam Machine. Concerns about market behavior are raised.",
+          "category": "Business",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/valve-steam-deck-price-increase-steam-machine-future-analysts-reaction",
+          "image": "https://assetsio.gnwcdn.com/The-LED-strim-on-the-Steam-Machine.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-05-29T14:04:36Z",
+          "key_points": [
+            "Steam Deck price increases discussed",
+            "Analysts express market concerns",
+            "Future of Steam Machine uncertain"
+          ],
+          "impact": "Price hikes may affect consumer interest.",
+          "id": "9a717fc016436de50562955290beac3c"
+        },
+        {
+          "title": "Google's Fitbit Air Emphasizes Minimalism",
+          "description": "The Fitbit Air focuses on passive wellness tracking and AI tools, promoting a minimalist approach to fitness tracking. It aims to simplify user experience.",
+          "category": "Hardware",
+          "source": "Android Authority",
+          "url": "https://www.androidauthority.com/google-fitbit-air-review-3671325/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Google-Fitbit-Air-Hero-1-scaled.jpg",
+          "published_at": "2026-05-29T10:19:18Z",
+          "key_points": [
+            "Fitbit Air promotes minimalism",
+            "Focus on passive wellness tracking",
+            "AI tools enhance user experience"
+          ],
+          "impact": "This could redefine fitness tracking standards.",
+          "id": "7a5e79d92c2d89f017071ed1c9f92710"
+        },
+        {
+          "title": "Microsoft Revamps Copilot's Appearance",
+          "description": "Microsoft unveils a more polished look for its Copilot feature, aiming for a more professional appearance. This update enhances user interaction.",
+          "category": "Software",
+          "source": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS3Z3YXEwUEdaYmlDSWJnQkJ5QXZPSWsxWnNOd0pqRkprNlgxVHNlTldzQ3I3S1l5UUkzUVlpazFwb2xEWkxIX1lvcWg4LU1mRVBCVTlSbHZoUTVpdHdPWHYyNlRwQThfR0E1Z1lXTTNyVGw5RnVEb1Bjd25PWlJ4bjdhMmdoMUhjRllCMUtWNA?oc=5",
+          "image": "",
+          "published_at": "2026-05-28T20:09:49Z",
+          "key_points": [
+            "Microsoft Copilot gets a makeover",
+            "Focus on professional appearance",
+            "Enhances user interaction"
+          ],
+          "impact": "This update may improve user satisfaction.",
+          "id": "cde93c389f776927d4de2a921d02bd38"
+        },
+        {
+          "title": "Rivian Claims CarPlay and Android Auto Are Redundant",
+          "description": "Rivian's software chief argues that AI advancements make CarPlay and Android Auto unnecessary. The focus shifts towards integrated AI solutions in vehicles.",
+          "category": "Business",
+          "source": "The Drive",
+          "url": "https://www.thedrive.com/news/rivian-software-chief-says-carplay-and-android-auto-are-redundant-in-the-world-of-ai",
+          "image": "https://www.thedrive.com/wp-content/uploads/content-b/message-editor/1592853887182-applecarplay14.jpg?w=1200",
+          "published_at": "2026-05-28T19:52:05Z",
+          "key_points": [
+            "Rivian dismisses CarPlay and Android Auto",
+            "AI integration emphasized",
+            "Focus on future vehicle technology"
+          ],
+          "impact": "This could change automotive software development.",
+          "id": "23f9cfd79fa66055197133e1ec185027"
+        }
+      ]
+    },
+    {
       "id": "2026-05-30T23:00:19.465804+00:00",
       "fetched_at": "2026-05-30T23:00:19.465804+00:00",
       "label": "May 30, 2026 — 11:00 PM UTC",
