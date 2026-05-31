@@ -1,6 +1,221 @@
 {
   "batches": [
     {
+      "id": "2026-05-31T19:20:49.861487+00:00",
+      "fetched_at": "2026-05-31T19:20:49.861487+00:00",
+      "label": "May 31, 2026 — 07:21 PM UTC",
+      "articles": [
+        {
+          "title": "Minecraft LIVE Recap: Exciting Updates Revealed",
+          "description": "Minecraft LIVE at TwitchCon Europe showcased new features, including Chaos Cubed, a sequel movie, and a new foe in Minecraft Dungeons II. Fans are buzzing with anticipation!",
+          "category": "Software",
+          "source": "Minecraft.net",
+          "url": "https://www.minecraft.net/en-us/article/minecraft-live-twitchcon-rotterdam-recap",
+          "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/Minecraft_Live__1170x500.jpg",
+          "published_at": "2026-05-30T15:54:16Z",
+          "key_points": [
+            "New Chaos Cubed drop announced",
+            "Sequel to Minecraft Movie",
+            "Introducing Twisted Warden enemy"
+          ],
+          "impact": "Minecraft continues to expand its universe.",
+          "id": "fcfff70939cd05d8874f27bf0079be0b"
+        },
+        {
+          "title": "Google's Gemini Spark: A Handy AI Assistant",
+          "description": "Gemini Spark automates tasks like inbox summaries and event planning, but its standalone status raises questions about its purpose. Users find it quite useful.",
+          "category": "AI",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/gemini-spark-GettyImages-2276583186-1.jpg?w=1024",
+          "published_at": "2026-05-30T15:30:00Z",
+          "key_points": [
+            "Automates everyday tasks",
+            "Useful for event planning",
+            "Standalone product raises questions"
+          ],
+          "impact": "Gemini Spark enhances productivity for users.",
+          "id": "cb4aba7b079372525d43a79e303a3063"
+        },
+        {
+          "title": "Microsoft Threatens Legal Action Over Vulnerability Disclosure",
+          "description": "Microsoft is taking legal steps against researcher Nightmare Eclipse for revealing security vulnerabilities publicly. The conflict highlights tensions in cybersecurity.",
+          "category": "Security",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK095_Microsoft_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-05-30T15:19:50Z",
+          "key_points": [
+            "Legal action against researcher",
+            "Public vulnerability disclosure issues",
+            "Tensions in cybersecurity rise"
+          ],
+          "impact": "Microsoft's stance raises ethical concerns.",
+          "id": "75e3d3110327917d0acae8f8867e02fa"
+        },
+        {
+          "title": "VCs Discuss AI Frenzy at TechCrunch Event",
+          "description": "Top VCs shared insights on the AI boom, noting that age and experience can influence funding opportunities. The excitement around AI continues to grow.",
+          "category": "Startups",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/SVC-Athens-2.jpg?w=800",
+          "published_at": "2026-05-30T14:49:27Z",
+          "key_points": [
+            "Age influences funding opportunities",
+            "AI excitement continues to grow",
+            "VCs share insights on trends"
+          ],
+          "impact": "The AI frenzy shows no signs of slowing.",
+          "id": "84c4c2c1c259d28eb3e3ee552fc5fe1a"
+        },
+        {
+          "title": "Arduboy FX-C: A Fun Handheld Gaming Device",
+          "description": "The Arduboy FX-C offers a compact gaming experience with over 300 games, perfect for quick entertainment on the go. Its simplicity is its charm.",
+          "category": "Hardware",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/939782/arduboy-fx-c-arduino-handheld-hands-on",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/arduboyfxc_1C.jpg?quality=90&strip=all&crop=0%2C10.527728481296%2C100%2C78.944543037407&w=1200",
+          "published_at": "2026-05-30T14:00:00Z",
+          "key_points": [
+            "Over 300 games available",
+            "Compact and portable design",
+            "Great for quick gaming sessions"
+          ],
+          "impact": "Arduboy FX-C is a nostalgic gaming delight.",
+          "id": "43f8794cedff5498cff1e525e2ee9bf1"
+        },
+        {
+          "title": "Sony's Final Standalone TVs Unveiled",
+          "description": "Sony launched its last premium Bravia TVs before merging its home theater business with TCL Electronics. These high-end models mark the end of an era.",
+          "category": "Hardware",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-27/sony-takes-final-bow-as-standalone-tv-maker-with-new-bravia-9-ii-and-bravia-7-ii",
+          "image": "https://images.seattletimes.com/wp-content/uploads/2026/05/05282026_TZR_Sony_Bravia_TV-Bloomberg_tzr_111415.jpg?d=1200x630",
+          "published_at": "2026-05-30T13:01:02Z",
+          "key_points": [
+            "Last premium Bravia TVs released",
+            "Merging with TCL Electronics",
+            "End of an era for Sony TVs"
+          ],
+          "impact": "Sony's TV legacy concludes with these models.",
+          "id": "fe0496ae2622ab1be88990cededa71b8"
+        },
+        {
+          "title": "MSI Claw 8 EX AI+ Showcased at Computex",
+          "description": "The MSI Claw 8 EX AI+ featuring Intel's Arc G3 Extreme was previewed at Computex, generating excitement ahead of the official event.",
+          "category": "Hardware",
+          "source": "Videocardz.com",
+          "url": "https://videocardz.com/newz/msi-claw-8-ex-ai-with-intel-arc-g3-extreme-appears-in-early-computex-hands-on",
+          "image": "https://cdn.videocardz.com/1/2026/05/MSI-CLAW-8-EX-ARC-G3_02-e1780130533618.jpg",
+          "published_at": "2026-05-30T12:50:52Z",
+          "key_points": [
+            "MSI Claw 8 EX AI+ previewed",
+            "Features Intel Arc G3 Extreme",
+            "Excitement builds for Computex"
+          ],
+          "impact": "MSI's new handheld garners industry attention.",
+          "id": "0c041c2470358d0fe54dc0b30bd3b75f"
+        },
+        {
+          "title": "Acer Launches New Veriton Mini Workstations",
+          "description": "Acer's new Veriton mini workstations feature Ryzen AI MAX 395 and Core Ultra 200 CPUs, targeting commercial users with compact designs.",
+          "category": "Hardware",
+          "source": "Videocardz.com",
+          "url": "https://videocardz.com/newz/acer-launches-veriton-mini-workstation-with-ryzen-ai-max-395-and-core-ultra-200-cpus",
+          "image": "https://cdn.videocardz.com/1/2026/05/ACER-MINI-WORKSTATIONS-HERO.jpg",
+          "published_at": "2026-05-30T06:30:47Z",
+          "key_points": [
+            "New Veriton mini workstations launched",
+            "Powered by Ryzen AI MAX 395",
+            "Compact design for commercial use"
+          ],
+          "impact": "Acer targets businesses with new workstations.",
+          "id": "2d9ad68aae0b49f7333d6d00280989fb"
+        },
+        {
+          "title": "Persona 6 Confidant Character Leaks Online",
+          "description": "A new confidant character for Persona 6 has leaked online, confirmed by a reliable source. Fans eagerly await more details about the game.",
+          "category": "Software",
+          "source": "GameRant",
+          "url": "https://gamerant.com/persona-6-p6-leaks-confidant/",
+          "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/05/persona-6-with-persona-protagonists.jpg?w=1600&h=900&fit=crop",
+          "published_at": "2026-05-30T02:35:00Z",
+          "key_points": [
+            "New character leaks for Persona 6",
+            "Confirmed by reliable source",
+            "Fans excited for game details"
+          ],
+          "impact": "Persona 6 hype continues to build.",
+          "id": "5e83b0b57122b114f0bccae07347e812"
+        },
+        {
+          "title": "Acer Targets Galaxy Tab with New Device",
+          "description": "Acer is launching a new device aimed at competing with the Galaxy Tab, showcasing innovative features to attract users. Details are still emerging.",
+          "category": "Business",
+          "source": "PhoneArena",
+          "url": "https://www.phonearena.com/news/acer-is-coming-for-the-galaxy-tab-and-it-picked-a-clever-way-to-do-it_id180757",
+          "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/05/persona-6-with-persona-protagonists.jpg?w=1600&h=900&fit=crop",
+          "published_at": "2026-05-29T21:39:10Z",
+          "key_points": [
+            "Acer targets Galaxy Tab market",
+            "Innovative features highlighted",
+            "Details still emerging"
+          ],
+          "impact": "Acer aims to disrupt the tablet market.",
+          "id": "82999355a0e9cef7bbf51b359c2d85fe"
+        },
+        {
+          "title": "Affordable Lidar Lawn Robot: Mammotion Luba 3",
+          "description": "Mammotion introduces a budget-friendly lidar-enabled lawn robot, making automated lawn care accessible to more homeowners. A game-changer for gardening.",
+          "category": "Hardware",
+          "source": "The Drive",
+          "url": "https://www.thedrive.com/news/a-lidar-enabled-lawn-robot-that-wont-break-the-bank-the-mammotion-luba-3-awd-5000h",
+          "image": "https://www.thedrive.com/wp-content/uploads/2026/05/20260529_144546.jpg?w=1200",
+          "published_at": "2026-05-29T20:43:57Z",
+          "key_points": [
+            "Budget-friendly lawn robot",
+            "Lidar technology included",
+            "Automates lawn care for homeowners"
+          ],
+          "impact": "Mammotion makes lawn care easier and affordable.",
+          "id": "194dc13a3b84559102a8c65d709d89d4"
+        },
+        {
+          "title": "Google Drive Features Replace Paid PDF Editor",
+          "description": "Discover hidden Google Drive features that eliminate the need for a paid PDF editor, saving users money while enhancing productivity.",
+          "category": "Software",
+          "source": "Android Police",
+          "url": "https://www.androidpolice.com/i-stopped-paying-pdf-editor-google-drive-hidden-features-all-i-need/",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/google-drive-logo-over-a-pdf-document-with-floating-file-and-productivity-icons-on-a-blue-background.jpg?w=1600&h=900&fit=crop",
+          "published_at": "2026-05-29T19:00:11Z",
+          "key_points": [
+            "Google Drive features save money",
+            "No need for paid PDF editor",
+            "Enhances productivity for users"
+          ],
+          "impact": "Google Drive proves its versatility and value.",
+          "id": "c080d0b134fbf77f54f743f5046b7fc9"
+        },
+        {
+          "title": "One UI 8.5 Update for Galaxy A16 5G Released",
+          "description": "Samsung's One UI 8.5 update for Galaxy A16 5G introduces new features and security enhancements, currently available in select regions.",
+          "category": "Software",
+          "source": "SamMobile",
+          "url": "https://www.sammobile.com/news/galaxy-a16-5g-one-ui-8-5-update-new-features/",
+          "image": "https://www.sammobile.com/wp-content/uploads/2025/01/Galaxy-A16-5G-1.jpg",
+          "published_at": "2026-05-29T15:54:00Z",
+          "key_points": [
+            "One UI 8.5 update released",
+            "New features and security patches",
+            "Available in India and Indonesia"
+          ],
+          "impact": "Samsung enhances user experience with updates.",
+          "id": "316ad6212567d5bb6b994f31d996de6c"
+        }
+      ]
+    },
+    {
       "id": "2026-05-31T17:09:39.411727+00:00",
       "fetched_at": "2026-05-31T17:09:39.411727+00:00",
       "label": "May 31, 2026 — 05:09 PM UTC",
