@@ -1,6 +1,77 @@
 {
   "batches": [
     {
+      "id": "2026-05-31T21:02:38.964116+00:00",
+      "fetched_at": "2026-05-31T21:02:38.964116+00:00",
+      "label": "May 31, 2026 — 09:02 PM UTC",
+      "articles": [
+        {
+          "title": "Jony Ive’s Apple Car: A Ferrari Flop",
+          "description": "Apple's first EV supercar, designed by Jony Ive, faces backlash and criticism. The ambitious project has not resonated with consumers.",
+          "category": "Business",
+          "source": "Sfstandard.com",
+          "url": "https://sfstandard.com/2026/05/30/ferrari-luce-backlash-apple-design/",
+          "image": "https://assets.sfstandard.com/image/994911177489/image_r5ofvonm0p4gr5kodtvni25o48/-S1200x630-FPNG",
+          "published_at": "2026-05-30T13:00:00Z",
+          "key_points": [
+            "Apple's car design criticized",
+            "High expectations unmet",
+            "Consumer backlash evident"
+          ],
+          "impact": "Apple's car launch may hinder brand reputation.",
+          "id": "6810ce63762bf32701c0250134121dd0"
+        },
+        {
+          "title": "iOS 27 and MacBook Ultra Rumors Ahead of WWDC",
+          "description": "Anticipation builds for WWDC 2026 as leaks reveal potential features of iOS 27 and new MacBook models. Stay tuned for updates.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/05/30/top-stories-ios-27-leaks/",
+          "image": "https://images.macrumors.com/t/VJakcMxDe87KI4rHJ4csP6liKVM=/1600x/article-new/2026/05/top-stories-2026-05-30.jpg",
+          "published_at": "2026-05-30T13:00:00Z",
+          "key_points": [
+            "WWDC 2026 approaching",
+            "iOS 27 features leaked",
+            "MacBook Ultra rumors circulating"
+          ],
+          "impact": "Excitement grows for Apple's upcoming announcements.",
+          "id": "b9b30f7a2e5d90a9d6e9e630d93af6f5"
+        },
+        {
+          "title": "Googlebook: A Potential Windows Replacement",
+          "description": "The upcoming Googlebook could entice users to switch from Windows laptops. Its features may offer superior functionality for many tasks.",
+          "category": "Software",
+          "source": "Android Police",
+          "url": "https://www.androidpolice.com/if-google-nails-googlebook-gonna-ditch-windows-laptop/",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/close-up-renders-of-a-dark-googlebook-laptop-showing-the-lid-hinge-and-fingerprint-sensor-on-a-futuristic-blue-background.jpg?w=1600&h=900&fit=crop",
+          "published_at": "2026-05-30T12:30:11Z",
+          "key_points": [
+            "Googlebook may replace Windows",
+            "Enhanced app functionality",
+            "User interest growing"
+          ],
+          "impact": "Googlebook could disrupt the laptop market.",
+          "id": "4c082f1f0edb1e5a6e69aeef990b8a5d"
+        },
+        {
+          "title": "Galaxy A16 5G Receives One UI 8.5 Update",
+          "description": "Samsung's One UI 8.5 update for Galaxy A16 5G introduces new features and security enhancements. Currently available in select regions.",
+          "category": "Software",
+          "source": "SamMobile",
+          "url": "https://www.sammobile.com/news/galaxy-a16-5g-one-ui-8-5-update-new-features/",
+          "image": "https://www.sammobile.com/wp-content/uploads/2025/01/Galaxy-A16-5G-1.jpg",
+          "published_at": "2026-05-29T15:54:00Z",
+          "key_points": [
+            "One UI 8.5 launched",
+            "Available in India, Indonesia",
+            "Includes May 2026 security patch"
+          ],
+          "impact": "Samsung enhances user experience with new update.",
+          "id": "129b496f618240bd1806e99f3242ae42"
+        }
+      ]
+    },
+    {
       "id": "2026-05-31T19:20:49.861487+00:00",
       "fetched_at": "2026-05-31T19:20:49.861487+00:00",
       "label": "May 31, 2026 — 07:21 PM UTC",
