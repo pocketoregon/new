@@ -1,69 +1,101 @@
 {
-  "generated_at": "2026-05-31T21:02:38.964116+00:00",
+  "generated_at": "2026-05-31T23:02:17.881094+00:00",
   "articles": [
     {
-      "title": "Jony Ive’s Apple Car: A Ferrari Flop",
-      "description": "Apple's first EV supercar, designed by Jony Ive, faces backlash and criticism. The ambitious project has not resonated with consumers.",
-      "category": "Business",
-      "source": "Sfstandard.com",
-      "url": "https://sfstandard.com/2026/05/30/ferrari-luce-backlash-apple-design/",
-      "image": "https://assets.sfstandard.com/image/994911177489/image_r5ofvonm0p4gr5kodtvni25o48/-S1200x630-FPNG",
-      "published_at": "2026-05-30T13:00:00Z",
+      "title": "Nintendo Fixes Backwards Compatibility for Switch 2",
+      "description": "Nintendo has released new backwards compatibility fixes for Switch games on the Switch 2. Check out the full list of updates for May 2026.",
+      "category": "Software",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/nintendo-switch-2-switch-backwards-compatibility-fixes-may-2026/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Switch-2-Switch-backwards-compatibility-fixes-May-2026.webp",
+      "published_at": "2026-05-30T20:26:15Z",
       "key_points": [
-        "Apple's car design criticized",
-        "High expectations unmet",
-        "Consumer backlash evident"
+        "New fixes for Switch games",
+        "Updates released in May 2026",
+        "Improves Switch 2 compatibility"
       ],
-      "impact": "Apple's car launch may hinder brand reputation.",
-      "id": "6810ce63762bf32701c0250134121dd0"
+      "impact": "Enhances user experience for Switch 2 owners.",
+      "id": "92c2c2955cbfaeafdc0517a93e1dfd2a"
     },
     {
-      "title": "iOS 27 and MacBook Ultra Rumors Ahead of WWDC",
-      "description": "Anticipation builds for WWDC 2026 as leaks reveal potential features of iOS 27 and new MacBook models. Stay tuned for updates.",
+      "title": "GitHub Copilot's New Billing Model Sparks Outrage",
+      "description": "GitHub Copilot's shift to token-based billing has upset many developers. The change marks a significant departure from its previous subscription model.",
       "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/05/30/top-stories-ios-27-leaks/",
-      "image": "https://images.macrumors.com/t/VJakcMxDe87KI4rHJ4csP6liKVM=/1600x/article-new/2026/05/top-stories-2026-05-30.jpg",
-      "published_at": "2026-05-30T13:00:00Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/github-copilot-chat-2.webp?w=1200",
+      "published_at": "2026-05-30T16:30:00Z",
       "key_points": [
-        "WWDC 2026 approaching",
-        "iOS 27 features leaked",
-        "MacBook Ultra rumors circulating"
+        "Token-based billing introduced",
+        "Developers express frustration",
+        "End of flat subscription model"
       ],
-      "impact": "Excitement grows for Apple's upcoming announcements.",
-      "id": "b9b30f7a2e5d90a9d6e9e630d93af6f5"
+      "impact": "May drive users away from GitHub Copilot.",
+      "id": "a62eac67b84290f544ab74aef3c671dd"
     },
     {
-      "title": "Googlebook: A Potential Windows Replacement",
-      "description": "The upcoming Googlebook could entice users to switch from Windows laptops. Its features may offer superior functionality for many tasks.",
-      "category": "Software",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/if-google-nails-googlebook-gonna-ditch-windows-laptop/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/close-up-renders-of-a-dark-googlebook-laptop-showing-the-lid-hinge-and-fingerprint-sensor-on-a-futuristic-blue-background.jpg?w=1600&h=900&fit=crop",
-      "published_at": "2026-05-30T12:30:11Z",
+      "title": "Gemini Rapidly Closing Gap with ChatGPT",
+      "description": "Gemini is quickly narrowing the gap with ChatGPT due to several key advancements. Despite ChatGPT's popularity, Gemini's improvements are noteworthy.",
+      "category": "AI",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/gemini-chatgpt-gap-closing-reasons-3669341/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/gemini-neural-expressive-ui-update-home-screen-scaled.jpg",
+      "published_at": "2026-05-30T12:15:20Z",
       "key_points": [
-        "Googlebook may replace Windows",
-        "Enhanced app functionality",
-        "User interest growing"
+        "Gemini's advancements noted",
+        "ChatGPT faces challenges",
+        "Competition in AI market intensifies"
       ],
-      "impact": "Googlebook could disrupt the laptop market.",
-      "id": "4c082f1f0edb1e5a6e69aeef990b8a5d"
+      "impact": "Increases competition in the AI landscape.",
+      "id": "e81b25698aa6a4e388a11a2196686da9"
     },
     {
-      "title": "Galaxy A16 5G Receives One UI 8.5 Update",
-      "description": "Samsung's One UI 8.5 update for Galaxy A16 5G introduces new features and security enhancements. Currently available in select regions.",
-      "category": "Software",
-      "source": "SamMobile",
-      "url": "https://www.sammobile.com/news/galaxy-a16-5g-one-ui-8-5-update-new-features/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2025/01/Galaxy-A16-5G-1.jpg",
-      "published_at": "2026-05-29T15:54:00Z",
+      "title": "ChatGPT's Controversial State Rankings Revealed",
+      "description": "A new study reveals ChatGPT's controversial rankings of states based on intelligence and attractiveness. The findings have sparked discussions about AI biases.",
+      "category": "AI",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/these-are-the-states-where-youre-stupidest-and-smelliest-according-to-chatgpt-goog_n_6a184e30e4b0ddcc84688566",
+      "image": "https://img.huffingtonpost.com/asset/69a9d7b9170000ca242b1323.jpeg?cache=2985PbI1zD&ops=500_281%2Cscalefit_1200_630",
+      "published_at": "2026-05-30T11:00:18Z",
       "key_points": [
-        "One UI 8.5 launched",
-        "Available in India, Indonesia",
-        "Includes May 2026 security patch"
+        "AI stereotypes based on location",
+        "States ranked by intelligence",
+        "Controversy over AI biases"
       ],
-      "impact": "Samsung enhances user experience with new update.",
-      "id": "129b496f618240bd1806e99f3242ae42"
+      "impact": "Raises concerns about AI fairness and accuracy.",
+      "id": "0249a09738841cf7b213cd6ee0117886"
+    },
+    {
+      "title": "Fitbit Air vs. Oura Ring: Which is Better?",
+      "description": "A comparison of the Fitbit Air and Oura Ring reveals strengths and weaknesses of both fitness trackers. The choice depends on user preferences for wrist or finger wear.",
+      "category": "Software",
+      "source": "PCMag",
+      "url": "https://www.pcmag.com/comparisons/fitbit-air-vs-oura-ring-wrist-or-finger-for-the-future-of-wellness",
+      "image": "https://i.pcmag.com/imagery/reviews/03Pv2t2vCAlP5flZs0Jif1K-2-hero-image-gallery.fit_lim.size_1200x630.v1779395935.jpg",
+      "published_at": "2026-05-30T10:54:43Z",
+      "key_points": [
+        "Fitbit Air is affordable",
+        "Oura Ring offers style",
+        "Comparison of fitness trackers"
+      ],
+      "impact": "Helps consumers choose the right tracker.",
+      "id": "52e44bb42dd6ecf7fabd2d202cd41e23"
+    },
+    {
+      "title": "MacBook Pro Hits Lowest Price on Amazon",
+      "description": "The 2025 MacBook Pro is now available at its lowest price on Amazon. This deal offers powerful performance in a portable package.",
+      "category": "Hardware",
+      "source": "Pcguide.com",
+      "url": "https://www.pcguide.com/deals/last-years-macbook-pro-is-now-back-down-to-its-lowest-price-in-amazon-deal/",
+      "image": "https://www.pcguide.com/wp-content/uploads/2026/05/Last-years-MacBook-Pro-is-now-back-down-to-its-lowest-price-in-Amazon-deal.jpg",
+      "published_at": "2026-05-30T08:53:01Z",
+      "key_points": [
+        "Lowest price for MacBook Pro",
+        "Portable and powerful laptop",
+        "Great deal on Amazon"
+      ],
+      "impact": "Encourages buyers to consider the MacBook Pro.",
+      "id": "056006c5a0ee7eb38ccb0ab8fe7aa7de"
     }
   ]
 }
