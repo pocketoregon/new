@@ -1,245 +1,181 @@
 {
-  "generated_at": "2026-06-01T20:56:36.589187+00:00",
+  "generated_at": "2026-06-01T23:04:28.195145+00:00",
   "articles": [
     {
-      "title": "Modern Warfare 4 Promises Authentic Shooter Experience",
-      "description": "Call of Duty: Modern Warfare 4 aims for authenticity, encouraging players to 'keep the receipts' on its development. The community team emphasizes transparency in gameplay.",
-      "category": "Gaming",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-keep-the-receipts",
-      "image": "https://assetsio.gnwcdn.com/MW4_MP_003_BRANDED.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-05-31T17:20:10Z",
-      "key_points": [
-        "Focus on authenticity",
-        "Community engagement emphasized",
-        "Transparent development process"
-      ],
-      "impact": "Players can expect a more genuine gaming experience.",
-      "id": "056c2a9cf56477bd74d1fa3a708fceea"
-    },
-    {
-      "title": "Apple Glasses Set for Late 2027 Launch",
-      "description": "Apple plans to release its first smart glasses in late 2027, featuring advanced technology. This follows previous delays and speculation about their capabilities.",
+      "title": "Pixel Watch 5 Found in Ocean?",
+      "description": "A Pixel Watch 5 prototype was reportedly discovered in the ocean, raising questions about device leaks. This incident highlights ongoing issues with prototype security.",
       "category": "Hardware",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/05/31/apple-glasses-late-2027-report/",
-      "image": "https://images.macrumors.com/t/DLnWSJUHIJ-X1tZ7Gmt9uMEY8gk=/1600x/article-new/2025/07/Meta-Ray-Ban-Glasses.jpg",
-      "published_at": "2026-05-31T16:21:35Z",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/05/31/someone-allegedly-found-a-pixel-watch-5-in-the-ocean/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/pixel-watch-4-45mm-35.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-05-31T20:35:00Z",
       "key_points": [
-        "Launch expected in late 2027",
-        "Advanced features anticipated",
-        "Delays have been common"
+        "Prototype leaks continue",
+        "Security concerns rise",
+        "Device found in ocean"
       ],
-      "impact": "Apple aims to enter the smart glasses market.",
-      "id": "6c65e875f5563297a3c91b1547a1238e"
+      "impact": "This incident raises concerns about prototype security.",
+      "id": "24ea9fcdb6a2fa7cf570ce5aa2fb6503"
     },
     {
-      "title": "11 New Games Coming to Switch in June 2026",
-      "description": "Exciting titles like Star Fox and Final Fantasy are set to launch on Switch this June. Gamers can look forward to a diverse lineup of new releases.",
+      "title": "Wil Overton Reimagines Super Play Cover",
+      "description": "Artist Wil Overton has reimagined the cover of Super Play's debut issue, reflecting on its nostalgic impact. This creative endeavor celebrates the magazine's legacy in gaming culture.",
       "category": "Gaming",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/05/video-11-exciting-new-games-coming-to-switch-1-and-2-in-june-2026",
-      "image": "https://images.nintendolife.com/2d278883f7ccb/large.jpg",
-      "published_at": "2026-05-31T16:08:00Z",
+      "source": "Timeextension.com",
+      "url": "https://www.timeextension.com/news/2026/05/thought-id-give-it-another-go-super-play-artist-wil-overton-reimagines-the-debut-issues-cover",
+      "image": "https://images.timeextension.com/fdc80d14a6320/large.jpg",
+      "published_at": "2026-05-31T19:05:00Z",
       "key_points": [
-        "Star Fox returns",
-        "Final Fantasy included",
-        "Diverse game lineup"
+        "Nostalgic magazine cover",
+        "Artist's creative vision",
+        "Celebrating gaming history"
       ],
-      "impact": "June promises exciting new gaming experiences.",
-      "id": "6c8401bcc14e8b6ac5c5d9b45c7c6ae0"
+      "impact": "Overton's work revives interest in gaming nostalgia.",
+      "id": "6586ef4c8297f97366ac08f49d360681"
     },
     {
-      "title": "Phanteks Launches EX Cases for Clean Builds",
-      "description": "Phanteks introduces a new case series allowing users to hide unattractive graphics cards. The EX series promotes a cleaner PC aesthetic.",
+      "title": "2026's Indie Games Becoming Cult Classics",
+      "description": "Several indie games from 2026 are gaining cult status, showcasing unique gameplay and storytelling. These titles are quietly capturing the hearts of gamers worldwide.",
+      "category": "Gaming",
+      "source": "DualShockers",
+      "url": "https://www.dualshockers.com/indie-games-from-2026-quietly-becoming-cult-classics/",
+      "image": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/wm/2026/05/img_5348.jpeg?w=1600&h=900&fit=crop",
+      "published_at": "2026-05-31T17:30:14Z",
+      "key_points": [
+        "Indie games gaining popularity",
+        "Unique gameplay experiences",
+        "Cult classic status emerging"
+      ],
+      "impact": "These games are redefining indie success.",
+      "id": "ac91414e64d59688e2e9bfc6d37d42a8"
+    },
+    {
+      "title": "New ASUS ROG Xbox Ally Handheld Leaked",
+      "description": "A potential new ASUS ROG Xbox Ally gaming handheld has surfaced through licensing documents. Details remain scarce ahead of Computex 2026.",
       "category": "Hardware",
-      "source": "Videocardz.com",
-      "url": "https://videocardz.com/newz/phanteks-new-ex-cases-let-users-put-ugly-graphics-cards-in-their-own-shame-box",
-      "image": "https://cdn.videocardz.com/1/2026/05/PHANTEKS-SHAME-BOX.jpg",
-      "published_at": "2026-05-31T16:01:07Z",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/349548/leak-tips-potential-new-asus-rog-xbox-ally-gaming-handheld",
+      "image": "https://www.techpowerup.com/img/pV8fKQJVlLDeVSID.jpg",
+      "published_at": "2026-05-31T17:10:19Z",
       "key_points": [
-        "New EX case series",
-        "Hides unattractive GPUs",
-        "Promotes clean aesthetics"
+        "New handheld gaming device",
+        "Details from licensing docs",
+        "Expected at Computex 2026"
       ],
-      "impact": "Users can achieve a sleeker PC design.",
-      "id": "c6f8eb00bcc1e34ad19b2645f5792e6d"
+      "impact": "This could enhance ASUS's gaming lineup.",
+      "id": "fe6328c5e1ae75b0e3afdd788b036cfa"
     },
     {
-      "title": "Exploring Practical Uses for Google Gemini",
-      "description": "Reflecting on Google’s Gemini AI, the focus remains on practical applications. Users seek ways to utilize this technology effectively.",
-      "category": "AI",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/05/31/what-are-you-actually-doing-with-gemini/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-overlay-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-05-31T16:00:00Z",
-      "key_points": [
-        "Focus on practical applications",
-        "Users seek effective uses",
-        "AI technology exploration continues"
-      ],
-      "impact": "Gemini aims to enhance user productivity.",
-      "id": "d1aa9437c690c8ee6755522721cc0ee8"
-    },
-    {
-      "title": "Xbox to Revise Marketing After Fan Backlash",
-      "description": "Xbox's Asha Sharma acknowledges the misstep of using rival logos in promotions. Future marketing strategies will be adjusted accordingly.",
-      "category": "Gaming",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/xbox-ceo-calls-rival-logos-marketing-a-miss",
-      "image": "https://assetsio.gnwcdn.com/asha-sharma-and-matt-booty-this-is-an-xbox.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-05-31T15:53:05Z",
-      "key_points": [
-        "Fan backlash acknowledged",
-        "Marketing strategies to change",
-        "Rival logos deemed a mistake"
-      ],
-      "impact": "Xbox aims for improved fan relations.",
-      "id": "9514f9f62bba846a9ad2fca7a302dab5"
-    },
-    {
-      "title": "Summer Game Fest: Xbox Events Schedule",
-      "description": "The Summer Game Fest will feature over 15 Xbox-related events in June. Gamers can anticipate a busy showcase week ahead.",
-      "category": "Gaming",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/guides/summer-game-fest-schedule-your-guide-to-all-15plus-xbox-related-events-in-june-2026",
-      "image": "https://images.purexbox.com/e177cc6890a62/large.jpg",
-      "published_at": "2026-05-31T15:05:29Z",
-      "key_points": [
-        "15+ Xbox events scheduled",
-        "Busiest gaming week ahead",
-        "Exciting showcases planned"
-      ],
-      "impact": "Gamers can expect thrilling announcements.",
-      "id": "44cb8872bb81946b54f066fddd7e59ce"
-    },
-    {
-      "title": "MSI Unveils AI Desktop with Holographic Pet",
-      "description": "MSI's new MEG Vision X2 AI+ desktop features a holographic pet that adjusts RGB lighting and performance. This innovation enhances user interaction.",
-      "category": "Hardware",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/msi-introduces-luckyclaw-with-meg-vision-x2-ai-plus/",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/MEG-Vision-X2-AI.jpg",
-      "published_at": "2026-05-31T14:47:00Z",
-      "key_points": [
-        "Holographic pet included",
-        "Adjusts RGB and performance",
-        "Innovative user interaction"
-      ],
-      "impact": "MSI enhances desktop experience with AI.",
-      "id": "ce926d3f39e9c2c4f5e2aa602318a19a"
-    },
-    {
-      "title": "Pokemon Champions Developer Discusses Roster Limits",
-      "description": "The producer of Pokemon Champions explains the limited roster and future Pokemon additions. Currently, around 200 creatures are available.",
-      "category": "Gaming",
-      "source": "Nintendo Everything",
-      "url": "https://nintendoeverything.com/pokemon-champions-dev-explains-the-limited-roster-and-comments-on-timing-to-bring-new-pokemon-to-the-game/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Pokemon-Champions-limited-roster-new-Pokemon-release-timing.jpg",
-      "published_at": "2026-05-31T14:38:47Z",
-      "key_points": [
-        "Limited roster explained",
-        "Future Pokemon additions discussed",
-        "200 creatures currently available"
-      ],
-      "impact": "Players await new content for the game.",
-      "id": "ac8b4e6a9fda50fedf32b61d392c699d"
-    },
-    {
-      "title": "New Apple TV and HomePod Mini Launch This Fall",
-      "description": "Apple plans to launch new versions of Apple TV and HomePod mini this fall, alongside a potential Siri Remote refresh. Exciting updates are on the horizon.",
-      "category": "Hardware",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/05/31/new-apple-tv-and-homepod-mini-launching-this-fall-apple-intelligence/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/10/apple-tv-homepod-mini-9to5mac.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-05-31T14:31:00Z",
-      "key_points": [
-        "New Apple TV coming",
-        "HomePod mini updates expected",
-        "Siri Remote refresh possible"
-      ],
-      "impact": "Apple enhances its home entertainment lineup.",
-      "id": "c0a5baf28e9846af4d54e7243b79f21b"
-    },
-    {
-      "title": "ASUS Launches New GeForce RTX 5080 Graphics Cards",
-      "description": "ASUS adds two new GeForce RTX 5080 TUF graphics cards to its lineup, featuring advanced power connectors. These models promise high performance for gamers.",
+      "title": "MSI Claw 8 EX Handheld Launching Soon",
+      "description": "MSI's Claw 8 EX handheld featuring Arc G3 will launch at $1500 on June 23. The device has been showcased with real photos and specifications.",
       "category": "Hardware",
       "source": "Videocardz.com",
-      "url": "https://videocardz.com/newz/asus-adds-geforce-rtx-5080-tuf-btf-with-16-pin-and-gc-hpwr-power-connectors",
-      "image": "https://cdn.videocardz.com/1/2026/05/ASUS-RTX-5090-BTF-TUF-HERO.jpg",
-      "published_at": "2026-05-31T12:25:39Z",
+      "url": "https://videocardz.com/newz/msi-provides-first-look-at-arc-g3-handheld-pcb-design",
+      "image": "https://cdn.videocardz.com/1/2026/05/MSI-CLAW-EX-PCB-ARC-G3-HERO.jpg",
+      "published_at": "2026-05-31T14:41:07Z",
       "key_points": [
-        "New RTX 5080 models launched",
-        "Advanced power connectors included",
-        "High performance for gaming"
+        "Launch date set for June 23",
+        "Price at $1500",
+        "Features Arc G3 technology"
       ],
-      "impact": "Gamers gain access to powerful new GPUs.",
-      "id": "3280c297716be2b67c1be04ac36ded67"
+      "impact": "MSI aims to compete in handheld market.",
+      "id": "3637ade393c036d23f44ea93dad826dc"
     },
     {
-      "title": "June 2026 Roguelikes and Roguelites Update",
-      "description": "June features exciting new roguelikes including Killer Bean and Dark Scrolls. The genre continues to thrive with fresh content.",
-      "category": "Gaming",
-      "source": "Rogueliker",
-      "url": "https://rogueliker.com/new-roguelikes-and-roguelites-in-june-2026-the-monthly-update/",
-      "image": "https://rogueliker.com/wp-content/uploads/2026/05/large.webp",
-      "published_at": "2026-05-31T12:05:05Z",
-      "key_points": [
-        "New roguelikes launching",
-        "Killer Bean and Dark Scrolls featured",
-        "Genre continues to thrive"
-      ],
-      "impact": "Gamers can look forward to new adventures.",
-      "id": "a06892932e29932fcb0af89a3002be8e"
-    },
-    {
-      "title": "Acer Showcases New Gaming Monitors at Computex",
-      "description": "Acer unveils multiple gaming and professional monitors at Computex, featuring high-end specs. New models cater to both gamers and professionals.",
-      "category": "Hardware",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/acer-showcases-multiple-gaming-and-professional-monitors-at-computex/",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/Acer-Nitro-Gaming-Monitors-Computex-2026-1920x1080.jpg",
-      "published_at": "2026-05-31T11:27:00Z",
-      "key_points": [
-        "New gaming monitors launched",
-        "High-end specifications offered",
-        "Catering to gamers and professionals"
-      ],
-      "impact": "Acer enhances monitor offerings for users.",
-      "id": "5b99ebd18336875ec025537ef15c4f41"
-    },
-    {
-      "title": "Wolverine PS5 Pre-Orders Opening Soon",
-      "description": "Pre-orders for the Wolverine PS5 game are expected to open next week following the State of Play event. Fans are eagerly awaiting this release.",
-      "category": "Gaming",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/05/wolverine-ps5-pre-orders-expected-to-open-next-week-after-state-of-play",
-      "image": "https://images.pushsquare.com/013fc5fb265d4/large.jpg",
-      "published_at": "2026-05-31T11:15:00Z",
-      "key_points": [
-        "Wolverine PS5 pre-orders soon",
-        "Following State of Play event",
-        "Fans eagerly anticipate release"
-      ],
-      "impact": "Excitement builds for the upcoming game.",
-      "id": "182fe24d93b85b31c4da54b109cc33b1"
-    },
-    {
-      "title": "GL.iNet Launches Tri-Band Wi-Fi 7 Travel Router",
-      "description": "GL.iNet introduces the world's first true tri-band Wi-Fi 7 travel router, designed for portability. It can be powered by a power bank for on-the-go use.",
-      "category": "Hardware",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/marksparrow/2026/05/31/glinet-releases-the-worlds-first-true-tri-band-wi-fi-7-travel-router/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a197ebff35160866605d18c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "title": "Can Solar Sails Enable Interstellar Travel?",
+      "description": "Experts discuss the feasibility of solar sails for human interstellar travel, suggesting it's not just a futuristic concept. The technology could revolutionize space exploration.",
+      "category": "Science",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/can-solar-sails-really-send-humans-out-into-interstellar-space",
+      "image": "https://cdn.mos.cms.futurecdn.net/wA5VBrr9dEJoQEnw6gLZEk-1600-80.png",
       "published_at": "2026-05-31T10:00:00Z",
       "key_points": [
-        "First true tri-band Wi-Fi 7",
-        "Portable design for travel",
-        "Power bank compatible"
+        "Solar sails for space travel",
+        "Feasibility discussed",
+        "Revolutionary exploration technology"
       ],
-      "impact": "Travelers gain advanced connectivity options.",
-      "id": "8876b316a128a38db0d7935f57ec2562"
+      "impact": "Solar sails could change interstellar travel.",
+      "id": "d936b71318d94167bf980833124307de"
+    },
+    {
+      "title": "DuckDuckGo Sees 18% Install Surge",
+      "description": "DuckDuckGo app installs surged 18% after Google's AI search changes, with a 70% spike on Apple devices. The search engine's traffic also increased significantly.",
+      "category": "Software",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/duckduckgo-user-surge-google-ai-search-overhaul/",
+      "image": "https://media.thenextweb.com/2026/05/duckduckgo-user-surge-google-ai-search-overhaul.avif",
+      "published_at": "2026-05-31T09:56:00Z",
+      "key_points": [
+        "18% install increase",
+        "70% spike on Apple",
+        "Search traffic rose 23%"
+      ],
+      "impact": "DuckDuckGo benefits from Google's changes.",
+      "id": "50e3d778e0dc67ebb4215593d8b2cad6"
+    },
+    {
+      "title": "California Passes Game Preservation Bill",
+      "description": "California's Assembly passed the Protect Our Games Act, aimed at enhancing consumer rights in gaming. This bill supports the Stop Killing Games movement.",
+      "category": "Policy",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/stop-killing-games-passes-floor-vote-california",
+      "image": "https://assetsio.gnwcdn.com/Screenshot-2025-07-19-at-16.31.10.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-05-31T07:25:00Z",
+      "key_points": [
+        "Consumer rights enhanced",
+        "Protect Our Games Act",
+        "Supports game preservation"
+      ],
+      "impact": "This bill strengthens gaming consumer protections.",
+      "id": "2133dc0331f1bd465a8a300eedae70dc"
+    },
+    {
+      "title": "Switch 2 Backwards Compatibility Updates",
+      "description": "More Switch games have received backwards compatibility fixes for the Switch 2. This update enhances the gaming experience for existing titles.",
+      "category": "Gaming",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/05/more-switch-games-receive-switch-2-backwards-compatibility-fixes",
+      "image": "https://images.nintendolife.com/9acbe59568e22/large.jpg",
+      "published_at": "2026-05-31T04:30:00Z",
+      "key_points": [
+        "More games updated",
+        "Backwards compatibility fixes",
+        "Enhancing gaming experience"
+      ],
+      "impact": "Switch 2 compatibility improves user satisfaction.",
+      "id": "7eda70cea15a38e2abdb8310ca9bca70"
+    },
+    {
+      "title": "Windows 11 Insider Features to Explore",
+      "description": "Windows 11 is introducing nine new features in Insider builds, enhancing user experience ahead of the next major update. These changes are already available for testing.",
+      "category": "Software",
+      "source": "PCMag",
+      "url": "https://www.pcmag.com/explainers/the-future-of-windows-11-is-already-here-9-insider-features-you-need-to",
+      "image": "https://i.pcmag.com/imagery/articles/07ANjEsfhiNzN2jFeh2oTUH-1.fit_lim.size_1200x630.v1780064715.png",
+      "published_at": "2026-05-30T23:29:09Z",
+      "key_points": [
+        "Nine new features revealed",
+        "Available in Insider builds",
+        "Enhancing user experience"
+      ],
+      "impact": "These features set the stage for future updates.",
+      "id": "1c2f13afdce8aed87f15d8457e483e80"
+    },
+    {
+      "title": "iPhone Lock Screen Battery Icon Explained",
+      "description": "The line below the iPhone battery icon indicates Control Center access on the lock screen. Users can disable it for a cleaner aesthetic.",
+      "category": "Software",
+      "source": "SlashGear",
+      "url": "https://www.slashgear.com/2182979/line-below-battery-icon-on-your-iphone-lock-screen-what-for/",
+      "image": "https://www.slashgear.com/img/gallery/whats-the-line-below-the-battery-icon-on-your-iphone-lock-screen-for/l-intro-1779985219.jpg",
+      "published_at": "2026-05-30T22:15:00Z",
+      "key_points": [
+        "Control Center indicator",
+        "Can be disabled",
+        "Affects lock screen aesthetics"
+      ],
+      "impact": "Understanding this feature enhances user experience.",
+      "id": "e25cfccab4e23444c17693dc3c24c20f"
     }
   ]
 }
