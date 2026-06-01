@@ -40,7 +40,7 @@ def fetch_real_news(news_api_key):
     params = {
         "category": "technology",
         "language": "en",
-        "pageSize": 40,  # Expanded window size to scan more potential unique variants
+        "pageSize": 40,
         "apiKey": news_api_key
     }
     response = requests.get(url, params=params, timeout=10)
@@ -48,7 +48,7 @@ def fetch_real_news(news_api_key):
     data = response.json()
     if data.get("status") != "ok":
         raise ValueError(f"NewsAPI error: {data.get('message')}")
-        
+
     articles = []
     for item in data.get("articles", []):
         title = item.get("title", "")
@@ -82,7 +82,7 @@ def process_articles(articles, client, today):
     """Rewrite articles with strict Pydantic enforcement."""
     if not articles:
         return {"date": today, "generated_at": datetime.now(timezone.utc).isoformat(), "articles": []}
-        
+
     articles_text = ""
     for i, article in enumerate(articles):
         articles_text += f"""
@@ -109,13 +109,17 @@ Today's Date: {today}
 Articles to process: {articles_text}"""
 
     print(f"   Processing {len(articles)} fresh unseen articles with GPT-4o mini...")
-    completion = client.beta.chat.completions.parse(
-        model="gpt-4o-mini",
-        messages=[{"role": "user", "content": prompt}],
-        response_format=TechBriefingEdition,
-        temperature=0.1
-    )
-    return json.loads(completion.choices[0].message.content)
+    try:
+        completion = client.beta.chat.completions.parse(
+            model="gpt-4o-mini",
+            messages=[{"role": "user", "content": prompt}],
+            response_format=TechBriefingEdition,
+            temperature=0.1
+        )
+        return json.loads(completion.choices[0].message.content)
+    except Exception as e:
+        print(f"   ⚠️ GPT processing failed: {e}")
+        return {"date": today, "generated_at": datetime.now(timezone.utc).isoformat(), "articles": []}
 
 def validate(news_data, original_articles):
     valid_categories = {"AI", "Hardware", "Software", "Security", "Science", "Business", "Policy", "Startups"}
@@ -144,7 +148,6 @@ def update_archive(new_batch, archive_path="archive.json"):
     else:
         print("   No new articles to append to archive during this cycle.")
 
-    # Keep strictly the 30 most recent hourly batches to prevent file size explosion
     archive["batches"] = archive["batches"][:30]
 
     with open(archive_path, "w", encoding="utf-8") as f:
@@ -152,10 +155,7 @@ def update_archive(new_batch, archive_path="archive.json"):
     return archive
 
 def update_feed(archive, feed_path="feed.json"):
-    """
-    Rebuild feed.json from the most recent batch in the archive.
-    feed.json is the flat list the frontend's FEED tab reads from.
-    """
+    """Rebuild feed.json from the most recent batch in the archive."""
     batches = archive.get("batches", [])
     if not batches:
         articles = []
@@ -164,7 +164,7 @@ def update_feed(archive, feed_path="feed.json"):
         latest = batches[0]
         articles = latest.get("articles", [])
         generated_at = latest.get("fetched_at", datetime.now(timezone.utc).isoformat())
-        
+
     feed = {
         "generated_at": generated_at,
         "articles": articles
@@ -176,21 +176,25 @@ def update_feed(archive, feed_path="feed.json"):
 def fetch_news():
     news_api_key = os.environ.get("NEWS_API_KEY")
     github_token = os.environ.get("GITHUB_TOKEN")
-    
+
     if not news_api_key or not github_token:
         raise ValueError("Environment keys NEWS_API_KEY or GITHUB_TOKEN are missing.")
-        
+
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     now_iso = datetime.now(timezone.utc).isoformat()
-    
+
     print(f"\n{'='*60}\nAI·Brief Pipeline — {today}\n{'='*60}\n")
-    
+
     client = OpenAI(base_url="https://models.inference.ai.azure.com", api_key=github_token)
-    
+
     print("[Step 1] Fetching fresh candidates from NewsAPI...")
-    raw_candidates = fetch_real_news(news_api_key)
-    print(f"   Fetched {len(raw_candidates)} total candidates.")
-    
+    try:
+        raw_candidates = fetch_real_news(news_api_key)
+        print(f"   Fetched {len(raw_candidates)} total candidates.")
+    except Exception as e:
+        print(f"   ❌ NewsAPI fetch failed: {e}")
+        exit(1)
+
     print("\n[Step 2] Filtering out existing duplicate IDs...")
     existing_ids = load_existing_ids()
     unseen_articles = []
@@ -199,17 +203,11 @@ def fetch_news():
         if art_id not in existing_ids:
             article["id"] = art_id
             unseen_articles.append(article)
-            
-print(f"  Filtered down to {len(unseen_articles)} brand-new unique articles.")
-        unseen_articles = unseen_articles[:15]  # Cap per run to avoid huge GPT prompts
-        print(f"  Capped to {len(unseen_articles)} articles for this run.")
 
-        # -----------------------------------------------------------------------
-        # DATA SIPHON SECURITY HOOK...
-    # ---------------------------------------------------------------------------
-    # DATA SIPHON SECURITY HOOK: DROPPED FIXED SPLICING CONSTRAINT [:8] 
-    # Captures 100% of incoming items down the pipeline stream gracefully.
-    # ---------------------------------------------------------------------------
+    print(f"   Filtered down to {len(unseen_articles)} brand-new unique articles.")
+    unseen_articles = unseen_articles[:15]  # Cap per run to avoid huge GPT prompts
+    print(f"   Capped to {len(unseen_articles)} articles for this run.")
+
     if not unseen_articles:
         print("\n   [Notice] Zero fresh articles to pass forward this hourly iteration.")
         news_data = {"date": today, "generated_at": now_iso, "articles": []}
@@ -218,16 +216,15 @@ print(f"  Filtered down to {len(unseen_articles)} brand-new unique articles.")
         news_data = process_articles(unseen_articles, client, today)
         news_data = validate(news_data, unseen_articles)
         news_data["generated_at"] = now_iso
-        
-        # Inject calculated IDs into processed output
+
         for i, article in enumerate(news_data.get("articles", [])):
             if i < len(unseen_articles):
                 article["id"] = unseen_articles[i]["id"]
-            
+
     print("\n[Step 4] Saving current news.json snapshot...")
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(news_data, f, indent=2, ensure_ascii=False)
-        
+
     print("\n[Step 5] Synchronizing to archive...")
     new_batch = {
         "id": now_iso,
@@ -236,10 +233,10 @@ print(f"  Filtered down to {len(unseen_articles)} brand-new unique articles.")
         "articles": news_data["articles"]
     }
     archive = update_archive(new_batch)
-    
+
     print("\n[Step 6] Updating feed.json from latest archive batch...")
     update_feed(archive)
-    
+
     print(f"\n{'='*60}\nBackend Operations Complete!\n{'='*60}\n")
 
 if __name__ == "__main__":
