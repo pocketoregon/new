@@ -1,245 +1,245 @@
 {
-  "generated_at": "2026-06-01T10:22:44.619399+00:00",
+  "generated_at": "2026-06-01T16:39:37.468936+00:00",
   "articles": [
     {
-      "title": "Apple iOS 27 Release Date Announced",
-      "description": "Apple's iOS 27 is set to launch soon, featuring a new Siri upgrade. Here's the expected release schedule for eager users.",
-      "category": "Software",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/davidphelan/2026/05/31/apple-ios-27-release-date-when-you-can-download-and-test-the-new-iphone-update/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/68eb70cab1a8496225a0acd5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published_at": "2026-05-31T10:16:22Z",
+      "title": "Apple Aims to Revolutionize Glasses Market",
+      "description": "Apple plans to launch iPhone-connected smart glasses, challenging Meta. Updates on iOS 27 and early iOS 28 developments are also included.",
+      "category": "Business",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-05-31/apple-glasses-late-2027-release-watch-comparison-ios-28-apple-tv-homepod",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isTbSjRqYCUA/v8/1200x800.jpg",
+      "published_at": "2026-05-31T14:00:01Z",
       "key_points": [
-        "New Siri upgrade included",
-        "Release schedule revealed",
-        "Highly anticipated update"
+        "Smart glasses to rival Meta",
+        "iOS updates on the way",
+        "Apple TV and HomePod news"
       ],
-      "impact": "iOS 27 promises significant enhancements for users.",
-      "id": "d0d58fad1fa4fe0434ac50ccdf298477"
+      "impact": "Apple's glasses could reshape the market.",
+      "id": "75a7164846870bdfbfe69eedb0643586"
     },
     {
-      "title": "Microsoft's Controversial Threat to Cybersecurity Researchers",
-      "description": "Microsoft's recent threats towards cybersecurity researchers have sparked outrage in the community. The company's controversial stance raises concerns about collaboration.",
+      "title": "007 First Light Discounts Available Now",
+      "description": "Get discounts on 007 First Light for PS5 and Steam at Costco and Fanatical, saving up to $10. It's hailed as one of the best action games.",
+      "category": "Gaming",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/940126/007-first-light-ps5-pc-steam-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/ss_a840c903dd0431a24509454787dcb0a565b56d31.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "published_at": "2026-05-31T14:00:00Z",
+      "key_points": [
+        "Discounts up to $10",
+        "Available at Costco",
+        "Highly rated action game"
+      ],
+      "impact": "Discounts boost sales for 007 First Light.",
+      "id": "85203a833b516917c641ef205566af51"
+    },
+    {
+      "title": "Persona 6 Rumors Ignite Fan Art Craze",
+      "description": "Rumors about new Persona 6 characters are sparking a wave of fan art online. The excitement builds as details emerge.",
+      "category": "Gaming",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/alleged-persona-6-leaks-fuel-fan-art-frenzy-and-john-persona-6-merch-2000700620",
+      "image": "https://kotaku.com/app/uploads/2023/02/d56777b18082b512df78ee1e5f090bcc-1200x675.jpg",
+      "published_at": "2026-05-31T13:37:28Z",
+      "key_points": [
+        "New character rumors",
+        "Fan art frenzy",
+        "Excitement for Persona 6"
+      ],
+      "impact": "Fan engagement surges with new leaks.",
+      "id": "d0291f6b07b26f9cc1b738e9902dbda3"
+    },
+    {
+      "title": "Little Nightmares 2 Enhanced Edition Launches",
+      "description": "The Enhanced Edition of Little Nightmares 2 is now available on Nintendo Switch 2, enhancing the horror experience.",
+      "category": "Gaming",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/little-nightmares-2-enhanced-edition-switch-2",
+      "image": "https://assetsio.gnwcdn.com/little-nightmares-2s-free-enhanced-edition-update-out-now-for-pc-ps5-and-xbox-series-x-s-1629905869658.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-05-31T13:07:51Z",
+      "key_points": [
+        "Enhanced Edition released",
+        "Available on Switch 2",
+        "Improved horror gameplay"
+      ],
+      "impact": "Players can now enjoy enhanced horror.",
+      "id": "f04f1a3630e9993a18e4fdafb3a8620b"
+    },
+    {
+      "title": "Snapdragon C Rumors Could Boost MacBook Neo",
+      "description": "Rumors suggest Snapdragon C may have issues, potentially making the MacBook Neo a more attractive option for consumers.",
+      "category": "Hardware",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/snapdragon-c-hiding-nasty-secret-making-macbook-neo-even-more-popular/",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/Snapdragon-C-2.jpg",
+      "published_at": "2026-05-31T13:05:00Z",
+      "key_points": [
+        "Snapdragon C rumored issues",
+        "MacBook Neo gains popularity",
+        "Consumer interest shifts"
+      ],
+      "impact": "MacBook Neo could see increased sales.",
+      "id": "3515fda2ed6478ee024d6f2c166c2fc7"
+    },
+    {
+      "title": "Try 'Rucking' for a New Walking Trend",
+      "description": "Rucking, a simple walking trend, requires minimal gear and offers great health benefits. You likely have what you need at home.",
+      "category": "Software",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/rucking-is-the-walking-trend-you-need-to-try-heres-why-goog_l_69fb6b97e4b065a1677a62bc",
+      "image": "https://img.huffingtonpost.com/asset/69fb6c88170000bc49844a53.jpeg?ops=500_281%2Cscalefit_1200_630",
+      "published_at": "2026-05-31T11:33:29Z",
+      "key_points": [
+        "Accessible exercise trend",
+        "Minimal gear needed",
+        "Great for heart health"
+      ],
+      "impact": "Rucking promotes fitness with ease.",
+      "id": "f75b5c4e415773cc24420a45f75c7a02"
+    },
+    {
+      "title": "iPhone Setting Raises Security Concerns",
+      "description": "An overlooked iPhone setting is alarming users, prompting cybersecurity experts to recommend changes for better security.",
       "category": "Security",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/microsoft/they-will-ruin-my-life-microsoft-threatens-to-wield-digital-crimes-unit-over-zero-day-exploit-disclosures-causing-uproar-in-the-cybersec-community",
-      "image": "https://cdn.mos.cms.futurecdn.net/XF9dDmwefDZrFZ7Kd2Pqeg-2121-80.jpg",
-      "published_at": "2026-05-31T07:01:19Z",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/this-overlooked-iphone-setting-is-alarming-people-heres-what-security-experts-want-you-to-do-goog_n_6a184d2fe4b0ddcc846884ac",
+      "image": "https://img.huffingtonpost.com/asset/695c54a22b00003d386835e9.jpeg?cache=QbTn3Tny0B&ops=500_281%2Cscalefit_1200_630",
+      "published_at": "2026-05-31T11:00:18Z",
       "key_points": [
-        "Threats alarm cybersecurity experts",
-        "Controversial collaboration issues",
-        "Microsoft's reputation at stake"
+        "Security risks identified",
+        "Experts recommend changes",
+        "Viral TikTok discussions"
       ],
-      "impact": "Microsoft's actions could hinder security research efforts.",
-      "id": "a7b29f2a93f5a63dc5279f657fe5d7e8"
+      "impact": "Users urged to enhance iPhone security.",
+      "id": "b81c92356b3c7b4e0b69587c6332dd09"
     },
     {
-      "title": "Samsung Galaxy Z Fold 8 Leak Reveals Wider Design",
-      "description": "A leaked photo showcases the Galaxy Z Fold 8's wider form factor compared to its predecessor. This design change is generating buzz among tech enthusiasts.",
+      "title": "Thermal Grizzly Unveils Noctua Edition GPU Monitor",
+      "description": "Thermal Grizzly is launching a quieter Noctua Edition of its WireView Pro II GPU power monitor for 12V-2×6 GPUs.",
       "category": "Hardware",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/05/30/galaxy-z-fold-8-wide-ultra-leak/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/galaxy-z-fold-8-photo-leak-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-05-31T02:35:00Z",
+      "source": "VideoCardz.com",
+      "url": "https://videocardz.com/newz/thermal-grizzly-prepares-wireview-pro-ii-noctua-edition-for-12v-2x6-gpus",
+      "image": "https://cdn.videocardz.com/1/2026/05/WIREVIEW-PRO-NOCTUA-EDITION-HERO.jpg",
+      "published_at": "2026-05-31T10:05:02Z",
       "key_points": [
-        "Wider design revealed",
-        "Comparison with Ultra model",
-        "Excitement builds for launch"
+        "New Noctua Edition announced",
+        "Quieter GPU monitoring",
+        "Designed for specific GPUs"
       ],
-      "impact": "The new design could attract more buyers.",
-      "id": "fcd8d9b0c294636d5ac5d82071fed916"
+      "impact": "New monitor enhances GPU performance tracking.",
+      "id": "2d5efb531c5ca723cdf28f6764aaafc0"
     },
     {
-      "title": "'007: First Light' Breaks Sales Records",
-      "description": "The latest James Bond game, '007: First Light', has become a massive sales success. Fans are clearly excited about the franchise's return.",
+      "title": "ARC Raiders Tests New PvE Map in China",
+      "description": "Embark Studios is testing a new PvE-focused map for ARC Raiders in China, called Rebellion Incident.",
       "category": "Gaming",
-      "source": "Mashable",
-      "url": "https://mashable.com/entertainment/007-first-light-james-bond-game-sales-numbers",
-      "image": "https://helios-i.mashable.com/imagery/articles/06OnBAD6hmrOpDATxZfE5M5/hero-image.fill.size_1200x675.v1780159635.jpg",
-      "published_at": "2026-05-31T02:21:09Z",
+      "source": "Insider Gaming",
+      "url": "https://insider-gaming.com/arc-raiders-pve-map-condition-tested-china/",
+      "image": "https://insider-gaming.com/wp-content/uploads/2026/02/Does-ARC-Raiders-Have-A-PvE-Mode-guide-enemy.jpg",
+      "published_at": "2026-05-31T09:12:45Z",
       "key_points": [
-        "Massive sales success",
-        "Fans love James Bond",
-        "Franchise revival celebrated"
+        "New PvE map testing",
+        "Called Rebellion Incident",
+        "Exclusive to Chinese version"
       ],
-      "impact": "The game revitalizes interest in the Bond franchise.",
-      "id": "333bd1cdbacca916b60f61b5a9640fb4"
+      "impact": "New map could enhance player engagement.",
+      "id": "403d7f858a30316da8c55761b6cb0d8f"
     },
     {
-      "title": "Explore Minecraft Marketplace for New Content",
-      "description": "Discover new games and exclusive DLC in the Minecraft Marketplace. Players can purchase Minecoins for exciting new content.",
-      "category": "Gaming",
-      "source": "Minecraft.net",
-      "url": "https://www.minecraft.net/en-us/marketplace/pdp",
-      "image": "https://www.minecraft.net/content/dam/minecraftnet/franchise/logos/minecraft-creeper-face.jpg",
-      "published_at": "2026-05-31T01:14:23Z",
-      "key_points": [
-        "New games available",
-        "Exclusive DLC offered",
-        "Minecoins for purchases"
-      ],
-      "impact": "The marketplace enhances player engagement.",
-      "id": "46023a3cf4a4b67e766973defb679621"
-    },
-    {
-      "title": "Rayman Origins Remaster Details Leak",
-      "description": "A leak reveals details about a remastered version of Rayman Origins, appearing on the Xbox Store for $2,000. Fans are eager for more information.",
-      "category": "Gaming",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/rayman-origins-remaster-leak-reveals-first-details-about-enhanced-edition-from-ubisoft",
-      "image": "https://assets-prd.ignimgs.com/2026/05/30/rayman-origins-1780173605487.png?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-05-30T21:00:44Z",
-      "key_points": [
-        "Remaster details leaked",
-        "Available for $2,000",
-        "Fans excited for enhancements"
-      ],
-      "impact": "The remaster could attract nostalgic players.",
-      "id": "eea5b2898e776691c6d12c1e4800a3e9"
-    },
-    {
-      "title": "Nintendo Switch 2 Backwards Compatibility Updates",
-      "description": "Nintendo has released new backwards compatibility fixes for Switch games on the Switch 2. This update aims to improve user experience.",
-      "category": "Gaming",
-      "source": "Nintendo Everything",
-      "url": "https://nintendoeverything.com/nintendo-switch-2-switch-backwards-compatibility-fixes-may-2026/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Switch-2-Switch-backwards-compatibility-fixes-May-2026.webp",
-      "published_at": "2026-05-30T20:26:15Z",
-      "key_points": [
-        "New compatibility fixes released",
-        "Improves user experience",
-        "Ongoing updates for Switch 2"
-      ],
-      "impact": "These fixes enhance the Switch 2's appeal.",
-      "id": "7c11fb6eca2bdd851fa38d325278d008"
-    },
-    {
-      "title": "Fitbit Air Revives Classic Fitness Tracker Appeal",
-      "description": "The Fitbit Air brings back the simplicity of fitness tracking without a screen. Users appreciate its straightforward functionality.",
-      "category": "Hardware",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/im-wearing-the-fitbit-air-and-i-love-how-it-brings-back-the-golden-age-of-fitness-trackers/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/05/fitbit-air-wearing.JPG?w=1600&h=900&fit=crop",
-      "published_at": "2026-05-30T19:00:13Z",
-      "key_points": [
-        "Simplicity in fitness tracking",
-        "No screen design praised",
-        "Nostalgic appeal for users"
-      ],
-      "impact": "The Fitbit Air could redefine fitness tracking.",
-      "id": "9819ed3f9b33744a31cb99b530497d09"
-    },
-    {
-      "title": "Nintendo Switch Online Offers Free Game for 48 Hours",
-      "description": "Nintendo Switch Online subscribers can download a 2025 game for free for 48 hours. This limited-time offer boosts engagement.",
-      "category": "Gaming",
-      "source": "ComicBook.com",
-      "url": "http://comicbook.com/gaming/news/nintendo-switch-online-free-game-2025-download/",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/10/n-i-n-t-e-n-d-o-s-w-i-t-c-h-o-n-l-i-n-e.png?resize=2000,1125",
-      "published_at": "2026-05-30T18:33:12Z",
-      "key_points": [
-        "Free game for 48 hours",
-        "Limited-time offer",
-        "Boosts subscriber engagement"
-      ],
-      "impact": "This promotion could increase user retention.",
-      "id": "a7462bf7ec1362eb067e5f61a16f3568"
-    },
-    {
-      "title": "Minecraft Live May 2026 Highlights Revealed",
-      "description": "Mojang Studios announced exciting new projects during Minecraft Live May 2026, including a sequel to Minecraft Dungeons. Fans are eager for more details.",
-      "category": "Gaming",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/minecraft-live-may-2026-everything-announced",
-      "image": "https://assets-prd.ignimgs.com/2026/05/30/minecraftlive-blogroll-1780160025138.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-05-30T18:00:20Z",
-      "key_points": [
-        "New Minecraft projects announced",
-        "Sequel to Dungeons revealed",
-        "Fans excited for updates"
-      ],
-      "impact": "These announcements could boost community engagement.",
-      "id": "fae19431fb3e2ad0fa6bc6e8c94032ba"
-    },
-    {
-      "title": "Modern Warfare 4 Addresses Player Feedback",
-      "description": "Infinity Ward aims to improve movement mechanics in Call of Duty: Modern Warfare 4 based on player feedback from previous games. Fans are hopeful for enhancements.",
-      "category": "Gaming",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/call-of-duty-modern-warfare-4-movement/",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/modern-warfare-4-details-mantling.jpg?w=1600&h=900&fit=crop",
-      "published_at": "2026-05-30T17:07:36Z",
-      "key_points": [
-        "Movement mechanics improved",
-        "Player feedback prioritized",
-        "Infinity Ward listens to fans"
-      ],
-      "impact": "This could enhance player satisfaction significantly.",
-      "id": "0c8e2002bcd345ea50bfc403a8d45569"
-    },
-    {
-      "title": "Googlebook May Enhance Android Desktop Mode",
-      "description": "The Googlebook may finally address key issues with Android desktop mode, allowing better multitasking and app usage. Users are eager for this improvement.",
-      "category": "Software",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/googlebook-fixes-one-thing-about-android-desktop-mode/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/googlebook-main-1.jpg?w=1600&h=900&fit=crop",
-      "published_at": "2026-05-30T16:15:10Z",
-      "key_points": [
-        "Improves Android desktop mode",
-        "Enhances multitasking capabilities",
-        "Users anticipate better functionality"
-      ],
-      "impact": "This could revolutionize Android desktop experiences.",
-      "id": "108513884deb3db6e8ce638b6b4fb589"
-    },
-    {
-      "title": "Google's Gemini Spark Proves Useful for Daily Tasks",
-      "description": "Gemini Spark, Google's new AI assistant, automates tasks like inbox management and event planning. Its separate branding raises questions about its purpose.",
-      "category": "AI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/gemini-spark-GettyImages-2276583186-1.jpg?w=1024",
-      "published_at": "2026-05-30T15:30:00Z",
-      "key_points": [
-        "Automates daily tasks",
-        "Separate branding questioned",
-        "User-friendly interface"
-      ],
-      "impact": "Gemini Spark could streamline daily productivity.",
-      "id": "efe0c0c4c881fe14a51b4b2000a18156"
-    },
-    {
-      "title": "Sony's Decision on Destiny 2 Support Criticized",
-      "description": "Sony's announcement to cease all support for Destiny 2 has drawn criticism from fans. The decision could impact the game's future significantly.",
+      "title": "Civilization VII Scores Improve with Update",
+      "description": "The Test of Time update for Civilization VII has received positive feedback, improving the game's overall reception.",
       "category": "Gaming",
       "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/05/30/sony-is-wrong-to-take-destiny-2-support-down-to-absolute-zero/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a1aea4fe48d12d758ec3526/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published_at": "2026-05-30T13:51:30Z",
+      "url": "https://www.forbes.com/sites/barrycollins/2026/05/31/civilization-vii-finally-passes-test-of-time-as-review-scores-rise/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a1bf877b3912cf4399c24e7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published_at": "2026-05-31T09:07:52Z",
       "key_points": [
-        "Sony halts all support",
-        "Fans express disappointment",
-        "Impact on game's future questioned"
+        "Positive player reactions",
+        "Update boosts scores",
+        "Game's fortunes improve"
       ],
-      "impact": "This decision could alienate the player base.",
-      "id": "5dbaeb67b05905e09996a20410f7d5d8"
+      "impact": "Civilization VII gains renewed player interest.",
+      "id": "334d196a6e2fbab576ce2544a28b4725"
     },
     {
-      "title": "AC Cobra GT Coupe Unveiled with 720 HP",
-      "description": "AC Cars celebrates its 125th anniversary with the launch of the Cobra GT Coupe, boasting 720 horsepower. The classic design aims to boost production.",
+      "title": "Google Launches New Screenless Smart Glasses",
+      "description": "Google's new audio-only smart glasses feature all-day battery life and advanced Gemini AI, focusing on practical use.",
       "category": "Hardware",
-      "source": "Motor1",
-      "url": "https://www.motor1.com/news/797329/ac-cobra-gt-coupe-revealed/",
-      "image": "https://cdn.motor1.com/images/mgl/JONken/s1/ac-cobra-gt-coupe.jpg",
-      "published_at": "2026-05-30T13:46:01Z",
+      "source": "Geeky Gadgets",
+      "url": "https://www.geeky-gadgets.com/google-smart-glasses-2026/",
+      "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/05/google-smart-glasses-1.jpg",
+      "published_at": "2026-05-31T08:01:23Z",
       "key_points": [
-        "720 horsepower engine",
-        "Classic design returns",
-        "Celebrates 125 years of AC Cars"
+        "Audio-focused design",
+        "Long battery life",
+        "Gemini AI features"
       ],
-      "impact": "The Cobra GT Coupe could attract car enthusiasts.",
-      "id": "e27557210e1d51b510d875314797fe6f"
+      "impact": "Google's glasses prioritize practicality and usability.",
+      "id": "54c2713506d82733fe5cdb5b32a0d4fb"
+    },
+    {
+      "title": "Apple TV 4K Faces Customer Discontent",
+      "description": "Apple TV 4K users express frustration over the lack of new hardware, risking an unwanted record for the device.",
+      "category": "Business",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/05/31/apple-tv-4k-might-break-a-record-no-one-wants-to-see-happen/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tv-4k-new.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-05-31T08:00:00Z",
+      "key_points": [
+        "User frustration grows",
+        "Lack of new hardware",
+        "Potential record-breaking issue"
+      ],
+      "impact": "Customer dissatisfaction could impact sales.",
+      "id": "67d9e5d60be6b05ea4342494245880a6"
+    },
+    {
+      "title": "Oura Ring 5 vs 4: Upgrade Insights",
+      "description": "Explore the differences between Oura Ring 5 and 4, including specs, pricing, and new AI health insights for 2026.",
+      "category": "Software",
+      "source": "Geeky Gadgets",
+      "url": "https://www.geeky-gadgets.com/is-oura-ring-5-worth-it/",
+      "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/05/oura-ring-5-design.jpg",
+      "published_at": "2026-05-31T06:01:11Z",
+      "key_points": [
+        "Comparison of new features",
+        "AI health insights included",
+        "Pricing details provided"
+      ],
+      "impact": "Consumers can make informed upgrade decisions.",
+      "id": "b9d85a73448aa640115f612880414aab"
+    },
+    {
+      "title": "Paint.net Finally Available for Download",
+      "description": "After 22 years, Paint.net can now be downloaded from its rightful URL, following a long struggle by its developer.",
+      "category": "Software",
+      "source": "XDA Developers",
+      "url": "https://www.xda-developers.com/after-22-years-paintnet-downloadable-from-url-paintnet/",
+      "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/03/paint-net-file-displayed-on-pc-lego-waterbottle-and-lamp-in-view.jpg?w=1600&h=900&fit=crop",
+      "published_at": "2026-05-31T05:45:00Z",
+      "key_points": [
+        "Paint.net domain secured",
+        "22-year struggle ends",
+        "Download now available"
+      ],
+      "impact": "Users can finally access Paint.net easily.",
+      "id": "c71d3b3862ba8cae652a8946487e12a7"
+    },
+    {
+      "title": "iPhone 18 Pro Design Models Revealed",
+      "description": "Hands-on videos showcase the new colors of the iPhone 18 Pro design models, highlighting finishes under various lighting.",
+      "category": "Hardware",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/First-iPhone-18-Pro-design-models-hands-on-video-reveals-the-new-colors-in-different-lighting.1311090.0.html",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/iphone18-pro-design-models-54.png",
+      "published_at": "2026-05-30T23:37:00Z",
+      "key_points": [
+        "New color options revealed",
+        "Hands-on videos available",
+        "Lighting effects showcased"
+      ],
+      "impact": "Excitement builds for iPhone 18 Pro.",
+      "id": "ee948b959573d5cbc53f77d777e53c07"
     }
   ]
 }
