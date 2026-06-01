@@ -1,6 +1,173 @@
 {
   "batches": [
     {
+      "id": "2026-06-01T04:20:49.643454+00:00",
+      "fetched_at": "2026-06-01T04:20:49.643454+00:00",
+      "label": "Jun 01, 2026 — 04:21 AM UTC",
+      "articles": [
+        {
+          "title": "Feger Wins $5,000 at Red Hill Race",
+          "description": "Feger clinched victory at Red Hill, taking home $5,000. The event showcased top Dirt Late Model racers in an exciting competition.",
+          "category": "Startups",
+          "source": "Dirtondirt.com",
+          "url": "https://www.dirtondirt.com/racewire9723.html",
+          "image": "",
+          "published_at": "2026-05-31T04:19:57Z",
+          "key_points": [
+            "Feger tops the MARS field",
+            "Wins $5,000 prize",
+            "Exciting Dirt Late Model race"
+          ],
+          "impact": "Feger's win highlights his racing prowess.",
+          "id": "9f9732e0e833db0df1b6af0a360d7260"
+        },
+        {
+          "title": "Explore New LEGO Minecraft Chicken Mounts",
+          "description": "Discover exclusive DLC and Minecoins in the Minecraft Marketplace. New games, maps, and skins await players from the creator community.",
+          "category": "Software",
+          "source": "Minecraft.net",
+          "url": "https://www.minecraft.net/en-us/marketplace/pdp",
+          "image": "https://www.minecraft.net/content/dam/minecraftnet/franchise/logos/minecraft-creeper-face.jpg",
+          "published_at": "2026-05-31T01:14:23Z",
+          "key_points": [
+            "New chicken mounts available",
+            "Explore Minecraft Marketplace",
+            "Get exclusive DLC and skins"
+          ],
+          "impact": "Players can enhance their Minecraft experience.",
+          "id": "deffc970b68a5935f9466113b436580f"
+        },
+        {
+          "title": "Intel's Big Reveal Expected at Computex 2026",
+          "description": "Intel plans to unveil new product stacks at Computex 2026, including the Arc G3 and Nova Lake. Anticipation builds for major announcements.",
+          "category": "Hardware",
+          "source": "Wccftech",
+          "url": "https://wccftech.com/intel-computex-2026-what-to-expect/",
+          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/Intel-Computex-2026.jpg",
+          "published_at": "2026-05-30T20:08:00Z",
+          "key_points": [
+            "Intel to unveil new products",
+            "Focus on Arc G3 and Nova Lake",
+            "Major announcements expected"
+          ],
+          "impact": "Intel aims to impress at Computex.",
+          "id": "d2ad2055f41c8e5fb0ab97f6ec50354b"
+        },
+        {
+          "title": "New Minecraft Biome Coming This Fall",
+          "description": "Mojang teased a new biome during Minecraft Live, set to launch this fall. The upcoming update, Chaos Cubed, releases on June 16.",
+          "category": "Software",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/another-new-biome-is-coming-to-minecraft-this-fall/",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Dappled-Forest_2.png",
+          "published_at": "2026-05-30T16:01:58Z",
+          "key_points": [
+            "New biome teased for fall",
+            "Chaos Cubed update on June 16",
+            "Exciting changes for Minecraft"
+          ],
+          "impact": "Players can look forward to fresh content.",
+          "id": "45592d73ef5b8cd5a6541b480685be25"
+        },
+        {
+          "title": "Infinity Ward Keeps Modern Warfare 4 Grounded",
+          "description": "Infinity Ward confirms Modern Warfare 4 will avoid outlandish cosmetics. The focus remains on realism and grounded gameplay.",
+          "category": "Software",
+          "source": "Wccftech",
+          "url": "https://wccftech.com/modern-warfare-4-infinity-ward-grounded-cosmetics/",
+          "image": "https://cdn.wccftech.com/wp-content/uploads/2022/12/cover-home-1.jpg",
+          "published_at": "2026-05-30T16:00:00Z",
+          "key_points": [
+            "Modern Warfare 4 stays grounded",
+            "No celebrity skins planned",
+            "Focus on realistic gameplay"
+          ],
+          "impact": "Players can expect a more authentic experience.",
+          "id": "21c1f808b4271054a24d7622f980f858"
+        },
+        {
+          "title": "AC Cobra GT Coupe Unveiled with 720 HP",
+          "description": "AC Cars celebrates its 125th anniversary with the new Cobra GT Coupe, boasting 720 horsepower and classic styling.",
+          "category": "Hardware",
+          "source": "Motor1",
+          "url": "https://www.motor1.com/news/797329/ac-cobra-gt-coupe-revealed/",
+          "image": "https://cdn.motor1.com/images/mgl/JONken/s1/ac-cobra-gt-coupe.jpg",
+          "published_at": "2026-05-30T13:46:01Z",
+          "key_points": [
+            "New Cobra GT Coupe revealed",
+            "720 horsepower performance",
+            "Celebrating 125 years of AC Cars"
+          ],
+          "impact": "AC Cars aims to boost production with this model.",
+          "id": "67403dbcaf82e4e08e7a885a8c4d8d7a"
+        },
+        {
+          "title": "3D Silicon Chip Breakthrough Extends Moore's Law",
+          "description": "Researchers have developed a new method to stack silicon circuits, enhancing computing power and potentially extending Moore's Law.",
+          "category": "Science",
+          "source": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260530053412.htm",
+          "image": "https://www.sciencedaily.com/images/1920/3d-cpu-processor-chip.webp",
+          "published_at": "2026-05-30T10:27:23Z",
+          "key_points": [
+            "New chip stacking method developed",
+            "Enhances computing power",
+            "Extends Moore's Law viability"
+          ],
+          "impact": "This breakthrough could revolutionize chip design.",
+          "id": "8970cc021a053a074f02ab1d0d7421fa"
+        },
+        {
+          "title": "Perplexity Distributes Mac Minis for Testing",
+          "description": "Perplexity is gifting Mac Minis to users for testing its new Personal Computer technology, tapping into high demand for the device.",
+          "category": "Startups",
+          "source": "Business Insider",
+          "url": "https://www.businessinsider.com/perplexity-gifts-mac-minis-in-push-for-personal-computer-tool-2026-5",
+          "image": "https://i.insider.com/6a19ceec2ab5f9757add68c1?width=1200&format=jpeg",
+          "published_at": "2026-05-30T09:46:00Z",
+          "key_points": [
+            "Mac Minis gifted for testing",
+            "Focus on Personal Computer tech",
+            "High demand for Mac Minis"
+          ],
+          "impact": "Perplexity aims to boost user engagement.",
+          "id": "d271b34b7e3ebe97a4f2002cbd5accfc"
+        },
+        {
+          "title": "iOS 27 Will Exclude Some iPhones",
+          "description": "iOS 27 is on the way, but not all iPhones will be eligible for the upgrade. Check which devices may miss out.",
+          "category": "Software",
+          "source": "Tom's Guide",
+          "url": "https://www.tomsguide.com/phones/iphones/ios-27-is-coming-but-it-wont-be-available-on-every-iphone-heres-the-devices-we-dont-think-will-make-the-cut",
+          "image": "https://cdn.mos.cms.futurecdn.net/bVpMc9nkwKwB7TNGiDkmFK-2000-80.jpg",
+          "published_at": "2026-05-30T05:04:52Z",
+          "key_points": [
+            "iOS 27 release confirmed",
+            "Not all iPhones eligible",
+            "Check device compatibility"
+          ],
+          "impact": "Users need to verify upgrade eligibility.",
+          "id": "20f8a9560223d8168abbd50b5d0c346f"
+        },
+        {
+          "title": "Rayman Origins 4K Edition Leaked for Xbox",
+          "description": "A 4K edition of Rayman Origins has leaked, set to be released on Xbox. Official confirmation from Ubisoft is still pending.",
+          "category": "Software",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/05/rayman-leaks-just-wont-stop-xbox-outs-4k-edition-of-origins",
+          "image": "https://images.pushsquare.com/8b28fd7cca3a2/large.jpg",
+          "published_at": "2026-05-29T23:00:00Z",
+          "key_points": [
+            "Rayman Origins 4K edition leaked",
+            "Release planned for Xbox",
+            "Awaiting Ubisoft confirmation"
+          ],
+          "impact": "Fans anticipate the remaster's arrival.",
+          "id": "cc3fa3cd63c9b6bb1fda62cb0f4ab95e"
+        }
+      ]
+    },
+    {
       "id": "2026-05-31T23:02:17.881094+00:00",
       "fetched_at": "2026-05-31T23:02:17.881094+00:00",
       "label": "May 31, 2026 — 11:02 PM UTC",
