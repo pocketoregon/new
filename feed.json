@@ -1,165 +1,245 @@
 {
-  "generated_at": "2026-06-01T04:20:49.643454+00:00",
+  "generated_at": "2026-06-01T10:22:44.619399+00:00",
   "articles": [
     {
-      "title": "Feger Wins $5,000 at Red Hill Race",
-      "description": "Feger clinched victory at Red Hill, taking home $5,000. The event showcased top Dirt Late Model racers in an exciting competition.",
-      "category": "Startups",
-      "source": "Dirtondirt.com",
-      "url": "https://www.dirtondirt.com/racewire9723.html",
-      "image": "",
-      "published_at": "2026-05-31T04:19:57Z",
+      "title": "Apple iOS 27 Release Date Announced",
+      "description": "Apple's iOS 27 is set to launch soon, featuring a new Siri upgrade. Here's the expected release schedule for eager users.",
+      "category": "Software",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/davidphelan/2026/05/31/apple-ios-27-release-date-when-you-can-download-and-test-the-new-iphone-update/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/68eb70cab1a8496225a0acd5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published_at": "2026-05-31T10:16:22Z",
       "key_points": [
-        "Feger tops the MARS field",
-        "Wins $5,000 prize",
-        "Exciting Dirt Late Model race"
+        "New Siri upgrade included",
+        "Release schedule revealed",
+        "Highly anticipated update"
       ],
-      "impact": "Feger's win highlights his racing prowess.",
-      "id": "9f9732e0e833db0df1b6af0a360d7260"
+      "impact": "iOS 27 promises significant enhancements for users.",
+      "id": "d0d58fad1fa4fe0434ac50ccdf298477"
     },
     {
-      "title": "Explore New LEGO Minecraft Chicken Mounts",
-      "description": "Discover exclusive DLC and Minecoins in the Minecraft Marketplace. New games, maps, and skins await players from the creator community.",
-      "category": "Software",
+      "title": "Microsoft's Controversial Threat to Cybersecurity Researchers",
+      "description": "Microsoft's recent threats towards cybersecurity researchers have sparked outrage in the community. The company's controversial stance raises concerns about collaboration.",
+      "category": "Security",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/microsoft/they-will-ruin-my-life-microsoft-threatens-to-wield-digital-crimes-unit-over-zero-day-exploit-disclosures-causing-uproar-in-the-cybersec-community",
+      "image": "https://cdn.mos.cms.futurecdn.net/XF9dDmwefDZrFZ7Kd2Pqeg-2121-80.jpg",
+      "published_at": "2026-05-31T07:01:19Z",
+      "key_points": [
+        "Threats alarm cybersecurity experts",
+        "Controversial collaboration issues",
+        "Microsoft's reputation at stake"
+      ],
+      "impact": "Microsoft's actions could hinder security research efforts.",
+      "id": "a7b29f2a93f5a63dc5279f657fe5d7e8"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold 8 Leak Reveals Wider Design",
+      "description": "A leaked photo showcases the Galaxy Z Fold 8's wider form factor compared to its predecessor. This design change is generating buzz among tech enthusiasts.",
+      "category": "Hardware",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/05/30/galaxy-z-fold-8-wide-ultra-leak/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/galaxy-z-fold-8-photo-leak-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-05-31T02:35:00Z",
+      "key_points": [
+        "Wider design revealed",
+        "Comparison with Ultra model",
+        "Excitement builds for launch"
+      ],
+      "impact": "The new design could attract more buyers.",
+      "id": "fcd8d9b0c294636d5ac5d82071fed916"
+    },
+    {
+      "title": "'007: First Light' Breaks Sales Records",
+      "description": "The latest James Bond game, '007: First Light', has become a massive sales success. Fans are clearly excited about the franchise's return.",
+      "category": "Gaming",
+      "source": "Mashable",
+      "url": "https://mashable.com/entertainment/007-first-light-james-bond-game-sales-numbers",
+      "image": "https://helios-i.mashable.com/imagery/articles/06OnBAD6hmrOpDATxZfE5M5/hero-image.fill.size_1200x675.v1780159635.jpg",
+      "published_at": "2026-05-31T02:21:09Z",
+      "key_points": [
+        "Massive sales success",
+        "Fans love James Bond",
+        "Franchise revival celebrated"
+      ],
+      "impact": "The game revitalizes interest in the Bond franchise.",
+      "id": "333bd1cdbacca916b60f61b5a9640fb4"
+    },
+    {
+      "title": "Explore Minecraft Marketplace for New Content",
+      "description": "Discover new games and exclusive DLC in the Minecraft Marketplace. Players can purchase Minecoins for exciting new content.",
+      "category": "Gaming",
       "source": "Minecraft.net",
       "url": "https://www.minecraft.net/en-us/marketplace/pdp",
       "image": "https://www.minecraft.net/content/dam/minecraftnet/franchise/logos/minecraft-creeper-face.jpg",
       "published_at": "2026-05-31T01:14:23Z",
       "key_points": [
-        "New chicken mounts available",
-        "Explore Minecraft Marketplace",
-        "Get exclusive DLC and skins"
+        "New games available",
+        "Exclusive DLC offered",
+        "Minecoins for purchases"
       ],
-      "impact": "Players can enhance their Minecraft experience.",
-      "id": "deffc970b68a5935f9466113b436580f"
+      "impact": "The marketplace enhances player engagement.",
+      "id": "46023a3cf4a4b67e766973defb679621"
     },
     {
-      "title": "Intel's Big Reveal Expected at Computex 2026",
-      "description": "Intel plans to unveil new product stacks at Computex 2026, including the Arc G3 and Nova Lake. Anticipation builds for major announcements.",
+      "title": "Rayman Origins Remaster Details Leak",
+      "description": "A leak reveals details about a remastered version of Rayman Origins, appearing on the Xbox Store for $2,000. Fans are eager for more information.",
+      "category": "Gaming",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/rayman-origins-remaster-leak-reveals-first-details-about-enhanced-edition-from-ubisoft",
+      "image": "https://assets-prd.ignimgs.com/2026/05/30/rayman-origins-1780173605487.png?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-05-30T21:00:44Z",
+      "key_points": [
+        "Remaster details leaked",
+        "Available for $2,000",
+        "Fans excited for enhancements"
+      ],
+      "impact": "The remaster could attract nostalgic players.",
+      "id": "eea5b2898e776691c6d12c1e4800a3e9"
+    },
+    {
+      "title": "Nintendo Switch 2 Backwards Compatibility Updates",
+      "description": "Nintendo has released new backwards compatibility fixes for Switch games on the Switch 2. This update aims to improve user experience.",
+      "category": "Gaming",
+      "source": "Nintendo Everything",
+      "url": "https://nintendoeverything.com/nintendo-switch-2-switch-backwards-compatibility-fixes-may-2026/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Switch-2-Switch-backwards-compatibility-fixes-May-2026.webp",
+      "published_at": "2026-05-30T20:26:15Z",
+      "key_points": [
+        "New compatibility fixes released",
+        "Improves user experience",
+        "Ongoing updates for Switch 2"
+      ],
+      "impact": "These fixes enhance the Switch 2's appeal.",
+      "id": "7c11fb6eca2bdd851fa38d325278d008"
+    },
+    {
+      "title": "Fitbit Air Revives Classic Fitness Tracker Appeal",
+      "description": "The Fitbit Air brings back the simplicity of fitness tracking without a screen. Users appreciate its straightforward functionality.",
       "category": "Hardware",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/intel-computex-2026-what-to-expect/",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/Intel-Computex-2026.jpg",
-      "published_at": "2026-05-30T20:08:00Z",
+      "source": "Android Police",
+      "url": "https://www.androidpolice.com/im-wearing-the-fitbit-air-and-i-love-how-it-brings-back-the-golden-age-of-fitness-trackers/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/05/fitbit-air-wearing.JPG?w=1600&h=900&fit=crop",
+      "published_at": "2026-05-30T19:00:13Z",
       "key_points": [
-        "Intel to unveil new products",
-        "Focus on Arc G3 and Nova Lake",
-        "Major announcements expected"
+        "Simplicity in fitness tracking",
+        "No screen design praised",
+        "Nostalgic appeal for users"
       ],
-      "impact": "Intel aims to impress at Computex.",
-      "id": "d2ad2055f41c8e5fb0ab97f6ec50354b"
+      "impact": "The Fitbit Air could redefine fitness tracking.",
+      "id": "9819ed3f9b33744a31cb99b530497d09"
     },
     {
-      "title": "New Minecraft Biome Coming This Fall",
-      "description": "Mojang teased a new biome during Minecraft Live, set to launch this fall. The upcoming update, Chaos Cubed, releases on June 16.",
-      "category": "Software",
-      "source": "GameSpot",
-      "url": "https://www.gamespot.com/articles/another-new-biome-is-coming-to-minecraft-this-fall/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Dappled-Forest_2.png",
-      "published_at": "2026-05-30T16:01:58Z",
+      "title": "Nintendo Switch Online Offers Free Game for 48 Hours",
+      "description": "Nintendo Switch Online subscribers can download a 2025 game for free for 48 hours. This limited-time offer boosts engagement.",
+      "category": "Gaming",
+      "source": "ComicBook.com",
+      "url": "http://comicbook.com/gaming/news/nintendo-switch-online-free-game-2025-download/",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/10/n-i-n-t-e-n-d-o-s-w-i-t-c-h-o-n-l-i-n-e.png?resize=2000,1125",
+      "published_at": "2026-05-30T18:33:12Z",
       "key_points": [
-        "New biome teased for fall",
-        "Chaos Cubed update on June 16",
-        "Exciting changes for Minecraft"
+        "Free game for 48 hours",
+        "Limited-time offer",
+        "Boosts subscriber engagement"
       ],
-      "impact": "Players can look forward to fresh content.",
-      "id": "45592d73ef5b8cd5a6541b480685be25"
+      "impact": "This promotion could increase user retention.",
+      "id": "a7462bf7ec1362eb067e5f61a16f3568"
     },
     {
-      "title": "Infinity Ward Keeps Modern Warfare 4 Grounded",
-      "description": "Infinity Ward confirms Modern Warfare 4 will avoid outlandish cosmetics. The focus remains on realism and grounded gameplay.",
-      "category": "Software",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/modern-warfare-4-infinity-ward-grounded-cosmetics/",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2022/12/cover-home-1.jpg",
-      "published_at": "2026-05-30T16:00:00Z",
+      "title": "Minecraft Live May 2026 Highlights Revealed",
+      "description": "Mojang Studios announced exciting new projects during Minecraft Live May 2026, including a sequel to Minecraft Dungeons. Fans are eager for more details.",
+      "category": "Gaming",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/minecraft-live-may-2026-everything-announced",
+      "image": "https://assets-prd.ignimgs.com/2026/05/30/minecraftlive-blogroll-1780160025138.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-05-30T18:00:20Z",
       "key_points": [
-        "Modern Warfare 4 stays grounded",
-        "No celebrity skins planned",
-        "Focus on realistic gameplay"
+        "New Minecraft projects announced",
+        "Sequel to Dungeons revealed",
+        "Fans excited for updates"
       ],
-      "impact": "Players can expect a more authentic experience.",
-      "id": "21c1f808b4271054a24d7622f980f858"
+      "impact": "These announcements could boost community engagement.",
+      "id": "fae19431fb3e2ad0fa6bc6e8c94032ba"
+    },
+    {
+      "title": "Modern Warfare 4 Addresses Player Feedback",
+      "description": "Infinity Ward aims to improve movement mechanics in Call of Duty: Modern Warfare 4 based on player feedback from previous games. Fans are hopeful for enhancements.",
+      "category": "Gaming",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/call-of-duty-modern-warfare-4-movement/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/modern-warfare-4-details-mantling.jpg?w=1600&h=900&fit=crop",
+      "published_at": "2026-05-30T17:07:36Z",
+      "key_points": [
+        "Movement mechanics improved",
+        "Player feedback prioritized",
+        "Infinity Ward listens to fans"
+      ],
+      "impact": "This could enhance player satisfaction significantly.",
+      "id": "0c8e2002bcd345ea50bfc403a8d45569"
+    },
+    {
+      "title": "Googlebook May Enhance Android Desktop Mode",
+      "description": "The Googlebook may finally address key issues with Android desktop mode, allowing better multitasking and app usage. Users are eager for this improvement.",
+      "category": "Software",
+      "source": "Android Police",
+      "url": "https://www.androidpolice.com/googlebook-fixes-one-thing-about-android-desktop-mode/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/googlebook-main-1.jpg?w=1600&h=900&fit=crop",
+      "published_at": "2026-05-30T16:15:10Z",
+      "key_points": [
+        "Improves Android desktop mode",
+        "Enhances multitasking capabilities",
+        "Users anticipate better functionality"
+      ],
+      "impact": "This could revolutionize Android desktop experiences.",
+      "id": "108513884deb3db6e8ce638b6b4fb589"
+    },
+    {
+      "title": "Google's Gemini Spark Proves Useful for Daily Tasks",
+      "description": "Gemini Spark, Google's new AI assistant, automates tasks like inbox management and event planning. Its separate branding raises questions about its purpose.",
+      "category": "AI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/gemini-spark-GettyImages-2276583186-1.jpg?w=1024",
+      "published_at": "2026-05-30T15:30:00Z",
+      "key_points": [
+        "Automates daily tasks",
+        "Separate branding questioned",
+        "User-friendly interface"
+      ],
+      "impact": "Gemini Spark could streamline daily productivity.",
+      "id": "efe0c0c4c881fe14a51b4b2000a18156"
+    },
+    {
+      "title": "Sony's Decision on Destiny 2 Support Criticized",
+      "description": "Sony's announcement to cease all support for Destiny 2 has drawn criticism from fans. The decision could impact the game's future significantly.",
+      "category": "Gaming",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/05/30/sony-is-wrong-to-take-destiny-2-support-down-to-absolute-zero/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a1aea4fe48d12d758ec3526/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published_at": "2026-05-30T13:51:30Z",
+      "key_points": [
+        "Sony halts all support",
+        "Fans express disappointment",
+        "Impact on game's future questioned"
+      ],
+      "impact": "This decision could alienate the player base.",
+      "id": "5dbaeb67b05905e09996a20410f7d5d8"
     },
     {
       "title": "AC Cobra GT Coupe Unveiled with 720 HP",
-      "description": "AC Cars celebrates its 125th anniversary with the new Cobra GT Coupe, boasting 720 horsepower and classic styling.",
+      "description": "AC Cars celebrates its 125th anniversary with the launch of the Cobra GT Coupe, boasting 720 horsepower. The classic design aims to boost production.",
       "category": "Hardware",
       "source": "Motor1",
       "url": "https://www.motor1.com/news/797329/ac-cobra-gt-coupe-revealed/",
       "image": "https://cdn.motor1.com/images/mgl/JONken/s1/ac-cobra-gt-coupe.jpg",
       "published_at": "2026-05-30T13:46:01Z",
       "key_points": [
-        "New Cobra GT Coupe revealed",
-        "720 horsepower performance",
-        "Celebrating 125 years of AC Cars"
+        "720 horsepower engine",
+        "Classic design returns",
+        "Celebrates 125 years of AC Cars"
       ],
-      "impact": "AC Cars aims to boost production with this model.",
-      "id": "67403dbcaf82e4e08e7a885a8c4d8d7a"
-    },
-    {
-      "title": "3D Silicon Chip Breakthrough Extends Moore's Law",
-      "description": "Researchers have developed a new method to stack silicon circuits, enhancing computing power and potentially extending Moore's Law.",
-      "category": "Science",
-      "source": "Science Daily",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260530053412.htm",
-      "image": "https://www.sciencedaily.com/images/1920/3d-cpu-processor-chip.webp",
-      "published_at": "2026-05-30T10:27:23Z",
-      "key_points": [
-        "New chip stacking method developed",
-        "Enhances computing power",
-        "Extends Moore's Law viability"
-      ],
-      "impact": "This breakthrough could revolutionize chip design.",
-      "id": "8970cc021a053a074f02ab1d0d7421fa"
-    },
-    {
-      "title": "Perplexity Distributes Mac Minis for Testing",
-      "description": "Perplexity is gifting Mac Minis to users for testing its new Personal Computer technology, tapping into high demand for the device.",
-      "category": "Startups",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/perplexity-gifts-mac-minis-in-push-for-personal-computer-tool-2026-5",
-      "image": "https://i.insider.com/6a19ceec2ab5f9757add68c1?width=1200&format=jpeg",
-      "published_at": "2026-05-30T09:46:00Z",
-      "key_points": [
-        "Mac Minis gifted for testing",
-        "Focus on Personal Computer tech",
-        "High demand for Mac Minis"
-      ],
-      "impact": "Perplexity aims to boost user engagement.",
-      "id": "d271b34b7e3ebe97a4f2002cbd5accfc"
-    },
-    {
-      "title": "iOS 27 Will Exclude Some iPhones",
-      "description": "iOS 27 is on the way, but not all iPhones will be eligible for the upgrade. Check which devices may miss out.",
-      "category": "Software",
-      "source": "Tom's Guide",
-      "url": "https://www.tomsguide.com/phones/iphones/ios-27-is-coming-but-it-wont-be-available-on-every-iphone-heres-the-devices-we-dont-think-will-make-the-cut",
-      "image": "https://cdn.mos.cms.futurecdn.net/bVpMc9nkwKwB7TNGiDkmFK-2000-80.jpg",
-      "published_at": "2026-05-30T05:04:52Z",
-      "key_points": [
-        "iOS 27 release confirmed",
-        "Not all iPhones eligible",
-        "Check device compatibility"
-      ],
-      "impact": "Users need to verify upgrade eligibility.",
-      "id": "20f8a9560223d8168abbd50b5d0c346f"
-    },
-    {
-      "title": "Rayman Origins 4K Edition Leaked for Xbox",
-      "description": "A 4K edition of Rayman Origins has leaked, set to be released on Xbox. Official confirmation from Ubisoft is still pending.",
-      "category": "Software",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/05/rayman-leaks-just-wont-stop-xbox-outs-4k-edition-of-origins",
-      "image": "https://images.pushsquare.com/8b28fd7cca3a2/large.jpg",
-      "published_at": "2026-05-29T23:00:00Z",
-      "key_points": [
-        "Rayman Origins 4K edition leaked",
-        "Release planned for Xbox",
-        "Awaiting Ubisoft confirmation"
-      ],
-      "impact": "Fans anticipate the remaster's arrival.",
-      "id": "cc3fa3cd63c9b6bb1fda62cb0f4ab95e"
+      "impact": "The Cobra GT Coupe could attract car enthusiasts.",
+      "id": "e27557210e1d51b510d875314797fe6f"
     }
   ]
 }

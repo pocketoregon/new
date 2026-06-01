@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-01T10:22:44.619399+00:00",
+      "fetched_at": "2026-06-01T10:22:44.619399+00:00",
+      "label": "Jun 01, 2026 — 10:23 AM UTC",
+      "articles": [
+        {
+          "title": "Apple iOS 27 Release Date Announced",
+          "description": "Apple's iOS 27 is set to launch soon, featuring a new Siri upgrade. Here's the expected release schedule for eager users.",
+          "category": "Software",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/davidphelan/2026/05/31/apple-ios-27-release-date-when-you-can-download-and-test-the-new-iphone-update/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/68eb70cab1a8496225a0acd5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-05-31T10:16:22Z",
+          "key_points": [
+            "New Siri upgrade included",
+            "Release schedule revealed",
+            "Highly anticipated update"
+          ],
+          "impact": "iOS 27 promises significant enhancements for users.",
+          "id": "d0d58fad1fa4fe0434ac50ccdf298477"
+        },
+        {
+          "title": "Microsoft's Controversial Threat to Cybersecurity Researchers",
+          "description": "Microsoft's recent threats towards cybersecurity researchers have sparked outrage in the community. The company's controversial stance raises concerns about collaboration.",
+          "category": "Security",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/microsoft/they-will-ruin-my-life-microsoft-threatens-to-wield-digital-crimes-unit-over-zero-day-exploit-disclosures-causing-uproar-in-the-cybersec-community",
+          "image": "https://cdn.mos.cms.futurecdn.net/XF9dDmwefDZrFZ7Kd2Pqeg-2121-80.jpg",
+          "published_at": "2026-05-31T07:01:19Z",
+          "key_points": [
+            "Threats alarm cybersecurity experts",
+            "Controversial collaboration issues",
+            "Microsoft's reputation at stake"
+          ],
+          "impact": "Microsoft's actions could hinder security research efforts.",
+          "id": "a7b29f2a93f5a63dc5279f657fe5d7e8"
+        },
+        {
+          "title": "Samsung Galaxy Z Fold 8 Leak Reveals Wider Design",
+          "description": "A leaked photo showcases the Galaxy Z Fold 8's wider form factor compared to its predecessor. This design change is generating buzz among tech enthusiasts.",
+          "category": "Hardware",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/05/30/galaxy-z-fold-8-wide-ultra-leak/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/galaxy-z-fold-8-photo-leak-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-05-31T02:35:00Z",
+          "key_points": [
+            "Wider design revealed",
+            "Comparison with Ultra model",
+            "Excitement builds for launch"
+          ],
+          "impact": "The new design could attract more buyers.",
+          "id": "fcd8d9b0c294636d5ac5d82071fed916"
+        },
+        {
+          "title": "'007: First Light' Breaks Sales Records",
+          "description": "The latest James Bond game, '007: First Light', has become a massive sales success. Fans are clearly excited about the franchise's return.",
+          "category": "Gaming",
+          "source": "Mashable",
+          "url": "https://mashable.com/entertainment/007-first-light-james-bond-game-sales-numbers",
+          "image": "https://helios-i.mashable.com/imagery/articles/06OnBAD6hmrOpDATxZfE5M5/hero-image.fill.size_1200x675.v1780159635.jpg",
+          "published_at": "2026-05-31T02:21:09Z",
+          "key_points": [
+            "Massive sales success",
+            "Fans love James Bond",
+            "Franchise revival celebrated"
+          ],
+          "impact": "The game revitalizes interest in the Bond franchise.",
+          "id": "333bd1cdbacca916b60f61b5a9640fb4"
+        },
+        {
+          "title": "Explore Minecraft Marketplace for New Content",
+          "description": "Discover new games and exclusive DLC in the Minecraft Marketplace. Players can purchase Minecoins for exciting new content.",
+          "category": "Gaming",
+          "source": "Minecraft.net",
+          "url": "https://www.minecraft.net/en-us/marketplace/pdp",
+          "image": "https://www.minecraft.net/content/dam/minecraftnet/franchise/logos/minecraft-creeper-face.jpg",
+          "published_at": "2026-05-31T01:14:23Z",
+          "key_points": [
+            "New games available",
+            "Exclusive DLC offered",
+            "Minecoins for purchases"
+          ],
+          "impact": "The marketplace enhances player engagement.",
+          "id": "46023a3cf4a4b67e766973defb679621"
+        },
+        {
+          "title": "Rayman Origins Remaster Details Leak",
+          "description": "A leak reveals details about a remastered version of Rayman Origins, appearing on the Xbox Store for $2,000. Fans are eager for more information.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/rayman-origins-remaster-leak-reveals-first-details-about-enhanced-edition-from-ubisoft",
+          "image": "https://assets-prd.ignimgs.com/2026/05/30/rayman-origins-1780173605487.png?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-05-30T21:00:44Z",
+          "key_points": [
+            "Remaster details leaked",
+            "Available for $2,000",
+            "Fans excited for enhancements"
+          ],
+          "impact": "The remaster could attract nostalgic players.",
+          "id": "eea5b2898e776691c6d12c1e4800a3e9"
+        },
+        {
+          "title": "Nintendo Switch 2 Backwards Compatibility Updates",
+          "description": "Nintendo has released new backwards compatibility fixes for Switch games on the Switch 2. This update aims to improve user experience.",
+          "category": "Gaming",
+          "source": "Nintendo Everything",
+          "url": "https://nintendoeverything.com/nintendo-switch-2-switch-backwards-compatibility-fixes-may-2026/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Switch-2-Switch-backwards-compatibility-fixes-May-2026.webp",
+          "published_at": "2026-05-30T20:26:15Z",
+          "key_points": [
+            "New compatibility fixes released",
+            "Improves user experience",
+            "Ongoing updates for Switch 2"
+          ],
+          "impact": "These fixes enhance the Switch 2's appeal.",
+          "id": "7c11fb6eca2bdd851fa38d325278d008"
+        },
+        {
+          "title": "Fitbit Air Revives Classic Fitness Tracker Appeal",
+          "description": "The Fitbit Air brings back the simplicity of fitness tracking without a screen. Users appreciate its straightforward functionality.",
+          "category": "Hardware",
+          "source": "Android Police",
+          "url": "https://www.androidpolice.com/im-wearing-the-fitbit-air-and-i-love-how-it-brings-back-the-golden-age-of-fitness-trackers/",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/05/fitbit-air-wearing.JPG?w=1600&h=900&fit=crop",
+          "published_at": "2026-05-30T19:00:13Z",
+          "key_points": [
+            "Simplicity in fitness tracking",
+            "No screen design praised",
+            "Nostalgic appeal for users"
+          ],
+          "impact": "The Fitbit Air could redefine fitness tracking.",
+          "id": "9819ed3f9b33744a31cb99b530497d09"
+        },
+        {
+          "title": "Nintendo Switch Online Offers Free Game for 48 Hours",
+          "description": "Nintendo Switch Online subscribers can download a 2025 game for free for 48 hours. This limited-time offer boosts engagement.",
+          "category": "Gaming",
+          "source": "ComicBook.com",
+          "url": "http://comicbook.com/gaming/news/nintendo-switch-online-free-game-2025-download/",
+          "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/10/n-i-n-t-e-n-d-o-s-w-i-t-c-h-o-n-l-i-n-e.png?resize=2000,1125",
+          "published_at": "2026-05-30T18:33:12Z",
+          "key_points": [
+            "Free game for 48 hours",
+            "Limited-time offer",
+            "Boosts subscriber engagement"
+          ],
+          "impact": "This promotion could increase user retention.",
+          "id": "a7462bf7ec1362eb067e5f61a16f3568"
+        },
+        {
+          "title": "Minecraft Live May 2026 Highlights Revealed",
+          "description": "Mojang Studios announced exciting new projects during Minecraft Live May 2026, including a sequel to Minecraft Dungeons. Fans are eager for more details.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/minecraft-live-may-2026-everything-announced",
+          "image": "https://assets-prd.ignimgs.com/2026/05/30/minecraftlive-blogroll-1780160025138.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-05-30T18:00:20Z",
+          "key_points": [
+            "New Minecraft projects announced",
+            "Sequel to Dungeons revealed",
+            "Fans excited for updates"
+          ],
+          "impact": "These announcements could boost community engagement.",
+          "id": "fae19431fb3e2ad0fa6bc6e8c94032ba"
+        },
+        {
+          "title": "Modern Warfare 4 Addresses Player Feedback",
+          "description": "Infinity Ward aims to improve movement mechanics in Call of Duty: Modern Warfare 4 based on player feedback from previous games. Fans are hopeful for enhancements.",
+          "category": "Gaming",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/call-of-duty-modern-warfare-4-movement/",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/modern-warfare-4-details-mantling.jpg?w=1600&h=900&fit=crop",
+          "published_at": "2026-05-30T17:07:36Z",
+          "key_points": [
+            "Movement mechanics improved",
+            "Player feedback prioritized",
+            "Infinity Ward listens to fans"
+          ],
+          "impact": "This could enhance player satisfaction significantly.",
+          "id": "0c8e2002bcd345ea50bfc403a8d45569"
+        },
+        {
+          "title": "Googlebook May Enhance Android Desktop Mode",
+          "description": "The Googlebook may finally address key issues with Android desktop mode, allowing better multitasking and app usage. Users are eager for this improvement.",
+          "category": "Software",
+          "source": "Android Police",
+          "url": "https://www.androidpolice.com/googlebook-fixes-one-thing-about-android-desktop-mode/",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/googlebook-main-1.jpg?w=1600&h=900&fit=crop",
+          "published_at": "2026-05-30T16:15:10Z",
+          "key_points": [
+            "Improves Android desktop mode",
+            "Enhances multitasking capabilities",
+            "Users anticipate better functionality"
+          ],
+          "impact": "This could revolutionize Android desktop experiences.",
+          "id": "108513884deb3db6e8ce638b6b4fb589"
+        },
+        {
+          "title": "Google's Gemini Spark Proves Useful for Daily Tasks",
+          "description": "Gemini Spark, Google's new AI assistant, automates tasks like inbox management and event planning. Its separate branding raises questions about its purpose.",
+          "category": "AI",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/gemini-spark-GettyImages-2276583186-1.jpg?w=1024",
+          "published_at": "2026-05-30T15:30:00Z",
+          "key_points": [
+            "Automates daily tasks",
+            "Separate branding questioned",
+            "User-friendly interface"
+          ],
+          "impact": "Gemini Spark could streamline daily productivity.",
+          "id": "efe0c0c4c881fe14a51b4b2000a18156"
+        },
+        {
+          "title": "Sony's Decision on Destiny 2 Support Criticized",
+          "description": "Sony's announcement to cease all support for Destiny 2 has drawn criticism from fans. The decision could impact the game's future significantly.",
+          "category": "Gaming",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/05/30/sony-is-wrong-to-take-destiny-2-support-down-to-absolute-zero/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a1aea4fe48d12d758ec3526/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-05-30T13:51:30Z",
+          "key_points": [
+            "Sony halts all support",
+            "Fans express disappointment",
+            "Impact on game's future questioned"
+          ],
+          "impact": "This decision could alienate the player base.",
+          "id": "5dbaeb67b05905e09996a20410f7d5d8"
+        },
+        {
+          "title": "AC Cobra GT Coupe Unveiled with 720 HP",
+          "description": "AC Cars celebrates its 125th anniversary with the launch of the Cobra GT Coupe, boasting 720 horsepower. The classic design aims to boost production.",
+          "category": "Hardware",
+          "source": "Motor1",
+          "url": "https://www.motor1.com/news/797329/ac-cobra-gt-coupe-revealed/",
+          "image": "https://cdn.motor1.com/images/mgl/JONken/s1/ac-cobra-gt-coupe.jpg",
+          "published_at": "2026-05-30T13:46:01Z",
+          "key_points": [
+            "720 horsepower engine",
+            "Classic design returns",
+            "Celebrates 125 years of AC Cars"
+          ],
+          "impact": "The Cobra GT Coupe could attract car enthusiasts.",
+          "id": "e27557210e1d51b510d875314797fe6f"
+        }
+      ]
+    },
+    {
       "id": "2026-06-01T04:20:49.643454+00:00",
       "fetched_at": "2026-06-01T04:20:49.643454+00:00",
       "label": "Jun 01, 2026 — 04:21 AM UTC",
@@ -5144,125 +5391,6 @@
             "Market changes expected"
           ],
           "impact": "This could lead to more competition in the laptop market."
-        }
-      ]
-    },
-    {
-      "id": "2026-05-28T07:28:39.483182+00:00",
-      "fetched_at": "2026-05-28T07:28:39.483182+00:00",
-      "label": "May 28, 2026 — 07:28 AM UTC",
-      "articles": [
-        {
-          "title": "Apple working on iPhone anti-snatching feature",
-          "summary": "Apple is making iPhones safer.  A new feature will lock the phone if stolen.  This helps protect your device.",
-          "category": "Security",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/05/26/apple-working-on-iphone-anti-snatching-feature-that-locks-the-device-automatically/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-security-liquid-glass.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "key_points": [
-            "New iPhone security",
-            "Locks if stolen",
-            "Protects user data"
-          ],
-          "impact": "This new feature aims to significantly enhance iPhone security against theft and unauthorized access."
-        },
-        {
-          "title": "DuckDuckGo gains users over Google's AI Search",
-          "summary": "More people use DuckDuckGo now. They dislike Google's AI search changes. DuckDuckGo offers a different way.",
-          "category": "AI",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
-          "key_points": [
-            "DuckDuckGo installs rise",
-            "Users avoid Google AI",
-            "Search preference shift"
-          ],
-          "impact": "This shift highlights user concerns about the direction of AI integration in mainstream search engines."
-        },
-        {
-          "title": "Windows 11 update brings performance gains",
-          "summary": "Windows 11 is getting faster. A new update offers better performance. Your PC will feel more responsive.",
-          "category": "Software",
-          "source": "Windows Central",
-          "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-rolls-out-windows-11-kb5089573-update-that-makes-your-pc-genuinely-faster-and-more-responsive",
-          "image": "https://cdn.mos.cms.futurecdn.net/iSfZLRtdr9rYXFF8StFJcN-2560-80.jpg",
-          "key_points": [
-            "Windows 11 faster",
-            "New update released",
-            "Improved responsiveness"
-          ],
-          "impact": "This update promises a smoother and quicker computing experience for Windows 11 users."
-        },
-        {
-          "title": "PC makers respond to Apple's MacBook Neo",
-          "summary": "PC makers are reacting. They are making new laptops. These compete with Apple's new machines.",
-          "category": "Hardware",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/05/were-starting-to-see-some-pc-makers-respond-to-apples-macbook-neo/",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/intel-core-series-3-1152x648.jpg",
-          "key_points": [
-            "PC makers adapt",
-            "New laptop competition",
-            "Apple's influence grows"
-          ],
-          "impact": "This suggests a new wave of affordable and competitive laptops entering the market."
-        },
-        {
-          "title": "Street Fighter 6 update server maintenance announced",
-          "summary": "Street Fighter 6 is getting a big update. Server maintenance is scheduled soon. Expect new content.",
-          "category": "Software",
-          "source": "EventHubs",
-          "url": "https://eventhubs.com/news/2026/may/26/street-fighter-ingrid-update-maintenance/",
-          "image": "https://media.eventhubs.com/images/2026/05/26-street-fighter-ingrid-update-maintenancet.webp",
-          "key_points": [
-            "SF6 major update",
-            "Server downtime planned",
-            "New character Ingrid"
-          ],
-          "impact": "Players will experience temporary downtime for a significant game update and new character release."
-        },
-        {
-          "title": "Memorial Day Apple deals still available",
-          "summary": "Good deals on Apple products remain. You can still buy MacBooks and AirPods. Save money on tech.",
-          "category": "Hardware",
-          "source": "Mashable",
-          "url": "https://mashable.com/tech/best-memorial-day-deals-apple-airpods-macbooks-2026",
-          "image": "https://helios-i.mashable.com/imagery/articles/06ylH5Qobpg8bD9ZkmWUJbh/hero-image.fill.size_1200x675.v1779733508.jpg",
-          "key_points": [
-            "Apple deals active",
-            "MacBooks and AirPods on sale",
-            "Post-holiday savings"
-          ],
-          "impact": "Consumers can still find significant discounts on popular Apple devices."
-        },
-        {
-          "title": "Destruction AllStars removed from PS5 due to issues",
-          "summary": "Destruction AllStars is gone from PS5. The game had ongoing technical problems. It was removed without warning.",
-          "category": "Software",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/05/ps5s-destruction-allstars-delisted-and-disabled-without-notice-due-to-ongoing-technical-issues",
-          "image": "https://images.pushsquare.com/af024affac1df/large.jpg",
-          "key_points": [
-            "Destruction AllStars removed",
-            "Technical issues cited",
-            "No prior notice"
-          ],
-          "impact": "Players can no longer access the game due to persistent technical problems."
-        },
-        {
-          "title": "Marathon Season 2 trailer released",
-          "summary": "Marathon's Season 2 is coming. A new trailer shows changes. The game feels more like survival horror.",
-          "category": "Software",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/marathon-goes-full-survival-horror-mode-in-new-nightfall-trailer-and-i-cant-believe-im-about-to-get-sucked-in-all-over-again-2000699604",
-          "image": "https://kotaku.com/app/uploads/2026/05/Triage-1200x675.jpg",
-          "key_points": [
-            "Marathon Season 2",
-            "New survival horror tone",
-            "Trailer shows changes"
-          ],
-          "impact": "This update promises a significant shift in gameplay experience for Marathon players."
         }
       ]
     }
