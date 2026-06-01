@@ -200,8 +200,12 @@ def fetch_news():
             article["id"] = art_id
             unseen_articles.append(article)
             
-    print(f"   Filtered down to {len(unseen_articles)} brand-new unique articles.")
-    
+print(f"  Filtered down to {len(unseen_articles)} brand-new unique articles.")
+        unseen_articles = unseen_articles[:15]  # Cap per run to avoid huge GPT prompts
+        print(f"  Capped to {len(unseen_articles)} articles for this run.")
+
+        # -----------------------------------------------------------------------
+        # DATA SIPHON SECURITY HOOK...
     # ---------------------------------------------------------------------------
     # DATA SIPHON SECURITY HOOK: DROPPED FIXED SPLICING CONSTRAINT [:8] 
     # Captures 100% of incoming items down the pipeline stream gracefully.
