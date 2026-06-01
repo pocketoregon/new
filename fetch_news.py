@@ -13,7 +13,7 @@ from datetime import datetime, timezone
 class StructuredArticle(BaseModel):
     title: str = Field(description="The rewritten punchy headline.")
     description: str = Field(description="A brief summary. Exactly 2 to 3 short sentences. Strict maximum of 35 words total.")
-    category: str = Field(description="Must be one of: AI, Hardware, Software, Security, Science, Business, Policy, Startups")
+    category: str = Field(description="Must be one of: AI, Hardware, Software, Security, Science, Business, Policy, Startups, Gaming")
     source: str = Field(description="Keep exact original source name unchanged.")
     url: str = Field(description="Keep exact original URL unchanged.")
     image: str = Field(description="Keep exact original image URL unchanged.")
