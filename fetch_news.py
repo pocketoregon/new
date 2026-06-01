@@ -122,7 +122,7 @@ Articles to process: {articles_text}"""
         return {"date": today, "generated_at": datetime.now(timezone.utc).isoformat(), "articles": []}
 
 def validate(news_data, original_articles):
-    valid_categories = {"AI", "Hardware", "Software", "Security", "Science", "Business", "Policy", "Startups"}
+    valid_categories = {"AI", "Hardware", "Software", "Security", "Science", "Business", "Policy", "Startups", "Gaming"}
     for i, article in enumerate(news_data["articles"]):
         if i < len(original_articles):
             if not article.get("url"):
