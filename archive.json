@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-02T23:01:34.809318+00:00",
+      "fetched_at": "2026-06-02T23:01:34.809318+00:00",
+      "label": "Jun 02, 2026 — 11:02 PM UTC",
+      "articles": [
+        {
+          "title": "Date Dilemma: Was She Right to Leave?",
+          "description": "A viral post debates whether leaving a date due to tardiness is justified. Opinions vary on the importance of punctuality in dating.",
+          "category": "Gaming",
+          "source": "Yahoo Entertainment",
+          "url": "https://creators.yahoo.com/lifestyle/story/she-walked-out-on-a-first-date-before-it-even-started-when-her-date-was-running-35-minutes-late-was-she-right-193423178.html",
+          "image": "https://s.yimg.com/ny/api/res/1.2/ZiQuhZHAQy7AIjrQowRbsA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-06/1bafecca-6e95-48b4-bfc4-97bd01be4ef2",
+          "published_at": "2026-06-01T20:18:42Z",
+          "key_points": [
+            "Punctuality sparks debate",
+            "Mixed opinions on dating etiquette",
+            "Traffic delays considered"
+          ],
+          "impact": "This incident highlights differing views on dating norms.",
+          "id": "9f96ea0dc6557aa24e3e471450a1b03d"
+        },
+        {
+          "title": "Computex 2026: Key Highlights Unveiled",
+          "description": "Computex 2026 showcases major tech advancements, including Nvidia's RTX Spark and new chips from Intel and Qualcomm.",
+          "category": "Hardware",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/940844/computex-2026",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=0%2C9.3778095086996%2C100%2C81.244380982601&w=1200",
+          "published_at": "2026-06-01T20:02:31Z",
+          "key_points": [
+            "Nvidia announces RTX Spark",
+            "Intel and Qualcomm reveal chips",
+            "AMD updates existing products"
+          ],
+          "impact": "New tech innovations set the stage for future developments.",
+          "id": "8b551e6166e4d9ce97cc408241a7132d"
+        },
+        {
+          "title": "Nintendo's Mario Sunshine Critique",
+          "description": "Developer Bennett Foddy discusses how criticism of Mario Sunshine has impacted Nintendo's game design approach.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/getting-over-it-baby-steps-qwop-super-mario-sunshine-2000701168",
+          "image": "https://kotaku.com/app/uploads/2026/06/mariobabysteps2-1200x675.jpg",
+          "published_at": "2026-06-01T19:08:10Z",
+          "key_points": [
+            "Criticism shapes game development",
+            "Bennett Foddy's insights",
+            "Impact of player feedback"
+          ],
+          "impact": "Critiques influence future Nintendo game designs.",
+          "id": "5d74ab225c02a02f7d5d53f75824a2f5"
+        },
+        {
+          "title": "Metal Gear Solid 4: A Cautionary Tale",
+          "description": "Metal Gear Solid 4 is analyzed as a warning against convoluted storytelling in gaming franchises.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/metal-gear-solid-4-was-a-warning-cry-to-other-franchises-2000701073",
+          "image": "https://kotaku.com/app/uploads/2026/06/image-88-1200x675.jpg",
+          "published_at": "2026-06-01T18:30:13Z",
+          "key_points": [
+            "Franchise storytelling pitfalls",
+            "Self-referential madness",
+            "Cinematic universe critique"
+          ],
+          "impact": "The game serves as a lesson for future franchises.",
+          "id": "6d2ca333304b89d60622499aad736e5d"
+        },
+        {
+          "title": "Lifetime Access to AI Models for $60",
+          "description": "Cancel your Claude subscription and get lifetime access to multiple AI models for a one-time fee.",
+          "category": "Software",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/may-30-chatplayground-ai-unlimited-plan-lifetime-subscriptions",
+          "image": "https://helios-i.mashable.com/imagery/articles/01slvSKpQQpioTrZf23W6sv/hero-image.fill.size_1200x675.v1779796115.jpg",
+          "published_at": "2026-06-01T17:50:29Z",
+          "key_points": [
+            "One-time fee for lifetime access",
+            "Multiple AI models included",
+            "No monthly subscriptions"
+          ],
+          "impact": "This offer simplifies AI access for users.",
+          "id": "2c9a4e108ad5cbf6a08af2ae22eeb11d"
+        },
+        {
+          "title": "Nvidia Stock Rises Amid PC Market Push",
+          "description": "Nvidia's stock surged after announcing a new product aimed at the personal computer market, impacting Intel and AMD.",
+          "category": "Business",
+          "source": "Yahoo Entertainment",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-jumps-pc-push-174043570.html",
+          "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+          "published_at": "2026-06-01T17:40:43Z",
+          "key_points": [
+            "Nvidia stock climbs 4%",
+            "New PC product announced",
+            "Intel and AMD affected"
+          ],
+          "impact": "Nvidia's move reshapes competitive dynamics in the market.",
+          "id": "e03c0589bd3cd15615de534d36ae0eec"
+        },
+        {
+          "title": "Apple Fixes iPhone Charging Issues",
+          "description": "Apple releases iOS 26.5.1 to address charging problems in iPhone Air and iPhone 17 models.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/01/apple-releases-ios-26-5-1/",
+          "image": "https://images.macrumors.com/t/x5OKeizcRejo6CTsrqL2FNQ1Q2k=/2500x/article-new/2026/05/iOS-26.5.1-Feature.jpg",
+          "published_at": "2026-06-01T17:23:23Z",
+          "key_points": [
+            "iOS 26.5.1 released",
+            "Fixes charging issues",
+            "Available for iPhone Air"
+          ],
+          "impact": "This update resolves critical user complaints.",
+          "id": "c728fa6d662ad68d1c401efccd8e4e42"
+        },
+        {
+          "title": "Google Messages Gains Animated Wallpapers",
+          "description": "Google Messages will soon support custom chat wallpapers, including animated GIFs.",
+          "category": "Software",
+          "source": "Android Authority",
+          "url": "https://www.androidauthority.com/google-messages-wallpaper-animations-3673191/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Google-Messages-Logo-on-Pixel-9a.jpg",
+          "published_at": "2026-06-01T17:23:06Z",
+          "key_points": [
+            "Custom wallpapers introduced",
+            "Animated GIF support added",
+            "Enhances user experience"
+          ],
+          "impact": "This feature enriches the messaging experience.",
+          "id": "300b415a5a376fba77040b9cb6ca5992"
+        },
+        {
+          "title": "AMD Extends Socket AM5 Support",
+          "description": "AMD announces extended support for Socket AM5 through at least 2029, with new product launches.",
+          "category": "Hardware",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/06/amd-extends-socket-am5-support-through-at-least-2029-am4-refuses-to-die/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_0491-1152x648.jpeg",
+          "published_at": "2026-06-01T17:02:22Z",
+          "key_points": [
+            "Socket AM5 support extended",
+            "New products launched",
+            "AM4 remains relevant"
+          ],
+          "impact": "AMD's strategy ensures longevity for users.",
+          "id": "c7afa1f33f3074894f2b6b5276f03879"
+        },
+        {
+          "title": "Sony Launches New Gaming Accessories",
+          "description": "Sony announces the launch of its FlexStrike fight stick and gaming monitor for August, with more details on speakers to follow.",
+          "category": "Gaming",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/941031/sony-playstation-flexstrike-fight-stick-gaming-monitor-pulse-elevate-speakers-launch-date-price",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/e83ee8bdc472aaa069d6fb0cd1c51a1151b2ed3e.jpg.webp?quality=90&strip=all&crop=0%2C3.2448557165469%2C100%2C93.510288566906&w=1200",
+          "published_at": "2026-06-01T16:36:18Z",
+          "key_points": [
+            "FlexStrike fight stick launching",
+            "27-inch gaming monitor announced",
+            "Pulse Elevate speakers coming later"
+          ],
+          "impact": "New accessories enhance the gaming experience.",
+          "id": "bc48ccec061e7f96ab999f84420238e7"
+        },
+        {
+          "title": "Apple Teases WWDC26 with New Content",
+          "description": "Apple shares a new wallpaper, playlist, and video to promote WWDC 2026, building anticipation for the event.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/01/apple-shares-wwdc-2026-wallpaper/",
+          "image": "https://images.macrumors.com/t/dcSzk30En7kclD_dWwSVaC97V4I=/1600x/article-new/2026/06/WWDC-2026-Wallpaper.jpg",
+          "published_at": "2026-06-01T16:17:57Z",
+          "key_points": [
+            "WWDC26 teaser released",
+            "New wallpaper and playlist",
+            "Promotional video shared"
+          ],
+          "impact": "Apple builds excitement ahead of WWDC.",
+          "id": "bdd23194b436e83bd488d1971aaeff0a"
+        },
+        {
+          "title": "New iPhone Ultra Features Leaked",
+          "description": "A leak reveals a new vapor chamber feature for the iPhone Ultra, along with an update on its release timing.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/01/leaker-reveals-new-iphone-ultra-feature-release-timing-update/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-01T15:51:00Z",
+          "key_points": [
+            "iPhone Ultra feature leaked",
+            "Vapor chamber technology",
+            "Release timing updated"
+          ],
+          "impact": "New features may enhance device performance.",
+          "id": "9157819c35329b0e83e470b5dd1cbbfa"
+        },
+        {
+          "title": "C8 Corvette's 8.1L Engine Hits the Road",
+          "description": "The world's first 8.1L big block C8 Corvette has been engineered for performance and is now on the freeway.",
+          "category": "Geopolitics",
+          "source": "The Drive",
+          "url": "https://www.thedrive.com/news/worlds-first-8-1l-big-block-c8-corvette-finally-hits-the-freeway",
+          "image": "https://www.thedrive.com/wp-content/uploads/2026/06/Big-Block-C8-Hero-2.jpg?w=1200",
+          "published_at": "2026-06-01T15:29:16Z",
+          "key_points": [
+            "First 8.1L C8 Corvette launched",
+            "Advanced engineering features",
+            "Performance-focused design"
+          ],
+          "impact": "This vehicle sets new performance standards.",
+          "id": "51a6aa06099a20ea07fe63626b46fb09"
+        },
+        {
+          "title": "Setting Up the New Google Health App",
+          "description": "The new Google Health app faces criticism but offers setup tips to improve user experience after the Fitbit app's discontinuation.",
+          "category": "Software",
+          "source": "Droid Life",
+          "url": "https://www.droid-life.com/2026/06/01/heres-the-best-way-to-setup-the-new-google-health-app/",
+          "image": "https://www.droid-life.com/wp-content/uploads/2026/06/Google-Health-Widget-Android-2-1200x628.jpg",
+          "published_at": "2026-06-01T15:06:57Z",
+          "key_points": [
+            "Google Health app criticized",
+            "Setup tips provided",
+            "Fitbit app replaced"
+          ],
+          "impact": "Guidance helps users adapt to changes.",
+          "id": "142b8110d72cf6c13e83c7b6ad512a39"
+        },
+        {
+          "title": "Sony Targets Poor-Quality PS5 Games",
+          "description": "Sony announces plans to combat over 1,000 low-quality PS5 games, emphasizing quality over quantity in its gaming ecosystem.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/were-continuing-our-journey-on-xbox-switch-and-steam-sony-wages-war-on-1000plus-crappy-ps5-games",
+          "image": "https://images.pushsquare.com/6068c94fa5a92/large.jpg",
+          "published_at": "2026-06-01T15:00:00Z",
+          "key_points": [
+            "Sony targets low-quality games",
+            "Focus on quality gaming",
+            "Commitment to better titles"
+          ],
+          "impact": "This initiative aims to enhance gaming standards.",
+          "id": "1a216dcd50990ea7262edb593d5d9379"
+        }
+      ]
+    },
+    {
       "id": "2026-06-02T20:47:41.499555+00:00",
       "fetched_at": "2026-06-02T20:47:41.499555+00:00",
       "label": "Jun 02, 2026 — 08:48 PM UTC",
@@ -6024,141 +6271,6 @@
           ],
           "impact": "Review sparks debate over phone design.",
           "id": "9427af3f5c8b2c1ffb804f9ce59b78dc"
-        }
-      ]
-    },
-    {
-      "id": "2026-05-29T12:17:16.172245+00:00",
-      "fetched_at": "2026-05-29T12:17:16.172245+00:00",
-      "label": "May 29, 2026 — 12:17 PM UTC",
-      "articles": [
-        {
-          "title": "The Outer Worlds PS5 Upgrade Turns Chaotic",
-          "description": "Obsidian's free PS5 upgrade for The Outer Worlds has led to confusion among players. Mixed messaging has complicated the upgrade process for PS4 owners.",
-          "category": "Software",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/05/the-outer-worlds-free-ps5-upgrade-has-immediately-turned-into-a-mess",
-          "image": "https://images.pushsquare.com/d7ecb2faf5221/large.jpg",
-          "published_at": "2026-05-28T10:15:00Z",
-          "key_points": [
-            "Confusion over upgrade process",
-            "Mixed messages from Obsidian",
-            "PS4 owners facing issues"
-          ],
-          "impact": "Players are frustrated by unclear upgrade instructions.",
-          "id": "ac60bd41fcaf0e62d8be3b27abf9b4ac"
-        },
-        {
-          "title": "Vertu's AI Foldable Targets CEOs at $6,880",
-          "description": "Vertu launches a luxury foldable phone featuring AI workflows aimed at executives. The device integrates enterprise software for enhanced productivity.",
-          "category": "Hardware",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/05/vertu-alphafold-foldable.jpg?resize=1200,800",
-          "published_at": "2026-05-28T07:00:00Z",
-          "key_points": [
-            "Luxury foldable phone",
-            "AI integration for executives",
-            "Starts at $6,880"
-          ],
-          "impact": "Vertu aims to redefine productivity for CEOs.",
-          "id": "bcd8e4dc8421f0998efafbbd19298912"
-        },
-        {
-          "title": "Anker Unveils Pokémon-Themed Tech Collection",
-          "description": "Anker Japan celebrates Pokémon's 30th anniversary with a new tech collection. The lineup includes chargers, adapters, and earphones.",
-          "category": "Hardware",
-          "source": "gizmochina",
-          "url": "https://www.gizmochina.com/2026/05/28/anker-pokemon-30th-anniversary-collection-2026-charger-adpater-earphone-pouch/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/Anker-USB-Fast-Charger-70W-Pikachu-Model.jpg",
-          "published_at": "2026-05-28T06:28:14Z",
-          "key_points": [
-            "Pokémon-themed tech accessories",
-            "Includes chargers and earphones",
-            "Launches in July 2026"
-          ],
-          "impact": "Anker targets Pokémon fans with exclusive products.",
-          "id": "e0962f995e672d46a1b8771e36832295"
-        },
-        {
-          "title": "No Switch 2 Upgrade for Dragon Quest XI S",
-          "description": "Square Enix confirms no plans for a Switch 2 upgrade for Dragon Quest XI S. The game will remain as is for the new console.",
-          "category": "Software",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/05/square-enix-has-no-plans-to-sell-a-switch-2-upgrade-for-dragon-quest-xi-s",
-          "image": "https://images.nintendolife.com/fbfe6d2f3d235/large.jpg",
-          "published_at": "2026-05-28T02:55:00Z",
-          "key_points": [
-            "No Switch 2 upgrade planned",
-            "Game remains unchanged",
-            "Square Enix confirms decision"
-          ],
-          "impact": "Fans will not see an upgraded version.",
-          "id": "163835a0bc933cc338b89ff21e369292"
-        },
-        {
-          "title": "Mina the Hollower: A Retro Gaming Masterpiece",
-          "description": "Mina the Hollower impresses with its retro style and gameplay. The game showcases Yacht Club Games' continuous improvement in game design.",
-          "category": "Software",
-          "source": "Gamefile.news",
-          "url": "https://www.gamefile.news/p/mina-the-hollower-review-plus-shovel-knight",
-          "image": "https://substackcdn.com/image/fetch/$s_!tOmH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa39e3c9-7bb2-4151-8cd9-5083e7def3d2_1920x1080.jpeg",
-          "published_at": "2026-05-27T23:55:58Z",
-          "key_points": [
-            "Retro-style gameplay",
-            "Yacht Club's latest release",
-            "Highly praised by reviewers"
-          ],
-          "impact": "Mina the Hollower sets a new standard for retro games.",
-          "id": "7098a17de47bc781281afe973578e901"
-        },
-        {
-          "title": "Top 5 Tech Deals on Amazon Outlet This May",
-          "description": "Amazon Outlet features exciting tech products at discounted prices. Limited-time offers make these deals a must-see for tech enthusiasts.",
-          "category": "Business",
-          "source": "SlashGear",
-          "url": "https://www.slashgear.com/2180660/cool-products-on-amazon-outlet-may-2026/",
-          "image": "https://www.slashgear.com/img/gallery/5-cool-tech-products-you-can-find-on-amazon-outlet-in-may-2026/l-intro-1779731893.jpg",
-          "published_at": "2026-05-27T23:30:00Z",
-          "key_points": [
-            "Discounted tech products",
-            "Limited-time offers",
-            "Must-see for tech lovers"
-          ],
-          "impact": "Shoppers can save big on tech this month.",
-          "id": "19bfa61373e8fe483f070bcd8b73855d"
-        },
-        {
-          "title": "Essential Setup Tips for Google Fitbit Air",
-          "description": "New Fitbit Air users should adjust settings for optimal performance. Key features enhance the user experience right out of the box.",
-          "category": "Software",
-          "source": "Android Central",
-          "url": "https://www.androidcentral.com/wearables/fitbit/first-things-you-should-do-with-google-fitbit-air",
-          "image": "https://cdn.mos.cms.futurecdn.net/pQicYjHRhY8hEWuGF9WzR3-2560-80.jpg",
-          "published_at": "2026-05-27T22:52:12Z",
-          "key_points": [
-            "Adjust settings immediately",
-            "Optimize health tracking",
-            "Enhance user experience"
-          ],
-          "impact": "Users can maximize Fitbit Air's capabilities quickly.",
-          "id": "22bb6582b2a2212c10f5bd5b23551b35"
-        },
-        {
-          "title": "CapCut Pad: Desktop-Level Editing for Android",
-          "description": "CapCut Pad launches for Android tablets, offering desktop-level video editing features. The app caters to the growing demand for high-quality video content.",
-          "category": "Software",
-          "source": "9to5google.com",
-          "url": "http://9to5google.com/2026/05/27/capcut-pad-promises-desktop-level-video-editing-for-android-tablets/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/capcut-pad-android-1.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-05-27T21:05:00Z",
-          "key_points": [
-            "Desktop-level video editing",
-            "Designed for Android tablets",
-            "Meets demand for quality content"
-          ],
-          "impact": "CapCut Pad enhances video editing on tablets.",
-          "id": "a04111250dbf86bd748ee59118fef8ca"
         }
       ]
     }
