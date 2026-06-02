@@ -1,247 +1,247 @@
 {
   "date": "2026-06-02",
-  "generated_at": "2026-06-02T16:22:24.590235+00:00",
+  "generated_at": "2026-06-02T20:47:41.499555+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "XBOX Games Showcase Returns This Sunday",
-      "description": "Tune in on June 7 for the XBOX Games Showcase featuring upcoming games and partnerships. Don't miss this annual double feature event!",
-      "category": "Gaming",
-      "source": "Xbox.com",
-      "url": "https://news.xbox.com/en-us/2026/06/01/xbox-games-showcase-2026-gears-of-war-e-day-direct-how-to-watch/",
-      "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/03/2026_Showcase_DoubleFeature_16x9-1-503e797dfa7152ff8c4e.jpg",
-      "published_at": "2026-06-01T13:01:58Z",
-      "key_points": [
-        "XBOX showcase on June 7",
-        "Annual double feature event",
-        "New game reveals expected"
-      ],
-      "impact": "Excitement builds for upcoming XBOX titles.",
-      "id": "6fa5de8d1a3f01a9b0f33ad4caa4f3f6"
-    },
-    {
-      "title": "Apple's Smart Glasses Delayed to Late 2027",
-      "description": "Apple's anticipated smart glasses will now launch in late 2027, as development faces delays. Leadership still prioritizes the project despite setbacks.",
-      "category": "Hardware",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/mobile/apple-smart-glasses-development-bumps-reported-delay/",
-      "image": "https://www.cnet.com/a/img/resize/5f671472c03b96b400f40e34e65ef956d6d75dbd/hub/2025/09/26/4c593e3b-bdb4-4c62-90c4-553c0b8f8cb6/ray-ban-meta-gen2-5.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "published_at": "2026-06-01T12:39:00Z",
-      "key_points": [
-        "Smart glasses launch delayed",
-        "New release target: late 2027",
-        "Project remains a top priority"
-      ],
-      "impact": "Apple's smart glasses face significant delays.",
-      "id": "4d81112599991a823a42843045eb409a"
-    },
-    {
-      "title": "Strava Targets Scrapers Ahead of IPO",
-      "description": "Strava will implement a monthly fee for developers accessing its API, aiming to combat data scraping. This move comes as the company prepares for its IPO.",
-      "category": "Business",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/05/orange-shoes-strava.jpg?resize=1200,800",
-      "published_at": "2026-06-01T12:00:00Z",
-      "key_points": [
-        "Strava charges for API access",
-        "Combatting data scraping",
-        "Preparing for IPO"
-      ],
-      "impact": "Strava's new policy aims to protect data.",
-      "id": "e4ecef373454298da2b12b69973a5262"
-    },
-    {
-      "title": "New $599 MacBook Neo Rival Launched",
-      "description": "A new competitor to the MacBook Neo has launched at $599, surprising Windows PC makers. This move intensifies competition in the laptop market.",
-      "category": "Hardware",
+      "title": "Apple Launches iOS 26.5.1 Update",
+      "description": "Apple's iOS 26.5.1 update fixes bugs for iPhone 17 models. This update precedes the upcoming WWDC 2026 event.",
+      "category": "Software",
       "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/01/macbook-neo-rival-launched-at-599-nvidia-pc-chip-takes-on-apple-silicon/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/MacBook-Neo-rival-launched-at-599.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-01T12:00:00Z",
+      "url": "https://9to5mac.com/2026/06/01/apple-releases-ios-26-5-1-for-iphone-heres-whats-new/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-silver-centered-dark.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-01T17:16:00Z",
       "key_points": [
-        "New laptop priced at $599",
-        "Competes with MacBook Neo",
-        "Windows makers caught off guard"
+        "Fixes bugs for iPhone 17",
+        "Precedes WWDC 2026",
+        "Improves user experience"
       ],
-      "impact": "Competition in the laptop market heats up.",
-      "id": "29edca2999860e60f8c10c3cf4a051d2"
+      "impact": "This update enhances stability for iPhone users.",
+      "id": "27171c6c0caf47a37e0c4ba00342a50a"
     },
     {
-      "title": "June's Miniature of the Month Revealed",
-      "description": "Warhammer Community reveals this month's collectible coin and miniature available in stores. Fans can grab these exclusive items now.",
-      "category": "Gaming",
-      "source": "Warhammer-community.com",
-      "url": "https://www.warhammer-community.com/articles/q17dwwtt/junes-miniature-of-the-month-and-collectible-coin-revealed",
-      "image": "https://assets.warhammer-community.com/motm-jun01-1-feature-t9maa9fbmm.jpg",
-      "published_at": "2026-06-01T11:59:08Z",
-      "key_points": [
-        "Collectible coin available now",
-        "Miniature of the month revealed",
-        "Exclusive in-store items"
-      ],
-      "impact": "Warhammer fans can collect new items.",
-      "id": "a50192b49e99681a86284b552a354f7a"
-    },
-    {
-      "title": "Microsoft Addresses MFA Outage Issues",
-      "description": "Microsoft is resolving an outage affecting multi-factor authentication (MFA) setup and My Sign-Ins platform access. Users are experiencing disruptions.",
+      "title": "Apple Teases WWDC 2026: 'All Systems Glow'",
+      "description": "Apple's WWDC 2026 is set for next week, teasing exciting announcements with the slogan 'All systems glow'.",
       "category": "Software",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/",
-      "image": "https://www.bleepingcomputer.com/content/hl-images/2021/09/15/Microsoft_passwordless.jpg",
-      "published_at": "2026-06-01T11:40:16Z",
-      "key_points": [
-        "MFA setup issues reported",
-        "Microsoft investigating outage",
-        "User access disrupted"
-      ],
-      "impact": "Microsoft works to restore MFA functionality.",
-      "id": "753f11e42677773fd56d94e9fff0b459"
-    },
-    {
-      "title": "Leaked Image Reveals iPhone Ultra Color",
-      "description": "A leaked image suggests the upcoming foldable iPhone Ultra will feature two color options. Anticipation builds for its launch later this year.",
-      "category": "Hardware",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/01/first-confirmed-iphone-ultra-color-leaked/",
-      "image": "https://images.macrumors.com/t/utojh2KSAyPpmL2zSSHd0_hnVQQ=/2500x/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-      "published_at": "2026-06-01T11:39:16Z",
+      "url": "https://www.macrumors.com/2026/06/01/apple-wwdc-2026-all-systems-glow/",
+      "image": "https://images.macrumors.com/t/WWSRbkNN3H1Vib4NuWf2fPRWKBA=/1600x/article-new/2026/06/WWDC-2026-All-Systems-Glow.jpg",
+      "published_at": "2026-06-01T15:26:46Z",
       "key_points": [
-        "Foldable iPhone Ultra coming soon",
-        "Leaked image shows color options",
-        "Launch expected later this year"
+        "WWDC 2026 next week",
+        "Teaser slogan revealed",
+        "Exciting announcements expected"
       ],
-      "impact": "Excitement grows for the iPhone Ultra.",
-      "id": "ca7777af4b08464ce0e7dfa020186476"
+      "impact": "Anticipation builds for Apple's upcoming event.",
+      "id": "744bf5c8ba3388fa12876168236f4485"
     },
     {
-      "title": "The Outer Worlds Upgrade Issues Persist",
-      "description": "Players face ongoing issues with the free upgrade to The Outer Worlds: Spacer's Choice Edition. Problems continue to frustrate users.",
+      "title": "Sony Announces New Gaming Accessories for August",
+      "description": "Sony will launch the FlexStrike wireless fight stick and a 27-inch gaming monitor in August, along with Pulse Elevate speakers later this year.",
       "category": "Gaming",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/the-outer-worlds-free-upgrade-issues",
-      "image": "https://assetsio.gnwcdn.com/sclk7s.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-01T11:08:08Z",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/playstation-flexstrike-wireless-fight-stick-and-27-inch-gaming-monitor-launch-in-august-pulse-elevate-wireless-speakers-later-in-2026",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/PlayStation-Accessories_06-01-26_Top.jpg",
+      "published_at": "2026-06-01T15:21:32Z",
       "key_points": [
-        "Free upgrade issues reported",
-        "Players frustrated with problems",
-        "Ongoing technical difficulties"
+        "FlexStrike fight stick launches August 6",
+        "27-inch monitor coming soon",
+        "Pulse Elevate speakers later this year"
       ],
-      "impact": "Players remain dissatisfied with upgrade process.",
-      "id": "789c5892929f3bb7f6b5cf716f53650e"
+      "impact": "New accessories enhance gaming experience.",
+      "id": "7d15a3ee5b7ea07994cfb4f69352f509"
     },
     {
-      "title": "ASUS Launches 540Hz OLED Esports Monitor",
-      "description": "ASUS unveils its first 24.5-inch OLED esports monitor with a 540Hz refresh rate. This new addition enhances gaming performance.",
-      "category": "Hardware",
-      "source": "Videocardz.com",
-      "url": "https://videocardz.com/newz/asus-first-24-5-inch-540hz-oled-monitor-has-been-announced",
-      "image": "https://cdn.videocardz.com/1/2026/06/ASUS-ROG-26.5-INCH-OLED-MONITOR-HERO-1.jpg",
-      "published_at": "2026-06-01T11:01:10Z",
-      "key_points": [
-        "New 540Hz OLED monitor launched",
-        "24.5-inch size for esports",
-        "Enhanced gaming experience"
-      ],
-      "impact": "ASUS boosts esports monitor offerings.",
-      "id": "c5aa0ec2657958a6857513c09083d4b2"
-    },
-    {
-      "title": "Witcher 3 Expansion Sword Mystery Unveiled",
-      "description": "The identity of the sword in The Witcher 3's expansion artwork has sparked theories among fans. Its significance remains a topic of discussion.",
+      "title": "ASUS Unveils ROG XBOX Ally X20 Bundle",
+      "description": "The ROG XBOX Ally X20 Bundle features a 7.4\" OLED display and AMD Ryzen AI Z2 Extreme, celebrating 20 years of ROG.",
       "category": "Gaming",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/witcher-3-expansion-songs-of-past-sword",
-      "image": "https://assetsio.gnwcdn.com/geralt-sword-songs-of-past-witcher-3-expansion.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-01T10:54:45Z",
+      "source": "Asus.com",
+      "url": "https://press.asus.com/news/press_releases/rog-xbox-ally-x20-bundle-20th-anniversary-oled-ar-glasses/",
+      "image": "https://press.asus.com/assets/w_1200,h_630/2d42d8be-1bf8-46d8-9fad-6d15a00c6e95/0505_Steven_0083_v3.jpg",
+      "published_at": "2026-06-01T14:59:40Z",
       "key_points": [
-        "Sword identity sparks fan theories",
-        "Expansion artwork raises questions",
-        "Significance of sword debated"
+        "7.4\" OLED Nebula HDR display",
+        "AMD Ryzen AI Z2 Extreme",
+        "20th anniversary celebration"
       ],
-      "impact": "Fans engage in speculation over sword's meaning.",
-      "id": "2a8e28beb6086fd5f9ac1f247ae4edb7"
+      "impact": "A premium portable gaming setup is launched.",
+      "id": "a08089126f5afdc11aa2f39015bca602"
     },
     {
-      "title": "SEGA Leaker Reveals New Game Information",
-      "description": "A leaker has shared new details about upcoming SEGA and Atlus games, including Sonic and Persona franchises. Excitement builds for future releases.",
-      "category": "Gaming",
-      "source": "My Nintendo News",
-      "url": "https://mynintendonews.com/2026/06/01/jet-set-radio-leaker-has-leaked-sonic-ace-attorney-persona-crazy-taxi-information/",
-      "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2024/11/sega_logo.jpg?fit=2200%2C1100&ssl=1",
-      "published_at": "2026-06-01T10:44:21Z",
-      "key_points": [
-        "Leaker shares SEGA game details",
-        "New Sonic and Persona info",
-        "Excitement for upcoming releases"
-      ],
-      "impact": "Fans eager for new SEGA announcements.",
-      "id": "534226f39fffdfde65810f301ebfb8fb"
-    },
-    {
-      "title": "Xbox Fans React to Showcase Logo Controversy",
-      "description": "Fans express distrust over Microsoft's logo transparency in the recent Xbox Showcase. Concerns arise about the company's commitment to Xbox's success.",
-      "category": "Gaming",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/gaming/xbox/xbox-fan-backlash-to-playstation-logos-in-the-showcase-isnt-about-gatekeeping-its-about-distrust",
-      "image": "https://cdn.mos.cms.futurecdn.net/mgvjZ5C2ZGZ3P5yz49iUVM-2560-80.jpg",
-      "published_at": "2026-06-01T10:00:00Z",
-      "key_points": [
-        "Fan backlash over logo transparency",
-        "Concerns about Xbox's future",
-        "Distrust among the community"
-      ],
-      "impact": "Community concerns highlight trust issues.",
-      "id": "af283407007d986475f4078c7256cde7"
-    },
-    {
-      "title": "OpenAI Codex Tokens Stolen in Attack",
-      "description": "Authentication tokens for OpenAI Codex were stolen via a supply chain attack, affecting users since version 0.1.82. This breach allows persistent access.",
-      "category": "Security",
-      "source": "Internet",
-      "url": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4veBAmEJHF2nXN_nIgXeWxVSxlTDBc6uWiLwVCYNUqGMF9ZtPre3zF_CXmGnAxX2rbqfwgm_Au0tXvYwv1oTGim1STiGCeVOyMXglUTd-3LeJEN3q718Fdlck9mbQ6aUUYP0NM9S7bakZ4_XF5HHYH-cz2QmKBlge6xNMxbbEjDjZQ4wd1maPKnjgKrsu/s1600/codex.png",
-      "published_at": "2026-06-01T09:31:00Z",
-      "key_points": [
-        "Codex tokens stolen in attack",
-        "Supply chain vulnerability exploited",
-        "Persistent access granted to attackers"
-      ],
-      "impact": "Security breach raises concerns for developers.",
-      "id": "a3c1407f6b73903a16a1cc760df748ac"
-    },
-    {
-      "title": "GIGABYTE Launches New X870E Motherboard",
-      "description": "GIGABYTE introduces the X870E AORUS INFINITY NEXT motherboard, expanding its AORUS INFINITY series. This new model targets high-performance users.",
-      "category": "Hardware",
-      "source": "Videocardz.com",
-      "url": "https://videocardz.com/newz/gigabyte-unveils-x870e-aorus-infinity-next-motherboard",
-      "image": "https://cdn.videocardz.com/1/2026/06/AORUS-INFINITY-NEXT-X870-HERO.jpg",
-      "published_at": "2026-06-01T08:41:10Z",
-      "key_points": [
-        "New X870E motherboard launched",
-        "Targets high-performance users",
-        "Part of AORUS INFINITY series"
-      ],
-      "impact": "GIGABYTE enhances motherboard lineup.",
-      "id": "9db8fb8e33b4f539be0097a202dc14dd"
-    },
-    {
-      "title": "Tips to Manage Copilot in Windows 11",
-      "description": "Users can reduce or eliminate Copilot's presence in Windows 11 with practical options. Guidance is provided for those seeking alternatives.",
+      "title": "DuckDuckGo Enhances 'No AI' Search Features",
+      "description": "DuckDuckGo introduces 'no AI' web extensions for Chrome and Firefox, catering to growing user demand for privacy.",
       "category": "Software",
-      "source": "WTOP",
-      "url": "https://wtop.com/tech/2026/06/data-doctors-copilot-wont-leave-heres-what-to-do/",
-      "image": "https://wtop.com/wp-content/uploads/2026/03/Microsoft_5_th_28_52-scaled.jpg",
-      "published_at": "2026-06-01T08:04:33Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
+      "published_at": "2026-06-01T14:49:10Z",
       "key_points": [
-        "Options to manage Copilot",
-        "Reduce Copilot's presence",
-        "User-friendly guidance provided"
+        "Launches no-AI web extensions",
+        "Targets privacy-conscious users",
+        "Traffic continues to grow"
       ],
-      "impact": "Users gain control over Copilot features.",
-      "id": "abfaf31376c169d135d2033c10e52f4e"
+      "impact": "DuckDuckGo strengthens its privacy-focused offerings.",
+      "id": "03e6e22cffa56b04818421277634e093"
+    },
+    {
+      "title": "Marathon's Season 2 Launch: A Critical Test",
+      "description": "Bungie's Marathon launches Season 2 with a free week to attract new players, marking a pivotal moment for the game.",
+      "category": "Gaming",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/06/01/marathons-season-2-launch-and-free-week-is-a-hugely-important-test/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a1d991cf88fe648cb2e7193/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published_at": "2026-06-01T14:39:44Z",
+      "key_points": [
+        "Season 2 launches soon",
+        "Free week to attract players",
+        "Critical for playerbase growth"
+      ],
+      "impact": "This launch could redefine Marathon's success.",
+      "id": "62d6d6255779e62bce0765d51279bfdc"
+    },
+    {
+      "title": "Baldur's Gate 2 Remake in Development",
+      "description": "Rumors suggest a remake of Baldur's Gate 2 is underway, potentially alongside the original game, involving key developers.",
+      "category": "Gaming",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/baldurs-gate-2-remake-reportedly-in-development",
+      "image": "https://assetsio.gnwcdn.com/BG2-cover-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-01T14:33:09Z",
+      "key_points": [
+        "Baldur's Gate 2 remake rumored",
+        "Original game may also be remade",
+        "Key developers involved"
+      ],
+      "impact": "Excitement builds for classic RPG revivals.",
+      "id": "d48816ca214fd88d8be849827b74f0d7"
+    },
+    {
+      "title": "Intel Reveals Arc G3 Series for Handhelds",
+      "description": "Intel's new Arc G3 series processors are designed specifically for handheld gaming consoles, optimizing performance without compromises.",
+      "category": "Hardware",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/349586/the-intel-arc-g3-series-inside-story-how-intel-created-a-purpose-built-gaming-handheld-silicon-that-isnt-a-hamstrung-u-segment-chip",
+      "image": "https://www.techpowerup.com/img/nGgLgsSl0JmRiroY.jpg",
+      "published_at": "2026-06-01T14:29:15Z",
+      "key_points": [
+        "New processors for handheld consoles",
+        "Optimized for gaming performance",
+        "Innovative design choices made"
+      ],
+      "impact": "Intel targets the growing handheld gaming market.",
+      "id": "55776bc62cfa7ad3af9c827562e46cab"
+    },
+    {
+      "title": "Apple Glasses Strategy Leaked",
+      "description": "Recent leaks reveal Apple's strategic plans for its upcoming Apple Glasses, generating increased excitement among fans.",
+      "category": "Software",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/01/latest-apple-glasses-leak-has-me-way-more-excited-for-the-product/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/05/apple-glasses-light.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-01T14:28:00Z",
+      "key_points": [
+        "Apple Glasses strategy revealed",
+        "Launch expected in late 2027",
+        "Increased fan excitement"
+      ],
+      "impact": "Anticipation for Apple Glasses grows significantly.",
+      "id": "ba5a1dfaabd06c702e98b95dbe59e9ed"
+    },
+    {
+      "title": "Debate Over Mina the Hollower's Difficulty",
+      "description": "Players are discussing the challenge level of Yacht Club's popular game, Mina the Hollower, questioning if it's too hard.",
+      "category": "Gaming",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/mina-the-hollower-difficulty-debate",
+      "image": "https://assetsio.gnwcdn.com/Mina-the-Hollower-screenshot-showing-a-pixel-mouse-leaping-through-a-dark-sky-towards-the-camera.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-01T14:27:50Z",
+      "key_points": [
+        "Players debate game difficulty",
+        "Mina the Hollower is popular",
+        "Retro-inspired action adventure"
+      ],
+      "impact": "Community engagement around game difficulty increases.",
+      "id": "90f49eebaa21fbc3e260501b5fa2916b"
+    },
+    {
+      "title": "Galaxy Z Fold 8's Wider Form Factor Spotted",
+      "description": "The Galaxy Z Fold 8 features a new wider form factor, recently seen in the wild ahead of its official launch.",
+      "category": "Hardware",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/06/01/galaxy-z-fold-8s-wider-new-form-factor-just-showed-up-in-the-wild/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/galaxy-z-fold-8-wide-wild.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-01T14:05:00Z",
+      "key_points": [
+        "Galaxy Z Fold 8 spotted",
+        "New wider form factor",
+        "Launch approaching soon"
+      ],
+      "impact": "Samsung's innovation in foldable design continues.",
+      "id": "b46a0423f1b2406cfb03ddf12090829d"
+    },
+    {
+      "title": "Modern Warfare 4 Multiplayer Gameplay Revealed",
+      "description": "Infinity Ward showcases the first look at Modern Warfare 4's multiplayer, emphasizing movement mechanics.",
+      "category": "Gaming",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-multiplayer-gameplay-first-look",
+      "image": "https://assetsio.gnwcdn.com/MW4_MP_005_branded.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-01T13:45:37Z",
+      "key_points": [
+        "First look at multiplayer gameplay",
+        "Focus on movement mechanics",
+        "Infinity Ward reveals new features"
+      ],
+      "impact": "Excitement builds for Modern Warfare 4.",
+      "id": "04111866018257a726765206e750cbb3"
+    },
+    {
+      "title": "PlayStation to Remove 1,000 Shovelware Games",
+      "description": "PlayStation plans to delist over 1,000 shovelware games from its store, targeting low-quality content.",
+      "category": "Gaming",
+      "source": "Insider Gaming",
+      "url": "https://insider-gaming.com/playstation-to-eliminate-1000-more-shovelware-games-from-store/",
+      "image": "https://insider-gaming.com/wp-content/uploads/2025/07/PlayStation-Store.jpg",
+      "published_at": "2026-06-01T13:22:56Z",
+      "key_points": [
+        "1,000 shovelware games removed",
+        "Focus on quality content",
+        "Improving store experience"
+      ],
+      "impact": "PlayStation enhances its game library quality.",
+      "id": "c2f8b36f154e1cddcc23e23cbc204533"
+    },
+    {
+      "title": "Disadvantages of 100-Inch TVs Explored",
+      "description": "Considering a 100-inch TV? Discover key disadvantages including installation challenges and high costs.",
+      "category": "Hardware",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2181933/major-disadvantages-of-100-inch-tvs-you-should-know-about/",
+      "image": "https://www.bgr.com/img/gallery/4-disadvantages-of-100-inch-tvs-you-should-know-about/l-intro-1779883405.jpg",
+      "published_at": "2026-06-01T12:47:00Z",
+      "key_points": [
+        "Installation can be challenging",
+        "High cost of ownership",
+        "Potential eye strain issues"
+      ],
+      "impact": "Awareness of 100-inch TV drawbacks increases.",
+      "id": "7fb25034d616d58dc64887feaa59cb54"
+    },
+    {
+      "title": "Experts Discuss Fingerprint Risks from Photos",
+      "description": "Experts clarify that while claims exist about extracting fingerprints from selfies, the actual risk is minimal for most users.",
+      "category": "Security",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/hackers-fingerprints-selfie-photo-ai-experts/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/05/27/7cca8dba-45af-4929-9868-b43d79ddb99c/thumbnail/1200x630/0993b1a78ab91ae85201759aba7f29b0/gettyimages-2273604421-1.jpg",
+      "published_at": "2026-06-01T12:46:22Z",
+      "key_points": [
+        "Claims about fingerprint extraction",
+        "Experts say risk is low",
+        "Social media panic addressed"
+      ],
+      "impact": "Public understanding of security risks improves.",
+      "id": "7e6c5b8cdf4c6d830ef99c1048c3e643"
     }
   ]
 }

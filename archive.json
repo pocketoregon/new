@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-02T20:47:41.499555+00:00",
+      "fetched_at": "2026-06-02T20:47:41.499555+00:00",
+      "label": "Jun 02, 2026 — 08:48 PM UTC",
+      "articles": [
+        {
+          "title": "Apple Launches iOS 26.5.1 Update",
+          "description": "Apple's iOS 26.5.1 update fixes bugs for iPhone 17 models. This update precedes the upcoming WWDC 2026 event.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/01/apple-releases-ios-26-5-1-for-iphone-heres-whats-new/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-silver-centered-dark.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-01T17:16:00Z",
+          "key_points": [
+            "Fixes bugs for iPhone 17",
+            "Precedes WWDC 2026",
+            "Improves user experience"
+          ],
+          "impact": "This update enhances stability for iPhone users.",
+          "id": "27171c6c0caf47a37e0c4ba00342a50a"
+        },
+        {
+          "title": "Apple Teases WWDC 2026: 'All Systems Glow'",
+          "description": "Apple's WWDC 2026 is set for next week, teasing exciting announcements with the slogan 'All systems glow'.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/01/apple-wwdc-2026-all-systems-glow/",
+          "image": "https://images.macrumors.com/t/WWSRbkNN3H1Vib4NuWf2fPRWKBA=/1600x/article-new/2026/06/WWDC-2026-All-Systems-Glow.jpg",
+          "published_at": "2026-06-01T15:26:46Z",
+          "key_points": [
+            "WWDC 2026 next week",
+            "Teaser slogan revealed",
+            "Exciting announcements expected"
+          ],
+          "impact": "Anticipation builds for Apple's upcoming event.",
+          "id": "744bf5c8ba3388fa12876168236f4485"
+        },
+        {
+          "title": "Sony Announces New Gaming Accessories for August",
+          "description": "Sony will launch the FlexStrike wireless fight stick and a 27-inch gaming monitor in August, along with Pulse Elevate speakers later this year.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/playstation-flexstrike-wireless-fight-stick-and-27-inch-gaming-monitor-launch-in-august-pulse-elevate-wireless-speakers-later-in-2026",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/PlayStation-Accessories_06-01-26_Top.jpg",
+          "published_at": "2026-06-01T15:21:32Z",
+          "key_points": [
+            "FlexStrike fight stick launches August 6",
+            "27-inch monitor coming soon",
+            "Pulse Elevate speakers later this year"
+          ],
+          "impact": "New accessories enhance gaming experience.",
+          "id": "7d15a3ee5b7ea07994cfb4f69352f509"
+        },
+        {
+          "title": "ASUS Unveils ROG XBOX Ally X20 Bundle",
+          "description": "The ROG XBOX Ally X20 Bundle features a 7.4\" OLED display and AMD Ryzen AI Z2 Extreme, celebrating 20 years of ROG.",
+          "category": "Gaming",
+          "source": "Asus.com",
+          "url": "https://press.asus.com/news/press_releases/rog-xbox-ally-x20-bundle-20th-anniversary-oled-ar-glasses/",
+          "image": "https://press.asus.com/assets/w_1200,h_630/2d42d8be-1bf8-46d8-9fad-6d15a00c6e95/0505_Steven_0083_v3.jpg",
+          "published_at": "2026-06-01T14:59:40Z",
+          "key_points": [
+            "7.4\" OLED Nebula HDR display",
+            "AMD Ryzen AI Z2 Extreme",
+            "20th anniversary celebration"
+          ],
+          "impact": "A premium portable gaming setup is launched.",
+          "id": "a08089126f5afdc11aa2f39015bca602"
+        },
+        {
+          "title": "DuckDuckGo Enhances 'No AI' Search Features",
+          "description": "DuckDuckGo introduces 'no AI' web extensions for Chrome and Firefox, catering to growing user demand for privacy.",
+          "category": "Software",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
+          "published_at": "2026-06-01T14:49:10Z",
+          "key_points": [
+            "Launches no-AI web extensions",
+            "Targets privacy-conscious users",
+            "Traffic continues to grow"
+          ],
+          "impact": "DuckDuckGo strengthens its privacy-focused offerings.",
+          "id": "03e6e22cffa56b04818421277634e093"
+        },
+        {
+          "title": "Marathon's Season 2 Launch: A Critical Test",
+          "description": "Bungie's Marathon launches Season 2 with a free week to attract new players, marking a pivotal moment for the game.",
+          "category": "Gaming",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/06/01/marathons-season-2-launch-and-free-week-is-a-hugely-important-test/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a1d991cf88fe648cb2e7193/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-01T14:39:44Z",
+          "key_points": [
+            "Season 2 launches soon",
+            "Free week to attract players",
+            "Critical for playerbase growth"
+          ],
+          "impact": "This launch could redefine Marathon's success.",
+          "id": "62d6d6255779e62bce0765d51279bfdc"
+        },
+        {
+          "title": "Baldur's Gate 2 Remake in Development",
+          "description": "Rumors suggest a remake of Baldur's Gate 2 is underway, potentially alongside the original game, involving key developers.",
+          "category": "Gaming",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/baldurs-gate-2-remake-reportedly-in-development",
+          "image": "https://assetsio.gnwcdn.com/BG2-cover-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-01T14:33:09Z",
+          "key_points": [
+            "Baldur's Gate 2 remake rumored",
+            "Original game may also be remade",
+            "Key developers involved"
+          ],
+          "impact": "Excitement builds for classic RPG revivals.",
+          "id": "d48816ca214fd88d8be849827b74f0d7"
+        },
+        {
+          "title": "Intel Reveals Arc G3 Series for Handhelds",
+          "description": "Intel's new Arc G3 series processors are designed specifically for handheld gaming consoles, optimizing performance without compromises.",
+          "category": "Hardware",
+          "source": "TechPowerUp",
+          "url": "https://www.techpowerup.com/349586/the-intel-arc-g3-series-inside-story-how-intel-created-a-purpose-built-gaming-handheld-silicon-that-isnt-a-hamstrung-u-segment-chip",
+          "image": "https://www.techpowerup.com/img/nGgLgsSl0JmRiroY.jpg",
+          "published_at": "2026-06-01T14:29:15Z",
+          "key_points": [
+            "New processors for handheld consoles",
+            "Optimized for gaming performance",
+            "Innovative design choices made"
+          ],
+          "impact": "Intel targets the growing handheld gaming market.",
+          "id": "55776bc62cfa7ad3af9c827562e46cab"
+        },
+        {
+          "title": "Apple Glasses Strategy Leaked",
+          "description": "Recent leaks reveal Apple's strategic plans for its upcoming Apple Glasses, generating increased excitement among fans.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/01/latest-apple-glasses-leak-has-me-way-more-excited-for-the-product/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/05/apple-glasses-light.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-01T14:28:00Z",
+          "key_points": [
+            "Apple Glasses strategy revealed",
+            "Launch expected in late 2027",
+            "Increased fan excitement"
+          ],
+          "impact": "Anticipation for Apple Glasses grows significantly.",
+          "id": "ba5a1dfaabd06c702e98b95dbe59e9ed"
+        },
+        {
+          "title": "Debate Over Mina the Hollower's Difficulty",
+          "description": "Players are discussing the challenge level of Yacht Club's popular game, Mina the Hollower, questioning if it's too hard.",
+          "category": "Gaming",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/mina-the-hollower-difficulty-debate",
+          "image": "https://assetsio.gnwcdn.com/Mina-the-Hollower-screenshot-showing-a-pixel-mouse-leaping-through-a-dark-sky-towards-the-camera.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-01T14:27:50Z",
+          "key_points": [
+            "Players debate game difficulty",
+            "Mina the Hollower is popular",
+            "Retro-inspired action adventure"
+          ],
+          "impact": "Community engagement around game difficulty increases.",
+          "id": "90f49eebaa21fbc3e260501b5fa2916b"
+        },
+        {
+          "title": "Galaxy Z Fold 8's Wider Form Factor Spotted",
+          "description": "The Galaxy Z Fold 8 features a new wider form factor, recently seen in the wild ahead of its official launch.",
+          "category": "Hardware",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/01/galaxy-z-fold-8s-wider-new-form-factor-just-showed-up-in-the-wild/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/galaxy-z-fold-8-wide-wild.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-01T14:05:00Z",
+          "key_points": [
+            "Galaxy Z Fold 8 spotted",
+            "New wider form factor",
+            "Launch approaching soon"
+          ],
+          "impact": "Samsung's innovation in foldable design continues.",
+          "id": "b46a0423f1b2406cfb03ddf12090829d"
+        },
+        {
+          "title": "Modern Warfare 4 Multiplayer Gameplay Revealed",
+          "description": "Infinity Ward showcases the first look at Modern Warfare 4's multiplayer, emphasizing movement mechanics.",
+          "category": "Gaming",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-multiplayer-gameplay-first-look",
+          "image": "https://assetsio.gnwcdn.com/MW4_MP_005_branded.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-01T13:45:37Z",
+          "key_points": [
+            "First look at multiplayer gameplay",
+            "Focus on movement mechanics",
+            "Infinity Ward reveals new features"
+          ],
+          "impact": "Excitement builds for Modern Warfare 4.",
+          "id": "04111866018257a726765206e750cbb3"
+        },
+        {
+          "title": "PlayStation to Remove 1,000 Shovelware Games",
+          "description": "PlayStation plans to delist over 1,000 shovelware games from its store, targeting low-quality content.",
+          "category": "Gaming",
+          "source": "Insider Gaming",
+          "url": "https://insider-gaming.com/playstation-to-eliminate-1000-more-shovelware-games-from-store/",
+          "image": "https://insider-gaming.com/wp-content/uploads/2025/07/PlayStation-Store.jpg",
+          "published_at": "2026-06-01T13:22:56Z",
+          "key_points": [
+            "1,000 shovelware games removed",
+            "Focus on quality content",
+            "Improving store experience"
+          ],
+          "impact": "PlayStation enhances its game library quality.",
+          "id": "c2f8b36f154e1cddcc23e23cbc204533"
+        },
+        {
+          "title": "Disadvantages of 100-Inch TVs Explored",
+          "description": "Considering a 100-inch TV? Discover key disadvantages including installation challenges and high costs.",
+          "category": "Hardware",
+          "source": "BGR",
+          "url": "https://www.bgr.com/2181933/major-disadvantages-of-100-inch-tvs-you-should-know-about/",
+          "image": "https://www.bgr.com/img/gallery/4-disadvantages-of-100-inch-tvs-you-should-know-about/l-intro-1779883405.jpg",
+          "published_at": "2026-06-01T12:47:00Z",
+          "key_points": [
+            "Installation can be challenging",
+            "High cost of ownership",
+            "Potential eye strain issues"
+          ],
+          "impact": "Awareness of 100-inch TV drawbacks increases.",
+          "id": "7fb25034d616d58dc64887feaa59cb54"
+        },
+        {
+          "title": "Experts Discuss Fingerprint Risks from Photos",
+          "description": "Experts clarify that while claims exist about extracting fingerprints from selfies, the actual risk is minimal for most users.",
+          "category": "Security",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/hackers-fingerprints-selfie-photo-ai-experts/",
+          "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/05/27/7cca8dba-45af-4929-9868-b43d79ddb99c/thumbnail/1200x630/0993b1a78ab91ae85201759aba7f29b0/gettyimages-2273604421-1.jpg",
+          "published_at": "2026-06-01T12:46:22Z",
+          "key_points": [
+            "Claims about fingerprint extraction",
+            "Experts say risk is low",
+            "Social media panic addressed"
+          ],
+          "impact": "Public understanding of security risks improves.",
+          "id": "7e6c5b8cdf4c6d830ef99c1048c3e643"
+        }
+      ]
+    },
+    {
       "id": "2026-06-02T16:22:24.590235+00:00",
       "fetched_at": "2026-06-02T16:22:24.590235+00:00",
       "label": "Jun 02, 2026 — 04:23 PM UTC",
@@ -5912,93 +6159,6 @@
           ],
           "impact": "CapCut Pad enhances video editing on tablets.",
           "id": "a04111250dbf86bd748ee59118fef8ca"
-        }
-      ]
-    },
-    {
-      "id": "2026-05-29T08:00:36.035000+00:00",
-      "fetched_at": "2026-05-29T08:00:36.035000+00:00",
-      "label": "May 29, 2026 — 08:00 AM UTC",
-      "articles": [
-        {
-          "title": "Handheld Gaming's Golden Age Ends with Price Hike",
-          "description": "Valve's Steam Deck price rises to $789, signaling the decline of affordable handheld gaming. This shift makes gaming less accessible for many enthusiasts.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/games/938451/steam-deck-price-hike-end-of-handheld-gaming-era",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/DSCF9137.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-05-28T06:30:00Z",
-          "key_points": [
-            "Steam Deck price increase",
-            "Handheld gaming accessibility declines",
-            "End of an era"
-          ],
-          "impact": "This price hike limits access to gaming.",
-          "id": "1f195faf86f2d6ab438046dd435d239a"
-        },
-        {
-          "title": "Mitochondrial DNA Mutations Linked to Aging",
-          "description": "New research reveals that age-related mitochondrial DNA mutations may stem from cryptic replication errors, becoming detectable as we age. This insight could reshape our understanding of aging.",
-          "category": "Science",
-          "source": "Nature",
-          "url": "https://www.nature.com/articles/s41586-026-10569-6",
-          "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10569-6/MediaObjects/41586_2026_10569_Fig1_HTML.png",
-          "published_at": "2026-05-27T19:19:01Z",
-          "key_points": [
-            "Mitochondrial mutations increase with age",
-            "Cryptic errors identified",
-            "New insights into aging"
-          ],
-          "impact": "Understanding these mutations could advance aging research.",
-          "id": "f95aa348d619cc8ccba3543f07413aca"
-        },
-        {
-          "title": "Dodge's Copperhead SRT: No V8, No Charger Base",
-          "description": "Dodge's new Copperhead SRT, revealed by its creator, features unique proportions and dismisses hybrid V8 technology as outdated. This marks a shift in Dodge's performance strategy.",
-          "category": "Software",
-          "source": "The Drive",
-          "url": "https://www.thedrive.com/news/dodges-new-copperhead-srt-might-not-have-a-v8-and-its-not-based-on-the-charger",
-          "image": "https://www.thedrive.com/wp-content/uploads/2026/05/1997-Dodge-Copperhead-Concept-front.jpg?w=1200",
-          "published_at": "2026-05-27T18:28:58Z",
-          "key_points": [
-            "Copperhead SRT lacks V8 engine",
-            "Hybrid tech considered outdated",
-            "Unique design proportions"
-          ],
-          "impact": "This shift could redefine Dodge's performance lineup.",
-          "id": "1b5a2f6f59ee9be15efc33c8fdd4e29e"
-        },
-        {
-          "title": "Google Unveils AI-Powered Smart Glasses",
-          "description": "At Google I/O 2026, the company introduced new AI-driven smart glasses, developed with Samsung and Qualcomm, enhancing the Android XR platform. These glasses promise seamless integration with daily tasks.",
-          "category": "Hardware",
-          "source": "Chrome Unboxed",
-          "url": "https://chromeunboxed.com/google-is-bringing-gemini-to-smart-glasses-and-they-come-with-one-big-advantage/",
-          "image": "https://chromeunboxed.com/wp-content/uploads/2026/05/GoogleAndroidXRGlasses.webp",
-          "published_at": "2026-05-27T16:34:19Z",
-          "key_points": [
-            "New AI smart glasses launched",
-            "Collaboration with Samsung",
-            "Enhanced Android XR platform"
-          ],
-          "impact": "These glasses could revolutionize smart eyewear.",
-          "id": "7f85336c1ec14e901a79df3f6d1b23d4"
-        },
-        {
-          "title": "10 Billion Pokémon Cards Printed, Shortages Persist",
-          "description": "Despite producing over 10 billion Pokémon cards last year, shortages and scalping continue to plague the market. The Pokémon Company has printed a total of 85 billion cards to date.",
-          "category": "Business",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/10-billion-pokemon-cards-were-printed-last-year-and-it-still-wasnt-enough-to-stop-shortages-and-scalping",
-          "image": "https://assets-prd.ignimgs.com/2026/05/27/gettyimages-2265564068-1779893407254.jpg?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-05-27T14:58:35Z",
-          "key_points": [
-            "10 billion cards printed last year",
-            "Total of 85 billion cards",
-            "Market shortages continue"
-          ],
-          "impact": "Production can't meet demand, causing issues.",
-          "id": "b666e71092e19a62ba548fe4af80835a"
         }
       ]
     }
