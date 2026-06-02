@@ -276,6 +276,23 @@
 
     .batch-article-item:last-child { border-bottom: none; }
     .batch-article-item:hover { background: #0d0d0d; }
+
+    .filter-btn {
+      background: none;
+      border: 1px solid #2a2a2a;
+      color: #555;
+      font-size: 0.65rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 5px 12px;
+      border-radius: 20px;
+      cursor: pointer;
+      transition: all 0.2s;
+      white-space: nowrap;
+    }
+    .filter-btn:hover { color: #e8e8e8; border-color: #444; }
+    .filter-btn.active { color: #fff; border-color: transparent; }
   </style>
 </head>
 <body>
@@ -344,6 +361,24 @@
 
   <div id="section-feed" class="tab-section">
     <div id="feed-loading" style="text-align:center; padding:40px 0; color:#555; font-size:0.85rem;">Loading dynamic feed shuffle...</div>
+
+    <!-- Category Filter Bar -->
+    <div id="feed-filters" style="display:none; padding-bottom:20px; border-bottom:1px solid #1e1e1e; margin-bottom:20px;">
+      <div style="display:flex; flex-wrap:wrap; gap:8px; align-items:center;">
+        <span style="font-size:0.6rem; font-weight:600; letter-spacing:0.12em; text-transform:uppercase; color:#444; margin-right:4px;">Filter:</span>
+        <button class="filter-btn active" onclick="setFilter('All', this)" style="color:#e8e8e8; border-color:#444;">All</button>
+        <button class="filter-btn" onclick="setFilter('AI', this)" style="">AI</button>
+        <button class="filter-btn" onclick="setFilter('Hardware', this)">Hardware</button>
+        <button class="filter-btn" onclick="setFilter('Software', this)">Software</button>
+        <button class="filter-btn" onclick="setFilter('Security', this)">Security</button>
+        <button class="filter-btn" onclick="setFilter('Science', this)">Science</button>
+        <button class="filter-btn" onclick="setFilter('Business', this)">Business</button>
+        <button class="filter-btn" onclick="setFilter('Policy', this)">Policy</button>
+        <button class="filter-btn" onclick="setFilter('Startups', this)">Startups</button>
+        <button class="filter-btn" onclick="setFilter('Gaming', this)">Gaming</button>
+      </div>
+    </div>
+
     <div id="feed-content"></div>
   </div>
 
@@ -374,7 +409,7 @@
 
   function setProgress(p) { prog.style.width = p + '%'; }
 
-const catColors = {
+  const catColors = {
     'AI':'#e8384f','Hardware':'#3b82f6','Software':'#8b5cf6',
     'Security':'#f59e0b','Science':'#10b981','Business':'#6b7280',
     'Policy':'#ec4899','Startups':'#06b6d4','Technology':'#6b7280',
@@ -524,25 +559,21 @@ const catColors = {
       if (data.generated_at) {
         document.getElementById('footer-updated').textContent = 'Last updated: ' + new Date(data.generated_at).toLocaleString();
       }
-      
-      // Clear all active content slots to avoid duplication UI bugs during swaps
+
       document.getElementById('hero-section').innerHTML = '';
       document.getElementById('rows-section').innerHTML = '';
       document.getElementById('grid-section').innerHTML = '';
       document.getElementById('mini-section').innerHTML = '';
       document.getElementById('rows-wrapper').style.display = 'none';
 
-      // TIER 1: The Top Hero Story (Index 0)
       document.getElementById('hero-section').innerHTML = buildHero(allArticles[0]);
-      
-      // TIER 2: Secondary Features Rows (Indices 1 to 3)
+
       if (allArticles.length > 1) {
         document.getElementById('rows-wrapper').style.display = 'block';
         const rowArticles = allArticles.slice(1, 4);
         document.getElementById('rows-section').innerHTML = rowArticles.map((a, i) => buildRow(a, i + 2)).join('');
       }
-      
-      // TIER 3: The Ecosystem Grid (Indices 4 to 9)
+
       if (allArticles.length > 4) {
         const gridArticles = allArticles.slice(4, 10);
         const gridHTML = `
@@ -567,7 +598,6 @@ const catColors = {
         document.getElementById('grid-section').innerHTML = gridHTML;
       }
 
-      // TIER 4: The Continuous News Wire Feed (Indices 10 and beyond)
       if (allArticles.length > 10) {
         const wireArticles = allArticles.slice(10);
         const wireHTML = `
@@ -601,73 +631,112 @@ const catColors = {
     }
   }
 
-  // Next-Level Randomization & De-duplication Feed Algorithm
- let feedPool = [];
-let feedOffset = 0;
-const FEED_PAGE_SIZE = 10;
+  let feedPool = [];
+  let feedOffset = 0;
+  let activeFilter = 'All';
+  let filteredPool = [];
+  const FEED_PAGE_SIZE = 10;
 
-async function loadFeed() {
-    const fc = document.getElementById('feed-content');
+  async function loadFeed() {
     if (feedPool.length > 0) return;
     document.getElementById('feed-loading').style.display = 'block';
     try {
-        const res = await fetch('archive.json?t=' + Date.now());
-        if (!res.ok) throw new Error('not found');
-        const data = await res.json();
-        if (!data.batches || data.batches.length === 0) throw new Error('empty');
+      const res = await fetch('archive.json?t=' + Date.now());
+      if (!res.ok) throw new Error('not found');
+      const data = await res.json();
+      if (!data.batches || data.batches.length === 0) throw new Error('empty');
 
-        let seenIds = new Set();
-        for (const batch of data.batches) {
-            if (!batch.articles) continue;
-            for (const article of batch.articles) {
-                if (article.id && !seenIds.has(article.id)) {
-                    seenIds.add(article.id);
-                    feedPool.push(article);
-                }
-            }
+      let seenIds = new Set();
+      for (const batch of data.batches) {
+        if (!batch.articles) continue;
+        for (const article of batch.articles) {
+          if (article.id && !seenIds.has(article.id)) {
+            seenIds.add(article.id);
+            feedPool.push(article);
+          }
         }
+      }
 
-        if (feedPool.length === 0) throw new Error('no distinct articles');
+      if (feedPool.length === 0) throw new Error('no distinct articles');
 
-        // Fisher-Yates shuffle
-        for (let i = feedPool.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [feedPool[i], feedPool[j]] = [feedPool[j], feedPool[i]];
-        }
+      // Fisher-Yates shuffle
+      for (let i = feedPool.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [feedPool[i], feedPool[j]] = [feedPool[j], feedPool[i]];
+      }
 
-        document.getElementById('feed-loading').style.display = 'none';
-        renderFeedPage();
+      document.getElementById('feed-loading').style.display = 'none';
+      document.getElementById('feed-filters').style.display = 'block';
+      applyFilter('All');
     } catch(e) {
-        document.getElementById('feed-loading').textContent = 'Feed compilation failed. Ensure archive.json exists and contains logged IDs.';
+      document.getElementById('feed-loading').textContent = 'Feed compilation failed. Ensure archive.json exists and contains logged IDs.';
     }
-}
+  }
 
-function renderFeedPage() {
+  function setFilter(category, btn) {
+    document.querySelectorAll('.filter-btn').forEach(b => {
+      b.classList.remove('active');
+      b.style.color = '#555';
+      b.style.borderColor = '#2a2a2a';
+      b.style.background = 'none';
+    });
+    btn.classList.add('active');
+    btn.style.color = '#fff';
+    btn.style.borderColor = 'transparent';
+    if (category !== 'All') {
+      const c = catColors[category] || '#6b7280';
+      const bg = catBg[category] || 'rgba(107,114,128,0.15)';
+      btn.style.background = bg;
+      btn.style.color = c;
+      btn.style.borderColor = c;
+    } else {
+      btn.style.background = '#1e1e1e';
+      btn.style.borderColor = '#444';
+    }
+    applyFilter(category);
+  }
+
+  function applyFilter(category) {
+    activeFilter = category;
+    feedOffset = 0;
+    filteredPool = category === 'All' ? feedPool : feedPool.filter(a => a.category === category);
     const fc = document.getElementById('feed-content');
-    const slice = feedPool.slice(feedOffset, feedOffset + FEED_PAGE_SIZE);
-    fc.innerHTML += slice.map((a, i) => buildFeedCard(a, feedOffset + i + 1)).join('');
-    feedOffset += slice.length;
-
-    // Remove old load more button if exists
+    fc.innerHTML = '';
     const old = document.getElementById('load-more-btn');
     if (old) old.remove();
 
-    if (feedOffset < feedPool.length) {
-        const btn = document.createElement('div');
-        btn.id = 'load-more-btn';
-        btn.style.cssText = 'text-align:center; padding:32px 0;';
-        btn.innerHTML = `<button onclick="renderFeedPage()" style="
-            background:none; border:1px solid #333; color:#aaa;
-            font-size:0.75rem; font-weight:600; letter-spacing:0.08em;
-            text-transform:uppercase; padding:10px 28px; border-radius:4px;
-            cursor:pointer; transition:all 0.2s;"
-            onmouseover="this.style.borderColor='#e8384f';this.style.color='#e8384f'"
-            onmouseout="this.style.borderColor='#333';this.style.color='#aaa'">
-            Load More — ${feedPool.length - feedOffset} remaining
-        </button>`;
-        fc.parentNode.appendChild(btn);
+    if (filteredPool.length === 0) {
+      fc.innerHTML = `<div style="text-align:center; padding:60px 0; color:#444; font-size:0.85rem;">No articles found in this category yet.</div>`;
+      return;
     }
-}
+    renderFeedPage();
+  }
+
+  function renderFeedPage() {
+    const fc = document.getElementById('feed-content');
+    const slice = filteredPool.slice(feedOffset, feedOffset + FEED_PAGE_SIZE);
+    fc.innerHTML += slice.map((a, i) => buildFeedCard(a, feedOffset + i + 1)).join('');
+    feedOffset += slice.length;
+
+    const old = document.getElementById('load-more-btn');
+    if (old) old.remove();
+
+    if (feedOffset < filteredPool.length) {
+      const btn = document.createElement('div');
+      btn.id = 'load-more-btn';
+      btn.style.cssText = 'text-align:center; padding:32px 0;';
+      btn.innerHTML = `<button onclick="renderFeedPage()" style="
+          background:none; border:1px solid #333; color:#aaa;
+          font-size:0.75rem; font-weight:600; letter-spacing:0.08em;
+          text-transform:uppercase; padding:10px 28px; border-radius:4px;
+          cursor:pointer; transition:all 0.2s;"
+          onmouseover="this.style.borderColor='#e8384f';this.style.color='#e8384f'"
+          onmouseout="this.style.borderColor='#333';this.style.color='#aaa'">
+          Load More — ${filteredPool.length - feedOffset} remaining
+      </button>`;
+      fc.parentNode.appendChild(btn);
+    }
+  }
 
   async function loadAll() {
     const ac = document.getElementById('all-content');
@@ -677,9 +746,9 @@ function renderFeedPage() {
       const res = await fetch('archive.json?t=' + Date.now());
       const data = await res.json();
       document.getElementById('all-loading').style.display = 'none';
-      
+
       const archiveHTML = data.batches.map((batch, i) => buildBatchFolder(batch, i)).join('');
-      
+
       ac.innerHTML = `
         <div class="batch-folder" id="skeleton-countdown-batch" style="border: 1px dashed #333; background: #111; margin-bottom: 12px;">
           <div class="batch-header" style="cursor: default; background: #111; pointer-events: none;">
@@ -694,7 +763,7 @@ function renderFeedPage() {
         </div>
         ${archiveHTML}
       `;
-      
+
       if (data.batches && data.batches.length > 0) {
         startExactWorkflowTimer(data.batches[0].fetched_at);
       }
@@ -735,10 +804,8 @@ function renderFeedPage() {
 
       const minutes = Math.floor((remainingMs / (1000 * 60)) % 60);
       const seconds = Math.floor((remainingMs / 1000) % 60);
-
       const strMin = minutes < 10 ? "0" + minutes : minutes;
       const strSec = seconds < 10 ? "0" + seconds : seconds;
-
       timerDisplay.innerText = `${strMin}:${strSec}`;
     }
 
