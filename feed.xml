@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI·Brief — Daily Tech Intelligence</title>
+    <link>https://pocketoregon.github.io/new</link>
+    <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Jun 2026 05:56:45 +0000</lastBuildDate>
+    <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>Ragnarok Console Project Launching on Multiple Platforms</title>
+      <description>Gravity and Daweon Game Media Lab announced Ragnarok Console Project for PS5, Xbox Series, Switch 2, and PC. The game is set to launch in the first half of 2027.</description>
+      <link>https://www.gematsu.com/2026/05/ragnarok-console-project-announced-for-ps5-xbox-series-switch-2-and-pc</link>
+      <guid isPermaLink="true">https://www.gematsu.com/2026/05/ragnarok-console-project-announced-for-ps5-xbox-series-switch-2-and-pc</guid>
+      <pubDate>2026-06-01T03:25:04Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.gematsu.com/2026/05/ragnarok-console-project-announced-for-ps5-xbox-series-switch-2-and-pc">Gematsu</source>
+    </item>
+    <item>
+      <title>Google Home Speaker Set for June 25 Launch</title>
+      <description>Google's Gemini-powered Home Speaker is expected to launch on June 25, 2026, following the Pixel 10a and Fitbit Air. Anticipation builds for its features and capabilities.</description>
+      <link>http://9to5google.com/2026/05/31/google-home-speaker-release-date-june/</link>
+      <guid isPermaLink="true">http://9to5google.com/2026/05/31/google-home-speaker-release-date-june/</guid>
+      <pubDate>2026-06-01T02:44:00Z</pubDate>
+      <category>Hardware</category>
+      <source url="http://9to5google.com/2026/05/31/google-home-speaker-release-date-june/">9to5google.com</source>
+    </item>
+    <item>
+      <title>iOS 28 Rumored to Be Major Upgrade</title>
+      <description>Bloomberg's Mark Gurman hints that iOS 28 will be significantly more impactful than iOS 27, which is set to be unveiled soon. Details remain scarce but expectations are high.</description>
+      <link>https://www.macrumors.com/2026/05/31/ios-28-far-more-significant-rumor/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/05/31/ios-28-far-more-significant-rumor/</guid>
+      <pubDate>2026-05-31T21:44:33Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.macrumors.com/2026/05/31/ios-28-far-more-significant-rumor/">MacRumors</source>
+    </item>
+    <item>
+      <title>NVIDIA's N1x SoC Underwhelms in Geekbench Scores</title>
+      <description>Pre-release Geekbench 6 scores for NVIDIA's upcoming N1x processors show disappointing results compared to Apple's M3 Max chip. Details on the processors are still forthcoming.</description>
+      <link>https://wccftech.com/nvidias-upcoming-n1x-soc-fails-to-match-apples-2023-launching-m3-max-chip-in-pre-release-geekbench-6-scores/</link>
+      <guid isPermaLink="true">https://wccftech.com/nvidias-upcoming-n1x-soc-fails-to-match-apples-2023-launching-m3-max-chip-in-pre-release-geekbench-6-scores/</guid>
+      <pubDate>2026-05-31T16:49:00Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://wccftech.com/nvidias-upcoming-n1x-soc-fails-to-match-apples-2023-launching-m3-max-chip-in-pre-release-geekbench-6-scores/">Wccftech</source>
+    </item>
+    <item>
+      <title>California Assembly Passes 'Stop Killing Games' Bill</title>
+      <description>California's Assembly passed Bill AB 1921, enhancing protections for games taken offline. This is a significant victory for the Stop Killing Games movement.</description>
+      <link>https://kotaku.com/stop-killing-games-bill-passes-california-assembly-scott-ross-2000700893</link>
+      <guid isPermaLink="true">https://kotaku.com/stop-killing-games-bill-passes-california-assembly-scott-ross-2000700893</guid>
+      <pubDate>2026-05-31T15:03:07Z</pubDate>
+      <category>Policy</category>
+      <source url="https://kotaku.com/stop-killing-games-bill-passes-california-assembly-scott-ross-2000700893">Kotaku</source>
+    </item>
+    <item>
+      <title>Minecraft Live Unveils Exciting New Features</title>
+      <description>Mojang's Minecraft Live event revealed new content including Minecraft Dungeons II and a new biome. Fans are excited about the upcoming updates.</description>
+      <link>https://www.nintendolife.com/news/2026/05/round-up-minecraft-live-may-2026-chaos-cubed-drop-new-biome-minecraft-dungeons-ii-and-more</link>
+      <guid isPermaLink="true">https://www.nintendolife.com/news/2026/05/round-up-minecraft-live-may-2026-chaos-cubed-drop-new-biome-minecraft-dungeons-ii-and-more</guid>
+      <pubDate>2026-05-31T13:00:00Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.nintendolife.com/news/2026/05/round-up-minecraft-live-may-2026-chaos-cubed-drop-new-biome-minecraft-dungeons-ii-and-more">Nintendo Life</source>
+    </item>
+    <item>
+      <title>April 2026's Best-Selling Games Revealed</title>
+      <description>Tomodachi Life: Living the Dream topped the U.S. sales charts in April 2026, marking a successful debut for the social sim game. Other titles also performed well.</description>
+      <link>https://www.eurogamer.net/tomodachi-life-best-seller-april-2026</link>
+      <guid isPermaLink="true">https://www.eurogamer.net/tomodachi-life-best-seller-april-2026</guid>
+      <pubDate>2026-05-31T11:17:20Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.eurogamer.net/tomodachi-life-best-seller-april-2026">Eurogamer</source>
+    </item>
+  </channel>
+</rss>

@@ -1,247 +1,119 @@
 {
   "date": "2026-06-02",
-  "generated_at": "2026-06-02T04:14:13.332846+00:00",
+  "generated_at": "2026-06-02T05:56:32.724918+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "AMD Extends Socket AM5 Lifespan to 2029",
-      "description": "AMD confirms Socket AM5 will remain relevant until 2029, celebrating the success of its AM4 platform. This move strengthens AMD's competitive edge against Intel.",
-      "category": "Hardware",
-      "source": "Techpowerup.com",
-      "url": "https://www.techpowerup.com/349541/amd-announces-socket-am5-longevity-till-2029",
-      "image": "https://www.techpowerup.com/img/jcS5gR8dlgydp7iU.jpg",
-      "published_at": "2026-06-01T00:22:12Z",
-      "key_points": [
-        "Socket AM5 lasts until 2029",
-        "Celebrates AM4's success",
-        "Strengthens AMD's market position"
-      ],
-      "impact": "AMD's longevity plan boosts consumer confidence.",
-      "id": "c0d9d3a75ce9a6eeabffa4feb1877eee"
-    },
-    {
-      "title": "Dell Launches $699 Touch-Screen XPS 13 to Compete with Apple",
-      "description": "Dell's new XPS 13 laptop, priced at $699, directly challenges Apple's MacBook Neo. The device features a sleek design and touch-screen capabilities.",
-      "category": "Hardware",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-31/dell-challenges-apple-s-macbook-neo-with-699-touch-screen-xps-13-laptop",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOUlgCk_A0Y4/v1/1200x800.jpg",
-      "published_at": "2026-05-31T23:00:04Z",
-      "key_points": [
-        "New XPS 13 targets MacBook Neo",
-        "Priced at $699",
-        "Features touch-screen technology"
-      ],
-      "impact": "Dell aims to capture budget-conscious consumers.",
-      "id": "22e7dd4be5b088e1d6152c3dcdcb9e0f"
-    },
-    {
-      "title": "Sony's State of Play Menu Leaked for Alamo Drafthouse",
-      "description": "A special menu for Sony's upcoming State of Play event at Alamo Drafthouse has leaked. Fans eagerly await the announcements set for June 2.",
+      "title": "Ragnarok Console Project Launching on Multiple Platforms",
+      "description": "Gravity and Daweon Game Media Lab announced Ragnarok Console Project for PS5, Xbox Series, Switch 2, and PC. The game is set to launch in the first half of 2027.",
       "category": "Gaming",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/06/state-of-plays-special-alamo-drafthouse-menu-has-leaked-and-heres-what-sonys-cooking",
-      "image": "https://images.pushsquare.com/63f1dca2e066f/large.jpg",
-      "published_at": "2026-05-31T23:00:00Z",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/05/ragnarok-console-project-announced-for-ps5-xbox-series-switch-2-and-pc",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/05/Ragnarok-Console-Project-Ann_05-31-26.jpg",
+      "published_at": "2026-06-01T03:25:04Z",
       "key_points": [
-        "State of Play menu leaked",
-        "Event scheduled for June 2",
-        "Fans excited for announcements"
+        "New RPG based on Ragnarok franchise",
+        "Launching on multiple platforms",
+        "Expected in first half of 2027"
       ],
-      "impact": "Anticipation builds for Sony's event.",
-      "id": "5cddea1e8050a50e824602ecb09d4521"
+      "impact": "This expands the Ragnarok franchise into new gaming territories.",
+      "id": "52c2b3c9e588c74733c5c3572dd4d179"
     },
     {
-      "title": "868-BACK: A Cyberpunk Roguelike Revival",
-      "description": "The classic roguelike 868-HACK returns as 868-BACK, offering a more accessible experience. Players can now enjoy its challenging gameplay on modern platforms.",
-      "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/an-essential-cyberpunk-roguelike-returns-in-868-back-2000700901",
-      "image": "https://kotaku.com/app/uploads/2026/05/868back-1097x675.jpg",
-      "published_at": "2026-05-31T18:27:33Z",
+      "title": "Google Home Speaker Set for June 25 Launch",
+      "description": "Google's Gemini-powered Home Speaker is expected to launch on June 25, 2026, following the Pixel 10a and Fitbit Air. Anticipation builds for its features and capabilities.",
+      "category": "Hardware",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/05/31/google-home-speaker-release-date-june/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Google-Home-Speaker-Multi.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-01T02:44:00Z",
       "key_points": [
-        "868-HACK returns as 868-BACK",
-        "More accessible gameplay",
-        "Revives classic cyberpunk experience"
+        "Gemini-powered speaker",
+        "Launch date confirmed",
+        "Follows Pixel 10a release"
       ],
-      "impact": "Old-school gamers rejoice with this revival.",
-      "id": "d4647636b21aaed24f891652e2d39fe1"
+      "impact": "This marks a significant update in Google's smart home lineup.",
+      "id": "86c86764882807f5099450b4f5aed40e"
     },
     {
-      "title": "Samsung Messages to Shut Down: Transition to Google Messages",
-      "description": "Samsung Messages will cease operations in July 2026, urging users to transition to Google Messages. Early action is recommended to avoid complications.",
+      "title": "iOS 28 Rumored to Be Major Upgrade",
+      "description": "Bloomberg's Mark Gurman hints that iOS 28 will be significantly more impactful than iOS 27, which is set to be unveiled soon. Details remain scarce but expectations are high.",
       "category": "Software",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/mobile/the-transition-from-samsung-messages-to-google-messages-is-simple-if-you-start-now-and-a-headache-if-you-wait-until-july/",
-      "image": "https://www.cnet.com/a/img/resize/e2499b41644449b4f6ad945f5d565619fa82b841/hub/2026/04/06/d131c6cf-e3ed-4b8d-99fc-330c944a174e/file.png?auto=webp&fit=crop&height=675&width=1200",
-      "published_at": "2026-05-31T17:00:00Z",
-      "key_points": [
-        "Samsung Messages ends in July",
-        "Switch to Google Messages",
-        "Act now to avoid issues"
-      ],
-      "impact": "Users must adapt quickly to avoid disruptions.",
-      "id": "173a1c87b84e028173aa2a65b239c03d"
-    },
-    {
-      "title": "Unannounced Rayman Game Leaks Online",
-      "description": "Details of a new Rayman game, titled Rayman Origins: Enhanced Edition, have leaked online. The game is expected to retail for $1999.99.",
-      "category": "Gaming",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/unannounced-rayman-origins-enhanced-edition-leak",
-      "image": "https://assetsio.gnwcdn.com/rayman-origins-is-currently-free-on-pc-1639525822480.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-05-31T16:25:19Z",
-      "key_points": [
-        "Rayman Origins: Enhanced Edition leaks",
-        "Retail price set at $1999.99",
-        "Details surfaced on Xbox store"
-      ],
-      "impact": "Fans excited for the return of Rayman.",
-      "id": "0d2705f4eb66423298bddb0dd22e2546"
-    },
-    {
-      "title": "AMC's Decline Linked to Tragic History",
-      "description": "AMC's downfall can be traced back to a pivotal moment in its history. The company once competed fiercely but faltered under new ownership.",
-      "category": "Business",
-      "source": "SlashGear",
-      "url": "https://www.slashgear.com/2183475/amc-auto-downfall-georges-besse-assassination/",
-      "image": "https://www.slashgear.com/img/gallery/amcs-downfall-can-be-traced-back-to-one-tragic-moment/l-intro-1780048360.jpg",
-      "published_at": "2026-05-31T16:15:00Z",
-      "key_points": [
-        "AMC's history of competition",
-        "Tragic ownership changes",
-        "Decline traced to key events"
-      ],
-      "impact": "Understanding AMC's past reveals industry lessons.",
-      "id": "a0450110db4f0c25c593c74e6637ffaf"
-    },
-    {
-      "title": "New Apple TV and HomePod Mini Launch Imminent",
-      "description": "Apple's new Apple TV 4K and HomePod mini models are reportedly ready for launch. A new Siri remote is also rumored to be in the works.",
-      "category": "Hardware",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/05/31/new-apple-tv-and-homepod-mini-nearly-ready/",
-      "image": "https://images.macrumors.com/t/Zeedv2Uhp5RsSd48ugoPq_aNaTk=/2500x/article-new/2026/03/HomePod-mini-and-Apple-TV-Sage.jpg",
-      "published_at": "2026-05-31T15:47:50Z",
+      "url": "https://www.macrumors.com/2026/05/31/ios-28-far-more-significant-rumor/",
+      "image": "https://images.macrumors.com/t/YCZjPv2v9UGoJROkYTCOYxi8XFc=/2500x/article-new/2026/05/Low-Angle-iPhone-Purple.jpg",
+      "published_at": "2026-05-31T21:44:33Z",
       "key_points": [
-        "New Apple TV and HomePod mini",
-        "Launch expected soon",
-        "New Siri remote rumored"
+        "iOS 28 expected to be significant",
+        "Rumors from Mark Gurman",
+        "Unveiling of iOS 27 imminent"
       ],
-      "impact": "Apple continues to innovate in home tech.",
-      "id": "48e6270cf776c4c34587145c00cd15f3"
+      "impact": "Anticipation builds for Apple's next major software update.",
+      "id": "d873fef2b7db18ffe8b23de172784754"
     },
     {
-      "title": "Apple's Next Target: The Eyewear Market",
-      "description": "Apple aims to disrupt the $200 billion eyewear industry, similar to its impact on watches. Smart glasses are expected by late 2027.",
-      "category": "Business",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/apple-smart-glasses-eyewear-market-disruption-watch-playbook/",
-      "image": "https://media.thenextweb.com/2026/05/apple-smart-glasses-eyewear-market-disruption-watch-playbook.avif",
-      "published_at": "2026-05-31T14:39:00Z",
+      "title": "NVIDIA's N1x SoC Underwhelms in Geekbench Scores",
+      "description": "Pre-release Geekbench 6 scores for NVIDIA's upcoming N1x processors show disappointing results compared to Apple's M3 Max chip. Details on the processors are still forthcoming.",
+      "category": "Hardware",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/nvidias-upcoming-n1x-soc-fails-to-match-apples-2023-launching-m3-max-chip-in-pre-release-geekbench-6-scores/",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/NVIDIA-N1x-1920x1048.jpg",
+      "published_at": "2026-05-31T16:49:00Z",
       "key_points": [
-        "Apple targets eyewear market",
-        "Smart glasses expected by 2027",
-        "Disruption similar to watches"
+        "N1x scores disappointing",
+        "Fails to match M3 Max",
+        "Details to be revealed at Computex"
       ],
-      "impact": "Apple's entry could reshape eyewear industry.",
-      "id": "5ae2b65d52544a34abb1156e5416d194"
+      "impact": "NVIDIA faces challenges in competing with Apple’s chip performance.",
+      "id": "996ff18adcb73751244c2091ece54d28"
     },
     {
-      "title": "15 New Motorcycles to Check Out Now",
-      "description": "A roundup of the latest motorcycles, featuring standout models from Borgo Panigale and other brands. Exciting options for enthusiasts are available now.",
-      "category": "Business",
-      "source": "Gear Patrol",
-      "url": "https://www.gearpatrol.com/motorcycles/best-new-motorcycles-may-31-2026/",
-      "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/05/Ducati-Diavel-V4-RS-100-tank-macro.webp",
-      "published_at": "2026-05-31T14:00:00Z",
+      "title": "California Assembly Passes 'Stop Killing Games' Bill",
+      "description": "California's Assembly passed Bill AB 1921, enhancing protections for games taken offline. This is a significant victory for the Stop Killing Games movement.",
+      "category": "Policy",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/stop-killing-games-bill-passes-california-assembly-scott-ross-2000700893",
+      "image": "https://kotaku.com/app/uploads/2026/05/Compare_TCM_Standard_Edition.jpg",
+      "published_at": "2026-05-31T15:03:07Z",
       "key_points": [
-        "Latest motorcycles unveiled",
-        "Borgo Panigale leads the pack",
-        "Exciting options for riders"
+        "Bill enhances game preservation",
+        "Major win for gamers",
+        "Moves to legislature for approval"
       ],
-      "impact": "Motorcycle enthusiasts have new choices.",
-      "id": "88a181c8b12348d8a5d5a71dc2b8f783"
+      "impact": "This legislation could reshape game preservation efforts in the U.S.",
+      "id": "d418cf0ba525707c3fc5d10d9b69caea"
     },
     {
-      "title": "T-Mobile Tops JD Power Customer Satisfaction Survey",
-      "description": "JD Power's latest survey reveals T-Mobile ranks highest in customer satisfaction among phone carriers. Verizon and AT&T trail behind.",
-      "category": "Business",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2181201/phone-carrier-leads-customer-satisfaction-jd-power-t-mobile/",
-      "image": "https://www.bgr.com/img/gallery/not-verizon-not-att-jd-power-says-this-phone-carrier-leads-in-customer-satisfaction/l-intro-1779483727.jpg",
-      "published_at": "2026-05-31T13:47:00Z",
-      "key_points": [
-        "T-Mobile leads in satisfaction",
-        "Verizon and AT&T lag behind",
-        "JD Power survey results released"
-      ],
-      "impact": "T-Mobile's customer focus pays off.",
-      "id": "5fafeaeaa67089f3a9d5cf40ddb28f3f"
-    },
-    {
-      "title": "Reality May Be a VR Simulation, Claims Scientist",
-      "description": "Scientist Donald Hoffman suggests reality resembles a VR simulation rather than traditional space-time. His theory challenges conventional perceptions of existence.",
-      "category": "Science",
-      "source": "Popular Mechanics",
-      "url": "https://www.popularmechanics.com/science/a71445608/space-time-illusion-consciousness/",
-      "image": "https://s.yimg.com/ny/api/res/1.2/Hp7JRhAqcX.1WpNSv9C13g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/popular_mechanics_642/91333d82ec8445aa939feba313224707",
+      "title": "Minecraft Live Unveils Exciting New Features",
+      "description": "Mojang's Minecraft Live event revealed new content including Minecraft Dungeons II and a new biome. Fans are excited about the upcoming updates.",
+      "category": "Gaming",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/05/round-up-minecraft-live-may-2026-chaos-cubed-drop-new-biome-minecraft-dungeons-ii-and-more",
+      "image": "https://images.nintendolife.com/122776afd3198/large.jpg",
       "published_at": "2026-05-31T13:00:00Z",
       "key_points": [
-        "Reality may be a simulation",
-        "Hoffman's theory challenges norms",
-        "Space-time perception questioned"
+        "New biome announced",
+        "Minecraft Dungeons II revealed",
+        "Exciting updates for fans"
       ],
-      "impact": "This theory could reshape our understanding.",
-      "id": "a7ad0ca8332fef0fa00c88f85a7eea64"
+      "impact": "These updates promise to enhance the Minecraft experience.",
+      "id": "5afd6b8d3ba67b2fcd00b489182b8eb4"
     },
     {
-      "title": "8 Must-Have Gadgets This Week",
-      "description": "A roundup of the most notable tech gadgets released recently. Stay updated on the latest innovations in technology.",
-      "category": "Software",
-      "source": "Gear Patrol",
-      "url": "https://www.gearpatrol.com/audio/best-new-tech-releases-5-31-26/",
-      "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/05/Sony-bravia-tv-lead.webp",
-      "published_at": "2026-05-31T12:00:00Z",
+      "title": "April 2026's Best-Selling Games Revealed",
+      "description": "Tomodachi Life: Living the Dream topped the U.S. sales charts in April 2026, marking a successful debut for the social sim game. Other titles also performed well.",
+      "category": "Gaming",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/tomodachi-life-best-seller-april-2026",
+      "image": "https://assetsio.gnwcdn.com/Tomodachi-Life-Living-the-Dream---Island-Layouts-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-05-31T11:17:20Z",
       "key_points": [
-        "Latest tech gadgets released",
-        "Stay updated on innovations",
-        "Notable products highlighted"
+        "Tomodachi Life tops sales",
+        "Strong debut performance",
+        "April 2026 sales data released"
       ],
-      "impact": "Tech enthusiasts won't want to miss these.",
-      "id": "a881006a955a2921cc7df56220f13dc7"
-    },
-    {
-      "title": "Tips to Improve Pixel Battery Life",
-      "description": "Simple habits can significantly enhance battery life for Google Pixel users. Small changes lead to better performance and less anxiety.",
-      "category": "Software",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/replaced-pixel-battery-anxiety-with-simple-habits/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/google-pixel-phone-with-a-glowing-green-battery-symbol-floating-through-the-screen.png?w=1600&h=900&fit=crop",
-      "published_at": "2026-05-31T11:00:12Z",
-      "key_points": [
-        "Improve Pixel battery life",
-        "Adopt simple habits",
-        "Reduce battery anxiety"
-      ],
-      "impact": "Users can enjoy longer-lasting devices.",
-      "id": "e935df59e6264af2782e1dd9290373ce"
-    },
-    {
-      "title": "Samsung Employee Spotted with Galaxy Z Fold 8",
-      "description": "A Samsung employee was seen using the Galaxy Z Fold 8 in public, hinting at its upcoming release. The device's features remain under wraps.",
-      "category": "Hardware",
-      "source": "PhoneArena",
-      "url": "https://www.phonearena.com/news/galaxy-z-fold-8-wide-vs-fold-8-ultra_id180769",
-      "image": "",
-      "published_at": "2026-05-31T10:29:05Z",
-      "key_points": [
-        "Galaxy Z Fold 8 sighting",
-        "Hints at imminent release",
-        "Features still undisclosed"
-      ],
-      "impact": "Anticipation builds for Samsung's latest foldable.",
-      "id": "985ab9d49ef5ef25b59897bbaee39d98"
+      "impact": "This highlights the popularity of social simulation games.",
+      "id": "3ab91b25b7b96995537b105e8b5d2608"
     }
   ]
 }
