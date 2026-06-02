@@ -1,213 +1,245 @@
 {
-  "generated_at": "2026-06-02T10:21:43.296656+00:00",
+  "generated_at": "2026-06-02T16:22:24.590235+00:00",
   "articles": [
     {
-      "title": "Nvidia Chip Boosts Software Stocks Ahead of Opening",
-      "description": "Software stocks surged as Nvidia's new chip was announced, boosting shares of Arm, IBM, and Hewlett Packard. Investors are optimistic about the future of personal computing.",
-      "category": "Business",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/01/arm-ibm-and-hewlett-packard-nvidia-chip-extends-software-rally.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108257481-1769516811771-gettyimages-2250111740-US_STOCKS.jpeg?v=1771953167&w=1920&h=1080",
-      "published_at": "2026-06-01T09:58:23Z",
-      "key_points": [
-        "Nvidia announces new chip",
-        "Software stocks rally",
-        "Investors optimistic"
-      ],
-      "impact": "Nvidia's innovation drives market confidence.",
-      "id": "ab13e6ad9f251aa062ccb07c2a8b1b13"
-    },
-    {
-      "title": "NVIDIA DLSS 4.5 Ray Reconstruction Launching in August",
-      "description": "NVIDIA will release DLSS 4.5 Ray Reconstruction for all GeForce RTX GPUs in August, enhancing gaming graphics with improved AI-based denoising.",
+      "title": "XBOX Games Showcase Returns This Sunday",
+      "description": "Tune in on June 7 for the XBOX Games Showcase featuring upcoming games and partnerships. Don't miss this annual double feature event!",
       "category": "Gaming",
-      "source": "Videocardz.com",
-      "url": "https://videocardz.com/newz/nvidia-dlss-4-5-ray-reconstruction-coming-in-august-for-rtx-20-30-40-and-50-series",
-      "image": "https://cdn.videocardz.com/1/2026/06/DLSS-4.5-Ray-Reconstruction.jpg",
-      "published_at": "2026-06-01T05:06:09Z",
+      "source": "Xbox.com",
+      "url": "https://news.xbox.com/en-us/2026/06/01/xbox-games-showcase-2026-gears-of-war-e-day-direct-how-to-watch/",
+      "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/03/2026_Showcase_DoubleFeature_16x9-1-503e797dfa7152ff8c4e.jpg",
+      "published_at": "2026-06-01T13:01:58Z",
       "key_points": [
-        "DLSS 4.5 announced",
-        "Supports all RTX GPUs",
-        "Improves gaming graphics"
+        "XBOX showcase on June 7",
+        "Annual double feature event",
+        "New game reveals expected"
       ],
-      "impact": "Enhanced graphics set to elevate gaming experience.",
-      "id": "9331f654c5b91d9aac20a7ef18f8750e"
+      "impact": "Excitement builds for upcoming XBOX titles.",
+      "id": "6fa5de8d1a3f01a9b0f33ad4caa4f3f6"
     },
     {
-      "title": "Foldable iPhone Ultra Design Leaked in Video",
-      "description": "A hands-on video reveals the design of the upcoming foldable iPhone Ultra, showcasing a sleek 4.5mm profile.",
-      "category": "Business",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Foldable-iPhone-Ultra-design-model-leaks-in-hands-on-video-from-Chinese-factory.1311684.0.html",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/iphone-ultra-fold-weibo-Xiaohui-Talks-Tech.jpg",
-      "published_at": "2026-06-01T01:14:00Z",
-      "key_points": [
-        "Foldable iPhone design leaked",
-        "Sleek 4.5mm profile",
-        "Hands-on video released"
-      ],
-      "impact": "Apple's foldable design sparks consumer interest.",
-      "id": "9ae021479115f0ac1287750a4e95c535"
-    },
-    {
-      "title": "AMD Revives Old CPUs to Tackle RAM Costs",
-      "description": "AMD is reintroducing older AM4 CPUs to help gamers facing high RAM prices, making upgrades more accessible.",
-      "category": "Business",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/amds-plan-to-fix-ram-costs-bring-back-bygone-cpus-2000765337",
-      "image": "https://gizmodo.com/app/uploads/2026/05/AMD-Gaming-PCs-1200x675.jpg",
-      "published_at": "2026-06-01T00:00:58Z",
-      "key_points": [
-        "AMD revives AM4 CPUs",
-        "Targets high RAM costs",
-        "Aids gamer upgrades"
-      ],
-      "impact": "AMD's strategy eases upgrade barriers for gamers.",
-      "id": "837d825493b52f53556b99460a199d07"
-    },
-    {
-      "title": "AMD Unveils Radeon RX 9070 GRE and Ryzen AI Max PRO 400",
-      "description": "AMD announces new products including the Radeon RX 9070 GRE and Ryzen AI Max PRO 400 series during Computex 2026.",
+      "title": "Apple's Smart Glasses Delayed to Late 2027",
+      "description": "Apple's anticipated smart glasses will now launch in late 2027, as development faces delays. Leadership still prioritizes the project despite setbacks.",
       "category": "Hardware",
-      "source": "Phoronix",
-      "url": "https://www.phoronix.com/review/amd-rx-9070-gre-ryzen-ai-max-400",
-      "image": "https://www.phoronix.net/image.php?id=amd-rx-9070-gre-ryzen-ai-max-400&image=amd_computex_9",
-      "published_at": "2026-06-01T00:00:00Z",
-      "key_points": [
-        "New Radeon RX 9070 GRE",
-        "Ryzen AI Max PRO 400 announced",
-        "Computex 2026 showcase"
-      ],
-      "impact": "AMD's new products enhance competitive edge.",
-      "id": "7b299d8bd84a498c4e5468e22eaaf2a7"
-    },
-    {
-      "title": "Competitors Target Apple's MacBook Neo",
-      "description": "Dell and Microsoft are launching laptops aimed at competing with Apple's MacBook Neo, but not all are learning from Apple's strategies.",
-      "category": "Business",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/",
-      "image": "https://media.wired.com/photos/6a187b03ed6e2578ab7573b3/191:100/w_1280,c_limit/Microsoft%20Is%20Learning%20the%20Wrong%20Lessons%20From%20Apple%20top%20art%20(2)%20052026%20SOURCE%20Microsoft.jpg",
-      "published_at": "2026-05-31T23:00:00Z",
-      "key_points": [
-        "Dell and Microsoft launch competitors",
-        "Targeting MacBook Neo",
-        "Learning from Apple"
-      ],
-      "impact": "Increased competition may benefit consumers.",
-      "id": "4b83e46e5e1d2aa10c6d1668746e3aec"
-    },
-    {
-      "title": "Apple's Smart Glasses Delayed Until Late 2027",
-      "description": "Apple's highly anticipated smart glasses are now expected to launch in late 2027, despite being a top priority for the company.",
-      "category": "Business",
       "source": "CNET",
-      "url": "https://www.cnet.com/tech/apples-smart-glasses-reportedly-delayed-until-late-2027/",
-      "image": "https://www.cnet.com/a/img/resize/0924ae8ab6ce5fa40686ed53772987afb785b9bd/hub/2026/05/22/a27ae493-ca85-4286-a79e-867fe1f8483c/ray-ban-meta-cnet-memorial-day-bg-09.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "published_at": "2026-05-31T21:45:00Z",
+      "url": "https://www.cnet.com/tech/mobile/apple-smart-glasses-development-bumps-reported-delay/",
+      "image": "https://www.cnet.com/a/img/resize/5f671472c03b96b400f40e34e65ef956d6d75dbd/hub/2025/09/26/4c593e3b-bdb4-4c62-90c4-553c0b8f8cb6/ray-ban-meta-gen2-5.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "published_at": "2026-06-01T12:39:00Z",
       "key_points": [
-        "Smart glasses delayed",
-        "New launch date: late 2027",
-        "Top priority for Apple"
+        "Smart glasses launch delayed",
+        "New release target: late 2027",
+        "Project remains a top priority"
       ],
-      "impact": "Delay may impact Apple's market positioning.",
-      "id": "e31f586de57ecc381b755efdc961de4d"
+      "impact": "Apple's smart glasses face significant delays.",
+      "id": "4d81112599991a823a42843045eb409a"
     },
     {
-      "title": "Capcom's Street Fighter 6 Update Schedule Changes",
-      "description": "Capcom's update schedule for Street Fighter 6 is shifting, with uncertainty surrounding the release of the Season 4 balance patch.",
+      "title": "Strava Targets Scrapers Ahead of IPO",
+      "description": "Strava will implement a monthly fee for developers accessing its API, aiming to combat data scraping. This move comes as the company prepares for its IPO.",
+      "category": "Business",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/orange-shoes-strava.jpg?resize=1200,800",
+      "published_at": "2026-06-01T12:00:00Z",
+      "key_points": [
+        "Strava charges for API access",
+        "Combatting data scraping",
+        "Preparing for IPO"
+      ],
+      "impact": "Strava's new policy aims to protect data.",
+      "id": "e4ecef373454298da2b12b69973a5262"
+    },
+    {
+      "title": "New $599 MacBook Neo Rival Launched",
+      "description": "A new competitor to the MacBook Neo has launched at $599, surprising Windows PC makers. This move intensifies competition in the laptop market.",
+      "category": "Hardware",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/01/macbook-neo-rival-launched-at-599-nvidia-pc-chip-takes-on-apple-silicon/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/MacBook-Neo-rival-launched-at-599.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-01T12:00:00Z",
+      "key_points": [
+        "New laptop priced at $599",
+        "Competes with MacBook Neo",
+        "Windows makers caught off guard"
+      ],
+      "impact": "Competition in the laptop market heats up.",
+      "id": "29edca2999860e60f8c10c3cf4a051d2"
+    },
+    {
+      "title": "June's Miniature of the Month Revealed",
+      "description": "Warhammer Community reveals this month's collectible coin and miniature available in stores. Fans can grab these exclusive items now.",
       "category": "Gaming",
-      "source": "EventHubs",
-      "url": "https://www.eventhubs.com/news/2026/may/31/sf6-season-4-balance-patch/",
-      "image": "https://media.eventhubs.com/images/2026/05/29-street-fighter-seasont.webp",
-      "published_at": "2026-05-31T20:39:20Z",
+      "source": "Warhammer-community.com",
+      "url": "https://www.warhammer-community.com/articles/q17dwwtt/junes-miniature-of-the-month-and-collectible-coin-revealed",
+      "image": "https://assets.warhammer-community.com/motm-jun01-1-feature-t9maa9fbmm.jpg",
+      "published_at": "2026-06-01T11:59:08Z",
       "key_points": [
-        "Street Fighter 6 update schedule shifts",
-        "Ingrid's patch released",
-        "Future updates uncertain"
+        "Collectible coin available now",
+        "Miniature of the month revealed",
+        "Exclusive in-store items"
       ],
-      "impact": "Changes may affect player engagement.",
-      "id": "c36201fed058189c0045aa676dc769db"
+      "impact": "Warhammer fans can collect new items.",
+      "id": "a50192b49e99681a86284b552a354f7a"
     },
     {
-      "title": "Intel's Arc G3 Extreme Claims High Performance",
-      "description": "Intel's Arc G3 Extreme handheld platform reportedly matches Ryzen Z2 Extreme performance while consuming half the power.",
-      "category": "Hardware",
-      "source": "Videocardz.com",
-      "url": "https://videocardz.com/newz/intel-claims-arc-g3-extreme-delivers-similar-performance-to-ryzen-z2-extreme-at-half-the-power",
-      "image": "https://cdn.videocardz.com/1/2026/05/INTEL-ARC-G3-VS-RYZEN-Z2-HERO.jpg",
-      "published_at": "2026-05-31T17:31:09Z",
-      "key_points": [
-        "Arc G3 Extreme performance revealed",
-        "Half the power consumption",
-        "Competes with Ryzen Z2 Extreme"
-      ],
-      "impact": "Intel's claims could reshape market dynamics.",
-      "id": "2373107eceaf02f7c54181a0b7179bd1"
-    },
-    {
-      "title": "AC Cobra GT Coupe Introduces Fixed Roof Design",
-      "description": "AC Cars unveils the AC Cobra GT Coupe, marking the first fixed roof version of the classic car in its 125-year history.",
-      "category": "Business",
-      "source": "The Drive",
-      "url": "https://www.thedrive.com/news/ac-cobra-gt-coupe-puts-a-fixed-roof-on-the-classic-for-the-first-time",
-      "image": "https://www.thedrive.com/wp-content/uploads/2026/05/AC-Cobra-GT-Coupe-Autoclaves-2.jpeg?quality=85&w=1200",
-      "published_at": "2026-05-31T15:00:00Z",
-      "key_points": [
-        "AC Cobra GT Coupe launched",
-        "First fixed roof design",
-        "125 years of history"
-      ],
-      "impact": "New design may attract classic car enthusiasts.",
-      "id": "d6c01e61dbc008049f66bb23e8a4ae3c"
-    },
-    {
-      "title": "Android Auto 17.0 Now Available for All Users",
-      "description": "Android Auto 17.0 is rolling out globally, with a method available to skip the wait for the update.",
+      "title": "Microsoft Addresses MFA Outage Issues",
+      "description": "Microsoft is resolving an outage affecting multi-factor authentication (MFA) setup and My Sign-Ins platform access. Users are experiencing disruptions.",
       "category": "Software",
-      "source": "autoevolution",
-      "url": "https://www.autoevolution.com/news/android-auto-170-now-available-for-all-android-users-270796.html",
-      "image": "https://s1.cdn.autoevolution.com/images/news/android-auto-170-now-available-for-all-android-users-270796_1.jpg",
-      "published_at": "2026-05-31T13:45:06Z",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/",
+      "image": "https://www.bleepingcomputer.com/content/hl-images/2021/09/15/Microsoft_passwordless.jpg",
+      "published_at": "2026-06-01T11:40:16Z",
       "key_points": [
-        "Android Auto 17.0 released",
-        "Global rollout underway",
-        "Skip the wait for update"
+        "MFA setup issues reported",
+        "Microsoft investigating outage",
+        "User access disrupted"
       ],
-      "impact": "Update enhances user experience in vehicles.",
-      "id": "3b9b1a5e6f8f27f731b9250c4dd6f555"
+      "impact": "Microsoft works to restore MFA functionality.",
+      "id": "753f11e42677773fd56d94e9fff0b459"
     },
     {
-      "title": "ASUS Teases 540Hz OLED Esports Monitor",
-      "description": "ASUS reveals a teaser for the ROG Strix OLED XG259QWPG Ace esports monitor, boasting a 540Hz refresh rate ahead of Computex 2026.",
+      "title": "Leaked Image Reveals iPhone Ultra Color",
+      "description": "A leaked image suggests the upcoming foldable iPhone Ultra will feature two color options. Anticipation builds for its launch later this year.",
+      "category": "Hardware",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/01/first-confirmed-iphone-ultra-color-leaked/",
+      "image": "https://images.macrumors.com/t/utojh2KSAyPpmL2zSSHd0_hnVQQ=/2500x/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+      "published_at": "2026-06-01T11:39:16Z",
+      "key_points": [
+        "Foldable iPhone Ultra coming soon",
+        "Leaked image shows color options",
+        "Launch expected later this year"
+      ],
+      "impact": "Excitement grows for the iPhone Ultra.",
+      "id": "ca7777af4b08464ce0e7dfa020186476"
+    },
+    {
+      "title": "The Outer Worlds Upgrade Issues Persist",
+      "description": "Players face ongoing issues with the free upgrade to The Outer Worlds: Spacer's Choice Edition. Problems continue to frustrate users.",
+      "category": "Gaming",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/the-outer-worlds-free-upgrade-issues",
+      "image": "https://assetsio.gnwcdn.com/sclk7s.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-01T11:08:08Z",
+      "key_points": [
+        "Free upgrade issues reported",
+        "Players frustrated with problems",
+        "Ongoing technical difficulties"
+      ],
+      "impact": "Players remain dissatisfied with upgrade process.",
+      "id": "789c5892929f3bb7f6b5cf716f53650e"
+    },
+    {
+      "title": "ASUS Launches 540Hz OLED Esports Monitor",
+      "description": "ASUS unveils its first 24.5-inch OLED esports monitor with a 540Hz refresh rate. This new addition enhances gaming performance.",
       "category": "Hardware",
       "source": "Videocardz.com",
-      "url": "https://videocardz.com/newz/asus-teases-24-5-inch-rog-strix-oled-xg259qwpg-ace-esports-monitor-with-540hz-refresh-rate",
-      "image": "https://cdn.videocardz.com/1/2026/05/ASUS-ROG-STRIX-OLED-XG259QWPG-ACE-24INCH-540HZ-MONITOR.jpg",
-      "published_at": "2026-05-31T07:16:03Z",
+      "url": "https://videocardz.com/newz/asus-first-24-5-inch-540hz-oled-monitor-has-been-announced",
+      "image": "https://cdn.videocardz.com/1/2026/06/ASUS-ROG-26.5-INCH-OLED-MONITOR-HERO-1.jpg",
+      "published_at": "2026-06-01T11:01:10Z",
       "key_points": [
-        "ASUS teases new esports monitor",
-        "540Hz refresh rate",
-        "Ahead of Computex 2026"
+        "New 540Hz OLED monitor launched",
+        "24.5-inch size for esports",
+        "Enhanced gaming experience"
       ],
-      "impact": "High refresh rate targets competitive gamers.",
-      "id": "17fe4fdc8213644be0e08acd010512c8"
+      "impact": "ASUS boosts esports monitor offerings.",
+      "id": "c5aa0ec2657958a6857513c09083d4b2"
     },
     {
-      "title": "Apple Cancels Cosmic Orange for iPhone 18 Pro",
-      "description": "Apple's iPhone 18 Pro will feature higher specs but will not include the Cosmic Orange color option, focusing on performance and aesthetics.",
-      "category": "Business",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/ewanspence/2026/05/30/apple-iphone-18-pro-dark-cherry-color-strategy/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a1b44d17e111d7ee4aeaafb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published_at": "2026-05-30T20:21:20Z",
+      "title": "Witcher 3 Expansion Sword Mystery Unveiled",
+      "description": "The identity of the sword in The Witcher 3's expansion artwork has sparked theories among fans. Its significance remains a topic of discussion.",
+      "category": "Gaming",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/witcher-3-expansion-songs-of-past-sword",
+      "image": "https://assetsio.gnwcdn.com/geralt-sword-songs-of-past-witcher-3-expansion.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-01T10:54:45Z",
       "key_points": [
-        "Cosmic Orange color canceled",
-        "Focus on higher specs",
-        "New aesthetic strategy"
+        "Sword identity sparks fan theories",
+        "Expansion artwork raises questions",
+        "Significance of sword debated"
       ],
-      "impact": "Color change may influence consumer choices.",
-      "id": "ecedf46706cf1e9afa179af6adbaf3ac"
+      "impact": "Fans engage in speculation over sword's meaning.",
+      "id": "2a8e28beb6086fd5f9ac1f247ae4edb7"
+    },
+    {
+      "title": "SEGA Leaker Reveals New Game Information",
+      "description": "A leaker has shared new details about upcoming SEGA and Atlus games, including Sonic and Persona franchises. Excitement builds for future releases.",
+      "category": "Gaming",
+      "source": "My Nintendo News",
+      "url": "https://mynintendonews.com/2026/06/01/jet-set-radio-leaker-has-leaked-sonic-ace-attorney-persona-crazy-taxi-information/",
+      "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2024/11/sega_logo.jpg?fit=2200%2C1100&ssl=1",
+      "published_at": "2026-06-01T10:44:21Z",
+      "key_points": [
+        "Leaker shares SEGA game details",
+        "New Sonic and Persona info",
+        "Excitement for upcoming releases"
+      ],
+      "impact": "Fans eager for new SEGA announcements.",
+      "id": "534226f39fffdfde65810f301ebfb8fb"
+    },
+    {
+      "title": "Xbox Fans React to Showcase Logo Controversy",
+      "description": "Fans express distrust over Microsoft's logo transparency in the recent Xbox Showcase. Concerns arise about the company's commitment to Xbox's success.",
+      "category": "Gaming",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/gaming/xbox/xbox-fan-backlash-to-playstation-logos-in-the-showcase-isnt-about-gatekeeping-its-about-distrust",
+      "image": "https://cdn.mos.cms.futurecdn.net/mgvjZ5C2ZGZ3P5yz49iUVM-2560-80.jpg",
+      "published_at": "2026-06-01T10:00:00Z",
+      "key_points": [
+        "Fan backlash over logo transparency",
+        "Concerns about Xbox's future",
+        "Distrust among the community"
+      ],
+      "impact": "Community concerns highlight trust issues.",
+      "id": "af283407007d986475f4078c7256cde7"
+    },
+    {
+      "title": "OpenAI Codex Tokens Stolen in Attack",
+      "description": "Authentication tokens for OpenAI Codex were stolen via a supply chain attack, affecting users since version 0.1.82. This breach allows persistent access.",
+      "category": "Security",
+      "source": "Internet",
+      "url": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4veBAmEJHF2nXN_nIgXeWxVSxlTDBc6uWiLwVCYNUqGMF9ZtPre3zF_CXmGnAxX2rbqfwgm_Au0tXvYwv1oTGim1STiGCeVOyMXglUTd-3LeJEN3q718Fdlck9mbQ6aUUYP0NM9S7bakZ4_XF5HHYH-cz2QmKBlge6xNMxbbEjDjZQ4wd1maPKnjgKrsu/s1600/codex.png",
+      "published_at": "2026-06-01T09:31:00Z",
+      "key_points": [
+        "Codex tokens stolen in attack",
+        "Supply chain vulnerability exploited",
+        "Persistent access granted to attackers"
+      ],
+      "impact": "Security breach raises concerns for developers.",
+      "id": "a3c1407f6b73903a16a1cc760df748ac"
+    },
+    {
+      "title": "GIGABYTE Launches New X870E Motherboard",
+      "description": "GIGABYTE introduces the X870E AORUS INFINITY NEXT motherboard, expanding its AORUS INFINITY series. This new model targets high-performance users.",
+      "category": "Hardware",
+      "source": "Videocardz.com",
+      "url": "https://videocardz.com/newz/gigabyte-unveils-x870e-aorus-infinity-next-motherboard",
+      "image": "https://cdn.videocardz.com/1/2026/06/AORUS-INFINITY-NEXT-X870-HERO.jpg",
+      "published_at": "2026-06-01T08:41:10Z",
+      "key_points": [
+        "New X870E motherboard launched",
+        "Targets high-performance users",
+        "Part of AORUS INFINITY series"
+      ],
+      "impact": "GIGABYTE enhances motherboard lineup.",
+      "id": "9db8fb8e33b4f539be0097a202dc14dd"
+    },
+    {
+      "title": "Tips to Manage Copilot in Windows 11",
+      "description": "Users can reduce or eliminate Copilot's presence in Windows 11 with practical options. Guidance is provided for those seeking alternatives.",
+      "category": "Software",
+      "source": "WTOP",
+      "url": "https://wtop.com/tech/2026/06/data-doctors-copilot-wont-leave-heres-what-to-do/",
+      "image": "https://wtop.com/wp-content/uploads/2026/03/Microsoft_5_th_28_52-scaled.jpg",
+      "published_at": "2026-06-01T08:04:33Z",
+      "key_points": [
+        "Options to manage Copilot",
+        "Reduce Copilot's presence",
+        "User-friendly guidance provided"
+      ],
+      "impact": "Users gain control over Copilot features.",
+      "id": "abfaf31376c169d135d2033c10e52f4e"
     }
   ]
 }

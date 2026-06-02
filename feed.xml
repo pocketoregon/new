@@ -5,125 +5,143 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jun 2026 10:22:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 16:23:06 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Nvidia Chip Boosts Software Stocks Ahead of Opening</title>
-      <description>Software stocks surged as Nvidia's new chip was announced, boosting shares of Arm, IBM, and Hewlett Packard. Investors are optimistic about the future of personal computing.</description>
-      <link>https://www.cnbc.com/2026/06/01/arm-ibm-and-hewlett-packard-nvidia-chip-extends-software-rally.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/06/01/arm-ibm-and-hewlett-packard-nvidia-chip-extends-software-rally.html</guid>
-      <pubDate>2026-06-01T09:58:23Z</pubDate>
-      <category>Business</category>
-      <source url="https://www.cnbc.com/2026/06/01/arm-ibm-and-hewlett-packard-nvidia-chip-extends-software-rally.html">CNBC</source>
-    </item>
-    <item>
-      <title>NVIDIA DLSS 4.5 Ray Reconstruction Launching in August</title>
-      <description>NVIDIA will release DLSS 4.5 Ray Reconstruction for all GeForce RTX GPUs in August, enhancing gaming graphics with improved AI-based denoising.</description>
-      <link>https://videocardz.com/newz/nvidia-dlss-4-5-ray-reconstruction-coming-in-august-for-rtx-20-30-40-and-50-series</link>
-      <guid isPermaLink="true">https://videocardz.com/newz/nvidia-dlss-4-5-ray-reconstruction-coming-in-august-for-rtx-20-30-40-and-50-series</guid>
-      <pubDate>2026-06-01T05:06:09Z</pubDate>
+      <title>XBOX Games Showcase Returns This Sunday</title>
+      <description>Tune in on June 7 for the XBOX Games Showcase featuring upcoming games and partnerships. Don't miss this annual double feature event!</description>
+      <link>https://news.xbox.com/en-us/2026/06/01/xbox-games-showcase-2026-gears-of-war-e-day-direct-how-to-watch/</link>
+      <guid isPermaLink="true">https://news.xbox.com/en-us/2026/06/01/xbox-games-showcase-2026-gears-of-war-e-day-direct-how-to-watch/</guid>
+      <pubDate>2026-06-01T13:01:58Z</pubDate>
       <category>Gaming</category>
-      <source url="https://videocardz.com/newz/nvidia-dlss-4-5-ray-reconstruction-coming-in-august-for-rtx-20-30-40-and-50-series">Videocardz.com</source>
+      <source url="https://news.xbox.com/en-us/2026/06/01/xbox-games-showcase-2026-gears-of-war-e-day-direct-how-to-watch/">Xbox.com</source>
     </item>
     <item>
-      <title>Foldable iPhone Ultra Design Leaked in Video</title>
-      <description>A hands-on video reveals the design of the upcoming foldable iPhone Ultra, showcasing a sleek 4.5mm profile.</description>
-      <link>https://www.notebookcheck.net/Foldable-iPhone-Ultra-design-model-leaks-in-hands-on-video-from-Chinese-factory.1311684.0.html</link>
-      <guid isPermaLink="true">https://www.notebookcheck.net/Foldable-iPhone-Ultra-design-model-leaks-in-hands-on-video-from-Chinese-factory.1311684.0.html</guid>
-      <pubDate>2026-06-01T01:14:00Z</pubDate>
-      <category>Business</category>
-      <source url="https://www.notebookcheck.net/Foldable-iPhone-Ultra-design-model-leaks-in-hands-on-video-from-Chinese-factory.1311684.0.html">Notebookcheck</source>
-    </item>
-    <item>
-      <title>AMD Revives Old CPUs to Tackle RAM Costs</title>
-      <description>AMD is reintroducing older AM4 CPUs to help gamers facing high RAM prices, making upgrades more accessible.</description>
-      <link>https://gizmodo.com/amds-plan-to-fix-ram-costs-bring-back-bygone-cpus-2000765337</link>
-      <guid isPermaLink="true">https://gizmodo.com/amds-plan-to-fix-ram-costs-bring-back-bygone-cpus-2000765337</guid>
-      <pubDate>2026-06-01T00:00:58Z</pubDate>
-      <category>Business</category>
-      <source url="https://gizmodo.com/amds-plan-to-fix-ram-costs-bring-back-bygone-cpus-2000765337">Gizmodo</source>
-    </item>
-    <item>
-      <title>AMD Unveils Radeon RX 9070 GRE and Ryzen AI Max PRO 400</title>
-      <description>AMD announces new products including the Radeon RX 9070 GRE and Ryzen AI Max PRO 400 series during Computex 2026.</description>
-      <link>https://www.phoronix.com/review/amd-rx-9070-gre-ryzen-ai-max-400</link>
-      <guid isPermaLink="true">https://www.phoronix.com/review/amd-rx-9070-gre-ryzen-ai-max-400</guid>
-      <pubDate>2026-06-01T00:00:00Z</pubDate>
+      <title>Apple's Smart Glasses Delayed to Late 2027</title>
+      <description>Apple's anticipated smart glasses will now launch in late 2027, as development faces delays. Leadership still prioritizes the project despite setbacks.</description>
+      <link>https://www.cnet.com/tech/mobile/apple-smart-glasses-development-bumps-reported-delay/</link>
+      <guid isPermaLink="true">https://www.cnet.com/tech/mobile/apple-smart-glasses-development-bumps-reported-delay/</guid>
+      <pubDate>2026-06-01T12:39:00Z</pubDate>
       <category>Hardware</category>
-      <source url="https://www.phoronix.com/review/amd-rx-9070-gre-ryzen-ai-max-400">Phoronix</source>
+      <source url="https://www.cnet.com/tech/mobile/apple-smart-glasses-development-bumps-reported-delay/">CNET</source>
     </item>
     <item>
-      <title>Competitors Target Apple's MacBook Neo</title>
-      <description>Dell and Microsoft are launching laptops aimed at competing with Apple's MacBook Neo, but not all are learning from Apple's strategies.</description>
-      <link>https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/</guid>
-      <pubDate>2026-05-31T23:00:00Z</pubDate>
+      <title>Strava Targets Scrapers Ahead of IPO</title>
+      <description>Strava will implement a monthly fee for developers accessing its API, aiming to combat data scraping. This move comes as the company prepares for its IPO.</description>
+      <link>https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/</guid>
+      <pubDate>2026-06-01T12:00:00Z</pubDate>
       <category>Business</category>
-      <source url="https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/">Wired</source>
+      <source url="https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/">TechCrunch</source>
     </item>
     <item>
-      <title>Apple's Smart Glasses Delayed Until Late 2027</title>
-      <description>Apple's highly anticipated smart glasses are now expected to launch in late 2027, despite being a top priority for the company.</description>
-      <link>https://www.cnet.com/tech/apples-smart-glasses-reportedly-delayed-until-late-2027/</link>
-      <guid isPermaLink="true">https://www.cnet.com/tech/apples-smart-glasses-reportedly-delayed-until-late-2027/</guid>
-      <pubDate>2026-05-31T21:45:00Z</pubDate>
-      <category>Business</category>
-      <source url="https://www.cnet.com/tech/apples-smart-glasses-reportedly-delayed-until-late-2027/">CNET</source>
+      <title>New $599 MacBook Neo Rival Launched</title>
+      <description>A new competitor to the MacBook Neo has launched at $599, surprising Windows PC makers. This move intensifies competition in the laptop market.</description>
+      <link>https://9to5mac.com/2026/06/01/macbook-neo-rival-launched-at-599-nvidia-pc-chip-takes-on-apple-silicon/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/01/macbook-neo-rival-launched-at-599-nvidia-pc-chip-takes-on-apple-silicon/</guid>
+      <pubDate>2026-06-01T12:00:00Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://9to5mac.com/2026/06/01/macbook-neo-rival-launched-at-599-nvidia-pc-chip-takes-on-apple-silicon/">9to5Mac</source>
     </item>
     <item>
-      <title>Capcom's Street Fighter 6 Update Schedule Changes</title>
-      <description>Capcom's update schedule for Street Fighter 6 is shifting, with uncertainty surrounding the release of the Season 4 balance patch.</description>
-      <link>https://www.eventhubs.com/news/2026/may/31/sf6-season-4-balance-patch/</link>
-      <guid isPermaLink="true">https://www.eventhubs.com/news/2026/may/31/sf6-season-4-balance-patch/</guid>
-      <pubDate>2026-05-31T20:39:20Z</pubDate>
+      <title>June's Miniature of the Month Revealed</title>
+      <description>Warhammer Community reveals this month's collectible coin and miniature available in stores. Fans can grab these exclusive items now.</description>
+      <link>https://www.warhammer-community.com/articles/q17dwwtt/junes-miniature-of-the-month-and-collectible-coin-revealed</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/articles/q17dwwtt/junes-miniature-of-the-month-and-collectible-coin-revealed</guid>
+      <pubDate>2026-06-01T11:59:08Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.eventhubs.com/news/2026/may/31/sf6-season-4-balance-patch/">EventHubs</source>
+      <source url="https://www.warhammer-community.com/articles/q17dwwtt/junes-miniature-of-the-month-and-collectible-coin-revealed">Warhammer-community.com</source>
     </item>
     <item>
-      <title>Intel's Arc G3 Extreme Claims High Performance</title>
-      <description>Intel's Arc G3 Extreme handheld platform reportedly matches Ryzen Z2 Extreme performance while consuming half the power.</description>
-      <link>https://videocardz.com/newz/intel-claims-arc-g3-extreme-delivers-similar-performance-to-ryzen-z2-extreme-at-half-the-power</link>
-      <guid isPermaLink="true">https://videocardz.com/newz/intel-claims-arc-g3-extreme-delivers-similar-performance-to-ryzen-z2-extreme-at-half-the-power</guid>
-      <pubDate>2026-05-31T17:31:09Z</pubDate>
-      <category>Hardware</category>
-      <source url="https://videocardz.com/newz/intel-claims-arc-g3-extreme-delivers-similar-performance-to-ryzen-z2-extreme-at-half-the-power">Videocardz.com</source>
-    </item>
-    <item>
-      <title>AC Cobra GT Coupe Introduces Fixed Roof Design</title>
-      <description>AC Cars unveils the AC Cobra GT Coupe, marking the first fixed roof version of the classic car in its 125-year history.</description>
-      <link>https://www.thedrive.com/news/ac-cobra-gt-coupe-puts-a-fixed-roof-on-the-classic-for-the-first-time</link>
-      <guid isPermaLink="true">https://www.thedrive.com/news/ac-cobra-gt-coupe-puts-a-fixed-roof-on-the-classic-for-the-first-time</guid>
-      <pubDate>2026-05-31T15:00:00Z</pubDate>
-      <category>Business</category>
-      <source url="https://www.thedrive.com/news/ac-cobra-gt-coupe-puts-a-fixed-roof-on-the-classic-for-the-first-time">The Drive</source>
-    </item>
-    <item>
-      <title>Android Auto 17.0 Now Available for All Users</title>
-      <description>Android Auto 17.0 is rolling out globally, with a method available to skip the wait for the update.</description>
-      <link>https://www.autoevolution.com/news/android-auto-170-now-available-for-all-android-users-270796.html</link>
-      <guid isPermaLink="true">https://www.autoevolution.com/news/android-auto-170-now-available-for-all-android-users-270796.html</guid>
-      <pubDate>2026-05-31T13:45:06Z</pubDate>
+      <title>Microsoft Addresses MFA Outage Issues</title>
+      <description>Microsoft is resolving an outage affecting multi-factor authentication (MFA) setup and My Sign-Ins platform access. Users are experiencing disruptions.</description>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/</link>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/</guid>
+      <pubDate>2026-06-01T11:40:16Z</pubDate>
       <category>Software</category>
-      <source url="https://www.autoevolution.com/news/android-auto-170-now-available-for-all-android-users-270796.html">autoevolution</source>
+      <source url="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/">BleepingComputer</source>
     </item>
     <item>
-      <title>ASUS Teases 540Hz OLED Esports Monitor</title>
-      <description>ASUS reveals a teaser for the ROG Strix OLED XG259QWPG Ace esports monitor, boasting a 540Hz refresh rate ahead of Computex 2026.</description>
-      <link>https://videocardz.com/newz/asus-teases-24-5-inch-rog-strix-oled-xg259qwpg-ace-esports-monitor-with-540hz-refresh-rate</link>
-      <guid isPermaLink="true">https://videocardz.com/newz/asus-teases-24-5-inch-rog-strix-oled-xg259qwpg-ace-esports-monitor-with-540hz-refresh-rate</guid>
-      <pubDate>2026-05-31T07:16:03Z</pubDate>
+      <title>Leaked Image Reveals iPhone Ultra Color</title>
+      <description>A leaked image suggests the upcoming foldable iPhone Ultra will feature two color options. Anticipation builds for its launch later this year.</description>
+      <link>https://www.macrumors.com/2026/06/01/first-confirmed-iphone-ultra-color-leaked/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/06/01/first-confirmed-iphone-ultra-color-leaked/</guid>
+      <pubDate>2026-06-01T11:39:16Z</pubDate>
       <category>Hardware</category>
-      <source url="https://videocardz.com/newz/asus-teases-24-5-inch-rog-strix-oled-xg259qwpg-ace-esports-monitor-with-540hz-refresh-rate">Videocardz.com</source>
+      <source url="https://www.macrumors.com/2026/06/01/first-confirmed-iphone-ultra-color-leaked/">MacRumors</source>
     </item>
     <item>
-      <title>Apple Cancels Cosmic Orange for iPhone 18 Pro</title>
-      <description>Apple's iPhone 18 Pro will feature higher specs but will not include the Cosmic Orange color option, focusing on performance and aesthetics.</description>
-      <link>https://www.forbes.com/sites/ewanspence/2026/05/30/apple-iphone-18-pro-dark-cherry-color-strategy/</link>
-      <guid isPermaLink="true">https://www.forbes.com/sites/ewanspence/2026/05/30/apple-iphone-18-pro-dark-cherry-color-strategy/</guid>
-      <pubDate>2026-05-30T20:21:20Z</pubDate>
-      <category>Business</category>
-      <source url="https://www.forbes.com/sites/ewanspence/2026/05/30/apple-iphone-18-pro-dark-cherry-color-strategy/">Forbes</source>
+      <title>The Outer Worlds Upgrade Issues Persist</title>
+      <description>Players face ongoing issues with the free upgrade to The Outer Worlds: Spacer's Choice Edition. Problems continue to frustrate users.</description>
+      <link>https://www.eurogamer.net/the-outer-worlds-free-upgrade-issues</link>
+      <guid isPermaLink="true">https://www.eurogamer.net/the-outer-worlds-free-upgrade-issues</guid>
+      <pubDate>2026-06-01T11:08:08Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.eurogamer.net/the-outer-worlds-free-upgrade-issues">Eurogamer</source>
+    </item>
+    <item>
+      <title>ASUS Launches 540Hz OLED Esports Monitor</title>
+      <description>ASUS unveils its first 24.5-inch OLED esports monitor with a 540Hz refresh rate. This new addition enhances gaming performance.</description>
+      <link>https://videocardz.com/newz/asus-first-24-5-inch-540hz-oled-monitor-has-been-announced</link>
+      <guid isPermaLink="true">https://videocardz.com/newz/asus-first-24-5-inch-540hz-oled-monitor-has-been-announced</guid>
+      <pubDate>2026-06-01T11:01:10Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://videocardz.com/newz/asus-first-24-5-inch-540hz-oled-monitor-has-been-announced">Videocardz.com</source>
+    </item>
+    <item>
+      <title>Witcher 3 Expansion Sword Mystery Unveiled</title>
+      <description>The identity of the sword in The Witcher 3's expansion artwork has sparked theories among fans. Its significance remains a topic of discussion.</description>
+      <link>https://www.eurogamer.net/witcher-3-expansion-songs-of-past-sword</link>
+      <guid isPermaLink="true">https://www.eurogamer.net/witcher-3-expansion-songs-of-past-sword</guid>
+      <pubDate>2026-06-01T10:54:45Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.eurogamer.net/witcher-3-expansion-songs-of-past-sword">Eurogamer</source>
+    </item>
+    <item>
+      <title>SEGA Leaker Reveals New Game Information</title>
+      <description>A leaker has shared new details about upcoming SEGA and Atlus games, including Sonic and Persona franchises. Excitement builds for future releases.</description>
+      <link>https://mynintendonews.com/2026/06/01/jet-set-radio-leaker-has-leaked-sonic-ace-attorney-persona-crazy-taxi-information/</link>
+      <guid isPermaLink="true">https://mynintendonews.com/2026/06/01/jet-set-radio-leaker-has-leaked-sonic-ace-attorney-persona-crazy-taxi-information/</guid>
+      <pubDate>2026-06-01T10:44:21Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://mynintendonews.com/2026/06/01/jet-set-radio-leaker-has-leaked-sonic-ace-attorney-persona-crazy-taxi-information/">My Nintendo News</source>
+    </item>
+    <item>
+      <title>Xbox Fans React to Showcase Logo Controversy</title>
+      <description>Fans express distrust over Microsoft's logo transparency in the recent Xbox Showcase. Concerns arise about the company's commitment to Xbox's success.</description>
+      <link>https://www.windowscentral.com/gaming/xbox/xbox-fan-backlash-to-playstation-logos-in-the-showcase-isnt-about-gatekeeping-its-about-distrust</link>
+      <guid isPermaLink="true">https://www.windowscentral.com/gaming/xbox/xbox-fan-backlash-to-playstation-logos-in-the-showcase-isnt-about-gatekeeping-its-about-distrust</guid>
+      <pubDate>2026-06-01T10:00:00Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.windowscentral.com/gaming/xbox/xbox-fan-backlash-to-playstation-logos-in-the-showcase-isnt-about-gatekeeping-its-about-distrust">Windows Central</source>
+    </item>
+    <item>
+      <title>OpenAI Codex Tokens Stolen in Attack</title>
+      <description>Authentication tokens for OpenAI Codex were stolen via a supply chain attack, affecting users since version 0.1.82. This breach allows persistent access.</description>
+      <link>https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html</link>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html</guid>
+      <pubDate>2026-06-01T09:31:00Z</pubDate>
+      <category>Security</category>
+      <source url="https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html">Internet</source>
+    </item>
+    <item>
+      <title>GIGABYTE Launches New X870E Motherboard</title>
+      <description>GIGABYTE introduces the X870E AORUS INFINITY NEXT motherboard, expanding its AORUS INFINITY series. This new model targets high-performance users.</description>
+      <link>https://videocardz.com/newz/gigabyte-unveils-x870e-aorus-infinity-next-motherboard</link>
+      <guid isPermaLink="true">https://videocardz.com/newz/gigabyte-unveils-x870e-aorus-infinity-next-motherboard</guid>
+      <pubDate>2026-06-01T08:41:10Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://videocardz.com/newz/gigabyte-unveils-x870e-aorus-infinity-next-motherboard">Videocardz.com</source>
+    </item>
+    <item>
+      <title>Tips to Manage Copilot in Windows 11</title>
+      <description>Users can reduce or eliminate Copilot's presence in Windows 11 with practical options. Guidance is provided for those seeking alternatives.</description>
+      <link>https://wtop.com/tech/2026/06/data-doctors-copilot-wont-leave-heres-what-to-do/</link>
+      <guid isPermaLink="true">https://wtop.com/tech/2026/06/data-doctors-copilot-wont-leave-heres-what-to-do/</guid>
+      <pubDate>2026-06-01T08:04:33Z</pubDate>
+      <category>Software</category>
+      <source url="https://wtop.com/tech/2026/06/data-doctors-copilot-wont-leave-heres-what-to-do/">WTOP</source>
     </item>
   </channel>
 </rss>
