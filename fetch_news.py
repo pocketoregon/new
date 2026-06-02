@@ -173,6 +173,43 @@ def update_feed(archive, feed_path="feed.json"):
         json.dump(feed, f, indent=2, ensure_ascii=False)
     print(f"   feed.json updated with {len(articles)} articles from latest batch.")
 
+def generate_rss(articles, feed_path="feed.xml"):
+    """Generates a valid RSS 2.0 feed from the latest articles."""
+    now_rfc = datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S +0000')
+    items = ""
+    for a in articles:
+        title = (a.get("title") or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+        desc = (a.get("description") or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+        url = a.get("url") or ""
+        pub = a.get("published_at") or now_rfc
+        cat = a.get("category") or "Technology"
+        source = (a.get("source") or "").replace("&", "&amp;")
+        items += f"""
+    <item>
+      <title>{title}</title>
+      <description>{desc}</description>
+      <link>{url}</link>
+      <guid isPermaLink="true">{url}</guid>
+      <pubDate>{pub}</pubDate>
+      <category>{cat}</category>
+      <source url="{url}">{source}</source>
+    </item>"""
+    rss = f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI·Brief — Daily Tech Intelligence</title>
+    <link>https://pocketoregon.github.io/new</link>
+    <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
+    <language>en-us</language>
+    <lastBuildDate>{now_rfc}</lastBuildDate>
+    <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
+    {items}
+  </channel>
+</rss>"""
+    with open(feed_path, "w", encoding="utf-8") as f:
+        f.write(rss)
+    print(f"   feed.xml generated with {len(articles)} articles.")
+
 def fetch_news():
     news_api_key = os.environ.get("NEWS_API_KEY")
     github_token = os.environ.get("GITHUB_TOKEN")
@@ -236,6 +273,9 @@ def fetch_news():
 
     print("\n[Step 6] Updating feed.json from latest archive batch...")
     update_feed(archive)
+    
+    print("\n[Step 7] Generating RSS feed.xml...")
+    generate_rss(news_data.get("articles", []))
 
     print(f"\n{'='*60}\nBackend Operations Complete!\n{'='*60}\n")
 
