@@ -319,6 +319,7 @@
         Now
       </button>
       <button class="tab-btn" onclick="switchTab('feed', this)" id="tab-feed">Feed</button>
+      <button class="tab-btn" onclick="switchTab('search', this)" id="tab-search">Search</button>
       <button class="tab-btn" onclick="switchTab('all', this)" id="tab-all">All</button>
     </div>
   </div>
@@ -383,6 +384,13 @@
     </div>
 
     <div id="feed-content"></div>
+  </div>
+
+  <div id="section-search" class="tab-section">
+    <div style="margin-bottom:24px;">
+      <input id="search-input" type="text" placeholder="Search articles..." oninput="runSearch(this.value)" style="width:100%; background:#111; border:1px solid #2a2a2a; border-radius:6px; padding:12px 16px; color:#e8e8e8; font-size:0.85rem; outline:none; transition:border-color 0.2s;" onfocus="this.style.borderColor='#e8384f'" onblur="this.style.borderColor='#2a2a2a'" />
+    </div>
+    <div id="search-results" style="color:#555; font-size:0.85rem; text-align:center; padding:40px 0;">Type to search across all articles...</div>
   </div>
 
   <div id="section-all" class="tab-section">
@@ -823,6 +831,51 @@
     btn.classList.add('active');
     if (tab === 'feed') loadFeed();
     if (tab === 'all') loadAll();
+    if (tab === 'search') loadSearchPool();
+  }
+
+  let searchPool = [];
+
+  async function loadSearchPool() {
+    if (searchPool.length > 0) return;
+    try {
+      const res = await fetch('archive.json?t=' + Date.now());
+      const data = await res.json();
+      let seenIds = new Set();
+      for (const batch of data.batches || []) {
+        for (const article of batch.articles || []) {
+          if (article.id && !seenIds.has(article.id)) {
+            seenIds.add(article.id);
+            searchPool.push(article);
+          }
+        }
+      }
+    } catch(e) {
+      console.error('Search pool load failed:', e);
+    }
+  }
+
+  function runSearch(query) {
+    const sr = document.getElementById('search-results');
+    const q = query.trim().toLowerCase();
+    if (!q) {
+      sr.innerHTML = '<div style="color:#555; font-size:0.85rem; text-align:center; padding:40px 0;">Type to search across all articles...</div>';
+      return;
+    }
+    const results = searchPool.filter(a =>
+      (a.title || '').toLowerCase().includes(q) ||
+      (a.description || '').toLowerCase().includes(q) ||
+      (a.category || '').toLowerCase().includes(q) ||
+      (a.source || '').toLowerCase().includes(q)
+    );
+    if (results.length === 0) {
+      sr.innerHTML = `<div style="color:#444; font-size:0.85rem; text-align:center; padding:40px 0;">No results for "<strong style="color:#777">${query}</strong>"</div>`;
+      return;
+    }
+    sr.innerHTML = `
+      <div style="font-size:0.65rem; color:#555; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:16px;">${results.length} result${results.length !== 1 ? 's' : ''} for "${query}"</div>
+      ${results.map((a, i) => buildFeedCard(a, i + 1)).join('')}
+    `;
   }
 
   function toggleBatch(id) {
