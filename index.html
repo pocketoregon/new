@@ -293,6 +293,9 @@
     }
     .filter-btn:hover { color: #e8e8e8; border-color: #444; }
     .filter-btn.active { color: #fff; border-color: transparent; }
+    @media (max-width: 768px) {
+      .hero-grid { grid-template-columns: 1fr !important; }
+    }
   </style>
 </head>
 <body>
@@ -462,7 +465,7 @@
     return `
       <div style="border-radius:8px; overflow:hidden; border:1px solid #1e1e1e;">
         ${heroImg(a.image)}
-        <div style="background:#111; display:grid; grid-template-columns:1fr 1fr; gap:24px; padding:24px;">
+        <div class="hero-grid" style="background:#111; display:grid; grid-template-columns:1fr 1fr; gap:24px; padding:24px;">
           <div>
             <div style="display:flex; align-items:center; gap:8px; margin-bottom:12px;">
               ${catPill(a.category)}
