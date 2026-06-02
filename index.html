@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="h-full">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -11,15 +11,50 @@
   <style>
     * { box-sizing: border-box; }
 
-    body {
-      background: #0a0a0a;
-      color: #e8e8e8;
-      font-family: 'Inter', sans-serif;
-      min-height: 100vh;
+    :root {
+      --bg: #0a0a0a;
+      --bg2: #111;
+      --bg3: #1a1a1a;
+      --border: #1e1e1e;
+      --border2: #2a2a2a;
+      --text: #e8e8e8;
+      --text2: #aaa;
+      --text3: #777;
+      --text4: #555;
+      --text5: #444;
+      --text6: #333;
+      --num-color: #222;
     }
 
+    body.light {
+      --bg: #f5f5f5;
+      --bg2: #ffffff;
+      --bg3: #efefef;
+      --border: #e0e0e0;
+      --border2: #d0d0d0;
+      --text: #111111;
+      --text2: #333333;
+      --text3: #555555;
+      --text4: #777777;
+      --text5: #888888;
+      --text6: #aaaaaa;
+      --num-color: #ddd;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Inter', sans-serif;
+      min-height: 100vh;
+      transition: background 0.3s, color 0.3s;
+    }
+
+    /* Immediately handle serverless theme flickers */
+    html { background-color: #0a0a0a; }
+    html:has(body.light) { background-color: #f5f5f5; }
+
     ::-webkit-scrollbar { width: 4px; }
-    ::-webkit-scrollbar-track { background: #0a0a0a; }
+    ::-webkit-scrollbar-track { background: var(--bg); }
     ::-webkit-scrollbar-thumb { background: #333; border-radius: 2px; }
 
     .site-header {
@@ -29,6 +64,11 @@
       background: rgba(10,10,10,0.92);
       backdrop-filter: blur(12px);
       border-bottom: 1px solid #1e1e1e;
+    }
+    
+    body.light .site-header {
+      background: rgba(245,245,245,0.92);
+      border-bottom-color: var(--border);
     }
 
     .cat-pill {
@@ -68,7 +108,7 @@
     .article-row-placeholder {
       width: 220px;
       height: 150px;
-      background: #1a1a1a;
+      background: var(--bg2);
       border-radius: 6px;
       display: flex;
       align-items: center;
@@ -76,8 +116,8 @@
     }
 
     .grid-card {
-      background: #111;
-      border: 1px solid #1e1e1e;
+      background: var(--bg2);
+      border: 1px solid var(--border);
       border-radius: 8px;
       overflow: hidden;
       transition: border-color 0.2s, transform 0.2s;
@@ -87,6 +127,7 @@
       border-color: #333;
       transform: translateY(-2px);
     }
+    body.light .grid-card:hover { border-color: #bbb; }
 
     .grid-card-img {
       width: 100%;
@@ -98,7 +139,7 @@
     .grid-card-placeholder {
       width: 100%;
       height: 180px;
-      background: #1a1a1a;
+      background: var(--bg2);
       display: flex;
       align-items: center;
       justify-content: center;
@@ -109,7 +150,7 @@
       gap: 14px;
       align-items: start;
       padding: 16px 0;
-      border-bottom: 1px solid #1a1a1a;
+      border-bottom: 1px solid var(--border);
     }
 
     .mini-card:last-child { border-bottom: none; }
@@ -125,7 +166,7 @@
     .mini-card-placeholder {
       width: 72px;
       height: 60px;
-      background: #1a1a1a;
+      background: var(--bg2);
       border-radius: 4px;
       flex-shrink: 0;
       display: flex;
@@ -154,9 +195,9 @@
       font-weight: 600;
       letter-spacing: 0.15em;
       text-transform: uppercase;
-      color: #555;
+      color: var(--text4);
       padding-bottom: 12px;
-      border-bottom: 1px solid #1e1e1e;
+      border-bottom: 1px solid var(--border);
       margin-bottom: 0;
     }
 
@@ -164,13 +205,11 @@
       font-family: 'Playfair Display', serif;
       font-size: 2.5rem;
       font-weight: 900;
-      color: #222;
-      line-height: 1;
-      user-select: none;
+      color: var(--num-color);
     }
 
     .skel {
-      background: linear-gradient(90deg, #1a1a1a 25%, #222 50%, #1a1a1a 75%);
+      background: linear-gradient(90deg, var(--bg2) 25%, var(--bg3) 50%, var(--bg2) 75%);
       background-size: 200% 100%;
       animation: shimmer 1.4s infinite;
       border-radius: 4px;
@@ -210,7 +249,7 @@
     .tab-btn {
       background: none;
       border: none;
-      color: #555;
+      color: var(--text4);
       font-size: 0.75rem;
       font-weight: 600;
       letter-spacing: 0.08em;
@@ -220,8 +259,8 @@
       border-bottom: 2px solid transparent;
       transition: all 0.2s;
     }
-    .tab-btn:hover { color: #e8e8e8; }
-    .tab-btn.active { color: #e8e8e8; border-bottom-color: #e8384f; }
+    .tab-btn:hover { color: var(--text); }
+    .tab-btn.active { color: var(--text); border-bottom-color: #e8384f; }
 
     .tab-section { display: none; }
     .tab-section.active { display: block; }
@@ -240,7 +279,7 @@
     }
 
     .batch-folder {
-      border: 1px solid #1e1e1e;
+      border: 1px solid var(--border);
       border-radius: 8px;
       margin-bottom: 12px;
       overflow: hidden;
@@ -251,36 +290,33 @@
       align-items: center;
       justify-content: space-between;
       padding: 14px 16px;
-      background: #111;
+      background: var(--bg2);
       cursor: pointer;
       transition: background 0.2s;
     }
-
-    .batch-header:hover { background: #161616; }
+    .batch-header:hover { background: var(--bg3); }
 
     .batch-articles {
       display: none;
-      border-top: 1px solid #1e1e1e;
+      border-top: 1px solid var(--border);
     }
-
     .batch-articles.open { display: block; }
 
     .batch-article-item {
       display: flex;
       gap: 12px;
       padding: 12px 16px;
-      border-bottom: 1px solid #1a1a1a;
+      border-bottom: 1px solid var(--border);
       align-items: start;
       transition: background 0.2s;
     }
-
     .batch-article-item:last-child { border-bottom: none; }
-    .batch-article-item:hover { background: #0d0d0d; }
+    .batch-article-item:hover { background: var(--bg2); }
 
     .filter-btn {
       background: none;
-      border: 1px solid #2a2a2a;
-      color: #555;
+      border: 1px solid var(--border2);
+      color: var(--text4);
       font-size: 0.65rem;
       font-weight: 600;
       letter-spacing: 0.08em;
@@ -291,12 +327,20 @@
       transition: all 0.2s;
       white-space: nowrap;
     }
-    .filter-btn:hover { color: #e8e8e8; border-color: #444; }
+    .filter-btn:hover { color: var(--text); border-color: #444; }
     .filter-btn.active { color: #fff; border-color: transparent; }
+    
     @media (max-width: 768px) {
       .hero-grid { grid-template-columns: 1fr !important; }
     }
   </style>
+  <script>
+    // Inline script blocking layout execution to completely remove light mode flash bangs
+    if (localStorage.getItem('theme') === 'light') {
+      document.documentElement.classList.add('light');
+      document.write('<style>body{background:#f5f5f5;color:#111;}</style>');
+    }
+  </script>
 </head>
 <body>
 
@@ -306,14 +350,17 @@
   <div class="max-w-5xl mx-auto px-5">
     <div class="flex items-center justify-between py-4">
       <div>
-        <div style="font-size:0.6rem; letter-spacing:0.15em; text-transform:uppercase; color:#555; margin-bottom:2px;">Daily Intelligence</div>
-        <div style="font-family:'Playfair Display',serif; font-size:1.4rem; font-weight:900; letter-spacing:-0.02em;">
+        <div style="font-size:0.6rem; letter-spacing:0.15em; text-transform:uppercase; color:var(--text4); margin-bottom:2px;">Daily Intelligence</div>
+        <div style="font-family:'Playfair Display',serif; font-size:1.4rem; font-weight:900; letter-spacing:-0.02em; color:var(--text)">
           AI<span style="color:#e8384f;">·</span>Brief
         </div>
       </div>
-      <div id="live-clock" style="font-size:0.7rem; color:#555; letter-spacing:0.05em;"></div>
+      <div style="display:flex; align-items:center; gap:16px;">
+        <button onclick="toggleTheme()" id="theme-btn" style="background:none; border:1px solid var(--border2); border-radius:20px; padding:5px 12px; cursor:pointer; font-size:0.65rem; font-weight:600; letter-spacing:0.08em; text-transform:uppercase; color:var(--text4); transition:all 0.2s;">☀ Light</button>
+        <div id="live-clock" style="font-size:0.7rem; color:var(--text4); letter-spacing:0.05em;"></div>
+      </div>
     </div>
-    <div style="display:flex; gap:0; border-top:1px solid #1a1a1a;">
+    <div style="display:flex; gap:0; border-top:1px solid var(--border);">
       <button class="tab-btn active" onclick="switchTab('now', this)" id="tab-now">
         <span style="display:inline-block; width:6px; height:6px; border-radius:50%; background:#e8384f; margin-right:6px; vertical-align:middle;"></span>
         Now
@@ -331,7 +378,7 @@
     <div id="loading">
       <div style="border-radius:8px; overflow:hidden; margin-bottom:24px;">
         <div class="skel" style="height:420px; border-radius:0;"></div>
-        <div style="padding:20px; background:#111; display:grid; grid-template-columns:1fr 1fr; gap:20px;">
+        <div style="padding:20px; background:var(--bg2); display:grid; grid-template-columns:1fr 1fr; gap:20px;">
           <div>
             <div class="skel" style="height:12px; width:60px; margin-bottom:12px;"></div>
             <div class="skel" style="height:28px; width:100%; margin-bottom:8px;"></div>
@@ -348,8 +395,8 @@
 
     <div id="error" style="display:none; text-align:center; padding:80px 0;">
       <div style="font-family:'Playfair Display',serif; font-size:5rem; font-weight:900; color:#e8384f; line-height:1;">404</div>
-      <div style="font-size:1rem; color:#555; margin-top:12px;">Today's briefing hasn't loaded yet.</div>
-      <div style="font-size:0.8rem; color:#444; margin-top:8px;">Run your GitHub Actions configuration workflow to generate modern components.</div>
+      <div style="font-size:1rem; color:var(--text4); margin-top:12px;">Today's briefing hasn't loaded yet.</div>
+      <div style="font-size:0.8rem; color:var(--text5); margin-top:8px;">Run your GitHub Actions configuration workflow to generate modern components.</div>
     </div>
 
     <div id="content" style="display:none;">
@@ -364,14 +411,13 @@
   </div>
 
   <div id="section-feed" class="tab-section">
-    <div id="feed-loading" style="text-align:center; padding:40px 0; color:#555; font-size:0.85rem;">Loading dynamic feed shuffle...</div>
+    <div id="feed-loading" style="text-align:center; padding:40px 0; color:var(--text4); font-size:0.85rem;">Loading dynamic feed shuffle...</div>
 
-    <!-- Category Filter Bar -->
-    <div id="feed-filters" style="display:none; padding-bottom:20px; border-bottom:1px solid #1e1e1e; margin-bottom:20px;">
+    <div id="feed-filters" style="display:none; padding-bottom:20px; border-bottom:1px solid var(--border); margin-bottom:20px;">
       <div style="display:flex; flex-wrap:wrap; gap:8px; align-items:center;">
-        <span style="font-size:0.6rem; font-weight:600; letter-spacing:0.12em; text-transform:uppercase; color:#444; margin-right:4px;">Filter:</span>
-        <button class="filter-btn active" onclick="setFilter('All', this)" style="color:#e8e8e8; border-color:#444;">All</button>
-        <button class="filter-btn" onclick="setFilter('AI', this)" style="">AI</button>
+        <span style="font-size:0.6rem; font-weight:600; letter-spacing:0.12em; text-transform:uppercase; color:var(--text5); margin-right:4px;">Filter:</span>
+        <button class="filter-btn active" onclick="setFilter('All', this)">All</button>
+        <button class="filter-btn" onclick="setFilter('AI', this)">AI</button>
         <button class="filter-btn" onclick="setFilter('Hardware', this)">Hardware</button>
         <button class="filter-btn" onclick="setFilter('Software', this)">Software</button>
         <button class="filter-btn" onclick="setFilter('Security', this)">Security</button>
@@ -388,28 +434,28 @@
 
   <div id="section-search" class="tab-section">
     <div style="margin-bottom:24px;">
-      <input id="search-input" type="text" placeholder="Search articles..." oninput="runSearch(this.value)" style="width:100%; background:#111; border:1px solid #2a2a2a; border-radius:6px; padding:12px 16px; color:#e8e8e8; font-size:0.85rem; outline:none; transition:border-color 0.2s;" onfocus="this.style.borderColor='#e8384f'" onblur="this.style.borderColor='#2a2a2a'" />
+      <input id="search-input" type="text" placeholder="Search articles..." oninput="runSearch(this.value)" style="width:100%; background:var(--bg2); border:1px solid var(--border2); border-radius:6px; padding:12px 16px; color:var(--text); font-size:0.85rem; outline:none; transition:border-color 0.2s;" onfocus="this.style.borderColor='#e8384f'" onblur="this.style.borderColor='var(--border2)'" />
     </div>
-    <div id="search-results" style="color:#555; font-size:0.85rem; text-align:center; padding:40px 0;">Type to search across all articles...</div>
+    <div id="search-results" style="color:var(--text4); font-size:0.85rem; text-align:center; padding:40px 0;">Type to search across all articles...</div>
   </div>
 
   <div id="section-all" class="tab-section">
-    <div id="all-loading" style="text-align:center; padding:40px 0; color:#555; font-size:0.85rem;">Loading archive...</div>
+    <div id="all-loading" style="text-align:center; padding:40px 0; color:var(--text4); font-size:0.85rem;">Loading archive...</div>
     <div id="all-content"></div>
   </div>
 
 </main>
 
-<footer style="border-top:1px solid #1a1a1a; margin-top:40px; padding:24px 0;">
+<footer style="border-top:1px solid var(--border); margin-top:40px; padding:24px 0;">
   <div class="max-w-5xl mx-auto px-5 flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
     <div>
-      <div style="font-family:'Playfair Display',serif; font-size:1rem; font-weight:900; margin-bottom:4px;">
+      <div style="font-family:'Playfair Display',serif; font-size:1rem; font-weight:900; margin-bottom:4px; color:var(--text)">
         AI<span style="color:#e8384f;">·</span>Brief
       </div>
-      <div style="font-size:0.7rem; color:#444;">Powered by AI Automation · Dynamic Refreshes.</div>
+      <div style="font-size:0.7rem; color:var(--text5);">Powered by AI Automation · Dynamic Refreshes.</div>
     </div>
     <div>
-      <span id="footer-updated" style="font-size:0.7rem; color:#333;"></span>
+      <span id="footer-updated" style="font-size:0.7rem; color:var(--text6);"></span>
     </div>
   </div>
 </footer>
@@ -471,24 +517,24 @@
   function buildHero(a) {
     const color = catColors[a.category] || '#6b7280';
     return `
-      <div style="border-radius:8px; overflow:hidden; border:1px solid #1e1e1e;">
+      <div style="border-radius:8px; overflow:hidden; border:1px solid var(--border);">
         ${heroImg(a.image)}
-        <div class="hero-grid" style="background:#111; display:grid; grid-template-columns:1fr 1fr; gap:24px; padding:24px;">
+        <div class="hero-grid" style="background:var(--bg2); display:grid; grid-template-columns:1fr 1fr; gap:24px; padding:24px;">
           <div>
             <div style="display:flex; align-items:center; gap:8px; margin-bottom:12px;">
               ${catPill(a.category)}
-              ${a.source ? `<span style="font-size:0.7rem; color:#555;">${a.source}</span>` : ''}
+              ${a.source ? `<span style="font-size:0.7rem; color:var(--text4);">${a.source}</span>` : ''}
             </div>
-            <h1 style="font-family:'Playfair Display',serif; font-size:1.7rem; font-weight:900; line-height:1.2; margin-bottom:12px; color:#f0f0f0;">${a.title}</h1>
-            <p style="font-size:0.82rem; color:#888; line-height:1.6; margin-bottom:16px;">${a.description || a.summary || ''}</p>
-            ${a.impact ? `<div style="border-left:2px solid ${color}; padding-left:12px; margin-bottom:16px;"><div style="font-size:0.6rem; font-weight:600; letter-spacing:0.1em; text-transform:uppercase; color:${color}; margin-bottom:4px;">Why it matters</div><div style="font-size:0.78rem; color:#aaa; font-style:italic;">${a.impact}</div></div>` : ''}
+            <h1 style="font-family:'Playfair Display',serif; font-size:1.7rem; font-weight:900; line-height:1.2; margin-bottom:12px; color:var(--text);">${a.title}</h1>
+            <p style="font-size:0.82rem; color:var(--text2); line-height:1.6; margin-bottom:16px;">${a.description || a.summary || ''}</p>
+            ${a.impact ? `<div style="border-left:2px solid ${color}; padding-left:12px; margin-bottom:16px;"><div style="font-size:0.6rem; font-weight:600; letter-spacing:0.1em; text-transform:uppercase; color:${color}; margin-bottom:4px;">Why it matters</div><div style="font-size:0.78rem; color:var(--text2); font-style:italic;">${a.impact}</div></div>` : ''}
             ${readBtn(a.url, 'Read Full Article')}
           </div>
           <div>
             ${a.key_points && a.key_points.length > 0 ? `
-              <div style="font-size:0.6rem; font-weight:600; letter-spacing:0.12em; text-transform:uppercase; color:#555; margin-bottom:12px; display:flex; align-items:center; gap:6px;">Key Points</div>
+              <div style="font-size:0.6rem; font-weight:600; letter-spacing:0.12em; text-transform:uppercase; color:var(--text4); margin-bottom:12px; display:flex; align-items:center; gap:6px;">Key Points</div>
               <ul style="list-style:none; padding:0; margin:0;">
-                ${a.key_points.map(pt => `<li style="display:flex; align-items:start; gap:8px; margin-bottom:10px;"><span style="width:5px; height:5px; border-radius:50%; background:${color}; flex-shrink:0; margin-top:6px; display:block;"></span><span style="font-size:0.78rem; color:#aaa; line-height:1.5;">${pt}</span></li>`).join('')}
+                ${a.key_points.map(pt => `<li style="display:flex; align-items:start; gap:8px; margin-bottom:10px;"><span style="width:5px; height:5px; border-radius:50%; background:${color}; flex-shrink:0; margin-top:6px; display:block;"></span><span style="font-size:0.78rem; color:var(--text2); line-height:1.5;">${pt}</span></li>`).join('')}
               </ul>` : ''}
           </div>
         </div>
@@ -497,16 +543,16 @@
 
   function buildRow(a, num) {
     return `
-      <div style="display:grid; grid-template-columns:40px 220px 1fr; gap:16px; align-items:start; padding:24px 0; border-bottom:1px solid #1e1e1e;">
+      <div style="display:grid; grid-template-columns:40px 220px 1fr; gap:16px; align-items:start; padding:24px 0; border-bottom:1px solid var(--border);">
         <div><span class="art-num">${String(num).padStart(2,'0')}</span></div>
         <div style="width:220px; height:150px; overflow:hidden; border-radius:6px; flex-shrink:0;">${rowImg(a.image)}</div>
         <div>
           <div style="display:flex; align-items:center; gap:8px; margin-bottom:8px;">
             ${catPill(a.category)}
-            ${a.source ? `<span style="font-size:0.7rem; color:#555;">${a.source}</span>` : ''}
+            ${a.source ? `<span style="font-size:0.7rem; color:var(--text4);">${a.source}</span>` : ''}
           </div>
-          <h3 style="font-family:'Playfair Display',serif; font-size:1.1rem; font-weight:700; line-height:1.3; margin-bottom:8px; color:#f0f0f0;">${a.title}</h3>
-          <p style="font-size:0.78rem; color:#777; line-height:1.6; margin-bottom:10px;">${a.description || a.summary || ''}</p>
+          <h3 style="font-family:'Playfair Display',serif; font-size:1.1rem; font-weight:700; line-height:1.3; margin-bottom:8px; color:var(--text);">${a.title}</h3>
+          <p style="font-size:0.78rem; color:var(--text3); line-height:1.6; margin-bottom:10px;">${a.description || a.summary || ''}</p>
           ${readBtn(a.url, 'Read Full Article')}
         </div>
       </div>`;
@@ -516,16 +562,16 @@
     const color = catColors[a.category] || '#6b7280';
     const bg = catBg[a.category] || 'rgba(107,114,128,0.15)';
     return `
-      <div style="display:grid; grid-template-columns:40px 180px 1fr; gap:16px; align-items:start; padding:20px 0; border-bottom:1px solid #1e1e1e;">
+      <div style="display:grid; grid-template-columns:40px 180px 1fr; gap:16px; align-items:start; padding:20px 0; border-bottom:1px solid var(--border);">
         <div><span class="art-num">${String(num).padStart(2,'0')}</span></div>
         <div style="width:180px; height:130px; overflow:hidden; border-radius:6px; flex-shrink:0;">${rowImg(a.image)}</div>
         <div>
           <div style="display:flex; align-items:center; gap:6px; margin-bottom:8px; flex-wrap:wrap;">
             <span class="cat-pill" style="background:${bg}; color:${color};">${a.category || 'Tech'}</span>
-            ${a.source ? `<span style="font-size:0.7rem; color:#555;">${a.source}</span>` : ''}
+            ${a.source ? `<span style="font-size:0.7rem; color:var(--text4);">${a.source}</span>` : ''}
           </div>
-          <h3 style="font-family:'Playfair Display',serif; font-size:1rem; font-weight:700; line-height:1.3; margin-bottom:6px; color:#f0f0f0;">${a.title}</h3>
-          <p style="font-size:0.75rem; color:#777; line-height:1.5; margin-bottom:8px;">${a.description || a.summary || ''}</p>
+          <h3 style="font-family:'Playfair Display',serif; font-size:1rem; font-weight:700; line-height:1.3; margin-bottom:6px; color:var(--text);">${a.title}</h3>
+          <p style="font-size:0.75rem; color:var(--text3); line-height:1.5; margin-bottom:8px;">${a.description || a.summary || ''}</p>
           ${readBtn(a.url, 'Read Article')}
         </div>
       </div>`;
@@ -537,17 +583,17 @@
       <div class="batch-folder">
         <div class="batch-header" onclick="toggleBatch('batch-${index}')">
           <div style="display:flex; align-items:center; gap:10px;">
-            <svg id="arrow-${index}" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#555" stroke-width="2.5" style="transition:transform 0.2s; transform:${isFirst ? 'rotate(90deg)' : 'rotate(0deg)'}"><polyline points="9 18 15 12 9 6"/></svg>
-            <span style="font-size:0.75rem; font-weight:600; color:#aaa;">${batch.label || batch.fetched_at}</span>
+            <svg id="arrow-${index}" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="var(--text4)" stroke-width="2.5" style="transition:transform 0.2s; transform:${isFirst ? 'rotate(90deg)' : 'rotate(0deg)'}"><polyline points="9 18 15 12 9 6"/></svg>
+            <span style="font-size:0.75rem; font-weight:600; color:var(--text2);">${batch.label || batch.fetched_at}</span>
           </div>
-          <span style="font-size:0.65rem; color:#444;">${batch.articles ? batch.articles.length : 0} articles</span>
+          <span style="font-size:0.65rem; color:var(--text4);">${batch.articles ? batch.articles.length : 0} articles</span>
         </div>
         <div class="batch-articles ${isFirst ? 'open' : ''}" id="batch-${index}">
           ${(batch.articles || []).map(a => `
             <div class="batch-article-item">
               <div style="width:64px; height:50px; overflow:hidden; border-radius:4px; flex-shrink:0;">${miniImg(a.image)}</div>
               <div style="flex:1; min-width:0;">
-                <div style="font-size:0.8rem; font-weight:600; color:#ddd; line-height:1.3; margin-bottom:4px;">${a.title}</div>
+                <div style="font-size:0.8rem; font-weight:600; color:var(--text); line-height:1.3; margin-bottom:4px;">${a.title}</div>
                 ${readBtn(a.url, 'Read')}
               </div>
             </div>
@@ -596,10 +642,10 @@
                 <div style="padding: 16px;">
                   <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
                     ${catPill(a.category)}
-                    <span style="font-size: 0.65rem; color: #555;">${a.source || 'Stream'}</span>
+                    <span style="font-size: 0.65rem; color: var(--text4);">${a.source || 'Stream'}</span>
                   </div>
-                  <h4 style="font-family: 'Playfair Display', serif; font-size: 1rem; font-weight: 700; line-height: 1.3; margin-bottom: 8px; color: #f0f0f0;">${a.title}</h4>
-                  <p style="font-size: 0.75rem; color: #777; line-height: 1.5; margin-bottom: 12px; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;">${a.description || ''}</p>
+                  <h4 style="font-family: 'Playfair Display', serif; font-size: 1rem; font-weight: 700; line-height: 1.3; margin-bottom: 8px; color: var(--text);">${a.title}</h4>
+                  <p style="font-size: 0.75rem; color: var(--text3); line-height: 1.5; margin-bottom: 12px; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;">${a.description || ''}</p>
                   ${readBtn(a.url, 'View Story')}
                 </div>
               </div>
@@ -613,16 +659,16 @@
         const wireArticles = allArticles.slice(10);
         const wireHTML = `
           <div class="section-label" style="margin-top: 32px; margin-bottom: 16px;">The Wire</div>
-          <div style="background: #111; border: 1px solid #1e1e1e; border-radius: 8px; padding: 0 16px;">
+          <div style="background: var(--bg2); border: 1px solid var(--border); border-radius: 8px; padding: 0 16px;">
             ${wireArticles.map(a => `
               <div class="mini-card" style="align-items: center; justify-content: space-between;">
                 <div style="flex: 1; min-width: 0; padding-right: 16px;">
                   <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 4px;">
                     <span style="font-size: 0.55rem; font-weight: 700; color: ${catColors[a.category] || '#6b7280'}; text-transform: uppercase; letter-spacing: 0.05em;">${a.category}</span>
-                    <span style="color: #333; font-size: 0.6rem;">•</span>
-                    <span style="font-size: 0.65rem; color: #555;">${a.source || 'Tech Wire'}</span>
+                    <span style="color: var(--border); font-size: 0.6rem;">•</span>
+                    <span style="font-size: 0.65rem; color: var(--text4);">${a.source || 'Tech Wire'}</span>
                   </div>
-                  <div style="font-size: 0.85rem; font-weight: 500; color: #ccc; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;">${a.title}</div>
+                  <div style="font-size: 0.85rem; font-weight: 500; color: var(--text2); line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;">${a.title}</div>
                 </div>
                 <div style="flex-shrink: 0;">${readBtn(a.url, 'Read')}</div>
               </div>
@@ -670,7 +716,6 @@
 
       if (feedPool.length === 0) throw new Error('no distinct articles');
 
-      // Fisher-Yates shuffle
       for (let i = feedPool.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
         [feedPool[i], feedPool[j]] = [feedPool[j], feedPool[i]];
@@ -687,12 +732,12 @@
   function setFilter(category, btn) {
     document.querySelectorAll('.filter-btn').forEach(b => {
       b.classList.remove('active');
-      b.style.color = '#555';
-      b.style.borderColor = '#2a2a2a';
+      b.style.color = 'var(--text4)';
+      b.style.borderColor = 'var(--border2)';
       b.style.background = 'none';
     });
     btn.classList.add('active');
-    btn.style.color = '#fff';
+    btn.style.color = 'var(--text)';
     btn.style.borderColor = 'transparent';
     if (category !== 'All') {
       const c = catColors[category] || '#6b7280';
@@ -701,7 +746,7 @@
       btn.style.color = c;
       btn.style.borderColor = c;
     } else {
-      btn.style.background = '#1e1e1e';
+      btn.style.background = 'var(--bg3)';
       btn.style.borderColor = '#444';
     }
     applyFilter(category);
@@ -717,7 +762,7 @@
     if (old) old.remove();
 
     if (filteredPool.length === 0) {
-      fc.innerHTML = `<div style="text-align:center; padding:60px 0; color:#444; font-size:0.85rem;">No articles found in this category yet.</div>`;
+      fc.innerHTML = `<div style="text-align:center; padding:60px 0; color:var(--text4); font-size:0.85rem;">No articles found in this category yet.</div>`;
       return;
     }
     renderFeedPage();
@@ -737,12 +782,12 @@
       btn.id = 'load-more-btn';
       btn.style.cssText = 'text-align:center; padding:32px 0;';
       btn.innerHTML = `<button onclick="renderFeedPage()" style="
-          background:none; border:1px solid #333; color:#aaa;
+          background:none; border:1px solid var(--border2); color:var(--text2);
           font-size:0.75rem; font-weight:600; letter-spacing:0.08em;
           text-transform:uppercase; padding:10px 28px; border-radius:4px;
           cursor:pointer; transition:all 0.2s;"
           onmouseover="this.style.borderColor='#e8384f';this.style.color='#e8384f'"
-          onmouseout="this.style.borderColor='#333';this.style.color='#aaa'">
+          onmouseout="this.style.borderColor='var(--border2)';this.style.color='var(--text2)'">
           Load More — ${filteredPool.length - feedOffset} remaining
       </button>`;
       fc.parentNode.appendChild(btn);
@@ -761,15 +806,15 @@
       const archiveHTML = data.batches.map((batch, i) => buildBatchFolder(batch, i)).join('');
 
       ac.innerHTML = `
-        <div class="batch-folder" id="skeleton-countdown-batch" style="border: 1px dashed #333; background: #111; margin-bottom: 12px;">
-          <div class="batch-header" style="cursor: default; background: #111; pointer-events: none;">
+        <div class="batch-folder" id="skeleton-countdown-batch" style="border: 1px dashed var(--border2); background: var(--bg2); margin-bottom: 12px;">
+          <div class="batch-header" style="cursor: default; background: var(--bg2); pointer-events: none;">
             <div style="display:flex; align-items:center; gap:10px;">
               <span class="live-dot" style="display:inline-block; width:6px; height:6px; border-radius:50%; background:#e8384f;"></span>
-              <span style="font-size:0.75rem; font-weight:600; color:#888; letter-spacing: 0.05em;">
+              <span style="font-size:0.75rem; font-weight:600; color:var(--text2); letter-spacing: 0.05em;">
                 NEXT SCHEDULED BATCH IN: <span id="batch-timer" style="color:#e8384f; font-family:monospace; font-weight:bold; margin-left:4px;">00:00</span>
               </span>
             </div>
-            <span style="font-size:0.65rem; color:#444; font-style: italic;">Awaiting automated run...</span>
+            <span style="font-size:0.65rem; color:var(--text4); font-style: italic;">Awaiting automated run...</span>
           </div>
         </div>
         ${archiveHTML}
@@ -809,7 +854,7 @@
       const remainingMs = targetTime - Date.now();
       if (remainingMs <= 0) {
         timerDisplay.innerText = "RUNNING PIPELINE...";
-        timerDisplay.style.color = "#888";
+        timerDisplay.style.color = "var(--text4)";
         return;
       }
 
@@ -859,7 +904,7 @@
     const sr = document.getElementById('search-results');
     const q = query.trim().toLowerCase();
     if (!q) {
-      sr.innerHTML = '<div style="color:#555; font-size:0.85rem; text-align:center; padding:40px 0;">Type to search across all articles...</div>';
+      sr.innerHTML = '<div style="color:var(--text4); font-size:0.85rem; text-align:center; padding:40px 0;">Type to search across all articles...</div>';
       return;
     }
     const results = searchPool.filter(a =>
@@ -869,11 +914,11 @@
       (a.source || '').toLowerCase().includes(q)
     );
     if (results.length === 0) {
-      sr.innerHTML = `<div style="color:#444; font-size:0.85rem; text-align:center; padding:40px 0;">No results for "<strong style="color:#777">${query}</strong>"</div>`;
+      sr.innerHTML = `<div style="color:var(--text4); font-size:0.85rem; text-align:center; padding:40px 0;">No results for "<strong style="color:var(--text3)">${query}</strong>"</div>`;
       return;
     }
     sr.innerHTML = `
-      <div style="font-size:0.65rem; color:#555; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:16px;">${results.length} result${results.length !== 1 ? 's' : ''} for "${query}"</div>
+      <div style="font-size:0.65rem; color:var(--text4); letter-spacing:0.1em; text-transform:uppercase; margin-bottom:16px;">${results.length} result${results.length !== 1 ? 's' : ''} for "${query}"</div>
       ${results.map((a, i) => buildFeedCard(a, i + 1)).join('')}
     `;
   }
@@ -884,6 +929,25 @@
     const arrow = document.getElementById('arrow-' + index);
     el.classList.toggle('open');
     arrow.style.transform = el.classList.contains('open') ? 'rotate(90deg)' : 'rotate(0deg)';
+  }
+
+  function toggleTheme() {
+    const body = document.body;
+    const btn = document.getElementById('theme-btn');
+    const isLight = body.classList.toggle('light');
+    btn.textContent = isLight ? '☾ Dark' : '☀ Light';
+    btn.style.color = isLight ? '#333' : '#555';
+    btn.style.borderColor = isLight ? '#ccc' : '#2a2a2a';
+    localStorage.setItem('theme', isLight ? 'light' : 'dark');
+  }
+
+  // Apply saved theme on load immediately if registered
+  if (localStorage.getItem('theme') === 'light') {
+    document.body.classList.add('light');
+    document.addEventListener('DOMContentLoaded', () => {
+      const btn = document.getElementById('theme-btn');
+      if (btn) { btn.textContent = '☾ Dark'; btn.style.color = '#333'; btn.style.borderColor = '#ccc'; }
+    });
   }
 
   function updateClock() {
