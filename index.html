@@ -56,6 +56,14 @@
     ::-webkit-scrollbar-track { background: var(--bg); }
     ::-webkit-scrollbar-thumb { background: #333; border-radius: 2px; }
 
+    .scrollbar-hide {
+      -ms-overflow-style: none;
+      scrollbar-width: none;
+    }
+    .scrollbar-hide::-webkit-scrollbar {
+      display: none;
+    }
+
     .site-header {
       position: sticky;
       top: 0;
@@ -80,40 +88,6 @@
       display: inline-block;
     }
 
-    .hero-img {
-      width: 100%;
-      height: 420px;
-      object-fit: cover;
-      display: block;
-    }
-
-    .hero-img-placeholder {
-      width: 100%;
-      height: 420px;
-      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-
-    .article-row-img {
-      width: 220px;
-      height: 150px;
-      object-fit: cover;
-      border-radius: 6px;
-      display: block;
-    }
-
-    .article-row-placeholder {
-      width: 220px;
-      height: 150px;
-      background: var(--bg2);
-      border-radius: 6px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-
     .grid-card {
       background: var(--bg2);
       border: 1px solid var(--border);
@@ -128,22 +102,6 @@
     }
     body.light .grid-card:hover { border-color: #bbb; }
 
-    .grid-card-img {
-      width: 100%;
-      height: 180px;
-      object-fit: cover;
-      display: block;
-    }
-
-    .grid-card-placeholder {
-      width: 100%;
-      height: 180px;
-      background: var(--bg2);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-
     .mini-card {
       display: flex;
       gap: 14px;
@@ -153,14 +111,6 @@
     }
 
     .mini-card:last-child { border-bottom: none; }
-
-    .mini-card-img {
-      width: 72px;
-      height: 60px;
-      object-fit: cover;
-      border-radius: 4px;
-      flex-shrink: 0;
-    }
 
     .mini-card-placeholder {
       width: 72px;
@@ -202,9 +152,9 @@
 
     .art-num {
       font-family: 'Playfair Display', serif;
-      font-size: 2.5rem;
       font-weight: 900;
       color: var(--num-color);
+      line-height: 1;
     }
 
     .skel {
@@ -253,10 +203,11 @@
       font-weight: 600;
       letter-spacing: 0.08em;
       text-transform: uppercase;
-      padding: 10px 20px;
+      padding: 12px 16px;
       cursor: pointer;
       border-bottom: 2px solid transparent;
       transition: all 0.2s;
+      white-space: nowrap;
     }
     .tab-btn:hover { color: var(--text); }
     .tab-btn.active { color: var(--text); border-bottom-color: #e8384f; }
@@ -328,10 +279,6 @@
     }
     .filter-btn:hover { color: var(--text); border-color: #444; }
     .filter-btn.active { color: #fff; border-color: transparent; }
-    
-    @media (max-width: 768px) {
-      .hero-grid { grid-template-columns: 1fr !important; }
-    }
 
     .form-control {
       position: relative;
@@ -393,19 +340,19 @@
 
 <header class="site-header">
   <div class="max-w-5xl mx-auto px-5">
-    <div class="flex items-center justify-between py-4">
+    <div class="flex flex-col sm:flex-row sm:items-center justify-between py-4 gap-3">
       <div>
         <div style="font-size:0.6rem; letter-spacing:0.15em; text-transform:uppercase; color:var(--text4); margin-bottom:2px;">Daily Intelligence</div>
         <div style="font-family:'Playfair Display',serif; font-size:1.4rem; font-weight:900; letter-spacing:-0.02em; color:var(--text)">
           AI<span style="color:#e8384f;">·</span>Brief
         </div>
       </div>
-      <div style="display:flex; align-items:center; gap:16px;">
+      <div class="flex items-center justify-between sm:justify-end gap-4 w-full sm:w-auto">
         <button onclick="toggleTheme()" id="theme-btn" style="background:none; border:1px solid var(--border2); border-radius:20px; padding:5px 12px; cursor:pointer; font-size:0.65rem; font-weight:600; letter-spacing:0.08em; text-transform:uppercase; color:var(--text4); transition:all 0.2s;">☀ Light</button>
         <div id="live-clock" style="font-size:0.7rem; color:var(--text4); letter-spacing:0.05em;"></div>
       </div>
     </div>
-    <div style="display:flex; gap:0; border-top:1px solid var(--border);">
+    <div class="flex gap-0 border-t border-[var(--border)] overflow-x-auto scrollbar-hide" style="-webkit-overflow-scrolling: touch;">
       <button class="tab-btn active" onclick="switchTab('now', this)" id="tab-now">
         <span style="display:inline-block; width:6px; height:6px; border-radius:50%; background:#e8384f; margin-right:6px; vertical-align:middle;"></span>
         Now
@@ -417,13 +364,13 @@
   </div>
 </header>
 
-<main class="max-w-5xl mx-auto px-5 py-8" style="min-height: calc(100vh - 200px);">
+<main class="max-w-5xl mx-auto px-5 py-6 md:py-8" style="min-height: calc(100vh - 200px);">
 
   <div id="section-now" class="tab-section active">
     <div id="loading">
       <div style="border-radius:8px; overflow:hidden; margin-bottom:24px;">
-        <div class="skel" style="height:420px; border-radius:0;"></div>
-        <div style="padding:20px; background:var(--bg2); display:grid; grid-template-columns:1fr 1fr; gap:20px;">
+        <div class="skel h-48 sm:h-72 md:h-[420px]" style="border-radius:0;"></div>
+        <div class="p-4 md:p-5 bg-[var(--bg2)] grid grid-cols-1 md:grid-cols-2 gap-5">
           <div>
             <div class="skel" style="height:12px; width:60px; margin-bottom:12px;"></div>
             <div class="skel" style="height:28px; width:100%; margin-bottom:8px;"></div>
@@ -438,14 +385,14 @@
       </div>
     </div>
 
-    <div id="error" style="display:none; text-align:center; padding:80px 0;">
-      <div style="font-family:'Playfair Display',serif; font-size:5rem; font-weight:900; color:#e8384f; line-height:1;">404</div>
-      <div style="font-size:1rem; color:var(--text4); margin-top:12px;">Today's briefing hasn't loaded yet.</div>
-      <div style="font-size:0.8rem; color:var(--text5); margin-top:8px;">Run your GitHub Actions configuration workflow to generate modern components.</div>
+    <div id="error" style="text-align:center; padding:60px 0; display:none;">
+      <div style="font-family:'Playfair Display',serif; font-size:4rem; font-weight:900; color:#e8384f; line-height:1;">404</div>
+      <div style="font-size:0.95rem; color:var(--text4); margin-top:12px;">Today's briefing hasn't loaded yet.</div>
+      <div style="font-size:0.75rem; color:var(--text5); margin-top:8px;">Run your GitHub Actions configuration workflow to generate modern components.</div>
     </div>
 
     <div id="content" style="display:none;">
-      <section id="hero-section" class="fade-up" style="margin-bottom:40px;"></section>
+      <section id="hero-section" class="fade-up" style="margin-bottom:32px;"></section>
       <div id="rows-wrapper">
         <div class="section-label" style="margin-bottom:0;">Further Reading</div>
         <div id="rows-section"></div>
@@ -458,9 +405,9 @@
   <div id="section-feed" class="tab-section">
     <div id="feed-loading" style="text-align:center; padding:40px 0; color:var(--text4); font-size:0.85rem;">Loading dynamic feed shuffle...</div>
 
-    <div id="feed-filters" style="display:none; padding-bottom:20px; border-bottom:1px solid var(--border); margin-bottom:20px;">
-      <div style="display:flex; flex-wrap:wrap; gap:8px; align-items:center;">
-        <span style="font-size:0.6rem; font-weight:600; letter-spacing:0.12em; text-transform:uppercase; color:var(--text5); margin-right:4px;">Filter:</span>
+    <div id="feed-filters" style="display:none; padding-bottom:16px; border-bottom:1px solid var(--border); margin-bottom:20px;">
+      <div class="flex items-center gap-2 overflow-x-auto scrollbar-hide" style="-webkit-overflow-scrolling: touch;">
+        <span style="font-size:0.6rem; font-weight:600; letter-spacing:0.12em; text-transform:uppercase; color:var(--text5); white-space:nowrap; margin-right:4px;">Filter:</span>
         <button class="filter-btn active" onclick="setFilter('All', this)">All</button>
         <button class="filter-btn" onclick="setFilter('AI', this)">AI</button>
         <button class="filter-btn" onclick="setFilter('Hardware', this)">Hardware</button>
@@ -507,7 +454,7 @@
 </main>
 
 <footer style="border-top:1px solid var(--border); margin-top:20px; padding:16px 0;">
-  <div class="max-w-5xl mx-auto px-5 flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
+  <div class="max-w-5xl mx-auto px-5 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
     <div>
       <div style="font-family:'Playfair Display',serif; font-size:1rem; font-weight:900; margin-bottom:4px; color:var(--text)">
         AI<span style="color:#e8384f;">·</span>Brief
@@ -555,23 +502,13 @@
   }
 
   function heroImg(img) {
-    if (!img) return `<div class="hero-img-placeholder"><svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#333" stroke-width="1.5"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><polyline points="21 15 16 10 5 21"/></svg></div>`;
-    return `<img src="${img}" class="hero-img" alt="Hero" onerror="this.parentElement.innerHTML='<div class=hero-img-placeholder style=height:420px><svg width=48 height=48 viewBox=\\'0 0 24 24\\' fill=none stroke=#333 stroke-width=1.5><rect x=3 y=3 width=18 height=18 rx=2/><circle cx=8.5 cy=8.5 r=1.5/><polyline points=\\'21 15 16 10 5 21\\'/></svg></div>'" />`;
+    if (!img) return `<div class="w-full h-48 sm:h-72 md:h-[420px] bg-gradient-to-br from-[#1a1a2e] via-[#16213e] to-[#0f3460] flex items-center justify-center"><svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#333" stroke-width="1.5"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><polyline points="21 15 16 10 5 21"/></svg></div>`;
+    return `<img src="${img}" class="w-full h-48 sm:h-72 md:h-[420px] object-cover block" alt="Hero" onerror="this.outerHTML='<div class=\\'w-full h-48 sm:h-72 md:h-[420px] bg-gradient-to-br from-[#1a1a2e] via-[#16213e] to-[#0f3460] flex items-center justify-center\\'><svg width=48 height=48 viewBox=\\'0 0 24 24\\' fill=none stroke=#333 stroke-width=1.5><rect x=3 y=3 width=18 height=18 rx=2/><circle cx=8.5 cy=8.5 r=1.5/><polyline points=\\'21 15 16 10 5 21\\'/></svg></div>'" />`;
   }
 
   function rowImg(img) {
-    if (!img) return `<div class="article-row-placeholder"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#333" stroke-width="1.5"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><polyline points="21 15 16 10 5 21"/></svg></div>`;
-    return `<img src="${img}" class="article-row-img" alt="Thumbnail" onerror="this.outerHTML='<div class=article-row-placeholder><svg width=28 height=28 viewBox=\\'0 0 24 24\\' fill=none stroke=#333 stroke-width=1.5><rect x=3 y=3 width=18 height=18 rx=2/><circle cx=8.5 cy=8.5 r=1.5/><polyline points=\\'21 15 16 10 5 21\\'/></svg></div>'" />`;
-  }
-
-  function gridImg(img) {
-    if (!img) return `<div class="grid-card-placeholder"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#333" stroke-width="1.5"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><polyline points="21 15 16 10 5 21"/></svg></div>`;
-    return `<img src="${img}" class="grid-card-img" alt="Grid preview" onerror="this.outerHTML='<div class=grid-card-placeholder><svg width=28 height=28 viewBox=\\'0 0 24 24\\' fill=none stroke=#333 stroke-width=1.5><rect x=3 y=3 width=18 height=18 rx=2/><circle cx=8.5 cy=8.5 r=1.5/><polyline points=\\'21 15 16 10 5 21\\'/></svg></div>'" />`;
-  }
-
-  function miniImg(img) {
-    if (!img) return `<div class="mini-card-placeholder"></div>`;
-    return `<img src="${img}" class="mini-card-img" alt="Mini thumbnail" onerror="this.outerHTML='<div class=mini-card-placeholder></div>'" />`;
+    if (!img) return `<div class="w-full h-full bg-[var(--bg2)] flex items-center justify-center"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#333" stroke-width="1.5"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><polyline points="21 15 16 10 5 21"/></svg></div>`;
+    return `<img src="${img}" class="w-full h-full object-cover block" alt="Thumbnail" onerror="this.outerHTML='<div class=\\'w-full h-full bg-[var(--bg2)] flex items-center justify-center\\'><svg width=24 height=24 viewBox=\\'0 0 24 24\\' fill=none stroke=#333 stroke-width=1.5><rect x=3 y=3 width=18 height=18 rx=2/><circle cx=8.5 cy=8.5 r=1.5/><polyline points=\\'21 15 16 10 5 21\\'/></svg></div>'" />`;
   }
 
   function buildHero(a) {
@@ -579,13 +516,13 @@
     return `
       <div style="border-radius:8px; overflow:hidden; border:1px solid var(--border);">
         ${heroImg(a.image)}
-        <div class="hero-grid" style="background:var(--bg2); display:grid; grid-template-columns:1fr 1fr; gap:24px; padding:24px;">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6 p-4 md:p-6 bg-[var(--bg2)]">
           <div>
             <div style="display:flex; align-items:center; gap:8px; margin-bottom:12px;">
               ${catPill(a.category)}
               ${a.source ? `<span style="font-size:0.7rem; color:var(--text4);">${a.source}</span>` : ''}
             </div>
-            <h1 style="font-family:'Playfair Display',serif; font-size:1.7rem; font-weight:900; line-height:1.2; margin-bottom:12px; color:var(--text);">${a.title}</h1>
+            <h1 style="font-family:'Playfair Display',serif; font-size:1.6rem; md:font-size:1.7rem; font-weight:900; line-height:1.2; margin-bottom:12px; color:var(--text);">${a.title}</h1>
             <p style="font-size:0.82rem; color:var(--text2); line-height:1.6; margin-bottom:16px;">${a.description || a.summary || ''}</p>
             ${a.impact ? `<div style="border-left:2px solid ${color}; padding-left:12px; margin-bottom:16px;"><div style="font-size:0.6rem; font-weight:600; letter-spacing:0.1em; text-transform:uppercase; color:${color}; margin-bottom:4px;">Why it matters</div><div style="font-size:0.78rem; color:var(--text2); font-style:italic;">${a.impact}</div></div>` : ''}
             ${readBtn(a.url, 'Read Full Article')}
@@ -603,16 +540,17 @@
 
   function buildRow(a, num) {
     return `
-      <div style="display:grid; grid-template-columns:40px 220px 1fr; gap:16px; align-items:start; padding:24px 0; border-bottom:1px solid var(--border);">
-        <div><span class="art-num">${String(num).padStart(2,'0')}</span></div>
-        <div style="width:220px; height:150px; overflow:hidden; border-radius:6px; flex-shrink:0;">${rowImg(a.image)}</div>
-        <div>
+      <div class="flex flex-col md:grid md:grid-cols-[40px_220px_1fr] gap-4 md:gap-5 py-5 border-b border-[var(--border)] items-start">
+        <div class="hidden md:block"><span class="art-num text-4xl">${String(num).padStart(2,'0')}</span></div>
+        <div class="w-full md:w-[220px] h-48 md:h-[150px] overflow-hidden rounded-md flex-shrink-0">${rowImg(a.image)}</div>
+        <div class="w-full">
           <div style="display:flex; align-items:center; gap:8px; margin-bottom:8px;">
+            <span class="md:hidden art-num text-xl mr-1">${String(num).padStart(2,'0')}</span>
             ${catPill(a.category)}
             ${a.source ? `<span style="font-size:0.7rem; color:var(--text4);">${a.source}</span>` : ''}
           </div>
-          <h3 style="font-family:'Playfair Display',serif; font-size:1.1rem; font-weight:700; line-height:1.3; margin-bottom:8px; color:var(--text);">${a.title}</h3>
-          <p style="font-size:0.78rem; color:var(--text3); line-height:1.6; margin-bottom:10px;">${a.description || a.summary || ''}</p>
+          <h3 style="font-family:'Playfair Display',serif; font-size:1.15rem; font-weight:700; line-height:1.3; margin-bottom:8px; color:var(--text);">${a.title}</h3>
+          <p style="font-size:0.8rem; color:var(--text3); line-height:1.6; margin-bottom:10px;">${a.description || a.summary || ''}</p>
           ${readBtn(a.url, 'Read Full Article')}
         </div>
       </div>`;
@@ -622,16 +560,17 @@
     const color = catColors[a.category] || '#6b7280';
     const bg = catBg[a.category] || 'rgba(107,114,128,0.15)';
     return `
-      <div style="display:grid; grid-template-columns:40px 180px 1fr; gap:16px; align-items:start; padding:20px 0; border-bottom:1px solid var(--border);">
-        <div><span class="art-num">${String(num).padStart(2,'0')}</span></div>
-        <div style="width:180px; height:130px; overflow:hidden; border-radius:6px; flex-shrink:0;">${rowImg(a.image)}</div>
-        <div>
+      <div class="flex flex-col md:grid md:grid-cols-[40px_180px_1fr] gap-4 py-5 border-b border-[var(--border)] items-start">
+        <div class="hidden md:block"><span class="art-num text-3xl">${String(num).padStart(2,'0')}</span></div>
+        <div class="w-full md:w-[180px] h-44 md:h-[130px] overflow-hidden rounded-md flex-shrink-0">${rowImg(a.image)}</div>
+        <div class="w-full">
           <div style="display:flex; align-items:center; gap:6px; margin-bottom:8px; flex-wrap:wrap;">
+            <span class="md:hidden art-num text-lg mr-1">${String(num).padStart(2,'0')}</span>
             <span class="cat-pill" style="background:${bg}; color:${color};">${a.category || 'Tech'}</span>
             ${a.source ? `<span style="font-size:0.7rem; color:var(--text4);">${a.source}</span>` : ''}
           </div>
-          <h3 style="font-family:'Playfair Display',serif; font-size:1rem; font-weight:700; line-height:1.3; margin-bottom:6px; color:var(--text);">${a.title}</h3>
-          <p style="font-size:0.75rem; color:var(--text3); line-height:1.5; margin-bottom:8px;">${a.description || a.summary || ''}</p>
+          <h3 style="font-family:'Playfair Display',serif; font-size:1.05rem; font-weight:700; line-height:1.3; margin-bottom:6px; color:var(--text);">${a.title}</h3>
+          <p style="font-size:0.78rem; color:var(--text3); line-height:1.5; margin-bottom:8px;">${a.description || a.summary || ''}</p>
           ${readBtn(a.url, 'Read Article')}
         </div>
       </div>`;
@@ -651,7 +590,9 @@
         <div class="batch-articles ${isFirst ? 'open' : ''}" id="batch-${index}">
           ${(batch.articles || []).map(a => `
             <div class="batch-article-item">
-              <div style="width:64px; height:50px; overflow:hidden; border-radius:4px; flex-shrink:0;">${miniImg(a.image)}</div>
+              <div class="w-16 h-12 bg-[var(--bg2)] rounded overflow-hidden flex-shrink-0">
+                ${a.image ? `<img src="${a.image}" class="w-full h-full object-cover" onerror="this.outerHTML='<div class=w-full h-full></div>'" />` : ''}
+              </div>
               <div style="flex:1; min-width:0;">
                 <div style="font-size:0.8rem; font-weight:600; color:var(--text); line-height:1.3; margin-bottom:4px;">${a.title}</div>
                 ${readBtn(a.url, 'Read')}
@@ -698,7 +639,9 @@
           <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px;">
             ${gridArticles.map(a => `
               <div class="grid-card">
-                <div style="height: 160px; overflow: hidden;">${gridImg(a.image)}</div>
+                <div style="height: 160px; overflow: hidden;">
+                  ${a.image ? `<img src="${a.image}" class="w-full h-full object-cover block" onerror="this.removeAttribute('src')" />` : `<div class="w-full h-full bg-[var(--bg2)]"></div>`}
+                </div>
                 <div style="padding: 16px;">
                   <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
                     ${catPill(a.category)}
