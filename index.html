@@ -333,6 +333,52 @@
     @media (max-width: 768px) {
       .hero-grid { grid-template-columns: 1fr !important; }
     }
+
+    /* WAVE ANIMATED SEARCH BAR FIELDS */
+    .form-control {
+      position: relative;
+      margin: 20px 0 40px;
+      width: 100%;
+    }
+
+    .form-control input {
+      background-color: transparent;
+      border: 0;
+      border-bottom: 2px var(--border2) solid;
+      display: block;
+      width: 100%;
+      padding: 15px 0;
+      font-size: 18px;
+      color: var(--text);
+      transition: border-color 0.2s;
+    }
+
+    .form-control input:focus,
+    .form-control input:valid {
+      outline: 0;
+      border-bottom-color: #e8384f;
+    }
+
+    .form-control label {
+      position: absolute;
+      top: 15px;
+      left: 0;
+      pointer-events: none;
+    }
+
+    .form-control label span {
+      display: inline-block;
+      font-size: 18px;
+      min-width: 5px;
+      color: var(--text4);
+      transition: 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    }
+
+    .form-control input:focus + label span,
+    .form-control input:valid + label span {
+      color: #e8384f;
+      transform: translateY(-30px);
+    }
   </style>
   <script>
     // Inline script blocking layout execution to completely remove light mode flash bangs
@@ -435,7 +481,20 @@
 
   <div id="section-search" class="tab-section">
     <div style="margin-bottom:24px;">
-      <input id="search-input" type="text" placeholder="Search articles..." oninput="runSearch(this.value)" style="width:100%; background:var(--bg2); border:1px solid var(--border2); border-radius:6px; padding:12px 16px; color:var(--text); font-size:0.85rem; outline:none; transition:border-color 0.2s;" onfocus="this.style.borderColor='#e8384f'" onblur="this.style.borderColor='var(--border2)'" />
+      <div class="form-control">
+          <input id="search-input" type="text" required="" oninput="runSearch(this.value)">
+          <label>
+              <span style="transition-delay:0ms">S</span>
+              <span style="transition-delay:50ms">e</span>
+              <span style="transition-delay:100ms">a</span>
+              <span style="transition-delay:150ms">r</span>
+              <span style="transition-delay:200ms">c</span>
+              <span style="transition-delay:250ms">h</span>
+              <span style="transition-delay:300ms">.</span>
+              <span style="transition-delay:350ms">.</span>
+              <span style="transition-delay:400ms">.</span>
+          </label>
+      </div>
     </div>
     <div id="search-results" style="color:var(--text4); font-size:0.85rem; text-align:center; padding:40px 0;">Type to search across all articles...</div>
   </div>
