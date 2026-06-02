@@ -30,10 +30,9 @@ class TechBriefingEdition(BaseModel):
 # ---------------------------------------------------------------------------
 # CORE LOGIC
 # ---------------------------------------------------------------------------
-def generate_id(title, published_at, url=""):
-    """Creates a unique fixed fingerprint ID for each article. URL is preferred."""
-    raw_str = url if url else f"{title}_{published_at}"
-    return hashlib.md5(raw_str.encode('utf-8')).hexdigest()
+def generate_id(url):
+    """Creates a unique fixed fingerprint ID for each article strictly using its URL."""
+    return hashlib.md5(url.encode('utf-8')).hexdigest()
 
 def fetch_real_news(news_api_key):
     url = "https://newsapi.org/v2/top-headlines"
@@ -237,7 +236,7 @@ def fetch_news():
     existing_ids = load_existing_ids()
     unseen_articles = []
     for article in raw_candidates:
-        art_id = generate_id(article["title"], article["published_at"], article.get("url", ""))
+        art_id = generate_id(article["url"])
         if art_id not in existing_ids:
             article["id"] = art_id
             unseen_articles.append(article)
