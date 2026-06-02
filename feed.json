@@ -1,117 +1,213 @@
 {
-  "generated_at": "2026-06-02T05:56:32.724918+00:00",
+  "generated_at": "2026-06-02T10:21:43.296656+00:00",
   "articles": [
     {
-      "title": "Ragnarok Console Project Launching on Multiple Platforms",
-      "description": "Gravity and Daweon Game Media Lab announced Ragnarok Console Project for PS5, Xbox Series, Switch 2, and PC. The game is set to launch in the first half of 2027.",
+      "title": "Nvidia Chip Boosts Software Stocks Ahead of Opening",
+      "description": "Software stocks surged as Nvidia's new chip was announced, boosting shares of Arm, IBM, and Hewlett Packard. Investors are optimistic about the future of personal computing.",
+      "category": "Business",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/01/arm-ibm-and-hewlett-packard-nvidia-chip-extends-software-rally.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108257481-1769516811771-gettyimages-2250111740-US_STOCKS.jpeg?v=1771953167&w=1920&h=1080",
+      "published_at": "2026-06-01T09:58:23Z",
+      "key_points": [
+        "Nvidia announces new chip",
+        "Software stocks rally",
+        "Investors optimistic"
+      ],
+      "impact": "Nvidia's innovation drives market confidence.",
+      "id": "ab13e6ad9f251aa062ccb07c2a8b1b13"
+    },
+    {
+      "title": "NVIDIA DLSS 4.5 Ray Reconstruction Launching in August",
+      "description": "NVIDIA will release DLSS 4.5 Ray Reconstruction for all GeForce RTX GPUs in August, enhancing gaming graphics with improved AI-based denoising.",
       "category": "Gaming",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/05/ragnarok-console-project-announced-for-ps5-xbox-series-switch-2-and-pc",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/05/Ragnarok-Console-Project-Ann_05-31-26.jpg",
-      "published_at": "2026-06-01T03:25:04Z",
+      "source": "Videocardz.com",
+      "url": "https://videocardz.com/newz/nvidia-dlss-4-5-ray-reconstruction-coming-in-august-for-rtx-20-30-40-and-50-series",
+      "image": "https://cdn.videocardz.com/1/2026/06/DLSS-4.5-Ray-Reconstruction.jpg",
+      "published_at": "2026-06-01T05:06:09Z",
       "key_points": [
-        "New RPG based on Ragnarok franchise",
-        "Launching on multiple platforms",
-        "Expected in first half of 2027"
+        "DLSS 4.5 announced",
+        "Supports all RTX GPUs",
+        "Improves gaming graphics"
       ],
-      "impact": "This expands the Ragnarok franchise into new gaming territories.",
-      "id": "52c2b3c9e588c74733c5c3572dd4d179"
+      "impact": "Enhanced graphics set to elevate gaming experience.",
+      "id": "9331f654c5b91d9aac20a7ef18f8750e"
     },
     {
-      "title": "Google Home Speaker Set for June 25 Launch",
-      "description": "Google's Gemini-powered Home Speaker is expected to launch on June 25, 2026, following the Pixel 10a and Fitbit Air. Anticipation builds for its features and capabilities.",
+      "title": "Foldable iPhone Ultra Design Leaked in Video",
+      "description": "A hands-on video reveals the design of the upcoming foldable iPhone Ultra, showcasing a sleek 4.5mm profile.",
+      "category": "Business",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Foldable-iPhone-Ultra-design-model-leaks-in-hands-on-video-from-Chinese-factory.1311684.0.html",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/iphone-ultra-fold-weibo-Xiaohui-Talks-Tech.jpg",
+      "published_at": "2026-06-01T01:14:00Z",
+      "key_points": [
+        "Foldable iPhone design leaked",
+        "Sleek 4.5mm profile",
+        "Hands-on video released"
+      ],
+      "impact": "Apple's foldable design sparks consumer interest.",
+      "id": "9ae021479115f0ac1287750a4e95c535"
+    },
+    {
+      "title": "AMD Revives Old CPUs to Tackle RAM Costs",
+      "description": "AMD is reintroducing older AM4 CPUs to help gamers facing high RAM prices, making upgrades more accessible.",
+      "category": "Business",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/amds-plan-to-fix-ram-costs-bring-back-bygone-cpus-2000765337",
+      "image": "https://gizmodo.com/app/uploads/2026/05/AMD-Gaming-PCs-1200x675.jpg",
+      "published_at": "2026-06-01T00:00:58Z",
+      "key_points": [
+        "AMD revives AM4 CPUs",
+        "Targets high RAM costs",
+        "Aids gamer upgrades"
+      ],
+      "impact": "AMD's strategy eases upgrade barriers for gamers.",
+      "id": "837d825493b52f53556b99460a199d07"
+    },
+    {
+      "title": "AMD Unveils Radeon RX 9070 GRE and Ryzen AI Max PRO 400",
+      "description": "AMD announces new products including the Radeon RX 9070 GRE and Ryzen AI Max PRO 400 series during Computex 2026.",
       "category": "Hardware",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/05/31/google-home-speaker-release-date-june/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Google-Home-Speaker-Multi.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-01T02:44:00Z",
+      "source": "Phoronix",
+      "url": "https://www.phoronix.com/review/amd-rx-9070-gre-ryzen-ai-max-400",
+      "image": "https://www.phoronix.net/image.php?id=amd-rx-9070-gre-ryzen-ai-max-400&image=amd_computex_9",
+      "published_at": "2026-06-01T00:00:00Z",
       "key_points": [
-        "Gemini-powered speaker",
-        "Launch date confirmed",
-        "Follows Pixel 10a release"
+        "New Radeon RX 9070 GRE",
+        "Ryzen AI Max PRO 400 announced",
+        "Computex 2026 showcase"
       ],
-      "impact": "This marks a significant update in Google's smart home lineup.",
-      "id": "86c86764882807f5099450b4f5aed40e"
+      "impact": "AMD's new products enhance competitive edge.",
+      "id": "7b299d8bd84a498c4e5468e22eaaf2a7"
     },
     {
-      "title": "iOS 28 Rumored to Be Major Upgrade",
-      "description": "Bloomberg's Mark Gurman hints that iOS 28 will be significantly more impactful than iOS 27, which is set to be unveiled soon. Details remain scarce but expectations are high.",
+      "title": "Competitors Target Apple's MacBook Neo",
+      "description": "Dell and Microsoft are launching laptops aimed at competing with Apple's MacBook Neo, but not all are learning from Apple's strategies.",
+      "category": "Business",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/",
+      "image": "https://media.wired.com/photos/6a187b03ed6e2578ab7573b3/191:100/w_1280,c_limit/Microsoft%20Is%20Learning%20the%20Wrong%20Lessons%20From%20Apple%20top%20art%20(2)%20052026%20SOURCE%20Microsoft.jpg",
+      "published_at": "2026-05-31T23:00:00Z",
+      "key_points": [
+        "Dell and Microsoft launch competitors",
+        "Targeting MacBook Neo",
+        "Learning from Apple"
+      ],
+      "impact": "Increased competition may benefit consumers.",
+      "id": "4b83e46e5e1d2aa10c6d1668746e3aec"
+    },
+    {
+      "title": "Apple's Smart Glasses Delayed Until Late 2027",
+      "description": "Apple's highly anticipated smart glasses are now expected to launch in late 2027, despite being a top priority for the company.",
+      "category": "Business",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/apples-smart-glasses-reportedly-delayed-until-late-2027/",
+      "image": "https://www.cnet.com/a/img/resize/0924ae8ab6ce5fa40686ed53772987afb785b9bd/hub/2026/05/22/a27ae493-ca85-4286-a79e-867fe1f8483c/ray-ban-meta-cnet-memorial-day-bg-09.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "published_at": "2026-05-31T21:45:00Z",
+      "key_points": [
+        "Smart glasses delayed",
+        "New launch date: late 2027",
+        "Top priority for Apple"
+      ],
+      "impact": "Delay may impact Apple's market positioning.",
+      "id": "e31f586de57ecc381b755efdc961de4d"
+    },
+    {
+      "title": "Capcom's Street Fighter 6 Update Schedule Changes",
+      "description": "Capcom's update schedule for Street Fighter 6 is shifting, with uncertainty surrounding the release of the Season 4 balance patch.",
+      "category": "Gaming",
+      "source": "EventHubs",
+      "url": "https://www.eventhubs.com/news/2026/may/31/sf6-season-4-balance-patch/",
+      "image": "https://media.eventhubs.com/images/2026/05/29-street-fighter-seasont.webp",
+      "published_at": "2026-05-31T20:39:20Z",
+      "key_points": [
+        "Street Fighter 6 update schedule shifts",
+        "Ingrid's patch released",
+        "Future updates uncertain"
+      ],
+      "impact": "Changes may affect player engagement.",
+      "id": "c36201fed058189c0045aa676dc769db"
+    },
+    {
+      "title": "Intel's Arc G3 Extreme Claims High Performance",
+      "description": "Intel's Arc G3 Extreme handheld platform reportedly matches Ryzen Z2 Extreme performance while consuming half the power.",
+      "category": "Hardware",
+      "source": "Videocardz.com",
+      "url": "https://videocardz.com/newz/intel-claims-arc-g3-extreme-delivers-similar-performance-to-ryzen-z2-extreme-at-half-the-power",
+      "image": "https://cdn.videocardz.com/1/2026/05/INTEL-ARC-G3-VS-RYZEN-Z2-HERO.jpg",
+      "published_at": "2026-05-31T17:31:09Z",
+      "key_points": [
+        "Arc G3 Extreme performance revealed",
+        "Half the power consumption",
+        "Competes with Ryzen Z2 Extreme"
+      ],
+      "impact": "Intel's claims could reshape market dynamics.",
+      "id": "2373107eceaf02f7c54181a0b7179bd1"
+    },
+    {
+      "title": "AC Cobra GT Coupe Introduces Fixed Roof Design",
+      "description": "AC Cars unveils the AC Cobra GT Coupe, marking the first fixed roof version of the classic car in its 125-year history.",
+      "category": "Business",
+      "source": "The Drive",
+      "url": "https://www.thedrive.com/news/ac-cobra-gt-coupe-puts-a-fixed-roof-on-the-classic-for-the-first-time",
+      "image": "https://www.thedrive.com/wp-content/uploads/2026/05/AC-Cobra-GT-Coupe-Autoclaves-2.jpeg?quality=85&w=1200",
+      "published_at": "2026-05-31T15:00:00Z",
+      "key_points": [
+        "AC Cobra GT Coupe launched",
+        "First fixed roof design",
+        "125 years of history"
+      ],
+      "impact": "New design may attract classic car enthusiasts.",
+      "id": "d6c01e61dbc008049f66bb23e8a4ae3c"
+    },
+    {
+      "title": "Android Auto 17.0 Now Available for All Users",
+      "description": "Android Auto 17.0 is rolling out globally, with a method available to skip the wait for the update.",
       "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/05/31/ios-28-far-more-significant-rumor/",
-      "image": "https://images.macrumors.com/t/YCZjPv2v9UGoJROkYTCOYxi8XFc=/2500x/article-new/2026/05/Low-Angle-iPhone-Purple.jpg",
-      "published_at": "2026-05-31T21:44:33Z",
+      "source": "autoevolution",
+      "url": "https://www.autoevolution.com/news/android-auto-170-now-available-for-all-android-users-270796.html",
+      "image": "https://s1.cdn.autoevolution.com/images/news/android-auto-170-now-available-for-all-android-users-270796_1.jpg",
+      "published_at": "2026-05-31T13:45:06Z",
       "key_points": [
-        "iOS 28 expected to be significant",
-        "Rumors from Mark Gurman",
-        "Unveiling of iOS 27 imminent"
+        "Android Auto 17.0 released",
+        "Global rollout underway",
+        "Skip the wait for update"
       ],
-      "impact": "Anticipation builds for Apple's next major software update.",
-      "id": "d873fef2b7db18ffe8b23de172784754"
+      "impact": "Update enhances user experience in vehicles.",
+      "id": "3b9b1a5e6f8f27f731b9250c4dd6f555"
     },
     {
-      "title": "NVIDIA's N1x SoC Underwhelms in Geekbench Scores",
-      "description": "Pre-release Geekbench 6 scores for NVIDIA's upcoming N1x processors show disappointing results compared to Apple's M3 Max chip. Details on the processors are still forthcoming.",
+      "title": "ASUS Teases 540Hz OLED Esports Monitor",
+      "description": "ASUS reveals a teaser for the ROG Strix OLED XG259QWPG Ace esports monitor, boasting a 540Hz refresh rate ahead of Computex 2026.",
       "category": "Hardware",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/nvidias-upcoming-n1x-soc-fails-to-match-apples-2023-launching-m3-max-chip-in-pre-release-geekbench-6-scores/",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/NVIDIA-N1x-1920x1048.jpg",
-      "published_at": "2026-05-31T16:49:00Z",
+      "source": "Videocardz.com",
+      "url": "https://videocardz.com/newz/asus-teases-24-5-inch-rog-strix-oled-xg259qwpg-ace-esports-monitor-with-540hz-refresh-rate",
+      "image": "https://cdn.videocardz.com/1/2026/05/ASUS-ROG-STRIX-OLED-XG259QWPG-ACE-24INCH-540HZ-MONITOR.jpg",
+      "published_at": "2026-05-31T07:16:03Z",
       "key_points": [
-        "N1x scores disappointing",
-        "Fails to match M3 Max",
-        "Details to be revealed at Computex"
+        "ASUS teases new esports monitor",
+        "540Hz refresh rate",
+        "Ahead of Computex 2026"
       ],
-      "impact": "NVIDIA faces challenges in competing with Apple’s chip performance.",
-      "id": "996ff18adcb73751244c2091ece54d28"
+      "impact": "High refresh rate targets competitive gamers.",
+      "id": "17fe4fdc8213644be0e08acd010512c8"
     },
     {
-      "title": "California Assembly Passes 'Stop Killing Games' Bill",
-      "description": "California's Assembly passed Bill AB 1921, enhancing protections for games taken offline. This is a significant victory for the Stop Killing Games movement.",
-      "category": "Policy",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/stop-killing-games-bill-passes-california-assembly-scott-ross-2000700893",
-      "image": "https://kotaku.com/app/uploads/2026/05/Compare_TCM_Standard_Edition.jpg",
-      "published_at": "2026-05-31T15:03:07Z",
+      "title": "Apple Cancels Cosmic Orange for iPhone 18 Pro",
+      "description": "Apple's iPhone 18 Pro will feature higher specs but will not include the Cosmic Orange color option, focusing on performance and aesthetics.",
+      "category": "Business",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/ewanspence/2026/05/30/apple-iphone-18-pro-dark-cherry-color-strategy/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a1b44d17e111d7ee4aeaafb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published_at": "2026-05-30T20:21:20Z",
       "key_points": [
-        "Bill enhances game preservation",
-        "Major win for gamers",
-        "Moves to legislature for approval"
+        "Cosmic Orange color canceled",
+        "Focus on higher specs",
+        "New aesthetic strategy"
       ],
-      "impact": "This legislation could reshape game preservation efforts in the U.S.",
-      "id": "d418cf0ba525707c3fc5d10d9b69caea"
-    },
-    {
-      "title": "Minecraft Live Unveils Exciting New Features",
-      "description": "Mojang's Minecraft Live event revealed new content including Minecraft Dungeons II and a new biome. Fans are excited about the upcoming updates.",
-      "category": "Gaming",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/05/round-up-minecraft-live-may-2026-chaos-cubed-drop-new-biome-minecraft-dungeons-ii-and-more",
-      "image": "https://images.nintendolife.com/122776afd3198/large.jpg",
-      "published_at": "2026-05-31T13:00:00Z",
-      "key_points": [
-        "New biome announced",
-        "Minecraft Dungeons II revealed",
-        "Exciting updates for fans"
-      ],
-      "impact": "These updates promise to enhance the Minecraft experience.",
-      "id": "5afd6b8d3ba67b2fcd00b489182b8eb4"
-    },
-    {
-      "title": "April 2026's Best-Selling Games Revealed",
-      "description": "Tomodachi Life: Living the Dream topped the U.S. sales charts in April 2026, marking a successful debut for the social sim game. Other titles also performed well.",
-      "category": "Gaming",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/tomodachi-life-best-seller-april-2026",
-      "image": "https://assetsio.gnwcdn.com/Tomodachi-Life-Living-the-Dream---Island-Layouts-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-05-31T11:17:20Z",
-      "key_points": [
-        "Tomodachi Life tops sales",
-        "Strong debut performance",
-        "April 2026 sales data released"
-      ],
-      "impact": "This highlights the popularity of social simulation games.",
-      "id": "3ab91b25b7b96995537b105e8b5d2608"
+      "impact": "Color change may influence consumer choices.",
+      "id": "ecedf46706cf1e9afa179af6adbaf3ac"
     }
   ]
 }

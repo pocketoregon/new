@@ -5,71 +5,125 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jun 2026 05:56:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 10:22:14 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Ragnarok Console Project Launching on Multiple Platforms</title>
-      <description>Gravity and Daweon Game Media Lab announced Ragnarok Console Project for PS5, Xbox Series, Switch 2, and PC. The game is set to launch in the first half of 2027.</description>
-      <link>https://www.gematsu.com/2026/05/ragnarok-console-project-announced-for-ps5-xbox-series-switch-2-and-pc</link>
-      <guid isPermaLink="true">https://www.gematsu.com/2026/05/ragnarok-console-project-announced-for-ps5-xbox-series-switch-2-and-pc</guid>
-      <pubDate>2026-06-01T03:25:04Z</pubDate>
+      <title>Nvidia Chip Boosts Software Stocks Ahead of Opening</title>
+      <description>Software stocks surged as Nvidia's new chip was announced, boosting shares of Arm, IBM, and Hewlett Packard. Investors are optimistic about the future of personal computing.</description>
+      <link>https://www.cnbc.com/2026/06/01/arm-ibm-and-hewlett-packard-nvidia-chip-extends-software-rally.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/06/01/arm-ibm-and-hewlett-packard-nvidia-chip-extends-software-rally.html</guid>
+      <pubDate>2026-06-01T09:58:23Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.cnbc.com/2026/06/01/arm-ibm-and-hewlett-packard-nvidia-chip-extends-software-rally.html">CNBC</source>
+    </item>
+    <item>
+      <title>NVIDIA DLSS 4.5 Ray Reconstruction Launching in August</title>
+      <description>NVIDIA will release DLSS 4.5 Ray Reconstruction for all GeForce RTX GPUs in August, enhancing gaming graphics with improved AI-based denoising.</description>
+      <link>https://videocardz.com/newz/nvidia-dlss-4-5-ray-reconstruction-coming-in-august-for-rtx-20-30-40-and-50-series</link>
+      <guid isPermaLink="true">https://videocardz.com/newz/nvidia-dlss-4-5-ray-reconstruction-coming-in-august-for-rtx-20-30-40-and-50-series</guid>
+      <pubDate>2026-06-01T05:06:09Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.gematsu.com/2026/05/ragnarok-console-project-announced-for-ps5-xbox-series-switch-2-and-pc">Gematsu</source>
+      <source url="https://videocardz.com/newz/nvidia-dlss-4-5-ray-reconstruction-coming-in-august-for-rtx-20-30-40-and-50-series">Videocardz.com</source>
     </item>
     <item>
-      <title>Google Home Speaker Set for June 25 Launch</title>
-      <description>Google's Gemini-powered Home Speaker is expected to launch on June 25, 2026, following the Pixel 10a and Fitbit Air. Anticipation builds for its features and capabilities.</description>
-      <link>http://9to5google.com/2026/05/31/google-home-speaker-release-date-june/</link>
-      <guid isPermaLink="true">http://9to5google.com/2026/05/31/google-home-speaker-release-date-june/</guid>
-      <pubDate>2026-06-01T02:44:00Z</pubDate>
+      <title>Foldable iPhone Ultra Design Leaked in Video</title>
+      <description>A hands-on video reveals the design of the upcoming foldable iPhone Ultra, showcasing a sleek 4.5mm profile.</description>
+      <link>https://www.notebookcheck.net/Foldable-iPhone-Ultra-design-model-leaks-in-hands-on-video-from-Chinese-factory.1311684.0.html</link>
+      <guid isPermaLink="true">https://www.notebookcheck.net/Foldable-iPhone-Ultra-design-model-leaks-in-hands-on-video-from-Chinese-factory.1311684.0.html</guid>
+      <pubDate>2026-06-01T01:14:00Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.notebookcheck.net/Foldable-iPhone-Ultra-design-model-leaks-in-hands-on-video-from-Chinese-factory.1311684.0.html">Notebookcheck</source>
+    </item>
+    <item>
+      <title>AMD Revives Old CPUs to Tackle RAM Costs</title>
+      <description>AMD is reintroducing older AM4 CPUs to help gamers facing high RAM prices, making upgrades more accessible.</description>
+      <link>https://gizmodo.com/amds-plan-to-fix-ram-costs-bring-back-bygone-cpus-2000765337</link>
+      <guid isPermaLink="true">https://gizmodo.com/amds-plan-to-fix-ram-costs-bring-back-bygone-cpus-2000765337</guid>
+      <pubDate>2026-06-01T00:00:58Z</pubDate>
+      <category>Business</category>
+      <source url="https://gizmodo.com/amds-plan-to-fix-ram-costs-bring-back-bygone-cpus-2000765337">Gizmodo</source>
+    </item>
+    <item>
+      <title>AMD Unveils Radeon RX 9070 GRE and Ryzen AI Max PRO 400</title>
+      <description>AMD announces new products including the Radeon RX 9070 GRE and Ryzen AI Max PRO 400 series during Computex 2026.</description>
+      <link>https://www.phoronix.com/review/amd-rx-9070-gre-ryzen-ai-max-400</link>
+      <guid isPermaLink="true">https://www.phoronix.com/review/amd-rx-9070-gre-ryzen-ai-max-400</guid>
+      <pubDate>2026-06-01T00:00:00Z</pubDate>
       <category>Hardware</category>
-      <source url="http://9to5google.com/2026/05/31/google-home-speaker-release-date-june/">9to5google.com</source>
+      <source url="https://www.phoronix.com/review/amd-rx-9070-gre-ryzen-ai-max-400">Phoronix</source>
     </item>
     <item>
-      <title>iOS 28 Rumored to Be Major Upgrade</title>
-      <description>Bloomberg's Mark Gurman hints that iOS 28 will be significantly more impactful than iOS 27, which is set to be unveiled soon. Details remain scarce but expectations are high.</description>
-      <link>https://www.macrumors.com/2026/05/31/ios-28-far-more-significant-rumor/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/05/31/ios-28-far-more-significant-rumor/</guid>
-      <pubDate>2026-05-31T21:44:33Z</pubDate>
+      <title>Competitors Target Apple's MacBook Neo</title>
+      <description>Dell and Microsoft are launching laptops aimed at competing with Apple's MacBook Neo, but not all are learning from Apple's strategies.</description>
+      <link>https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/</guid>
+      <pubDate>2026-05-31T23:00:00Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/">Wired</source>
+    </item>
+    <item>
+      <title>Apple's Smart Glasses Delayed Until Late 2027</title>
+      <description>Apple's highly anticipated smart glasses are now expected to launch in late 2027, despite being a top priority for the company.</description>
+      <link>https://www.cnet.com/tech/apples-smart-glasses-reportedly-delayed-until-late-2027/</link>
+      <guid isPermaLink="true">https://www.cnet.com/tech/apples-smart-glasses-reportedly-delayed-until-late-2027/</guid>
+      <pubDate>2026-05-31T21:45:00Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.cnet.com/tech/apples-smart-glasses-reportedly-delayed-until-late-2027/">CNET</source>
+    </item>
+    <item>
+      <title>Capcom's Street Fighter 6 Update Schedule Changes</title>
+      <description>Capcom's update schedule for Street Fighter 6 is shifting, with uncertainty surrounding the release of the Season 4 balance patch.</description>
+      <link>https://www.eventhubs.com/news/2026/may/31/sf6-season-4-balance-patch/</link>
+      <guid isPermaLink="true">https://www.eventhubs.com/news/2026/may/31/sf6-season-4-balance-patch/</guid>
+      <pubDate>2026-05-31T20:39:20Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.eventhubs.com/news/2026/may/31/sf6-season-4-balance-patch/">EventHubs</source>
+    </item>
+    <item>
+      <title>Intel's Arc G3 Extreme Claims High Performance</title>
+      <description>Intel's Arc G3 Extreme handheld platform reportedly matches Ryzen Z2 Extreme performance while consuming half the power.</description>
+      <link>https://videocardz.com/newz/intel-claims-arc-g3-extreme-delivers-similar-performance-to-ryzen-z2-extreme-at-half-the-power</link>
+      <guid isPermaLink="true">https://videocardz.com/newz/intel-claims-arc-g3-extreme-delivers-similar-performance-to-ryzen-z2-extreme-at-half-the-power</guid>
+      <pubDate>2026-05-31T17:31:09Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://videocardz.com/newz/intel-claims-arc-g3-extreme-delivers-similar-performance-to-ryzen-z2-extreme-at-half-the-power">Videocardz.com</source>
+    </item>
+    <item>
+      <title>AC Cobra GT Coupe Introduces Fixed Roof Design</title>
+      <description>AC Cars unveils the AC Cobra GT Coupe, marking the first fixed roof version of the classic car in its 125-year history.</description>
+      <link>https://www.thedrive.com/news/ac-cobra-gt-coupe-puts-a-fixed-roof-on-the-classic-for-the-first-time</link>
+      <guid isPermaLink="true">https://www.thedrive.com/news/ac-cobra-gt-coupe-puts-a-fixed-roof-on-the-classic-for-the-first-time</guid>
+      <pubDate>2026-05-31T15:00:00Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.thedrive.com/news/ac-cobra-gt-coupe-puts-a-fixed-roof-on-the-classic-for-the-first-time">The Drive</source>
+    </item>
+    <item>
+      <title>Android Auto 17.0 Now Available for All Users</title>
+      <description>Android Auto 17.0 is rolling out globally, with a method available to skip the wait for the update.</description>
+      <link>https://www.autoevolution.com/news/android-auto-170-now-available-for-all-android-users-270796.html</link>
+      <guid isPermaLink="true">https://www.autoevolution.com/news/android-auto-170-now-available-for-all-android-users-270796.html</guid>
+      <pubDate>2026-05-31T13:45:06Z</pubDate>
       <category>Software</category>
-      <source url="https://www.macrumors.com/2026/05/31/ios-28-far-more-significant-rumor/">MacRumors</source>
+      <source url="https://www.autoevolution.com/news/android-auto-170-now-available-for-all-android-users-270796.html">autoevolution</source>
     </item>
     <item>
-      <title>NVIDIA's N1x SoC Underwhelms in Geekbench Scores</title>
-      <description>Pre-release Geekbench 6 scores for NVIDIA's upcoming N1x processors show disappointing results compared to Apple's M3 Max chip. Details on the processors are still forthcoming.</description>
-      <link>https://wccftech.com/nvidias-upcoming-n1x-soc-fails-to-match-apples-2023-launching-m3-max-chip-in-pre-release-geekbench-6-scores/</link>
-      <guid isPermaLink="true">https://wccftech.com/nvidias-upcoming-n1x-soc-fails-to-match-apples-2023-launching-m3-max-chip-in-pre-release-geekbench-6-scores/</guid>
-      <pubDate>2026-05-31T16:49:00Z</pubDate>
+      <title>ASUS Teases 540Hz OLED Esports Monitor</title>
+      <description>ASUS reveals a teaser for the ROG Strix OLED XG259QWPG Ace esports monitor, boasting a 540Hz refresh rate ahead of Computex 2026.</description>
+      <link>https://videocardz.com/newz/asus-teases-24-5-inch-rog-strix-oled-xg259qwpg-ace-esports-monitor-with-540hz-refresh-rate</link>
+      <guid isPermaLink="true">https://videocardz.com/newz/asus-teases-24-5-inch-rog-strix-oled-xg259qwpg-ace-esports-monitor-with-540hz-refresh-rate</guid>
+      <pubDate>2026-05-31T07:16:03Z</pubDate>
       <category>Hardware</category>
-      <source url="https://wccftech.com/nvidias-upcoming-n1x-soc-fails-to-match-apples-2023-launching-m3-max-chip-in-pre-release-geekbench-6-scores/">Wccftech</source>
+      <source url="https://videocardz.com/newz/asus-teases-24-5-inch-rog-strix-oled-xg259qwpg-ace-esports-monitor-with-540hz-refresh-rate">Videocardz.com</source>
     </item>
     <item>
-      <title>California Assembly Passes 'Stop Killing Games' Bill</title>
-      <description>California's Assembly passed Bill AB 1921, enhancing protections for games taken offline. This is a significant victory for the Stop Killing Games movement.</description>
-      <link>https://kotaku.com/stop-killing-games-bill-passes-california-assembly-scott-ross-2000700893</link>
-      <guid isPermaLink="true">https://kotaku.com/stop-killing-games-bill-passes-california-assembly-scott-ross-2000700893</guid>
-      <pubDate>2026-05-31T15:03:07Z</pubDate>
-      <category>Policy</category>
-      <source url="https://kotaku.com/stop-killing-games-bill-passes-california-assembly-scott-ross-2000700893">Kotaku</source>
-    </item>
-    <item>
-      <title>Minecraft Live Unveils Exciting New Features</title>
-      <description>Mojang's Minecraft Live event revealed new content including Minecraft Dungeons II and a new biome. Fans are excited about the upcoming updates.</description>
-      <link>https://www.nintendolife.com/news/2026/05/round-up-minecraft-live-may-2026-chaos-cubed-drop-new-biome-minecraft-dungeons-ii-and-more</link>
-      <guid isPermaLink="true">https://www.nintendolife.com/news/2026/05/round-up-minecraft-live-may-2026-chaos-cubed-drop-new-biome-minecraft-dungeons-ii-and-more</guid>
-      <pubDate>2026-05-31T13:00:00Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.nintendolife.com/news/2026/05/round-up-minecraft-live-may-2026-chaos-cubed-drop-new-biome-minecraft-dungeons-ii-and-more">Nintendo Life</source>
-    </item>
-    <item>
-      <title>April 2026's Best-Selling Games Revealed</title>
-      <description>Tomodachi Life: Living the Dream topped the U.S. sales charts in April 2026, marking a successful debut for the social sim game. Other titles also performed well.</description>
-      <link>https://www.eurogamer.net/tomodachi-life-best-seller-april-2026</link>
-      <guid isPermaLink="true">https://www.eurogamer.net/tomodachi-life-best-seller-april-2026</guid>
-      <pubDate>2026-05-31T11:17:20Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.eurogamer.net/tomodachi-life-best-seller-april-2026">Eurogamer</source>
+      <title>Apple Cancels Cosmic Orange for iPhone 18 Pro</title>
+      <description>Apple's iPhone 18 Pro will feature higher specs but will not include the Cosmic Orange color option, focusing on performance and aesthetics.</description>
+      <link>https://www.forbes.com/sites/ewanspence/2026/05/30/apple-iphone-18-pro-dark-cherry-color-strategy/</link>
+      <guid isPermaLink="true">https://www.forbes.com/sites/ewanspence/2026/05/30/apple-iphone-18-pro-dark-cherry-color-strategy/</guid>
+      <pubDate>2026-05-30T20:21:20Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.forbes.com/sites/ewanspence/2026/05/30/apple-iphone-18-pro-dark-cherry-color-strategy/">Forbes</source>
     </item>
   </channel>
 </rss>
