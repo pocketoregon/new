@@ -13,7 +13,7 @@ from datetime import datetime, timezone
 class StructuredArticle(BaseModel):
     title: str = Field(description="The rewritten punchy headline.")
     description: str = Field(description="A brief summary. Exactly 2 to 3 short sentences. Strict maximum of 35 words total.")
-    category: str = Field(description="Must be one of: AI, Hardware, Software, Security, Science, Business, Policy, Startups, Gaming")
+    category: str = Field(description="Must be one of: AI, Hardware, Software, Security, Science, Business, Policy, Startups, Gaming, Geopolitics")
     source: str = Field(description="Keep exact original source name unchanged.")
     url: str = Field(description="Keep exact original URL unchanged.")
     image: str = Field(description="Keep exact original image URL unchanged.")
@@ -101,6 +101,7 @@ Content: {article['content'][:300] if article['content'] else ''}
 CRITICAL CONSTRAINTS:
 - Keep everything simple, punchy, and direct.
 - 'description' MUST be only 2-3 sentences and UNDER 35 words total. No long fluff paragraphs.
+- For world/international news assign category 'Geopolitics'. For gaming/entertainment assign 'Gaming'.
 - 'key_points' MUST contain exactly 3 strings, each under 8 words.
 - 'impact' MUST be exactly 1 sentence under 20 words.
 - Keep original source names, URLs, and image URLs unchanged.
@@ -122,7 +123,7 @@ Articles to process: {articles_text}"""
         return {"date": today, "generated_at": datetime.now(timezone.utc).isoformat(), "articles": []}
 
 def validate(news_data, original_articles):
-    valid_categories = {"AI", "Hardware", "Software", "Security", "Science", "Business", "Policy", "Startups", "Gaming"}
+    valid_categories = {"AI", "Hardware", "Software", "Security", "Science", "Business", "Policy", "Startups", "Gaming", "Geopolitics"}
     for i, article in enumerate(news_data["articles"]):
         if i < len(original_articles):
             if not article.get("url"):
