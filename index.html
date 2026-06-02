@@ -836,7 +836,7 @@
   function updateClock() {
     const now = new Date();
     const el = document.getElementById('live-clock');
-    if (el) el.textContent = now.toLocaleTimeString('en-US', { hour12: false }) + ' UTC';
+    if (el) el.textContent = now.toLocaleTimeString('en-US', { hour12: false }) + ' ' + Intl.DateTimeFormat().resolvedOptions().timeZone;
   }
 
   loadNews();
