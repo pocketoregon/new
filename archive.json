@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-02T04:14:13.332846+00:00",
+      "fetched_at": "2026-06-02T04:14:13.332846+00:00",
+      "label": "Jun 02, 2026 — 04:14 AM UTC",
+      "articles": [
+        {
+          "title": "AMD Extends Socket AM5 Lifespan to 2029",
+          "description": "AMD confirms Socket AM5 will remain relevant until 2029, celebrating the success of its AM4 platform. This move strengthens AMD's competitive edge against Intel.",
+          "category": "Hardware",
+          "source": "Techpowerup.com",
+          "url": "https://www.techpowerup.com/349541/amd-announces-socket-am5-longevity-till-2029",
+          "image": "https://www.techpowerup.com/img/jcS5gR8dlgydp7iU.jpg",
+          "published_at": "2026-06-01T00:22:12Z",
+          "key_points": [
+            "Socket AM5 lasts until 2029",
+            "Celebrates AM4's success",
+            "Strengthens AMD's market position"
+          ],
+          "impact": "AMD's longevity plan boosts consumer confidence.",
+          "id": "c0d9d3a75ce9a6eeabffa4feb1877eee"
+        },
+        {
+          "title": "Dell Launches $699 Touch-Screen XPS 13 to Compete with Apple",
+          "description": "Dell's new XPS 13 laptop, priced at $699, directly challenges Apple's MacBook Neo. The device features a sleek design and touch-screen capabilities.",
+          "category": "Hardware",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-31/dell-challenges-apple-s-macbook-neo-with-699-touch-screen-xps-13-laptop",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOUlgCk_A0Y4/v1/1200x800.jpg",
+          "published_at": "2026-05-31T23:00:04Z",
+          "key_points": [
+            "New XPS 13 targets MacBook Neo",
+            "Priced at $699",
+            "Features touch-screen technology"
+          ],
+          "impact": "Dell aims to capture budget-conscious consumers.",
+          "id": "22e7dd4be5b088e1d6152c3dcdcb9e0f"
+        },
+        {
+          "title": "Sony's State of Play Menu Leaked for Alamo Drafthouse",
+          "description": "A special menu for Sony's upcoming State of Play event at Alamo Drafthouse has leaked. Fans eagerly await the announcements set for June 2.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/state-of-plays-special-alamo-drafthouse-menu-has-leaked-and-heres-what-sonys-cooking",
+          "image": "https://images.pushsquare.com/63f1dca2e066f/large.jpg",
+          "published_at": "2026-05-31T23:00:00Z",
+          "key_points": [
+            "State of Play menu leaked",
+            "Event scheduled for June 2",
+            "Fans excited for announcements"
+          ],
+          "impact": "Anticipation builds for Sony's event.",
+          "id": "5cddea1e8050a50e824602ecb09d4521"
+        },
+        {
+          "title": "868-BACK: A Cyberpunk Roguelike Revival",
+          "description": "The classic roguelike 868-HACK returns as 868-BACK, offering a more accessible experience. Players can now enjoy its challenging gameplay on modern platforms.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/an-essential-cyberpunk-roguelike-returns-in-868-back-2000700901",
+          "image": "https://kotaku.com/app/uploads/2026/05/868back-1097x675.jpg",
+          "published_at": "2026-05-31T18:27:33Z",
+          "key_points": [
+            "868-HACK returns as 868-BACK",
+            "More accessible gameplay",
+            "Revives classic cyberpunk experience"
+          ],
+          "impact": "Old-school gamers rejoice with this revival.",
+          "id": "d4647636b21aaed24f891652e2d39fe1"
+        },
+        {
+          "title": "Samsung Messages to Shut Down: Transition to Google Messages",
+          "description": "Samsung Messages will cease operations in July 2026, urging users to transition to Google Messages. Early action is recommended to avoid complications.",
+          "category": "Software",
+          "source": "CNET",
+          "url": "https://www.cnet.com/tech/mobile/the-transition-from-samsung-messages-to-google-messages-is-simple-if-you-start-now-and-a-headache-if-you-wait-until-july/",
+          "image": "https://www.cnet.com/a/img/resize/e2499b41644449b4f6ad945f5d565619fa82b841/hub/2026/04/06/d131c6cf-e3ed-4b8d-99fc-330c944a174e/file.png?auto=webp&fit=crop&height=675&width=1200",
+          "published_at": "2026-05-31T17:00:00Z",
+          "key_points": [
+            "Samsung Messages ends in July",
+            "Switch to Google Messages",
+            "Act now to avoid issues"
+          ],
+          "impact": "Users must adapt quickly to avoid disruptions.",
+          "id": "173a1c87b84e028173aa2a65b239c03d"
+        },
+        {
+          "title": "Unannounced Rayman Game Leaks Online",
+          "description": "Details of a new Rayman game, titled Rayman Origins: Enhanced Edition, have leaked online. The game is expected to retail for $1999.99.",
+          "category": "Gaming",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/unannounced-rayman-origins-enhanced-edition-leak",
+          "image": "https://assetsio.gnwcdn.com/rayman-origins-is-currently-free-on-pc-1639525822480.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-05-31T16:25:19Z",
+          "key_points": [
+            "Rayman Origins: Enhanced Edition leaks",
+            "Retail price set at $1999.99",
+            "Details surfaced on Xbox store"
+          ],
+          "impact": "Fans excited for the return of Rayman.",
+          "id": "0d2705f4eb66423298bddb0dd22e2546"
+        },
+        {
+          "title": "AMC's Decline Linked to Tragic History",
+          "description": "AMC's downfall can be traced back to a pivotal moment in its history. The company once competed fiercely but faltered under new ownership.",
+          "category": "Business",
+          "source": "SlashGear",
+          "url": "https://www.slashgear.com/2183475/amc-auto-downfall-georges-besse-assassination/",
+          "image": "https://www.slashgear.com/img/gallery/amcs-downfall-can-be-traced-back-to-one-tragic-moment/l-intro-1780048360.jpg",
+          "published_at": "2026-05-31T16:15:00Z",
+          "key_points": [
+            "AMC's history of competition",
+            "Tragic ownership changes",
+            "Decline traced to key events"
+          ],
+          "impact": "Understanding AMC's past reveals industry lessons.",
+          "id": "a0450110db4f0c25c593c74e6637ffaf"
+        },
+        {
+          "title": "New Apple TV and HomePod Mini Launch Imminent",
+          "description": "Apple's new Apple TV 4K and HomePod mini models are reportedly ready for launch. A new Siri remote is also rumored to be in the works.",
+          "category": "Hardware",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/05/31/new-apple-tv-and-homepod-mini-nearly-ready/",
+          "image": "https://images.macrumors.com/t/Zeedv2Uhp5RsSd48ugoPq_aNaTk=/2500x/article-new/2026/03/HomePod-mini-and-Apple-TV-Sage.jpg",
+          "published_at": "2026-05-31T15:47:50Z",
+          "key_points": [
+            "New Apple TV and HomePod mini",
+            "Launch expected soon",
+            "New Siri remote rumored"
+          ],
+          "impact": "Apple continues to innovate in home tech.",
+          "id": "48e6270cf776c4c34587145c00cd15f3"
+        },
+        {
+          "title": "Apple's Next Target: The Eyewear Market",
+          "description": "Apple aims to disrupt the $200 billion eyewear industry, similar to its impact on watches. Smart glasses are expected by late 2027.",
+          "category": "Business",
+          "source": "The Next Web",
+          "url": "https://thenextweb.com/news/apple-smart-glasses-eyewear-market-disruption-watch-playbook/",
+          "image": "https://media.thenextweb.com/2026/05/apple-smart-glasses-eyewear-market-disruption-watch-playbook.avif",
+          "published_at": "2026-05-31T14:39:00Z",
+          "key_points": [
+            "Apple targets eyewear market",
+            "Smart glasses expected by 2027",
+            "Disruption similar to watches"
+          ],
+          "impact": "Apple's entry could reshape eyewear industry.",
+          "id": "5ae2b65d52544a34abb1156e5416d194"
+        },
+        {
+          "title": "15 New Motorcycles to Check Out Now",
+          "description": "A roundup of the latest motorcycles, featuring standout models from Borgo Panigale and other brands. Exciting options for enthusiasts are available now.",
+          "category": "Business",
+          "source": "Gear Patrol",
+          "url": "https://www.gearpatrol.com/motorcycles/best-new-motorcycles-may-31-2026/",
+          "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/05/Ducati-Diavel-V4-RS-100-tank-macro.webp",
+          "published_at": "2026-05-31T14:00:00Z",
+          "key_points": [
+            "Latest motorcycles unveiled",
+            "Borgo Panigale leads the pack",
+            "Exciting options for riders"
+          ],
+          "impact": "Motorcycle enthusiasts have new choices.",
+          "id": "88a181c8b12348d8a5d5a71dc2b8f783"
+        },
+        {
+          "title": "T-Mobile Tops JD Power Customer Satisfaction Survey",
+          "description": "JD Power's latest survey reveals T-Mobile ranks highest in customer satisfaction among phone carriers. Verizon and AT&T trail behind.",
+          "category": "Business",
+          "source": "BGR",
+          "url": "https://www.bgr.com/2181201/phone-carrier-leads-customer-satisfaction-jd-power-t-mobile/",
+          "image": "https://www.bgr.com/img/gallery/not-verizon-not-att-jd-power-says-this-phone-carrier-leads-in-customer-satisfaction/l-intro-1779483727.jpg",
+          "published_at": "2026-05-31T13:47:00Z",
+          "key_points": [
+            "T-Mobile leads in satisfaction",
+            "Verizon and AT&T lag behind",
+            "JD Power survey results released"
+          ],
+          "impact": "T-Mobile's customer focus pays off.",
+          "id": "5fafeaeaa67089f3a9d5cf40ddb28f3f"
+        },
+        {
+          "title": "Reality May Be a VR Simulation, Claims Scientist",
+          "description": "Scientist Donald Hoffman suggests reality resembles a VR simulation rather than traditional space-time. His theory challenges conventional perceptions of existence.",
+          "category": "Science",
+          "source": "Popular Mechanics",
+          "url": "https://www.popularmechanics.com/science/a71445608/space-time-illusion-consciousness/",
+          "image": "https://s.yimg.com/ny/api/res/1.2/Hp7JRhAqcX.1WpNSv9C13g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/popular_mechanics_642/91333d82ec8445aa939feba313224707",
+          "published_at": "2026-05-31T13:00:00Z",
+          "key_points": [
+            "Reality may be a simulation",
+            "Hoffman's theory challenges norms",
+            "Space-time perception questioned"
+          ],
+          "impact": "This theory could reshape our understanding.",
+          "id": "a7ad0ca8332fef0fa00c88f85a7eea64"
+        },
+        {
+          "title": "8 Must-Have Gadgets This Week",
+          "description": "A roundup of the most notable tech gadgets released recently. Stay updated on the latest innovations in technology.",
+          "category": "Software",
+          "source": "Gear Patrol",
+          "url": "https://www.gearpatrol.com/audio/best-new-tech-releases-5-31-26/",
+          "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/05/Sony-bravia-tv-lead.webp",
+          "published_at": "2026-05-31T12:00:00Z",
+          "key_points": [
+            "Latest tech gadgets released",
+            "Stay updated on innovations",
+            "Notable products highlighted"
+          ],
+          "impact": "Tech enthusiasts won't want to miss these.",
+          "id": "a881006a955a2921cc7df56220f13dc7"
+        },
+        {
+          "title": "Tips to Improve Pixel Battery Life",
+          "description": "Simple habits can significantly enhance battery life for Google Pixel users. Small changes lead to better performance and less anxiety.",
+          "category": "Software",
+          "source": "Android Police",
+          "url": "https://www.androidpolice.com/replaced-pixel-battery-anxiety-with-simple-habits/",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/google-pixel-phone-with-a-glowing-green-battery-symbol-floating-through-the-screen.png?w=1600&h=900&fit=crop",
+          "published_at": "2026-05-31T11:00:12Z",
+          "key_points": [
+            "Improve Pixel battery life",
+            "Adopt simple habits",
+            "Reduce battery anxiety"
+          ],
+          "impact": "Users can enjoy longer-lasting devices.",
+          "id": "e935df59e6264af2782e1dd9290373ce"
+        },
+        {
+          "title": "Samsung Employee Spotted with Galaxy Z Fold 8",
+          "description": "A Samsung employee was seen using the Galaxy Z Fold 8 in public, hinting at its upcoming release. The device's features remain under wraps.",
+          "category": "Hardware",
+          "source": "PhoneArena",
+          "url": "https://www.phonearena.com/news/galaxy-z-fold-8-wide-vs-fold-8-ultra_id180769",
+          "image": "",
+          "published_at": "2026-05-31T10:29:05Z",
+          "key_points": [
+            "Galaxy Z Fold 8 sighting",
+            "Hints at imminent release",
+            "Features still undisclosed"
+          ],
+          "impact": "Anticipation builds for Samsung's latest foldable.",
+          "id": "985ab9d49ef5ef25b59897bbaee39d98"
+        }
+      ]
+    },
+    {
       "id": "2026-06-01T23:04:28.195145+00:00",
       "fetched_at": "2026-06-01T23:04:28.195145+00:00",
       "label": "Jun 01, 2026 — 11:04 PM UTC",
@@ -5544,141 +5791,6 @@
           ],
           "impact": "Sony sets a high bar for TV performance.",
           "id": "1595f0f7a75073104a3d49a996b9c49a"
-        }
-      ]
-    },
-    {
-      "id": "2026-05-28T18:17:51.958713+00:00",
-      "fetched_at": "2026-05-28T18:17:51.958713+00:00",
-      "label": "May 28, 2026 — 06:18 PM UTC",
-      "articles": [
-        {
-          "title": "Dragon Quest 12 Delayed as Team Starts Over",
-          "description": "Dragon Quest XII: Beyond Dreams faces delays as Square Enix decides to restart development. Fans will have to wait longer for the sequel they've anticipated for nearly a decade.",
-          "category": "Software",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/dragon-quest-12-will-take-longer-to-come-out-after-the-team-decided-to-start-from-scratch-2000699781",
-          "image": "https://kotaku.com/app/uploads/2026/05/thumbs-up.jpg",
-          "published_at": "2026-05-27T15:44:24Z",
-          "key_points": [
-            "Development restarted from scratch",
-            "No release date announced",
-            "Fans disappointed by delay"
-          ],
-          "impact": "The delay extends the wait for eager fans.",
-          "id": "81a91321f8dc297516d5af7f8b91ca0b"
-        },
-        {
-          "title": "Mina The Hollower Claims Top Metacritic Spot",
-          "description": "Mina the Hollower has achieved the highest Metacritic score of 2026, surpassing competitors by a significant margin. It stands out in a competitive gaming landscape this year.",
-          "category": "Software",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/paultassi/2026/05/27/the-highest-metacritic-scored-game-of-2026-has-just-arrived/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a16fe1e8a48812d17031fad/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "published_at": "2026-05-27T15:34:49Z",
-          "key_points": [
-            "Mina the Hollower is #1",
-            "Significant Metacritic lead",
-            "Competing games struggle to catch up"
-          ],
-          "impact": "Mina the Hollower sets a high bar for 2026.",
-          "id": "9fb6196e33cfbdd0e6882d3f06086db2"
-        },
-        {
-          "title": "Nvidia Retires Legacy Control Panel After 20 Years",
-          "description": "Nvidia has officially retired its Windows XP-era Control Panel, migrating its features to the new Nvidia app. This marks the end of an era for long-time users.",
-          "category": "Software",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/05/nvidia-kills-windows-xp-era-control-panel-after-20-years-of-dedicated-service/",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/nvidia-control-panel-1152x648-1779893010.jpg",
-          "published_at": "2026-05-27T15:06:01Z",
-          "key_points": [
-            "Control Panel retired after 20 years",
-            "Features moved to Nvidia app",
-            "End of an era for users"
-          ],
-          "impact": "Users must adapt to the new Nvidia app.",
-          "id": "ed8ab126732682076d70c87d52bf615b"
-        },
-        {
-          "title": "Kojima and Refn Collaborate on AI Short for Prada",
-          "description": "Hideo Kojima and Nicolas Winding Refn have teamed up for an AI-driven short film for a Prada event. This collaboration explores innovative creative possibilities.",
-          "category": "Startups",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/hideo-kojima-nicolas-winding-refn-ai-short",
-          "image": "https://assetsio.gnwcdn.com/Prada_NWRxKojima.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-05-27T14:11:00Z",
-          "key_points": [
-            "Kojima and Refn's new collaboration",
-            "AI technology used creatively",
-            "Short film for Prada event"
-          ],
-          "impact": "The project showcases AI's creative potential.",
-          "id": "d3637ddbe70edc4180ca1c987f21b207"
-        },
-        {
-          "title": "Roku Launches Major Home Screen Update",
-          "description": "Roku unveils its first significant home screen update in over a decade, promising a more dynamic and personalized experience for users. The platform continues to grow rapidly.",
-          "category": "Software",
-          "source": "Deadline",
-          "url": "http://deadline.com/2026/05/roku-unveils-major-home-screen-update-1236921759/",
-          "image": "https://deadline.com/wp-content/uploads/2026/05/Destinations.png?w=1024",
-          "published_at": "2026-05-27T14:03:00Z",
-          "key_points": [
-            "First update in over a decade",
-            "More dynamic and personalized",
-            "Roku surpasses 100 million households"
-          ],
-          "impact": "The update enhances user engagement on Roku.",
-          "id": "41077da3f35e82548aa33d6200e88de9"
-        },
-        {
-          "title": "Destiny 2 Community Divided Over Shutdown",
-          "description": "The impending shutdown of Destiny 2 has split the community, as players react to the end of updates for the long-running game. Many are frustrated with the transition to Marathon.",
-          "category": "Software",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/paultassi/2026/05/27/a-destiny-2-vs-marathon-civil-war-is-heating-up-frustrating-many/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/696f88d3f014a65b791bbd4e/0x0.jpg?format=jpg&crop=1578,887,x0,y0,safe&height=900&width=1600&fit=bounds",
-          "published_at": "2026-05-27T14:02:09Z",
-          "key_points": [
-            "Destiny 2 shutting down soon",
-            "Community divided over changes",
-            "Frustration over Marathon's rise"
-          ],
-          "impact": "The shutdown creates significant community unrest.",
-          "id": "759353721cbc1ac2829c4b0ca9dff997"
-        },
-        {
-          "title": "Motorola Fixes Unintended Amazon App Hijacking",
-          "description": "Motorola has addressed an issue where its phones were hijacking the Amazon app to inject affiliate data. The company confirmed this behavior was unintended and has been resolved.",
-          "category": "Security",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/05/27/motorola-amazon-app-unintended/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/motorola-razr-2026-8.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-05-27T13:55:00Z",
-          "key_points": [
-            "Motorola resolves app hijacking",
-            "Issue confirmed as unintended",
-            "User trust restored with fix"
-          ],
-          "impact": "Motorola's quick response mitigates user concerns.",
-          "id": "6a43a6dab2356dbb23b687ebc7bc23dd"
-        },
-        {
-          "title": "Google Health Faces Fitbit User Backlash",
-          "description": "Google Health's redesign of the Fitbit app has sparked frustration among users. A new roadmap outlines upcoming bug fixes and improvements in response to the backlash.",
-          "category": "Software",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/05/27/google-health-roadmap-fitbit-backlash/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/google-health-logo-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-05-27T13:25:00Z",
-          "key_points": [
-            "Fitbit app redesign causes frustration",
-            "Roadmap promises bug fixes",
-            "User feedback drives improvements"
-          ],
-          "impact": "Google Health aims to regain user satisfaction.",
-          "id": "12f99519545905c38ef1e5000145465e"
         }
       ]
     }
