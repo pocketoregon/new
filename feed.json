@@ -1,245 +1,133 @@
 {
-  "generated_at": "2026-06-02T23:01:34.809318+00:00",
+  "generated_at": "2026-06-03T03:58:26.125300+00:00",
   "articles": [
     {
-      "title": "Date Dilemma: Was She Right to Leave?",
-      "description": "A viral post debates whether leaving a date due to tardiness is justified. Opinions vary on the importance of punctuality in dating.",
-      "category": "Gaming",
-      "source": "Yahoo Entertainment",
-      "url": "https://creators.yahoo.com/lifestyle/story/she-walked-out-on-a-first-date-before-it-even-started-when-her-date-was-running-35-minutes-late-was-she-right-193423178.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/ZiQuhZHAQy7AIjrQowRbsA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-06/1bafecca-6e95-48b4-bfc4-97bd01be4ef2",
-      "published_at": "2026-06-01T20:18:42Z",
-      "key_points": [
-        "Punctuality sparks debate",
-        "Mixed opinions on dating etiquette",
-        "Traffic delays considered"
-      ],
-      "impact": "This incident highlights differing views on dating norms.",
-      "id": "9f96ea0dc6557aa24e3e471450a1b03d"
-    },
-    {
-      "title": "Computex 2026: Key Highlights Unveiled",
-      "description": "Computex 2026 showcases major tech advancements, including Nvidia's RTX Spark and new chips from Intel and Qualcomm.",
+      "title": "Nvidia Targets $200B CPU Market with AI PCs",
+      "description": "Nvidia unveils the RTX Spark superchip at Computex, aiming to revolutionize AI agent PCs with Microsoft, Dell, and HP. This could reshape the CPU landscape significantly.",
       "category": "Hardware",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/940844/computex-2026",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=0%2C9.3778095086996%2C100%2C81.244380982601&w=1200",
-      "published_at": "2026-06-01T20:02:31Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761886.jpg?resize=1200,828",
+      "published_at": "2026-06-01T21:35:00Z",
       "key_points": [
-        "Nvidia announces RTX Spark",
-        "Intel and Qualcomm reveal chips",
-        "AMD updates existing products"
+        "Nvidia launches RTX Spark superchip",
+        "Targets AI agent PCs",
+        "Competing in $200B market"
       ],
-      "impact": "New tech innovations set the stage for future developments.",
-      "id": "8b551e6166e4d9ce97cc408241a7132d"
+      "impact": "Nvidia's move could disrupt the CPU market.",
+      "id": "7a8f5bd4e5874c0c15979a651f86e480"
     },
     {
-      "title": "Nintendo's Mario Sunshine Critique",
-      "description": "Developer Bennett Foddy discusses how criticism of Mario Sunshine has impacted Nintendo's game design approach.",
-      "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/getting-over-it-baby-steps-qwop-super-mario-sunshine-2000701168",
-      "image": "https://kotaku.com/app/uploads/2026/06/mariobabysteps2-1200x675.jpg",
-      "published_at": "2026-06-01T19:08:10Z",
-      "key_points": [
-        "Criticism shapes game development",
-        "Bennett Foddy's insights",
-        "Impact of player feedback"
-      ],
-      "impact": "Critiques influence future Nintendo game designs.",
-      "id": "5d74ab225c02a02f7d5d53f75824a2f5"
-    },
-    {
-      "title": "Metal Gear Solid 4: A Cautionary Tale",
-      "description": "Metal Gear Solid 4 is analyzed as a warning against convoluted storytelling in gaming franchises.",
-      "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/metal-gear-solid-4-was-a-warning-cry-to-other-franchises-2000701073",
-      "image": "https://kotaku.com/app/uploads/2026/06/image-88-1200x675.jpg",
-      "published_at": "2026-06-01T18:30:13Z",
-      "key_points": [
-        "Franchise storytelling pitfalls",
-        "Self-referential madness",
-        "Cinematic universe critique"
-      ],
-      "impact": "The game serves as a lesson for future franchises.",
-      "id": "6d2ca333304b89d60622499aad736e5d"
-    },
-    {
-      "title": "Lifetime Access to AI Models for $60",
-      "description": "Cancel your Claude subscription and get lifetime access to multiple AI models for a one-time fee.",
-      "category": "Software",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/may-30-chatplayground-ai-unlimited-plan-lifetime-subscriptions",
-      "image": "https://helios-i.mashable.com/imagery/articles/01slvSKpQQpioTrZf23W6sv/hero-image.fill.size_1200x675.v1779796115.jpg",
-      "published_at": "2026-06-01T17:50:29Z",
-      "key_points": [
-        "One-time fee for lifetime access",
-        "Multiple AI models included",
-        "No monthly subscriptions"
-      ],
-      "impact": "This offer simplifies AI access for users.",
-      "id": "2c9a4e108ad5cbf6a08af2ae22eeb11d"
-    },
-    {
-      "title": "Nvidia Stock Rises Amid PC Market Push",
-      "description": "Nvidia's stock surged after announcing a new product aimed at the personal computer market, impacting Intel and AMD.",
-      "category": "Business",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-jumps-pc-push-174043570.html",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "published_at": "2026-06-01T17:40:43Z",
-      "key_points": [
-        "Nvidia stock climbs 4%",
-        "New PC product announced",
-        "Intel and AMD affected"
-      ],
-      "impact": "Nvidia's move reshapes competitive dynamics in the market.",
-      "id": "e03c0589bd3cd15615de534d36ae0eec"
-    },
-    {
-      "title": "Apple Fixes iPhone Charging Issues",
-      "description": "Apple releases iOS 26.5.1 to address charging problems in iPhone Air and iPhone 17 models.",
-      "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/01/apple-releases-ios-26-5-1/",
-      "image": "https://images.macrumors.com/t/x5OKeizcRejo6CTsrqL2FNQ1Q2k=/2500x/article-new/2026/05/iOS-26.5.1-Feature.jpg",
-      "published_at": "2026-06-01T17:23:23Z",
-      "key_points": [
-        "iOS 26.5.1 released",
-        "Fixes charging issues",
-        "Available for iPhone Air"
-      ],
-      "impact": "This update resolves critical user complaints.",
-      "id": "c728fa6d662ad68d1c401efccd8e4e42"
-    },
-    {
-      "title": "Google Messages Gains Animated Wallpapers",
-      "description": "Google Messages will soon support custom chat wallpapers, including animated GIFs.",
-      "category": "Software",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/google-messages-wallpaper-animations-3673191/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Google-Messages-Logo-on-Pixel-9a.jpg",
-      "published_at": "2026-06-01T17:23:06Z",
-      "key_points": [
-        "Custom wallpapers introduced",
-        "Animated GIF support added",
-        "Enhances user experience"
-      ],
-      "impact": "This feature enriches the messaging experience.",
-      "id": "300b415a5a376fba77040b9cb6ca5992"
-    },
-    {
-      "title": "AMD Extends Socket AM5 Support",
-      "description": "AMD announces extended support for Socket AM5 through at least 2029, with new product launches.",
-      "category": "Hardware",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/06/amd-extends-socket-am5-support-through-at-least-2029-am4-refuses-to-die/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_0491-1152x648.jpeg",
-      "published_at": "2026-06-01T17:02:22Z",
-      "key_points": [
-        "Socket AM5 support extended",
-        "New products launched",
-        "AM4 remains relevant"
-      ],
-      "impact": "AMD's strategy ensures longevity for users.",
-      "id": "c7afa1f33f3074894f2b6b5276f03879"
-    },
-    {
-      "title": "Sony Launches New Gaming Accessories",
-      "description": "Sony announces the launch of its FlexStrike fight stick and gaming monitor for August, with more details on speakers to follow.",
+      "title": "Google Pixel Watch 5 Spoiled by Randy Pitchford",
+      "description": "Randy Pitchford claims his friend found the Google Pixel Watch 5 while scuba diving, potentially revealing its design ahead of the official launch.",
       "category": "Gaming",
       "source": "The Verge",
-      "url": "https://www.theverge.com/games/941031/sony-playstation-flexstrike-fight-stick-gaming-monitor-pulse-elevate-speakers-launch-date-price",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/e83ee8bdc472aaa069d6fb0cd1c51a1151b2ed3e.jpg.webp?quality=90&strip=all&crop=0%2C3.2448557165469%2C100%2C93.510288566906&w=1200",
-      "published_at": "2026-06-01T16:36:18Z",
+      "url": "https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/randy-pitchford-google-watch.jpg?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
+      "published_at": "2026-06-01T20:59:14Z",
       "key_points": [
-        "FlexStrike fight stick launching",
-        "27-inch gaming monitor announced",
-        "Pulse Elevate speakers coming later"
+        "Pixel Watch 5 design leaked",
+        "Found while scuba diving",
+        "Randy Pitchford involved"
       ],
-      "impact": "New accessories enhance the gaming experience.",
-      "id": "bc48ccec061e7f96ab999f84420238e7"
+      "impact": "This leak may affect Pixel Watch 5's launch.",
+      "id": "1e36bc5f75af6f112dec6a73207afdf8"
     },
     {
-      "title": "Apple Teases WWDC26 with New Content",
-      "description": "Apple shares a new wallpaper, playlist, and video to promote WWDC 2026, building anticipation for the event.",
+      "title": "Google Releases Final Android 17 Beta 4.1 Update",
+      "description": "Google rolls out Android 17 Beta 4.1 for Pixel devices, focusing on bug fixes ahead of the stable release.",
       "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/01/apple-shares-wwdc-2026-wallpaper/",
-      "image": "https://images.macrumors.com/t/dcSzk30En7kclD_dWwSVaC97V4I=/1600x/article-new/2026/06/WWDC-2026-Wallpaper.jpg",
-      "published_at": "2026-06-01T16:17:57Z",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/06/01/android-17-beta-4-1-pixel/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Android-17-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-01T20:30:00Z",
       "key_points": [
-        "WWDC26 teaser released",
-        "New wallpaper and playlist",
-        "Promotional video shared"
+        "Android 17 Beta 4.1 released",
+        "Focus on bug fixes",
+        "Prepares for stable launch"
       ],
-      "impact": "Apple builds excitement ahead of WWDC.",
-      "id": "bdd23194b436e83bd488d1971aaeff0a"
+      "impact": "This update enhances user experience for Pixel.",
+      "id": "04c0c9320d387282edadf0e6f47299dd"
     },
     {
-      "title": "New iPhone Ultra Features Leaked",
-      "description": "A leak reveals a new vapor chamber feature for the iPhone Ultra, along with an update on its release timing.",
-      "category": "Software",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/01/leaker-reveals-new-iphone-ultra-feature-release-timing-update/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-01T15:51:00Z",
+      "title": "Dell's $700 XPS 13 Aims at MacBook Neo",
+      "description": "Dell introduces a budget-friendly XPS 13 at $699.99, designed to compete with Apple's MacBook Neo while offering unique advantages.",
+      "category": "Hardware",
+      "source": "PCMag",
+      "url": "https://www.pcmag.com/news/at-computex-2026-dell-700-xps-13-sets-its-sights-apple-macbook-neo",
+      "image": "https://i.pcmag.com/imagery/articles/00XIYAzgj0ySGqepc2jVujm-6.fit_lim.size_1200x630.v1779992597.jpg",
+      "published_at": "2026-06-01T18:05:07Z",
       "key_points": [
-        "iPhone Ultra feature leaked",
-        "Vapor chamber technology",
-        "Release timing updated"
+        "Dell XPS 13 priced at $699.99",
+        "Targets MacBook Neo",
+        "Offers competitive features"
       ],
-      "impact": "New features may enhance device performance.",
-      "id": "9157819c35329b0e83e470b5dd1cbbfa"
+      "impact": "Dell's strategy could reshape budget laptop market.",
+      "id": "072beb73d2996c64fbc8b8b0f365bfe6"
     },
     {
-      "title": "C8 Corvette's 8.1L Engine Hits the Road",
-      "description": "The world's first 8.1L big block C8 Corvette has been engineered for performance and is now on the freeway.",
+      "title": "Sony Reveals PlayStation Accessories Release Date",
+      "description": "Sony announces pricing and release details for new PlayStation accessories, including a $200 Bluetooth fight stick launching on August 6.",
+      "category": "Gaming",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/gaming/sony-playstation-accessories/",
+      "image": "https://www.cnet.com/a/img/resize/8192642f88943a0d834cde13f88b076cafecc886/hub/2026/05/29/f8872970-272f-4331-a1d8-c75ae9a180ff/image-9.png?auto=webp&fit=crop&height=675&width=1200",
+      "published_at": "2026-06-01T15:01:00Z",
+      "key_points": [
+        "New accessories announced",
+        "Bluetooth fight stick costs $200",
+        "Preorders start June 12"
+      ],
+      "impact": "These accessories expand the PlayStation ecosystem.",
+      "id": "e0e181a797c93bceed35218ca420f5bc"
+    },
+    {
+      "title": "Valve Faces Antitrust Challenges Over Steam",
+      "description": "Valve is under scrutiny in the US and UK for alleged market abuse through its Steam platform, with the company denying the claims.",
       "category": "Geopolitics",
-      "source": "The Drive",
-      "url": "https://www.thedrive.com/news/worlds-first-8-1l-big-block-c8-corvette-finally-hits-the-freeway",
-      "image": "https://www.thedrive.com/wp-content/uploads/2026/06/Big-Block-C8-Hero-2.jpg?w=1200",
-      "published_at": "2026-06-01T15:29:16Z",
+      "source": "Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/features/2026-06-01/valve-s-antitrust-reckoning-over-steam-has-echoes-of-apple-google-app-store-sui",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9tgFpD6fcXo/v0/1200x630.jpg",
+      "published_at": "2026-06-01T09:00:04Z",
       "key_points": [
-        "First 8.1L C8 Corvette launched",
-        "Advanced engineering features",
-        "Performance-focused design"
+        "Valve faces antitrust lawsuits",
+        "Accused of market abuse",
+        "Company denies allegations"
       ],
-      "impact": "This vehicle sets new performance standards.",
-      "id": "51a6aa06099a20ea07fe63626b46fb09"
+      "impact": "This could reshape Valve's business practices.",
+      "id": "6b09f79e22942e528015dab5e28dd49e"
     },
     {
-      "title": "Setting Up the New Google Health App",
-      "description": "The new Google Health app faces criticism but offers setup tips to improve user experience after the Fitbit app's discontinuation.",
-      "category": "Software",
-      "source": "Droid Life",
-      "url": "https://www.droid-life.com/2026/06/01/heres-the-best-way-to-setup-the-new-google-health-app/",
-      "image": "https://www.droid-life.com/wp-content/uploads/2026/06/Google-Health-Widget-Android-2-1200x628.jpg",
-      "published_at": "2026-06-01T15:06:57Z",
+      "title": "AMD Promises Longevity for AM5 Platform",
+      "description": "AMD commits to supporting its AM5 platform until 2030, while reintroducing older components to extend usability for users.",
+      "category": "Hardware",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/1505974-dr-lisa-su-ryzen.jpg?quality=90&strip=all&crop=0%2C1.7777777777778%2C74.4%2C69.249563699825&w=1200",
+      "published_at": "2026-06-01T00:00:00Z",
       "key_points": [
-        "Google Health app criticized",
-        "Setup tips provided",
-        "Fitbit app replaced"
+        "AMD supports AM5 until 2030",
+        "Reintroducing older chips",
+        "Focus on user longevity"
       ],
-      "impact": "Guidance helps users adapt to changes.",
-      "id": "142b8110d72cf6c13e83c7b6ad512a39"
+      "impact": "AMD's strategy may enhance customer loyalty.",
+      "id": "22c53716733b21e4e8687df61a0389eb"
     },
     {
-      "title": "Sony Targets Poor-Quality PS5 Games",
-      "description": "Sony announces plans to combat over 1,000 low-quality PS5 games, emphasizing quality over quantity in its gaming ecosystem.",
+      "title": "007 First Light Becomes Denmark's Costliest Project",
+      "description": "The development of 007 First Light has exceeded $200 million, marking it as Denmark's most expensive entertainment project to date.",
       "category": "Gaming",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/06/were-continuing-our-journey-on-xbox-switch-and-steam-sony-wages-war-on-1000plus-crappy-ps5-games",
-      "image": "https://images.pushsquare.com/6068c94fa5a92/large.jpg",
-      "published_at": "2026-06-01T15:00:00Z",
+      "source": "MP1st",
+      "url": "https://mp1st.com/news/007-first-light-cost-over-200-million-develop-denmarks-expensive-entertainment-project",
+      "image": "https://mp1st.com/wp-content/uploads/2026/05/007-first-light-image4.jpg",
+      "published_at": "2026-05-31T19:05:08Z",
       "key_points": [
-        "Sony targets low-quality games",
-        "Focus on quality gaming",
-        "Commitment to better titles"
+        "007 First Light costs over $200 million",
+        "Denmark's most expensive project",
+        "Developed by IO Interactive"
       ],
-      "impact": "This initiative aims to enhance gaming standards.",
-      "id": "1a216dcd50990ea7262edb593d5d9379"
+      "impact": "This sets a new benchmark for entertainment budgets.",
+      "id": "52ae0100023b970b40547435cb88f6d6"
     }
   ]
 }
