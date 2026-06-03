@@ -1,245 +1,245 @@
 {
-  "generated_at": "2026-06-03T20:54:35.233903+00:00",
+  "generated_at": "2026-06-03T23:05:34.680902+00:00",
   "articles": [
     {
-      "title": "Microsoft Build 2026: Top 7 Announcements",
-      "description": "Microsoft's Build 2026 showcased major updates in AI, Surface devices, and Windows. The keynote emphasized AI advancements significantly.",
-      "category": "Software",
+      "title": "PlayStation State of Play June 2026: Major Reveals",
+      "description": "Sony's State of Play showcased exciting PS5 titles, including a new Wolverine game. The event took place on June 2nd, ahead of Summer Game Fest.",
+      "category": "Gaming",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/nadella-build-2026.png?quality=90&strip=all&crop=0%2C2.9395307941329%2C100%2C94.120938411734&w=1200",
-      "published_at": "2026-06-02T19:23:52Z",
+      "url": "https://www.theverge.com/entertainment/940913/playstation-state-of-play-june-2026-news-trailers",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23986615/acastro_STK097_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-06-02T21:55:32Z",
       "key_points": [
-        "AI updates dominate the keynote",
-        "Surface devices showcased",
-        "Windows enhancements revealed"
+        "New Wolverine game revealed",
+        "Major PS5 titles showcased",
+        "Event precedes Summer Game Fest"
       ],
-      "impact": "Microsoft reinforces its AI leadership position.",
-      "id": "312f7282d6e49f3f31f0ce69891cc6dc"
+      "impact": "Sony's showcase sets the stage for summer gaming.",
+      "id": "2668343af38b595df2dcbfdb48c08f76"
     },
     {
-      "title": "Microsoft Launches Scout, New AI Assistant",
-      "description": "At Build, Microsoft introduced Scout, an AI assistant inspired by OpenClaw, enhancing Microsoft 365's capabilities.",
+      "title": "Rayman Legends Retold Coming to Nintendo Switch 2",
+      "description": "Ubisoft officially announced Rayman Legends Retold for Nintendo Switch 2, launching on October 1, 2026. The remake features enhanced visuals in 2.5D/3D.",
+      "category": "Gaming",
+      "source": "Nintendo Everything",
+      "url": "https://nintendoeverything.com/rayman-legends-retold-announced-for-nintendo-switch-2/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Rayman-Legends-Retold.jpg",
+      "published_at": "2026-06-02T21:19:45Z",
+      "key_points": [
+        "Rayman Legends remake announced",
+        "Launch date set for October 1",
+        "Enhanced 2.5D/3D visuals"
+      ],
+      "impact": "Ubisoft revitalizes a classic for new audiences.",
+      "id": "8f1a65f40f73b4c4fc3b1787ada31354"
+    },
+    {
+      "title": "YouTube TV Offers 50% Off Google TV Streamer",
+      "description": "YouTube TV subscribers can now get a 50% discount on the Google TV Streamer with a promo code. This offer enhances the viewing experience for members.",
+      "category": "Business",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/06/02/youtube-tv-google-tv-streamer/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/YouTube-TV-Google-TV-Streamer.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-02T20:40:00Z",
+      "key_points": [
+        "50% discount for subscribers",
+        "Promo code available now",
+        "Enhances viewing experience"
+      ],
+      "impact": "YouTube TV boosts subscriber value with discounts.",
+      "id": "5557e7d965dede54096bed2ecf78dd42"
+    },
+    {
+      "title": "iOS 27 Unveiling: Exciting New Features Ahead",
+      "description": "Apple's iOS 27 will be unveiled on June 8 at WWDC, featuring five rumored new features that promise significant enhancements.",
       "category": "Software",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/microsoft-logo-1865237814.jpg?resize=1200,863",
-      "published_at": "2026-06-02T18:02:44Z",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/02/ios-27-is-coming-here-are-five-new-features-im-most-excited-about/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/siri-app-icon-iphone-home-screen-angle.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-02T20:21:00Z",
       "key_points": [
-        "Scout enhances Microsoft 365",
-        "Inspired by OpenClaw",
-        "Focus on AI flexibility"
+        "iOS 27 to debut June 8",
+        "Five new features anticipated",
+        "Major Siri overhaul expected"
       ],
-      "impact": "Scout aims to improve user productivity.",
-      "id": "d011fdfd6855c8f9b1c8e767aee992f3"
+      "impact": "Apple's iOS 27 aims to enhance user experience.",
+      "id": "2f22c1c5cd4906942a237031df361c85"
     },
     {
-      "title": "Android's New Feature Fights Phone Scams",
-      "description": "Android 12 and later users can now verify callers with a new feature in Google Dialer that sends a silent confirmation signal.",
-      "category": "Security",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/android-is-fighting-phone-scams-with-a-new-feature-to-prove-whos-calling/",
-      "image": "https://media.wired.com/photos/6a1e109306c20c623706f3b2/191:100/w_1280,c_limit/GettyImages-2210115053.jpg",
+      "title": "Cyberdecks Trend: DIY Hardware Rebellion",
+      "description": "DIY cyberdecks are gaining popularity as users showcase solar-powered devices and retro tech. This trend emphasizes a rejection of big tech surveillance.",
+      "category": "Hardware",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/cyberdeck-bimbotech-scaled-1.jpeg?resize=1200,675",
+      "published_at": "2026-06-02T20:20:00Z",
+      "key_points": [
+        "DIY cyberdecks trending",
+        "Focus on retro tech",
+        "Rejecting big tech surveillance"
+      ],
+      "impact": "Cyberdecks symbolize a cultural shift in tech.",
+      "id": "2fbf0b019a52247172049667d0cf738e"
+    },
+    {
+      "title": "Microsoft Launches Open-Source Intelligent Terminal",
+      "description": "Microsoft has introduced the Intelligent Terminal, an open-source project under the MIT license, enhancing terminal capabilities.",
+      "category": "Software",
+      "source": "Phoronix",
+      "url": "https://www.phoronix.com/news/Microsoft-Intelligent-Terminal",
+      "image": "https://www.phoronix.net/image.php?id=2026&image=intelligent_terminal",
+      "published_at": "2026-06-02T19:18:00Z",
+      "key_points": [
+        "New open-source terminal launched",
+        "Under MIT license",
+        "Enhances terminal functionality"
+      ],
+      "impact": "Microsoft expands open-source contributions with new terminal.",
+      "id": "61083eed4067ef22985ed37f99672438"
+    },
+    {
+      "title": "Microsoft's AI Assistant 'Scout' Aims for User Addiction",
+      "description": "Internal documents reveal Microsoft's strategy to make users addicted to its new AI assistant, Scout, before adding features.",
+      "category": "Software",
+      "source": "404 Media",
+      "url": "https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/",
+      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/CleanShot-2026-06-02-at-11.41.47@2x.png",
+      "published_at": "2026-06-02T18:48:46Z",
+      "key_points": [
+        "Scout aims for user addiction",
+        "Internal strategy revealed",
+        "Focus on feature rollout later"
+      ],
+      "impact": "Microsoft's strategy raises ethical concerns in AI.",
+      "id": "f5d9fcdb46158703341c96ed4cd95005"
+    },
+    {
+      "title": "Ex-Anduril Engineer Raises $42M for Composite Parts Startup",
+      "description": "Zack Eakin's Layup Parts secures $42 million to innovate in composite manufacturing, leveraging his motorsports background.",
+      "category": "Startups",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/02/ex-anduril-engineer-raises-42m-to-build-the-amazon-of-composite-parts/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/layup-parts-hq.jpeg?resize=1200,626",
       "published_at": "2026-06-02T18:00:00Z",
       "key_points": [
-        "New feature in Google Dialer",
-        "Verifies caller identity",
-        "Available on Android 12+"
+        "$42M raised for Layup Parts",
+        "Focus on composite manufacturing",
+        "Innovative motorsports background"
       ],
-      "impact": "Android enhances security against scams.",
-      "id": "144c749da6aaeffcb0c4bec135d5f4da"
+      "impact": "Startup aims to revolutionize composite parts industry.",
+      "id": "a2148cb7bebe2583217ee98da990e6cb"
     },
     {
-      "title": "Indie Game ‘Mina the Hollower’ Hits 300,000 Sales",
-      "description": "The action-platformer ‘Mina the Hollower’ sold 300,000 copies in just three days, becoming 2026's best-reviewed game.",
+      "title": "Crocs x Super Mario Collection Launching Soon",
+      "description": "The Crocs x Super Mario collection is set to release on July 15, 2026, expanding the partnership between Nintendo and Crocs.",
       "category": "Gaming",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-02/indie-video-game-mina-the-hollower-sells-300-000-copies-in-three-days",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irTwbW.7XCCw/v1/1200x674.png",
-      "published_at": "2026-06-02T17:20:25Z",
+      "source": "Nintendo Everything",
+      "url": "https://nintendoeverything.com/crocs-x-super-mario-collection-announced/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Super-Mario-Crocs.jpg",
+      "published_at": "2026-06-02T16:48:53Z",
       "key_points": [
-        "300,000 copies sold",
-        "Best-reviewed game of 2026",
-        "Developed by Yacht Club Games"
+        "New Crocs collection announced",
+        "Based on Super Mario franchise",
+        "Release date: July 15, 2026"
       ],
-      "impact": "Indie games gain significant market traction.",
-      "id": "4cb9e525e20c22fc0361f08b8529bf66"
+      "impact": "Collaboration brings fun footwear to fans.",
+      "id": "97594ff83eac96dcd3efe309da49ea10"
     },
     {
-      "title": "Microsoft Launches MXC for AI Agents",
-      "description": "Microsoft's MXC is an OS-level sandbox for AI agents, providing secure runtime controls and policy enforcement for enterprises.",
-      "category": "Software",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/security/microsoft-launches-mxc-an-os-level-sandbox-for-ai-agents-with-openai-and-nvidia-already-on-board",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2Bj8ehmUSTCeqnkJ3pPCjc/f9782b3575c73ccecb809afd58e7acd2/Nuneybits_Vector_art_of_the_iconic_Microsoft_Windows_logo_on_a__b8c7cdb1-4983-4e68-94a9-93fbef23357b.webp?w=800&q=75",
-      "published_at": "2026-06-02T16:30:00Z",
+      "title": "Toy Story Games Coming to Nintendo Switch 2",
+      "description": "Toy Story: Retro Roundup and Toy Story 3 Complete Edition announced for Nintendo Switch 2, expanding the franchise's gaming presence.",
+      "category": "Gaming",
+      "source": "Nintendo Everything",
+      "url": "https://nintendoeverything.com/toy-story-retro-roundup-toy-story-3-complete-edition-announced-for-nintendo-switch-2-and-switch/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Toy-Story-Retro-Roundup-and-Toy-Story-3-Complete-Edition.jpg",
+      "published_at": "2026-06-02T16:03:53Z",
       "key_points": [
-        "MXC for AI agent security",
-        "Supports OpenAI and Nvidia",
-        "Enhances enterprise controls"
+        "Two new Toy Story games announced",
+        "Available on Switch 2",
+        "Exciting franchise expansion"
       ],
-      "impact": "MXC strengthens enterprise AI security.",
-      "id": "402b4fbdd5e6d78e066df6fa9714ab5c"
+      "impact": "Toy Story games enhance Nintendo's lineup.",
+      "id": "9cbc21640836710c82a38d41fcfd849e"
     },
     {
-      "title": "AI Threatens Foundations of Mathematics",
-      "description": "Experts warn that AI is reshaping mathematics and call for clear standards to guide its integration into the field.",
-      "category": "Science",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/a-new-declaration-warns-ai-could-threaten-the-foundations-of-mathematics-2000766375",
-      "image": "https://gizmodo.com/app/uploads/2026/06/leiden-declaration-ai-math-top-image-1200x675.jpg",
-      "published_at": "2026-06-02T15:45:42Z",
+      "title": "Camp Snap 2: New Features for Kids",
+      "description": "The Camp Snap 2 camera introduces new filters and remains screenless, making it more user-friendly for children.",
+      "category": "Hardware",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/941427/camp-snap-2-digital-screenless-camera-filters-kid-lock",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/campsnap2_1.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200",
+      "published_at": "2026-06-02T15:00:00Z",
       "key_points": [
-        "AI reshapes mathematical practices",
-        "Experts call for standards",
-        "Leiden Declaration published"
+        "New filters added",
+        "Screenless design continues",
+        "Kid-friendly features enhanced"
       ],
-      "impact": "Mathematics faces new challenges from AI.",
-      "id": "0fb4f2fcae19c46555ede9e285ff08a9"
+      "impact": "Camp Snap 2 targets young photographers.",
+      "id": "26a0fcc53b3222e563a418b5e6f6413b"
     },
     {
-      "title": "iOS 27 to Feature Split-Screen Adaptation",
-      "description": "Rumors suggest iOS 27 will include a split-screen app adaptation feature, enhancing multitasking capabilities.",
-      "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/02/ios-27-split-screen-app-adaptation-feature/",
-      "image": "https://images.macrumors.com/t/MOLST0mdhUOeLMEEoQleWfgpjJQ=/2500x/article-new/2026/03/iOS-27-on-iPhone-17-1.jpg",
-      "published_at": "2026-06-02T15:29:53Z",
+      "title": "Apple's MacBook Neo Gains Popularity",
+      "description": "Apple's MacBook Neo sold 1.1 million units shortly after launch, appealing to a new generation of buyers in the laptop market.",
+      "category": "Business",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/02/apples-macbook-neo-is-winning-over-a-new-generation-of-buyers/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-macbook-neo.jpg?resize=1200,800",
+      "published_at": "2026-06-02T14:39:29Z",
       "key_points": [
-        "Split-screen feature rumored",
-        "Enhances multitasking",
-        "Expected in iOS 27"
+        "1.1 million units sold",
+        "Appealing to younger buyers",
+        "Strengthening Apple's market position"
       ],
-      "impact": "iOS 27 aims to improve user experience.",
-      "id": "3bd6ba224eeb198e646f8a73e3c826b7"
+      "impact": "MacBook Neo reshapes Apple's customer base.",
+      "id": "69edf393fd8746aaf04e8ad97336659a"
     },
     {
-      "title": "AI Agents Lack Safety Awareness, Study Finds",
-      "description": "Researchers liken AI agents to Mr. Magoo, highlighting their disregard for safety and reliability in complex tasks.",
-      "category": "Science",
-      "source": "404media.co",
-      "url": "https://www.404media.co/nvidia-and-microsoft-researchers-say-ai-agents-dont-care-about-safety-or-reliability/",
-      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGJsaW5kJTIwcm9ib3R8ZW58MHx8fHwxNzgwNDA3NTYxfDA&ixlib=rb-4.1.0&q=80&w=2000",
-      "published_at": "2026-06-02T15:04:01Z",
-      "key_points": [
-        "AI agents lack safety awareness",
-        "Compared to Mr. Magoo",
-        "Study by Microsoft and Nvidia"
-      ],
-      "impact": "AI safety concerns are increasingly critical.",
-      "id": "8db05db099602a720feee4b36dfa3c10"
-    },
-    {
-      "title": "PlayStation State of Play: Summer Showcase",
-      "description": "Sony's PlayStation State of Play promises exciting announcements and surprises for gamers during its summer showcase.",
+      "title": "Crimson Desert Summer Update Roadmap Revealed",
+      "description": "Pearl Abyss announced new content and features for Crimson Desert, including a major DLC currently in development.",
       "category": "Gaming",
       "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/june-2026-playstation-state-of-play-live-report",
-      "image": "https://assetsio.gnwcdn.com/marvel's-wolverine-playstation-state-of-play.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-02T14:21:59Z",
+      "url": "https://www.eurogamer.net/crimson-desert-summer-2026-update-roadmap",
+      "image": "https://assetsio.gnwcdn.com/Crimson-Desert_boss-fight.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-02T14:31:38Z",
       "key_points": [
-        "Summer showcase begins tonight",
-        "Exciting announcements expected",
-        "Sony leads the gaming festivities"
+        "New content roadmap revealed",
+        "Major DLC in development",
+        "Player feedback considered"
       ],
-      "impact": "PlayStation aims to captivate gamers this summer.",
-      "id": "4aa615e83538506ac99f7f5cb5508daf"
+      "impact": "Crimson Desert continues to evolve post-launch.",
+      "id": "b06a65176598e8e8cb1170816585f4c0"
     },
     {
-      "title": "Destiny 2 Players Aim for Record Counts",
-      "description": "Players of Destiny 2 are rallying to break playercount records ahead of the June 9 update, advocating for continued game support.",
-      "category": "Gaming",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/06/02/destiny-2-players-try-to-break-playercount-records-to-send-sony-a-message/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a1990c261763861f27cadef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published_at": "2026-06-02T14:05:27Z",
-      "key_points": [
-        "Players push for record counts",
-        "Advocating for game support",
-        "June 9 update critical"
-      ],
-      "impact": "Player engagement highlights game's importance.",
-      "id": "4c429080b19a0a81ae5271412e4de06e"
-    },
-    {
-      "title": "Samsung Galaxy Z Fold 8 Leaks Specs",
-      "description": "The Galaxy Z Fold 8 is set to address foldable issues with a wider design, as new specifications and photos leak.",
+      "title": "Kawasaki Unveils New 2027 Two-Strokes",
+      "description": "Kawasaki introduces its new two-stroke models, including significant updates to the KX450 for 2027, enhancing performance and design.",
       "category": "Hardware",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/06/02/samsung-galaxy-z-fold-8-weight-spec-leaks/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/galaxy-z-fold-8-series-ice-leak-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-02T14:05:00Z",
+      "source": "Racer X",
+      "url": "https://racerxonline.com/2026/06/02/the-kx-327-kawasakis-new-two-strokes-are-finally-here",
+      "image": "https://rxi.iscdn.net/2026/06/329654_img9920.jpg?w=1200&h=630&fit=crop&crop=faces",
+      "published_at": "2026-06-02T13:25:00Z",
       "key_points": [
-        "Galaxy Z Fold 8 specs leaked",
-        "Wider design improves usability",
-        "Fixes previous foldable issues"
+        "New two-stroke models launched",
+        "KX450 updates announced",
+        "Enhanced performance features"
       ],
-      "impact": "Samsung aims to enhance foldable experience.",
-      "id": "d841de06434a9bdd6a3bfb8f65932526"
+      "impact": "Kawasaki's new models set industry standards.",
+      "id": "59dc93044fd1eead142719064e7030a2"
     },
     {
-      "title": "Star Fox (2026) Preview: Smooth Gameplay",
-      "description": "A preview of the new Star Fox game reveals smooth flying mechanics and engaging gameplay on the Switch 2.",
-      "category": "Gaming",
-      "source": "Game Informer",
-      "url": "https://gameinformer.com/preview/2026/05/30/pretty-smooth-flying",
-      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/05/31/0ee2a466/nintendoswitch2_starfox_scrn_01.jpg.webp",
-      "published_at": "2026-06-02T13:52:47Z",
+      "title": "Google Fixes Android Zero-Day and 124 Vulnerabilities",
+      "description": "Google's June 2026 security patches address 124 vulnerabilities, including a critical zero-day flaw actively exploited in attacks.",
+      "category": "Security",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/03/03/Android-red.jpg",
+      "published_at": "2026-06-02T11:10:15Z",
       "key_points": [
-        "Smooth flying mechanics",
-        "Engaging gameplay preview",
-        "Available on Switch 2"
+        "124 vulnerabilities patched",
+        "Critical zero-day fixed",
+        "Enhancing Android security"
       ],
-      "impact": "Star Fox aims to attract nostalgic gamers.",
-      "id": "b112db1e58a9f32a4720b88f4b40979a"
-    },
-    {
-      "title": "Motorola Edge 2026 Launches with New Design",
-      "description": "The Motorola Edge 2026 features a stylish Pantone Olive design and a compact 6.3-inch display, marking a significant design change.",
-      "category": "Hardware",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/motorola-edge-2026-launched-pantone-olive-3673363/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/motorola-edge-2026-.jpg",
-      "published_at": "2026-06-02T13:33:13Z",
-      "key_points": [
-        "New Pantone Olive design",
-        "Compact 6.3-inch display",
-        "Significant design change"
-      ],
-      "impact": "Motorola refreshes its Edge lineup.",
-      "id": "cfd83a69102df38a2fc46668d2b814af"
-    },
-    {
-      "title": "Asus Unveils New Android Tablet",
-      "description": "Asus introduces the Pad, featuring a 12.2-inch OLED display and a MediaTek Dimensity processor, at Computex 2026.",
-      "category": "Hardware",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Asus-announces-new-Android-tablet-with-tandem-OLED-display.1313129.0.html",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Asus-Pad-OLED-news.png",
-      "published_at": "2026-06-02T12:34:00Z",
-      "key_points": [
-        "New Android tablet announced",
-        "12.2-inch OLED display",
-        "Powered by MediaTek processor"
-      ],
-      "impact": "Asus expands its tablet offerings.",
-      "id": "f25735b4f69dde14082292f3cc6b8b1a"
-    },
-    {
-      "title": "Fallout 76: Infestations Update Released",
-      "description": "Fallout 76 players face new infestations threatening Appalachia, requiring players to clear out enemy hordes.",
-      "category": "Gaming",
-      "source": "Bethesda.net",
-      "url": "https://fallout.bethesda.net/en/article/7uZ5caUi4lqZxmhKDXqEAV/fallout-76-infestations-release-notes",
-      "image": "//images.ctfassets.net/rporu91m20dc/74VvRsgXSQuhdV2wgeozCU/e28efbdae4a577cb7f3c345a5f9db142/LHERO_Infestations.jpg",
-      "published_at": "2026-06-02T12:04:17Z",
-      "key_points": [
-        "New infestations in Appalachia",
-        "Players must clear enemy hordes",
-        "Update enhances gameplay"
-      ],
-      "impact": "Fallout 76 introduces new challenges.",
-      "id": "929345a4ebe983a04a19197452798049"
+      "impact": "Google strengthens Android security with updates.",
+      "id": "1bd0700275600712a87e56ea49bec87a"
     }
   ]
 }
