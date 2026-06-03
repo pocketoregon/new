@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-03T20:54:35.233903+00:00",
+      "fetched_at": "2026-06-03T20:54:35.233903+00:00",
+      "label": "Jun 03, 2026 — 08:55 PM UTC",
+      "articles": [
+        {
+          "title": "Microsoft Build 2026: Top 7 Announcements",
+          "description": "Microsoft's Build 2026 showcased major updates in AI, Surface devices, and Windows. The keynote emphasized AI advancements significantly.",
+          "category": "Software",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/nadella-build-2026.png?quality=90&strip=all&crop=0%2C2.9395307941329%2C100%2C94.120938411734&w=1200",
+          "published_at": "2026-06-02T19:23:52Z",
+          "key_points": [
+            "AI updates dominate the keynote",
+            "Surface devices showcased",
+            "Windows enhancements revealed"
+          ],
+          "impact": "Microsoft reinforces its AI leadership position.",
+          "id": "312f7282d6e49f3f31f0ce69891cc6dc"
+        },
+        {
+          "title": "Microsoft Launches Scout, New AI Assistant",
+          "description": "At Build, Microsoft introduced Scout, an AI assistant inspired by OpenClaw, enhancing Microsoft 365's capabilities.",
+          "category": "Software",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/microsoft-logo-1865237814.jpg?resize=1200,863",
+          "published_at": "2026-06-02T18:02:44Z",
+          "key_points": [
+            "Scout enhances Microsoft 365",
+            "Inspired by OpenClaw",
+            "Focus on AI flexibility"
+          ],
+          "impact": "Scout aims to improve user productivity.",
+          "id": "d011fdfd6855c8f9b1c8e767aee992f3"
+        },
+        {
+          "title": "Android's New Feature Fights Phone Scams",
+          "description": "Android 12 and later users can now verify callers with a new feature in Google Dialer that sends a silent confirmation signal.",
+          "category": "Security",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/android-is-fighting-phone-scams-with-a-new-feature-to-prove-whos-calling/",
+          "image": "https://media.wired.com/photos/6a1e109306c20c623706f3b2/191:100/w_1280,c_limit/GettyImages-2210115053.jpg",
+          "published_at": "2026-06-02T18:00:00Z",
+          "key_points": [
+            "New feature in Google Dialer",
+            "Verifies caller identity",
+            "Available on Android 12+"
+          ],
+          "impact": "Android enhances security against scams.",
+          "id": "144c749da6aaeffcb0c4bec135d5f4da"
+        },
+        {
+          "title": "Indie Game ‘Mina the Hollower’ Hits 300,000 Sales",
+          "description": "The action-platformer ‘Mina the Hollower’ sold 300,000 copies in just three days, becoming 2026's best-reviewed game.",
+          "category": "Gaming",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-02/indie-video-game-mina-the-hollower-sells-300-000-copies-in-three-days",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irTwbW.7XCCw/v1/1200x674.png",
+          "published_at": "2026-06-02T17:20:25Z",
+          "key_points": [
+            "300,000 copies sold",
+            "Best-reviewed game of 2026",
+            "Developed by Yacht Club Games"
+          ],
+          "impact": "Indie games gain significant market traction.",
+          "id": "4cb9e525e20c22fc0361f08b8529bf66"
+        },
+        {
+          "title": "Microsoft Launches MXC for AI Agents",
+          "description": "Microsoft's MXC is an OS-level sandbox for AI agents, providing secure runtime controls and policy enforcement for enterprises.",
+          "category": "Software",
+          "source": "VentureBeat",
+          "url": "https://venturebeat.com/security/microsoft-launches-mxc-an-os-level-sandbox-for-ai-agents-with-openai-and-nvidia-already-on-board",
+          "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2Bj8ehmUSTCeqnkJ3pPCjc/f9782b3575c73ccecb809afd58e7acd2/Nuneybits_Vector_art_of_the_iconic_Microsoft_Windows_logo_on_a__b8c7cdb1-4983-4e68-94a9-93fbef23357b.webp?w=800&q=75",
+          "published_at": "2026-06-02T16:30:00Z",
+          "key_points": [
+            "MXC for AI agent security",
+            "Supports OpenAI and Nvidia",
+            "Enhances enterprise controls"
+          ],
+          "impact": "MXC strengthens enterprise AI security.",
+          "id": "402b4fbdd5e6d78e066df6fa9714ab5c"
+        },
+        {
+          "title": "AI Threatens Foundations of Mathematics",
+          "description": "Experts warn that AI is reshaping mathematics and call for clear standards to guide its integration into the field.",
+          "category": "Science",
+          "source": "Gizmodo",
+          "url": "https://gizmodo.com/a-new-declaration-warns-ai-could-threaten-the-foundations-of-mathematics-2000766375",
+          "image": "https://gizmodo.com/app/uploads/2026/06/leiden-declaration-ai-math-top-image-1200x675.jpg",
+          "published_at": "2026-06-02T15:45:42Z",
+          "key_points": [
+            "AI reshapes mathematical practices",
+            "Experts call for standards",
+            "Leiden Declaration published"
+          ],
+          "impact": "Mathematics faces new challenges from AI.",
+          "id": "0fb4f2fcae19c46555ede9e285ff08a9"
+        },
+        {
+          "title": "iOS 27 to Feature Split-Screen Adaptation",
+          "description": "Rumors suggest iOS 27 will include a split-screen app adaptation feature, enhancing multitasking capabilities.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/02/ios-27-split-screen-app-adaptation-feature/",
+          "image": "https://images.macrumors.com/t/MOLST0mdhUOeLMEEoQleWfgpjJQ=/2500x/article-new/2026/03/iOS-27-on-iPhone-17-1.jpg",
+          "published_at": "2026-06-02T15:29:53Z",
+          "key_points": [
+            "Split-screen feature rumored",
+            "Enhances multitasking",
+            "Expected in iOS 27"
+          ],
+          "impact": "iOS 27 aims to improve user experience.",
+          "id": "3bd6ba224eeb198e646f8a73e3c826b7"
+        },
+        {
+          "title": "AI Agents Lack Safety Awareness, Study Finds",
+          "description": "Researchers liken AI agents to Mr. Magoo, highlighting their disregard for safety and reliability in complex tasks.",
+          "category": "Science",
+          "source": "404media.co",
+          "url": "https://www.404media.co/nvidia-and-microsoft-researchers-say-ai-agents-dont-care-about-safety-or-reliability/",
+          "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGJsaW5kJTIwcm9ib3R8ZW58MHx8fHwxNzgwNDA3NTYxfDA&ixlib=rb-4.1.0&q=80&w=2000",
+          "published_at": "2026-06-02T15:04:01Z",
+          "key_points": [
+            "AI agents lack safety awareness",
+            "Compared to Mr. Magoo",
+            "Study by Microsoft and Nvidia"
+          ],
+          "impact": "AI safety concerns are increasingly critical.",
+          "id": "8db05db099602a720feee4b36dfa3c10"
+        },
+        {
+          "title": "PlayStation State of Play: Summer Showcase",
+          "description": "Sony's PlayStation State of Play promises exciting announcements and surprises for gamers during its summer showcase.",
+          "category": "Gaming",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/june-2026-playstation-state-of-play-live-report",
+          "image": "https://assetsio.gnwcdn.com/marvel's-wolverine-playstation-state-of-play.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-02T14:21:59Z",
+          "key_points": [
+            "Summer showcase begins tonight",
+            "Exciting announcements expected",
+            "Sony leads the gaming festivities"
+          ],
+          "impact": "PlayStation aims to captivate gamers this summer.",
+          "id": "4aa615e83538506ac99f7f5cb5508daf"
+        },
+        {
+          "title": "Destiny 2 Players Aim for Record Counts",
+          "description": "Players of Destiny 2 are rallying to break playercount records ahead of the June 9 update, advocating for continued game support.",
+          "category": "Gaming",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/06/02/destiny-2-players-try-to-break-playercount-records-to-send-sony-a-message/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a1990c261763861f27cadef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-02T14:05:27Z",
+          "key_points": [
+            "Players push for record counts",
+            "Advocating for game support",
+            "June 9 update critical"
+          ],
+          "impact": "Player engagement highlights game's importance.",
+          "id": "4c429080b19a0a81ae5271412e4de06e"
+        },
+        {
+          "title": "Samsung Galaxy Z Fold 8 Leaks Specs",
+          "description": "The Galaxy Z Fold 8 is set to address foldable issues with a wider design, as new specifications and photos leak.",
+          "category": "Hardware",
+          "source": "9to5google.com",
+          "url": "http://9to5google.com/2026/06/02/samsung-galaxy-z-fold-8-weight-spec-leaks/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/galaxy-z-fold-8-series-ice-leak-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-02T14:05:00Z",
+          "key_points": [
+            "Galaxy Z Fold 8 specs leaked",
+            "Wider design improves usability",
+            "Fixes previous foldable issues"
+          ],
+          "impact": "Samsung aims to enhance foldable experience.",
+          "id": "d841de06434a9bdd6a3bfb8f65932526"
+        },
+        {
+          "title": "Star Fox (2026) Preview: Smooth Gameplay",
+          "description": "A preview of the new Star Fox game reveals smooth flying mechanics and engaging gameplay on the Switch 2.",
+          "category": "Gaming",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/preview/2026/05/30/pretty-smooth-flying",
+          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/05/31/0ee2a466/nintendoswitch2_starfox_scrn_01.jpg.webp",
+          "published_at": "2026-06-02T13:52:47Z",
+          "key_points": [
+            "Smooth flying mechanics",
+            "Engaging gameplay preview",
+            "Available on Switch 2"
+          ],
+          "impact": "Star Fox aims to attract nostalgic gamers.",
+          "id": "b112db1e58a9f32a4720b88f4b40979a"
+        },
+        {
+          "title": "Motorola Edge 2026 Launches with New Design",
+          "description": "The Motorola Edge 2026 features a stylish Pantone Olive design and a compact 6.3-inch display, marking a significant design change.",
+          "category": "Hardware",
+          "source": "Android Authority",
+          "url": "https://www.androidauthority.com/motorola-edge-2026-launched-pantone-olive-3673363/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/motorola-edge-2026-.jpg",
+          "published_at": "2026-06-02T13:33:13Z",
+          "key_points": [
+            "New Pantone Olive design",
+            "Compact 6.3-inch display",
+            "Significant design change"
+          ],
+          "impact": "Motorola refreshes its Edge lineup.",
+          "id": "cfd83a69102df38a2fc46668d2b814af"
+        },
+        {
+          "title": "Asus Unveils New Android Tablet",
+          "description": "Asus introduces the Pad, featuring a 12.2-inch OLED display and a MediaTek Dimensity processor, at Computex 2026.",
+          "category": "Hardware",
+          "source": "Notebookcheck",
+          "url": "https://www.notebookcheck.net/Asus-announces-new-Android-tablet-with-tandem-OLED-display.1313129.0.html",
+          "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Asus-Pad-OLED-news.png",
+          "published_at": "2026-06-02T12:34:00Z",
+          "key_points": [
+            "New Android tablet announced",
+            "12.2-inch OLED display",
+            "Powered by MediaTek processor"
+          ],
+          "impact": "Asus expands its tablet offerings.",
+          "id": "f25735b4f69dde14082292f3cc6b8b1a"
+        },
+        {
+          "title": "Fallout 76: Infestations Update Released",
+          "description": "Fallout 76 players face new infestations threatening Appalachia, requiring players to clear out enemy hordes.",
+          "category": "Gaming",
+          "source": "Bethesda.net",
+          "url": "https://fallout.bethesda.net/en/article/7uZ5caUi4lqZxmhKDXqEAV/fallout-76-infestations-release-notes",
+          "image": "//images.ctfassets.net/rporu91m20dc/74VvRsgXSQuhdV2wgeozCU/e28efbdae4a577cb7f3c345a5f9db142/LHERO_Infestations.jpg",
+          "published_at": "2026-06-02T12:04:17Z",
+          "key_points": [
+            "New infestations in Appalachia",
+            "Players must clear enemy hordes",
+            "Update enhances gameplay"
+          ],
+          "impact": "Fallout 76 introduces new challenges.",
+          "id": "929345a4ebe983a04a19197452798049"
+        }
+      ]
+    },
+    {
       "id": "2026-06-03T16:46:34.823411+00:00",
       "fetched_at": "2026-06-03T16:46:34.823411+00:00",
       "label": "Jun 03, 2026 — 04:47 PM UTC",
@@ -5528,269 +5775,6 @@
           ],
           "impact": "Players can explore new horror elements for free.",
           "id": "fe8bf2b8a19ebb9385065d7a94c0b41d"
-        }
-      ]
-    },
-    {
-      "id": "2026-05-30T03:40:19.490563+00:00",
-      "fetched_at": "2026-05-30T03:40:19.490563+00:00",
-      "label": "May 30, 2026 — 03:40 AM UTC",
-      "articles": [
-        {
-          "title": "LLMs Trust False Claims Despite Warnings",
-          "description": "Recent tests reveal LLMs confidently assert false statements even when warned. This highlights inherent biases in AI language models.",
-          "category": "AI",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2207567240-1152x648.jpg",
-          "published_at": "2026-05-28T21:29:43Z",
-          "key_points": [
-            "LLMs show bias towards falsehoods",
-            "Warnings do not alter beliefs",
-            "AI reliability remains questionable"
-          ],
-          "impact": "This raises concerns about AI trustworthiness.",
-          "id": "90ac7827a583030ed9f0d833d51abf68"
-        },
-        {
-          "title": "Nintendo Launches Quirky Mobile Game Pictonico",
-          "description": "Nintendo's new mobile game Pictonico blends elements of WarioWare and Tomodachi Life, offering a unique experience on iOS and Android.",
-          "category": "Startups",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/games/939283/pictonico-nintendo-mobile-game",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/unnamed.png?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
-          "published_at": "2026-05-28T20:16:16Z",
-          "key_points": [
-            "New mobile game Pictonico launched",
-            "Combines WarioWare and Tomodachi Life",
-            "Available on iOS and Android"
-          ],
-          "impact": "Nintendo diversifies its mobile game offerings.",
-          "id": "0e6ee38d5dca9c12eb74b1a3cffaa071"
-        },
-        {
-          "title": "Bloodborne Player Retires After 11 Years",
-          "description": "A dedicated Bloodborne player stops helping others after over a decade, citing dwindling player interest and lack of engagement.",
-          "category": "Startups",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/bloodborne-sicko-who-spent-11-years-helping-people-with-one-boss-is-retiring-because-nobody-is-playing-it-anymore-2000700265",
-          "image": "https://kotaku.com/app/uploads/2024/02/0cb6efbdf3c68375e2e22a73386b49d1-1200x675.jpg",
-          "published_at": "2026-05-28T20:12:48Z",
-          "key_points": [
-            "Player retires after 11 years",
-            "Helped thousands with a boss",
-            "Game's popularity has declined"
-          ],
-          "impact": "Highlights the fading community around Bloodborne.",
-          "id": "ac6f7f3f73526861fd0d5417d454e84c"
-        },
-        {
-          "title": "iPhone 18 Pro vs Ultra: Key Differences",
-          "description": "Explore the main differences between the iPhone 18 Pro and iPhone Ultra, focusing on features that may influence your purchase decision.",
-          "category": "Hardware",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/05/28/iphone-18-pro-vs-iphone-ultra-three-features-to-win-your-upgrade/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-blue-angle-two.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-05-28T19:59:00Z",
-          "key_points": [
-            "iPhone 18 Pro vs Ultra comparison",
-            "Focus on key feature differences",
-            "Price not included in analysis"
-          ],
-          "impact": "Helps consumers make informed upgrade choices.",
-          "id": "77b8027067c180a95de20ecfe7c229d1"
-        },
-        {
-          "title": "Immortal Snail Chases Cursor in New Game",
-          "description": "A humorous thought experiment comes to life as players navigate a game where an immortal snail relentlessly pursues their mouse cursor.",
-          "category": "Software",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/help-an-immortal-snail-is-chasing-my-mouse-cursor-2000690963",
-          "image": "https://kotaku.com/app/uploads/2026/05/donttouchsnail.jpg",
-          "published_at": "2026-05-28T17:00:43Z",
-          "key_points": [
-            "Immortal snail game concept",
-            "Chases mouse cursor relentlessly",
-            "Humorous take on thought experiments"
-          ],
-          "impact": "Adds a quirky twist to gaming experiences.",
-          "id": "042b1cca2b94c95c5c392b3ad25ee794"
-        },
-        {
-          "title": "StarCraft II Patch 5.0.16 Released",
-          "description": "The new StarCraft II patch introduces economy and balance changes, along with various bug fixes to enhance gameplay.",
-          "category": "Software",
-          "source": "Blizzard.com",
-          "url": "https://news.blizzard.com/en-us/article/24276667/starcraft-ii-5-0-16-ptr-patch-notes",
-          "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/kd/KD50BBXYHMBR1554829677265.jpg",
-          "published_at": "2026-05-28T17:00:00Z",
-          "key_points": [
-            "Patch 5.0.16 now available",
-            "Focus on economy and balance",
-            "Includes various bug fixes"
-          ],
-          "impact": "Improves competitive gameplay experience.",
-          "id": "b19e9e649f2d714658287d426f2e1a66"
-        },
-        {
-          "title": "MediaTek Confirms Dimensity for Googlebooks",
-          "description": "MediaTek announces its Dimensity processors will power the upcoming Googlebooks, clarifying previous speculations about hardware.",
-          "category": "Hardware",
-          "source": "Chrome Unboxed",
-          "url": "https://chromeunboxed.com/mediatek-confirms-dimensity-processors-will-power-new-googlebooks-not-kompanio/",
-          "image": "https://chromeunboxed.com/wp-content/uploads/2026/05/GooglebookMediaTekDimensityCX.webp",
-          "published_at": "2026-05-28T16:26:45Z",
-          "key_points": [
-            "Dimensity processors for Googlebooks",
-            "Clarifies hardware speculations",
-            "AI-powered laptops confirmed"
-          ],
-          "impact": "Strengthens MediaTek's position in the market.",
-          "id": "55dccd156dcb0e46c133cb5739c948f6"
-        },
-        {
-          "title": "SSL Launches Affordable Audio Interface",
-          "description": "SSL introduces the SSL 1, a budget-friendly audio interface that promises high performance for musicians and producers.",
-          "category": "Hardware",
-          "source": "MusicRadar",
-          "url": "https://www.musicradar.com/artists/sets-an-entirely-new-benchmark-for-portable-affordable-audio-interfaces-ssl-just-released-its-cheapest-audio-interface-yet",
-          "image": "https://cdn.mos.cms.futurecdn.net/KZnadxKNyAr2q2naGctnyd-1200-80.jpg",
-          "published_at": "2026-05-28T15:37:38Z",
-          "key_points": [
-            "New SSL 1 audio interface released",
-            "Affordable and portable design",
-            "Targets musicians and producers"
-          ],
-          "impact": "Makes quality audio accessible to more users.",
-          "id": "e9a99bec4f76bdb8bc8bb2b2d345a185"
-        },
-        {
-          "title": "Spotify Introduces Four New Features",
-          "description": "Spotify rolls out four new music-focused features, including background downloads for iOS users, enhancing the listening experience.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/05/28/spotify-releases-four-music-focused-features-including-background-downloads-on-ios/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/spotify-disco-ball.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-05-28T15:18:00Z",
-          "key_points": [
-            "Four new features launched",
-            "Includes background downloads",
-            "Enhances user experience"
-          ],
-          "impact": "Improves Spotify's competitive edge.",
-          "id": "7076886f9bdc9e65d81084297ef59888"
-        },
-        {
-          "title": "Rivian Claims AI Makes CarPlay Obsolete",
-          "description": "Rivian's software chief argues that their new AI assistant renders the CarPlay debate irrelevant, emphasizing a shift in automotive technology.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/05/28/rivian-says-ai-makes-debate-over-carplay-completely-obsolete/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/carplay-ai-ios181.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-05-28T15:02:00Z",
-          "key_points": [
-            "AI assistant makes CarPlay irrelevant",
-            "Rivian's software chief comments",
-            "Shift in automotive technology"
-          ],
-          "impact": "Revolutionizes in-car technology discussions.",
-          "id": "0a14000b9180f54349197c0231702a27"
-        },
-        {
-          "title": "YouTube Enhances Podcast Features for Premium Users",
-          "description": "YouTube improves its app for podcast playback, but new features are exclusive to Premium subscribers, enhancing their listening experience.",
-          "category": "Software",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/05/28/youtube-podcast-playback-improvements-for-premium-users/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/YouTube-Logo-App-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-05-28T14:50:00Z",
-          "key_points": [
-            "Podcast features for Premium users",
-            "Improves listening experience",
-            "Focus on audio-first content"
-          ],
-          "impact": "Incentivizes subscriptions for enhanced features.",
-          "id": "b45e8692c36d34b98f83e67dae51ccac"
-        },
-        {
-          "title": "Heroes of Might and Magic: Olden Era Roadmap Revealed",
-          "description": "The developers of Heroes of Might and Magic: Olden Era celebrate 1 million copies sold and unveil their early access roadmap.",
-          "category": "Startups",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/heroes-of-might-and-magic-olden-era-roadmap",
-          "image": "https://assetsio.gnwcdn.com/heroes-olden-era-steam-headline-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-05-28T14:33:42Z",
-          "key_points": [
-            "1 million copies sold",
-            "Early access roadmap announced",
-            "Developer celebrates success"
-          ],
-          "impact": "Shows strong interest in the franchise.",
-          "id": "39f7ab68d09342d45aa6693e3c059f0a"
-        },
-        {
-          "title": "Overwatch Expands Lore with New Comic",
-          "description": "Blizzard enhances Overwatch's narrative with a new comic focusing on character relationships, fulfilling long-time fan requests.",
-          "category": "Software",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/overwatch-reinhardt-ana-relationship-romance-lore-comic-2000700188",
-          "image": "https://kotaku.com/app/uploads/2026/05/IMG_3551-1-1200x675.jpg",
-          "published_at": "2026-05-28T14:32:43Z",
-          "key_points": [
-            "New comic expands Overwatch lore",
-            "Focus on character relationships",
-            "Addresses fan requests"
-          ],
-          "impact": "Deepens engagement with the game's narrative.",
-          "id": "9c1d95d398350bceb36e8e6b5f3f6355"
-        },
-        {
-          "title": "GTA 6 Developers Form Union Amid Controversy",
-          "description": "Developers of GTA 6 announce a union to address workplace issues, signaling a significant move in the gaming industry.",
-          "category": "Business",
-          "source": "RockstarINTEL",
-          "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
-          "image": "https://rockstarintel.com/wp-content/uploads/2025/05/Lucia_Caminos_01-scaled.jpg",
-          "published_at": "2026-05-28T13:51:45Z",
-          "key_points": [
-            "GTA 6 developers form union",
-            "Address workplace issues",
-            "Significant industry move"
-          ],
-          "impact": "Highlights growing labor movements in gaming.",
-          "id": "b053effb202bf7436486918021deb3cd"
-        },
-        {
-          "title": "Take-Two Boss Comments on Game Development Challenges",
-          "description": "Take-Two's Strauss Zelnick discusses the difficulties of creating successful games, hinting at failures by former Rockstar employees.",
-          "category": "Business",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/take-two-boss-says-former-rockstar-employees-have-tried-to-match-gtas-success-and-failed-and-we-all-know-which-game-hes-talking-about",
-          "image": "https://assets-prd.ignimgs.com/2025/06/05/ss-c161f11c9eb64b673ec976f95383f924991cecb5-1920x1080-1749122336673.jpg?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-05-28T12:17:24Z",
-          "key_points": [
-            "Zelnick discusses game development",
-            "Hints at failed projects",
-            "Challenges in creating hits"
-          ],
-          "impact": "Sheds light on industry pressures.",
-          "id": "814afe0dde1f3409485661ddad1b9417"
-        },
-        {
-          "title": "Android Auto Introduces New Swipe Control",
-          "description": "Android Auto enhances user experience with a new swipe control feature, making it easier and safer to switch music apps while driving.",
-          "category": "Software",
-          "source": "Android Police",
-          "url": "https://www.androidpolice.com/android-auto-just-got-an-easy-way/",
-          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/tips-to-use-gemini-in-android-auto-4.jpg?w=1600&h=900&fit=crop",
-          "published_at": "2026-05-28T09:54:33Z",
-          "key_points": [
-            "New swipe control feature",
-            "Easier app switching",
-            "Enhances driving safety"
-          ],
-          "impact": "Improves user safety during commutes.",
-          "id": "96dc41012c61b0dbdcba7a04f56e5fcc"
         }
       ]
     }
