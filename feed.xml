@@ -5,80 +5,89 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jun 2026 03:58:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 10:57:28 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Nvidia Targets $200B CPU Market with AI PCs</title>
-      <description>Nvidia unveils the RTX Spark superchip at Computex, aiming to revolutionize AI agent PCs with Microsoft, Dell, and HP. This could reshape the CPU landscape significantly.</description>
-      <link>https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/</guid>
-      <pubDate>2026-06-01T21:35:00Z</pubDate>
-      <category>Hardware</category>
-      <source url="https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/">TechCrunch</source>
+      <title>iPhone 18 Pro Battery Leak Reveals Big Changes</title>
+      <description>The iPhone 18 Pro's battery capacities have leaked, with eSIM models getting a larger cell. This expansion to Europe benefits millions of buyers.</description>
+      <link>https://www.notebookcheck.net/New-iPhone-18-Pro-battery-leak-just-changed-the-story-for-non-US-buyers.1313079.0.html</link>
+      <guid isPermaLink="true">https://www.notebookcheck.net/New-iPhone-18-Pro-battery-leak-just-changed-the-story-for-non-US-buyers.1313079.0.html</guid>
+      <pubDate>2026-06-02T03:26:00Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.notebookcheck.net/New-iPhone-18-Pro-battery-leak-just-changed-the-story-for-non-US-buyers.1313079.0.html">Notebookcheck.net</source>
     </item>
     <item>
-      <title>Google Pixel Watch 5 Spoiled by Randy Pitchford</title>
-      <description>Randy Pitchford claims his friend found the Google Pixel Watch 5 while scuba diving, potentially revealing its design ahead of the official launch.</description>
-      <link>https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands</guid>
-      <pubDate>2026-06-01T20:59:14Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands">The Verge</source>
-    </item>
-    <item>
-      <title>Google Releases Final Android 17 Beta 4.1 Update</title>
-      <description>Google rolls out Android 17 Beta 4.1 for Pixel devices, focusing on bug fixes ahead of the stable release.</description>
-      <link>http://9to5google.com/2026/06/01/android-17-beta-4-1-pixel/</link>
-      <guid isPermaLink="true">http://9to5google.com/2026/06/01/android-17-beta-4-1-pixel/</guid>
-      <pubDate>2026-06-01T20:30:00Z</pubDate>
+      <title>iOS 27 Introduces Standalone Siri App</title>
+      <description>iOS 27 will feature a standalone Siri app, allowing users to interact with Siri more effectively. This marks a significant shift in Apple's approach to voice assistance.</description>
+      <link>https://www.macrumors.com/2026/06/01/ios-27-siri-app-rumors/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/06/01/ios-27-siri-app-rumors/</guid>
+      <pubDate>2026-06-01T23:25:47Z</pubDate>
       <category>Software</category>
-      <source url="http://9to5google.com/2026/06/01/android-17-beta-4-1-pixel/">9to5Google</source>
+      <source url="https://www.macrumors.com/2026/06/01/ios-27-siri-app-rumors/">MacRumors</source>
     </item>
     <item>
-      <title>Dell's $700 XPS 13 Aims at MacBook Neo</title>
-      <description>Dell introduces a budget-friendly XPS 13 at $699.99, designed to compete with Apple's MacBook Neo while offering unique advantages.</description>
-      <link>https://www.pcmag.com/news/at-computex-2026-dell-700-xps-13-sets-its-sights-apple-macbook-neo</link>
-      <guid isPermaLink="true">https://www.pcmag.com/news/at-computex-2026-dell-700-xps-13-sets-its-sights-apple-macbook-neo</guid>
-      <pubDate>2026-06-01T18:05:07Z</pubDate>
+      <title>Samsung Galaxy Z Fold8 Leaks Ahead of Launch</title>
+      <description>The Galaxy Z Fold8 is set to debut in July, with leaks suggesting a wide-screen design. Anticipation builds for Samsung's next foldable innovation.</description>
+      <link>https://www.gsmarena.com/samsungs_galaxy_z_fold8_wide_foldable_spotted_in_the_wild-news-73078.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/samsungs_galaxy_z_fold8_wide_foldable_spotted_in_the_wild-news-73078.php</guid>
+      <pubDate>2026-06-01T23:12:01Z</pubDate>
       <category>Hardware</category>
-      <source url="https://www.pcmag.com/news/at-computex-2026-dell-700-xps-13-sets-its-sights-apple-macbook-neo">PCMag</source>
+      <source url="https://www.gsmarena.com/samsungs_galaxy_z_fold8_wide_foldable_spotted_in_the_wild-news-73078.php">GSMArena.com</source>
     </item>
     <item>
-      <title>Sony Reveals PlayStation Accessories Release Date</title>
-      <description>Sony announces pricing and release details for new PlayStation accessories, including a $200 Bluetooth fight stick launching on August 6.</description>
-      <link>https://www.cnet.com/tech/gaming/sony-playstation-accessories/</link>
-      <guid isPermaLink="true">https://www.cnet.com/tech/gaming/sony-playstation-accessories/</guid>
-      <pubDate>2026-06-01T15:01:00Z</pubDate>
+      <title>Riot Games Celebrates Pride 2026</title>
+      <description>Riot Games is celebrating Pride month with new in-game content and community collaborations. This initiative highlights LGBTQIA+ representation across their games.</description>
+      <link>https://www.riotgames.com/en/news/pride-2026-in-game</link>
+      <guid isPermaLink="true">https://www.riotgames.com/en/news/pride-2026-in-game</guid>
+      <pubDate>2026-06-01T19:02:03Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.cnet.com/tech/gaming/sony-playstation-accessories/">CNET</source>
+      <source url="https://www.riotgames.com/en/news/pride-2026-in-game">Riotgames.com</source>
     </item>
     <item>
-      <title>Valve Faces Antitrust Challenges Over Steam</title>
-      <description>Valve is under scrutiny in the US and UK for alleged market abuse through its Steam platform, with the company denying the claims.</description>
-      <link>https://www.bloomberg.com/news/features/2026-06-01/valve-s-antitrust-reckoning-over-steam-has-echoes-of-apple-google-app-store-sui</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/features/2026-06-01/valve-s-antitrust-reckoning-over-steam-has-echoes-of-apple-google-app-store-sui</guid>
-      <pubDate>2026-06-01T09:00:04Z</pubDate>
-      <category>Geopolitics</category>
-      <source url="https://www.bloomberg.com/news/features/2026-06-01/valve-s-antitrust-reckoning-over-steam-has-echoes-of-apple-google-app-store-sui">Bloomberg.com</source>
+      <title>Toyota Unveils 2027 GR86 Enhancements</title>
+      <description>The 2027 Toyota GR86 debuts with performance enhancements and new features at FuelFest. These updates aim to elevate the driving experience for enthusiasts.</description>
+      <link>https://pressroom.toyota.com/toyota-turns-up-the-thrill-for-2027-with-new-updates-to-gr86/</link>
+      <guid isPermaLink="true">https://pressroom.toyota.com/toyota-turns-up-the-thrill-for-2027-with-new-updates-to-gr86/</guid>
+      <pubDate>2026-06-01T18:46:25Z</pubDate>
+      <category>Business</category>
+      <source url="https://pressroom.toyota.com/toyota-turns-up-the-thrill-for-2027-with-new-updates-to-gr86/">Toyota USA Newsroom</source>
     </item>
     <item>
-      <title>AMD Promises Longevity for AM5 Platform</title>
-      <description>AMD commits to supporting its AM5 platform until 2030, while reintroducing older components to extend usability for users.</description>
-      <link>https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d</guid>
-      <pubDate>2026-06-01T00:00:00Z</pubDate>
+      <title>Intel Launches Arc G3 Processors for Handhelds</title>
+      <description>Intel's new Arc G3 series targets gaming handhelds, competing with AMD's Ryzen Z-series. These processors are designed for optimal gaming performance.</description>
+      <link>https://www.techpowerup.com/349585/arc-g3-processor-series-detailed-purpose-built-for-gaming-handhelds-packs-the-best-of-intel</link>
+      <guid isPermaLink="true">https://www.techpowerup.com/349585/arc-g3-processor-series-detailed-purpose-built-for-gaming-handhelds-packs-the-best-of-intel</guid>
+      <pubDate>2026-06-01T14:08:07Z</pubDate>
       <category>Hardware</category>
-      <source url="https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d">The Verge</source>
+      <source url="https://www.techpowerup.com/349585/arc-g3-processor-series-detailed-purpose-built-for-gaming-handhelds-packs-the-best-of-intel">Techpowerup.com</source>
     </item>
     <item>
-      <title>007 First Light Becomes Denmark's Costliest Project</title>
-      <description>The development of 007 First Light has exceeded $200 million, marking it as Denmark's most expensive entertainment project to date.</description>
-      <link>https://mp1st.com/news/007-first-light-cost-over-200-million-develop-denmarks-expensive-entertainment-project</link>
-      <guid isPermaLink="true">https://mp1st.com/news/007-first-light-cost-over-200-million-develop-denmarks-expensive-entertainment-project</guid>
-      <pubDate>2026-05-31T19:05:08Z</pubDate>
+      <title>Engineer Creates AI Laser Mosquito Defense</title>
+      <description>An engineer developed an AI-driven laser system that effectively eliminates mosquitoes. This innovative approach uses deep learning for targeting.</description>
+      <link>https://www.techspot.com/news/112601-engineer-builds-ai-laser-defense-system-wiped-out.html</link>
+      <guid isPermaLink="true">https://www.techspot.com/news/112601-engineer-builds-ai-laser-defense-system-wiped-out.html</guid>
+      <pubDate>2026-06-01T13:42:00Z</pubDate>
+      <category>Science</category>
+      <source url="https://www.techspot.com/news/112601-engineer-builds-ai-laser-defense-system-wiped-out.html">TechSpot</source>
+    </item>
+    <item>
+      <title>PS5 Offers Free First-Party Game for Limited Time</title>
+      <description>Sony is offering a free first-party PS5 game, Marathon, starting June 2. Despite good reviews, the game struggled commercially since its release.</description>
+      <link>https://www.playstationlifestyle.net/2026/06/01/sony-first-party-game-marathon-ps5-free-week/</link>
+      <guid isPermaLink="true">https://www.playstationlifestyle.net/2026/06/01/sony-first-party-game-marathon-ps5-free-week/</guid>
+      <pubDate>2026-06-01T12:58:22Z</pubDate>
       <category>Gaming</category>
-      <source url="https://mp1st.com/news/007-first-light-cost-over-200-million-develop-denmarks-expensive-entertainment-project">MP1st</source>
+      <source url="https://www.playstationlifestyle.net/2026/06/01/sony-first-party-game-marathon-ps5-free-week/">PlayStation LifeStyle</source>
+    </item>
+    <item>
+      <title>AMD Announces Ryzen 7 5800X3D Anniversary Edition</title>
+      <description>AMD confirms the Ryzen 7 5800X3D 10th Anniversary Edition, launching June 25 for $349. This re-release features advanced 3D V-Cache technology.</description>
+      <link>https://videocardz.com/newz/amd-confirms-ryzen-7-5800x3d-10th-anniversary-edition-for-349-launches-june-25th</link>
+      <guid isPermaLink="true">https://videocardz.com/newz/amd-confirms-ryzen-7-5800x3d-10th-anniversary-edition-for-349-launches-june-25th</guid>
+      <pubDate>2026-06-01T02:11:09Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://videocardz.com/newz/amd-confirms-ryzen-7-5800x3d-10th-anniversary-edition-for-349-launches-june-25th">Videocardz.com</source>
     </item>
   </channel>
 </rss>
