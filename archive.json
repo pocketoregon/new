@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-03T16:46:34.823411+00:00",
+      "fetched_at": "2026-06-03T16:46:34.823411+00:00",
+      "label": "Jun 03, 2026 — 04:47 PM UTC",
+      "articles": [
+        {
+          "title": "Sony's PlayStation Exclusive Sales Decline",
+          "description": "Sony's PlayStation exclusives have seen declining sales since 2020, with only a brief spike in 2025. This trend raises concerns about the brand's future in gaming.",
+          "category": "Gaming",
+          "source": "Eurogamer.net",
+          "url": "https://www.eurogamer.net/sony-playstation-first-party-sales-decline",
+          "image": "https://assetsio.gnwcdn.com/Aloy-looks-puzzled-in-a-screenshot-from-Horizon-Forbidden-West.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-02T13:50:56Z",
+          "key_points": [
+            "Sales decline since 2020",
+            "Brief spike in 2025",
+            "Concerns for future"
+          ],
+          "impact": "Sony must innovate to regain market share.",
+          "id": "098ea1ed110b673dd89eac725b68f18d"
+        },
+        {
+          "title": "Crimson Desert to Patch Story Issues",
+          "description": "Crimson Desert's roadmap reveals plans to address its criticized story. Players hope for significant improvements in upcoming updates.",
+          "category": "Gaming",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/06/02/new-crimson-desert-roadmap-says-it-will-patch-the-story/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a1ed6738a67a7a588592777/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-02T13:14:43Z",
+          "key_points": [
+            "Roadmap reveals story patch plans",
+            "Player feedback acknowledged",
+            "Hope for better narrative"
+          ],
+          "impact": "Improved storytelling could enhance player engagement.",
+          "id": "246bb3ff6911b2a568a61e5088aae5d9"
+        },
+        {
+          "title": "PlayStation State of Play: What to Expect",
+          "description": "PlayStation's State of Play is set for today, promising exciting announcements and reveals. Fans are eager for updates on upcoming titles.",
+          "category": "Gaming",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/06/02/playstation-state-of-play-what-time-where-to-watch-what-to-expect/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a1ed26dc57d9986ce4b6d36/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-02T12:56:57Z",
+          "key_points": [
+            "Exciting announcements expected",
+            "Fans eager for updates",
+            "Full PS5 showcase planned"
+          ],
+          "impact": "Anticipation builds for major game reveals.",
+          "id": "f50027f438230740c99d8e53784c78c8"
+        },
+        {
+          "title": "Gemini Spark: Impressive AI Experience",
+          "description": "Google's Gemini Spark showcases advanced AI capabilities, performing tasks seamlessly. Its effectiveness raises both excitement and concern.",
+          "category": "AI",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Google-Gemini-Spark.jpg?quality=90&strip=all&crop=0%2C10.711701357851%2C100%2C78.576597284297&w=1200",
+          "published_at": "2026-06-02T12:38:08Z",
+          "key_points": [
+            "Advanced AI capabilities demonstrated",
+            "Raises ethical concerns",
+            "Impressive task performance"
+          ],
+          "impact": "AI advancements could reshape user experiences.",
+          "id": "9573a3b2fec734d4ca81f65736dfac98"
+        },
+        {
+          "title": "Maverick Games Announces Clutch",
+          "description": "Maverick Games, founded by Forza Horizon 5's director, reveals Clutch, an open-world action-driving game set for spring 2027 release.",
+          "category": "Gaming",
+          "source": "Gameinformer.com",
+          "url": "https://gameinformer.com/2026/06/02/studio-founded-by-forza-horizon-5-director-announces-open-world-action-driving-game",
+          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/01/9d16af5f/clutch_screenshot_2.jpg.webp",
+          "published_at": "2026-06-02T10:51:28Z",
+          "key_points": [
+            "Open-world driving game announced",
+            "Developed by Forza director",
+            "Launch set for spring 2027"
+          ],
+          "impact": "Excitement builds for new driving experience.",
+          "id": "da6bb819772931730a2d499c3be6d2c9"
+        },
+        {
+          "title": "iPhone 18 Pro Battery Leak",
+          "description": "Leaked details suggest the iPhone 18 Pro will have only a modest battery capacity increase over its predecessor. Users await official confirmation.",
+          "category": "Hardware",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/02/iphone-18-pro-battery-capacities-allegedly-leaked/",
+          "image": "https://images.macrumors.com/t/GEiBu2iaA9GrrmRRMXVC3ULLfZo=/2500x/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
+          "published_at": "2026-06-02T08:54:46Z",
+          "key_points": [
+            "Modest battery increase expected",
+            "Leaked details surface",
+            "Awaiting official confirmation"
+          ],
+          "impact": "Battery performance remains a key concern.",
+          "id": "1ff4a8f975ce7b3ad7b13e406c89a237"
+        },
+        {
+          "title": "ASRock Radeon RX 9070 GRE Review",
+          "description": "The ASRock Radeon RX 9070 GRE Steel Legend features a powerful cooler and solid gaming performance, appealing to mainstream gamers.",
+          "category": "Hardware",
+          "source": "Techpowerup.com",
+          "url": "https://www.techpowerup.com/review/asrock-radeon-rx-9070-gre-steel-legend/",
+          "image": "https://www.techpowerup.com/review/asrock-radeon-rx-9070-gre-steel-legend/images/title.jpg",
+          "published_at": "2026-06-02T00:02:15Z",
+          "key_points": [
+            "Powerful cooling system",
+            "Solid gaming performance",
+            "Appeals to mainstream gamers"
+          ],
+          "impact": "Strong contender in the graphics card market.",
+          "id": "4b95770f0a6e020143fd50e3a4601090"
+        },
+        {
+          "title": "Apple Launches WWDC26 Hashmoji",
+          "description": "Apple's #WWDC26 hashmoji campaign is live on X, encouraging users to engage with posts about the upcoming keynote.",
+          "category": "Policy",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/01/wwdc26-hashmoji-now-live-on-x-ahead-of-next-weeks-keynote/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/hashmoji-wwdc26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-01T22:54:00Z",
+          "key_points": [
+            "Hashmoji campaign launched",
+            "Encourages user engagement",
+            "Promotes upcoming keynote"
+          ],
+          "impact": "Boosts community interaction ahead of WWDC.",
+          "id": "a64fdce16a5eb3229f492466c04eef47"
+        },
+        {
+          "title": "Asus Reveals ROG Xbox Ally X20",
+          "description": "Asus introduces the ROG Xbox Ally X20, featuring an OLED screen and upgraded joysticks, bundled with AR glasses for a premium price.",
+          "category": "Gaming",
+          "source": "Gameinformer.com",
+          "url": "https://gameinformer.com/2026/06/01/asus-reveals-rog-xbox-ally-x20-with-oled-screen-upgraded-joysticks-and-transparent-shell",
+          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/01/b989cd08/asus_xbox_ally_x20.jpg.webp",
+          "published_at": "2026-06-01T21:30:59Z",
+          "key_points": [
+            "New OLED screen introduced",
+            "Upgraded joysticks included",
+            "Bundled with AR glasses"
+          ],
+          "impact": "Premium gaming experience with innovative features.",
+          "id": "a7d73963cc89250ccbfcc8150d0784cb"
+        },
+        {
+          "title": "Google Photos Adds Export Scheduling",
+          "description": "Google Photos now allows users to schedule exports of new photos and videos, enhancing backup capabilities.",
+          "category": "Software",
+          "source": "9to5google.com",
+          "url": "http://9to5google.com/2026/06/01/google-photos-schedule-export/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/google-photos-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-01T21:05:00Z",
+          "key_points": [
+            "New export scheduling feature",
+            "Enhances backup capabilities",
+            "Only exports new content"
+          ],
+          "impact": "Improves user experience for photo management.",
+          "id": "593da56b0912cda2fa4f3aa3d48ec47f"
+        },
+        {
+          "title": "Gigabyte Launches AORUS ELITE Monitors",
+          "description": "Gigabyte introduces the AORUS ELITE Series gaming monitors, featuring advanced OLED and Mini LED technology for enhanced visuals.",
+          "category": "Hardware",
+          "source": "Techpowerup.com",
+          "url": "https://www.techpowerup.com/349596/gigabyte-introduces-the-aorus-elite-series-gaming-monitors-with-oled-or-mini-led-panels",
+          "image": "https://www.techpowerup.com/img/Y8kNOBFcqzeinFm5.jpg",
+          "published_at": "2026-06-01T19:31:46Z",
+          "key_points": [
+            "Next-gen OLED technology",
+            "5K Mini LED monitor",
+            "Available in various sizes"
+          ],
+          "impact": "Sets new standards for gaming displays.",
+          "id": "41378843aea5b60a2bce750d50b6b468"
+        },
+        {
+          "title": "Dell Unveils New XPS 13 Laptop",
+          "description": "Dell's new XPS 13 laptop competes with the MacBook Neo, offering unique features at a starting price of $699.",
+          "category": "Hardware",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/01/dell-xps-13-vs-macbook-neo/",
+          "image": "https://images.macrumors.com/t/LcSeorlResjzCFHWfIE_R4Q7XOk=/1914x/article-new/2026/06/Dell-Unveils-699-Laptop-With-Features-You-Wont-Find-on-a-MacBook-Neo-Feature.jpg",
+          "published_at": "2026-06-01T17:04:39Z",
+          "key_points": [
+            "Competes with MacBook Neo",
+            "Starts at $699",
+            "Offers unique features"
+          ],
+          "impact": "Challenges Apple in the premium laptop market.",
+          "id": "ef47e6ee662964eaa8625af2b8666466"
+        },
+        {
+          "title": "Destiny 2's Final Update Call to Action",
+          "description": "Bungie urges players to log in for Destiny 2's final content update as a petition for Destiny 3 gains momentum.",
+          "category": "Gaming",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/gaming/as-a-destiny-3-petition-surges-destiny-2-dev-calls-on-players-to-log-in-for-its-final-content-update-on-june-9",
+          "image": "https://cdn.mos.cms.futurecdn.net/Gcx6h9TD2Bh8ooZmwfwgXn-1920-80.jpg",
+          "published_at": "2026-06-01T16:57:33Z",
+          "key_points": [
+            "Final content update approaching",
+            "Petition for Destiny 3 surges",
+            "Players encouraged to log in"
+          ],
+          "impact": "Final update could shape franchise's future.",
+          "id": "c496d329e62c8ee2ac2ab2572e3f8657"
+        },
+        {
+          "title": "Rumored Foldable iPhone Ultra Features",
+          "description": "The upcoming foldable iPhone Ultra is rumored to include vapor chamber cooling, launching in September despite production challenges.",
+          "category": "Hardware",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/01/foldable-iphone-rumored-to-feature-vapor-chamber/",
+          "image": "https://images.macrumors.com/t/aGmA7QKQaUG-zsM5JjNeGN-uwzs=/1600x/article-new/2026/06/Vapor-Chamber-Plate.jpg",
+          "published_at": "2026-06-01T15:13:12Z",
+          "key_points": [
+            "Foldable design expected",
+            "Vapor chamber cooling included",
+            "Launch set for September"
+          ],
+          "impact": "Innovative features may redefine smartphones.",
+          "id": "0277a03bdd61f3bffc61e05321dc4678"
+        },
+        {
+          "title": "007 First Light's High Production Cost",
+          "description": "007 First Light for PS5 reportedly cost around $200 million to produce, marking Denmark's largest entertainment investment.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/007-first-light-ps5-cost-a-fortune-to-make-but-it-was-worth-it",
+          "image": "https://images.pushsquare.com/c3ef34964f0c5/large.jpg",
+          "published_at": "2026-06-01T14:30:00Z",
+          "key_points": [
+            "Cost $200 million to produce",
+            "Denmark's largest entertainment export",
+            "High production value evident"
+          ],
+          "impact": "Sets a new benchmark for game budgets.",
+          "id": "e99ed0ae36e081e1dcb1a6ed93065b68"
+        }
+      ]
+    },
+    {
       "id": "2026-06-03T10:57:10.505311+00:00",
       "fetched_at": "2026-06-03T10:57:10.505311+00:00",
       "label": "Jun 03, 2026 — 10:57 AM UTC",
@@ -5544,285 +5791,6 @@
           ],
           "impact": "Improves user safety during commutes.",
           "id": "96dc41012c61b0dbdcba7a04f56e5fcc"
-        }
-      ]
-    },
-    {
-      "id": "2026-05-29T23:16:20.979580+00:00",
-      "fetched_at": "2026-05-29T23:16:20.979580+00:00",
-      "label": "May 29, 2026 — 11:16 PM UTC",
-      "articles": [
-        {
-          "title": "Xbox Faces Tough Choices Ahead, Says CEO",
-          "description": "Xbox CEO Asha Sharma warns of upcoming challenges in a recent memo. Fans must prepare for potential tough decisions regarding Xbox's future.",
-          "category": "Business",
-          "source": "Windows Central",
-          "url": "https://www.windowscentral.com/gaming/xbox/xbox-ceo-asha-sharma-tough-decisions-ahead-what-could-this-mean-for-xbox-helix-xbox-games-studios-or-xbox-exclusives",
-          "image": "https://cdn.mos.cms.futurecdn.net/KkY4E2tTAD3dkkEaooH6r5-2560-80.jpg",
-          "published_at": "2026-05-28T21:09:11Z",
-          "key_points": [
-            "CEO hints at major changes",
-            "Xbox Showcase on June 7",
-            "Fans brace for tough decisions"
-          ],
-          "impact": "Xbox's future direction remains uncertain.",
-          "id": "e738db35984fc628bcadeaaade0c9d8c"
-        },
-        {
-          "title": "Kindle Paperwhite Discounted Below Entry-Level Kindle",
-          "description": "Woot offers the 2021 Kindle Paperwhite for $99.99, its lowest price yet. This waterproof e-reader features a sharp display and adjustable warm light.",
-          "category": "Hardware",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/gadgets/939259/amazon-kindle-paperwhite-2021-woot-dad-tech-sale",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22954863/cgartenberg_211020_4803_0003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-05-28T20:10:09Z",
-          "key_points": [
-            "Best price for Paperwhite",
-            "Waterproof and adjustable light",
-            "Large 6.8-inch display"
-          ],
-          "impact": "Great deal for e-reader enthusiasts.",
-          "id": "e747b027465a17cb2cbe43a645231eec"
-        },
-        {
-          "title": "Spotify Android App Gains Playlist Folders and More",
-          "description": "Spotify's Android app introduces playlist folders and a new 'Reshuffle' feature for better track management. Users can now organize their music more efficiently.",
-          "category": "Software",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/05/28/spotify-app-for-android-adding-playlist-folders-reshuffle-and-more/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/05/spotify-android-app-icon-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-05-28T17:45:00Z",
-          "key_points": [
-            "New playlist folders feature",
-            "'Reshuffle' button added",
-            "Improved track management"
-          ],
-          "impact": "Enhances user experience on Spotify.",
-          "id": "ddf50e7d68a17c6ee3e5304c2c8aecdf"
-        },
-        {
-          "title": "Apple Launches First iOS 26.6 Public Beta",
-          "description": "Apple has released the first public beta for iOS 26.6, following the developer beta. Users can expect new features and improvements in this update.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/05/28/apple-releases-first-ios-26-6-public-beta-heres-what-to-expect/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iOS-26.6-public-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-05-28T17:38:00Z",
-          "key_points": [
-            "First public beta released",
-            "Follows developer beta",
-            "New features expected"
-          ],
-          "impact": "Users can test upcoming iOS features.",
-          "id": "f44eb1945af25ed05e2815e3b8b47f82"
-        },
-        {
-          "title": "YouTube Enhances Podcast Features for Premium Users",
-          "description": "YouTube Premium introduces new features for podcast listening, including audio-first controls and AI-driven playback speed adjustments. These enhancements aim to improve user experience.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/streaming/939051/youtube-premium-podcast-features",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/youtube-on-the-go-mode-news.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-          "published_at": "2026-05-28T16:05:00Z",
-          "key_points": [
-            "New audio-specific controls",
-            "AI playback speed adjustments",
-            "Exclusive to Premium subscribers"
-          ],
-          "impact": "Improves podcast listening on YouTube.",
-          "id": "ed420c9fd392b1d65b65428ce72e8216"
-        },
-        {
-          "title": "Steam Deck Sells Out in North America After Price Hike",
-          "description": "The Steam Deck has sold out in North America within 24 hours of its price increase. Demand remains high despite the hike.",
-          "category": "Hardware",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-1152x648.jpg",
-          "published_at": "2026-05-28T15:43:41Z",
-          "key_points": [
-            "Sold out within 24 hours",
-            "High demand persists",
-            "Price hike didn't deter buyers"
-          ],
-          "impact": "Steam Deck's popularity continues to soar.",
-          "id": "0c92f86084cac9f475ae258abd88c2d0"
-        },
-        {
-          "title": "Call of Duty Returns to Nintendo with Modern Warfare 4",
-          "description": "Modern Warfare 4 will launch on Nintendo Switch 2 on October 23, 2026, marking the series' return to Nintendo platforms.",
-          "category": "Software",
-          "source": "Nintendo.com",
-          "url": "https://www.nintendo.com/us/whatsnew/call-of-duty-modern-warfare-4-coming-to-nintendo-switch-2-this-october/",
-          "image": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-          "published_at": "2026-05-28T15:35:28Z",
-          "key_points": [
-            "Modern Warfare 4 announced",
-            "Launch date set for October 23",
-            "Returns to Nintendo platform"
-          ],
-          "impact": "Revitalizes Call of Duty on Nintendo.",
-          "id": "84dbdc0d5ad6b54c74155d66e55ab177"
-        },
-        {
-          "title": "Snapdragon C Targets Affordable Windows Laptops",
-          "description": "Qualcomm's Snapdragon C aims to compete with Apple's MacBook Neo by offering affordable Windows laptops priced around $300.",
-          "category": "Hardware",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/05/28/qualcomm-snapdragon-c-windows-macbook-neo/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/snapdragon-c-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-05-28T13:45:00Z",
-          "key_points": [
-            "Targets $300 laptop market",
-            "Competes with MacBook Neo",
-            "Focus on affordability"
-          ],
-          "impact": "Aims to disrupt the budget laptop segment.",
-          "id": "1c2bb47a1dea26de9e4dcc136b3243ba"
-        },
-        {
-          "title": "Krafton to Pay $250M Earnout for Subnautica 2 Success",
-          "description": "Krafton must pay $250 million to Unknown Worlds after Subnautica 2 sells over 4 million units. This payment follows a legal dispute regarding developer compensation.",
-          "category": "Business",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/subnautica-2-krafton-unknown-worlds-earnout",
-          "image": "https://assetsio.gnwcdn.com/Subnautica-2---Storage-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-05-28T12:16:32Z",
-          "key_points": [
-            "Krafton pays $250M earnout",
-            "Subnautica 2 sells 4M copies",
-            "Legal dispute resolved"
-          ],
-          "impact": "Highlights game's commercial success.",
-          "id": "0b53560943926fb0fce086110b5568d7"
-        },
-        {
-          "title": "PlayStation Offers Free Bundle for PS5 Users",
-          "description": "PlayStation Days of Play introduces a free bundle for PS5 users, no PlayStation Plus required. This annual event features discounts and new offers.",
-          "category": "Software",
-          "source": "GAMINGbible",
-          "url": "https://www.gamingbible.com/news/platform/playstation/playstation-days-of-play-free-bundle-925834-20260528",
-          "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt3c73c33b3f15c319/6a1819996c1bdc72d3b49376/playstation5-console-08052026.jpg",
-          "published_at": "2026-05-28T11:20:18Z",
-          "key_points": [
-            "Free bundle for PS5 users",
-            "No PlayStation Plus needed",
-            "Annual event with discounts"
-          ],
-          "impact": "Enhances value for PlayStation users.",
-          "id": "094472bcc2d53dce8102074943ba1e4e"
-        },
-        {
-          "title": "OnePlus 16 Leak Reveals Key Features",
-          "description": "Leaks suggest the OnePlus 16 will feature a high refresh-rate display and a 200MP telephoto camera. The flagship smartphone is expected to launch in Q4 2026.",
-          "category": "Hardware",
-          "source": "Notebookcheck",
-          "url": "https://www.notebookcheck.net/OnePlus-16-leak-reveals-display-and-camera-details.1307981.0.html",
-          "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Oneplus-16-leaked-details.png",
-          "published_at": "2026-05-28T10:57:00Z",
-          "key_points": [
-            "High refresh-rate display",
-            "200MP telephoto camera",
-            "Launch expected in Q4 2026"
-          ],
-          "impact": "Anticipation builds for OnePlus 16.",
-          "id": "82c4fa1c82b4ecc460175721f7a3ec8c"
-        },
-        {
-          "title": "Krafton to Pay $250M Earnout for Subnautica 2 Success",
-          "description": "Krafton must pay $250 million to Unknown Worlds after Subnautica 2 sells over 4 million units. This payment follows a legal dispute regarding developer compensation.",
-          "category": "Business",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/subnautica-2-has-sold-so-well-that-krafton-has-to-pay-that-250-million-earnout-to-the-devs",
-          "image": "https://assets-prd.ignimgs.com/2026/05/28/ss-787e2315a1eb5aaba73c4f75e6f7d7d8835fa260-1920x1080-1779958530846.jpg?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-05-28T09:03:00Z",
-          "key_points": [
-            "Krafton pays $250M earnout",
-            "Subnautica 2 sells 4M copies",
-            "Legal dispute resolved"
-          ],
-          "impact": "Highlights game's commercial success.",
-          "id": "ea201fc7fee845dede893a9ba3517b33"
-        },
-        {
-          "title": "Gemini Live Voices and Widget Updates Roll Out",
-          "description": "Gemini app introduces new voices and a redesigned Android widget with Neural Expressive icons. These updates enhance user interaction and experience.",
-          "category": "Software",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/05/27/new-gemini-live-voices/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-05-28T02:49:00Z",
-          "key_points": [
-            "New voices for Gemini app",
-            "Redesigned Android widget",
-            "Enhances user experience"
-          ],
-          "impact": "Improves interaction within the Gemini app.",
-          "id": "6a3266dbe8fcb77a72a0891f3c57a699"
-        },
-        {
-          "title": "Nintendo's New Mobile Game 'Pictonico!' Now Available",
-          "description": "Nintendo's new mobile game 'Pictonico!' is now available, including a demo for users to try. The game promises engaging content and fun gameplay.",
-          "category": "Software",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/05/reminder-nintendos-new-mobile-game-pictonico-is-now-available",
-          "image": "https://images.nintendolife.com/c24546ecd6e1d/large.jpg",
-          "published_at": "2026-05-27T23:55:00Z",
-          "key_points": [
-            "'Pictonico!' now available",
-            "Includes a demo",
-            "Engaging gameplay promised"
-          ],
-          "impact": "Expands Nintendo's mobile game offerings.",
-          "id": "1ebd9b7d56871d27fe3700c99a10154c"
-        },
-        {
-          "title": "Get Google Health Premium Free with AI Pro Plans",
-          "description": "Google Health Premium is now included in Google AI Pro and higher plans, offering users additional health features at no extra cost. This change follows Google I/O announcements.",
-          "category": "Software",
-          "source": "Droid Life",
-          "url": "https://www.droid-life.com/2026/05/27/google-health-premium-added-to-google-ai-pro-plan/",
-          "image": "https://www.droid-life.com/wp-content/uploads/2026/05/Google-AI-Pro-Google-Health-Premium-1-1200x628.jpg",
-          "published_at": "2026-05-27T17:53:12Z",
-          "key_points": [
-            "Google Health Premium included",
-            "Available in AI Pro plans",
-            "No extra cost for users"
-          ],
-          "impact": "Enhances value of Google AI subscriptions.",
-          "id": "9da6c0c09230736046b9d5ff1df51b4f"
-        },
-        {
-          "title": "Anthropic Expands Claude Voice Mode to More Languages",
-          "description": "Anthropic plans to enhance Claude's Voice Mode with push-to-talk features and support for additional languages. This update aims to improve accessibility and usability.",
-          "category": "Software",
-          "source": "Testingcatalog.com",
-          "url": "https://www.testingcatalog.com/anthropic-plans-expanding-claude-voice-mode-to-more-languages/",
-          "image": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/05/FJGs5StyEnkwpq57e3DM7HCI1VPkZUtpM14nd8XJ-1.webp",
-          "published_at": "2026-05-27T14:40:48Z",
-          "key_points": [
-            "Claude Voice Mode updates",
-            "Push-to-talk feature added",
-            "More languages supported"
-          ],
-          "impact": "Improves accessibility for Claude users.",
-          "id": "0437da5384edef38bb1f062fd70ff10a"
-        },
-        {
-          "title": "Sotheby’s Estimates $30M for Tyrannosaurus Rex",
-          "description": "Sotheby’s has placed a $30 million estimate on a Tyrannosaurus rex named Gus, reflecting the growing interest of wealthy collectors in fossils.",
-          "category": "Business",
-          "source": "Financial Times",
-          "url": "https://www.ft.com/content/4bfb07f6-5d1a-478f-b632-6a9b51bc82e2?syn-25a6b1a6\\u003d1",
-          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F04f99e67-f10e-4e57-935b-7ecc4102ab4a.jpg?source=next-barrier-page",
-          "published_at": "2026-05-27T13:30:18Z",
-          "key_points": [
-            "$30M estimate for T. rex",
-            "Growing fossil collector interest",
-            "Sotheby’s auction highlights"
-          ],
-          "impact": "Reflects rising value of rare fossils.",
-          "id": "dc6b7355e717690063e9f1bab91236db"
         }
       ]
     }

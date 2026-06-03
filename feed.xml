@@ -5,89 +5,143 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jun 2026 10:57:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 16:47:07 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>iPhone 18 Pro Battery Leak Reveals Big Changes</title>
-      <description>The iPhone 18 Pro's battery capacities have leaked, with eSIM models getting a larger cell. This expansion to Europe benefits millions of buyers.</description>
-      <link>https://www.notebookcheck.net/New-iPhone-18-Pro-battery-leak-just-changed-the-story-for-non-US-buyers.1313079.0.html</link>
-      <guid isPermaLink="true">https://www.notebookcheck.net/New-iPhone-18-Pro-battery-leak-just-changed-the-story-for-non-US-buyers.1313079.0.html</guid>
-      <pubDate>2026-06-02T03:26:00Z</pubDate>
-      <category>Business</category>
-      <source url="https://www.notebookcheck.net/New-iPhone-18-Pro-battery-leak-just-changed-the-story-for-non-US-buyers.1313079.0.html">Notebookcheck.net</source>
+      <title>Sony's PlayStation Exclusive Sales Decline</title>
+      <description>Sony's PlayStation exclusives have seen declining sales since 2020, with only a brief spike in 2025. This trend raises concerns about the brand's future in gaming.</description>
+      <link>https://www.eurogamer.net/sony-playstation-first-party-sales-decline</link>
+      <guid isPermaLink="true">https://www.eurogamer.net/sony-playstation-first-party-sales-decline</guid>
+      <pubDate>2026-06-02T13:50:56Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.eurogamer.net/sony-playstation-first-party-sales-decline">Eurogamer.net</source>
     </item>
     <item>
-      <title>iOS 27 Introduces Standalone Siri App</title>
-      <description>iOS 27 will feature a standalone Siri app, allowing users to interact with Siri more effectively. This marks a significant shift in Apple's approach to voice assistance.</description>
-      <link>https://www.macrumors.com/2026/06/01/ios-27-siri-app-rumors/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/06/01/ios-27-siri-app-rumors/</guid>
-      <pubDate>2026-06-01T23:25:47Z</pubDate>
+      <title>Crimson Desert to Patch Story Issues</title>
+      <description>Crimson Desert's roadmap reveals plans to address its criticized story. Players hope for significant improvements in upcoming updates.</description>
+      <link>https://www.forbes.com/sites/paultassi/2026/06/02/new-crimson-desert-roadmap-says-it-will-patch-the-story/</link>
+      <guid isPermaLink="true">https://www.forbes.com/sites/paultassi/2026/06/02/new-crimson-desert-roadmap-says-it-will-patch-the-story/</guid>
+      <pubDate>2026-06-02T13:14:43Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.forbes.com/sites/paultassi/2026/06/02/new-crimson-desert-roadmap-says-it-will-patch-the-story/">Forbes</source>
+    </item>
+    <item>
+      <title>PlayStation State of Play: What to Expect</title>
+      <description>PlayStation's State of Play is set for today, promising exciting announcements and reveals. Fans are eager for updates on upcoming titles.</description>
+      <link>https://www.forbes.com/sites/paultassi/2026/06/02/playstation-state-of-play-what-time-where-to-watch-what-to-expect/</link>
+      <guid isPermaLink="true">https://www.forbes.com/sites/paultassi/2026/06/02/playstation-state-of-play-what-time-where-to-watch-what-to-expect/</guid>
+      <pubDate>2026-06-02T12:56:57Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.forbes.com/sites/paultassi/2026/06/02/playstation-state-of-play-what-time-where-to-watch-what-to-expect/">Forbes</source>
+    </item>
+    <item>
+      <title>Gemini Spark: Impressive AI Experience</title>
+      <description>Google's Gemini Spark showcases advanced AI capabilities, performing tasks seamlessly. Its effectiveness raises both excitement and concern.</description>
+      <link>https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning</guid>
+      <pubDate>2026-06-02T12:38:08Z</pubDate>
+      <category>AI</category>
+      <source url="https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning">The Verge</source>
+    </item>
+    <item>
+      <title>Maverick Games Announces Clutch</title>
+      <description>Maverick Games, founded by Forza Horizon 5's director, reveals Clutch, an open-world action-driving game set for spring 2027 release.</description>
+      <link>https://gameinformer.com/2026/06/02/studio-founded-by-forza-horizon-5-director-announces-open-world-action-driving-game</link>
+      <guid isPermaLink="true">https://gameinformer.com/2026/06/02/studio-founded-by-forza-horizon-5-director-announces-open-world-action-driving-game</guid>
+      <pubDate>2026-06-02T10:51:28Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://gameinformer.com/2026/06/02/studio-founded-by-forza-horizon-5-director-announces-open-world-action-driving-game">Gameinformer.com</source>
+    </item>
+    <item>
+      <title>iPhone 18 Pro Battery Leak</title>
+      <description>Leaked details suggest the iPhone 18 Pro will have only a modest battery capacity increase over its predecessor. Users await official confirmation.</description>
+      <link>https://www.macrumors.com/2026/06/02/iphone-18-pro-battery-capacities-allegedly-leaked/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/06/02/iphone-18-pro-battery-capacities-allegedly-leaked/</guid>
+      <pubDate>2026-06-02T08:54:46Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://www.macrumors.com/2026/06/02/iphone-18-pro-battery-capacities-allegedly-leaked/">MacRumors</source>
+    </item>
+    <item>
+      <title>ASRock Radeon RX 9070 GRE Review</title>
+      <description>The ASRock Radeon RX 9070 GRE Steel Legend features a powerful cooler and solid gaming performance, appealing to mainstream gamers.</description>
+      <link>https://www.techpowerup.com/review/asrock-radeon-rx-9070-gre-steel-legend/</link>
+      <guid isPermaLink="true">https://www.techpowerup.com/review/asrock-radeon-rx-9070-gre-steel-legend/</guid>
+      <pubDate>2026-06-02T00:02:15Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://www.techpowerup.com/review/asrock-radeon-rx-9070-gre-steel-legend/">Techpowerup.com</source>
+    </item>
+    <item>
+      <title>Apple Launches WWDC26 Hashmoji</title>
+      <description>Apple's #WWDC26 hashmoji campaign is live on X, encouraging users to engage with posts about the upcoming keynote.</description>
+      <link>https://9to5mac.com/2026/06/01/wwdc26-hashmoji-now-live-on-x-ahead-of-next-weeks-keynote/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/01/wwdc26-hashmoji-now-live-on-x-ahead-of-next-weeks-keynote/</guid>
+      <pubDate>2026-06-01T22:54:00Z</pubDate>
+      <category>Policy</category>
+      <source url="https://9to5mac.com/2026/06/01/wwdc26-hashmoji-now-live-on-x-ahead-of-next-weeks-keynote/">9to5Mac</source>
+    </item>
+    <item>
+      <title>Asus Reveals ROG Xbox Ally X20</title>
+      <description>Asus introduces the ROG Xbox Ally X20, featuring an OLED screen and upgraded joysticks, bundled with AR glasses for a premium price.</description>
+      <link>https://gameinformer.com/2026/06/01/asus-reveals-rog-xbox-ally-x20-with-oled-screen-upgraded-joysticks-and-transparent-shell</link>
+      <guid isPermaLink="true">https://gameinformer.com/2026/06/01/asus-reveals-rog-xbox-ally-x20-with-oled-screen-upgraded-joysticks-and-transparent-shell</guid>
+      <pubDate>2026-06-01T21:30:59Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://gameinformer.com/2026/06/01/asus-reveals-rog-xbox-ally-x20-with-oled-screen-upgraded-joysticks-and-transparent-shell">Gameinformer.com</source>
+    </item>
+    <item>
+      <title>Google Photos Adds Export Scheduling</title>
+      <description>Google Photos now allows users to schedule exports of new photos and videos, enhancing backup capabilities.</description>
+      <link>http://9to5google.com/2026/06/01/google-photos-schedule-export/</link>
+      <guid isPermaLink="true">http://9to5google.com/2026/06/01/google-photos-schedule-export/</guid>
+      <pubDate>2026-06-01T21:05:00Z</pubDate>
       <category>Software</category>
-      <source url="https://www.macrumors.com/2026/06/01/ios-27-siri-app-rumors/">MacRumors</source>
+      <source url="http://9to5google.com/2026/06/01/google-photos-schedule-export/">9to5google.com</source>
     </item>
     <item>
-      <title>Samsung Galaxy Z Fold8 Leaks Ahead of Launch</title>
-      <description>The Galaxy Z Fold8 is set to debut in July, with leaks suggesting a wide-screen design. Anticipation builds for Samsung's next foldable innovation.</description>
-      <link>https://www.gsmarena.com/samsungs_galaxy_z_fold8_wide_foldable_spotted_in_the_wild-news-73078.php</link>
-      <guid isPermaLink="true">https://www.gsmarena.com/samsungs_galaxy_z_fold8_wide_foldable_spotted_in_the_wild-news-73078.php</guid>
-      <pubDate>2026-06-01T23:12:01Z</pubDate>
+      <title>Gigabyte Launches AORUS ELITE Monitors</title>
+      <description>Gigabyte introduces the AORUS ELITE Series gaming monitors, featuring advanced OLED and Mini LED technology for enhanced visuals.</description>
+      <link>https://www.techpowerup.com/349596/gigabyte-introduces-the-aorus-elite-series-gaming-monitors-with-oled-or-mini-led-panels</link>
+      <guid isPermaLink="true">https://www.techpowerup.com/349596/gigabyte-introduces-the-aorus-elite-series-gaming-monitors-with-oled-or-mini-led-panels</guid>
+      <pubDate>2026-06-01T19:31:46Z</pubDate>
       <category>Hardware</category>
-      <source url="https://www.gsmarena.com/samsungs_galaxy_z_fold8_wide_foldable_spotted_in_the_wild-news-73078.php">GSMArena.com</source>
+      <source url="https://www.techpowerup.com/349596/gigabyte-introduces-the-aorus-elite-series-gaming-monitors-with-oled-or-mini-led-panels">Techpowerup.com</source>
     </item>
     <item>
-      <title>Riot Games Celebrates Pride 2026</title>
-      <description>Riot Games is celebrating Pride month with new in-game content and community collaborations. This initiative highlights LGBTQIA+ representation across their games.</description>
-      <link>https://www.riotgames.com/en/news/pride-2026-in-game</link>
-      <guid isPermaLink="true">https://www.riotgames.com/en/news/pride-2026-in-game</guid>
-      <pubDate>2026-06-01T19:02:03Z</pubDate>
+      <title>Dell Unveils New XPS 13 Laptop</title>
+      <description>Dell's new XPS 13 laptop competes with the MacBook Neo, offering unique features at a starting price of $699.</description>
+      <link>https://www.macrumors.com/2026/06/01/dell-xps-13-vs-macbook-neo/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/06/01/dell-xps-13-vs-macbook-neo/</guid>
+      <pubDate>2026-06-01T17:04:39Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://www.macrumors.com/2026/06/01/dell-xps-13-vs-macbook-neo/">MacRumors</source>
+    </item>
+    <item>
+      <title>Destiny 2's Final Update Call to Action</title>
+      <description>Bungie urges players to log in for Destiny 2's final content update as a petition for Destiny 3 gains momentum.</description>
+      <link>https://www.windowscentral.com/gaming/as-a-destiny-3-petition-surges-destiny-2-dev-calls-on-players-to-log-in-for-its-final-content-update-on-june-9</link>
+      <guid isPermaLink="true">https://www.windowscentral.com/gaming/as-a-destiny-3-petition-surges-destiny-2-dev-calls-on-players-to-log-in-for-its-final-content-update-on-june-9</guid>
+      <pubDate>2026-06-01T16:57:33Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.riotgames.com/en/news/pride-2026-in-game">Riotgames.com</source>
+      <source url="https://www.windowscentral.com/gaming/as-a-destiny-3-petition-surges-destiny-2-dev-calls-on-players-to-log-in-for-its-final-content-update-on-june-9">Windows Central</source>
     </item>
     <item>
-      <title>Toyota Unveils 2027 GR86 Enhancements</title>
-      <description>The 2027 Toyota GR86 debuts with performance enhancements and new features at FuelFest. These updates aim to elevate the driving experience for enthusiasts.</description>
-      <link>https://pressroom.toyota.com/toyota-turns-up-the-thrill-for-2027-with-new-updates-to-gr86/</link>
-      <guid isPermaLink="true">https://pressroom.toyota.com/toyota-turns-up-the-thrill-for-2027-with-new-updates-to-gr86/</guid>
-      <pubDate>2026-06-01T18:46:25Z</pubDate>
-      <category>Business</category>
-      <source url="https://pressroom.toyota.com/toyota-turns-up-the-thrill-for-2027-with-new-updates-to-gr86/">Toyota USA Newsroom</source>
-    </item>
-    <item>
-      <title>Intel Launches Arc G3 Processors for Handhelds</title>
-      <description>Intel's new Arc G3 series targets gaming handhelds, competing with AMD's Ryzen Z-series. These processors are designed for optimal gaming performance.</description>
-      <link>https://www.techpowerup.com/349585/arc-g3-processor-series-detailed-purpose-built-for-gaming-handhelds-packs-the-best-of-intel</link>
-      <guid isPermaLink="true">https://www.techpowerup.com/349585/arc-g3-processor-series-detailed-purpose-built-for-gaming-handhelds-packs-the-best-of-intel</guid>
-      <pubDate>2026-06-01T14:08:07Z</pubDate>
+      <title>Rumored Foldable iPhone Ultra Features</title>
+      <description>The upcoming foldable iPhone Ultra is rumored to include vapor chamber cooling, launching in September despite production challenges.</description>
+      <link>https://www.macrumors.com/2026/06/01/foldable-iphone-rumored-to-feature-vapor-chamber/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/06/01/foldable-iphone-rumored-to-feature-vapor-chamber/</guid>
+      <pubDate>2026-06-01T15:13:12Z</pubDate>
       <category>Hardware</category>
-      <source url="https://www.techpowerup.com/349585/arc-g3-processor-series-detailed-purpose-built-for-gaming-handhelds-packs-the-best-of-intel">Techpowerup.com</source>
+      <source url="https://www.macrumors.com/2026/06/01/foldable-iphone-rumored-to-feature-vapor-chamber/">MacRumors</source>
     </item>
     <item>
-      <title>Engineer Creates AI Laser Mosquito Defense</title>
-      <description>An engineer developed an AI-driven laser system that effectively eliminates mosquitoes. This innovative approach uses deep learning for targeting.</description>
-      <link>https://www.techspot.com/news/112601-engineer-builds-ai-laser-defense-system-wiped-out.html</link>
-      <guid isPermaLink="true">https://www.techspot.com/news/112601-engineer-builds-ai-laser-defense-system-wiped-out.html</guid>
-      <pubDate>2026-06-01T13:42:00Z</pubDate>
-      <category>Science</category>
-      <source url="https://www.techspot.com/news/112601-engineer-builds-ai-laser-defense-system-wiped-out.html">TechSpot</source>
-    </item>
-    <item>
-      <title>PS5 Offers Free First-Party Game for Limited Time</title>
-      <description>Sony is offering a free first-party PS5 game, Marathon, starting June 2. Despite good reviews, the game struggled commercially since its release.</description>
-      <link>https://www.playstationlifestyle.net/2026/06/01/sony-first-party-game-marathon-ps5-free-week/</link>
-      <guid isPermaLink="true">https://www.playstationlifestyle.net/2026/06/01/sony-first-party-game-marathon-ps5-free-week/</guid>
-      <pubDate>2026-06-01T12:58:22Z</pubDate>
+      <title>007 First Light's High Production Cost</title>
+      <description>007 First Light for PS5 reportedly cost around $200 million to produce, marking Denmark's largest entertainment investment.</description>
+      <link>https://www.pushsquare.com/news/2026/06/007-first-light-ps5-cost-a-fortune-to-make-but-it-was-worth-it</link>
+      <guid isPermaLink="true">https://www.pushsquare.com/news/2026/06/007-first-light-ps5-cost-a-fortune-to-make-but-it-was-worth-it</guid>
+      <pubDate>2026-06-01T14:30:00Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.playstationlifestyle.net/2026/06/01/sony-first-party-game-marathon-ps5-free-week/">PlayStation LifeStyle</source>
-    </item>
-    <item>
-      <title>AMD Announces Ryzen 7 5800X3D Anniversary Edition</title>
-      <description>AMD confirms the Ryzen 7 5800X3D 10th Anniversary Edition, launching June 25 for $349. This re-release features advanced 3D V-Cache technology.</description>
-      <link>https://videocardz.com/newz/amd-confirms-ryzen-7-5800x3d-10th-anniversary-edition-for-349-launches-june-25th</link>
-      <guid isPermaLink="true">https://videocardz.com/newz/amd-confirms-ryzen-7-5800x3d-10th-anniversary-edition-for-349-launches-june-25th</guid>
-      <pubDate>2026-06-01T02:11:09Z</pubDate>
-      <category>Hardware</category>
-      <source url="https://videocardz.com/newz/amd-confirms-ryzen-7-5800x3d-10th-anniversary-edition-for-349-launches-june-25th">Videocardz.com</source>
+      <source url="https://www.pushsquare.com/news/2026/06/007-first-light-ps5-cost-a-fortune-to-make-but-it-was-worth-it">Push Square</source>
     </item>
   </channel>
 </rss>

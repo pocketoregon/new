@@ -1,149 +1,245 @@
 {
-  "generated_at": "2026-06-03T10:57:10.505311+00:00",
+  "generated_at": "2026-06-03T16:46:34.823411+00:00",
   "articles": [
     {
-      "title": "iPhone 18 Pro Battery Leak Reveals Big Changes",
-      "description": "The iPhone 18 Pro's battery capacities have leaked, with eSIM models getting a larger cell. This expansion to Europe benefits millions of buyers.",
-      "category": "Business",
-      "source": "Notebookcheck.net",
-      "url": "https://www.notebookcheck.net/New-iPhone-18-Pro-battery-leak-just-changed-the-story-for-non-US-buyers.1313079.0.html",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/iphone18-pro-design-models-54.png",
-      "published_at": "2026-06-02T03:26:00Z",
-      "key_points": [
-        "eSIM models get larger battery",
-        "Expansion to Europe confirmed",
-        "Significant for non-US buyers"
-      ],
-      "impact": "This change enhances the iPhone's appeal globally.",
-      "id": "d2144ce6bcfac3bddb5e147a9c35e933"
-    },
-    {
-      "title": "iOS 27 Introduces Standalone Siri App",
-      "description": "iOS 27 will feature a standalone Siri app, allowing users to interact with Siri more effectively. This marks a significant shift in Apple's approach to voice assistance.",
-      "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/01/ios-27-siri-app-rumors/",
-      "image": "https://images.macrumors.com/t/wccLNgtu2uBa78hkDFTa4mENJus=/2500x/article-new/2025/08/Finder-Siri-Feature.jpg",
-      "published_at": "2026-06-01T23:25:47Z",
-      "key_points": [
-        "Standalone Siri app confirmed",
-        "Improved user interaction",
-        "Part of iOS 27 release"
-      ],
-      "impact": "This enhances Siri's usability and accessibility.",
-      "id": "28802e209adfa5185c78830357ebbb79"
-    },
-    {
-      "title": "Samsung Galaxy Z Fold8 Leaks Ahead of Launch",
-      "description": "The Galaxy Z Fold8 is set to debut in July, with leaks suggesting a wide-screen design. Anticipation builds for Samsung's next foldable innovation.",
-      "category": "Hardware",
-      "source": "GSMArena.com",
-      "url": "https://www.gsmarena.com/samsungs_galaxy_z_fold8_wide_foldable_spotted_in_the_wild-news-73078.php",
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/samsung-galaxy-z-fold8-wide-real-life-leak/-952x498w6/gsmarena_00.jpg",
-      "published_at": "2026-06-01T23:12:01Z",
-      "key_points": [
-        "Galaxy Z Fold8 launching in July",
-        "Wide-screen design anticipated",
-        "Excitement for foldable tech grows"
-      ],
-      "impact": "This could redefine the foldable smartphone market.",
-      "id": "2990f71b68153477db43ca1c5dd59bed"
-    },
-    {
-      "title": "Riot Games Celebrates Pride 2026",
-      "description": "Riot Games is celebrating Pride month with new in-game content and community collaborations. This initiative highlights LGBTQIA+ representation across their games.",
+      "title": "Sony's PlayStation Exclusive Sales Decline",
+      "description": "Sony's PlayStation exclusives have seen declining sales since 2020, with only a brief spike in 2025. This trend raises concerns about the brand's future in gaming.",
       "category": "Gaming",
-      "source": "Riotgames.com",
-      "url": "https://www.riotgames.com/en/news/pride-2026-in-game",
-      "image": "https://www.riotgames.com/darkroom/1200/7a19127dec1e9e2808cb09e1be4df629:2c22ece971fd9c089d884c0aba9a09d2/rg-com-pride-2026-article-header.png",
-      "published_at": "2026-06-01T19:02:03Z",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/sony-playstation-first-party-sales-decline",
+      "image": "https://assetsio.gnwcdn.com/Aloy-looks-puzzled-in-a-screenshot-from-Horizon-Forbidden-West.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-02T13:50:56Z",
       "key_points": [
-        "New in-game Pride content",
-        "Community artist collaborations",
-        "Spotlighting LGBTQIA+ creators"
+        "Sales decline since 2020",
+        "Brief spike in 2025",
+        "Concerns for future"
       ],
-      "impact": "This fosters inclusivity in gaming culture.",
-      "id": "b3aa718448a8cd874ccfa466f5542b23"
+      "impact": "Sony must innovate to regain market share.",
+      "id": "098ea1ed110b673dd89eac725b68f18d"
     },
     {
-      "title": "Toyota Unveils 2027 GR86 Enhancements",
-      "description": "The 2027 Toyota GR86 debuts with performance enhancements and new features at FuelFest. These updates aim to elevate the driving experience for enthusiasts.",
-      "category": "Business",
-      "source": "Toyota USA Newsroom",
-      "url": "https://pressroom.toyota.com/toyota-turns-up-the-thrill-for-2027-with-new-updates-to-gr86/",
-      "image": "https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2026/06/2027_Toyota_GR86_Fuel-Fest_HERO-1000x600.jpg",
-      "published_at": "2026-06-01T18:46:25Z",
+      "title": "Crimson Desert to Patch Story Issues",
+      "description": "Crimson Desert's roadmap reveals plans to address its criticized story. Players hope for significant improvements in upcoming updates.",
+      "category": "Gaming",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/06/02/new-crimson-desert-roadmap-says-it-will-patch-the-story/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a1ed6738a67a7a588592777/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published_at": "2026-06-02T13:14:43Z",
       "key_points": [
-        "2027 GR86 enhancements revealed",
-        "Focus on performance and features",
-        "Debuted at FuelFest event"
+        "Roadmap reveals story patch plans",
+        "Player feedback acknowledged",
+        "Hope for better narrative"
       ],
-      "impact": "This strengthens Toyota's performance vehicle lineup.",
-      "id": "470c4210fd65d79e244a1e12f1e4da3b"
+      "impact": "Improved storytelling could enhance player engagement.",
+      "id": "246bb3ff6911b2a568a61e5088aae5d9"
     },
     {
-      "title": "Intel Launches Arc G3 Processors for Handhelds",
-      "description": "Intel's new Arc G3 series targets gaming handhelds, competing with AMD's Ryzen Z-series. These processors are designed for optimal gaming performance.",
+      "title": "PlayStation State of Play: What to Expect",
+      "description": "PlayStation's State of Play is set for today, promising exciting announcements and reveals. Fans are eager for updates on upcoming titles.",
+      "category": "Gaming",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/06/02/playstation-state-of-play-what-time-where-to-watch-what-to-expect/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a1ed26dc57d9986ce4b6d36/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published_at": "2026-06-02T12:56:57Z",
+      "key_points": [
+        "Exciting announcements expected",
+        "Fans eager for updates",
+        "Full PS5 showcase planned"
+      ],
+      "impact": "Anticipation builds for major game reveals.",
+      "id": "f50027f438230740c99d8e53784c78c8"
+    },
+    {
+      "title": "Gemini Spark: Impressive AI Experience",
+      "description": "Google's Gemini Spark showcases advanced AI capabilities, performing tasks seamlessly. Its effectiveness raises both excitement and concern.",
+      "category": "AI",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Google-Gemini-Spark.jpg?quality=90&strip=all&crop=0%2C10.711701357851%2C100%2C78.576597284297&w=1200",
+      "published_at": "2026-06-02T12:38:08Z",
+      "key_points": [
+        "Advanced AI capabilities demonstrated",
+        "Raises ethical concerns",
+        "Impressive task performance"
+      ],
+      "impact": "AI advancements could reshape user experiences.",
+      "id": "9573a3b2fec734d4ca81f65736dfac98"
+    },
+    {
+      "title": "Maverick Games Announces Clutch",
+      "description": "Maverick Games, founded by Forza Horizon 5's director, reveals Clutch, an open-world action-driving game set for spring 2027 release.",
+      "category": "Gaming",
+      "source": "Gameinformer.com",
+      "url": "https://gameinformer.com/2026/06/02/studio-founded-by-forza-horizon-5-director-announces-open-world-action-driving-game",
+      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/01/9d16af5f/clutch_screenshot_2.jpg.webp",
+      "published_at": "2026-06-02T10:51:28Z",
+      "key_points": [
+        "Open-world driving game announced",
+        "Developed by Forza director",
+        "Launch set for spring 2027"
+      ],
+      "impact": "Excitement builds for new driving experience.",
+      "id": "da6bb819772931730a2d499c3be6d2c9"
+    },
+    {
+      "title": "iPhone 18 Pro Battery Leak",
+      "description": "Leaked details suggest the iPhone 18 Pro will have only a modest battery capacity increase over its predecessor. Users await official confirmation.",
+      "category": "Hardware",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/02/iphone-18-pro-battery-capacities-allegedly-leaked/",
+      "image": "https://images.macrumors.com/t/GEiBu2iaA9GrrmRRMXVC3ULLfZo=/2500x/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
+      "published_at": "2026-06-02T08:54:46Z",
+      "key_points": [
+        "Modest battery increase expected",
+        "Leaked details surface",
+        "Awaiting official confirmation"
+      ],
+      "impact": "Battery performance remains a key concern.",
+      "id": "1ff4a8f975ce7b3ad7b13e406c89a237"
+    },
+    {
+      "title": "ASRock Radeon RX 9070 GRE Review",
+      "description": "The ASRock Radeon RX 9070 GRE Steel Legend features a powerful cooler and solid gaming performance, appealing to mainstream gamers.",
       "category": "Hardware",
       "source": "Techpowerup.com",
-      "url": "https://www.techpowerup.com/349585/arc-g3-processor-series-detailed-purpose-built-for-gaming-handhelds-packs-the-best-of-intel",
-      "image": "https://www.techpowerup.com/img/paNBIZPv1xKwOUdi.jpg",
-      "published_at": "2026-06-01T14:08:07Z",
+      "url": "https://www.techpowerup.com/review/asrock-radeon-rx-9070-gre-steel-legend/",
+      "image": "https://www.techpowerup.com/review/asrock-radeon-rx-9070-gre-steel-legend/images/title.jpg",
+      "published_at": "2026-06-02T00:02:15Z",
       "key_points": [
-        "Arc G3 series launched",
-        "Designed for gaming handhelds",
-        "Competes with AMD Ryzen"
+        "Powerful cooling system",
+        "Solid gaming performance",
+        "Appeals to mainstream gamers"
       ],
-      "impact": "This enhances Intel's position in gaming hardware.",
-      "id": "72f2d0c1c78745f01c37d350e320b321"
+      "impact": "Strong contender in the graphics card market.",
+      "id": "4b95770f0a6e020143fd50e3a4601090"
     },
     {
-      "title": "Engineer Creates AI Laser Mosquito Defense",
-      "description": "An engineer developed an AI-driven laser system that effectively eliminates mosquitoes. This innovative approach uses deep learning for targeting.",
-      "category": "Science",
-      "source": "TechSpot",
-      "url": "https://www.techspot.com/news/112601-engineer-builds-ai-laser-defense-system-wiped-out.html",
-      "image": "https://www.techspot.com/images2/news/bigimage/2026/06/2026-06-01-image-29.jpg",
-      "published_at": "2026-06-01T13:42:00Z",
+      "title": "Apple Launches WWDC26 Hashmoji",
+      "description": "Apple's #WWDC26 hashmoji campaign is live on X, encouraging users to engage with posts about the upcoming keynote.",
+      "category": "Policy",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/01/wwdc26-hashmoji-now-live-on-x-ahead-of-next-weeks-keynote/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/hashmoji-wwdc26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-01T22:54:00Z",
       "key_points": [
-        "AI system targets mosquitoes",
-        "Uses deep learning technology",
-        "Innovative pest control solution"
+        "Hashmoji campaign launched",
+        "Encourages user engagement",
+        "Promotes upcoming keynote"
       ],
-      "impact": "This could revolutionize pest control methods.",
-      "id": "a86ed11bfdd155bcbb8865908b658e78"
+      "impact": "Boosts community interaction ahead of WWDC.",
+      "id": "a64fdce16a5eb3229f492466c04eef47"
     },
     {
-      "title": "PS5 Offers Free First-Party Game for Limited Time",
-      "description": "Sony is offering a free first-party PS5 game, Marathon, starting June 2. Despite good reviews, the game struggled commercially since its release.",
+      "title": "Asus Reveals ROG Xbox Ally X20",
+      "description": "Asus introduces the ROG Xbox Ally X20, featuring an OLED screen and upgraded joysticks, bundled with AR glasses for a premium price.",
       "category": "Gaming",
-      "source": "PlayStation LifeStyle",
-      "url": "https://www.playstationlifestyle.net/2026/06/01/sony-first-party-game-marathon-ps5-free-week/",
-      "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/06/ps5-game-marathon-free-week.jpg?resize=1200,630",
-      "published_at": "2026-06-01T12:58:22Z",
+      "source": "Gameinformer.com",
+      "url": "https://gameinformer.com/2026/06/01/asus-reveals-rog-xbox-ally-x20-with-oled-screen-upgraded-joysticks-and-transparent-shell",
+      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/01/b989cd08/asus_xbox_ally_x20.jpg.webp",
+      "published_at": "2026-06-01T21:30:59Z",
       "key_points": [
-        "Marathon game free for PS5",
-        "Limited time offer starts June 2",
-        "Game faced commercial challenges"
+        "New OLED screen introduced",
+        "Upgraded joysticks included",
+        "Bundled with AR glasses"
       ],
-      "impact": "This aims to boost player engagement.",
-      "id": "51656e2da8881ad8600fe03f28743625"
+      "impact": "Premium gaming experience with innovative features.",
+      "id": "a7d73963cc89250ccbfcc8150d0784cb"
     },
     {
-      "title": "AMD Announces Ryzen 7 5800X3D Anniversary Edition",
-      "description": "AMD confirms the Ryzen 7 5800X3D 10th Anniversary Edition, launching June 25 for $349. This re-release features advanced 3D V-Cache technology.",
-      "category": "Hardware",
-      "source": "Videocardz.com",
-      "url": "https://videocardz.com/newz/amd-confirms-ryzen-7-5800x3d-10th-anniversary-edition-for-349-launches-june-25th",
-      "image": "https://cdn.videocardz.com/1/2026/06/AMD-RYZEN-5800X3D-ANNIVERSARY-1.jpg",
-      "published_at": "2026-06-01T02:11:09Z",
+      "title": "Google Photos Adds Export Scheduling",
+      "description": "Google Photos now allows users to schedule exports of new photos and videos, enhancing backup capabilities.",
+      "category": "Software",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/06/01/google-photos-schedule-export/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/google-photos-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-01T21:05:00Z",
       "key_points": [
-        "Ryzen 7 5800X3D confirmed",
-        "Launch date set for June 25",
-        "Priced at $349"
+        "New export scheduling feature",
+        "Enhances backup capabilities",
+        "Only exports new content"
       ],
-      "impact": "This reinforces AMD's competitive CPU offerings.",
-      "id": "ff1f6707965c9370af69bad8977303b8"
+      "impact": "Improves user experience for photo management.",
+      "id": "593da56b0912cda2fa4f3aa3d48ec47f"
+    },
+    {
+      "title": "Gigabyte Launches AORUS ELITE Monitors",
+      "description": "Gigabyte introduces the AORUS ELITE Series gaming monitors, featuring advanced OLED and Mini LED technology for enhanced visuals.",
+      "category": "Hardware",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/349596/gigabyte-introduces-the-aorus-elite-series-gaming-monitors-with-oled-or-mini-led-panels",
+      "image": "https://www.techpowerup.com/img/Y8kNOBFcqzeinFm5.jpg",
+      "published_at": "2026-06-01T19:31:46Z",
+      "key_points": [
+        "Next-gen OLED technology",
+        "5K Mini LED monitor",
+        "Available in various sizes"
+      ],
+      "impact": "Sets new standards for gaming displays.",
+      "id": "41378843aea5b60a2bce750d50b6b468"
+    },
+    {
+      "title": "Dell Unveils New XPS 13 Laptop",
+      "description": "Dell's new XPS 13 laptop competes with the MacBook Neo, offering unique features at a starting price of $699.",
+      "category": "Hardware",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/01/dell-xps-13-vs-macbook-neo/",
+      "image": "https://images.macrumors.com/t/LcSeorlResjzCFHWfIE_R4Q7XOk=/1914x/article-new/2026/06/Dell-Unveils-699-Laptop-With-Features-You-Wont-Find-on-a-MacBook-Neo-Feature.jpg",
+      "published_at": "2026-06-01T17:04:39Z",
+      "key_points": [
+        "Competes with MacBook Neo",
+        "Starts at $699",
+        "Offers unique features"
+      ],
+      "impact": "Challenges Apple in the premium laptop market.",
+      "id": "ef47e6ee662964eaa8625af2b8666466"
+    },
+    {
+      "title": "Destiny 2's Final Update Call to Action",
+      "description": "Bungie urges players to log in for Destiny 2's final content update as a petition for Destiny 3 gains momentum.",
+      "category": "Gaming",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/gaming/as-a-destiny-3-petition-surges-destiny-2-dev-calls-on-players-to-log-in-for-its-final-content-update-on-june-9",
+      "image": "https://cdn.mos.cms.futurecdn.net/Gcx6h9TD2Bh8ooZmwfwgXn-1920-80.jpg",
+      "published_at": "2026-06-01T16:57:33Z",
+      "key_points": [
+        "Final content update approaching",
+        "Petition for Destiny 3 surges",
+        "Players encouraged to log in"
+      ],
+      "impact": "Final update could shape franchise's future.",
+      "id": "c496d329e62c8ee2ac2ab2572e3f8657"
+    },
+    {
+      "title": "Rumored Foldable iPhone Ultra Features",
+      "description": "The upcoming foldable iPhone Ultra is rumored to include vapor chamber cooling, launching in September despite production challenges.",
+      "category": "Hardware",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/01/foldable-iphone-rumored-to-feature-vapor-chamber/",
+      "image": "https://images.macrumors.com/t/aGmA7QKQaUG-zsM5JjNeGN-uwzs=/1600x/article-new/2026/06/Vapor-Chamber-Plate.jpg",
+      "published_at": "2026-06-01T15:13:12Z",
+      "key_points": [
+        "Foldable design expected",
+        "Vapor chamber cooling included",
+        "Launch set for September"
+      ],
+      "impact": "Innovative features may redefine smartphones.",
+      "id": "0277a03bdd61f3bffc61e05321dc4678"
+    },
+    {
+      "title": "007 First Light's High Production Cost",
+      "description": "007 First Light for PS5 reportedly cost around $200 million to produce, marking Denmark's largest entertainment investment.",
+      "category": "Gaming",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/06/007-first-light-ps5-cost-a-fortune-to-make-but-it-was-worth-it",
+      "image": "https://images.pushsquare.com/c3ef34964f0c5/large.jpg",
+      "published_at": "2026-06-01T14:30:00Z",
+      "key_points": [
+        "Cost $200 million to produce",
+        "Denmark's largest entertainment export",
+        "High production value evident"
+      ],
+      "impact": "Sets a new benchmark for game budgets.",
+      "id": "e99ed0ae36e081e1dcb1a6ed93065b68"
     }
   ]
 }
