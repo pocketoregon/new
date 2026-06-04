@@ -1,245 +1,245 @@
 {
-  "generated_at": "2026-06-04T17:48:13.003560+00:00",
+  "generated_at": "2026-06-04T20:04:32.698694+00:00",
   "articles": [
     {
-      "title": "Apple’s Vision Products Roadmap Scaled Back",
-      "description": "Apple's John Ternus has reportedly reduced the Vision products roadmap, signaling a shift in strategy. This could impact future product releases significantly.",
+      "title": "Nintendo Direct Buzz Grows as Switch 2 Turns One",
+      "description": "Excitement builds for a June Nintendo Direct as the Switch 2 celebrates its first anniversary. Fans anticipate major announcements and updates.",
+      "category": "Gaming",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUHdaaWdJbDQ2M0hJLXdtVmdWSU1FX2dzanlxZnNVZmJ1QTZaWWh4cXdmNkp5c0ZSTk0wY2w0UVF5bThUVlozTUlnM21MVzE1eU5GSWRKRktwWEZKWjBNb1BCZnFQbFdsVFhGOUNRTTN1Y2QwcHRWczdOMVctZEg1aFhRblBycEhlNmdjdVhhZmN3Ni1iMVRCdFkzMzdQanRCV0h3Nk8ydnlNRkdBVkhvN2NOb05ZalZRWUVHSWdfV3dMQjg?oc=5",
+      "image": "",
+      "published_at": "2026-06-03T17:27:30Z",
+      "key_points": [
+        "June Direct anticipated",
+        "Switch 2 anniversary",
+        "Major announcements expected"
+      ],
+      "impact": "Nintendo's upcoming Direct could reshape gaming.",
+      "id": "6032b0c80e7daa897afdec4da13f4324"
+    },
+    {
+      "title": "Amazon's AI Creates Fake Product Images",
+      "description": "Amazon's latest AI feature generates images of non-existent products, raising eyebrows over its practicality. Critics call it one of the least useful AI applications.",
       "category": "Business",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRVhZRTJINHpHcHM3LVhuZ2R6ZzZoTUlWRFBzQ3NpdS0tR28ySlphcUNJTFQxN2dnU3hQbUJrckNZWEN3dGtFY3NlSU1yLU85OS1SVm9Fck5GTGkxaGhqSk91MGRjRFlQS2VpbVhZTXQ0S01OYlZMNUZMYklxcldFQ1g2b2xjeVFJN0VTRHJpVzEwTmxFOHhOTw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4weTBWb1NRTzRsUUhiaF8yeVdlMzNlcF9HbHhpMy1tUDUzNU9FSDE4UmttUXBOMU5wRXZENEdJU3FxVWoyblpQNmRpV2lGVlo5UDRXRzhuSEFIQ3Z4RkVzSTQtT3J4WmJPOFdBakN6SVFLN3NMTFhEZFk5TVg?oc=5",
       "image": "",
-      "published_at": "2026-06-03T17:19:00Z",
+      "published_at": "2026-06-03T16:45:00Z",
       "key_points": [
-        "Vision products roadmap reduced",
-        "Shift in Apple's strategy",
-        "Future releases may be affected"
+        "AI generates fake products",
+        "Critics question usefulness",
+        "Amazon's innovation under fire"
       ],
-      "impact": "Apple's strategy change may reshape product launches.",
-      "id": "af971ac585b9664e37656f621309b9aa"
+      "impact": "Amazon's AI raises concerns about practicality.",
+      "id": "07fb98723c36cab355a9d1c7aad2f116"
     },
     {
-      "title": "Fitbit Air CAD Drawings & Specs Released",
-      "description": "Google has unveiled Fitbit Air CAD drawings and specifications, introducing new bicep bands. This marks a significant update for fitness enthusiasts.",
-      "category": "Hardware",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY2EzWEk0RFgzZy12ZzRaeV9aM3hwQ2FoQjZIMXkwbFVneEUwUVVUR2Rqa0F3QzQ5a1dDdGRrV2hSME55Y0dDUW85N2dnRFJrdEMtdF9GdkpFMnFOLU05eERiazdFZEZHbURqR1FMZEJsLU4zc1JsOGNRMkFXcEhBVmlPOVpmWmE5VHVFRHd4YWk5NzhfUVpJS2l5andVemNabzZ2aE9WOER6TzQ?oc=5",
-      "image": "",
-      "published_at": "2026-06-03T15:22:50Z",
-      "key_points": [
-        "Fitbit Air specs revealed",
-        "New bicep bands introduced",
-        "Update for fitness enthusiasts"
-      ],
-      "impact": "Fitbit's new features enhance user experience.",
-      "id": "46a23ec889d893f3797439de96b4db85"
-    },
-    {
-      "title": "‘Destiny 2’ Fans Demand ‘Destiny 3’",
-      "description": "Fans of 'Destiny 2' are overwhelming PlayStation's State of Play with demands for 'Destiny 3'. This reflects the community's eagerness for new content.",
+      "title": "Marathon Season 2 Launch Faces Major Issues",
+      "description": "The launch of Marathon's second season was marred by server problems, leaving many players unable to join. This setback comes at a critical time for the game.",
       "category": "Gaming",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV1ZvWEEybng2Rjl4X3hiRWNsOHU1SWVJN0NNSldDbDR1bTMweHlfN1pBM2xQblVOZEpZQlQyV0lCNlBLRmlmQzNnc3VieW9aX0lxUWI3WHZpdTE5REdwRi05T2JsWVd4NHRPbU9iMnZaNU9vYUpkRnlRZHU2bFZVQkpyZHd4R3J4bl9KMVVaWndSOUpmTmxkeVVJOElnLXJSNlNmejBTRjdBbU85LVh3bXZDbEdpbnlnNk44?oc=5",
-      "image": "",
-      "published_at": "2026-06-03T15:12:43Z",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/06/03/marathon-season-2-launch-was-fumbled-at-the-worst-possible-moment/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a2033486dd65a86e48e92c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published_at": "2026-06-03T14:04:38Z",
       "key_points": [
-        "Fans demand 'Destiny 3'",
-        "PlayStation event overwhelmed",
-        "Community eager for new content"
+        "Season 2 launch issues",
+        "Server problems persist",
+        "Critical time for Marathon"
       ],
-      "impact": "Player demands highlight community engagement.",
-      "id": "210cf135594b55acd8b640dc8e621c11"
+      "impact": "Server issues hinder Marathon's player experience.",
+      "id": "0841858fc2fbb180ed624377db6758ad"
     },
     {
-      "title": "Microsoft’s Surface Laptop Ultra Unveiled",
-      "description": "Microsoft showcases the Surface Laptop Ultra, emphasizing performance, battery life, and display quality. This new model aims to enhance user productivity.",
-      "category": "Hardware",
+      "title": "Microsoft AI Chief Aims for Fourth Lab",
+      "description": "Mustafa Suleyman, Microsoft's AI chief, identifies three leading labs and aims for Microsoft to join their ranks. He emphasizes the need for innovation in AI development.",
+      "category": "AI",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/941600/microsoft-surface-laptop-ultra-dev-box-hands-on",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/surfacelaptopultra1.jpg?quality=90&strip=all&crop=0%2C10.462709848801%2C100%2C79.074580302398&w=1200",
-      "published_at": "2026-06-03T13:22:17Z",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMVdFdEdQQTRodDJqeW95ZGJxRzdoRjZOWWdvSU5Rc2EyeHJoLTRrZ0d1Z3FJSVpTSmJRNVBIU2tKSTJwVWtqS2lCT1VUSG9GbVhKY19vVHNyeDJxaTgzRkJHdklHV25SNTN6NlFnYURWVlNxMTdsb09neHhSOC1meWZWb2psMFl5Q2VDY2dXcnpTVUVsOUR6cDZNTTIxWDByMHcwdENn?oc=5",
+      "image": "",
+      "published_at": "2026-06-03T14:04:00Z",
       "key_points": [
-        "Surface Laptop Ultra launched",
-        "Focus on performance and battery",
-        "Enhanced display quality"
+        "Suleyman targets fourth lab",
+        "Focus on AI innovation",
+        "Microsoft's strategic goals"
       ],
-      "impact": "Microsoft targets productivity with new laptop.",
-      "id": "f90cf2af4c8533ada9177486fd542dbe"
+      "impact": "Microsoft aims to enhance its AI capabilities.",
+      "id": "53bec48cc517d60b68c4cf47752e6662"
     },
     {
-      "title": "Pokémon Champions Launching on Mobile",
-      "description": "Pokémon Champions will be available on Android and iOS starting June 17. Pre-registration is open, offering exclusive rewards.",
+      "title": "Pokémon GO Fest Chicago 2026: Essential Guide",
+      "description": "Pokémon GO Fest Chicago 2026 is set to feature top spawns and shiny Pokémon. Players can prepare with a comprehensive raid and PvP guide.",
       "category": "Gaming",
-      "source": "Pokemon.com",
-      "url": "https://www.pokemon.com/us/pokemon-news/pokemon-champions-comes-to-android-and-ios-on-june-17",
-      "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-champions/2026/03/24/pokemon-champions-169.png",
-      "published_at": "2026-06-03T13:03:24Z",
+      "source": "Pokémon GO Hub",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU1E3d3JJMWlJTjhjUXlnRkkyWkNLclJEUDQ1WXVnc0F4Z1JZM1VJRmVXLVdzSldSd0hXYktRX0pkUjZSYUl0LV83aXg4MjJzakc5YUhPRDdBNmE1RlFDY2pSV3FlRVpJT0hjUUxkRE5YSGxrMG45YmI0ckhDbnQ4NXljRDFRSFEwWjByZzRrSnVsZWNNeDEtUEdsZC11c3RaOVVxcldGam04T1A4TGFWaDVhWW8zaUtuelJ1eDJB?oc=5",
+      "image": "",
+      "published_at": "2026-06-03T10:44:40Z",
       "key_points": [
-        "Pokémon Champions on mobile",
-        "Launch date: June 17",
-        "Pre-registration rewards available"
+        "Pokémon GO Fest highlights",
+        "Shiny Pokémon available",
+        "Raid and PvP strategies"
       ],
-      "impact": "Mobile launch expands Pokémon's reach.",
-      "id": "ffe3f8a7d2de00f22ad7c177f54341ac"
+      "impact": "Players gear up for an exciting Pokémon event.",
+      "id": "699ecc701e2428bc55fc11fa6d3c79e9"
     },
     {
-      "title": "New Games Coming to Xbox Game Pass",
-      "description": "Xbox Game Pass adds new titles including Starseeker and Beastro. Players can pre-install ahead of the upcoming showcase.",
+      "title": "Cory Barlog Takes Creative Lead at God of War",
+      "description": "Cory Barlog has been appointed as the head of creative at the God of War development team, shaping the series' long-term vision. His leadership is expected to influence future titles.",
       "category": "Gaming",
-      "source": "Xbox.com",
-      "url": "https://news.xbox.com/en-us/2026/06/03/xbox-game-pass-june-2026-wave-1/",
-      "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/XBOX_GamePass_Announcement_EN_June3rd_9T_16x9-a5bb4d0acdd3665bccc1.jpg",
-      "published_at": "2026-06-03T13:01:31Z",
+      "source": "Push Square",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUlJPT0c5Sjg3d2h0LWJHbm9JWHpPQ2ViT0FWWWYtZk5UOUVmVUREZURTLUNnYTZuVlVZSjBhZ1Q0cEVJaXJacHh0NVRoSHN5U2NteEFmR1RqM1VkYzNRSm5uRTRsTVBYRmdRV1o2aUpwSVpOU3k5RHcxdE1FeGVwTVBaU0dMcEQ0ZUFFSl9CMjNGc2VpQTNxa1YzMm1PNmNtd2ZuNDh1R1praGdxaWNlYW0xQ1RSYlZlNWlVYmNjVHhMX29icXU1T3VFd3psQQ?oc=5",
+      "image": "",
+      "published_at": "2026-06-03T01:45:00Z",
       "key_points": [
-        "New titles for Xbox Game Pass",
-        "Includes Starseeker and Beastro",
-        "Pre-install options available"
+        "Barlog leads God of War",
+        "Long-term vision established",
+        "Impact on future titles"
       ],
-      "impact": "Xbox Game Pass enhances gaming library.",
-      "id": "d631f2c181570d73764ba7873a99d54e"
+      "impact": "Barlog's leadership could redefine God of War.",
+      "id": "0b48de925698ea6c61bfb476c6e035f8"
     },
     {
-      "title": "Plex Introduces Social Features Amid Price Hike",
-      "description": "Plex adds new social features as it prepares for a significant price increase on its lifetime pass. Users can expect enhanced community engagement.",
+      "title": "Google Releases Fitbit Air Blueprints",
+      "description": "Google has made Fitbit Air blueprints available, allowing anyone to create compatible bands and accessories. This move encourages community innovation and customization.",
+      "category": "Hardware",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYUk5mQzlON2hzeWF1dUNkdjNlaWc5MEpsSDQ4TmJ0R2otMjBmejRkT1BlMmt1NzF6VVMwaXVrcXJLemd1ZTI3aVNzVGpHMm9rVzJCUnZHV3hIRXUzT241WXJnY2JIYnc?oc=5",
+      "image": "",
+      "published_at": "2026-06-03T00:55:00Z",
+      "key_points": [
+        "Fitbit Air blueprints released",
+        "Community can create accessories",
+        "Encourages innovation and customization"
+      ],
+      "impact": "Google fosters creativity with open blueprints.",
+      "id": "1bd66411329f20e38b5663dca12d5727"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold 8 Ultra Leaks",
+      "description": "New images of the Samsung Galaxy Z Fold 8 Ultra and Wide have surfaced, showcasing its design. Anticipation builds for its official release.",
+      "category": "Hardware",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY1ZmNHZkUXRpYTRGMlhFcGVGdTdxR0c1SWttY1JKdlF5RkJPSm0wOXk4R3pjMWszU2t3b0gtUU8xaVhCbFVDZHFleUJuVWZ5TzhVVjF2YzlyRUFwWHJNbmJmazNnWjJnc0NhLXJUUU1WVVlfczRJMXdGRzgxMlg2cXFMdFNrclFhdk5BTHNyRHFzN0RHSExEY0dTMEFQSkVsYzBJRG5LalVqVDNLakJyWEIzb0ptUGxHQTNCYjdSbC1NTThGemdR?oc=5",
+      "image": "",
+      "published_at": "2026-06-02T23:54:35Z",
+      "key_points": [
+        "Galaxy Z Fold 8 Ultra leaks",
+        "Design images revealed",
+        "Anticipation for release builds"
+      ],
+      "impact": "Samsung's new foldable sparks excitement.",
+      "id": "abfbcbe84cee7117bc9fe83c034c3755"
+    },
+    {
+      "title": "Atomic Reshuffle Breaks Hydrogen Production Records",
+      "description": "A groundbreaking study reveals that atomic reshuffling can create record-breaking catalysts for hydrogen production. This discovery paves the way for greener energy solutions.",
+      "category": "Science",
+      "source": "Phys.Org",
+      "url": "https://phys.org/news/2026-06-atomic-reshuffle-catalysts-hydrogen-production.html",
+      "image": "https://scx2.b-cdn.net/gfx/news/2026/atomic-reshuffle-paves.jpg",
+      "published_at": "2026-06-02T23:10:01Z",
+      "key_points": [
+        "Atomic reshuffle discovered",
+        "New catalysts for hydrogen",
+        "Paves way for green energy"
+      ],
+      "impact": "This research could revolutionize hydrogen production.",
+      "id": "862ef93c9750536e94b24e9b881d5557"
+    },
+    {
+      "title": "Control Resonant's Release Date Revealed",
+      "description": "Control Resonant's release date has been announced in a new Sony State of Play story trailer. Fans eagerly await this highly anticipated title.",
+      "category": "Gaming",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT3A4bG5WSmRmZDBrSmNPWGYySjM2TXVQYjh1NGNwVU5wMWU4SXZSWGtteDhmV0pLS04yNzJBRUt2NXppVlUtYmNXcjM2VjU4NG5kbEhiSk5XdDVEUS1VVXd6QVM3TF90SzVwS25mOTQyLUJDU0ZveENleEZfVzJuNk9LNngwODZPeWc?oc=5",
+      "image": "",
+      "published_at": "2026-06-02T22:13:39Z",
+      "key_points": [
+        "Release date announced",
+        "New story trailer revealed",
+        "Fans eagerly await Control"
+      ],
+      "impact": "Control Resonant's launch date excites gamers.",
+      "id": "e4274fe3d8a6e78dbb3ca8b7f26032d6"
+    },
+    {
+      "title": "Onimusha: Way of the Sword Launches with Demo",
+      "description": "Onimusha: Way of the Sword is set to launch on September 25, with a demo now available for players. Fans can experience the game ahead of its release.",
+      "category": "Gaming",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd1htWWZkSUx6QU02czJRZFhxMndOMng1QW5HSUJMazNBYWFDUEZlN1pCb1lUSkNhZjdSZHBWNVdZbC01MG4xTHJVdlRhMTEydjhNWktyaWZUd3N4R0dnQWtGSmVjTEFVckdLdWptdHc4WmxHaHNyODJzeE1DSTc2S241MWdVYkRrTlRYOHN6VnIzT0JnTkRTLWlSTXpFWTQ?oc=5",
+      "image": "",
+      "published_at": "2026-06-02T21:32:30Z",
+      "key_points": [
+        "Onimusha launches September 25",
+        "Demo available now",
+        "Fans can preview gameplay"
+      ],
+      "impact": "Players can try Onimusha before launch.",
+      "id": "4a53e91fc5f36c0ea979ac2c64e69f47"
+    },
+    {
+      "title": "Stuntman Revived for PS5 with Movie Licenses",
+      "description": "Stuntman returns for PS5, featuring actual movie licenses like Fast & Furious. This revival aims to attract both new and nostalgic players.",
+      "category": "Gaming",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb213dnZBaG9LRFJUallLNHNuMDhWaW4zS3ZBdmhpTTFyOWZjclRaTUs2NG1kWFB2dzBkcFkyMlBOblBxSHV6d2ZuenZlQlU3N1N1Q2VYeFZxX3JXTWtlNmRvSFdEbVVFcTlhZEoxa2o2ZXJTRzNMYVBXNUJNUHNYMW1YX0xwbk9tbFJ6Tkw3ZDNBUzVFODhPdGlEQ3pDVVFxajJvTjZpaUQ0WGZ0UFE4MjkwT1U5WWRWdnl6bFRPbDhiVlZSOUNRZThaM2h2Qnc?oc=5",
+      "image": "",
+      "published_at": "2026-06-02T21:18:00Z",
+      "key_points": [
+        "Stuntman revived for PS5",
+        "Includes movie licenses",
+        "Targets nostalgic and new players"
+      ],
+      "impact": "Stuntman's revival could attract diverse gamers.",
+      "id": "210b7444b15935051e9e7b3258922779"
+    },
+    {
+      "title": "2027 Dodge Charger EV Launches with NACS Port",
+      "description": "The 2027 Dodge Charger EV is now available, featuring a NACS port. However, its price point may deter some buyers.",
+      "category": "Business",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10U0J1NUN5R2REUDZKb0ZtUC04Ri10TmJVSWNCaGV2SnB6RGM2a2RmZVhlLU5MZ1FkejVtSGEzeXpoUnVyTUFaVHpWYnVSU2xCaHBlSHJRVnE0QXBvWnJHZU02bml4TlVab3ZCMzBlbDNLOVYybnNxVTR3NHFJUQ?oc=5",
+      "image": "",
+      "published_at": "2026-06-02T20:50:00Z",
+      "key_points": [
+        "2027 Charger EV launched",
+        "Features NACS port",
+        "High price may deter buyers"
+      ],
+      "impact": "Dodge's EV faces pricing challenges.",
+      "id": "588603e856f29d5a0691ae906321c0ac"
+    },
+    {
+      "title": "Google Launches Gemini-Powered File Organization",
+      "description": "Google has officially launched Gemini-powered file organization in Drive, enhancing user experience. This feature aims to streamline file management for users.",
       "category": "Software",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSk9KZ0k4cFduN1dsSVQxYmVXZFNJYjRtM3RjNHFIS3hvUU94MlNMcE9TN3FTSGl1Q0Jmc3hlU2FLX0NFUkMzMlNyalluZlpWUG1UNmpFb01xbHUyTmphekJ6b3gxcUs2RWlZYnF5d3JmMUlMZlN0U2MxWXBzemdoeXRjN0drd21mQ2k1OEkwTDZDVU1lTngw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT3RZakxOZEJ1SVdkR290NVVLN2cxSGtaSF8tMGo1ZUFFZGQtRUxXTnNaQjdaa0tuSlNrZVpDRU16SlU5VzlwbEdFdFVkYVZMTWRHVXFfeGlpRFUySXlRZ2x5ZlYtdi1KamszZVUzNDhGWWJfa2o1SHpUTHlmemxBZzZrS2dZNk5JcEFWTkdjb214SEJGV0V5VVdISQ?oc=5",
       "image": "",
-      "published_at": "2026-06-03T13:00:00Z",
+      "published_at": "2026-06-02T20:29:41Z",
       "key_points": [
-        "Plex adds social features",
-        "Lifetime pass price increase",
-        "Enhanced community engagement"
+        "Gemini-powered organization launched",
+        "Enhances Google Drive experience",
+        "Streamlines file management"
       ],
-      "impact": "Plex aims to boost user interaction.",
-      "id": "a34644a615c52cf2a4091d74d4464916"
+      "impact": "Google Drive's new feature improves usability.",
+      "id": "ff8170d42a45a7a8334d789a375307ae"
     },
     {
-      "title": "Tomb Raider: Legacy of Atlantis Uses AI",
-      "description": "Tomb Raider: Legacy of Atlantis includes an AI disclaimer, revealing the use of AI in its development. This raises discussions on AI's role in gaming.",
-      "category": "Gaming",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/tomb-raider-legacy-of-atlantis-comes-with-an-ai-disclaimer",
-      "image": "https://assetsio.gnwcdn.com/lara-ai.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-03T11:06:52Z",
-      "key_points": [
-        "AI used in game development",
-        "Tomb Raider's new title",
-        "AI disclaimer included"
-      ],
-      "impact": "AI's role in gaming sparks debate.",
-      "id": "1bf94de69d5f953178f63020b8483967"
-    },
-    {
-      "title": "Gabe Newell Responds to Steam Monopoly Claims",
-      "description": "Valve's Gabe Newell refutes monopoly accusations, asserting players have 'enormous choice' in the gaming market. This statement aims to clarify Steam's position.",
-      "category": "Business",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/gabe-newell-says-players-have-enormous-choice-when-pressed-on-steam-monopoly-accusations-report-says",
-      "image": "https://assets-prd.ignimgs.com/2026/06/02/gabe-newell-1780432318412.png?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-03T10:17:14Z",
-      "key_points": [
-        "Newell denies monopoly claims",
-        "Players have many choices",
-        "Steam's market position clarified"
-      ],
-      "impact": "Newell's comments aim to reassure players.",
-      "id": "68b3e22b9954a22e83bdd26f943826db"
-    },
-    {
-      "title": "Marathon Season 2 Launches with Issues",
-      "description": "Marathon Season 2 faces a troubled launch due to numerous errors and bugs. Players are expressing frustration over the game's performance.",
-      "category": "Gaming",
+      "title": "Google Home Update Adds ‘Pet Memory’ Feature",
+      "description": "The latest Google Home update introduces a ‘Pet Memory’ feature for Nest Cam, enhancing pet monitoring. It also expands the ‘Ask Home’ functionality.",
+      "category": "Software",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JWXRuQUhodFQzNFAtY3hTRTdfNHJBU0UtWWdYTVlvbWczVmZJQ09HQVRYT0haX3hDQ2FmVGx1Y3g1MHRTOHlfYmNrZWZ5VGFabnpvdXRoSzBIVTMxQlhpeEJyb2VRdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FbmxJSXV4bEdZNkE5cDVtdUk1MXNzNjVDVWVPQU5tSTQ0aVNOS3VpWnpoRTdVTWdRUVFVQWRWSE9oRHdNdE1uRXpFVE1qOGhWYlozRGlkM1ZsdmFjMEpOZjlWMkhWN1ZDSDJyTkRwVXJDLTFR?oc=5",
       "image": "",
-      "published_at": "2026-06-03T09:43:27Z",
+      "published_at": "2026-06-02T20:05:00Z",
       "key_points": [
-        "Marathon Season 2 launched",
-        "Numerous bugs reported",
-        "Player frustration evident"
+        "New ‘Pet Memory’ feature",
+        "Enhances Nest Cam functionality",
+        "Expands ‘Ask Home’ capabilities"
       ],
-      "impact": "Launch issues may affect player retention.",
-      "id": "48d35b6d0cd6c7ecb8687d2a592bd8a8"
-    },
-    {
-      "title": "AI Supercharges Computer Worms",
-      "description": "Scientists have discovered a method to enhance dangerous computer worms using AI. This development raises cybersecurity concerns.",
-      "category": "Security",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZlA2dUQyeWFBS1ZWNmVuQTdKNVhsdFBDZGFVeTBTSXlvM0NWVElLSzJqYmkxTjhQM3JvcEdiOS14RDVWcmpFZkZ5ZGNRaW5QVjhGcUtjaUpFekFoWktKc1kyeWNScWlxWk8tTjl0TmRxOWN6Y2pEbklzNjZzLWhZdjI0a3NVRUtySUFiREo4VU5yY3R3UnRfWUVzNXR6dnk4WDJDRG1RbFZnOUtIMGpjeUhmOTR2TmJxS3c?oc=5",
-      "image": "",
-      "published_at": "2026-06-03T00:37:55Z",
-      "key_points": [
-        "AI enhances computer worms",
-        "New cybersecurity concerns",
-        "Research raises alarms"
-      ],
-      "impact": "AI's role in malware evolution is alarming.",
-      "id": "5a3460b148e0b6c3bb40ba060498fdf9"
-    },
-    {
-      "title": "September 2026 Packed with Game Releases",
-      "description": "September 2026 will see a surge of game releases trying to avoid competition with Grand Theft Auto VI. Developers are strategizing around its launch.",
-      "category": "Gaming",
-      "source": "GameSpot",
-      "url": "https://www.gamespot.com/articles/september-2026-is-packed-with-games-trying-to-avoid-gta-6/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/04/gamespot.png",
-      "published_at": "2026-06-02T22:28:47Z",
-      "key_points": [
-        "September 2026 game releases",
-        "Developers avoiding GTA VI",
-        "Strategic launch planning underway"
-      ],
-      "impact": "GTA VI's release impacts industry scheduling.",
-      "id": "351ea3ea2ddc035f10f2aad9d76bf0c7"
-    },
-    {
-      "title": "Control Resonant Release Date Update",
-      "description": "Control Resonant has received an exciting update regarding its release date. Fans are eager for more details.",
-      "category": "Gaming",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NMkhSYlRDRUdldEdOZzVJbkVyUjBSak9BVnZzS2hNTlFxM3pwa0pPNWVHOE9BQ2JhaUNPRzRFRldjcHVkbHBBRkJkTFNKYWN1aElkS01BZ0YxaWJWZEdMS3JYS2R1SUdsTjl2VFNEc2s?oc=5",
-      "image": "",
-      "published_at": "2026-06-02T21:55:57Z",
-      "key_points": [
-        "Control Resonant release date update",
-        "Fans eager for details",
-        "Anticipation builds for launch"
-      ],
-      "impact": "Fans await eagerly for the game's release.",
-      "id": "634926b1860294846ddad4713ffe5ea1"
-    },
-    {
-      "title": "Onimusha: Way of the Sword Release Date Announced",
-      "description": "Onimusha: Way of the Sword is set for a September release, with a playable demo available now. Fans can experience the game ahead of launch.",
-      "category": "Gaming",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LZl9STWNZTDZVMDR4YWg1U0pQTHRDU1dBbDdoTFZPX3cwUER5V1VKYlhtUUlmbXpyVU9rTkRDR3BVMmdjN3RJb2FwQlFFdnl6cV9URXVGc3dGMDBQR2duNlplSng0Y2VQNWxaTVBqMnNtblN6bXJ6a3BMR09RZw?oc=5",
-      "image": "",
-      "published_at": "2026-06-02T21:33:41Z",
-      "key_points": [
-        "Onimusha release date set",
-        "Playable demo available now",
-        "Fans can try before launch"
-      ],
-      "impact": "Demo allows early player engagement.",
-      "id": "a18a46613629d74a7cf320fb37544fdc"
-    },
-    {
-      "title": "Apple's AI Test at WWDC on June 8",
-      "description": "Apple's major AI test is set for June 8 at WWDC. This event could have significant implications for the company's future direction.",
-      "category": "Business",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPXy02dHNOeWFtVUptYzV0WWloY0hfY0VpZEgwLUlYUVQ2WlNlVTVIQUd4aXNfVmstOVI4Tk56b3J1X2pDcnppb1huelZZZXpDVG1HRXpja01MVXVJVm5CYTc2VXhES3NZNWJQdU9QanlGUk5iR2tLcTB5b3FSZTNhNXMzMFFWUmlwYUhuMlhfeXVTdw?oc=5",
-      "image": "",
-      "published_at": "2026-06-02T20:49:00Z",
-      "key_points": [
-        "Apple's AI test on June 8",
-        "WWDC event implications",
-        "Future direction at stake"
-      ],
-      "impact": "WWDC could redefine Apple's AI strategy.",
-      "id": "6e7efa18fdcf3852914ecec2b09dd572"
+      "impact": "Google Home enhances pet monitoring experience.",
+      "id": "741c4353bb852f94a137279300c48334"
     }
   ]
 }

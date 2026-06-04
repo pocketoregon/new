@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-04T20:04:32.698694+00:00",
+      "fetched_at": "2026-06-04T20:04:32.698694+00:00",
+      "label": "Jun 04, 2026 — 08:05 PM UTC",
+      "articles": [
+        {
+          "title": "Nintendo Direct Buzz Grows as Switch 2 Turns One",
+          "description": "Excitement builds for a June Nintendo Direct as the Switch 2 celebrates its first anniversary. Fans anticipate major announcements and updates.",
+          "category": "Gaming",
+          "source": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUHdaaWdJbDQ2M0hJLXdtVmdWSU1FX2dzanlxZnNVZmJ1QTZaWWh4cXdmNkp5c0ZSTk0wY2w0UVF5bThUVlozTUlnM21MVzE1eU5GSWRKRktwWEZKWjBNb1BCZnFQbFdsVFhGOUNRTTN1Y2QwcHRWczdOMVctZEg1aFhRblBycEhlNmdjdVhhZmN3Ni1iMVRCdFkzMzdQanRCV0h3Nk8ydnlNRkdBVkhvN2NOb05ZalZRWUVHSWdfV3dMQjg?oc=5",
+          "image": "",
+          "published_at": "2026-06-03T17:27:30Z",
+          "key_points": [
+            "June Direct anticipated",
+            "Switch 2 anniversary",
+            "Major announcements expected"
+          ],
+          "impact": "Nintendo's upcoming Direct could reshape gaming.",
+          "id": "6032b0c80e7daa897afdec4da13f4324"
+        },
+        {
+          "title": "Amazon's AI Creates Fake Product Images",
+          "description": "Amazon's latest AI feature generates images of non-existent products, raising eyebrows over its practicality. Critics call it one of the least useful AI applications.",
+          "category": "Business",
+          "source": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4weTBWb1NRTzRsUUhiaF8yeVdlMzNlcF9HbHhpMy1tUDUzNU9FSDE4UmttUXBOMU5wRXZENEdJU3FxVWoyblpQNmRpV2lGVlo5UDRXRzhuSEFIQ3Z4RkVzSTQtT3J4WmJPOFdBakN6SVFLN3NMTFhEZFk5TVg?oc=5",
+          "image": "",
+          "published_at": "2026-06-03T16:45:00Z",
+          "key_points": [
+            "AI generates fake products",
+            "Critics question usefulness",
+            "Amazon's innovation under fire"
+          ],
+          "impact": "Amazon's AI raises concerns about practicality.",
+          "id": "07fb98723c36cab355a9d1c7aad2f116"
+        },
+        {
+          "title": "Marathon Season 2 Launch Faces Major Issues",
+          "description": "The launch of Marathon's second season was marred by server problems, leaving many players unable to join. This setback comes at a critical time for the game.",
+          "category": "Gaming",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/06/03/marathon-season-2-launch-was-fumbled-at-the-worst-possible-moment/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a2033486dd65a86e48e92c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-03T14:04:38Z",
+          "key_points": [
+            "Season 2 launch issues",
+            "Server problems persist",
+            "Critical time for Marathon"
+          ],
+          "impact": "Server issues hinder Marathon's player experience.",
+          "id": "0841858fc2fbb180ed624377db6758ad"
+        },
+        {
+          "title": "Microsoft AI Chief Aims for Fourth Lab",
+          "description": "Mustafa Suleyman, Microsoft's AI chief, identifies three leading labs and aims for Microsoft to join their ranks. He emphasizes the need for innovation in AI development.",
+          "category": "AI",
+          "source": "The Verge",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMVdFdEdQQTRodDJqeW95ZGJxRzdoRjZOWWdvSU5Rc2EyeHJoLTRrZ0d1Z3FJSVpTSmJRNVBIU2tKSTJwVWtqS2lCT1VUSG9GbVhKY19vVHNyeDJxaTgzRkJHdklHV25SNTN6NlFnYURWVlNxMTdsb09neHhSOC1meWZWb2psMFl5Q2VDY2dXcnpTVUVsOUR6cDZNTTIxWDByMHcwdENn?oc=5",
+          "image": "",
+          "published_at": "2026-06-03T14:04:00Z",
+          "key_points": [
+            "Suleyman targets fourth lab",
+            "Focus on AI innovation",
+            "Microsoft's strategic goals"
+          ],
+          "impact": "Microsoft aims to enhance its AI capabilities.",
+          "id": "53bec48cc517d60b68c4cf47752e6662"
+        },
+        {
+          "title": "Pokémon GO Fest Chicago 2026: Essential Guide",
+          "description": "Pokémon GO Fest Chicago 2026 is set to feature top spawns and shiny Pokémon. Players can prepare with a comprehensive raid and PvP guide.",
+          "category": "Gaming",
+          "source": "Pokémon GO Hub",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU1E3d3JJMWlJTjhjUXlnRkkyWkNLclJEUDQ1WXVnc0F4Z1JZM1VJRmVXLVdzSldSd0hXYktRX0pkUjZSYUl0LV83aXg4MjJzakc5YUhPRDdBNmE1RlFDY2pSV3FlRVpJT0hjUUxkRE5YSGxrMG45YmI0ckhDbnQ4NXljRDFRSFEwWjByZzRrSnVsZWNNeDEtUEdsZC11c3RaOVVxcldGam04T1A4TGFWaDVhWW8zaUtuelJ1eDJB?oc=5",
+          "image": "",
+          "published_at": "2026-06-03T10:44:40Z",
+          "key_points": [
+            "Pokémon GO Fest highlights",
+            "Shiny Pokémon available",
+            "Raid and PvP strategies"
+          ],
+          "impact": "Players gear up for an exciting Pokémon event.",
+          "id": "699ecc701e2428bc55fc11fa6d3c79e9"
+        },
+        {
+          "title": "Cory Barlog Takes Creative Lead at God of War",
+          "description": "Cory Barlog has been appointed as the head of creative at the God of War development team, shaping the series' long-term vision. His leadership is expected to influence future titles.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUlJPT0c5Sjg3d2h0LWJHbm9JWHpPQ2ViT0FWWWYtZk5UOUVmVUREZURTLUNnYTZuVlVZSjBhZ1Q0cEVJaXJacHh0NVRoSHN5U2NteEFmR1RqM1VkYzNRSm5uRTRsTVBYRmdRV1o2aUpwSVpOU3k5RHcxdE1FeGVwTVBaU0dMcEQ0ZUFFSl9CMjNGc2VpQTNxa1YzMm1PNmNtd2ZuNDh1R1praGdxaWNlYW0xQ1RSYlZlNWlVYmNjVHhMX29icXU1T3VFd3psQQ?oc=5",
+          "image": "",
+          "published_at": "2026-06-03T01:45:00Z",
+          "key_points": [
+            "Barlog leads God of War",
+            "Long-term vision established",
+            "Impact on future titles"
+          ],
+          "impact": "Barlog's leadership could redefine God of War.",
+          "id": "0b48de925698ea6c61bfb476c6e035f8"
+        },
+        {
+          "title": "Google Releases Fitbit Air Blueprints",
+          "description": "Google has made Fitbit Air blueprints available, allowing anyone to create compatible bands and accessories. This move encourages community innovation and customization.",
+          "category": "Hardware",
+          "source": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYUk5mQzlON2hzeWF1dUNkdjNlaWc5MEpsSDQ4TmJ0R2otMjBmejRkT1BlMmt1NzF6VVMwaXVrcXJLemd1ZTI3aVNzVGpHMm9rVzJCUnZHV3hIRXUzT241WXJnY2JIYnc?oc=5",
+          "image": "",
+          "published_at": "2026-06-03T00:55:00Z",
+          "key_points": [
+            "Fitbit Air blueprints released",
+            "Community can create accessories",
+            "Encourages innovation and customization"
+          ],
+          "impact": "Google fosters creativity with open blueprints.",
+          "id": "1bd66411329f20e38b5663dca12d5727"
+        },
+        {
+          "title": "Samsung Galaxy Z Fold 8 Ultra Leaks",
+          "description": "New images of the Samsung Galaxy Z Fold 8 Ultra and Wide have surfaced, showcasing its design. Anticipation builds for its official release.",
+          "category": "Hardware",
+          "source": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY1ZmNHZkUXRpYTRGMlhFcGVGdTdxR0c1SWttY1JKdlF5RkJPSm0wOXk4R3pjMWszU2t3b0gtUU8xaVhCbFVDZHFleUJuVWZ5TzhVVjF2YzlyRUFwWHJNbmJmazNnWjJnc0NhLXJUUU1WVVlfczRJMXdGRzgxMlg2cXFMdFNrclFhdk5BTHNyRHFzN0RHSExEY0dTMEFQSkVsYzBJRG5LalVqVDNLakJyWEIzb0ptUGxHQTNCYjdSbC1NTThGemdR?oc=5",
+          "image": "",
+          "published_at": "2026-06-02T23:54:35Z",
+          "key_points": [
+            "Galaxy Z Fold 8 Ultra leaks",
+            "Design images revealed",
+            "Anticipation for release builds"
+          ],
+          "impact": "Samsung's new foldable sparks excitement.",
+          "id": "abfbcbe84cee7117bc9fe83c034c3755"
+        },
+        {
+          "title": "Atomic Reshuffle Breaks Hydrogen Production Records",
+          "description": "A groundbreaking study reveals that atomic reshuffling can create record-breaking catalysts for hydrogen production. This discovery paves the way for greener energy solutions.",
+          "category": "Science",
+          "source": "Phys.Org",
+          "url": "https://phys.org/news/2026-06-atomic-reshuffle-catalysts-hydrogen-production.html",
+          "image": "https://scx2.b-cdn.net/gfx/news/2026/atomic-reshuffle-paves.jpg",
+          "published_at": "2026-06-02T23:10:01Z",
+          "key_points": [
+            "Atomic reshuffle discovered",
+            "New catalysts for hydrogen",
+            "Paves way for green energy"
+          ],
+          "impact": "This research could revolutionize hydrogen production.",
+          "id": "862ef93c9750536e94b24e9b881d5557"
+        },
+        {
+          "title": "Control Resonant's Release Date Revealed",
+          "description": "Control Resonant's release date has been announced in a new Sony State of Play story trailer. Fans eagerly await this highly anticipated title.",
+          "category": "Gaming",
+          "source": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT3A4bG5WSmRmZDBrSmNPWGYySjM2TXVQYjh1NGNwVU5wMWU4SXZSWGtteDhmV0pLS04yNzJBRUt2NXppVlUtYmNXcjM2VjU4NG5kbEhiSk5XdDVEUS1VVXd6QVM3TF90SzVwS25mOTQyLUJDU0ZveENleEZfVzJuNk9LNngwODZPeWc?oc=5",
+          "image": "",
+          "published_at": "2026-06-02T22:13:39Z",
+          "key_points": [
+            "Release date announced",
+            "New story trailer revealed",
+            "Fans eagerly await Control"
+          ],
+          "impact": "Control Resonant's launch date excites gamers.",
+          "id": "e4274fe3d8a6e78dbb3ca8b7f26032d6"
+        },
+        {
+          "title": "Onimusha: Way of the Sword Launches with Demo",
+          "description": "Onimusha: Way of the Sword is set to launch on September 25, with a demo now available for players. Fans can experience the game ahead of its release.",
+          "category": "Gaming",
+          "source": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd1htWWZkSUx6QU02czJRZFhxMndOMng1QW5HSUJMazNBYWFDUEZlN1pCb1lUSkNhZjdSZHBWNVdZbC01MG4xTHJVdlRhMTEydjhNWktyaWZUd3N4R0dnQWtGSmVjTEFVckdLdWptdHc4WmxHaHNyODJzeE1DSTc2S241MWdVYkRrTlRYOHN6VnIzT0JnTkRTLWlSTXpFWTQ?oc=5",
+          "image": "",
+          "published_at": "2026-06-02T21:32:30Z",
+          "key_points": [
+            "Onimusha launches September 25",
+            "Demo available now",
+            "Fans can preview gameplay"
+          ],
+          "impact": "Players can try Onimusha before launch.",
+          "id": "4a53e91fc5f36c0ea979ac2c64e69f47"
+        },
+        {
+          "title": "Stuntman Revived for PS5 with Movie Licenses",
+          "description": "Stuntman returns for PS5, featuring actual movie licenses like Fast & Furious. This revival aims to attract both new and nostalgic players.",
+          "category": "Gaming",
+          "source": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb213dnZBaG9LRFJUallLNHNuMDhWaW4zS3ZBdmhpTTFyOWZjclRaTUs2NG1kWFB2dzBkcFkyMlBOblBxSHV6d2ZuenZlQlU3N1N1Q2VYeFZxX3JXTWtlNmRvSFdEbVVFcTlhZEoxa2o2ZXJTRzNMYVBXNUJNUHNYMW1YX0xwbk9tbFJ6Tkw3ZDNBUzVFODhPdGlEQ3pDVVFxajJvTjZpaUQ0WGZ0UFE4MjkwT1U5WWRWdnl6bFRPbDhiVlZSOUNRZThaM2h2Qnc?oc=5",
+          "image": "",
+          "published_at": "2026-06-02T21:18:00Z",
+          "key_points": [
+            "Stuntman revived for PS5",
+            "Includes movie licenses",
+            "Targets nostalgic and new players"
+          ],
+          "impact": "Stuntman's revival could attract diverse gamers.",
+          "id": "210b7444b15935051e9e7b3258922779"
+        },
+        {
+          "title": "2027 Dodge Charger EV Launches with NACS Port",
+          "description": "The 2027 Dodge Charger EV is now available, featuring a NACS port. However, its price point may deter some buyers.",
+          "category": "Business",
+          "source": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10U0J1NUN5R2REUDZKb0ZtUC04Ri10TmJVSWNCaGV2SnB6RGM2a2RmZVhlLU5MZ1FkejVtSGEzeXpoUnVyTUFaVHpWYnVSU2xCaHBlSHJRVnE0QXBvWnJHZU02bml4TlVab3ZCMzBlbDNLOVYybnNxVTR3NHFJUQ?oc=5",
+          "image": "",
+          "published_at": "2026-06-02T20:50:00Z",
+          "key_points": [
+            "2027 Charger EV launched",
+            "Features NACS port",
+            "High price may deter buyers"
+          ],
+          "impact": "Dodge's EV faces pricing challenges.",
+          "id": "588603e856f29d5a0691ae906321c0ac"
+        },
+        {
+          "title": "Google Launches Gemini-Powered File Organization",
+          "description": "Google has officially launched Gemini-powered file organization in Drive, enhancing user experience. This feature aims to streamline file management for users.",
+          "category": "Software",
+          "source": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT3RZakxOZEJ1SVdkR290NVVLN2cxSGtaSF8tMGo1ZUFFZGQtRUxXTnNaQjdaa0tuSlNrZVpDRU16SlU5VzlwbEdFdFVkYVZMTWRHVXFfeGlpRFUySXlRZ2x5ZlYtdi1KamszZVUzNDhGWWJfa2o1SHpUTHlmemxBZzZrS2dZNk5JcEFWTkdjb214SEJGV0V5VVdISQ?oc=5",
+          "image": "",
+          "published_at": "2026-06-02T20:29:41Z",
+          "key_points": [
+            "Gemini-powered organization launched",
+            "Enhances Google Drive experience",
+            "Streamlines file management"
+          ],
+          "impact": "Google Drive's new feature improves usability.",
+          "id": "ff8170d42a45a7a8334d789a375307ae"
+        },
+        {
+          "title": "Google Home Update Adds ‘Pet Memory’ Feature",
+          "description": "The latest Google Home update introduces a ‘Pet Memory’ feature for Nest Cam, enhancing pet monitoring. It also expands the ‘Ask Home’ functionality.",
+          "category": "Software",
+          "source": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FbmxJSXV4bEdZNkE5cDVtdUk1MXNzNjVDVWVPQU5tSTQ0aVNOS3VpWnpoRTdVTWdRUVFVQWRWSE9oRHdNdE1uRXpFVE1qOGhWYlozRGlkM1ZsdmFjMEpOZjlWMkhWN1ZDSDJyTkRwVXJDLTFR?oc=5",
+          "image": "",
+          "published_at": "2026-06-02T20:05:00Z",
+          "key_points": [
+            "New ‘Pet Memory’ feature",
+            "Enhances Nest Cam functionality",
+            "Expands ‘Ask Home’ capabilities"
+          ],
+          "impact": "Google Home enhances pet monitoring experience.",
+          "id": "741c4353bb852f94a137279300c48334"
+        }
+      ]
+    },
+    {
       "id": "2026-06-04T17:48:13.003560+00:00",
       "fetched_at": "2026-06-04T17:48:13.003560+00:00",
       "label": "Jun 04, 2026 — 05:48 PM UTC",
@@ -5800,237 +6047,6 @@
           ],
           "impact": "This could revive interest in the franchise.",
           "id": "49c7df9a2262085e2101b05348c475b2"
-        }
-      ]
-    },
-    {
-      "id": "2026-05-30T19:21:02.611479+00:00",
-      "fetched_at": "2026-05-30T19:21:02.611479+00:00",
-      "label": "May 30, 2026 — 07:21 PM UTC",
-      "articles": [
-        {
-          "title": "Microsoft Faces Backlash Over Legal Threats to Researcher",
-          "description": "Microsoft threatens a security researcher with legal action after they disclosed unpatched vulnerabilities, reigniting software security debates.",
-          "category": "Security",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/05/microsoft-logo.jpg?resize=1200,800",
-          "published_at": "2026-05-29T17:03:39Z",
-          "key_points": [
-            "Legal threats spark controversy",
-            "Debate over software security",
-            "Researcher faces criminal investigation"
-          ],
-          "impact": "This incident raises concerns about software security responsibility.",
-          "id": "7a044e8659405e220765fd956678551f"
-        },
-        {
-          "title": "Xbox Delays Fable Release to 2027",
-          "description": "Xbox pushes the Fable reboot to February 2027 to better align game launches for players, citing scheduling conflicts.",
-          "category": "Business",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/xbox-delays-fable-into-next-year-2000700600",
-          "image": "https://kotaku.com/app/uploads/2026/05/oh-no-1200x675.jpg",
-          "published_at": "2026-05-29T16:48:55Z",
-          "key_points": [
-            "Fable reboot delayed to 2027",
-            "Scheduling conflicts cited",
-            "Focus on player experience"
-          ],
-          "impact": "The delay aims to enhance player satisfaction.",
-          "id": "0d7f0d2c55b45992cfdad1967a994a37"
-        },
-        {
-          "title": "Microsoft Teases New Surface Hardware at Computex",
-          "description": "Microsoft hints at upcoming Surface hardware announcements during Computex and Build events next week.",
-          "category": "Hardware",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/939960/microsoft-computex-teaser-surface-nvidia-windows-rumors",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25503643/DSCF7817_Enhanced_NR_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-05-29T16:21:22Z",
-          "key_points": [
-            "Surface hardware teased",
-            "Announcements expected soon",
-            "Focus on innovation"
-          ],
-          "impact": "New Surface products could redefine user experience.",
-          "id": "71d1e334cb7aa845e78e38200895a315"
-        },
-        {
-          "title": "007 First Light Achieves Record Sales in 24 Hours",
-          "description": "The new game 007 First Light has seen massive sales success within its first day, appealing to both new and nostalgic players.",
-          "category": "Startups",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/paultassi/2026/05/29/007-first-light-is-the-uncontroversial-hit-of-2026-with-huge-24-hour-sales/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a19a5e3248466635668d44a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "published_at": "2026-05-29T14:44:15Z",
-          "key_points": [
-            "Record sales in first 24 hours",
-            "Appeals to nostalgic gamers",
-            "Positive reception across audiences"
-          ],
-          "impact": "This success sets a high bar for future releases.",
-          "id": "10513553ae1be37f69b75d95be55130c"
-        },
-        {
-          "title": "Acer Launches High-Refresh Rate Gaming Monitors",
-          "description": "Acer introduces new Predator and Nitro monitors featuring refresh rates up to 1000Hz, targeting gamers seeking high performance.",
-          "category": "Hardware",
-          "source": "Videocardz.com",
-          "url": "https://videocardz.com/newz/acer-announces-predator-and-nitro-monitors-with-up-to-1000hz-refresh-rate",
-          "image": "https://cdn.videocardz.com/1/2026/05/ACER-NITRO-PREDATOR-COMPUTEX-MONITORS-HERO.jpg",
-          "published_at": "2026-05-29T14:25:39Z",
-          "key_points": [
-            "New monitors up to 1000Hz",
-            "Targeting competitive gamers",
-            "Includes various display technologies"
-          ],
-          "impact": "These monitors enhance gaming performance significantly.",
-          "id": "faf430620d6d4ec0e84b65f413e992a3"
-        },
-        {
-          "title": "PlayStation Sale Offers Major Discounts on Ghost Games",
-          "description": "During the Days of Play sale, Ghost of Yotei and Ghost of Tsushima receive significant price cuts, making them more accessible.",
-          "category": "Business",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/ghost-of-yotei-and-ghost-of-tsushima-hit-all-time-lows-for-playstations-days-of-play-sale",
-          "image": "https://assets-prd.ignimgs.com/2026/05/29/ghost-game-deals-ps5-1780057264918.jpg?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-05-29T14:10:56Z",
-          "key_points": [
-            "Major discounts on popular games",
-            "Prices drop to $49 and $29",
-            "Attracting more buyers"
-          ],
-          "impact": "This sale boosts game accessibility for players.",
-          "id": "6001deef2f9c1b35e90d52787cb05f5f"
-        },
-        {
-          "title": "Epic Games CEO Criticizes Valve's Price Hike",
-          "description": "Epic Games' CEO publicly criticizes Valve for increasing Steam Deck prices while facing backlash for layoffs at his own company.",
-          "category": "Business",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/epic-games-ceo-tim-sweeney-dunks-on-gabe-newell-raising-steam-deck-prices-while-flaunting-500-super-yacht-2000700489",
-          "image": "https://kotaku.com/app/uploads/2025/06/738ae80f61860cb167203b64a3046417-1200x675.jpg",
-          "published_at": "2026-05-29T13:08:34Z",
-          "key_points": [
-            "Sweeney criticizes Valve's price increase",
-            "Backlash over Epic layoffs",
-            "Public feud escalates"
-          ],
-          "impact": "This feud highlights industry tensions over pricing.",
-          "id": "3551c957f196493650e8fb4c22452fa6"
-        },
-        {
-          "title": "iPhone 18 Pro Dummy Units Showcase New Colors",
-          "description": "Dummy units of the iPhone 18 Pro reveal four new color options ahead of its anticipated release.",
-          "category": "Hardware",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/05/29/iphone-18-pro-dummy-units-reveal-four-color-options-gallery/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-18-pro-dummy-colors.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-05-29T12:14:00Z",
-          "key_points": [
-            "New colors for iPhone 18 Pro",
-            "Dummy units revealed",
-            "Anticipation builds for release"
-          ],
-          "impact": "New colors may attract more buyers.",
-          "id": "f3feda1c1f0bf664a2171f27784f2dee"
-        },
-        {
-          "title": "Rockstar Games Workers Form Union Amid Legal Battle",
-          "description": "Developers at Rockstar Games announce the formation of the Rockstar Game Workers Union amid ongoing legal disputes.",
-          "category": "Policy",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/were-determined-to-win-justice-for-the-31-fired-workers-rockstar-games-workers-publicly-launch-union-as-legal-battle-with-the-gta-6-maker-rages-on",
-          "image": "https://assetsio.gnwcdn.com/Lucia-in-GTA-6-aiming-a-weapon.-She-has-her-hair-tied-back-and-is-wearing-sunglasses-and-a-mask-to-cover-her-face.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-05-29T11:57:29Z",
-          "key_points": [
-            "Rockstar workers form new union",
-            "Legal battles continue",
-            "Focus on worker rights"
-          ],
-          "impact": "This unionization effort could reshape industry standards.",
-          "id": "155efa9e56c7ea083b0e21173c2c81d8"
-        },
-        {
-          "title": "MSI Launches First QD-OLED Triple-Mode Monitor",
-          "description": "MSI unveils a groundbreaking 31.5-inch QD-OLED monitor with multiple refresh rates, showcasing at Computex 2026.",
-          "category": "Hardware",
-          "source": "Videocardz.com",
-          "url": "https://videocardz.com/newz/msi-unveils-worlds-first-qd-oled-triple-mode-monitor-4k-360hz-2k-520hz-fhd-680hz",
-          "image": "https://cdn.videocardz.com/1/2026/05/MPG-OLED-322URDX36-HERO.jpg",
-          "published_at": "2026-05-29T11:55:33Z",
-          "key_points": [
-            "First QD-OLED triple-mode monitor",
-            "Supports multiple resolutions",
-            "Showcased at Computex 2026"
-          ],
-          "impact": "This innovation sets new standards for displays.",
-          "id": "8fb7d1d42ec3fa2d587f8a58d14fe770"
-        },
-        {
-          "title": "Starcraft 2 Receives Major Update After Years",
-          "description": "Blizzard releases a significant update for Starcraft 2, introducing fundamental balance changes after a decade of silence.",
-          "category": "Software",
-          "source": "PCGamesN",
-          "url": "https://www.pcgamesn.com/starcraft-2/update-2026-starting-workers-reduced",
-          "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/05/starcraft-2-update-may-2026-ptr-patch-notes-starting-workers-reduced-race-balance-changes-blizzard-rts.jpg",
-          "published_at": "2026-05-29T10:16:22Z",
-          "key_points": [
-            "Major balance changes introduced",
-            "First update in a decade",
-            "Community reacts with shock"
-          ],
-          "impact": "This update revitalizes interest in the game.",
-          "id": "9803792aa5c19cea676f2838ffb96bc6"
-        },
-        {
-          "title": "Google Modifies Gemini's Usage Limits After Feedback",
-          "description": "In response to user complaints, Google adjusts the compute-based usage limits for the Gemini app introduced at I/O 2026.",
-          "category": "Software",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/05/28/gemini-new-usage-limits/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-05-29T02:03:00Z",
-          "key_points": [
-            "Gemini usage limits adjusted",
-            "User feedback prompted changes",
-            "Focus on improving user experience"
-          ],
-          "impact": "These adjustments enhance user satisfaction.",
-          "id": "f2accb9378bb7429a0fa7e0ec34bec36"
-        },
-        {
-          "title": "Galaxy Watch 9 Classic Rumored to Launch This Year",
-          "description": "Codenames suggest that Samsung will release a Galaxy Watch 9 Classic alongside other models this year, despite earlier doubts.",
-          "category": "Hardware",
-          "source": "Android Authority",
-          "url": "https://www.androidauthority.com/galaxy-watch-9-codenames-3672348/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/samsung-galaxy-watch-8-watch-face-selector-hero-2-scaled.jpg",
-          "published_at": "2026-05-28T20:11:46Z",
-          "key_points": [
-            "Galaxy Watch 9 Classic expected",
-            "Codenames hint at new models",
-            "Rumors suggest multiple variants"
-          ],
-          "impact": "This could expand Samsung's smartwatch lineup.",
-          "id": "474ce7a40115d384fd82013555d9eaa3"
-        },
-        {
-          "title": "Samsung Expands Camera Assistant Feature to More Devices",
-          "description": "Samsung's Camera Assistant app is now available on additional Galaxy phones and tablets, enhancing photography capabilities.",
-          "category": "Software",
-          "source": "BGR",
-          "url": "https://www.bgr.com/2182975/every-samsung-phone-getting-new-camera-assistant-feature/",
-          "image": "https://www.bgr.com/img/gallery/every-samsung-phone-getting-the-new-camera-assistant-feature/l-intro-1779984953.jpg",
-          "published_at": "2026-05-28T16:47:00Z",
-          "key_points": [
-            "Camera Assistant expands to more devices",
-            "Includes midrange and budget models",
-            "Enhances photography features"
-          ],
-          "impact": "This update improves camera functionality for users.",
-          "id": "f96337d22de005b274255a1a373da114"
         }
       ]
     }
