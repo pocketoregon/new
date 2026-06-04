@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-04T03:53:54.822236+00:00",
+      "fetched_at": "2026-06-04T03:53:54.822236+00:00",
+      "label": "Jun 04, 2026 — 03:54 AM UTC",
+      "articles": [
+        {
+          "title": "Stuntman Hollywood Returns to PS5",
+          "description": "Stuntman Hollywood, featuring iconic cars, is set to launch on PS5 soon. The arcade racer promises thrilling gameplay and nostalgia for fans.",
+          "category": "Gaming",
+          "source": "Eurogamer.net",
+          "url": "https://www.eurogamer.net/stuntman-hollywood-revealed-at-sony-state-of-play-coming-soon-to-ps5",
+          "image": "https://assetsio.gnwcdn.com/stuntman-hollywood-white-car.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-02T22:49:33Z",
+          "key_points": [
+            "Iconic cars featured",
+            "Arcade racing gameplay",
+            "Nostalgic experience"
+          ],
+          "impact": "Fans eagerly await this nostalgic racing game.",
+          "id": "80f8a69313ab21634c8530db10fa6a0f"
+        },
+        {
+          "title": "Wolverine Game Developers Unveil New Features",
+          "description": "Developers discuss new Wolverine game footage, including X-Men cameos and a low-gore option. Players can expect intense claw combat and unique death mechanics.",
+          "category": "Gaming",
+          "source": "Variety",
+          "url": "https://variety.com/2026/digital/news/wolverine-video-game-trailer-x-men-cameos-gameplay-1236764406/",
+          "image": "https://variety.com/wp-content/uploads/2026/06/Wolverine-video-game-PlayStation.jpg?w=1000&h=563&crop=1",
+          "published_at": "2026-06-02T22:30:00Z",
+          "key_points": [
+            "New gameplay footage revealed",
+            "X-Men cameos included",
+            "Low-gore option available"
+          ],
+          "impact": "The game promises a unique Wolverine experience.",
+          "id": "48ce6ab0f6bf72c882a4968dbe27235c"
+        },
+        {
+          "title": "God of War Laufey Announced for PS5",
+          "description": "Sony showcased the next God of War game, Laufey, during the State of Play event. Fans can expect epic storytelling and stunning visuals.",
+          "category": "Gaming",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_5010883.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+          "published_at": "2026-06-02T22:16:08Z",
+          "key_points": [
+            "Epic storytelling expected",
+            "Stunning visuals showcased",
+            "PS5 exclusive title"
+          ],
+          "impact": "Fans are excited for the next chapter.",
+          "id": "468fdf5fe6658260e0480c897afce46d"
+        },
+        {
+          "title": "Control Resonant Release Date Revealed",
+          "description": "Control Resonant's release date was unveiled in a new trailer during Sony's State of Play. The trailer offers insights into the game's narrative.",
+          "category": "Gaming",
+          "source": "Eurogamer.net",
+          "url": "https://www.eurogamer.net/control-resonant-release-date-sony-state-of-play-trailer",
+          "image": "https://assetsio.gnwcdn.com/control-resonant-dylan-hammer.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-02T22:13:39Z",
+          "key_points": [
+            "Release date announced",
+            "New trailer insights",
+            "Narrative details revealed"
+          ],
+          "impact": "Anticipation builds for Control Resonant's launch.",
+          "id": "c3d400009dd563c524473b601448acd1"
+        },
+        {
+          "title": "BMW M2 Introduces xDrive AWD for 2027",
+          "description": "The 2027 BMW M2 will feature an xDrive AWD model, enhancing performance and winter driving. It will come with an eight-speed automatic transmission.",
+          "category": "Business",
+          "source": "RoadandTrack.com",
+          "url": "https://www.roadandtrack.com/news/a71473290/2027-bmw-m2-xdrive/",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/f881536d-ac20-4f0d-8afd-a35bd712d130.jpg?crop=0.744xw:0.558xh;0.207xw,0.281xh&resize=1200:*",
+          "published_at": "2026-06-02T22:01:00Z",
+          "key_points": [
+            "xDrive AWD model introduced",
+            "Improved winter performance",
+            "Eight-speed automatic transmission"
+          ],
+          "impact": "The M2 enhances driving capabilities for enthusiasts.",
+          "id": "267c9ef2ef68c7c2948720457951aef1"
+        },
+        {
+          "title": "Microsoft Tests Wearable AI Gadget for Workers",
+          "description": "Microsoft is testing a wearable access badge and a desktop device aimed at enhancing productivity for office workers. The devices feature touch and voice activation.",
+          "category": "Business",
+          "source": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cwy25x97wrxo",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f1a4/live/e0ba4220-5ec4-11f1-b588-45cc931ea6f1.png",
+          "published_at": "2026-06-02T21:47:42Z",
+          "key_points": [
+            "Wearable access badge tested",
+            "Desktop device included",
+            "Focus on productivity enhancement"
+          ],
+          "impact": "Microsoft aims to boost office productivity with AI.",
+          "id": "fbe5c4ca9fd1a6eca35f573df5900358"
+        },
+        {
+          "title": "Rayman Legends Retold Launches October 1",
+          "description": "Rayman Legends Retold, a reimagined version of the classic, will launch on October 1. It features stunning 3D visuals and new gameplay elements.",
+          "category": "Gaming",
+          "source": "Ubisoft.com",
+          "url": "https://news.ubisoft.com/en-us/article/2WxMvhIp4tEdeBz8HELI15/rayman-legends-retold-launching-october-1",
+          "image": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/37BUvdQKohf8lt6X0qCS7o/ae014f6251662c22425d9db533397506/RaymanLegendsRetold_Keyart.jpg",
+          "published_at": "2026-06-02T21:42:52Z",
+          "key_points": [
+            "Launch date set for October 1",
+            "New story and visuals",
+            "Exciting gameplay features"
+          ],
+          "impact": "Fans look forward to this reimagined classic.",
+          "id": "98f6f2e3d50a8407c918e73826e24da0"
+        },
+        {
+          "title": "Ace Combat 8: Wings of Theve Launches October 2",
+          "description": "Ace Combat 8: Wings of Theve will be available on October 2 for multiple platforms. Pre-orders are now open for eager fans.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/ace-combat-8-wings-of-theve-launches-october-2",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Ace-Combat-8-Dated_06-02-26.jpg",
+          "published_at": "2026-06-02T21:38:51Z",
+          "key_points": [
+            "Launch date confirmed",
+            "Available on multiple platforms",
+            "Pre-orders now open"
+          ],
+          "impact": "Excitement builds for the next Ace Combat.",
+          "id": "9d1baf3850d5cda0a9ef82292ee76b02"
+        },
+        {
+          "title": "Valve Threatens to Pull Rainbow Six Siege from Steam",
+          "description": "Valve reportedly threatened to delist Rainbow Six Siege from Steam due to a pricing dispute with Ubisoft. This highlights ongoing tensions in the gaming marketplace.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/valve-reportedly-threatened-to-delist-rainbow-six-siege-on-steam-after-ubisoft-offered-cheaper-alternative",
+          "image": "https://assets-prd.ignimgs.com/2026/06/02/rainbow-six-siege-steam-1780424935759.png?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-02T19:18:52Z",
+          "key_points": [
+            "Valve's threat to delist game",
+            "Pricing dispute with Ubisoft",
+            "Marketplace tensions highlighted"
+          ],
+          "impact": "This dispute could impact Steam's reputation.",
+          "id": "895b220301b5a8441832b7c9e71aecfa"
+        },
+        {
+          "title": "Microsoft Launches AI Behavior Testing Tool",
+          "description": "Microsoft introduced a new open-source framework for AI behavior testing, allowing developers to create evaluations using text descriptions. This aims to streamline AI development.",
+          "category": "Software",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-172665283.jpg?resize=1200,900",
+          "published_at": "2026-06-02T19:02:21Z",
+          "key_points": [
+            "New AI testing framework launched",
+            "Open-source for developers",
+            "Streamlines AI evaluations"
+          ],
+          "impact": "This tool enhances AI development efficiency.",
+          "id": "f9405aa053e6bd7bba0a1f653bfe54e0"
+        },
+        {
+          "title": "Android Phones to Detect Spoofed Calls",
+          "description": "Android's upcoming features include the ability to detect spoofed calls and impersonation scams. This aims to enhance user security and reduce fraud.",
+          "category": "Security",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
+          "published_at": "2026-06-02T18:00:46Z",
+          "key_points": [
+            "Spoofed call detection feature",
+            "Enhanced user security",
+            "Reduction of impersonation scams"
+          ],
+          "impact": "Android enhances security against fraud.",
+          "id": "e471778f8995cf066d26f1c04b31a4ef"
+        },
+        {
+          "title": "Googlebook Launch Could Feature 8 Devices",
+          "description": "Googlebook's launch may include up to eight devices from major partners like Dell and HP. This promises a diverse range of options for consumers.",
+          "category": "Business",
+          "source": "Chrome Unboxed",
+          "url": "https://chromeunboxed.com/the-googlebook-launch-could-arrive-with-up-to-8-devices-in-total/",
+          "image": "https://chromeunboxed.com/wp-content/uploads/2026/06/GooglebookLaunch8devicesFall2026.webp",
+          "published_at": "2026-06-02T16:11:23Z",
+          "key_points": [
+            "Launch may feature eight devices",
+            "Major partners involved",
+            "Diverse consumer options"
+          ],
+          "impact": "Googlebook aims for a strong market entry.",
+          "id": "9a5fada484e46a2368f8104dcb4d5f82"
+        },
+        {
+          "title": "Noctua Launches First AIO CPU Coolers",
+          "description": "Noctua's first AIO CPU coolers will launch on June 16, featuring various radiator sizes and advanced cooling technology. Prices start at €219.90.",
+          "category": "Hardware",
+          "source": "VideoCardz.com",
+          "url": "https://videocardz.com/newz/noctuas-first-aio-cpu-coolers-launch-june-16-starting-at-e219-90",
+          "image": "https://cdn.videocardz.com/1/2026/06/NOCTUA-AIO.jpg",
+          "published_at": "2026-06-02T14:49:13Z",
+          "key_points": [
+            "Launch date set for June 16",
+            "Multiple radiator sizes available",
+            "Starting price €219.90"
+          ],
+          "impact": "Noctua enters the AIO cooler market.",
+          "id": "44a3c0eca116fe1694a9a514dc5c4a86"
+        },
+        {
+          "title": "Marathon Season 2 Launches Today",
+          "description": "Marathon Season 2 kicks off today, introducing new changes and challenges for players. The update promises an exciting gameplay experience.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/everything-you-need-to-know-about-marathon-season-2-and-its-first-free-week-2000701243",
+          "image": "https://kotaku.com/app/uploads/2026/05/marathons21.jpg",
+          "published_at": "2026-06-02T14:00:35Z",
+          "key_points": [
+            "Season 2 launches today",
+            "New gameplay changes",
+            "Exciting challenges await"
+          ],
+          "impact": "Players are eager for the new season.",
+          "id": "ca8adcaca56b2aff20ffd00587dd5fa1"
+        },
+        {
+          "title": "Nintendo's Switch 2 StarFox Preview",
+          "description": "The new Switch 2 remake of StarFox impresses with its nostalgic gameplay and updated graphics. Players are excited about this fantastic do-over.",
+          "category": "Gaming",
+          "source": "CNET",
+          "url": "https://www.cnet.com/tech/gaming/starfox-remake-nintendo-switch-2-preview/",
+          "image": "https://www.cnet.com/a/img/resize/8b971dd7d8ab2691932142812b517d711f04610a/hub/2026/06/01/874ea615-171e-4a92-a19e-7ed13bb5076c/nintendoswitch2-starfox-scrn-01.jpg?auto=webp&fit=crop&height=675&precrop=2977,1673,x497,y250&width=1200",
+          "published_at": "2026-06-02T13:01:00Z",
+          "key_points": [
+            "Impressive graphics showcased",
+            "Nostalgic gameplay experience",
+            "Exciting remake for fans"
+          ],
+          "impact": "Fans are thrilled for the StarFox remake.",
+          "id": "d8c789301a76d3bb69f239a54126b552"
+        }
+      ]
+    },
+    {
       "id": "2026-06-03T23:05:34.680902+00:00",
       "fetched_at": "2026-06-03T23:05:34.680902+00:00",
       "label": "Jun 03, 2026 — 11:06 PM UTC",
@@ -5768,173 +6015,6 @@
           ],
           "impact": "Excites fans for upcoming Dragon Quest releases.",
           "id": "9f90698cb3b2cdec0a3a5c424d5560d6"
-        }
-      ]
-    },
-    {
-      "id": "2026-05-30T09:21:01.530819+00:00",
-      "fetched_at": "2026-05-30T09:21:01.530819+00:00",
-      "label": "May 30, 2026 — 09:21 AM UTC",
-      "articles": [
-        {
-          "title": "FBI Warns of New Phishing Scheme Targeting Microsoft Users",
-          "description": "The FBI alerts Microsoft Teams, Outlook, and OneDrive users about a new phishing scheme. Users are urged to remain vigilant against suspicious communications.",
-          "category": "Security",
-          "source": "Inc.",
-          "url": "https://www.inc.com/amaya-nichole/fbi-just-issued-urgent-warning-anyone-using-microsoft-over-new-phishing-scheme/91351360",
-          "image": "",
-          "published_at": "2026-05-28T20:34:33Z",
-          "key_points": [
-            "New phishing scheme detected",
-            "Targets Microsoft services",
-            "Users advised to stay alert"
-          ],
-          "impact": "Increased vigilance is essential for Microsoft users.",
-          "id": "04a5d0a8289a1ca021782c32e269958a"
-        },
-        {
-          "title": "Asha Sharma Updates on Xbox Progress for 2026",
-          "description": "Xbox CEO Asha Sharma discusses ongoing improvements and challenges for Xbox in 2026. The focus remains on building a stronger gaming platform.",
-          "category": "Business",
-          "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/news/2026/05/we-are-building-a-stronger-xbox-asha-sharma-updates-employees-on-progress-in-2026",
-          "image": "https://images.purexbox.com/25641009dfbd8/large.jpg",
-          "published_at": "2026-05-28T20:26:00Z",
-          "key_points": [
-            "Xbox improvements underway",
-            "Challenges still ahead",
-            "Focus on stronger platform"
-          ],
-          "impact": "Xbox aims for significant enhancements this year.",
-          "id": "932b8d457eb59727e9c0efe8d493073f"
-        },
-        {
-          "title": "Microsoft Faces Threat from Disgruntled 0-Day Hunter",
-          "description": "A disgruntled 0-day hunter threatens to release exploits against Microsoft. The situation escalates as Microsoft involves law enforcement.",
-          "category": "Security",
-          "source": "Theregister.com",
-          "url": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
-          "image": "https://image.theregister.com/254471.jpg?imageId=254471&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-          "published_at": "2026-05-28T20:19:09Z",
-          "key_points": [
-            "0-day threats escalate",
-            "Microsoft calls police",
-            "Researcher vows major release"
-          ],
-          "impact": "Microsoft's security is under serious threat.",
-          "id": "a9e1e513bc36a51b5f6d483ef89c9f1a"
-        },
-        {
-          "title": "Apple Releases Public Betas for iOS and macOS",
-          "description": "Apple has launched the first public betas of iOS 26.6 and macOS Tahoe 26.6. Users can now test new features ahead of official releases.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/05/28/apple-seeds-ios-26-6-public-beta-1/",
-          "image": "https://images.macrumors.com/t/RzJYGwPST2fim75_lRKrQt8RKw8=/2500x/article-new/2026/05/iOS-26.6-Glass-Feature.jpg",
-          "published_at": "2026-05-28T17:46:02Z",
-          "key_points": [
-            "Public betas for iOS 26.6",
-            "Includes macOS Tahoe 26.6",
-            "Users can test new features"
-          ],
-          "impact": "Apple engages users with early software access.",
-          "id": "c4922824553657c01351c4f9d46c9da5"
-        },
-        {
-          "title": "Critical Gogs Vulnerability Allows Code Execution",
-          "description": "A critical RCE vulnerability in Gogs enables authenticated users to execute arbitrary code. Over 1,000 instances are exposed.",
-          "category": "Security",
-          "source": "Internet",
-          "url": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaqRd_3DDSSASg_YzvuUEqv3elhvFWSjk56bXPoqJeNIWVo-K0giuJ3TNEXV-aYpnuVfOv00_VM428vIFVaMiuZzfL0dQdQvz0_xMNFq4CtrppgTZu5dupV0asq1wZjPW3FoMgUnyGMR_RgBpWT2oTnJFuhaldo3Cd3eNP-MOlDNhP9Uu2KDRiDpYHdoeq/s1600/exploit-meta.jpg",
-          "published_at": "2026-05-28T17:24:00Z",
-          "key_points": [
-            "Critical RCE vulnerability found",
-            "Affects Gogs Git service",
-            "Over 1,000 instances exposed"
-          ],
-          "impact": "Immediate action is required to secure Gogs instances.",
-          "id": "270c3a23c29ea48407c6284c163b5db6"
-        },
-        {
-          "title": "Intel Launches Arc G3 CPUs for Handheld Gaming",
-          "description": "Intel officially announces the Arc G3 CPU family, optimized for handheld gaming PCs. The series features powerful integrated graphics.",
-          "category": "Hardware",
-          "source": "Techpowerup.com",
-          "url": "https://www.techpowerup.com/349450/intel-arc-g3-cpu-family-officially-released-for-handheld-gaming-pcs",
-          "image": "https://www.techpowerup.com/img/EXkLNvywlnLdqqMN.jpg",
-          "published_at": "2026-05-28T16:06:42Z",
-          "key_points": [
-            "Arc G3 CPUs released",
-            "Designed for handheld gaming",
-            "Features powerful integrated graphics"
-          ],
-          "impact": "Intel targets the growing handheld gaming market.",
-          "id": "e3eef694f9d99dc7dd6b424ed4732882"
-        },
-        {
-          "title": "Steam Deck Price Hike Raises Concerns",
-          "description": "Valve announces a significant price increase for the Steam Deck, raising costs by $240 to $300. This raises doubts about the upcoming Steam Frame VR headset.",
-          "category": "Business",
-          "source": "Road to VR",
-          "url": "https://roadtovr.com/steam-decks-price-hike-steam-frame-speculation/",
-          "image": "https://roadtovr.com/wp-content/uploads/2026/04/steam-frame-machine-controller.jpg",
-          "published_at": "2026-05-28T14:49:47Z",
-          "key_points": [
-            "Steam Deck price increased",
-            "Concerns for Steam Frame VR",
-            "Price hike by $240 to $300"
-          ],
-          "impact": "Valve's pricing strategy raises market concerns.",
-          "id": "c329e65f36f1ea90f5937e2bae7ecd3c"
-        },
-        {
-          "title": "Qualcomm Launches Snapdragon C for Budget Windows 11 Devices",
-          "description": "Qualcomm introduces the Snapdragon C SoC aimed at affordable Windows 11 devices, expected to retail around $300. This targets budget-conscious consumers.",
-          "category": "Hardware",
-          "source": "Windows Central",
-          "url": "https://www.windowscentral.com/hardware/qualcomm/qualcomm-snapdragon-c-is-official-and-its-taking-aim-at-macbook-neo-and-chromebooks-new-low-end-arm-chip-brings-all-day-battery-life-to-usd300-windows-11-devices",
-          "image": "https://cdn.mos.cms.futurecdn.net/NYc7GhLbxP2nr8itWy9HMV-2560-80.png",
-          "published_at": "2026-05-28T13:00:00Z",
-          "key_points": [
-            "Snapdragon C SoC unveiled",
-            "Targets budget Windows 11 devices",
-            "Expected price around $300"
-          ],
-          "impact": "Qualcomm aims to capture budget market share.",
-          "id": "f385f202b72bf73a104e3069596e088f"
-        },
-        {
-          "title": "Donkey Kong 64 Coming to Nintendo Switch Online",
-          "description": "Nintendo confirms that Donkey Kong 64 will be available on Switch Online starting June 4. Fans can enjoy the classic platformer soon.",
-          "category": "Startups",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/donkey-kong-64-confirmed-for-nintendo-switch-online",
-          "image": "https://assets-prd.ignimgs.com/2026/05/28/donkey-kong-64-button-fin-1560099410344-1779958218281.jpg?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-05-28T08:57:51Z",
-          "key_points": [
-            "Donkey Kong 64 confirmed",
-            "Available on Switch Online",
-            "Launch date is June 4"
-          ],
-          "impact": "Nintendo enhances Switch Online with classics.",
-          "id": "cddeb3cccc1754b9369f67ef466b88e3"
-        },
-        {
-          "title": "Xbox Deals Unlocked Sale 2026 Offers Major Discounts",
-          "description": "The Xbox Deals Unlocked Sale 2026 is live, featuring over 2,000 discounts on popular Xbox games. Gamers can save significantly on their favorites.",
-          "category": "Business",
-          "source": "TrueAchievements",
-          "url": "https://www.trueachievements.com/news/xbox-deals-unlocked-sale-2026",
-          "image": "https://www.trueachievements.com/imgs/175426/xbox-deals-unlocked-sale-2026.jpg",
-          "published_at": "2026-05-28T08:38:13Z",
-          "key_points": [
-            "Massive Xbox sale launched",
-            "Over 2,000 discounts available",
-            "Great savings on popular games"
-          ],
-          "impact": "Gamers can take advantage of significant savings.",
-          "id": "1ed7d9888cfa6687d9f7f091fb11c0fa"
         }
       ]
     }

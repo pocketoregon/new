@@ -1,247 +1,247 @@
 {
-  "date": "2026-06-03",
-  "generated_at": "2026-06-03T23:05:34.680902+00:00",
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T03:53:54.822236+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "PlayStation State of Play June 2026: Major Reveals",
-      "description": "Sony's State of Play showcased exciting PS5 titles, including a new Wolverine game. The event took place on June 2nd, ahead of Summer Game Fest.",
+      "title": "Stuntman Hollywood Returns to PS5",
+      "description": "Stuntman Hollywood, featuring iconic cars, is set to launch on PS5 soon. The arcade racer promises thrilling gameplay and nostalgia for fans.",
       "category": "Gaming",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/940913/playstation-state-of-play-june-2026-news-trailers",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23986615/acastro_STK097_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published_at": "2026-06-02T21:55:32Z",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/stuntman-hollywood-revealed-at-sony-state-of-play-coming-soon-to-ps5",
+      "image": "https://assetsio.gnwcdn.com/stuntman-hollywood-white-car.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-02T22:49:33Z",
       "key_points": [
-        "New Wolverine game revealed",
-        "Major PS5 titles showcased",
-        "Event precedes Summer Game Fest"
+        "Iconic cars featured",
+        "Arcade racing gameplay",
+        "Nostalgic experience"
       ],
-      "impact": "Sony's showcase sets the stage for summer gaming.",
-      "id": "2668343af38b595df2dcbfdb48c08f76"
+      "impact": "Fans eagerly await this nostalgic racing game.",
+      "id": "80f8a69313ab21634c8530db10fa6a0f"
     },
     {
-      "title": "Rayman Legends Retold Coming to Nintendo Switch 2",
-      "description": "Ubisoft officially announced Rayman Legends Retold for Nintendo Switch 2, launching on October 1, 2026. The remake features enhanced visuals in 2.5D/3D.",
+      "title": "Wolverine Game Developers Unveil New Features",
+      "description": "Developers discuss new Wolverine game footage, including X-Men cameos and a low-gore option. Players can expect intense claw combat and unique death mechanics.",
       "category": "Gaming",
-      "source": "Nintendo Everything",
-      "url": "https://nintendoeverything.com/rayman-legends-retold-announced-for-nintendo-switch-2/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Rayman-Legends-Retold.jpg",
-      "published_at": "2026-06-02T21:19:45Z",
+      "source": "Variety",
+      "url": "https://variety.com/2026/digital/news/wolverine-video-game-trailer-x-men-cameos-gameplay-1236764406/",
+      "image": "https://variety.com/wp-content/uploads/2026/06/Wolverine-video-game-PlayStation.jpg?w=1000&h=563&crop=1",
+      "published_at": "2026-06-02T22:30:00Z",
       "key_points": [
-        "Rayman Legends remake announced",
+        "New gameplay footage revealed",
+        "X-Men cameos included",
+        "Low-gore option available"
+      ],
+      "impact": "The game promises a unique Wolverine experience.",
+      "id": "48ce6ab0f6bf72c882a4968dbe27235c"
+    },
+    {
+      "title": "God of War Laufey Announced for PS5",
+      "description": "Sony showcased the next God of War game, Laufey, during the State of Play event. Fans can expect epic storytelling and stunning visuals.",
+      "category": "Gaming",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_5010883.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "published_at": "2026-06-02T22:16:08Z",
+      "key_points": [
+        "Epic storytelling expected",
+        "Stunning visuals showcased",
+        "PS5 exclusive title"
+      ],
+      "impact": "Fans are excited for the next chapter.",
+      "id": "468fdf5fe6658260e0480c897afce46d"
+    },
+    {
+      "title": "Control Resonant Release Date Revealed",
+      "description": "Control Resonant's release date was unveiled in a new trailer during Sony's State of Play. The trailer offers insights into the game's narrative.",
+      "category": "Gaming",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/control-resonant-release-date-sony-state-of-play-trailer",
+      "image": "https://assetsio.gnwcdn.com/control-resonant-dylan-hammer.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-02T22:13:39Z",
+      "key_points": [
+        "Release date announced",
+        "New trailer insights",
+        "Narrative details revealed"
+      ],
+      "impact": "Anticipation builds for Control Resonant's launch.",
+      "id": "c3d400009dd563c524473b601448acd1"
+    },
+    {
+      "title": "BMW M2 Introduces xDrive AWD for 2027",
+      "description": "The 2027 BMW M2 will feature an xDrive AWD model, enhancing performance and winter driving. It will come with an eight-speed automatic transmission.",
+      "category": "Business",
+      "source": "RoadandTrack.com",
+      "url": "https://www.roadandtrack.com/news/a71473290/2027-bmw-m2-xdrive/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/f881536d-ac20-4f0d-8afd-a35bd712d130.jpg?crop=0.744xw:0.558xh;0.207xw,0.281xh&resize=1200:*",
+      "published_at": "2026-06-02T22:01:00Z",
+      "key_points": [
+        "xDrive AWD model introduced",
+        "Improved winter performance",
+        "Eight-speed automatic transmission"
+      ],
+      "impact": "The M2 enhances driving capabilities for enthusiasts.",
+      "id": "267c9ef2ef68c7c2948720457951aef1"
+    },
+    {
+      "title": "Microsoft Tests Wearable AI Gadget for Workers",
+      "description": "Microsoft is testing a wearable access badge and a desktop device aimed at enhancing productivity for office workers. The devices feature touch and voice activation.",
+      "category": "Business",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy25x97wrxo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f1a4/live/e0ba4220-5ec4-11f1-b588-45cc931ea6f1.png",
+      "published_at": "2026-06-02T21:47:42Z",
+      "key_points": [
+        "Wearable access badge tested",
+        "Desktop device included",
+        "Focus on productivity enhancement"
+      ],
+      "impact": "Microsoft aims to boost office productivity with AI.",
+      "id": "fbe5c4ca9fd1a6eca35f573df5900358"
+    },
+    {
+      "title": "Rayman Legends Retold Launches October 1",
+      "description": "Rayman Legends Retold, a reimagined version of the classic, will launch on October 1. It features stunning 3D visuals and new gameplay elements.",
+      "category": "Gaming",
+      "source": "Ubisoft.com",
+      "url": "https://news.ubisoft.com/en-us/article/2WxMvhIp4tEdeBz8HELI15/rayman-legends-retold-launching-october-1",
+      "image": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/37BUvdQKohf8lt6X0qCS7o/ae014f6251662c22425d9db533397506/RaymanLegendsRetold_Keyart.jpg",
+      "published_at": "2026-06-02T21:42:52Z",
+      "key_points": [
         "Launch date set for October 1",
-        "Enhanced 2.5D/3D visuals"
+        "New story and visuals",
+        "Exciting gameplay features"
       ],
-      "impact": "Ubisoft revitalizes a classic for new audiences.",
-      "id": "8f1a65f40f73b4c4fc3b1787ada31354"
+      "impact": "Fans look forward to this reimagined classic.",
+      "id": "98f6f2e3d50a8407c918e73826e24da0"
     },
     {
-      "title": "YouTube TV Offers 50% Off Google TV Streamer",
-      "description": "YouTube TV subscribers can now get a 50% discount on the Google TV Streamer with a promo code. This offer enhances the viewing experience for members.",
-      "category": "Business",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/06/02/youtube-tv-google-tv-streamer/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/YouTube-TV-Google-TV-Streamer.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-02T20:40:00Z",
-      "key_points": [
-        "50% discount for subscribers",
-        "Promo code available now",
-        "Enhances viewing experience"
-      ],
-      "impact": "YouTube TV boosts subscriber value with discounts.",
-      "id": "5557e7d965dede54096bed2ecf78dd42"
-    },
-    {
-      "title": "iOS 27 Unveiling: Exciting New Features Ahead",
-      "description": "Apple's iOS 27 will be unveiled on June 8 at WWDC, featuring five rumored new features that promise significant enhancements.",
-      "category": "Software",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/02/ios-27-is-coming-here-are-five-new-features-im-most-excited-about/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/siri-app-icon-iphone-home-screen-angle.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-02T20:21:00Z",
-      "key_points": [
-        "iOS 27 to debut June 8",
-        "Five new features anticipated",
-        "Major Siri overhaul expected"
-      ],
-      "impact": "Apple's iOS 27 aims to enhance user experience.",
-      "id": "2f22c1c5cd4906942a237031df361c85"
-    },
-    {
-      "title": "Cyberdecks Trend: DIY Hardware Rebellion",
-      "description": "DIY cyberdecks are gaining popularity as users showcase solar-powered devices and retro tech. This trend emphasizes a rejection of big tech surveillance.",
-      "category": "Hardware",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/cyberdeck-bimbotech-scaled-1.jpeg?resize=1200,675",
-      "published_at": "2026-06-02T20:20:00Z",
-      "key_points": [
-        "DIY cyberdecks trending",
-        "Focus on retro tech",
-        "Rejecting big tech surveillance"
-      ],
-      "impact": "Cyberdecks symbolize a cultural shift in tech.",
-      "id": "2fbf0b019a52247172049667d0cf738e"
-    },
-    {
-      "title": "Microsoft Launches Open-Source Intelligent Terminal",
-      "description": "Microsoft has introduced the Intelligent Terminal, an open-source project under the MIT license, enhancing terminal capabilities.",
-      "category": "Software",
-      "source": "Phoronix",
-      "url": "https://www.phoronix.com/news/Microsoft-Intelligent-Terminal",
-      "image": "https://www.phoronix.net/image.php?id=2026&image=intelligent_terminal",
-      "published_at": "2026-06-02T19:18:00Z",
-      "key_points": [
-        "New open-source terminal launched",
-        "Under MIT license",
-        "Enhances terminal functionality"
-      ],
-      "impact": "Microsoft expands open-source contributions with new terminal.",
-      "id": "61083eed4067ef22985ed37f99672438"
-    },
-    {
-      "title": "Microsoft's AI Assistant 'Scout' Aims for User Addiction",
-      "description": "Internal documents reveal Microsoft's strategy to make users addicted to its new AI assistant, Scout, before adding features.",
-      "category": "Software",
-      "source": "404 Media",
-      "url": "https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/",
-      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/CleanShot-2026-06-02-at-11.41.47@2x.png",
-      "published_at": "2026-06-02T18:48:46Z",
-      "key_points": [
-        "Scout aims for user addiction",
-        "Internal strategy revealed",
-        "Focus on feature rollout later"
-      ],
-      "impact": "Microsoft's strategy raises ethical concerns in AI.",
-      "id": "f5d9fcdb46158703341c96ed4cd95005"
-    },
-    {
-      "title": "Ex-Anduril Engineer Raises $42M for Composite Parts Startup",
-      "description": "Zack Eakin's Layup Parts secures $42 million to innovate in composite manufacturing, leveraging his motorsports background.",
-      "category": "Startups",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/02/ex-anduril-engineer-raises-42m-to-build-the-amazon-of-composite-parts/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/layup-parts-hq.jpeg?resize=1200,626",
-      "published_at": "2026-06-02T18:00:00Z",
-      "key_points": [
-        "$42M raised for Layup Parts",
-        "Focus on composite manufacturing",
-        "Innovative motorsports background"
-      ],
-      "impact": "Startup aims to revolutionize composite parts industry.",
-      "id": "a2148cb7bebe2583217ee98da990e6cb"
-    },
-    {
-      "title": "Crocs x Super Mario Collection Launching Soon",
-      "description": "The Crocs x Super Mario collection is set to release on July 15, 2026, expanding the partnership between Nintendo and Crocs.",
+      "title": "Ace Combat 8: Wings of Theve Launches October 2",
+      "description": "Ace Combat 8: Wings of Theve will be available on October 2 for multiple platforms. Pre-orders are now open for eager fans.",
       "category": "Gaming",
-      "source": "Nintendo Everything",
-      "url": "https://nintendoeverything.com/crocs-x-super-mario-collection-announced/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Super-Mario-Crocs.jpg",
-      "published_at": "2026-06-02T16:48:53Z",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/ace-combat-8-wings-of-theve-launches-october-2",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Ace-Combat-8-Dated_06-02-26.jpg",
+      "published_at": "2026-06-02T21:38:51Z",
       "key_points": [
-        "New Crocs collection announced",
-        "Based on Super Mario franchise",
-        "Release date: July 15, 2026"
+        "Launch date confirmed",
+        "Available on multiple platforms",
+        "Pre-orders now open"
       ],
-      "impact": "Collaboration brings fun footwear to fans.",
-      "id": "97594ff83eac96dcd3efe309da49ea10"
+      "impact": "Excitement builds for the next Ace Combat.",
+      "id": "9d1baf3850d5cda0a9ef82292ee76b02"
     },
     {
-      "title": "Toy Story Games Coming to Nintendo Switch 2",
-      "description": "Toy Story: Retro Roundup and Toy Story 3 Complete Edition announced for Nintendo Switch 2, expanding the franchise's gaming presence.",
+      "title": "Valve Threatens to Pull Rainbow Six Siege from Steam",
+      "description": "Valve reportedly threatened to delist Rainbow Six Siege from Steam due to a pricing dispute with Ubisoft. This highlights ongoing tensions in the gaming marketplace.",
       "category": "Gaming",
-      "source": "Nintendo Everything",
-      "url": "https://nintendoeverything.com/toy-story-retro-roundup-toy-story-3-complete-edition-announced-for-nintendo-switch-2-and-switch/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Toy-Story-Retro-Roundup-and-Toy-Story-3-Complete-Edition.jpg",
-      "published_at": "2026-06-02T16:03:53Z",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/valve-reportedly-threatened-to-delist-rainbow-six-siege-on-steam-after-ubisoft-offered-cheaper-alternative",
+      "image": "https://assets-prd.ignimgs.com/2026/06/02/rainbow-six-siege-steam-1780424935759.png?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-02T19:18:52Z",
       "key_points": [
-        "Two new Toy Story games announced",
-        "Available on Switch 2",
-        "Exciting franchise expansion"
+        "Valve's threat to delist game",
+        "Pricing dispute with Ubisoft",
+        "Marketplace tensions highlighted"
       ],
-      "impact": "Toy Story games enhance Nintendo's lineup.",
-      "id": "9cbc21640836710c82a38d41fcfd849e"
+      "impact": "This dispute could impact Steam's reputation.",
+      "id": "895b220301b5a8441832b7c9e71aecfa"
     },
     {
-      "title": "Camp Snap 2: New Features for Kids",
-      "description": "The Camp Snap 2 camera introduces new filters and remains screenless, making it more user-friendly for children.",
-      "category": "Hardware",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/941427/camp-snap-2-digital-screenless-camera-filters-kid-lock",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/campsnap2_1.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200",
-      "published_at": "2026-06-02T15:00:00Z",
-      "key_points": [
-        "New filters added",
-        "Screenless design continues",
-        "Kid-friendly features enhanced"
-      ],
-      "impact": "Camp Snap 2 targets young photographers.",
-      "id": "26a0fcc53b3222e563a418b5e6f6413b"
-    },
-    {
-      "title": "Apple's MacBook Neo Gains Popularity",
-      "description": "Apple's MacBook Neo sold 1.1 million units shortly after launch, appealing to a new generation of buyers in the laptop market.",
-      "category": "Business",
+      "title": "Microsoft Launches AI Behavior Testing Tool",
+      "description": "Microsoft introduced a new open-source framework for AI behavior testing, allowing developers to create evaluations using text descriptions. This aims to streamline AI development.",
+      "category": "Software",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/02/apples-macbook-neo-is-winning-over-a-new-generation-of-buyers/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-macbook-neo.jpg?resize=1200,800",
-      "published_at": "2026-06-02T14:39:29Z",
+      "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-172665283.jpg?resize=1200,900",
+      "published_at": "2026-06-02T19:02:21Z",
       "key_points": [
-        "1.1 million units sold",
-        "Appealing to younger buyers",
-        "Strengthening Apple's market position"
+        "New AI testing framework launched",
+        "Open-source for developers",
+        "Streamlines AI evaluations"
       ],
-      "impact": "MacBook Neo reshapes Apple's customer base.",
-      "id": "69edf393fd8746aaf04e8ad97336659a"
+      "impact": "This tool enhances AI development efficiency.",
+      "id": "f9405aa053e6bd7bba0a1f653bfe54e0"
     },
     {
-      "title": "Crimson Desert Summer Update Roadmap Revealed",
-      "description": "Pearl Abyss announced new content and features for Crimson Desert, including a major DLC currently in development.",
-      "category": "Gaming",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/crimson-desert-summer-2026-update-roadmap",
-      "image": "https://assetsio.gnwcdn.com/Crimson-Desert_boss-fight.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-02T14:31:38Z",
-      "key_points": [
-        "New content roadmap revealed",
-        "Major DLC in development",
-        "Player feedback considered"
-      ],
-      "impact": "Crimson Desert continues to evolve post-launch.",
-      "id": "b06a65176598e8e8cb1170816585f4c0"
-    },
-    {
-      "title": "Kawasaki Unveils New 2027 Two-Strokes",
-      "description": "Kawasaki introduces its new two-stroke models, including significant updates to the KX450 for 2027, enhancing performance and design.",
-      "category": "Hardware",
-      "source": "Racer X",
-      "url": "https://racerxonline.com/2026/06/02/the-kx-327-kawasakis-new-two-strokes-are-finally-here",
-      "image": "https://rxi.iscdn.net/2026/06/329654_img9920.jpg?w=1200&h=630&fit=crop&crop=faces",
-      "published_at": "2026-06-02T13:25:00Z",
-      "key_points": [
-        "New two-stroke models launched",
-        "KX450 updates announced",
-        "Enhanced performance features"
-      ],
-      "impact": "Kawasaki's new models set industry standards.",
-      "id": "59dc93044fd1eead142719064e7030a2"
-    },
-    {
-      "title": "Google Fixes Android Zero-Day and 124 Vulnerabilities",
-      "description": "Google's June 2026 security patches address 124 vulnerabilities, including a critical zero-day flaw actively exploited in attacks.",
+      "title": "Android Phones to Detect Spoofed Calls",
+      "description": "Android's upcoming features include the ability to detect spoofed calls and impersonation scams. This aims to enhance user security and reduce fraud.",
       "category": "Security",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/03/03/Android-red.jpg",
-      "published_at": "2026-06-02T11:10:15Z",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
+      "published_at": "2026-06-02T18:00:46Z",
       "key_points": [
-        "124 vulnerabilities patched",
-        "Critical zero-day fixed",
-        "Enhancing Android security"
+        "Spoofed call detection feature",
+        "Enhanced user security",
+        "Reduction of impersonation scams"
       ],
-      "impact": "Google strengthens Android security with updates.",
-      "id": "1bd0700275600712a87e56ea49bec87a"
+      "impact": "Android enhances security against fraud.",
+      "id": "e471778f8995cf066d26f1c04b31a4ef"
+    },
+    {
+      "title": "Googlebook Launch Could Feature 8 Devices",
+      "description": "Googlebook's launch may include up to eight devices from major partners like Dell and HP. This promises a diverse range of options for consumers.",
+      "category": "Business",
+      "source": "Chrome Unboxed",
+      "url": "https://chromeunboxed.com/the-googlebook-launch-could-arrive-with-up-to-8-devices-in-total/",
+      "image": "https://chromeunboxed.com/wp-content/uploads/2026/06/GooglebookLaunch8devicesFall2026.webp",
+      "published_at": "2026-06-02T16:11:23Z",
+      "key_points": [
+        "Launch may feature eight devices",
+        "Major partners involved",
+        "Diverse consumer options"
+      ],
+      "impact": "Googlebook aims for a strong market entry.",
+      "id": "9a5fada484e46a2368f8104dcb4d5f82"
+    },
+    {
+      "title": "Noctua Launches First AIO CPU Coolers",
+      "description": "Noctua's first AIO CPU coolers will launch on June 16, featuring various radiator sizes and advanced cooling technology. Prices start at €219.90.",
+      "category": "Hardware",
+      "source": "VideoCardz.com",
+      "url": "https://videocardz.com/newz/noctuas-first-aio-cpu-coolers-launch-june-16-starting-at-e219-90",
+      "image": "https://cdn.videocardz.com/1/2026/06/NOCTUA-AIO.jpg",
+      "published_at": "2026-06-02T14:49:13Z",
+      "key_points": [
+        "Launch date set for June 16",
+        "Multiple radiator sizes available",
+        "Starting price €219.90"
+      ],
+      "impact": "Noctua enters the AIO cooler market.",
+      "id": "44a3c0eca116fe1694a9a514dc5c4a86"
+    },
+    {
+      "title": "Marathon Season 2 Launches Today",
+      "description": "Marathon Season 2 kicks off today, introducing new changes and challenges for players. The update promises an exciting gameplay experience.",
+      "category": "Gaming",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/everything-you-need-to-know-about-marathon-season-2-and-its-first-free-week-2000701243",
+      "image": "https://kotaku.com/app/uploads/2026/05/marathons21.jpg",
+      "published_at": "2026-06-02T14:00:35Z",
+      "key_points": [
+        "Season 2 launches today",
+        "New gameplay changes",
+        "Exciting challenges await"
+      ],
+      "impact": "Players are eager for the new season.",
+      "id": "ca8adcaca56b2aff20ffd00587dd5fa1"
+    },
+    {
+      "title": "Nintendo's Switch 2 StarFox Preview",
+      "description": "The new Switch 2 remake of StarFox impresses with its nostalgic gameplay and updated graphics. Players are excited about this fantastic do-over.",
+      "category": "Gaming",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/gaming/starfox-remake-nintendo-switch-2-preview/",
+      "image": "https://www.cnet.com/a/img/resize/8b971dd7d8ab2691932142812b517d711f04610a/hub/2026/06/01/874ea615-171e-4a92-a19e-7ed13bb5076c/nintendoswitch2-starfox-scrn-01.jpg?auto=webp&fit=crop&height=675&precrop=2977,1673,x497,y250&width=1200",
+      "published_at": "2026-06-02T13:01:00Z",
+      "key_points": [
+        "Impressive graphics showcased",
+        "Nostalgic gameplay experience",
+        "Exciting remake for fans"
+      ],
+      "impact": "Fans are thrilled for the StarFox remake.",
+      "id": "d8c789301a76d3bb69f239a54126b552"
     }
   ]
 }
