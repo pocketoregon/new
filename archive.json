@@ -1,6 +1,141 @@
 {
   "batches": [
     {
+      "id": "2026-06-04T14:58:16.882919+00:00",
+      "fetched_at": "2026-06-04T14:58:16.882919+00:00",
+      "label": "Jun 04, 2026 — 02:58 PM UTC",
+      "articles": [
+        {
+          "title": "Marathon's Big Free Season 2 Debut Plagued By Server Issues",
+          "description": "Bungie's Marathon suffers major server outages on its significant update day. Players are struggling to access the game since its launch.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/server-issues-plague-marathons-big-comeback-moment-2000701778",
+          "image": "https://kotaku.com/app/uploads/2026/06/Triage_Vignette_02_1920x1080-e1780452106905-1200x668.jpg",
+          "published_at": "2026-06-03T02:21:13Z",
+          "key_points": [
+            "Server issues on launch day",
+            "Players unable to access game",
+            "Bungie working on fixes"
+          ],
+          "impact": "Server problems hinder player experience significantly.",
+          "id": "bf0fc9b7adbe7e06d4ef9b01e55b0259"
+        },
+        {
+          "title": "Google Is Quietly Buying Code From Play Store Developers to Train AI",
+          "description": "Google is discreetly purchasing code from Android developers to enhance its AI capabilities. This initiative is part of a confidential program aimed at improving AI tools.",
+          "category": "Business",
+          "source": "404 Media",
+          "url": "https://www.404media.co/google-is-quietly-buying-code-from-play-store-developers-to-train-ai/",
+          "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/CleanShot-2026-06-02-at-17.15.56@2x.png",
+          "published_at": "2026-06-03T00:18:59Z",
+          "key_points": [
+            "Google buys developer code",
+            "Confidential AI training program",
+            "Enhancing AI coding tools"
+          ],
+          "impact": "Google's strategy may reshape AI development.",
+          "id": "2bbba1cd26bcafd6a3f49c0a886b88a8"
+        },
+        {
+          "title": "Mina The Hollower Sold 300,000 Copies In Three Days",
+          "description": "Yacht Club Games' Mina the Hollower sold 300,000 copies in just three days, becoming the highest-rated game of 2026. This success helps the studio avoid a critical moment.",
+          "category": "Gaming",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/2026/06/02/mina-the-hollower-sold-300000-copies-in-three-days-helping-yacht-club-escape-make-or",
+          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2023/09/04/5e557952/mina1.jpg.webp",
+          "published_at": "2026-06-02T19:23:30Z",
+          "key_points": [
+            "300,000 copies sold quickly",
+            "Highest-rated game of 2026",
+            "Yacht Club avoids crisis"
+          ],
+          "impact": "Strong sales boost Yacht Club's future prospects.",
+          "id": "65ef1dd08ae18623fa9de55ea9244521"
+        },
+        {
+          "title": "MSI Claw 8 EX AI+ with Intel Arc G3 Extreme listed at Best Buy for $1,699",
+          "description": "The MSI Claw 8 EX AI+ is now available at Best Buy for $1,699, exceeding initial price expectations. This handheld features Intel's Arc G3 Extreme graphics.",
+          "category": "Hardware",
+          "source": "VideoCardz.com",
+          "url": "https://videocardz.com/newz/msi-claw-8-ex-ai-with-intel-arc-g3-extreme-listed-at-best-buy-for-1699",
+          "image": "https://cdn.videocardz.com/1/2026/06/MSI-CLAW-8-EX-HERO.jpg",
+          "published_at": "2026-06-02T18:34:16Z",
+          "key_points": [
+            "Listed at $1,699",
+            "Features Intel Arc G3",
+            "Higher than expected price"
+          ],
+          "impact": "MSI's pricing strategy may affect sales.",
+          "id": "5a88bee27aa0ad88597ed2355f19a518"
+        },
+        {
+          "title": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off",
+          "description": "Microsoft introduces Scout, an AI agent for Teams that automates mundane tasks. This always-on assistant aims to enhance workplace productivity.",
+          "category": "Software",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/",
+          "image": "https://media.wired.com/photos/6a1e1d3c70c7c8b915b99802/191:100/w_1280,c_limit/Microsoft-Debuts-Scout-a-Workplace-AI-Agent-Gear.jpg",
+          "published_at": "2026-06-02T18:00:00Z",
+          "key_points": [
+            "AI agent for Microsoft Teams",
+            "Automates office tasks",
+            "Enhances productivity"
+          ],
+          "impact": "Scout could revolutionize workplace efficiency.",
+          "id": "d1999cb9b6b5335f2710057f52dadb78"
+        },
+        {
+          "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+          "description": "Google launches a fake call detection feature to combat AI deepfake scams. This tool aims to protect users from impersonation threats.",
+          "category": "Security",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/fake-call-detection.png?resize=1200,640",
+          "published_at": "2026-06-02T18:00:00Z",
+          "key_points": [
+            "New fake call detection feature",
+            "Protects against deepfake scams",
+            "Rolling out globally"
+          ],
+          "impact": "This feature enhances user security significantly.",
+          "id": "774f63fcc1fb01cba779a8c9253be948"
+        },
+        {
+          "title": "iPhone Ultra might have tech innovation over 15 years in the making",
+          "description": "The upcoming iPhone Ultra may feature liquid metal technology, a significant innovation from Apple. This device is set to launch this fall.",
+          "category": "Business",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/02/iphone-ultra-might-have-tech-innovation-over-15-years-in-the-making/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-02T15:03:00Z",
+          "key_points": [
+            "iPhone Ultra launching this fall",
+            "Features liquid metal technology",
+            "15 years in development"
+          ],
+          "impact": "This innovation could redefine smartphone design.",
+          "id": "daccb5c5bafabdd95f9dec8a39c78d3c"
+        },
+        {
+          "title": "Get Another Look At Star Fox On Switch 2 In New Overview Trailer",
+          "description": "Nintendo releases a new overview trailer for the upcoming Star Fox on Switch 2. The trailer highlights exciting features and gameplay.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/get-another-look-at-star-fox-on-switch-2-in-new-overview-trailer",
+          "image": "https://images.nintendolife.com/b9571e1c781bd/large.jpg",
+          "published_at": "2026-06-02T12:55:00Z",
+          "key_points": [
+            "New trailer for Star Fox",
+            "Showcases gameplay features",
+            "Excitement builds for release"
+          ],
+          "impact": "Anticipation for Star Fox continues to grow.",
+          "id": "f58e6e6f849807cd72ca7ae6c21f22e7"
+        }
+      ]
+    },
+    {
       "id": "2026-06-04T09:54:37.681705+00:00",
       "fetched_at": "2026-06-04T09:54:37.681705+00:00",
       "label": "Jun 04, 2026 — 09:55 AM UTC",
@@ -5896,221 +6031,6 @@
           ],
           "impact": "This could enhance player engagement.",
           "id": "874f344d32a6015873c17bd0eb2c123b"
-        }
-      ]
-    },
-    {
-      "id": "2026-05-30T13:44:48.891364+00:00",
-      "fetched_at": "2026-05-30T13:44:48.891364+00:00",
-      "label": "May 30, 2026 — 01:45 PM UTC",
-      "articles": [
-        {
-          "title": "Acer Launches $699 Swift Air 14 Laptop",
-          "description": "Acer unveils several laptops at Computex, including the Swift Air 14 and Aspire 18. The Nitro 16 gaming laptop features an AMD X3D chip.",
-          "category": "Hardware",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/939596/acer-swift-air-14-aspire-18-nitro-16-computex-price-specs",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Acer-Swift-Air-14-SFA14-I31-Lifestyle-03.jpg?quality=90&strip=all&crop=0%2C3.4750998734523%2C100%2C93.049800253095&w=1200",
-          "published_at": "2026-05-29T13:00:00Z",
-          "key_points": [
-            "Multiple models announced",
-            "Includes gaming laptop",
-            "Affordable pricing"
-          ],
-          "impact": "Acer expands its laptop lineup with competitive pricing.",
-          "id": "84ec891aa9bcec5137013004ba53fab8"
-        },
-        {
-          "title": "MSI Unveils Claw 8 EX AI Plus Handheld",
-          "description": "MSI introduces the Claw 8 EX AI Plus gaming handheld featuring Intel's custom Arc G3 Extreme chip. This device aims to enhance portable gaming experiences.",
-          "category": "Hardware",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/entertainment/939758/msi-claw-8-ex-ai-plus-gaming-handheld-reveal-computex-2026",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/MSI-Claw-8-EX-AI-Plus.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-05-29T11:11:39Z",
-          "key_points": [
-            "Features Intel Arc G3 chip",
-            "Portable gaming device",
-            "High performance expected"
-          ],
-          "impact": "MSI targets gamers with innovative handheld technology.",
-          "id": "baa0f1cbbe9f9a00a0b36d542055c1d8"
-        },
-        {
-          "title": "iPhone 18 Pro's Camera Upgrade Costs 50% More",
-          "description": "Apple's iPhone 18 Pro will feature a new variable aperture lens, increasing production costs by 50%. This upgrade aims to enhance photography capabilities.",
-          "category": "Hardware",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/05/29/iphone-18-pros-camera-upgrade-will-cost-more/",
-          "image": "https://images.macrumors.com/t/lqWUrJOQKKV5pEiUCN1izFwQ4QQ=/2500x/article-new/2026/04/iphone-17-pro-black-feature.jpg",
-          "published_at": "2026-05-29T10:44:01Z",
-          "key_points": [
-            "New lens increases costs",
-            "Variable aperture technology",
-            "Enhanced photography features"
-          ],
-          "impact": "Apple invests in camera technology for better user experience.",
-          "id": "1f052b4bf4d43305adcc74abccdf5b26"
-        },
-        {
-          "title": "007 First Light Achieves 1.5M Sales in 24 Hours",
-          "description": "IO Interactive's 007 First Light has sold over 1.5 million copies within its first day of release, showcasing strong demand and critical acclaim.",
-          "category": "Startups",
-          "source": "Eurogamer.net",
-          "url": "https://www.eurogamer.net/007-first-light-james-bond-sales-milestone-24-hours",
-          "image": "https://assetsio.gnwcdn.com/007-First-Light-screenshot-showing-Bond-and-his-fellow-recruits-doing-weapons-training-in-Malta.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-05-29T08:50:37Z",
-          "key_points": [
-            "1.5 million copies sold",
-            "Strong critical reception",
-            "Successful launch for IO Interactive"
-          ],
-          "impact": "007 First Light sets a new sales record for launch day.",
-          "id": "60b5eeba271f8e4aac21c7d88a41b710"
-        },
-        {
-          "title": "Valve Steam Deck Sells Out Despite Price Increase",
-          "description": "The Valve Steam Deck OLED sold out within 24 hours, despite a price hike of up to $300. Demand remains high for this gaming handheld.",
-          "category": "Hardware",
-          "source": "Techpowerup.com",
-          "url": "https://www.techpowerup.com/349469/valve-steam-deck-sells-out-in-24-hours-despite-price-hike",
-          "image": "https://www.techpowerup.com/img/4oWcypl2F103CDue.jpg",
-          "published_at": "2026-05-29T03:43:13Z",
-          "key_points": [
-            "Sold out in 24 hours",
-            "Price increased by $300",
-            "High demand continues"
-          ],
-          "impact": "Valve's Steam Deck proves its market appeal despite price hikes.",
-          "id": "29c4c24c532bda7e5747b6d8011f7cd0"
-        },
-        {
-          "title": "Rayman Legends Retold Rumored for Nintendo Switch 2",
-          "description": "Ubisoft is reportedly developing Rayman Legends Retold for the Nintendo Switch 2, reviving interest in the classic platformer.",
-          "category": "Startups",
-          "source": "Nintendoeverything.com",
-          "url": "https://nintendoeverything.com/rumor-rayman-legends-retold-coming-to-nintendo-switch-2/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Rayman-Legends-Switch-2-rumor.jpg",
-          "published_at": "2026-05-28T22:54:03Z",
-          "key_points": [
-            "Remake in development",
-            "Targeting Nintendo Switch 2",
-            "Classic game revival"
-          ],
-          "impact": "Ubisoft aims to capitalize on nostalgia with a remake.",
-          "id": "181e1452ecc1861bcca501182c0c7d1d"
-        },
-        {
-          "title": "GTA 6 Boss Praises High Review Scores",
-          "description": "Rockstar Games' CEO highlights the high review scores for GTA 6, attributing them to the company's commitment to quality as the release date approaches.",
-          "category": "Startups",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/gta-6-boss-says-high-review-scores-reflect-rockstars-commitment-to-quality/",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Grand-Theft-Auto-6.jpg",
-          "published_at": "2026-05-28T22:01:59Z",
-          "key_points": [
-            "High review scores noted",
-            "Commitment to quality emphasized",
-            "Release in six months"
-          ],
-          "impact": "Rockstar reinforces its reputation for quality gaming.",
-          "id": "b3b8e7fe838e9a6f24aa82681de35264"
-        },
-        {
-          "title": "Fitbit Air Faces Band Fit Issues",
-          "description": "Early buyers of the Fitbit Air report significant fit issues with the bands, raising concerns about the product's design and usability.",
-          "category": "Hardware",
-          "source": "Android Police",
-          "url": "https://www.androidpolice.com/fitbit-air-band-does-not-fit-all/",
-          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/fitbit-air.png?w=1600&h=900&fit=crop",
-          "published_at": "2026-05-28T19:26:51Z",
-          "key_points": [
-            "Band fit issues reported",
-            "Concerns over design",
-            "User complaints increasing"
-          ],
-          "impact": "Fitbit may need to address design flaws quickly.",
-          "id": "1d3364c1481636ebd304e9036120321a"
-        },
-        {
-          "title": "Call Of Duty: Warzone to Be Delisted Soon",
-          "description": "Call Of Duty: Warzone will be delisted from Xbox One in early June 2026, coinciding with the announcement of Modern Warfare 4.",
-          "category": "Software",
-          "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/news/2026/05/call-of-duty-warzone-joins-two-other-xbox-one-games-being-delisted-in-early-june-2026",
-          "image": "https://images.purexbox.com/79beea880e950/large.jpg",
-          "published_at": "2026-05-28T18:34:26Z",
-          "key_points": [
-            "Warzone delisting announced",
-            "Modern Warfare 4 revealed",
-            "New downloads halted"
-          ],
-          "impact": "Players must act quickly before delisting occurs.",
-          "id": "93b22c9030e0c698e35aaf4242369af3"
-        },
-        {
-          "title": "Apple Shrinks Gemini AI for iPhone Integration",
-          "description": "Apple is reportedly working to integrate the massive Gemini AI model into iPhones, likely requiring a cloud component for functionality.",
-          "category": "AI",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/apple-google-logo-1152x648.jpg",
-          "published_at": "2026-05-28T18:30:48Z",
-          "key_points": [
-            "Gemini AI integration planned",
-            "Cloud component likely needed",
-            "Enhancing Siri's capabilities"
-          ],
-          "impact": "Apple aims to boost Siri's performance with advanced AI.",
-          "id": "3a34d93dcb2b597bd6b16c42b9b68579"
-        },
-        {
-          "title": "Flipper One vs. Flipper Zero Comparison",
-          "description": "The Flipper One is compared to the established Flipper Zero, highlighting differences in availability and features as expectations rise.",
-          "category": "Hardware",
-          "source": "PCMag.com",
-          "url": "https://www.pcmag.com/comparisons/flipper-one-vs-flipper-zero-how-does-the-199-pocket-tool-stack-up-against",
-          "image": "https://i.pcmag.com/imagery/comparisons/328.fit_lim.size_1200x630.v1779909419.png",
-          "published_at": "2026-05-28T14:03:10Z",
-          "key_points": [
-            "Comparing two pocket tools",
-            "Flipper One expectations high",
-            "Flipper Zero well established"
-          ],
-          "impact": "Consumers weigh options between two innovative devices.",
-          "id": "0c8a80ec0a5837fda0aa32e983247aba"
-        },
-        {
-          "title": "Xbox Deals Unlocked Sale 2026 Now Live",
-          "description": "The Xbox Deals Unlocked Sale 2026 has begun, offering significant discounts on various DLC packs for gamers.",
-          "category": "Software",
-          "source": "TrueAchievements",
-          "url": "https://www.trueachievements.com/news/xbox-deals-unlocked-sale-2026-dlc",
-          "image": "https://www.trueachievements.com/imgs/175428/xbox-deals-unlocked-sale-2026--dlc.jpg",
-          "published_at": "2026-05-28T08:38:13Z",
-          "key_points": [
-            "Massive DLC discounts available",
-            "Sale officially underway",
-            "Great deals for gamers"
-          ],
-          "impact": "Gamers can save big during the Xbox sale.",
-          "id": "be7b478b29b72e4badbfe5ee9533cf6f"
-        },
-        {
-          "title": "The Barrelhand Monolith: A New Tool Watch",
-          "description": "The Barrelhand Monolith, a tool watch developed over six years, is designed for the next space age, combining durability and functionality.",
-          "category": "Startups",
-          "source": "HODINKEE",
-          "url": "https://www.hodinkee.com/articles/the-barrelhand-monolith-has-landed",
-          "image": "https://hodinkee.imgix.net/uploads/images/d5a4aafd-1316-4c4c-b8dd-6137f22e3007/barrelhand-monolith-2026-hero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
-          "published_at": "2026-05-28T08:00:00Z",
-          "key_points": [
-            "Developed over six years",
-            "Designed for space age",
-            "Durable and functional"
-          ],
-          "impact": "The Monolith sets a new standard for tool watches.",
-          "id": "d4843bbb23127ac48195cec055dda4ca"
         }
       ]
     }

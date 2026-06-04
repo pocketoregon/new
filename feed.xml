@@ -5,143 +5,80 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2026 09:55:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 14:58:35 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Nvidia RTX Spark Era: Surface Laptop Ultra Unveiled</title>
-      <description>Microsoft's Surface Laptop Ultra showcases Nvidia's AI-first platform. Early impressions highlight its innovative hardware features.</description>
-      <link>https://www.pcmag.com/news/hands-on-microsoft-surface-laptop-ultra-computex-2026</link>
-      <guid isPermaLink="true">https://www.pcmag.com/news/hands-on-microsoft-surface-laptop-ultra-computex-2026</guid>
-      <pubDate>2026-06-03T01:21:22Z</pubDate>
-      <category>Hardware</category>
-      <source url="https://www.pcmag.com/news/hands-on-microsoft-surface-laptop-ultra-computex-2026">PCMag.com</source>
-    </item>
-    <item>
-      <title>Wolverine Game Developers Reveal New Features</title>
-      <description>Developers discuss gameplay, X-Men cameos, and a low-gore option for the upcoming Wolverine game. Exciting details emerge from the latest trailer.</description>
-      <link>https://variety.com/2026/gaming/news/wolverine-video-game-trailer-x-men-cameos-gameplay-1236764406/</link>
-      <guid isPermaLink="true">https://variety.com/2026/gaming/news/wolverine-video-game-trailer-x-men-cameos-gameplay-1236764406/</guid>
-      <pubDate>2026-06-02T22:30:00Z</pubDate>
+      <title>Marathon's Big Free Season 2 Debut Plagued By Server Issues</title>
+      <description>Bungie's Marathon suffers major server outages on its significant update day. Players are struggling to access the game since its launch.</description>
+      <link>https://kotaku.com/server-issues-plague-marathons-big-comeback-moment-2000701778</link>
+      <guid isPermaLink="true">https://kotaku.com/server-issues-plague-marathons-big-comeback-moment-2000701778</guid>
+      <pubDate>2026-06-03T02:21:13Z</pubDate>
       <category>Gaming</category>
-      <source url="https://variety.com/2026/gaming/news/wolverine-video-game-trailer-x-men-cameos-gameplay-1236764406/">Variety</source>
+      <source url="https://kotaku.com/server-issues-plague-marathons-big-comeback-moment-2000701778">Kotaku</source>
     </item>
     <item>
-      <title>Rayman Legends Retold Aims for 60 FPS on Switch 2</title>
-      <description>Ubisoft announces Rayman Legends Retold for Nintendo Switch 2, promising 60 FPS and content parity with other platforms. A beloved classic returns with new features.</description>
-      <link>https://nintendoeverything.com/rayman-legends-retold-targeting-60-fps-on-nintendo-switch-2-will-have-content-parity-with-other-platforms/</link>
-      <guid isPermaLink="true">https://nintendoeverything.com/rayman-legends-retold-targeting-60-fps-on-nintendo-switch-2-will-have-content-parity-with-other-platforms/</guid>
-      <pubDate>2026-06-02T22:14:29Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://nintendoeverything.com/rayman-legends-retold-targeting-60-fps-on-nintendo-switch-2-will-have-content-parity-with-other-platforms/">Nintendoeverything.com</source>
-    </item>
-    <item>
-      <title>Siri in iOS 27: New Features Unveiled</title>
-      <description>iOS 27 introduces significant enhancements to Siri, focusing on smarter interactions and improved functionality. Users can expect a more intuitive experience.</description>
-      <link>https://www.macrumors.com/2026/06/02/ios-27-siri-features/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/06/02/ios-27-siri-features/</guid>
-      <pubDate>2026-06-02T22:03:58Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.macrumors.com/2026/06/02/ios-27-siri-features/">MacRumors</source>
-    </item>
-    <item>
-      <title>Onimusha: Way of the Sword Launches September 25</title>
-      <description>Capcom announces Onimusha: Way of the Sword for PS5, Xbox Series, and PC, with a demo available now. The game launches on September 25.</description>
-      <link>https://www.gematsu.com/2026/06/onimusha-way-of-the-sword-launches-september-25-demo-now-available</link>
-      <guid isPermaLink="true">https://www.gematsu.com/2026/06/onimusha-way-of-the-sword-launches-september-25-demo-now-available</guid>
-      <pubDate>2026-06-02T21:32:30Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.gematsu.com/2026/06/onimusha-way-of-the-sword-launches-september-25-demo-now-available">Gematsu</source>
-    </item>
-    <item>
-      <title>KEMURI Set for 2027 Release on PS5, PC</title>
-      <description>KEMURI, a yokai possession action game, is set to launch in 2027 for PS5 and PC. Developed by Ikumi Nakamura's studio UNSEEN, anticipation builds.</description>
-      <link>https://www.gematsu.com/2026/06/kemuri-launches-in-2027-for-ps5-pc</link>
-      <guid isPermaLink="true">https://www.gematsu.com/2026/06/kemuri-launches-in-2027-for-ps5-pc</guid>
-      <pubDate>2026-06-02T21:20:56Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.gematsu.com/2026/06/kemuri-launches-in-2027-for-ps5-pc">Gematsu</source>
-    </item>
-    <item>
-      <title>Tomb Raider Legacy of Atlantis Listed for 2027</title>
-      <description>Amazon reveals Tomb Raider Legacy of Atlantis for Steam, set to release on February 10, 2027. This reimagining of the classic game excites fans.</description>
-      <link>https://www.tombraiderchronicles.com/headlines5590.html</link>
-      <guid isPermaLink="true">https://www.tombraiderchronicles.com/headlines5590.html</guid>
-      <pubDate>2026-06-02T19:16:19Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.tombraiderchronicles.com/headlines5590.html">Tombraiderchronicles.com</source>
-    </item>
-    <item>
-      <title>Classic Toy Story Games Coming to Switch</title>
-      <description>Digital Eclipse announces classic Toy Story games for Nintendo Switch 1 and 2 this year, celebrating the franchise's 30th anniversary. Nostalgia meets modern gaming.</description>
-      <link>https://www.nintendolife.com/news/2026/06/digital-eclipse-brings-a-bunch-of-classic-toy-story-games-to-switch-1-and-2-this-year</link>
-      <guid isPermaLink="true">https://www.nintendolife.com/news/2026/06/digital-eclipse-brings-a-bunch-of-classic-toy-story-games-to-switch-1-and-2-this-year</guid>
-      <pubDate>2026-06-02T16:00:00Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.nintendolife.com/news/2026/06/digital-eclipse-brings-a-bunch-of-classic-toy-story-games-to-switch-1-and-2-this-year">Nintendo Life</source>
-    </item>
-    <item>
-      <title>Pokémon GO Updates Impact PvE Raids</title>
-      <description>The latest Pokémon GO updates enhance moves for PvE raids, affecting gameplay strategies. New attack availability reshapes the meta for players.</description>
-      <link>https://pokemongohub.net/post/meta/biggest-winners-from-forever-forward-move-updates-raids-pve/</link>
-      <guid isPermaLink="true">https://pokemongohub.net/post/meta/biggest-winners-from-forever-forward-move-updates-raids-pve/</guid>
-      <pubDate>2026-06-02T14:33:30Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://pokemongohub.net/post/meta/biggest-winners-from-forever-forward-move-updates-raids-pve/">Pokemon GO Hub</source>
-    </item>
-    <item>
-      <title>Star Fox Multiplayer Mode Impresses on Switch 2</title>
-      <description>Hands-on preview of Star Fox on Switch 2 reveals an exciting multiplayer mode. The game retains its classic charm while introducing new features.</description>
-      <link>https://mashable.com/entertainment/star-fox-nintendo-switch-2-hands-on-preview</link>
-      <guid isPermaLink="true">https://mashable.com/entertainment/star-fox-nintendo-switch-2-hands-on-preview</guid>
-      <pubDate>2026-06-02T13:02:04Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://mashable.com/entertainment/star-fox-nintendo-switch-2-hands-on-preview">Mashable</source>
-    </item>
-    <item>
-      <title>Foldable iPhone Ultra Features Liquid Metal Hinge</title>
-      <description>Apple's upcoming foldable iPhone Ultra will feature a liquid metal hinge, with prototypes shipped for testing. This innovation promises enhanced durability.</description>
-      <link>https://www.macrumors.com/2026/06/02/foldable-iphone-will-feature-liquid-metal-hinge/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/06/02/foldable-iphone-will-feature-liquid-metal-hinge/</guid>
-      <pubDate>2026-06-02T12:46:44Z</pubDate>
-      <category>Hardware</category>
-      <source url="https://www.macrumors.com/2026/06/02/foldable-iphone-will-feature-liquid-metal-hinge/">MacRumors</source>
-    </item>
-    <item>
-      <title>Silent Hill: Townfall ESRB Rating Revealed</title>
-      <description>Silent Hill: Townfall receives its ESRB rating ahead of the State of Play event. Anticipation builds for this horror title's release.</description>
-      <link>https://mp1st.com/news/silent-hill-townfall-esrb-rating-surfaces-ahead-state-of-play</link>
-      <guid isPermaLink="true">https://mp1st.com/news/silent-hill-townfall-esrb-rating-surfaces-ahead-state-of-play</guid>
-      <pubDate>2026-06-02T11:36:01Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://mp1st.com/news/silent-hill-townfall-esrb-rating-surfaces-ahead-state-of-play">MP1st</source>
-    </item>
-    <item>
-      <title>Intel's Arc G3 Extreme SoC Pricing Concerns</title>
-      <description>Intel warns of high pricing for its Arc G3 Extreme SoC, designed for handheld gaming. Performance and efficiency details are also highlighted.</description>
-      <link>https://www.notebookcheck.net/Intel-warns-of-crazy-price-Arc-G3-Extreme-tramples-AMD-Ryzen-Z2-Extreme-for-expensive-price.1312169.0.html</link>
-      <guid isPermaLink="true">https://www.notebookcheck.net/Intel-warns-of-crazy-price-Arc-G3-Extreme-tramples-AMD-Ryzen-Z2-Extreme-for-expensive-price.1312169.0.html</guid>
-      <pubDate>2026-06-02T09:14:00Z</pubDate>
-      <category>Hardware</category>
-      <source url="https://www.notebookcheck.net/Intel-warns-of-crazy-price-Arc-G3-Extreme-tramples-AMD-Ryzen-Z2-Extreme-for-expensive-price.1312169.0.html">Notebookcheck</source>
-    </item>
-    <item>
-      <title>Toyota Unveils 2027 GR86 with New Features</title>
-      <description>Toyota reveals the 2027 GR86, featuring a new Thunder Gray paint and improved performance. The lightest car in its lineup gets exciting updates.</description>
-      <link>https://www.autoevolution.com/news/toyota-unleashes-the-2027-gr86-it-has-new-gray-paint-and-red-interior-270862.html</link>
-      <guid isPermaLink="true">https://www.autoevolution.com/news/toyota-unleashes-the-2027-gr86-it-has-new-gray-paint-and-red-interior-270862.html</guid>
-      <pubDate>2026-06-02T07:32:05Z</pubDate>
+      <title>Google Is Quietly Buying Code From Play Store Developers to Train AI</title>
+      <description>Google is discreetly purchasing code from Android developers to enhance its AI capabilities. This initiative is part of a confidential program aimed at improving AI tools.</description>
+      <link>https://www.404media.co/google-is-quietly-buying-code-from-play-store-developers-to-train-ai/</link>
+      <guid isPermaLink="true">https://www.404media.co/google-is-quietly-buying-code-from-play-store-developers-to-train-ai/</guid>
+      <pubDate>2026-06-03T00:18:59Z</pubDate>
       <category>Business</category>
-      <source url="https://www.autoevolution.com/news/toyota-unleashes-the-2027-gr86-it-has-new-gray-paint-and-red-interior-270862.html">autoevolution</source>
+      <source url="https://www.404media.co/google-is-quietly-buying-code-from-play-store-developers-to-train-ai/">404 Media</source>
     </item>
     <item>
-      <title>ASUS Advances AI in Healthcare at Computex 2026</title>
-      <description>ASUS showcases AI-driven healthcare solutions at Computex 2026, enhancing clinical decision-making with innovative tools. Key products include Handheld Ultrasound DuoScan and VivoWatch 6 Plus.</description>
-      <link>https://press.asus.com/news/press_releases/asus-com-news-ai-driven-healthcare-computex/</link>
-      <guid isPermaLink="true">https://press.asus.com/news/press_releases/asus-com-news-ai-driven-healthcare-computex/</guid>
-      <pubDate>2026-06-02T02:44:23Z</pubDate>
+      <title>Mina The Hollower Sold 300,000 Copies In Three Days</title>
+      <description>Yacht Club Games' Mina the Hollower sold 300,000 copies in just three days, becoming the highest-rated game of 2026. This success helps the studio avoid a critical moment.</description>
+      <link>https://gameinformer.com/2026/06/02/mina-the-hollower-sold-300000-copies-in-three-days-helping-yacht-club-escape-make-or</link>
+      <guid isPermaLink="true">https://gameinformer.com/2026/06/02/mina-the-hollower-sold-300000-copies-in-three-days-helping-yacht-club-escape-make-or</guid>
+      <pubDate>2026-06-02T19:23:30Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://gameinformer.com/2026/06/02/mina-the-hollower-sold-300000-copies-in-three-days-helping-yacht-club-escape-make-or">Game Informer</source>
+    </item>
+    <item>
+      <title>MSI Claw 8 EX AI+ with Intel Arc G3 Extreme listed at Best Buy for $1,699</title>
+      <description>The MSI Claw 8 EX AI+ is now available at Best Buy for $1,699, exceeding initial price expectations. This handheld features Intel's Arc G3 Extreme graphics.</description>
+      <link>https://videocardz.com/newz/msi-claw-8-ex-ai-with-intel-arc-g3-extreme-listed-at-best-buy-for-1699</link>
+      <guid isPermaLink="true">https://videocardz.com/newz/msi-claw-8-ex-ai-with-intel-arc-g3-extreme-listed-at-best-buy-for-1699</guid>
+      <pubDate>2026-06-02T18:34:16Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://videocardz.com/newz/msi-claw-8-ex-ai-with-intel-arc-g3-extreme-listed-at-best-buy-for-1699">VideoCardz.com</source>
+    </item>
+    <item>
+      <title>Meet Microsoft Scout, Your AI Coworker That Never Logs Off</title>
+      <description>Microsoft introduces Scout, an AI agent for Teams that automates mundane tasks. This always-on assistant aims to enhance workplace productivity.</description>
+      <link>https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/</guid>
+      <pubDate>2026-06-02T18:00:00Z</pubDate>
       <category>Software</category>
-      <source url="https://press.asus.com/news/press_releases/asus-com-news-ai-driven-healthcare-computex/">Asus.com</source>
+      <source url="https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/">WIRED</source>
+    </item>
+    <item>
+      <title>Google rolls out fake call detection to protect against AI deepfake impersonation scams</title>
+      <description>Google launches a fake call detection feature to combat AI deepfake scams. This tool aims to protect users from impersonation threats.</description>
+      <link>https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/</guid>
+      <pubDate>2026-06-02T18:00:00Z</pubDate>
+      <category>Security</category>
+      <source url="https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/">TechCrunch</source>
+    </item>
+    <item>
+      <title>iPhone Ultra might have tech innovation over 15 years in the making</title>
+      <description>The upcoming iPhone Ultra may feature liquid metal technology, a significant innovation from Apple. This device is set to launch this fall.</description>
+      <link>https://9to5mac.com/2026/06/02/iphone-ultra-might-have-tech-innovation-over-15-years-in-the-making/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/02/iphone-ultra-might-have-tech-innovation-over-15-years-in-the-making/</guid>
+      <pubDate>2026-06-02T15:03:00Z</pubDate>
+      <category>Business</category>
+      <source url="https://9to5mac.com/2026/06/02/iphone-ultra-might-have-tech-innovation-over-15-years-in-the-making/">9to5Mac</source>
+    </item>
+    <item>
+      <title>Get Another Look At Star Fox On Switch 2 In New Overview Trailer</title>
+      <description>Nintendo releases a new overview trailer for the upcoming Star Fox on Switch 2. The trailer highlights exciting features and gameplay.</description>
+      <link>https://www.nintendolife.com/news/2026/06/get-another-look-at-star-fox-on-switch-2-in-new-overview-trailer</link>
+      <guid isPermaLink="true">https://www.nintendolife.com/news/2026/06/get-another-look-at-star-fox-on-switch-2-in-new-overview-trailer</guid>
+      <pubDate>2026-06-02T12:55:00Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.nintendolife.com/news/2026/06/get-another-look-at-star-fox-on-switch-2-in-new-overview-trailer">Nintendo Life</source>
     </item>
   </channel>
 </rss>
