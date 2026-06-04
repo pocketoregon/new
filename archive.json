@@ -1,6 +1,205 @@
 {
   "batches": [
     {
+      "id": "2026-06-04T22:20:17.090876+00:00",
+      "fetched_at": "2026-06-04T22:20:17.090876+00:00",
+      "label": "Jun 04, 2026 — 10:20 PM UTC",
+      "articles": [
+        {
+          "title": "Apple Shifts Focus from Vision Pro to Smart Glasses",
+          "description": "Apple's Vision Pro successors are off the table as the company pivots towards developing smart glasses. This marks a significant shift in its augmented reality strategy.",
+          "category": "Business",
+          "source": "MacRumors",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05N253NkdoNEt5M21LM1kzQVFrNldDSUpLc2F3ekVxdS1UdEQyOVJ1c2RYSm5Jb0JyLWxrUkNtSkVCOFJ1Wmg1UjZlZEhfd3d1WVRDM2RDWlVJVmxXMndQdFRxU0xOQVBlS0dzSkZubDA5X2RvVGNyZQ?oc=5",
+          "image": "",
+          "published_at": "2026-06-03T18:14:01Z",
+          "key_points": [
+            "Vision Pro successors canceled",
+            "Focus on smart glasses",
+            "Shift in AR strategy"
+          ],
+          "impact": "Apple's pivot may redefine its AR market approach.",
+          "id": "984bf32174329ca8e0766d4c69288db3"
+        },
+        {
+          "title": "God of War Creator Critiques New PS5 Game",
+          "description": "The creator of God of War harshly criticizes a new PS5 game, calling it visually unappealing. This reflects ongoing debates about game quality in the industry.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMjM2dThGZGdHWFJjQVZTQS10aHJKUnBkcFcwR3M4cFc2TGFkQXpYbHdBSUZhZU40S3pXb01qUHBVX1N6M3RCRnp4emF4cGY3NHZCOXdiRFM0WU9scm5GaEM2YzQxd0tNbzBKQW56aGtmR3Vta1Z5QjNPdkxlalhUa3F4dHFpMmlrWjRneGJfTE02X2NQOXJabXg3Y0pvUl9FZGJtTXZJVTJxSVJkOFhVSmhwN0M3WW45Q09n?oc=5",
+          "image": "",
+          "published_at": "2026-06-03T12:00:00Z",
+          "key_points": [
+            "Creator's harsh critique",
+            "Visual quality concerns",
+            "Industry debates continue"
+          ],
+          "impact": "Criticism highlights ongoing quality issues in gaming.",
+          "id": "7b823a493fce9cec3cbda1c4dfc57751"
+        },
+        {
+          "title": "Google Drive Introduces Automatic File Organization",
+          "description": "Google Drive's new feature will automatically organize files, making it easier for users to manage their documents. This aims to enhance user experience and productivity.",
+          "category": "Software",
+          "source": "Android Authority",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS1Z1NTZ1VWZxazJUc1VtVWZTRDlRd0FPcmNNS2FST2o0QTU4blVGVzRNbHBiclBCdTh3NFFCbERpdWFLVi03dV9KU2NSQTB3bkJjQmVkdGdVVEE0S0xReXMxRjNqU0NfREJlTk12Mm8zS1JDVGZBX3lMVXVlZm5INUJzUFZiajlHNzJr?oc=5",
+          "image": "",
+          "published_at": "2026-06-03T10:35:50Z",
+          "key_points": [
+            "Automatic file organization",
+            "Enhances user productivity",
+            "Simplifies document management"
+          ],
+          "impact": "This feature could significantly improve user efficiency.",
+          "id": "68bedb4d4ac90d347b5f444fcc3c5a52"
+        },
+        {
+          "title": "Sony Reveals Stuntman Hollywood for PS5",
+          "description": "Sony announced Stuntman Hollywood during its State of Play event, set to launch soon on PS5. The game promises thrilling stunt action and immersive gameplay.",
+          "category": "Gaming",
+          "source": "Eurogamer",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb0s2UnpfaEhaNTJLVjI4a3BoXzFCMUJNeWU1OGF2eVMyNVE1S3Q2ckJYRTJUakl2LTA0RFZxMFFBc2FGdGhTUjJpUXpGUzJzQnZIWUFtVXlKOENmcEU4aWlvMURPNnBhcWhPeERBTFE1LTFOaVBFSXIxRU0yUFZpUlhnbHNUX0hyN1J4enU4bTFCemZxcmRJcG53?oc=5",
+          "image": "",
+          "published_at": "2026-06-02T22:49:33Z",
+          "key_points": [
+            "Stuntman Hollywood announced",
+            "Coming soon to PS5",
+            "Promises thrilling gameplay"
+          ],
+          "impact": "This game could attract action enthusiasts to PS5.",
+          "id": "d737bf60f32dd378029c8d6c89a14fbf"
+        },
+        {
+          "title": "Exciting New Features Coming in iOS 27",
+          "description": "iOS 27 is set to introduce five exciting new features that enhance user experience. Anticipation builds as Apple prepares for the update.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLUo1TmhvM3NtMHpuN2E1MWsweTNDQ0RUb1R1d3F5VGR6UTJOakxWSmJydnBZZ0p4MU1mR2VieDVMU1F0NTkxeV9zUGllMHJ5MnNTSDI1c2RINmg2N1BRUi1ORDVzQTNHOVhwN1ZiRS11OUhsWlJXX0J1MmlJdmc4cG9TeXR6eTBuczhYSEVRREE0YUR5a0pXZ25ON1pXZw?oc=5",
+          "image": "",
+          "published_at": "2026-06-02T20:21:00Z",
+          "key_points": [
+            "iOS 27 features revealed",
+            "Enhances user experience",
+            "Apple prepares for update"
+          ],
+          "impact": "New features may boost user engagement with iOS.",
+          "id": "86f88b190d0a41728299edf4910ade38"
+        },
+        {
+          "title": "Gemini for Home: The Ultimate Pet Spy",
+          "description": "Gemini for Home is launched as a pet monitoring device, allowing owners to keep an eye on their pets remotely. This innovation enhances pet care and security.",
+          "category": "Hardware",
+          "source": "Droid Life",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR1pkZFowT29WZFBob0thaFJVTkRpMzhrVWJIS3pjcG9qdzFRTjRMVjE2S3ZsTnJrbkR1QzI5SDZWdGtHVGt0aDk4QnNLd3Z1SG5oV19Kelp6cUdLdXloZlMxbmZ1NWltYldPVHdSZVpkMjhaNnVrLXB3SzF4SHJxQU5wR1h1UQ?oc=5",
+          "image": "",
+          "published_at": "2026-06-02T19:34:33Z",
+          "key_points": [
+            "Gemini launched for pet monitoring",
+            "Remote pet care solution",
+            "Enhances pet security"
+          ],
+          "impact": "This device could revolutionize pet ownership.",
+          "id": "8a1e867b2220951d8c451002b4caff04"
+        },
+        {
+          "title": "Microsoft Unveils AI Executive Assistant",
+          "description": "Microsoft has launched an AI designed to function like an executive assistant, enhancing workplace productivity. This marks a significant advancement in AI applications for business.",
+          "category": "Business",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-02/microsoft-launches-ai-that-works-like-an-executive-assistant",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibRpgDJSnCE0/v1/1200x800.jpg",
+          "published_at": "2026-06-02T19:09:11Z",
+          "key_points": [
+            "AI functions as executive assistant",
+            "Enhances workplace productivity",
+            "Significant AI advancement"
+          ],
+          "impact": "This AI could transform business operations.",
+          "id": "2d53526b9e6206b34efe32a090eeb41f"
+        },
+        {
+          "title": "Android Phones to Detect Spoofed Calls",
+          "description": "Upcoming Android updates will enable phones to detect spoofed calls and impersonation scams. This feature aims to enhance user security and trust in communication.",
+          "category": "Security",
+          "source": "Ars Technica",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdTFxOFN4cEluenQ2eW9sbHRSbE9tcV9aSFlKTlpUWjBJTG9tOGt4WU0ybi13Z2Q0X3d4ZDE3eWllY3ptbFpwbVdNTWZ2TlNZUnI5Uk9Pb3NBYi1YVlk2cG5qcGs0cE1pVmVUYUs1cWd1TDlMeGJaZHZ3U3NrZWFuSXc3NVBRbGJRYkFqZE5WVVdEZ3U3SGJyWEUweV9ZRk5aYmZpZVN2UmUtMnYyZzNQX2lkZzFzekMxNm9TNg?oc=5",
+          "image": "",
+          "published_at": "2026-06-02T18:00:46Z",
+          "key_points": [
+            "Android detects spoofed calls",
+            "Enhances user security",
+            "Fights impersonation scams"
+          ],
+          "impact": "This feature could significantly improve call safety.",
+          "id": "25a0d3145a20f27630722cb2784cb8d5"
+        },
+        {
+          "title": "Microsoft Launches MXC for AI Agents",
+          "description": "Microsoft introduces MXC, an OS-level sandbox for AI agents, with OpenAI and Nvidia already participating. This innovation aims to enhance AI development and deployment.",
+          "category": "Software",
+          "source": "VentureBeat",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa0YzMkktV1RlNmZuNjdqTHdyZ2xxdnc1a0hQWEZUeEZ5eldkbThhUXdzUjlITGwtRUJvcldnd2twaWg0NnIzZUZpdW9zNUVsNjJEaU5yd2V6VVhXU0Z4UzE4NjVhM2NnZXgtTWJvV1h3MDh1T01LWGd6c0U2WHl3NC0wSEFPWEhQRXlFM1AxaUt2czBkMUJXdWpzYm9YcEJlREk3M3BXX1VPNjJiOWFkd1lYWUpiOXdxcUJFNDRpcTB5QzdtUE12dg?oc=5",
+          "image": "",
+          "published_at": "2026-06-02T16:30:00Z",
+          "key_points": [
+            "MXC launched for AI agents",
+            "OpenAI and Nvidia onboard",
+            "Enhances AI development"
+          ],
+          "impact": "This could accelerate AI innovation and deployment.",
+          "id": "e2395784647602a21313c5fa5b846eb0"
+        },
+        {
+          "title": "X Introduces 'React with Video' Feature",
+          "description": "X has launched a new feature allowing users to react to posts with videos. This aims to enhance user engagement and creativity on the platform.",
+          "category": "Software",
+          "source": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNzdqbWRpOTdTVGQzTGJJNjctMjhxT1FYQjFXSEFFMEJnd2dtLXd1YkhvWFdZRXIxM3h3OVlzTkNoRkxxRGlHczV3MTZEdlpkdUVaZmF4OFZsbHU1cUh5OUV4R3lNVm5wdU1BZVhQQm9qVU1Ldmw1dFA0dmhsaXVYNTJwV0N0eHJwd0tmMDV0THo4SzQ?oc=5",
+          "image": "",
+          "published_at": "2026-06-02T14:46:28Z",
+          "key_points": [
+            "New video reaction feature",
+            "Enhances user engagement",
+            "Boosts creativity on platform"
+          ],
+          "impact": "This feature could increase user interaction significantly.",
+          "id": "0b9257827f1b949c8f8af90f3a001d1f"
+        },
+        {
+          "title": "Destiny 2 Players Aim for Record Playercount",
+          "description": "Destiny 2 players are attempting to break playercount records to send a message to Sony. This reflects community passion and engagement with the game.",
+          "category": "Gaming",
+          "source": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbVFFbHZSWVVtZ0VvQTVNVnFVZU5wSTZPUFpQcGQ0dUo3MmNXN3hvTlFmaGVWT2JZSXJpbURrb3ZpUzBoR2pHSVY5aVBtSVRGbmZ5ZENaVkhwRWhFdjNyZVdJaFdWcy1RRzd4dlZhS0FhWmp1UEVvNDFTVTdGcENvTnQ5cG5QaENZanBpMk4tZXlSVzVpb2J5ckZET2N1WXN0S3daNmt2QlBIRzFhRkRVdmR3aDZrZ3V4WTFXVGZfOEdKQQ?oc=5",
+          "image": "",
+          "published_at": "2026-06-02T14:05:27Z",
+          "key_points": [
+            "Players aim for record counts",
+            "Message to Sony",
+            "Community engagement shines"
+          ],
+          "impact": "This effort showcases the game's dedicated community.",
+          "id": "8449c4713c3b233658da056ac847f5a5"
+        },
+        {
+          "title": "Fallout 76: Infestations Release Notes",
+          "description": "Bethesda has released notes for the Infestations update in Fallout 76, detailing new features and improvements. Players can expect enhanced gameplay experiences.",
+          "category": "Gaming",
+          "source": "Bethesda.net",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVVVkNUhqTTlSNzVRcFFqcTNjYU85SW1kSDRHZzdQSzJmUHIwNlFLYU1feG9jM1Z0dnNCd2FBNWZwWUd3SlpiNFZUcTdBSXk1ZDNsVUVaX3NPVm1jUnZ4MEstUkdJb2EwZkJHMS1BdExFeW40cS1iejVJRDhxMjNjNThSbnRyanVZWmZfaGNfV3RzU0hDeHFnOUhhaUZQUzFZVEE?oc=5",
+          "image": "",
+          "published_at": "2026-06-02T12:04:17Z",
+          "key_points": [
+            "Infestations update released",
+            "New features and improvements",
+            "Enhanced gameplay experiences"
+          ],
+          "impact": "This update aims to enrich player engagement.",
+          "id": "c59d9f66ea7587513ca185a9f795fc56"
+        }
+      ]
+    },
+    {
       "id": "2026-06-04T20:04:32.698694+00:00",
       "fetched_at": "2026-06-04T20:04:32.698694+00:00",
       "label": "Jun 04, 2026 — 08:05 PM UTC",
@@ -5816,237 +6015,6 @@
           ],
           "impact": "This could change automotive software development.",
           "id": "23f9cfd79fa66055197133e1ec185027"
-        }
-      ]
-    },
-    {
-      "id": "2026-05-30T23:00:19.465804+00:00",
-      "fetched_at": "2026-05-30T23:00:19.465804+00:00",
-      "label": "May 30, 2026 — 11:00 PM UTC",
-      "articles": [
-        {
-          "title": "Diablo 4 Introduces Solo Mode Next Season",
-          "description": "Diablo 4 will launch a long-awaited solo mode in the upcoming season, enhancing gameplay options for players. This feature aims to cater to solo gamers seeking a more personalized experience.",
-          "category": "Software",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/diablo-4-is-getting-a-long-awaited-solo-mode-next-season/",
-          "image": "",
-          "published_at": "2026-05-29T18:40:11Z",
-          "key_points": [
-            "Solo mode arrives next season",
-            "Enhances gameplay options",
-            "Caters to solo gamers"
-          ],
-          "impact": "This update will attract more solo players.",
-          "id": "d8dbbb9eda9939244837ce4392d9e44c"
-        },
-        {
-          "title": "Microsoft and NVIDIA Tease N1X Chip Announcement",
-          "description": "Microsoft and NVIDIA hint at a major announcement for Computex, likely unveiling the long-rumored N1X chip. This could signal a new era for PC hardware advancements.",
-          "category": "Hardware",
-          "source": "Windows Central",
-          "url": "https://www.windowscentral.com/hardware/surface/a-new-era-of-pc-microsoft-and-nvidia-tease-major-announcement-experts-predict-to-be-the-fabled-n1x-chip",
-          "image": "https://cdn.mos.cms.futurecdn.net/5hCQMAutsQZZNzVTnsvC7P-2560-80.jpg",
-          "published_at": "2026-05-29T18:02:37Z",
-          "key_points": [
-            "Teaser hints at N1X chip",
-            "Announcement at Computex",
-            "New era for PC hardware"
-          ],
-          "impact": "This could revolutionize PC performance.",
-          "id": "53a24c1da5c45333eb753514ea680f0c"
-        },
-        {
-          "title": "Gemini Spark Launches for Google AI Ultra Users",
-          "description": "Gemini Spark is now available for Google AI Ultra subscribers in the US, serving as a 24/7 personal agent for task automation. This feature enhances user productivity significantly.",
-          "category": "AI",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/05/29/gemini-spark-ultra-us/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Gemini-Spark-Availabillity.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-05-29T17:35:00Z",
-          "key_points": [
-            "Gemini Spark now available",
-            "Automates user tasks",
-            "Enhances productivity for users"
-          ],
-          "impact": "This tool will streamline daily tasks.",
-          "id": "166d60f33d90a1405dac23a7ea92e8cf"
-        },
-        {
-          "title": "Xbox to Showcase PS5 Logos Despite Exclusivity Uncertainty",
-          "description": "Microsoft plans to display PS5 logos at its upcoming Xbox Showcase, despite ongoing debates about exclusivity. This decision aims to maintain transparency with gamers.",
-          "category": "Business",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/05/despite-uncertainty-over-exclusivity-xbox-will-still-show-ps5-logos-at-showcase",
-          "image": "https://images.pushsquare.com/43c964633ede2/large.jpg",
-          "published_at": "2026-05-29T17:15:00Z",
-          "key_points": [
-            "Xbox to show PS5 logos",
-            "Maintains transparency",
-            "Debate over exclusivity continues"
-          ],
-          "impact": "This move may ease gamer concerns.",
-          "id": "3ff1d4fb6041d81e2aa86b737aa3ec5a"
-        },
-        {
-          "title": "Mina the Hollower Priced at $20 for Gamers",
-          "description": "Yacht Club Games has priced their new platformer, Mina the Hollower, at $20, citing value for players. This pricing strategy aims to attract a wider audience.",
-          "category": "Startups",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-05-29/why-mina-the-hollower-is-only-20",
-          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiV645zXdT2s/v0/1200x675.jpg",
-          "published_at": "2026-05-29T17:00:01Z",
-          "key_points": [
-            "Mina the Hollower priced at $20",
-            "Value-driven pricing strategy",
-            "Aims to attract wider audience"
-          ],
-          "impact": "This pricing could boost sales significantly.",
-          "id": "364cfaacef9ba9a14f11275cc05f7ebf"
-        },
-        {
-          "title": "Microsoft Delays Fable Launch to February 2027",
-          "description": "Microsoft has postponed the Fable reboot's release to February 2027, aiming to avoid competition with GTA VI. A new look at the game will be revealed at the Xbox Showcase.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/games/939991/microsoft-fable-xbox-delay-gta-vi",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ss_8d483674199a602caa1a71e15ebcbc24ce45e11b.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-          "published_at": "2026-05-29T16:51:08Z",
-          "key_points": [
-            "Fable reboot delayed again",
-            "New release set for February 2027",
-            "Avoids competition with GTA VI"
-          ],
-          "impact": "This delay may affect player anticipation.",
-          "id": "b3838c93eb04b5abd9167d47e53f4e62"
-        },
-        {
-          "title": "Stray Launches on Nintendo Switch 2 with Upgrades",
-          "description": "Stray is now available on Nintendo Switch 2, featuring enhanced visuals, 4K support, and improved frame rates. This upgrade aims to enhance the gaming experience.",
-          "category": "Hardware",
-          "source": "Nintendo Everything",
-          "url": "https://nintendoeverything.com/stray-nintendo-switch-2-launch-trailer-adventure-game-appears-with-upgraded-with-visuals-frame-rate-4k-and-mouse-controls/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Stray-Sw-2-trailer.jpg",
-          "published_at": "2026-05-29T16:33:44Z",
-          "key_points": [
-            "Stray launches on Switch 2",
-            "Includes upgraded visuals",
-            "Supports 4K and improved frame rates"
-          ],
-          "impact": "This upgrade enhances gameplay quality.",
-          "id": "cd608ebce565bd2d73b639bd862d29b3"
-        },
-        {
-          "title": "Anker Offers Two Qi2 Wireless Chargers for $25",
-          "description": "Anker's Zolo Magnetic Wireless Chargers are now available for $23.99, a $16 discount. Additional deals on portable speakers and smart devices are also available.",
-          "category": "Hardware",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/gadgets/939445/anker-zolo-magnetic-wireless-charger-ue-wonderboom-4-speaker-deal-sale",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Anker-Zolo-Wireless-Charger-2-Pack.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-05-29T14:46:58Z",
-          "key_points": [
-            "Anker chargers discounted to $23.99",
-            "Includes portable speaker deals",
-            "Smart devices also on sale"
-          ],
-          "impact": "This sale offers great value for consumers.",
-          "id": "0969a896bdc0d189b32443f8a394e030"
-        },
-        {
-          "title": "The Witcher 4 Development Team Size Doubles",
-          "description": "The Witcher 4 is being developed by over twice as many staff as The Witcher 3, reflecting the growing scale of blockbuster game productions. This increase aims to enhance game quality.",
-          "category": "Business",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-witcher-4-is-the-work-of-over-twice-as-many-cd-projekt-staff-as-the-witcher-3-in-a-fresh-display-of-how-blockbluster-team-sizes-have-ballooned",
-          "image": "https://assetsio.gnwcdn.com/the-witcher-4-console-first-development-still-push-pcs-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-05-29T11:20:38Z",
-          "key_points": [
-            "Witcher 4 team size doubled",
-            "Reflects blockbuster game trends",
-            "Aims to enhance game quality"
-          ],
-          "impact": "This could lead to a more polished game.",
-          "id": "eacec3f3b92d644c7cffc252c5d2e686"
-        },
-        {
-          "title": "Pixel 10 Pro Fold Discounted by $615",
-          "description": "Best Buy offers a significant discount on the Pixel 10 Pro Fold, with open-box units priced at $615 off. This deal highlights the competitive pricing in the smartphone market.",
-          "category": "Hardware",
-          "source": "9to5Toys",
-          "url": "http://9to5toys.com/2026/05/29/pixel-10-pro-fold-best-deal/",
-          "image": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/02/Google-Pixel-10-Pro-Fold-Moonstone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-05-29T10:45:00Z",
-          "key_points": [
-            "Pixel 10 Pro Fold discounted",
-            "Open-box units $615 off",
-            "Competitive smartphone pricing"
-          ],
-          "impact": "This deal may boost sales significantly.",
-          "id": "3a2e660fe5abf226da91ab0e105c315c"
-        },
-        {
-          "title": "Microsoft Addresses Outer Worlds Upgrade Confusion",
-          "description": "Obsidian has apologized for confusion regarding The Outer Worlds upgrade eligibility, acknowledging player frustrations. The studio aims to clarify upgrade paths for users.",
-          "category": "Software",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/microsoft-responds-to-the-outer-worlds-free-upgrade-confusion",
-          "image": "https://assets1.ignimgs.com/2019/06/09/e32019-xbox-the-outer-worlds-screenshot-15-1560111141077.jpg?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-05-29T09:43:54Z",
-          "key_points": [
-            "Obsidian apologizes for confusion",
-            "Clarifies upgrade eligibility",
-            "Acknowledges player frustrations"
-          ],
-          "impact": "This response may restore player trust.",
-          "id": "84dcc90a46fd23d0f523cb7205c647fe"
-        },
-        {
-          "title": "Google's AI Costs Set to Drop with New Model",
-          "description": "Google's Gemini 3.5 Flash model aims to reduce inference costs, positioning the company favorably against competitors. This strategy focuses on affordability and efficiency in AI services.",
-          "category": "AI",
-          "source": "Business Insider",
-          "url": "https://www.businessinsider.com/google-ai-cost-tokens-gemini-flash-openai-anthropic-gemini-search-2026-5",
-          "image": "https://i.insider.com/6a0d73cdce0a5b2f12d7da7d?width=1200&format=jpeg",
-          "published_at": "2026-05-29T09:00:08Z",
-          "key_points": [
-            "Google aims to reduce AI costs",
-            "Gemini model focuses on efficiency",
-            "Competitive edge in AI market"
-          ],
-          "impact": "This could reshape AI service pricing.",
-          "id": "2693f959ba027da59a172723886af8b5"
-        },
-        {
-          "title": "Cooler Master and G.SKILL Introduce Active Cooling for DDR5",
-          "description": "Cooler Master partners with G.SKILL to launch MasterDimm AC DDR5 memory featuring active cooling technology. This innovation aims to enhance performance and reliability in high-performance computing.",
-          "category": "Hardware",
-          "source": "TechPowerUp",
-          "url": "https://www.techpowerup.com/349481/cooler-master-and-g-skill-partner-to-bring-active-cooling-technology-to-ddr5-memory",
-          "image": "https://www.techpowerup.com/img/KeIOw3Lq6L8d9T3A.jpg",
-          "published_at": "2026-05-29T08:31:33Z",
-          "key_points": [
-            "New DDR5 memory with active cooling",
-            "Partnership with G.SKILL",
-            "Enhances performance and reliability"
-          ],
-          "impact": "This innovation could improve computing efficiency.",
-          "id": "5c6151b40aa5325f3c851c8ce57bffdc"
-        },
-        {
-          "title": "Rayman Legends: Retold Rumored for Switch 2 Release",
-          "description": "Rumors suggest Rayman Legends: Retold will launch on Switch 2 on October 1, 2026. This reimagining aims to attract both new and returning players to the beloved franchise.",
-          "category": "Startups",
-          "source": "GoNintendo",
-          "url": "https://gonintendo.com/contents/61248-rumor-rayman-legends-retold-coming-to-switch-2-oct-1st-2026",
-          "image": "https://gonintendo.com/attachments/image/81075/file/medium-f4ae989b847afce66aab552dac9364aa.webp",
-          "published_at": "2026-05-28T22:42:12Z",
-          "key_points": [
-            "Rayman Legends: Retold rumored",
-            "Launch on Switch 2 October 1",
-            "Attracts new and returning players"
-          ],
-          "impact": "This could revive interest in the franchise.",
-          "id": "49c7df9a2262085e2101b05348c475b2"
         }
       ]
     }

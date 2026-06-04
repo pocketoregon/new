@@ -1,245 +1,197 @@
 {
-  "generated_at": "2026-06-04T20:04:32.698694+00:00",
+  "generated_at": "2026-06-04T22:20:17.090876+00:00",
   "articles": [
     {
-      "title": "Nintendo Direct Buzz Grows as Switch 2 Turns One",
-      "description": "Excitement builds for a June Nintendo Direct as the Switch 2 celebrates its first anniversary. Fans anticipate major announcements and updates.",
-      "category": "Gaming",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUHdaaWdJbDQ2M0hJLXdtVmdWSU1FX2dzanlxZnNVZmJ1QTZaWWh4cXdmNkp5c0ZSTk0wY2w0UVF5bThUVlozTUlnM21MVzE1eU5GSWRKRktwWEZKWjBNb1BCZnFQbFdsVFhGOUNRTTN1Y2QwcHRWczdOMVctZEg1aFhRblBycEhlNmdjdVhhZmN3Ni1iMVRCdFkzMzdQanRCV0h3Nk8ydnlNRkdBVkhvN2NOb05ZalZRWUVHSWdfV3dMQjg?oc=5",
-      "image": "",
-      "published_at": "2026-06-03T17:27:30Z",
-      "key_points": [
-        "June Direct anticipated",
-        "Switch 2 anniversary",
-        "Major announcements expected"
-      ],
-      "impact": "Nintendo's upcoming Direct could reshape gaming.",
-      "id": "6032b0c80e7daa897afdec4da13f4324"
-    },
-    {
-      "title": "Amazon's AI Creates Fake Product Images",
-      "description": "Amazon's latest AI feature generates images of non-existent products, raising eyebrows over its practicality. Critics call it one of the least useful AI applications.",
+      "title": "Apple Shifts Focus from Vision Pro to Smart Glasses",
+      "description": "Apple's Vision Pro successors are off the table as the company pivots towards developing smart glasses. This marks a significant shift in its augmented reality strategy.",
       "category": "Business",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4weTBWb1NRTzRsUUhiaF8yeVdlMzNlcF9HbHhpMy1tUDUzNU9FSDE4UmttUXBOMU5wRXZENEdJU3FxVWoyblpQNmRpV2lGVlo5UDRXRzhuSEFIQ3Z4RkVzSTQtT3J4WmJPOFdBakN6SVFLN3NMTFhEZFk5TVg?oc=5",
+      "source": "MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05N253NkdoNEt5M21LM1kzQVFrNldDSUpLc2F3ekVxdS1UdEQyOVJ1c2RYSm5Jb0JyLWxrUkNtSkVCOFJ1Wmg1UjZlZEhfd3d1WVRDM2RDWlVJVmxXMndQdFRxU0xOQVBlS0dzSkZubDA5X2RvVGNyZQ?oc=5",
       "image": "",
-      "published_at": "2026-06-03T16:45:00Z",
+      "published_at": "2026-06-03T18:14:01Z",
       "key_points": [
-        "AI generates fake products",
-        "Critics question usefulness",
-        "Amazon's innovation under fire"
+        "Vision Pro successors canceled",
+        "Focus on smart glasses",
+        "Shift in AR strategy"
       ],
-      "impact": "Amazon's AI raises concerns about practicality.",
-      "id": "07fb98723c36cab355a9d1c7aad2f116"
+      "impact": "Apple's pivot may redefine its AR market approach.",
+      "id": "984bf32174329ca8e0766d4c69288db3"
     },
     {
-      "title": "Marathon Season 2 Launch Faces Major Issues",
-      "description": "The launch of Marathon's second season was marred by server problems, leaving many players unable to join. This setback comes at a critical time for the game.",
-      "category": "Gaming",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/06/03/marathon-season-2-launch-was-fumbled-at-the-worst-possible-moment/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a2033486dd65a86e48e92c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published_at": "2026-06-03T14:04:38Z",
-      "key_points": [
-        "Season 2 launch issues",
-        "Server problems persist",
-        "Critical time for Marathon"
-      ],
-      "impact": "Server issues hinder Marathon's player experience.",
-      "id": "0841858fc2fbb180ed624377db6758ad"
-    },
-    {
-      "title": "Microsoft AI Chief Aims for Fourth Lab",
-      "description": "Mustafa Suleyman, Microsoft's AI chief, identifies three leading labs and aims for Microsoft to join their ranks. He emphasizes the need for innovation in AI development.",
-      "category": "AI",
-      "source": "The Verge",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMVdFdEdQQTRodDJqeW95ZGJxRzdoRjZOWWdvSU5Rc2EyeHJoLTRrZ0d1Z3FJSVpTSmJRNVBIU2tKSTJwVWtqS2lCT1VUSG9GbVhKY19vVHNyeDJxaTgzRkJHdklHV25SNTN6NlFnYURWVlNxMTdsb09neHhSOC1meWZWb2psMFl5Q2VDY2dXcnpTVUVsOUR6cDZNTTIxWDByMHcwdENn?oc=5",
-      "image": "",
-      "published_at": "2026-06-03T14:04:00Z",
-      "key_points": [
-        "Suleyman targets fourth lab",
-        "Focus on AI innovation",
-        "Microsoft's strategic goals"
-      ],
-      "impact": "Microsoft aims to enhance its AI capabilities.",
-      "id": "53bec48cc517d60b68c4cf47752e6662"
-    },
-    {
-      "title": "Pokémon GO Fest Chicago 2026: Essential Guide",
-      "description": "Pokémon GO Fest Chicago 2026 is set to feature top spawns and shiny Pokémon. Players can prepare with a comprehensive raid and PvP guide.",
-      "category": "Gaming",
-      "source": "Pokémon GO Hub",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU1E3d3JJMWlJTjhjUXlnRkkyWkNLclJEUDQ1WXVnc0F4Z1JZM1VJRmVXLVdzSldSd0hXYktRX0pkUjZSYUl0LV83aXg4MjJzakc5YUhPRDdBNmE1RlFDY2pSV3FlRVpJT0hjUUxkRE5YSGxrMG45YmI0ckhDbnQ4NXljRDFRSFEwWjByZzRrSnVsZWNNeDEtUEdsZC11c3RaOVVxcldGam04T1A4TGFWaDVhWW8zaUtuelJ1eDJB?oc=5",
-      "image": "",
-      "published_at": "2026-06-03T10:44:40Z",
-      "key_points": [
-        "Pokémon GO Fest highlights",
-        "Shiny Pokémon available",
-        "Raid and PvP strategies"
-      ],
-      "impact": "Players gear up for an exciting Pokémon event.",
-      "id": "699ecc701e2428bc55fc11fa6d3c79e9"
-    },
-    {
-      "title": "Cory Barlog Takes Creative Lead at God of War",
-      "description": "Cory Barlog has been appointed as the head of creative at the God of War development team, shaping the series' long-term vision. His leadership is expected to influence future titles.",
+      "title": "God of War Creator Critiques New PS5 Game",
+      "description": "The creator of God of War harshly criticizes a new PS5 game, calling it visually unappealing. This reflects ongoing debates about game quality in the industry.",
       "category": "Gaming",
       "source": "Push Square",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUlJPT0c5Sjg3d2h0LWJHbm9JWHpPQ2ViT0FWWWYtZk5UOUVmVUREZURTLUNnYTZuVlVZSjBhZ1Q0cEVJaXJacHh0NVRoSHN5U2NteEFmR1RqM1VkYzNRSm5uRTRsTVBYRmdRV1o2aUpwSVpOU3k5RHcxdE1FeGVwTVBaU0dMcEQ0ZUFFSl9CMjNGc2VpQTNxa1YzMm1PNmNtd2ZuNDh1R1praGdxaWNlYW0xQ1RSYlZlNWlVYmNjVHhMX29icXU1T3VFd3psQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMjM2dThGZGdHWFJjQVZTQS10aHJKUnBkcFcwR3M4cFc2TGFkQXpYbHdBSUZhZU40S3pXb01qUHBVX1N6M3RCRnp4emF4cGY3NHZCOXdiRFM0WU9scm5GaEM2YzQxd0tNbzBKQW56aGtmR3Vta1Z5QjNPdkxlalhUa3F4dHFpMmlrWjRneGJfTE02X2NQOXJabXg3Y0pvUl9FZGJtTXZJVTJxSVJkOFhVSmhwN0M3WW45Q09n?oc=5",
       "image": "",
-      "published_at": "2026-06-03T01:45:00Z",
+      "published_at": "2026-06-03T12:00:00Z",
       "key_points": [
-        "Barlog leads God of War",
-        "Long-term vision established",
-        "Impact on future titles"
+        "Creator's harsh critique",
+        "Visual quality concerns",
+        "Industry debates continue"
       ],
-      "impact": "Barlog's leadership could redefine God of War.",
-      "id": "0b48de925698ea6c61bfb476c6e035f8"
+      "impact": "Criticism highlights ongoing quality issues in gaming.",
+      "id": "7b823a493fce9cec3cbda1c4dfc57751"
     },
     {
-      "title": "Google Releases Fitbit Air Blueprints",
-      "description": "Google has made Fitbit Air blueprints available, allowing anyone to create compatible bands and accessories. This move encourages community innovation and customization.",
+      "title": "Google Drive Introduces Automatic File Organization",
+      "description": "Google Drive's new feature will automatically organize files, making it easier for users to manage their documents. This aims to enhance user experience and productivity.",
+      "category": "Software",
+      "source": "Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS1Z1NTZ1VWZxazJUc1VtVWZTRDlRd0FPcmNNS2FST2o0QTU4blVGVzRNbHBiclBCdTh3NFFCbERpdWFLVi03dV9KU2NSQTB3bkJjQmVkdGdVVEE0S0xReXMxRjNqU0NfREJlTk12Mm8zS1JDVGZBX3lMVXVlZm5INUJzUFZiajlHNzJr?oc=5",
+      "image": "",
+      "published_at": "2026-06-03T10:35:50Z",
+      "key_points": [
+        "Automatic file organization",
+        "Enhances user productivity",
+        "Simplifies document management"
+      ],
+      "impact": "This feature could significantly improve user efficiency.",
+      "id": "68bedb4d4ac90d347b5f444fcc3c5a52"
+    },
+    {
+      "title": "Sony Reveals Stuntman Hollywood for PS5",
+      "description": "Sony announced Stuntman Hollywood during its State of Play event, set to launch soon on PS5. The game promises thrilling stunt action and immersive gameplay.",
+      "category": "Gaming",
+      "source": "Eurogamer",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb0s2UnpfaEhaNTJLVjI4a3BoXzFCMUJNeWU1OGF2eVMyNVE1S3Q2ckJYRTJUakl2LTA0RFZxMFFBc2FGdGhTUjJpUXpGUzJzQnZIWUFtVXlKOENmcEU4aWlvMURPNnBhcWhPeERBTFE1LTFOaVBFSXIxRU0yUFZpUlhnbHNUX0hyN1J4enU4bTFCemZxcmRJcG53?oc=5",
+      "image": "",
+      "published_at": "2026-06-02T22:49:33Z",
+      "key_points": [
+        "Stuntman Hollywood announced",
+        "Coming soon to PS5",
+        "Promises thrilling gameplay"
+      ],
+      "impact": "This game could attract action enthusiasts to PS5.",
+      "id": "d737bf60f32dd378029c8d6c89a14fbf"
+    },
+    {
+      "title": "Exciting New Features Coming in iOS 27",
+      "description": "iOS 27 is set to introduce five exciting new features that enhance user experience. Anticipation builds as Apple prepares for the update.",
+      "category": "Software",
+      "source": "9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLUo1TmhvM3NtMHpuN2E1MWsweTNDQ0RUb1R1d3F5VGR6UTJOakxWSmJydnBZZ0p4MU1mR2VieDVMU1F0NTkxeV9zUGllMHJ5MnNTSDI1c2RINmg2N1BRUi1ORDVzQTNHOVhwN1ZiRS11OUhsWlJXX0J1MmlJdmc4cG9TeXR6eTBuczhYSEVRREE0YUR5a0pXZ25ON1pXZw?oc=5",
+      "image": "",
+      "published_at": "2026-06-02T20:21:00Z",
+      "key_points": [
+        "iOS 27 features revealed",
+        "Enhances user experience",
+        "Apple prepares for update"
+      ],
+      "impact": "New features may boost user engagement with iOS.",
+      "id": "86f88b190d0a41728299edf4910ade38"
+    },
+    {
+      "title": "Gemini for Home: The Ultimate Pet Spy",
+      "description": "Gemini for Home is launched as a pet monitoring device, allowing owners to keep an eye on their pets remotely. This innovation enhances pet care and security.",
       "category": "Hardware",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYUk5mQzlON2hzeWF1dUNkdjNlaWc5MEpsSDQ4TmJ0R2otMjBmejRkT1BlMmt1NzF6VVMwaXVrcXJLemd1ZTI3aVNzVGpHMm9rVzJCUnZHV3hIRXUzT241WXJnY2JIYnc?oc=5",
+      "source": "Droid Life",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR1pkZFowT29WZFBob0thaFJVTkRpMzhrVWJIS3pjcG9qdzFRTjRMVjE2S3ZsTnJrbkR1QzI5SDZWdGtHVGt0aDk4QnNLd3Z1SG5oV19Kelp6cUdLdXloZlMxbmZ1NWltYldPVHdSZVpkMjhaNnVrLXB3SzF4SHJxQU5wR1h1UQ?oc=5",
       "image": "",
-      "published_at": "2026-06-03T00:55:00Z",
+      "published_at": "2026-06-02T19:34:33Z",
       "key_points": [
-        "Fitbit Air blueprints released",
-        "Community can create accessories",
-        "Encourages innovation and customization"
+        "Gemini launched for pet monitoring",
+        "Remote pet care solution",
+        "Enhances pet security"
       ],
-      "impact": "Google fosters creativity with open blueprints.",
-      "id": "1bd66411329f20e38b5663dca12d5727"
+      "impact": "This device could revolutionize pet ownership.",
+      "id": "8a1e867b2220951d8c451002b4caff04"
     },
     {
-      "title": "Samsung Galaxy Z Fold 8 Ultra Leaks",
-      "description": "New images of the Samsung Galaxy Z Fold 8 Ultra and Wide have surfaced, showcasing its design. Anticipation builds for its official release.",
-      "category": "Hardware",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY1ZmNHZkUXRpYTRGMlhFcGVGdTdxR0c1SWttY1JKdlF5RkJPSm0wOXk4R3pjMWszU2t3b0gtUU8xaVhCbFVDZHFleUJuVWZ5TzhVVjF2YzlyRUFwWHJNbmJmazNnWjJnc0NhLXJUUU1WVVlfczRJMXdGRzgxMlg2cXFMdFNrclFhdk5BTHNyRHFzN0RHSExEY0dTMEFQSkVsYzBJRG5LalVqVDNLakJyWEIzb0ptUGxHQTNCYjdSbC1NTThGemdR?oc=5",
-      "image": "",
-      "published_at": "2026-06-02T23:54:35Z",
-      "key_points": [
-        "Galaxy Z Fold 8 Ultra leaks",
-        "Design images revealed",
-        "Anticipation for release builds"
-      ],
-      "impact": "Samsung's new foldable sparks excitement.",
-      "id": "abfbcbe84cee7117bc9fe83c034c3755"
-    },
-    {
-      "title": "Atomic Reshuffle Breaks Hydrogen Production Records",
-      "description": "A groundbreaking study reveals that atomic reshuffling can create record-breaking catalysts for hydrogen production. This discovery paves the way for greener energy solutions.",
-      "category": "Science",
-      "source": "Phys.Org",
-      "url": "https://phys.org/news/2026-06-atomic-reshuffle-catalysts-hydrogen-production.html",
-      "image": "https://scx2.b-cdn.net/gfx/news/2026/atomic-reshuffle-paves.jpg",
-      "published_at": "2026-06-02T23:10:01Z",
-      "key_points": [
-        "Atomic reshuffle discovered",
-        "New catalysts for hydrogen",
-        "Paves way for green energy"
-      ],
-      "impact": "This research could revolutionize hydrogen production.",
-      "id": "862ef93c9750536e94b24e9b881d5557"
-    },
-    {
-      "title": "Control Resonant's Release Date Revealed",
-      "description": "Control Resonant's release date has been announced in a new Sony State of Play story trailer. Fans eagerly await this highly anticipated title.",
-      "category": "Gaming",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT3A4bG5WSmRmZDBrSmNPWGYySjM2TXVQYjh1NGNwVU5wMWU4SXZSWGtteDhmV0pLS04yNzJBRUt2NXppVlUtYmNXcjM2VjU4NG5kbEhiSk5XdDVEUS1VVXd6QVM3TF90SzVwS25mOTQyLUJDU0ZveENleEZfVzJuNk9LNngwODZPeWc?oc=5",
-      "image": "",
-      "published_at": "2026-06-02T22:13:39Z",
-      "key_points": [
-        "Release date announced",
-        "New story trailer revealed",
-        "Fans eagerly await Control"
-      ],
-      "impact": "Control Resonant's launch date excites gamers.",
-      "id": "e4274fe3d8a6e78dbb3ca8b7f26032d6"
-    },
-    {
-      "title": "Onimusha: Way of the Sword Launches with Demo",
-      "description": "Onimusha: Way of the Sword is set to launch on September 25, with a demo now available for players. Fans can experience the game ahead of its release.",
-      "category": "Gaming",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd1htWWZkSUx6QU02czJRZFhxMndOMng1QW5HSUJMazNBYWFDUEZlN1pCb1lUSkNhZjdSZHBWNVdZbC01MG4xTHJVdlRhMTEydjhNWktyaWZUd3N4R0dnQWtGSmVjTEFVckdLdWptdHc4WmxHaHNyODJzeE1DSTc2S241MWdVYkRrTlRYOHN6VnIzT0JnTkRTLWlSTXpFWTQ?oc=5",
-      "image": "",
-      "published_at": "2026-06-02T21:32:30Z",
-      "key_points": [
-        "Onimusha launches September 25",
-        "Demo available now",
-        "Fans can preview gameplay"
-      ],
-      "impact": "Players can try Onimusha before launch.",
-      "id": "4a53e91fc5f36c0ea979ac2c64e69f47"
-    },
-    {
-      "title": "Stuntman Revived for PS5 with Movie Licenses",
-      "description": "Stuntman returns for PS5, featuring actual movie licenses like Fast & Furious. This revival aims to attract both new and nostalgic players.",
-      "category": "Gaming",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb213dnZBaG9LRFJUallLNHNuMDhWaW4zS3ZBdmhpTTFyOWZjclRaTUs2NG1kWFB2dzBkcFkyMlBOblBxSHV6d2ZuenZlQlU3N1N1Q2VYeFZxX3JXTWtlNmRvSFdEbVVFcTlhZEoxa2o2ZXJTRzNMYVBXNUJNUHNYMW1YX0xwbk9tbFJ6Tkw3ZDNBUzVFODhPdGlEQ3pDVVFxajJvTjZpaUQ0WGZ0UFE4MjkwT1U5WWRWdnl6bFRPbDhiVlZSOUNRZThaM2h2Qnc?oc=5",
-      "image": "",
-      "published_at": "2026-06-02T21:18:00Z",
-      "key_points": [
-        "Stuntman revived for PS5",
-        "Includes movie licenses",
-        "Targets nostalgic and new players"
-      ],
-      "impact": "Stuntman's revival could attract diverse gamers.",
-      "id": "210b7444b15935051e9e7b3258922779"
-    },
-    {
-      "title": "2027 Dodge Charger EV Launches with NACS Port",
-      "description": "The 2027 Dodge Charger EV is now available, featuring a NACS port. However, its price point may deter some buyers.",
+      "title": "Microsoft Unveils AI Executive Assistant",
+      "description": "Microsoft has launched an AI designed to function like an executive assistant, enhancing workplace productivity. This marks a significant advancement in AI applications for business.",
       "category": "Business",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10U0J1NUN5R2REUDZKb0ZtUC04Ri10TmJVSWNCaGV2SnB6RGM2a2RmZVhlLU5MZ1FkejVtSGEzeXpoUnVyTUFaVHpWYnVSU2xCaHBlSHJRVnE0QXBvWnJHZU02bml4TlVab3ZCMzBlbDNLOVYybnNxVTR3NHFJUQ?oc=5",
-      "image": "",
-      "published_at": "2026-06-02T20:50:00Z",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-02/microsoft-launches-ai-that-works-like-an-executive-assistant",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibRpgDJSnCE0/v1/1200x800.jpg",
+      "published_at": "2026-06-02T19:09:11Z",
       "key_points": [
-        "2027 Charger EV launched",
-        "Features NACS port",
-        "High price may deter buyers"
+        "AI functions as executive assistant",
+        "Enhances workplace productivity",
+        "Significant AI advancement"
       ],
-      "impact": "Dodge's EV faces pricing challenges.",
-      "id": "588603e856f29d5a0691ae906321c0ac"
+      "impact": "This AI could transform business operations.",
+      "id": "2d53526b9e6206b34efe32a090eeb41f"
     },
     {
-      "title": "Google Launches Gemini-Powered File Organization",
-      "description": "Google has officially launched Gemini-powered file organization in Drive, enhancing user experience. This feature aims to streamline file management for users.",
-      "category": "Software",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT3RZakxOZEJ1SVdkR290NVVLN2cxSGtaSF8tMGo1ZUFFZGQtRUxXTnNaQjdaa0tuSlNrZVpDRU16SlU5VzlwbEdFdFVkYVZMTWRHVXFfeGlpRFUySXlRZ2x5ZlYtdi1KamszZVUzNDhGWWJfa2o1SHpUTHlmemxBZzZrS2dZNk5JcEFWTkdjb214SEJGV0V5VVdISQ?oc=5",
+      "title": "Android Phones to Detect Spoofed Calls",
+      "description": "Upcoming Android updates will enable phones to detect spoofed calls and impersonation scams. This feature aims to enhance user security and trust in communication.",
+      "category": "Security",
+      "source": "Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdTFxOFN4cEluenQ2eW9sbHRSbE9tcV9aSFlKTlpUWjBJTG9tOGt4WU0ybi13Z2Q0X3d4ZDE3eWllY3ptbFpwbVdNTWZ2TlNZUnI5Uk9Pb3NBYi1YVlk2cG5qcGs0cE1pVmVUYUs1cWd1TDlMeGJaZHZ3U3NrZWFuSXc3NVBRbGJRYkFqZE5WVVdEZ3U3SGJyWEUweV9ZRk5aYmZpZVN2UmUtMnYyZzNQX2lkZzFzekMxNm9TNg?oc=5",
       "image": "",
-      "published_at": "2026-06-02T20:29:41Z",
+      "published_at": "2026-06-02T18:00:46Z",
       "key_points": [
-        "Gemini-powered organization launched",
-        "Enhances Google Drive experience",
-        "Streamlines file management"
+        "Android detects spoofed calls",
+        "Enhances user security",
+        "Fights impersonation scams"
       ],
-      "impact": "Google Drive's new feature improves usability.",
-      "id": "ff8170d42a45a7a8334d789a375307ae"
+      "impact": "This feature could significantly improve call safety.",
+      "id": "25a0d3145a20f27630722cb2784cb8d5"
     },
     {
-      "title": "Google Home Update Adds ‘Pet Memory’ Feature",
-      "description": "The latest Google Home update introduces a ‘Pet Memory’ feature for Nest Cam, enhancing pet monitoring. It also expands the ‘Ask Home’ functionality.",
+      "title": "Microsoft Launches MXC for AI Agents",
+      "description": "Microsoft introduces MXC, an OS-level sandbox for AI agents, with OpenAI and Nvidia already participating. This innovation aims to enhance AI development and deployment.",
       "category": "Software",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FbmxJSXV4bEdZNkE5cDVtdUk1MXNzNjVDVWVPQU5tSTQ0aVNOS3VpWnpoRTdVTWdRUVFVQWRWSE9oRHdNdE1uRXpFVE1qOGhWYlozRGlkM1ZsdmFjMEpOZjlWMkhWN1ZDSDJyTkRwVXJDLTFR?oc=5",
+      "source": "VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa0YzMkktV1RlNmZuNjdqTHdyZ2xxdnc1a0hQWEZUeEZ5eldkbThhUXdzUjlITGwtRUJvcldnd2twaWg0NnIzZUZpdW9zNUVsNjJEaU5yd2V6VVhXU0Z4UzE4NjVhM2NnZXgtTWJvV1h3MDh1T01LWGd6c0U2WHl3NC0wSEFPWEhQRXlFM1AxaUt2czBkMUJXdWpzYm9YcEJlREk3M3BXX1VPNjJiOWFkd1lYWUpiOXdxcUJFNDRpcTB5QzdtUE12dg?oc=5",
       "image": "",
-      "published_at": "2026-06-02T20:05:00Z",
+      "published_at": "2026-06-02T16:30:00Z",
       "key_points": [
-        "New ‘Pet Memory’ feature",
-        "Enhances Nest Cam functionality",
-        "Expands ‘Ask Home’ capabilities"
+        "MXC launched for AI agents",
+        "OpenAI and Nvidia onboard",
+        "Enhances AI development"
       ],
-      "impact": "Google Home enhances pet monitoring experience.",
-      "id": "741c4353bb852f94a137279300c48334"
+      "impact": "This could accelerate AI innovation and deployment.",
+      "id": "e2395784647602a21313c5fa5b846eb0"
+    },
+    {
+      "title": "X Introduces 'React with Video' Feature",
+      "description": "X has launched a new feature allowing users to react to posts with videos. This aims to enhance user engagement and creativity on the platform.",
+      "category": "Software",
+      "source": "TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNzdqbWRpOTdTVGQzTGJJNjctMjhxT1FYQjFXSEFFMEJnd2dtLXd1YkhvWFdZRXIxM3h3OVlzTkNoRkxxRGlHczV3MTZEdlpkdUVaZmF4OFZsbHU1cUh5OUV4R3lNVm5wdU1BZVhQQm9qVU1Ldmw1dFA0dmhsaXVYNTJwV0N0eHJwd0tmMDV0THo4SzQ?oc=5",
+      "image": "",
+      "published_at": "2026-06-02T14:46:28Z",
+      "key_points": [
+        "New video reaction feature",
+        "Enhances user engagement",
+        "Boosts creativity on platform"
+      ],
+      "impact": "This feature could increase user interaction significantly.",
+      "id": "0b9257827f1b949c8f8af90f3a001d1f"
+    },
+    {
+      "title": "Destiny 2 Players Aim for Record Playercount",
+      "description": "Destiny 2 players are attempting to break playercount records to send a message to Sony. This reflects community passion and engagement with the game.",
+      "category": "Gaming",
+      "source": "Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbVFFbHZSWVVtZ0VvQTVNVnFVZU5wSTZPUFpQcGQ0dUo3MmNXN3hvTlFmaGVWT2JZSXJpbURrb3ZpUzBoR2pHSVY5aVBtSVRGbmZ5ZENaVkhwRWhFdjNyZVdJaFdWcy1RRzd4dlZhS0FhWmp1UEVvNDFTVTdGcENvTnQ5cG5QaENZanBpMk4tZXlSVzVpb2J5ckZET2N1WXN0S3daNmt2QlBIRzFhRkRVdmR3aDZrZ3V4WTFXVGZfOEdKQQ?oc=5",
+      "image": "",
+      "published_at": "2026-06-02T14:05:27Z",
+      "key_points": [
+        "Players aim for record counts",
+        "Message to Sony",
+        "Community engagement shines"
+      ],
+      "impact": "This effort showcases the game's dedicated community.",
+      "id": "8449c4713c3b233658da056ac847f5a5"
+    },
+    {
+      "title": "Fallout 76: Infestations Release Notes",
+      "description": "Bethesda has released notes for the Infestations update in Fallout 76, detailing new features and improvements. Players can expect enhanced gameplay experiences.",
+      "category": "Gaming",
+      "source": "Bethesda.net",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVVVkNUhqTTlSNzVRcFFqcTNjYU85SW1kSDRHZzdQSzJmUHIwNlFLYU1feG9jM1Z0dnNCd2FBNWZwWUd3SlpiNFZUcTdBSXk1ZDNsVUVaX3NPVm1jUnZ4MEstUkdJb2EwZkJHMS1BdExFeW40cS1iejVJRDhxMjNjNThSbnRyanVZWmZfaGNfV3RzU0hDeHFnOUhhaUZQUzFZVEE?oc=5",
+      "image": "",
+      "published_at": "2026-06-02T12:04:17Z",
+      "key_points": [
+        "Infestations update released",
+        "New features and improvements",
+        "Enhanced gameplay experiences"
+      ],
+      "impact": "This update aims to enrich player engagement.",
+      "id": "c59d9f66ea7587513ca185a9f795fc56"
     }
   ]
 }
