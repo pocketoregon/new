@@ -1,247 +1,247 @@
 {
   "date": "2026-06-04",
-  "generated_at": "2026-06-04T03:53:54.822236+00:00",
+  "generated_at": "2026-06-04T09:54:37.681705+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Stuntman Hollywood Returns to PS5",
-      "description": "Stuntman Hollywood, featuring iconic cars, is set to launch on PS5 soon. The arcade racer promises thrilling gameplay and nostalgia for fans.",
-      "category": "Gaming",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/stuntman-hollywood-revealed-at-sony-state-of-play-coming-soon-to-ps5",
-      "image": "https://assetsio.gnwcdn.com/stuntman-hollywood-white-car.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-02T22:49:33Z",
+      "title": "Nvidia RTX Spark Era: Surface Laptop Ultra Unveiled",
+      "description": "Microsoft's Surface Laptop Ultra showcases Nvidia's AI-first platform. Early impressions highlight its innovative hardware features.",
+      "category": "Hardware",
+      "source": "PCMag.com",
+      "url": "https://www.pcmag.com/news/hands-on-microsoft-surface-laptop-ultra-computex-2026",
+      "image": "https://i.pcmag.com/imagery/articles/07fhEKMVC2xfTJS6TIOVqu5-1.fit_lim.size_1200x630.v1780445130.jpg",
+      "published_at": "2026-06-03T01:21:22Z",
       "key_points": [
-        "Iconic cars featured",
-        "Arcade racing gameplay",
-        "Nostalgic experience"
+        "AI-first laptop platform",
+        "Innovative hardware features",
+        "Flagship Surface model"
       ],
-      "impact": "Fans eagerly await this nostalgic racing game.",
-      "id": "80f8a69313ab21634c8530db10fa6a0f"
+      "impact": "This laptop sets a new standard for AI integration.",
+      "id": "46090c9f7a9226f9b315341e31bb4c6e"
     },
     {
-      "title": "Wolverine Game Developers Unveil New Features",
-      "description": "Developers discuss new Wolverine game footage, including X-Men cameos and a low-gore option. Players can expect intense claw combat and unique death mechanics.",
+      "title": "Wolverine Game Developers Reveal New Features",
+      "description": "Developers discuss gameplay, X-Men cameos, and a low-gore option for the upcoming Wolverine game. Exciting details emerge from the latest trailer.",
       "category": "Gaming",
       "source": "Variety",
-      "url": "https://variety.com/2026/digital/news/wolverine-video-game-trailer-x-men-cameos-gameplay-1236764406/",
+      "url": "https://variety.com/2026/gaming/news/wolverine-video-game-trailer-x-men-cameos-gameplay-1236764406/",
       "image": "https://variety.com/wp-content/uploads/2026/06/Wolverine-video-game-PlayStation.jpg?w=1000&h=563&crop=1",
       "published_at": "2026-06-02T22:30:00Z",
       "key_points": [
-        "New gameplay footage revealed",
-        "X-Men cameos included",
+        "New gameplay footage",
+        "X-Men cameos confirmed",
         "Low-gore option available"
       ],
-      "impact": "The game promises a unique Wolverine experience.",
-      "id": "48ce6ab0f6bf72c882a4968dbe27235c"
+      "impact": "Fans can expect a thrilling and unique experience.",
+      "id": "1ab21cc9b5e7d8e4d3ec43450082e843"
     },
     {
-      "title": "God of War Laufey Announced for PS5",
-      "description": "Sony showcased the next God of War game, Laufey, during the State of Play event. Fans can expect epic storytelling and stunning visuals.",
+      "title": "Rayman Legends Retold Aims for 60 FPS on Switch 2",
+      "description": "Ubisoft announces Rayman Legends Retold for Nintendo Switch 2, promising 60 FPS and content parity with other platforms. A beloved classic returns with new features.",
       "category": "Gaming",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_5010883.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "published_at": "2026-06-02T22:16:08Z",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/rayman-legends-retold-targeting-60-fps-on-nintendo-switch-2-will-have-content-parity-with-other-platforms/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Rayman-Legends-Retold-Switch-2.jpg",
+      "published_at": "2026-06-02T22:14:29Z",
       "key_points": [
-        "Epic storytelling expected",
-        "Stunning visuals showcased",
-        "PS5 exclusive title"
+        "60 FPS target",
+        "Content parity across platforms",
+        "Remake of classic game"
       ],
-      "impact": "Fans are excited for the next chapter.",
-      "id": "468fdf5fe6658260e0480c897afce46d"
+      "impact": "This remake revitalizes a classic for new audiences.",
+      "id": "5b970f9da396338af0bfe50fc5c91a5b"
     },
     {
-      "title": "Control Resonant Release Date Revealed",
-      "description": "Control Resonant's release date was unveiled in a new trailer during Sony's State of Play. The trailer offers insights into the game's narrative.",
-      "category": "Gaming",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/control-resonant-release-date-sony-state-of-play-trailer",
-      "image": "https://assetsio.gnwcdn.com/control-resonant-dylan-hammer.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-02T22:13:39Z",
+      "title": "Siri in iOS 27: New Features Unveiled",
+      "description": "iOS 27 introduces significant enhancements to Siri, focusing on smarter interactions and improved functionality. Users can expect a more intuitive experience.",
+      "category": "Software",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/02/ios-27-siri-features/",
+      "image": "https://images.macrumors.com/t/eNxYmCA1u77ZdJovI2KACUQ_lN0=/2500x/article-new/2024/06/Apple-Intelligence-General-Feature.jpg",
+      "published_at": "2026-06-02T22:03:58Z",
       "key_points": [
-        "Release date announced",
-        "New trailer insights",
-        "Narrative details revealed"
+        "Enhanced Siri interactions",
+        "Improved functionality",
+        "More intuitive user experience"
       ],
-      "impact": "Anticipation builds for Control Resonant's launch.",
-      "id": "c3d400009dd563c524473b601448acd1"
+      "impact": "Siri becomes a more powerful assistant for users.",
+      "id": "aedc1b4479ad8ab86dba7d0514589391"
     },
     {
-      "title": "BMW M2 Introduces xDrive AWD for 2027",
-      "description": "The 2027 BMW M2 will feature an xDrive AWD model, enhancing performance and winter driving. It will come with an eight-speed automatic transmission.",
-      "category": "Business",
-      "source": "RoadandTrack.com",
-      "url": "https://www.roadandtrack.com/news/a71473290/2027-bmw-m2-xdrive/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/f881536d-ac20-4f0d-8afd-a35bd712d130.jpg?crop=0.744xw:0.558xh;0.207xw,0.281xh&resize=1200:*",
-      "published_at": "2026-06-02T22:01:00Z",
-      "key_points": [
-        "xDrive AWD model introduced",
-        "Improved winter performance",
-        "Eight-speed automatic transmission"
-      ],
-      "impact": "The M2 enhances driving capabilities for enthusiasts.",
-      "id": "267c9ef2ef68c7c2948720457951aef1"
-    },
-    {
-      "title": "Microsoft Tests Wearable AI Gadget for Workers",
-      "description": "Microsoft is testing a wearable access badge and a desktop device aimed at enhancing productivity for office workers. The devices feature touch and voice activation.",
-      "category": "Business",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy25x97wrxo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f1a4/live/e0ba4220-5ec4-11f1-b588-45cc931ea6f1.png",
-      "published_at": "2026-06-02T21:47:42Z",
-      "key_points": [
-        "Wearable access badge tested",
-        "Desktop device included",
-        "Focus on productivity enhancement"
-      ],
-      "impact": "Microsoft aims to boost office productivity with AI.",
-      "id": "fbe5c4ca9fd1a6eca35f573df5900358"
-    },
-    {
-      "title": "Rayman Legends Retold Launches October 1",
-      "description": "Rayman Legends Retold, a reimagined version of the classic, will launch on October 1. It features stunning 3D visuals and new gameplay elements.",
-      "category": "Gaming",
-      "source": "Ubisoft.com",
-      "url": "https://news.ubisoft.com/en-us/article/2WxMvhIp4tEdeBz8HELI15/rayman-legends-retold-launching-october-1",
-      "image": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/37BUvdQKohf8lt6X0qCS7o/ae014f6251662c22425d9db533397506/RaymanLegendsRetold_Keyart.jpg",
-      "published_at": "2026-06-02T21:42:52Z",
-      "key_points": [
-        "Launch date set for October 1",
-        "New story and visuals",
-        "Exciting gameplay features"
-      ],
-      "impact": "Fans look forward to this reimagined classic.",
-      "id": "98f6f2e3d50a8407c918e73826e24da0"
-    },
-    {
-      "title": "Ace Combat 8: Wings of Theve Launches October 2",
-      "description": "Ace Combat 8: Wings of Theve will be available on October 2 for multiple platforms. Pre-orders are now open for eager fans.",
+      "title": "Onimusha: Way of the Sword Launches September 25",
+      "description": "Capcom announces Onimusha: Way of the Sword for PS5, Xbox Series, and PC, with a demo available now. The game launches on September 25.",
       "category": "Gaming",
       "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/ace-combat-8-wings-of-theve-launches-october-2",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Ace-Combat-8-Dated_06-02-26.jpg",
-      "published_at": "2026-06-02T21:38:51Z",
+      "url": "https://www.gematsu.com/2026/06/onimusha-way-of-the-sword-launches-september-25-demo-now-available",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Onimusha-WotS-Date_06-02-26.jpg",
+      "published_at": "2026-06-02T21:32:30Z",
       "key_points": [
-        "Launch date confirmed",
-        "Available on multiple platforms",
-        "Pre-orders now open"
+        "Launch date set for September 25",
+        "Demo available now",
+        "Cross-platform release"
       ],
-      "impact": "Excitement builds for the next Ace Combat.",
-      "id": "9d1baf3850d5cda0a9ef82292ee76b02"
+      "impact": "Fans can experience the demo ahead of launch.",
+      "id": "5b6e50d2fcff25caddd5e3512c409ae4"
     },
     {
-      "title": "Valve Threatens to Pull Rainbow Six Siege from Steam",
-      "description": "Valve reportedly threatened to delist Rainbow Six Siege from Steam due to a pricing dispute with Ubisoft. This highlights ongoing tensions in the gaming marketplace.",
+      "title": "KEMURI Set for 2027 Release on PS5, PC",
+      "description": "KEMURI, a yokai possession action game, is set to launch in 2027 for PS5 and PC. Developed by Ikumi Nakamura's studio UNSEEN, anticipation builds.",
       "category": "Gaming",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/valve-reportedly-threatened-to-delist-rainbow-six-siege-on-steam-after-ubisoft-offered-cheaper-alternative",
-      "image": "https://assets-prd.ignimgs.com/2026/06/02/rainbow-six-siege-steam-1780424935759.png?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-02T19:18:52Z",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/kemuri-launches-in-2027-for-ps5-pc",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/KEMURI_06-02-26.jpg",
+      "published_at": "2026-06-02T21:20:56Z",
       "key_points": [
-        "Valve's threat to delist game",
-        "Pricing dispute with Ubisoft",
-        "Marketplace tensions highlighted"
+        "Launch in 2027",
+        "Yokai possession theme",
+        "Developed by UNSEEN studio"
       ],
-      "impact": "This dispute could impact Steam's reputation.",
-      "id": "895b220301b5a8441832b7c9e71aecfa"
+      "impact": "This game promises a unique gameplay experience.",
+      "id": "88fc7a83b699b8c4c6315ec839b3b865"
     },
     {
-      "title": "Microsoft Launches AI Behavior Testing Tool",
-      "description": "Microsoft introduced a new open-source framework for AI behavior testing, allowing developers to create evaluations using text descriptions. This aims to streamline AI development.",
-      "category": "Software",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-172665283.jpg?resize=1200,900",
-      "published_at": "2026-06-02T19:02:21Z",
+      "title": "Tomb Raider Legacy of Atlantis Listed for 2027",
+      "description": "Amazon reveals Tomb Raider Legacy of Atlantis for Steam, set to release on February 10, 2027. This reimagining of the classic game excites fans.",
+      "category": "Gaming",
+      "source": "Tombraiderchronicles.com",
+      "url": "https://www.tombraiderchronicles.com/headlines5590.html",
+      "image": "",
+      "published_at": "2026-06-02T19:16:19Z",
       "key_points": [
-        "New AI testing framework launched",
-        "Open-source for developers",
-        "Streamlines AI evaluations"
+        "Release date: February 10, 2027",
+        "Reimagining of classic game",
+        "Available on Steam"
       ],
-      "impact": "This tool enhances AI development efficiency.",
-      "id": "f9405aa053e6bd7bba0a1f653bfe54e0"
+      "impact": "Fans eagerly await this nostalgic reimagining.",
+      "id": "af3c4ce02ec4e6ebbc00a08a3b63262b"
     },
     {
-      "title": "Android Phones to Detect Spoofed Calls",
-      "description": "Android's upcoming features include the ability to detect spoofed calls and impersonation scams. This aims to enhance user security and reduce fraud.",
-      "category": "Security",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
-      "published_at": "2026-06-02T18:00:46Z",
+      "title": "Classic Toy Story Games Coming to Switch",
+      "description": "Digital Eclipse announces classic Toy Story games for Nintendo Switch 1 and 2 this year, celebrating the franchise's 30th anniversary. Nostalgia meets modern gaming.",
+      "category": "Gaming",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/06/digital-eclipse-brings-a-bunch-of-classic-toy-story-games-to-switch-1-and-2-this-year",
+      "image": "https://images.nintendolife.com/3edb033a7c03e/large.jpg",
+      "published_at": "2026-06-02T16:00:00Z",
       "key_points": [
-        "Spoofed call detection feature",
-        "Enhanced user security",
-        "Reduction of impersonation scams"
+        "Classic games returning",
+        "Celebrating 30th anniversary",
+        "Available on Switch"
       ],
-      "impact": "Android enhances security against fraud.",
-      "id": "e471778f8995cf066d26f1c04b31a4ef"
+      "impact": "Nostalgic fans can relive classic moments.",
+      "id": "40ed07c312db94dbbee07e4587d8a884"
     },
     {
-      "title": "Googlebook Launch Could Feature 8 Devices",
-      "description": "Googlebook's launch may include up to eight devices from major partners like Dell and HP. This promises a diverse range of options for consumers.",
-      "category": "Business",
-      "source": "Chrome Unboxed",
-      "url": "https://chromeunboxed.com/the-googlebook-launch-could-arrive-with-up-to-8-devices-in-total/",
-      "image": "https://chromeunboxed.com/wp-content/uploads/2026/06/GooglebookLaunch8devicesFall2026.webp",
-      "published_at": "2026-06-02T16:11:23Z",
+      "title": "Pokémon GO Updates Impact PvE Raids",
+      "description": "The latest Pokémon GO updates enhance moves for PvE raids, affecting gameplay strategies. New attack availability reshapes the meta for players.",
+      "category": "Gaming",
+      "source": "Pokemon GO Hub",
+      "url": "https://pokemongohub.net/post/meta/biggest-winners-from-forever-forward-move-updates-raids-pve/",
+      "image": "https://pokemongohub.net/wp-content/uploads/2026/05/forever-forward.jpg",
+      "published_at": "2026-06-02T14:33:30Z",
       "key_points": [
-        "Launch may feature eight devices",
-        "Major partners involved",
-        "Diverse consumer options"
+        "New moves for PvE",
+        "Updated gameplay strategies",
+        "Impact on raid meta"
       ],
-      "impact": "Googlebook aims for a strong market entry.",
-      "id": "9a5fada484e46a2368f8104dcb4d5f82"
+      "impact": "Players must adapt to new strategies.",
+      "id": "fdae1f8c049cb8abfee90763a5429153"
     },
     {
-      "title": "Noctua Launches First AIO CPU Coolers",
-      "description": "Noctua's first AIO CPU coolers will launch on June 16, featuring various radiator sizes and advanced cooling technology. Prices start at €219.90.",
+      "title": "Star Fox Multiplayer Mode Impresses on Switch 2",
+      "description": "Hands-on preview of Star Fox on Switch 2 reveals an exciting multiplayer mode. The game retains its classic charm while introducing new features.",
+      "category": "Gaming",
+      "source": "Mashable",
+      "url": "https://mashable.com/entertainment/star-fox-nintendo-switch-2-hands-on-preview",
+      "image": "https://helios-i.mashable.com/imagery/articles/042htZefycDXIINRGSzT6El/hero-image.fill.size_1200x675.v1780086841.png",
+      "published_at": "2026-06-02T13:02:04Z",
+      "key_points": [
+        "Exciting multiplayer mode",
+        "Classic charm retained",
+        "New features introduced"
+      ],
+      "impact": "Star Fox continues to captivate players.",
+      "id": "59efae69077140d6452190e94bc0b209"
+    },
+    {
+      "title": "Foldable iPhone Ultra Features Liquid Metal Hinge",
+      "description": "Apple's upcoming foldable iPhone Ultra will feature a liquid metal hinge, with prototypes shipped for testing. This innovation promises enhanced durability.",
       "category": "Hardware",
-      "source": "VideoCardz.com",
-      "url": "https://videocardz.com/newz/noctuas-first-aio-cpu-coolers-launch-june-16-starting-at-e219-90",
-      "image": "https://cdn.videocardz.com/1/2026/06/NOCTUA-AIO.jpg",
-      "published_at": "2026-06-02T14:49:13Z",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/02/foldable-iphone-will-feature-liquid-metal-hinge/",
+      "image": "https://images.macrumors.com/t/utojh2KSAyPpmL2zSSHd0_hnVQQ=/2500x/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+      "published_at": "2026-06-02T12:46:44Z",
       "key_points": [
-        "Launch date set for June 16",
-        "Multiple radiator sizes available",
-        "Starting price €219.90"
+        "Liquid metal hinge innovation",
+        "Prototypes shipped for testing",
+        "Enhanced durability expected"
       ],
-      "impact": "Noctua enters the AIO cooler market.",
-      "id": "44a3c0eca116fe1694a9a514dc5c4a86"
+      "impact": "This hinge technology could redefine foldable phones.",
+      "id": "1ff87ea707358e5084cd9178938123a1"
     },
     {
-      "title": "Marathon Season 2 Launches Today",
-      "description": "Marathon Season 2 kicks off today, introducing new changes and challenges for players. The update promises an exciting gameplay experience.",
+      "title": "Silent Hill: Townfall ESRB Rating Revealed",
+      "description": "Silent Hill: Townfall receives its ESRB rating ahead of the State of Play event. Anticipation builds for this horror title's release.",
       "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/everything-you-need-to-know-about-marathon-season-2-and-its-first-free-week-2000701243",
-      "image": "https://kotaku.com/app/uploads/2026/05/marathons21.jpg",
-      "published_at": "2026-06-02T14:00:35Z",
+      "source": "MP1st",
+      "url": "https://mp1st.com/news/silent-hill-townfall-esrb-rating-surfaces-ahead-state-of-play",
+      "image": "https://mp1st.com/wp-content/uploads/2026/06/silent-hill-townfall-img1.jpg",
+      "published_at": "2026-06-02T11:36:01Z",
       "key_points": [
-        "Season 2 launches today",
-        "New gameplay changes",
-        "Exciting challenges await"
+        "ESRB rating revealed",
+        "Closer to release",
+        "Horror title anticipation"
       ],
-      "impact": "Players are eager for the new season.",
-      "id": "ca8adcaca56b2aff20ffd00587dd5fa1"
+      "impact": "Fans eagerly await more details on this game.",
+      "id": "50b095f587f6529f5a100da4f34b9274"
     },
     {
-      "title": "Nintendo's Switch 2 StarFox Preview",
-      "description": "The new Switch 2 remake of StarFox impresses with its nostalgic gameplay and updated graphics. Players are excited about this fantastic do-over.",
-      "category": "Gaming",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/gaming/starfox-remake-nintendo-switch-2-preview/",
-      "image": "https://www.cnet.com/a/img/resize/8b971dd7d8ab2691932142812b517d711f04610a/hub/2026/06/01/874ea615-171e-4a92-a19e-7ed13bb5076c/nintendoswitch2-starfox-scrn-01.jpg?auto=webp&fit=crop&height=675&precrop=2977,1673,x497,y250&width=1200",
-      "published_at": "2026-06-02T13:01:00Z",
+      "title": "Intel's Arc G3 Extreme SoC Pricing Concerns",
+      "description": "Intel warns of high pricing for its Arc G3 Extreme SoC, designed for handheld gaming. Performance and efficiency details are also highlighted.",
+      "category": "Hardware",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Intel-warns-of-crazy-price-Arc-G3-Extreme-tramples-AMD-Ryzen-Z2-Extreme-for-expensive-price.1312169.0.html",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MSI-Claw-8-EX-AI-handheld-gaming-console-features-the-Arc-G3-Extreme-SoC.jpg",
+      "published_at": "2026-06-02T09:14:00Z",
       "key_points": [
-        "Impressive graphics showcased",
-        "Nostalgic gameplay experience",
-        "Exciting remake for fans"
+        "High pricing concerns",
+        "Designed for handheld gaming",
+        "Performance details highlighted"
       ],
-      "impact": "Fans are thrilled for the StarFox remake.",
-      "id": "d8c789301a76d3bb69f239a54126b552"
+      "impact": "Pricing may affect market competitiveness.",
+      "id": "433f96da1a6bab8609929926293cf483"
+    },
+    {
+      "title": "Toyota Unveils 2027 GR86 with New Features",
+      "description": "Toyota reveals the 2027 GR86, featuring a new Thunder Gray paint and improved performance. The lightest car in its lineup gets exciting updates.",
+      "category": "Business",
+      "source": "autoevolution",
+      "url": "https://www.autoevolution.com/news/toyota-unleashes-the-2027-gr86-it-has-new-gray-paint-and-red-interior-270862.html",
+      "image": "https://s1.cdn.autoevolution.com/images/news/toyota-unleashes-the-2027-gr86-with-new-gray-paint-and-red-interior-270862_1.jpg",
+      "published_at": "2026-06-02T07:32:05Z",
+      "key_points": [
+        "New Thunder Gray paint",
+        "Improved performance features",
+        "Lightest car in lineup"
+      ],
+      "impact": "The GR86 continues to impress car enthusiasts.",
+      "id": "c93674147750c3053a092a56ed3dd949"
+    },
+    {
+      "title": "ASUS Advances AI in Healthcare at Computex 2026",
+      "description": "ASUS showcases AI-driven healthcare solutions at Computex 2026, enhancing clinical decision-making with innovative tools. Key products include Handheld Ultrasound DuoScan and VivoWatch 6 Plus.",
+      "category": "Software",
+      "source": "Asus.com",
+      "url": "https://press.asus.com/news/press_releases/asus-com-news-ai-driven-healthcare-computex/",
+      "image": "https://press.asus.com/assets/w_1200,h_630/4b0c3546-3396-458d-8a18-ba3f5b6a5105/Computex2026_vivowatch_ultrasound_PR_1800x1012.jpg",
+      "published_at": "2026-06-02T02:44:23Z",
+      "key_points": [
+        "AI-driven healthcare solutions",
+        "Innovative clinical tools",
+        "Enhancing decision-making"
+      ],
+      "impact": "ASUS is shaping the future of healthcare technology.",
+      "id": "671dc397a662abd0c1b8932814cd920d"
     }
   ]
 }
