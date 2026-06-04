@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-04T17:48:13.003560+00:00",
+      "fetched_at": "2026-06-04T17:48:13.003560+00:00",
+      "label": "Jun 04, 2026 — 05:48 PM UTC",
+      "articles": [
+        {
+          "title": "Apple’s Vision Products Roadmap Scaled Back",
+          "description": "Apple's John Ternus has reportedly reduced the Vision products roadmap, signaling a shift in strategy. This could impact future product releases significantly.",
+          "category": "Business",
+          "source": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRVhZRTJINHpHcHM3LVhuZ2R6ZzZoTUlWRFBzQ3NpdS0tR28ySlphcUNJTFQxN2dnU3hQbUJrckNZWEN3dGtFY3NlSU1yLU85OS1SVm9Fck5GTGkxaGhqSk91MGRjRFlQS2VpbVhZTXQ0S01OYlZMNUZMYklxcldFQ1g2b2xjeVFJN0VTRHJpVzEwTmxFOHhOTw?oc=5",
+          "image": "",
+          "published_at": "2026-06-03T17:19:00Z",
+          "key_points": [
+            "Vision products roadmap reduced",
+            "Shift in Apple's strategy",
+            "Future releases may be affected"
+          ],
+          "impact": "Apple's strategy change may reshape product launches.",
+          "id": "af971ac585b9664e37656f621309b9aa"
+        },
+        {
+          "title": "Fitbit Air CAD Drawings & Specs Released",
+          "description": "Google has unveiled Fitbit Air CAD drawings and specifications, introducing new bicep bands. This marks a significant update for fitness enthusiasts.",
+          "category": "Hardware",
+          "source": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY2EzWEk0RFgzZy12ZzRaeV9aM3hwQ2FoQjZIMXkwbFVneEUwUVVUR2Rqa0F3QzQ5a1dDdGRrV2hSME55Y0dDUW85N2dnRFJrdEMtdF9GdkpFMnFOLU05eERiazdFZEZHbURqR1FMZEJsLU4zc1JsOGNRMkFXcEhBVmlPOVpmWmE5VHVFRHd4YWk5NzhfUVpJS2l5andVemNabzZ2aE9WOER6TzQ?oc=5",
+          "image": "",
+          "published_at": "2026-06-03T15:22:50Z",
+          "key_points": [
+            "Fitbit Air specs revealed",
+            "New bicep bands introduced",
+            "Update for fitness enthusiasts"
+          ],
+          "impact": "Fitbit's new features enhance user experience.",
+          "id": "46a23ec889d893f3797439de96b4db85"
+        },
+        {
+          "title": "‘Destiny 2’ Fans Demand ‘Destiny 3’",
+          "description": "Fans of 'Destiny 2' are overwhelming PlayStation's State of Play with demands for 'Destiny 3'. This reflects the community's eagerness for new content.",
+          "category": "Gaming",
+          "source": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV1ZvWEEybng2Rjl4X3hiRWNsOHU1SWVJN0NNSldDbDR1bTMweHlfN1pBM2xQblVOZEpZQlQyV0lCNlBLRmlmQzNnc3VieW9aX0lxUWI3WHZpdTE5REdwRi05T2JsWVd4NHRPbU9iMnZaNU9vYUpkRnlRZHU2bFZVQkpyZHd4R3J4bl9KMVVaWndSOUpmTmxkeVVJOElnLXJSNlNmejBTRjdBbU85LVh3bXZDbEdpbnlnNk44?oc=5",
+          "image": "",
+          "published_at": "2026-06-03T15:12:43Z",
+          "key_points": [
+            "Fans demand 'Destiny 3'",
+            "PlayStation event overwhelmed",
+            "Community eager for new content"
+          ],
+          "impact": "Player demands highlight community engagement.",
+          "id": "210cf135594b55acd8b640dc8e621c11"
+        },
+        {
+          "title": "Microsoft’s Surface Laptop Ultra Unveiled",
+          "description": "Microsoft showcases the Surface Laptop Ultra, emphasizing performance, battery life, and display quality. This new model aims to enhance user productivity.",
+          "category": "Hardware",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/941600/microsoft-surface-laptop-ultra-dev-box-hands-on",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/surfacelaptopultra1.jpg?quality=90&strip=all&crop=0%2C10.462709848801%2C100%2C79.074580302398&w=1200",
+          "published_at": "2026-06-03T13:22:17Z",
+          "key_points": [
+            "Surface Laptop Ultra launched",
+            "Focus on performance and battery",
+            "Enhanced display quality"
+          ],
+          "impact": "Microsoft targets productivity with new laptop.",
+          "id": "f90cf2af4c8533ada9177486fd542dbe"
+        },
+        {
+          "title": "Pokémon Champions Launching on Mobile",
+          "description": "Pokémon Champions will be available on Android and iOS starting June 17. Pre-registration is open, offering exclusive rewards.",
+          "category": "Gaming",
+          "source": "Pokemon.com",
+          "url": "https://www.pokemon.com/us/pokemon-news/pokemon-champions-comes-to-android-and-ios-on-june-17",
+          "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-champions/2026/03/24/pokemon-champions-169.png",
+          "published_at": "2026-06-03T13:03:24Z",
+          "key_points": [
+            "Pokémon Champions on mobile",
+            "Launch date: June 17",
+            "Pre-registration rewards available"
+          ],
+          "impact": "Mobile launch expands Pokémon's reach.",
+          "id": "ffe3f8a7d2de00f22ad7c177f54341ac"
+        },
+        {
+          "title": "New Games Coming to Xbox Game Pass",
+          "description": "Xbox Game Pass adds new titles including Starseeker and Beastro. Players can pre-install ahead of the upcoming showcase.",
+          "category": "Gaming",
+          "source": "Xbox.com",
+          "url": "https://news.xbox.com/en-us/2026/06/03/xbox-game-pass-june-2026-wave-1/",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/XBOX_GamePass_Announcement_EN_June3rd_9T_16x9-a5bb4d0acdd3665bccc1.jpg",
+          "published_at": "2026-06-03T13:01:31Z",
+          "key_points": [
+            "New titles for Xbox Game Pass",
+            "Includes Starseeker and Beastro",
+            "Pre-install options available"
+          ],
+          "impact": "Xbox Game Pass enhances gaming library.",
+          "id": "d631f2c181570d73764ba7873a99d54e"
+        },
+        {
+          "title": "Plex Introduces Social Features Amid Price Hike",
+          "description": "Plex adds new social features as it prepares for a significant price increase on its lifetime pass. Users can expect enhanced community engagement.",
+          "category": "Software",
+          "source": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSk9KZ0k4cFduN1dsSVQxYmVXZFNJYjRtM3RjNHFIS3hvUU94MlNMcE9TN3FTSGl1Q0Jmc3hlU2FLX0NFUkMzMlNyalluZlpWUG1UNmpFb01xbHUyTmphekJ6b3gxcUs2RWlZYnF5d3JmMUlMZlN0U2MxWXBzemdoeXRjN0drd21mQ2k1OEkwTDZDVU1lTngw?oc=5",
+          "image": "",
+          "published_at": "2026-06-03T13:00:00Z",
+          "key_points": [
+            "Plex adds social features",
+            "Lifetime pass price increase",
+            "Enhanced community engagement"
+          ],
+          "impact": "Plex aims to boost user interaction.",
+          "id": "a34644a615c52cf2a4091d74d4464916"
+        },
+        {
+          "title": "Tomb Raider: Legacy of Atlantis Uses AI",
+          "description": "Tomb Raider: Legacy of Atlantis includes an AI disclaimer, revealing the use of AI in its development. This raises discussions on AI's role in gaming.",
+          "category": "Gaming",
+          "source": "Eurogamer.net",
+          "url": "https://www.eurogamer.net/tomb-raider-legacy-of-atlantis-comes-with-an-ai-disclaimer",
+          "image": "https://assetsio.gnwcdn.com/lara-ai.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-03T11:06:52Z",
+          "key_points": [
+            "AI used in game development",
+            "Tomb Raider's new title",
+            "AI disclaimer included"
+          ],
+          "impact": "AI's role in gaming sparks debate.",
+          "id": "1bf94de69d5f953178f63020b8483967"
+        },
+        {
+          "title": "Gabe Newell Responds to Steam Monopoly Claims",
+          "description": "Valve's Gabe Newell refutes monopoly accusations, asserting players have 'enormous choice' in the gaming market. This statement aims to clarify Steam's position.",
+          "category": "Business",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/gabe-newell-says-players-have-enormous-choice-when-pressed-on-steam-monopoly-accusations-report-says",
+          "image": "https://assets-prd.ignimgs.com/2026/06/02/gabe-newell-1780432318412.png?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-03T10:17:14Z",
+          "key_points": [
+            "Newell denies monopoly claims",
+            "Players have many choices",
+            "Steam's market position clarified"
+          ],
+          "impact": "Newell's comments aim to reassure players.",
+          "id": "68b3e22b9954a22e83bdd26f943826db"
+        },
+        {
+          "title": "Marathon Season 2 Launches with Issues",
+          "description": "Marathon Season 2 faces a troubled launch due to numerous errors and bugs. Players are expressing frustration over the game's performance.",
+          "category": "Gaming",
+          "source": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JWXRuQUhodFQzNFAtY3hTRTdfNHJBU0UtWWdYTVlvbWczVmZJQ09HQVRYT0haX3hDQ2FmVGx1Y3g1MHRTOHlfYmNrZWZ5VGFabnpvdXRoSzBIVTMxQlhpeEJyb2VRdw?oc=5",
+          "image": "",
+          "published_at": "2026-06-03T09:43:27Z",
+          "key_points": [
+            "Marathon Season 2 launched",
+            "Numerous bugs reported",
+            "Player frustration evident"
+          ],
+          "impact": "Launch issues may affect player retention.",
+          "id": "48d35b6d0cd6c7ecb8687d2a592bd8a8"
+        },
+        {
+          "title": "AI Supercharges Computer Worms",
+          "description": "Scientists have discovered a method to enhance dangerous computer worms using AI. This development raises cybersecurity concerns.",
+          "category": "Security",
+          "source": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZlA2dUQyeWFBS1ZWNmVuQTdKNVhsdFBDZGFVeTBTSXlvM0NWVElLSzJqYmkxTjhQM3JvcEdiOS14RDVWcmpFZkZ5ZGNRaW5QVjhGcUtjaUpFekFoWktKc1kyeWNScWlxWk8tTjl0TmRxOWN6Y2pEbklzNjZzLWhZdjI0a3NVRUtySUFiREo4VU5yY3R3UnRfWUVzNXR6dnk4WDJDRG1RbFZnOUtIMGpjeUhmOTR2TmJxS3c?oc=5",
+          "image": "",
+          "published_at": "2026-06-03T00:37:55Z",
+          "key_points": [
+            "AI enhances computer worms",
+            "New cybersecurity concerns",
+            "Research raises alarms"
+          ],
+          "impact": "AI's role in malware evolution is alarming.",
+          "id": "5a3460b148e0b6c3bb40ba060498fdf9"
+        },
+        {
+          "title": "September 2026 Packed with Game Releases",
+          "description": "September 2026 will see a surge of game releases trying to avoid competition with Grand Theft Auto VI. Developers are strategizing around its launch.",
+          "category": "Gaming",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/september-2026-is-packed-with-games-trying-to-avoid-gta-6/",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/04/gamespot.png",
+          "published_at": "2026-06-02T22:28:47Z",
+          "key_points": [
+            "September 2026 game releases",
+            "Developers avoiding GTA VI",
+            "Strategic launch planning underway"
+          ],
+          "impact": "GTA VI's release impacts industry scheduling.",
+          "id": "351ea3ea2ddc035f10f2aad9d76bf0c7"
+        },
+        {
+          "title": "Control Resonant Release Date Update",
+          "description": "Control Resonant has received an exciting update regarding its release date. Fans are eager for more details.",
+          "category": "Gaming",
+          "source": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NMkhSYlRDRUdldEdOZzVJbkVyUjBSak9BVnZzS2hNTlFxM3pwa0pPNWVHOE9BQ2JhaUNPRzRFRldjcHVkbHBBRkJkTFNKYWN1aElkS01BZ0YxaWJWZEdMS3JYS2R1SUdsTjl2VFNEc2s?oc=5",
+          "image": "",
+          "published_at": "2026-06-02T21:55:57Z",
+          "key_points": [
+            "Control Resonant release date update",
+            "Fans eager for details",
+            "Anticipation builds for launch"
+          ],
+          "impact": "Fans await eagerly for the game's release.",
+          "id": "634926b1860294846ddad4713ffe5ea1"
+        },
+        {
+          "title": "Onimusha: Way of the Sword Release Date Announced",
+          "description": "Onimusha: Way of the Sword is set for a September release, with a playable demo available now. Fans can experience the game ahead of launch.",
+          "category": "Gaming",
+          "source": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LZl9STWNZTDZVMDR4YWg1U0pQTHRDU1dBbDdoTFZPX3cwUER5V1VKYlhtUUlmbXpyVU9rTkRDR3BVMmdjN3RJb2FwQlFFdnl6cV9URXVGc3dGMDBQR2duNlplSng0Y2VQNWxaTVBqMnNtblN6bXJ6a3BMR09RZw?oc=5",
+          "image": "",
+          "published_at": "2026-06-02T21:33:41Z",
+          "key_points": [
+            "Onimusha release date set",
+            "Playable demo available now",
+            "Fans can try before launch"
+          ],
+          "impact": "Demo allows early player engagement.",
+          "id": "a18a46613629d74a7cf320fb37544fdc"
+        },
+        {
+          "title": "Apple's AI Test at WWDC on June 8",
+          "description": "Apple's major AI test is set for June 8 at WWDC. This event could have significant implications for the company's future direction.",
+          "category": "Business",
+          "source": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPXy02dHNOeWFtVUptYzV0WWloY0hfY0VpZEgwLUlYUVQ2WlNlVTVIQUd4aXNfVmstOVI4Tk56b3J1X2pDcnppb1huelZZZXpDVG1HRXpja01MVXVJVm5CYTc2VXhES3NZNWJQdU9QanlGUk5iR2tLcTB5b3FSZTNhNXMzMFFWUmlwYUhuMlhfeXVTdw?oc=5",
+          "image": "",
+          "published_at": "2026-06-02T20:49:00Z",
+          "key_points": [
+            "Apple's AI test on June 8",
+            "WWDC event implications",
+            "Future direction at stake"
+          ],
+          "impact": "WWDC could redefine Apple's AI strategy.",
+          "id": "6e7efa18fdcf3852914ecec2b09dd572"
+        }
+      ]
+    },
+    {
       "id": "2026-06-04T14:58:16.882919+00:00",
       "fetched_at": "2026-06-04T14:58:16.882919+00:00",
       "label": "Jun 04, 2026 — 02:58 PM UTC",
@@ -5784,253 +6031,6 @@
           ],
           "impact": "This update improves camera functionality for users.",
           "id": "f96337d22de005b274255a1a373da114"
-        }
-      ]
-    },
-    {
-      "id": "2026-05-30T17:10:30.043978+00:00",
-      "fetched_at": "2026-05-30T17:10:30.043978+00:00",
-      "label": "May 30, 2026 — 05:10 PM UTC",
-      "articles": [
-        {
-          "title": "Custom Wallpapers Arrive in Google Messages",
-          "description": "Google Messages beta introduces custom wallpaper chat themes, enhancing personalization options for users. Exciting updates are finally here!",
-          "category": "Software",
-          "source": "Android Authority",
-          "url": "https://www.androidauthority.com/google-messages-chat-themes-3672651/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2024/03/Google-Messages-logo-on-smartphone-laying-on-table-4.jpg",
-          "published_at": "2026-05-29T15:21:10Z",
-          "key_points": [
-            "Custom themes now available",
-            "Personalize chat backgrounds",
-            "Enhanced user experience"
-          ],
-          "impact": "This update boosts user engagement significantly.",
-          "id": "45d8b04b64ca61becea20e97d994d901"
-        },
-        {
-          "title": "Destiny 2's Final Update Promises Greatness",
-          "description": "Destiny 2's last update before service closure is set to be its best yet, leaving players both excited and nostalgic. June 9 marks the end of an era.",
-          "category": "Software",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/paultassi/2026/05/29/destiny-2-reveals-its-last-update-will-be-its-best-in-years/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a1990c261763861f27cadef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "published_at": "2026-05-29T13:15:51Z",
-          "key_points": [
-            "Final update arrives June 9",
-            "Players express mixed emotions",
-            "Best content in years"
-          ],
-          "impact": "This update will leave a lasting legacy.",
-          "id": "e9db115668fd5d362b4e19f0d45a3fd6"
-        },
-        {
-          "title": "iPhone 18 Pro Color Options Leaked",
-          "description": "Dummy models reveal the iPhone 18 Pro's four rumored color options, giving fans a sneak peek at the upcoming design. Excitement builds ahead of launch.",
-          "category": "Hardware",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/05/29/first-look-at-iphone-18-pro-color-options-revealed/",
-          "image": "https://images.macrumors.com/t/gMD1z9xFRXv2yJf2EP5cEAgI8hQ=/1600x/article-new/2026/05/iphone-18-pro-color-dummies.jpeg",
-          "published_at": "2026-05-29T11:50:22Z",
-          "key_points": [
-            "New color options revealed",
-            "Dummy models shared online",
-            "Anticipation for iPhone 18 Pro"
-          ],
-          "impact": "Fans eagerly await the official launch.",
-          "id": "e2e540684a62da3efd2ae4c6e3fdd258"
-        },
-        {
-          "title": "Galaxy Watch 9 May Feature New Models",
-          "description": "Leaks suggest Samsung's Galaxy Watch 9 could introduce three new models, including a feature borrowed from Google. Innovation continues in wearables.",
-          "category": "Hardware",
-          "source": "Android Police",
-          "url": "https://www.androidpolice.com/samsung-may-break-tradition-with-the-next-galaxy-watch-range/",
-          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/12/galaxy-watch-8-classic-pocket.JPG?w=1600&h=900&fit=crop",
-          "published_at": "2026-05-29T10:32:19Z",
-          "key_points": [
-            "Three new models expected",
-            "Feature borrowed from Google",
-            "Samsung innovates wearables"
-          ],
-          "impact": "This could redefine smartwatch offerings.",
-          "id": "44848cc8e5ef13484b13cd0a933088ab"
-        },
-        {
-          "title": "Physical Media's Comeback Faces Next-Gen Threat",
-          "description": "As physical media gains traction, upcoming consoles like PlayStation 6 may eliminate disc drives, threatening its resurgence. The future of gaming media is uncertain.",
-          "category": "Business",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/physical-media-is-having-a-comeback-the-next-console-generation-may-kill-it/",
-          "image": "https://media.wired.com/photos/6a16eeef235be46da31f1947/191:100/w_1280,c_limit/GettyImages-2186493403.jpg",
-          "published_at": "2026-05-29T10:30:00Z",
-          "key_points": [
-            "Physical media gains popularity",
-            "Next-gen consoles may eliminate discs",
-            "Future of gaming media uncertain"
-          ],
-          "impact": "This shift could reshape media consumption.",
-          "id": "171539b3b5aea495de8214777c52475a"
-        },
-        {
-          "title": "Xbox Game Pass Price Cut Boosts Subscribers",
-          "description": "Microsoft's Xbox Game Pass price cut is reportedly increasing subscriber activity, according to Asha Sharma. The strategy aims for long-term growth.",
-          "category": "Business",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-game-pass-price-cut-working-asha-sharma",
-          "image": "https://assetsio.gnwcdn.com/asha-sharma-xbox_ETUJlFF.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-05-29T10:25:25Z",
-          "key_points": [
-            "Price cut boosts subscriber activity",
-            "Focus on long-term growth",
-            "Microsoft strengthens Xbox brand"
-          ],
-          "impact": "This strategy may enhance market competitiveness.",
-          "id": "3de794855b9ea62a1e67792cef59babf"
-        },
-        {
-          "title": "Yuji Naka's Wild Name Idea for Billy Hatcher",
-          "description": "Yuji Naka reveals a surprising alternative name for Billy Hatcher and the Giant Egg, showcasing his creative process. Fans are intrigued by the backstory.",
-          "category": "Software",
-          "source": "Timeextension.com",
-          "url": "https://www.timeextension.com/news/2026/05/i-am-not-making-up-this-story-you-wont-believe-what-yuji-naka-wanted-to-call-billy-hatcher-and-the-giant-egg",
-          "image": "https://images.timeextension.com/b00f7f3842b52/large.jpg",
-          "published_at": "2026-05-29T09:00:00Z",
-          "key_points": [
-            "Yuji Naka shares name idea",
-            "Creative process revealed",
-            "Fans intrigued by backstory"
-          ],
-          "impact": "This insight adds depth to game history.",
-          "id": "dba3180fa73e94e3bafce37436805c94"
-        },
-        {
-          "title": "Google's AI Cost Strategy Gains Attention",
-          "description": "Google's approach to AI cost management positions it favorably against competitors, as inference costs continue to decline. The AI landscape is evolving rapidly.",
-          "category": "AI",
-          "source": "Business Insider",
-          "url": "https://www.businessinsider.com/google-ai-cost-tokens-gemini-flash-openai-anthropic-gemini-search-2026-5",
-          "image": "https://i.insider.com/6a0d73cdce0a5b2f12d7da7d?width=1200&format=jpeg",
-          "published_at": "2026-05-29T09:00:00Z",
-          "key_points": [
-            "Google focuses on cost management",
-            "AI landscape evolving rapidly",
-            "Competitive edge in AI market"
-          ],
-          "impact": "This strategy could reshape AI pricing.",
-          "id": "f9240107b96144783003e18b188c6c42"
-        },
-        {
-          "title": "Rockstar Games Announces Workers Union",
-          "description": "Rockstar Games developers have formed the Rockstar Game Workers Union, aiming to improve working conditions and representation. A significant step for the industry.",
-          "category": "Business",
-          "source": "Gamedeveloper.com",
-          "url": "https://www.gamedeveloper.com/business/the-rockstar-game-workers-union-breaks-cover",
-          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt58c4bed05eaa33eb/6a18562d7f1d27d9790dbff2/Lucia_Caminos_01.jpg?disable=upscale&width=1200&height=630&fit=crop",
-          "published_at": "2026-05-29T00:58:26Z",
-          "key_points": [
-            "Rockstar forms workers union",
-            "Focus on better working conditions",
-            "Industry representation improves"
-          ],
-          "impact": "This could inspire other studios to follow.",
-          "id": "1087c1eeeb8704539695aa78b77fd59f"
-        },
-        {
-          "title": "T-Mobile Users Warned About T-Life App",
-          "description": "T-Mobile users are advised to delete the T-Life app following serious allegations. Users should prioritize their data security.",
-          "category": "Security",
-          "source": "PhoneArena",
-          "url": "https://www.phonearena.com/news/T-Mobile-users-will-want-to-delete-T-Life-after-this-scary-allegation_id180721",
-          "image": "",
-          "published_at": "2026-05-28T22:57:25Z",
-          "key_points": [
-            "T-Mobile users advised to delete app",
-            "Serious allegations raised",
-            "Data security concerns highlighted"
-          ],
-          "impact": "User safety is now at risk.",
-          "id": "6e29c5d35a037beb56eafd5718eecb66"
-        },
-        {
-          "title": "Dead by Daylight's 10th Anniversary Party Approaches",
-          "description": "Dead by Daylight's 10th Anniversary Party on June 14 promises to be the biggest event yet, featuring panels and live broadcasts. Fans are eagerly anticipating the celebration.",
-          "category": "Software",
-          "source": "Dead by Daylight",
-          "url": "https://deadbydaylight.com/news/dbd-anniversary-party-is-almost-here/",
-          "image": "https://assets.deadbydaylight.com/10th_YR_Key_Art_Horizontal_1080x1920_f499973e7b.jpg",
-          "published_at": "2026-05-28T22:09:42Z",
-          "key_points": [
-            "10th Anniversary Party on June 14",
-            "Biggest event planned",
-            "Panels and live broadcasts included"
-          ],
-          "impact": "This event will celebrate a decade of success.",
-          "id": "400c4050542f066d36b55e459a57e891"
-        },
-        {
-          "title": "New Space Watch Designed for Future Travel",
-          "description": "Barrelhand introduces the Monolith, a watch developed for the next generation of space travel. This innovative design aims to meet unique challenges.",
-          "category": "Hardware",
-          "source": "Gear Patrol",
-          "url": "https://www.gearpatrol.com/watches/barrelhand-monolith/",
-          "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/05/barrelhand-monolith-lead.webp",
-          "published_at": "2026-05-28T21:10:09Z",
-          "key_points": [
-            "New space watch unveiled",
-            "Designed for future travel",
-            "Innovative features included"
-          ],
-          "impact": "This could revolutionize space gear.",
-          "id": "875d08f0ad3386f77d85b2f54fb36ce9"
-        },
-        {
-          "title": "Fallout 76: Infestations Promises Co-Op Chaos",
-          "description": "Bethesda reveals Fallout 76: Infestations will enhance co-op gameplay with dynamic challenges and faction bosses. Players can expect thrilling new experiences.",
-          "category": "Software",
-          "source": "Wccftech",
-          "url": "https://wccftech.com/fallout-76-infestations-emergent-co-op-chaos-map-sizzle/",
-          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/FO76IN_Infestations_keyart_banner-HD-1920x1080.jpeg",
-          "published_at": "2026-05-28T19:00:00Z",
-          "key_points": [
-            "New update enhances co-op gameplay",
-            "Dynamic challenges introduced",
-            "Faction bosses to hunt"
-          ],
-          "impact": "This update could revitalize player engagement.",
-          "id": "da9ec3269711e6f2f284deae33404820"
-        },
-        {
-          "title": "Call of Duty: Warzone Ends Support for Older Consoles",
-          "description": "Call of Duty: Warzone will discontinue support for PS4 and Xbox One, urging players to upgrade to newer consoles for continued play. A significant shift in gaming.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/939043/call-of-duty-warzone-ps4-xbox-one-end-of-support",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/warzone.jpg?quality=90&strip=all&crop=0%2C7.8694215383805%2C100%2C84.261156923239&w=1200",
-          "published_at": "2026-05-28T16:05:42Z",
-          "key_points": [
-            "Warzone drops PS4 and Xbox One",
-            "Players urged to upgrade",
-            "Significant shift in gaming support"
-          ],
-          "impact": "This may affect a large player base.",
-          "id": "2f6730dc8255f354f571c53588f28e0a"
-        },
-        {
-          "title": "Dragon Quest 12 Protagonist Sparks Fan Theories",
-          "description": "Fans speculate about Dragon Quest 12's protagonist, suggesting deeper layers to his seemingly bland appearance. The game's reboot adds intrigue.",
-          "category": "Software",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/whats-going-on-with-dragon-quest-12-protagonist-2000700186",
-          "image": "https://kotaku.com/app/uploads/2026/05/Update-from-the-DRAGON-QUEST-Team-5-0-screenshot-1200x675.jpg",
-          "published_at": "2026-05-28T16:03:16Z",
-          "key_points": [
-            "Protagonist's design sparks theories",
-            "Game reboot adds intrigue",
-            "Fans eager for more details"
-          ],
-          "impact": "This could enhance player engagement.",
-          "id": "874f344d32a6015873c17bd0eb2c123b"
         }
       ]
     }

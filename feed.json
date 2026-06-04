@@ -1,133 +1,245 @@
 {
-  "generated_at": "2026-06-04T14:58:16.882919+00:00",
+  "generated_at": "2026-06-04T17:48:13.003560+00:00",
   "articles": [
     {
-      "title": "Marathon's Big Free Season 2 Debut Plagued By Server Issues",
-      "description": "Bungie's Marathon suffers major server outages on its significant update day. Players are struggling to access the game since its launch.",
-      "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/server-issues-plague-marathons-big-comeback-moment-2000701778",
-      "image": "https://kotaku.com/app/uploads/2026/06/Triage_Vignette_02_1920x1080-e1780452106905-1200x668.jpg",
-      "published_at": "2026-06-03T02:21:13Z",
-      "key_points": [
-        "Server issues on launch day",
-        "Players unable to access game",
-        "Bungie working on fixes"
-      ],
-      "impact": "Server problems hinder player experience significantly.",
-      "id": "bf0fc9b7adbe7e06d4ef9b01e55b0259"
-    },
-    {
-      "title": "Google Is Quietly Buying Code From Play Store Developers to Train AI",
-      "description": "Google is discreetly purchasing code from Android developers to enhance its AI capabilities. This initiative is part of a confidential program aimed at improving AI tools.",
+      "title": "Apple’s Vision Products Roadmap Scaled Back",
+      "description": "Apple's John Ternus has reportedly reduced the Vision products roadmap, signaling a shift in strategy. This could impact future product releases significantly.",
       "category": "Business",
-      "source": "404 Media",
-      "url": "https://www.404media.co/google-is-quietly-buying-code-from-play-store-developers-to-train-ai/",
-      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/CleanShot-2026-06-02-at-17.15.56@2x.png",
-      "published_at": "2026-06-03T00:18:59Z",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRVhZRTJINHpHcHM3LVhuZ2R6ZzZoTUlWRFBzQ3NpdS0tR28ySlphcUNJTFQxN2dnU3hQbUJrckNZWEN3dGtFY3NlSU1yLU85OS1SVm9Fck5GTGkxaGhqSk91MGRjRFlQS2VpbVhZTXQ0S01OYlZMNUZMYklxcldFQ1g2b2xjeVFJN0VTRHJpVzEwTmxFOHhOTw?oc=5",
+      "image": "",
+      "published_at": "2026-06-03T17:19:00Z",
       "key_points": [
-        "Google buys developer code",
-        "Confidential AI training program",
-        "Enhancing AI coding tools"
+        "Vision products roadmap reduced",
+        "Shift in Apple's strategy",
+        "Future releases may be affected"
       ],
-      "impact": "Google's strategy may reshape AI development.",
-      "id": "2bbba1cd26bcafd6a3f49c0a886b88a8"
+      "impact": "Apple's strategy change may reshape product launches.",
+      "id": "af971ac585b9664e37656f621309b9aa"
     },
     {
-      "title": "Mina The Hollower Sold 300,000 Copies In Three Days",
-      "description": "Yacht Club Games' Mina the Hollower sold 300,000 copies in just three days, becoming the highest-rated game of 2026. This success helps the studio avoid a critical moment.",
-      "category": "Gaming",
-      "source": "Game Informer",
-      "url": "https://gameinformer.com/2026/06/02/mina-the-hollower-sold-300000-copies-in-three-days-helping-yacht-club-escape-make-or",
-      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2023/09/04/5e557952/mina1.jpg.webp",
-      "published_at": "2026-06-02T19:23:30Z",
-      "key_points": [
-        "300,000 copies sold quickly",
-        "Highest-rated game of 2026",
-        "Yacht Club avoids crisis"
-      ],
-      "impact": "Strong sales boost Yacht Club's future prospects.",
-      "id": "65ef1dd08ae18623fa9de55ea9244521"
-    },
-    {
-      "title": "MSI Claw 8 EX AI+ with Intel Arc G3 Extreme listed at Best Buy for $1,699",
-      "description": "The MSI Claw 8 EX AI+ is now available at Best Buy for $1,699, exceeding initial price expectations. This handheld features Intel's Arc G3 Extreme graphics.",
+      "title": "Fitbit Air CAD Drawings & Specs Released",
+      "description": "Google has unveiled Fitbit Air CAD drawings and specifications, introducing new bicep bands. This marks a significant update for fitness enthusiasts.",
       "category": "Hardware",
-      "source": "VideoCardz.com",
-      "url": "https://videocardz.com/newz/msi-claw-8-ex-ai-with-intel-arc-g3-extreme-listed-at-best-buy-for-1699",
-      "image": "https://cdn.videocardz.com/1/2026/06/MSI-CLAW-8-EX-HERO.jpg",
-      "published_at": "2026-06-02T18:34:16Z",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY2EzWEk0RFgzZy12ZzRaeV9aM3hwQ2FoQjZIMXkwbFVneEUwUVVUR2Rqa0F3QzQ5a1dDdGRrV2hSME55Y0dDUW85N2dnRFJrdEMtdF9GdkpFMnFOLU05eERiazdFZEZHbURqR1FMZEJsLU4zc1JsOGNRMkFXcEhBVmlPOVpmWmE5VHVFRHd4YWk5NzhfUVpJS2l5andVemNabzZ2aE9WOER6TzQ?oc=5",
+      "image": "",
+      "published_at": "2026-06-03T15:22:50Z",
       "key_points": [
-        "Listed at $1,699",
-        "Features Intel Arc G3",
-        "Higher than expected price"
+        "Fitbit Air specs revealed",
+        "New bicep bands introduced",
+        "Update for fitness enthusiasts"
       ],
-      "impact": "MSI's pricing strategy may affect sales.",
-      "id": "5a88bee27aa0ad88597ed2355f19a518"
+      "impact": "Fitbit's new features enhance user experience.",
+      "id": "46a23ec889d893f3797439de96b4db85"
     },
     {
-      "title": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off",
-      "description": "Microsoft introduces Scout, an AI agent for Teams that automates mundane tasks. This always-on assistant aims to enhance workplace productivity.",
-      "category": "Software",
-      "source": "WIRED",
-      "url": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/",
-      "image": "https://media.wired.com/photos/6a1e1d3c70c7c8b915b99802/191:100/w_1280,c_limit/Microsoft-Debuts-Scout-a-Workplace-AI-Agent-Gear.jpg",
-      "published_at": "2026-06-02T18:00:00Z",
-      "key_points": [
-        "AI agent for Microsoft Teams",
-        "Automates office tasks",
-        "Enhances productivity"
-      ],
-      "impact": "Scout could revolutionize workplace efficiency.",
-      "id": "d1999cb9b6b5335f2710057f52dadb78"
-    },
-    {
-      "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
-      "description": "Google launches a fake call detection feature to combat AI deepfake scams. This tool aims to protect users from impersonation threats.",
-      "category": "Security",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/fake-call-detection.png?resize=1200,640",
-      "published_at": "2026-06-02T18:00:00Z",
-      "key_points": [
-        "New fake call detection feature",
-        "Protects against deepfake scams",
-        "Rolling out globally"
-      ],
-      "impact": "This feature enhances user security significantly.",
-      "id": "774f63fcc1fb01cba779a8c9253be948"
-    },
-    {
-      "title": "iPhone Ultra might have tech innovation over 15 years in the making",
-      "description": "The upcoming iPhone Ultra may feature liquid metal technology, a significant innovation from Apple. This device is set to launch this fall.",
-      "category": "Business",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/02/iphone-ultra-might-have-tech-innovation-over-15-years-in-the-making/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-02T15:03:00Z",
-      "key_points": [
-        "iPhone Ultra launching this fall",
-        "Features liquid metal technology",
-        "15 years in development"
-      ],
-      "impact": "This innovation could redefine smartphone design.",
-      "id": "daccb5c5bafabdd95f9dec8a39c78d3c"
-    },
-    {
-      "title": "Get Another Look At Star Fox On Switch 2 In New Overview Trailer",
-      "description": "Nintendo releases a new overview trailer for the upcoming Star Fox on Switch 2. The trailer highlights exciting features and gameplay.",
+      "title": "‘Destiny 2’ Fans Demand ‘Destiny 3’",
+      "description": "Fans of 'Destiny 2' are overwhelming PlayStation's State of Play with demands for 'Destiny 3'. This reflects the community's eagerness for new content.",
       "category": "Gaming",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/06/get-another-look-at-star-fox-on-switch-2-in-new-overview-trailer",
-      "image": "https://images.nintendolife.com/b9571e1c781bd/large.jpg",
-      "published_at": "2026-06-02T12:55:00Z",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV1ZvWEEybng2Rjl4X3hiRWNsOHU1SWVJN0NNSldDbDR1bTMweHlfN1pBM2xQblVOZEpZQlQyV0lCNlBLRmlmQzNnc3VieW9aX0lxUWI3WHZpdTE5REdwRi05T2JsWVd4NHRPbU9iMnZaNU9vYUpkRnlRZHU2bFZVQkpyZHd4R3J4bl9KMVVaWndSOUpmTmxkeVVJOElnLXJSNlNmejBTRjdBbU85LVh3bXZDbEdpbnlnNk44?oc=5",
+      "image": "",
+      "published_at": "2026-06-03T15:12:43Z",
       "key_points": [
-        "New trailer for Star Fox",
-        "Showcases gameplay features",
-        "Excitement builds for release"
+        "Fans demand 'Destiny 3'",
+        "PlayStation event overwhelmed",
+        "Community eager for new content"
       ],
-      "impact": "Anticipation for Star Fox continues to grow.",
-      "id": "f58e6e6f849807cd72ca7ae6c21f22e7"
+      "impact": "Player demands highlight community engagement.",
+      "id": "210cf135594b55acd8b640dc8e621c11"
+    },
+    {
+      "title": "Microsoft’s Surface Laptop Ultra Unveiled",
+      "description": "Microsoft showcases the Surface Laptop Ultra, emphasizing performance, battery life, and display quality. This new model aims to enhance user productivity.",
+      "category": "Hardware",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/941600/microsoft-surface-laptop-ultra-dev-box-hands-on",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/surfacelaptopultra1.jpg?quality=90&strip=all&crop=0%2C10.462709848801%2C100%2C79.074580302398&w=1200",
+      "published_at": "2026-06-03T13:22:17Z",
+      "key_points": [
+        "Surface Laptop Ultra launched",
+        "Focus on performance and battery",
+        "Enhanced display quality"
+      ],
+      "impact": "Microsoft targets productivity with new laptop.",
+      "id": "f90cf2af4c8533ada9177486fd542dbe"
+    },
+    {
+      "title": "Pokémon Champions Launching on Mobile",
+      "description": "Pokémon Champions will be available on Android and iOS starting June 17. Pre-registration is open, offering exclusive rewards.",
+      "category": "Gaming",
+      "source": "Pokemon.com",
+      "url": "https://www.pokemon.com/us/pokemon-news/pokemon-champions-comes-to-android-and-ios-on-june-17",
+      "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-champions/2026/03/24/pokemon-champions-169.png",
+      "published_at": "2026-06-03T13:03:24Z",
+      "key_points": [
+        "Pokémon Champions on mobile",
+        "Launch date: June 17",
+        "Pre-registration rewards available"
+      ],
+      "impact": "Mobile launch expands Pokémon's reach.",
+      "id": "ffe3f8a7d2de00f22ad7c177f54341ac"
+    },
+    {
+      "title": "New Games Coming to Xbox Game Pass",
+      "description": "Xbox Game Pass adds new titles including Starseeker and Beastro. Players can pre-install ahead of the upcoming showcase.",
+      "category": "Gaming",
+      "source": "Xbox.com",
+      "url": "https://news.xbox.com/en-us/2026/06/03/xbox-game-pass-june-2026-wave-1/",
+      "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/XBOX_GamePass_Announcement_EN_June3rd_9T_16x9-a5bb4d0acdd3665bccc1.jpg",
+      "published_at": "2026-06-03T13:01:31Z",
+      "key_points": [
+        "New titles for Xbox Game Pass",
+        "Includes Starseeker and Beastro",
+        "Pre-install options available"
+      ],
+      "impact": "Xbox Game Pass enhances gaming library.",
+      "id": "d631f2c181570d73764ba7873a99d54e"
+    },
+    {
+      "title": "Plex Introduces Social Features Amid Price Hike",
+      "description": "Plex adds new social features as it prepares for a significant price increase on its lifetime pass. Users can expect enhanced community engagement.",
+      "category": "Software",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSk9KZ0k4cFduN1dsSVQxYmVXZFNJYjRtM3RjNHFIS3hvUU94MlNMcE9TN3FTSGl1Q0Jmc3hlU2FLX0NFUkMzMlNyalluZlpWUG1UNmpFb01xbHUyTmphekJ6b3gxcUs2RWlZYnF5d3JmMUlMZlN0U2MxWXBzemdoeXRjN0drd21mQ2k1OEkwTDZDVU1lTngw?oc=5",
+      "image": "",
+      "published_at": "2026-06-03T13:00:00Z",
+      "key_points": [
+        "Plex adds social features",
+        "Lifetime pass price increase",
+        "Enhanced community engagement"
+      ],
+      "impact": "Plex aims to boost user interaction.",
+      "id": "a34644a615c52cf2a4091d74d4464916"
+    },
+    {
+      "title": "Tomb Raider: Legacy of Atlantis Uses AI",
+      "description": "Tomb Raider: Legacy of Atlantis includes an AI disclaimer, revealing the use of AI in its development. This raises discussions on AI's role in gaming.",
+      "category": "Gaming",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/tomb-raider-legacy-of-atlantis-comes-with-an-ai-disclaimer",
+      "image": "https://assetsio.gnwcdn.com/lara-ai.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-03T11:06:52Z",
+      "key_points": [
+        "AI used in game development",
+        "Tomb Raider's new title",
+        "AI disclaimer included"
+      ],
+      "impact": "AI's role in gaming sparks debate.",
+      "id": "1bf94de69d5f953178f63020b8483967"
+    },
+    {
+      "title": "Gabe Newell Responds to Steam Monopoly Claims",
+      "description": "Valve's Gabe Newell refutes monopoly accusations, asserting players have 'enormous choice' in the gaming market. This statement aims to clarify Steam's position.",
+      "category": "Business",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/gabe-newell-says-players-have-enormous-choice-when-pressed-on-steam-monopoly-accusations-report-says",
+      "image": "https://assets-prd.ignimgs.com/2026/06/02/gabe-newell-1780432318412.png?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-03T10:17:14Z",
+      "key_points": [
+        "Newell denies monopoly claims",
+        "Players have many choices",
+        "Steam's market position clarified"
+      ],
+      "impact": "Newell's comments aim to reassure players.",
+      "id": "68b3e22b9954a22e83bdd26f943826db"
+    },
+    {
+      "title": "Marathon Season 2 Launches with Issues",
+      "description": "Marathon Season 2 faces a troubled launch due to numerous errors and bugs. Players are expressing frustration over the game's performance.",
+      "category": "Gaming",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JWXRuQUhodFQzNFAtY3hTRTdfNHJBU0UtWWdYTVlvbWczVmZJQ09HQVRYT0haX3hDQ2FmVGx1Y3g1MHRTOHlfYmNrZWZ5VGFabnpvdXRoSzBIVTMxQlhpeEJyb2VRdw?oc=5",
+      "image": "",
+      "published_at": "2026-06-03T09:43:27Z",
+      "key_points": [
+        "Marathon Season 2 launched",
+        "Numerous bugs reported",
+        "Player frustration evident"
+      ],
+      "impact": "Launch issues may affect player retention.",
+      "id": "48d35b6d0cd6c7ecb8687d2a592bd8a8"
+    },
+    {
+      "title": "AI Supercharges Computer Worms",
+      "description": "Scientists have discovered a method to enhance dangerous computer worms using AI. This development raises cybersecurity concerns.",
+      "category": "Security",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZlA2dUQyeWFBS1ZWNmVuQTdKNVhsdFBDZGFVeTBTSXlvM0NWVElLSzJqYmkxTjhQM3JvcEdiOS14RDVWcmpFZkZ5ZGNRaW5QVjhGcUtjaUpFekFoWktKc1kyeWNScWlxWk8tTjl0TmRxOWN6Y2pEbklzNjZzLWhZdjI0a3NVRUtySUFiREo4VU5yY3R3UnRfWUVzNXR6dnk4WDJDRG1RbFZnOUtIMGpjeUhmOTR2TmJxS3c?oc=5",
+      "image": "",
+      "published_at": "2026-06-03T00:37:55Z",
+      "key_points": [
+        "AI enhances computer worms",
+        "New cybersecurity concerns",
+        "Research raises alarms"
+      ],
+      "impact": "AI's role in malware evolution is alarming.",
+      "id": "5a3460b148e0b6c3bb40ba060498fdf9"
+    },
+    {
+      "title": "September 2026 Packed with Game Releases",
+      "description": "September 2026 will see a surge of game releases trying to avoid competition with Grand Theft Auto VI. Developers are strategizing around its launch.",
+      "category": "Gaming",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/september-2026-is-packed-with-games-trying-to-avoid-gta-6/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/04/gamespot.png",
+      "published_at": "2026-06-02T22:28:47Z",
+      "key_points": [
+        "September 2026 game releases",
+        "Developers avoiding GTA VI",
+        "Strategic launch planning underway"
+      ],
+      "impact": "GTA VI's release impacts industry scheduling.",
+      "id": "351ea3ea2ddc035f10f2aad9d76bf0c7"
+    },
+    {
+      "title": "Control Resonant Release Date Update",
+      "description": "Control Resonant has received an exciting update regarding its release date. Fans are eager for more details.",
+      "category": "Gaming",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NMkhSYlRDRUdldEdOZzVJbkVyUjBSak9BVnZzS2hNTlFxM3pwa0pPNWVHOE9BQ2JhaUNPRzRFRldjcHVkbHBBRkJkTFNKYWN1aElkS01BZ0YxaWJWZEdMS3JYS2R1SUdsTjl2VFNEc2s?oc=5",
+      "image": "",
+      "published_at": "2026-06-02T21:55:57Z",
+      "key_points": [
+        "Control Resonant release date update",
+        "Fans eager for details",
+        "Anticipation builds for launch"
+      ],
+      "impact": "Fans await eagerly for the game's release.",
+      "id": "634926b1860294846ddad4713ffe5ea1"
+    },
+    {
+      "title": "Onimusha: Way of the Sword Release Date Announced",
+      "description": "Onimusha: Way of the Sword is set for a September release, with a playable demo available now. Fans can experience the game ahead of launch.",
+      "category": "Gaming",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LZl9STWNZTDZVMDR4YWg1U0pQTHRDU1dBbDdoTFZPX3cwUER5V1VKYlhtUUlmbXpyVU9rTkRDR3BVMmdjN3RJb2FwQlFFdnl6cV9URXVGc3dGMDBQR2duNlplSng0Y2VQNWxaTVBqMnNtblN6bXJ6a3BMR09RZw?oc=5",
+      "image": "",
+      "published_at": "2026-06-02T21:33:41Z",
+      "key_points": [
+        "Onimusha release date set",
+        "Playable demo available now",
+        "Fans can try before launch"
+      ],
+      "impact": "Demo allows early player engagement.",
+      "id": "a18a46613629d74a7cf320fb37544fdc"
+    },
+    {
+      "title": "Apple's AI Test at WWDC on June 8",
+      "description": "Apple's major AI test is set for June 8 at WWDC. This event could have significant implications for the company's future direction.",
+      "category": "Business",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPXy02dHNOeWFtVUptYzV0WWloY0hfY0VpZEgwLUlYUVQ2WlNlVTVIQUd4aXNfVmstOVI4Tk56b3J1X2pDcnppb1huelZZZXpDVG1HRXpja01MVXVJVm5CYTc2VXhES3NZNWJQdU9QanlGUk5iR2tLcTB5b3FSZTNhNXMzMFFWUmlwYUhuMlhfeXVTdw?oc=5",
+      "image": "",
+      "published_at": "2026-06-02T20:49:00Z",
+      "key_points": [
+        "Apple's AI test on June 8",
+        "WWDC event implications",
+        "Future direction at stake"
+      ],
+      "impact": "WWDC could redefine Apple's AI strategy.",
+      "id": "6e7efa18fdcf3852914ecec2b09dd572"
     }
   ]
 }
