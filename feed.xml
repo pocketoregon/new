@@ -5,143 +5,116 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jun 2026 03:39:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 09:46:41 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>AI Founders Boost Roblox's Reality Vision</title>
-      <description>Roblox recruits AI pioneers to enhance photorealistic world models. This move aims to tackle latency, consistency, and quality challenges in interactive AI.</description>
-      <link>https://about.roblox.com/newsroom/2026/06/pioneering-ai-founders-join-to-accelerate-roblox-reality-vision</link>
-      <guid isPermaLink="true">https://about.roblox.com/newsroom/2026/06/pioneering-ai-founders-join-to-accelerate-roblox-reality-vision</guid>
-      <pubDate>2026-06-03T21:55:42Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://about.roblox.com/newsroom/2026/06/pioneering-ai-founders-join-to-accelerate-roblox-reality-vision">Roblox.com</source>
+      <title>Nvidia Expands AI Reach to Laptops</title>
+      <description>Nvidia enters the laptop market, challenging Apple, Intel, AMD, and Qualcomm in the AI space. This move signifies a new competitive front in the tech industry.</description>
+      <link>https://www.ft.com/content/4db277bf-e67b-473d-a75e-e358fb31f69b?syn-25a6b1a6\u003d1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/4db277bf-e67b-473d-a75e-e358fb31f69b?syn-25a6b1a6\u003d1</guid>
+      <pubDate>2026-06-04T04:01:40Z</pubDate>
+      <category>AI</category>
+      <source url="https://www.ft.com/content/4db277bf-e67b-473d-a75e-e358fb31f69b?syn-25a6b1a6\u003d1">Financial Times</source>
     </item>
     <item>
-      <title>Metaverse Executive Exits After Brief Tenure</title>
-      <description>Gabriel Aul, head of Meta's Metaverse unit, has left after a few months. Saxs Persson from Epic Games takes over amid shifting priorities.</description>
-      <link>https://www.businessinsider.com/top-metaverse-exec-quietly-left-four-months-ago-2026-6</link>
-      <guid isPermaLink="true">https://www.businessinsider.com/top-metaverse-exec-quietly-left-four-months-ago-2026-6</guid>
-      <pubDate>2026-06-03T20:38:00Z</pubDate>
-      <category>Geopolitics</category>
-      <source url="https://www.businessinsider.com/top-metaverse-exec-quietly-left-four-months-ago-2026-6">Business Insider</source>
-    </item>
-    <item>
-      <title>Google's Dreambeans Turns Life Into Cartoons</title>
-      <description>Dreambeans, a new AI tool, animates personal stories from Google account data. It's available on iOS and Android.</description>
-      <link>https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/</guid>
-      <pubDate>2026-06-03T19:07:42Z</pubDate>
+      <title>Google AI Edge Gallery Now on macOS</title>
+      <description>Google launches AI Edge Gallery for macOS, enabling local Gemini model execution. The update includes the Gemma 4 12B model and Eloquent dictation app.</description>
+      <link>https://9to5mac.com/2026/06/03/google-ai-edge-gallery-launches-to-macos-letting-mac-users-run-gemini-models-locally/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/03/google-ai-edge-gallery-launches-to-macos-letting-mac-users-run-gemini-models-locally/</guid>
+      <pubDate>2026-06-04T02:58:00Z</pubDate>
       <category>Software</category>
-      <source url="https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/">TechCrunch</source>
+      <source url="https://9to5mac.com/2026/06/03/google-ai-edge-gallery-launches-to-macos-letting-mac-users-run-gemini-models-locally/">9to5Mac</source>
     </item>
     <item>
-      <title>Apple Shifts Focus from Vision Pro to Smart Glasses</title>
-      <description>Apple's new CEO has revised plans for Vision Pro successors, prioritizing smart glasses instead. This marks a significant strategic shift.</description>
-      <link>https://www.macrumors.com/2026/06/03/kuo-vision-pro-successors-nixed/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/06/03/kuo-vision-pro-successors-nixed/</guid>
-      <pubDate>2026-06-03T18:14:01Z</pubDate>
+      <title>Apple to Use Nvidia Chips for Siri</title>
+      <description>Apple plans to integrate Nvidia chips into the new Gemini-powered Siri, enhancing its functionality. This collaboration marks a significant shift in Siri's architecture.</description>
+      <link>https://9to5mac.com/2026/06/03/report-details-apples-plan-to-use-nvidia-chips-for-the-gemini-powered-siri/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/03/report-details-apples-plan-to-use-nvidia-chips-for-the-gemini-powered-siri/</guid>
+      <pubDate>2026-06-04T00:25:00Z</pubDate>
+      <category>Software</category>
+      <source url="https://9to5mac.com/2026/06/03/report-details-apples-plan-to-use-nvidia-chips-for-the-gemini-powered-siri/">9to5Mac</source>
+    </item>
+    <item>
+      <title>Pixel 11 Series May Feature New Colors</title>
+      <description>Rumors suggest Google will introduce unexpected color options for the Pixel 11 series. This could attract more consumers to the new devices.</description>
+      <link>https://www.phonearena.com/news/google-may-have-surprising-new-colors-for-the-pixel-11-series-phones_id180857</link>
+      <guid isPermaLink="true">https://www.phonearena.com/news/google-may-have-surprising-new-colors-for-the-pixel-11-series-phones_id180857</guid>
+      <pubDate>2026-06-04T00:19:40Z</pubDate>
       <category>Business</category>
-      <source url="https://www.macrumors.com/2026/06/03/kuo-vision-pro-successors-nixed/">MacRumors</source>
+      <source url="https://www.phonearena.com/news/google-may-have-surprising-new-colors-for-the-pixel-11-series-phones_id180857">PhoneArena</source>
     </item>
     <item>
-      <title>New AI Worm Poses Unprecedented Cyber Threat</title>
-      <description>Researchers unveil a self-replicating AI worm capable of autonomously taking over networks. This development raises significant cybersecurity concerns.</description>
-      <link>https://gizmodo.com/a-fundamentally-new-threat-researchers-develop-new-ai-powered-worm-that-might-be-unstoppable-2000766975</link>
-      <guid isPermaLink="true">https://gizmodo.com/a-fundamentally-new-threat-researchers-develop-new-ai-powered-worm-that-might-be-unstoppable-2000766975</guid>
-      <pubDate>2026-06-03T16:50:06Z</pubDate>
-      <category>Security</category>
-      <source url="https://gizmodo.com/a-fundamentally-new-threat-researchers-develop-new-ai-powered-worm-that-might-be-unstoppable-2000766975">Gizmodo.com</source>
-    </item>
-    <item>
-      <title>Best Bond Story Since Casino Royale: A Game Review</title>
-      <description>'007: First Light' is hailed as the best Bond game, featuring a well-developed spy character. It surpasses previous adaptations.</description>
-      <link>https://www.washingtonpost.com/style/2026/06/03/007-first-light-is-best-james-bond-story-since-casino-royale/</link>
-      <guid isPermaLink="true">https://www.washingtonpost.com/style/2026/06/03/007-first-light-is-best-james-bond-story-since-casino-royale/</guid>
-      <pubDate>2026-06-03T16:32:12Z</pubDate>
+      <title>Nintendo Switch 2 to Feature Replaceable Battery</title>
+      <description>Nintendo confirms the Switch 2 will have a replaceable battery in the EU, complying with new regulations. This change aims to enhance user convenience.</description>
+      <link>https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu</link>
+      <guid isPermaLink="true">https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu</guid>
+      <pubDate>2026-06-04T00:04:00Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.washingtonpost.com/style/2026/06/03/007-first-light-is-best-james-bond-story-since-casino-royale/">The Washington Post</source>
+      <source url="https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu">The Verge</source>
     </item>
     <item>
-      <title>GTA 6 Sparks September Gaming Showdown</title>
-      <description>GTA 6's release prompts other major games to launch in September, creating a competitive landscape. The month is set for intense gaming battles.</description>
-      <link>https://www.ign.com/articles/gta-6-has-turned-september-into-a-video-game-battle-royale</link>
-      <guid isPermaLink="true">https://www.ign.com/articles/gta-6-has-turned-september-into-a-video-game-battle-royale</guid>
-      <pubDate>2026-06-03T16:30:00Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.ign.com/articles/gta-6-has-turned-september-into-a-video-game-battle-royale">IGN</source>
-    </item>
-    <item>
-      <title>Samsung Confirms Galaxy Z Fold 8 Ultra</title>
-      <description>Samsung announces two Galaxy Z Fold 8 models, including the Ultra variant. The name has been confirmed ahead of launch.</description>
-      <link>http://9to5google.com/2026/06/03/galaxy-z-fold-8-ultra-name-confirmed/</link>
-      <guid isPermaLink="true">http://9to5google.com/2026/06/03/galaxy-z-fold-8-ultra-name-confirmed/</guid>
-      <pubDate>2026-06-03T16:12:00Z</pubDate>
+      <title>Samsung Galaxy Watch Update Enhances Health Features</title>
+      <description>Samsung announces a major update for the Galaxy Watch, transforming it into a proactive health companion. The update rolls out on June 8.</description>
+      <link>https://news.samsung.com/global/samsung-introduces-next-gen-galaxy-watch-features-for-ai-powered-everyday-health-companion</link>
+      <guid isPermaLink="true">https://news.samsung.com/global/samsung-introduces-next-gen-galaxy-watch-features-for-ai-powered-everyday-health-companion</guid>
+      <pubDate>2026-06-03T23:00:00Z</pubDate>
       <category>Hardware</category>
-      <source url="http://9to5google.com/2026/06/03/galaxy-z-fold-8-ultra-name-confirmed/">9to5Google</source>
+      <source url="https://news.samsung.com/global/samsung-introduces-next-gen-galaxy-watch-features-for-ai-powered-everyday-health-companion">samsung.com</source>
     </item>
     <item>
-      <title>Wario64's Brief Ban Over Rayman Leak</title>
-      <description>Wario64, a popular deals expert, faced a short ban on Bluesky for posting a Rayman leak. He was quickly reinstated.</description>
-      <link>https://kotaku.com/wario64-banned-and-unbanned-in-record-time-over-rayman-leak-2000702015</link>
-      <guid isPermaLink="true">https://kotaku.com/wario64-banned-and-unbanned-in-record-time-over-rayman-leak-2000702015</guid>
-      <pubDate>2026-06-03T16:07:46Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://kotaku.com/wario64-banned-and-unbanned-in-record-time-over-rayman-leak-2000702015">Kotaku</source>
+      <title>New AI-Powered Worm Raises Cybersecurity Concerns</title>
+      <description>Researchers develop an AI-powered worm that adapts to targets, posing new cybersecurity threats. This innovation could change defense strategies.</description>
+      <link>https://fortune.com/2026/06/03/a-new-ai-powered-computer-worm-could-prove-to-be-the-stuff-of-cybersecurity-nightmares/</link>
+      <guid isPermaLink="true">https://fortune.com/2026/06/03/a-new-ai-powered-computer-worm-could-prove-to-be-the-stuff-of-cybersecurity-nightmares/</guid>
+      <pubDate>2026-06-03T17:42:00Z</pubDate>
+      <category>Security</category>
+      <source url="https://fortune.com/2026/06/03/a-new-ai-powered-computer-worm-could-prove-to-be-the-stuff-of-cybersecurity-nightmares/">Fortune</source>
     </item>
     <item>
-      <title>AI Music Generator Suno Raises $400M Amid Lawsuits</title>
-      <description>Suno, an AI music generator, secures $400 million in funding despite ongoing copyright lawsuits. Its valuation now exceeds $5.4 billion.</description>
-      <link>https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/</guid>
-      <pubDate>2026-06-03T15:31:42Z</pubDate>
-      <category>Startups</category>
-      <source url="https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Destiny 2 Fans Demand Destiny 3</title>
-      <description>Destiny 2 players are vocalizing their desire for a sequel, urging Sony to develop Destiny 3 as support for the current game ends.</description>
-      <link>https://www.forbes.com/sites/paultassi/2026/06/03/destiny-2-fans-drown-playstations-state-of-play-in-destiny-3-demands/</link>
-      <guid isPermaLink="true">https://www.forbes.com/sites/paultassi/2026/06/03/destiny-2-fans-drown-playstations-state-of-play-in-destiny-3-demands/</guid>
-      <pubDate>2026-06-03T15:12:43Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.forbes.com/sites/paultassi/2026/06/03/destiny-2-fans-drown-playstations-state-of-play-in-destiny-3-demands/">Forbes</source>
-    </item>
-    <item>
-      <title>EA SPORTS Launches F1 25 Season Pack</title>
-      <description>EA SPORTS releases the 2026 Season Pack for F1 25, updating the game with new regulations and features for fans.</description>
-      <link>https://corp.formula1.com/ea-sports-launch-the-2026-season-pack-on-f1-25-worldwide-today/</link>
-      <guid isPermaLink="true">https://corp.formula1.com/ea-sports-launch-the-2026-season-pack-on-f1-25-worldwide-today/</guid>
-      <pubDate>2026-06-03T15:02:26Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://corp.formula1.com/ea-sports-launch-the-2026-season-pack-on-f1-25-worldwide-today/">Formula 1</source>
-    </item>
-    <item>
-      <title>Apple Devices May Not Support New Software</title>
-      <description>Upcoming iOS 27, iPadOS 27, and macOS 27 may not be compatible with older Apple devices. Users should check compatibility ahead of WWDC.</description>
-      <link>https://9to5mac.com/2026/06/03/these-iphones-ipads-macs-may-not-support-apples-new-software/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/03/these-iphones-ipads-macs-may-not-support-apples-new-software/</guid>
-      <pubDate>2026-06-03T14:54:00Z</pubDate>
-      <category>Software</category>
-      <source url="https://9to5mac.com/2026/06/03/these-iphones-ipads-macs-may-not-support-apples-new-software/">9to5Mac</source>
-    </item>
-    <item>
-      <title>Microsoft Aims to Compete in AI Landscape</title>
-      <description>At Build 2026, Microsoft announces expanded AI initiatives, positioning itself as a key player in the AI space. Mustafa Suleyman emphasizes the need for innovation.</description>
-      <link>https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition</guid>
-      <pubDate>2026-06-03T14:04:00Z</pubDate>
+      <title>Microsoft Aims to Make Users Addicted to AI</title>
+      <description>Internal documents reveal Microsoft's strategy to make users addicted to its AI personal assistant. This raises ethical concerns about user engagement.</description>
+      <link>https://futurism.com/artificial-intelligence/microsoft-plots-addicted-to-its-ai</link>
+      <guid isPermaLink="true">https://futurism.com/artificial-intelligence/microsoft-plots-addicted-to-its-ai</guid>
+      <pubDate>2026-06-03T17:04:04Z</pubDate>
       <category>Business</category>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition">The Verge</source>
+      <source url="https://futurism.com/artificial-intelligence/microsoft-plots-addicted-to-its-ai">Futurism</source>
     </item>
     <item>
-      <title>Marathon Season 2 Launches with Bugs</title>
-      <description>Marathon's Season 2 launched with exciting new modes but faced significant bugs and errors. Players express disappointment over the launch issues.</description>
-      <link>https://www.eurogamer.net/marathon-season-2-launch-bugs</link>
-      <guid isPermaLink="true">https://www.eurogamer.net/marathon-season-2-launch-bugs</guid>
-      <pubDate>2026-06-03T09:43:27Z</pubDate>
+      <title>Control Resonant Early Access Exclusive to PS5</title>
+      <description>Control Resonant's early access is exclusive to PS5, despite being available on Xbox. This raises questions about platform exclusivity.</description>
+      <link>https://www.purexbox.com/news/2026/06/control-resonant-early-access-is-exclusive-to-ps5-but-at-least-we-get-play-anywhere-on-xbox</link>
+      <guid isPermaLink="true">https://www.purexbox.com/news/2026/06/control-resonant-early-access-is-exclusive-to-ps5-but-at-least-we-get-play-anywhere-on-xbox</guid>
+      <pubDate>2026-06-03T15:55:00Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.eurogamer.net/marathon-season-2-launch-bugs">Eurogamer.net</source>
+      <source url="https://www.purexbox.com/news/2026/06/control-resonant-early-access-is-exclusive-to-ps5-but-at-least-we-get-play-anywhere-on-xbox">Pure Xbox</source>
+    </item>
+    <item>
+      <title>LEGO Batman Game Launches on Switch 2</title>
+      <description>LEGO Batman: Legacy of the Dark Knight will launch on Nintendo Switch 2 on September 18, 2026. A new trailer has been released.</description>
+      <link>https://nintendoeverything.com/lego-batman-legacy-of-the-dark-knight-reveals-nintendo-switch-2-release-date-new-trailer/</link>
+      <guid isPermaLink="true">https://nintendoeverything.com/lego-batman-legacy-of-the-dark-knight-reveals-nintendo-switch-2-release-date-new-trailer/</guid>
+      <pubDate>2026-06-03T15:08:15Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://nintendoeverything.com/lego-batman-legacy-of-the-dark-knight-reveals-nintendo-switch-2-release-date-new-trailer/">Nintendoeverything.com</source>
+    </item>
+    <item>
+      <title>Microsoft Promotes Native Windows Apps at Build 2026</title>
+      <description>At Build 2026, Microsoft emphasizes the importance of native Windows apps, moving developers away from web wrappers. New tools and hardware support this shift.</description>
+      <link>https://www.windowscentral.com/software-apps/microsoft-drives-developers-toward-native-windows-apps-at-build-2026</link>
+      <guid isPermaLink="true">https://www.windowscentral.com/software-apps/microsoft-drives-developers-toward-native-windows-apps-at-build-2026</guid>
+      <pubDate>2026-06-03T15:00:00Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.windowscentral.com/software-apps/microsoft-drives-developers-toward-native-windows-apps-at-build-2026">Windows Central</source>
+    </item>
+    <item>
+      <title>F1 25: 2026 Season Pack Review</title>
+      <description>The 2026 Season Pack for F1 25 includes all teams and drivers, featuring new hybrid regulations. It's a must-have for completionists.</description>
+      <link>https://traxion.gg/f1-25-2026-season-pack-review/</link>
+      <guid isPermaLink="true">https://traxion.gg/f1-25-2026-season-pack-review/</guid>
+      <pubDate>2026-06-03T15:00:00Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://traxion.gg/f1-25-2026-season-pack-review/">Traxion.GG</source>
     </item>
   </channel>
 </rss>

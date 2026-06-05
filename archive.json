@@ -1,6 +1,205 @@
 {
   "batches": [
     {
+      "id": "2026-06-05T09:46:15.812900+00:00",
+      "fetched_at": "2026-06-05T09:46:15.812900+00:00",
+      "label": "Jun 05, 2026 — 09:46 AM UTC",
+      "articles": [
+        {
+          "title": "Nvidia Expands AI Reach to Laptops",
+          "description": "Nvidia enters the laptop market, challenging Apple, Intel, AMD, and Qualcomm in the AI space. This move signifies a new competitive front in the tech industry.",
+          "category": "AI",
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/4db277bf-e67b-473d-a75e-e358fb31f69b?syn-25a6b1a6\\u003d1",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0af7516f-a1fd-4f7d-80ee-fcf988dd0745.jpg?source=next-barrier-page",
+          "published_at": "2026-06-04T04:01:40Z",
+          "key_points": [
+            "Nvidia targets laptop market",
+            "Competes with major chipmakers",
+            "AI capabilities expanded"
+          ],
+          "impact": "Nvidia's move reshapes the laptop AI landscape.",
+          "id": "44a521729dea147286cd052eeca09b1f"
+        },
+        {
+          "title": "Google AI Edge Gallery Now on macOS",
+          "description": "Google launches AI Edge Gallery for macOS, enabling local Gemini model execution. The update includes the Gemma 4 12B model and Eloquent dictation app.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/03/google-ai-edge-gallery-launches-to-macos-letting-mac-users-run-gemini-models-locally/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/google-ai-edge-gallery.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-04T02:58:00Z",
+          "key_points": [
+            "AI models run locally",
+            "New dictation app released",
+            "Gemma 4 model introduced"
+          ],
+          "impact": "Mac users gain powerful AI capabilities locally.",
+          "id": "2edea5e552c4f131a1cdafe94dc74954"
+        },
+        {
+          "title": "Apple to Use Nvidia Chips for Siri",
+          "description": "Apple plans to integrate Nvidia chips into the new Gemini-powered Siri, enhancing its functionality. This collaboration marks a significant shift in Siri's architecture.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/03/report-details-apples-plan-to-use-nvidia-chips-for-the-gemini-powered-siri/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/siri.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-04T00:25:00Z",
+          "key_points": [
+            "Nvidia chips enhance Siri",
+            "Gemini architecture revealed",
+            "Apple's tech strategy evolves"
+          ],
+          "impact": "Siri's performance is set to improve significantly.",
+          "id": "83fa44349b1353170063a231653f3bcf"
+        },
+        {
+          "title": "Pixel 11 Series May Feature New Colors",
+          "description": "Rumors suggest Google will introduce unexpected color options for the Pixel 11 series. This could attract more consumers to the new devices.",
+          "category": "Business",
+          "source": "PhoneArena",
+          "url": "https://www.phonearena.com/news/google-may-have-surprising-new-colors-for-the-pixel-11-series-phones_id180857",
+          "image": "",
+          "published_at": "2026-06-04T00:19:40Z",
+          "key_points": [
+            "New colors for Pixel 11",
+            "Consumer interest anticipated",
+            "Google's design strategy shifts"
+          ],
+          "impact": "Color variety may boost Pixel 11 sales.",
+          "id": "b4eb579f7b6a31d6d36b72c4b09c1e63"
+        },
+        {
+          "title": "Nintendo Switch 2 to Feature Replaceable Battery",
+          "description": "Nintendo confirms the Switch 2 will have a replaceable battery in the EU, complying with new regulations. This change aims to enhance user convenience.",
+          "category": "Gaming",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0093_0ea1cb.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-04T00:04:00Z",
+          "key_points": [
+            "Switch 2 has replaceable battery",
+            "Complies with EU regulations",
+            "User-friendly design feature"
+          ],
+          "impact": "This feature enhances the Switch 2's appeal.",
+          "id": "8beeef1d02207cd7b9850c10b71c6d33"
+        },
+        {
+          "title": "Samsung Galaxy Watch Update Enhances Health Features",
+          "description": "Samsung announces a major update for the Galaxy Watch, transforming it into a proactive health companion. The update rolls out on June 8.",
+          "category": "Hardware",
+          "source": "samsung.com",
+          "url": "https://news.samsung.com/global/samsung-introduces-next-gen-galaxy-watch-features-for-ai-powered-everyday-health-companion",
+          "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/06/02162806/Samsung-Mobile-Next-Gen-Galaxy-Watch-AI-Powered-Health-Companion-Thumb932.jpg",
+          "published_at": "2026-06-03T23:00:00Z",
+          "key_points": [
+            "Galaxy Watch becomes health companion",
+            "Major app update announced",
+            "AI features integrated"
+          ],
+          "impact": "Samsung enhances user health monitoring capabilities.",
+          "id": "2d696ee13d534087928b72a67cefa0df"
+        },
+        {
+          "title": "New AI-Powered Worm Raises Cybersecurity Concerns",
+          "description": "Researchers develop an AI-powered worm that adapts to targets, posing new cybersecurity threats. This innovation could change defense strategies.",
+          "category": "Security",
+          "source": "Fortune",
+          "url": "https://fortune.com/2026/06/03/a-new-ai-powered-computer-worm-could-prove-to-be-the-stuff-of-cybersecurity-nightmares/",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-1346756826-e1780502054264.jpg?resize=1200,600",
+          "published_at": "2026-06-03T17:42:00Z",
+          "key_points": [
+            "AI worm adapts to targets",
+            "New cybersecurity threat emerges",
+            "Defense strategies may change"
+          ],
+          "impact": "This worm could revolutionize cybersecurity challenges.",
+          "id": "3e5544df3dc6f2e72573372670c97a30"
+        },
+        {
+          "title": "Microsoft Aims to Make Users Addicted to AI",
+          "description": "Internal documents reveal Microsoft's strategy to make users addicted to its AI personal assistant. This raises ethical concerns about user engagement.",
+          "category": "Business",
+          "source": "Futurism",
+          "url": "https://futurism.com/artificial-intelligence/microsoft-plots-addicted-to-its-ai",
+          "image": "https://futurism.com/wp-content/uploads/2026/06/microsoft-plots-addicted-to-its-ai.jpg?w=1200",
+          "published_at": "2026-06-03T17:04:04Z",
+          "key_points": [
+            "Microsoft targets AI user engagement",
+            "Ethical concerns arise",
+            "Addiction strategy revealed"
+          ],
+          "impact": "This strategy may spark ethical debates in tech.",
+          "id": "2e7d1c5f828ca2e0a3c0554badf64136"
+        },
+        {
+          "title": "Control Resonant Early Access Exclusive to PS5",
+          "description": "Control Resonant's early access is exclusive to PS5, despite being available on Xbox. This raises questions about platform exclusivity.",
+          "category": "Gaming",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/06/control-resonant-early-access-is-exclusive-to-ps5-but-at-least-we-get-play-anywhere-on-xbox",
+          "image": "https://images.purexbox.com/79dcff8005afe/large.jpg",
+          "published_at": "2026-06-03T15:55:00Z",
+          "key_points": [
+            "Early access exclusive to PS5",
+            "Xbox users get Play Anywhere",
+            "Platform exclusivity questioned"
+          ],
+          "impact": "Exclusivity may influence gaming platform choices.",
+          "id": "925324ef25b143751f4b08e262339d9e"
+        },
+        {
+          "title": "LEGO Batman Game Launches on Switch 2",
+          "description": "LEGO Batman: Legacy of the Dark Knight will launch on Nintendo Switch 2 on September 18, 2026. A new trailer has been released.",
+          "category": "Gaming",
+          "source": "Nintendoeverything.com",
+          "url": "https://nintendoeverything.com/lego-batman-legacy-of-the-dark-knight-reveals-nintendo-switch-2-release-date-new-trailer/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/LEGO-Batman-Legacy-of-the-Dark-Knight-release-date-Switch-2.jpg",
+          "published_at": "2026-06-03T15:08:15Z",
+          "key_points": [
+            "LEGO Batman game release date announced",
+            "New trailer revealed",
+            "Switch 2 gets exclusive title"
+          ],
+          "impact": "This title boosts Switch 2's game lineup.",
+          "id": "ea764d828b6d4eb004d97b3cbc12ddcb"
+        },
+        {
+          "title": "Microsoft Promotes Native Windows Apps at Build 2026",
+          "description": "At Build 2026, Microsoft emphasizes the importance of native Windows apps, moving developers away from web wrappers. New tools and hardware support this shift.",
+          "category": "Software",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/software-apps/microsoft-drives-developers-toward-native-windows-apps-at-build-2026",
+          "image": "https://cdn.mos.cms.futurecdn.net/jhjtcm3UCiV2Z7YrXkcGrb-2560-80.jpg",
+          "published_at": "2026-06-03T15:00:00Z",
+          "key_points": [
+            "Focus on native Windows apps",
+            "Developers encouraged to adapt",
+            "New tools introduced"
+          ],
+          "impact": "This shift may enhance Windows app performance.",
+          "id": "7e2019f7c2f32a6a5f74112ecfbde71d"
+        },
+        {
+          "title": "F1 25: 2026 Season Pack Review",
+          "description": "The 2026 Season Pack for F1 25 includes all teams and drivers, featuring new hybrid regulations. It's a must-have for completionists.",
+          "category": "Gaming",
+          "source": "Traxion.GG",
+          "url": "https://traxion.gg/f1-25-2026-season-pack-review/",
+          "image": "https://traxion.gg/wp-content/uploads/2026/06/F125_2026SeasonPack_FI.jpg",
+          "published_at": "2026-06-03T15:00:00Z",
+          "key_points": [
+            "Includes all teams and drivers",
+            "Features new hybrid regulations",
+            "Essential for racing fans"
+          ],
+          "impact": "This pack enhances the F1 25 gaming experience.",
+          "id": "d75dd874f49a4e854539c3649ede6807"
+        }
+      ]
+    },
+    {
       "id": "2026-06-05T03:38:35.662504+00:00",
       "fetched_at": "2026-06-05T03:38:35.662504+00:00",
       "label": "Jun 05, 2026 — 03:39 AM UTC",
@@ -5880,141 +6079,6 @@
           ],
           "impact": "Call of Duty's return boosts Nintendo's game lineup.",
           "id": "8b64fce4de039b5bd63200b929ef4bb8"
-        }
-      ]
-    },
-    {
-      "id": "2026-05-31T08:16:13.531701+00:00",
-      "fetched_at": "2026-05-31T08:16:13.531701+00:00",
-      "label": "May 31, 2026 — 08:16 AM UTC",
-      "articles": [
-        {
-          "title": "Rayman Origins: Enhanced Edition Leaked",
-          "description": "Rayman Origins: Enhanced Edition has leaked on the Xbox store, promising 4K resolution and 60 FPS. Ubisoft calls it the definitive experience for fans.",
-          "category": "Software",
-          "source": "Nintendoeverything.com",
-          "url": "https://nintendoeverything.com/rayman-origins-enhanced-edition-leaked-first-details-and-screenshots/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Rayman-Origins-Enhanced-Edition-leak.jpg",
-          "published_at": "2026-05-29T20:58:44Z",
-          "key_points": [
-            "4K resolution confirmed",
-            "60 FPS gameplay",
-            "Leaked on Xbox store"
-          ],
-          "impact": "This leak builds anticipation for the release.",
-          "id": "16fdb687071ecae6dd7595d0bd46a7f2"
-        },
-        {
-          "title": "Call of Duty: Modern Warfare 4 Launches on Switch 2",
-          "description": "Call of Duty: Modern Warfare 4 will launch simultaneously on Switch 2, PS5, Xbox Series X/S, and PC. The campaign will be single-player only.",
-          "category": "Software",
-          "source": "Digitalfoundry.net",
-          "url": "https://www.digitalfoundry.net/previews/call-of-duty-modern-warfare-4-will-be-the-first-to-ship-day-and-date-on-switch-2-alongside-ps5-xbox-series-xs-and-pc",
-          "image": "https://images.digitalfoundry.net/c99c84c8f3d48/large.jpg",
-          "published_at": "2026-05-29T20:34:36Z",
-          "key_points": [
-            "First COD on Switch 2",
-            "Single-player campaign only",
-            "Launches on multiple platforms"
-          ],
-          "impact": "This marks a significant expansion for the franchise.",
-          "id": "5c29073ed11161698870a6bab46ecb3d"
-        },
-        {
-          "title": "TP-Link Announces Wi-Fi 8 Router Launch",
-          "description": "TP-Link plans to launch its first Wi-Fi 8 router, the Archer 8, in October. This will kick off a new line of Wi-Fi 8 products.",
-          "category": "Hardware",
-          "source": "Gizmodo",
-          "url": "https://gizmodo.com/tp-link-says-screw-it-were-doing-wi-fi-8-now-2000765221",
-          "image": "https://gizmodo.com/app/uploads/2026/05/TP-Link-Wi-Fi-8-teaser-image-1200x675.jpg",
-          "published_at": "2026-05-29T20:25:49Z",
-          "key_points": [
-            "First Wi-Fi 8 router",
-            "Launch set for October",
-            "New product line coming"
-          ],
-          "impact": "Wi-Fi 8 promises faster connectivity options.",
-          "id": "ca472bba65edd44b4a26a8714c168856"
-        },
-        {
-          "title": "New AC Cobra Coupe Unveiled at $537,000",
-          "description": "The new AC Cobra coupe is priced at $537,000 and boasts 799 HP. This supercar combines modern design with classic performance.",
-          "category": "Business",
-          "source": "Theautopian.com",
-          "url": "https://www.theautopian.com/theres-a-new-ac-cobra-coupe-and-its-a-537000-lump-of-carbon-fiber-with-tires-as-thin-as-rubber-bands/",
-          "image": "https://images-stag.jazelc.com/uploads/theautopian-m2en/AC-Cobra-GT-TS.png",
-          "published_at": "2026-05-29T17:25:58Z",
-          "key_points": [
-            "Priced at $537,000",
-            "799 HP performance",
-            "Modern design meets classic"
-          ],
-          "impact": "This supercar targets high-end automotive enthusiasts.",
-          "id": "b2e9ac9a1dd71fc274606d249f3170dc"
-        },
-        {
-          "title": "Intel's Arc G3 Gaming Handhelds Announced",
-          "description": "Intel has officially launched its Arc G3 chipsets for gaming handhelds, debuting with Acer's Predator Atlas 8 and OneXPlayer 3. These devices promise powerful performance.",
-          "category": "Hardware",
-          "source": "Digitalfoundry.net",
-          "url": "https://www.digitalfoundry.net/news/2026/05/intels-arc-g3-goes-official-acer-predator-atlas-8-and-onexplayer-3-pc-gaming-handhelds-look-powerful-expensive",
-          "image": "https://images.digitalfoundry.net/a4e6588ae41e7/large.jpg",
-          "published_at": "2026-05-29T11:15:00Z",
-          "key_points": [
-            "Arc G3 chipsets launched",
-            "Powerful gaming handhelds",
-            "Acer Predator Atlas 8 featured"
-          ],
-          "impact": "Intel's entry boosts competition in handheld gaming.",
-          "id": "4455aaae6556cb70aed59fefcc29d424"
-        },
-        {
-          "title": "One UI 9 Watch Beta Launch Imminent",
-          "description": "Samsung is preparing to launch the One UI 9 Watch beta, featuring smarter AI and health upgrades. This follows nearly a year after One UI 8 Watch's debut.",
-          "category": "Software",
-          "source": "SamMobile",
-          "url": "https://www.sammobile.com/news/one-ui-9-watch-beta-may-be-around-the-corner-smarter-ai-health-upgrades/",
-          "image": "https://www.sammobile.com/wp-content/uploads/2025/11/Galaxy-Watch-8-Classic-2-1-1200x675.jpg",
-          "published_at": "2026-05-29T11:07:00Z",
-          "key_points": [
-            "One UI 9 beta coming soon",
-            "Focus on AI and health",
-            "Follows One UI 8 release"
-          ],
-          "impact": "This update enhances Samsung's smartwatch capabilities.",
-          "id": "3a6c395271e254da1db88732a0d88b5d"
-        },
-        {
-          "title": "Turning Off Phone Notifications: A Week's Experience",
-          "description": "A week without phone notifications revealed how much attention was consumed by apps and alerts. The silence was surprisingly refreshing.",
-          "category": "Policy",
-          "source": "CNET",
-          "url": "https://www.cnet.com/tech/services-and-software/features/i-turned-off-all-my-phone-notifications-for-a-week-heres-why-im-not-going-back/",
-          "image": "https://www.cnet.com/a/img/resize/06f3d55c956d91870a77f5f7e243be6eb66b0a7d/hub/2026/05/28/b35277e4-440e-43a1-9763-4df5de9c14af/hero.png?auto=webp&fit=crop&height=675&width=1200",
-          "published_at": "2026-05-29T10:00:00Z",
-          "key_points": [
-            "Notifications turned off for a week",
-            "Revealed attention consumption",
-            "Experience was refreshing"
-          ],
-          "impact": "This experiment highlights the need for digital balance.",
-          "id": "441050d4d40f01bb76d4371416d10df4"
-        },
-        {
-          "title": "Key Factors for Tipping Food Delivery Drivers",
-          "description": "A food delivery driver shares insights on tipping, emphasizing two main factors that should influence gratuity. Prudie's advice sparks discussion.",
-          "category": "Business",
-          "source": "Slate Magazine",
-          "url": "https://slate.com/advice/2026/05/delivery-food-how-much-to-tip-advice.html",
-          "image": "https://compote.slate.com/images/6abe8feb-56fe-4ca5-8f72-fc445ceacc90.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-          "published_at": "2026-05-29T10:00:00Z",
-          "key_points": [
-            "Two main tipping factors",
-            "Discussion sparked by Prudie",
-            "Focus on delivery quality"
-          ],
-          "impact": "This advice aims to improve tipping practices.",
-          "id": "7288a81f80819ca057253d06c0986fa3"
         }
       ]
     }
