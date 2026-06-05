@@ -1,197 +1,245 @@
 {
-  "generated_at": "2026-06-05T09:46:15.812900+00:00",
+  "generated_at": "2026-06-05T14:48:49.319063+00:00",
   "articles": [
     {
-      "title": "Nvidia Expands AI Reach to Laptops",
-      "description": "Nvidia enters the laptop market, challenging Apple, Intel, AMD, and Qualcomm in the AI space. This move signifies a new competitive front in the tech industry.",
-      "category": "AI",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/4db277bf-e67b-473d-a75e-e358fb31f69b?syn-25a6b1a6\\u003d1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0af7516f-a1fd-4f7d-80ee-fcf988dd0745.jpg?source=next-barrier-page",
-      "published_at": "2026-06-04T04:01:40Z",
-      "key_points": [
-        "Nvidia targets laptop market",
-        "Competes with major chipmakers",
-        "AI capabilities expanded"
-      ],
-      "impact": "Nvidia's move reshapes the laptop AI landscape.",
-      "id": "44a521729dea147286cd052eeca09b1f"
-    },
-    {
-      "title": "Google AI Edge Gallery Now on macOS",
-      "description": "Google launches AI Edge Gallery for macOS, enabling local Gemini model execution. The update includes the Gemma 4 12B model and Eloquent dictation app.",
-      "category": "Software",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/03/google-ai-edge-gallery-launches-to-macos-letting-mac-users-run-gemini-models-locally/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/google-ai-edge-gallery.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-04T02:58:00Z",
-      "key_points": [
-        "AI models run locally",
-        "New dictation app released",
-        "Gemma 4 model introduced"
-      ],
-      "impact": "Mac users gain powerful AI capabilities locally.",
-      "id": "2edea5e552c4f131a1cdafe94dc74954"
-    },
-    {
-      "title": "Apple to Use Nvidia Chips for Siri",
-      "description": "Apple plans to integrate Nvidia chips into the new Gemini-powered Siri, enhancing its functionality. This collaboration marks a significant shift in Siri's architecture.",
-      "category": "Software",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/03/report-details-apples-plan-to-use-nvidia-chips-for-the-gemini-powered-siri/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/siri.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-04T00:25:00Z",
-      "key_points": [
-        "Nvidia chips enhance Siri",
-        "Gemini architecture revealed",
-        "Apple's tech strategy evolves"
-      ],
-      "impact": "Siri's performance is set to improve significantly.",
-      "id": "83fa44349b1353170063a231653f3bcf"
-    },
-    {
-      "title": "Pixel 11 Series May Feature New Colors",
-      "description": "Rumors suggest Google will introduce unexpected color options for the Pixel 11 series. This could attract more consumers to the new devices.",
-      "category": "Business",
-      "source": "PhoneArena",
-      "url": "https://www.phonearena.com/news/google-may-have-surprising-new-colors-for-the-pixel-11-series-phones_id180857",
-      "image": "",
-      "published_at": "2026-06-04T00:19:40Z",
-      "key_points": [
-        "New colors for Pixel 11",
-        "Consumer interest anticipated",
-        "Google's design strategy shifts"
-      ],
-      "impact": "Color variety may boost Pixel 11 sales.",
-      "id": "b4eb579f7b6a31d6d36b72c4b09c1e63"
-    },
-    {
-      "title": "Nintendo Switch 2 to Feature Replaceable Battery",
-      "description": "Nintendo confirms the Switch 2 will have a replaceable battery in the EU, complying with new regulations. This change aims to enhance user convenience.",
-      "category": "Gaming",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0093_0ea1cb.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published_at": "2026-06-04T00:04:00Z",
-      "key_points": [
-        "Switch 2 has replaceable battery",
-        "Complies with EU regulations",
-        "User-friendly design feature"
-      ],
-      "impact": "This feature enhances the Switch 2's appeal.",
-      "id": "8beeef1d02207cd7b9850c10b71c6d33"
-    },
-    {
-      "title": "Samsung Galaxy Watch Update Enhances Health Features",
-      "description": "Samsung announces a major update for the Galaxy Watch, transforming it into a proactive health companion. The update rolls out on June 8.",
+      "title": "Google Unveils Fitbit Air CAD Specs for Accessories",
+      "description": "Google has released CAD drawings for the Fitbit Air, inviting third-party companies to create accessories. This move expands customization options for users.",
       "category": "Hardware",
-      "source": "samsung.com",
-      "url": "https://news.samsung.com/global/samsung-introduces-next-gen-galaxy-watch-features-for-ai-powered-everyday-health-companion",
-      "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/06/02162806/Samsung-Mobile-Next-Gen-Galaxy-Watch-AI-Powered-Health-Companion-Thumb932.jpg",
-      "published_at": "2026-06-03T23:00:00Z",
+      "source": "DC Rainmaker",
+      "url": "https://www.dcrainmaker.com/2026/06/google-releases-fitbit-air-cad-drawings-specs-bicep-bands-welcomed.html",
+      "image": "https://media.dcrainmaker.com/images/2026/06/FitbitAirCAD-1.png",
+      "published_at": "2026-06-04T09:38:36Z",
       "key_points": [
-        "Galaxy Watch becomes health companion",
-        "Major app update announced",
-        "AI features integrated"
+        "Fitbit Air CAD drawings released",
+        "Third-party accessories encouraged",
+        "Customization options expanded"
       ],
-      "impact": "Samsung enhances user health monitoring capabilities.",
-      "id": "2d696ee13d534087928b72a67cefa0df"
+      "impact": "This enhances user personalization for Fitbit devices.",
+      "id": "4bcdc6adbdc6fb314a9c9b7e8398031e"
     },
     {
-      "title": "New AI-Powered Worm Raises Cybersecurity Concerns",
-      "description": "Researchers develop an AI-powered worm that adapts to targets, posing new cybersecurity threats. This innovation could change defense strategies.",
-      "category": "Security",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/03/a-new-ai-powered-computer-worm-could-prove-to-be-the-stuff-of-cybersecurity-nightmares/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-1346756826-e1780502054264.jpg?resize=1200,600",
-      "published_at": "2026-06-03T17:42:00Z",
+      "title": "Shokz Launches Enhanced Open Earbuds",
+      "description": "Shokz has upgraded its open earbuds with improved sound quality and a lighter design. The new models include better noise reduction and a bone conduction microphone.",
+      "category": "Hardware",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/shokz_open2.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+      "published_at": "2026-06-04T07:00:00Z",
       "key_points": [
-        "AI worm adapts to targets",
-        "New cybersecurity threat emerges",
-        "Defense strategies may change"
+        "New lighter design",
+        "Improved sound quality",
+        "Better noise reduction"
       ],
-      "impact": "This worm could revolutionize cybersecurity challenges.",
-      "id": "3e5544df3dc6f2e72573372670c97a30"
+      "impact": "These earbuds enhance user audio experience.",
+      "id": "5860534f4dd640dfaa865d1663123100"
     },
     {
-      "title": "Microsoft Aims to Make Users Addicted to AI",
-      "description": "Internal documents reveal Microsoft's strategy to make users addicted to its AI personal assistant. This raises ethical concerns about user engagement.",
-      "category": "Business",
-      "source": "Futurism",
-      "url": "https://futurism.com/artificial-intelligence/microsoft-plots-addicted-to-its-ai",
-      "image": "https://futurism.com/wp-content/uploads/2026/06/microsoft-plots-addicted-to-its-ai.jpg?w=1200",
-      "published_at": "2026-06-03T17:04:04Z",
+      "title": "Corsair Unveils New High-End Power Supplies",
+      "description": "Corsair showcased the AX1600i SHIFT and HX1000i SHIFT CRYSTAL power supplies at Computex 2026. Both feature a new SHIFT layout for improved connectivity.",
+      "category": "Hardware",
+      "source": "Videocardz.com",
+      "url": "https://videocardz.com/newz/corsair-shows-ax1600i-shift-and-transparent-hx1000i-shift-crystal-power-supplies",
+      "image": "https://cdn.videocardz.com/1/2026/06/CORSAIR-COMPUTEX-PSU-HERO-1.jpg",
+      "published_at": "2026-06-03T16:24:41Z",
       "key_points": [
-        "Microsoft targets AI user engagement",
-        "Ethical concerns arise",
-        "Addiction strategy revealed"
+        "New SHIFT layout introduced",
+        "High-end power supplies",
+        "Improved modular connectors"
       ],
-      "impact": "This strategy may spark ethical debates in tech.",
-      "id": "2e7d1c5f828ca2e0a3c0554badf64136"
-    },
-    {
-      "title": "Control Resonant Early Access Exclusive to PS5",
-      "description": "Control Resonant's early access is exclusive to PS5, despite being available on Xbox. This raises questions about platform exclusivity.",
-      "category": "Gaming",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/06/control-resonant-early-access-is-exclusive-to-ps5-but-at-least-we-get-play-anywhere-on-xbox",
-      "image": "https://images.purexbox.com/79dcff8005afe/large.jpg",
-      "published_at": "2026-06-03T15:55:00Z",
-      "key_points": [
-        "Early access exclusive to PS5",
-        "Xbox users get Play Anywhere",
-        "Platform exclusivity questioned"
-      ],
-      "impact": "Exclusivity may influence gaming platform choices.",
-      "id": "925324ef25b143751f4b08e262339d9e"
+      "impact": "This innovation enhances power supply usability.",
+      "id": "b891a309195b4537d2f16cae956c2a96"
     },
     {
       "title": "LEGO Batman Game Launches on Switch 2",
-      "description": "LEGO Batman: Legacy of the Dark Knight will launch on Nintendo Switch 2 on September 18, 2026. A new trailer has been released.",
+      "description": "LEGO Batman: Legacy of the Dark Knight will release on Nintendo Switch 2 on September 18, 2026. A new trailer has also been unveiled.",
       "category": "Gaming",
       "source": "Nintendoeverything.com",
       "url": "https://nintendoeverything.com/lego-batman-legacy-of-the-dark-knight-reveals-nintendo-switch-2-release-date-new-trailer/",
       "image": "https://nintendoeverything.com/wp-content/uploads/LEGO-Batman-Legacy-of-the-Dark-Knight-release-date-Switch-2.jpg",
       "published_at": "2026-06-03T15:08:15Z",
       "key_points": [
-        "LEGO Batman game release date announced",
+        "Release date confirmed",
         "New trailer revealed",
-        "Switch 2 gets exclusive title"
+        "Switch 2 exclusive"
       ],
-      "impact": "This title boosts Switch 2's game lineup.",
-      "id": "ea764d828b6d4eb004d97b3cbc12ddcb"
+      "impact": "This boosts excitement for Switch 2 gaming.",
+      "id": "fbc078290dd5c4102ba2b58a47de14ee"
     },
     {
-      "title": "Microsoft Promotes Native Windows Apps at Build 2026",
-      "description": "At Build 2026, Microsoft emphasizes the importance of native Windows apps, moving developers away from web wrappers. New tools and hardware support this shift.",
-      "category": "Software",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/software-apps/microsoft-drives-developers-toward-native-windows-apps-at-build-2026",
-      "image": "https://cdn.mos.cms.futurecdn.net/jhjtcm3UCiV2Z7YrXkcGrb-2560-80.jpg",
-      "published_at": "2026-06-03T15:00:00Z",
-      "key_points": [
-        "Focus on native Windows apps",
-        "Developers encouraged to adapt",
-        "New tools introduced"
-      ],
-      "impact": "This shift may enhance Windows app performance.",
-      "id": "7e2019f7c2f32a6a5f74112ecfbde71d"
-    },
-    {
-      "title": "F1 25: 2026 Season Pack Review",
-      "description": "The 2026 Season Pack for F1 25 includes all teams and drivers, featuring new hybrid regulations. It's a must-have for completionists.",
+      "title": "Top PlayStation Games of May Revealed",
+      "description": "May's top-selling PlayStation games include FC 26 and new titles like 007 First Light. The report highlights cross-platform performance metrics.",
       "category": "Gaming",
-      "source": "Traxion.GG",
-      "url": "https://traxion.gg/f1-25-2026-season-pack-review/",
-      "image": "https://traxion.gg/wp-content/uploads/2026/06/F125_2026SeasonPack_FI.jpg",
-      "published_at": "2026-06-03T15:00:00Z",
+      "source": "Substack.com",
+      "url": "https://alineaanalytics.substack.com/p/mays-top-playstation-games-by-copies",
+      "image": "https://substackcdn.com/image/fetch/$s_!ONkK!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc82a16b-fb89-48fa-930a-b4f3dab7595f_1920x1080.png",
+      "published_at": "2026-06-03T14:48:40Z",
       "key_points": [
-        "Includes all teams and drivers",
-        "Features new hybrid regulations",
-        "Essential for racing fans"
+        "Top games listed",
+        "Includes new launches",
+        "Cross-platform metrics shared"
       ],
-      "impact": "This pack enhances the F1 25 gaming experience.",
-      "id": "d75dd874f49a4e854539c3649ede6807"
+      "impact": "This informs trends in PlayStation gaming.",
+      "id": "a970b3ead5a244dbf57ce4e7b347a00c"
+    },
+    {
+      "title": "Google Acquires Android App Code for AI Training",
+      "description": "Google is reportedly purchasing Android app code from developers to enhance its AI models. This initiative aims to improve coding capabilities.",
+      "category": "Software",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/06/03/google-android-app-code-ai-models/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/android-figures-mwc-2026-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-03T14:15:00Z",
+      "key_points": [
+        "Google buys app code",
+        "Enhances AI training",
+        "Focus on coding capabilities"
+      ],
+      "impact": "This strengthens Google's AI development efforts.",
+      "id": "db70919ed69573a3c00aad04fd48817e"
+    },
+    {
+      "title": "Gemini Introduces Free Thinking Modes",
+      "description": "Gemini has made its new thinking modes available for free to all users. This update enhances user experience and functionality.",
+      "category": "Software",
+      "source": "PhoneArena",
+      "url": "https://www.phonearena.com/news/gemini-new-thinking-modes-are-now-free_id180848",
+      "image": "",
+      "published_at": "2026-06-03T13:53:49Z",
+      "key_points": [
+        "New modes available for free",
+        "Enhances user experience",
+        "Improves functionality"
+      ],
+      "impact": "This increases accessibility for Gemini users.",
+      "id": "b7d3fad0deeeab65a6b288f442b82d92"
+    },
+    {
+      "title": "Pokémon Champions Launches on Mobile June 17",
+      "description": "Pokémon Champions will be available on iOS and Android starting June 17, 2026. New in-game features and cross-platform functionality are confirmed.",
+      "category": "Gaming",
+      "source": "Pokemon.com",
+      "url": "https://press.pokemon.com/en/Pokemon-Champions-Launches-June-17-on-iOS-and-Android-Devices-The-Poke",
+      "image": "https://imguscdn.gamespress.com/cdn/files/PokemonAmerica/2025/02/271414-780dd1a0/Pokemon_Champions_Logo.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=7985795bb75f7118e37ae2b41fa151e0a94f13bb0f21f6b55b2015468c25736a",
+      "published_at": "2026-06-03T13:05:25Z",
+      "key_points": [
+        "Mobile launch on June 17",
+        "New features unveiled",
+        "Cross-platform functionality confirmed"
+      ],
+      "impact": "This expands Pokémon's mobile gaming reach.",
+      "id": "e690c64a87913fb055c7cb9b0bf3ad74"
+    },
+    {
+      "title": "Leaked iPhone 18 Pro Details Spark Interest",
+      "description": "Leaked information about the iPhone 18 Pro reveals a variable aperture camera and a powerful 2-nm A20 Pro chip. The device also boasts a 5,200 mAh battery.",
+      "category": "Hardware",
+      "source": "Geeky Gadgets",
+      "url": "https://www.geeky-gadgets.com/iphone-18-pro-leaks-camera-battery/",
+      "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/iphone-18-pro.jpg",
+      "published_at": "2026-06-03T13:02:09Z",
+      "key_points": [
+        "New camera technology",
+        "Powerful A20 Pro chip",
+        "Large battery capacity"
+      ],
+      "impact": "This raises expectations for Apple's next flagship.",
+      "id": "b3ac43085874db440632c0e1f9dceb01"
+    },
+    {
+      "title": "PS5 State of Play Breaks Viewership Records",
+      "description": "The latest PS5 State of Play has become the most-watched episode ever, surpassing previous showcases. This indicates growing interest in PlayStation content.",
+      "category": "Gaming",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/06/latest-ps5-state-of-play-already-most-watched-ever-on-track-to-overtake-ps-showcases",
+      "image": "https://images.pushsquare.com/539ea14cedd28/large.jpg",
+      "published_at": "2026-06-03T13:00:00Z",
+      "key_points": [
+        "Most-watched State of Play",
+        "Surpasses previous showcases",
+        "Growing interest in PlayStation"
+      ],
+      "impact": "This highlights PlayStation's strong community engagement.",
+      "id": "c3cbf706cca9bc840a1bcc83455ef707"
+    },
+    {
+      "title": "Smart Wearable Tracks Fart Emissions",
+      "description": "Researchers at the University of Maryland have developed a smart wearable to monitor fart emissions. The study aims to understand digestive health.",
+      "category": "Science",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/i-wore-a-smart-fart-wearable-for-three-days-heres-what-i-learned-2000760032",
+      "image": "https://gizmodo.com/app/uploads/2026/06/Fart-Underwear-Image-1200x675.jpg",
+      "published_at": "2026-06-03T12:00:35Z",
+      "key_points": [
+        "Smart wearable developed",
+        "Tracks digestive health",
+        "Research on fart emissions"
+      ],
+      "impact": "This could advance digestive health studies.",
+      "id": "f921f8003538c27f3e6238818774fcc1"
+    },
+    {
+      "title": "SwitchBot Acquires Nanoleaf for AI Expansion",
+      "description": "SwitchBot's acquisition of Nanoleaf aims to enhance both companies' ambitions in AI and robotics. This partnership is expected to drive innovation in smart home technology.",
+      "category": "Hardware",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/942328/nanoleaf-switchbot-onerobotics-sale-ai-robotics",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546019/nanoleaf1.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+      "published_at": "2026-06-03T12:00:20Z",
+      "key_points": [
+        "Nanoleaf acquired by SwitchBot",
+        "Focus on AI and robotics",
+        "Partnership aims for innovation"
+      ],
+      "impact": "This strengthens smart home technology development.",
+      "id": "766e073ec17823916254985f2aded0d8"
+    },
+    {
+      "title": "Motorola Edge 2026 Competes with Pixel 11",
+      "description": "Motorola's new Edge 2026 smartphone is positioned to rival Google's Pixel 11. It features advanced specifications and competitive pricing.",
+      "category": "Hardware",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/motorola-edge-2026-embarrassing-google-pixel-11-3673495/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/motorola-edge-2026-front-back-background-scaled.jpg",
+      "published_at": "2026-06-03T09:51:29Z",
+      "key_points": [
+        "Motorola Edge 2026 announced",
+        "Rivals Google Pixel 11",
+        "Competitive pricing and specs"
+      ],
+      "impact": "This intensifies competition in the smartphone market.",
+      "id": "0842ebc877b7b79d1df53e297806d621"
+    },
+    {
+      "title": "Mina the Hollower Achieves 300,000 Sales",
+      "description": "Yacht Club Games reports that Mina the Hollower sold 300,000 copies in its launch weekend. The studio expresses confidence in its future after this success.",
+      "category": "Gaming",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/mina-the-hollower-release-weekend-sales",
+      "image": "https://assetsio.gnwcdn.com/mina-treated.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-03T08:32:58Z",
+      "key_points": [
+        "300,000 copies sold",
+        "Launch weekend success",
+        "Studio confident in future"
+      ],
+      "impact": "This secures Yacht Club Games' position in gaming.",
+      "id": "a8dca30b82f3c7de0ebba84247f52cf0"
+    },
+    {
+      "title": "Rayman Origins Enhanced Edition Announced for Switch 2",
+      "description": "Ubisoft officially announces Rayman Origins: Enhanced Edition for Switch 2, alongside Rayman Legends Retold. Fans can expect improved graphics and gameplay.",
+      "category": "Gaming",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/06/rayman-origins-enhanced-edition-officially-announced-for-switch-2",
+      "image": "https://images.nintendolife.com/65d50c148ca5c/large.jpg",
+      "published_at": "2026-06-03T00:30:00Z",
+      "key_points": [
+        "Enhanced Edition announced",
+        "Improved graphics and gameplay",
+        "Switch 2 exclusive"
+      ],
+      "impact": "This excites fans for upcoming Switch 2 titles.",
+      "id": "19b113ec99c86c930fcf43de420fad74"
     }
   ]
 }

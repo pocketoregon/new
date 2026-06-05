@@ -5,93 +5,39 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jun 2026 09:46:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 14:49:22 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Nvidia Expands AI Reach to Laptops</title>
-      <description>Nvidia enters the laptop market, challenging Apple, Intel, AMD, and Qualcomm in the AI space. This move signifies a new competitive front in the tech industry.</description>
-      <link>https://www.ft.com/content/4db277bf-e67b-473d-a75e-e358fb31f69b?syn-25a6b1a6\u003d1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/4db277bf-e67b-473d-a75e-e358fb31f69b?syn-25a6b1a6\u003d1</guid>
-      <pubDate>2026-06-04T04:01:40Z</pubDate>
-      <category>AI</category>
-      <source url="https://www.ft.com/content/4db277bf-e67b-473d-a75e-e358fb31f69b?syn-25a6b1a6\u003d1">Financial Times</source>
-    </item>
-    <item>
-      <title>Google AI Edge Gallery Now on macOS</title>
-      <description>Google launches AI Edge Gallery for macOS, enabling local Gemini model execution. The update includes the Gemma 4 12B model and Eloquent dictation app.</description>
-      <link>https://9to5mac.com/2026/06/03/google-ai-edge-gallery-launches-to-macos-letting-mac-users-run-gemini-models-locally/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/03/google-ai-edge-gallery-launches-to-macos-letting-mac-users-run-gemini-models-locally/</guid>
-      <pubDate>2026-06-04T02:58:00Z</pubDate>
-      <category>Software</category>
-      <source url="https://9to5mac.com/2026/06/03/google-ai-edge-gallery-launches-to-macos-letting-mac-users-run-gemini-models-locally/">9to5Mac</source>
-    </item>
-    <item>
-      <title>Apple to Use Nvidia Chips for Siri</title>
-      <description>Apple plans to integrate Nvidia chips into the new Gemini-powered Siri, enhancing its functionality. This collaboration marks a significant shift in Siri's architecture.</description>
-      <link>https://9to5mac.com/2026/06/03/report-details-apples-plan-to-use-nvidia-chips-for-the-gemini-powered-siri/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/03/report-details-apples-plan-to-use-nvidia-chips-for-the-gemini-powered-siri/</guid>
-      <pubDate>2026-06-04T00:25:00Z</pubDate>
-      <category>Software</category>
-      <source url="https://9to5mac.com/2026/06/03/report-details-apples-plan-to-use-nvidia-chips-for-the-gemini-powered-siri/">9to5Mac</source>
-    </item>
-    <item>
-      <title>Pixel 11 Series May Feature New Colors</title>
-      <description>Rumors suggest Google will introduce unexpected color options for the Pixel 11 series. This could attract more consumers to the new devices.</description>
-      <link>https://www.phonearena.com/news/google-may-have-surprising-new-colors-for-the-pixel-11-series-phones_id180857</link>
-      <guid isPermaLink="true">https://www.phonearena.com/news/google-may-have-surprising-new-colors-for-the-pixel-11-series-phones_id180857</guid>
-      <pubDate>2026-06-04T00:19:40Z</pubDate>
-      <category>Business</category>
-      <source url="https://www.phonearena.com/news/google-may-have-surprising-new-colors-for-the-pixel-11-series-phones_id180857">PhoneArena</source>
-    </item>
-    <item>
-      <title>Nintendo Switch 2 to Feature Replaceable Battery</title>
-      <description>Nintendo confirms the Switch 2 will have a replaceable battery in the EU, complying with new regulations. This change aims to enhance user convenience.</description>
-      <link>https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu</link>
-      <guid isPermaLink="true">https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu</guid>
-      <pubDate>2026-06-04T00:04:00Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu">The Verge</source>
-    </item>
-    <item>
-      <title>Samsung Galaxy Watch Update Enhances Health Features</title>
-      <description>Samsung announces a major update for the Galaxy Watch, transforming it into a proactive health companion. The update rolls out on June 8.</description>
-      <link>https://news.samsung.com/global/samsung-introduces-next-gen-galaxy-watch-features-for-ai-powered-everyday-health-companion</link>
-      <guid isPermaLink="true">https://news.samsung.com/global/samsung-introduces-next-gen-galaxy-watch-features-for-ai-powered-everyday-health-companion</guid>
-      <pubDate>2026-06-03T23:00:00Z</pubDate>
+      <title>Google Unveils Fitbit Air CAD Specs for Accessories</title>
+      <description>Google has released CAD drawings for the Fitbit Air, inviting third-party companies to create accessories. This move expands customization options for users.</description>
+      <link>https://www.dcrainmaker.com/2026/06/google-releases-fitbit-air-cad-drawings-specs-bicep-bands-welcomed.html</link>
+      <guid isPermaLink="true">https://www.dcrainmaker.com/2026/06/google-releases-fitbit-air-cad-drawings-specs-bicep-bands-welcomed.html</guid>
+      <pubDate>2026-06-04T09:38:36Z</pubDate>
       <category>Hardware</category>
-      <source url="https://news.samsung.com/global/samsung-introduces-next-gen-galaxy-watch-features-for-ai-powered-everyday-health-companion">samsung.com</source>
+      <source url="https://www.dcrainmaker.com/2026/06/google-releases-fitbit-air-cad-drawings-specs-bicep-bands-welcomed.html">DC Rainmaker</source>
     </item>
     <item>
-      <title>New AI-Powered Worm Raises Cybersecurity Concerns</title>
-      <description>Researchers develop an AI-powered worm that adapts to targets, posing new cybersecurity threats. This innovation could change defense strategies.</description>
-      <link>https://fortune.com/2026/06/03/a-new-ai-powered-computer-worm-could-prove-to-be-the-stuff-of-cybersecurity-nightmares/</link>
-      <guid isPermaLink="true">https://fortune.com/2026/06/03/a-new-ai-powered-computer-worm-could-prove-to-be-the-stuff-of-cybersecurity-nightmares/</guid>
-      <pubDate>2026-06-03T17:42:00Z</pubDate>
-      <category>Security</category>
-      <source url="https://fortune.com/2026/06/03/a-new-ai-powered-computer-worm-could-prove-to-be-the-stuff-of-cybersecurity-nightmares/">Fortune</source>
+      <title>Shokz Launches Enhanced Open Earbuds</title>
+      <description>Shokz has upgraded its open earbuds with improved sound quality and a lighter design. The new models include better noise reduction and a bone conduction microphone.</description>
+      <link>https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones</guid>
+      <pubDate>2026-06-04T07:00:00Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones">The Verge</source>
     </item>
     <item>
-      <title>Microsoft Aims to Make Users Addicted to AI</title>
-      <description>Internal documents reveal Microsoft's strategy to make users addicted to its AI personal assistant. This raises ethical concerns about user engagement.</description>
-      <link>https://futurism.com/artificial-intelligence/microsoft-plots-addicted-to-its-ai</link>
-      <guid isPermaLink="true">https://futurism.com/artificial-intelligence/microsoft-plots-addicted-to-its-ai</guid>
-      <pubDate>2026-06-03T17:04:04Z</pubDate>
-      <category>Business</category>
-      <source url="https://futurism.com/artificial-intelligence/microsoft-plots-addicted-to-its-ai">Futurism</source>
-    </item>
-    <item>
-      <title>Control Resonant Early Access Exclusive to PS5</title>
-      <description>Control Resonant's early access is exclusive to PS5, despite being available on Xbox. This raises questions about platform exclusivity.</description>
-      <link>https://www.purexbox.com/news/2026/06/control-resonant-early-access-is-exclusive-to-ps5-but-at-least-we-get-play-anywhere-on-xbox</link>
-      <guid isPermaLink="true">https://www.purexbox.com/news/2026/06/control-resonant-early-access-is-exclusive-to-ps5-but-at-least-we-get-play-anywhere-on-xbox</guid>
-      <pubDate>2026-06-03T15:55:00Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.purexbox.com/news/2026/06/control-resonant-early-access-is-exclusive-to-ps5-but-at-least-we-get-play-anywhere-on-xbox">Pure Xbox</source>
+      <title>Corsair Unveils New High-End Power Supplies</title>
+      <description>Corsair showcased the AX1600i SHIFT and HX1000i SHIFT CRYSTAL power supplies at Computex 2026. Both feature a new SHIFT layout for improved connectivity.</description>
+      <link>https://videocardz.com/newz/corsair-shows-ax1600i-shift-and-transparent-hx1000i-shift-crystal-power-supplies</link>
+      <guid isPermaLink="true">https://videocardz.com/newz/corsair-shows-ax1600i-shift-and-transparent-hx1000i-shift-crystal-power-supplies</guid>
+      <pubDate>2026-06-03T16:24:41Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://videocardz.com/newz/corsair-shows-ax1600i-shift-and-transparent-hx1000i-shift-crystal-power-supplies">Videocardz.com</source>
     </item>
     <item>
       <title>LEGO Batman Game Launches on Switch 2</title>
-      <description>LEGO Batman: Legacy of the Dark Knight will launch on Nintendo Switch 2 on September 18, 2026. A new trailer has been released.</description>
+      <description>LEGO Batman: Legacy of the Dark Knight will release on Nintendo Switch 2 on September 18, 2026. A new trailer has also been unveiled.</description>
       <link>https://nintendoeverything.com/lego-batman-legacy-of-the-dark-knight-reveals-nintendo-switch-2-release-date-new-trailer/</link>
       <guid isPermaLink="true">https://nintendoeverything.com/lego-batman-legacy-of-the-dark-knight-reveals-nintendo-switch-2-release-date-new-trailer/</guid>
       <pubDate>2026-06-03T15:08:15Z</pubDate>
@@ -99,22 +45,103 @@
       <source url="https://nintendoeverything.com/lego-batman-legacy-of-the-dark-knight-reveals-nintendo-switch-2-release-date-new-trailer/">Nintendoeverything.com</source>
     </item>
     <item>
-      <title>Microsoft Promotes Native Windows Apps at Build 2026</title>
-      <description>At Build 2026, Microsoft emphasizes the importance of native Windows apps, moving developers away from web wrappers. New tools and hardware support this shift.</description>
-      <link>https://www.windowscentral.com/software-apps/microsoft-drives-developers-toward-native-windows-apps-at-build-2026</link>
-      <guid isPermaLink="true">https://www.windowscentral.com/software-apps/microsoft-drives-developers-toward-native-windows-apps-at-build-2026</guid>
-      <pubDate>2026-06-03T15:00:00Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.windowscentral.com/software-apps/microsoft-drives-developers-toward-native-windows-apps-at-build-2026">Windows Central</source>
+      <title>Top PlayStation Games of May Revealed</title>
+      <description>May's top-selling PlayStation games include FC 26 and new titles like 007 First Light. The report highlights cross-platform performance metrics.</description>
+      <link>https://alineaanalytics.substack.com/p/mays-top-playstation-games-by-copies</link>
+      <guid isPermaLink="true">https://alineaanalytics.substack.com/p/mays-top-playstation-games-by-copies</guid>
+      <pubDate>2026-06-03T14:48:40Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://alineaanalytics.substack.com/p/mays-top-playstation-games-by-copies">Substack.com</source>
     </item>
     <item>
-      <title>F1 25: 2026 Season Pack Review</title>
-      <description>The 2026 Season Pack for F1 25 includes all teams and drivers, featuring new hybrid regulations. It's a must-have for completionists.</description>
-      <link>https://traxion.gg/f1-25-2026-season-pack-review/</link>
-      <guid isPermaLink="true">https://traxion.gg/f1-25-2026-season-pack-review/</guid>
-      <pubDate>2026-06-03T15:00:00Z</pubDate>
+      <title>Google Acquires Android App Code for AI Training</title>
+      <description>Google is reportedly purchasing Android app code from developers to enhance its AI models. This initiative aims to improve coding capabilities.</description>
+      <link>http://9to5google.com/2026/06/03/google-android-app-code-ai-models/</link>
+      <guid isPermaLink="true">http://9to5google.com/2026/06/03/google-android-app-code-ai-models/</guid>
+      <pubDate>2026-06-03T14:15:00Z</pubDate>
+      <category>Software</category>
+      <source url="http://9to5google.com/2026/06/03/google-android-app-code-ai-models/">9to5Google</source>
+    </item>
+    <item>
+      <title>Gemini Introduces Free Thinking Modes</title>
+      <description>Gemini has made its new thinking modes available for free to all users. This update enhances user experience and functionality.</description>
+      <link>https://www.phonearena.com/news/gemini-new-thinking-modes-are-now-free_id180848</link>
+      <guid isPermaLink="true">https://www.phonearena.com/news/gemini-new-thinking-modes-are-now-free_id180848</guid>
+      <pubDate>2026-06-03T13:53:49Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.phonearena.com/news/gemini-new-thinking-modes-are-now-free_id180848">PhoneArena</source>
+    </item>
+    <item>
+      <title>Pokémon Champions Launches on Mobile June 17</title>
+      <description>Pokémon Champions will be available on iOS and Android starting June 17, 2026. New in-game features and cross-platform functionality are confirmed.</description>
+      <link>https://press.pokemon.com/en/Pokemon-Champions-Launches-June-17-on-iOS-and-Android-Devices-The-Poke</link>
+      <guid isPermaLink="true">https://press.pokemon.com/en/Pokemon-Champions-Launches-June-17-on-iOS-and-Android-Devices-The-Poke</guid>
+      <pubDate>2026-06-03T13:05:25Z</pubDate>
       <category>Gaming</category>
-      <source url="https://traxion.gg/f1-25-2026-season-pack-review/">Traxion.GG</source>
+      <source url="https://press.pokemon.com/en/Pokemon-Champions-Launches-June-17-on-iOS-and-Android-Devices-The-Poke">Pokemon.com</source>
+    </item>
+    <item>
+      <title>Leaked iPhone 18 Pro Details Spark Interest</title>
+      <description>Leaked information about the iPhone 18 Pro reveals a variable aperture camera and a powerful 2-nm A20 Pro chip. The device also boasts a 5,200 mAh battery.</description>
+      <link>https://www.geeky-gadgets.com/iphone-18-pro-leaks-camera-battery/</link>
+      <guid isPermaLink="true">https://www.geeky-gadgets.com/iphone-18-pro-leaks-camera-battery/</guid>
+      <pubDate>2026-06-03T13:02:09Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://www.geeky-gadgets.com/iphone-18-pro-leaks-camera-battery/">Geeky Gadgets</source>
+    </item>
+    <item>
+      <title>PS5 State of Play Breaks Viewership Records</title>
+      <description>The latest PS5 State of Play has become the most-watched episode ever, surpassing previous showcases. This indicates growing interest in PlayStation content.</description>
+      <link>https://www.pushsquare.com/news/2026/06/latest-ps5-state-of-play-already-most-watched-ever-on-track-to-overtake-ps-showcases</link>
+      <guid isPermaLink="true">https://www.pushsquare.com/news/2026/06/latest-ps5-state-of-play-already-most-watched-ever-on-track-to-overtake-ps-showcases</guid>
+      <pubDate>2026-06-03T13:00:00Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.pushsquare.com/news/2026/06/latest-ps5-state-of-play-already-most-watched-ever-on-track-to-overtake-ps-showcases">Push Square</source>
+    </item>
+    <item>
+      <title>Smart Wearable Tracks Fart Emissions</title>
+      <description>Researchers at the University of Maryland have developed a smart wearable to monitor fart emissions. The study aims to understand digestive health.</description>
+      <link>https://gizmodo.com/i-wore-a-smart-fart-wearable-for-three-days-heres-what-i-learned-2000760032</link>
+      <guid isPermaLink="true">https://gizmodo.com/i-wore-a-smart-fart-wearable-for-three-days-heres-what-i-learned-2000760032</guid>
+      <pubDate>2026-06-03T12:00:35Z</pubDate>
+      <category>Science</category>
+      <source url="https://gizmodo.com/i-wore-a-smart-fart-wearable-for-three-days-heres-what-i-learned-2000760032">Gizmodo.com</source>
+    </item>
+    <item>
+      <title>SwitchBot Acquires Nanoleaf for AI Expansion</title>
+      <description>SwitchBot's acquisition of Nanoleaf aims to enhance both companies' ambitions in AI and robotics. This partnership is expected to drive innovation in smart home technology.</description>
+      <link>https://www.theverge.com/tech/942328/nanoleaf-switchbot-onerobotics-sale-ai-robotics</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/942328/nanoleaf-switchbot-onerobotics-sale-ai-robotics</guid>
+      <pubDate>2026-06-03T12:00:20Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://www.theverge.com/tech/942328/nanoleaf-switchbot-onerobotics-sale-ai-robotics">The Verge</source>
+    </item>
+    <item>
+      <title>Motorola Edge 2026 Competes with Pixel 11</title>
+      <description>Motorola's new Edge 2026 smartphone is positioned to rival Google's Pixel 11. It features advanced specifications and competitive pricing.</description>
+      <link>https://www.androidauthority.com/motorola-edge-2026-embarrassing-google-pixel-11-3673495/</link>
+      <guid isPermaLink="true">https://www.androidauthority.com/motorola-edge-2026-embarrassing-google-pixel-11-3673495/</guid>
+      <pubDate>2026-06-03T09:51:29Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://www.androidauthority.com/motorola-edge-2026-embarrassing-google-pixel-11-3673495/">Android Authority</source>
+    </item>
+    <item>
+      <title>Mina the Hollower Achieves 300,000 Sales</title>
+      <description>Yacht Club Games reports that Mina the Hollower sold 300,000 copies in its launch weekend. The studio expresses confidence in its future after this success.</description>
+      <link>https://www.eurogamer.net/mina-the-hollower-release-weekend-sales</link>
+      <guid isPermaLink="true">https://www.eurogamer.net/mina-the-hollower-release-weekend-sales</guid>
+      <pubDate>2026-06-03T08:32:58Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.eurogamer.net/mina-the-hollower-release-weekend-sales">Eurogamer.net</source>
+    </item>
+    <item>
+      <title>Rayman Origins Enhanced Edition Announced for Switch 2</title>
+      <description>Ubisoft officially announces Rayman Origins: Enhanced Edition for Switch 2, alongside Rayman Legends Retold. Fans can expect improved graphics and gameplay.</description>
+      <link>https://www.nintendolife.com/news/2026/06/rayman-origins-enhanced-edition-officially-announced-for-switch-2</link>
+      <guid isPermaLink="true">https://www.nintendolife.com/news/2026/06/rayman-origins-enhanced-edition-officially-announced-for-switch-2</guid>
+      <pubDate>2026-06-03T00:30:00Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.nintendolife.com/news/2026/06/rayman-origins-enhanced-edition-officially-announced-for-switch-2">Nintendo Life</source>
     </item>
   </channel>
 </rss>
