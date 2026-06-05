@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-05T03:38:35.662504+00:00",
+      "fetched_at": "2026-06-05T03:38:35.662504+00:00",
+      "label": "Jun 05, 2026 — 03:39 AM UTC",
+      "articles": [
+        {
+          "title": "AI Founders Boost Roblox's Reality Vision",
+          "description": "Roblox recruits AI pioneers to enhance photorealistic world models. This move aims to tackle latency, consistency, and quality challenges in interactive AI.",
+          "category": "Gaming",
+          "source": "Roblox.com",
+          "url": "https://about.roblox.com/newsroom/2026/06/pioneering-ai-founders-join-to-accelerate-roblox-reality-vision",
+          "image": "https://cms-media.roblox.com/assets/9bfd31a7-d763-4384-973a-7d32f50dcd37.png",
+          "published_at": "2026-06-03T21:55:42Z",
+          "key_points": [
+            "Roblox enhances AI capabilities",
+            "Focus on photorealistic models",
+            "Addressing key AI challenges"
+          ],
+          "impact": "Roblox aims to revolutionize interactive gaming.",
+          "id": "ef70f214e08381c797fe57261db51193"
+        },
+        {
+          "title": "Metaverse Executive Exits After Brief Tenure",
+          "description": "Gabriel Aul, head of Meta's Metaverse unit, has left after a few months. Saxs Persson from Epic Games takes over amid shifting priorities.",
+          "category": "Geopolitics",
+          "source": "Business Insider",
+          "url": "https://www.businessinsider.com/top-metaverse-exec-quietly-left-four-months-ago-2026-6",
+          "image": "https://i.insider.com/6a2083b02e5a80cfe0503332?width=1200&format=jpeg",
+          "published_at": "2026-06-03T20:38:00Z",
+          "key_points": [
+            "New leadership in Metaverse unit",
+            "Shift towards AI investments",
+            "Meta scales back metaverse plans"
+          ],
+          "impact": "Meta's metaverse strategy continues to evolve.",
+          "id": "386c0af5b4df78f26d4eee546e009755"
+        },
+        {
+          "title": "Google's Dreambeans Turns Life Into Cartoons",
+          "description": "Dreambeans, a new AI tool, animates personal stories from Google account data. It's available on iOS and Android.",
+          "category": "Software",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-03-at-9.13.33-AM.png?resize=1200,667",
+          "published_at": "2026-06-03T19:07:42Z",
+          "key_points": [
+            "AI animates personal stories",
+            "Available on mobile platforms",
+            "Innovative use of personal data"
+          ],
+          "impact": "Google's tool adds a creative twist to data.",
+          "id": "51fe822e196e00e4861c24e12c6abce2"
+        },
+        {
+          "title": "Apple Shifts Focus from Vision Pro to Smart Glasses",
+          "description": "Apple's new CEO has revised plans for Vision Pro successors, prioritizing smart glasses instead. This marks a significant strategic shift.",
+          "category": "Business",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/03/kuo-vision-pro-successors-nixed/",
+          "image": "https://images.macrumors.com/t/9uJqMj4VFJjMbPcQi5cTqaPUB18=/2500x/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg",
+          "published_at": "2026-06-03T18:14:01Z",
+          "key_points": [
+            "Vision Pro successors canceled",
+            "Focus on smart glasses",
+            "Strategic shift under new CEO"
+          ],
+          "impact": "Apple redefines its augmented reality strategy.",
+          "id": "19d982816745ab48427dcc98910b9e0a"
+        },
+        {
+          "title": "New AI Worm Poses Unprecedented Cyber Threat",
+          "description": "Researchers unveil a self-replicating AI worm capable of autonomously taking over networks. This development raises significant cybersecurity concerns.",
+          "category": "Security",
+          "source": "Gizmodo.com",
+          "url": "https://gizmodo.com/a-fundamentally-new-threat-researchers-develop-new-ai-powered-worm-that-might-be-unstoppable-2000766975",
+          "image": "https://gizmodo.com/app/uploads/2026/06/ComputerSkull-1200x675.jpg",
+          "published_at": "2026-06-03T16:50:06Z",
+          "key_points": [
+            "Self-replicating AI malware",
+            "Autonomous network takeover",
+            "Major cybersecurity implications"
+          ],
+          "impact": "This AI worm could revolutionize cyber threats.",
+          "id": "aad1c1e165855a2813f6ec9056d4d257"
+        },
+        {
+          "title": "Best Bond Story Since Casino Royale: A Game Review",
+          "description": "'007: First Light' is hailed as the best Bond game, featuring a well-developed spy character. It surpasses previous adaptations.",
+          "category": "Gaming",
+          "source": "The Washington Post",
+          "url": "https://www.washingtonpost.com/style/2026/06/03/007-first-light-is-best-james-bond-story-since-casino-royale/",
+          "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/B6NOTCI4WBA3NFESCIMKAM37SQ.jpg&w=1440",
+          "published_at": "2026-06-03T16:32:12Z",
+          "key_points": [
+            "Best Bond game ever made",
+            "Fully fleshed out character",
+            "Surpasses past adaptations"
+          ],
+          "impact": "This game revitalizes the Bond franchise.",
+          "id": "10b652d75d0f227847654df1c2b7c1fa"
+        },
+        {
+          "title": "GTA 6 Sparks September Gaming Showdown",
+          "description": "GTA 6's release prompts other major games to launch in September, creating a competitive landscape. The month is set for intense gaming battles.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/gta-6-has-turned-september-into-a-video-game-battle-royale",
+          "image": "https://assets-prd.ignimgs.com/2026/06/03/september-2026-blogroll-1780502349827.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-03T16:30:00Z",
+          "key_points": [
+            "September becomes gaming battleground",
+            "GTA 6 influences release schedules",
+            "Major titles avoid GTA 6 clash"
+          ],
+          "impact": "September is set for a gaming frenzy.",
+          "id": "09d6ab0b1d586b21e69bb68994939008"
+        },
+        {
+          "title": "Samsung Confirms Galaxy Z Fold 8 Ultra",
+          "description": "Samsung announces two Galaxy Z Fold 8 models, including the Ultra variant. The name has been confirmed ahead of launch.",
+          "category": "Hardware",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/03/galaxy-z-fold-8-ultra-name-confirmed/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-71.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-03T16:12:00Z",
+          "key_points": [
+            "Galaxy Z Fold 8 Ultra confirmed",
+            "Two models planned for launch",
+            "Exciting foldable features expected"
+          ],
+          "impact": "Samsung continues to innovate in foldables.",
+          "id": "52567b3f95c77426228197c2980335e0"
+        },
+        {
+          "title": "Wario64's Brief Ban Over Rayman Leak",
+          "description": "Wario64, a popular deals expert, faced a short ban on Bluesky for posting a Rayman leak. He was quickly reinstated.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/wario64-banned-and-unbanned-in-record-time-over-rayman-leak-2000702015",
+          "image": "https://kotaku.com/app/uploads/2026/06/assets_2026_05_1779843816_RLR_OnceUponATime_Heroes_060226_3PM_PT-1-1200x675.jpg",
+          "published_at": "2026-06-03T16:07:46Z",
+          "key_points": [
+            "Wario64 banned over leak",
+            "Quick reinstatement followed",
+            "Community reacts to incident"
+          ],
+          "impact": "The incident highlights social media's volatility.",
+          "id": "51e364dbdb7281b7f02a5d9263aef07d"
+        },
+        {
+          "title": "AI Music Generator Suno Raises $400M Amid Lawsuits",
+          "description": "Suno, an AI music generator, secures $400 million in funding despite ongoing copyright lawsuits. Its valuation now exceeds $5.4 billion.",
+          "category": "Startups",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Suno_1.png?resize=1200,600",
+          "published_at": "2026-06-03T15:31:42Z",
+          "key_points": [
+            "Suno raises $400 million",
+            "Valuation exceeds $5.4 billion",
+            "Facing copyright challenges"
+          ],
+          "impact": "Suno's growth continues despite legal hurdles.",
+          "id": "4099f7ce95d3e5eda62f9180fb4adf69"
+        },
+        {
+          "title": "Destiny 2 Fans Demand Destiny 3",
+          "description": "Destiny 2 players are vocalizing their desire for a sequel, urging Sony to develop Destiny 3 as support for the current game ends.",
+          "category": "Gaming",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/06/03/destiny-2-fans-drown-playstations-state-of-play-in-destiny-3-demands/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/69e2418a7cac81415a6b2075/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-03T15:12:43Z",
+          "key_points": [
+            "Fans demand Destiny 3",
+            "Support for Destiny 2 ending",
+            "Community frustration grows"
+          ],
+          "impact": "Player demands highlight franchise's future.",
+          "id": "a94e3e4b71df82966dd4229822f7e350"
+        },
+        {
+          "title": "EA SPORTS Launches F1 25 Season Pack",
+          "description": "EA SPORTS releases the 2026 Season Pack for F1 25, updating the game with new regulations and features for fans.",
+          "category": "Gaming",
+          "source": "Formula 1",
+          "url": "https://corp.formula1.com/ea-sports-launch-the-2026-season-pack-on-f1-25-worldwide-today/",
+          "image": "https://corp.formula1.com/wp-content/uploads/2026/06/F1-25-2026-Season-Pack.png",
+          "published_at": "2026-06-03T15:02:26Z",
+          "key_points": [
+            "F1 25 Season Pack launched",
+            "Includes latest regulations",
+            "Enhances gaming experience"
+          ],
+          "impact": "F1 25 continues to evolve with updates.",
+          "id": "fcaec49040c9669b90aa9f581aa1fcc4"
+        },
+        {
+          "title": "Apple Devices May Not Support New Software",
+          "description": "Upcoming iOS 27, iPadOS 27, and macOS 27 may not be compatible with older Apple devices. Users should check compatibility ahead of WWDC.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/03/these-iphones-ipads-macs-may-not-support-apples-new-software/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-logo-wwdc-2026.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-03T14:54:00Z",
+          "key_points": [
+            "New software may exclude older devices",
+            "WWDC announcement upcoming",
+            "Compatibility concerns arise"
+          ],
+          "impact": "Users may need to upgrade devices soon.",
+          "id": "9d548894ef50318d1b6296da3d6c4b20"
+        },
+        {
+          "title": "Microsoft Aims to Compete in AI Landscape",
+          "description": "At Build 2026, Microsoft announces expanded AI initiatives, positioning itself as a key player in the AI space. Mustafa Suleyman emphasizes the need for innovation.",
+          "category": "Business",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+          "published_at": "2026-06-03T14:04:00Z",
+          "key_points": [
+            "Microsoft expands AI initiatives",
+            "Aiming for competitive edge",
+            "Focus on innovation and development"
+          ],
+          "impact": "Microsoft seeks to redefine its AI strategy.",
+          "id": "00653aa16e261f68e68e4d35cedfb70e"
+        },
+        {
+          "title": "Marathon Season 2 Launches with Bugs",
+          "description": "Marathon's Season 2 launched with exciting new modes but faced significant bugs and errors. Players express disappointment over the launch issues.",
+          "category": "Gaming",
+          "source": "Eurogamer.net",
+          "url": "https://www.eurogamer.net/marathon-season-2-launch-bugs",
+          "image": "https://assetsio.gnwcdn.com/MarathonS2_cinematic.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-03T09:43:27Z",
+          "key_points": [
+            "Season 2 launched with bugs",
+            "New modes received positive feedback",
+            "Players disappointed with errors"
+          ],
+          "impact": "Launch issues overshadow new content excitement.",
+          "id": "a4fdc19d7e4984be810e2393e5e99451"
+        }
+      ]
+    },
+    {
       "id": "2026-06-04T22:20:17.090876+00:00",
       "fetched_at": "2026-06-04T22:20:17.090876+00:00",
       "label": "Jun 04, 2026 — 10:20 PM UTC",
@@ -5768,253 +6015,6 @@
           ],
           "impact": "This advice aims to improve tipping practices.",
           "id": "7288a81f80819ca057253d06c0986fa3"
-        }
-      ]
-    },
-    {
-      "id": "2026-05-31T04:06:19.465613+00:00",
-      "fetched_at": "2026-05-31T04:06:19.465613+00:00",
-      "label": "May 31, 2026 — 04:06 AM UTC",
-      "articles": [
-        {
-          "title": "Nvidia Teases New N1X Laptop Processors",
-          "description": "Nvidia, Microsoft, and Arm are gearing up for Nvidia’s keynote at Computex, showcasing the new N1X laptop processors. Anticipation is building for the unveiling.",
-          "category": "Hardware",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2192219004.jpg?quality=90&strip=all&crop=0%2C10.703832833872%2C100%2C78.592334332257&w=1200",
-          "published_at": "2026-05-29T23:03:29Z",
-          "key_points": [
-            "Nvidia's keynote at Computex",
-            "New N1X processors revealed",
-            "Collaboration with Microsoft and Arm"
-          ],
-          "impact": "Nvidia's new processors could redefine laptop performance.",
-          "id": "0a7f91c4a5e60b13f3b9dfab5c666680"
-        },
-        {
-          "title": "Apple's iPhone Camera Upgrade to Cost More",
-          "description": "Analyst Ming-Chi Kuo reveals Apple's iPhone camera roadmap, highlighting a costly upgrade involving an ultra-wide module change. Expect significant price increases.",
-          "category": "Business",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/05/29/kuo-apples-iphone-camera-roadmap-includes-a-costly-upgrade/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/iPhone-18-Pro-variable-aperture-lens-manufacturing-reportedly-underway.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-05-29T21:05:00Z",
-          "key_points": [
-            "Costly iPhone camera upgrades",
-            "New ultra-wide module",
-            "Analyst Ming-Chi Kuo's insights"
-          ],
-          "impact": "Apple's camera upgrades may impact iPhone sales.",
-          "id": "c24a83f69c90fd9a2a8dcd96fe5ffa84"
-        },
-        {
-          "title": "Xbox to Showcase PS5 Game Availability",
-          "description": "Xbox CCO Matt Booty confirms that the upcoming Xbox Games Showcase will reveal when its titles will be available on PS5 and other platforms. Multiplatform strategy highlighted.",
-          "category": "Software",
-          "source": "Windows Central",
-          "url": "https://www.windowscentral.com/gaming/xbox/xbox-games-chief-confirms-microsoft-will-show-when-its-titles-are-coming-to-ps5-and-other-platforms-at-the-xbox-games-showcase",
-          "image": "https://cdn.mos.cms.futurecdn.net/5SynmdFSYnmmRfUGkSQLsA-1920-80.jpg",
-          "published_at": "2026-05-29T20:13:35Z",
-          "key_points": [
-            "Xbox titles on PS5 confirmed",
-            "Multiplatform strategy emphasized",
-            "Showcase scheduled for next week"
-          ],
-          "impact": "This move could broaden Xbox's audience.",
-          "id": "6d81ca9866bc0f2066cafb5043a9e1d6"
-        },
-        {
-          "title": "Revolutionary Energy Gel for Tour de France",
-          "description": "A groundbreaking energy gel developed by former Ineos scientists promises to transform nutrition for Tour de France athletes. It addresses long-standing challenges in sports nutrition.",
-          "category": "Science",
-          "source": "Outside",
-          "url": "https://velo.outsideonline.com/road/road-training/lactate-energy-gel-tour-de-france/#article",
-          "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/05/Z8C_5588.jpg",
-          "published_at": "2026-05-29T20:07:11Z",
-          "key_points": [
-            "New energy gel innovation",
-            "Targets Tour de France athletes",
-            "Developed by sports scientists"
-          ],
-          "impact": "This gel could enhance athlete performance significantly.",
-          "id": "9909f4378ebe63ad3565b3888c9d3338"
-        },
-        {
-          "title": "Apple Music Faces Outage in Multiple Countries",
-          "description": "Apple Music is experiencing disruptions in several countries, as confirmed by Apple's System Status pages. Users are reporting issues accessing the service.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/05/29/apple-music-outage-confirmed-in-multiple-countries/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-music-app-icon-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-05-29T19:16:00Z",
-          "key_points": [
-            "Apple Music outage confirmed",
-            "Multiple countries affected",
-            "Service disruption details provided"
-          ],
-          "impact": "This outage may frustrate Apple Music users.",
-          "id": "e3050813b4bb195d0afa719498a86ee4"
-        },
-        {
-          "title": "Acer Launches Linux Handheld for Game Streaming",
-          "description": "Acer introduces the Nitro Blaze Link, a Linux-based handheld designed for streaming PC games. It features minimal specs with just 1GB of RAM.",
-          "category": "Hardware",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/acer-nitro-blaze-link-announcement-cropped.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-          "published_at": "2026-05-29T19:01:48Z",
-          "key_points": [
-            "Acer's Nitro Blaze Link launched",
-            "Linux-based game streaming",
-            "Only 1GB of RAM"
-          ],
-          "impact": "This device targets budget-conscious gamers.",
-          "id": "7d130cf012dc92f29811f63142d6ce59"
-        },
-        {
-          "title": "StarCraft 2 Receives Major Balance Changes",
-          "description": "Blizzard announces significant balance changes for StarCraft 2, shocking the community after years of stability. Update 5.0.16 is set to alter gameplay dynamics.",
-          "category": "Software",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/starcraft-2-fans-shocked-after-blizzard-launches-major-balance-changes-for-the-first-time-in-years",
-          "image": "https://assets-prd.ignimgs.com/2026/05/29/stracraft-2-1780069131197.png?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-05-29T17:38:26Z",
-          "key_points": [
-            "Major balance changes announced",
-            "Community reacts strongly",
-            "Update 5.0.16 coming soon"
-          ],
-          "impact": "This update could reshape StarCraft 2 strategies.",
-          "id": "e8cccf3ab68f1bd46535c7f59ade4f90"
-        },
-        {
-          "title": "DuckDuckGo Sees Surge Amid Google AI Search Shift",
-          "description": "As Google shifts to AI-driven search, DuckDuckGo experiences a spike in installations. Users seek alternatives to traditional search methods.",
-          "category": "Software",
-          "source": "Futurism",
-          "url": "https://futurism.com/artificial-intelligence/duckduckgo-installs-spike-google-search-ai",
-          "image": "https://futurism.com/wp-content/uploads/2026/05/duckduckgo-installs-spike-google-search-ai.jpg?w=1200",
-          "published_at": "2026-05-29T17:08:17Z",
-          "key_points": [
-            "DuckDuckGo installations surge",
-            "Users seek search alternatives",
-            "Google's AI search redesign impacts market"
-          ],
-          "impact": "DuckDuckGo could gain significant market share.",
-          "id": "ec81c3c18c9ca89256753bc2b8367f45"
-        },
-        {
-          "title": "Galaxy Z Fold 8 Improves Display Crease",
-          "description": "Reports suggest the Galaxy Z Fold 8 will significantly enhance the display crease, rivaling industry leaders. This improvement addresses a common consumer concern.",
-          "category": "Hardware",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/05/29/galaxy-z-fold-8-series-may-significantly-improve-the-display-crease/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-53.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-05-29T16:45:00Z",
-          "key_points": [
-            "Galaxy Z Fold 8 improvements",
-            "Significant display crease reduction",
-            "Competes with Oppo Find N6"
-          ],
-          "impact": "This could enhance user satisfaction with foldables.",
-          "id": "010c43302d87ae8fc6ba4bd6547358b9"
-        },
-        {
-          "title": "Nintendo Download Features New Titles",
-          "description": "The latest Nintendo Download update introduces exciting new games for North America, including Bluey and Final Fantasy. Gamers can explore fresh content on the eShop.",
-          "category": "Startups",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/05/nintendo-download-28th-may-north-america",
-          "image": "https://images.nintendolife.com/b7c146866cafb/large.jpg",
-          "published_at": "2026-05-29T16:00:00Z",
-          "key_points": [
-            "New games released on eShop",
-            "Includes Bluey and Final Fantasy",
-            "North America update"
-          ],
-          "impact": "This update keeps Nintendo's library fresh.",
-          "id": "5666937592767a069cdc5e183f901df9"
-        },
-        {
-          "title": "Key Chemistry Question Solved Without Quantum Computers",
-          "description": "A groundbreaking study reveals that classical computers can solve complex chemistry questions previously thought to require quantum computing. This challenges existing assumptions.",
-          "category": "Science",
-          "source": "Quanta Magazine",
-          "url": "https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/",
-          "image": "https://www.quantamagazine.org/wp-content/uploads/2026/05/Chem-Quantum-Advantage-cr-Nash-Weerasekera-Social.jpg",
-          "published_at": "2026-05-29T14:24:55Z",
-          "key_points": [
-            "Classical computers solve chemistry questions",
-            "Challenges quantum computing assumptions",
-            "Significant scientific breakthrough"
-          ],
-          "impact": "This could reshape chemistry research methodologies.",
-          "id": "fcfb0122f6120d916acfd8fcffc7627a"
-        },
-        {
-          "title": "Valve's Steam Deck Price Increases Analyzed",
-          "description": "Analysts discuss Valve's recent price hikes for the Steam Deck and implications for the upcoming Steam Machine. Concerns about market behavior are raised.",
-          "category": "Business",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/valve-steam-deck-price-increase-steam-machine-future-analysts-reaction",
-          "image": "https://assetsio.gnwcdn.com/The-LED-strim-on-the-Steam-Machine.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-05-29T14:04:36Z",
-          "key_points": [
-            "Steam Deck price increases discussed",
-            "Analysts express market concerns",
-            "Future of Steam Machine uncertain"
-          ],
-          "impact": "Price hikes may affect consumer interest.",
-          "id": "9a717fc016436de50562955290beac3c"
-        },
-        {
-          "title": "Google's Fitbit Air Emphasizes Minimalism",
-          "description": "The Fitbit Air focuses on passive wellness tracking and AI tools, promoting a minimalist approach to fitness tracking. It aims to simplify user experience.",
-          "category": "Hardware",
-          "source": "Android Authority",
-          "url": "https://www.androidauthority.com/google-fitbit-air-review-3671325/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Google-Fitbit-Air-Hero-1-scaled.jpg",
-          "published_at": "2026-05-29T10:19:18Z",
-          "key_points": [
-            "Fitbit Air promotes minimalism",
-            "Focus on passive wellness tracking",
-            "AI tools enhance user experience"
-          ],
-          "impact": "This could redefine fitness tracking standards.",
-          "id": "7a5e79d92c2d89f017071ed1c9f92710"
-        },
-        {
-          "title": "Microsoft Revamps Copilot's Appearance",
-          "description": "Microsoft unveils a more polished look for its Copilot feature, aiming for a more professional appearance. This update enhances user interaction.",
-          "category": "Software",
-          "source": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS3Z3YXEwUEdaYmlDSWJnQkJ5QXZPSWsxWnNOd0pqRkprNlgxVHNlTldzQ3I3S1l5UUkzUVlpazFwb2xEWkxIX1lvcWg4LU1mRVBCVTlSbHZoUTVpdHdPWHYyNlRwQThfR0E1Z1lXTTNyVGw5RnVEb1Bjd25PWlJ4bjdhMmdoMUhjRllCMUtWNA?oc=5",
-          "image": "",
-          "published_at": "2026-05-28T20:09:49Z",
-          "key_points": [
-            "Microsoft Copilot gets a makeover",
-            "Focus on professional appearance",
-            "Enhances user interaction"
-          ],
-          "impact": "This update may improve user satisfaction.",
-          "id": "cde93c389f776927d4de2a921d02bd38"
-        },
-        {
-          "title": "Rivian Claims CarPlay and Android Auto Are Redundant",
-          "description": "Rivian's software chief argues that AI advancements make CarPlay and Android Auto unnecessary. The focus shifts towards integrated AI solutions in vehicles.",
-          "category": "Business",
-          "source": "The Drive",
-          "url": "https://www.thedrive.com/news/rivian-software-chief-says-carplay-and-android-auto-are-redundant-in-the-world-of-ai",
-          "image": "https://www.thedrive.com/wp-content/uploads/content-b/message-editor/1592853887182-applecarplay14.jpg?w=1200",
-          "published_at": "2026-05-28T19:52:05Z",
-          "key_points": [
-            "Rivian dismisses CarPlay and Android Auto",
-            "AI integration emphasized",
-            "Focus on future vehicle technology"
-          ],
-          "impact": "This could change automotive software development.",
-          "id": "23f9cfd79fa66055197133e1ec185027"
         }
       ]
     }
