@@ -1,245 +1,245 @@
 {
-  "generated_at": "2026-06-05T14:48:49.319063+00:00",
+  "generated_at": "2026-06-05T17:14:16.649370+00:00",
   "articles": [
     {
-      "title": "Google Unveils Fitbit Air CAD Specs for Accessories",
-      "description": "Google has released CAD drawings for the Fitbit Air, inviting third-party companies to create accessories. This move expands customization options for users.",
-      "category": "Hardware",
-      "source": "DC Rainmaker",
-      "url": "https://www.dcrainmaker.com/2026/06/google-releases-fitbit-air-cad-drawings-specs-bicep-bands-welcomed.html",
-      "image": "https://media.dcrainmaker.com/images/2026/06/FitbitAirCAD-1.png",
-      "published_at": "2026-06-04T09:38:36Z",
-      "key_points": [
-        "Fitbit Air CAD drawings released",
-        "Third-party accessories encouraged",
-        "Customization options expanded"
-      ],
-      "impact": "This enhances user personalization for Fitbit devices.",
-      "id": "4bcdc6adbdc6fb314a9c9b7e8398031e"
-    },
-    {
-      "title": "Shokz Launches Enhanced Open Earbuds",
-      "description": "Shokz has upgraded its open earbuds with improved sound quality and a lighter design. The new models include better noise reduction and a bone conduction microphone.",
-      "category": "Hardware",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/shokz_open2.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-      "published_at": "2026-06-04T07:00:00Z",
-      "key_points": [
-        "New lighter design",
-        "Improved sound quality",
-        "Better noise reduction"
-      ],
-      "impact": "These earbuds enhance user audio experience.",
-      "id": "5860534f4dd640dfaa865d1663123100"
-    },
-    {
-      "title": "Corsair Unveils New High-End Power Supplies",
-      "description": "Corsair showcased the AX1600i SHIFT and HX1000i SHIFT CRYSTAL power supplies at Computex 2026. Both feature a new SHIFT layout for improved connectivity.",
-      "category": "Hardware",
-      "source": "Videocardz.com",
-      "url": "https://videocardz.com/newz/corsair-shows-ax1600i-shift-and-transparent-hx1000i-shift-crystal-power-supplies",
-      "image": "https://cdn.videocardz.com/1/2026/06/CORSAIR-COMPUTEX-PSU-HERO-1.jpg",
-      "published_at": "2026-06-03T16:24:41Z",
-      "key_points": [
-        "New SHIFT layout introduced",
-        "High-end power supplies",
-        "Improved modular connectors"
-      ],
-      "impact": "This innovation enhances power supply usability.",
-      "id": "b891a309195b4537d2f16cae956c2a96"
-    },
-    {
-      "title": "LEGO Batman Game Launches on Switch 2",
-      "description": "LEGO Batman: Legacy of the Dark Knight will release on Nintendo Switch 2 on September 18, 2026. A new trailer has also been unveiled.",
-      "category": "Gaming",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/lego-batman-legacy-of-the-dark-knight-reveals-nintendo-switch-2-release-date-new-trailer/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/LEGO-Batman-Legacy-of-the-Dark-Knight-release-date-Switch-2.jpg",
-      "published_at": "2026-06-03T15:08:15Z",
-      "key_points": [
-        "Release date confirmed",
-        "New trailer revealed",
-        "Switch 2 exclusive"
-      ],
-      "impact": "This boosts excitement for Switch 2 gaming.",
-      "id": "fbc078290dd5c4102ba2b58a47de14ee"
-    },
-    {
-      "title": "Top PlayStation Games of May Revealed",
-      "description": "May's top-selling PlayStation games include FC 26 and new titles like 007 First Light. The report highlights cross-platform performance metrics.",
-      "category": "Gaming",
-      "source": "Substack.com",
-      "url": "https://alineaanalytics.substack.com/p/mays-top-playstation-games-by-copies",
-      "image": "https://substackcdn.com/image/fetch/$s_!ONkK!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc82a16b-fb89-48fa-930a-b4f3dab7595f_1920x1080.png",
-      "published_at": "2026-06-03T14:48:40Z",
-      "key_points": [
-        "Top games listed",
-        "Includes new launches",
-        "Cross-platform metrics shared"
-      ],
-      "impact": "This informs trends in PlayStation gaming.",
-      "id": "a970b3ead5a244dbf57ce4e7b347a00c"
-    },
-    {
-      "title": "Google Acquires Android App Code for AI Training",
-      "description": "Google is reportedly purchasing Android app code from developers to enhance its AI models. This initiative aims to improve coding capabilities.",
-      "category": "Software",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/06/03/google-android-app-code-ai-models/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/android-figures-mwc-2026-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-03T14:15:00Z",
-      "key_points": [
-        "Google buys app code",
-        "Enhances AI training",
-        "Focus on coding capabilities"
-      ],
-      "impact": "This strengthens Google's AI development efforts.",
-      "id": "db70919ed69573a3c00aad04fd48817e"
-    },
-    {
-      "title": "Gemini Introduces Free Thinking Modes",
-      "description": "Gemini has made its new thinking modes available for free to all users. This update enhances user experience and functionality.",
-      "category": "Software",
-      "source": "PhoneArena",
-      "url": "https://www.phonearena.com/news/gemini-new-thinking-modes-are-now-free_id180848",
-      "image": "",
-      "published_at": "2026-06-03T13:53:49Z",
-      "key_points": [
-        "New modes available for free",
-        "Enhances user experience",
-        "Improves functionality"
-      ],
-      "impact": "This increases accessibility for Gemini users.",
-      "id": "b7d3fad0deeeab65a6b288f442b82d92"
-    },
-    {
-      "title": "Pokémon Champions Launches on Mobile June 17",
-      "description": "Pokémon Champions will be available on iOS and Android starting June 17, 2026. New in-game features and cross-platform functionality are confirmed.",
-      "category": "Gaming",
-      "source": "Pokemon.com",
-      "url": "https://press.pokemon.com/en/Pokemon-Champions-Launches-June-17-on-iOS-and-Android-Devices-The-Poke",
-      "image": "https://imguscdn.gamespress.com/cdn/files/PokemonAmerica/2025/02/271414-780dd1a0/Pokemon_Champions_Logo.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=7985795bb75f7118e37ae2b41fa151e0a94f13bb0f21f6b55b2015468c25736a",
-      "published_at": "2026-06-03T13:05:25Z",
-      "key_points": [
-        "Mobile launch on June 17",
-        "New features unveiled",
-        "Cross-platform functionality confirmed"
-      ],
-      "impact": "This expands Pokémon's mobile gaming reach.",
-      "id": "e690c64a87913fb055c7cb9b0bf3ad74"
-    },
-    {
-      "title": "Leaked iPhone 18 Pro Details Spark Interest",
-      "description": "Leaked information about the iPhone 18 Pro reveals a variable aperture camera and a powerful 2-nm A20 Pro chip. The device also boasts a 5,200 mAh battery.",
-      "category": "Hardware",
-      "source": "Geeky Gadgets",
-      "url": "https://www.geeky-gadgets.com/iphone-18-pro-leaks-camera-battery/",
-      "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/iphone-18-pro.jpg",
-      "published_at": "2026-06-03T13:02:09Z",
-      "key_points": [
-        "New camera technology",
-        "Powerful A20 Pro chip",
-        "Large battery capacity"
-      ],
-      "impact": "This raises expectations for Apple's next flagship.",
-      "id": "b3ac43085874db440632c0e1f9dceb01"
-    },
-    {
-      "title": "PS5 State of Play Breaks Viewership Records",
-      "description": "The latest PS5 State of Play has become the most-watched episode ever, surpassing previous showcases. This indicates growing interest in PlayStation content.",
+      "title": "No Rest for the Wicked Launches on PS5 First",
+      "description": "No Rest for the Wicked will debut on PS5 this October, not as an exclusive but due to scheduling. Xbox players will have to wait.",
       "category": "Gaming",
       "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/06/latest-ps5-state-of-play-already-most-watched-ever-on-track-to-overtake-ps-showcases",
-      "image": "https://images.pushsquare.com/539ea14cedd28/large.jpg",
-      "published_at": "2026-06-03T13:00:00Z",
+      "url": "https://www.pushsquare.com/news/2026/06/no-rest-for-the-wicked-comes-to-ps5-before-xbox-but-its-not-some-shady-exclusivity-deal",
+      "image": "https://images.pushsquare.com/3530e61fd37f4/large.jpg",
+      "published_at": "2026-06-04T17:30:00Z",
       "key_points": [
-        "Most-watched State of Play",
-        "Surpasses previous showcases",
-        "Growing interest in PlayStation"
+        "PS5 gets exclusive first release",
+        "Xbox version delayed",
+        "No exclusivity deal involved"
       ],
-      "impact": "This highlights PlayStation's strong community engagement.",
-      "id": "c3cbf706cca9bc840a1bcc83455ef707"
+      "impact": "PS5 players will enjoy an early release.",
+      "id": "745113359103609bf5b4689fc7b9e531"
     },
     {
-      "title": "Smart Wearable Tracks Fart Emissions",
-      "description": "Researchers at the University of Maryland have developed a smart wearable to monitor fart emissions. The study aims to understand digestive health.",
-      "category": "Science",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/i-wore-a-smart-fart-wearable-for-three-days-heres-what-i-learned-2000760032",
-      "image": "https://gizmodo.com/app/uploads/2026/06/Fart-Underwear-Image-1200x675.jpg",
-      "published_at": "2026-06-03T12:00:35Z",
+      "title": "Summer Game Fest 2026: What to Expect",
+      "description": "Geoff Keighley’s Summer Game Fest promises exciting reveals, with Miss Piggy confirmed. Fans anticipate surprises and disappointments alike.",
+      "category": "Gaming",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/summer-game-fest-2026-showcase-geoff-keighley-what-to-expect-2000702483",
+      "image": "https://kotaku.com/app/uploads/2024/03/9f3667825648bd34699d6abe2c855360-1200x675.jpg",
+      "published_at": "2026-06-04T16:07:48Z",
       "key_points": [
-        "Smart wearable developed",
-        "Tracks digestive health",
-        "Research on fart emissions"
+        "Miss Piggy confirmed",
+        "Expect surprises and disappointments",
+        "Geoff Keighley hosts"
       ],
-      "impact": "This could advance digestive health studies.",
-      "id": "f921f8003538c27f3e6238818774fcc1"
+      "impact": "Fans are eager for the upcoming showcase.",
+      "id": "8007aa1ba051792532e6b86abd2219f6"
     },
     {
-      "title": "SwitchBot Acquires Nanoleaf for AI Expansion",
-      "description": "SwitchBot's acquisition of Nanoleaf aims to enhance both companies' ambitions in AI and robotics. This partnership is expected to drive innovation in smart home technology.",
-      "category": "Hardware",
+      "title": "ChatGPT Enhances Memory for Better Conversations",
+      "description": "ChatGPT introduces a new memory feature to retain user preferences, improving context in conversations. This aims to enhance user experience significantly.",
+      "category": "AI",
+      "source": "Openai.com",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/41T8ZOansyDZGCqmwOkuOY/3cdeb6ab147c08fa9b313b677fb5318e/16x9_SEO__1_.png?w=1600&h=900&fit=fill",
+      "published_at": "2026-06-04T16:07:30Z",
+      "key_points": [
+        "New memory system introduced",
+        "Improves conversation context",
+        "Enhances user experience"
+      ],
+      "impact": "ChatGPT becomes more personalized and effective.",
+      "id": "51fc7b83fb69ed2167e2396b76cc3b53"
+    },
+    {
+      "title": "Microsoft Revives Windows at Build Conference",
+      "description": "Microsoft showcased Windows prominently at its Build developer conference, signaling renewed focus on the platform. Exciting updates are on the horizon.",
+      "category": "Software",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/942328/nanoleaf-switchbot-onerobotics-sale-ai-robotics",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546019/nanoleaf1.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
-      "published_at": "2026-06-03T12:00:20Z",
+      "url": "https://www.theverge.com/tech/943108/microsoft-build-2026-windows-love-notepad",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK109_WINDOWS_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-06-04T16:00:00Z",
       "key_points": [
-        "Nanoleaf acquired by SwitchBot",
-        "Focus on AI and robotics",
-        "Partnership aims for innovation"
+        "Windows featured at Build",
+        "Focus on developer tools",
+        "Exciting updates announced"
       ],
-      "impact": "This strengthens smart home technology development.",
-      "id": "766e073ec17823916254985f2aded0d8"
+      "impact": "Microsoft aims to revitalize Windows development.",
+      "id": "d325546f766aa57b959a3ac018377dce"
     },
     {
-      "title": "Motorola Edge 2026 Competes with Pixel 11",
-      "description": "Motorola's new Edge 2026 smartphone is positioned to rival Google's Pixel 11. It features advanced specifications and competitive pricing.",
+      "title": "Elden Ring: Tarnished Edition Coming to Switch 2",
+      "description": "Elden Ring: Tarnished Edition will launch on Switch 2 in August, featuring new DLC and classes. Fans eagerly await this release.",
+      "category": "Gaming",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/elden-ring-switch-2-release-date",
+      "image": "https://assetsio.gnwcdn.com/Elden-Ring-knight-with-a-sword-over-thier-shoulder-and-a-Switch-2-logo-in-the-upper-left-corner.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-04T15:04:58Z",
+      "key_points": [
+        "Elden Ring arrives on Switch 2",
+        "Includes new DLC",
+        "Launch date set for August"
+      ],
+      "impact": "Switch 2 players can finally join the adventure.",
+      "id": "80fa64c28c75dd882f15dd64fa4ed880"
+    },
+    {
+      "title": "Pokémon TCG Live Celebrates Third Anniversary",
+      "description": "Pokémon Trading Card Game Live marks its third anniversary with special events and giveaways throughout June. Fans can participate in various activities.",
+      "category": "Gaming",
+      "source": "Pokemon.com",
+      "url": "https://www.pokemon.com/us/pokemon-news/celebrate-pokemon-trading-card-game-lives-third-anniversary",
+      "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/_tiles/tcgl/anniversary/03/tcgl-169-en.png",
+      "published_at": "2026-06-04T15:02:49Z",
+      "key_points": [
+        "Third anniversary celebration",
+        "Special events planned",
+        "Giveaways throughout June"
+      ],
+      "impact": "Fans are excited for anniversary festivities.",
+      "id": "83583063c3867b6105cf52dc7fad5a1a"
+    },
+    {
+      "title": "Nintendo's New Switch 2 Features Replaceable Battery",
+      "description": "Nintendo confirms new Switch 2 hardware with a replaceable battery, enhancing sustainability. Joy-Con details remain unclear.",
+      "category": "Gaming",
+      "source": "Digital Foundry",
+      "url": "https://www.digitalfoundry.net/news/2026/06/nintendo-confirms-new-switch-2-hardware-with-replaceable-battery",
+      "image": "https://images.digitalfoundry.net/de4d0d22f5ab7/large.jpg",
+      "published_at": "2026-06-04T14:06:00Z",
+      "key_points": [
+        "Switch 2 features replaceable battery",
+        "Focus on sustainability",
+        "Joy-Con details pending"
+      ],
+      "impact": "Nintendo aims for a more eco-friendly console.",
+      "id": "ea9d17f74f9d212933d27e25fd8bb1be"
+    },
+    {
+      "title": "Prepare for Destiny 2’s Major June 9 Update",
+      "description": "Destiny 2's significant update arrives on June 9, prompting players to prepare for the game's grand finale. Excitement builds among the community.",
+      "category": "Gaming",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/06/04/what-to-play-and-how-to-prepare-for-destiny-2s-huge-june-9-patch/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a217ff8818519d8a843b81e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published_at": "2026-06-04T13:43:24Z",
+      "key_points": [
+        "June 9 update is significant",
+        "Players urged to prepare",
+        "Community excitement surges"
+      ],
+      "impact": "Players are gearing up for the finale.",
+      "id": "d9be8b4c6f04d334272cd273b2eaca42"
+    },
+    {
+      "title": "Ace Combat 8 Preview: Stunning Visuals and Story",
+      "description": "Ace Combat 8 impresses with its visuals and gameplay improvements, offering a deep story. Players are eager for more details.",
+      "category": "Gaming",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/ace-combat-8-is-a-very-grounded-game-set-in-the-skies-ign-preview",
+      "image": "https://assets-prd.ignimgs.com/2026/06/03/ac8-blogroll-1780509673161.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-04T13:30:00Z",
+      "key_points": [
+        "Visually stunning gameplay",
+        "Deep narrative experience",
+        "Improvements noted in preview"
+      ],
+      "impact": "Fans are excited for Ace Combat 8.",
+      "id": "77d39d5038b1a5a1b74250c440941343"
+    },
+    {
+      "title": "Warhammer Opens New Locations in Kraków and More",
+      "description": "Warhammer announces new Open events in Kraków, Atlanta, and Palm Springs, including the first-ever event in Poland. Fans can look forward to grand narratives.",
+      "category": "Gaming",
+      "source": "Warhammer Community",
+      "url": "https://www.warhammer-community.com/",
+      "image": "https://assets.warhammer-community.com/whopens-jun03-1-feature-n6dbwkbmpk.jpg",
+      "published_at": "2026-06-04T12:59:46Z",
+      "key_points": [
+        "New Warhammer Open locations",
+        "First event in Poland",
+        "Grand narratives planned"
+      ],
+      "impact": "Warhammer expands its global presence.",
+      "id": "f9a0d9d12349099b6a6d9ff7f7d2359e"
+    },
+    {
+      "title": "iPhone 18 Pro Chassis Leak Sparks Controversy",
+      "description": "Leaked images of the iPhone 18 Pro chassis may be AI-manipulated, raising questions about authenticity. Apple fans remain skeptical.",
       "category": "Hardware",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/motorola-edge-2026-embarrassing-google-pixel-11-3673495/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/motorola-edge-2026-front-back-background-scaled.jpg",
-      "published_at": "2026-06-03T09:51:29Z",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/04/iphone-18-pro-dark-cherry-chassis-leaked/",
+      "image": "https://images.macrumors.com/t/lW-bVHr7ec2-5ObPSLMKSI--6oo=/3840x/article-new/2026/06/iphone-18-pro-blue%402x.jpg",
+      "published_at": "2026-06-04T12:18:30Z",
       "key_points": [
-        "Motorola Edge 2026 announced",
-        "Rivals Google Pixel 11",
-        "Competitive pricing and specs"
+        "Leaked images questioned",
+        "AI manipulation suspected",
+        "Skepticism among fans"
       ],
-      "impact": "This intensifies competition in the smartphone market.",
-      "id": "0842ebc877b7b79d1df53e297806d621"
+      "impact": "Apple enthusiasts are cautious about leaks.",
+      "id": "a8c22536c774c6dd06e693064711eb05"
     },
     {
-      "title": "Mina the Hollower Achieves 300,000 Sales",
-      "description": "Yacht Club Games reports that Mina the Hollower sold 300,000 copies in its launch weekend. The studio expresses confidence in its future after this success.",
+      "title": "Mina the Hollower: Hidden Secrets Await Players",
+      "description": "Yacht Club Games hints that many players miss half of Mina the Hollower's content, teasing hidden secrets. The community is encouraged to explore further.",
       "category": "Gaming",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/mina-the-hollower-release-weekend-sales",
-      "image": "https://assetsio.gnwcdn.com/mina-treated.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-03T08:32:58Z",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/mina-the-hollower-secrets",
+      "image": "https://assetsio.gnwcdn.com/Mina-the-Hollower's-world-map-blurred-out-with-artwork-of-Mina-drinking-a-healing-tonic-from-a-test-tube-like-vessel-overlaid-on-top.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-04T12:14:52Z",
       "key_points": [
-        "300,000 copies sold",
-        "Launch weekend success",
-        "Studio confident in future"
+        "Many secrets remain undiscovered",
+        "Encouragement to explore",
+        "Community engagement praised"
       ],
-      "impact": "This secures Yacht Club Games' position in gaming.",
-      "id": "a8dca30b82f3c7de0ebba84247f52cf0"
+      "impact": "Players are motivated to uncover secrets.",
+      "id": "554f925124f9168e1c2a1318ef406ea7"
     },
     {
-      "title": "Rayman Origins Enhanced Edition Announced for Switch 2",
-      "description": "Ubisoft officially announces Rayman Origins: Enhanced Edition for Switch 2, alongside Rayman Legends Retold. Fans can expect improved graphics and gameplay.",
-      "category": "Gaming",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/06/rayman-origins-enhanced-edition-officially-announced-for-switch-2",
-      "image": "https://images.nintendolife.com/65d50c148ca5c/large.jpg",
-      "published_at": "2026-06-03T00:30:00Z",
+      "title": "Oura Ring 5: A Compact Smart Ring Review",
+      "description": "The Oura Ring 5 is now 40% smaller and starts at $399, offering advanced health tracking features. Users are excited about its compact design.",
+      "category": "Hardware",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/04/oura-ring-5-review-thinner-lighter-better/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/oura-ring-5.jpg?resize=1200,900",
+      "published_at": "2026-06-04T12:00:00Z",
       "key_points": [
-        "Enhanced Edition announced",
-        "Improved graphics and gameplay",
-        "Switch 2 exclusive"
+        "40% smaller than predecessor",
+        "Starts at $399",
+        "Advanced health tracking features"
       ],
-      "impact": "This excites fans for upcoming Switch 2 titles.",
-      "id": "19b113ec99c86c930fcf43de420fad74"
+      "impact": "Oura Ring 5 appeals to health enthusiasts.",
+      "id": "5dd62efc7316ffc06a15437a2469df6c"
+    },
+    {
+      "title": "PS5 Fans Praise Latest State of Play Showcase",
+      "description": "70% of PS5 fans rated the latest State of Play highly, marking it as one of the best showcases. Enthusiasm remains high despite some leaks.",
+      "category": "Gaming",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/06/one-of-the-best-showcases-ive-seen-70percent-of-ps5-fans-loved-state-of-play",
+      "image": "https://images.pushsquare.com/7dc0e5303893b/large.jpg",
+      "published_at": "2026-06-04T12:00:00Z",
+      "key_points": [
+        "70% fan approval",
+        "Strong showcase performance",
+        "Leaks affected excitement"
+      ],
+      "impact": "Sony's showcase received positive fan feedback.",
+      "id": "ec3a229987f6aa035e3ae6670c8bc44b"
+    },
+    {
+      "title": "Wearable Tech: Oura Ring's Impact on Health Tracking",
+      "description": "Wearable devices like the Oura ring provide valuable health insights, but regular doctor visits remain essential. Users share mixed experiences with wearables.",
+      "category": "Software",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/life/health-wellness/2026/06/04/wearable-devices-health-longevity/89877299007/",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/05/12/USAT/90048249007-image-22.jpg?crop=579,325,x0,y262&width=579&height=325&format=pjpg&auto=webp",
+      "published_at": "2026-06-04T11:11:00Z",
+      "key_points": [
+        "Wearables offer health insights",
+        "Doctor visits still crucial",
+        "Mixed user experiences reported"
+      ],
+      "impact": "Wearables enhance health tracking but aren't replacements.",
+      "id": "a158ffec6386990c70b77adb10df6f26"
     }
   ]
 }
