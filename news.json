@@ -1,5 +1,247 @@
 {
-  "date": "2026-06-05",
-  "generated_at": "2026-06-05T22:14:20.331736+00:00",
-  "articles": []
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T03:21:38.696737+00:00",
+  "edition": "Tech Briefing",
+  "articles": [
+    {
+      "title": "Xbox Series S Blamed for Game Delay",
+      "description": "Moon Studio's founder cites Xbox Series S as a reason for the delay of their RPG, No Rest for the Wicked. The console faces ongoing criticism.",
+      "category": "Gaming",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/no-rest-for-the-wicked-developer-blames-series-s-for-xbox-release-delay",
+      "image": "https://assets-prd.ignimgs.com/2026/03/17/norestthumb-1773773043681.png?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-05T00:21:00Z",
+      "key_points": [
+        "Xbox Series S criticized again",
+        "Delay affects No Rest for the Wicked",
+        "Developer's comments spark debate"
+      ],
+      "impact": "The delay raises questions about console performance.",
+      "id": "3cd0806b58c6fc531b5ec322012a436e"
+    },
+    {
+      "title": "God of War Laufey Crowned Best PS5 Game",
+      "description": "At the latest State of Play, God of War Laufey was voted the best PS5 game, with Wolverine trailing closely behind. The event showcased numerous high-quality titles.",
+      "category": "Gaming",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/06/god-of-war-laufey-voted-best-ps5-game-at-state-of-play",
+      "image": "https://images.pushsquare.com/2fd0032e8a279/large.jpg",
+      "published_at": "2026-06-04T23:00:00Z",
+      "key_points": [
+        "God of War wins top honor",
+        "Wolverine ranks closely behind",
+        "State of Play highlights quality games"
+      ],
+      "impact": "This recognition boosts God of War's popularity.",
+      "id": "b639fa235430bafc886bcb1e8ddc3cf3"
+    },
+    {
+      "title": "Google Health 5.01 Update Rolls Out",
+      "description": "Google Health app version 5.01 is now available, featuring 16 updates focused on nutrition, fitness, and sleep improvements. Users can expect enhanced functionality.",
+      "category": "Software",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/06/04/google-health-5-01-release-notes/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/google-health-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-04T23:00:00Z",
+      "key_points": [
+        "16 new features added",
+        "Focus on health improvements",
+        "Update enhances user experience"
+      ],
+      "impact": "Users gain better health management tools.",
+      "id": "cc35e0c63e1a751245bc65f1ae67c780"
+    },
+    {
+      "title": "Valve Set to Launch Steam Machine This Summer",
+      "description": "Valve announces the upcoming launch of the Steam Machine and Steam Frame VR headset this summer, both featuring Verified programs for optimal game performance.",
+      "category": "Gaming",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0058.jpg?quality=90&strip=all&crop=0%2C10.805700988947%2C100%2C78.388598022106&w=1200",
+      "published_at": "2026-06-04T22:48:53Z",
+      "key_points": [
+        "Steam Machine launching soon",
+        "Steam Frame VR headset arrives",
+        "Verified programs for games"
+      ],
+      "impact": "This launch could reshape gaming hardware.",
+      "id": "84ea6dba6890f9c80ce70055bc10475c"
+    },
+    {
+      "title": "Nadella Uncertain About Microsoft's AI Strategy",
+      "description": "Microsoft CEO Satya Nadella expresses confusion over claims of the company wanting to create addictive AI. He seeks clarity on the internal strategy.",
+      "category": "Business",
+      "source": "404media.co",
+      "url": "https://www.404media.co/satya-nadella-not-sure-who-said-microsoft-wanted-to-make-addictive-ai-is-looking-for-guy-who-did-this/",
+      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/CleanShot-2026-06-04-at-15.02.05@2x.png",
+      "published_at": "2026-06-04T22:04:46Z",
+      "key_points": [
+        "Nadella questions AI strategy",
+        "Microsoft seeks clarity",
+        "Concerns over addictive AI"
+      ],
+      "impact": "Uncertainty may affect Microsoft's AI direction.",
+      "id": "81b4e57c2b1a0acb07b5633ae31e0b03"
+    },
+    {
+      "title": "Filtr Blocks Ads on iPhone and Mac Apps",
+      "description": "Filtr, a new privacy tool, now blocks ads in nearly all iPhone and Mac apps, enhancing user privacy and security with the latest Apple software update.",
+      "category": "Software",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/ad-blocker-1609310276.jpg?resize=1200,766",
+      "published_at": "2026-06-04T21:44:09Z",
+      "key_points": [
+        "New ad blocker for Apple devices",
+        "Enhances privacy and security",
+        "Blocks ads in various apps"
+      ],
+      "impact": "Users enjoy a cleaner browsing experience.",
+      "id": "4d8de7d9e5562a7f86309a16c95b3681"
+    },
+    {
+      "title": "Cyberdecks Evolve Beyond Laptops",
+      "description": "Cyberdecks are transforming into creative art projects, moving away from traditional laptop designs. Social media showcases these unique, personalized creations.",
+      "category": "Software",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/943445/cyberdeck-tiktok",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/aesthetic-cyberdecks-collage.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "published_at": "2026-06-04T20:07:31Z",
+      "key_points": [
+        "Cyberdecks become art projects",
+        "Creative designs on social media",
+        "Shift from traditional laptops"
+      ],
+      "impact": "This trend redefines personal tech aesthetics.",
+      "id": "4da813ce488a0aaaec9c09c446cd6a50"
+    },
+    {
+      "title": "Samsung Health App Gets AI Redesign",
+      "description": "Ahead of the Galaxy Watch 9 launch, Samsung Health is undergoing a significant AI-centric redesign, enhancing user experience and functionality.",
+      "category": "Software",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/06/04/samsung-health-ai-redesign-galaxy-watch-9/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-watch-8-8.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-04T19:45:00Z",
+      "key_points": [
+        "Samsung Health redesign announced",
+        "Focus on AI enhancements",
+        "Prepares for Galaxy Watch 9"
+      ],
+      "impact": "The update aims to improve health tracking.",
+      "id": "4f532fe46758258a299083dc056c0bb9"
+    },
+    {
+      "title": "Ubisoft Teases Rayman's Future",
+      "description": "Ubisoft hints at exciting developments for the Rayman franchise, marking a resurgence after years of limited activity. Fans can expect more content soon.",
+      "category": "Gaming",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/ubisoft-teases-the-future-of-rayman-more-to-come/",
+      "image": "https://nintendoeverything.com/uploads/Rayman-future-tease.jpg",
+      "published_at": "2026-06-04T19:07:12Z",
+      "key_points": [
+        "Rayman franchise revival teased",
+        "Ubisoft hints at new content",
+        "2026 is a big year for Rayman"
+      ],
+      "impact": "Fans eagerly await new Rayman experiences.",
+      "id": "a1ca3d986b6fae9ab9be3e749222d3f8"
+    },
+    {
+      "title": "Google Allows Creators to Customize Search Profiles",
+      "description": "Google introduces customizable search profiles for creators and publishers, enabling them to showcase their content prominently in search results.",
+      "category": "Software",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/943233/google-search-profiles-custom-page",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screenshot-2026-06-04-at-11.42.21AM.png?quality=90&strip=all&crop=0%2C3.178134261518%2C100%2C93.643731476964&w=1200",
+      "published_at": "2026-06-04T18:32:23Z",
+      "key_points": [
+        "Creators can customize search profiles",
+        "Highlights videos and articles",
+        "Enhances online visibility"
+      ],
+      "impact": "This feature boosts creators' online presence.",
+      "id": "7038224c0eb673b467f89e2830f27f8f"
+    },
+    {
+      "title": "Run Google's Gemini LLMs Locally on Mac",
+      "description": "Google's AI Edge Gallery app now allows Mac users to run Gemini large language models locally, eliminating the need for internet connectivity.",
+      "category": "Software",
+      "source": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/06/04/run-googles-gemini-llms-right-on-your-mac-with-the-new-ai-edge-gallery",
+      "image": "https://photos5.appleinsider.com/gallery/67835-142964-Google-AI-Edge-Gallery-xl.jpg",
+      "published_at": "2026-06-04T15:13:14Z",
+      "key_points": [
+        "Gemini LLMs run locally",
+        "No internet required",
+        "AI Edge Gallery launched for Mac"
+      ],
+      "impact": "This enhances accessibility for AI users.",
+      "id": "4a96712accb46dfd79551cc3b14d5228"
+    },
+    {
+      "title": "Ferrari and HP Launch Supercar-Inspired Laptop",
+      "description": "Ferrari and HP unveil a laptop designed with supercar aesthetics and engineering, pushing the boundaries of traditional PC design.",
+      "category": "Hardware",
+      "source": "Dezeen",
+      "url": "https://www.dezeen.com/2026/06/04/ferrari-laptop-hp/",
+      "image": "https://static.dezeen.com/uploads/2026/05/ferrari-hp-laptop-interview_dezeen_2364_col_1.jpg",
+      "published_at": "2026-06-04T15:01:00Z",
+      "key_points": [
+        "Ferrari collaborates with HP",
+        "Laptop inspired by supercars",
+        "Innovative PC design unveiled"
+      ],
+      "impact": "This laptop redefines luxury tech aesthetics.",
+      "id": "19eac80ecf16ade96be91760ec399b46"
+    },
+    {
+      "title": "GTA Online Introduces New Community Missions",
+      "description": "GTA Online launches new community missions, featuring player-created experiences and showcasing new creators. Available on PS5, Xbox Series X|S, and PC.",
+      "category": "Gaming",
+      "source": "Rockstargames.com",
+      "url": "https://www.rockstargames.com/newswire/article/252kk2a21k7451/explore-fun-and-immersive-new-community-missions-in-gta-online",
+      "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/252kk2a21k7451/4b6acbb83e14acbd5fb2d68a1275fba598803371.jpg",
+      "published_at": "2026-06-04T14:53:41Z",
+      "key_points": [
+        "New community missions launched",
+        "Player-created experiences featured",
+        "Available on multiple platforms"
+      ],
+      "impact": "This enhances player engagement in GTA Online.",
+      "id": "62086c05a27d14f422bd7f037f4b5d0c"
+    },
+    {
+      "title": "DIY AI Laser System Eliminates Mosquitoes",
+      "description": "An engineer creates a DIY AI laser system that effectively eliminates mosquitoes at home using deep learning and computer vision technology.",
+      "category": "Software",
+      "source": "SlashGear",
+      "url": "https://www.slashgear.com/2187283/steven-cheng-engineer-diy-ai-mosquito-laser/",
+      "image": "https://www.slashgear.com/img/gallery/diy-ai-laser-system-wipes-out-every-mosquito-in-engineers-home/l-intro-1780564679.jpg",
+      "published_at": "2026-06-04T14:45:00Z",
+      "key_points": [
+        "DIY mosquito laser system created",
+        "Uses AI and computer vision",
+        "Effective home pest control"
+      ],
+      "impact": "This innovation offers a new pest control solution.",
+      "id": "df1fd5064bcabdcc6bbe12c20c5090aa"
+    },
+    {
+      "title": "Apple Arcade Expands with Four New Games",
+      "description": "Apple Arcade adds four new games to its extensive library, with five more titles set to arrive soon, enhancing its gaming offerings.",
+      "category": "Gaming",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/04/apple-arcade-just-got-four-new-games-with-more-coming-soon/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/apple-arcade-fi.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-04T14:25:00Z",
+      "key_points": [
+        "Four new games added",
+        "More titles coming soon",
+        "Expands Apple Arcade library"
+      ],
+      "impact": "This keeps Apple Arcade competitive in gaming.",
+      "id": "8ca6b17d5a3c2779cb325a8b3e20d966"
+    }
+  ]
 }
