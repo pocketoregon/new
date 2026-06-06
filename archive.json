@@ -1,6 +1,189 @@
 {
   "batches": [
     {
+      "id": "2026-06-06T13:39:57.875090+00:00",
+      "fetched_at": "2026-06-06T13:39:57.875090+00:00",
+      "label": "Jun 06, 2026 — 01:40 PM UTC",
+      "articles": [
+        {
+          "title": "Steve Jobs' NeXT Years Explored in Profile",
+          "description": "A new profile highlights Steve Jobs' impactful years at NeXT. It reveals insights into his vision and challenges during this pivotal time.",
+          "category": "Business",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/apple/2026/06/steve-jobs-in-exile-is-a-fine-profile-of-jobs-years-at-next/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-136021736-2560x1440-1780609093.jpg",
+          "published_at": "2026-06-05T11:15:29Z",
+          "key_points": [
+            "Insightful look at Jobs' vision",
+            "Challenges during NeXT era",
+            "Impact on future Apple innovations"
+          ],
+          "impact": "This profile sheds light on Jobs' legacy.",
+          "id": "19717f4cc354ff878c004261112d9edd"
+        },
+        {
+          "title": "Neighbor Feud: A Friendly Approach Backfires",
+          "description": "A couple's attempt to resolve a neighbor dispute amicably has led to unexpected anger. Prudie's advice sparks discussion among readers.",
+          "category": "Geopolitics",
+          "source": "Slate Magazine",
+          "url": "https://slate.com/advice/2026/06/marriage-advice-neighbor-feud-dear-prudence.html",
+          "image": "https://compote.slate.com/images/3316df33-7d83-4e62-bdd3-09e47677048a.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+          "published_at": "2026-06-05T10:00:00Z",
+          "key_points": [
+            "Couple seeks neighborly peace",
+            "Prudie's advice sparks debate",
+            "Unexpected neighbor backlash"
+          ],
+          "impact": "The situation highlights communication challenges.",
+          "id": "5d8eb32caaab337191875cd85e1c15f6"
+        },
+        {
+          "title": "Yacht Club Games Teases Secrets in Mina The Hollower",
+          "description": "Yacht Club Games hints at hidden surprises in their upcoming title, Mina The Hollower. Some playthroughs reportedly miss significant content.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/yacht-club-games-teases-some-very-secret-things-in-mina-the-hollower",
+          "image": "https://images.nintendolife.com/7d67acfd0caba/large.jpg",
+          "published_at": "2026-06-05T06:45:00Z",
+          "key_points": [
+            "Mina The Hollower secrets teased",
+            "Playthroughs missing content",
+            "Excitement builds for release"
+          ],
+          "impact": "Anticipation grows for the game's launch.",
+          "id": "325d270989c36d999820df9c8b28687d"
+        },
+        {
+          "title": "Xbox CEO Emphasizes Importance of Exclusives",
+          "description": "Xbox CEO Asha Sharma reaffirms the significance of exclusive games for the platform's identity, despite expanding to more devices.",
+          "category": "Gaming",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/gaming/xbox-ceo-doubles-down-on-exclusives-saying-they-remain-central-to-defining-the-xbox-platform",
+          "image": "https://cdn.mos.cms.futurecdn.net/nG3cDMxeRZMHdgHHA3JVEL-1920-80.jpg",
+          "published_at": "2026-06-05T01:57:23Z",
+          "key_points": [
+            "Exclusives define Xbox identity",
+            "CEO reaffirms commitment",
+            "Expansion won't dilute exclusivity"
+          ],
+          "impact": "Exclusives remain central to Xbox strategy.",
+          "id": "f308f33e129e8887ba35e47486aa0fdb"
+        },
+        {
+          "title": "Google Health App Update Fixes Major Bugs",
+          "description": "Following user backlash, Google Health app receives a significant update addressing over 15 core bugs. Improvements are rolling out now.",
+          "category": "Software",
+          "source": "Droid Life",
+          "url": "https://www.droid-life.com/2026/06/04/google-health-app-gets-massive-update-fixing-15-core-bugs-after-user-backlash/",
+          "image": "https://www.droid-life.com/wp-content/uploads/2026/05/Google-Health-Premium-Features-4-1200x628.jpg",
+          "published_at": "2026-06-04T22:55:39Z",
+          "key_points": [
+            "Major update fixes 15 bugs",
+            "User feedback prompted changes",
+            "Improvements rolling out now"
+          ],
+          "impact": "User experience is expected to improve significantly.",
+          "id": "273f8ef653c318ae1a992b8e5044d98f"
+        },
+        {
+          "title": "Linux 7.1 and Mesa 26.1 Performance Review",
+          "description": "A review of the AMD Radeon RX 9070 GRE performance on Linux 7.1 and Mesa 26.1 highlights its capabilities. Testing conducted on Ubuntu 26.04.",
+          "category": "Hardware",
+          "source": "Phoronix",
+          "url": "https://www.phoronix.com/news/Linux-7.1-Mesa-26.1-RX-9070-GRE",
+          "image": "https://www.phoronix.net/image.php?id=amd-radeon-rx-9070-gre&image=amd_rx9070gre_8",
+          "published_at": "2026-06-04T21:25:00Z",
+          "key_points": [
+            "Performance review of RX 9070",
+            "Testing on Linux 7.1",
+            "Ubuntu 26.04 used for benchmarks"
+          ],
+          "impact": "Performance insights benefit Linux users.",
+          "id": "ab09f216f935d12fc248a50983396628"
+        },
+        {
+          "title": "Jurassic Park Gaming News Disrupted by Silence",
+          "description": "A sudden silence around the Jurassic Park brand has delayed some gaming news and DLC announcements. Fans are left in suspense.",
+          "category": "Gaming",
+          "source": "Gamefile.news",
+          "url": "https://www.gamefile.news/p/stuntman-hollywood-jurassic-park",
+          "image": "https://substackcdn.com/image/fetch/$s_!YkZo!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a8cc292-caad-412a-b9ea-e58ed234af27_3550x1908.png",
+          "published_at": "2026-06-04T21:07:36Z",
+          "key_points": [
+            "Jurassic brand silence disrupts news",
+            "DLC announcements delayed",
+            "Fans left in suspense"
+          ],
+          "impact": "Fans await clarity on future releases.",
+          "id": "766fededf1ad21446cd59adafd544fdd"
+        },
+        {
+          "title": "Google Launches Search Profiles in Discover",
+          "description": "Google introduces Search profiles for publishers within Google Discover, enhancing user engagement with curated content. Users can follow publishers easily.",
+          "category": "Software",
+          "source": "Search Engine Land",
+          "url": "https://searchengineland.com/google-introduces-search-profiles-within-google-discover-479475",
+          "image": "https://searchengineland.com/wp-content/seloads/2026/06/google-publisher-hero-1920.jpg",
+          "published_at": "2026-06-04T16:00:00Z",
+          "key_points": [
+            "New publisher landing pages",
+            "Enhanced user engagement",
+            "Follow publishers easily"
+          ],
+          "impact": "This feature improves content discovery.",
+          "id": "0e95c41b73640bddcc1e3d16701d1487"
+        },
+        {
+          "title": "Amazon Clarifies Future of James Bond Games",
+          "description": "Amid confusion, Amazon Game Studios clarifies that IO Interactive will not self-publish future James Bond games. Fans seek clarity on upcoming titles.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/widespread-confusion-forces-amazon-to-make-statement-about-future-james-bond-games",
+          "image": "https://images.pushsquare.com/f51ef78ed1ea5/large.jpg",
+          "published_at": "2026-06-04T15:45:00Z",
+          "key_points": [
+            "Amazon clarifies Bond game rights",
+            "IO Interactive won't self-publish",
+            "Fans seek clarity on titles"
+          ],
+          "impact": "Confusion resolved for Bond game fans.",
+          "id": "1bdc438140cf2637236eab9db59e60e5"
+        },
+        {
+          "title": "Pixel Watch Updates Enhance ECG Functionality",
+          "description": "The Pixel Watch receives updates, including a new ECG app icon and improved functionality. Users can better monitor their health now.",
+          "category": "Hardware",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/04/google-pixel-watch-ecg-app-updates/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/indigo-pixel-watch-4-band.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-04T14:45:00Z",
+          "key_points": [
+            "ECG app gets new icon",
+            "Improved functionality for users",
+            "Health monitoring enhanced"
+          ],
+          "impact": "Users benefit from improved health tracking.",
+          "id": "a404a7bc6886c2778bfef60dde52f67a"
+        },
+        {
+          "title": "Win $800 Tech Grab Bag from The Verge",
+          "description": "The Verge is hosting a giveaway for a tech grab bag worth over $800. The contest ends on June 30th, offering exciting prizes.",
+          "category": "Startups",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/936396/prime-day-grab-bag-giveaway-sweepstakes",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/P6031295.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-04T14:00:00Z",
+          "key_points": [
+            "$800 tech grab bag giveaway",
+            "Contest ends June 30th",
+            "Exciting prizes for participants"
+          ],
+          "impact": "Participants have a chance to win big.",
+          "id": "a8c77919694b6d30dee263f79e9da3eb"
+        }
+      ]
+    },
+    {
       "id": "2026-06-06T10:53:13.558585+00:00",
       "fetched_at": "2026-06-06T10:53:13.558585+00:00",
       "label": "Jun 06, 2026 — 10:53 AM UTC",
@@ -6344,173 +6527,6 @@
           ],
           "impact": "The Cobra GT Coupe could attract car enthusiasts.",
           "id": "e27557210e1d51b510d875314797fe6f"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-01T04:20:49.643454+00:00",
-      "fetched_at": "2026-06-01T04:20:49.643454+00:00",
-      "label": "Jun 01, 2026 — 04:21 AM UTC",
-      "articles": [
-        {
-          "title": "Feger Wins $5,000 at Red Hill Race",
-          "description": "Feger clinched victory at Red Hill, taking home $5,000. The event showcased top Dirt Late Model racers in an exciting competition.",
-          "category": "Startups",
-          "source": "Dirtondirt.com",
-          "url": "https://www.dirtondirt.com/racewire9723.html",
-          "image": "",
-          "published_at": "2026-05-31T04:19:57Z",
-          "key_points": [
-            "Feger tops the MARS field",
-            "Wins $5,000 prize",
-            "Exciting Dirt Late Model race"
-          ],
-          "impact": "Feger's win highlights his racing prowess.",
-          "id": "9f9732e0e833db0df1b6af0a360d7260"
-        },
-        {
-          "title": "Explore New LEGO Minecraft Chicken Mounts",
-          "description": "Discover exclusive DLC and Minecoins in the Minecraft Marketplace. New games, maps, and skins await players from the creator community.",
-          "category": "Software",
-          "source": "Minecraft.net",
-          "url": "https://www.minecraft.net/en-us/marketplace/pdp",
-          "image": "https://www.minecraft.net/content/dam/minecraftnet/franchise/logos/minecraft-creeper-face.jpg",
-          "published_at": "2026-05-31T01:14:23Z",
-          "key_points": [
-            "New chicken mounts available",
-            "Explore Minecraft Marketplace",
-            "Get exclusive DLC and skins"
-          ],
-          "impact": "Players can enhance their Minecraft experience.",
-          "id": "deffc970b68a5935f9466113b436580f"
-        },
-        {
-          "title": "Intel's Big Reveal Expected at Computex 2026",
-          "description": "Intel plans to unveil new product stacks at Computex 2026, including the Arc G3 and Nova Lake. Anticipation builds for major announcements.",
-          "category": "Hardware",
-          "source": "Wccftech",
-          "url": "https://wccftech.com/intel-computex-2026-what-to-expect/",
-          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/Intel-Computex-2026.jpg",
-          "published_at": "2026-05-30T20:08:00Z",
-          "key_points": [
-            "Intel to unveil new products",
-            "Focus on Arc G3 and Nova Lake",
-            "Major announcements expected"
-          ],
-          "impact": "Intel aims to impress at Computex.",
-          "id": "d2ad2055f41c8e5fb0ab97f6ec50354b"
-        },
-        {
-          "title": "New Minecraft Biome Coming This Fall",
-          "description": "Mojang teased a new biome during Minecraft Live, set to launch this fall. The upcoming update, Chaos Cubed, releases on June 16.",
-          "category": "Software",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/another-new-biome-is-coming-to-minecraft-this-fall/",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Dappled-Forest_2.png",
-          "published_at": "2026-05-30T16:01:58Z",
-          "key_points": [
-            "New biome teased for fall",
-            "Chaos Cubed update on June 16",
-            "Exciting changes for Minecraft"
-          ],
-          "impact": "Players can look forward to fresh content.",
-          "id": "45592d73ef5b8cd5a6541b480685be25"
-        },
-        {
-          "title": "Infinity Ward Keeps Modern Warfare 4 Grounded",
-          "description": "Infinity Ward confirms Modern Warfare 4 will avoid outlandish cosmetics. The focus remains on realism and grounded gameplay.",
-          "category": "Software",
-          "source": "Wccftech",
-          "url": "https://wccftech.com/modern-warfare-4-infinity-ward-grounded-cosmetics/",
-          "image": "https://cdn.wccftech.com/wp-content/uploads/2022/12/cover-home-1.jpg",
-          "published_at": "2026-05-30T16:00:00Z",
-          "key_points": [
-            "Modern Warfare 4 stays grounded",
-            "No celebrity skins planned",
-            "Focus on realistic gameplay"
-          ],
-          "impact": "Players can expect a more authentic experience.",
-          "id": "21c1f808b4271054a24d7622f980f858"
-        },
-        {
-          "title": "AC Cobra GT Coupe Unveiled with 720 HP",
-          "description": "AC Cars celebrates its 125th anniversary with the new Cobra GT Coupe, boasting 720 horsepower and classic styling.",
-          "category": "Hardware",
-          "source": "Motor1",
-          "url": "https://www.motor1.com/news/797329/ac-cobra-gt-coupe-revealed/",
-          "image": "https://cdn.motor1.com/images/mgl/JONken/s1/ac-cobra-gt-coupe.jpg",
-          "published_at": "2026-05-30T13:46:01Z",
-          "key_points": [
-            "New Cobra GT Coupe revealed",
-            "720 horsepower performance",
-            "Celebrating 125 years of AC Cars"
-          ],
-          "impact": "AC Cars aims to boost production with this model.",
-          "id": "67403dbcaf82e4e08e7a885a8c4d8d7a"
-        },
-        {
-          "title": "3D Silicon Chip Breakthrough Extends Moore's Law",
-          "description": "Researchers have developed a new method to stack silicon circuits, enhancing computing power and potentially extending Moore's Law.",
-          "category": "Science",
-          "source": "Science Daily",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260530053412.htm",
-          "image": "https://www.sciencedaily.com/images/1920/3d-cpu-processor-chip.webp",
-          "published_at": "2026-05-30T10:27:23Z",
-          "key_points": [
-            "New chip stacking method developed",
-            "Enhances computing power",
-            "Extends Moore's Law viability"
-          ],
-          "impact": "This breakthrough could revolutionize chip design.",
-          "id": "8970cc021a053a074f02ab1d0d7421fa"
-        },
-        {
-          "title": "Perplexity Distributes Mac Minis for Testing",
-          "description": "Perplexity is gifting Mac Minis to users for testing its new Personal Computer technology, tapping into high demand for the device.",
-          "category": "Startups",
-          "source": "Business Insider",
-          "url": "https://www.businessinsider.com/perplexity-gifts-mac-minis-in-push-for-personal-computer-tool-2026-5",
-          "image": "https://i.insider.com/6a19ceec2ab5f9757add68c1?width=1200&format=jpeg",
-          "published_at": "2026-05-30T09:46:00Z",
-          "key_points": [
-            "Mac Minis gifted for testing",
-            "Focus on Personal Computer tech",
-            "High demand for Mac Minis"
-          ],
-          "impact": "Perplexity aims to boost user engagement.",
-          "id": "d271b34b7e3ebe97a4f2002cbd5accfc"
-        },
-        {
-          "title": "iOS 27 Will Exclude Some iPhones",
-          "description": "iOS 27 is on the way, but not all iPhones will be eligible for the upgrade. Check which devices may miss out.",
-          "category": "Software",
-          "source": "Tom's Guide",
-          "url": "https://www.tomsguide.com/phones/iphones/ios-27-is-coming-but-it-wont-be-available-on-every-iphone-heres-the-devices-we-dont-think-will-make-the-cut",
-          "image": "https://cdn.mos.cms.futurecdn.net/bVpMc9nkwKwB7TNGiDkmFK-2000-80.jpg",
-          "published_at": "2026-05-30T05:04:52Z",
-          "key_points": [
-            "iOS 27 release confirmed",
-            "Not all iPhones eligible",
-            "Check device compatibility"
-          ],
-          "impact": "Users need to verify upgrade eligibility.",
-          "id": "20f8a9560223d8168abbd50b5d0c346f"
-        },
-        {
-          "title": "Rayman Origins 4K Edition Leaked for Xbox",
-          "description": "A 4K edition of Rayman Origins has leaked, set to be released on Xbox. Official confirmation from Ubisoft is still pending.",
-          "category": "Software",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/05/rayman-leaks-just-wont-stop-xbox-outs-4k-edition-of-origins",
-          "image": "https://images.pushsquare.com/8b28fd7cca3a2/large.jpg",
-          "published_at": "2026-05-29T23:00:00Z",
-          "key_points": [
-            "Rayman Origins 4K edition leaked",
-            "Release planned for Xbox",
-            "Awaiting Ubisoft confirmation"
-          ],
-          "impact": "Fans anticipate the remaster's arrival.",
-          "id": "cc3fa3cd63c9b6bb1fda62cb0f4ab95e"
         }
       ]
     }
