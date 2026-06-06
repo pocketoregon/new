@@ -1,6 +1,141 @@
 {
   "batches": [
     {
+      "id": "2026-06-06T22:02:21.961171+00:00",
+      "fetched_at": "2026-06-06T22:02:21.961171+00:00",
+      "label": "Jun 06, 2026 — 10:02 PM UTC",
+      "articles": [
+        {
+          "title": "007: First Light - A Tutorial Triumph",
+          "description": "007: First Light impresses with its exceptional tutorial, making it a standout in gaming. Released on May 27, 2026, it’s available on multiple platforms.",
+          "category": "Gaming",
+          "source": "Thejimquisition.com",
+          "url": "https://www.thejimquisition.com/post/007-first-light-007-out-of-ten-review",
+          "image": "https://static.wixstatic.com/media/a511ef_84f95722962d49aab0c5e1bf10b2a237~mv2.jpg/v1/fill/w_1000,h_563,al_c,q_85,usm_0.66_1.00_0.01/a511ef_84f95722962d49aab0c5e1bf10b2a237~mv2.jpg",
+          "published_at": "2026-06-05T19:49:46Z",
+          "key_points": [
+            "Exceptional tutorial experience",
+            "Available on multiple platforms",
+            "Developed by IO Interactive"
+          ],
+          "impact": "This game sets a new standard for tutorials.",
+          "id": "7c77a1402c315928b25b21de6070cc64"
+        },
+        {
+          "title": "TVLine's Weekly TV Questions Unpacked",
+          "description": "TVLine dives into this week's pressing TV questions, covering shows like Not Suitable For Work and Criminal Minds: Evolution. Join the conversation on pop culture.",
+          "category": "Gaming",
+          "source": "TVLine",
+          "url": "https://www.tvline.com/2188370/not-suitable-for-work-relationships-pop-culture-jeopardy-semi-final-tv-questions/",
+          "image": "https://www.tvline.com/img/gallery/tvline-asks-who-are-you-shipping-on-not-suitable-for-work-how-did-criminal-minds-escape-work-was-pop-culture-jeopardy-semi-final-too-hard-and-more/l-intro-1780671860.jpg",
+          "published_at": "2026-06-05T18:00:00Z",
+          "key_points": [
+            "Exploring Not Suitable For Work",
+            "Questions on Criminal Minds",
+            "Pop Culture Jeopardy insights"
+          ],
+          "impact": "Engaging discussions on current TV trends.",
+          "id": "94fc96aa771fa0f053b1a8a7b127bb83"
+        },
+        {
+          "title": "iPhone Ultra to Feature Touch ID",
+          "description": "Apple's upcoming iPhone Ultra, launching this fall, will introduce Touch ID instead of Face ID. This foldable model promises innovative features.",
+          "category": "Hardware",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/05/touch-id-coming-to-iphone-ultra-this-fall-heres-why/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-05T16:56:00Z",
+          "key_points": [
+            "Foldable design debut",
+            "Touch ID replaces Face ID",
+            "Launch set for fall 2026"
+          ],
+          "impact": "This could redefine user authentication on iPhones.",
+          "id": "2c7678f6351539a64bbddae7ad3c2d9a"
+        },
+        {
+          "title": "Galaxy S27 Pro Set for Major Upgrade",
+          "description": "Rumors suggest the Galaxy S27 Pro will feature significant upgrades at a lower price, positioning it as Samsung's best seller. The Galaxy S27 Ultra may miss out.",
+          "category": "Hardware",
+          "source": "Wccftech",
+          "url": "https://wccftech.com/galaxy-s27-pro-another-upgrade-to-make-it-a-best-seller/",
+          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/Galaxy-S27-2.jpg",
+          "published_at": "2026-06-05T14:08:00Z",
+          "key_points": [
+            "Galaxy S27 Pro upgrades rumored",
+            "Lower price expected",
+            "Galaxy S27 Ultra left behind"
+          ],
+          "impact": "This could shift Samsung's market strategy.",
+          "id": "b14a679304f6e529a89d216e4548553a"
+        },
+        {
+          "title": "Xbox Innovates to Cut Project Helix Costs",
+          "description": "Xbox is exploring innovative strategies to reduce the price of its upcoming Project Helix console, addressing industry pricing challenges.",
+          "category": "Gaming",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/06/xbox-will-innovate-to-reduce-the-price-of-project-helix-suggests-asha-sharma",
+          "image": "https://images.purexbox.com/ae1440f508a2c/large.jpg",
+          "published_at": "2026-06-05T11:30:00Z",
+          "key_points": [
+            "Project Helix pricing concerns",
+            "Innovative cost-reduction strategies",
+            "Focus on affordability"
+          ],
+          "impact": "This could enhance Xbox's competitive edge.",
+          "id": "6fdb1a6b497046fb6908a76e58c14465"
+        },
+        {
+          "title": "Subnautica 2 Teases New Content",
+          "description": "Subnautica 2's developer reveals exciting updates, including a new vehicle and region focused on the Collector Leviathan, coming soon in update 1.1.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/subnautica-2-dev-reveals-what-to-expect-from-upcoming-early-access-11-update",
+          "image": "https://assets-prd.ignimgs.com/2026/06/05/screenshot-2026-06-05-103536-1780652181265.png?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-05T09:40:04Z",
+          "key_points": [
+            "New vehicle announced",
+            "Collector Leviathan region",
+            "Update 1.1 coming soon"
+          ],
+          "impact": "This update promises to enhance gameplay experience.",
+          "id": "c3f033e29eacd50665355b779cb9c394"
+        },
+        {
+          "title": "Galaxy Z Flip8 to Feature Dual Chips",
+          "description": "Samsung's Galaxy Z Flip8 will reportedly offer both Exynos and Snapdragon chips, depending on the region, enhancing its versatility.",
+          "category": "Hardware",
+          "source": "GSMArena.com",
+          "url": "https://www.gsmarena.com/samsung_galaxy_z_flip8_to_have_both_exynos_and_snapdragon_chips-news-73138.php",
+          "image": "https://fdn.gsmarena.com/imgroot/news/26/06/galaxy-z-flip8-soc-rumor/-952x498w6/gsmarena_000.jpg",
+          "published_at": "2026-06-04T21:59:02Z",
+          "key_points": [
+            "Exynos and Snapdragon options",
+            "Region-dependent chip selection",
+            "Enhanced performance expected"
+          ],
+          "impact": "This could improve user choice and performance.",
+          "id": "0b89e5f9e1d37b4e39d118e05b2da3dd"
+        },
+        {
+          "title": "Nadella Rejects AI Addiction Strategy",
+          "description": "Microsoft CEO Satya Nadella has dismissed an internal proposal aimed at making users addicted to its AI agent, Scout, emphasizing ethical considerations.",
+          "category": "Policy",
+          "source": "The Information",
+          "url": "https://www.theinformation.com/briefings/exclusive-nadella-rebukes-microsoft-executives-plan-make-users-addicted-ai-agents",
+          "image": "https://tii.imgix.net/global/defaults/article_image_unavailable.jpg",
+          "published_at": "2026-06-04T20:52:00Z",
+          "key_points": [
+            "Nadella rebukes addiction strategy",
+            "Focus on ethical AI use",
+            "Scout AI agent under scrutiny"
+          ],
+          "impact": "This stance reinforces Microsoft's commitment to ethics.",
+          "id": "7a69144288214e8715529b89d86a2acf"
+        }
+      ]
+    },
+    {
       "id": "2026-06-06T19:20:51.974602+00:00",
       "fetched_at": "2026-06-06T19:20:51.974602+00:00",
       "label": "Jun 06, 2026 — 07:21 PM UTC",
@@ -6280,253 +6415,6 @@
           ],
           "impact": "Understanding this feature enhances user experience.",
           "id": "e25cfccab4e23444c17693dc3c24c20f"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-01T20:56:36.589187+00:00",
-      "fetched_at": "2026-06-01T20:56:36.589187+00:00",
-      "label": "Jun 01, 2026 — 08:57 PM UTC",
-      "articles": [
-        {
-          "title": "Modern Warfare 4 Promises Authentic Shooter Experience",
-          "description": "Call of Duty: Modern Warfare 4 aims for authenticity, encouraging players to 'keep the receipts' on its development. The community team emphasizes transparency in gameplay.",
-          "category": "Gaming",
-          "source": "Eurogamer.net",
-          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-keep-the-receipts",
-          "image": "https://assetsio.gnwcdn.com/MW4_MP_003_BRANDED.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-05-31T17:20:10Z",
-          "key_points": [
-            "Focus on authenticity",
-            "Community engagement emphasized",
-            "Transparent development process"
-          ],
-          "impact": "Players can expect a more genuine gaming experience.",
-          "id": "056c2a9cf56477bd74d1fa3a708fceea"
-        },
-        {
-          "title": "Apple Glasses Set for Late 2027 Launch",
-          "description": "Apple plans to release its first smart glasses in late 2027, featuring advanced technology. This follows previous delays and speculation about their capabilities.",
-          "category": "Hardware",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/05/31/apple-glasses-late-2027-report/",
-          "image": "https://images.macrumors.com/t/DLnWSJUHIJ-X1tZ7Gmt9uMEY8gk=/1600x/article-new/2025/07/Meta-Ray-Ban-Glasses.jpg",
-          "published_at": "2026-05-31T16:21:35Z",
-          "key_points": [
-            "Launch expected in late 2027",
-            "Advanced features anticipated",
-            "Delays have been common"
-          ],
-          "impact": "Apple aims to enter the smart glasses market.",
-          "id": "6c65e875f5563297a3c91b1547a1238e"
-        },
-        {
-          "title": "11 New Games Coming to Switch in June 2026",
-          "description": "Exciting titles like Star Fox and Final Fantasy are set to launch on Switch this June. Gamers can look forward to a diverse lineup of new releases.",
-          "category": "Gaming",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/05/video-11-exciting-new-games-coming-to-switch-1-and-2-in-june-2026",
-          "image": "https://images.nintendolife.com/2d278883f7ccb/large.jpg",
-          "published_at": "2026-05-31T16:08:00Z",
-          "key_points": [
-            "Star Fox returns",
-            "Final Fantasy included",
-            "Diverse game lineup"
-          ],
-          "impact": "June promises exciting new gaming experiences.",
-          "id": "6c8401bcc14e8b6ac5c5d9b45c7c6ae0"
-        },
-        {
-          "title": "Phanteks Launches EX Cases for Clean Builds",
-          "description": "Phanteks introduces a new case series allowing users to hide unattractive graphics cards. The EX series promotes a cleaner PC aesthetic.",
-          "category": "Hardware",
-          "source": "Videocardz.com",
-          "url": "https://videocardz.com/newz/phanteks-new-ex-cases-let-users-put-ugly-graphics-cards-in-their-own-shame-box",
-          "image": "https://cdn.videocardz.com/1/2026/05/PHANTEKS-SHAME-BOX.jpg",
-          "published_at": "2026-05-31T16:01:07Z",
-          "key_points": [
-            "New EX case series",
-            "Hides unattractive GPUs",
-            "Promotes clean aesthetics"
-          ],
-          "impact": "Users can achieve a sleeker PC design.",
-          "id": "c6f8eb00bcc1e34ad19b2645f5792e6d"
-        },
-        {
-          "title": "Exploring Practical Uses for Google Gemini",
-          "description": "Reflecting on Google’s Gemini AI, the focus remains on practical applications. Users seek ways to utilize this technology effectively.",
-          "category": "AI",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/05/31/what-are-you-actually-doing-with-gemini/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-overlay-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-05-31T16:00:00Z",
-          "key_points": [
-            "Focus on practical applications",
-            "Users seek effective uses",
-            "AI technology exploration continues"
-          ],
-          "impact": "Gemini aims to enhance user productivity.",
-          "id": "d1aa9437c690c8ee6755522721cc0ee8"
-        },
-        {
-          "title": "Xbox to Revise Marketing After Fan Backlash",
-          "description": "Xbox's Asha Sharma acknowledges the misstep of using rival logos in promotions. Future marketing strategies will be adjusted accordingly.",
-          "category": "Gaming",
-          "source": "Eurogamer.net",
-          "url": "https://www.eurogamer.net/xbox-ceo-calls-rival-logos-marketing-a-miss",
-          "image": "https://assetsio.gnwcdn.com/asha-sharma-and-matt-booty-this-is-an-xbox.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-05-31T15:53:05Z",
-          "key_points": [
-            "Fan backlash acknowledged",
-            "Marketing strategies to change",
-            "Rival logos deemed a mistake"
-          ],
-          "impact": "Xbox aims for improved fan relations.",
-          "id": "9514f9f62bba846a9ad2fca7a302dab5"
-        },
-        {
-          "title": "Summer Game Fest: Xbox Events Schedule",
-          "description": "The Summer Game Fest will feature over 15 Xbox-related events in June. Gamers can anticipate a busy showcase week ahead.",
-          "category": "Gaming",
-          "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/guides/summer-game-fest-schedule-your-guide-to-all-15plus-xbox-related-events-in-june-2026",
-          "image": "https://images.purexbox.com/e177cc6890a62/large.jpg",
-          "published_at": "2026-05-31T15:05:29Z",
-          "key_points": [
-            "15+ Xbox events scheduled",
-            "Busiest gaming week ahead",
-            "Exciting showcases planned"
-          ],
-          "impact": "Gamers can expect thrilling announcements.",
-          "id": "44cb8872bb81946b54f066fddd7e59ce"
-        },
-        {
-          "title": "MSI Unveils AI Desktop with Holographic Pet",
-          "description": "MSI's new MEG Vision X2 AI+ desktop features a holographic pet that adjusts RGB lighting and performance. This innovation enhances user interaction.",
-          "category": "Hardware",
-          "source": "Wccftech",
-          "url": "https://wccftech.com/msi-introduces-luckyclaw-with-meg-vision-x2-ai-plus/",
-          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/MEG-Vision-X2-AI.jpg",
-          "published_at": "2026-05-31T14:47:00Z",
-          "key_points": [
-            "Holographic pet included",
-            "Adjusts RGB and performance",
-            "Innovative user interaction"
-          ],
-          "impact": "MSI enhances desktop experience with AI.",
-          "id": "ce926d3f39e9c2c4f5e2aa602318a19a"
-        },
-        {
-          "title": "Pokemon Champions Developer Discusses Roster Limits",
-          "description": "The producer of Pokemon Champions explains the limited roster and future Pokemon additions. Currently, around 200 creatures are available.",
-          "category": "Gaming",
-          "source": "Nintendo Everything",
-          "url": "https://nintendoeverything.com/pokemon-champions-dev-explains-the-limited-roster-and-comments-on-timing-to-bring-new-pokemon-to-the-game/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Pokemon-Champions-limited-roster-new-Pokemon-release-timing.jpg",
-          "published_at": "2026-05-31T14:38:47Z",
-          "key_points": [
-            "Limited roster explained",
-            "Future Pokemon additions discussed",
-            "200 creatures currently available"
-          ],
-          "impact": "Players await new content for the game.",
-          "id": "ac8b4e6a9fda50fedf32b61d392c699d"
-        },
-        {
-          "title": "New Apple TV and HomePod Mini Launch This Fall",
-          "description": "Apple plans to launch new versions of Apple TV and HomePod mini this fall, alongside a potential Siri Remote refresh. Exciting updates are on the horizon.",
-          "category": "Hardware",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/05/31/new-apple-tv-and-homepod-mini-launching-this-fall-apple-intelligence/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/10/apple-tv-homepod-mini-9to5mac.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-05-31T14:31:00Z",
-          "key_points": [
-            "New Apple TV coming",
-            "HomePod mini updates expected",
-            "Siri Remote refresh possible"
-          ],
-          "impact": "Apple enhances its home entertainment lineup.",
-          "id": "c0a5baf28e9846af4d54e7243b79f21b"
-        },
-        {
-          "title": "ASUS Launches New GeForce RTX 5080 Graphics Cards",
-          "description": "ASUS adds two new GeForce RTX 5080 TUF graphics cards to its lineup, featuring advanced power connectors. These models promise high performance for gamers.",
-          "category": "Hardware",
-          "source": "Videocardz.com",
-          "url": "https://videocardz.com/newz/asus-adds-geforce-rtx-5080-tuf-btf-with-16-pin-and-gc-hpwr-power-connectors",
-          "image": "https://cdn.videocardz.com/1/2026/05/ASUS-RTX-5090-BTF-TUF-HERO.jpg",
-          "published_at": "2026-05-31T12:25:39Z",
-          "key_points": [
-            "New RTX 5080 models launched",
-            "Advanced power connectors included",
-            "High performance for gaming"
-          ],
-          "impact": "Gamers gain access to powerful new GPUs.",
-          "id": "3280c297716be2b67c1be04ac36ded67"
-        },
-        {
-          "title": "June 2026 Roguelikes and Roguelites Update",
-          "description": "June features exciting new roguelikes including Killer Bean and Dark Scrolls. The genre continues to thrive with fresh content.",
-          "category": "Gaming",
-          "source": "Rogueliker",
-          "url": "https://rogueliker.com/new-roguelikes-and-roguelites-in-june-2026-the-monthly-update/",
-          "image": "https://rogueliker.com/wp-content/uploads/2026/05/large.webp",
-          "published_at": "2026-05-31T12:05:05Z",
-          "key_points": [
-            "New roguelikes launching",
-            "Killer Bean and Dark Scrolls featured",
-            "Genre continues to thrive"
-          ],
-          "impact": "Gamers can look forward to new adventures.",
-          "id": "a06892932e29932fcb0af89a3002be8e"
-        },
-        {
-          "title": "Acer Showcases New Gaming Monitors at Computex",
-          "description": "Acer unveils multiple gaming and professional monitors at Computex, featuring high-end specs. New models cater to both gamers and professionals.",
-          "category": "Hardware",
-          "source": "Wccftech",
-          "url": "https://wccftech.com/acer-showcases-multiple-gaming-and-professional-monitors-at-computex/",
-          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/Acer-Nitro-Gaming-Monitors-Computex-2026-1920x1080.jpg",
-          "published_at": "2026-05-31T11:27:00Z",
-          "key_points": [
-            "New gaming monitors launched",
-            "High-end specifications offered",
-            "Catering to gamers and professionals"
-          ],
-          "impact": "Acer enhances monitor offerings for users.",
-          "id": "5b99ebd18336875ec025537ef15c4f41"
-        },
-        {
-          "title": "Wolverine PS5 Pre-Orders Opening Soon",
-          "description": "Pre-orders for the Wolverine PS5 game are expected to open next week following the State of Play event. Fans are eagerly awaiting this release.",
-          "category": "Gaming",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/05/wolverine-ps5-pre-orders-expected-to-open-next-week-after-state-of-play",
-          "image": "https://images.pushsquare.com/013fc5fb265d4/large.jpg",
-          "published_at": "2026-05-31T11:15:00Z",
-          "key_points": [
-            "Wolverine PS5 pre-orders soon",
-            "Following State of Play event",
-            "Fans eagerly anticipate release"
-          ],
-          "impact": "Excitement builds for the upcoming game.",
-          "id": "182fe24d93b85b31c4da54b109cc33b1"
-        },
-        {
-          "title": "GL.iNet Launches Tri-Band Wi-Fi 7 Travel Router",
-          "description": "GL.iNet introduces the world's first true tri-band Wi-Fi 7 travel router, designed for portability. It can be powered by a power bank for on-the-go use.",
-          "category": "Hardware",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/marksparrow/2026/05/31/glinet-releases-the-worlds-first-true-tri-band-wi-fi-7-travel-router/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a197ebff35160866605d18c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "published_at": "2026-05-31T10:00:00Z",
-          "key_points": [
-            "First true tri-band Wi-Fi 7",
-            "Portable design for travel",
-            "Power bank compatible"
-          ],
-          "impact": "Travelers gain advanced connectivity options.",
-          "id": "8876b316a128a38db0d7935f57ec2562"
         }
       ]
     }
