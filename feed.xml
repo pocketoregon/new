@@ -5,107 +5,143 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jun 2026 13:40:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 16:05:26 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Steve Jobs' NeXT Years Explored in Profile</title>
-      <description>A new profile highlights Steve Jobs' impactful years at NeXT. It reveals insights into his vision and challenges during this pivotal time.</description>
-      <link>https://arstechnica.com/apple/2026/06/steve-jobs-in-exile-is-a-fine-profile-of-jobs-years-at-next/</link>
-      <guid isPermaLink="true">https://arstechnica.com/apple/2026/06/steve-jobs-in-exile-is-a-fine-profile-of-jobs-years-at-next/</guid>
-      <pubDate>2026-06-05T11:15:29Z</pubDate>
+      <title>Tomb Raider: Legacy of Atlantis PC Specs Revealed</title>
+      <description>Tomb Raider: Legacy of Atlantis requires 16GB RAM and RTX 3080 GPU. The game launches on February 12, 2027.</description>
+      <link>https://videocardz.com/newz/tomb-raider-legacy-of-atlantis-pc-requirements-list-rtx-3080-and-rx-6800-xt</link>
+      <guid isPermaLink="true">https://videocardz.com/newz/tomb-raider-legacy-of-atlantis-pc-requirements-list-rtx-3080-and-rx-6800-xt</guid>
+      <pubDate>2026-06-05T14:53:03Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://videocardz.com/newz/tomb-raider-legacy-of-atlantis-pc-requirements-list-rtx-3080-and-rx-6800-xt">Videocardz.com</source>
+    </item>
+    <item>
+      <title>Valve's Steam Frame Welcome Tour Preview</title>
+      <description>Valve's Steam Frame is set for summer release, with early glimpses of its setup process now available. Users are eager for the new experience.</description>
+      <link>https://www.pcguide.com/news/heres-an-early-look-at-the-steam-frame-welcome-tour-after-valve-officially-announces-summer-release-window/</link>
+      <guid isPermaLink="true">https://www.pcguide.com/news/heres-an-early-look-at-the-steam-frame-welcome-tour-after-valve-officially-announces-summer-release-window/</guid>
+      <pubDate>2026-06-05T14:27:37Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.pcguide.com/news/heres-an-early-look-at-the-steam-frame-welcome-tour-after-valve-officially-announces-summer-release-window/">Pcguide.com</source>
+    </item>
+    <item>
+      <title>Destiny 2's Heartbreaking Final Trailer Released</title>
+      <description>Bungie releases the last trailer for Destiny 2, marking a poignant end to the game. Fans express mixed emotions about the closure.</description>
+      <link>https://www.forbes.com/sites/paultassi/2026/06/05/destiny-2s-last-trailer-ever-is-heartbreaking/</link>
+      <guid isPermaLink="true">https://www.forbes.com/sites/paultassi/2026/06/05/destiny-2s-last-trailer-ever-is-heartbreaking/</guid>
+      <pubDate>2026-06-05T14:15:31Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.forbes.com/sites/paultassi/2026/06/05/destiny-2s-last-trailer-ever-is-heartbreaking/">Forbes</source>
+    </item>
+    <item>
+      <title>macOS 27 Rumored Features for Longtime Users</title>
+      <description>macOS 27 is set to unveil features that longtime Mac users have desired. Anticipation builds ahead of WWDC.</description>
+      <link>https://9to5mac.com/2026/06/05/macos-27-could-grant-two-wishes-that-longtime-mac-users-want-most/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/05/macos-27-could-grant-two-wishes-that-longtime-mac-users-want-most/</guid>
+      <pubDate>2026-06-05T14:14:00Z</pubDate>
+      <category>Software</category>
+      <source url="https://9to5mac.com/2026/06/05/macos-27-could-grant-two-wishes-that-longtime-mac-users-want-most/">9to5Mac</source>
+    </item>
+    <item>
+      <title>God of War Laufey's Director Discusses Fan Concerns</title>
+      <description>Santa Monica Studio reveals God of War Laufey, shifting focus to Faye. Director addresses fan skepticism and new ideas.</description>
+      <link>https://www.gamespot.com/articles/god-of-war-laufeys-director-talks-fan-skepticism-new-ideas-and-phranque-the-cube/</link>
+      <guid isPermaLink="true">https://www.gamespot.com/articles/god-of-war-laufeys-director-talks-fan-skepticism-new-ideas-and-phranque-the-cube/</guid>
+      <pubDate>2026-06-05T13:35:10Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.gamespot.com/articles/god-of-war-laufeys-director-talks-fan-skepticism-new-ideas-and-phranque-the-cube/">GameSpot</source>
+    </item>
+    <item>
+      <title>Google Shuts Down Pixel Studio App</title>
+      <description>Google ends its Pixel Studio app, redirecting users to Gemini and Nano Banana for image generation. The app lasted less than two years.</description>
+      <link>http://9to5google.com/2026/06/05/google-shuts-down-pixel-studio-with-the-latest-app-update/</link>
+      <guid isPermaLink="true">http://9to5google.com/2026/06/05/google-shuts-down-pixel-studio-with-the-latest-app-update/</guid>
+      <pubDate>2026-06-05T13:20:00Z</pubDate>
+      <category>Software</category>
+      <source url="http://9to5google.com/2026/06/05/google-shuts-down-pixel-studio-with-the-latest-app-update/">9to5google.com</source>
+    </item>
+    <item>
+      <title>Starlink Performance Review After Four Years</title>
+      <description>A user's four-year experience with Starlink reveals unexpected changes in speed and pricing. Insights raise questions about service quality.</description>
+      <link>https://www.pcmag.com/news/ive-used-starlink-every-day-for-4-years-its-speeds-have-taken-an-unexpected</link>
+      <guid isPermaLink="true">https://www.pcmag.com/news/ive-used-starlink-every-day-for-4-years-its-speeds-have-taken-an-unexpected</guid>
+      <pubDate>2026-06-05T13:16:58Z</pubDate>
       <category>Business</category>
-      <source url="https://arstechnica.com/apple/2026/06/steve-jobs-in-exile-is-a-fine-profile-of-jobs-years-at-next/">Ars Technica</source>
+      <source url="https://www.pcmag.com/news/ive-used-starlink-every-day-for-4-years-its-speeds-have-taken-an-unexpected">PCMag.com</source>
     </item>
     <item>
-      <title>Neighbor Feud: A Friendly Approach Backfires</title>
-      <description>A couple's attempt to resolve a neighbor dispute amicably has led to unexpected anger. Prudie's advice sparks discussion among readers.</description>
-      <link>https://slate.com/advice/2026/06/marriage-advice-neighbor-feud-dear-prudence.html</link>
-      <guid isPermaLink="true">https://slate.com/advice/2026/06/marriage-advice-neighbor-feud-dear-prudence.html</guid>
-      <pubDate>2026-06-05T10:00:00Z</pubDate>
-      <category>Geopolitics</category>
-      <source url="https://slate.com/advice/2026/06/marriage-advice-neighbor-feud-dear-prudence.html">Slate Magazine</source>
-    </item>
-    <item>
-      <title>Yacht Club Games Teases Secrets in Mina The Hollower</title>
-      <description>Yacht Club Games hints at hidden surprises in their upcoming title, Mina The Hollower. Some playthroughs reportedly miss significant content.</description>
-      <link>https://www.nintendolife.com/news/2026/06/yacht-club-games-teases-some-very-secret-things-in-mina-the-hollower</link>
-      <guid isPermaLink="true">https://www.nintendolife.com/news/2026/06/yacht-club-games-teases-some-very-secret-things-in-mina-the-hollower</guid>
-      <pubDate>2026-06-05T06:45:00Z</pubDate>
+      <title>Crimson Desert Patch Introduces New Features</title>
+      <description>A new patch for Crimson Desert adds a flying mount and enhances battle mechanics. Players welcome the updates.</description>
+      <link>https://www.forbes.com/sites/paultassi/2026/06/05/new-crimson-desert-patch-adds-a-dragon-alternative-better-battles/</link>
+      <guid isPermaLink="true">https://www.forbes.com/sites/paultassi/2026/06/05/new-crimson-desert-patch-adds-a-dragon-alternative-better-battles/</guid>
+      <pubDate>2026-06-05T13:13:22Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.nintendolife.com/news/2026/06/yacht-club-games-teases-some-very-secret-things-in-mina-the-hollower">Nintendo Life</source>
+      <source url="https://www.forbes.com/sites/paultassi/2026/06/05/new-crimson-desert-patch-adds-a-dragon-alternative-better-battles/">Forbes</source>
     </item>
     <item>
-      <title>Xbox CEO Emphasizes Importance of Exclusives</title>
-      <description>Xbox CEO Asha Sharma reaffirms the significance of exclusive games for the platform's identity, despite expanding to more devices.</description>
-      <link>https://www.windowscentral.com/gaming/xbox-ceo-doubles-down-on-exclusives-saying-they-remain-central-to-defining-the-xbox-platform</link>
-      <guid isPermaLink="true">https://www.windowscentral.com/gaming/xbox-ceo-doubles-down-on-exclusives-saying-they-remain-central-to-defining-the-xbox-platform</guid>
-      <pubDate>2026-06-05T01:57:23Z</pubDate>
+      <title>Xbox CEO Asha Sharma on Console Exclusivity</title>
+      <description>Xbox CEO Asha Sharma remains noncommittal on console exclusivity. The conversation continues without clear direction.</description>
+      <link>https://www.eurogamer.net/xbox-exclusives-asha-sharma-interview</link>
+      <guid isPermaLink="true">https://www.eurogamer.net/xbox-exclusives-asha-sharma-interview</guid>
+      <pubDate>2026-06-05T12:27:10Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.windowscentral.com/gaming/xbox-ceo-doubles-down-on-exclusives-saying-they-remain-central-to-defining-the-xbox-platform">Windows Central</source>
+      <source url="https://www.eurogamer.net/xbox-exclusives-asha-sharma-interview">Eurogamer.net</source>
     </item>
     <item>
-      <title>Google Health App Update Fixes Major Bugs</title>
-      <description>Following user backlash, Google Health app receives a significant update addressing over 15 core bugs. Improvements are rolling out now.</description>
-      <link>https://www.droid-life.com/2026/06/04/google-health-app-gets-massive-update-fixing-15-core-bugs-after-user-backlash/</link>
-      <guid isPermaLink="true">https://www.droid-life.com/2026/06/04/google-health-app-gets-massive-update-fixing-15-core-bugs-after-user-backlash/</guid>
-      <pubDate>2026-06-04T22:55:39Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.droid-life.com/2026/06/04/google-health-app-gets-massive-update-fixing-15-core-bugs-after-user-backlash/">Droid Life</source>
-    </item>
-    <item>
-      <title>Linux 7.1 and Mesa 26.1 Performance Review</title>
-      <description>A review of the AMD Radeon RX 9070 GRE performance on Linux 7.1 and Mesa 26.1 highlights its capabilities. Testing conducted on Ubuntu 26.04.</description>
-      <link>https://www.phoronix.com/news/Linux-7.1-Mesa-26.1-RX-9070-GRE</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.1-Mesa-26.1-RX-9070-GRE</guid>
-      <pubDate>2026-06-04T21:25:00Z</pubDate>
+      <title>AMD Radeon RX 9070 GRE Review Highlights Shrinkflation</title>
+      <description>The AMD Radeon RX 9070 GRE launched at $549, showcasing industry shrinkflation trends. Performance insights are discussed.</description>
+      <link>https://arstechnica.com/gadgets/2026/06/amd-radeon-rx-9070-gre-review-shrinkflation-isnt-just-for-groceries-anymore/</link>
+      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/06/amd-radeon-rx-9070-gre-review-shrinkflation-isnt-just-for-groceries-anymore/</guid>
+      <pubDate>2026-06-05T11:00:55Z</pubDate>
       <category>Hardware</category>
-      <source url="https://www.phoronix.com/news/Linux-7.1-Mesa-26.1-RX-9070-GRE">Phoronix</source>
+      <source url="https://arstechnica.com/gadgets/2026/06/amd-radeon-rx-9070-gre-review-shrinkflation-isnt-just-for-groceries-anymore/">Ars Technica</source>
     </item>
     <item>
-      <title>Jurassic Park Gaming News Disrupted by Silence</title>
-      <description>A sudden silence around the Jurassic Park brand has delayed some gaming news and DLC announcements. Fans are left in suspense.</description>
-      <link>https://www.gamefile.news/p/stuntman-hollywood-jurassic-park</link>
-      <guid isPermaLink="true">https://www.gamefile.news/p/stuntman-hollywood-jurassic-park</guid>
-      <pubDate>2026-06-04T21:07:36Z</pubDate>
+      <title>Nintendo Switch 2: A Year in Review</title>
+      <description>Celebrating the first anniversary of Switch 2, players reflect on its performance and impact. The console's journey has been notable.</description>
+      <link>https://www.nintendolife.com/features/nintendo-switch-2-year-one-looking-back-how-would-you-rate-it-so-far</link>
+      <guid isPermaLink="true">https://www.nintendolife.com/features/nintendo-switch-2-year-one-looking-back-how-would-you-rate-it-so-far</guid>
+      <pubDate>2026-06-05T11:00:00Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.gamefile.news/p/stuntman-hollywood-jurassic-park">Gamefile.news</source>
+      <source url="https://www.nintendolife.com/features/nintendo-switch-2-year-one-looking-back-how-would-you-rate-it-so-far">Nintendo Life</source>
     </item>
     <item>
-      <title>Google Launches Search Profiles in Discover</title>
-      <description>Google introduces Search profiles for publishers within Google Discover, enhancing user engagement with curated content. Users can follow publishers easily.</description>
-      <link>https://searchengineland.com/google-introduces-search-profiles-within-google-discover-479475</link>
-      <guid isPermaLink="true">https://searchengineland.com/google-introduces-search-profiles-within-google-discover-479475</guid>
-      <pubDate>2026-06-04T16:00:00Z</pubDate>
+      <title>Apple's Android Joke Falls Flat in 2026</title>
+      <description>Apple's latest ad mocks outdated Android designs, failing to reflect current realities. The humor is seen as outdated.</description>
+      <link>https://www.androidcentral.com/phones/apples-latest-android-joke-would-have-made-sense-10-years-ago</link>
+      <guid isPermaLink="true">https://www.androidcentral.com/phones/apples-latest-android-joke-would-have-made-sense-10-years-ago</guid>
+      <pubDate>2026-06-05T10:20:04Z</pubDate>
+      <category>Policy</category>
+      <source url="https://www.androidcentral.com/phones/apples-latest-android-joke-would-have-made-sense-10-years-ago">Android Central</source>
+    </item>
+    <item>
+      <title>Apple's AI Strategy Preview for WWDC 2026</title>
+      <description>Apple plans to unveil a new AI strategy at WWDC 2026, aiming to improve its AI offerings after past failures. Anticipation is high.</description>
+      <link>https://www.bloomberg.com/news/articles/2026-06-05/wwdc-2026-preview-ios-27-siri-ai-features-macos-27-more-apple-will-announce</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-06-05/wwdc-2026-preview-ios-27-siri-ai-features-macos-27-more-apple-will-announce</guid>
+      <pubDate>2026-06-05T09:30:32Z</pubDate>
       <category>Software</category>
-      <source url="https://searchengineland.com/google-introduces-search-profiles-within-google-discover-479475">Search Engine Land</source>
+      <source url="https://www.bloomberg.com/news/articles/2026-06-05/wwdc-2026-preview-ios-27-siri-ai-features-macos-27-more-apple-will-announce">Bloomberg</source>
     </item>
     <item>
-      <title>Amazon Clarifies Future of James Bond Games</title>
-      <description>Amid confusion, Amazon Game Studios clarifies that IO Interactive will not self-publish future James Bond games. Fans seek clarity on upcoming titles.</description>
-      <link>https://www.pushsquare.com/news/2026/06/widespread-confusion-forces-amazon-to-make-statement-about-future-james-bond-games</link>
-      <guid isPermaLink="true">https://www.pushsquare.com/news/2026/06/widespread-confusion-forces-amazon-to-make-statement-about-future-james-bond-games</guid>
-      <pubDate>2026-06-04T15:45:00Z</pubDate>
+      <title>Evercade Boss Critiques Gaming Industry's Focus</title>
+      <description>Evercade's CEO argues the gaming industry neglects older players. He calls for better catering to this demographic.</description>
+      <link>https://www.timeextension.com/news/2026/06/i-think-they-are-missing-a-trick-evercade-boss-says-the-games-industry-is-failing-older-players</link>
+      <guid isPermaLink="true">https://www.timeextension.com/news/2026/06/i-think-they-are-missing-a-trick-evercade-boss-says-the-games-industry-is-failing-older-players</guid>
+      <pubDate>2026-06-05T09:00:00Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.pushsquare.com/news/2026/06/widespread-confusion-forces-amazon-to-make-statement-about-future-james-bond-games">Push Square</source>
+      <source url="https://www.timeextension.com/news/2026/06/i-think-they-are-missing-a-trick-evercade-boss-says-the-games-industry-is-failing-older-players">Timeextension.com</source>
     </item>
     <item>
-      <title>Pixel Watch Updates Enhance ECG Functionality</title>
-      <description>The Pixel Watch receives updates, including a new ECG app icon and improved functionality. Users can better monitor their health now.</description>
-      <link>http://9to5google.com/2026/06/04/google-pixel-watch-ecg-app-updates/</link>
-      <guid isPermaLink="true">http://9to5google.com/2026/06/04/google-pixel-watch-ecg-app-updates/</guid>
-      <pubDate>2026-06-04T14:45:00Z</pubDate>
-      <category>Hardware</category>
-      <source url="http://9to5google.com/2026/06/04/google-pixel-watch-ecg-app-updates/">9to5Google</source>
-    </item>
-    <item>
-      <title>Win $800 Tech Grab Bag from The Verge</title>
-      <description>The Verge is hosting a giveaway for a tech grab bag worth over $800. The contest ends on June 30th, offering exciting prizes.</description>
-      <link>https://www.theverge.com/gadgets/936396/prime-day-grab-bag-giveaway-sweepstakes</link>
-      <guid isPermaLink="true">https://www.theverge.com/gadgets/936396/prime-day-grab-bag-giveaway-sweepstakes</guid>
-      <pubDate>2026-06-04T14:00:00Z</pubDate>
-      <category>Startups</category>
-      <source url="https://www.theverge.com/gadgets/936396/prime-day-grab-bag-giveaway-sweepstakes">The Verge</source>
+      <title>Brave Charges $60 to Remove Features</title>
+      <description>Brave introduces a $60 fee to remove features it previously added. Users express frustration over this decision.</description>
+      <link>https://www.xda-developers.com/brave-is-charging-60-to-remove-features-it-added-in-the-first-place/</link>
+      <guid isPermaLink="true">https://www.xda-developers.com/brave-is-charging-60-to-remove-features-it-added-in-the-first-place/</guid>
+      <pubDate>2026-06-05T05:51:33Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.xda-developers.com/brave-is-charging-60-to-remove-features-it-added-in-the-first-place/">XDA Developers</source>
     </item>
   </channel>
 </rss>

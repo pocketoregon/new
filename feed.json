@@ -1,181 +1,245 @@
 {
-  "generated_at": "2026-06-06T13:39:57.875090+00:00",
+  "generated_at": "2026-06-06T16:04:58.305075+00:00",
   "articles": [
     {
-      "title": "Steve Jobs' NeXT Years Explored in Profile",
-      "description": "A new profile highlights Steve Jobs' impactful years at NeXT. It reveals insights into his vision and challenges during this pivotal time.",
+      "title": "Tomb Raider: Legacy of Atlantis PC Specs Revealed",
+      "description": "Tomb Raider: Legacy of Atlantis requires 16GB RAM and RTX 3080 GPU. The game launches on February 12, 2027.",
+      "category": "Gaming",
+      "source": "Videocardz.com",
+      "url": "https://videocardz.com/newz/tomb-raider-legacy-of-atlantis-pc-requirements-list-rtx-3080-and-rx-6800-xt",
+      "image": "https://cdn.videocardz.com/1/2026/06/TOMB-RAIDER-LEGACY-OF-ATLANTIS-1_02_vcz.jpg",
+      "published_at": "2026-06-05T14:53:03Z",
+      "key_points": [
+        "16GB RAM required",
+        "RTX 3080 GPU needed",
+        "Launch on February 12, 2027"
+      ],
+      "impact": "Excitement builds for the upcoming game.",
+      "id": "884d57bb98899fc786a147736e13f1fd"
+    },
+    {
+      "title": "Valve's Steam Frame Welcome Tour Preview",
+      "description": "Valve's Steam Frame is set for summer release, with early glimpses of its setup process now available. Users are eager for the new experience.",
+      "category": "Gaming",
+      "source": "Pcguide.com",
+      "url": "https://www.pcguide.com/news/heres-an-early-look-at-the-steam-frame-welcome-tour-after-valve-officially-announces-summer-release-window/",
+      "image": "https://www.pcguide.com/wp-content/uploads/2026/01/Man-wearing-Steam-Frame-VR-headset.jpg",
+      "published_at": "2026-06-05T14:27:37Z",
+      "key_points": [
+        "Steam Frame launches this summer",
+        "Early setup glimpses revealed",
+        "Excitement among users grows"
+      ],
+      "impact": "Anticipation for Steam Frame builds.",
+      "id": "84b5bb170308fefd633cb75a5c1bd0a3"
+    },
+    {
+      "title": "Destiny 2's Heartbreaking Final Trailer Released",
+      "description": "Bungie releases the last trailer for Destiny 2, marking a poignant end to the game. Fans express mixed emotions about the closure.",
+      "category": "Gaming",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/06/05/destiny-2s-last-trailer-ever-is-heartbreaking/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a22d8aff2ad91a953e8190d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published_at": "2026-06-05T14:15:31Z",
+      "key_points": [
+        "Final trailer released",
+        "Emotional response from fans",
+        "Game closure imminent"
+      ],
+      "impact": "Fans reflect on Destiny 2's legacy.",
+      "id": "bd14708901081a4a86d1d05b13ff79a8"
+    },
+    {
+      "title": "macOS 27 Rumored Features for Longtime Users",
+      "description": "macOS 27 is set to unveil features that longtime Mac users have desired. Anticipation builds ahead of WWDC.",
+      "category": "Software",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/05/macos-27-could-grant-two-wishes-that-longtime-mac-users-want-most/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/macos-27-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-05T14:14:00Z",
+      "key_points": [
+        "macOS 27 unveiled at WWDC",
+        "Longtime user wishes addressed",
+        "Excitement for new features"
+      ],
+      "impact": "WWDC promises exciting updates for users.",
+      "id": "1d69e31e9863d566c4f8c68854ad2c64"
+    },
+    {
+      "title": "God of War Laufey's Director Discusses Fan Concerns",
+      "description": "Santa Monica Studio reveals God of War Laufey, shifting focus to Faye. Director addresses fan skepticism and new ideas.",
+      "category": "Gaming",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/god-of-war-laufeys-director-talks-fan-skepticism-new-ideas-and-phranque-the-cube/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/06/gowlaufey-Large.jpeg",
+      "published_at": "2026-06-05T13:35:10Z",
+      "key_points": [
+        "Focus on Faye's story",
+        "Director addresses skepticism",
+        "New ideas introduced"
+      ],
+      "impact": "Fans await fresh narratives in the franchise.",
+      "id": "e9d46f63eb1fbaae8884acd52ecca8ec"
+    },
+    {
+      "title": "Google Shuts Down Pixel Studio App",
+      "description": "Google ends its Pixel Studio app, redirecting users to Gemini and Nano Banana for image generation. The app lasted less than two years.",
+      "category": "Software",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/06/05/google-shuts-down-pixel-studio-with-the-latest-app-update/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/04/Pixel-9a-Pixel-Studio-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-05T13:20:00Z",
+      "key_points": [
+        "Pixel Studio app discontinued",
+        "Users redirected to Gemini",
+        "Less than two years active"
+      ],
+      "impact": "Google shifts focus to new image tools.",
+      "id": "5836ff10c95ba7a006a4a917d8a7ac12"
+    },
+    {
+      "title": "Starlink Performance Review After Four Years",
+      "description": "A user's four-year experience with Starlink reveals unexpected changes in speed and pricing. Insights raise questions about service quality.",
       "category": "Business",
+      "source": "PCMag.com",
+      "url": "https://www.pcmag.com/news/ive-used-starlink-every-day-for-4-years-its-speeds-have-taken-an-unexpected",
+      "image": "https://i.pcmag.com/imagery/articles/01F21Bgr5lPfJG62T5E9Kfk-6.fit_lim.size_1200x630.v1780582013.png",
+      "published_at": "2026-06-05T13:16:58Z",
+      "key_points": [
+        "User reviews Starlink speeds",
+        "Concerns over pricing tiers",
+        "Service quality questioned"
+      ],
+      "impact": "Starlink's reliability comes under scrutiny.",
+      "id": "2ff0fc59e79c4c85704dbc5c98f7b7f4"
+    },
+    {
+      "title": "Crimson Desert Patch Introduces New Features",
+      "description": "A new patch for Crimson Desert adds a flying mount and enhances battle mechanics. Players welcome the updates.",
+      "category": "Gaming",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/06/05/new-crimson-desert-patch-adds-a-dragon-alternative-better-battles/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a22ca8d4ff2669b58c35de0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published_at": "2026-06-05T13:13:22Z",
+      "key_points": [
+        "New flying mount added",
+        "Battle mechanics improved",
+        "Players react positively"
+      ],
+      "impact": "Crimson Desert evolves with exciting updates.",
+      "id": "91e1dd479f50f48cc4e14adc1f687d97"
+    },
+    {
+      "title": "Xbox CEO Asha Sharma on Console Exclusivity",
+      "description": "Xbox CEO Asha Sharma remains noncommittal on console exclusivity. The conversation continues without clear direction.",
+      "category": "Gaming",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/xbox-exclusives-asha-sharma-interview",
+      "image": "https://assetsio.gnwcdn.com/asha-sharma-xbox_ETUJlFF.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-05T12:27:10Z",
+      "key_points": [
+        "Asha Sharma's stance unclear",
+        "Exclusivity debate persists",
+        "No changes anticipated"
+      ],
+      "impact": "Xbox's future direction remains uncertain.",
+      "id": "0df1656be5657900e20a2591ecd1bb2f"
+    },
+    {
+      "title": "AMD Radeon RX 9070 GRE Review Highlights Shrinkflation",
+      "description": "The AMD Radeon RX 9070 GRE launched at $549, showcasing industry shrinkflation trends. Performance insights are discussed.",
+      "category": "Hardware",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/apple/2026/06/steve-jobs-in-exile-is-a-fine-profile-of-jobs-years-at-next/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-136021736-2560x1440-1780609093.jpg",
-      "published_at": "2026-06-05T11:15:29Z",
+      "url": "https://arstechnica.com/gadgets/2026/06/amd-radeon-rx-9070-gre-review-shrinkflation-isnt-just-for-groceries-anymore/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_8038-1152x648.jpeg",
+      "published_at": "2026-06-05T11:00:55Z",
       "key_points": [
-        "Insightful look at Jobs' vision",
-        "Challenges during NeXT era",
-        "Impact on future Apple innovations"
+        "RX 9070 launched at $549",
+        "Shrinkflation impacts hardware",
+        "Performance review insights"
       ],
-      "impact": "This profile sheds light on Jobs' legacy.",
-      "id": "19717f4cc354ff878c004261112d9edd"
+      "impact": "AMD faces market challenges with pricing.",
+      "id": "072a0e83bbb3f43389fa64a403e26862"
     },
     {
-      "title": "Neighbor Feud: A Friendly Approach Backfires",
-      "description": "A couple's attempt to resolve a neighbor dispute amicably has led to unexpected anger. Prudie's advice sparks discussion among readers.",
-      "category": "Geopolitics",
-      "source": "Slate Magazine",
-      "url": "https://slate.com/advice/2026/06/marriage-advice-neighbor-feud-dear-prudence.html",
-      "image": "https://compote.slate.com/images/3316df33-7d83-4e62-bdd3-09e47677048a.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "published_at": "2026-06-05T10:00:00Z",
-      "key_points": [
-        "Couple seeks neighborly peace",
-        "Prudie's advice sparks debate",
-        "Unexpected neighbor backlash"
-      ],
-      "impact": "The situation highlights communication challenges.",
-      "id": "5d8eb32caaab337191875cd85e1c15f6"
-    },
-    {
-      "title": "Yacht Club Games Teases Secrets in Mina The Hollower",
-      "description": "Yacht Club Games hints at hidden surprises in their upcoming title, Mina The Hollower. Some playthroughs reportedly miss significant content.",
+      "title": "Nintendo Switch 2: A Year in Review",
+      "description": "Celebrating the first anniversary of Switch 2, players reflect on its performance and impact. The console's journey has been notable.",
       "category": "Gaming",
       "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/06/yacht-club-games-teases-some-very-secret-things-in-mina-the-hollower",
-      "image": "https://images.nintendolife.com/7d67acfd0caba/large.jpg",
-      "published_at": "2026-06-05T06:45:00Z",
+      "url": "https://www.nintendolife.com/features/nintendo-switch-2-year-one-looking-back-how-would-you-rate-it-so-far",
+      "image": "https://images.nintendolife.com/6aa70f8257750/large.jpg",
+      "published_at": "2026-06-05T11:00:00Z",
       "key_points": [
-        "Mina The Hollower secrets teased",
-        "Playthroughs missing content",
-        "Excitement builds for release"
+        "Switch 2 celebrates first anniversary",
+        "Players share experiences",
+        "Console's impact assessed"
       ],
-      "impact": "Anticipation grows for the game's launch.",
-      "id": "325d270989c36d999820df9c8b28687d"
+      "impact": "Switch 2's success is widely acknowledged.",
+      "id": "c7e0c38d20f0111c678e13fea47afb5b"
     },
     {
-      "title": "Xbox CEO Emphasizes Importance of Exclusives",
-      "description": "Xbox CEO Asha Sharma reaffirms the significance of exclusive games for the platform's identity, despite expanding to more devices.",
-      "category": "Gaming",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/gaming/xbox-ceo-doubles-down-on-exclusives-saying-they-remain-central-to-defining-the-xbox-platform",
-      "image": "https://cdn.mos.cms.futurecdn.net/nG3cDMxeRZMHdgHHA3JVEL-1920-80.jpg",
-      "published_at": "2026-06-05T01:57:23Z",
+      "title": "Apple's Android Joke Falls Flat in 2026",
+      "description": "Apple's latest ad mocks outdated Android designs, failing to reflect current realities. The humor is seen as outdated.",
+      "category": "Policy",
+      "source": "Android Central",
+      "url": "https://www.androidcentral.com/phones/apples-latest-android-joke-would-have-made-sense-10-years-ago",
+      "image": "https://cdn.mos.cms.futurecdn.net/UGGUTAKXWqRLNczmucswsn-2560-80.jpg",
+      "published_at": "2026-06-05T10:20:04Z",
       "key_points": [
-        "Exclusives define Xbox identity",
-        "CEO reaffirms commitment",
-        "Expansion won't dilute exclusivity"
+        "Apple mocks Android designs",
+        "Ad humor deemed outdated",
+        "Critics question relevance"
       ],
-      "impact": "Exclusives remain central to Xbox strategy.",
-      "id": "f308f33e129e8887ba35e47486aa0fdb"
+      "impact": "Apple's ad strategy faces criticism.",
+      "id": "0e74ba9f1468acb4c980f08a0fbb3ea8"
     },
     {
-      "title": "Google Health App Update Fixes Major Bugs",
-      "description": "Following user backlash, Google Health app receives a significant update addressing over 15 core bugs. Improvements are rolling out now.",
+      "title": "Apple's AI Strategy Preview for WWDC 2026",
+      "description": "Apple plans to unveil a new AI strategy at WWDC 2026, aiming to improve its AI offerings after past failures. Anticipation is high.",
       "category": "Software",
-      "source": "Droid Life",
-      "url": "https://www.droid-life.com/2026/06/04/google-health-app-gets-massive-update-fixing-15-core-bugs-after-user-backlash/",
-      "image": "https://www.droid-life.com/wp-content/uploads/2026/05/Google-Health-Premium-Features-4-1200x628.jpg",
-      "published_at": "2026-06-04T22:55:39Z",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-05/wwdc-2026-preview-ios-27-siri-ai-features-macos-27-more-apple-will-announce",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7h3HMIwUobk/v1/1200x800.jpg",
+      "published_at": "2026-06-05T09:30:32Z",
       "key_points": [
-        "Major update fixes 15 bugs",
-        "User feedback prompted changes",
-        "Improvements rolling out now"
+        "New AI strategy at WWDC",
+        "Focus on Siri and iOS 27",
+        "Redemption after past failures"
       ],
-      "impact": "User experience is expected to improve significantly.",
-      "id": "273f8ef653c318ae1a992b8e5044d98f"
+      "impact": "Apple aims to regain AI credibility.",
+      "id": "151b4e28e800a85b7ca99c46fe54a202"
     },
     {
-      "title": "Linux 7.1 and Mesa 26.1 Performance Review",
-      "description": "A review of the AMD Radeon RX 9070 GRE performance on Linux 7.1 and Mesa 26.1 highlights its capabilities. Testing conducted on Ubuntu 26.04.",
-      "category": "Hardware",
-      "source": "Phoronix",
-      "url": "https://www.phoronix.com/news/Linux-7.1-Mesa-26.1-RX-9070-GRE",
-      "image": "https://www.phoronix.net/image.php?id=amd-radeon-rx-9070-gre&image=amd_rx9070gre_8",
-      "published_at": "2026-06-04T21:25:00Z",
-      "key_points": [
-        "Performance review of RX 9070",
-        "Testing on Linux 7.1",
-        "Ubuntu 26.04 used for benchmarks"
-      ],
-      "impact": "Performance insights benefit Linux users.",
-      "id": "ab09f216f935d12fc248a50983396628"
-    },
-    {
-      "title": "Jurassic Park Gaming News Disrupted by Silence",
-      "description": "A sudden silence around the Jurassic Park brand has delayed some gaming news and DLC announcements. Fans are left in suspense.",
+      "title": "Evercade Boss Critiques Gaming Industry's Focus",
+      "description": "Evercade's CEO argues the gaming industry neglects older players. He calls for better catering to this demographic.",
       "category": "Gaming",
-      "source": "Gamefile.news",
-      "url": "https://www.gamefile.news/p/stuntman-hollywood-jurassic-park",
-      "image": "https://substackcdn.com/image/fetch/$s_!YkZo!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a8cc292-caad-412a-b9ea-e58ed234af27_3550x1908.png",
-      "published_at": "2026-06-04T21:07:36Z",
+      "source": "Timeextension.com",
+      "url": "https://www.timeextension.com/news/2026/06/i-think-they-are-missing-a-trick-evercade-boss-says-the-games-industry-is-failing-older-players",
+      "image": "https://images.timeextension.com/52f459400f508/large.jpg",
+      "published_at": "2026-06-05T09:00:00Z",
       "key_points": [
-        "Jurassic brand silence disrupts news",
-        "DLC announcements delayed",
-        "Fans left in suspense"
+        "Industry neglects older gamers",
+        "Call for better focus",
+        "Evercade's perspective shared"
       ],
-      "impact": "Fans await clarity on future releases.",
-      "id": "766fededf1ad21446cd59adafd544fdd"
+      "impact": "Industry urged to embrace older players.",
+      "id": "3331e27b267e4c4003c69e57b72c3f9a"
     },
     {
-      "title": "Google Launches Search Profiles in Discover",
-      "description": "Google introduces Search profiles for publishers within Google Discover, enhancing user engagement with curated content. Users can follow publishers easily.",
+      "title": "Brave Charges $60 to Remove Features",
+      "description": "Brave introduces a $60 fee to remove features it previously added. Users express frustration over this decision.",
       "category": "Software",
-      "source": "Search Engine Land",
-      "url": "https://searchengineland.com/google-introduces-search-profiles-within-google-discover-479475",
-      "image": "https://searchengineland.com/wp-content/seloads/2026/06/google-publisher-hero-1920.jpg",
-      "published_at": "2026-06-04T16:00:00Z",
+      "source": "XDA Developers",
+      "url": "https://www.xda-developers.com/brave-is-charging-60-to-remove-features-it-added-in-the-first-place/",
+      "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/12/brave-browser-on-a-laptop.jpg?w=1600&h=900&fit=crop",
+      "published_at": "2026-06-05T05:51:33Z",
       "key_points": [
-        "New publisher landing pages",
-        "Enhanced user engagement",
-        "Follow publishers easily"
+        "Brave charges for feature removal",
+        "User frustration grows",
+        "Controversial decision criticized"
       ],
-      "impact": "This feature improves content discovery.",
-      "id": "0e95c41b73640bddcc1e3d16701d1487"
-    },
-    {
-      "title": "Amazon Clarifies Future of James Bond Games",
-      "description": "Amid confusion, Amazon Game Studios clarifies that IO Interactive will not self-publish future James Bond games. Fans seek clarity on upcoming titles.",
-      "category": "Gaming",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/06/widespread-confusion-forces-amazon-to-make-statement-about-future-james-bond-games",
-      "image": "https://images.pushsquare.com/f51ef78ed1ea5/large.jpg",
-      "published_at": "2026-06-04T15:45:00Z",
-      "key_points": [
-        "Amazon clarifies Bond game rights",
-        "IO Interactive won't self-publish",
-        "Fans seek clarity on titles"
-      ],
-      "impact": "Confusion resolved for Bond game fans.",
-      "id": "1bdc438140cf2637236eab9db59e60e5"
-    },
-    {
-      "title": "Pixel Watch Updates Enhance ECG Functionality",
-      "description": "The Pixel Watch receives updates, including a new ECG app icon and improved functionality. Users can better monitor their health now.",
-      "category": "Hardware",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/06/04/google-pixel-watch-ecg-app-updates/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/indigo-pixel-watch-4-band.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-04T14:45:00Z",
-      "key_points": [
-        "ECG app gets new icon",
-        "Improved functionality for users",
-        "Health monitoring enhanced"
-      ],
-      "impact": "Users benefit from improved health tracking.",
-      "id": "a404a7bc6886c2778bfef60dde52f67a"
-    },
-    {
-      "title": "Win $800 Tech Grab Bag from The Verge",
-      "description": "The Verge is hosting a giveaway for a tech grab bag worth over $800. The contest ends on June 30th, offering exciting prizes.",
-      "category": "Startups",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/936396/prime-day-grab-bag-giveaway-sweepstakes",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/P6031295.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published_at": "2026-06-04T14:00:00Z",
-      "key_points": [
-        "$800 tech grab bag giveaway",
-        "Contest ends June 30th",
-        "Exciting prizes for participants"
-      ],
-      "impact": "Participants have a chance to win big.",
-      "id": "a8c77919694b6d30dee263f79e9da3eb"
+      "impact": "Brave's pricing strategy faces backlash.",
+      "id": "91e8566c175c2acf2589f663caccaa97"
     }
   ]
 }

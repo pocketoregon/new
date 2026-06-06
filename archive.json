@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-06T16:04:58.305075+00:00",
+      "fetched_at": "2026-06-06T16:04:58.305075+00:00",
+      "label": "Jun 06, 2026 — 04:05 PM UTC",
+      "articles": [
+        {
+          "title": "Tomb Raider: Legacy of Atlantis PC Specs Revealed",
+          "description": "Tomb Raider: Legacy of Atlantis requires 16GB RAM and RTX 3080 GPU. The game launches on February 12, 2027.",
+          "category": "Gaming",
+          "source": "Videocardz.com",
+          "url": "https://videocardz.com/newz/tomb-raider-legacy-of-atlantis-pc-requirements-list-rtx-3080-and-rx-6800-xt",
+          "image": "https://cdn.videocardz.com/1/2026/06/TOMB-RAIDER-LEGACY-OF-ATLANTIS-1_02_vcz.jpg",
+          "published_at": "2026-06-05T14:53:03Z",
+          "key_points": [
+            "16GB RAM required",
+            "RTX 3080 GPU needed",
+            "Launch on February 12, 2027"
+          ],
+          "impact": "Excitement builds for the upcoming game.",
+          "id": "884d57bb98899fc786a147736e13f1fd"
+        },
+        {
+          "title": "Valve's Steam Frame Welcome Tour Preview",
+          "description": "Valve's Steam Frame is set for summer release, with early glimpses of its setup process now available. Users are eager for the new experience.",
+          "category": "Gaming",
+          "source": "Pcguide.com",
+          "url": "https://www.pcguide.com/news/heres-an-early-look-at-the-steam-frame-welcome-tour-after-valve-officially-announces-summer-release-window/",
+          "image": "https://www.pcguide.com/wp-content/uploads/2026/01/Man-wearing-Steam-Frame-VR-headset.jpg",
+          "published_at": "2026-06-05T14:27:37Z",
+          "key_points": [
+            "Steam Frame launches this summer",
+            "Early setup glimpses revealed",
+            "Excitement among users grows"
+          ],
+          "impact": "Anticipation for Steam Frame builds.",
+          "id": "84b5bb170308fefd633cb75a5c1bd0a3"
+        },
+        {
+          "title": "Destiny 2's Heartbreaking Final Trailer Released",
+          "description": "Bungie releases the last trailer for Destiny 2, marking a poignant end to the game. Fans express mixed emotions about the closure.",
+          "category": "Gaming",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/06/05/destiny-2s-last-trailer-ever-is-heartbreaking/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a22d8aff2ad91a953e8190d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-05T14:15:31Z",
+          "key_points": [
+            "Final trailer released",
+            "Emotional response from fans",
+            "Game closure imminent"
+          ],
+          "impact": "Fans reflect on Destiny 2's legacy.",
+          "id": "bd14708901081a4a86d1d05b13ff79a8"
+        },
+        {
+          "title": "macOS 27 Rumored Features for Longtime Users",
+          "description": "macOS 27 is set to unveil features that longtime Mac users have desired. Anticipation builds ahead of WWDC.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/05/macos-27-could-grant-two-wishes-that-longtime-mac-users-want-most/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/macos-27-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-05T14:14:00Z",
+          "key_points": [
+            "macOS 27 unveiled at WWDC",
+            "Longtime user wishes addressed",
+            "Excitement for new features"
+          ],
+          "impact": "WWDC promises exciting updates for users.",
+          "id": "1d69e31e9863d566c4f8c68854ad2c64"
+        },
+        {
+          "title": "God of War Laufey's Director Discusses Fan Concerns",
+          "description": "Santa Monica Studio reveals God of War Laufey, shifting focus to Faye. Director addresses fan skepticism and new ideas.",
+          "category": "Gaming",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/god-of-war-laufeys-director-talks-fan-skepticism-new-ideas-and-phranque-the-cube/",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/gowlaufey-Large.jpeg",
+          "published_at": "2026-06-05T13:35:10Z",
+          "key_points": [
+            "Focus on Faye's story",
+            "Director addresses skepticism",
+            "New ideas introduced"
+          ],
+          "impact": "Fans await fresh narratives in the franchise.",
+          "id": "e9d46f63eb1fbaae8884acd52ecca8ec"
+        },
+        {
+          "title": "Google Shuts Down Pixel Studio App",
+          "description": "Google ends its Pixel Studio app, redirecting users to Gemini and Nano Banana for image generation. The app lasted less than two years.",
+          "category": "Software",
+          "source": "9to5google.com",
+          "url": "http://9to5google.com/2026/06/05/google-shuts-down-pixel-studio-with-the-latest-app-update/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/04/Pixel-9a-Pixel-Studio-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-05T13:20:00Z",
+          "key_points": [
+            "Pixel Studio app discontinued",
+            "Users redirected to Gemini",
+            "Less than two years active"
+          ],
+          "impact": "Google shifts focus to new image tools.",
+          "id": "5836ff10c95ba7a006a4a917d8a7ac12"
+        },
+        {
+          "title": "Starlink Performance Review After Four Years",
+          "description": "A user's four-year experience with Starlink reveals unexpected changes in speed and pricing. Insights raise questions about service quality.",
+          "category": "Business",
+          "source": "PCMag.com",
+          "url": "https://www.pcmag.com/news/ive-used-starlink-every-day-for-4-years-its-speeds-have-taken-an-unexpected",
+          "image": "https://i.pcmag.com/imagery/articles/01F21Bgr5lPfJG62T5E9Kfk-6.fit_lim.size_1200x630.v1780582013.png",
+          "published_at": "2026-06-05T13:16:58Z",
+          "key_points": [
+            "User reviews Starlink speeds",
+            "Concerns over pricing tiers",
+            "Service quality questioned"
+          ],
+          "impact": "Starlink's reliability comes under scrutiny.",
+          "id": "2ff0fc59e79c4c85704dbc5c98f7b7f4"
+        },
+        {
+          "title": "Crimson Desert Patch Introduces New Features",
+          "description": "A new patch for Crimson Desert adds a flying mount and enhances battle mechanics. Players welcome the updates.",
+          "category": "Gaming",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/06/05/new-crimson-desert-patch-adds-a-dragon-alternative-better-battles/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a22ca8d4ff2669b58c35de0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-05T13:13:22Z",
+          "key_points": [
+            "New flying mount added",
+            "Battle mechanics improved",
+            "Players react positively"
+          ],
+          "impact": "Crimson Desert evolves with exciting updates.",
+          "id": "91e1dd479f50f48cc4e14adc1f687d97"
+        },
+        {
+          "title": "Xbox CEO Asha Sharma on Console Exclusivity",
+          "description": "Xbox CEO Asha Sharma remains noncommittal on console exclusivity. The conversation continues without clear direction.",
+          "category": "Gaming",
+          "source": "Eurogamer.net",
+          "url": "https://www.eurogamer.net/xbox-exclusives-asha-sharma-interview",
+          "image": "https://assetsio.gnwcdn.com/asha-sharma-xbox_ETUJlFF.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-05T12:27:10Z",
+          "key_points": [
+            "Asha Sharma's stance unclear",
+            "Exclusivity debate persists",
+            "No changes anticipated"
+          ],
+          "impact": "Xbox's future direction remains uncertain.",
+          "id": "0df1656be5657900e20a2591ecd1bb2f"
+        },
+        {
+          "title": "AMD Radeon RX 9070 GRE Review Highlights Shrinkflation",
+          "description": "The AMD Radeon RX 9070 GRE launched at $549, showcasing industry shrinkflation trends. Performance insights are discussed.",
+          "category": "Hardware",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/06/amd-radeon-rx-9070-gre-review-shrinkflation-isnt-just-for-groceries-anymore/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_8038-1152x648.jpeg",
+          "published_at": "2026-06-05T11:00:55Z",
+          "key_points": [
+            "RX 9070 launched at $549",
+            "Shrinkflation impacts hardware",
+            "Performance review insights"
+          ],
+          "impact": "AMD faces market challenges with pricing.",
+          "id": "072a0e83bbb3f43389fa64a403e26862"
+        },
+        {
+          "title": "Nintendo Switch 2: A Year in Review",
+          "description": "Celebrating the first anniversary of Switch 2, players reflect on its performance and impact. The console's journey has been notable.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/nintendo-switch-2-year-one-looking-back-how-would-you-rate-it-so-far",
+          "image": "https://images.nintendolife.com/6aa70f8257750/large.jpg",
+          "published_at": "2026-06-05T11:00:00Z",
+          "key_points": [
+            "Switch 2 celebrates first anniversary",
+            "Players share experiences",
+            "Console's impact assessed"
+          ],
+          "impact": "Switch 2's success is widely acknowledged.",
+          "id": "c7e0c38d20f0111c678e13fea47afb5b"
+        },
+        {
+          "title": "Apple's Android Joke Falls Flat in 2026",
+          "description": "Apple's latest ad mocks outdated Android designs, failing to reflect current realities. The humor is seen as outdated.",
+          "category": "Policy",
+          "source": "Android Central",
+          "url": "https://www.androidcentral.com/phones/apples-latest-android-joke-would-have-made-sense-10-years-ago",
+          "image": "https://cdn.mos.cms.futurecdn.net/UGGUTAKXWqRLNczmucswsn-2560-80.jpg",
+          "published_at": "2026-06-05T10:20:04Z",
+          "key_points": [
+            "Apple mocks Android designs",
+            "Ad humor deemed outdated",
+            "Critics question relevance"
+          ],
+          "impact": "Apple's ad strategy faces criticism.",
+          "id": "0e74ba9f1468acb4c980f08a0fbb3ea8"
+        },
+        {
+          "title": "Apple's AI Strategy Preview for WWDC 2026",
+          "description": "Apple plans to unveil a new AI strategy at WWDC 2026, aiming to improve its AI offerings after past failures. Anticipation is high.",
+          "category": "Software",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-05/wwdc-2026-preview-ios-27-siri-ai-features-macos-27-more-apple-will-announce",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7h3HMIwUobk/v1/1200x800.jpg",
+          "published_at": "2026-06-05T09:30:32Z",
+          "key_points": [
+            "New AI strategy at WWDC",
+            "Focus on Siri and iOS 27",
+            "Redemption after past failures"
+          ],
+          "impact": "Apple aims to regain AI credibility.",
+          "id": "151b4e28e800a85b7ca99c46fe54a202"
+        },
+        {
+          "title": "Evercade Boss Critiques Gaming Industry's Focus",
+          "description": "Evercade's CEO argues the gaming industry neglects older players. He calls for better catering to this demographic.",
+          "category": "Gaming",
+          "source": "Timeextension.com",
+          "url": "https://www.timeextension.com/news/2026/06/i-think-they-are-missing-a-trick-evercade-boss-says-the-games-industry-is-failing-older-players",
+          "image": "https://images.timeextension.com/52f459400f508/large.jpg",
+          "published_at": "2026-06-05T09:00:00Z",
+          "key_points": [
+            "Industry neglects older gamers",
+            "Call for better focus",
+            "Evercade's perspective shared"
+          ],
+          "impact": "Industry urged to embrace older players.",
+          "id": "3331e27b267e4c4003c69e57b72c3f9a"
+        },
+        {
+          "title": "Brave Charges $60 to Remove Features",
+          "description": "Brave introduces a $60 fee to remove features it previously added. Users express frustration over this decision.",
+          "category": "Software",
+          "source": "XDA Developers",
+          "url": "https://www.xda-developers.com/brave-is-charging-60-to-remove-features-it-added-in-the-first-place/",
+          "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/12/brave-browser-on-a-laptop.jpg?w=1600&h=900&fit=crop",
+          "published_at": "2026-06-05T05:51:33Z",
+          "key_points": [
+            "Brave charges for feature removal",
+            "User frustration grows",
+            "Controversial decision criticized"
+          ],
+          "impact": "Brave's pricing strategy faces backlash.",
+          "id": "91e8566c175c2acf2589f663caccaa97"
+        }
+      ]
+    },
+    {
       "id": "2026-06-06T13:39:57.875090+00:00",
       "fetched_at": "2026-06-06T13:39:57.875090+00:00",
       "label": "Jun 06, 2026 — 01:40 PM UTC",
@@ -6280,253 +6527,6 @@
           ],
           "impact": "Excitement builds for iPhone 18 Pro.",
           "id": "ee948b959573d5cbc53f77d777e53c07"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-01T10:22:44.619399+00:00",
-      "fetched_at": "2026-06-01T10:22:44.619399+00:00",
-      "label": "Jun 01, 2026 — 10:23 AM UTC",
-      "articles": [
-        {
-          "title": "Apple iOS 27 Release Date Announced",
-          "description": "Apple's iOS 27 is set to launch soon, featuring a new Siri upgrade. Here's the expected release schedule for eager users.",
-          "category": "Software",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/davidphelan/2026/05/31/apple-ios-27-release-date-when-you-can-download-and-test-the-new-iphone-update/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/68eb70cab1a8496225a0acd5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "published_at": "2026-05-31T10:16:22Z",
-          "key_points": [
-            "New Siri upgrade included",
-            "Release schedule revealed",
-            "Highly anticipated update"
-          ],
-          "impact": "iOS 27 promises significant enhancements for users.",
-          "id": "d0d58fad1fa4fe0434ac50ccdf298477"
-        },
-        {
-          "title": "Microsoft's Controversial Threat to Cybersecurity Researchers",
-          "description": "Microsoft's recent threats towards cybersecurity researchers have sparked outrage in the community. The company's controversial stance raises concerns about collaboration.",
-          "category": "Security",
-          "source": "Windows Central",
-          "url": "https://www.windowscentral.com/microsoft/they-will-ruin-my-life-microsoft-threatens-to-wield-digital-crimes-unit-over-zero-day-exploit-disclosures-causing-uproar-in-the-cybersec-community",
-          "image": "https://cdn.mos.cms.futurecdn.net/XF9dDmwefDZrFZ7Kd2Pqeg-2121-80.jpg",
-          "published_at": "2026-05-31T07:01:19Z",
-          "key_points": [
-            "Threats alarm cybersecurity experts",
-            "Controversial collaboration issues",
-            "Microsoft's reputation at stake"
-          ],
-          "impact": "Microsoft's actions could hinder security research efforts.",
-          "id": "a7b29f2a93f5a63dc5279f657fe5d7e8"
-        },
-        {
-          "title": "Samsung Galaxy Z Fold 8 Leak Reveals Wider Design",
-          "description": "A leaked photo showcases the Galaxy Z Fold 8's wider form factor compared to its predecessor. This design change is generating buzz among tech enthusiasts.",
-          "category": "Hardware",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/05/30/galaxy-z-fold-8-wide-ultra-leak/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/galaxy-z-fold-8-photo-leak-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-05-31T02:35:00Z",
-          "key_points": [
-            "Wider design revealed",
-            "Comparison with Ultra model",
-            "Excitement builds for launch"
-          ],
-          "impact": "The new design could attract more buyers.",
-          "id": "fcd8d9b0c294636d5ac5d82071fed916"
-        },
-        {
-          "title": "'007: First Light' Breaks Sales Records",
-          "description": "The latest James Bond game, '007: First Light', has become a massive sales success. Fans are clearly excited about the franchise's return.",
-          "category": "Gaming",
-          "source": "Mashable",
-          "url": "https://mashable.com/entertainment/007-first-light-james-bond-game-sales-numbers",
-          "image": "https://helios-i.mashable.com/imagery/articles/06OnBAD6hmrOpDATxZfE5M5/hero-image.fill.size_1200x675.v1780159635.jpg",
-          "published_at": "2026-05-31T02:21:09Z",
-          "key_points": [
-            "Massive sales success",
-            "Fans love James Bond",
-            "Franchise revival celebrated"
-          ],
-          "impact": "The game revitalizes interest in the Bond franchise.",
-          "id": "333bd1cdbacca916b60f61b5a9640fb4"
-        },
-        {
-          "title": "Explore Minecraft Marketplace for New Content",
-          "description": "Discover new games and exclusive DLC in the Minecraft Marketplace. Players can purchase Minecoins for exciting new content.",
-          "category": "Gaming",
-          "source": "Minecraft.net",
-          "url": "https://www.minecraft.net/en-us/marketplace/pdp",
-          "image": "https://www.minecraft.net/content/dam/minecraftnet/franchise/logos/minecraft-creeper-face.jpg",
-          "published_at": "2026-05-31T01:14:23Z",
-          "key_points": [
-            "New games available",
-            "Exclusive DLC offered",
-            "Minecoins for purchases"
-          ],
-          "impact": "The marketplace enhances player engagement.",
-          "id": "46023a3cf4a4b67e766973defb679621"
-        },
-        {
-          "title": "Rayman Origins Remaster Details Leak",
-          "description": "A leak reveals details about a remastered version of Rayman Origins, appearing on the Xbox Store for $2,000. Fans are eager for more information.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/rayman-origins-remaster-leak-reveals-first-details-about-enhanced-edition-from-ubisoft",
-          "image": "https://assets-prd.ignimgs.com/2026/05/30/rayman-origins-1780173605487.png?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-05-30T21:00:44Z",
-          "key_points": [
-            "Remaster details leaked",
-            "Available for $2,000",
-            "Fans excited for enhancements"
-          ],
-          "impact": "The remaster could attract nostalgic players.",
-          "id": "eea5b2898e776691c6d12c1e4800a3e9"
-        },
-        {
-          "title": "Nintendo Switch 2 Backwards Compatibility Updates",
-          "description": "Nintendo has released new backwards compatibility fixes for Switch games on the Switch 2. This update aims to improve user experience.",
-          "category": "Gaming",
-          "source": "Nintendo Everything",
-          "url": "https://nintendoeverything.com/nintendo-switch-2-switch-backwards-compatibility-fixes-may-2026/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Switch-2-Switch-backwards-compatibility-fixes-May-2026.webp",
-          "published_at": "2026-05-30T20:26:15Z",
-          "key_points": [
-            "New compatibility fixes released",
-            "Improves user experience",
-            "Ongoing updates for Switch 2"
-          ],
-          "impact": "These fixes enhance the Switch 2's appeal.",
-          "id": "7c11fb6eca2bdd851fa38d325278d008"
-        },
-        {
-          "title": "Fitbit Air Revives Classic Fitness Tracker Appeal",
-          "description": "The Fitbit Air brings back the simplicity of fitness tracking without a screen. Users appreciate its straightforward functionality.",
-          "category": "Hardware",
-          "source": "Android Police",
-          "url": "https://www.androidpolice.com/im-wearing-the-fitbit-air-and-i-love-how-it-brings-back-the-golden-age-of-fitness-trackers/",
-          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/05/fitbit-air-wearing.JPG?w=1600&h=900&fit=crop",
-          "published_at": "2026-05-30T19:00:13Z",
-          "key_points": [
-            "Simplicity in fitness tracking",
-            "No screen design praised",
-            "Nostalgic appeal for users"
-          ],
-          "impact": "The Fitbit Air could redefine fitness tracking.",
-          "id": "9819ed3f9b33744a31cb99b530497d09"
-        },
-        {
-          "title": "Nintendo Switch Online Offers Free Game for 48 Hours",
-          "description": "Nintendo Switch Online subscribers can download a 2025 game for free for 48 hours. This limited-time offer boosts engagement.",
-          "category": "Gaming",
-          "source": "ComicBook.com",
-          "url": "http://comicbook.com/gaming/news/nintendo-switch-online-free-game-2025-download/",
-          "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/10/n-i-n-t-e-n-d-o-s-w-i-t-c-h-o-n-l-i-n-e.png?resize=2000,1125",
-          "published_at": "2026-05-30T18:33:12Z",
-          "key_points": [
-            "Free game for 48 hours",
-            "Limited-time offer",
-            "Boosts subscriber engagement"
-          ],
-          "impact": "This promotion could increase user retention.",
-          "id": "a7462bf7ec1362eb067e5f61a16f3568"
-        },
-        {
-          "title": "Minecraft Live May 2026 Highlights Revealed",
-          "description": "Mojang Studios announced exciting new projects during Minecraft Live May 2026, including a sequel to Minecraft Dungeons. Fans are eager for more details.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/minecraft-live-may-2026-everything-announced",
-          "image": "https://assets-prd.ignimgs.com/2026/05/30/minecraftlive-blogroll-1780160025138.jpg?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-05-30T18:00:20Z",
-          "key_points": [
-            "New Minecraft projects announced",
-            "Sequel to Dungeons revealed",
-            "Fans excited for updates"
-          ],
-          "impact": "These announcements could boost community engagement.",
-          "id": "fae19431fb3e2ad0fa6bc6e8c94032ba"
-        },
-        {
-          "title": "Modern Warfare 4 Addresses Player Feedback",
-          "description": "Infinity Ward aims to improve movement mechanics in Call of Duty: Modern Warfare 4 based on player feedback from previous games. Fans are hopeful for enhancements.",
-          "category": "Gaming",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/call-of-duty-modern-warfare-4-movement/",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/modern-warfare-4-details-mantling.jpg?w=1600&h=900&fit=crop",
-          "published_at": "2026-05-30T17:07:36Z",
-          "key_points": [
-            "Movement mechanics improved",
-            "Player feedback prioritized",
-            "Infinity Ward listens to fans"
-          ],
-          "impact": "This could enhance player satisfaction significantly.",
-          "id": "0c8e2002bcd345ea50bfc403a8d45569"
-        },
-        {
-          "title": "Googlebook May Enhance Android Desktop Mode",
-          "description": "The Googlebook may finally address key issues with Android desktop mode, allowing better multitasking and app usage. Users are eager for this improvement.",
-          "category": "Software",
-          "source": "Android Police",
-          "url": "https://www.androidpolice.com/googlebook-fixes-one-thing-about-android-desktop-mode/",
-          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/googlebook-main-1.jpg?w=1600&h=900&fit=crop",
-          "published_at": "2026-05-30T16:15:10Z",
-          "key_points": [
-            "Improves Android desktop mode",
-            "Enhances multitasking capabilities",
-            "Users anticipate better functionality"
-          ],
-          "impact": "This could revolutionize Android desktop experiences.",
-          "id": "108513884deb3db6e8ce638b6b4fb589"
-        },
-        {
-          "title": "Google's Gemini Spark Proves Useful for Daily Tasks",
-          "description": "Gemini Spark, Google's new AI assistant, automates tasks like inbox management and event planning. Its separate branding raises questions about its purpose.",
-          "category": "AI",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/05/gemini-spark-GettyImages-2276583186-1.jpg?w=1024",
-          "published_at": "2026-05-30T15:30:00Z",
-          "key_points": [
-            "Automates daily tasks",
-            "Separate branding questioned",
-            "User-friendly interface"
-          ],
-          "impact": "Gemini Spark could streamline daily productivity.",
-          "id": "efe0c0c4c881fe14a51b4b2000a18156"
-        },
-        {
-          "title": "Sony's Decision on Destiny 2 Support Criticized",
-          "description": "Sony's announcement to cease all support for Destiny 2 has drawn criticism from fans. The decision could impact the game's future significantly.",
-          "category": "Gaming",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/paultassi/2026/05/30/sony-is-wrong-to-take-destiny-2-support-down-to-absolute-zero/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a1aea4fe48d12d758ec3526/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "published_at": "2026-05-30T13:51:30Z",
-          "key_points": [
-            "Sony halts all support",
-            "Fans express disappointment",
-            "Impact on game's future questioned"
-          ],
-          "impact": "This decision could alienate the player base.",
-          "id": "5dbaeb67b05905e09996a20410f7d5d8"
-        },
-        {
-          "title": "AC Cobra GT Coupe Unveiled with 720 HP",
-          "description": "AC Cars celebrates its 125th anniversary with the launch of the Cobra GT Coupe, boasting 720 horsepower. The classic design aims to boost production.",
-          "category": "Hardware",
-          "source": "Motor1",
-          "url": "https://www.motor1.com/news/797329/ac-cobra-gt-coupe-revealed/",
-          "image": "https://cdn.motor1.com/images/mgl/JONken/s1/ac-cobra-gt-coupe.jpg",
-          "published_at": "2026-05-30T13:46:01Z",
-          "key_points": [
-            "720 horsepower engine",
-            "Classic design returns",
-            "Celebrates 125 years of AC Cars"
-          ],
-          "impact": "The Cobra GT Coupe could attract car enthusiasts.",
-          "id": "e27557210e1d51b510d875314797fe6f"
         }
       ]
     }
