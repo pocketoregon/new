@@ -1,247 +1,71 @@
 {
   "date": "2026-06-06",
-  "generated_at": "2026-06-06T08:32:37.593130+00:00",
+  "generated_at": "2026-06-06T10:53:13.558585+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Persona 6 Images Leak Ahead of Summer Game Fest",
-      "description": "Leaked images of Persona 6 have surfaced online, stirring excitement among fans. Sega is reportedly behind the takedowns of these images.",
-      "category": "Gaming",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/06/rumour-persona-6-images-supposedly-leak-online",
-      "image": "https://images.nintendolife.com/348835e7ab1c1/large.jpg",
-      "published_at": "2026-06-05T05:30:00Z",
+      "title": "Meta's Smart Glasses Embed Face Recognition Code",
+      "description": "Meta has integrated face-recognition technology into its smart glasses app, now on millions of phones. This system identifies individuals using biometric data stored on devices.",
+      "category": "Security",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/",
+      "image": "https://media.wired.com/photos/6a1f7cd62dd56ccdeabd0786/191:100/w_1280,c_limit/security_meta_final_@.jpg",
+      "published_at": "2026-06-04T17:28:00Z",
       "key_points": [
-        "Persona 6 images leaked online",
-        "Sega involved in takedowns",
-        "Excitement builds for release"
+        "Face recognition in smart glasses",
+        "Biometric data from phones",
+        "Millions of devices affected"
       ],
-      "impact": "Fans eagerly await official announcements.",
-      "id": "7c96cabd3492518f7b1ac92f965e4c49"
+      "impact": "This raises significant privacy concerns for users.",
+      "id": "425fc226e514babffb7bb23e3df7af02"
     },
     {
-      "title": "Black Ops 7's Classic Mode Addresses Player Concerns",
-      "description": "Call of Duty: Black Ops 7 introduces a new Classic mode, addressing player feedback and enhancing gameplay experience. Players are enjoying the significant changes.",
-      "category": "Gaming",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/black-ops-7s-new-classic-mode-seems-to-fix-a-lot-of-issues-players-have-with-the-game",
-      "image": "https://assets-prd.ignimgs.com/2025/11/04/blackops7thumb-1762276682204.png?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-05T00:49:00Z",
-      "key_points": [
-        "New Classic mode launched",
-        "Addresses player issues",
-        "Positive reception from players"
-      ],
-      "impact": "Players are more engaged with the game.",
-      "id": "90b6861ec3a81df5e659f86cdfe0498f"
-    },
-    {
-      "title": "Microsoft's AI Chief Critiques Anthropic Models' Costs",
-      "description": "Microsoft's AI chief claims Anthropic's models are too expensive. The company is focusing on developing more affordable in-house AI solutions.",
-      "category": "Business",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-06-04/microsoft-says-anthropic-models-are-too-expensive",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKKTzuLapJ28/v9/1200x800.jpg",
-      "published_at": "2026-06-05T00:41:51Z",
-      "key_points": [
-        "Anthropic models deemed too costly",
-        "Microsoft seeks cheaper alternatives",
-        "Focus on in-house AI development"
-      ],
-      "impact": "Microsoft aims to reduce AI development costs.",
-      "id": "4124bccf95325b8c55d8600903958c29"
-    },
-    {
-      "title": "Student Identifies Teacher's ADHD Through Handwriting",
-      "description": "A student recognized their teacher's ADHD by analyzing her handwriting, sparking discussions about ADHD traits. The incident has gone viral on social media.",
+      "title": "Expert Tips for Capturing Northern Lights with Phone",
+      "description": "With strong northern lights expected, here's how to effectively photograph the aurora using your smartphone. Expert advice ensures you capture stunning images of this natural phenomenon.",
       "category": "Science",
-      "source": "Buzzfeed",
-      "url": "https://www.buzzfeed.com/kristatorres/adhd-handwriting-tiktok",
-      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/21/thumb/7NAq93rfd.jpg?crop=1250:654;0,22&downsize=1250:*",
-      "published_at": "2026-06-04T21:57:10Z",
-      "key_points": [
-        "Student identifies ADHD through handwriting",
-        "Viral discussion on social media",
-        "ADHD traits highlighted"
-      ],
-      "impact": "Raises awareness about ADHD characteristics.",
-      "id": "8abeedcb37f0f42ad827e6bf24f64c21"
-    },
-    {
-      "title": "Behind the Scenes of The Adventures of Elliot",
-      "description": "Square Enix and Claytechworks release a 13-minute making-of video for The Adventures of Elliot: The Millennium Tales. Fans get an inside look at the game's development.",
-      "category": "Gaming",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/the-adventures-of-elliot-the-millennium-tales-making-of-video",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Elliot-BtS_06-04-26.jpg",
-      "published_at": "2026-06-04T21:34:02Z",
-      "key_points": [
-        "Making-of video released",
-        "Insights into game development",
-        "Fans excited for new RPG"
-      ],
-      "impact": "Increases anticipation for the game release.",
-      "id": "0a23d45e642849443f491929e8cbf3ff"
-    },
-    {
-      "title": "Amazon Revamps Gaming Strategy with New Titles",
-      "description": "Amazon's new gaming strategy includes partnerships with James Bond and AI-powered games. The company aims to strengthen its position in the gaming market.",
-      "category": "Gaming",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/007_keyart_1920-1080-clean.jpg.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "published_at": "2026-06-04T17:01:15Z",
-      "key_points": [
-        "New gaming strategy unveiled",
-        "Focus on James Bond franchise",
-        "AI-powered games in development"
-      ],
-      "impact": "Amazon aims to enhance its gaming portfolio.",
-      "id": "af2ca91f252c671cf28e95a482ea2f48"
-    },
-    {
-      "title": "Meta Launches AI Creator Assistant on Facebook",
-      "description": "Meta introduces a new AI creator assistant on Facebook, providing personalized recommendations for content creators. This tool simplifies performance analysis and engagement strategies.",
-      "category": "Software",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Introducing-Creator-Assistant-Plus-More-Languages-for-AI-Translations-on-Facebook_Header.jpg?resize=1200,675",
-      "published_at": "2026-06-04T16:32:48Z",
-      "key_points": [
-        "New AI assistant launched",
-        "Personalized recommendations for creators",
-        "Simplifies performance tracking"
-      ],
-      "impact": "Enhances creator experience on Facebook.",
-      "id": "36b17b2ca4f8c11f4a8903736839a3e6"
-    },
-    {
-      "title": "Apple and MLB Reveal July Baseball Schedule",
-      "description": "Apple and Major League Baseball announce the July schedule for 'Friday Night Baseball' on Apple TV, featuring exciting matchups. Fans can look forward to a thrilling month of games.",
-      "category": "Gaming",
-      "source": "Apple",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-and-major-league-baseball-announce-july-friday-night-baseball-schedule/",
-      "image": "https://www.apple.com/newsroom/images/2026/06/apple-and-major-league-baseball-announce-july-friday-night-baseball-schedule/tile/Apple-Friday-Night-Baseball-hero-lp.jpg.og.jpg?202606041559",
-      "published_at": "2026-06-04T16:01:37Z",
-      "key_points": [
-        "July baseball schedule announced",
-        "Exciting matchups on Apple TV",
-        "Fans eager for upcoming games"
-      ],
-      "impact": "Increases viewership for Friday Night Baseball.",
-      "id": "512b9cce8ae26e9f2bfa5333e4a27e24"
-    },
-    {
-      "title": "Destiny 2 Ending Content Sparks Controversy",
-      "description": "Bungie announces the end of ongoing content for Destiny 2, shifting focus to new projects. The decision has upset many fans, including industry peers.",
-      "category": "Gaming",
-      "source": "GameSpot",
-      "url": "https://www.gamespot.com/articles/destiny-2-ending-new-content-is-unthinkable-warframe-dev-says/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/06/D2.jpg",
-      "published_at": "2026-06-04T15:39:55Z",
-      "key_points": [
-        "Bungie ends Destiny 2 content",
-        "Fans express disappointment",
-        "Shift to new projects confirmed"
-      ],
-      "impact": "Fans are concerned about the game's future.",
-      "id": "f4642a6abf1cf8efe26a0f45a3016f55"
-    },
-    {
-      "title": "Helldivers 2 Introduces New Roguelite Mode",
-      "description": "Helldivers 2 is set to launch a new roguelite mode called Planet Warfronts, enhancing gameplay with fresh mechanics. Developers aim to improve the overall experience.",
-      "category": "Gaming",
-      "source": "Rock Paper Shotgun",
-      "url": "https://www.rockpapershotgun.com/we-didnt-have-the-content-needed-to-do-it-justice-at-the-time-helldivers-2-is-finally-getting-a-roguelite-system-arrowhead-experimented-with-pre-launch",
-      "image": "https://assetsio.gnwcdn.com/helldivers-2-planet-warfronts-confirmed-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-04T14:45:27Z",
-      "key_points": [
-        "New roguelite mode announced",
-        "Enhances gameplay mechanics",
-        "Developers aim for better experience"
-      ],
-      "impact": "Players excited for new gameplay features.",
-      "id": "7c798b01b274b4860c98dfdacd2d2a14"
-    },
-    {
-      "title": "Kratos Will Return in Future God of War Games",
-      "description": "Sony Santa Monica reassures fans that Kratos will return in future God of War titles, despite recent game developments. The beloved character remains central to the franchise.",
-      "category": "Gaming",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/god-of-war-laufey-more-kratos-games-coming",
-      "image": "https://assetsio.gnwcdn.com/god-of-war-laufey-reveal-screen-3.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-04T14:32:40Z",
-      "key_points": [
-        "Kratos confirmed for future games",
-        "Fans reassured by developers",
-        "Franchise remains strong"
-      ],
-      "impact": "Fans can expect more Kratos adventures.",
-      "id": "5666ccd8affd9b8d6b73b629a5d3ba09"
-    },
-    {
-      "title": "Cassette Beasts 2002 Announced for Nintendo Switch 2",
-      "description": "A sequel to the original Cassette Beasts, titled Cassette Beasts 2002, has been revealed for the Nintendo Switch 2. Fans are eager for more details.",
-      "category": "Gaming",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/cassette-beasts-2002-a-follow-up-to-the-original-cassette-beasts-revealed-for-nintendo-switch-2/",
-      "image": "",
-      "published_at": "2026-06-04T14:07:09Z",
-      "key_points": [
-        "Cassette Beasts sequel announced",
-        "Coming to Nintendo Switch 2",
-        "Fans excited for new features"
-      ],
-      "impact": "Anticipation builds for the sequel's release.",
-      "id": "220e9d45f0f0b6fe01051527b8998c2c"
-    },
-    {
-      "title": "Ace Combat 8: Wings of Theve Preview",
-      "description": "A preview of Ace Combat 8: Wings of Theve reveals insights into the game's military narrative and pilot training. Players can expect an engaging storyline.",
-      "category": "Gaming",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/previews/ace-combat-8-wings-of-theve-journal-of-an-fcu-pilot-in-training",
-      "image": "https://images.pushsquare.com/e58e3846ff8e4/large.jpg",
-      "published_at": "2026-06-04T13:30:00Z",
-      "key_points": [
-        "Ace Combat 8 previewed",
-        "Focus on military narrative",
-        "Engaging pilot training experience"
-      ],
-      "impact": "Players look forward to the new storyline.",
-      "id": "7f0841dfdbb5fcf1872eb605b9f90cd6"
-    },
-    {
-      "title": "Marathon Season 2: The Good and Bad",
-      "description": "Bungie's Marathon season 2 introduces new features but also faces criticism for disrupting core gameplay. Players share mixed reactions to the changes.",
-      "category": "Gaming",
       "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/06/04/the-good-and-bad-of-marathon-season-2-so-far/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a217a9b59bfa32b5103bb88/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published_at": "2026-06-04T13:20:31Z",
+      "url": "https://www.forbes.com/sites/jamiecartereurope/2026/06/04/how-i-photograph-the-northern-lights-with-my-phone---by-an-expert/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a21aeb443dc673441150726/0x0.jpg?format=jpg&crop=2049,1152,x207,y413,safe&height=900&width=1600&fit=bounds",
+      "published_at": "2026-06-04T17:19:36Z",
       "key_points": [
-        "Marathon season 2 launched",
-        "New features introduced",
-        "Mixed player reactions reported"
+        "Strong aurora forecast",
+        "Smartphone photography tips",
+        "Capture stunning images"
       ],
-      "impact": "Players are divided on the new season.",
-      "id": "3bd673788ae631c604aadaf3399f4da2"
+      "impact": "This guide enhances your photography skills during auroras.",
+      "id": "f37d46b700890987862c6e8784b3eb12"
     },
     {
-      "title": "Nvidia RTX Spark PCs Expected to Be Expensive",
-      "description": "Upcoming Nvidia RTX Spark PCs are anticipated to have high price points, designed for advanced AI applications. Consumers brace for the financial impact.",
-      "category": "Hardware",
-      "source": "PCWorld",
-      "url": "https://www.pcworld.com/article/3156219/the-price-of-nvidia-rtx-spark-pcs-is-going-to-hurt.html",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/06/IMG_0995-sm.jpg?quality=50&strip=all&w=1024",
-      "published_at": "2026-06-04T12:00:00Z",
+      "title": "Samsung Cuts Exynos 2600 Chip Usage Amid Price Hikes",
+      "description": "Samsung Mobile is scaling back the Exynos 2600 chip in the Galaxy Z Flip 8 due to soaring costs from Samsung LSI. The company is now relying more on Qualcomm for its upcoming devices.",
+      "category": "Business",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/samsung-lsis-price-gouging-pushes-exynos-2600-to-270-unit-forcing-samsung-mobile-to-bank-on-qualcomm-for-the-galaxy-z-flip-8/",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/01/Exynos-2600-6.jpg",
+      "published_at": "2026-06-04T16:38:00Z",
       "key_points": [
-        "Nvidia RTX Spark PCs priced high",
-        "Designed for AI applications",
-        "Consumers prepare for costs"
+        "Exynos 2600 price hikes",
+        "Samsung shifts to Qualcomm",
+        "Galaxy Z Flip 8 impacted"
       ],
-      "impact": "High prices may limit consumer access.",
-      "id": "f9852505a3bde614d105025b887c9f6e"
+      "impact": "This shift may affect Samsung's market competitiveness.",
+      "id": "b73005f883461471e07ed98607e88fda"
+    },
+    {
+      "title": "Le Mans Ultimate Introduces 2026 Cars and Free DLC",
+      "description": "Le Mans Ultimate has released a free update featuring 2026-spec cars, including Toyota and BMW hypercars, and the first LMP3 outside paid DLC. Exciting new content for racing fans is now available.",
+      "category": "Gaming",
+      "source": "Traxion.gg",
+      "url": "https://traxion.gg/le-mans-ultimate-adds-2026-spec-cars-and-free-lmp3/",
+      "image": "https://traxion.gg/wp-content/uploads/2026/06/1920x10802026_11.jpg",
+      "published_at": "2026-06-04T09:15:00Z",
+      "key_points": [
+        "Free update released",
+        "New 2026-spec cars",
+        "First free LMP3 addition"
+      ],
+      "impact": "This update enhances player engagement and excitement.",
+      "id": "1f7af935778e43df57864b82ee2aa741"
     }
   ]
 }
