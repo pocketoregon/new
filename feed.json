@@ -1,245 +1,149 @@
 {
-  "generated_at": "2026-06-07T08:54:36.704411+00:00",
+  "generated_at": "2026-06-07T11:08:16.509032+00:00",
   "articles": [
     {
-      "title": "Sonic Racing: CrossWorlds Season Pass 2 Announced",
-      "description": "Sega reveals Sonic Racing: CrossWorlds Season Pass 2, featuring six new DLC packs. The announcement coincides with Sonic's 35th anniversary celebration.",
+      "title": "The Wolf Among Us Returns on Switch",
+      "description": "The Wolf Among Us Remastered and The Wolf Among Us 2 are coming to Nintendo Switch 2 and Switch. Launches are set for this holiday and 2027 respectively.",
+      "category": "Gaming",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/the-wolf-among-us-remastered-the-wolf-among-us-2-announced-for-nintendo-switch-2-and-switch/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Wolf-Among-Us-2.jpg",
+      "published_at": "2026-06-06T02:32:47Z",
+      "key_points": [
+        "Remastered version announced",
+        "Sequel set for 2027",
+        "Holiday release planned"
+      ],
+      "impact": "This revives interest in Telltale's classic.",
+      "id": "a8e7b7b33326bc50619356d41de82fab"
+    },
+    {
+      "title": "007 First Light Hits 2.7 Million Sales",
+      "description": "IO Interactive's 007 First Light sold 2.7 million copies in its first week. The studio plans to release free Year One content for players.",
+      "category": "Gaming",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/io-interactives-james-bond-game-007-first-light-sells-27-million-copies-in-its-first-week-as-dev-reiterates-free-year-one-content",
+      "image": "https://assetsio.gnwcdn.com/007_371QA3p.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-06T00:31:20Z",
+      "key_points": [
+        "Strong initial sales reported",
+        "Free content planned",
+        "Developer optimistic about future"
+      ],
+      "impact": "This sets a strong precedent for future titles.",
+      "id": "72e47fbbb890add85013ca74aecd9522"
+    },
+    {
+      "title": "Cuphead Developers Announce 8-Bit Spin-Off",
+      "description": "Studio MDHR revealed a new 8-bit spin-off for the Sega Master System during Summer Game Fest 2026. It will also be available on modern consoles and PC.",
+      "category": "Gaming",
+      "source": "Timeextension.com",
+      "url": "https://www.timeextension.com/news/2026/06/surprise-the-developers-behind-cuphead-just-announced-a-new-8-bit-spin-off-for-the-sega-master-system",
+      "image": "https://images.timeextension.com/6471e95492fb5/large.jpg",
+      "published_at": "2026-06-05T22:45:00Z",
+      "key_points": [
+        "New spin-off announced",
+        "Available on Sega Master System",
+        "Modern consoles included"
+      ],
+      "impact": "This expands Cuphead's franchise reach.",
+      "id": "a3d98704e749142fb3708e1ed30541b4"
+    },
+    {
+      "title": "WWDC 2026: What to Expect",
+      "description": "Apple's WWDC 2026 is approaching, showcasing Gemini-powered Siri, iOS 27, and macOS 27. Expect significant AI advancements and new features.",
+      "category": "Software",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/guide/wwdc-2026-what-to-expect/",
+      "image": "https://images.macrumors.com/t/8adqwLQVG7sZXO7ucrVfh2e3ZeA=/2500x/article-new/2026/06/WWDC26-What-to-Expect-Thumb.jpg",
+      "published_at": "2026-06-05T21:15:47Z",
+      "key_points": [
+        "Gemini-powered Siri debut",
+        "New iOS and macOS versions",
+        "Focus on AI advancements"
+      ],
+      "impact": "This could redefine Apple's software ecosystem.",
+      "id": "d3153b14991f8ff948fa363db3d9f570"
+    },
+    {
+      "title": "Elden Ring Shows Off Switch 2 Performance",
+      "description": "New footage of Elden Ring: Tarnished Edition suggests impressive performance on Switch 2. Fans are excited about the upcoming release.",
       "category": "Gaming",
       "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/06/sonic-racing-crossworlds-season-pass-2-announced-includes-six-new-dlc-packs",
-      "image": "https://images.nintendolife.com/1809138c3495c/large.jpg",
-      "published_at": "2026-06-06T04:30:00Z",
+      "url": "https://www.nintendolife.com/news/2026/06/new-elden-ring-footage-seemingly-showcases-switch-2-performance-and-it-looks-good",
+      "image": "https://images.nintendolife.com/0c04fbe0bba7c/large.jpg",
+      "published_at": "2026-06-05T15:45:00Z",
       "key_points": [
-        "Six new DLC packs",
-        "Celebrates Sonic's anniversary",
-        "Available soon"
+        "New footage released",
+        "Switch 2 performance looks promising",
+        "Fans eagerly await launch"
       ],
-      "impact": "Sonic fans can expect exciting new content.",
-      "id": "2fac05631ff761fb2d23845fa779f4fd"
+      "impact": "This boosts anticipation for the game.",
+      "id": "30d529a93ae7636560deed7070c3f702"
     },
     {
-      "title": "Yakuza Studio’s Game Faces Backlash Over Tupac",
-      "description": "Yakuza Studio's upcoming game featuring Tupac has sparked controversy among fans. Many express dissatisfaction with the creative direction taken.",
+      "title": "Xbox's New Strategy Under Asha Sharma",
+      "description": "Xbox CEO Asha Sharma aims to reset Xbox's strategy, focusing on exclusivity and addressing AI challenges. The goal is to lead in gaming and entertainment.",
       "category": "Gaming",
-      "source": "Aftermath",
-      "url": "https://aftermath.site/summer-game-fest-tupac-stranger-than-heaven-yakuza/",
-      "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/06/tupac.png",
-      "published_at": "2026-06-06T03:38:49Z",
+      "source": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/asha-sharma-commits-to-resetting-xbox-prioritising-exclusivity-and-addressing-ai-in-new-strategy",
+      "image": "https://assetsio.gnwcdn.com/asha-sharma_4HxizVf.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-05T13:13:54Z",
       "key_points": [
-        "Controversial creative direction",
-        "Fans express dissatisfaction",
-        "Yakuza Studio faces backlash"
+        "Focus on exclusivity",
+        "Addressing AI challenges",
+        "Resetting Xbox strategy"
       ],
-      "impact": "The game's reception may affect its success.",
-      "id": "2d607072715ea7fa2c79daa683d795ce"
+      "impact": "This could reshape Xbox's market position.",
+      "id": "17c6079869a4ceed6acba4b4a89d31f5"
     },
     {
-      "title": "Fortnite Chapter 7 Season 3 Launch Details",
-      "description": "Fortnite Chapter 7 Season 2 has concluded, with downtime for Season 3 now underway. Players can expect the new season to launch soon.",
-      "category": "Gaming",
-      "source": "GameRant",
-      "url": "https://gamerant.com/fortnite-chapter-7-season-3-downtime-end-time/",
-      "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2026/06/when-does-fortnite-chapter-7-season-3-downtime-end.jpg?w=1600&h=900&fit=crop",
-      "published_at": "2026-06-06T00:02:00Z",
-      "key_points": [
-        "Chapter 7 Season 2 ends",
-        "Downtime for Season 3",
-        "New content coming soon"
-      ],
-      "impact": "Players eagerly await the new season's launch.",
-      "id": "27187a433366504919541de1c024180b"
-    },
-    {
-      "title": "The Wolf Among Us 2 Set for Next Year Release",
-      "description": "After a decade of development, The Wolf Among Us 2 is finally set to release next year, alongside a remaster of the original game.",
-      "category": "Gaming",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/the-wolf-among-us-2-finally-arrives-next-year-a-decade-after-it-was-announced-but-a-remaster-of-the-acclaimed-original-is-coming-first",
-      "image": "https://assetsio.gnwcdn.com/wolf-among-us-2-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-05T23:25:01Z",
-      "key_points": [
-        "Decade-long development",
-        "Remaster of original game",
-        "Launch set for next year"
-      ],
-      "impact": "Fans can finally look forward to the sequel.",
-      "id": "d566f9ceaeb61c1cdf6c3ef313b97805"
-    },
-    {
-      "title": "Microsoft AI Chief Discusses Superintelligence Goals",
-      "description": "Microsoft's AI chief reveals the company is now pursuing superintelligence independently from OpenAI, introducing seven new in-house models.",
-      "category": "AI",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4wc08GCSuP5WTTenHHRob0/c2f2cdfcfee0e96b40f5d8e60ad45d98/Nuneybits_Vector_art_of_the_iconic_Microsoft_Windows_logo_on_a__7e9c6174-b677-4904-a7be-2d3aed0072e9.webp?w=800&q=75",
-      "published_at": "2026-06-05T22:55:38Z",
-      "key_points": [
-        "Pursuing superintelligence",
-        "Seven new AI models",
-        "Independent from OpenAI"
-      ],
-      "impact": "Microsoft aims to lead in AI innovation.",
-      "id": "1e588e61972d9aa323d739e72905f975"
-    },
-    {
-      "title": "Hot Wheels: Infinite Rush Leaked for Switch 2",
-      "description": "Hot Wheels: Infinite Rush has leaked ahead of its official announcement for Nintendo Switch 2, with a trailer now available.",
-      "category": "Gaming",
-      "source": "Nintendo Everything",
-      "url": "https://nintendoeverything.com/hot-wheels-infinite-rush-leaks-early-for-nintendo-switch-2/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Hot-Wheels-Infinite-Rush.jpg",
-      "published_at": "2026-06-05T22:32:25Z",
-      "key_points": [
-        "Leaked for Nintendo Switch 2",
-        "Trailer released",
-        "Launch date set for September"
-      ],
-      "impact": "Fans are excited for the upcoming racer.",
-      "id": "50af6688eb6bb4726e2a2bbcbd095cf0"
-    },
-    {
-      "title": "SAW: Genesis Multiplayer Horror Game Announced",
-      "description": "Bloober Team announces SAW: Genesis, a three-versus-one multiplayer horror game set to launch in Early Access for PC.",
-      "category": "Gaming",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/multiplayer-horror-game-saw-genesis-announced-for-pc",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/SAW-Genesis-Ann_06-05-26.jpg",
-      "published_at": "2026-06-05T22:06:15Z",
-      "key_points": [
-        "Three-versus-one gameplay",
-        "Early Access for PC",
-        "Horror genre"
-      ],
-      "impact": "Horror fans have a new multiplayer option.",
-      "id": "d596f767b977db259cb1947653b0a2d5"
-    },
-    {
-      "title": "Dawnwalker Sequel Teaser Trailer Released",
-      "description": "A teaser trailer for the modern-day sequel to PS5 RPG Dawnwalker has been released, generating excitement before the first game's launch.",
-      "category": "Gaming",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/06/ps5-rpg-dawnwalker-isnt-even-out-yet-but-its-modern-day-sequel-just-got-a-crazy-teaser-trailer",
-      "image": "https://images.pushsquare.com/4dc8e00babcc1/large.jpg",
-      "published_at": "2026-06-05T21:41:00Z",
-      "key_points": [
-        "Teaser trailer released",
-        "Sequel to Dawnwalker",
-        "Excitement builds"
-      ],
-      "impact": "Fans are eager for both games' releases.",
-      "id": "04640c0e1032d92dcb007d72e0ef42df"
-    },
-    {
-      "title": "gen ATLAS Announced by Epic Games and genDESIGN",
-      "description": "Epic Games Publishing and genDESIGN unveil gen ATLAS, an open-world action-adventure game set on an abandoned planet.",
-      "category": "Gaming",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/epic-games-publishing-and-gendesign-announce-gen-atlas",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/gen-ATLAS-Ann_06-05-26.jpg",
-      "published_at": "2026-06-05T21:16:44Z",
-      "key_points": [
-        "Open-world action-adventure",
-        "Developed by genDESIGN",
-        "Set on abandoned planet"
-      ],
-      "impact": "A new adventure awaits players in gen ATLAS.",
-      "id": "49513ae9ba122e36226d4e19b1817664"
-    },
-    {
-      "title": "RuneScape Coming to PS5 in September",
-      "description": "The iconic RPG series RuneScape will debut on PS5 in September, expanding its reach to console players.",
-      "category": "Gaming",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/06/ps-plus-adds-this-iconic-rpg-to-extras-catalogue-in-september",
-      "image": "https://images.pushsquare.com/26a053903dee7/large.jpg",
-      "published_at": "2026-06-05T21:13:00Z",
-      "key_points": [
-        "RuneScape's console debut",
-        "Available on PS5",
-        "Launch in September"
-      ],
-      "impact": "Console players can finally enjoy RuneScape.",
-      "id": "580393e6a8908ed08c3ac48f30932ef8"
-    },
-    {
-      "title": "Alien: Isolation 2 Announced for Multiple Platforms",
-      "description": "SEGA and Creative Assembly announce Alien: Isolation 2 for PS5, Xbox Series, Switch 2, and PC, with a release date yet to be revealed.",
-      "category": "Gaming",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/alien-isolation-2-announced-for-ps5-xbox-series-switch-2-and-pc",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Alien-Isolation-2_2026_06-05-26_006.jpg",
-      "published_at": "2026-06-05T21:12:17Z",
-      "key_points": [
-        "Sequel to Alien: Isolation",
-        "Available on multiple platforms",
-        "Release date TBA"
-      ],
-      "impact": "Horror fans anticipate the sequel's arrival.",
-      "id": "25fb16f1c9b3a1dfbf76832acd94b717"
-    },
-    {
-      "title": "USB Speaker Can Infect PCs Remotely",
-      "description": "A USB-connected speaker can be hacked over the air, potentially infecting connected devices without physical contact.",
-      "category": "Security",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/sound-blaster-katana-v2x-1152x648-1780688877.jpg",
-      "published_at": "2026-06-05T21:00:29Z",
-      "key_points": [
-        "Speaker can be hacked remotely",
-        "Infects connected devices",
-        "No physical contact needed"
-      ],
-      "impact": "Security risks arise from everyday devices.",
-      "id": "06dd206e0d4ba97420f2dcd2b2ef9d58"
-    },
-    {
-      "title": "Street Fighter 6 Season 4 Characters Revealed",
-      "description": "Capcom announces new characters for Street Fighter 6 Season 4, celebrating the game's third anniversary during Summer Game Fest.",
-      "category": "Gaming",
-      "source": "EventHubs",
-      "url": "https://www.eventhubs.com/news/2026/jun/05/street-fighter-6-season-4-reveal/",
-      "image": "https://media.eventhubs.com/images/2026/06/05-street-fighter-6-season-4-revealt.webp",
-      "published_at": "2026-06-05T20:02:14Z",
-      "key_points": [
-        "New characters announced",
-        "Celebrates third anniversary",
-        "Season 4 details revealed"
-      ],
-      "impact": "Fans are excited for the upcoming season.",
-      "id": "979f52f5b68c16d3f916c33ef00c7223"
-    },
-    {
-      "title": "iOS 27 Designs Leaked for iPhone Apps",
-      "description": "Rumors suggest iOS 27 will introduce new design changes to various iPhone apps, set to be unveiled soon.",
+      "title": "Google's New Gemini Feature Accidentally Enabled",
+      "description": "Google unintentionally activated a new Gemini feature, showing up in the model picker. Users report it offers useful troubleshooting steps.",
       "category": "Software",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/05/new-ios-27-designs-reportedly-coming-to-these-iphone-apps/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-26-app-icons-camera-image-playground.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-05T19:24:00Z",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/gemini-troubleshooting-mode-3674910/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Gemini-Neural-Expressive-7-scaled.jpg",
+      "published_at": "2026-06-05T09:46:42Z",
       "key_points": [
-        "New designs for iPhone apps",
-        "iOS 27 unveiling soon",
-        "Rumors circulating"
+        "New feature accidentally enabled",
+        "Appears in model picker",
+        "Offers troubleshooting assistance"
       ],
-      "impact": "Users can expect fresh app interfaces.",
-      "id": "1e9ec9c41076df19839d8e980a726d03"
+      "impact": "This enhances user experience with Gemini.",
+      "id": "5988339e324606f2956a60233c4feb83"
     },
     {
-      "title": "God Of War Laufey's Mystery Deepens",
-      "description": "God of War Laufey may not reveal the mystery of who blew the horn, adding intrigue to the upcoming installment.",
-      "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/god-of-war-laufey-who-blew-the-horn-mystery-answer-cory-barlog-2000702950",
-      "image": "https://kotaku.com/app/uploads/2026/06/topgod2-1200x675.jpg",
-      "published_at": "2026-06-05T15:44:44Z",
+      "title": "Ranking Nvidia RTX Spark Laptops",
+      "description": "A comprehensive tier list of Nvidia RTX Spark laptops coming this fall has been compiled. The rankings highlight the best options available.",
+      "category": "Hardware",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/computing/laptops/ive-gone-hands-on-with-every-nvidia-rtx-spark-laptop-coming-this-fall-heres-my-ranked-list-of-the-best-options",
+      "image": "https://cdn.mos.cms.futurecdn.net/qaK2LNXYk9Ue4n3xcRv2cP-2560-80.jpg",
+      "published_at": "2026-06-05T05:29:58Z",
       "key_points": [
-        "Mystery remains unsolved",
-        "Focus on Faye's character",
-        "Upcoming installment teased"
+        "Comprehensive laptop rankings",
+        "Focus on RTX Spark systems",
+        "Best options highlighted"
       ],
-      "impact": "Fans are left guessing about the plot.",
-      "id": "cd1a898a584f2b957f5062244bd56e41"
+      "impact": "This guides consumers in their purchases.",
+      "id": "9e1ac38df1d256eafc61a99e3ab00b6c"
+    },
+    {
+      "title": "Amazon's Future Plans for James Bond Games",
+      "description": "Amazon confirms that James Bond will return in future video games. Clarifications were made regarding IO Interactive's involvement.",
+      "category": "Gaming",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/06/amazon-shares-statement-about-the-future-of-james-bond-video-games",
+      "image": "https://images.nintendolife.com/3dc58bfd1d233/large.jpg",
+      "published_at": "2026-06-05T02:55:00Z",
+      "key_points": [
+        "James Bond games confirmed",
+        "Clarifications on IO Interactive",
+        "Future titles in development"
+      ],
+      "impact": "This reassures fans about the franchise's future.",
+      "id": "0376ac8781ed89af046172bef2d37333"
     }
   ]
 }

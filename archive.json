@@ -1,6 +1,157 @@
 {
   "batches": [
     {
+      "id": "2026-06-07T11:08:16.509032+00:00",
+      "fetched_at": "2026-06-07T11:08:16.509032+00:00",
+      "label": "Jun 07, 2026 — 11:08 AM UTC",
+      "articles": [
+        {
+          "title": "The Wolf Among Us Returns on Switch",
+          "description": "The Wolf Among Us Remastered and The Wolf Among Us 2 are coming to Nintendo Switch 2 and Switch. Launches are set for this holiday and 2027 respectively.",
+          "category": "Gaming",
+          "source": "Nintendoeverything.com",
+          "url": "https://nintendoeverything.com/the-wolf-among-us-remastered-the-wolf-among-us-2-announced-for-nintendo-switch-2-and-switch/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Wolf-Among-Us-2.jpg",
+          "published_at": "2026-06-06T02:32:47Z",
+          "key_points": [
+            "Remastered version announced",
+            "Sequel set for 2027",
+            "Holiday release planned"
+          ],
+          "impact": "This revives interest in Telltale's classic.",
+          "id": "a8e7b7b33326bc50619356d41de82fab"
+        },
+        {
+          "title": "007 First Light Hits 2.7 Million Sales",
+          "description": "IO Interactive's 007 First Light sold 2.7 million copies in its first week. The studio plans to release free Year One content for players.",
+          "category": "Gaming",
+          "source": "Eurogamer.net",
+          "url": "https://www.eurogamer.net/io-interactives-james-bond-game-007-first-light-sells-27-million-copies-in-its-first-week-as-dev-reiterates-free-year-one-content",
+          "image": "https://assetsio.gnwcdn.com/007_371QA3p.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-06T00:31:20Z",
+          "key_points": [
+            "Strong initial sales reported",
+            "Free content planned",
+            "Developer optimistic about future"
+          ],
+          "impact": "This sets a strong precedent for future titles.",
+          "id": "72e47fbbb890add85013ca74aecd9522"
+        },
+        {
+          "title": "Cuphead Developers Announce 8-Bit Spin-Off",
+          "description": "Studio MDHR revealed a new 8-bit spin-off for the Sega Master System during Summer Game Fest 2026. It will also be available on modern consoles and PC.",
+          "category": "Gaming",
+          "source": "Timeextension.com",
+          "url": "https://www.timeextension.com/news/2026/06/surprise-the-developers-behind-cuphead-just-announced-a-new-8-bit-spin-off-for-the-sega-master-system",
+          "image": "https://images.timeextension.com/6471e95492fb5/large.jpg",
+          "published_at": "2026-06-05T22:45:00Z",
+          "key_points": [
+            "New spin-off announced",
+            "Available on Sega Master System",
+            "Modern consoles included"
+          ],
+          "impact": "This expands Cuphead's franchise reach.",
+          "id": "a3d98704e749142fb3708e1ed30541b4"
+        },
+        {
+          "title": "WWDC 2026: What to Expect",
+          "description": "Apple's WWDC 2026 is approaching, showcasing Gemini-powered Siri, iOS 27, and macOS 27. Expect significant AI advancements and new features.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/guide/wwdc-2026-what-to-expect/",
+          "image": "https://images.macrumors.com/t/8adqwLQVG7sZXO7ucrVfh2e3ZeA=/2500x/article-new/2026/06/WWDC26-What-to-Expect-Thumb.jpg",
+          "published_at": "2026-06-05T21:15:47Z",
+          "key_points": [
+            "Gemini-powered Siri debut",
+            "New iOS and macOS versions",
+            "Focus on AI advancements"
+          ],
+          "impact": "This could redefine Apple's software ecosystem.",
+          "id": "d3153b14991f8ff948fa363db3d9f570"
+        },
+        {
+          "title": "Elden Ring Shows Off Switch 2 Performance",
+          "description": "New footage of Elden Ring: Tarnished Edition suggests impressive performance on Switch 2. Fans are excited about the upcoming release.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/new-elden-ring-footage-seemingly-showcases-switch-2-performance-and-it-looks-good",
+          "image": "https://images.nintendolife.com/0c04fbe0bba7c/large.jpg",
+          "published_at": "2026-06-05T15:45:00Z",
+          "key_points": [
+            "New footage released",
+            "Switch 2 performance looks promising",
+            "Fans eagerly await launch"
+          ],
+          "impact": "This boosts anticipation for the game.",
+          "id": "30d529a93ae7636560deed7070c3f702"
+        },
+        {
+          "title": "Xbox's New Strategy Under Asha Sharma",
+          "description": "Xbox CEO Asha Sharma aims to reset Xbox's strategy, focusing on exclusivity and addressing AI challenges. The goal is to lead in gaming and entertainment.",
+          "category": "Gaming",
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/asha-sharma-commits-to-resetting-xbox-prioritising-exclusivity-and-addressing-ai-in-new-strategy",
+          "image": "https://assetsio.gnwcdn.com/asha-sharma_4HxizVf.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-05T13:13:54Z",
+          "key_points": [
+            "Focus on exclusivity",
+            "Addressing AI challenges",
+            "Resetting Xbox strategy"
+          ],
+          "impact": "This could reshape Xbox's market position.",
+          "id": "17c6079869a4ceed6acba4b4a89d31f5"
+        },
+        {
+          "title": "Google's New Gemini Feature Accidentally Enabled",
+          "description": "Google unintentionally activated a new Gemini feature, showing up in the model picker. Users report it offers useful troubleshooting steps.",
+          "category": "Software",
+          "source": "Android Authority",
+          "url": "https://www.androidauthority.com/gemini-troubleshooting-mode-3674910/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Gemini-Neural-Expressive-7-scaled.jpg",
+          "published_at": "2026-06-05T09:46:42Z",
+          "key_points": [
+            "New feature accidentally enabled",
+            "Appears in model picker",
+            "Offers troubleshooting assistance"
+          ],
+          "impact": "This enhances user experience with Gemini.",
+          "id": "5988339e324606f2956a60233c4feb83"
+        },
+        {
+          "title": "Ranking Nvidia RTX Spark Laptops",
+          "description": "A comprehensive tier list of Nvidia RTX Spark laptops coming this fall has been compiled. The rankings highlight the best options available.",
+          "category": "Hardware",
+          "source": "Tom's Guide",
+          "url": "https://www.tomsguide.com/computing/laptops/ive-gone-hands-on-with-every-nvidia-rtx-spark-laptop-coming-this-fall-heres-my-ranked-list-of-the-best-options",
+          "image": "https://cdn.mos.cms.futurecdn.net/qaK2LNXYk9Ue4n3xcRv2cP-2560-80.jpg",
+          "published_at": "2026-06-05T05:29:58Z",
+          "key_points": [
+            "Comprehensive laptop rankings",
+            "Focus on RTX Spark systems",
+            "Best options highlighted"
+          ],
+          "impact": "This guides consumers in their purchases.",
+          "id": "9e1ac38df1d256eafc61a99e3ab00b6c"
+        },
+        {
+          "title": "Amazon's Future Plans for James Bond Games",
+          "description": "Amazon confirms that James Bond will return in future video games. Clarifications were made regarding IO Interactive's involvement.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/amazon-shares-statement-about-the-future-of-james-bond-video-games",
+          "image": "https://images.nintendolife.com/3dc58bfd1d233/large.jpg",
+          "published_at": "2026-06-05T02:55:00Z",
+          "key_points": [
+            "James Bond games confirmed",
+            "Clarifications on IO Interactive",
+            "Future titles in development"
+          ],
+          "impact": "This reassures fans about the franchise's future.",
+          "id": "0376ac8781ed89af046172bef2d37333"
+        }
+      ]
+    },
+    {
       "id": "2026-06-07T08:54:36.704411+00:00",
       "fetched_at": "2026-06-07T08:54:36.704411+00:00",
       "label": "Jun 07, 2026 — 08:55 AM UTC",
@@ -6360,125 +6511,6 @@
           ],
           "impact": "Color change may influence consumer choices.",
           "id": "ecedf46706cf1e9afa179af6adbaf3ac"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-02T05:56:32.724918+00:00",
-      "fetched_at": "2026-06-02T05:56:32.724918+00:00",
-      "label": "Jun 02, 2026 — 05:56 AM UTC",
-      "articles": [
-        {
-          "title": "Ragnarok Console Project Launching on Multiple Platforms",
-          "description": "Gravity and Daweon Game Media Lab announced Ragnarok Console Project for PS5, Xbox Series, Switch 2, and PC. The game is set to launch in the first half of 2027.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/05/ragnarok-console-project-announced-for-ps5-xbox-series-switch-2-and-pc",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/05/Ragnarok-Console-Project-Ann_05-31-26.jpg",
-          "published_at": "2026-06-01T03:25:04Z",
-          "key_points": [
-            "New RPG based on Ragnarok franchise",
-            "Launching on multiple platforms",
-            "Expected in first half of 2027"
-          ],
-          "impact": "This expands the Ragnarok franchise into new gaming territories.",
-          "id": "52c2b3c9e588c74733c5c3572dd4d179"
-        },
-        {
-          "title": "Google Home Speaker Set for June 25 Launch",
-          "description": "Google's Gemini-powered Home Speaker is expected to launch on June 25, 2026, following the Pixel 10a and Fitbit Air. Anticipation builds for its features and capabilities.",
-          "category": "Hardware",
-          "source": "9to5google.com",
-          "url": "http://9to5google.com/2026/05/31/google-home-speaker-release-date-june/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Google-Home-Speaker-Multi.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-01T02:44:00Z",
-          "key_points": [
-            "Gemini-powered speaker",
-            "Launch date confirmed",
-            "Follows Pixel 10a release"
-          ],
-          "impact": "This marks a significant update in Google's smart home lineup.",
-          "id": "86c86764882807f5099450b4f5aed40e"
-        },
-        {
-          "title": "iOS 28 Rumored to Be Major Upgrade",
-          "description": "Bloomberg's Mark Gurman hints that iOS 28 will be significantly more impactful than iOS 27, which is set to be unveiled soon. Details remain scarce but expectations are high.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/05/31/ios-28-far-more-significant-rumor/",
-          "image": "https://images.macrumors.com/t/YCZjPv2v9UGoJROkYTCOYxi8XFc=/2500x/article-new/2026/05/Low-Angle-iPhone-Purple.jpg",
-          "published_at": "2026-05-31T21:44:33Z",
-          "key_points": [
-            "iOS 28 expected to be significant",
-            "Rumors from Mark Gurman",
-            "Unveiling of iOS 27 imminent"
-          ],
-          "impact": "Anticipation builds for Apple's next major software update.",
-          "id": "d873fef2b7db18ffe8b23de172784754"
-        },
-        {
-          "title": "NVIDIA's N1x SoC Underwhelms in Geekbench Scores",
-          "description": "Pre-release Geekbench 6 scores for NVIDIA's upcoming N1x processors show disappointing results compared to Apple's M3 Max chip. Details on the processors are still forthcoming.",
-          "category": "Hardware",
-          "source": "Wccftech",
-          "url": "https://wccftech.com/nvidias-upcoming-n1x-soc-fails-to-match-apples-2023-launching-m3-max-chip-in-pre-release-geekbench-6-scores/",
-          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/NVIDIA-N1x-1920x1048.jpg",
-          "published_at": "2026-05-31T16:49:00Z",
-          "key_points": [
-            "N1x scores disappointing",
-            "Fails to match M3 Max",
-            "Details to be revealed at Computex"
-          ],
-          "impact": "NVIDIA faces challenges in competing with Apple’s chip performance.",
-          "id": "996ff18adcb73751244c2091ece54d28"
-        },
-        {
-          "title": "California Assembly Passes 'Stop Killing Games' Bill",
-          "description": "California's Assembly passed Bill AB 1921, enhancing protections for games taken offline. This is a significant victory for the Stop Killing Games movement.",
-          "category": "Policy",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/stop-killing-games-bill-passes-california-assembly-scott-ross-2000700893",
-          "image": "https://kotaku.com/app/uploads/2026/05/Compare_TCM_Standard_Edition.jpg",
-          "published_at": "2026-05-31T15:03:07Z",
-          "key_points": [
-            "Bill enhances game preservation",
-            "Major win for gamers",
-            "Moves to legislature for approval"
-          ],
-          "impact": "This legislation could reshape game preservation efforts in the U.S.",
-          "id": "d418cf0ba525707c3fc5d10d9b69caea"
-        },
-        {
-          "title": "Minecraft Live Unveils Exciting New Features",
-          "description": "Mojang's Minecraft Live event revealed new content including Minecraft Dungeons II and a new biome. Fans are excited about the upcoming updates.",
-          "category": "Gaming",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/05/round-up-minecraft-live-may-2026-chaos-cubed-drop-new-biome-minecraft-dungeons-ii-and-more",
-          "image": "https://images.nintendolife.com/122776afd3198/large.jpg",
-          "published_at": "2026-05-31T13:00:00Z",
-          "key_points": [
-            "New biome announced",
-            "Minecraft Dungeons II revealed",
-            "Exciting updates for fans"
-          ],
-          "impact": "These updates promise to enhance the Minecraft experience.",
-          "id": "5afd6b8d3ba67b2fcd00b489182b8eb4"
-        },
-        {
-          "title": "April 2026's Best-Selling Games Revealed",
-          "description": "Tomodachi Life: Living the Dream topped the U.S. sales charts in April 2026, marking a successful debut for the social sim game. Other titles also performed well.",
-          "category": "Gaming",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/tomodachi-life-best-seller-april-2026",
-          "image": "https://assetsio.gnwcdn.com/Tomodachi-Life-Living-the-Dream---Island-Layouts-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-05-31T11:17:20Z",
-          "key_points": [
-            "Tomodachi Life tops sales",
-            "Strong debut performance",
-            "April 2026 sales data released"
-          ],
-          "impact": "This highlights the popularity of social simulation games.",
-          "id": "3ab91b25b7b96995537b105e8b5d2608"
         }
       ]
     }
