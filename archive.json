@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-07T03:46:44.290989+00:00",
+      "fetched_at": "2026-06-07T03:46:44.290989+00:00",
+      "label": "Jun 07, 2026 — 03:47 AM UTC",
+      "articles": [
+        {
+          "title": "Monster Hunter Wilds Confirmed for Switch 2",
+          "description": "Monster Hunter Wilds is officially coming to Nintendo Switch 2, following heavy speculation. A release date will be announced later.",
+          "category": "Gaming",
+          "source": "Nintendoeverything.com",
+          "url": "https://nintendoeverything.com/monster-hunter-wilds-confirmed-for-nintendo-switch-2/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Monster-Hunter-Wilds-Switch-2-1-scaled.jpg",
+          "published_at": "2026-06-06T02:46:49Z",
+          "key_points": [
+            "Confirmed for Nintendo Switch 2",
+            "Release date TBA",
+            "Fans excited for new content"
+          ],
+          "impact": "This title boosts the Switch 2's game library.",
+          "id": "c6fba487c94153c2e9114812fa540672"
+        },
+        {
+          "title": "Summer Game Fest 2026 Showcase Highlights",
+          "description": "The Summer Game Fest 2026 showcased numerous game announcements, including Resident Evil Veronica and Final Fantasy VII Revelation. Fans are buzzing with excitement.",
+          "category": "Gaming",
+          "source": "Gameinformer.com",
+          "url": "https://gameinformer.com/sgf-2026/2026/06/05/heres-everything-announced-during-the-summer-game-fest-2026-showcase",
+          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/05/01a68981/ff01.jpg.webp",
+          "published_at": "2026-06-06T02:26:15Z",
+          "key_points": [
+            "Packed with game reveals",
+            "Major titles announced",
+            "Fans eagerly await releases"
+          ],
+          "impact": "This event sets the stage for upcoming releases.",
+          "id": "949bc02090c37f1cc5ec0246377a770c"
+        },
+        {
+          "title": "HITMAN Classic Trilogy Remastered Coming 2027",
+          "description": "Saber Interactive and IOI are remastering the HITMAN Classic Trilogy with enhanced visuals and new features. The release is set for 2027.",
+          "category": "Gaming",
+          "source": "Xbox.com",
+          "url": "https://news.xbox.com/en-us/2026/06/05/hitman-classic-trilogy-remastered-sgf-announce/",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/keyart-4f3b95b6f4a9cc6f7be1.jpg",
+          "published_at": "2026-06-06T01:01:22Z",
+          "key_points": [
+            "Enhanced visuals and performance",
+            "New features included",
+            "Release set for 2027"
+          ],
+          "impact": "This remaster revitalizes a classic franchise.",
+          "id": "df22f5a7c553fdbf1be87fead8a3eff9"
+        },
+        {
+          "title": "Capcom's Major Reveals at Summer Game Fest 2026",
+          "description": "Capcom unveiled several major titles, including Resident Evil Veronica and Monster Hunter Wilds: Ascendance, during the Summer Game Fest 2026.",
+          "category": "Gaming",
+          "source": "Gamespress.com",
+          "url": "https://www.gamespress.com/Capcom-Shines-Bright-With-Massive-Reveals-at-Summer-Game-Fest-2026",
+          "image": "https://imguscdn.gamespress.com/cdn/files/CapcomUS/2025/04/021523-0cc2a24c/SF6_Screenshot_World_Tour_040225.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=4fe15d8d83ab82dddbe9d6e5447f34ba1274726ef5f6b6cc6df6e643a16ddbf4",
+          "published_at": "2026-06-06T00:09:08Z",
+          "key_points": [
+            "Resident Evil Veronica announced",
+            "New Monster Hunter title",
+            "Capcom's lineup impresses fans"
+          ],
+          "impact": "Capcom strengthens its position in gaming.",
+          "id": "1ef802bdc7362093d076dfa2facb0141"
+        },
+        {
+          "title": "Stellar Blade Blood Rain Debuts at Summer Game Fest",
+          "description": "Shift Up announced Stellar Blade 2, titled Stellar Blade Blood Rain, with a debut trailer at Summer Game Fest 2026. Fans are excited for the sequel.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/stellar-blade-bloodrain-revealed-with-debut-trailer",
+          "image": "https://assets-prd.ignimgs.com/2026/06/05/hkfaoorwgaar2-r-1780699607211.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-05T23:20:38Z",
+          "key_points": [
+            "Sequel to Stellar Blade",
+            "Debut trailer released",
+            "Fans eagerly anticipate gameplay"
+          ],
+          "impact": "This sequel builds on a successful franchise.",
+          "id": "9f76662d8f582b5af145df9f0e79bd37"
+        },
+        {
+          "title": "GTA VI Crowds Upcoming Release Calendar",
+          "description": "The release of Grand Theft Auto VI in November is causing a crowded schedule for upcoming games. Developers are adjusting their timelines accordingly.",
+          "category": "Gaming",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Lucia_Caminos_02.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+          "published_at": "2026-06-05T23:05:27Z",
+          "key_points": [
+            "GTA VI launches in November",
+            "Release schedule crowded",
+            "Developers adjusting timelines"
+          ],
+          "impact": "GTA VI's launch reshapes the gaming landscape.",
+          "id": "7dff4676a8137b09e7a722aeded23a8a"
+        },
+        {
+          "title": "Final Fantasy VII: Revelation Trailer Released",
+          "description": "Final Fantasy VII: Revelation, the final installment of the remake trilogy, has been announced for Spring 2027. The first trailer is now available.",
+          "category": "Gaming",
+          "source": "Variety",
+          "url": "https://variety.com/2026/gaming/news/final-fantasy-7-revelation-trailer-release-matthew-mercer-1236768349/",
+          "image": "https://variety.com/wp-content/uploads/2026/06/Final-Fantasy-7-Revelation.png?w=1000&h=563&crop=1",
+          "published_at": "2026-06-05T23:01:00Z",
+          "key_points": [
+            "Final remake trilogy installment",
+            "Spring 2027 release",
+            "Trailer showcases new features"
+          ],
+          "impact": "This conclusion excites long-time fans.",
+          "id": "146335a1732a6c428755773fa2b1e687"
+        },
+        {
+          "title": "Street Fighter 6 Year 4 DLC Characters Announced",
+          "description": "Capcom revealed new DLC characters for Street Fighter 6, including Yasmine, Arjun, Tifa, and Bosch. Fans are eager for the new content.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/street-fighter-6-year-4-dlc-characters-yasmine-arjun-tifa-and-bosch-announced",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Street-Fighter-6_2026_06-05-26_001.jpg",
+          "published_at": "2026-06-05T22:45:18Z",
+          "key_points": [
+            "New characters for Street Fighter 6",
+            "Includes Tifa from Final Fantasy",
+            "Fans excited for DLC"
+          ],
+          "impact": "This DLC expands the game's roster.",
+          "id": "94ab11d5a2214311466c7e5ecd3a04f8"
+        },
+        {
+          "title": "The Wolf Among Us Remastered Announced",
+          "description": "Telltale Games announced The Wolf Among Us Remastered for multiple platforms, including PS5 and Xbox Series. Fans can expect a refined experience.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/the-wolf-among-us-remastered-announced-for-ps5-xbox-series-switch-2-xbox-one-switch-and-pc",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/TWAUR-Ann_06-05-26.jpg",
+          "published_at": "2026-06-05T22:40:53Z",
+          "key_points": [
+            "Remastered for modern consoles",
+            "Launch on multiple platforms",
+            "Fans anticipate enhanced graphics"
+          ],
+          "impact": "This remaster revives a beloved title.",
+          "id": "49ffce0cf6272418beb6e9a111047a1a"
+        },
+        {
+          "title": "1666: Amsterdam Revealed by Patrice Désilets",
+          "description": "Patrice Désilets unveiled his new game, 1666: Amsterdam, during Summer Game Fest 2026. The project has been in development for 16 years.",
+          "category": "Gaming",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/1666-amsterdam-trailer-prologue-demo/",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/1666-amsterdam-demo-trailer.jpg?w=1600&h=900&fit=crop",
+          "published_at": "2026-06-05T22:19:10Z",
+          "key_points": [
+            "New game from Assassin's Creed creator",
+            "16 years in development",
+            "Dark fantasy theme revealed"
+          ],
+          "impact": "This project showcases long-term dedication.",
+          "id": "eada5b5a54e7b6064a492e3fdbcdcb49"
+        },
+        {
+          "title": "Guild Wars 3 Announced for PC and PS5",
+          "description": "ArenaNet announced Guild Wars 3 at Summer Game Fest, promising a modern evolution of the MMORPG. Fans are eager for more details.",
+          "category": "Gaming",
+          "source": "PRNewswire",
+          "url": "https://www.prnewswire.com/news-releases/guild-wars-3-modern-evolution-of-the-mmorpg-announced-at-summer-game-fest-for-pc-and-playstation-5-302793119.html",
+          "image": "https://mmx.prnewswire.com/media/MS1856105/Guild_Wars_3_Key_Art.jpg?id=OA2669571&p=facebook",
+          "published_at": "2026-06-05T21:56:00Z",
+          "key_points": [
+            "Modern MMORPG evolution",
+            "Announced for PC and PS5",
+            "Fans excited for new features"
+          ],
+          "impact": "This announcement revitalizes the franchise.",
+          "id": "3fa7c91cf24fb37e22a6b8da4ad2ebf4"
+        },
+        {
+          "title": "Virtua Fighter Crossroads Set for 2027 Release",
+          "description": "SEGA announced Virtua Fighter Crossroads, previously known as Virtua Fighter New Project, set to launch in 2027. Fans are looking forward to new gameplay.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/virtua-fighter-crossroads-announced",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Virtua-Fighter-Crossroads_2026_06-05-26_031.jpg",
+          "published_at": "2026-06-05T21:55:02Z",
+          "key_points": [
+            "New Virtua Fighter title announced",
+            "Launch set for 2027",
+            "Fans anticipate fresh gameplay"
+          ],
+          "impact": "This title reinvigorates the classic series.",
+          "id": "9d1e55fa58499e25007dbe9121b14dd2"
+        },
+        {
+          "title": "Control Resonant Explores Trauma and Redemption",
+          "description": "Control Resonant combines supernatural elements with fast-paced melee combat, offering a new experience for fans of the genre. Remedy Entertainment pushes boundaries.",
+          "category": "Gaming",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/control-resonant-deals-with-trauma-and-redemption/",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/ofmz2jv7zkw_2e5a4c.jpg",
+          "published_at": "2026-06-05T21:45:34Z",
+          "key_points": [
+            "New gameplay footage released",
+            "Focus on trauma and redemption",
+            "Remedy explores new territory"
+          ],
+          "impact": "This game expands the narrative possibilities.",
+          "id": "a078c29e756dd468dc8c4bf44e0b1882"
+        },
+        {
+          "title": "Crossfire: A Unique PS5 Shooter Experience",
+          "description": "Crossfire, a new PS5 shooter from ex-Naughty Dog developers, aims to redefine military shooters with a unique approach. Players can expect a fresh take.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/crossfire-is-a-single-player-ps5-shooter-with-soul-from-ex-naughty-dog-devs",
+          "image": "https://images.pushsquare.com/8da22cba4f9e3/large.jpg",
+          "published_at": "2026-06-05T21:34:00Z",
+          "key_points": [
+            "Unique military shooter concept",
+            "Developed by ex-Naughty Dog team",
+            "Fresh take on the genre"
+          ],
+          "impact": "This game could redefine shooter expectations.",
+          "id": "c830345d5facb58157a8d3e5a2a6162f"
+        },
+        {
+          "title": "Mighty Cuphead Adventure Announced",
+          "description": "Studio MDHR revealed Mighty Cuphead Adventure, a new 8-bit action platformer. Fans are excited for this fresh take on the Cuphead franchise.",
+          "category": "Gaming",
+          "source": "Nintendoeverything.com",
+          "url": "https://nintendoeverything.com/mighty-cuphead-adventure-announced-new-cuphead-game-on-the-way/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Mighty-Cuphead-Adventure.png",
+          "published_at": "2026-06-05T21:20:33Z",
+          "key_points": [
+            "New Cuphead game announced",
+            "8-bit action platformer",
+            "Fans eager for gameplay details"
+          ],
+          "impact": "This title expands the Cuphead universe.",
+          "id": "5ce220337601f92be380870a0aa010ac"
+        }
+      ]
+    },
+    {
       "id": "2026-06-06T22:02:21.961171+00:00",
       "fetched_at": "2026-06-06T22:02:21.961171+00:00",
       "label": "Jun 06, 2026 — 10:02 PM UTC",
@@ -6232,189 +6479,6 @@
           ],
           "impact": "Anticipation builds for Samsung's latest foldable.",
           "id": "985ab9d49ef5ef25b59897bbaee39d98"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-01T23:04:28.195145+00:00",
-      "fetched_at": "2026-06-01T23:04:28.195145+00:00",
-      "label": "Jun 01, 2026 — 11:04 PM UTC",
-      "articles": [
-        {
-          "title": "Pixel Watch 5 Found in Ocean?",
-          "description": "A Pixel Watch 5 prototype was reportedly discovered in the ocean, raising questions about device leaks. This incident highlights ongoing issues with prototype security.",
-          "category": "Hardware",
-          "source": "9to5google.com",
-          "url": "http://9to5google.com/2026/05/31/someone-allegedly-found-a-pixel-watch-5-in-the-ocean/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/pixel-watch-4-45mm-35.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-05-31T20:35:00Z",
-          "key_points": [
-            "Prototype leaks continue",
-            "Security concerns rise",
-            "Device found in ocean"
-          ],
-          "impact": "This incident raises concerns about prototype security.",
-          "id": "24ea9fcdb6a2fa7cf570ce5aa2fb6503"
-        },
-        {
-          "title": "Wil Overton Reimagines Super Play Cover",
-          "description": "Artist Wil Overton has reimagined the cover of Super Play's debut issue, reflecting on its nostalgic impact. This creative endeavor celebrates the magazine's legacy in gaming culture.",
-          "category": "Gaming",
-          "source": "Timeextension.com",
-          "url": "https://www.timeextension.com/news/2026/05/thought-id-give-it-another-go-super-play-artist-wil-overton-reimagines-the-debut-issues-cover",
-          "image": "https://images.timeextension.com/fdc80d14a6320/large.jpg",
-          "published_at": "2026-05-31T19:05:00Z",
-          "key_points": [
-            "Nostalgic magazine cover",
-            "Artist's creative vision",
-            "Celebrating gaming history"
-          ],
-          "impact": "Overton's work revives interest in gaming nostalgia.",
-          "id": "6586ef4c8297f97366ac08f49d360681"
-        },
-        {
-          "title": "2026's Indie Games Becoming Cult Classics",
-          "description": "Several indie games from 2026 are gaining cult status, showcasing unique gameplay and storytelling. These titles are quietly capturing the hearts of gamers worldwide.",
-          "category": "Gaming",
-          "source": "DualShockers",
-          "url": "https://www.dualshockers.com/indie-games-from-2026-quietly-becoming-cult-classics/",
-          "image": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/wm/2026/05/img_5348.jpeg?w=1600&h=900&fit=crop",
-          "published_at": "2026-05-31T17:30:14Z",
-          "key_points": [
-            "Indie games gaining popularity",
-            "Unique gameplay experiences",
-            "Cult classic status emerging"
-          ],
-          "impact": "These games are redefining indie success.",
-          "id": "ac91414e64d59688e2e9bfc6d37d42a8"
-        },
-        {
-          "title": "New ASUS ROG Xbox Ally Handheld Leaked",
-          "description": "A potential new ASUS ROG Xbox Ally gaming handheld has surfaced through licensing documents. Details remain scarce ahead of Computex 2026.",
-          "category": "Hardware",
-          "source": "Techpowerup.com",
-          "url": "https://www.techpowerup.com/349548/leak-tips-potential-new-asus-rog-xbox-ally-gaming-handheld",
-          "image": "https://www.techpowerup.com/img/pV8fKQJVlLDeVSID.jpg",
-          "published_at": "2026-05-31T17:10:19Z",
-          "key_points": [
-            "New handheld gaming device",
-            "Details from licensing docs",
-            "Expected at Computex 2026"
-          ],
-          "impact": "This could enhance ASUS's gaming lineup.",
-          "id": "fe6328c5e1ae75b0e3afdd788b036cfa"
-        },
-        {
-          "title": "MSI Claw 8 EX Handheld Launching Soon",
-          "description": "MSI's Claw 8 EX handheld featuring Arc G3 will launch at $1500 on June 23. The device has been showcased with real photos and specifications.",
-          "category": "Hardware",
-          "source": "Videocardz.com",
-          "url": "https://videocardz.com/newz/msi-provides-first-look-at-arc-g3-handheld-pcb-design",
-          "image": "https://cdn.videocardz.com/1/2026/05/MSI-CLAW-EX-PCB-ARC-G3-HERO.jpg",
-          "published_at": "2026-05-31T14:41:07Z",
-          "key_points": [
-            "Launch date set for June 23",
-            "Price at $1500",
-            "Features Arc G3 technology"
-          ],
-          "impact": "MSI aims to compete in handheld market.",
-          "id": "3637ade393c036d23f44ea93dad826dc"
-        },
-        {
-          "title": "Can Solar Sails Enable Interstellar Travel?",
-          "description": "Experts discuss the feasibility of solar sails for human interstellar travel, suggesting it's not just a futuristic concept. The technology could revolutionize space exploration.",
-          "category": "Science",
-          "source": "Space.com",
-          "url": "https://www.space.com/astronomy/can-solar-sails-really-send-humans-out-into-interstellar-space",
-          "image": "https://cdn.mos.cms.futurecdn.net/wA5VBrr9dEJoQEnw6gLZEk-1600-80.png",
-          "published_at": "2026-05-31T10:00:00Z",
-          "key_points": [
-            "Solar sails for space travel",
-            "Feasibility discussed",
-            "Revolutionary exploration technology"
-          ],
-          "impact": "Solar sails could change interstellar travel.",
-          "id": "d936b71318d94167bf980833124307de"
-        },
-        {
-          "title": "DuckDuckGo Sees 18% Install Surge",
-          "description": "DuckDuckGo app installs surged 18% after Google's AI search changes, with a 70% spike on Apple devices. The search engine's traffic also increased significantly.",
-          "category": "Software",
-          "source": "The Next Web",
-          "url": "https://thenextweb.com/news/duckduckgo-user-surge-google-ai-search-overhaul/",
-          "image": "https://media.thenextweb.com/2026/05/duckduckgo-user-surge-google-ai-search-overhaul.avif",
-          "published_at": "2026-05-31T09:56:00Z",
-          "key_points": [
-            "18% install increase",
-            "70% spike on Apple",
-            "Search traffic rose 23%"
-          ],
-          "impact": "DuckDuckGo benefits from Google's changes.",
-          "id": "50e3d778e0dc67ebb4215593d8b2cad6"
-        },
-        {
-          "title": "California Passes Game Preservation Bill",
-          "description": "California's Assembly passed the Protect Our Games Act, aimed at enhancing consumer rights in gaming. This bill supports the Stop Killing Games movement.",
-          "category": "Policy",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/stop-killing-games-passes-floor-vote-california",
-          "image": "https://assetsio.gnwcdn.com/Screenshot-2025-07-19-at-16.31.10.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-05-31T07:25:00Z",
-          "key_points": [
-            "Consumer rights enhanced",
-            "Protect Our Games Act",
-            "Supports game preservation"
-          ],
-          "impact": "This bill strengthens gaming consumer protections.",
-          "id": "2133dc0331f1bd465a8a300eedae70dc"
-        },
-        {
-          "title": "Switch 2 Backwards Compatibility Updates",
-          "description": "More Switch games have received backwards compatibility fixes for the Switch 2. This update enhances the gaming experience for existing titles.",
-          "category": "Gaming",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/05/more-switch-games-receive-switch-2-backwards-compatibility-fixes",
-          "image": "https://images.nintendolife.com/9acbe59568e22/large.jpg",
-          "published_at": "2026-05-31T04:30:00Z",
-          "key_points": [
-            "More games updated",
-            "Backwards compatibility fixes",
-            "Enhancing gaming experience"
-          ],
-          "impact": "Switch 2 compatibility improves user satisfaction.",
-          "id": "7eda70cea15a38e2abdb8310ca9bca70"
-        },
-        {
-          "title": "Windows 11 Insider Features to Explore",
-          "description": "Windows 11 is introducing nine new features in Insider builds, enhancing user experience ahead of the next major update. These changes are already available for testing.",
-          "category": "Software",
-          "source": "PCMag",
-          "url": "https://www.pcmag.com/explainers/the-future-of-windows-11-is-already-here-9-insider-features-you-need-to",
-          "image": "https://i.pcmag.com/imagery/articles/07ANjEsfhiNzN2jFeh2oTUH-1.fit_lim.size_1200x630.v1780064715.png",
-          "published_at": "2026-05-30T23:29:09Z",
-          "key_points": [
-            "Nine new features revealed",
-            "Available in Insider builds",
-            "Enhancing user experience"
-          ],
-          "impact": "These features set the stage for future updates.",
-          "id": "1c2f13afdce8aed87f15d8457e483e80"
-        },
-        {
-          "title": "iPhone Lock Screen Battery Icon Explained",
-          "description": "The line below the iPhone battery icon indicates Control Center access on the lock screen. Users can disable it for a cleaner aesthetic.",
-          "category": "Software",
-          "source": "SlashGear",
-          "url": "https://www.slashgear.com/2182979/line-below-battery-icon-on-your-iphone-lock-screen-what-for/",
-          "image": "https://www.slashgear.com/img/gallery/whats-the-line-below-the-battery-icon-on-your-iphone-lock-screen-for/l-intro-1779985219.jpg",
-          "published_at": "2026-05-30T22:15:00Z",
-          "key_points": [
-            "Control Center indicator",
-            "Can be disabled",
-            "Affects lock screen aesthetics"
-          ],
-          "impact": "Understanding this feature enhances user experience.",
-          "id": "e25cfccab4e23444c17693dc3c24c20f"
         }
       ]
     }
