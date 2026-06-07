@@ -1,151 +1,103 @@
 {
   "date": "2026-06-07",
-  "generated_at": "2026-06-07T11:08:16.509032+00:00",
+  "generated_at": "2026-06-07T13:49:59.049290+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "The Wolf Among Us Returns on Switch",
-      "description": "The Wolf Among Us Remastered and The Wolf Among Us 2 are coming to Nintendo Switch 2 and Switch. Launches are set for this holiday and 2027 respectively.",
+      "title": "Assassin's Creed Co-Creator Re-Reveals 1666 Amsterdam, 30-Minute Demo Playable Now",
+      "description": "1666 Amsterdam, a historical action adventure, is back with a 30-minute demo at Summer Game Fest, revealed by co-creator Patrice Désilets.",
       "category": "Gaming",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/the-wolf-among-us-remastered-the-wolf-among-us-2-announced-for-nintendo-switch-2-and-switch/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Wolf-Among-Us-2.jpg",
-      "published_at": "2026-06-06T02:32:47Z",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/assassins-creed-co-creator-re-reveals-1666-amsterdam-30-minute-demo-playable-now",
+      "image": "https://assets-prd.ignimgs.com/2026/06/05/hkfqknlwaaafark-1780697087378.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-05T22:40:26Z",
       "key_points": [
-        "Remastered version announced",
-        "Sequel set for 2027",
-        "Holiday release planned"
+        "Demo available now",
+        "Created by Patrice Désilets",
+        "Historical action adventure"
       ],
-      "impact": "This revives interest in Telltale's classic.",
-      "id": "a8e7b7b33326bc50619356d41de82fab"
+      "impact": "1666 Amsterdam's return excites fans of the genre.",
+      "id": "ced01a6d13b7539f946e06d155cae14d"
     },
     {
-      "title": "007 First Light Hits 2.7 Million Sales",
-      "description": "IO Interactive's 007 First Light sold 2.7 million copies in its first week. The studio plans to release free Year One content for players.",
+      "title": "RuneScape: Dragonwilds Leaves Early Access and Launches Across PC, PS5, and Xbox Series X and S in September",
+      "description": "RuneScape: Dragonwilds officially launches on September 15, 2026, across PC, PS5, and Xbox Series X and S, adding to a busy gaming month.",
       "category": "Gaming",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/io-interactives-james-bond-game-007-first-light-sells-27-million-copies-in-its-first-week-as-dev-reiterates-free-year-one-content",
-      "image": "https://assetsio.gnwcdn.com/007_371QA3p.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-06T00:31:20Z",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/even-the-runescape-spinoff-is-coming-out-in-september",
+      "image": "https://assets-prd.ignimgs.com/2026/06/05/rsdw-dr-ss-03-4k-1780658722879.png?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-05T22:01:36Z",
       "key_points": [
-        "Strong initial sales reported",
-        "Free content planned",
-        "Developer optimistic about future"
+        "Launch on September 15",
+        "Available on multiple platforms",
+        "Part of September gaming rush"
       ],
-      "impact": "This sets a strong precedent for future titles.",
-      "id": "72e47fbbb890add85013ca74aecd9522"
+      "impact": "Dragonwilds adds to September's gaming excitement.",
+      "id": "4cf1f8b9ccd5aaaea01810c7c062f793"
     },
     {
-      "title": "Cuphead Developers Announce 8-Bit Spin-Off",
-      "description": "Studio MDHR revealed a new 8-bit spin-off for the Sega Master System during Summer Game Fest 2026. It will also be available on modern consoles and PC.",
+      "title": "Control Resonant Preview - Hands-On With Remedy’s Surreal Take On Stylish Action",
+      "description": "Control Resonant offers a fresh melee-focused action experience, diverging from its predecessor's shooter mechanics, as previewed by Game Informer.",
       "category": "Gaming",
-      "source": "Timeextension.com",
-      "url": "https://www.timeextension.com/news/2026/06/surprise-the-developers-behind-cuphead-just-announced-a-new-8-bit-spin-off-for-the-sega-master-system",
-      "image": "https://images.timeextension.com/6471e95492fb5/large.jpg",
-      "published_at": "2026-06-05T22:45:00Z",
+      "source": "Game Informer",
+      "url": "https://gameinformer.com/preview/2026/06/05/hands-on-with-remedys-surreal-take-on-stylish-action",
+      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/04/98c140c2/control-resonant-sgf-2026-4.jpg.webp",
+      "published_at": "2026-06-05T21:58:59Z",
       "key_points": [
-        "New spin-off announced",
-        "Available on Sega Master System",
-        "Modern consoles included"
+        "Melee-focused gameplay",
+        "Surreal action experience",
+        "Sequel to Control franchise"
       ],
-      "impact": "This expands Cuphead's franchise reach.",
-      "id": "a3d98704e749142fb3708e1ed30541b4"
+      "impact": "Control Resonant reinvents the franchise's gameplay.",
+      "id": "28a946bc96473f4ea849d3eb7cecd788"
     },
     {
-      "title": "WWDC 2026: What to Expect",
-      "description": "Apple's WWDC 2026 is approaching, showcasing Gemini-powered Siri, iOS 27, and macOS 27. Expect significant AI advancements and new features.",
-      "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/guide/wwdc-2026-what-to-expect/",
-      "image": "https://images.macrumors.com/t/8adqwLQVG7sZXO7ucrVfh2e3ZeA=/2500x/article-new/2026/06/WWDC26-What-to-Expect-Thumb.jpg",
-      "published_at": "2026-06-05T21:15:47Z",
-      "key_points": [
-        "Gemini-powered Siri debut",
-        "New iOS and macOS versions",
-        "Focus on AI advancements"
-      ],
-      "impact": "This could redefine Apple's software ecosystem.",
-      "id": "d3153b14991f8ff948fa363db3d9f570"
-    },
-    {
-      "title": "Elden Ring Shows Off Switch 2 Performance",
-      "description": "New footage of Elden Ring: Tarnished Edition suggests impressive performance on Switch 2. Fans are excited about the upcoming release.",
+      "title": "Nintendo Switch 2: One Year Later",
+      "description": "Celebrating one year since its release, the Nintendo Switch 2 features enhanced hardware, a larger screen, and new Joy-Con controllers, improving the gaming experience.",
       "category": "Gaming",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/06/new-elden-ring-footage-seemingly-showcases-switch-2-performance-and-it-looks-good",
-      "image": "https://images.nintendolife.com/0c04fbe0bba7c/large.jpg",
-      "published_at": "2026-06-05T15:45:00Z",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/nintendo-switch-2-one-year-later/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/06/switch-2-tour.webp",
+      "published_at": "2026-06-05T14:43:26Z",
       "key_points": [
-        "New footage released",
-        "Switch 2 performance looks promising",
-        "Fans eagerly await launch"
+        "One year since launch",
+        "Improved hardware features",
+        "New Joy-Con controllers"
       ],
-      "impact": "This boosts anticipation for the game.",
-      "id": "30d529a93ae7636560deed7070c3f702"
+      "impact": "Switch 2 continues to enhance gaming experiences.",
+      "id": "3666b4d1c07fb64a9c3e03cd842702d5"
     },
     {
-      "title": "Xbox's New Strategy Under Asha Sharma",
-      "description": "Xbox CEO Asha Sharma aims to reset Xbox's strategy, focusing on exclusivity and addressing AI challenges. The goal is to lead in gaming and entertainment.",
+      "title": "Leak Reveals Microsoft Wants Its AI To Be ‘Addictive,’ CEO Satya Nadella Feigns Astonishment",
+      "description": "Microsoft's new AI assistant, Scout, reportedly aims for addictiveness, as revealed in a leaked internal document, surprising even CEO Satya Nadella.",
+      "category": "Business",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924",
+      "image": "https://kotaku.com/app/uploads/2026/06/scout2-1200x675.jpeg",
+      "published_at": "2026-06-05T13:08:43Z",
+      "key_points": [
+        "AI assistant named Scout",
+        "Leaked document reveals strategy",
+        "Nadella's reaction questioned"
+      ],
+      "impact": "Microsoft's AI strategy raises ethical concerns.",
+      "id": "61b07d25fa94a6886f3479b172e5c45d"
+    },
+    {
+      "title": "Elden Ring Tarnished Edition launches August 28",
+      "description": "Elden Ring's Tarnished Edition is set to launch for Switch 2 on August 28, alongside new downloadable content, enhancing the game's offerings.",
       "category": "Gaming",
-      "source": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/asha-sharma-commits-to-resetting-xbox-prioritising-exclusivity-and-addressing-ai-in-new-strategy",
-      "image": "https://assetsio.gnwcdn.com/asha-sharma_4HxizVf.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-05T13:13:54Z",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/elden-ring-tarnished-edition-launches-august-28",
+      "image": "https://www.gematsu.com/wp-content/uploads/2025/09/Elden-Ring-Switch-2_06-04-26.jpg",
+      "published_at": "2026-06-04T14:04:49Z",
       "key_points": [
-        "Focus on exclusivity",
-        "Addressing AI challenges",
-        "Resetting Xbox strategy"
+        "Launch on August 28",
+        "Available for Switch 2",
+        "Includes new downloadable content"
       ],
-      "impact": "This could reshape Xbox's market position.",
-      "id": "17c6079869a4ceed6acba4b4a89d31f5"
-    },
-    {
-      "title": "Google's New Gemini Feature Accidentally Enabled",
-      "description": "Google unintentionally activated a new Gemini feature, showing up in the model picker. Users report it offers useful troubleshooting steps.",
-      "category": "Software",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/gemini-troubleshooting-mode-3674910/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Gemini-Neural-Expressive-7-scaled.jpg",
-      "published_at": "2026-06-05T09:46:42Z",
-      "key_points": [
-        "New feature accidentally enabled",
-        "Appears in model picker",
-        "Offers troubleshooting assistance"
-      ],
-      "impact": "This enhances user experience with Gemini.",
-      "id": "5988339e324606f2956a60233c4feb83"
-    },
-    {
-      "title": "Ranking Nvidia RTX Spark Laptops",
-      "description": "A comprehensive tier list of Nvidia RTX Spark laptops coming this fall has been compiled. The rankings highlight the best options available.",
-      "category": "Hardware",
-      "source": "Tom's Guide",
-      "url": "https://www.tomsguide.com/computing/laptops/ive-gone-hands-on-with-every-nvidia-rtx-spark-laptop-coming-this-fall-heres-my-ranked-list-of-the-best-options",
-      "image": "https://cdn.mos.cms.futurecdn.net/qaK2LNXYk9Ue4n3xcRv2cP-2560-80.jpg",
-      "published_at": "2026-06-05T05:29:58Z",
-      "key_points": [
-        "Comprehensive laptop rankings",
-        "Focus on RTX Spark systems",
-        "Best options highlighted"
-      ],
-      "impact": "This guides consumers in their purchases.",
-      "id": "9e1ac38df1d256eafc61a99e3ab00b6c"
-    },
-    {
-      "title": "Amazon's Future Plans for James Bond Games",
-      "description": "Amazon confirms that James Bond will return in future video games. Clarifications were made regarding IO Interactive's involvement.",
-      "category": "Gaming",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/06/amazon-shares-statement-about-the-future-of-james-bond-video-games",
-      "image": "https://images.nintendolife.com/3dc58bfd1d233/large.jpg",
-      "published_at": "2026-06-05T02:55:00Z",
-      "key_points": [
-        "James Bond games confirmed",
-        "Clarifications on IO Interactive",
-        "Future titles in development"
-      ],
-      "impact": "This reassures fans about the franchise's future.",
-      "id": "0376ac8781ed89af046172bef2d37333"
+      "impact": "Elden Ring expands its universe with new content.",
+      "id": "7288e7c537a2fdc49b9f8d025f394563"
     }
   ]
 }

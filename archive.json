@@ -1,6 +1,109 @@
 {
   "batches": [
     {
+      "id": "2026-06-07T13:49:59.049290+00:00",
+      "fetched_at": "2026-06-07T13:49:59.049290+00:00",
+      "label": "Jun 07, 2026 — 01:50 PM UTC",
+      "articles": [
+        {
+          "title": "Assassin's Creed Co-Creator Re-Reveals 1666 Amsterdam, 30-Minute Demo Playable Now",
+          "description": "1666 Amsterdam, a historical action adventure, is back with a 30-minute demo at Summer Game Fest, revealed by co-creator Patrice Désilets.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/assassins-creed-co-creator-re-reveals-1666-amsterdam-30-minute-demo-playable-now",
+          "image": "https://assets-prd.ignimgs.com/2026/06/05/hkfqknlwaaafark-1780697087378.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-05T22:40:26Z",
+          "key_points": [
+            "Demo available now",
+            "Created by Patrice Désilets",
+            "Historical action adventure"
+          ],
+          "impact": "1666 Amsterdam's return excites fans of the genre.",
+          "id": "ced01a6d13b7539f946e06d155cae14d"
+        },
+        {
+          "title": "RuneScape: Dragonwilds Leaves Early Access and Launches Across PC, PS5, and Xbox Series X and S in September",
+          "description": "RuneScape: Dragonwilds officially launches on September 15, 2026, across PC, PS5, and Xbox Series X and S, adding to a busy gaming month.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/even-the-runescape-spinoff-is-coming-out-in-september",
+          "image": "https://assets-prd.ignimgs.com/2026/06/05/rsdw-dr-ss-03-4k-1780658722879.png?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-05T22:01:36Z",
+          "key_points": [
+            "Launch on September 15",
+            "Available on multiple platforms",
+            "Part of September gaming rush"
+          ],
+          "impact": "Dragonwilds adds to September's gaming excitement.",
+          "id": "4cf1f8b9ccd5aaaea01810c7c062f793"
+        },
+        {
+          "title": "Control Resonant Preview - Hands-On With Remedy’s Surreal Take On Stylish Action",
+          "description": "Control Resonant offers a fresh melee-focused action experience, diverging from its predecessor's shooter mechanics, as previewed by Game Informer.",
+          "category": "Gaming",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/preview/2026/06/05/hands-on-with-remedys-surreal-take-on-stylish-action",
+          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/04/98c140c2/control-resonant-sgf-2026-4.jpg.webp",
+          "published_at": "2026-06-05T21:58:59Z",
+          "key_points": [
+            "Melee-focused gameplay",
+            "Surreal action experience",
+            "Sequel to Control franchise"
+          ],
+          "impact": "Control Resonant reinvents the franchise's gameplay.",
+          "id": "28a946bc96473f4ea849d3eb7cecd788"
+        },
+        {
+          "title": "Nintendo Switch 2: One Year Later",
+          "description": "Celebrating one year since its release, the Nintendo Switch 2 features enhanced hardware, a larger screen, and new Joy-Con controllers, improving the gaming experience.",
+          "category": "Gaming",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/nintendo-switch-2-one-year-later/",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/switch-2-tour.webp",
+          "published_at": "2026-06-05T14:43:26Z",
+          "key_points": [
+            "One year since launch",
+            "Improved hardware features",
+            "New Joy-Con controllers"
+          ],
+          "impact": "Switch 2 continues to enhance gaming experiences.",
+          "id": "3666b4d1c07fb64a9c3e03cd842702d5"
+        },
+        {
+          "title": "Leak Reveals Microsoft Wants Its AI To Be ‘Addictive,’ CEO Satya Nadella Feigns Astonishment",
+          "description": "Microsoft's new AI assistant, Scout, reportedly aims for addictiveness, as revealed in a leaked internal document, surprising even CEO Satya Nadella.",
+          "category": "Business",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924",
+          "image": "https://kotaku.com/app/uploads/2026/06/scout2-1200x675.jpeg",
+          "published_at": "2026-06-05T13:08:43Z",
+          "key_points": [
+            "AI assistant named Scout",
+            "Leaked document reveals strategy",
+            "Nadella's reaction questioned"
+          ],
+          "impact": "Microsoft's AI strategy raises ethical concerns.",
+          "id": "61b07d25fa94a6886f3479b172e5c45d"
+        },
+        {
+          "title": "Elden Ring Tarnished Edition launches August 28",
+          "description": "Elden Ring's Tarnished Edition is set to launch for Switch 2 on August 28, alongside new downloadable content, enhancing the game's offerings.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/elden-ring-tarnished-edition-launches-august-28",
+          "image": "https://www.gematsu.com/wp-content/uploads/2025/09/Elden-Ring-Switch-2_06-04-26.jpg",
+          "published_at": "2026-06-04T14:04:49Z",
+          "key_points": [
+            "Launch on August 28",
+            "Available for Switch 2",
+            "Includes new downloadable content"
+          ],
+          "impact": "Elden Ring expands its universe with new content.",
+          "id": "7288e7c537a2fdc49b9f8d025f394563"
+        }
+      ]
+    },
+    {
       "id": "2026-06-07T11:08:16.509032+00:00",
       "fetched_at": "2026-06-07T11:08:16.509032+00:00",
       "label": "Jun 07, 2026 — 11:08 AM UTC",
@@ -6296,221 +6399,6 @@
           ],
           "impact": "Users gain control over Copilot features.",
           "id": "abfaf31376c169d135d2033c10e52f4e"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-02T10:21:43.296656+00:00",
-      "fetched_at": "2026-06-02T10:21:43.296656+00:00",
-      "label": "Jun 02, 2026 — 10:22 AM UTC",
-      "articles": [
-        {
-          "title": "Nvidia Chip Boosts Software Stocks Ahead of Opening",
-          "description": "Software stocks surged as Nvidia's new chip was announced, boosting shares of Arm, IBM, and Hewlett Packard. Investors are optimistic about the future of personal computing.",
-          "category": "Business",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/01/arm-ibm-and-hewlett-packard-nvidia-chip-extends-software-rally.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108257481-1769516811771-gettyimages-2250111740-US_STOCKS.jpeg?v=1771953167&w=1920&h=1080",
-          "published_at": "2026-06-01T09:58:23Z",
-          "key_points": [
-            "Nvidia announces new chip",
-            "Software stocks rally",
-            "Investors optimistic"
-          ],
-          "impact": "Nvidia's innovation drives market confidence.",
-          "id": "ab13e6ad9f251aa062ccb07c2a8b1b13"
-        },
-        {
-          "title": "NVIDIA DLSS 4.5 Ray Reconstruction Launching in August",
-          "description": "NVIDIA will release DLSS 4.5 Ray Reconstruction for all GeForce RTX GPUs in August, enhancing gaming graphics with improved AI-based denoising.",
-          "category": "Gaming",
-          "source": "Videocardz.com",
-          "url": "https://videocardz.com/newz/nvidia-dlss-4-5-ray-reconstruction-coming-in-august-for-rtx-20-30-40-and-50-series",
-          "image": "https://cdn.videocardz.com/1/2026/06/DLSS-4.5-Ray-Reconstruction.jpg",
-          "published_at": "2026-06-01T05:06:09Z",
-          "key_points": [
-            "DLSS 4.5 announced",
-            "Supports all RTX GPUs",
-            "Improves gaming graphics"
-          ],
-          "impact": "Enhanced graphics set to elevate gaming experience.",
-          "id": "9331f654c5b91d9aac20a7ef18f8750e"
-        },
-        {
-          "title": "Foldable iPhone Ultra Design Leaked in Video",
-          "description": "A hands-on video reveals the design of the upcoming foldable iPhone Ultra, showcasing a sleek 4.5mm profile.",
-          "category": "Business",
-          "source": "Notebookcheck",
-          "url": "https://www.notebookcheck.net/Foldable-iPhone-Ultra-design-model-leaks-in-hands-on-video-from-Chinese-factory.1311684.0.html",
-          "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/iphone-ultra-fold-weibo-Xiaohui-Talks-Tech.jpg",
-          "published_at": "2026-06-01T01:14:00Z",
-          "key_points": [
-            "Foldable iPhone design leaked",
-            "Sleek 4.5mm profile",
-            "Hands-on video released"
-          ],
-          "impact": "Apple's foldable design sparks consumer interest.",
-          "id": "9ae021479115f0ac1287750a4e95c535"
-        },
-        {
-          "title": "AMD Revives Old CPUs to Tackle RAM Costs",
-          "description": "AMD is reintroducing older AM4 CPUs to help gamers facing high RAM prices, making upgrades more accessible.",
-          "category": "Business",
-          "source": "Gizmodo",
-          "url": "https://gizmodo.com/amds-plan-to-fix-ram-costs-bring-back-bygone-cpus-2000765337",
-          "image": "https://gizmodo.com/app/uploads/2026/05/AMD-Gaming-PCs-1200x675.jpg",
-          "published_at": "2026-06-01T00:00:58Z",
-          "key_points": [
-            "AMD revives AM4 CPUs",
-            "Targets high RAM costs",
-            "Aids gamer upgrades"
-          ],
-          "impact": "AMD's strategy eases upgrade barriers for gamers.",
-          "id": "837d825493b52f53556b99460a199d07"
-        },
-        {
-          "title": "AMD Unveils Radeon RX 9070 GRE and Ryzen AI Max PRO 400",
-          "description": "AMD announces new products including the Radeon RX 9070 GRE and Ryzen AI Max PRO 400 series during Computex 2026.",
-          "category": "Hardware",
-          "source": "Phoronix",
-          "url": "https://www.phoronix.com/review/amd-rx-9070-gre-ryzen-ai-max-400",
-          "image": "https://www.phoronix.net/image.php?id=amd-rx-9070-gre-ryzen-ai-max-400&image=amd_computex_9",
-          "published_at": "2026-06-01T00:00:00Z",
-          "key_points": [
-            "New Radeon RX 9070 GRE",
-            "Ryzen AI Max PRO 400 announced",
-            "Computex 2026 showcase"
-          ],
-          "impact": "AMD's new products enhance competitive edge.",
-          "id": "7b299d8bd84a498c4e5468e22eaaf2a7"
-        },
-        {
-          "title": "Competitors Target Apple's MacBook Neo",
-          "description": "Dell and Microsoft are launching laptops aimed at competing with Apple's MacBook Neo, but not all are learning from Apple's strategies.",
-          "category": "Business",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/",
-          "image": "https://media.wired.com/photos/6a187b03ed6e2578ab7573b3/191:100/w_1280,c_limit/Microsoft%20Is%20Learning%20the%20Wrong%20Lessons%20From%20Apple%20top%20art%20(2)%20052026%20SOURCE%20Microsoft.jpg",
-          "published_at": "2026-05-31T23:00:00Z",
-          "key_points": [
-            "Dell and Microsoft launch competitors",
-            "Targeting MacBook Neo",
-            "Learning from Apple"
-          ],
-          "impact": "Increased competition may benefit consumers.",
-          "id": "4b83e46e5e1d2aa10c6d1668746e3aec"
-        },
-        {
-          "title": "Apple's Smart Glasses Delayed Until Late 2027",
-          "description": "Apple's highly anticipated smart glasses are now expected to launch in late 2027, despite being a top priority for the company.",
-          "category": "Business",
-          "source": "CNET",
-          "url": "https://www.cnet.com/tech/apples-smart-glasses-reportedly-delayed-until-late-2027/",
-          "image": "https://www.cnet.com/a/img/resize/0924ae8ab6ce5fa40686ed53772987afb785b9bd/hub/2026/05/22/a27ae493-ca85-4286-a79e-867fe1f8483c/ray-ban-meta-cnet-memorial-day-bg-09.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "published_at": "2026-05-31T21:45:00Z",
-          "key_points": [
-            "Smart glasses delayed",
-            "New launch date: late 2027",
-            "Top priority for Apple"
-          ],
-          "impact": "Delay may impact Apple's market positioning.",
-          "id": "e31f586de57ecc381b755efdc961de4d"
-        },
-        {
-          "title": "Capcom's Street Fighter 6 Update Schedule Changes",
-          "description": "Capcom's update schedule for Street Fighter 6 is shifting, with uncertainty surrounding the release of the Season 4 balance patch.",
-          "category": "Gaming",
-          "source": "EventHubs",
-          "url": "https://www.eventhubs.com/news/2026/may/31/sf6-season-4-balance-patch/",
-          "image": "https://media.eventhubs.com/images/2026/05/29-street-fighter-seasont.webp",
-          "published_at": "2026-05-31T20:39:20Z",
-          "key_points": [
-            "Street Fighter 6 update schedule shifts",
-            "Ingrid's patch released",
-            "Future updates uncertain"
-          ],
-          "impact": "Changes may affect player engagement.",
-          "id": "c36201fed058189c0045aa676dc769db"
-        },
-        {
-          "title": "Intel's Arc G3 Extreme Claims High Performance",
-          "description": "Intel's Arc G3 Extreme handheld platform reportedly matches Ryzen Z2 Extreme performance while consuming half the power.",
-          "category": "Hardware",
-          "source": "Videocardz.com",
-          "url": "https://videocardz.com/newz/intel-claims-arc-g3-extreme-delivers-similar-performance-to-ryzen-z2-extreme-at-half-the-power",
-          "image": "https://cdn.videocardz.com/1/2026/05/INTEL-ARC-G3-VS-RYZEN-Z2-HERO.jpg",
-          "published_at": "2026-05-31T17:31:09Z",
-          "key_points": [
-            "Arc G3 Extreme performance revealed",
-            "Half the power consumption",
-            "Competes with Ryzen Z2 Extreme"
-          ],
-          "impact": "Intel's claims could reshape market dynamics.",
-          "id": "2373107eceaf02f7c54181a0b7179bd1"
-        },
-        {
-          "title": "AC Cobra GT Coupe Introduces Fixed Roof Design",
-          "description": "AC Cars unveils the AC Cobra GT Coupe, marking the first fixed roof version of the classic car in its 125-year history.",
-          "category": "Business",
-          "source": "The Drive",
-          "url": "https://www.thedrive.com/news/ac-cobra-gt-coupe-puts-a-fixed-roof-on-the-classic-for-the-first-time",
-          "image": "https://www.thedrive.com/wp-content/uploads/2026/05/AC-Cobra-GT-Coupe-Autoclaves-2.jpeg?quality=85&w=1200",
-          "published_at": "2026-05-31T15:00:00Z",
-          "key_points": [
-            "AC Cobra GT Coupe launched",
-            "First fixed roof design",
-            "125 years of history"
-          ],
-          "impact": "New design may attract classic car enthusiasts.",
-          "id": "d6c01e61dbc008049f66bb23e8a4ae3c"
-        },
-        {
-          "title": "Android Auto 17.0 Now Available for All Users",
-          "description": "Android Auto 17.0 is rolling out globally, with a method available to skip the wait for the update.",
-          "category": "Software",
-          "source": "autoevolution",
-          "url": "https://www.autoevolution.com/news/android-auto-170-now-available-for-all-android-users-270796.html",
-          "image": "https://s1.cdn.autoevolution.com/images/news/android-auto-170-now-available-for-all-android-users-270796_1.jpg",
-          "published_at": "2026-05-31T13:45:06Z",
-          "key_points": [
-            "Android Auto 17.0 released",
-            "Global rollout underway",
-            "Skip the wait for update"
-          ],
-          "impact": "Update enhances user experience in vehicles.",
-          "id": "3b9b1a5e6f8f27f731b9250c4dd6f555"
-        },
-        {
-          "title": "ASUS Teases 540Hz OLED Esports Monitor",
-          "description": "ASUS reveals a teaser for the ROG Strix OLED XG259QWPG Ace esports monitor, boasting a 540Hz refresh rate ahead of Computex 2026.",
-          "category": "Hardware",
-          "source": "Videocardz.com",
-          "url": "https://videocardz.com/newz/asus-teases-24-5-inch-rog-strix-oled-xg259qwpg-ace-esports-monitor-with-540hz-refresh-rate",
-          "image": "https://cdn.videocardz.com/1/2026/05/ASUS-ROG-STRIX-OLED-XG259QWPG-ACE-24INCH-540HZ-MONITOR.jpg",
-          "published_at": "2026-05-31T07:16:03Z",
-          "key_points": [
-            "ASUS teases new esports monitor",
-            "540Hz refresh rate",
-            "Ahead of Computex 2026"
-          ],
-          "impact": "High refresh rate targets competitive gamers.",
-          "id": "17fe4fdc8213644be0e08acd010512c8"
-        },
-        {
-          "title": "Apple Cancels Cosmic Orange for iPhone 18 Pro",
-          "description": "Apple's iPhone 18 Pro will feature higher specs but will not include the Cosmic Orange color option, focusing on performance and aesthetics.",
-          "category": "Business",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/ewanspence/2026/05/30/apple-iphone-18-pro-dark-cherry-color-strategy/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a1b44d17e111d7ee4aeaafb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "published_at": "2026-05-30T20:21:20Z",
-          "key_points": [
-            "Cosmic Orange color canceled",
-            "Focus on higher specs",
-            "New aesthetic strategy"
-          ],
-          "impact": "Color change may influence consumer choices.",
-          "id": "ecedf46706cf1e9afa179af6adbaf3ac"
         }
       ]
     }
