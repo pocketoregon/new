@@ -1,6 +1,173 @@
 {
   "batches": [
     {
+      "id": "2026-06-07T22:02:51.315403+00:00",
+      "fetched_at": "2026-06-07T22:02:51.315403+00:00",
+      "label": "Jun 07, 2026 — 10:03 PM UTC",
+      "articles": [
+        {
+          "title": "Godzilla vs GTA 6: Retro Remake Makes PlayStation Debut on PS5 This November",
+          "description": "Godzilla: Destroy All Monsters Melee Remastered launches on PS5 November 3 for $29.99. The game is powered by Unreal Engine 5.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/godzilla-vs-gta-6-retro-remake-makes-playstation-debut-on-ps5-this-november",
+          "image": "https://images.pushsquare.com/e2fa6b1f33159/large.jpg",
+          "published_at": "2026-06-06T21:15:00Z",
+          "key_points": [
+            "Launches November 3",
+            "Price set at $29.99",
+            "Powered by Unreal Engine 5"
+          ],
+          "impact": "This remake revives a classic for new players.",
+          "id": "598d68e38afc3d4cd34171506fd7aad3"
+        },
+        {
+          "title": "Nintendo Switch 2 - Year One: The Digital Foundry Verdict",
+          "description": "Digital Foundry reviews the first year of Nintendo Switch 2, highlighting significant improvements and future potential. The console shows promise for gamers.",
+          "category": "Gaming",
+          "source": "Digitalfoundry.net",
+          "url": "https://www.digitalfoundry.net/features/nintendo-switch-2-year-one-the-digital-foundry-verdict",
+          "image": "https://images.digitalfoundry.net/9c1dda69f7ee3/large.jpg",
+          "published_at": "2026-06-06T21:01:38Z",
+          "key_points": [
+            "Significant generational leap",
+            "Positive long-term outlook",
+            "Strong performance reviews"
+          ],
+          "impact": "Switch 2 sets a high bar for future consoles.",
+          "id": "05f63a15df12510da5f14ec8da9fa1c3"
+        },
+        {
+          "title": "Stellar Blade Blood Rain Trailer Reveal Is Raising AI Alarm Bells",
+          "description": "The reveal trailer for Stellar Blade: Blood Rain has sparked concerns over AI-generated content quality. Critics label it as 'AI slop'.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/stellar-blade-blood-rains-reveal-trailer-is-raising-genai-alarm-bells-for-some-people-2000703444",
+          "image": "https://kotaku.com/app/uploads/2026/06/Stellar-Blade-Blood-Rain-image-from-official-trailer-Shift-Up-1200x675.jpg",
+          "published_at": "2026-06-06T19:51:19Z",
+          "key_points": [
+            "Trailer raises AI quality concerns",
+            "Critics call it 'AI slop'",
+            "High anticipation for sequel"
+          ],
+          "impact": "AI content quality remains a hot topic in gaming.",
+          "id": "33fa342fceb6621f33f367aa5d7a40b5"
+        },
+        {
+          "title": "One Of 2025's Best Games Is Getting A 'Nintendo Switch 2 Edition' This Month",
+          "description": "A popular game from 2025 is receiving a Nintendo Switch 2 edition this month, reigniting excitement among fans. The trend continues with new editions.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/one-of-2025s-best-games-is-getting-a-nintendo-switch-2-edition-this-month",
+          "image": "https://images.nintendolife.com/eb4e9bf344c48/large.jpg",
+          "published_at": "2026-06-06T18:30:00Z",
+          "key_points": [
+            "New edition for Switch 2",
+            "Fans excited for release",
+            "Continues trend of remakes"
+          ],
+          "impact": "Switch 2 editions keep players engaged and excited.",
+          "id": "2440d2f68d474721468b7f81c6868467"
+        },
+        {
+          "title": "Monster Hunter Wilds Is So Back With Big Ascendance Expansion",
+          "description": "Capcom announces the Ascendance expansion for Monster Hunter Wilds, featuring Elder Dragons and new gameplay elements. The expansion is set for 2027.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/monster-hunter-wilds-reveals-the-elder-dragons-are-coming-in-a-new-expansion-and-surprise-theres-a-switch-2-port-2000703218",
+          "image": "https://kotaku.com/app/uploads/2026/06/monster-hunter-1200x675.jpg",
+          "published_at": "2026-06-06T15:17:58Z",
+          "key_points": [
+            "New expansion called Ascendance",
+            "Features Elder Dragons",
+            "Set for release in 2027"
+          ],
+          "impact": "Monster Hunter continues to evolve with expansions.",
+          "id": "1460c79dd3705ea886e63e7dddc2144b"
+        },
+        {
+          "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
+          "description": "OpenAI introduces Lockdown Mode for ChatGPT to mitigate data exfiltration risks. This feature restricts certain outbound requests.",
+          "category": "Security",
+          "source": "Internet",
+          "url": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBOQJLNqTRWigWAgPKNCKXr8hOgMZD4ZNb3lNzGbrvSj87BzK_VzrbaqMPVOo1wmCsILPHO2s5cdfu1I2nUOhNibPpzsOHko3qWQwCVXXVdi8yaqYjMJGBD6Fzz-eBmgJ1-Vy0E02L_X1xsT3neUlTTsn9s8e2ODQVYXNErvOz9VrHEIdJNfGhsASUV0ag/s1600/chatgpt-lockdown.jpg",
+          "published_at": "2026-06-06T13:36:00Z",
+          "key_points": [
+            "New Lockdown Mode introduced",
+            "Limits outbound requests",
+            "Reduces data exfiltration risks"
+          ],
+          "impact": "Enhanced security measures for ChatGPT users.",
+          "id": "cb1a6ca2a610ea2806bf94a76b55a110"
+        },
+        {
+          "title": "You can choose to resurrect Bosch in Street Fighter 6's World Tour mode",
+          "description": "Street Fighter 6 reveals Bosch as a new character in Season 4 DLC, allowing players to resurrect him in World Tour mode. Excitement builds for the DLC.",
+          "category": "Gaming",
+          "source": "EventHubs",
+          "url": "https://www.eventhubs.com/news/2026/jun/05/bosch-resurrect-street-fighter-6/",
+          "image": "https://media.eventhubs.com/images/2026/06/05_boschbnrt.webp",
+          "published_at": "2026-06-06T06:35:27Z",
+          "key_points": [
+            "Bosch joins Season 4 DLC",
+            "Players can resurrect him",
+            "World Tour mode feature"
+          ],
+          "impact": "New characters keep Street Fighter 6 fresh.",
+          "id": "3d75361adac88c1678a61881088cdffa"
+        },
+        {
+          "title": "Super Yooka-Laylee Kart announced, first details and trailer",
+          "description": "Playtonic announces Super Yooka-Laylee Kart, set for PC with potential Switch 2 release. The game promises exciting new features and gameplay.",
+          "category": "Gaming",
+          "source": "Nintendoeverything.com",
+          "url": "https://nintendoeverything.com/super-yooka-laylee-kart-announced/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Super-Yooka-Laylee-Kart.jpg",
+          "published_at": "2026-06-05T23:57:25Z",
+          "key_points": [
+            "New kart racing game announced",
+            "Planned for PC and Switch 2",
+            "Exciting gameplay features expected"
+          ],
+          "impact": "Playtonic expands its universe with kart racing.",
+          "id": "39818daf72970ff0da919d05e2764852"
+        },
+        {
+          "title": "iOS 27 beta release date: When you can install the new iPhone update",
+          "description": "The iOS 27 beta is set to launch soon, allowing users to install pre-release software on their iPhones. Anticipation builds for new features.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/05/ios-27-beta-release-date-when-you-can-install-the-new-iphone-update/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-when-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-05T15:00:00Z",
+          "key_points": [
+            "iOS 27 beta launching soon",
+            "Pre-release software available",
+            "New features anticipated"
+          ],
+          "impact": "Users eagerly await the latest iOS update.",
+          "id": "d889f264793185c4c246e1ea6f8d4ae5"
+        },
+        {
+          "title": "HP and Ferrari launch $5,599 AI PC limited to 4,999 units",
+          "description": "HP and Ferrari unveil a limited edition AI PC priced at $5,599, with only 4,999 units available across nine countries. The laptop features high-end specifications.",
+          "category": "Hardware",
+          "source": "Videocardz.com",
+          "url": "https://videocardz.com/newz/hp-and-ferrari-launch-5599-ai-pc-limited-to-4999-units",
+          "image": "https://cdn.videocardz.com/1/2026/06/HP-FERRARI-LUCE-NOTEBOOK-HERO.jpg",
+          "published_at": "2026-06-05T14:58:03Z",
+          "key_points": [
+            "Limited to 4,999 units",
+            "Priced at $5,599",
+            "Developed with Ferrari Design Studio"
+          ],
+          "impact": "A luxury PC collaboration between HP and Ferrari.",
+          "id": "33b891cc9ef9d673cb5a1f5bec639e6f"
+        }
+      ]
+    },
+    {
       "id": "2026-06-07T19:20:25.437539+00:00",
       "fetched_at": "2026-06-07T19:20:25.437539+00:00",
       "label": "Jun 07, 2026 — 07:20 PM UTC",
@@ -5944,253 +6111,6 @@
           ],
           "impact": "This sets a new benchmark for entertainment budgets.",
           "id": "52ae0100023b970b40547435cb88f6d6"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-02T23:01:34.809318+00:00",
-      "fetched_at": "2026-06-02T23:01:34.809318+00:00",
-      "label": "Jun 02, 2026 — 11:02 PM UTC",
-      "articles": [
-        {
-          "title": "Date Dilemma: Was She Right to Leave?",
-          "description": "A viral post debates whether leaving a date due to tardiness is justified. Opinions vary on the importance of punctuality in dating.",
-          "category": "Gaming",
-          "source": "Yahoo Entertainment",
-          "url": "https://creators.yahoo.com/lifestyle/story/she-walked-out-on-a-first-date-before-it-even-started-when-her-date-was-running-35-minutes-late-was-she-right-193423178.html",
-          "image": "https://s.yimg.com/ny/api/res/1.2/ZiQuhZHAQy7AIjrQowRbsA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-06/1bafecca-6e95-48b4-bfc4-97bd01be4ef2",
-          "published_at": "2026-06-01T20:18:42Z",
-          "key_points": [
-            "Punctuality sparks debate",
-            "Mixed opinions on dating etiquette",
-            "Traffic delays considered"
-          ],
-          "impact": "This incident highlights differing views on dating norms.",
-          "id": "9f96ea0dc6557aa24e3e471450a1b03d"
-        },
-        {
-          "title": "Computex 2026: Key Highlights Unveiled",
-          "description": "Computex 2026 showcases major tech advancements, including Nvidia's RTX Spark and new chips from Intel and Qualcomm.",
-          "category": "Hardware",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/940844/computex-2026",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=0%2C9.3778095086996%2C100%2C81.244380982601&w=1200",
-          "published_at": "2026-06-01T20:02:31Z",
-          "key_points": [
-            "Nvidia announces RTX Spark",
-            "Intel and Qualcomm reveal chips",
-            "AMD updates existing products"
-          ],
-          "impact": "New tech innovations set the stage for future developments.",
-          "id": "8b551e6166e4d9ce97cc408241a7132d"
-        },
-        {
-          "title": "Nintendo's Mario Sunshine Critique",
-          "description": "Developer Bennett Foddy discusses how criticism of Mario Sunshine has impacted Nintendo's game design approach.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/getting-over-it-baby-steps-qwop-super-mario-sunshine-2000701168",
-          "image": "https://kotaku.com/app/uploads/2026/06/mariobabysteps2-1200x675.jpg",
-          "published_at": "2026-06-01T19:08:10Z",
-          "key_points": [
-            "Criticism shapes game development",
-            "Bennett Foddy's insights",
-            "Impact of player feedback"
-          ],
-          "impact": "Critiques influence future Nintendo game designs.",
-          "id": "5d74ab225c02a02f7d5d53f75824a2f5"
-        },
-        {
-          "title": "Metal Gear Solid 4: A Cautionary Tale",
-          "description": "Metal Gear Solid 4 is analyzed as a warning against convoluted storytelling in gaming franchises.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/metal-gear-solid-4-was-a-warning-cry-to-other-franchises-2000701073",
-          "image": "https://kotaku.com/app/uploads/2026/06/image-88-1200x675.jpg",
-          "published_at": "2026-06-01T18:30:13Z",
-          "key_points": [
-            "Franchise storytelling pitfalls",
-            "Self-referential madness",
-            "Cinematic universe critique"
-          ],
-          "impact": "The game serves as a lesson for future franchises.",
-          "id": "6d2ca333304b89d60622499aad736e5d"
-        },
-        {
-          "title": "Lifetime Access to AI Models for $60",
-          "description": "Cancel your Claude subscription and get lifetime access to multiple AI models for a one-time fee.",
-          "category": "Software",
-          "source": "Mashable",
-          "url": "https://mashable.com/tech/may-30-chatplayground-ai-unlimited-plan-lifetime-subscriptions",
-          "image": "https://helios-i.mashable.com/imagery/articles/01slvSKpQQpioTrZf23W6sv/hero-image.fill.size_1200x675.v1779796115.jpg",
-          "published_at": "2026-06-01T17:50:29Z",
-          "key_points": [
-            "One-time fee for lifetime access",
-            "Multiple AI models included",
-            "No monthly subscriptions"
-          ],
-          "impact": "This offer simplifies AI access for users.",
-          "id": "2c9a4e108ad5cbf6a08af2ae22eeb11d"
-        },
-        {
-          "title": "Nvidia Stock Rises Amid PC Market Push",
-          "description": "Nvidia's stock surged after announcing a new product aimed at the personal computer market, impacting Intel and AMD.",
-          "category": "Business",
-          "source": "Yahoo Entertainment",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-jumps-pc-push-174043570.html",
-          "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-          "published_at": "2026-06-01T17:40:43Z",
-          "key_points": [
-            "Nvidia stock climbs 4%",
-            "New PC product announced",
-            "Intel and AMD affected"
-          ],
-          "impact": "Nvidia's move reshapes competitive dynamics in the market.",
-          "id": "e03c0589bd3cd15615de534d36ae0eec"
-        },
-        {
-          "title": "Apple Fixes iPhone Charging Issues",
-          "description": "Apple releases iOS 26.5.1 to address charging problems in iPhone Air and iPhone 17 models.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/01/apple-releases-ios-26-5-1/",
-          "image": "https://images.macrumors.com/t/x5OKeizcRejo6CTsrqL2FNQ1Q2k=/2500x/article-new/2026/05/iOS-26.5.1-Feature.jpg",
-          "published_at": "2026-06-01T17:23:23Z",
-          "key_points": [
-            "iOS 26.5.1 released",
-            "Fixes charging issues",
-            "Available for iPhone Air"
-          ],
-          "impact": "This update resolves critical user complaints.",
-          "id": "c728fa6d662ad68d1c401efccd8e4e42"
-        },
-        {
-          "title": "Google Messages Gains Animated Wallpapers",
-          "description": "Google Messages will soon support custom chat wallpapers, including animated GIFs.",
-          "category": "Software",
-          "source": "Android Authority",
-          "url": "https://www.androidauthority.com/google-messages-wallpaper-animations-3673191/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Google-Messages-Logo-on-Pixel-9a.jpg",
-          "published_at": "2026-06-01T17:23:06Z",
-          "key_points": [
-            "Custom wallpapers introduced",
-            "Animated GIF support added",
-            "Enhances user experience"
-          ],
-          "impact": "This feature enriches the messaging experience.",
-          "id": "300b415a5a376fba77040b9cb6ca5992"
-        },
-        {
-          "title": "AMD Extends Socket AM5 Support",
-          "description": "AMD announces extended support for Socket AM5 through at least 2029, with new product launches.",
-          "category": "Hardware",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/06/amd-extends-socket-am5-support-through-at-least-2029-am4-refuses-to-die/",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_0491-1152x648.jpeg",
-          "published_at": "2026-06-01T17:02:22Z",
-          "key_points": [
-            "Socket AM5 support extended",
-            "New products launched",
-            "AM4 remains relevant"
-          ],
-          "impact": "AMD's strategy ensures longevity for users.",
-          "id": "c7afa1f33f3074894f2b6b5276f03879"
-        },
-        {
-          "title": "Sony Launches New Gaming Accessories",
-          "description": "Sony announces the launch of its FlexStrike fight stick and gaming monitor for August, with more details on speakers to follow.",
-          "category": "Gaming",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/games/941031/sony-playstation-flexstrike-fight-stick-gaming-monitor-pulse-elevate-speakers-launch-date-price",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/e83ee8bdc472aaa069d6fb0cd1c51a1151b2ed3e.jpg.webp?quality=90&strip=all&crop=0%2C3.2448557165469%2C100%2C93.510288566906&w=1200",
-          "published_at": "2026-06-01T16:36:18Z",
-          "key_points": [
-            "FlexStrike fight stick launching",
-            "27-inch gaming monitor announced",
-            "Pulse Elevate speakers coming later"
-          ],
-          "impact": "New accessories enhance the gaming experience.",
-          "id": "bc48ccec061e7f96ab999f84420238e7"
-        },
-        {
-          "title": "Apple Teases WWDC26 with New Content",
-          "description": "Apple shares a new wallpaper, playlist, and video to promote WWDC 2026, building anticipation for the event.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/01/apple-shares-wwdc-2026-wallpaper/",
-          "image": "https://images.macrumors.com/t/dcSzk30En7kclD_dWwSVaC97V4I=/1600x/article-new/2026/06/WWDC-2026-Wallpaper.jpg",
-          "published_at": "2026-06-01T16:17:57Z",
-          "key_points": [
-            "WWDC26 teaser released",
-            "New wallpaper and playlist",
-            "Promotional video shared"
-          ],
-          "impact": "Apple builds excitement ahead of WWDC.",
-          "id": "bdd23194b436e83bd488d1971aaeff0a"
-        },
-        {
-          "title": "New iPhone Ultra Features Leaked",
-          "description": "A leak reveals a new vapor chamber feature for the iPhone Ultra, along with an update on its release timing.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/01/leaker-reveals-new-iphone-ultra-feature-release-timing-update/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-01T15:51:00Z",
-          "key_points": [
-            "iPhone Ultra feature leaked",
-            "Vapor chamber technology",
-            "Release timing updated"
-          ],
-          "impact": "New features may enhance device performance.",
-          "id": "9157819c35329b0e83e470b5dd1cbbfa"
-        },
-        {
-          "title": "C8 Corvette's 8.1L Engine Hits the Road",
-          "description": "The world's first 8.1L big block C8 Corvette has been engineered for performance and is now on the freeway.",
-          "category": "Geopolitics",
-          "source": "The Drive",
-          "url": "https://www.thedrive.com/news/worlds-first-8-1l-big-block-c8-corvette-finally-hits-the-freeway",
-          "image": "https://www.thedrive.com/wp-content/uploads/2026/06/Big-Block-C8-Hero-2.jpg?w=1200",
-          "published_at": "2026-06-01T15:29:16Z",
-          "key_points": [
-            "First 8.1L C8 Corvette launched",
-            "Advanced engineering features",
-            "Performance-focused design"
-          ],
-          "impact": "This vehicle sets new performance standards.",
-          "id": "51a6aa06099a20ea07fe63626b46fb09"
-        },
-        {
-          "title": "Setting Up the New Google Health App",
-          "description": "The new Google Health app faces criticism but offers setup tips to improve user experience after the Fitbit app's discontinuation.",
-          "category": "Software",
-          "source": "Droid Life",
-          "url": "https://www.droid-life.com/2026/06/01/heres-the-best-way-to-setup-the-new-google-health-app/",
-          "image": "https://www.droid-life.com/wp-content/uploads/2026/06/Google-Health-Widget-Android-2-1200x628.jpg",
-          "published_at": "2026-06-01T15:06:57Z",
-          "key_points": [
-            "Google Health app criticized",
-            "Setup tips provided",
-            "Fitbit app replaced"
-          ],
-          "impact": "Guidance helps users adapt to changes.",
-          "id": "142b8110d72cf6c13e83c7b6ad512a39"
-        },
-        {
-          "title": "Sony Targets Poor-Quality PS5 Games",
-          "description": "Sony announces plans to combat over 1,000 low-quality PS5 games, emphasizing quality over quantity in its gaming ecosystem.",
-          "category": "Gaming",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/06/were-continuing-our-journey-on-xbox-switch-and-steam-sony-wages-war-on-1000plus-crappy-ps5-games",
-          "image": "https://images.pushsquare.com/6068c94fa5a92/large.jpg",
-          "published_at": "2026-06-01T15:00:00Z",
-          "key_points": [
-            "Sony targets low-quality games",
-            "Focus on quality gaming",
-            "Commitment to better titles"
-          ],
-          "impact": "This initiative aims to enhance gaming standards.",
-          "id": "1a216dcd50990ea7262edb593d5d9379"
         }
       ]
     }

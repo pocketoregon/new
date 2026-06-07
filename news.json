@@ -1,231 +1,167 @@
 {
   "date": "2026-06-07",
-  "generated_at": "2026-06-07T19:20:25.437539+00:00",
+  "generated_at": "2026-06-07T22:02:51.315403+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Stellar Blade: Blood Rain Developer Keeps Platform Options Open",
-      "description": "Stellar Blade: Blood Rain's developer hints at potential Xbox Series, PC, and PS5 releases, with no decisions made yet.",
+      "title": "Godzilla vs GTA 6: Retro Remake Makes PlayStation Debut on PS5 This November",
+      "description": "Godzilla: Destroy All Monsters Melee Remastered launches on PS5 November 3 for $29.99. The game is powered by Unreal Engine 5.",
       "category": "Gaming",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/stellar-blade-blood-rain-dev-comments-on-launch-platform-plans",
-      "image": "https://assets-prd.ignimgs.com/2026/06/06/sbbr-sgf-screenshots-01-1780762320495.png?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-06T16:13:52Z",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/06/godzilla-vs-gta-6-retro-remake-makes-playstation-debut-on-ps5-this-november",
+      "image": "https://images.pushsquare.com/e2fa6b1f33159/large.jpg",
+      "published_at": "2026-06-06T21:15:00Z",
       "key_points": [
-        "No platforms confirmed yet",
-        "Xbox Series and PC possible",
-        "Developer open to options"
+        "Launches November 3",
+        "Price set at $29.99",
+        "Powered by Unreal Engine 5"
       ],
-      "impact": "This could expand the game's audience significantly.",
-      "id": "76ce86a9d62a1faa0ce43acb5747b800"
+      "impact": "This remake revives a classic for new players.",
+      "id": "598d68e38afc3d4cd34171506fd7aad3"
     },
     {
-      "title": "iOS 27 Set to Introduce Exciting New Features",
-      "description": "Apple's iOS 27 will debut at WWDC, featuring seven new iPhone enhancements, including a major Siri overhaul.",
+      "title": "Nintendo Switch 2 - Year One: The Digital Foundry Verdict",
+      "description": "Digital Foundry reviews the first year of Nintendo Switch 2, highlighting significant improvements and future potential. The console shows promise for gamers.",
+      "category": "Gaming",
+      "source": "Digitalfoundry.net",
+      "url": "https://www.digitalfoundry.net/features/nintendo-switch-2-year-one-the-digital-foundry-verdict",
+      "image": "https://images.digitalfoundry.net/9c1dda69f7ee3/large.jpg",
+      "published_at": "2026-06-06T21:01:38Z",
+      "key_points": [
+        "Significant generational leap",
+        "Positive long-term outlook",
+        "Strong performance reviews"
+      ],
+      "impact": "Switch 2 sets a high bar for future consoles.",
+      "id": "05f63a15df12510da5f14ec8da9fa1c3"
+    },
+    {
+      "title": "Stellar Blade Blood Rain Trailer Reveal Is Raising AI Alarm Bells",
+      "description": "The reveal trailer for Stellar Blade: Blood Rain has sparked concerns over AI-generated content quality. Critics label it as 'AI slop'.",
+      "category": "Gaming",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/stellar-blade-blood-rains-reveal-trailer-is-raising-genai-alarm-bells-for-some-people-2000703444",
+      "image": "https://kotaku.com/app/uploads/2026/06/Stellar-Blade-Blood-Rain-image-from-official-trailer-Shift-Up-1200x675.jpg",
+      "published_at": "2026-06-06T19:51:19Z",
+      "key_points": [
+        "Trailer raises AI quality concerns",
+        "Critics call it 'AI slop'",
+        "High anticipation for sequel"
+      ],
+      "impact": "AI content quality remains a hot topic in gaming.",
+      "id": "33fa342fceb6621f33f367aa5d7a40b5"
+    },
+    {
+      "title": "One Of 2025's Best Games Is Getting A 'Nintendo Switch 2 Edition' This Month",
+      "description": "A popular game from 2025 is receiving a Nintendo Switch 2 edition this month, reigniting excitement among fans. The trend continues with new editions.",
+      "category": "Gaming",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/06/one-of-2025s-best-games-is-getting-a-nintendo-switch-2-edition-this-month",
+      "image": "https://images.nintendolife.com/eb4e9bf344c48/large.jpg",
+      "published_at": "2026-06-06T18:30:00Z",
+      "key_points": [
+        "New edition for Switch 2",
+        "Fans excited for release",
+        "Continues trend of remakes"
+      ],
+      "impact": "Switch 2 editions keep players engaged and excited.",
+      "id": "2440d2f68d474721468b7f81c6868467"
+    },
+    {
+      "title": "Monster Hunter Wilds Is So Back With Big Ascendance Expansion",
+      "description": "Capcom announces the Ascendance expansion for Monster Hunter Wilds, featuring Elder Dragons and new gameplay elements. The expansion is set for 2027.",
+      "category": "Gaming",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/monster-hunter-wilds-reveals-the-elder-dragons-are-coming-in-a-new-expansion-and-surprise-theres-a-switch-2-port-2000703218",
+      "image": "https://kotaku.com/app/uploads/2026/06/monster-hunter-1200x675.jpg",
+      "published_at": "2026-06-06T15:17:58Z",
+      "key_points": [
+        "New expansion called Ascendance",
+        "Features Elder Dragons",
+        "Set for release in 2027"
+      ],
+      "impact": "Monster Hunter continues to evolve with expansions.",
+      "id": "1460c79dd3705ea886e63e7dddc2144b"
+    },
+    {
+      "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
+      "description": "OpenAI introduces Lockdown Mode for ChatGPT to mitigate data exfiltration risks. This feature restricts certain outbound requests.",
+      "category": "Security",
+      "source": "Internet",
+      "url": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBOQJLNqTRWigWAgPKNCKXr8hOgMZD4ZNb3lNzGbrvSj87BzK_VzrbaqMPVOo1wmCsILPHO2s5cdfu1I2nUOhNibPpzsOHko3qWQwCVXXVdi8yaqYjMJGBD6Fzz-eBmgJ1-Vy0E02L_X1xsT3neUlTTsn9s8e2ODQVYXNErvOz9VrHEIdJNfGhsASUV0ag/s1600/chatgpt-lockdown.jpg",
+      "published_at": "2026-06-06T13:36:00Z",
+      "key_points": [
+        "New Lockdown Mode introduced",
+        "Limits outbound requests",
+        "Reduces data exfiltration risks"
+      ],
+      "impact": "Enhanced security measures for ChatGPT users.",
+      "id": "cb1a6ca2a610ea2806bf94a76b55a110"
+    },
+    {
+      "title": "You can choose to resurrect Bosch in Street Fighter 6's World Tour mode",
+      "description": "Street Fighter 6 reveals Bosch as a new character in Season 4 DLC, allowing players to resurrect him in World Tour mode. Excitement builds for the DLC.",
+      "category": "Gaming",
+      "source": "EventHubs",
+      "url": "https://www.eventhubs.com/news/2026/jun/05/bosch-resurrect-street-fighter-6/",
+      "image": "https://media.eventhubs.com/images/2026/06/05_boschbnrt.webp",
+      "published_at": "2026-06-06T06:35:27Z",
+      "key_points": [
+        "Bosch joins Season 4 DLC",
+        "Players can resurrect him",
+        "World Tour mode feature"
+      ],
+      "impact": "New characters keep Street Fighter 6 fresh.",
+      "id": "3d75361adac88c1678a61881088cdffa"
+    },
+    {
+      "title": "Super Yooka-Laylee Kart announced, first details and trailer",
+      "description": "Playtonic announces Super Yooka-Laylee Kart, set for PC with potential Switch 2 release. The game promises exciting new features and gameplay.",
+      "category": "Gaming",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/super-yooka-laylee-kart-announced/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Super-Yooka-Laylee-Kart.jpg",
+      "published_at": "2026-06-05T23:57:25Z",
+      "key_points": [
+        "New kart racing game announced",
+        "Planned for PC and Switch 2",
+        "Exciting gameplay features expected"
+      ],
+      "impact": "Playtonic expands its universe with kart racing.",
+      "id": "39818daf72970ff0da919d05e2764852"
+    },
+    {
+      "title": "iOS 27 beta release date: When you can install the new iPhone update",
+      "description": "The iOS 27 beta is set to launch soon, allowing users to install pre-release software on their iPhones. Anticipation builds for new features.",
       "category": "Software",
       "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/06/ios-27-seven-new-features-are-coming-soon/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-pro-max-cosmic-orange-fi-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-06T15:10:00Z",
+      "url": "https://9to5mac.com/2026/06/05/ios-27-beta-release-date-when-you-can-install-the-new-iphone-update/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-when-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-05T15:00:00Z",
       "key_points": [
-        "iOS 27 launches Monday",
-        "Siri gets major updates",
-        "Seven new features expected"
+        "iOS 27 beta launching soon",
+        "Pre-release software available",
+        "New features anticipated"
       ],
-      "impact": "Users can look forward to enhanced functionality.",
-      "id": "0cbacc238c883013ba41c3b8d5925caa"
+      "impact": "Users eagerly await the latest iOS update.",
+      "id": "d889f264793185c4c246e1ea6f8d4ae5"
     },
     {
-      "title": "Benn Jordan Critiques Tech's Surveillance Culture",
-      "description": "Musician Benn Jordan transitions from synth reviews to critiquing the pervasive surveillance in technology.",
-      "category": "Geopolitics",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/report/942609/benn-jordan-music-gear-cybersecurity-surveillance-questionnaire",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/1000033192.jpg?quality=90&strip=all&crop=0%2C23.821989528796%2C100%2C52.356020942408&w=1200",
-      "published_at": "2026-06-06T15:00:00Z",
-      "key_points": [
-        "Critiques tech surveillance",
-        "Focus on privacy issues",
-        "Calls for better practices"
-      ],
-      "impact": "Raises awareness about privacy in technology.",
-      "id": "52447b7a133f933c3b6291b7a0d8457e"
-    },
-    {
-      "title": "Godzilla: Destroy All Monsters Melee Remastered Leaked",
-      "description": "A leak reveals Godzilla: Destroy All Monsters Melee Remastered is set for Nintendo Switch 2.",
-      "category": "Gaming",
-      "source": "Nintendo Everything",
-      "url": "https://nintendoeverything.com/godzilla-destroy-all-monsters-melee-remastered-leaks-for-nintendo-switch-2/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Godzilla-Destroy-All-Monsters-Melee-Remastered.jpg",
-      "published_at": "2026-06-06T13:41:13Z",
-      "key_points": [
-        "Remastered version confirmed",
-        "Coming to Nintendo Switch 2",
-        "Leak from reliable source"
-      ],
-      "impact": "Fans eagerly await this nostalgic release.",
-      "id": "ef38bd0fe14bcf9797d652b22c3cda7d"
-    },
-    {
-      "title": "Confirmed and Rumored Games for Xbox Showcase 2026",
-      "description": "The upcoming Xbox Games Showcase will feature a mix of confirmed and rumored titles.",
-      "category": "Gaming",
-      "source": "Insider Gaming",
-      "url": "https://insider-gaming.com/all-confirmed-rumored-games-for-xbox-games-showcase-2026/",
-      "image": "https://insider-gaming.com/wp-content/uploads/2025/05/Xbox-Games-Showcase-2025—Start-Date-Times-How-to-Watch-How-Long-is-it-What-to-Expect-guide.jpg",
-      "published_at": "2026-06-06T12:23:46Z",
-      "key_points": [
-        "Xbox Showcase approaching",
-        "Confirmed and rumored titles",
-        "Excitement builds for announcements"
-      ],
-      "impact": "Anticipation grows for new game reveals.",
-      "id": "bec9fb46d35c9a31b23d69c7dc682929"
-    },
-    {
-      "title": "Motorola Razr Ultra vs. Galaxy Z Flip 7: A Comparison",
-      "description": "The Motorola Razr Ultra and Galaxy Z Flip 7 offer distinct experiences despite similar designs.",
+      "title": "HP and Ferrari launch $5,599 AI PC limited to 4,999 units",
+      "description": "HP and Ferrari unveil a limited edition AI PC priced at $5,599, with only 4,999 units available across nine countries. The laptop features high-end specifications.",
       "category": "Hardware",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/motorola-razr-ultra-2026-vs-samsung-galaxy-z-flip-7-hands-on-comparison-3672416/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Motorola-Razr-Ultra-Galaxy-Z-Flip-7-against-sky-scaled.jpg",
-      "published_at": "2026-06-06T10:33:20Z",
+      "source": "Videocardz.com",
+      "url": "https://videocardz.com/newz/hp-and-ferrari-launch-5599-ai-pc-limited-to-4999-units",
+      "image": "https://cdn.videocardz.com/1/2026/06/HP-FERRARI-LUCE-NOTEBOOK-HERO.jpg",
+      "published_at": "2026-06-05T14:58:03Z",
       "key_points": [
-        "Distinct user experiences",
-        "Clamshell design comparison",
-        "Foldable phones popularity rises"
+        "Limited to 4,999 units",
+        "Priced at $5,599",
+        "Developed with Ferrari Design Studio"
       ],
-      "impact": "Consumers gain more foldable options.",
-      "id": "cbe7031b808ce9a7d361174d88561b91"
-    },
-    {
-      "title": "AI Agent Discovers 21 Zero-Days in FFmpeg",
-      "description": "An AI agent identifies 21 zero-day vulnerabilities in FFmpeg, while Chrome patches a record 429 bugs.",
-      "category": "Security",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyg1vRQART17ZjJXANnrQ8Vtn7h_tM5IihGJ4LnxbGTDFL1QSvR_lEDmVm7bsO84br04_oM-RM9ZgX-6b5yVQnEOTwKgk3KzImrhPBrI91GIYmQ-n09hq3vjF3tPVnNqVhHbV22BIxXg9zhGg4b2s4kATPjtnqGWldHRw29GexKQbEcX6HxG46vPfvo26l/s1600/chrome-update.jpg",
-      "published_at": "2026-06-06T07:28:00Z",
-      "key_points": [
-        "21 zero-days found",
-        "Chrome patches 429 bugs",
-        "AI enhances security measures"
-      ],
-      "impact": "Improves security across multiple platforms.",
-      "id": "28ecb8d88842de5f9553d37cc071ed99"
-    },
-    {
-      "title": "RuneScape: Dragonwilds Launching September 15, 2026",
-      "description": "RuneScape: Dragonwilds will be available on Xbox Series X|S starting September 15, 2026.",
-      "category": "Gaming",
-      "source": "Xbox Wire",
-      "url": "https://news.xbox.com/en-us/2026/06/05/runescape-dragonwilds-sgf-reveal/",
-      "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/Dragonwilds-16_9-Keyart-Hero-ff89b868569fc5f1611d.jpg",
-      "published_at": "2026-06-06T05:56:22Z",
-      "key_points": [
-        "Dragonwilds launches September 15",
-        "High-fantasy adventure awaits",
-        "First RuneScape on Xbox"
-      ],
-      "impact": "Expands RuneScape's reach to consoles.",
-      "id": "0fa51a959e9e0b87d8b8c2c36ff82fbd"
-    },
-    {
-      "title": "The Blood of Dawnwalker Trailer Teases Series Future",
-      "description": "A new trailer for The Blood of Dawnwalker hints at exciting developments for the series.",
-      "category": "Gaming",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/the-blood-of-dawnwalker-trailer-teases-future-of-the-series",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Dawnwalker-Teaser_06-05-26.jpg",
-      "published_at": "2026-06-05T22:11:45Z",
-      "key_points": [
-        "New trailer released",
-        "Teases future developments",
-        "Dark fantasy action RPG"
-      ],
-      "impact": "Builds anticipation for the series' future.",
-      "id": "32a06ceedc4cd76a957ca49a6b27c4e1"
-    },
-    {
-      "title": "Steam Machine Launch Confirmed for Summer",
-      "description": "Steam confirms the summer launch of its Steam Machine, despite rising component costs.",
-      "category": "Hardware",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/06/05/steam-machine-summer-launch-confirmed/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Steam-machine-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-05T21:43:00Z",
-      "key_points": [
-        "Steam Machine launching this summer",
-        "Component costs rising",
-        "Commitment to standalone PCs"
-      ],
-      "impact": "Potentially revitalizes the gaming PC market.",
-      "id": "73fe3df730e79df7c56419d1354264ec"
-    },
-    {
-      "title": "gen Atlas Announced by Ico Creators",
-      "description": "genDesign reveals gen Atlas, a new single-player action-adventure game from the creators of Ico and Shadow of the Colossus.",
-      "category": "Gaming",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/gen-atlas-announce-trailer-summer-game-fest-gendesign-fumito-ueda/",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/gen-atlas-project-robot.jpg?w=1600&h=900&fit=crop",
-      "published_at": "2026-06-05T21:16:59Z",
-      "key_points": [
-        "New game from genDesign",
-        "Single-player action-adventure",
-        "Announced at Summer Game Fest"
-      ],
-      "impact": "Excites fans of innovative game design.",
-      "id": "a93287a81023a56cebb82db8fc827c6c"
-    },
-    {
-      "title": "Google Chrome Tests Direct AI Mode Access",
-      "description": "Google is testing a feature in Chrome that directs users to AI Mode, skipping traditional search results.",
-      "category": "Software",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/06/05/google-tests-sending-users-straight-to-ai-mode-instead-of-search-in-chrome/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/02/google-chrome-laptop.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-05T13:45:00Z",
-      "key_points": [
-        "Testing AI Mode in Chrome",
-        "Bypasses traditional search",
-        "Potential shift in user experience"
-      ],
-      "impact": "Could redefine how users interact with search.",
-      "id": "7a59244dbccc8309327577f5bfe34ac2"
-    },
-    {
-      "title": "PlayStation State of Play Breaks Viewership Records",
-      "description": "Sony's latest PlayStation State of Play becomes the most-watched showcase ever, according to new data.",
-      "category": "Gaming",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/playstation-state-of-play-june-2026-most-watched",
-      "image": "https://assetsio.gnwcdn.com/MW_ExtGameplay_WolverineHero_4k_2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-05T10:54:05Z",
-      "key_points": [
-        "Most-watched State of Play",
-        "Sony's showcase success",
-        "Millions of views recorded"
-      ],
-      "impact": "Highlights Sony's strong engagement with fans.",
-      "id": "c18e062e0dbe1017ac8f3419b15faac5"
-    },
-    {
-      "title": "Anticipation Builds for Apple's Foldable iPhone Ultra",
-      "description": "Excitement grows as the launch of Apple's foldable iPhone Ultra approaches, with high expectations from consumers.",
-      "category": "Hardware",
-      "source": "PhoneArena",
-      "url": "https://www.phonearena.com/news/anticipation-for-apple-foldable-iphone-ultra-reaches-fever-pitch-as-launch-looms_id180889",
-      "image": "",
-      "published_at": "2026-06-05T03:46:36Z",
-      "key_points": [
-        "Foldable iPhone Ultra anticipated",
-        "High consumer expectations",
-        "Launch date nearing"
-      ],
-      "impact": "Could revolutionize the smartphone market.",
-      "id": "f9e030669e601b11993ef5ad14d2c5c9"
+      "impact": "A luxury PC collaboration between HP and Ferrari.",
+      "id": "33b891cc9ef9d673cb5a1f5bec639e6f"
     }
   ]
 }
