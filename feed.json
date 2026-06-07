@@ -1,101 +1,53 @@
 {
-  "generated_at": "2026-06-07T13:49:59.049290+00:00",
+  "generated_at": "2026-06-07T16:14:16.309017+00:00",
   "articles": [
     {
-      "title": "Assassin's Creed Co-Creator Re-Reveals 1666 Amsterdam, 30-Minute Demo Playable Now",
-      "description": "1666 Amsterdam, a historical action adventure, is back with a 30-minute demo at Summer Game Fest, revealed by co-creator Patrice Désilets.",
+      "title": "Sonic Racing: CrossWorlds adds Godzilla and Evangelion DLC",
+      "description": "SEGA announces new DLC for Sonic Racing: CrossWorlds featuring Godzilla and Evangelion. Release dates will be revealed later.",
       "category": "Gaming",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/assassins-creed-co-creator-re-reveals-1666-amsterdam-30-minute-demo-playable-now",
-      "image": "https://assets-prd.ignimgs.com/2026/06/05/hkfqknlwaaafark-1780697087378.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-05T22:40:26Z",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/sonic-racing-crossworlds-announces-godzilla-and-evangelion-dlc/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Sonic-Racing-CrossWorlds-Godzilla-and-Evangelion-DLC.png",
+      "published_at": "2026-06-06T01:32:46Z",
       "key_points": [
-        "Demo available now",
-        "Created by Patrice Désilets",
-        "Historical action adventure"
+        "New DLC features Godzilla",
+        "Evangelion collaboration announced",
+        "Release timing pending"
       ],
-      "impact": "1666 Amsterdam's return excites fans of the genre.",
-      "id": "ced01a6d13b7539f946e06d155cae14d"
+      "impact": "This expands Sonic Racing's appeal to fans.",
+      "id": "c3d82689b685dd0b2d833b234049de27"
     },
     {
-      "title": "RuneScape: Dragonwilds Leaves Early Access and Launches Across PC, PS5, and Xbox Series X and S in September",
-      "description": "RuneScape: Dragonwilds officially launches on September 15, 2026, across PC, PS5, and Xbox Series X and S, adding to a busy gaming month.",
+      "title": "Fumito Ueda unveils Gen Atlas for multiple platforms",
+      "description": "Legendary developer Fumito Ueda announces Gen Atlas, a new single-player game for Xbox, PlayStation, and PC. The game promises moments of quiet wonder and discovery.",
       "category": "Gaming",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/even-the-runescape-spinoff-is-coming-out-in-september",
-      "image": "https://assets-prd.ignimgs.com/2026/06/05/rsdw-dr-ss-03-4k-1780658722879.png?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-05T22:01:36Z",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/fumito-ueda-shadow-of-the-colossus-ico-gen-atlas-or-xbox-playstation-pc",
+      "image": "https://assetsio.gnwcdn.com/Ueda_FSZC1j7.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-05T21:18:10Z",
       "key_points": [
-        "Launch on September 15",
-        "Available on multiple platforms",
-        "Part of September gaming rush"
+        "New game by Fumito Ueda",
+        "Available on Xbox, PlayStation, PC",
+        "Focus on exploration and discovery"
       ],
-      "impact": "Dragonwilds adds to September's gaming excitement.",
-      "id": "4cf1f8b9ccd5aaaea01810c7c062f793"
+      "impact": "Ueda's new title raises anticipation among gamers.",
+      "id": "ce72100a3ca7802a21c74628c3a04cfa"
     },
     {
-      "title": "Control Resonant Preview - Hands-On With Remedy’s Surreal Take On Stylish Action",
-      "description": "Control Resonant offers a fresh melee-focused action experience, diverging from its predecessor's shooter mechanics, as previewed by Game Informer.",
+      "title": "Switch 2 sales plummet 87% in Japan",
+      "description": "Sales of the Switch 2 in Japan dropped 87% following a price increase. Original Switch sales also declined significantly.",
       "category": "Gaming",
-      "source": "Game Informer",
-      "url": "https://gameinformer.com/preview/2026/06/05/hands-on-with-remedys-surreal-take-on-stylish-action",
-      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/04/98c140c2/control-resonant-sgf-2026-4.jpg.webp",
-      "published_at": "2026-06-05T21:58:59Z",
+      "source": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/switch-2-sales-drop-87-in-japan-following-surge-ahead-of-cost-revisions",
+      "image": "https://assetsio.gnwcdn.com/how-much-will-switch-2-cost-nintendo-says-it-needs-to-consid_gvt1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-05T08:14:13Z",
       "key_points": [
-        "Melee-focused gameplay",
-        "Surreal action experience",
-        "Sequel to Control franchise"
+        "Switch 2 sales down 87%",
+        "Price increase impacts sales",
+        "Original Switch also sees decline"
       ],
-      "impact": "Control Resonant reinvents the franchise's gameplay.",
-      "id": "28a946bc96473f4ea849d3eb7cecd788"
-    },
-    {
-      "title": "Nintendo Switch 2: One Year Later",
-      "description": "Celebrating one year since its release, the Nintendo Switch 2 features enhanced hardware, a larger screen, and new Joy-Con controllers, improving the gaming experience.",
-      "category": "Gaming",
-      "source": "GameSpot",
-      "url": "https://www.gamespot.com/articles/nintendo-switch-2-one-year-later/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/06/switch-2-tour.webp",
-      "published_at": "2026-06-05T14:43:26Z",
-      "key_points": [
-        "One year since launch",
-        "Improved hardware features",
-        "New Joy-Con controllers"
-      ],
-      "impact": "Switch 2 continues to enhance gaming experiences.",
-      "id": "3666b4d1c07fb64a9c3e03cd842702d5"
-    },
-    {
-      "title": "Leak Reveals Microsoft Wants Its AI To Be ‘Addictive,’ CEO Satya Nadella Feigns Astonishment",
-      "description": "Microsoft's new AI assistant, Scout, reportedly aims for addictiveness, as revealed in a leaked internal document, surprising even CEO Satya Nadella.",
-      "category": "Business",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924",
-      "image": "https://kotaku.com/app/uploads/2026/06/scout2-1200x675.jpeg",
-      "published_at": "2026-06-05T13:08:43Z",
-      "key_points": [
-        "AI assistant named Scout",
-        "Leaked document reveals strategy",
-        "Nadella's reaction questioned"
-      ],
-      "impact": "Microsoft's AI strategy raises ethical concerns.",
-      "id": "61b07d25fa94a6886f3479b172e5c45d"
-    },
-    {
-      "title": "Elden Ring Tarnished Edition launches August 28",
-      "description": "Elden Ring's Tarnished Edition is set to launch for Switch 2 on August 28, alongside new downloadable content, enhancing the game's offerings.",
-      "category": "Gaming",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/elden-ring-tarnished-edition-launches-august-28",
-      "image": "https://www.gematsu.com/wp-content/uploads/2025/09/Elden-Ring-Switch-2_06-04-26.jpg",
-      "published_at": "2026-06-04T14:04:49Z",
-      "key_points": [
-        "Launch on August 28",
-        "Available for Switch 2",
-        "Includes new downloadable content"
-      ],
-      "impact": "Elden Ring expands its universe with new content.",
-      "id": "7288e7c537a2fdc49b9f8d025f394563"
+      "impact": "Nintendo faces challenges post-price revision.",
+      "id": "542ab5d6dc389657afd82b6710f4c366"
     }
   ]
 }

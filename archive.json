@@ -1,6 +1,61 @@
 {
   "batches": [
     {
+      "id": "2026-06-07T16:14:16.309017+00:00",
+      "fetched_at": "2026-06-07T16:14:16.309017+00:00",
+      "label": "Jun 07, 2026 — 04:14 PM UTC",
+      "articles": [
+        {
+          "title": "Sonic Racing: CrossWorlds adds Godzilla and Evangelion DLC",
+          "description": "SEGA announces new DLC for Sonic Racing: CrossWorlds featuring Godzilla and Evangelion. Release dates will be revealed later.",
+          "category": "Gaming",
+          "source": "Nintendoeverything.com",
+          "url": "https://nintendoeverything.com/sonic-racing-crossworlds-announces-godzilla-and-evangelion-dlc/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Sonic-Racing-CrossWorlds-Godzilla-and-Evangelion-DLC.png",
+          "published_at": "2026-06-06T01:32:46Z",
+          "key_points": [
+            "New DLC features Godzilla",
+            "Evangelion collaboration announced",
+            "Release timing pending"
+          ],
+          "impact": "This expands Sonic Racing's appeal to fans.",
+          "id": "c3d82689b685dd0b2d833b234049de27"
+        },
+        {
+          "title": "Fumito Ueda unveils Gen Atlas for multiple platforms",
+          "description": "Legendary developer Fumito Ueda announces Gen Atlas, a new single-player game for Xbox, PlayStation, and PC. The game promises moments of quiet wonder and discovery.",
+          "category": "Gaming",
+          "source": "Eurogamer.net",
+          "url": "https://www.eurogamer.net/fumito-ueda-shadow-of-the-colossus-ico-gen-atlas-or-xbox-playstation-pc",
+          "image": "https://assetsio.gnwcdn.com/Ueda_FSZC1j7.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-05T21:18:10Z",
+          "key_points": [
+            "New game by Fumito Ueda",
+            "Available on Xbox, PlayStation, PC",
+            "Focus on exploration and discovery"
+          ],
+          "impact": "Ueda's new title raises anticipation among gamers.",
+          "id": "ce72100a3ca7802a21c74628c3a04cfa"
+        },
+        {
+          "title": "Switch 2 sales plummet 87% in Japan",
+          "description": "Sales of the Switch 2 in Japan dropped 87% following a price increase. Original Switch sales also declined significantly.",
+          "category": "Gaming",
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/switch-2-sales-drop-87-in-japan-following-surge-ahead-of-cost-revisions",
+          "image": "https://assetsio.gnwcdn.com/how-much-will-switch-2-cost-nintendo-says-it-needs-to-consid_gvt1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-05T08:14:13Z",
+          "key_points": [
+            "Switch 2 sales down 87%",
+            "Price increase impacts sales",
+            "Original Switch also sees decline"
+          ],
+          "impact": "Nintendo faces challenges post-price revision.",
+          "id": "542ab5d6dc389657afd82b6710f4c366"
+        }
+      ]
+    },
+    {
       "id": "2026-06-07T13:49:59.049290+00:00",
       "fetched_at": "2026-06-07T13:49:59.049290+00:00",
       "label": "Jun 07, 2026 — 01:50 PM UTC",
@@ -6152,253 +6207,6 @@
           ],
           "impact": "Public understanding of security risks improves.",
           "id": "7e6c5b8cdf4c6d830ef99c1048c3e643"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-02T16:22:24.590235+00:00",
-      "fetched_at": "2026-06-02T16:22:24.590235+00:00",
-      "label": "Jun 02, 2026 — 04:23 PM UTC",
-      "articles": [
-        {
-          "title": "XBOX Games Showcase Returns This Sunday",
-          "description": "Tune in on June 7 for the XBOX Games Showcase featuring upcoming games and partnerships. Don't miss this annual double feature event!",
-          "category": "Gaming",
-          "source": "Xbox.com",
-          "url": "https://news.xbox.com/en-us/2026/06/01/xbox-games-showcase-2026-gears-of-war-e-day-direct-how-to-watch/",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/03/2026_Showcase_DoubleFeature_16x9-1-503e797dfa7152ff8c4e.jpg",
-          "published_at": "2026-06-01T13:01:58Z",
-          "key_points": [
-            "XBOX showcase on June 7",
-            "Annual double feature event",
-            "New game reveals expected"
-          ],
-          "impact": "Excitement builds for upcoming XBOX titles.",
-          "id": "6fa5de8d1a3f01a9b0f33ad4caa4f3f6"
-        },
-        {
-          "title": "Apple's Smart Glasses Delayed to Late 2027",
-          "description": "Apple's anticipated smart glasses will now launch in late 2027, as development faces delays. Leadership still prioritizes the project despite setbacks.",
-          "category": "Hardware",
-          "source": "CNET",
-          "url": "https://www.cnet.com/tech/mobile/apple-smart-glasses-development-bumps-reported-delay/",
-          "image": "https://www.cnet.com/a/img/resize/5f671472c03b96b400f40e34e65ef956d6d75dbd/hub/2025/09/26/4c593e3b-bdb4-4c62-90c4-553c0b8f8cb6/ray-ban-meta-gen2-5.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "published_at": "2026-06-01T12:39:00Z",
-          "key_points": [
-            "Smart glasses launch delayed",
-            "New release target: late 2027",
-            "Project remains a top priority"
-          ],
-          "impact": "Apple's smart glasses face significant delays.",
-          "id": "4d81112599991a823a42843045eb409a"
-        },
-        {
-          "title": "Strava Targets Scrapers Ahead of IPO",
-          "description": "Strava will implement a monthly fee for developers accessing its API, aiming to combat data scraping. This move comes as the company prepares for its IPO.",
-          "category": "Business",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/",
-          "image": "https://techcrunch.com/wp-content/uploads/2025/05/orange-shoes-strava.jpg?resize=1200,800",
-          "published_at": "2026-06-01T12:00:00Z",
-          "key_points": [
-            "Strava charges for API access",
-            "Combatting data scraping",
-            "Preparing for IPO"
-          ],
-          "impact": "Strava's new policy aims to protect data.",
-          "id": "e4ecef373454298da2b12b69973a5262"
-        },
-        {
-          "title": "New $599 MacBook Neo Rival Launched",
-          "description": "A new competitor to the MacBook Neo has launched at $599, surprising Windows PC makers. This move intensifies competition in the laptop market.",
-          "category": "Hardware",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/01/macbook-neo-rival-launched-at-599-nvidia-pc-chip-takes-on-apple-silicon/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/MacBook-Neo-rival-launched-at-599.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-01T12:00:00Z",
-          "key_points": [
-            "New laptop priced at $599",
-            "Competes with MacBook Neo",
-            "Windows makers caught off guard"
-          ],
-          "impact": "Competition in the laptop market heats up.",
-          "id": "29edca2999860e60f8c10c3cf4a051d2"
-        },
-        {
-          "title": "June's Miniature of the Month Revealed",
-          "description": "Warhammer Community reveals this month's collectible coin and miniature available in stores. Fans can grab these exclusive items now.",
-          "category": "Gaming",
-          "source": "Warhammer-community.com",
-          "url": "https://www.warhammer-community.com/articles/q17dwwtt/junes-miniature-of-the-month-and-collectible-coin-revealed",
-          "image": "https://assets.warhammer-community.com/motm-jun01-1-feature-t9maa9fbmm.jpg",
-          "published_at": "2026-06-01T11:59:08Z",
-          "key_points": [
-            "Collectible coin available now",
-            "Miniature of the month revealed",
-            "Exclusive in-store items"
-          ],
-          "impact": "Warhammer fans can collect new items.",
-          "id": "a50192b49e99681a86284b552a354f7a"
-        },
-        {
-          "title": "Microsoft Addresses MFA Outage Issues",
-          "description": "Microsoft is resolving an outage affecting multi-factor authentication (MFA) setup and My Sign-Ins platform access. Users are experiencing disruptions.",
-          "category": "Software",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/",
-          "image": "https://www.bleepingcomputer.com/content/hl-images/2021/09/15/Microsoft_passwordless.jpg",
-          "published_at": "2026-06-01T11:40:16Z",
-          "key_points": [
-            "MFA setup issues reported",
-            "Microsoft investigating outage",
-            "User access disrupted"
-          ],
-          "impact": "Microsoft works to restore MFA functionality.",
-          "id": "753f11e42677773fd56d94e9fff0b459"
-        },
-        {
-          "title": "Leaked Image Reveals iPhone Ultra Color",
-          "description": "A leaked image suggests the upcoming foldable iPhone Ultra will feature two color options. Anticipation builds for its launch later this year.",
-          "category": "Hardware",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/01/first-confirmed-iphone-ultra-color-leaked/",
-          "image": "https://images.macrumors.com/t/utojh2KSAyPpmL2zSSHd0_hnVQQ=/2500x/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-          "published_at": "2026-06-01T11:39:16Z",
-          "key_points": [
-            "Foldable iPhone Ultra coming soon",
-            "Leaked image shows color options",
-            "Launch expected later this year"
-          ],
-          "impact": "Excitement grows for the iPhone Ultra.",
-          "id": "ca7777af4b08464ce0e7dfa020186476"
-        },
-        {
-          "title": "The Outer Worlds Upgrade Issues Persist",
-          "description": "Players face ongoing issues with the free upgrade to The Outer Worlds: Spacer's Choice Edition. Problems continue to frustrate users.",
-          "category": "Gaming",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/the-outer-worlds-free-upgrade-issues",
-          "image": "https://assetsio.gnwcdn.com/sclk7s.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-01T11:08:08Z",
-          "key_points": [
-            "Free upgrade issues reported",
-            "Players frustrated with problems",
-            "Ongoing technical difficulties"
-          ],
-          "impact": "Players remain dissatisfied with upgrade process.",
-          "id": "789c5892929f3bb7f6b5cf716f53650e"
-        },
-        {
-          "title": "ASUS Launches 540Hz OLED Esports Monitor",
-          "description": "ASUS unveils its first 24.5-inch OLED esports monitor with a 540Hz refresh rate. This new addition enhances gaming performance.",
-          "category": "Hardware",
-          "source": "Videocardz.com",
-          "url": "https://videocardz.com/newz/asus-first-24-5-inch-540hz-oled-monitor-has-been-announced",
-          "image": "https://cdn.videocardz.com/1/2026/06/ASUS-ROG-26.5-INCH-OLED-MONITOR-HERO-1.jpg",
-          "published_at": "2026-06-01T11:01:10Z",
-          "key_points": [
-            "New 540Hz OLED monitor launched",
-            "24.5-inch size for esports",
-            "Enhanced gaming experience"
-          ],
-          "impact": "ASUS boosts esports monitor offerings.",
-          "id": "c5aa0ec2657958a6857513c09083d4b2"
-        },
-        {
-          "title": "Witcher 3 Expansion Sword Mystery Unveiled",
-          "description": "The identity of the sword in The Witcher 3's expansion artwork has sparked theories among fans. Its significance remains a topic of discussion.",
-          "category": "Gaming",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/witcher-3-expansion-songs-of-past-sword",
-          "image": "https://assetsio.gnwcdn.com/geralt-sword-songs-of-past-witcher-3-expansion.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-01T10:54:45Z",
-          "key_points": [
-            "Sword identity sparks fan theories",
-            "Expansion artwork raises questions",
-            "Significance of sword debated"
-          ],
-          "impact": "Fans engage in speculation over sword's meaning.",
-          "id": "2a8e28beb6086fd5f9ac1f247ae4edb7"
-        },
-        {
-          "title": "SEGA Leaker Reveals New Game Information",
-          "description": "A leaker has shared new details about upcoming SEGA and Atlus games, including Sonic and Persona franchises. Excitement builds for future releases.",
-          "category": "Gaming",
-          "source": "My Nintendo News",
-          "url": "https://mynintendonews.com/2026/06/01/jet-set-radio-leaker-has-leaked-sonic-ace-attorney-persona-crazy-taxi-information/",
-          "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2024/11/sega_logo.jpg?fit=2200%2C1100&ssl=1",
-          "published_at": "2026-06-01T10:44:21Z",
-          "key_points": [
-            "Leaker shares SEGA game details",
-            "New Sonic and Persona info",
-            "Excitement for upcoming releases"
-          ],
-          "impact": "Fans eager for new SEGA announcements.",
-          "id": "534226f39fffdfde65810f301ebfb8fb"
-        },
-        {
-          "title": "Xbox Fans React to Showcase Logo Controversy",
-          "description": "Fans express distrust over Microsoft's logo transparency in the recent Xbox Showcase. Concerns arise about the company's commitment to Xbox's success.",
-          "category": "Gaming",
-          "source": "Windows Central",
-          "url": "https://www.windowscentral.com/gaming/xbox/xbox-fan-backlash-to-playstation-logos-in-the-showcase-isnt-about-gatekeeping-its-about-distrust",
-          "image": "https://cdn.mos.cms.futurecdn.net/mgvjZ5C2ZGZ3P5yz49iUVM-2560-80.jpg",
-          "published_at": "2026-06-01T10:00:00Z",
-          "key_points": [
-            "Fan backlash over logo transparency",
-            "Concerns about Xbox's future",
-            "Distrust among the community"
-          ],
-          "impact": "Community concerns highlight trust issues.",
-          "id": "af283407007d986475f4078c7256cde7"
-        },
-        {
-          "title": "OpenAI Codex Tokens Stolen in Attack",
-          "description": "Authentication tokens for OpenAI Codex were stolen via a supply chain attack, affecting users since version 0.1.82. This breach allows persistent access.",
-          "category": "Security",
-          "source": "Internet",
-          "url": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4veBAmEJHF2nXN_nIgXeWxVSxlTDBc6uWiLwVCYNUqGMF9ZtPre3zF_CXmGnAxX2rbqfwgm_Au0tXvYwv1oTGim1STiGCeVOyMXglUTd-3LeJEN3q718Fdlck9mbQ6aUUYP0NM9S7bakZ4_XF5HHYH-cz2QmKBlge6xNMxbbEjDjZQ4wd1maPKnjgKrsu/s1600/codex.png",
-          "published_at": "2026-06-01T09:31:00Z",
-          "key_points": [
-            "Codex tokens stolen in attack",
-            "Supply chain vulnerability exploited",
-            "Persistent access granted to attackers"
-          ],
-          "impact": "Security breach raises concerns for developers.",
-          "id": "a3c1407f6b73903a16a1cc760df748ac"
-        },
-        {
-          "title": "GIGABYTE Launches New X870E Motherboard",
-          "description": "GIGABYTE introduces the X870E AORUS INFINITY NEXT motherboard, expanding its AORUS INFINITY series. This new model targets high-performance users.",
-          "category": "Hardware",
-          "source": "Videocardz.com",
-          "url": "https://videocardz.com/newz/gigabyte-unveils-x870e-aorus-infinity-next-motherboard",
-          "image": "https://cdn.videocardz.com/1/2026/06/AORUS-INFINITY-NEXT-X870-HERO.jpg",
-          "published_at": "2026-06-01T08:41:10Z",
-          "key_points": [
-            "New X870E motherboard launched",
-            "Targets high-performance users",
-            "Part of AORUS INFINITY series"
-          ],
-          "impact": "GIGABYTE enhances motherboard lineup.",
-          "id": "9db8fb8e33b4f539be0097a202dc14dd"
-        },
-        {
-          "title": "Tips to Manage Copilot in Windows 11",
-          "description": "Users can reduce or eliminate Copilot's presence in Windows 11 with practical options. Guidance is provided for those seeking alternatives.",
-          "category": "Software",
-          "source": "WTOP",
-          "url": "https://wtop.com/tech/2026/06/data-doctors-copilot-wont-leave-heres-what-to-do/",
-          "image": "https://wtop.com/wp-content/uploads/2026/03/Microsoft_5_th_28_52-scaled.jpg",
-          "published_at": "2026-06-01T08:04:33Z",
-          "key_points": [
-            "Options to manage Copilot",
-            "Reduce Copilot's presence",
-            "User-friendly guidance provided"
-          ],
-          "impact": "Users gain control over Copilot features.",
-          "id": "abfaf31376c169d135d2033c10e52f4e"
         }
       ]
     }
