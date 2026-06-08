@@ -1,165 +1,181 @@
 {
-  "generated_at": "2026-06-07T22:02:51.315403+00:00",
+  "generated_at": "2026-06-08T03:54:45.133163+00:00",
   "articles": [
     {
-      "title": "Godzilla vs GTA 6: Retro Remake Makes PlayStation Debut on PS5 This November",
-      "description": "Godzilla: Destroy All Monsters Melee Remastered launches on PS5 November 3 for $29.99. The game is powered by Unreal Engine 5.",
+      "title": "Star Trek: Shadow Frontier Unveiled for Multiple Platforms",
+      "description": "Bloober Team announces Star Trek: Shadow Frontier, a psychological thriller launching on PS5, Xbox Series, Switch 2, and PC. Fans can expect an immersive sci-fi experience.",
+      "category": "Gaming",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/bloober-team-announces-psychological-thriller-star-trek-shadow-frontier-for-ps5-xbox-series-switch-2-and-pc",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Star-Trek-Shadow-Frontier-Announce_06-06-26.jpg",
+      "published_at": "2026-06-06T23:12:57Z",
+      "key_points": [
+        "Psychological thriller genre",
+        "Multiple platform release",
+        "Developed by Bloober Team"
+      ],
+      "impact": "This game expands the Star Trek universe.",
+      "id": "cae3361f076c70fb33e2d19d04ba9d20"
+    },
+    {
+      "title": "Stellar Blade: Blood Rain Trailer Criticized for AI Use",
+      "description": "The reveal trailer for Stellar Blade: Blood Rain faces backlash for heavy reliance on generative AI. Fans express disappointment over the artistic integrity.",
       "category": "Gaming",
       "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/06/godzilla-vs-gta-6-retro-remake-makes-playstation-debut-on-ps5-this-november",
-      "image": "https://images.pushsquare.com/e2fa6b1f33159/large.jpg",
-      "published_at": "2026-06-06T21:15:00Z",
+      "url": "https://www.pushsquare.com/news/2026/06/stellar-blade-blood-rains-reveal-is-allegedly-riddled-with-generative-ai",
+      "image": "https://images.pushsquare.com/819425a793272/large.jpg",
+      "published_at": "2026-06-06T21:57:59Z",
       "key_points": [
-        "Launches November 3",
-        "Price set at $29.99",
-        "Powered by Unreal Engine 5"
+        "Generative AI controversy",
+        "Fan disappointment",
+        "Artistic integrity questioned"
       ],
-      "impact": "This remake revives a classic for new players.",
-      "id": "598d68e38afc3d4cd34171506fd7aad3"
+      "impact": "Concerns over AI may affect game reception.",
+      "id": "8173ee7a352954e79e092faf1b368380"
     },
     {
-      "title": "Nintendo Switch 2 - Year One: The Digital Foundry Verdict",
-      "description": "Digital Foundry reviews the first year of Nintendo Switch 2, highlighting significant improvements and future potential. The console shows promise for gamers.",
-      "category": "Gaming",
-      "source": "Digitalfoundry.net",
-      "url": "https://www.digitalfoundry.net/features/nintendo-switch-2-year-one-the-digital-foundry-verdict",
-      "image": "https://images.digitalfoundry.net/9c1dda69f7ee3/large.jpg",
-      "published_at": "2026-06-06T21:01:38Z",
-      "key_points": [
-        "Significant generational leap",
-        "Positive long-term outlook",
-        "Strong performance reviews"
-      ],
-      "impact": "Switch 2 sets a high bar for future consoles.",
-      "id": "05f63a15df12510da5f14ec8da9fa1c3"
-    },
-    {
-      "title": "Stellar Blade Blood Rain Trailer Reveal Is Raising AI Alarm Bells",
-      "description": "The reveal trailer for Stellar Blade: Blood Rain has sparked concerns over AI-generated content quality. Critics label it as 'AI slop'.",
-      "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/stellar-blade-blood-rains-reveal-trailer-is-raising-genai-alarm-bells-for-some-people-2000703444",
-      "image": "https://kotaku.com/app/uploads/2026/06/Stellar-Blade-Blood-Rain-image-from-official-trailer-Shift-Up-1200x675.jpg",
-      "published_at": "2026-06-06T19:51:19Z",
-      "key_points": [
-        "Trailer raises AI quality concerns",
-        "Critics call it 'AI slop'",
-        "High anticipation for sequel"
-      ],
-      "impact": "AI content quality remains a hot topic in gaming.",
-      "id": "33fa342fceb6621f33f367aa5d7a40b5"
-    },
-    {
-      "title": "One Of 2025's Best Games Is Getting A 'Nintendo Switch 2 Edition' This Month",
-      "description": "A popular game from 2025 is receiving a Nintendo Switch 2 edition this month, reigniting excitement among fans. The trend continues with new editions.",
-      "category": "Gaming",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/06/one-of-2025s-best-games-is-getting-a-nintendo-switch-2-edition-this-month",
-      "image": "https://images.nintendolife.com/eb4e9bf344c48/large.jpg",
-      "published_at": "2026-06-06T18:30:00Z",
-      "key_points": [
-        "New edition for Switch 2",
-        "Fans excited for release",
-        "Continues trend of remakes"
-      ],
-      "impact": "Switch 2 editions keep players engaged and excited.",
-      "id": "2440d2f68d474721468b7f81c6868467"
-    },
-    {
-      "title": "Monster Hunter Wilds Is So Back With Big Ascendance Expansion",
-      "description": "Capcom announces the Ascendance expansion for Monster Hunter Wilds, featuring Elder Dragons and new gameplay elements. The expansion is set for 2027.",
-      "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/monster-hunter-wilds-reveals-the-elder-dragons-are-coming-in-a-new-expansion-and-surprise-theres-a-switch-2-port-2000703218",
-      "image": "https://kotaku.com/app/uploads/2026/06/monster-hunter-1200x675.jpg",
-      "published_at": "2026-06-06T15:17:58Z",
-      "key_points": [
-        "New expansion called Ascendance",
-        "Features Elder Dragons",
-        "Set for release in 2027"
-      ],
-      "impact": "Monster Hunter continues to evolve with expansions.",
-      "id": "1460c79dd3705ea886e63e7dddc2144b"
-    },
-    {
-      "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
-      "description": "OpenAI introduces Lockdown Mode for ChatGPT to mitigate data exfiltration risks. This feature restricts certain outbound requests.",
-      "category": "Security",
-      "source": "Internet",
-      "url": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBOQJLNqTRWigWAgPKNCKXr8hOgMZD4ZNb3lNzGbrvSj87BzK_VzrbaqMPVOo1wmCsILPHO2s5cdfu1I2nUOhNibPpzsOHko3qWQwCVXXVdi8yaqYjMJGBD6Fzz-eBmgJ1-Vy0E02L_X1xsT3neUlTTsn9s8e2ODQVYXNErvOz9VrHEIdJNfGhsASUV0ag/s1600/chatgpt-lockdown.jpg",
-      "published_at": "2026-06-06T13:36:00Z",
-      "key_points": [
-        "New Lockdown Mode introduced",
-        "Limits outbound requests",
-        "Reduces data exfiltration risks"
-      ],
-      "impact": "Enhanced security measures for ChatGPT users.",
-      "id": "cb1a6ca2a610ea2806bf94a76b55a110"
-    },
-    {
-      "title": "You can choose to resurrect Bosch in Street Fighter 6's World Tour mode",
-      "description": "Street Fighter 6 reveals Bosch as a new character in Season 4 DLC, allowing players to resurrect him in World Tour mode. Excitement builds for the DLC.",
-      "category": "Gaming",
-      "source": "EventHubs",
-      "url": "https://www.eventhubs.com/news/2026/jun/05/bosch-resurrect-street-fighter-6/",
-      "image": "https://media.eventhubs.com/images/2026/06/05_boschbnrt.webp",
-      "published_at": "2026-06-06T06:35:27Z",
-      "key_points": [
-        "Bosch joins Season 4 DLC",
-        "Players can resurrect him",
-        "World Tour mode feature"
-      ],
-      "impact": "New characters keep Street Fighter 6 fresh.",
-      "id": "3d75361adac88c1678a61881088cdffa"
-    },
-    {
-      "title": "Super Yooka-Laylee Kart announced, first details and trailer",
-      "description": "Playtonic announces Super Yooka-Laylee Kart, set for PC with potential Switch 2 release. The game promises exciting new features and gameplay.",
-      "category": "Gaming",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/super-yooka-laylee-kart-announced/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Super-Yooka-Laylee-Kart.jpg",
-      "published_at": "2026-06-05T23:57:25Z",
-      "key_points": [
-        "New kart racing game announced",
-        "Planned for PC and Switch 2",
-        "Exciting gameplay features expected"
-      ],
-      "impact": "Playtonic expands its universe with kart racing.",
-      "id": "39818daf72970ff0da919d05e2764852"
-    },
-    {
-      "title": "iOS 27 beta release date: When you can install the new iPhone update",
-      "description": "The iOS 27 beta is set to launch soon, allowing users to install pre-release software on their iPhones. Anticipation builds for new features.",
+      "title": "iOS 27 Launching Monday with Major Updates",
+      "description": "iOS 27 is set to launch, featuring significant stability improvements and new Apple Intelligence capabilities. Updates are tailored for Apple's foldable iPhone.",
       "category": "Software",
       "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/05/ios-27-beta-release-date-when-you-can-install-the-new-iphone-update/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-when-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-05T15:00:00Z",
+      "url": "https://9to5mac.com/2026/06/06/ios-27-new-features/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27-guide.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-06T19:21:00Z",
       "key_points": [
-        "iOS 27 beta launching soon",
-        "Pre-release software available",
-        "New features anticipated"
+        "Major stability improvements",
+        "New Apple Intelligence features",
+        "Foldable iPhone updates"
       ],
-      "impact": "Users eagerly await the latest iOS update.",
-      "id": "d889f264793185c4c246e1ea6f8d4ae5"
+      "impact": "iOS 27 aims to enhance user experience.",
+      "id": "115321ef87439d9108120c2fd07432e8"
     },
     {
-      "title": "HP and Ferrari launch $5,599 AI PC limited to 4,999 units",
-      "description": "HP and Ferrari unveil a limited edition AI PC priced at $5,599, with only 4,999 units available across nine countries. The laptop features high-end specifications.",
-      "category": "Hardware",
-      "source": "Videocardz.com",
-      "url": "https://videocardz.com/newz/hp-and-ferrari-launch-5599-ai-pc-limited-to-4999-units",
-      "image": "https://cdn.videocardz.com/1/2026/06/HP-FERRARI-LUCE-NOTEBOOK-HERO.jpg",
-      "published_at": "2026-06-05T14:58:03Z",
+      "title": "WWDC 2026: Anticipated Siri Overhaul and Updates",
+      "description": "WWDC 2026 is approaching, promising a major Siri revamp and new Apple Intelligence features. Excitement builds for Apple's latest innovations.",
+      "category": "Software",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Apple-WWDC26-event-branding_big.jpg.large_.jpg?w=980",
+      "published_at": "2026-06-06T18:13:36Z",
       "key_points": [
-        "Limited to 4,999 units",
-        "Priced at $5,599",
-        "Developed with Ferrari Design Studio"
+        "Siri revamp expected",
+        "New Apple Intelligence features",
+        "Excitement for innovations"
       ],
-      "impact": "A luxury PC collaboration between HP and Ferrari.",
-      "id": "33b891cc9ef9d673cb5a1f5bec639e6f"
+      "impact": "WWDC 2026 could redefine Apple's software.",
+      "id": "fa9b3f426447e528fbfbf0586790f26f"
+    },
+    {
+      "title": "Bungie Offers Free Marathon Game After Misleading Description",
+      "description": "Bungie addresses a misleading PS5 store description by giving affected fans full access to the Marathon game. The company aims to rectify the situation.",
+      "category": "Gaming",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/06/bungie-fixes-marathon-mess-by-giving-away-full-game-to-fans-who-purchased-due-to-misleading-ps5-store-description",
+      "image": "https://images.pushsquare.com/a527b100205fa/large.jpg",
+      "published_at": "2026-06-06T16:00:00Z",
+      "key_points": [
+        "Misleading store description",
+        "Free game offer",
+        "Bungie's customer service"
+      ],
+      "impact": "Bungie's response may restore fan trust.",
+      "id": "baff7edec5c4d3f5b820b4cb7faf5638"
+    },
+    {
+      "title": "007 First Light Roadmap Confirms Switch 2 Release",
+      "description": "IO Interactive reveals the Year One roadmap for 007 First Light, confirming its release window for Switch 2. The game is already available on other platforms.",
+      "category": "Gaming",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/06/007-first-light-year-one-roadmap-revealed-reconfirms-switch-2-release-window",
+      "image": "https://images.nintendolife.com/a0c39b88e69d6/large.jpg",
+      "published_at": "2026-06-06T12:30:00Z",
+      "key_points": [
+        "Year One roadmap revealed",
+        "Switch 2 release confirmed",
+        "Sales update shared"
+      ],
+      "impact": "Fans await the Switch 2 launch eagerly.",
+      "id": "f64b29d9778b897cb4aa7c1a3de5678c"
+    },
+    {
+      "title": "HP Unveils Powerful AI PC with Nvidia GB300",
+      "description": "HP introduces the Nvidia GB300 workstation, the most powerful Windows AI PC, capable of handling one trillion parameters. It features 784GB unified memory.",
+      "category": "Hardware",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/pro/hp-announces-the-most-powerful-windows-ai-pc-ever-built-nvidia-gb300-workstation-can-handle-one-trillion-parameters-thanks-to-its-784gb-unified-memory-but-it-wont-be-cheap",
+      "image": "https://cdn.mos.cms.futurecdn.net/sjKs9hHvJ2otwxt3RBzLRM-1920-80.jpg",
+      "published_at": "2026-06-06T01:05:00Z",
+      "key_points": [
+        "Most powerful Windows AI PC",
+        "784GB unified memory",
+        "Handles one trillion parameters"
+      ],
+      "impact": "This PC sets a new performance standard.",
+      "id": "0fc21afa4732ad666e1ab53dc91aa5c6"
+    },
+    {
+      "title": "Tupac Shakur Joins SEGA’s Stranger Than Heaven",
+      "description": "Tupac Shakur will appear in SEGA’s upcoming game, Stranger Than Heaven, alongside notable actors. The game is highly anticipated.",
+      "category": "Gaming",
+      "source": "Gamespress.com",
+      "url": "https://www.gamespress.com/TUPAC-SHAKUR-JOINS-SEGAS-STRANGER-THAN-HEAVEN",
+      "image": "",
+      "published_at": "2026-06-05T23:59:08Z",
+      "key_points": [
+        "Tupac joins game cast",
+        "Highly anticipated title",
+        "Collaboration with RGG Studio"
+      ],
+      "impact": "This adds star power to the game.",
+      "id": "d4c1868ba8cbb2822916f90d4d68e7e2"
+    },
+    {
+      "title": "Gemini App Integrates Google Contacts for Insights",
+      "description": "The Gemini app introduces Google Contacts integration, enhancing personalized insights and responses. This feature aims to improve user experience.",
+      "category": "Software",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/06/05/gemini-google-contacts/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Gemini-app-Contacts.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-05T23:04:00Z",
+      "key_points": [
+        "New Google Contacts integration",
+        "Personalized insights",
+        "Enhanced user experience"
+      ],
+      "impact": "This feature boosts Gemini's functionality.",
+      "id": "63393e5d54e184a985e3d15d4e2a1551"
+    },
+    {
+      "title": "Blood Message Releases Story Trailer",
+      "description": "NetEase Games and 24 Entertainment unveil a story trailer for Blood Message, a cinematic action-adventure game. The trailer showcases its narrative depth.",
+      "category": "Gaming",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/blood-message-hold-till-dawn-story-trailer",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Blood-Message-PV_06-05-26.jpg",
+      "published_at": "2026-06-05T21:20:43Z",
+      "key_points": [
+        "Cinematic story trailer released",
+        "Single-player action-adventure",
+        "Narrative-driven gameplay"
+      ],
+      "impact": "The trailer heightens anticipation for the game.",
+      "id": "a968375da7ce221aa1717c586356beff"
+    },
+    {
+      "title": "Valve Announces Steam Machine Release Window",
+      "description": "Valve confirms the release window for its Steam Machine and Steam Frame hardware this summer. Pricing details remain undisclosed.",
+      "category": "Gaming",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/valve-steam-machine-release-window-3675116/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/Valve-Steam-Machine-wood-cover.jpg",
+      "published_at": "2026-06-05T17:46:54Z",
+      "key_points": [
+        "Steam Machine release confirmed",
+        "Steam Frame coming soon",
+        "Pricing still unknown"
+      ],
+      "impact": "Valve's hardware launch could reshape gaming.",
+      "id": "e52d24c66585b071b9d20edf29967e7a"
     }
   ]
 }

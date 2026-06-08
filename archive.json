@@ -1,6 +1,189 @@
 {
   "batches": [
     {
+      "id": "2026-06-08T03:54:45.133163+00:00",
+      "fetched_at": "2026-06-08T03:54:45.133163+00:00",
+      "label": "Jun 08, 2026 — 03:55 AM UTC",
+      "articles": [
+        {
+          "title": "Star Trek: Shadow Frontier Unveiled for Multiple Platforms",
+          "description": "Bloober Team announces Star Trek: Shadow Frontier, a psychological thriller launching on PS5, Xbox Series, Switch 2, and PC. Fans can expect an immersive sci-fi experience.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/bloober-team-announces-psychological-thriller-star-trek-shadow-frontier-for-ps5-xbox-series-switch-2-and-pc",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Star-Trek-Shadow-Frontier-Announce_06-06-26.jpg",
+          "published_at": "2026-06-06T23:12:57Z",
+          "key_points": [
+            "Psychological thriller genre",
+            "Multiple platform release",
+            "Developed by Bloober Team"
+          ],
+          "impact": "This game expands the Star Trek universe.",
+          "id": "cae3361f076c70fb33e2d19d04ba9d20"
+        },
+        {
+          "title": "Stellar Blade: Blood Rain Trailer Criticized for AI Use",
+          "description": "The reveal trailer for Stellar Blade: Blood Rain faces backlash for heavy reliance on generative AI. Fans express disappointment over the artistic integrity.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/stellar-blade-blood-rains-reveal-is-allegedly-riddled-with-generative-ai",
+          "image": "https://images.pushsquare.com/819425a793272/large.jpg",
+          "published_at": "2026-06-06T21:57:59Z",
+          "key_points": [
+            "Generative AI controversy",
+            "Fan disappointment",
+            "Artistic integrity questioned"
+          ],
+          "impact": "Concerns over AI may affect game reception.",
+          "id": "8173ee7a352954e79e092faf1b368380"
+        },
+        {
+          "title": "iOS 27 Launching Monday with Major Updates",
+          "description": "iOS 27 is set to launch, featuring significant stability improvements and new Apple Intelligence capabilities. Updates are tailored for Apple's foldable iPhone.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/06/ios-27-new-features/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27-guide.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-06T19:21:00Z",
+          "key_points": [
+            "Major stability improvements",
+            "New Apple Intelligence features",
+            "Foldable iPhone updates"
+          ],
+          "impact": "iOS 27 aims to enhance user experience.",
+          "id": "115321ef87439d9108120c2fd07432e8"
+        },
+        {
+          "title": "WWDC 2026: Anticipated Siri Overhaul and Updates",
+          "description": "WWDC 2026 is approaching, promising a major Siri revamp and new Apple Intelligence features. Excitement builds for Apple's latest innovations.",
+          "category": "Software",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/Apple-WWDC26-event-branding_big.jpg.large_.jpg?w=980",
+          "published_at": "2026-06-06T18:13:36Z",
+          "key_points": [
+            "Siri revamp expected",
+            "New Apple Intelligence features",
+            "Excitement for innovations"
+          ],
+          "impact": "WWDC 2026 could redefine Apple's software.",
+          "id": "fa9b3f426447e528fbfbf0586790f26f"
+        },
+        {
+          "title": "Bungie Offers Free Marathon Game After Misleading Description",
+          "description": "Bungie addresses a misleading PS5 store description by giving affected fans full access to the Marathon game. The company aims to rectify the situation.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/bungie-fixes-marathon-mess-by-giving-away-full-game-to-fans-who-purchased-due-to-misleading-ps5-store-description",
+          "image": "https://images.pushsquare.com/a527b100205fa/large.jpg",
+          "published_at": "2026-06-06T16:00:00Z",
+          "key_points": [
+            "Misleading store description",
+            "Free game offer",
+            "Bungie's customer service"
+          ],
+          "impact": "Bungie's response may restore fan trust.",
+          "id": "baff7edec5c4d3f5b820b4cb7faf5638"
+        },
+        {
+          "title": "007 First Light Roadmap Confirms Switch 2 Release",
+          "description": "IO Interactive reveals the Year One roadmap for 007 First Light, confirming its release window for Switch 2. The game is already available on other platforms.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/007-first-light-year-one-roadmap-revealed-reconfirms-switch-2-release-window",
+          "image": "https://images.nintendolife.com/a0c39b88e69d6/large.jpg",
+          "published_at": "2026-06-06T12:30:00Z",
+          "key_points": [
+            "Year One roadmap revealed",
+            "Switch 2 release confirmed",
+            "Sales update shared"
+          ],
+          "impact": "Fans await the Switch 2 launch eagerly.",
+          "id": "f64b29d9778b897cb4aa7c1a3de5678c"
+        },
+        {
+          "title": "HP Unveils Powerful AI PC with Nvidia GB300",
+          "description": "HP introduces the Nvidia GB300 workstation, the most powerful Windows AI PC, capable of handling one trillion parameters. It features 784GB unified memory.",
+          "category": "Hardware",
+          "source": "TechRadar",
+          "url": "https://www.techradar.com/pro/hp-announces-the-most-powerful-windows-ai-pc-ever-built-nvidia-gb300-workstation-can-handle-one-trillion-parameters-thanks-to-its-784gb-unified-memory-but-it-wont-be-cheap",
+          "image": "https://cdn.mos.cms.futurecdn.net/sjKs9hHvJ2otwxt3RBzLRM-1920-80.jpg",
+          "published_at": "2026-06-06T01:05:00Z",
+          "key_points": [
+            "Most powerful Windows AI PC",
+            "784GB unified memory",
+            "Handles one trillion parameters"
+          ],
+          "impact": "This PC sets a new performance standard.",
+          "id": "0fc21afa4732ad666e1ab53dc91aa5c6"
+        },
+        {
+          "title": "Tupac Shakur Joins SEGA’s Stranger Than Heaven",
+          "description": "Tupac Shakur will appear in SEGA’s upcoming game, Stranger Than Heaven, alongside notable actors. The game is highly anticipated.",
+          "category": "Gaming",
+          "source": "Gamespress.com",
+          "url": "https://www.gamespress.com/TUPAC-SHAKUR-JOINS-SEGAS-STRANGER-THAN-HEAVEN",
+          "image": "",
+          "published_at": "2026-06-05T23:59:08Z",
+          "key_points": [
+            "Tupac joins game cast",
+            "Highly anticipated title",
+            "Collaboration with RGG Studio"
+          ],
+          "impact": "This adds star power to the game.",
+          "id": "d4c1868ba8cbb2822916f90d4d68e7e2"
+        },
+        {
+          "title": "Gemini App Integrates Google Contacts for Insights",
+          "description": "The Gemini app introduces Google Contacts integration, enhancing personalized insights and responses. This feature aims to improve user experience.",
+          "category": "Software",
+          "source": "9to5google.com",
+          "url": "http://9to5google.com/2026/06/05/gemini-google-contacts/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Gemini-app-Contacts.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-05T23:04:00Z",
+          "key_points": [
+            "New Google Contacts integration",
+            "Personalized insights",
+            "Enhanced user experience"
+          ],
+          "impact": "This feature boosts Gemini's functionality.",
+          "id": "63393e5d54e184a985e3d15d4e2a1551"
+        },
+        {
+          "title": "Blood Message Releases Story Trailer",
+          "description": "NetEase Games and 24 Entertainment unveil a story trailer for Blood Message, a cinematic action-adventure game. The trailer showcases its narrative depth.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/blood-message-hold-till-dawn-story-trailer",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Blood-Message-PV_06-05-26.jpg",
+          "published_at": "2026-06-05T21:20:43Z",
+          "key_points": [
+            "Cinematic story trailer released",
+            "Single-player action-adventure",
+            "Narrative-driven gameplay"
+          ],
+          "impact": "The trailer heightens anticipation for the game.",
+          "id": "a968375da7ce221aa1717c586356beff"
+        },
+        {
+          "title": "Valve Announces Steam Machine Release Window",
+          "description": "Valve confirms the release window for its Steam Machine and Steam Frame hardware this summer. Pricing details remain undisclosed.",
+          "category": "Gaming",
+          "source": "Android Authority",
+          "url": "https://www.androidauthority.com/valve-steam-machine-release-window-3675116/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/Valve-Steam-Machine-wood-cover.jpg",
+          "published_at": "2026-06-05T17:46:54Z",
+          "key_points": [
+            "Steam Machine release confirmed",
+            "Steam Frame coming soon",
+            "Pricing still unknown"
+          ],
+          "impact": "Valve's hardware launch could reshape gaming.",
+          "id": "e52d24c66585b071b9d20edf29967e7a"
+        }
+      ]
+    },
+    {
       "id": "2026-06-07T22:02:51.315403+00:00",
       "fetched_at": "2026-06-07T22:02:51.315403+00:00",
       "label": "Jun 07, 2026 — 10:03 PM UTC",
@@ -5976,141 +6159,6 @@
           ],
           "impact": "This reinforces AMD's competitive CPU offerings.",
           "id": "ff1f6707965c9370af69bad8977303b8"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-03T03:58:26.125300+00:00",
-      "fetched_at": "2026-06-03T03:58:26.125300+00:00",
-      "label": "Jun 03, 2026 — 03:58 AM UTC",
-      "articles": [
-        {
-          "title": "Nvidia Targets $200B CPU Market with AI PCs",
-          "description": "Nvidia unveils the RTX Spark superchip at Computex, aiming to revolutionize AI agent PCs with Microsoft, Dell, and HP. This could reshape the CPU landscape significantly.",
-          "category": "Hardware",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
-          "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761886.jpg?resize=1200,828",
-          "published_at": "2026-06-01T21:35:00Z",
-          "key_points": [
-            "Nvidia launches RTX Spark superchip",
-            "Targets AI agent PCs",
-            "Competing in $200B market"
-          ],
-          "impact": "Nvidia's move could disrupt the CPU market.",
-          "id": "7a8f5bd4e5874c0c15979a651f86e480"
-        },
-        {
-          "title": "Google Pixel Watch 5 Spoiled by Randy Pitchford",
-          "description": "Randy Pitchford claims his friend found the Google Pixel Watch 5 while scuba diving, potentially revealing its design ahead of the official launch.",
-          "category": "Gaming",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/randy-pitchford-google-watch.jpg?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
-          "published_at": "2026-06-01T20:59:14Z",
-          "key_points": [
-            "Pixel Watch 5 design leaked",
-            "Found while scuba diving",
-            "Randy Pitchford involved"
-          ],
-          "impact": "This leak may affect Pixel Watch 5's launch.",
-          "id": "1e36bc5f75af6f112dec6a73207afdf8"
-        },
-        {
-          "title": "Google Releases Final Android 17 Beta 4.1 Update",
-          "description": "Google rolls out Android 17 Beta 4.1 for Pixel devices, focusing on bug fixes ahead of the stable release.",
-          "category": "Software",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/06/01/android-17-beta-4-1-pixel/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Android-17-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-01T20:30:00Z",
-          "key_points": [
-            "Android 17 Beta 4.1 released",
-            "Focus on bug fixes",
-            "Prepares for stable launch"
-          ],
-          "impact": "This update enhances user experience for Pixel.",
-          "id": "04c0c9320d387282edadf0e6f47299dd"
-        },
-        {
-          "title": "Dell's $700 XPS 13 Aims at MacBook Neo",
-          "description": "Dell introduces a budget-friendly XPS 13 at $699.99, designed to compete with Apple's MacBook Neo while offering unique advantages.",
-          "category": "Hardware",
-          "source": "PCMag",
-          "url": "https://www.pcmag.com/news/at-computex-2026-dell-700-xps-13-sets-its-sights-apple-macbook-neo",
-          "image": "https://i.pcmag.com/imagery/articles/00XIYAzgj0ySGqepc2jVujm-6.fit_lim.size_1200x630.v1779992597.jpg",
-          "published_at": "2026-06-01T18:05:07Z",
-          "key_points": [
-            "Dell XPS 13 priced at $699.99",
-            "Targets MacBook Neo",
-            "Offers competitive features"
-          ],
-          "impact": "Dell's strategy could reshape budget laptop market.",
-          "id": "072beb73d2996c64fbc8b8b0f365bfe6"
-        },
-        {
-          "title": "Sony Reveals PlayStation Accessories Release Date",
-          "description": "Sony announces pricing and release details for new PlayStation accessories, including a $200 Bluetooth fight stick launching on August 6.",
-          "category": "Gaming",
-          "source": "CNET",
-          "url": "https://www.cnet.com/tech/gaming/sony-playstation-accessories/",
-          "image": "https://www.cnet.com/a/img/resize/8192642f88943a0d834cde13f88b076cafecc886/hub/2026/05/29/f8872970-272f-4331-a1d8-c75ae9a180ff/image-9.png?auto=webp&fit=crop&height=675&width=1200",
-          "published_at": "2026-06-01T15:01:00Z",
-          "key_points": [
-            "New accessories announced",
-            "Bluetooth fight stick costs $200",
-            "Preorders start June 12"
-          ],
-          "impact": "These accessories expand the PlayStation ecosystem.",
-          "id": "e0e181a797c93bceed35218ca420f5bc"
-        },
-        {
-          "title": "Valve Faces Antitrust Challenges Over Steam",
-          "description": "Valve is under scrutiny in the US and UK for alleged market abuse through its Steam platform, with the company denying the claims.",
-          "category": "Geopolitics",
-          "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/features/2026-06-01/valve-s-antitrust-reckoning-over-steam-has-echoes-of-apple-google-app-store-sui",
-          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9tgFpD6fcXo/v0/1200x630.jpg",
-          "published_at": "2026-06-01T09:00:04Z",
-          "key_points": [
-            "Valve faces antitrust lawsuits",
-            "Accused of market abuse",
-            "Company denies allegations"
-          ],
-          "impact": "This could reshape Valve's business practices.",
-          "id": "6b09f79e22942e528015dab5e28dd49e"
-        },
-        {
-          "title": "AMD Promises Longevity for AM5 Platform",
-          "description": "AMD commits to supporting its AM5 platform until 2030, while reintroducing older components to extend usability for users.",
-          "category": "Hardware",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/1505974-dr-lisa-su-ryzen.jpg?quality=90&strip=all&crop=0%2C1.7777777777778%2C74.4%2C69.249563699825&w=1200",
-          "published_at": "2026-06-01T00:00:00Z",
-          "key_points": [
-            "AMD supports AM5 until 2030",
-            "Reintroducing older chips",
-            "Focus on user longevity"
-          ],
-          "impact": "AMD's strategy may enhance customer loyalty.",
-          "id": "22c53716733b21e4e8687df61a0389eb"
-        },
-        {
-          "title": "007 First Light Becomes Denmark's Costliest Project",
-          "description": "The development of 007 First Light has exceeded $200 million, marking it as Denmark's most expensive entertainment project to date.",
-          "category": "Gaming",
-          "source": "MP1st",
-          "url": "https://mp1st.com/news/007-first-light-cost-over-200-million-develop-denmarks-expensive-entertainment-project",
-          "image": "https://mp1st.com/wp-content/uploads/2026/05/007-first-light-image4.jpg",
-          "published_at": "2026-05-31T19:05:08Z",
-          "key_points": [
-            "007 First Light costs over $200 million",
-            "Denmark's most expensive project",
-            "Developed by IO Interactive"
-          ],
-          "impact": "This sets a new benchmark for entertainment budgets.",
-          "id": "52ae0100023b970b40547435cb88f6d6"
         }
       ]
     }
