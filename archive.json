@@ -1,6 +1,173 @@
 {
   "batches": [
     {
+      "id": "2026-06-08T22:25:43.047543+00:00",
+      "fetched_at": "2026-06-08T22:25:43.047543+00:00",
+      "label": "Jun 08, 2026 — 10:26 PM UTC",
+      "articles": [
+        {
+          "title": "Spyro Returns on PS5 in A Realm Beyond",
+          "description": "Spyro the Dragon is back with a new game, 'A Realm Beyond,' launching on PS5 in Spring 2027. The announcement trailer is now available.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/spyro-returns-on-ps5-in-a-realm-beyond-his-first-original-game-in-nearly-20-years",
+          "image": "https://images.pushsquare.com/5c3d37a802bef/large.jpg",
+          "published_at": "2026-06-07T17:11:00Z",
+          "key_points": [
+            "New Spyro game announced",
+            "Launches Spring 2027",
+            "Developed by Toys for Bob"
+          ],
+          "impact": "Spyro's return revitalizes interest in classic franchises.",
+          "id": "56e6f9a697b4cb95c3e4b346c8ac1769"
+        },
+        {
+          "title": "The Big Bad Wolf Among Us 2 Interview",
+          "description": "Telltale CEO discusses the long-awaited sequel, 'The Wolf Among Us 2,' and its development challenges. The game is set for a 2027 release.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/telltale-ceo-explains-why-the-wolf-among-us-2-has-taken-so-long-and-what-happened-with-that-split-with-dispatch-maker-ad-hoc",
+          "image": "https://assets-prd.ignimgs.com/2026/06/05/waur-screenshot-8-1780651084233.png?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-07T16:35:04Z",
+          "key_points": [
+            "Sequel finally in development",
+            "Launch planned for 2027",
+            "Partnership changes discussed"
+          ],
+          "impact": "Fans eagerly await the return of Bigby Wolf.",
+          "id": "bf8c54d53632faad5cdb02f652d99a0c"
+        },
+        {
+          "title": "‘Star Trek’ Goes To the Scary Frontier",
+          "description": "Bloober Team is developing 'Star Trek: Shadow Frontier,' a horror-themed video game set in the Star Trek universe. Expect psychological thrills.",
+          "category": "Gaming",
+          "source": "Gizmodo",
+          "url": "https://gizmodo.com/star-trek-goes-to-the-scary-frontier-in-next-major-video-game-2000768429",
+          "image": "https://gizmodo.com/app/uploads/2026/06/star-trek-shadow-hed-1200x675.jpg",
+          "published_at": "2026-06-07T15:50:51Z",
+          "key_points": [
+            "New horror Star Trek game",
+            "Developed by Bloober Team",
+            "Psychological thrills await"
+          ],
+          "impact": "This game expands Star Trek's genre boundaries.",
+          "id": "7df3a145dd3f678f24c08dc3cca79013"
+        },
+        {
+          "title": "Minecraft Dungeons II Gameplay Reveal",
+          "description": "Minecraft Dungeons II is set to release on September 28, 2026, with an exciting new gameplay trailer now available. Prepare for new adventures!",
+          "category": "Gaming",
+          "source": "Minecraft",
+          "url": "https://www.minecraft.net/en-us/article/minecraft-dungeons-ii-date-announce",
+          "image": "https://www.minecraft.net/content/dam/minecraftnet/games/spicewood/key-art/xboxliveshowcase_1170x500.jpg",
+          "published_at": "2026-06-07T15:21:57Z",
+          "key_points": [
+            "Release date: September 28",
+            "New gameplay trailer released",
+            "Exciting adventures await"
+          ],
+          "impact": "Fans are excited for the next Minecraft adventure.",
+          "id": "9f68330e85d1a0c5d2477bf8f2edbdb7"
+        },
+        {
+          "title": "Why Did Apple Stop Using Titanium For iPhones?",
+          "description": "Apple has dropped titanium for the iPhone 17 Pro, despite its previous popularity. The decision is based on practical considerations.",
+          "category": "Business",
+          "source": "BGR",
+          "url": "https://www.bgr.com/2185760/why-did-apple-stop-using-titanium-for-iphones/",
+          "image": "https://www.bgr.com/img/gallery/why-did-apple-stop-using-titanium-for-iphones/l-intro-1780414291.jpg",
+          "published_at": "2026-06-07T12:17:00Z",
+          "key_points": [
+            "Titanium was a selling point",
+            "Dropped for iPhone 17 Pro",
+            "Practical reasons behind decision"
+          ],
+          "impact": "Apple's material choices impact product marketing.",
+          "id": "79fca7491d90ee22c50dc0a1ac142d34"
+        },
+        {
+          "title": "How to Watch Apple’s WWDC 2026 Keynote",
+          "description": "Apple's WWDC 2026 is approaching, featuring updates on iOS 27 and potential new hardware. Here's how to tune in.",
+          "category": "Software",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/how-to-watch-apple-wwdc-2026/",
+          "image": "https://media.wired.com/photos/6a202a61b10c1400bea9fbfd/191:100/w_1280,c_limit/GettyImages-2218819259.jpg",
+          "published_at": "2026-06-07T09:30:00Z",
+          "key_points": [
+            "WWDC 2026 is upcoming",
+            "Expect iOS 27 updates",
+            "Potential new hardware announcements"
+          ],
+          "impact": "WWDC sets the stage for Apple's software future.",
+          "id": "59cf36be06d3ff671c2021300466335b"
+        },
+        {
+          "title": "Samsung Galaxy S26 Ultra Review",
+          "description": "The Samsung Galaxy S26 Ultra impresses with its consistent excellence and innovative features, solidifying its place in the Android market.",
+          "category": "Hardware",
+          "source": "Digital Trends",
+          "url": "https://www.digitaltrends.com/phones/samsung-galaxy-s26-ultra-review/",
+          "image": "https://www.digitaltrends.com/tachyon/2026/06/samsung-galaxy-s26-ultra-smartphone-4.jpg?resize=1200%2C630",
+          "published_at": "2026-06-07T05:00:51Z",
+          "key_points": [
+            "Consistent excellence showcased",
+            "Innovative features highlighted",
+            "Strong Android contender"
+          ],
+          "impact": "Samsung continues to lead in smartphone innovation.",
+          "id": "7fabe76198a95b30ac0463b387d4807b"
+        },
+        {
+          "title": "The 12-Month Mac: MacBook Neo's New Lifecycle",
+          "description": "Apple's MacBook Neo aligns with the iPhone lifecycle, raising questions about demand and resource allocation for new models.",
+          "category": "Business",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/ewanspence/2026/06/06/apple-macbook-neo-silicon-margins-strategy/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/69c809ae802570fd0a3387e1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-07T00:38:13Z",
+          "key_points": [
+            "MacBook Neo follows iPhone lifecycle",
+            "Demand and resources questioned",
+            "Strategic alignment with smartphones"
+          ],
+          "impact": "Apple's strategy may reshape laptop sales.",
+          "id": "22c6949d422472e3014ded63c65e7b70"
+        },
+        {
+          "title": "Microsoft Lets You Kill Bing in Windows 11 Search",
+          "description": "Microsoft is testing a feature to disable Bing in Windows 11 Search, allowing users to remove unwanted web results.",
+          "category": "Software",
+          "source": "Windows Latest",
+          "url": "https://www.windowslatest.com/2026/06/07/microsoft-is-letting-you-kill-bing-in-windows-11-search-after-years-of-forcing-it-on-every-pc/",
+          "image": "https://www.windowslatest.com/wp-content/uploads/2026/06/Windows-Search-without-Bing-scaled.jpg",
+          "published_at": "2026-06-06T23:44:23Z",
+          "key_points": [
+            "New toggle for Windows 11 Search",
+            "Disables Bing and web results",
+            "User control over search experience"
+          ],
+          "impact": "Users gain more control over search functionality.",
+          "id": "6bb3d1542e7ad27945a2ca35a940c097"
+        },
+        {
+          "title": "Control Resonant Developer Remedy's September Release Plan",
+          "description": "Remedy plans a major marketing campaign for 'Control Resonant' to navigate a crowded September release window.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/control-resonant-developer-remedy-admits-packed-september-release-window-is-challenging-but-it-has-a-plan",
+          "image": "https://assets-prd.ignimgs.com/2026/06/06/ss-75b1cde9947eea89eed52cf8f6471683f2e666a9-1920x1080-1780781092322.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-06T21:26:03Z",
+          "key_points": [
+            "Packed September release window",
+            "Major marketing campaign planned",
+            "Remedy aims to stand out"
+          ],
+          "impact": "Remedy's strategy is crucial for success.",
+          "id": "e8b5e902bb5d388cfc89c2c2a34c234a"
+        }
+      ]
+    },
+    {
       "id": "2026-06-08T20:13:08.479819+00:00",
       "fetched_at": "2026-06-08T20:13:08.479819+00:00",
       "label": "Jun 08, 2026 — 08:13 PM UTC",
@@ -5992,253 +6159,6 @@
           ],
           "impact": "Fans are thrilled for the StarFox remake.",
           "id": "d8c789301a76d3bb69f239a54126b552"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-03T23:05:34.680902+00:00",
-      "fetched_at": "2026-06-03T23:05:34.680902+00:00",
-      "label": "Jun 03, 2026 — 11:06 PM UTC",
-      "articles": [
-        {
-          "title": "PlayStation State of Play June 2026: Major Reveals",
-          "description": "Sony's State of Play showcased exciting PS5 titles, including a new Wolverine game. The event took place on June 2nd, ahead of Summer Game Fest.",
-          "category": "Gaming",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/entertainment/940913/playstation-state-of-play-june-2026-news-trailers",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23986615/acastro_STK097_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-06-02T21:55:32Z",
-          "key_points": [
-            "New Wolverine game revealed",
-            "Major PS5 titles showcased",
-            "Event precedes Summer Game Fest"
-          ],
-          "impact": "Sony's showcase sets the stage for summer gaming.",
-          "id": "2668343af38b595df2dcbfdb48c08f76"
-        },
-        {
-          "title": "Rayman Legends Retold Coming to Nintendo Switch 2",
-          "description": "Ubisoft officially announced Rayman Legends Retold for Nintendo Switch 2, launching on October 1, 2026. The remake features enhanced visuals in 2.5D/3D.",
-          "category": "Gaming",
-          "source": "Nintendo Everything",
-          "url": "https://nintendoeverything.com/rayman-legends-retold-announced-for-nintendo-switch-2/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Rayman-Legends-Retold.jpg",
-          "published_at": "2026-06-02T21:19:45Z",
-          "key_points": [
-            "Rayman Legends remake announced",
-            "Launch date set for October 1",
-            "Enhanced 2.5D/3D visuals"
-          ],
-          "impact": "Ubisoft revitalizes a classic for new audiences.",
-          "id": "8f1a65f40f73b4c4fc3b1787ada31354"
-        },
-        {
-          "title": "YouTube TV Offers 50% Off Google TV Streamer",
-          "description": "YouTube TV subscribers can now get a 50% discount on the Google TV Streamer with a promo code. This offer enhances the viewing experience for members.",
-          "category": "Business",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/06/02/youtube-tv-google-tv-streamer/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/YouTube-TV-Google-TV-Streamer.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-02T20:40:00Z",
-          "key_points": [
-            "50% discount for subscribers",
-            "Promo code available now",
-            "Enhances viewing experience"
-          ],
-          "impact": "YouTube TV boosts subscriber value with discounts.",
-          "id": "5557e7d965dede54096bed2ecf78dd42"
-        },
-        {
-          "title": "iOS 27 Unveiling: Exciting New Features Ahead",
-          "description": "Apple's iOS 27 will be unveiled on June 8 at WWDC, featuring five rumored new features that promise significant enhancements.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/02/ios-27-is-coming-here-are-five-new-features-im-most-excited-about/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/siri-app-icon-iphone-home-screen-angle.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-02T20:21:00Z",
-          "key_points": [
-            "iOS 27 to debut June 8",
-            "Five new features anticipated",
-            "Major Siri overhaul expected"
-          ],
-          "impact": "Apple's iOS 27 aims to enhance user experience.",
-          "id": "2f22c1c5cd4906942a237031df361c85"
-        },
-        {
-          "title": "Cyberdecks Trend: DIY Hardware Rebellion",
-          "description": "DIY cyberdecks are gaining popularity as users showcase solar-powered devices and retro tech. This trend emphasizes a rejection of big tech surveillance.",
-          "category": "Hardware",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/06/cyberdeck-bimbotech-scaled-1.jpeg?resize=1200,675",
-          "published_at": "2026-06-02T20:20:00Z",
-          "key_points": [
-            "DIY cyberdecks trending",
-            "Focus on retro tech",
-            "Rejecting big tech surveillance"
-          ],
-          "impact": "Cyberdecks symbolize a cultural shift in tech.",
-          "id": "2fbf0b019a52247172049667d0cf738e"
-        },
-        {
-          "title": "Microsoft Launches Open-Source Intelligent Terminal",
-          "description": "Microsoft has introduced the Intelligent Terminal, an open-source project under the MIT license, enhancing terminal capabilities.",
-          "category": "Software",
-          "source": "Phoronix",
-          "url": "https://www.phoronix.com/news/Microsoft-Intelligent-Terminal",
-          "image": "https://www.phoronix.net/image.php?id=2026&image=intelligent_terminal",
-          "published_at": "2026-06-02T19:18:00Z",
-          "key_points": [
-            "New open-source terminal launched",
-            "Under MIT license",
-            "Enhances terminal functionality"
-          ],
-          "impact": "Microsoft expands open-source contributions with new terminal.",
-          "id": "61083eed4067ef22985ed37f99672438"
-        },
-        {
-          "title": "Microsoft's AI Assistant 'Scout' Aims for User Addiction",
-          "description": "Internal documents reveal Microsoft's strategy to make users addicted to its new AI assistant, Scout, before adding features.",
-          "category": "Software",
-          "source": "404 Media",
-          "url": "https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/",
-          "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/CleanShot-2026-06-02-at-11.41.47@2x.png",
-          "published_at": "2026-06-02T18:48:46Z",
-          "key_points": [
-            "Scout aims for user addiction",
-            "Internal strategy revealed",
-            "Focus on feature rollout later"
-          ],
-          "impact": "Microsoft's strategy raises ethical concerns in AI.",
-          "id": "f5d9fcdb46158703341c96ed4cd95005"
-        },
-        {
-          "title": "Ex-Anduril Engineer Raises $42M for Composite Parts Startup",
-          "description": "Zack Eakin's Layup Parts secures $42 million to innovate in composite manufacturing, leveraging his motorsports background.",
-          "category": "Startups",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/02/ex-anduril-engineer-raises-42m-to-build-the-amazon-of-composite-parts/",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/06/layup-parts-hq.jpeg?resize=1200,626",
-          "published_at": "2026-06-02T18:00:00Z",
-          "key_points": [
-            "$42M raised for Layup Parts",
-            "Focus on composite manufacturing",
-            "Innovative motorsports background"
-          ],
-          "impact": "Startup aims to revolutionize composite parts industry.",
-          "id": "a2148cb7bebe2583217ee98da990e6cb"
-        },
-        {
-          "title": "Crocs x Super Mario Collection Launching Soon",
-          "description": "The Crocs x Super Mario collection is set to release on July 15, 2026, expanding the partnership between Nintendo and Crocs.",
-          "category": "Gaming",
-          "source": "Nintendo Everything",
-          "url": "https://nintendoeverything.com/crocs-x-super-mario-collection-announced/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Super-Mario-Crocs.jpg",
-          "published_at": "2026-06-02T16:48:53Z",
-          "key_points": [
-            "New Crocs collection announced",
-            "Based on Super Mario franchise",
-            "Release date: July 15, 2026"
-          ],
-          "impact": "Collaboration brings fun footwear to fans.",
-          "id": "97594ff83eac96dcd3efe309da49ea10"
-        },
-        {
-          "title": "Toy Story Games Coming to Nintendo Switch 2",
-          "description": "Toy Story: Retro Roundup and Toy Story 3 Complete Edition announced for Nintendo Switch 2, expanding the franchise's gaming presence.",
-          "category": "Gaming",
-          "source": "Nintendo Everything",
-          "url": "https://nintendoeverything.com/toy-story-retro-roundup-toy-story-3-complete-edition-announced-for-nintendo-switch-2-and-switch/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Toy-Story-Retro-Roundup-and-Toy-Story-3-Complete-Edition.jpg",
-          "published_at": "2026-06-02T16:03:53Z",
-          "key_points": [
-            "Two new Toy Story games announced",
-            "Available on Switch 2",
-            "Exciting franchise expansion"
-          ],
-          "impact": "Toy Story games enhance Nintendo's lineup.",
-          "id": "9cbc21640836710c82a38d41fcfd849e"
-        },
-        {
-          "title": "Camp Snap 2: New Features for Kids",
-          "description": "The Camp Snap 2 camera introduces new filters and remains screenless, making it more user-friendly for children.",
-          "category": "Hardware",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/941427/camp-snap-2-digital-screenless-camera-filters-kid-lock",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/campsnap2_1.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200",
-          "published_at": "2026-06-02T15:00:00Z",
-          "key_points": [
-            "New filters added",
-            "Screenless design continues",
-            "Kid-friendly features enhanced"
-          ],
-          "impact": "Camp Snap 2 targets young photographers.",
-          "id": "26a0fcc53b3222e563a418b5e6f6413b"
-        },
-        {
-          "title": "Apple's MacBook Neo Gains Popularity",
-          "description": "Apple's MacBook Neo sold 1.1 million units shortly after launch, appealing to a new generation of buyers in the laptop market.",
-          "category": "Business",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/02/apples-macbook-neo-is-winning-over-a-new-generation-of-buyers/",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-macbook-neo.jpg?resize=1200,800",
-          "published_at": "2026-06-02T14:39:29Z",
-          "key_points": [
-            "1.1 million units sold",
-            "Appealing to younger buyers",
-            "Strengthening Apple's market position"
-          ],
-          "impact": "MacBook Neo reshapes Apple's customer base.",
-          "id": "69edf393fd8746aaf04e8ad97336659a"
-        },
-        {
-          "title": "Crimson Desert Summer Update Roadmap Revealed",
-          "description": "Pearl Abyss announced new content and features for Crimson Desert, including a major DLC currently in development.",
-          "category": "Gaming",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/crimson-desert-summer-2026-update-roadmap",
-          "image": "https://assetsio.gnwcdn.com/Crimson-Desert_boss-fight.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-02T14:31:38Z",
-          "key_points": [
-            "New content roadmap revealed",
-            "Major DLC in development",
-            "Player feedback considered"
-          ],
-          "impact": "Crimson Desert continues to evolve post-launch.",
-          "id": "b06a65176598e8e8cb1170816585f4c0"
-        },
-        {
-          "title": "Kawasaki Unveils New 2027 Two-Strokes",
-          "description": "Kawasaki introduces its new two-stroke models, including significant updates to the KX450 for 2027, enhancing performance and design.",
-          "category": "Hardware",
-          "source": "Racer X",
-          "url": "https://racerxonline.com/2026/06/02/the-kx-327-kawasakis-new-two-strokes-are-finally-here",
-          "image": "https://rxi.iscdn.net/2026/06/329654_img9920.jpg?w=1200&h=630&fit=crop&crop=faces",
-          "published_at": "2026-06-02T13:25:00Z",
-          "key_points": [
-            "New two-stroke models launched",
-            "KX450 updates announced",
-            "Enhanced performance features"
-          ],
-          "impact": "Kawasaki's new models set industry standards.",
-          "id": "59dc93044fd1eead142719064e7030a2"
-        },
-        {
-          "title": "Google Fixes Android Zero-Day and 124 Vulnerabilities",
-          "description": "Google's June 2026 security patches address 124 vulnerabilities, including a critical zero-day flaw actively exploited in attacks.",
-          "category": "Security",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
-          "image": "https://www.bleepstatic.com/content/hl-images/2026/03/03/Android-red.jpg",
-          "published_at": "2026-06-02T11:10:15Z",
-          "key_points": [
-            "124 vulnerabilities patched",
-            "Critical zero-day fixed",
-            "Enhancing Android security"
-          ],
-          "impact": "Google strengthens Android security with updates.",
-          "id": "1bd0700275600712a87e56ea49bec87a"
         }
       ]
     }
