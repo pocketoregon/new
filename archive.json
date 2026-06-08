@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-08T20:13:08.479819+00:00",
+      "fetched_at": "2026-06-08T20:13:08.479819+00:00",
+      "label": "Jun 08, 2026 — 08:13 PM UTC",
+      "articles": [
+        {
+          "title": "Final Fantasy VII Revelation: Queen's Blood Returns",
+          "description": "Final Fantasy VII Remake Trilogy director reveals changes to the beloved card game in the trilogy's final entry. Exciting updates await fans of Queen's Blood.",
+          "category": "Gaming",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/preview/2026/06/07/queens-blood-is-back-and-has-a-new-protagonist",
+          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/07/644b1a08/ffviirevelation01.jpg.webp",
+          "published_at": "2026-06-07T19:05:36Z",
+          "key_points": [
+            "New protagonist introduced",
+            "Card game updates revealed",
+            "Final entry in trilogy"
+          ],
+          "impact": "Fans can expect significant gameplay changes.",
+          "id": "de4a43f5c906b40e7f9ff475c2dddb55"
+        },
+        {
+          "title": "Castlevania: Belmont’s Curse Delayed on Switch",
+          "description": "Castlevania: Belmont’s Curse will launch on October 15, 2026, but the Nintendo Switch version will be delayed. Players on other platforms will get it on time.",
+          "category": "Gaming",
+          "source": "Nintendo Everything",
+          "url": "https://nintendoeverything.com/castlevania-belmonts-curse-wont-be-on-nintendo-switch-at-launch/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Castlevania-Belmonts-Curse-Switch-launch-timing.jpg",
+          "published_at": "2026-06-07T18:57:47Z",
+          "key_points": [
+            "Switch version delayed",
+            "Launch date set for October",
+            "Other platforms unaffected"
+          ],
+          "impact": "Switch players must wait longer for release.",
+          "id": "ac7f16c89e926770bf0fc78d188b76ac"
+        },
+        {
+          "title": "Xbox's Exclusive Strategy Confusion Continues",
+          "description": "Microsoft's approach to Xbox console exclusives remains unclear, with some first-party games exclusive to Xbox while others may come to PlayStation 5.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/xboxs-strategy-on-exclusives-is-more-confusing-than-ever-2000703739",
+          "image": "https://kotaku.com/app/uploads/2026/06/xbox-1200x675.jpg",
+          "published_at": "2026-06-07T18:56:04Z",
+          "key_points": [
+            "Confusion over exclusivity",
+            "Some games won't reach PlayStation",
+            "Unprecedented strategy continues"
+          ],
+          "impact": "Gamers are left uncertain about future titles.",
+          "id": "7c43a63f577477257eebba69c076ff90"
+        },
+        {
+          "title": "Crazy Taxi World Tour: AI Controversy Unveiled",
+          "description": "Sega announces Crazy Taxi World Tour, but faces backlash for using generative AI in development. Fans react to the controversial decision.",
+          "category": "Gaming",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/crazy-taxi-world-tour-officially-announced-sega-immediately-upsets-everyone-by-announcing-it-used-generative-ai",
+          "image": "https://assetsio.gnwcdn.com/crazy-taxi-.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-07T18:36:52Z",
+          "key_points": [
+            "Game officially announced",
+            "Generative AI used",
+            "Fan backlash ensues"
+          ],
+          "impact": "Sega's AI use sparks heated discussions.",
+          "id": "b91462c4c52d0a1676ed5121bfe92ff6"
+        },
+        {
+          "title": "Halo: Campaign Evolved Launches July 28",
+          "description": "Halo: Campaign Evolved is set to launch on July 28, 2026, with pre-orders now available. Early access begins on July 23.",
+          "category": "Gaming",
+          "source": "XBOX Wire",
+          "url": "https://news.xbox.com/en-us/2026/06/07/halo-campaign-evolved-launch-preorder-xbox-games-showcase-2026/",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/HALO-CE-Standard-Hero-e854c175faac9c8a2a78.jpg",
+          "published_at": "2026-06-07T18:30:02Z",
+          "key_points": [
+            "Launch date confirmed",
+            "Pre-orders available now",
+            "Early access starts July 23"
+          ],
+          "impact": "Fans eagerly await the new Halo experience.",
+          "id": "9a20b217c970867785069a89cfd44495"
+        },
+        {
+          "title": "XBOX Games Showcase 2026 Highlights",
+          "description": "The XBOX Games Showcase 2026 featured new exclusives, anniversary hardware, and exciting game announcements. A recap of the event is now available.",
+          "category": "Gaming",
+          "source": "XBOX Wire",
+          "url": "https://news.xbox.com/en-us/2026/06/07/xbox-games-showcase-2026-recap-everything-announced/",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/HERO-a9c68c46239cc2afb5ac.jpg",
+          "published_at": "2026-06-07T18:11:27Z",
+          "key_points": [
+            "Showcase featured new exclusives",
+            "Anniversary hardware revealed",
+            "Exciting game announcements"
+          ],
+          "impact": "XBOX showcases its commitment to gaming innovation.",
+          "id": "178ea395c757fea93fcb33f816887f61"
+        },
+        {
+          "title": "Clockwork Revolution Set for 2027 Launch",
+          "description": "First-person RPG Clockwork Revolution will launch in 2027 for Xbox Series and PC. Players will manipulate time in a steampunk setting.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/clockwork-revolution-launches-in-2027",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Clockwork-Date_06-07-26.jpg",
+          "published_at": "2026-06-07T18:03:28Z",
+          "key_points": [
+            "Launch set for 2027",
+            "Time manipulation gameplay",
+            "Steampunk setting"
+          ],
+          "impact": "Gamers anticipate a unique RPG experience.",
+          "id": "f0527b8211cab599ffc2d2b057c2e3b1"
+        },
+        {
+          "title": "Persona 6 Announced for Multiple Platforms",
+          "description": "ATLUS has officially announced Persona 6 for PS5, Xbox Series, and PC. No release date has been provided yet.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/persona-6-announced-for-ps5-xbox-series-and-pc",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/P6-Ann_06-07-26.jpg",
+          "published_at": "2026-06-07T17:57:55Z",
+          "key_points": [
+            "Persona 6 officially announced",
+            "Available on multiple platforms",
+            "Release date not revealed"
+          ],
+          "impact": "Fans eagerly await more details on Persona 6.",
+          "id": "b0877871073bf673e28154bf9ea5e935"
+        },
+        {
+          "title": "Microsoft Unveils 25th Anniversary Xbox Console",
+          "description": "Microsoft reveals a translucent green anniversary console featuring a glowing Xbox button and matching controller. A nostalgic tribute to Xbox's legacy.",
+          "category": "Gaming",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/945359/microsoft-xbox-25th-anniversary-console-controller-release-date",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/X25-Collection-44fa4f8521aeaf755181.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+          "published_at": "2026-06-07T17:45:48Z",
+          "key_points": [
+            "Anniversary console unveiled",
+            "Translucent green design",
+            "Glowing Xbox button"
+          ],
+          "impact": "A nostalgic celebration of Xbox's history.",
+          "id": "1729ad1835c89b5d082622042fe81c47"
+        },
+        {
+          "title": "Senua: New Action-Adventure Game Revealed",
+          "description": "Ninja Theory introduces Senua, a new action-adventure game set in the Hellblade universe. Details revealed during the XBOX Games Showcase.",
+          "category": "Gaming",
+          "source": "XBOX Wire",
+          "url": "https://news.xbox.com/en-us/2026/06/07/senua-ninja-theory-details-interview-action-adventure-xbox-games-showcase-2026/",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/Key-Art-f25498b526451edba564.jpg",
+          "published_at": "2026-06-07T17:36:23Z",
+          "key_points": [
+            "New game in Hellblade universe",
+            "Details shared at showcase",
+            "Exciting gameplay elements"
+          ],
+          "impact": "Fans are excited for Senua's new adventure.",
+          "id": "ebb587394c41d10aa9be980b0751516f"
+        },
+        {
+          "title": "Fallout 76 Launches P.R.O.T.E.C.T. Protocol",
+          "description": "Fallout 76 players can log in daily for rewards from June 7 to June 15. Participate in the Community Challenge to unlock exclusive items.",
+          "category": "Gaming",
+          "source": "Fallout | Bethesda.net",
+          "url": "https://fallout.bethesda.net/en/article/3sUk3hPTpo7k34RgoR9H7x/fallout-76-protect-protocol",
+          "image": "//images.ctfassets.net/rporu91m20dc/2Kjkm93decSfNFfsmKDqF0/1ad446aefab5471f02869be629f6fd42/F76_PROTECT_Protocol_HERO_1920x870.jpg",
+          "published_at": "2026-06-07T17:35:13Z",
+          "key_points": [
+            "Daily login rewards available",
+            "Community Challenge launched",
+            "Unlock exclusive power armor"
+          ],
+          "impact": "Players are incentivized to engage daily.",
+          "id": "e055da5b7cc259cc7cc94f4a6d3a3800"
+        },
+        {
+          "title": "State of Decay 3 Gameplay Revealed",
+          "description": "The first gameplay reveal for State of Decay 3 showcases open-world exploration, multiplayer, and crafting elements. Fans are excited for the new features.",
+          "category": "Gaming",
+          "source": "XBOX Wire",
+          "url": "https://news.xbox.com/en-us/2026/06/07/state-of-decay-3-first-gameplay-reveal-xbox-games-showcase-2026/",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/Xbox_SOD3_yourchoicesmatter-27b62de54d5434c90114.jpg",
+          "published_at": "2026-06-07T17:21:23Z",
+          "key_points": [
+            "Gameplay reveal showcased",
+            "New crafting and exploration",
+            "Multiplayer features highlighted"
+          ],
+          "impact": "Fans are eager for State of Decay 3.",
+          "id": "f83d4a074330c4c8bef46d0117b4242e"
+        },
+        {
+          "title": "Persona 4 Revival Launches February 2027",
+          "description": "Persona 4 Revival will be available on February 18, 2027, for PS5, Xbox Series, and PC. Pre-orders are now open.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/persona-4-revival-launches-february-18-2027",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/P4R-Release_06-07-26.jpg",
+          "published_at": "2026-06-07T17:17:01Z",
+          "key_points": [
+            "Launch date set for February 2027",
+            "Available on multiple platforms",
+            "Pre-orders now open"
+          ],
+          "impact": "Fans can secure their copies early.",
+          "id": "98f0f851c2c1019486fcde3daa73e27a"
+        },
+        {
+          "title": "Nintendo Switch Now Supports Classic Wii Games",
+          "description": "Nintendo Switch owners can now access classic Wii and GameCube games. Instructions for playing these titles are available online.",
+          "category": "Gaming",
+          "source": "BGR",
+          "url": "https://www.bgr.com/2185981/nintendo-switch-wii-gamecube-emulation/",
+          "image": "https://www.bgr.com/img/gallery/nintendo-switch-owners-can-now-play-their-classic-wii-and-gamecube-games-heres-how/l-intro-1780424727.jpg",
+          "published_at": "2026-06-07T17:17:00Z",
+          "key_points": [
+            "Classic games available now",
+            "Instructions for access provided",
+            "Wii and GameCube titles playable"
+          ],
+          "impact": "Nintendo Switch expands its game library.",
+          "id": "0e2bc6636fce1bb8316e9ad066fbab63"
+        },
+        {
+          "title": "Fable Reveals Cast Including Hayley Atwell",
+          "description": "Fable's new trailer showcases its cast, including Hayley Atwell as the villain. Exciting gameplay and story elements were also revealed.",
+          "category": "Gaming",
+          "source": "XBOX Wire",
+          "url": "https://news.xbox.com/en-us/2026/06/07/fable-cast-list-new-trailer-hayley-atwell-xbox-games-showcase-2026/",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/01/Fable-497a240ce212355686c6.jpg",
+          "published_at": "2026-06-07T17:16:23Z",
+          "key_points": [
+            "New trailer reveals cast",
+            "Hayley Atwell plays villain",
+            "Gameplay and story showcased"
+          ],
+          "impact": "Fable's cast adds excitement to the game.",
+          "id": "09617f7f6f5e99ea10a519c5fbfde4ad"
+        }
+      ]
+    },
+    {
       "id": "2026-06-08T15:49:47.534196+00:00",
       "fetched_at": "2026-06-08T15:49:47.534196+00:00",
       "label": "Jun 08, 2026 — 03:50 PM UTC",
@@ -5992,253 +6239,6 @@
           ],
           "impact": "Google strengthens Android security with updates.",
           "id": "1bd0700275600712a87e56ea49bec87a"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-03T20:54:35.233903+00:00",
-      "fetched_at": "2026-06-03T20:54:35.233903+00:00",
-      "label": "Jun 03, 2026 — 08:55 PM UTC",
-      "articles": [
-        {
-          "title": "Microsoft Build 2026: Top 7 Announcements",
-          "description": "Microsoft's Build 2026 showcased major updates in AI, Surface devices, and Windows. The keynote emphasized AI advancements significantly.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/nadella-build-2026.png?quality=90&strip=all&crop=0%2C2.9395307941329%2C100%2C94.120938411734&w=1200",
-          "published_at": "2026-06-02T19:23:52Z",
-          "key_points": [
-            "AI updates dominate the keynote",
-            "Surface devices showcased",
-            "Windows enhancements revealed"
-          ],
-          "impact": "Microsoft reinforces its AI leadership position.",
-          "id": "312f7282d6e49f3f31f0ce69891cc6dc"
-        },
-        {
-          "title": "Microsoft Launches Scout, New AI Assistant",
-          "description": "At Build, Microsoft introduced Scout, an AI assistant inspired by OpenClaw, enhancing Microsoft 365's capabilities.",
-          "category": "Software",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
-          "image": "https://techcrunch.com/wp-content/uploads/2025/07/microsoft-logo-1865237814.jpg?resize=1200,863",
-          "published_at": "2026-06-02T18:02:44Z",
-          "key_points": [
-            "Scout enhances Microsoft 365",
-            "Inspired by OpenClaw",
-            "Focus on AI flexibility"
-          ],
-          "impact": "Scout aims to improve user productivity.",
-          "id": "d011fdfd6855c8f9b1c8e767aee992f3"
-        },
-        {
-          "title": "Android's New Feature Fights Phone Scams",
-          "description": "Android 12 and later users can now verify callers with a new feature in Google Dialer that sends a silent confirmation signal.",
-          "category": "Security",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/android-is-fighting-phone-scams-with-a-new-feature-to-prove-whos-calling/",
-          "image": "https://media.wired.com/photos/6a1e109306c20c623706f3b2/191:100/w_1280,c_limit/GettyImages-2210115053.jpg",
-          "published_at": "2026-06-02T18:00:00Z",
-          "key_points": [
-            "New feature in Google Dialer",
-            "Verifies caller identity",
-            "Available on Android 12+"
-          ],
-          "impact": "Android enhances security against scams.",
-          "id": "144c749da6aaeffcb0c4bec135d5f4da"
-        },
-        {
-          "title": "Indie Game ‘Mina the Hollower’ Hits 300,000 Sales",
-          "description": "The action-platformer ‘Mina the Hollower’ sold 300,000 copies in just three days, becoming 2026's best-reviewed game.",
-          "category": "Gaming",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-02/indie-video-game-mina-the-hollower-sells-300-000-copies-in-three-days",
-          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irTwbW.7XCCw/v1/1200x674.png",
-          "published_at": "2026-06-02T17:20:25Z",
-          "key_points": [
-            "300,000 copies sold",
-            "Best-reviewed game of 2026",
-            "Developed by Yacht Club Games"
-          ],
-          "impact": "Indie games gain significant market traction.",
-          "id": "4cb9e525e20c22fc0361f08b8529bf66"
-        },
-        {
-          "title": "Microsoft Launches MXC for AI Agents",
-          "description": "Microsoft's MXC is an OS-level sandbox for AI agents, providing secure runtime controls and policy enforcement for enterprises.",
-          "category": "Software",
-          "source": "VentureBeat",
-          "url": "https://venturebeat.com/security/microsoft-launches-mxc-an-os-level-sandbox-for-ai-agents-with-openai-and-nvidia-already-on-board",
-          "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2Bj8ehmUSTCeqnkJ3pPCjc/f9782b3575c73ccecb809afd58e7acd2/Nuneybits_Vector_art_of_the_iconic_Microsoft_Windows_logo_on_a__b8c7cdb1-4983-4e68-94a9-93fbef23357b.webp?w=800&q=75",
-          "published_at": "2026-06-02T16:30:00Z",
-          "key_points": [
-            "MXC for AI agent security",
-            "Supports OpenAI and Nvidia",
-            "Enhances enterprise controls"
-          ],
-          "impact": "MXC strengthens enterprise AI security.",
-          "id": "402b4fbdd5e6d78e066df6fa9714ab5c"
-        },
-        {
-          "title": "AI Threatens Foundations of Mathematics",
-          "description": "Experts warn that AI is reshaping mathematics and call for clear standards to guide its integration into the field.",
-          "category": "Science",
-          "source": "Gizmodo",
-          "url": "https://gizmodo.com/a-new-declaration-warns-ai-could-threaten-the-foundations-of-mathematics-2000766375",
-          "image": "https://gizmodo.com/app/uploads/2026/06/leiden-declaration-ai-math-top-image-1200x675.jpg",
-          "published_at": "2026-06-02T15:45:42Z",
-          "key_points": [
-            "AI reshapes mathematical practices",
-            "Experts call for standards",
-            "Leiden Declaration published"
-          ],
-          "impact": "Mathematics faces new challenges from AI.",
-          "id": "0fb4f2fcae19c46555ede9e285ff08a9"
-        },
-        {
-          "title": "iOS 27 to Feature Split-Screen Adaptation",
-          "description": "Rumors suggest iOS 27 will include a split-screen app adaptation feature, enhancing multitasking capabilities.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/02/ios-27-split-screen-app-adaptation-feature/",
-          "image": "https://images.macrumors.com/t/MOLST0mdhUOeLMEEoQleWfgpjJQ=/2500x/article-new/2026/03/iOS-27-on-iPhone-17-1.jpg",
-          "published_at": "2026-06-02T15:29:53Z",
-          "key_points": [
-            "Split-screen feature rumored",
-            "Enhances multitasking",
-            "Expected in iOS 27"
-          ],
-          "impact": "iOS 27 aims to improve user experience.",
-          "id": "3bd6ba224eeb198e646f8a73e3c826b7"
-        },
-        {
-          "title": "AI Agents Lack Safety Awareness, Study Finds",
-          "description": "Researchers liken AI agents to Mr. Magoo, highlighting their disregard for safety and reliability in complex tasks.",
-          "category": "Science",
-          "source": "404media.co",
-          "url": "https://www.404media.co/nvidia-and-microsoft-researchers-say-ai-agents-dont-care-about-safety-or-reliability/",
-          "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGJsaW5kJTIwcm9ib3R8ZW58MHx8fHwxNzgwNDA3NTYxfDA&ixlib=rb-4.1.0&q=80&w=2000",
-          "published_at": "2026-06-02T15:04:01Z",
-          "key_points": [
-            "AI agents lack safety awareness",
-            "Compared to Mr. Magoo",
-            "Study by Microsoft and Nvidia"
-          ],
-          "impact": "AI safety concerns are increasingly critical.",
-          "id": "8db05db099602a720feee4b36dfa3c10"
-        },
-        {
-          "title": "PlayStation State of Play: Summer Showcase",
-          "description": "Sony's PlayStation State of Play promises exciting announcements and surprises for gamers during its summer showcase.",
-          "category": "Gaming",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/june-2026-playstation-state-of-play-live-report",
-          "image": "https://assetsio.gnwcdn.com/marvel's-wolverine-playstation-state-of-play.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-02T14:21:59Z",
-          "key_points": [
-            "Summer showcase begins tonight",
-            "Exciting announcements expected",
-            "Sony leads the gaming festivities"
-          ],
-          "impact": "PlayStation aims to captivate gamers this summer.",
-          "id": "4aa615e83538506ac99f7f5cb5508daf"
-        },
-        {
-          "title": "Destiny 2 Players Aim for Record Counts",
-          "description": "Players of Destiny 2 are rallying to break playercount records ahead of the June 9 update, advocating for continued game support.",
-          "category": "Gaming",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/paultassi/2026/06/02/destiny-2-players-try-to-break-playercount-records-to-send-sony-a-message/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a1990c261763861f27cadef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "published_at": "2026-06-02T14:05:27Z",
-          "key_points": [
-            "Players push for record counts",
-            "Advocating for game support",
-            "June 9 update critical"
-          ],
-          "impact": "Player engagement highlights game's importance.",
-          "id": "4c429080b19a0a81ae5271412e4de06e"
-        },
-        {
-          "title": "Samsung Galaxy Z Fold 8 Leaks Specs",
-          "description": "The Galaxy Z Fold 8 is set to address foldable issues with a wider design, as new specifications and photos leak.",
-          "category": "Hardware",
-          "source": "9to5google.com",
-          "url": "http://9to5google.com/2026/06/02/samsung-galaxy-z-fold-8-weight-spec-leaks/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/galaxy-z-fold-8-series-ice-leak-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-02T14:05:00Z",
-          "key_points": [
-            "Galaxy Z Fold 8 specs leaked",
-            "Wider design improves usability",
-            "Fixes previous foldable issues"
-          ],
-          "impact": "Samsung aims to enhance foldable experience.",
-          "id": "d841de06434a9bdd6a3bfb8f65932526"
-        },
-        {
-          "title": "Star Fox (2026) Preview: Smooth Gameplay",
-          "description": "A preview of the new Star Fox game reveals smooth flying mechanics and engaging gameplay on the Switch 2.",
-          "category": "Gaming",
-          "source": "Game Informer",
-          "url": "https://gameinformer.com/preview/2026/05/30/pretty-smooth-flying",
-          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/05/31/0ee2a466/nintendoswitch2_starfox_scrn_01.jpg.webp",
-          "published_at": "2026-06-02T13:52:47Z",
-          "key_points": [
-            "Smooth flying mechanics",
-            "Engaging gameplay preview",
-            "Available on Switch 2"
-          ],
-          "impact": "Star Fox aims to attract nostalgic gamers.",
-          "id": "b112db1e58a9f32a4720b88f4b40979a"
-        },
-        {
-          "title": "Motorola Edge 2026 Launches with New Design",
-          "description": "The Motorola Edge 2026 features a stylish Pantone Olive design and a compact 6.3-inch display, marking a significant design change.",
-          "category": "Hardware",
-          "source": "Android Authority",
-          "url": "https://www.androidauthority.com/motorola-edge-2026-launched-pantone-olive-3673363/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/motorola-edge-2026-.jpg",
-          "published_at": "2026-06-02T13:33:13Z",
-          "key_points": [
-            "New Pantone Olive design",
-            "Compact 6.3-inch display",
-            "Significant design change"
-          ],
-          "impact": "Motorola refreshes its Edge lineup.",
-          "id": "cfd83a69102df38a2fc46668d2b814af"
-        },
-        {
-          "title": "Asus Unveils New Android Tablet",
-          "description": "Asus introduces the Pad, featuring a 12.2-inch OLED display and a MediaTek Dimensity processor, at Computex 2026.",
-          "category": "Hardware",
-          "source": "Notebookcheck",
-          "url": "https://www.notebookcheck.net/Asus-announces-new-Android-tablet-with-tandem-OLED-display.1313129.0.html",
-          "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Asus-Pad-OLED-news.png",
-          "published_at": "2026-06-02T12:34:00Z",
-          "key_points": [
-            "New Android tablet announced",
-            "12.2-inch OLED display",
-            "Powered by MediaTek processor"
-          ],
-          "impact": "Asus expands its tablet offerings.",
-          "id": "f25735b4f69dde14082292f3cc6b8b1a"
-        },
-        {
-          "title": "Fallout 76: Infestations Update Released",
-          "description": "Fallout 76 players face new infestations threatening Appalachia, requiring players to clear out enemy hordes.",
-          "category": "Gaming",
-          "source": "Bethesda.net",
-          "url": "https://fallout.bethesda.net/en/article/7uZ5caUi4lqZxmhKDXqEAV/fallout-76-infestations-release-notes",
-          "image": "//images.ctfassets.net/rporu91m20dc/74VvRsgXSQuhdV2wgeozCU/e28efbdae4a577cb7f3c345a5f9db142/LHERO_Infestations.jpg",
-          "published_at": "2026-06-02T12:04:17Z",
-          "key_points": [
-            "New infestations in Appalachia",
-            "Players must clear enemy hordes",
-            "Update enhances gameplay"
-          ],
-          "impact": "Fallout 76 introduces new challenges.",
-          "id": "929345a4ebe983a04a19197452798049"
         }
       ]
     }

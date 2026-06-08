@@ -1,247 +1,247 @@
 {
   "date": "2026-06-08",
-  "generated_at": "2026-06-08T15:49:47.534196+00:00",
+  "generated_at": "2026-06-08T20:13:08.479819+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Explore 600+ Operating Systems with Virtual OS Museum",
-      "description": "The Virtual OS Museum allows users to experience over 600 operating systems, from mainframes to Windows 95, directly on their desktops.",
-      "category": "Software",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/945246/virtual-os-museum-dos-windows-mac-os",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screenshot-2026-06-07-at-9.38.02AM.png?quality=90&strip=all&crop=0%2C10.518950245316%2C100%2C78.962099509368&w=1200",
-      "published_at": "2026-06-07T14:17:00Z",
-      "key_points": [
-        "Relive computing history",
-        "Over 600 OS available",
-        "Accessible on desktop"
-      ],
-      "impact": "Users can explore computing history interactively.",
-      "id": "0b876a883480998ce0eb1c5091e047c6"
-    },
-    {
-      "title": "Gears of War: E-Day PS5 Port Rumored to be Canceled",
-      "description": "Rumors suggest that a PS5 version of Gears of War: E-Day was in development but has recently been canceled by Xbox.",
+      "title": "Final Fantasy VII Revelation: Queen's Blood Returns",
+      "description": "Final Fantasy VII Remake Trilogy director reveals changes to the beloved card game in the trilogy's final entry. Exciting updates await fans of Queen's Blood.",
       "category": "Gaming",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/06/rumour-gears-of-war-e-day-was-coming-to-ps5-xbox-only-just-cancelled-port",
-      "image": "https://images.pushsquare.com/a66ca9795b753/large.jpg",
-      "published_at": "2026-06-07T14:00:00Z",
+      "source": "Game Informer",
+      "url": "https://gameinformer.com/preview/2026/06/07/queens-blood-is-back-and-has-a-new-protagonist",
+      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/07/644b1a08/ffviirevelation01.jpg.webp",
+      "published_at": "2026-06-07T19:05:36Z",
       "key_points": [
-        "PS5 version was rated",
-        "Xbox canceled the port",
-        "Rumors circulating online"
+        "New protagonist introduced",
+        "Card game updates revealed",
+        "Final entry in trilogy"
       ],
-      "impact": "This cancellation affects PS5 gamers' expectations.",
-      "id": "328b9f64824f87e6a2c06e3e330ffbc8"
+      "impact": "Fans can expect significant gameplay changes.",
+      "id": "de4a43f5c906b40e7f9ff475c2dddb55"
     },
     {
-      "title": "New Dummy Units Showcase iPhone Fold Design",
-      "description": "Dummy units reveal the design of Apple's anticipated foldable phone, expected to be announced later this year.",
-      "category": "Hardware",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/07/dummy-unit-iphone-fold-ultra-new-look/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-foldable-dummy-photos.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-07T13:29:00Z",
-      "key_points": [
-        "iPhone Fold design revealed",
-        "Expected announcement this year",
-        "Speculations on naming continue"
-      ],
-      "impact": "Apple's foldable phone could redefine the market.",
-      "id": "b2a787593106100168ed7f4e71c41dec"
-    },
-    {
-      "title": "Xbox Games Showcase 2026: What to Expect",
-      "description": "The Xbox Games Showcase promises exciting announcements, including potential reveals for The Elder Scrolls 6 and Arkane's new game.",
+      "title": "Castlevania: Belmont’s Curse Delayed on Switch",
+      "description": "Castlevania: Belmont’s Curse will launch on October 15, 2026, but the Nintendo Switch version will be delayed. Players on other platforms will get it on time.",
       "category": "Gaming",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/xbox-games-showcase-2026-live-report",
-      "image": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-07T10:39:30Z",
-      "key_points": [
-        "Elder Scrolls 6 reveal possible",
-        "Arkane's new game teased",
-        "Live updates during showcase"
-      ],
-      "impact": "Fans eagerly await major game announcements.",
-      "id": "9d81f7e978dea9db330dcd839483feb8"
-    },
-    {
-      "title": "Microsoft Surface Laptop Ultra Unveiled at Computex",
-      "description": "The Surface Laptop Ultra features Nvidia's RTX Spark chip and up to 128GB of unified memory, showcasing Microsoft's innovation.",
-      "category": "Hardware",
-      "source": "ZDNet",
-      "url": "https://www.zdnet.com/article/hands-on-with-the-microsoft-surface-ultra/",
-      "image": "https://www.zdnet.com/a/img/resize/07bbe97e1fe32b7ee278ea08b0daa5e39c3c45bc/2026/06/05/8e0f8462-7ae5-494d-a834-4b37ebc2b7ea/dsc05316.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "published_at": "2026-06-07T10:30:00Z",
-      "key_points": [
-        "Flagship laptop announced",
-        "Features RTX Spark chip",
-        "Up to 128GB memory"
-      ],
-      "impact": "Microsoft sets a new standard for laptops.",
-      "id": "a0302491ca47336f132475765f7f8d9f"
-    },
-    {
-      "title": "23 New Xbox Games Launch Next Week",
-      "description": "Next week, Xbox will release 23 new games, including three day-one titles for Game Pass subscribers, enhancing the gaming library.",
-      "category": "Gaming",
-      "source": "TrueAchievements",
-      "url": "https://www.trueachievements.com/news/new-xbox-games-june-8-2026",
-      "image": "https://www.trueachievements.com/imgs/175706/xbox-gets-over-20-new-games-next-week-including-three-dayone-game-pass-titles.jpg",
-      "published_at": "2026-06-07T09:01:09Z",
-      "key_points": [
-        "23 new games launching",
-        "Three day-one Game Pass titles",
-        "Exciting week for gamers"
-      ],
-      "impact": "Xbox Game Pass continues to expand its offerings.",
-      "id": "5d3ab6cf83f59a2db988ffc03a64d81d"
-    },
-    {
-      "title": "Blackwater Diver Captures Deep Sea Creatures",
-      "description": "Photographer Jialing Cai dives into the ocean at night, capturing stunning images of deep-sea creatures in their natural habitat.",
-      "category": "Science",
-      "source": "BBC",
-      "url": "https://www.bbc.com/future/article/20260604-the-blackwater-photographer-who-captured-the-creatures-of-the-deep",
-      "image": "https://ychef.files.bbci.co.uk/624x351/p0nq429f.jpg",
-      "published_at": "2026-06-07T09:00:54Z",
-      "key_points": [
-        "Night dives reveal deep-sea life",
-        "Stunning underwater photography",
-        "Unique marine encounters"
-      ],
-      "impact": "Cai's work highlights oceanic biodiversity.",
-      "id": "e580e2cd9f74f916fce9524fe2c378ed"
-    },
-    {
-      "title": "The Pokemon Company Reports Record Financials",
-      "description": "The Pokemon Company achieved record net sales of 531 billion yen, marking a 29% year-on-year increase in its latest financial report.",
-      "category": "Business",
       "source": "Nintendo Everything",
-      "url": "https://nintendoeverything.com/?p=915311",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Pokemon-financial-results-ending-February-2026.jpg",
-      "published_at": "2026-06-07T04:02:47Z",
+      "url": "https://nintendoeverything.com/castlevania-belmonts-curse-wont-be-on-nintendo-switch-at-launch/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Castlevania-Belmonts-Curse-Switch-launch-timing.jpg",
+      "published_at": "2026-06-07T18:57:47Z",
       "key_points": [
-        "Record net sales reported",
-        "29% year-on-year growth",
-        "Strong financial performance"
+        "Switch version delayed",
+        "Launch date set for October",
+        "Other platforms unaffected"
       ],
-      "impact": "The Pokemon brand continues to thrive financially.",
-      "id": "afc8ebe22b401ee66ac9b564be574951"
+      "impact": "Switch players must wait longer for release.",
+      "id": "ac7f16c89e926770bf0fc78d188b76ac"
     },
     {
-      "title": "Kojima Dismisses AI's Artistic Potential",
-      "description": "Hideo Kojima expresses skepticism about AI's ability to create art, stating he doesn't believe it will happen during his lifetime.",
+      "title": "Xbox's Exclusive Strategy Confusion Continues",
+      "description": "Microsoft's approach to Xbox console exclusives remains unclear, with some first-party games exclusive to Xbox while others may come to PlayStation 5.",
       "category": "Gaming",
       "source": "Kotaku",
-      "url": "https://kotaku.com/hideo-kojima-says-hes-not-interested-in-ai-maybe-ai-could-create-art-but-while-i-live-i-dont-think-ill-see-it-2000703473",
-      "image": "https://kotaku.com/app/uploads/2026/06/Kojima-1200x675.jpg",
-      "published_at": "2026-06-07T02:41:33Z",
+      "url": "https://kotaku.com/xboxs-strategy-on-exclusives-is-more-confusing-than-ever-2000703739",
+      "image": "https://kotaku.com/app/uploads/2026/06/xbox-1200x675.jpg",
+      "published_at": "2026-06-07T18:56:04Z",
       "key_points": [
-        "Kojima skeptical of AI art",
-        "AI-generated promo controversy",
-        "Focus on human creativity"
+        "Confusion over exclusivity",
+        "Some games won't reach PlayStation",
+        "Unprecedented strategy continues"
       ],
-      "impact": "Kojima's views spark debate on AI's role.",
-      "id": "355728aaa9e17ee216d8e3f9d7a4fb2c"
+      "impact": "Gamers are left uncertain about future titles.",
+      "id": "7c43a63f577477257eebba69c076ff90"
     },
     {
-      "title": "30 Unique Graduation Gift Ideas",
-      "description": "A curated list of 30 thoughtful graduation gift ideas suitable for any level of achievement, from small tokens to significant presents.",
-      "category": "Business",
-      "source": "Betweencarpools.com",
-      "url": "https://betweencarpools.com/30-graduation-gift-ideas/",
-      "image": "https://cdn.betweencarpools.com/wp-content/uploads/2026/06/Untitled-design-2026-06-06T220235.489.png",
-      "published_at": "2026-06-07T02:36:51Z",
-      "key_points": [
-        "Diverse gift options available",
-        "Suitable for all graduation levels",
-        "Thoughtful and unique ideas"
-      ],
-      "impact": "Find the perfect gift for graduates.",
-      "id": "3044c8d3e27ab69e54e35b8375cb5b42"
-    },
-    {
-      "title": "Control: Resonant Shifts to Action RPG Format",
-      "description": "The sequel to Control will adopt an action RPG format, reflecting the main character's approach, as revealed by Creative Director Mikael Kasurinen.",
+      "title": "Crazy Taxi World Tour: AI Controversy Unveiled",
+      "description": "Sega announces Crazy Taxi World Tour, but faces backlash for using generative AI in development. Fans react to the controversial decision.",
       "category": "Gaming",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/control-resonant-creative-director-on-the-sequel-shifting-to-an-action-rpg-ign-live-2026",
-      "image": "https://assets-prd.ignimgs.com/2026/06/05/qvf3mgp536yiyt3ko03-ucxwuypxyww3ntznf9xiut8-1780681836615.jpeg?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-06T20:56:04Z",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/crazy-taxi-world-tour-officially-announced-sega-immediately-upsets-everyone-by-announcing-it-used-generative-ai",
+      "image": "https://assetsio.gnwcdn.com/crazy-taxi-.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-07T18:36:52Z",
       "key_points": [
-        "Control sequel shifts genres",
-        "Action RPG format introduced",
-        "Creative insights shared"
+        "Game officially announced",
+        "Generative AI used",
+        "Fan backlash ensues"
       ],
-      "impact": "This change could attract new players.",
-      "id": "1b0745a0aab3c81b807d9e486dae7fd3"
+      "impact": "Sega's AI use sparks heated discussions.",
+      "id": "b91462c4c52d0a1676ed5121bfe92ff6"
     },
     {
-      "title": "Final Fantasy 7 Revelation Maintains Mini-Games",
-      "description": "Square Enix confirms it has adjusted mini-games in Final Fantasy 7 Revelation but will not reduce them despite feedback.",
+      "title": "Halo: Campaign Evolved Launches July 28",
+      "description": "Halo: Campaign Evolved is set to launch on July 28, 2026, with pre-orders now available. Early access begins on July 23.",
       "category": "Gaming",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/final-fantasy-7-revelation-tweaks-mini-games-but-square-enix-says-it-would-never-reduce-them",
-      "image": "https://assets-prd.ignimgs.com/2026/06/06/final-fantasy-7-revelation-mini-games-1780776380058.png?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-06T20:19:42Z",
+      "source": "XBOX Wire",
+      "url": "https://news.xbox.com/en-us/2026/06/07/halo-campaign-evolved-launch-preorder-xbox-games-showcase-2026/",
+      "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/HALO-CE-Standard-Hero-e854c175faac9c8a2a78.jpg",
+      "published_at": "2026-06-07T18:30:02Z",
       "key_points": [
-        "Mini-games adjusted, not reduced",
-        "Feedback acknowledged by Square Enix",
-        "Commitment to gameplay integrity"
+        "Launch date confirmed",
+        "Pre-orders available now",
+        "Early access starts July 23"
       ],
-      "impact": "Fans will appreciate the commitment to mini-games.",
-      "id": "bf29d3ce32b0711973612032581eaab1"
+      "impact": "Fans eagerly await the new Halo experience.",
+      "id": "9a20b217c970867785069a89cfd44495"
     },
     {
-      "title": "Arizona Sunshine Coming to Nintendo Switch 2",
-      "description": "Vertigo Games announces Arizona Sunshine for Nintendo Switch 2, with details on launch timing to follow.",
+      "title": "XBOX Games Showcase 2026 Highlights",
+      "description": "The XBOX Games Showcase 2026 featured new exclusives, anniversary hardware, and exciting game announcements. A recap of the event is now available.",
       "category": "Gaming",
-      "source": "Nintendo Everything",
-      "url": "https://nintendoeverything.com/arizona-sunshine-announced-for-nintendo-switch-2/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Arizona-Sunshine.jpg",
-      "published_at": "2026-06-06T19:18:14Z",
+      "source": "XBOX Wire",
+      "url": "https://news.xbox.com/en-us/2026/06/07/xbox-games-showcase-2026-recap-everything-announced/",
+      "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/HERO-a9c68c46239cc2afb5ac.jpg",
+      "published_at": "2026-06-07T18:11:27Z",
       "key_points": [
-        "Arizona Sunshine announced for Switch 2",
-        "Details on launch timing pending",
-        "Third-person zombie shooter"
+        "Showcase featured new exclusives",
+        "Anniversary hardware revealed",
+        "Exciting game announcements"
       ],
-      "impact": "Switch 2 gamers can look forward to this title.",
-      "id": "33bb23cf608529ec0877aaeac43b9617"
+      "impact": "XBOX showcases its commitment to gaming innovation.",
+      "id": "178ea395c757fea93fcb33f816887f61"
     },
     {
-      "title": "GOG Apologizes for Controversial Email",
-      "description": "GOG issued an apology after sending a newsletter featuring Nazi symbols related to the game The End of the Sun.",
-      "category": "Gaming",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gog-logo.webp?quality=90&strip=all&crop=0,10.945238432149,100,78.109523135701",
-      "published_at": "2026-06-06T17:59:37Z",
-      "key_points": [
-        "GOG apologizes for email mistake",
-        "Nazi symbols included in newsletter",
-        "Controversy surrounding the game"
-      ],
-      "impact": "GOG's error raises concerns about sensitivity.",
-      "id": "cdd1631e4f22fa08b7f11b83993274db"
-    },
-    {
-      "title": "Citizen Sleeper Series Coming to Switch 2",
-      "description": "Citizen Sleeper and its sequel, Starward Vector, will launch on Nintendo Switch 2 on June 25, expanding the narrative RPG genre.",
+      "title": "Clockwork Revolution Set for 2027 Launch",
+      "description": "First-person RPG Clockwork Revolution will launch in 2027 for Xbox Series and PC. Players will manipulate time in a steampunk setting.",
       "category": "Gaming",
       "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/citizen-sleeper-and-citizen-sleeper-2-starward-vector-coming-to-switch-2-on-june-25",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/05/Citizen-Sleeper-1-2-Switch-2_06-06-26.jpg",
-      "published_at": "2026-06-06T17:42:57Z",
+      "url": "https://www.gematsu.com/2026/06/clockwork-revolution-launches-in-2027",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Clockwork-Date_06-07-26.jpg",
+      "published_at": "2026-06-07T18:03:28Z",
       "key_points": [
-        "Citizen Sleeper series announced",
-        "Launch date set for June 25",
-        "Narrative RPGs coming to Switch 2"
+        "Launch set for 2027",
+        "Time manipulation gameplay",
+        "Steampunk setting"
       ],
-      "impact": "Fans of narrative RPGs have new options.",
-      "id": "29b7153609656bd599a514e7a89e931c"
+      "impact": "Gamers anticipate a unique RPG experience.",
+      "id": "f0527b8211cab599ffc2d2b057c2e3b1"
+    },
+    {
+      "title": "Persona 6 Announced for Multiple Platforms",
+      "description": "ATLUS has officially announced Persona 6 for PS5, Xbox Series, and PC. No release date has been provided yet.",
+      "category": "Gaming",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/persona-6-announced-for-ps5-xbox-series-and-pc",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/P6-Ann_06-07-26.jpg",
+      "published_at": "2026-06-07T17:57:55Z",
+      "key_points": [
+        "Persona 6 officially announced",
+        "Available on multiple platforms",
+        "Release date not revealed"
+      ],
+      "impact": "Fans eagerly await more details on Persona 6.",
+      "id": "b0877871073bf673e28154bf9ea5e935"
+    },
+    {
+      "title": "Microsoft Unveils 25th Anniversary Xbox Console",
+      "description": "Microsoft reveals a translucent green anniversary console featuring a glowing Xbox button and matching controller. A nostalgic tribute to Xbox's legacy.",
+      "category": "Gaming",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/945359/microsoft-xbox-25th-anniversary-console-controller-release-date",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/X25-Collection-44fa4f8521aeaf755181.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "published_at": "2026-06-07T17:45:48Z",
+      "key_points": [
+        "Anniversary console unveiled",
+        "Translucent green design",
+        "Glowing Xbox button"
+      ],
+      "impact": "A nostalgic celebration of Xbox's history.",
+      "id": "1729ad1835c89b5d082622042fe81c47"
+    },
+    {
+      "title": "Senua: New Action-Adventure Game Revealed",
+      "description": "Ninja Theory introduces Senua, a new action-adventure game set in the Hellblade universe. Details revealed during the XBOX Games Showcase.",
+      "category": "Gaming",
+      "source": "XBOX Wire",
+      "url": "https://news.xbox.com/en-us/2026/06/07/senua-ninja-theory-details-interview-action-adventure-xbox-games-showcase-2026/",
+      "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/Key-Art-f25498b526451edba564.jpg",
+      "published_at": "2026-06-07T17:36:23Z",
+      "key_points": [
+        "New game in Hellblade universe",
+        "Details shared at showcase",
+        "Exciting gameplay elements"
+      ],
+      "impact": "Fans are excited for Senua's new adventure.",
+      "id": "ebb587394c41d10aa9be980b0751516f"
+    },
+    {
+      "title": "Fallout 76 Launches P.R.O.T.E.C.T. Protocol",
+      "description": "Fallout 76 players can log in daily for rewards from June 7 to June 15. Participate in the Community Challenge to unlock exclusive items.",
+      "category": "Gaming",
+      "source": "Fallout | Bethesda.net",
+      "url": "https://fallout.bethesda.net/en/article/3sUk3hPTpo7k34RgoR9H7x/fallout-76-protect-protocol",
+      "image": "//images.ctfassets.net/rporu91m20dc/2Kjkm93decSfNFfsmKDqF0/1ad446aefab5471f02869be629f6fd42/F76_PROTECT_Protocol_HERO_1920x870.jpg",
+      "published_at": "2026-06-07T17:35:13Z",
+      "key_points": [
+        "Daily login rewards available",
+        "Community Challenge launched",
+        "Unlock exclusive power armor"
+      ],
+      "impact": "Players are incentivized to engage daily.",
+      "id": "e055da5b7cc259cc7cc94f4a6d3a3800"
+    },
+    {
+      "title": "State of Decay 3 Gameplay Revealed",
+      "description": "The first gameplay reveal for State of Decay 3 showcases open-world exploration, multiplayer, and crafting elements. Fans are excited for the new features.",
+      "category": "Gaming",
+      "source": "XBOX Wire",
+      "url": "https://news.xbox.com/en-us/2026/06/07/state-of-decay-3-first-gameplay-reveal-xbox-games-showcase-2026/",
+      "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/Xbox_SOD3_yourchoicesmatter-27b62de54d5434c90114.jpg",
+      "published_at": "2026-06-07T17:21:23Z",
+      "key_points": [
+        "Gameplay reveal showcased",
+        "New crafting and exploration",
+        "Multiplayer features highlighted"
+      ],
+      "impact": "Fans are eager for State of Decay 3.",
+      "id": "f83d4a074330c4c8bef46d0117b4242e"
+    },
+    {
+      "title": "Persona 4 Revival Launches February 2027",
+      "description": "Persona 4 Revival will be available on February 18, 2027, for PS5, Xbox Series, and PC. Pre-orders are now open.",
+      "category": "Gaming",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/persona-4-revival-launches-february-18-2027",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/P4R-Release_06-07-26.jpg",
+      "published_at": "2026-06-07T17:17:01Z",
+      "key_points": [
+        "Launch date set for February 2027",
+        "Available on multiple platforms",
+        "Pre-orders now open"
+      ],
+      "impact": "Fans can secure their copies early.",
+      "id": "98f0f851c2c1019486fcde3daa73e27a"
+    },
+    {
+      "title": "Nintendo Switch Now Supports Classic Wii Games",
+      "description": "Nintendo Switch owners can now access classic Wii and GameCube games. Instructions for playing these titles are available online.",
+      "category": "Gaming",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2185981/nintendo-switch-wii-gamecube-emulation/",
+      "image": "https://www.bgr.com/img/gallery/nintendo-switch-owners-can-now-play-their-classic-wii-and-gamecube-games-heres-how/l-intro-1780424727.jpg",
+      "published_at": "2026-06-07T17:17:00Z",
+      "key_points": [
+        "Classic games available now",
+        "Instructions for access provided",
+        "Wii and GameCube titles playable"
+      ],
+      "impact": "Nintendo Switch expands its game library.",
+      "id": "0e2bc6636fce1bb8316e9ad066fbab63"
+    },
+    {
+      "title": "Fable Reveals Cast Including Hayley Atwell",
+      "description": "Fable's new trailer showcases its cast, including Hayley Atwell as the villain. Exciting gameplay and story elements were also revealed.",
+      "category": "Gaming",
+      "source": "XBOX Wire",
+      "url": "https://news.xbox.com/en-us/2026/06/07/fable-cast-list-new-trailer-hayley-atwell-xbox-games-showcase-2026/",
+      "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/01/Fable-497a240ce212355686c6.jpg",
+      "published_at": "2026-06-07T17:16:23Z",
+      "key_points": [
+        "New trailer reveals cast",
+        "Hayley Atwell plays villain",
+        "Gameplay and story showcased"
+      ],
+      "impact": "Fable's cast adds excitement to the game.",
+      "id": "09617f7f6f5e99ea10a519c5fbfde4ad"
     }
   ]
 }
