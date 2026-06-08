@@ -1,231 +1,247 @@
 {
   "date": "2026-06-08",
-  "generated_at": "2026-06-08T10:51:42.323800+00:00",
+  "generated_at": "2026-06-08T15:49:47.534196+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Vampire Survivors Unveils Switch 2 Version and DLC",
-      "description": "Vampire Survivors announces a new Switch 2 version and DLC, alongside the 'Wet Update'. The game continues to evolve with fresh content.",
-      "category": "Gaming",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/06/vampire-survivors-announces-switch-2-version-new-dlc-and-name-update",
-      "image": "https://images.nintendolife.com/9d6254205fa25/large.jpg",
-      "published_at": "2026-06-07T02:00:00Z",
-      "key_points": [
-        "New Switch 2 version announced",
-        "DLC includes 'Wet Update'",
-        "Continued support from Poncle"
-      ],
-      "impact": "This update keeps the game relevant and engaging.",
-      "id": "042b7da9322222706840551dd9b81cf2"
-    },
-    {
-      "title": "Wyoming Sheriff Unveils Clint Eastwood Cruiser Design",
-      "description": "Laramie County Sheriff Brian Kozak reveals a new cruiser design inspired by Clint Eastwood's 'High Plains Drifter'. The unique look has garnered positive feedback.",
-      "category": "Business",
-      "source": "Cowboy State Daily",
-      "url": "https://cowboystatedaily.com/2026/06/06/pretty-badass-new-laramie-county-sheriffs-cruiser-is-pure-western-wyoming/",
-      "image": "https://cowboystatedaily.imgix.net/New-Sheriffs-cruiser-710020639_1299237672391254_5317509438597465883_n-copy-6.6.26.jpg?w=1200&q=75&auto=format%2Ccompress",
-      "published_at": "2026-06-06T23:16:00Z",
-      "key_points": [
-        "Cruiser inspired by Clint Eastwood",
-        "Design stands out in fleet",
-        "Positive community response"
-      ],
-      "impact": "The design enhances community engagement and pride.",
-      "id": "7038332862a472d4035502467a28764b"
-    },
-    {
-      "title": "Monster Hunter Wilds Confirmed for Nintendo Switch 2",
-      "description": "Monster Hunter Wilds is officially coming to Nintendo Switch 2, confirming long-standing rumors. Fans can expect exciting gameplay on the new platform.",
-      "category": "Gaming",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/monster-hunter-wilds-nintendo-switch-2",
-      "image": "https://assetsio.gnwcdn.com/HKGKXisXMAAmfuu.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-06T21:57:48Z",
-      "key_points": [
-        "Monster Hunter Wilds confirmed",
-        "Switch 2 port anticipated",
-        "Fans excited for new gameplay"
-      ],
-      "impact": "This release boosts the Switch 2's game library.",
-      "id": "869259301801c9f1f29971fdd92b111c"
-    },
-    {
-      "title": "Microsoft's New AI Models: A Critical Review",
-      "description": "After testing Microsoft's new AI models, doubts arise about their readiness for mainstream use. The models were showcased at Build 2026.",
-      "category": "AI",
-      "source": "PCMag",
-      "url": "https://www.pcmag.com/news/i-tested-all-4-of-microsofts-new-ai-models-heres-the-brutal-truth",
-      "image": "https://i.pcmag.com/imagery/articles/04wXAT6DlXfKjkUoeU3cEmn-2.fit_lim.size_1200x630.v1780676865.png",
-      "published_at": "2026-06-06T16:00:21Z",
-      "key_points": [
-        "New AI models tested",
-        "Concerns about readiness",
-        "Showcased at Build 2026"
-      ],
-      "impact": "Microsoft may need to refine these models further.",
-      "id": "3665b1c7dd93750048eb43386674626e"
-    },
-    {
-      "title": "Windows 11 Tools from Build 2026: Key Highlights",
-      "description": "Build 2026 introduces four new tools for Windows 11, enhancing developer experience. These tools aim to streamline development processes.",
+      "title": "Explore 600+ Operating Systems with Virtual OS Museum",
+      "description": "The Virtual OS Museum allows users to experience over 600 operating systems, from mainframes to Windows 95, directly on their desktops.",
       "category": "Software",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/4-tools-for-windows-11-that-stood-out-to-me-during-build-2026",
-      "image": "https://cdn.mos.cms.futurecdn.net/N5kK8D3tPDbVnhrVgtfPYC-1680-80.jpg",
-      "published_at": "2026-06-06T14:15:26Z",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/945246/virtual-os-museum-dos-windows-mac-os",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screenshot-2026-06-07-at-9.38.02AM.png?quality=90&strip=all&crop=0%2C10.518950245316%2C100%2C78.962099509368&w=1200",
+      "published_at": "2026-06-07T14:17:00Z",
       "key_points": [
-        "Four new developer tools introduced",
-        "Enhancements for Windows 11",
-        "Focus on AI and local models"
+        "Relive computing history",
+        "Over 600 OS available",
+        "Accessible on desktop"
       ],
-      "impact": "These tools could significantly improve developer productivity.",
-      "id": "52e6857886fb0144df02b521f2984ea9"
+      "impact": "Users can explore computing history interactively.",
+      "id": "0b876a883480998ce0eb1c5091e047c6"
     },
     {
-      "title": "Top Trailers from Summer Game Fest 2026",
-      "description": "The Summer Game Fest 2026 showcased exciting new trailers, highlighting upcoming games. Gizmodo lists their favorite reveals from the event.",
+      "title": "Gears of War: E-Day PS5 Port Rumored to be Canceled",
+      "description": "Rumors suggest that a PS5 version of Gears of War: E-Day was in development but has recently been canceled by Xbox.",
       "category": "Gaming",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/summer-game-fest-2026-trailers-best-2000768293",
-      "image": "https://gizmodo.com/app/uploads/2026/06/summer-game-fest26-hed-1200x675.jpg",
-      "published_at": "2026-06-06T14:00:28Z",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/06/rumour-gears-of-war-e-day-was-coming-to-ps5-xbox-only-just-cancelled-port",
+      "image": "https://images.pushsquare.com/a66ca9795b753/large.jpg",
+      "published_at": "2026-06-07T14:00:00Z",
       "key_points": [
-        "Favorite trailers highlighted",
-        "Exciting game reveals",
-        "Summer Game Fest 2026 recap"
+        "PS5 version was rated",
+        "Xbox canceled the port",
+        "Rumors circulating online"
       ],
-      "impact": "These trailers build anticipation for upcoming releases.",
-      "id": "9341a4e598da9e2861d856b52fd954a3"
+      "impact": "This cancellation affects PS5 gamers' expectations.",
+      "id": "328b9f64824f87e6a2c06e3e330ffbc8"
     },
     {
-      "title": "Resident Evil Veronica: No First-Person View",
-      "description": "CAPCOM insider confirms Resident Evil Veronica won't feature a first-person perspective, but warns of significant changes from the original.",
-      "category": "Gaming",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/resident-evil-veronica-not-first-person-reimagined/",
-      "image": "https://wccftech.com/wp-content/uploads/2026/06/【REV】_chara_Claire_00_GL-1920x1080.jpg",
-      "published_at": "2026-06-06T12:00:00Z",
+      "title": "New Dummy Units Showcase iPhone Fold Design",
+      "description": "Dummy units reveal the design of Apple's anticipated foldable phone, expected to be announced later this year.",
+      "category": "Hardware",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/07/dummy-unit-iphone-fold-ultra-new-look/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-foldable-dummy-photos.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-07T13:29:00Z",
       "key_points": [
-        "No first-person view confirmed",
-        "Significant changes expected",
-        "Fans warned about reimagining"
+        "iPhone Fold design revealed",
+        "Expected announcement this year",
+        "Speculations on naming continue"
       ],
-      "impact": "Expect mixed reactions from long-time fans.",
-      "id": "215c4dd7f774735896922b6a7e73d083"
+      "impact": "Apple's foldable phone could redefine the market.",
+      "id": "b2a787593106100168ed7f4e71c41dec"
     },
     {
-      "title": "Yooka-Laylee Returns as Kart Racer",
-      "description": "Yooka-Laylee is back in a new SNES-style kart racer, with multiplayer beta tests planned before launch. The game promises nostalgic fun.",
+      "title": "Xbox Games Showcase 2026: What to Expect",
+      "description": "The Xbox Games Showcase promises exciting announcements, including potential reveals for The Elder Scrolls 6 and Arkane's new game.",
       "category": "Gaming",
       "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/super-yooka-laylee-kart-announced-playtonic",
-      "image": "https://assetsio.gnwcdn.com/super-yooka-laylee-kart-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-06T09:00:00Z",
+      "url": "https://www.eurogamer.net/xbox-games-showcase-2026-live-report",
+      "image": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-07T10:39:30Z",
       "key_points": [
-        "New kart racer announced",
-        "Multiplayer beta tests planned",
-        "Nostalgic gameplay experience"
+        "Elder Scrolls 6 reveal possible",
+        "Arkane's new game teased",
+        "Live updates during showcase"
       ],
-      "impact": "This revival taps into retro gaming nostalgia.",
-      "id": "9dbf91b017b52da23c016da848ba90a4"
+      "impact": "Fans eagerly await major game announcements.",
+      "id": "9d81f7e978dea9db330dcd839483feb8"
     },
     {
-      "title": "Intel Arc G3 Chip Performance Benchmarks Released",
-      "description": "Intel reveals performance benchmarks for its Arc G3 Extreme chip, promising significant improvements for gaming handhelds. The chip offers double the battery life at similar performance levels.",
+      "title": "Microsoft Surface Laptop Ultra Unveiled at Computex",
+      "description": "The Surface Laptop Ultra features Nvidia's RTX Spark chip and up to 128GB of unified memory, showcasing Microsoft's innovation.",
       "category": "Hardware",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/intel-arc-g3-extreme-performance-benchmarks-disruption-in-handled-segment-double-the-battery-same-performance/",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/IMG_0447-1920x1440.jpg",
-      "published_at": "2026-06-06T07:35:00Z",
+      "source": "ZDNet",
+      "url": "https://www.zdnet.com/article/hands-on-with-the-microsoft-surface-ultra/",
+      "image": "https://www.zdnet.com/a/img/resize/07bbe97e1fe32b7ee278ea08b0daa5e39c3c45bc/2026/06/05/8e0f8462-7ae5-494d-a834-4b37ebc2b7ea/dsc05316.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "published_at": "2026-06-07T10:30:00Z",
       "key_points": [
-        "Arc G3 chip benchmarks released",
-        "Double battery life promised",
-        "Significant gaming performance improvements"
+        "Flagship laptop announced",
+        "Features RTX Spark chip",
+        "Up to 128GB memory"
       ],
-      "impact": "This chip could disrupt the gaming handheld market.",
-      "id": "861847758913fe1bd60926a73404fa1a"
+      "impact": "Microsoft sets a new standard for laptops.",
+      "id": "a0302491ca47336f132475765f7f8d9f"
     },
     {
-      "title": "AMD's Future Plans for Zen Architectures",
-      "description": "AMD announces new Zen architectures and products for the AM5 platform through 2029, with future socket plans contingent on DDR6 and PCIe advancements.",
-      "category": "Hardware",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/amd-brings-new-zen-architectures-products-to-am5-through-2029-but-next-socket-will-only-arrive-when-ddr6-pcie-make-sense/",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/AMD-David-McAfee.jpg",
-      "published_at": "2026-06-06T04:30:00Z",
-      "key_points": [
-        "New Zen architectures planned",
-        "AM5 support through 2029",
-        "Future socket depends on tech advancements"
-      ],
-      "impact": "AMD's roadmap ensures continued innovation in CPUs.",
-      "id": "af793671b0e968ee4561d7dc6adc8ad5"
-    },
-    {
-      "title": "Palworld Launches July 10",
-      "description": "Open-world survival game Palworld will officially launch on July 10 for multiple platforms, leaving Early Access behind. Excitement builds for its full release.",
+      "title": "23 New Xbox Games Launch Next Week",
+      "description": "Next week, Xbox will release 23 new games, including three day-one titles for Game Pass subscribers, enhancing the gaming library.",
       "category": "Gaming",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/palworld-launches-july-10",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Palworld-Launch-Date_06-05-26.jpg",
-      "published_at": "2026-06-05T22:37:27Z",
+      "source": "TrueAchievements",
+      "url": "https://www.trueachievements.com/news/new-xbox-games-june-8-2026",
+      "image": "https://www.trueachievements.com/imgs/175706/xbox-gets-over-20-new-games-next-week-including-three-dayone-game-pass-titles.jpg",
+      "published_at": "2026-06-07T09:01:09Z",
       "key_points": [
-        "Palworld launches July 10",
-        "Available on multiple platforms",
-        "Exiting Early Access soon"
+        "23 new games launching",
+        "Three day-one Game Pass titles",
+        "Exciting week for gamers"
       ],
-      "impact": "This launch could attract a larger player base.",
-      "id": "2d30bac90cc58377145cc3b019dd2f9d"
+      "impact": "Xbox Game Pass continues to expand its offerings.",
+      "id": "5d3ab6cf83f59a2db988ffc03a64d81d"
     },
     {
-      "title": "Hot Wheels Infinite Rush Announced",
-      "description": "Hot Wheels Infinite Rush is set to launch on multiple platforms, including PS5 and Xbox Series, on September 24. The game promises thrilling racing experiences.",
-      "category": "Gaming",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/hot-wheels-infinite-rush-announced-for-ps5-xbox-series-switch-2-and-pc",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Hot-Wheels-Infinite-Rush-Ann_06-05-26.jpg",
-      "published_at": "2026-06-05T22:25:47Z",
+      "title": "Blackwater Diver Captures Deep Sea Creatures",
+      "description": "Photographer Jialing Cai dives into the ocean at night, capturing stunning images of deep-sea creatures in their natural habitat.",
+      "category": "Science",
+      "source": "BBC",
+      "url": "https://www.bbc.com/future/article/20260604-the-blackwater-photographer-who-captured-the-creatures-of-the-deep",
+      "image": "https://ychef.files.bbci.co.uk/624x351/p0nq429f.jpg",
+      "published_at": "2026-06-07T09:00:54Z",
       "key_points": [
-        "Hot Wheels Infinite Rush announced",
-        "Launching on September 24",
-        "Available on multiple platforms"
+        "Night dives reveal deep-sea life",
+        "Stunning underwater photography",
+        "Unique marine encounters"
       ],
-      "impact": "This game aims to revitalize the racing genre.",
-      "id": "ff336a44a8a65ba61a95789347940d69"
+      "impact": "Cai's work highlights oceanic biodiversity.",
+      "id": "e580e2cd9f74f916fce9524fe2c378ed"
     },
     {
-      "title": "Stranger Than Heaven Features Digital Tupac",
-      "description": "Stranger Than Heaven will feature a digital resurrection of Tupac Shakur, adding a unique twist to the game. The announcement has sparked mixed reactions.",
+      "title": "The Pokemon Company Reports Record Financials",
+      "description": "The Pokemon Company achieved record net sales of 531 billion yen, marking a 29% year-on-year increase in its latest financial report.",
+      "category": "Business",
+      "source": "Nintendo Everything",
+      "url": "https://nintendoeverything.com/?p=915311",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Pokemon-financial-results-ending-February-2026.jpg",
+      "published_at": "2026-06-07T04:02:47Z",
+      "key_points": [
+        "Record net sales reported",
+        "29% year-on-year growth",
+        "Strong financial performance"
+      ],
+      "impact": "The Pokemon brand continues to thrive financially.",
+      "id": "afc8ebe22b401ee66ac9b564be574951"
+    },
+    {
+      "title": "Kojima Dismisses AI's Artistic Potential",
+      "description": "Hideo Kojima expresses skepticism about AI's ability to create art, stating he doesn't believe it will happen during his lifetime.",
       "category": "Gaming",
       "source": "Kotaku",
-      "url": "https://kotaku.com/yakuza-studios-next-big-game-will-revive-tupac-digitally-for-some-reason-2000703097",
-      "image": "https://kotaku.com/app/uploads/2026/06/image-3-1-1200x675.jpg",
-      "published_at": "2026-06-05T22:21:23Z",
+      "url": "https://kotaku.com/hideo-kojima-says-hes-not-interested-in-ai-maybe-ai-could-create-art-but-while-i-live-i-dont-think-ill-see-it-2000703473",
+      "image": "https://kotaku.com/app/uploads/2026/06/Kojima-1200x675.jpg",
+      "published_at": "2026-06-07T02:41:33Z",
       "key_points": [
-        "Digital Tupac featured in game",
-        "Unique storytelling approach",
-        "Mixed fan reactions expected"
+        "Kojima skeptical of AI art",
+        "AI-generated promo controversy",
+        "Focus on human creativity"
       ],
-      "impact": "This could redefine narrative possibilities in gaming.",
-      "id": "1ff561106d36681ef5656e6810dc62db"
+      "impact": "Kojima's views spark debate on AI's role.",
+      "id": "355728aaa9e17ee216d8e3f9d7a4fb2c"
     },
     {
-      "title": "Demand for Destiny 3 Surges at Summer Game Fest",
-      "description": "Fans at Summer Game Fest are vocally demanding Destiny 3, showcasing their passion for the franchise. The hashtag #WeWantDestiny3 trended during the event.",
+      "title": "30 Unique Graduation Gift Ideas",
+      "description": "A curated list of 30 thoughtful graduation gift ideas suitable for any level of achievement, from small tokens to significant presents.",
+      "category": "Business",
+      "source": "Betweencarpools.com",
+      "url": "https://betweencarpools.com/30-graduation-gift-ideas/",
+      "image": "https://cdn.betweencarpools.com/wp-content/uploads/2026/06/Untitled-design-2026-06-06T220235.489.png",
+      "published_at": "2026-06-07T02:36:51Z",
+      "key_points": [
+        "Diverse gift options available",
+        "Suitable for all graduation levels",
+        "Thoughtful and unique ideas"
+      ],
+      "impact": "Find the perfect gift for graduates.",
+      "id": "3044c8d3e27ab69e54e35b8375cb5b42"
+    },
+    {
+      "title": "Control: Resonant Shifts to Action RPG Format",
+      "description": "The sequel to Control will adopt an action RPG format, reflecting the main character's approach, as revealed by Creative Director Mikael Kasurinen.",
       "category": "Gaming",
       "source": "IGN",
-      "url": "https://www.ign.com/articles/summer-game-fest-stream-overrun-with-demands-for-destiny-3",
-      "image": "https://assets-prd.ignimgs.com/2024/05/23/destiny2thumb-1716471330076.png?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-05T21:26:41Z",
+      "url": "https://www.ign.com/articles/control-resonant-creative-director-on-the-sequel-shifting-to-an-action-rpg-ign-live-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/06/05/qvf3mgp536yiyt3ko03-ucxwuypxyww3ntznf9xiut8-1780681836615.jpeg?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-06T20:56:04Z",
       "key_points": [
-        "Fans demand Destiny 3",
-        "#WeWantDestiny3 trends",
-        "Passion for the franchise evident"
+        "Control sequel shifts genres",
+        "Action RPG format introduced",
+        "Creative insights shared"
       ],
-      "impact": "This pressure may influence future game development.",
-      "id": "90743dc898fa68212a06e631cf9c63b7"
+      "impact": "This change could attract new players.",
+      "id": "1b0745a0aab3c81b807d9e486dae7fd3"
+    },
+    {
+      "title": "Final Fantasy 7 Revelation Maintains Mini-Games",
+      "description": "Square Enix confirms it has adjusted mini-games in Final Fantasy 7 Revelation but will not reduce them despite feedback.",
+      "category": "Gaming",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/final-fantasy-7-revelation-tweaks-mini-games-but-square-enix-says-it-would-never-reduce-them",
+      "image": "https://assets-prd.ignimgs.com/2026/06/06/final-fantasy-7-revelation-mini-games-1780776380058.png?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-06T20:19:42Z",
+      "key_points": [
+        "Mini-games adjusted, not reduced",
+        "Feedback acknowledged by Square Enix",
+        "Commitment to gameplay integrity"
+      ],
+      "impact": "Fans will appreciate the commitment to mini-games.",
+      "id": "bf29d3ce32b0711973612032581eaab1"
+    },
+    {
+      "title": "Arizona Sunshine Coming to Nintendo Switch 2",
+      "description": "Vertigo Games announces Arizona Sunshine for Nintendo Switch 2, with details on launch timing to follow.",
+      "category": "Gaming",
+      "source": "Nintendo Everything",
+      "url": "https://nintendoeverything.com/arizona-sunshine-announced-for-nintendo-switch-2/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Arizona-Sunshine.jpg",
+      "published_at": "2026-06-06T19:18:14Z",
+      "key_points": [
+        "Arizona Sunshine announced for Switch 2",
+        "Details on launch timing pending",
+        "Third-person zombie shooter"
+      ],
+      "impact": "Switch 2 gamers can look forward to this title.",
+      "id": "33bb23cf608529ec0877aaeac43b9617"
+    },
+    {
+      "title": "GOG Apologizes for Controversial Email",
+      "description": "GOG issued an apology after sending a newsletter featuring Nazi symbols related to the game The End of the Sun.",
+      "category": "Gaming",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gog-logo.webp?quality=90&strip=all&crop=0,10.945238432149,100,78.109523135701",
+      "published_at": "2026-06-06T17:59:37Z",
+      "key_points": [
+        "GOG apologizes for email mistake",
+        "Nazi symbols included in newsletter",
+        "Controversy surrounding the game"
+      ],
+      "impact": "GOG's error raises concerns about sensitivity.",
+      "id": "cdd1631e4f22fa08b7f11b83993274db"
+    },
+    {
+      "title": "Citizen Sleeper Series Coming to Switch 2",
+      "description": "Citizen Sleeper and its sequel, Starward Vector, will launch on Nintendo Switch 2 on June 25, expanding the narrative RPG genre.",
+      "category": "Gaming",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/citizen-sleeper-and-citizen-sleeper-2-starward-vector-coming-to-switch-2-on-june-25",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/05/Citizen-Sleeper-1-2-Switch-2_06-06-26.jpg",
+      "published_at": "2026-06-06T17:42:57Z",
+      "key_points": [
+        "Citizen Sleeper series announced",
+        "Launch date set for June 25",
+        "Narrative RPGs coming to Switch 2"
+      ],
+      "impact": "Fans of narrative RPGs have new options.",
+      "id": "29b7153609656bd599a514e7a89e931c"
     }
   ]
 }
