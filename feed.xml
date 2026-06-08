@@ -5,107 +5,134 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2026 03:55:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 10:52:07 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Star Trek: Shadow Frontier Unveiled for Multiple Platforms</title>
-      <description>Bloober Team announces Star Trek: Shadow Frontier, a psychological thriller launching on PS5, Xbox Series, Switch 2, and PC. Fans can expect an immersive sci-fi experience.</description>
-      <link>https://www.gematsu.com/2026/06/bloober-team-announces-psychological-thriller-star-trek-shadow-frontier-for-ps5-xbox-series-switch-2-and-pc</link>
-      <guid isPermaLink="true">https://www.gematsu.com/2026/06/bloober-team-announces-psychological-thriller-star-trek-shadow-frontier-for-ps5-xbox-series-switch-2-and-pc</guid>
-      <pubDate>2026-06-06T23:12:57Z</pubDate>
+      <title>Vampire Survivors Unveils Switch 2 Version and DLC</title>
+      <description>Vampire Survivors announces a new Switch 2 version and DLC, alongside the 'Wet Update'. The game continues to evolve with fresh content.</description>
+      <link>https://www.nintendolife.com/news/2026/06/vampire-survivors-announces-switch-2-version-new-dlc-and-name-update</link>
+      <guid isPermaLink="true">https://www.nintendolife.com/news/2026/06/vampire-survivors-announces-switch-2-version-new-dlc-and-name-update</guid>
+      <pubDate>2026-06-07T02:00:00Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.gematsu.com/2026/06/bloober-team-announces-psychological-thriller-star-trek-shadow-frontier-for-ps5-xbox-series-switch-2-and-pc">Gematsu</source>
+      <source url="https://www.nintendolife.com/news/2026/06/vampire-survivors-announces-switch-2-version-new-dlc-and-name-update">Nintendo Life</source>
     </item>
     <item>
-      <title>Stellar Blade: Blood Rain Trailer Criticized for AI Use</title>
-      <description>The reveal trailer for Stellar Blade: Blood Rain faces backlash for heavy reliance on generative AI. Fans express disappointment over the artistic integrity.</description>
-      <link>https://www.pushsquare.com/news/2026/06/stellar-blade-blood-rains-reveal-is-allegedly-riddled-with-generative-ai</link>
-      <guid isPermaLink="true">https://www.pushsquare.com/news/2026/06/stellar-blade-blood-rains-reveal-is-allegedly-riddled-with-generative-ai</guid>
-      <pubDate>2026-06-06T21:57:59Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.pushsquare.com/news/2026/06/stellar-blade-blood-rains-reveal-is-allegedly-riddled-with-generative-ai">Push Square</source>
+      <title>Wyoming Sheriff Unveils Clint Eastwood Cruiser Design</title>
+      <description>Laramie County Sheriff Brian Kozak reveals a new cruiser design inspired by Clint Eastwood's 'High Plains Drifter'. The unique look has garnered positive feedback.</description>
+      <link>https://cowboystatedaily.com/2026/06/06/pretty-badass-new-laramie-county-sheriffs-cruiser-is-pure-western-wyoming/</link>
+      <guid isPermaLink="true">https://cowboystatedaily.com/2026/06/06/pretty-badass-new-laramie-county-sheriffs-cruiser-is-pure-western-wyoming/</guid>
+      <pubDate>2026-06-06T23:16:00Z</pubDate>
+      <category>Business</category>
+      <source url="https://cowboystatedaily.com/2026/06/06/pretty-badass-new-laramie-county-sheriffs-cruiser-is-pure-western-wyoming/">Cowboy State Daily</source>
     </item>
     <item>
-      <title>iOS 27 Launching Monday with Major Updates</title>
-      <description>iOS 27 is set to launch, featuring significant stability improvements and new Apple Intelligence capabilities. Updates are tailored for Apple's foldable iPhone.</description>
-      <link>https://9to5mac.com/2026/06/06/ios-27-new-features/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/06/ios-27-new-features/</guid>
-      <pubDate>2026-06-06T19:21:00Z</pubDate>
+      <title>Monster Hunter Wilds Confirmed for Nintendo Switch 2</title>
+      <description>Monster Hunter Wilds is officially coming to Nintendo Switch 2, confirming long-standing rumors. Fans can expect exciting gameplay on the new platform.</description>
+      <link>https://www.eurogamer.net/monster-hunter-wilds-nintendo-switch-2</link>
+      <guid isPermaLink="true">https://www.eurogamer.net/monster-hunter-wilds-nintendo-switch-2</guid>
+      <pubDate>2026-06-06T21:57:48Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.eurogamer.net/monster-hunter-wilds-nintendo-switch-2">Eurogamer</source>
+    </item>
+    <item>
+      <title>Microsoft's New AI Models: A Critical Review</title>
+      <description>After testing Microsoft's new AI models, doubts arise about their readiness for mainstream use. The models were showcased at Build 2026.</description>
+      <link>https://www.pcmag.com/news/i-tested-all-4-of-microsofts-new-ai-models-heres-the-brutal-truth</link>
+      <guid isPermaLink="true">https://www.pcmag.com/news/i-tested-all-4-of-microsofts-new-ai-models-heres-the-brutal-truth</guid>
+      <pubDate>2026-06-06T16:00:21Z</pubDate>
+      <category>AI</category>
+      <source url="https://www.pcmag.com/news/i-tested-all-4-of-microsofts-new-ai-models-heres-the-brutal-truth">PCMag</source>
+    </item>
+    <item>
+      <title>Windows 11 Tools from Build 2026: Key Highlights</title>
+      <description>Build 2026 introduces four new tools for Windows 11, enhancing developer experience. These tools aim to streamline development processes.</description>
+      <link>https://www.windowscentral.com/microsoft/windows-11/4-tools-for-windows-11-that-stood-out-to-me-during-build-2026</link>
+      <guid isPermaLink="true">https://www.windowscentral.com/microsoft/windows-11/4-tools-for-windows-11-that-stood-out-to-me-during-build-2026</guid>
+      <pubDate>2026-06-06T14:15:26Z</pubDate>
       <category>Software</category>
-      <source url="https://9to5mac.com/2026/06/06/ios-27-new-features/">9to5Mac</source>
+      <source url="https://www.windowscentral.com/microsoft/windows-11/4-tools-for-windows-11-that-stood-out-to-me-during-build-2026">Windows Central</source>
     </item>
     <item>
-      <title>WWDC 2026: Anticipated Siri Overhaul and Updates</title>
-      <description>WWDC 2026 is approaching, promising a major Siri revamp and new Apple Intelligence features. Excitement builds for Apple's latest innovations.</description>
-      <link>https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/</guid>
-      <pubDate>2026-06-06T18:13:36Z</pubDate>
-      <category>Software</category>
-      <source url="https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Bungie Offers Free Marathon Game After Misleading Description</title>
-      <description>Bungie addresses a misleading PS5 store description by giving affected fans full access to the Marathon game. The company aims to rectify the situation.</description>
-      <link>https://www.pushsquare.com/news/2026/06/bungie-fixes-marathon-mess-by-giving-away-full-game-to-fans-who-purchased-due-to-misleading-ps5-store-description</link>
-      <guid isPermaLink="true">https://www.pushsquare.com/news/2026/06/bungie-fixes-marathon-mess-by-giving-away-full-game-to-fans-who-purchased-due-to-misleading-ps5-store-description</guid>
-      <pubDate>2026-06-06T16:00:00Z</pubDate>
+      <title>Top Trailers from Summer Game Fest 2026</title>
+      <description>The Summer Game Fest 2026 showcased exciting new trailers, highlighting upcoming games. Gizmodo lists their favorite reveals from the event.</description>
+      <link>https://gizmodo.com/summer-game-fest-2026-trailers-best-2000768293</link>
+      <guid isPermaLink="true">https://gizmodo.com/summer-game-fest-2026-trailers-best-2000768293</guid>
+      <pubDate>2026-06-06T14:00:28Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.pushsquare.com/news/2026/06/bungie-fixes-marathon-mess-by-giving-away-full-game-to-fans-who-purchased-due-to-misleading-ps5-store-description">Push Square</source>
+      <source url="https://gizmodo.com/summer-game-fest-2026-trailers-best-2000768293">Gizmodo</source>
     </item>
     <item>
-      <title>007 First Light Roadmap Confirms Switch 2 Release</title>
-      <description>IO Interactive reveals the Year One roadmap for 007 First Light, confirming its release window for Switch 2. The game is already available on other platforms.</description>
-      <link>https://www.nintendolife.com/news/2026/06/007-first-light-year-one-roadmap-revealed-reconfirms-switch-2-release-window</link>
-      <guid isPermaLink="true">https://www.nintendolife.com/news/2026/06/007-first-light-year-one-roadmap-revealed-reconfirms-switch-2-release-window</guid>
-      <pubDate>2026-06-06T12:30:00Z</pubDate>
+      <title>Resident Evil Veronica: No First-Person View</title>
+      <description>CAPCOM insider confirms Resident Evil Veronica won't feature a first-person perspective, but warns of significant changes from the original.</description>
+      <link>https://wccftech.com/resident-evil-veronica-not-first-person-reimagined/</link>
+      <guid isPermaLink="true">https://wccftech.com/resident-evil-veronica-not-first-person-reimagined/</guid>
+      <pubDate>2026-06-06T12:00:00Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.nintendolife.com/news/2026/06/007-first-light-year-one-roadmap-revealed-reconfirms-switch-2-release-window">Nintendo Life</source>
+      <source url="https://wccftech.com/resident-evil-veronica-not-first-person-reimagined/">Wccftech</source>
     </item>
     <item>
-      <title>HP Unveils Powerful AI PC with Nvidia GB300</title>
-      <description>HP introduces the Nvidia GB300 workstation, the most powerful Windows AI PC, capable of handling one trillion parameters. It features 784GB unified memory.</description>
-      <link>https://www.techradar.com/pro/hp-announces-the-most-powerful-windows-ai-pc-ever-built-nvidia-gb300-workstation-can-handle-one-trillion-parameters-thanks-to-its-784gb-unified-memory-but-it-wont-be-cheap</link>
-      <guid isPermaLink="true">https://www.techradar.com/pro/hp-announces-the-most-powerful-windows-ai-pc-ever-built-nvidia-gb300-workstation-can-handle-one-trillion-parameters-thanks-to-its-784gb-unified-memory-but-it-wont-be-cheap</guid>
-      <pubDate>2026-06-06T01:05:00Z</pubDate>
+      <title>Yooka-Laylee Returns as Kart Racer</title>
+      <description>Yooka-Laylee is back in a new SNES-style kart racer, with multiplayer beta tests planned before launch. The game promises nostalgic fun.</description>
+      <link>https://www.eurogamer.net/super-yooka-laylee-kart-announced-playtonic</link>
+      <guid isPermaLink="true">https://www.eurogamer.net/super-yooka-laylee-kart-announced-playtonic</guid>
+      <pubDate>2026-06-06T09:00:00Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.eurogamer.net/super-yooka-laylee-kart-announced-playtonic">Eurogamer</source>
+    </item>
+    <item>
+      <title>Intel Arc G3 Chip Performance Benchmarks Released</title>
+      <description>Intel reveals performance benchmarks for its Arc G3 Extreme chip, promising significant improvements for gaming handhelds. The chip offers double the battery life at similar performance levels.</description>
+      <link>https://wccftech.com/intel-arc-g3-extreme-performance-benchmarks-disruption-in-handled-segment-double-the-battery-same-performance/</link>
+      <guid isPermaLink="true">https://wccftech.com/intel-arc-g3-extreme-performance-benchmarks-disruption-in-handled-segment-double-the-battery-same-performance/</guid>
+      <pubDate>2026-06-06T07:35:00Z</pubDate>
       <category>Hardware</category>
-      <source url="https://www.techradar.com/pro/hp-announces-the-most-powerful-windows-ai-pc-ever-built-nvidia-gb300-workstation-can-handle-one-trillion-parameters-thanks-to-its-784gb-unified-memory-but-it-wont-be-cheap">TechRadar</source>
+      <source url="https://wccftech.com/intel-arc-g3-extreme-performance-benchmarks-disruption-in-handled-segment-double-the-battery-same-performance/">Wccftech</source>
     </item>
     <item>
-      <title>Tupac Shakur Joins SEGA’s Stranger Than Heaven</title>
-      <description>Tupac Shakur will appear in SEGA’s upcoming game, Stranger Than Heaven, alongside notable actors. The game is highly anticipated.</description>
-      <link>https://www.gamespress.com/TUPAC-SHAKUR-JOINS-SEGAS-STRANGER-THAN-HEAVEN</link>
-      <guid isPermaLink="true">https://www.gamespress.com/TUPAC-SHAKUR-JOINS-SEGAS-STRANGER-THAN-HEAVEN</guid>
-      <pubDate>2026-06-05T23:59:08Z</pubDate>
+      <title>AMD's Future Plans for Zen Architectures</title>
+      <description>AMD announces new Zen architectures and products for the AM5 platform through 2029, with future socket plans contingent on DDR6 and PCIe advancements.</description>
+      <link>https://wccftech.com/amd-brings-new-zen-architectures-products-to-am5-through-2029-but-next-socket-will-only-arrive-when-ddr6-pcie-make-sense/</link>
+      <guid isPermaLink="true">https://wccftech.com/amd-brings-new-zen-architectures-products-to-am5-through-2029-but-next-socket-will-only-arrive-when-ddr6-pcie-make-sense/</guid>
+      <pubDate>2026-06-06T04:30:00Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://wccftech.com/amd-brings-new-zen-architectures-products-to-am5-through-2029-but-next-socket-will-only-arrive-when-ddr6-pcie-make-sense/">Wccftech</source>
+    </item>
+    <item>
+      <title>Palworld Launches July 10</title>
+      <description>Open-world survival game Palworld will officially launch on July 10 for multiple platforms, leaving Early Access behind. Excitement builds for its full release.</description>
+      <link>https://www.gematsu.com/2026/06/palworld-launches-july-10</link>
+      <guid isPermaLink="true">https://www.gematsu.com/2026/06/palworld-launches-july-10</guid>
+      <pubDate>2026-06-05T22:37:27Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.gamespress.com/TUPAC-SHAKUR-JOINS-SEGAS-STRANGER-THAN-HEAVEN">Gamespress.com</source>
+      <source url="https://www.gematsu.com/2026/06/palworld-launches-july-10">Gematsu</source>
     </item>
     <item>
-      <title>Gemini App Integrates Google Contacts for Insights</title>
-      <description>The Gemini app introduces Google Contacts integration, enhancing personalized insights and responses. This feature aims to improve user experience.</description>
-      <link>http://9to5google.com/2026/06/05/gemini-google-contacts/</link>
-      <guid isPermaLink="true">http://9to5google.com/2026/06/05/gemini-google-contacts/</guid>
-      <pubDate>2026-06-05T23:04:00Z</pubDate>
-      <category>Software</category>
-      <source url="http://9to5google.com/2026/06/05/gemini-google-contacts/">9to5google.com</source>
-    </item>
-    <item>
-      <title>Blood Message Releases Story Trailer</title>
-      <description>NetEase Games and 24 Entertainment unveil a story trailer for Blood Message, a cinematic action-adventure game. The trailer showcases its narrative depth.</description>
-      <link>https://www.gematsu.com/2026/06/blood-message-hold-till-dawn-story-trailer</link>
-      <guid isPermaLink="true">https://www.gematsu.com/2026/06/blood-message-hold-till-dawn-story-trailer</guid>
-      <pubDate>2026-06-05T21:20:43Z</pubDate>
+      <title>Hot Wheels Infinite Rush Announced</title>
+      <description>Hot Wheels Infinite Rush is set to launch on multiple platforms, including PS5 and Xbox Series, on September 24. The game promises thrilling racing experiences.</description>
+      <link>https://www.gematsu.com/2026/06/hot-wheels-infinite-rush-announced-for-ps5-xbox-series-switch-2-and-pc</link>
+      <guid isPermaLink="true">https://www.gematsu.com/2026/06/hot-wheels-infinite-rush-announced-for-ps5-xbox-series-switch-2-and-pc</guid>
+      <pubDate>2026-06-05T22:25:47Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.gematsu.com/2026/06/blood-message-hold-till-dawn-story-trailer">Gematsu</source>
+      <source url="https://www.gematsu.com/2026/06/hot-wheels-infinite-rush-announced-for-ps5-xbox-series-switch-2-and-pc">Gematsu</source>
     </item>
     <item>
-      <title>Valve Announces Steam Machine Release Window</title>
-      <description>Valve confirms the release window for its Steam Machine and Steam Frame hardware this summer. Pricing details remain undisclosed.</description>
-      <link>https://www.androidauthority.com/valve-steam-machine-release-window-3675116/</link>
-      <guid isPermaLink="true">https://www.androidauthority.com/valve-steam-machine-release-window-3675116/</guid>
-      <pubDate>2026-06-05T17:46:54Z</pubDate>
+      <title>Stranger Than Heaven Features Digital Tupac</title>
+      <description>Stranger Than Heaven will feature a digital resurrection of Tupac Shakur, adding a unique twist to the game. The announcement has sparked mixed reactions.</description>
+      <link>https://kotaku.com/yakuza-studios-next-big-game-will-revive-tupac-digitally-for-some-reason-2000703097</link>
+      <guid isPermaLink="true">https://kotaku.com/yakuza-studios-next-big-game-will-revive-tupac-digitally-for-some-reason-2000703097</guid>
+      <pubDate>2026-06-05T22:21:23Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.androidauthority.com/valve-steam-machine-release-window-3675116/">Android Authority</source>
+      <source url="https://kotaku.com/yakuza-studios-next-big-game-will-revive-tupac-digitally-for-some-reason-2000703097">Kotaku</source>
+    </item>
+    <item>
+      <title>Demand for Destiny 3 Surges at Summer Game Fest</title>
+      <description>Fans at Summer Game Fest are vocally demanding Destiny 3, showcasing their passion for the franchise. The hashtag #WeWantDestiny3 trended during the event.</description>
+      <link>https://www.ign.com/articles/summer-game-fest-stream-overrun-with-demands-for-destiny-3</link>
+      <guid isPermaLink="true">https://www.ign.com/articles/summer-game-fest-stream-overrun-with-demands-for-destiny-3</guid>
+      <pubDate>2026-06-05T21:26:41Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.ign.com/articles/summer-game-fest-stream-overrun-with-demands-for-destiny-3">IGN</source>
     </item>
   </channel>
 </rss>

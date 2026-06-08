@@ -1,181 +1,229 @@
 {
-  "generated_at": "2026-06-08T03:54:45.133163+00:00",
+  "generated_at": "2026-06-08T10:51:42.323800+00:00",
   "articles": [
     {
-      "title": "Star Trek: Shadow Frontier Unveiled for Multiple Platforms",
-      "description": "Bloober Team announces Star Trek: Shadow Frontier, a psychological thriller launching on PS5, Xbox Series, Switch 2, and PC. Fans can expect an immersive sci-fi experience.",
-      "category": "Gaming",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/bloober-team-announces-psychological-thriller-star-trek-shadow-frontier-for-ps5-xbox-series-switch-2-and-pc",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Star-Trek-Shadow-Frontier-Announce_06-06-26.jpg",
-      "published_at": "2026-06-06T23:12:57Z",
-      "key_points": [
-        "Psychological thriller genre",
-        "Multiple platform release",
-        "Developed by Bloober Team"
-      ],
-      "impact": "This game expands the Star Trek universe.",
-      "id": "cae3361f076c70fb33e2d19d04ba9d20"
-    },
-    {
-      "title": "Stellar Blade: Blood Rain Trailer Criticized for AI Use",
-      "description": "The reveal trailer for Stellar Blade: Blood Rain faces backlash for heavy reliance on generative AI. Fans express disappointment over the artistic integrity.",
-      "category": "Gaming",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/06/stellar-blade-blood-rains-reveal-is-allegedly-riddled-with-generative-ai",
-      "image": "https://images.pushsquare.com/819425a793272/large.jpg",
-      "published_at": "2026-06-06T21:57:59Z",
-      "key_points": [
-        "Generative AI controversy",
-        "Fan disappointment",
-        "Artistic integrity questioned"
-      ],
-      "impact": "Concerns over AI may affect game reception.",
-      "id": "8173ee7a352954e79e092faf1b368380"
-    },
-    {
-      "title": "iOS 27 Launching Monday with Major Updates",
-      "description": "iOS 27 is set to launch, featuring significant stability improvements and new Apple Intelligence capabilities. Updates are tailored for Apple's foldable iPhone.",
-      "category": "Software",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/06/ios-27-new-features/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27-guide.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-06T19:21:00Z",
-      "key_points": [
-        "Major stability improvements",
-        "New Apple Intelligence features",
-        "Foldable iPhone updates"
-      ],
-      "impact": "iOS 27 aims to enhance user experience.",
-      "id": "115321ef87439d9108120c2fd07432e8"
-    },
-    {
-      "title": "WWDC 2026: Anticipated Siri Overhaul and Updates",
-      "description": "WWDC 2026 is approaching, promising a major Siri revamp and new Apple Intelligence features. Excitement builds for Apple's latest innovations.",
-      "category": "Software",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Apple-WWDC26-event-branding_big.jpg.large_.jpg?w=980",
-      "published_at": "2026-06-06T18:13:36Z",
-      "key_points": [
-        "Siri revamp expected",
-        "New Apple Intelligence features",
-        "Excitement for innovations"
-      ],
-      "impact": "WWDC 2026 could redefine Apple's software.",
-      "id": "fa9b3f426447e528fbfbf0586790f26f"
-    },
-    {
-      "title": "Bungie Offers Free Marathon Game After Misleading Description",
-      "description": "Bungie addresses a misleading PS5 store description by giving affected fans full access to the Marathon game. The company aims to rectify the situation.",
-      "category": "Gaming",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/06/bungie-fixes-marathon-mess-by-giving-away-full-game-to-fans-who-purchased-due-to-misleading-ps5-store-description",
-      "image": "https://images.pushsquare.com/a527b100205fa/large.jpg",
-      "published_at": "2026-06-06T16:00:00Z",
-      "key_points": [
-        "Misleading store description",
-        "Free game offer",
-        "Bungie's customer service"
-      ],
-      "impact": "Bungie's response may restore fan trust.",
-      "id": "baff7edec5c4d3f5b820b4cb7faf5638"
-    },
-    {
-      "title": "007 First Light Roadmap Confirms Switch 2 Release",
-      "description": "IO Interactive reveals the Year One roadmap for 007 First Light, confirming its release window for Switch 2. The game is already available on other platforms.",
+      "title": "Vampire Survivors Unveils Switch 2 Version and DLC",
+      "description": "Vampire Survivors announces a new Switch 2 version and DLC, alongside the 'Wet Update'. The game continues to evolve with fresh content.",
       "category": "Gaming",
       "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/06/007-first-light-year-one-roadmap-revealed-reconfirms-switch-2-release-window",
-      "image": "https://images.nintendolife.com/a0c39b88e69d6/large.jpg",
-      "published_at": "2026-06-06T12:30:00Z",
+      "url": "https://www.nintendolife.com/news/2026/06/vampire-survivors-announces-switch-2-version-new-dlc-and-name-update",
+      "image": "https://images.nintendolife.com/9d6254205fa25/large.jpg",
+      "published_at": "2026-06-07T02:00:00Z",
       "key_points": [
-        "Year One roadmap revealed",
-        "Switch 2 release confirmed",
-        "Sales update shared"
+        "New Switch 2 version announced",
+        "DLC includes 'Wet Update'",
+        "Continued support from Poncle"
       ],
-      "impact": "Fans await the Switch 2 launch eagerly.",
-      "id": "f64b29d9778b897cb4aa7c1a3de5678c"
+      "impact": "This update keeps the game relevant and engaging.",
+      "id": "042b7da9322222706840551dd9b81cf2"
     },
     {
-      "title": "HP Unveils Powerful AI PC with Nvidia GB300",
-      "description": "HP introduces the Nvidia GB300 workstation, the most powerful Windows AI PC, capable of handling one trillion parameters. It features 784GB unified memory.",
-      "category": "Hardware",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/pro/hp-announces-the-most-powerful-windows-ai-pc-ever-built-nvidia-gb300-workstation-can-handle-one-trillion-parameters-thanks-to-its-784gb-unified-memory-but-it-wont-be-cheap",
-      "image": "https://cdn.mos.cms.futurecdn.net/sjKs9hHvJ2otwxt3RBzLRM-1920-80.jpg",
-      "published_at": "2026-06-06T01:05:00Z",
+      "title": "Wyoming Sheriff Unveils Clint Eastwood Cruiser Design",
+      "description": "Laramie County Sheriff Brian Kozak reveals a new cruiser design inspired by Clint Eastwood's 'High Plains Drifter'. The unique look has garnered positive feedback.",
+      "category": "Business",
+      "source": "Cowboy State Daily",
+      "url": "https://cowboystatedaily.com/2026/06/06/pretty-badass-new-laramie-county-sheriffs-cruiser-is-pure-western-wyoming/",
+      "image": "https://cowboystatedaily.imgix.net/New-Sheriffs-cruiser-710020639_1299237672391254_5317509438597465883_n-copy-6.6.26.jpg?w=1200&q=75&auto=format%2Ccompress",
+      "published_at": "2026-06-06T23:16:00Z",
       "key_points": [
-        "Most powerful Windows AI PC",
-        "784GB unified memory",
-        "Handles one trillion parameters"
+        "Cruiser inspired by Clint Eastwood",
+        "Design stands out in fleet",
+        "Positive community response"
       ],
-      "impact": "This PC sets a new performance standard.",
-      "id": "0fc21afa4732ad666e1ab53dc91aa5c6"
+      "impact": "The design enhances community engagement and pride.",
+      "id": "7038332862a472d4035502467a28764b"
     },
     {
-      "title": "Tupac Shakur Joins SEGA’s Stranger Than Heaven",
-      "description": "Tupac Shakur will appear in SEGA’s upcoming game, Stranger Than Heaven, alongside notable actors. The game is highly anticipated.",
+      "title": "Monster Hunter Wilds Confirmed for Nintendo Switch 2",
+      "description": "Monster Hunter Wilds is officially coming to Nintendo Switch 2, confirming long-standing rumors. Fans can expect exciting gameplay on the new platform.",
       "category": "Gaming",
-      "source": "Gamespress.com",
-      "url": "https://www.gamespress.com/TUPAC-SHAKUR-JOINS-SEGAS-STRANGER-THAN-HEAVEN",
-      "image": "",
-      "published_at": "2026-06-05T23:59:08Z",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/monster-hunter-wilds-nintendo-switch-2",
+      "image": "https://assetsio.gnwcdn.com/HKGKXisXMAAmfuu.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-06T21:57:48Z",
       "key_points": [
-        "Tupac joins game cast",
-        "Highly anticipated title",
-        "Collaboration with RGG Studio"
+        "Monster Hunter Wilds confirmed",
+        "Switch 2 port anticipated",
+        "Fans excited for new gameplay"
       ],
-      "impact": "This adds star power to the game.",
-      "id": "d4c1868ba8cbb2822916f90d4d68e7e2"
+      "impact": "This release boosts the Switch 2's game library.",
+      "id": "869259301801c9f1f29971fdd92b111c"
     },
     {
-      "title": "Gemini App Integrates Google Contacts for Insights",
-      "description": "The Gemini app introduces Google Contacts integration, enhancing personalized insights and responses. This feature aims to improve user experience.",
+      "title": "Microsoft's New AI Models: A Critical Review",
+      "description": "After testing Microsoft's new AI models, doubts arise about their readiness for mainstream use. The models were showcased at Build 2026.",
+      "category": "AI",
+      "source": "PCMag",
+      "url": "https://www.pcmag.com/news/i-tested-all-4-of-microsofts-new-ai-models-heres-the-brutal-truth",
+      "image": "https://i.pcmag.com/imagery/articles/04wXAT6DlXfKjkUoeU3cEmn-2.fit_lim.size_1200x630.v1780676865.png",
+      "published_at": "2026-06-06T16:00:21Z",
+      "key_points": [
+        "New AI models tested",
+        "Concerns about readiness",
+        "Showcased at Build 2026"
+      ],
+      "impact": "Microsoft may need to refine these models further.",
+      "id": "3665b1c7dd93750048eb43386674626e"
+    },
+    {
+      "title": "Windows 11 Tools from Build 2026: Key Highlights",
+      "description": "Build 2026 introduces four new tools for Windows 11, enhancing developer experience. These tools aim to streamline development processes.",
       "category": "Software",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/06/05/gemini-google-contacts/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Gemini-app-Contacts.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-05T23:04:00Z",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/4-tools-for-windows-11-that-stood-out-to-me-during-build-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/N5kK8D3tPDbVnhrVgtfPYC-1680-80.jpg",
+      "published_at": "2026-06-06T14:15:26Z",
       "key_points": [
-        "New Google Contacts integration",
-        "Personalized insights",
-        "Enhanced user experience"
+        "Four new developer tools introduced",
+        "Enhancements for Windows 11",
+        "Focus on AI and local models"
       ],
-      "impact": "This feature boosts Gemini's functionality.",
-      "id": "63393e5d54e184a985e3d15d4e2a1551"
+      "impact": "These tools could significantly improve developer productivity.",
+      "id": "52e6857886fb0144df02b521f2984ea9"
     },
     {
-      "title": "Blood Message Releases Story Trailer",
-      "description": "NetEase Games and 24 Entertainment unveil a story trailer for Blood Message, a cinematic action-adventure game. The trailer showcases its narrative depth.",
+      "title": "Top Trailers from Summer Game Fest 2026",
+      "description": "The Summer Game Fest 2026 showcased exciting new trailers, highlighting upcoming games. Gizmodo lists their favorite reveals from the event.",
+      "category": "Gaming",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/summer-game-fest-2026-trailers-best-2000768293",
+      "image": "https://gizmodo.com/app/uploads/2026/06/summer-game-fest26-hed-1200x675.jpg",
+      "published_at": "2026-06-06T14:00:28Z",
+      "key_points": [
+        "Favorite trailers highlighted",
+        "Exciting game reveals",
+        "Summer Game Fest 2026 recap"
+      ],
+      "impact": "These trailers build anticipation for upcoming releases.",
+      "id": "9341a4e598da9e2861d856b52fd954a3"
+    },
+    {
+      "title": "Resident Evil Veronica: No First-Person View",
+      "description": "CAPCOM insider confirms Resident Evil Veronica won't feature a first-person perspective, but warns of significant changes from the original.",
+      "category": "Gaming",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/resident-evil-veronica-not-first-person-reimagined/",
+      "image": "https://wccftech.com/wp-content/uploads/2026/06/【REV】_chara_Claire_00_GL-1920x1080.jpg",
+      "published_at": "2026-06-06T12:00:00Z",
+      "key_points": [
+        "No first-person view confirmed",
+        "Significant changes expected",
+        "Fans warned about reimagining"
+      ],
+      "impact": "Expect mixed reactions from long-time fans.",
+      "id": "215c4dd7f774735896922b6a7e73d083"
+    },
+    {
+      "title": "Yooka-Laylee Returns as Kart Racer",
+      "description": "Yooka-Laylee is back in a new SNES-style kart racer, with multiplayer beta tests planned before launch. The game promises nostalgic fun.",
+      "category": "Gaming",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/super-yooka-laylee-kart-announced-playtonic",
+      "image": "https://assetsio.gnwcdn.com/super-yooka-laylee-kart-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-06T09:00:00Z",
+      "key_points": [
+        "New kart racer announced",
+        "Multiplayer beta tests planned",
+        "Nostalgic gameplay experience"
+      ],
+      "impact": "This revival taps into retro gaming nostalgia.",
+      "id": "9dbf91b017b52da23c016da848ba90a4"
+    },
+    {
+      "title": "Intel Arc G3 Chip Performance Benchmarks Released",
+      "description": "Intel reveals performance benchmarks for its Arc G3 Extreme chip, promising significant improvements for gaming handhelds. The chip offers double the battery life at similar performance levels.",
+      "category": "Hardware",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/intel-arc-g3-extreme-performance-benchmarks-disruption-in-handled-segment-double-the-battery-same-performance/",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/IMG_0447-1920x1440.jpg",
+      "published_at": "2026-06-06T07:35:00Z",
+      "key_points": [
+        "Arc G3 chip benchmarks released",
+        "Double battery life promised",
+        "Significant gaming performance improvements"
+      ],
+      "impact": "This chip could disrupt the gaming handheld market.",
+      "id": "861847758913fe1bd60926a73404fa1a"
+    },
+    {
+      "title": "AMD's Future Plans for Zen Architectures",
+      "description": "AMD announces new Zen architectures and products for the AM5 platform through 2029, with future socket plans contingent on DDR6 and PCIe advancements.",
+      "category": "Hardware",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/amd-brings-new-zen-architectures-products-to-am5-through-2029-but-next-socket-will-only-arrive-when-ddr6-pcie-make-sense/",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/AMD-David-McAfee.jpg",
+      "published_at": "2026-06-06T04:30:00Z",
+      "key_points": [
+        "New Zen architectures planned",
+        "AM5 support through 2029",
+        "Future socket depends on tech advancements"
+      ],
+      "impact": "AMD's roadmap ensures continued innovation in CPUs.",
+      "id": "af793671b0e968ee4561d7dc6adc8ad5"
+    },
+    {
+      "title": "Palworld Launches July 10",
+      "description": "Open-world survival game Palworld will officially launch on July 10 for multiple platforms, leaving Early Access behind. Excitement builds for its full release.",
       "category": "Gaming",
       "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/blood-message-hold-till-dawn-story-trailer",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Blood-Message-PV_06-05-26.jpg",
-      "published_at": "2026-06-05T21:20:43Z",
+      "url": "https://www.gematsu.com/2026/06/palworld-launches-july-10",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Palworld-Launch-Date_06-05-26.jpg",
+      "published_at": "2026-06-05T22:37:27Z",
       "key_points": [
-        "Cinematic story trailer released",
-        "Single-player action-adventure",
-        "Narrative-driven gameplay"
+        "Palworld launches July 10",
+        "Available on multiple platforms",
+        "Exiting Early Access soon"
       ],
-      "impact": "The trailer heightens anticipation for the game.",
-      "id": "a968375da7ce221aa1717c586356beff"
+      "impact": "This launch could attract a larger player base.",
+      "id": "2d30bac90cc58377145cc3b019dd2f9d"
     },
     {
-      "title": "Valve Announces Steam Machine Release Window",
-      "description": "Valve confirms the release window for its Steam Machine and Steam Frame hardware this summer. Pricing details remain undisclosed.",
+      "title": "Hot Wheels Infinite Rush Announced",
+      "description": "Hot Wheels Infinite Rush is set to launch on multiple platforms, including PS5 and Xbox Series, on September 24. The game promises thrilling racing experiences.",
       "category": "Gaming",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/valve-steam-machine-release-window-3675116/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/Valve-Steam-Machine-wood-cover.jpg",
-      "published_at": "2026-06-05T17:46:54Z",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/hot-wheels-infinite-rush-announced-for-ps5-xbox-series-switch-2-and-pc",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Hot-Wheels-Infinite-Rush-Ann_06-05-26.jpg",
+      "published_at": "2026-06-05T22:25:47Z",
       "key_points": [
-        "Steam Machine release confirmed",
-        "Steam Frame coming soon",
-        "Pricing still unknown"
+        "Hot Wheels Infinite Rush announced",
+        "Launching on September 24",
+        "Available on multiple platforms"
       ],
-      "impact": "Valve's hardware launch could reshape gaming.",
-      "id": "e52d24c66585b071b9d20edf29967e7a"
+      "impact": "This game aims to revitalize the racing genre.",
+      "id": "ff336a44a8a65ba61a95789347940d69"
+    },
+    {
+      "title": "Stranger Than Heaven Features Digital Tupac",
+      "description": "Stranger Than Heaven will feature a digital resurrection of Tupac Shakur, adding a unique twist to the game. The announcement has sparked mixed reactions.",
+      "category": "Gaming",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/yakuza-studios-next-big-game-will-revive-tupac-digitally-for-some-reason-2000703097",
+      "image": "https://kotaku.com/app/uploads/2026/06/image-3-1-1200x675.jpg",
+      "published_at": "2026-06-05T22:21:23Z",
+      "key_points": [
+        "Digital Tupac featured in game",
+        "Unique storytelling approach",
+        "Mixed fan reactions expected"
+      ],
+      "impact": "This could redefine narrative possibilities in gaming.",
+      "id": "1ff561106d36681ef5656e6810dc62db"
+    },
+    {
+      "title": "Demand for Destiny 3 Surges at Summer Game Fest",
+      "description": "Fans at Summer Game Fest are vocally demanding Destiny 3, showcasing their passion for the franchise. The hashtag #WeWantDestiny3 trended during the event.",
+      "category": "Gaming",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/summer-game-fest-stream-overrun-with-demands-for-destiny-3",
+      "image": "https://assets-prd.ignimgs.com/2024/05/23/destiny2thumb-1716471330076.png?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-05T21:26:41Z",
+      "key_points": [
+        "Fans demand Destiny 3",
+        "#WeWantDestiny3 trends",
+        "Passion for the franchise evident"
+      ],
+      "impact": "This pressure may influence future game development.",
+      "id": "90743dc898fa68212a06e631cf9c63b7"
     }
   ]
 }

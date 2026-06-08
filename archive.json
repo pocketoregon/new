@@ -1,6 +1,237 @@
 {
   "batches": [
     {
+      "id": "2026-06-08T10:51:42.323800+00:00",
+      "fetched_at": "2026-06-08T10:51:42.323800+00:00",
+      "label": "Jun 08, 2026 — 10:52 AM UTC",
+      "articles": [
+        {
+          "title": "Vampire Survivors Unveils Switch 2 Version and DLC",
+          "description": "Vampire Survivors announces a new Switch 2 version and DLC, alongside the 'Wet Update'. The game continues to evolve with fresh content.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/vampire-survivors-announces-switch-2-version-new-dlc-and-name-update",
+          "image": "https://images.nintendolife.com/9d6254205fa25/large.jpg",
+          "published_at": "2026-06-07T02:00:00Z",
+          "key_points": [
+            "New Switch 2 version announced",
+            "DLC includes 'Wet Update'",
+            "Continued support from Poncle"
+          ],
+          "impact": "This update keeps the game relevant and engaging.",
+          "id": "042b7da9322222706840551dd9b81cf2"
+        },
+        {
+          "title": "Wyoming Sheriff Unveils Clint Eastwood Cruiser Design",
+          "description": "Laramie County Sheriff Brian Kozak reveals a new cruiser design inspired by Clint Eastwood's 'High Plains Drifter'. The unique look has garnered positive feedback.",
+          "category": "Business",
+          "source": "Cowboy State Daily",
+          "url": "https://cowboystatedaily.com/2026/06/06/pretty-badass-new-laramie-county-sheriffs-cruiser-is-pure-western-wyoming/",
+          "image": "https://cowboystatedaily.imgix.net/New-Sheriffs-cruiser-710020639_1299237672391254_5317509438597465883_n-copy-6.6.26.jpg?w=1200&q=75&auto=format%2Ccompress",
+          "published_at": "2026-06-06T23:16:00Z",
+          "key_points": [
+            "Cruiser inspired by Clint Eastwood",
+            "Design stands out in fleet",
+            "Positive community response"
+          ],
+          "impact": "The design enhances community engagement and pride.",
+          "id": "7038332862a472d4035502467a28764b"
+        },
+        {
+          "title": "Monster Hunter Wilds Confirmed for Nintendo Switch 2",
+          "description": "Monster Hunter Wilds is officially coming to Nintendo Switch 2, confirming long-standing rumors. Fans can expect exciting gameplay on the new platform.",
+          "category": "Gaming",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/monster-hunter-wilds-nintendo-switch-2",
+          "image": "https://assetsio.gnwcdn.com/HKGKXisXMAAmfuu.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-06T21:57:48Z",
+          "key_points": [
+            "Monster Hunter Wilds confirmed",
+            "Switch 2 port anticipated",
+            "Fans excited for new gameplay"
+          ],
+          "impact": "This release boosts the Switch 2's game library.",
+          "id": "869259301801c9f1f29971fdd92b111c"
+        },
+        {
+          "title": "Microsoft's New AI Models: A Critical Review",
+          "description": "After testing Microsoft's new AI models, doubts arise about their readiness for mainstream use. The models were showcased at Build 2026.",
+          "category": "AI",
+          "source": "PCMag",
+          "url": "https://www.pcmag.com/news/i-tested-all-4-of-microsofts-new-ai-models-heres-the-brutal-truth",
+          "image": "https://i.pcmag.com/imagery/articles/04wXAT6DlXfKjkUoeU3cEmn-2.fit_lim.size_1200x630.v1780676865.png",
+          "published_at": "2026-06-06T16:00:21Z",
+          "key_points": [
+            "New AI models tested",
+            "Concerns about readiness",
+            "Showcased at Build 2026"
+          ],
+          "impact": "Microsoft may need to refine these models further.",
+          "id": "3665b1c7dd93750048eb43386674626e"
+        },
+        {
+          "title": "Windows 11 Tools from Build 2026: Key Highlights",
+          "description": "Build 2026 introduces four new tools for Windows 11, enhancing developer experience. These tools aim to streamline development processes.",
+          "category": "Software",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/microsoft/windows-11/4-tools-for-windows-11-that-stood-out-to-me-during-build-2026",
+          "image": "https://cdn.mos.cms.futurecdn.net/N5kK8D3tPDbVnhrVgtfPYC-1680-80.jpg",
+          "published_at": "2026-06-06T14:15:26Z",
+          "key_points": [
+            "Four new developer tools introduced",
+            "Enhancements for Windows 11",
+            "Focus on AI and local models"
+          ],
+          "impact": "These tools could significantly improve developer productivity.",
+          "id": "52e6857886fb0144df02b521f2984ea9"
+        },
+        {
+          "title": "Top Trailers from Summer Game Fest 2026",
+          "description": "The Summer Game Fest 2026 showcased exciting new trailers, highlighting upcoming games. Gizmodo lists their favorite reveals from the event.",
+          "category": "Gaming",
+          "source": "Gizmodo",
+          "url": "https://gizmodo.com/summer-game-fest-2026-trailers-best-2000768293",
+          "image": "https://gizmodo.com/app/uploads/2026/06/summer-game-fest26-hed-1200x675.jpg",
+          "published_at": "2026-06-06T14:00:28Z",
+          "key_points": [
+            "Favorite trailers highlighted",
+            "Exciting game reveals",
+            "Summer Game Fest 2026 recap"
+          ],
+          "impact": "These trailers build anticipation for upcoming releases.",
+          "id": "9341a4e598da9e2861d856b52fd954a3"
+        },
+        {
+          "title": "Resident Evil Veronica: No First-Person View",
+          "description": "CAPCOM insider confirms Resident Evil Veronica won't feature a first-person perspective, but warns of significant changes from the original.",
+          "category": "Gaming",
+          "source": "Wccftech",
+          "url": "https://wccftech.com/resident-evil-veronica-not-first-person-reimagined/",
+          "image": "https://wccftech.com/wp-content/uploads/2026/06/【REV】_chara_Claire_00_GL-1920x1080.jpg",
+          "published_at": "2026-06-06T12:00:00Z",
+          "key_points": [
+            "No first-person view confirmed",
+            "Significant changes expected",
+            "Fans warned about reimagining"
+          ],
+          "impact": "Expect mixed reactions from long-time fans.",
+          "id": "215c4dd7f774735896922b6a7e73d083"
+        },
+        {
+          "title": "Yooka-Laylee Returns as Kart Racer",
+          "description": "Yooka-Laylee is back in a new SNES-style kart racer, with multiplayer beta tests planned before launch. The game promises nostalgic fun.",
+          "category": "Gaming",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/super-yooka-laylee-kart-announced-playtonic",
+          "image": "https://assetsio.gnwcdn.com/super-yooka-laylee-kart-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-06T09:00:00Z",
+          "key_points": [
+            "New kart racer announced",
+            "Multiplayer beta tests planned",
+            "Nostalgic gameplay experience"
+          ],
+          "impact": "This revival taps into retro gaming nostalgia.",
+          "id": "9dbf91b017b52da23c016da848ba90a4"
+        },
+        {
+          "title": "Intel Arc G3 Chip Performance Benchmarks Released",
+          "description": "Intel reveals performance benchmarks for its Arc G3 Extreme chip, promising significant improvements for gaming handhelds. The chip offers double the battery life at similar performance levels.",
+          "category": "Hardware",
+          "source": "Wccftech",
+          "url": "https://wccftech.com/intel-arc-g3-extreme-performance-benchmarks-disruption-in-handled-segment-double-the-battery-same-performance/",
+          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/IMG_0447-1920x1440.jpg",
+          "published_at": "2026-06-06T07:35:00Z",
+          "key_points": [
+            "Arc G3 chip benchmarks released",
+            "Double battery life promised",
+            "Significant gaming performance improvements"
+          ],
+          "impact": "This chip could disrupt the gaming handheld market.",
+          "id": "861847758913fe1bd60926a73404fa1a"
+        },
+        {
+          "title": "AMD's Future Plans for Zen Architectures",
+          "description": "AMD announces new Zen architectures and products for the AM5 platform through 2029, with future socket plans contingent on DDR6 and PCIe advancements.",
+          "category": "Hardware",
+          "source": "Wccftech",
+          "url": "https://wccftech.com/amd-brings-new-zen-architectures-products-to-am5-through-2029-but-next-socket-will-only-arrive-when-ddr6-pcie-make-sense/",
+          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/AMD-David-McAfee.jpg",
+          "published_at": "2026-06-06T04:30:00Z",
+          "key_points": [
+            "New Zen architectures planned",
+            "AM5 support through 2029",
+            "Future socket depends on tech advancements"
+          ],
+          "impact": "AMD's roadmap ensures continued innovation in CPUs.",
+          "id": "af793671b0e968ee4561d7dc6adc8ad5"
+        },
+        {
+          "title": "Palworld Launches July 10",
+          "description": "Open-world survival game Palworld will officially launch on July 10 for multiple platforms, leaving Early Access behind. Excitement builds for its full release.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/palworld-launches-july-10",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Palworld-Launch-Date_06-05-26.jpg",
+          "published_at": "2026-06-05T22:37:27Z",
+          "key_points": [
+            "Palworld launches July 10",
+            "Available on multiple platforms",
+            "Exiting Early Access soon"
+          ],
+          "impact": "This launch could attract a larger player base.",
+          "id": "2d30bac90cc58377145cc3b019dd2f9d"
+        },
+        {
+          "title": "Hot Wheels Infinite Rush Announced",
+          "description": "Hot Wheels Infinite Rush is set to launch on multiple platforms, including PS5 and Xbox Series, on September 24. The game promises thrilling racing experiences.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/hot-wheels-infinite-rush-announced-for-ps5-xbox-series-switch-2-and-pc",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Hot-Wheels-Infinite-Rush-Ann_06-05-26.jpg",
+          "published_at": "2026-06-05T22:25:47Z",
+          "key_points": [
+            "Hot Wheels Infinite Rush announced",
+            "Launching on September 24",
+            "Available on multiple platforms"
+          ],
+          "impact": "This game aims to revitalize the racing genre.",
+          "id": "ff336a44a8a65ba61a95789347940d69"
+        },
+        {
+          "title": "Stranger Than Heaven Features Digital Tupac",
+          "description": "Stranger Than Heaven will feature a digital resurrection of Tupac Shakur, adding a unique twist to the game. The announcement has sparked mixed reactions.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/yakuza-studios-next-big-game-will-revive-tupac-digitally-for-some-reason-2000703097",
+          "image": "https://kotaku.com/app/uploads/2026/06/image-3-1-1200x675.jpg",
+          "published_at": "2026-06-05T22:21:23Z",
+          "key_points": [
+            "Digital Tupac featured in game",
+            "Unique storytelling approach",
+            "Mixed fan reactions expected"
+          ],
+          "impact": "This could redefine narrative possibilities in gaming.",
+          "id": "1ff561106d36681ef5656e6810dc62db"
+        },
+        {
+          "title": "Demand for Destiny 3 Surges at Summer Game Fest",
+          "description": "Fans at Summer Game Fest are vocally demanding Destiny 3, showcasing their passion for the franchise. The hashtag #WeWantDestiny3 trended during the event.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/summer-game-fest-stream-overrun-with-demands-for-destiny-3",
+          "image": "https://assets-prd.ignimgs.com/2024/05/23/destiny2thumb-1716471330076.png?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-05T21:26:41Z",
+          "key_points": [
+            "Fans demand Destiny 3",
+            "#WeWantDestiny3 trends",
+            "Passion for the franchise evident"
+          ],
+          "impact": "This pressure may influence future game development.",
+          "id": "90743dc898fa68212a06e631cf9c63b7"
+        }
+      ]
+    },
+    {
       "id": "2026-06-08T03:54:45.133163+00:00",
       "fetched_at": "2026-06-08T03:54:45.133163+00:00",
       "label": "Jun 08, 2026 — 03:55 AM UTC",
@@ -6008,157 +6239,6 @@
           ],
           "impact": "Sets a new benchmark for game budgets.",
           "id": "e99ed0ae36e081e1dcb1a6ed93065b68"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-03T10:57:10.505311+00:00",
-      "fetched_at": "2026-06-03T10:57:10.505311+00:00",
-      "label": "Jun 03, 2026 — 10:57 AM UTC",
-      "articles": [
-        {
-          "title": "iPhone 18 Pro Battery Leak Reveals Big Changes",
-          "description": "The iPhone 18 Pro's battery capacities have leaked, with eSIM models getting a larger cell. This expansion to Europe benefits millions of buyers.",
-          "category": "Business",
-          "source": "Notebookcheck.net",
-          "url": "https://www.notebookcheck.net/New-iPhone-18-Pro-battery-leak-just-changed-the-story-for-non-US-buyers.1313079.0.html",
-          "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/iphone18-pro-design-models-54.png",
-          "published_at": "2026-06-02T03:26:00Z",
-          "key_points": [
-            "eSIM models get larger battery",
-            "Expansion to Europe confirmed",
-            "Significant for non-US buyers"
-          ],
-          "impact": "This change enhances the iPhone's appeal globally.",
-          "id": "d2144ce6bcfac3bddb5e147a9c35e933"
-        },
-        {
-          "title": "iOS 27 Introduces Standalone Siri App",
-          "description": "iOS 27 will feature a standalone Siri app, allowing users to interact with Siri more effectively. This marks a significant shift in Apple's approach to voice assistance.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/01/ios-27-siri-app-rumors/",
-          "image": "https://images.macrumors.com/t/wccLNgtu2uBa78hkDFTa4mENJus=/2500x/article-new/2025/08/Finder-Siri-Feature.jpg",
-          "published_at": "2026-06-01T23:25:47Z",
-          "key_points": [
-            "Standalone Siri app confirmed",
-            "Improved user interaction",
-            "Part of iOS 27 release"
-          ],
-          "impact": "This enhances Siri's usability and accessibility.",
-          "id": "28802e209adfa5185c78830357ebbb79"
-        },
-        {
-          "title": "Samsung Galaxy Z Fold8 Leaks Ahead of Launch",
-          "description": "The Galaxy Z Fold8 is set to debut in July, with leaks suggesting a wide-screen design. Anticipation builds for Samsung's next foldable innovation.",
-          "category": "Hardware",
-          "source": "GSMArena.com",
-          "url": "https://www.gsmarena.com/samsungs_galaxy_z_fold8_wide_foldable_spotted_in_the_wild-news-73078.php",
-          "image": "https://fdn.gsmarena.com/imgroot/news/26/06/samsung-galaxy-z-fold8-wide-real-life-leak/-952x498w6/gsmarena_00.jpg",
-          "published_at": "2026-06-01T23:12:01Z",
-          "key_points": [
-            "Galaxy Z Fold8 launching in July",
-            "Wide-screen design anticipated",
-            "Excitement for foldable tech grows"
-          ],
-          "impact": "This could redefine the foldable smartphone market.",
-          "id": "2990f71b68153477db43ca1c5dd59bed"
-        },
-        {
-          "title": "Riot Games Celebrates Pride 2026",
-          "description": "Riot Games is celebrating Pride month with new in-game content and community collaborations. This initiative highlights LGBTQIA+ representation across their games.",
-          "category": "Gaming",
-          "source": "Riotgames.com",
-          "url": "https://www.riotgames.com/en/news/pride-2026-in-game",
-          "image": "https://www.riotgames.com/darkroom/1200/7a19127dec1e9e2808cb09e1be4df629:2c22ece971fd9c089d884c0aba9a09d2/rg-com-pride-2026-article-header.png",
-          "published_at": "2026-06-01T19:02:03Z",
-          "key_points": [
-            "New in-game Pride content",
-            "Community artist collaborations",
-            "Spotlighting LGBTQIA+ creators"
-          ],
-          "impact": "This fosters inclusivity in gaming culture.",
-          "id": "b3aa718448a8cd874ccfa466f5542b23"
-        },
-        {
-          "title": "Toyota Unveils 2027 GR86 Enhancements",
-          "description": "The 2027 Toyota GR86 debuts with performance enhancements and new features at FuelFest. These updates aim to elevate the driving experience for enthusiasts.",
-          "category": "Business",
-          "source": "Toyota USA Newsroom",
-          "url": "https://pressroom.toyota.com/toyota-turns-up-the-thrill-for-2027-with-new-updates-to-gr86/",
-          "image": "https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2026/06/2027_Toyota_GR86_Fuel-Fest_HERO-1000x600.jpg",
-          "published_at": "2026-06-01T18:46:25Z",
-          "key_points": [
-            "2027 GR86 enhancements revealed",
-            "Focus on performance and features",
-            "Debuted at FuelFest event"
-          ],
-          "impact": "This strengthens Toyota's performance vehicle lineup.",
-          "id": "470c4210fd65d79e244a1e12f1e4da3b"
-        },
-        {
-          "title": "Intel Launches Arc G3 Processors for Handhelds",
-          "description": "Intel's new Arc G3 series targets gaming handhelds, competing with AMD's Ryzen Z-series. These processors are designed for optimal gaming performance.",
-          "category": "Hardware",
-          "source": "Techpowerup.com",
-          "url": "https://www.techpowerup.com/349585/arc-g3-processor-series-detailed-purpose-built-for-gaming-handhelds-packs-the-best-of-intel",
-          "image": "https://www.techpowerup.com/img/paNBIZPv1xKwOUdi.jpg",
-          "published_at": "2026-06-01T14:08:07Z",
-          "key_points": [
-            "Arc G3 series launched",
-            "Designed for gaming handhelds",
-            "Competes with AMD Ryzen"
-          ],
-          "impact": "This enhances Intel's position in gaming hardware.",
-          "id": "72f2d0c1c78745f01c37d350e320b321"
-        },
-        {
-          "title": "Engineer Creates AI Laser Mosquito Defense",
-          "description": "An engineer developed an AI-driven laser system that effectively eliminates mosquitoes. This innovative approach uses deep learning for targeting.",
-          "category": "Science",
-          "source": "TechSpot",
-          "url": "https://www.techspot.com/news/112601-engineer-builds-ai-laser-defense-system-wiped-out.html",
-          "image": "https://www.techspot.com/images2/news/bigimage/2026/06/2026-06-01-image-29.jpg",
-          "published_at": "2026-06-01T13:42:00Z",
-          "key_points": [
-            "AI system targets mosquitoes",
-            "Uses deep learning technology",
-            "Innovative pest control solution"
-          ],
-          "impact": "This could revolutionize pest control methods.",
-          "id": "a86ed11bfdd155bcbb8865908b658e78"
-        },
-        {
-          "title": "PS5 Offers Free First-Party Game for Limited Time",
-          "description": "Sony is offering a free first-party PS5 game, Marathon, starting June 2. Despite good reviews, the game struggled commercially since its release.",
-          "category": "Gaming",
-          "source": "PlayStation LifeStyle",
-          "url": "https://www.playstationlifestyle.net/2026/06/01/sony-first-party-game-marathon-ps5-free-week/",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/06/ps5-game-marathon-free-week.jpg?resize=1200,630",
-          "published_at": "2026-06-01T12:58:22Z",
-          "key_points": [
-            "Marathon game free for PS5",
-            "Limited time offer starts June 2",
-            "Game faced commercial challenges"
-          ],
-          "impact": "This aims to boost player engagement.",
-          "id": "51656e2da8881ad8600fe03f28743625"
-        },
-        {
-          "title": "AMD Announces Ryzen 7 5800X3D Anniversary Edition",
-          "description": "AMD confirms the Ryzen 7 5800X3D 10th Anniversary Edition, launching June 25 for $349. This re-release features advanced 3D V-Cache technology.",
-          "category": "Hardware",
-          "source": "Videocardz.com",
-          "url": "https://videocardz.com/newz/amd-confirms-ryzen-7-5800x3d-10th-anniversary-edition-for-349-launches-june-25th",
-          "image": "https://cdn.videocardz.com/1/2026/06/AMD-RYZEN-5800X3D-ANNIVERSARY-1.jpg",
-          "published_at": "2026-06-01T02:11:09Z",
-          "key_points": [
-            "Ryzen 7 5800X3D confirmed",
-            "Launch date set for June 25",
-            "Priced at $349"
-          ],
-          "impact": "This reinforces AMD's competitive CPU offerings.",
-          "id": "ff1f6707965c9370af69bad8977303b8"
         }
       ]
     }
