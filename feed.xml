@@ -5,107 +5,125 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 15:23:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 20:06:35 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Nintendo Direct Set for Tomorrow</title>
-      <description>Nintendo announces a Direct presentation for June 9, 2026. Fans anticipate updates on upcoming titles like Project X Zone 3 and Pokemon Pinball.</description>
-      <link>https://www.nintendolife.com/news/2026/06/nintendo-direct-announced-for-tomorrow-9th-june-2026</link>
-      <guid isPermaLink="true">https://www.nintendolife.com/news/2026/06/nintendo-direct-announced-for-tomorrow-9th-june-2026</guid>
-      <pubDate>2026-06-08T13:50:00Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.nintendolife.com/news/2026/06/nintendo-direct-announced-for-tomorrow-9th-june-2026">Nintendo Life</source>
-    </item>
-    <item>
-      <title>Apple WWDC 2026 Highlights AI and Software</title>
-      <description>WWDC 2026 focuses on AI advancements, Siri updates, and new iPhone software. CEO John Ternus makes his major appearance during the keynote.</description>
-      <link>https://www.cnbc.com/2026/06/08/apple-wwdc-2026-live-updates.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/06/08/apple-wwdc-2026-live-updates.html</guid>
-      <pubDate>2026-06-08T13:26:00Z</pubDate>
+      <title>Apple Unveils Next-Gen Siri AI</title>
+      <description>Apple's revamped Siri AI promises enhanced capabilities across devices. The update aims to improve user experience significantly.</description>
+      <link>https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc</guid>
+      <pubDate>2026-06-08T17:34:24Z</pubDate>
       <category>Software</category>
-      <source url="https://www.cnbc.com/2026/06/08/apple-wwdc-2026-live-updates.html">CNBC</source>
+      <source url="https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc">The Verge</source>
     </item>
     <item>
-      <title>Summer Game Fest 2026: Switch Announcements</title>
-      <description>Summer Game Fest 2026 showcases numerous announcements for Switch titles. Fans celebrate a packed weekend of gaming reveals.</description>
-      <link>https://www.nintendolife.com/news/2026/06/round-up-every-switch-1-and-2-announcement-from-summer-game-fests-weekend-showcases</link>
-      <guid isPermaLink="true">https://www.nintendolife.com/news/2026/06/round-up-every-switch-1-and-2-announcement-from-summer-game-fests-weekend-showcases</guid>
-      <pubDate>2026-06-08T11:45:00Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.nintendolife.com/news/2026/06/round-up-every-switch-1-and-2-announcement-from-summer-game-fests-weekend-showcases">Nintendo Life</source>
-    </item>
-    <item>
-      <title>Hustle Culture's Costly Impact</title>
-      <description>Burnt-out Americans are investing heavily in wellness and rest as status symbols. The wellness economy evolves beyond traditional fitness.</description>
-      <link>https://www.axios.com/2026/06/08/sleep-tourism-burnout-coaches-luxury-longevity</link>
-      <guid isPermaLink="true">https://www.axios.com/2026/06/08/sleep-tourism-burnout-coaches-luxury-longevity</guid>
-      <pubDate>2026-06-08T09:12:46Z</pubDate>
-      <category>Business</category>
-      <source url="https://www.axios.com/2026/06/08/sleep-tourism-burnout-coaches-luxury-longevity">Axios</source>
-    </item>
-    <item>
-      <title>Xbox Clarifies Exclusivity Strategy</title>
-      <description>Xbox's Matt Booty explains the company's strategy for multiplayer and live service games. Upcoming titles include Clockwork Revolution and Gears of War: E-Day.</description>
-      <link>https://www.eurogamer.net/xbox-console-exclusive-strategy-clockwork-revolution-gears-of-war-e-day</link>
-      <guid isPermaLink="true">https://www.eurogamer.net/xbox-console-exclusive-strategy-clockwork-revolution-gears-of-war-e-day</guid>
-      <pubDate>2026-06-08T09:00:42Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.eurogamer.net/xbox-console-exclusive-strategy-clockwork-revolution-gears-of-war-e-day">Eurogamer</source>
-    </item>
-    <item>
-      <title>Fable DLC and Gameplay Preview</title>
-      <description>Fable: Order of the Hero DLC announced, adding new content ahead of the game's release. Extended gameplay preview expected soon.</description>
-      <link>https://www.eurogamer.net/fable-post-launch-dlc-gameplay</link>
-      <guid isPermaLink="true">https://www.eurogamer.net/fable-post-launch-dlc-gameplay</guid>
-      <pubDate>2026-06-08T08:40:00Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.eurogamer.net/fable-post-launch-dlc-gameplay">Eurogamer</source>
-    </item>
-    <item>
-      <title>Castlevania: Belmont’s Curse Release Date</title>
-      <description>Castlevania: Belmont’s Curse set to launch on October 15 for PS5, Xbox Series, and PC. Switch version to follow later in 2026.</description>
-      <link>https://www.gematsu.com/2026/06/castlevania-belmonts-curse-launches-october-15-for-ps5-xbox-series-and-pc-later-in-2026-for-switch</link>
-      <guid isPermaLink="true">https://www.gematsu.com/2026/06/castlevania-belmonts-curse-launches-october-15-for-ps5-xbox-series-and-pc-later-in-2026-for-switch</guid>
-      <pubDate>2026-06-07T17:53:51Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.gematsu.com/2026/06/castlevania-belmonts-curse-launches-october-15-for-ps5-xbox-series-and-pc-later-in-2026-for-switch">Gematsu</source>
-    </item>
-    <item>
-      <title>iOS 27 Beta Launching Tomorrow</title>
-      <description>Apple's iOS 27 beta will be available tomorrow, featuring numerous new features for iPhones. Developers can access it immediately after the keynote.</description>
-      <link>https://www.macrumors.com/2026/06/07/ios-27-beta-available-tomorrow-new-features/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/06/07/ios-27-beta-available-tomorrow-new-features/</guid>
-      <pubDate>2026-06-07T15:39:13Z</pubDate>
+      <title>visionOS 27 Launches with Exciting Features</title>
+      <description>Apple introduces visionOS 27, enhancing the Vision Pro experience with new features. Users can expect improved functionality and performance.</description>
+      <link>https://9to5mac.com/2026/06/08/visionos-27-announced-with-new-features-for-vision-pro/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/08/visionos-27-announced-with-new-features-for-vision-pro/</guid>
+      <pubDate>2026-06-08T17:30:00Z</pubDate>
       <category>Software</category>
-      <source url="https://www.macrumors.com/2026/06/07/ios-27-beta-available-tomorrow-new-features/">MacRumors</source>
+      <source url="https://9to5mac.com/2026/06/08/visionos-27-announced-with-new-features-for-vision-pro/">9to5Mac</source>
     </item>
     <item>
-      <title>Wearable Tech Comparison: Oura vs. Fitbit</title>
-      <description>A comparison of the latest fitness trackers focusing on sleep monitoring and heart-rate accuracy. The Oura Ring, Fitbit Air, Whoop MG, and Apple Watch are tested.</description>
-      <link>https://www.wsj.com/tech/personal-tech/oura-ring-fitbit-air-whoop-apple-sleep-wearables-99783661</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/personal-tech/oura-ring-fitbit-air-whoop-apple-sleep-wearables-99783661</guid>
-      <pubDate>2026-06-07T11:00:00Z</pubDate>
+      <title>Apple Unveils macOS 27 Golden Gate</title>
+      <description>Apple announces macOS 27 Golden Gate, designed for various Mac models. The new OS promises faster and smoother performance.</description>
+      <link>https://www.theverge.com/tech/943695/apple-wwdc-2026-macos-27-macbook-mac-announcement-features</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/943695/apple-wwdc-2026-macos-27-macbook-mac-announcement-features</guid>
+      <pubDate>2026-06-08T17:07:30Z</pubDate>
       <category>Software</category>
-      <source url="https://www.wsj.com/tech/personal-tech/oura-ring-fitbit-air-whoop-apple-sleep-wearables-99783661">The Wall Street Journal</source>
+      <source url="https://www.theverge.com/tech/943695/apple-wwdc-2026-macos-27-macbook-mac-announcement-features">The Verge</source>
     </item>
     <item>
-      <title>Silicon Valley's AI Boom and Companionship</title>
-      <description>High-end companions in Silicon Valley offer intellectual rapport alongside traditional services, capitalizing on the AI boom. They charge significant fees for their time.</description>
-      <link>https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/</link>
-      <guid isPermaLink="true">https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/</guid>
-      <pubDate>2026-06-07T10:30:00Z</pubDate>
-      <category>Business</category>
-      <source url="https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/">Forbes</source>
+      <title>Apple Beta Website Temporarily Down Ahead of WWDC</title>
+      <description>Apple's Beta Software Program website is down just before WWDC 2026. Users await the first developer betas of iOS 27.</description>
+      <link>https://www.macrumors.com/2026/06/08/apple-beta-website-back-soon/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/06/08/apple-beta-website-back-soon/</guid>
+      <pubDate>2026-06-08T16:20:04Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.macrumors.com/2026/06/08/apple-beta-website-back-soon/">MacRumors</source>
     </item>
     <item>
-      <title>Samsung Galaxy S26 FE Leaks Ahead of Launch</title>
-      <description>The Galaxy S26 FE leaks online, showcasing a familiar design with a new camera bump. Launch expected later this year.</description>
-      <link>http://9to5google.com/2026/06/06/samsung-galaxy-s26-fe-leak/</link>
-      <guid isPermaLink="true">http://9to5google.com/2026/06/06/samsung-galaxy-s26-fe-leak/</guid>
-      <pubDate>2026-06-07T01:35:00Z</pubDate>
-      <category>Hardware</category>
-      <source url="http://9to5google.com/2026/06/06/samsung-galaxy-s26-fe-leak/">9to5Google</source>
+      <title>New Halo Cosmetics Honor Legacy</title>
+      <description>Halo: Campaign Evolved introduces new cosmetics for Master Chief. Available in Premium and Collector’s Editions, these honor the franchise's legacy.</description>
+      <link>https://news.xbox.com/en-us/2026/06/08/halo-campaign-evolved-prorder-alpha-halo-armory-pack-skins/</link>
+      <guid isPermaLink="true">https://news.xbox.com/en-us/2026/06/08/halo-campaign-evolved-prorder-alpha-halo-armory-pack-skins/</guid>
+      <pubDate>2026-06-08T16:02:18Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://news.xbox.com/en-us/2026/06/08/halo-campaign-evolved-prorder-alpha-halo-armory-pack-skins/">Xbox.com</source>
+    </item>
+    <item>
+      <title>NotebookLM Update Enhances Research Tool</title>
+      <description>Google updates NotebookLM, making Gemini 3.5 the default model. New features aim to streamline research processes.</description>
+      <link>https://techcrunch.com/2026/06/08/notebooklms-new-update-will-help-you-build-source-repository-from-chat/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/08/notebooklms-new-update-will-help-you-build-source-repository-from-chat/</guid>
+      <pubDate>2026-06-08T16:00:00Z</pubDate>
+      <category>Software</category>
+      <source url="https://techcrunch.com/2026/06/08/notebooklms-new-update-will-help-you-build-source-repository-from-chat/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Pokémon TCG: Mega Evolution Pre-release Event</title>
+      <description>Get early access to the Mega Evolution—Pitch Black Build &amp; Battle Box at local events. The expansion launches on July 17, 2026.</description>
+      <link>https://www.pokemon.com/us/pokemon-news/get-a-pokemon-tcg-mega-evolution-pitch-black-build-battle-box-early</link>
+      <guid isPermaLink="true">https://www.pokemon.com/us/pokemon-news/get-a-pokemon-tcg-mega-evolution-pitch-black-build-battle-box-early</guid>
+      <pubDate>2026-06-08T15:10:48Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.pokemon.com/us/pokemon-news/get-a-pokemon-tcg-mega-evolution-pitch-black-build-battle-box-early">Pokemon.com</source>
+    </item>
+    <item>
+      <title>New MkIV Space Marines Arrive for Horus Heresy</title>
+      <description>Warhammer introduces updated MkIV Space Marines miniatures for The Horus Heresy. Classic power armor gets a modern redesign.</description>
+      <link>https://www.warhammer-community.com/articles/egzsv8co/new-mkiv-space-marines-deploy-to-the-horus-heresy</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/articles/egzsv8co/new-mkiv-space-marines-deploy-to-the-horus-heresy</guid>
+      <pubDate>2026-06-08T13:58:19Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.warhammer-community.com/articles/egzsv8co/new-mkiv-space-marines-deploy-to-the-horus-heresy">Warhammer-community.com</source>
+    </item>
+    <item>
+      <title>Xbox Confirms Anti-Scalping Measures for Series X25</title>
+      <description>Ahead of the Xbox Series X25 launch, Xbox confirms anti-scalping measures to ensure fair access. The limited-edition console drops in November 2026.</description>
+      <link>https://www.windowscentral.com/gaming/xbox/its-top-of-mind-and-being-worked-on-xbox-confirms-anti-scalping-methods-will-be-in-place-ahead-of-the-xbox-series-x25-preorder</link>
+      <guid isPermaLink="true">https://www.windowscentral.com/gaming/xbox/its-top-of-mind-and-being-worked-on-xbox-confirms-anti-scalping-methods-will-be-in-place-ahead-of-the-xbox-series-x25-preorder</guid>
+      <pubDate>2026-06-08T13:54:02Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.windowscentral.com/gaming/xbox/its-top-of-mind-and-being-worked-on-xbox-confirms-anti-scalping-methods-will-be-in-place-ahead-of-the-xbox-series-x25-preorder">Windows Central</source>
+    </item>
+    <item>
+      <title>Xbox Exclusives Strategy Becomes Complex</title>
+      <description>The next Gears of War is an Xbox exclusive, while Halo remains multi-platform. Xbox's exclusives strategy raises questions among fans.</description>
+      <link>https://www.theverge.com/report/945639/xbox-exclusives-strategy-complicated-confusing</link>
+      <guid isPermaLink="true">https://www.theverge.com/report/945639/xbox-exclusives-strategy-complicated-confusing</guid>
+      <pubDate>2026-06-08T13:54:01Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.theverge.com/report/945639/xbox-exclusives-strategy-complicated-confusing">The Verge</source>
+    </item>
+    <item>
+      <title>Prada and Axiom Reveal Stylish Cooling Suit for Moon Missions</title>
+      <description>Prada and Axiom Space unveil a fashionable cooling suit for astronauts. This garment enhances comfort during lunar missions.</description>
+      <link>https://www.space.com/space-exploration/human-spaceflight/its-very-aesthetically-pleasing-prada-and-axiom-just-revealed-the-stylish-cooling-suit-artemis-astronuats-will-wear-under-their-spacesuit-on-the-moon</link>
+      <guid isPermaLink="true">https://www.space.com/space-exploration/human-spaceflight/its-very-aesthetically-pleasing-prada-and-axiom-just-revealed-the-stylish-cooling-suit-artemis-astronuats-will-wear-under-their-spacesuit-on-the-moon</guid>
+      <pubDate>2026-06-08T12:00:00Z</pubDate>
+      <category>Geopolitics</category>
+      <source url="https://www.space.com/space-exploration/human-spaceflight/its-very-aesthetically-pleasing-prada-and-axiom-just-revealed-the-stylish-cooling-suit-artemis-astronuats-will-wear-under-their-spacesuit-on-the-moon">Space.com</source>
+    </item>
+    <item>
+      <title>Pixel Feature Disappears with New Replacement</title>
+      <description>A Pixel-exclusive feature has vanished, replaced by a new option with limitations. Users express frustration over the changes.</description>
+      <link>https://www.phonearena.com/news/another-pixel-exclusive-feature-just-vanished-and-the-replacement-comes-with-strings-attached_id180934</link>
+      <guid isPermaLink="true">https://www.phonearena.com/news/another-pixel-exclusive-feature-just-vanished-and-the-replacement-comes-with-strings-attached_id180934</guid>
+      <pubDate>2026-06-07T21:04:36Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.phonearena.com/news/another-pixel-exclusive-feature-just-vanished-and-the-replacement-comes-with-strings-attached_id180934">PhoneArena</source>
+    </item>
+    <item>
+      <title>iPhone Fold Leak and Nvidia RTX Spark Official</title>
+      <description>This week features a leak of the iPhone Fold and the official announcement of Nvidia's RTX Spark. Exciting developments in tech continue.</description>
+      <link>https://www.gsmarena.com/iphone_fold_photo_leak_nvidia_rtx_spark_is_official_week_23_in_review-news-73151.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/iphone_fold_photo_leak_nvidia_rtx_spark_is_official_week_23_in_review-news-73151.php</guid>
+      <pubDate>2026-06-07T14:04:02Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.gsmarena.com/iphone_fold_photo_leak_nvidia_rtx_spark_is_official_week_23_in_review-news-73151.php">GSMArena.com</source>
     </item>
   </channel>
 </rss>
