@@ -1,6 +1,189 @@
 {
   "batches": [
     {
+      "id": "2026-06-09T06:54:43.709388+00:00",
+      "fetched_at": "2026-06-09T06:54:43.709388+00:00",
+      "label": "Jun 09, 2026 — 06:55 AM UTC",
+      "articles": [
+        {
+          "title": "Stellar Blade Dev Praises Sony's Support",
+          "description": "Shift Up's Hyung-Tae Kim discusses new hero design and Sony's publishing support for Stellar Blade: Blood Rains. Exciting insights into game development emerge.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/stellar-blade-dev-explains-new-hero-design-praises-sonys-publishing-support",
+          "image": "https://images.pushsquare.com/89700ecf5b335/large.jpg",
+          "published_at": "2026-06-08T00:30:00Z",
+          "key_points": [
+            "New hero design revealed",
+            "Sony's support praised",
+            "Game development insights shared"
+          ],
+          "impact": "Sony's backing enhances game development potential.",
+          "id": "d479005e09bcf6019577b0683a55d8a8"
+        },
+        {
+          "title": "First Look at Galaxy S26 FE",
+          "description": "The Galaxy S26 FE is unveiled, showcasing its design and features. Early impressions suggest a competitive entry in the smartphone market.",
+          "category": "Hardware",
+          "source": "PhoneArena",
+          "url": "https://www.phonearena.com/news/galaxy-s26-fe-first-look_id180935",
+          "image": "",
+          "published_at": "2026-06-08T00:07:10Z",
+          "key_points": [
+            "Galaxy S26 FE design revealed",
+            "Competitive smartphone features",
+            "Early impressions shared"
+          ],
+          "impact": "Galaxy S26 FE aims to capture market attention.",
+          "id": "715b3797553751373daeea2461f72a3b"
+        },
+        {
+          "title": "NASA's High-Tech Prada Long Johns for Moon",
+          "description": "NASA astronauts will wear Prada-designed cooling long johns during lunar missions. This innovative base layer enhances comfort in spacesuits.",
+          "category": "Science",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Axiom-Space_Prada_LCVG-Reveal_02.png?quality=90&strip=all&crop=0%2C3.1153778355696%2C100%2C93.769244328861&w=1200",
+          "published_at": "2026-06-07T22:16:41Z",
+          "key_points": [
+            "Prada designs NASA's long johns",
+            "Enhances astronaut comfort",
+            "Cooling technology integrated"
+          ],
+          "impact": "Innovative design improves astronaut experience.",
+          "id": "e90e7496413777694a2d7ee8d0d62b2f"
+        },
+        {
+          "title": "Xbox's Future Exclusive Games Plans",
+          "description": "Matt Booty discusses Xbox's strategy for exclusive games post-showcase. The focus remains on delivering compelling content for gamers.",
+          "category": "Gaming",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/06/matt-booty-explains-xboxs-plans-for-exclusive-games-going-forward",
+          "image": "https://images.purexbox.com/d389709b26426/large.jpg",
+          "published_at": "2026-06-07T21:01:21Z",
+          "key_points": [
+            "Xbox's exclusive strategy outlined",
+            "Focus on compelling content",
+            "Post-showcase insights shared"
+          ],
+          "impact": "Xbox aims to strengthen exclusive game lineup.",
+          "id": "ba5520dc80055d788a05f27e3ea3dd4d"
+        },
+        {
+          "title": "Beast of Reincarnation Gameplay Revealed",
+          "description": "New details for Beast of Reincarnation include gameplay insights and voice cast announcements. Protagonist Emma will be voiced by Yui Ishikawa.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/beast-of-reincarnation-reveals-voice-cast-new-gameplay",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Beast-of-Reincarnation_2026_06-07-26_004.jpg",
+          "published_at": "2026-06-07T20:14:07Z",
+          "key_points": [
+            "Gameplay details unveiled",
+            "Voice cast announced",
+            "Emma voiced by Yui Ishikawa"
+          ],
+          "impact": "Excitement builds for Beast of Reincarnation.",
+          "id": "efb43be22680ddb5e8856f1d94f8e444"
+        },
+        {
+          "title": "Thief: The Dark Project Remastered Announced",
+          "description": "Thief: The Dark Project Remastered is set to revive the classic game for modern consoles. Fans can expect a nostalgic yet fresh experience.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/thief-the-dark-project-remastered-announced-for-ps5-xbox-series-switch-2-ps4-switch-and-pc",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Thief-The-Dark-Project-Remastered_2026_06-07-26_009.jpg",
+          "published_at": "2026-06-07T20:05:42Z",
+          "key_points": [
+            "Classic game revived",
+            "Modern consoles supported",
+            "Nostalgic experience promised"
+          ],
+          "impact": "Thief's remaster aims to attract new players.",
+          "id": "58feebd8e7d6ce0936b9122c0af672f6"
+        },
+        {
+          "title": "Persona 4 Revival Live Stream Announced",
+          "description": "Atlus announces a live stream for Persona 4 Revival on June 18, 2026. Fans can expect exciting updates and insights from the producer.",
+          "category": "Gaming",
+          "source": "Persona Central",
+          "url": "https://personacentral.com/p4r-information-live-stream/",
+          "image": "https://personacentral.com/wp-content/uploads/2026/06/P4R-English-Screenshots-13.webp",
+          "published_at": "2026-06-07T19:31:18Z",
+          "key_points": [
+            "Live stream set for June 18",
+            "Producer Kazuhisa Wada featured",
+            "Updates on Persona 4 Revival"
+          ],
+          "impact": "Fans eagerly await new Persona 4 details.",
+          "id": "6340c77b5dff2db3acb18efd03511a7c"
+        },
+        {
+          "title": "Apple Watch Series 11 vs Competitors",
+          "description": "The Apple Watch Series 11 excels in a recent health tracker comparison. It outperforms Oura, Fitbit, and Whoop in key areas.",
+          "category": "Hardware",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/07/heres-how-apple-watch-series-11-stacks-up-against-oura-fitbit-and-whoop-per-wsj/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/Apple-Watch-SE-3-Series-11-Ultra-3-stack.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-07T16:04:00Z",
+          "key_points": [
+            "Apple Watch Series 11 shines",
+            "Outperforms major competitors",
+            "Health tracking features highlighted"
+          ],
+          "impact": "Apple Watch Series 11 leads in health tracking.",
+          "id": "275798299a9cba3a9e0f117626fb7850"
+        },
+        {
+          "title": "Final Fantasy 7 Revelation Details Unveiled",
+          "description": "New details about Final Fantasy 7 Revelation emerge, concluding the trilogy next year. Fans are excited for the final installment.",
+          "category": "Gaming",
+          "source": "Nintendo Everything",
+          "url": "https://nintendoeverything.com/tons-of-new-final-fantasy-7-revelation-details/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Final-Fantasy-7-Revelation-details.jpg",
+          "published_at": "2026-06-07T15:04:22Z",
+          "key_points": [
+            "Final installment details shared",
+            "Trilogy conclusion next year",
+            "Fans eagerly anticipate release"
+          ],
+          "impact": "Final Fantasy 7 trilogy reaches its climax.",
+          "id": "0422929fe15cdbf16631c970089fe916"
+        },
+        {
+          "title": "Foldable iPhone Design Revealed",
+          "description": "Detailed images of a foldable iPhone dummy unit showcase its design. The device may only be available in white.",
+          "category": "Hardware",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/07/best-look-yet-at-foldable-iphone-design-revealed/",
+          "image": "https://images.macrumors.com/t/kXDNoVnfgCWvUBiCM4SKk734tZc=/1600x/article-new/2026/06/foldable-iphone-dummy-sonny-dickson.jpg",
+          "published_at": "2026-06-07T10:28:04Z",
+          "key_points": [
+            "Foldable iPhone design revealed",
+            "May only come in white",
+            "Finalized design showcased"
+          ],
+          "impact": "Foldable iPhone design sparks consumer interest.",
+          "id": "c7500ecb532de6247a36f0831d56b93e"
+        },
+        {
+          "title": "Godzilla: Destroy All Monsters Melee Remastered",
+          "description": "Godzilla: Destroy All Monsters Melee Remastered is set for release this November on multiple platforms. The classic kaiju brawler returns with updated features.",
+          "category": "Gaming",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/sgf-2026/2026/06/06/godzilla-destroy-all-monsters-melee-remastered-brings-the-kaiju-brawler-back-to",
+          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/06/1a610fb1/Godzilla%201.jpg.webp",
+          "published_at": "2026-06-07T01:44:19Z",
+          "key_points": [
+            "Classic game returns this November",
+            "Multiple platforms supported",
+            "Updated features promised"
+          ],
+          "impact": "Godzilla's remaster aims to revive nostalgia.",
+          "id": "58d12cc90fbe80a0facb7e47ff9d6f63"
+        }
+      ]
+    },
+    {
       "id": "2026-06-09T02:58:05.126832+00:00",
       "fetched_at": "2026-06-09T02:58:05.126832+00:00",
       "label": "Jun 09, 2026 — 02:58 AM UTC",
@@ -5896,253 +6079,6 @@
           ],
           "impact": "Anticipation for Star Fox continues to grow.",
           "id": "f58e6e6f849807cd72ca7ae6c21f22e7"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-04T09:54:37.681705+00:00",
-      "fetched_at": "2026-06-04T09:54:37.681705+00:00",
-      "label": "Jun 04, 2026 — 09:55 AM UTC",
-      "articles": [
-        {
-          "title": "Nvidia RTX Spark Era: Surface Laptop Ultra Unveiled",
-          "description": "Microsoft's Surface Laptop Ultra showcases Nvidia's AI-first platform. Early impressions highlight its innovative hardware features.",
-          "category": "Hardware",
-          "source": "PCMag.com",
-          "url": "https://www.pcmag.com/news/hands-on-microsoft-surface-laptop-ultra-computex-2026",
-          "image": "https://i.pcmag.com/imagery/articles/07fhEKMVC2xfTJS6TIOVqu5-1.fit_lim.size_1200x630.v1780445130.jpg",
-          "published_at": "2026-06-03T01:21:22Z",
-          "key_points": [
-            "AI-first laptop platform",
-            "Innovative hardware features",
-            "Flagship Surface model"
-          ],
-          "impact": "This laptop sets a new standard for AI integration.",
-          "id": "46090c9f7a9226f9b315341e31bb4c6e"
-        },
-        {
-          "title": "Wolverine Game Developers Reveal New Features",
-          "description": "Developers discuss gameplay, X-Men cameos, and a low-gore option for the upcoming Wolverine game. Exciting details emerge from the latest trailer.",
-          "category": "Gaming",
-          "source": "Variety",
-          "url": "https://variety.com/2026/gaming/news/wolverine-video-game-trailer-x-men-cameos-gameplay-1236764406/",
-          "image": "https://variety.com/wp-content/uploads/2026/06/Wolverine-video-game-PlayStation.jpg?w=1000&h=563&crop=1",
-          "published_at": "2026-06-02T22:30:00Z",
-          "key_points": [
-            "New gameplay footage",
-            "X-Men cameos confirmed",
-            "Low-gore option available"
-          ],
-          "impact": "Fans can expect a thrilling and unique experience.",
-          "id": "1ab21cc9b5e7d8e4d3ec43450082e843"
-        },
-        {
-          "title": "Rayman Legends Retold Aims for 60 FPS on Switch 2",
-          "description": "Ubisoft announces Rayman Legends Retold for Nintendo Switch 2, promising 60 FPS and content parity with other platforms. A beloved classic returns with new features.",
-          "category": "Gaming",
-          "source": "Nintendoeverything.com",
-          "url": "https://nintendoeverything.com/rayman-legends-retold-targeting-60-fps-on-nintendo-switch-2-will-have-content-parity-with-other-platforms/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Rayman-Legends-Retold-Switch-2.jpg",
-          "published_at": "2026-06-02T22:14:29Z",
-          "key_points": [
-            "60 FPS target",
-            "Content parity across platforms",
-            "Remake of classic game"
-          ],
-          "impact": "This remake revitalizes a classic for new audiences.",
-          "id": "5b970f9da396338af0bfe50fc5c91a5b"
-        },
-        {
-          "title": "Siri in iOS 27: New Features Unveiled",
-          "description": "iOS 27 introduces significant enhancements to Siri, focusing on smarter interactions and improved functionality. Users can expect a more intuitive experience.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/02/ios-27-siri-features/",
-          "image": "https://images.macrumors.com/t/eNxYmCA1u77ZdJovI2KACUQ_lN0=/2500x/article-new/2024/06/Apple-Intelligence-General-Feature.jpg",
-          "published_at": "2026-06-02T22:03:58Z",
-          "key_points": [
-            "Enhanced Siri interactions",
-            "Improved functionality",
-            "More intuitive user experience"
-          ],
-          "impact": "Siri becomes a more powerful assistant for users.",
-          "id": "aedc1b4479ad8ab86dba7d0514589391"
-        },
-        {
-          "title": "Onimusha: Way of the Sword Launches September 25",
-          "description": "Capcom announces Onimusha: Way of the Sword for PS5, Xbox Series, and PC, with a demo available now. The game launches on September 25.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/onimusha-way-of-the-sword-launches-september-25-demo-now-available",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Onimusha-WotS-Date_06-02-26.jpg",
-          "published_at": "2026-06-02T21:32:30Z",
-          "key_points": [
-            "Launch date set for September 25",
-            "Demo available now",
-            "Cross-platform release"
-          ],
-          "impact": "Fans can experience the demo ahead of launch.",
-          "id": "5b6e50d2fcff25caddd5e3512c409ae4"
-        },
-        {
-          "title": "KEMURI Set for 2027 Release on PS5, PC",
-          "description": "KEMURI, a yokai possession action game, is set to launch in 2027 for PS5 and PC. Developed by Ikumi Nakamura's studio UNSEEN, anticipation builds.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/kemuri-launches-in-2027-for-ps5-pc",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/KEMURI_06-02-26.jpg",
-          "published_at": "2026-06-02T21:20:56Z",
-          "key_points": [
-            "Launch in 2027",
-            "Yokai possession theme",
-            "Developed by UNSEEN studio"
-          ],
-          "impact": "This game promises a unique gameplay experience.",
-          "id": "88fc7a83b699b8c4c6315ec839b3b865"
-        },
-        {
-          "title": "Tomb Raider Legacy of Atlantis Listed for 2027",
-          "description": "Amazon reveals Tomb Raider Legacy of Atlantis for Steam, set to release on February 10, 2027. This reimagining of the classic game excites fans.",
-          "category": "Gaming",
-          "source": "Tombraiderchronicles.com",
-          "url": "https://www.tombraiderchronicles.com/headlines5590.html",
-          "image": "",
-          "published_at": "2026-06-02T19:16:19Z",
-          "key_points": [
-            "Release date: February 10, 2027",
-            "Reimagining of classic game",
-            "Available on Steam"
-          ],
-          "impact": "Fans eagerly await this nostalgic reimagining.",
-          "id": "af3c4ce02ec4e6ebbc00a08a3b63262b"
-        },
-        {
-          "title": "Classic Toy Story Games Coming to Switch",
-          "description": "Digital Eclipse announces classic Toy Story games for Nintendo Switch 1 and 2 this year, celebrating the franchise's 30th anniversary. Nostalgia meets modern gaming.",
-          "category": "Gaming",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/06/digital-eclipse-brings-a-bunch-of-classic-toy-story-games-to-switch-1-and-2-this-year",
-          "image": "https://images.nintendolife.com/3edb033a7c03e/large.jpg",
-          "published_at": "2026-06-02T16:00:00Z",
-          "key_points": [
-            "Classic games returning",
-            "Celebrating 30th anniversary",
-            "Available on Switch"
-          ],
-          "impact": "Nostalgic fans can relive classic moments.",
-          "id": "40ed07c312db94dbbee07e4587d8a884"
-        },
-        {
-          "title": "Pokémon GO Updates Impact PvE Raids",
-          "description": "The latest Pokémon GO updates enhance moves for PvE raids, affecting gameplay strategies. New attack availability reshapes the meta for players.",
-          "category": "Gaming",
-          "source": "Pokemon GO Hub",
-          "url": "https://pokemongohub.net/post/meta/biggest-winners-from-forever-forward-move-updates-raids-pve/",
-          "image": "https://pokemongohub.net/wp-content/uploads/2026/05/forever-forward.jpg",
-          "published_at": "2026-06-02T14:33:30Z",
-          "key_points": [
-            "New moves for PvE",
-            "Updated gameplay strategies",
-            "Impact on raid meta"
-          ],
-          "impact": "Players must adapt to new strategies.",
-          "id": "fdae1f8c049cb8abfee90763a5429153"
-        },
-        {
-          "title": "Star Fox Multiplayer Mode Impresses on Switch 2",
-          "description": "Hands-on preview of Star Fox on Switch 2 reveals an exciting multiplayer mode. The game retains its classic charm while introducing new features.",
-          "category": "Gaming",
-          "source": "Mashable",
-          "url": "https://mashable.com/entertainment/star-fox-nintendo-switch-2-hands-on-preview",
-          "image": "https://helios-i.mashable.com/imagery/articles/042htZefycDXIINRGSzT6El/hero-image.fill.size_1200x675.v1780086841.png",
-          "published_at": "2026-06-02T13:02:04Z",
-          "key_points": [
-            "Exciting multiplayer mode",
-            "Classic charm retained",
-            "New features introduced"
-          ],
-          "impact": "Star Fox continues to captivate players.",
-          "id": "59efae69077140d6452190e94bc0b209"
-        },
-        {
-          "title": "Foldable iPhone Ultra Features Liquid Metal Hinge",
-          "description": "Apple's upcoming foldable iPhone Ultra will feature a liquid metal hinge, with prototypes shipped for testing. This innovation promises enhanced durability.",
-          "category": "Hardware",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/02/foldable-iphone-will-feature-liquid-metal-hinge/",
-          "image": "https://images.macrumors.com/t/utojh2KSAyPpmL2zSSHd0_hnVQQ=/2500x/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-          "published_at": "2026-06-02T12:46:44Z",
-          "key_points": [
-            "Liquid metal hinge innovation",
-            "Prototypes shipped for testing",
-            "Enhanced durability expected"
-          ],
-          "impact": "This hinge technology could redefine foldable phones.",
-          "id": "1ff87ea707358e5084cd9178938123a1"
-        },
-        {
-          "title": "Silent Hill: Townfall ESRB Rating Revealed",
-          "description": "Silent Hill: Townfall receives its ESRB rating ahead of the State of Play event. Anticipation builds for this horror title's release.",
-          "category": "Gaming",
-          "source": "MP1st",
-          "url": "https://mp1st.com/news/silent-hill-townfall-esrb-rating-surfaces-ahead-state-of-play",
-          "image": "https://mp1st.com/wp-content/uploads/2026/06/silent-hill-townfall-img1.jpg",
-          "published_at": "2026-06-02T11:36:01Z",
-          "key_points": [
-            "ESRB rating revealed",
-            "Closer to release",
-            "Horror title anticipation"
-          ],
-          "impact": "Fans eagerly await more details on this game.",
-          "id": "50b095f587f6529f5a100da4f34b9274"
-        },
-        {
-          "title": "Intel's Arc G3 Extreme SoC Pricing Concerns",
-          "description": "Intel warns of high pricing for its Arc G3 Extreme SoC, designed for handheld gaming. Performance and efficiency details are also highlighted.",
-          "category": "Hardware",
-          "source": "Notebookcheck",
-          "url": "https://www.notebookcheck.net/Intel-warns-of-crazy-price-Arc-G3-Extreme-tramples-AMD-Ryzen-Z2-Extreme-for-expensive-price.1312169.0.html",
-          "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MSI-Claw-8-EX-AI-handheld-gaming-console-features-the-Arc-G3-Extreme-SoC.jpg",
-          "published_at": "2026-06-02T09:14:00Z",
-          "key_points": [
-            "High pricing concerns",
-            "Designed for handheld gaming",
-            "Performance details highlighted"
-          ],
-          "impact": "Pricing may affect market competitiveness.",
-          "id": "433f96da1a6bab8609929926293cf483"
-        },
-        {
-          "title": "Toyota Unveils 2027 GR86 with New Features",
-          "description": "Toyota reveals the 2027 GR86, featuring a new Thunder Gray paint and improved performance. The lightest car in its lineup gets exciting updates.",
-          "category": "Business",
-          "source": "autoevolution",
-          "url": "https://www.autoevolution.com/news/toyota-unleashes-the-2027-gr86-it-has-new-gray-paint-and-red-interior-270862.html",
-          "image": "https://s1.cdn.autoevolution.com/images/news/toyota-unleashes-the-2027-gr86-with-new-gray-paint-and-red-interior-270862_1.jpg",
-          "published_at": "2026-06-02T07:32:05Z",
-          "key_points": [
-            "New Thunder Gray paint",
-            "Improved performance features",
-            "Lightest car in lineup"
-          ],
-          "impact": "The GR86 continues to impress car enthusiasts.",
-          "id": "c93674147750c3053a092a56ed3dd949"
-        },
-        {
-          "title": "ASUS Advances AI in Healthcare at Computex 2026",
-          "description": "ASUS showcases AI-driven healthcare solutions at Computex 2026, enhancing clinical decision-making with innovative tools. Key products include Handheld Ultrasound DuoScan and VivoWatch 6 Plus.",
-          "category": "Software",
-          "source": "Asus.com",
-          "url": "https://press.asus.com/news/press_releases/asus-com-news-ai-driven-healthcare-computex/",
-          "image": "https://press.asus.com/assets/w_1200,h_630/4b0c3546-3396-458d-8a18-ba3f5b6a5105/Computex2026_vivowatch_ultrasound_PR_1800x1012.jpg",
-          "published_at": "2026-06-02T02:44:23Z",
-          "key_points": [
-            "AI-driven healthcare solutions",
-            "Innovative clinical tools",
-            "Enhancing decision-making"
-          ],
-          "impact": "ASUS is shaping the future of healthcare technology.",
-          "id": "671dc397a662abd0c1b8932814cd920d"
         }
       ]
     }
