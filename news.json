@@ -1,183 +1,55 @@
 {
   "date": "2026-06-09",
-  "generated_at": "2026-06-09T06:54:43.709388+00:00",
+  "generated_at": "2026-06-09T11:59:10.714802+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Stellar Blade Dev Praises Sony's Support",
-      "description": "Shift Up's Hyung-Tae Kim discusses new hero design and Sony's publishing support for Stellar Blade: Blood Rains. Exciting insights into game development emerge.",
-      "category": "Gaming",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/06/stellar-blade-dev-explains-new-hero-design-praises-sonys-publishing-support",
-      "image": "https://images.pushsquare.com/89700ecf5b335/large.jpg",
-      "published_at": "2026-06-08T00:30:00Z",
-      "key_points": [
-        "New hero design revealed",
-        "Sony's support praised",
-        "Game development insights shared"
-      ],
-      "impact": "Sony's backing enhances game development potential.",
-      "id": "d479005e09bcf6019577b0683a55d8a8"
-    },
-    {
-      "title": "First Look at Galaxy S26 FE",
-      "description": "The Galaxy S26 FE is unveiled, showcasing its design and features. Early impressions suggest a competitive entry in the smartphone market.",
-      "category": "Hardware",
-      "source": "PhoneArena",
-      "url": "https://www.phonearena.com/news/galaxy-s26-fe-first-look_id180935",
-      "image": "",
-      "published_at": "2026-06-08T00:07:10Z",
-      "key_points": [
-        "Galaxy S26 FE design revealed",
-        "Competitive smartphone features",
-        "Early impressions shared"
-      ],
-      "impact": "Galaxy S26 FE aims to capture market attention.",
-      "id": "715b3797553751373daeea2461f72a3b"
-    },
-    {
-      "title": "NASA's High-Tech Prada Long Johns for Moon",
-      "description": "NASA astronauts will wear Prada-designed cooling long johns during lunar missions. This innovative base layer enhances comfort in spacesuits.",
-      "category": "Science",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Axiom-Space_Prada_LCVG-Reveal_02.png?quality=90&strip=all&crop=0%2C3.1153778355696%2C100%2C93.769244328861&w=1200",
-      "published_at": "2026-06-07T22:16:41Z",
-      "key_points": [
-        "Prada designs NASA's long johns",
-        "Enhances astronaut comfort",
-        "Cooling technology integrated"
-      ],
-      "impact": "Innovative design improves astronaut experience.",
-      "id": "e90e7496413777694a2d7ee8d0d62b2f"
-    },
-    {
-      "title": "Xbox's Future Exclusive Games Plans",
-      "description": "Matt Booty discusses Xbox's strategy for exclusive games post-showcase. The focus remains on delivering compelling content for gamers.",
+      "title": "Senua Brings A 'Different Kind' Of Hellblade Game To Xbox Game Pass In 2027",
+      "description": "Ninja Theory reveals a new Hellblade game for Xbox Game Pass in 2027. Fans are excited for this fresh take on the series.",
       "category": "Gaming",
       "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/06/matt-booty-explains-xboxs-plans-for-exclusive-games-going-forward",
-      "image": "https://images.purexbox.com/d389709b26426/large.jpg",
-      "published_at": "2026-06-07T21:01:21Z",
+      "url": "https://www.purexbox.com/news/2026/06/senua-brings-a-different-kind-of-hellblade-game-to-xbox-game-pass-in-2027",
+      "image": "https://images.purexbox.com/4a802a8f8a1e2/large.jpg",
+      "published_at": "2026-06-07T19:34:00Z",
       "key_points": [
-        "Xbox's exclusive strategy outlined",
-        "Focus on compelling content",
-        "Post-showcase insights shared"
+        "New Hellblade game announced",
+        "Releasing on Xbox Game Pass",
+        "Developed by Ninja Theory"
       ],
-      "impact": "Xbox aims to strengthen exclusive game lineup.",
-      "id": "ba5520dc80055d788a05f27e3ea3dd4d"
+      "impact": "This expands Xbox Game Pass offerings significantly.",
+      "id": "4f0072a61a890ad4cb1e8f0830cbdb5c"
     },
     {
-      "title": "Beast of Reincarnation Gameplay Revealed",
-      "description": "New details for Beast of Reincarnation include gameplay insights and voice cast announcements. Protagonist Emma will be voiced by Yui Ishikawa.",
+      "title": "21 Game Pass Titles Get New Announcements At The Xbox Showcase 2026",
+      "description": "The Xbox Showcase 2026 unveiled 21 new Game Pass titles, featuring world premieres and updates. Gamers can expect an exciting lineup ahead.",
       "category": "Gaming",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/beast-of-reincarnation-reveals-voice-cast-new-gameplay",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Beast-of-Reincarnation_2026_06-07-26_004.jpg",
-      "published_at": "2026-06-07T20:14:07Z",
+      "source": "Pure Xbox",
+      "url": "https://www.purexbox.com/news/2026/06/21-game-pass-titles-get-new-announcements-at-the-xbox-showcase-2026",
+      "image": "https://images.purexbox.com/079f8ea336482/large.jpg",
+      "published_at": "2026-06-07T18:57:00Z",
       "key_points": [
-        "Gameplay details unveiled",
-        "Voice cast announced",
-        "Emma voiced by Yui Ishikawa"
+        "21 new titles announced",
+        "Includes world premieres",
+        "Exciting updates for gamers"
       ],
-      "impact": "Excitement builds for Beast of Reincarnation.",
-      "id": "efb43be22680ddb5e8856f1d94f8e444"
+      "impact": "This enhances the Game Pass library significantly.",
+      "id": "3561cace9e643c5c54de473e4f5ed681"
     },
     {
-      "title": "Thief: The Dark Project Remastered Announced",
-      "description": "Thief: The Dark Project Remastered is set to revive the classic game for modern consoles. Fans can expect a nostalgic yet fresh experience.",
+      "title": "How one video game brought me back to gaming after 15 years",
+      "description": "The article discusses how 007 First Light reignited the author's passion for gaming after a long hiatus. It's praised for its cinematic experience.",
       "category": "Gaming",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/thief-the-dark-project-remastered-announced-for-ps5-xbox-series-switch-2-ps4-switch-and-pc",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Thief-The-Dark-Project-Remastered_2026_06-07-26_009.jpg",
-      "published_at": "2026-06-07T20:05:42Z",
+      "source": "Creative Bloq",
+      "url": "https://www.creativebloq.com/design/why-007-first-light-is-the-first-video-game-ive-wanted-to-play-in-over-a-decade",
+      "image": "https://cdn.mos.cms.futurecdn.net/6DsNEtsgWYcUiXGsPjGhKJ-1000-80.jpg",
+      "published_at": "2026-06-07T15:04:13Z",
       "key_points": [
-        "Classic game revived",
-        "Modern consoles supported",
-        "Nostalgic experience promised"
+        "007 First Light praised",
+        "Cinematic gaming experience",
+        "Revived interest in gaming"
       ],
-      "impact": "Thief's remaster aims to attract new players.",
-      "id": "58feebd8e7d6ce0936b9122c0af672f6"
-    },
-    {
-      "title": "Persona 4 Revival Live Stream Announced",
-      "description": "Atlus announces a live stream for Persona 4 Revival on June 18, 2026. Fans can expect exciting updates and insights from the producer.",
-      "category": "Gaming",
-      "source": "Persona Central",
-      "url": "https://personacentral.com/p4r-information-live-stream/",
-      "image": "https://personacentral.com/wp-content/uploads/2026/06/P4R-English-Screenshots-13.webp",
-      "published_at": "2026-06-07T19:31:18Z",
-      "key_points": [
-        "Live stream set for June 18",
-        "Producer Kazuhisa Wada featured",
-        "Updates on Persona 4 Revival"
-      ],
-      "impact": "Fans eagerly await new Persona 4 details.",
-      "id": "6340c77b5dff2db3acb18efd03511a7c"
-    },
-    {
-      "title": "Apple Watch Series 11 vs Competitors",
-      "description": "The Apple Watch Series 11 excels in a recent health tracker comparison. It outperforms Oura, Fitbit, and Whoop in key areas.",
-      "category": "Hardware",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/07/heres-how-apple-watch-series-11-stacks-up-against-oura-fitbit-and-whoop-per-wsj/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/Apple-Watch-SE-3-Series-11-Ultra-3-stack.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-07T16:04:00Z",
-      "key_points": [
-        "Apple Watch Series 11 shines",
-        "Outperforms major competitors",
-        "Health tracking features highlighted"
-      ],
-      "impact": "Apple Watch Series 11 leads in health tracking.",
-      "id": "275798299a9cba3a9e0f117626fb7850"
-    },
-    {
-      "title": "Final Fantasy 7 Revelation Details Unveiled",
-      "description": "New details about Final Fantasy 7 Revelation emerge, concluding the trilogy next year. Fans are excited for the final installment.",
-      "category": "Gaming",
-      "source": "Nintendo Everything",
-      "url": "https://nintendoeverything.com/tons-of-new-final-fantasy-7-revelation-details/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Final-Fantasy-7-Revelation-details.jpg",
-      "published_at": "2026-06-07T15:04:22Z",
-      "key_points": [
-        "Final installment details shared",
-        "Trilogy conclusion next year",
-        "Fans eagerly anticipate release"
-      ],
-      "impact": "Final Fantasy 7 trilogy reaches its climax.",
-      "id": "0422929fe15cdbf16631c970089fe916"
-    },
-    {
-      "title": "Foldable iPhone Design Revealed",
-      "description": "Detailed images of a foldable iPhone dummy unit showcase its design. The device may only be available in white.",
-      "category": "Hardware",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/07/best-look-yet-at-foldable-iphone-design-revealed/",
-      "image": "https://images.macrumors.com/t/kXDNoVnfgCWvUBiCM4SKk734tZc=/1600x/article-new/2026/06/foldable-iphone-dummy-sonny-dickson.jpg",
-      "published_at": "2026-06-07T10:28:04Z",
-      "key_points": [
-        "Foldable iPhone design revealed",
-        "May only come in white",
-        "Finalized design showcased"
-      ],
-      "impact": "Foldable iPhone design sparks consumer interest.",
-      "id": "c7500ecb532de6247a36f0831d56b93e"
-    },
-    {
-      "title": "Godzilla: Destroy All Monsters Melee Remastered",
-      "description": "Godzilla: Destroy All Monsters Melee Remastered is set for release this November on multiple platforms. The classic kaiju brawler returns with updated features.",
-      "category": "Gaming",
-      "source": "Game Informer",
-      "url": "https://gameinformer.com/sgf-2026/2026/06/06/godzilla-destroy-all-monsters-melee-remastered-brings-the-kaiju-brawler-back-to",
-      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/06/1a610fb1/Godzilla%201.jpg.webp",
-      "published_at": "2026-06-07T01:44:19Z",
-      "key_points": [
-        "Classic game returns this November",
-        "Multiple platforms supported",
-        "Updated features promised"
-      ],
-      "impact": "Godzilla's remaster aims to revive nostalgia.",
-      "id": "58d12cc90fbe80a0facb7e47ff9d6f63"
+      "impact": "This highlights the game's strong emotional impact.",
+      "id": "c867fb5db4c5938392ef7514bb768db2"
     }
   ]
 }
