@@ -5,125 +5,116 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 20:06:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 22:23:52 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Apple Unveils Next-Gen Siri AI</title>
-      <description>Apple's revamped Siri AI promises enhanced capabilities across devices. The update aims to improve user experience significantly.</description>
-      <link>https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc</guid>
-      <pubDate>2026-06-08T17:34:24Z</pubDate>
+      <title>tvOS 27 Drops Support for Two Apple TV Models</title>
+      <description>tvOS 27 will no longer support Apple TV HD and another model. Users must upgrade to newer devices for future updates.</description>
+      <link>https://www.macrumors.com/2026/06/08/tvos-27-compatible-apple-tv-models/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/06/08/tvos-27-compatible-apple-tv-models/</guid>
+      <pubDate>2026-06-08T21:17:47Z</pubDate>
       <category>Software</category>
-      <source url="https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc">The Verge</source>
+      <source url="https://www.macrumors.com/2026/06/08/tvos-27-compatible-apple-tv-models/">MacRumors</source>
     </item>
     <item>
-      <title>visionOS 27 Launches with Exciting Features</title>
-      <description>Apple introduces visionOS 27, enhancing the Vision Pro experience with new features. Users can expect improved functionality and performance.</description>
-      <link>https://9to5mac.com/2026/06/08/visionos-27-announced-with-new-features-for-vision-pro/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/08/visionos-27-announced-with-new-features-for-vision-pro/</guid>
-      <pubDate>2026-06-08T17:30:00Z</pubDate>
+      <title>Apple plays catch-up at WWDC</title>
+      <description>Apple's WWDC keynote focused on fixes and performance improvements, introducing an upgraded AI-powered Siri as part of broader enhancements.</description>
+      <link>https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/</guid>
+      <pubDate>2026-06-08T21:15:42Z</pubDate>
       <category>Software</category>
-      <source url="https://9to5mac.com/2026/06/08/visionos-27-announced-with-new-features-for-vision-pro/">9to5Mac</source>
+      <source url="https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/">TechCrunch</source>
     </item>
     <item>
-      <title>Apple Unveils macOS 27 Golden Gate</title>
-      <description>Apple announces macOS 27 Golden Gate, designed for various Mac models. The new OS promises faster and smoother performance.</description>
-      <link>https://www.theverge.com/tech/943695/apple-wwdc-2026-macos-27-macbook-mac-announcement-features</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/943695/apple-wwdc-2026-macos-27-macbook-mac-announcement-features</guid>
-      <pubDate>2026-06-08T17:07:30Z</pubDate>
+      <title>iOS 27 and iPadOS 27 don’t drop support for any iPhones—and just a few iPads</title>
+      <description>iOS 27 and iPadOS 27 maintain support for all iPhones and only a few iPads, ensuring compatibility for older devices.</description>
+      <link>https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/</link>
+      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/</guid>
+      <pubDate>2026-06-08T20:55:58Z</pubDate>
       <category>Software</category>
-      <source url="https://www.theverge.com/tech/943695/apple-wwdc-2026-macos-27-macbook-mac-announcement-features">The Verge</source>
+      <source url="https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/">Ars Technica</source>
     </item>
     <item>
-      <title>Apple Beta Website Temporarily Down Ahead of WWDC</title>
-      <description>Apple's Beta Software Program website is down just before WWDC 2026. Users await the first developer betas of iOS 27.</description>
-      <link>https://www.macrumors.com/2026/06/08/apple-beta-website-back-soon/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/06/08/apple-beta-website-back-soon/</guid>
-      <pubDate>2026-06-08T16:20:04Z</pubDate>
+      <title>Apple drops support for a long list of iPads and Apple Watches with latest OS updates</title>
+      <description>WatchOS 27 will not support several Apple Watch models, including Series 6, 7, and 8, alongside multiple iPads.</description>
+      <link>https://www.theverge.com/news/946147/apple-watchos-27-ipados-27-supported-devices-dropped</link>
+      <guid isPermaLink="true">https://www.theverge.com/news/946147/apple-watchos-27-ipados-27-supported-devices-dropped</guid>
+      <pubDate>2026-06-08T19:45:00Z</pubDate>
       <category>Software</category>
-      <source url="https://www.macrumors.com/2026/06/08/apple-beta-website-back-soon/">MacRumors</source>
+      <source url="https://www.theverge.com/news/946147/apple-watchos-27-ipados-27-supported-devices-dropped">The Verge</source>
     </item>
     <item>
-      <title>New Halo Cosmetics Honor Legacy</title>
-      <description>Halo: Campaign Evolved introduces new cosmetics for Master Chief. Available in Premium and Collector’s Editions, these honor the franchise's legacy.</description>
-      <link>https://news.xbox.com/en-us/2026/06/08/halo-campaign-evolved-prorder-alpha-halo-armory-pack-skins/</link>
-      <guid isPermaLink="true">https://news.xbox.com/en-us/2026/06/08/halo-campaign-evolved-prorder-alpha-halo-armory-pack-skins/</guid>
-      <pubDate>2026-06-08T16:02:18Z</pubDate>
+      <title>iCloud+ subscribers will get new benefits in iOS 27</title>
+      <description>iOS 27 introduces new features for iCloud+ subscribers, enhancing the Apple Intelligence experience.</description>
+      <link>https://9to5mac.com/2026/06/08/icloud-subscribers-will-get-new-benefits-in-ios-27/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/08/icloud-subscribers-will-get-new-benefits-in-ios-27/</guid>
+      <pubDate>2026-06-08T18:58:00Z</pubDate>
+      <category>Software</category>
+      <source url="https://9to5mac.com/2026/06/08/icloud-subscribers-will-get-new-benefits-in-ios-27/">9to5Mac</source>
+    </item>
+    <item>
+      <title>Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27</title>
+      <description>Siri AI's release in the EU is postponed due to the Digital Markets Act, affecting iOS 27 and iPadOS 27.</description>
+      <link>https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/</link>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/</guid>
+      <pubDate>2026-06-08T18:20:13Z</pubDate>
+      <category>Policy</category>
+      <source url="https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/">Apple Newsroom</source>
+    </item>
+    <item>
+      <title>Apple introduces systemwide dictation</title>
+      <description>Apple's new dictation feature aims to compete with existing services, enhancing user experience across devices.</description>
+      <link>https://techcrunch.com/2026/06/08/apple-introduces-systemwide-dictation/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/08/apple-introduces-systemwide-dictation/</guid>
+      <pubDate>2026-06-08T18:00:09Z</pubDate>
+      <category>Software</category>
+      <source url="https://techcrunch.com/2026/06/08/apple-introduces-systemwide-dictation/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Apple is redesigning Screen Time and overhauling child controls</title>
+      <description>Apple's revamped Screen Time and parental controls aim to better protect children using its devices.</description>
+      <link>https://www.theverge.com/tech/945898/apple-parental-controls-child-accounts-wwdc2026</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/945898/apple-parental-controls-child-accounts-wwdc2026</guid>
+      <pubDate>2026-06-08T17:55:30Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.theverge.com/tech/945898/apple-parental-controls-child-accounts-wwdc2026">The Verge</source>
+    </item>
+    <item>
+      <title>Apple is tweaking its controversial Liquid Glass design</title>
+      <description>Apple is adjusting its Liquid Glass design after mixed user feedback regarding readability and aesthetics.</description>
+      <link>https://techcrunch.com/2026/06/08/apple-is-tweaking-its-controversial-liquid-glass-design/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/08/apple-is-tweaking-its-controversial-liquid-glass-design/</guid>
+      <pubDate>2026-06-08T17:24:33Z</pubDate>
+      <category>Software</category>
+      <source url="https://techcrunch.com/2026/06/08/apple-is-tweaking-its-controversial-liquid-glass-design/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Google AI Plus gets price drop to $4.99 and storage bump</title>
+      <description>Google reduces AI Plus subscription price to $4.99 and increases storage to 400 GB, enhancing value for users.</description>
+      <link>http://9to5google.com/2026/06/08/google-ai-plus-price-drop/</link>
+      <guid isPermaLink="true">http://9to5google.com/2026/06/08/google-ai-plus-price-drop/</guid>
+      <pubDate>2026-06-08T17:21:00Z</pubDate>
+      <category>Business</category>
+      <source url="http://9to5google.com/2026/06/08/google-ai-plus-price-drop/">9to5google.com</source>
+    </item>
+    <item>
+      <title>Anker launches air-cooled 3-in-1 wireless charger with built-in touchscreen</title>
+      <description>Anker's new 3-in-1 wireless charger features air cooling, fast charging, and a touchscreen for enhanced usability.</description>
+      <link>https://www.gizmochina.com/2026/06/08/anker-launches-air-cooled-3-in-1-wireless-charger-with-built-in-touchscreen/</link>
+      <guid isPermaLink="true">https://www.gizmochina.com/2026/06/08/anker-launches-air-cooled-3-in-1-wireless-charger-with-built-in-touchscreen/</guid>
+      <pubDate>2026-06-08T04:03:13Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://www.gizmochina.com/2026/06/08/anker-launches-air-cooled-3-in-1-wireless-charger-with-built-in-touchscreen/">Gizmochina</source>
+    </item>
+    <item>
+      <title>Gears Of War: E-Day Launches As A Console Exclusive On Xbox Series X/S And PC This October</title>
+      <description>Gears of War: E-Day will launch as a console exclusive for Xbox Series X/S and PC this October, showcasing new gameplay.</description>
+      <link>https://gameinformer.com/xbox-games-showcase/2026/06/07/gears-of-war-e-day-launches-as-a-console-exclusive-on-xbox-series-xs</link>
+      <guid isPermaLink="true">https://gameinformer.com/xbox-games-showcase/2026/06/07/gears-of-war-e-day-launches-as-a-console-exclusive-on-xbox-series-xs</guid>
+      <pubDate>2026-06-07T19:59:49Z</pubDate>
       <category>Gaming</category>
-      <source url="https://news.xbox.com/en-us/2026/06/08/halo-campaign-evolved-prorder-alpha-halo-armory-pack-skins/">Xbox.com</source>
-    </item>
-    <item>
-      <title>NotebookLM Update Enhances Research Tool</title>
-      <description>Google updates NotebookLM, making Gemini 3.5 the default model. New features aim to streamline research processes.</description>
-      <link>https://techcrunch.com/2026/06/08/notebooklms-new-update-will-help-you-build-source-repository-from-chat/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/08/notebooklms-new-update-will-help-you-build-source-repository-from-chat/</guid>
-      <pubDate>2026-06-08T16:00:00Z</pubDate>
-      <category>Software</category>
-      <source url="https://techcrunch.com/2026/06/08/notebooklms-new-update-will-help-you-build-source-repository-from-chat/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Pokémon TCG: Mega Evolution Pre-release Event</title>
-      <description>Get early access to the Mega Evolution—Pitch Black Build &amp; Battle Box at local events. The expansion launches on July 17, 2026.</description>
-      <link>https://www.pokemon.com/us/pokemon-news/get-a-pokemon-tcg-mega-evolution-pitch-black-build-battle-box-early</link>
-      <guid isPermaLink="true">https://www.pokemon.com/us/pokemon-news/get-a-pokemon-tcg-mega-evolution-pitch-black-build-battle-box-early</guid>
-      <pubDate>2026-06-08T15:10:48Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.pokemon.com/us/pokemon-news/get-a-pokemon-tcg-mega-evolution-pitch-black-build-battle-box-early">Pokemon.com</source>
-    </item>
-    <item>
-      <title>New MkIV Space Marines Arrive for Horus Heresy</title>
-      <description>Warhammer introduces updated MkIV Space Marines miniatures for The Horus Heresy. Classic power armor gets a modern redesign.</description>
-      <link>https://www.warhammer-community.com/articles/egzsv8co/new-mkiv-space-marines-deploy-to-the-horus-heresy</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/articles/egzsv8co/new-mkiv-space-marines-deploy-to-the-horus-heresy</guid>
-      <pubDate>2026-06-08T13:58:19Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.warhammer-community.com/articles/egzsv8co/new-mkiv-space-marines-deploy-to-the-horus-heresy">Warhammer-community.com</source>
-    </item>
-    <item>
-      <title>Xbox Confirms Anti-Scalping Measures for Series X25</title>
-      <description>Ahead of the Xbox Series X25 launch, Xbox confirms anti-scalping measures to ensure fair access. The limited-edition console drops in November 2026.</description>
-      <link>https://www.windowscentral.com/gaming/xbox/its-top-of-mind-and-being-worked-on-xbox-confirms-anti-scalping-methods-will-be-in-place-ahead-of-the-xbox-series-x25-preorder</link>
-      <guid isPermaLink="true">https://www.windowscentral.com/gaming/xbox/its-top-of-mind-and-being-worked-on-xbox-confirms-anti-scalping-methods-will-be-in-place-ahead-of-the-xbox-series-x25-preorder</guid>
-      <pubDate>2026-06-08T13:54:02Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.windowscentral.com/gaming/xbox/its-top-of-mind-and-being-worked-on-xbox-confirms-anti-scalping-methods-will-be-in-place-ahead-of-the-xbox-series-x25-preorder">Windows Central</source>
-    </item>
-    <item>
-      <title>Xbox Exclusives Strategy Becomes Complex</title>
-      <description>The next Gears of War is an Xbox exclusive, while Halo remains multi-platform. Xbox's exclusives strategy raises questions among fans.</description>
-      <link>https://www.theverge.com/report/945639/xbox-exclusives-strategy-complicated-confusing</link>
-      <guid isPermaLink="true">https://www.theverge.com/report/945639/xbox-exclusives-strategy-complicated-confusing</guid>
-      <pubDate>2026-06-08T13:54:01Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.theverge.com/report/945639/xbox-exclusives-strategy-complicated-confusing">The Verge</source>
-    </item>
-    <item>
-      <title>Prada and Axiom Reveal Stylish Cooling Suit for Moon Missions</title>
-      <description>Prada and Axiom Space unveil a fashionable cooling suit for astronauts. This garment enhances comfort during lunar missions.</description>
-      <link>https://www.space.com/space-exploration/human-spaceflight/its-very-aesthetically-pleasing-prada-and-axiom-just-revealed-the-stylish-cooling-suit-artemis-astronuats-will-wear-under-their-spacesuit-on-the-moon</link>
-      <guid isPermaLink="true">https://www.space.com/space-exploration/human-spaceflight/its-very-aesthetically-pleasing-prada-and-axiom-just-revealed-the-stylish-cooling-suit-artemis-astronuats-will-wear-under-their-spacesuit-on-the-moon</guid>
-      <pubDate>2026-06-08T12:00:00Z</pubDate>
-      <category>Geopolitics</category>
-      <source url="https://www.space.com/space-exploration/human-spaceflight/its-very-aesthetically-pleasing-prada-and-axiom-just-revealed-the-stylish-cooling-suit-artemis-astronuats-will-wear-under-their-spacesuit-on-the-moon">Space.com</source>
-    </item>
-    <item>
-      <title>Pixel Feature Disappears with New Replacement</title>
-      <description>A Pixel-exclusive feature has vanished, replaced by a new option with limitations. Users express frustration over the changes.</description>
-      <link>https://www.phonearena.com/news/another-pixel-exclusive-feature-just-vanished-and-the-replacement-comes-with-strings-attached_id180934</link>
-      <guid isPermaLink="true">https://www.phonearena.com/news/another-pixel-exclusive-feature-just-vanished-and-the-replacement-comes-with-strings-attached_id180934</guid>
-      <pubDate>2026-06-07T21:04:36Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.phonearena.com/news/another-pixel-exclusive-feature-just-vanished-and-the-replacement-comes-with-strings-attached_id180934">PhoneArena</source>
-    </item>
-    <item>
-      <title>iPhone Fold Leak and Nvidia RTX Spark Official</title>
-      <description>This week features a leak of the iPhone Fold and the official announcement of Nvidia's RTX Spark. Exciting developments in tech continue.</description>
-      <link>https://www.gsmarena.com/iphone_fold_photo_leak_nvidia_rtx_spark_is_official_week_23_in_review-news-73151.php</link>
-      <guid isPermaLink="true">https://www.gsmarena.com/iphone_fold_photo_leak_nvidia_rtx_spark_is_official_week_23_in_review-news-73151.php</guid>
-      <pubDate>2026-06-07T14:04:02Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.gsmarena.com/iphone_fold_photo_leak_nvidia_rtx_spark_is_official_week_23_in_review-news-73151.php">GSMArena.com</source>
+      <source url="https://gameinformer.com/xbox-games-showcase/2026/06/07/gears-of-war-e-day-launches-as-a-console-exclusive-on-xbox-series-xs">Game Informer</source>
     </item>
   </channel>
 </rss>
