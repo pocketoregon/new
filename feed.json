@@ -1,53 +1,181 @@
 {
-  "generated_at": "2026-06-09T11:59:10.714802+00:00",
+  "generated_at": "2026-06-09T15:23:28.289335+00:00",
   "articles": [
     {
-      "title": "Senua Brings A 'Different Kind' Of Hellblade Game To Xbox Game Pass In 2027",
-      "description": "Ninja Theory reveals a new Hellblade game for Xbox Game Pass in 2027. Fans are excited for this fresh take on the series.",
+      "title": "Nintendo Direct Set for Tomorrow",
+      "description": "Nintendo announces a Direct presentation for June 9, 2026. Fans anticipate updates on upcoming titles like Project X Zone 3 and Pokemon Pinball.",
       "category": "Gaming",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/06/senua-brings-a-different-kind-of-hellblade-game-to-xbox-game-pass-in-2027",
-      "image": "https://images.purexbox.com/4a802a8f8a1e2/large.jpg",
-      "published_at": "2026-06-07T19:34:00Z",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/06/nintendo-direct-announced-for-tomorrow-9th-june-2026",
+      "image": "https://images.nintendolife.com/242981056e85b/large.jpg",
+      "published_at": "2026-06-08T13:50:00Z",
       "key_points": [
-        "New Hellblade game announced",
-        "Releasing on Xbox Game Pass",
-        "Developed by Ninja Theory"
+        "Nintendo Direct tomorrow",
+        "Expect game announcements",
+        "Fans eager for updates"
       ],
-      "impact": "This expands Xbox Game Pass offerings significantly.",
-      "id": "4f0072a61a890ad4cb1e8f0830cbdb5c"
+      "impact": "Anticipation builds for new game reveals.",
+      "id": "137f7ab2e8d06c2ab2d3288e477a79fd"
     },
     {
-      "title": "21 Game Pass Titles Get New Announcements At The Xbox Showcase 2026",
-      "description": "The Xbox Showcase 2026 unveiled 21 new Game Pass titles, featuring world premieres and updates. Gamers can expect an exciting lineup ahead.",
-      "category": "Gaming",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/06/21-game-pass-titles-get-new-announcements-at-the-xbox-showcase-2026",
-      "image": "https://images.purexbox.com/079f8ea336482/large.jpg",
-      "published_at": "2026-06-07T18:57:00Z",
+      "title": "Apple WWDC 2026 Highlights AI and Software",
+      "description": "WWDC 2026 focuses on AI advancements, Siri updates, and new iPhone software. CEO John Ternus makes his major appearance during the keynote.",
+      "category": "Software",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/08/apple-wwdc-2026-live-updates.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108156598-1749485311764-IMG_4090.jpg?v=1749485355&w=1920&h=1080",
+      "published_at": "2026-06-08T13:26:00Z",
       "key_points": [
-        "21 new titles announced",
-        "Includes world premieres",
-        "Exciting updates for gamers"
+        "Focus on AI and software",
+        "John Ternus keynote",
+        "New features expected"
       ],
-      "impact": "This enhances the Game Pass library significantly.",
-      "id": "3561cace9e643c5c54de473e4f5ed681"
+      "impact": "Apple's software updates set for fall.",
+      "id": "d7ee95cd89788d99134f3ed93befb99f"
     },
     {
-      "title": "How one video game brought me back to gaming after 15 years",
-      "description": "The article discusses how 007 First Light reignited the author's passion for gaming after a long hiatus. It's praised for its cinematic experience.",
+      "title": "Summer Game Fest 2026: Switch Announcements",
+      "description": "Summer Game Fest 2026 showcases numerous announcements for Switch titles. Fans celebrate a packed weekend of gaming reveals.",
       "category": "Gaming",
-      "source": "Creative Bloq",
-      "url": "https://www.creativebloq.com/design/why-007-first-light-is-the-first-video-game-ive-wanted-to-play-in-over-a-decade",
-      "image": "https://cdn.mos.cms.futurecdn.net/6DsNEtsgWYcUiXGsPjGhKJ-1000-80.jpg",
-      "published_at": "2026-06-07T15:04:13Z",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/06/round-up-every-switch-1-and-2-announcement-from-summer-game-fests-weekend-showcases",
+      "image": "https://images.nintendolife.com/f13ee0b68141c/large.jpg",
+      "published_at": "2026-06-08T11:45:00Z",
       "key_points": [
-        "007 First Light praised",
-        "Cinematic gaming experience",
-        "Revived interest in gaming"
+        "Packed weekend of reveals",
+        "Multiple Switch announcements",
+        "Fans excited for new games"
       ],
-      "impact": "This highlights the game's strong emotional impact.",
-      "id": "c867fb5db4c5938392ef7514bb768db2"
+      "impact": "Excitement grows for upcoming Switch titles.",
+      "id": "123f90ab70419a5564a64d91e24ee820"
+    },
+    {
+      "title": "Hustle Culture's Costly Impact",
+      "description": "Burnt-out Americans are investing heavily in wellness and rest as status symbols. The wellness economy evolves beyond traditional fitness.",
+      "category": "Business",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/08/sleep-tourism-burnout-coaches-luxury-longevity",
+      "image": "https://images.axios.com/ET7EdZaDCRYwccuZ1IjnKKrYMhw=/0x0:1920x1080/1366x768/2026/06/02/1780434113492.jpeg",
+      "published_at": "2026-06-08T09:12:46Z",
+      "key_points": [
+        "Wellness as a status symbol",
+        "Burnout drives spending",
+        "Luxury fitness trends rise"
+      ],
+      "impact": "Wellness spending reflects societal pressures.",
+      "id": "b4afee974d1bc284041ac2bbb609daba"
+    },
+    {
+      "title": "Xbox Clarifies Exclusivity Strategy",
+      "description": "Xbox's Matt Booty explains the company's strategy for multiplayer and live service games. Upcoming titles include Clockwork Revolution and Gears of War: E-Day.",
+      "category": "Gaming",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/xbox-console-exclusive-strategy-clockwork-revolution-gears-of-war-e-day",
+      "image": "https://assetsio.gnwcdn.com/Xbox-infographic-showing-Gears-of-War-E-Day's-artwork-with-a-2026-release-and-Clockwork-Revolution's-artwork-next-to-it-with-a-2027-release.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-08T09:00:42Z",
+      "key_points": [
+        "Multiplayer games remain multiplatform",
+        "Clockwork Revolution announced",
+        "Gears of War exclusivity clarified"
+      ],
+      "impact": "Xbox's strategy aims for broader reach.",
+      "id": "91f90faa960e3915467f065372ff2862"
+    },
+    {
+      "title": "Fable DLC and Gameplay Preview",
+      "description": "Fable: Order of the Hero DLC announced, adding new content ahead of the game's release. Extended gameplay preview expected soon.",
+      "category": "Gaming",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/fable-post-launch-dlc-gameplay",
+      "image": "https://assetsio.gnwcdn.com/Fable---Xbox-Games-Showcase-1-13-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-08T08:40:00Z",
+      "key_points": [
+        "New Fable DLC announced",
+        "Gameplay preview coming soon",
+        "Expands game storyline"
+      ],
+      "impact": "Fable's DLC enhances player experience.",
+      "id": "670eed3b32cfb27c20f6756955313f6e"
+    },
+    {
+      "title": "Castlevania: Belmont’s Curse Release Date",
+      "description": "Castlevania: Belmont’s Curse set to launch on October 15 for PS5, Xbox Series, and PC. Switch version to follow later in 2026.",
+      "category": "Gaming",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/castlevania-belmonts-curse-launches-october-15-for-ps5-xbox-series-and-pc-later-in-2026-for-switch",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Castlevania-Date_06-07-26.jpg",
+      "published_at": "2026-06-07T17:53:51Z",
+      "key_points": [
+        "Castlevania launches October 15",
+        "Available on multiple platforms",
+        "Switch version delayed"
+      ],
+      "impact": "Castlevania fans await exciting release.",
+      "id": "d5de40a6d922f764f56c24b4d558d5e0"
+    },
+    {
+      "title": "iOS 27 Beta Launching Tomorrow",
+      "description": "Apple's iOS 27 beta will be available tomorrow, featuring numerous new features for iPhones. Developers can access it immediately after the keynote.",
+      "category": "Software",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/07/ios-27-beta-available-tomorrow-new-features/",
+      "image": "https://images.macrumors.com/t/MOLST0mdhUOeLMEEoQleWfgpjJQ=/2500x/article-new/2026/03/iOS-27-on-iPhone-17-1.jpg",
+      "published_at": "2026-06-07T15:39:13Z",
+      "key_points": [
+        "iOS 27 beta available tomorrow",
+        "New features for iPhones",
+        "Developers can access immediately"
+      ],
+      "impact": "Developers eager for new iOS features.",
+      "id": "cd19992eac49e1ef3c7f01d463d305b5"
+    },
+    {
+      "title": "Wearable Tech Comparison: Oura vs. Fitbit",
+      "description": "A comparison of the latest fitness trackers focusing on sleep monitoring and heart-rate accuracy. The Oura Ring, Fitbit Air, Whoop MG, and Apple Watch are tested.",
+      "category": "Software",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/personal-tech/oura-ring-fitbit-air-whoop-apple-sleep-wearables-99783661",
+      "image": "https://images.wsj.net/im-88232463/social",
+      "published_at": "2026-06-07T11:00:00Z",
+      "key_points": [
+        "Comparing top fitness trackers",
+        "Focus on sleep monitoring",
+        "Heart-rate accuracy tested"
+      ],
+      "impact": "Wearable tech evolves for health tracking.",
+      "id": "9f9400585ff105c4b21dd08a656cb766"
+    },
+    {
+      "title": "Silicon Valley's AI Boom and Companionship",
+      "description": "High-end companions in Silicon Valley offer intellectual rapport alongside traditional services, capitalizing on the AI boom. They charge significant fees for their time.",
+      "category": "Business",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a2659066735ec5e8c45d58f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published_at": "2026-06-07T10:30:00Z",
+      "key_points": [
+        "High-end companions thrive",
+        "AI boom influences services",
+        "Intellectual rapport offered"
+      ],
+      "impact": "New companionship models emerge in tech.",
+      "id": "3d8cc738d80e5ac08128b9c7718991bd"
+    },
+    {
+      "title": "Samsung Galaxy S26 FE Leaks Ahead of Launch",
+      "description": "The Galaxy S26 FE leaks online, showcasing a familiar design with a new camera bump. Launch expected later this year.",
+      "category": "Hardware",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/06/06/samsung-galaxy-s26-fe-leak/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/galaxy-s26-fe-wpc-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-07T01:35:00Z",
+      "key_points": [
+        "Galaxy S26 FE leaks online",
+        "Updated camera design",
+        "Launch expected later this year"
+      ],
+      "impact": "Samsung's new model generates early buzz.",
+      "id": "4755174df49168a268d1d62f90952136"
     }
   ]
 }

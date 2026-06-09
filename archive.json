@@ -1,6 +1,189 @@
 {
   "batches": [
     {
+      "id": "2026-06-09T15:23:28.289335+00:00",
+      "fetched_at": "2026-06-09T15:23:28.289335+00:00",
+      "label": "Jun 09, 2026 — 03:23 PM UTC",
+      "articles": [
+        {
+          "title": "Nintendo Direct Set for Tomorrow",
+          "description": "Nintendo announces a Direct presentation for June 9, 2026. Fans anticipate updates on upcoming titles like Project X Zone 3 and Pokemon Pinball.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/nintendo-direct-announced-for-tomorrow-9th-june-2026",
+          "image": "https://images.nintendolife.com/242981056e85b/large.jpg",
+          "published_at": "2026-06-08T13:50:00Z",
+          "key_points": [
+            "Nintendo Direct tomorrow",
+            "Expect game announcements",
+            "Fans eager for updates"
+          ],
+          "impact": "Anticipation builds for new game reveals.",
+          "id": "137f7ab2e8d06c2ab2d3288e477a79fd"
+        },
+        {
+          "title": "Apple WWDC 2026 Highlights AI and Software",
+          "description": "WWDC 2026 focuses on AI advancements, Siri updates, and new iPhone software. CEO John Ternus makes his major appearance during the keynote.",
+          "category": "Software",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/08/apple-wwdc-2026-live-updates.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108156598-1749485311764-IMG_4090.jpg?v=1749485355&w=1920&h=1080",
+          "published_at": "2026-06-08T13:26:00Z",
+          "key_points": [
+            "Focus on AI and software",
+            "John Ternus keynote",
+            "New features expected"
+          ],
+          "impact": "Apple's software updates set for fall.",
+          "id": "d7ee95cd89788d99134f3ed93befb99f"
+        },
+        {
+          "title": "Summer Game Fest 2026: Switch Announcements",
+          "description": "Summer Game Fest 2026 showcases numerous announcements for Switch titles. Fans celebrate a packed weekend of gaming reveals.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/round-up-every-switch-1-and-2-announcement-from-summer-game-fests-weekend-showcases",
+          "image": "https://images.nintendolife.com/f13ee0b68141c/large.jpg",
+          "published_at": "2026-06-08T11:45:00Z",
+          "key_points": [
+            "Packed weekend of reveals",
+            "Multiple Switch announcements",
+            "Fans excited for new games"
+          ],
+          "impact": "Excitement grows for upcoming Switch titles.",
+          "id": "123f90ab70419a5564a64d91e24ee820"
+        },
+        {
+          "title": "Hustle Culture's Costly Impact",
+          "description": "Burnt-out Americans are investing heavily in wellness and rest as status symbols. The wellness economy evolves beyond traditional fitness.",
+          "category": "Business",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/06/08/sleep-tourism-burnout-coaches-luxury-longevity",
+          "image": "https://images.axios.com/ET7EdZaDCRYwccuZ1IjnKKrYMhw=/0x0:1920x1080/1366x768/2026/06/02/1780434113492.jpeg",
+          "published_at": "2026-06-08T09:12:46Z",
+          "key_points": [
+            "Wellness as a status symbol",
+            "Burnout drives spending",
+            "Luxury fitness trends rise"
+          ],
+          "impact": "Wellness spending reflects societal pressures.",
+          "id": "b4afee974d1bc284041ac2bbb609daba"
+        },
+        {
+          "title": "Xbox Clarifies Exclusivity Strategy",
+          "description": "Xbox's Matt Booty explains the company's strategy for multiplayer and live service games. Upcoming titles include Clockwork Revolution and Gears of War: E-Day.",
+          "category": "Gaming",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-console-exclusive-strategy-clockwork-revolution-gears-of-war-e-day",
+          "image": "https://assetsio.gnwcdn.com/Xbox-infographic-showing-Gears-of-War-E-Day's-artwork-with-a-2026-release-and-Clockwork-Revolution's-artwork-next-to-it-with-a-2027-release.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-08T09:00:42Z",
+          "key_points": [
+            "Multiplayer games remain multiplatform",
+            "Clockwork Revolution announced",
+            "Gears of War exclusivity clarified"
+          ],
+          "impact": "Xbox's strategy aims for broader reach.",
+          "id": "91f90faa960e3915467f065372ff2862"
+        },
+        {
+          "title": "Fable DLC and Gameplay Preview",
+          "description": "Fable: Order of the Hero DLC announced, adding new content ahead of the game's release. Extended gameplay preview expected soon.",
+          "category": "Gaming",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/fable-post-launch-dlc-gameplay",
+          "image": "https://assetsio.gnwcdn.com/Fable---Xbox-Games-Showcase-1-13-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-08T08:40:00Z",
+          "key_points": [
+            "New Fable DLC announced",
+            "Gameplay preview coming soon",
+            "Expands game storyline"
+          ],
+          "impact": "Fable's DLC enhances player experience.",
+          "id": "670eed3b32cfb27c20f6756955313f6e"
+        },
+        {
+          "title": "Castlevania: Belmont’s Curse Release Date",
+          "description": "Castlevania: Belmont’s Curse set to launch on October 15 for PS5, Xbox Series, and PC. Switch version to follow later in 2026.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/castlevania-belmonts-curse-launches-october-15-for-ps5-xbox-series-and-pc-later-in-2026-for-switch",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Castlevania-Date_06-07-26.jpg",
+          "published_at": "2026-06-07T17:53:51Z",
+          "key_points": [
+            "Castlevania launches October 15",
+            "Available on multiple platforms",
+            "Switch version delayed"
+          ],
+          "impact": "Castlevania fans await exciting release.",
+          "id": "d5de40a6d922f764f56c24b4d558d5e0"
+        },
+        {
+          "title": "iOS 27 Beta Launching Tomorrow",
+          "description": "Apple's iOS 27 beta will be available tomorrow, featuring numerous new features for iPhones. Developers can access it immediately after the keynote.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/07/ios-27-beta-available-tomorrow-new-features/",
+          "image": "https://images.macrumors.com/t/MOLST0mdhUOeLMEEoQleWfgpjJQ=/2500x/article-new/2026/03/iOS-27-on-iPhone-17-1.jpg",
+          "published_at": "2026-06-07T15:39:13Z",
+          "key_points": [
+            "iOS 27 beta available tomorrow",
+            "New features for iPhones",
+            "Developers can access immediately"
+          ],
+          "impact": "Developers eager for new iOS features.",
+          "id": "cd19992eac49e1ef3c7f01d463d305b5"
+        },
+        {
+          "title": "Wearable Tech Comparison: Oura vs. Fitbit",
+          "description": "A comparison of the latest fitness trackers focusing on sleep monitoring and heart-rate accuracy. The Oura Ring, Fitbit Air, Whoop MG, and Apple Watch are tested.",
+          "category": "Software",
+          "source": "The Wall Street Journal",
+          "url": "https://www.wsj.com/tech/personal-tech/oura-ring-fitbit-air-whoop-apple-sleep-wearables-99783661",
+          "image": "https://images.wsj.net/im-88232463/social",
+          "published_at": "2026-06-07T11:00:00Z",
+          "key_points": [
+            "Comparing top fitness trackers",
+            "Focus on sleep monitoring",
+            "Heart-rate accuracy tested"
+          ],
+          "impact": "Wearable tech evolves for health tracking.",
+          "id": "9f9400585ff105c4b21dd08a656cb766"
+        },
+        {
+          "title": "Silicon Valley's AI Boom and Companionship",
+          "description": "High-end companions in Silicon Valley offer intellectual rapport alongside traditional services, capitalizing on the AI boom. They charge significant fees for their time.",
+          "category": "Business",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a2659066735ec5e8c45d58f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-07T10:30:00Z",
+          "key_points": [
+            "High-end companions thrive",
+            "AI boom influences services",
+            "Intellectual rapport offered"
+          ],
+          "impact": "New companionship models emerge in tech.",
+          "id": "3d8cc738d80e5ac08128b9c7718991bd"
+        },
+        {
+          "title": "Samsung Galaxy S26 FE Leaks Ahead of Launch",
+          "description": "The Galaxy S26 FE leaks online, showcasing a familiar design with a new camera bump. Launch expected later this year.",
+          "category": "Hardware",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/06/samsung-galaxy-s26-fe-leak/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/galaxy-s26-fe-wpc-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-07T01:35:00Z",
+          "key_points": [
+            "Galaxy S26 FE leaks online",
+            "Updated camera design",
+            "Launch expected later this year"
+          ],
+          "impact": "Samsung's new model generates early buzz.",
+          "id": "4755174df49168a268d1d62f90952136"
+        }
+      ]
+    },
+    {
       "id": "2026-06-09T11:59:10.714802+00:00",
       "fetched_at": "2026-06-09T11:59:10.714802+00:00",
       "label": "Jun 09, 2026 — 11:59 AM UTC",
@@ -5752,253 +5935,6 @@
           ],
           "impact": "Google Home enhances pet monitoring experience.",
           "id": "741c4353bb852f94a137279300c48334"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-04T17:48:13.003560+00:00",
-      "fetched_at": "2026-06-04T17:48:13.003560+00:00",
-      "label": "Jun 04, 2026 — 05:48 PM UTC",
-      "articles": [
-        {
-          "title": "Apple’s Vision Products Roadmap Scaled Back",
-          "description": "Apple's John Ternus has reportedly reduced the Vision products roadmap, signaling a shift in strategy. This could impact future product releases significantly.",
-          "category": "Business",
-          "source": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRVhZRTJINHpHcHM3LVhuZ2R6ZzZoTUlWRFBzQ3NpdS0tR28ySlphcUNJTFQxN2dnU3hQbUJrckNZWEN3dGtFY3NlSU1yLU85OS1SVm9Fck5GTGkxaGhqSk91MGRjRFlQS2VpbVhZTXQ0S01OYlZMNUZMYklxcldFQ1g2b2xjeVFJN0VTRHJpVzEwTmxFOHhOTw?oc=5",
-          "image": "",
-          "published_at": "2026-06-03T17:19:00Z",
-          "key_points": [
-            "Vision products roadmap reduced",
-            "Shift in Apple's strategy",
-            "Future releases may be affected"
-          ],
-          "impact": "Apple's strategy change may reshape product launches.",
-          "id": "af971ac585b9664e37656f621309b9aa"
-        },
-        {
-          "title": "Fitbit Air CAD Drawings & Specs Released",
-          "description": "Google has unveiled Fitbit Air CAD drawings and specifications, introducing new bicep bands. This marks a significant update for fitness enthusiasts.",
-          "category": "Hardware",
-          "source": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY2EzWEk0RFgzZy12ZzRaeV9aM3hwQ2FoQjZIMXkwbFVneEUwUVVUR2Rqa0F3QzQ5a1dDdGRrV2hSME55Y0dDUW85N2dnRFJrdEMtdF9GdkpFMnFOLU05eERiazdFZEZHbURqR1FMZEJsLU4zc1JsOGNRMkFXcEhBVmlPOVpmWmE5VHVFRHd4YWk5NzhfUVpJS2l5andVemNabzZ2aE9WOER6TzQ?oc=5",
-          "image": "",
-          "published_at": "2026-06-03T15:22:50Z",
-          "key_points": [
-            "Fitbit Air specs revealed",
-            "New bicep bands introduced",
-            "Update for fitness enthusiasts"
-          ],
-          "impact": "Fitbit's new features enhance user experience.",
-          "id": "46a23ec889d893f3797439de96b4db85"
-        },
-        {
-          "title": "‘Destiny 2’ Fans Demand ‘Destiny 3’",
-          "description": "Fans of 'Destiny 2' are overwhelming PlayStation's State of Play with demands for 'Destiny 3'. This reflects the community's eagerness for new content.",
-          "category": "Gaming",
-          "source": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV1ZvWEEybng2Rjl4X3hiRWNsOHU1SWVJN0NNSldDbDR1bTMweHlfN1pBM2xQblVOZEpZQlQyV0lCNlBLRmlmQzNnc3VieW9aX0lxUWI3WHZpdTE5REdwRi05T2JsWVd4NHRPbU9iMnZaNU9vYUpkRnlRZHU2bFZVQkpyZHd4R3J4bl9KMVVaWndSOUpmTmxkeVVJOElnLXJSNlNmejBTRjdBbU85LVh3bXZDbEdpbnlnNk44?oc=5",
-          "image": "",
-          "published_at": "2026-06-03T15:12:43Z",
-          "key_points": [
-            "Fans demand 'Destiny 3'",
-            "PlayStation event overwhelmed",
-            "Community eager for new content"
-          ],
-          "impact": "Player demands highlight community engagement.",
-          "id": "210cf135594b55acd8b640dc8e621c11"
-        },
-        {
-          "title": "Microsoft’s Surface Laptop Ultra Unveiled",
-          "description": "Microsoft showcases the Surface Laptop Ultra, emphasizing performance, battery life, and display quality. This new model aims to enhance user productivity.",
-          "category": "Hardware",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/941600/microsoft-surface-laptop-ultra-dev-box-hands-on",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/surfacelaptopultra1.jpg?quality=90&strip=all&crop=0%2C10.462709848801%2C100%2C79.074580302398&w=1200",
-          "published_at": "2026-06-03T13:22:17Z",
-          "key_points": [
-            "Surface Laptop Ultra launched",
-            "Focus on performance and battery",
-            "Enhanced display quality"
-          ],
-          "impact": "Microsoft targets productivity with new laptop.",
-          "id": "f90cf2af4c8533ada9177486fd542dbe"
-        },
-        {
-          "title": "Pokémon Champions Launching on Mobile",
-          "description": "Pokémon Champions will be available on Android and iOS starting June 17. Pre-registration is open, offering exclusive rewards.",
-          "category": "Gaming",
-          "source": "Pokemon.com",
-          "url": "https://www.pokemon.com/us/pokemon-news/pokemon-champions-comes-to-android-and-ios-on-june-17",
-          "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-champions/2026/03/24/pokemon-champions-169.png",
-          "published_at": "2026-06-03T13:03:24Z",
-          "key_points": [
-            "Pokémon Champions on mobile",
-            "Launch date: June 17",
-            "Pre-registration rewards available"
-          ],
-          "impact": "Mobile launch expands Pokémon's reach.",
-          "id": "ffe3f8a7d2de00f22ad7c177f54341ac"
-        },
-        {
-          "title": "New Games Coming to Xbox Game Pass",
-          "description": "Xbox Game Pass adds new titles including Starseeker and Beastro. Players can pre-install ahead of the upcoming showcase.",
-          "category": "Gaming",
-          "source": "Xbox.com",
-          "url": "https://news.xbox.com/en-us/2026/06/03/xbox-game-pass-june-2026-wave-1/",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/XBOX_GamePass_Announcement_EN_June3rd_9T_16x9-a5bb4d0acdd3665bccc1.jpg",
-          "published_at": "2026-06-03T13:01:31Z",
-          "key_points": [
-            "New titles for Xbox Game Pass",
-            "Includes Starseeker and Beastro",
-            "Pre-install options available"
-          ],
-          "impact": "Xbox Game Pass enhances gaming library.",
-          "id": "d631f2c181570d73764ba7873a99d54e"
-        },
-        {
-          "title": "Plex Introduces Social Features Amid Price Hike",
-          "description": "Plex adds new social features as it prepares for a significant price increase on its lifetime pass. Users can expect enhanced community engagement.",
-          "category": "Software",
-          "source": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSk9KZ0k4cFduN1dsSVQxYmVXZFNJYjRtM3RjNHFIS3hvUU94MlNMcE9TN3FTSGl1Q0Jmc3hlU2FLX0NFUkMzMlNyalluZlpWUG1UNmpFb01xbHUyTmphekJ6b3gxcUs2RWlZYnF5d3JmMUlMZlN0U2MxWXBzemdoeXRjN0drd21mQ2k1OEkwTDZDVU1lTngw?oc=5",
-          "image": "",
-          "published_at": "2026-06-03T13:00:00Z",
-          "key_points": [
-            "Plex adds social features",
-            "Lifetime pass price increase",
-            "Enhanced community engagement"
-          ],
-          "impact": "Plex aims to boost user interaction.",
-          "id": "a34644a615c52cf2a4091d74d4464916"
-        },
-        {
-          "title": "Tomb Raider: Legacy of Atlantis Uses AI",
-          "description": "Tomb Raider: Legacy of Atlantis includes an AI disclaimer, revealing the use of AI in its development. This raises discussions on AI's role in gaming.",
-          "category": "Gaming",
-          "source": "Eurogamer.net",
-          "url": "https://www.eurogamer.net/tomb-raider-legacy-of-atlantis-comes-with-an-ai-disclaimer",
-          "image": "https://assetsio.gnwcdn.com/lara-ai.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-03T11:06:52Z",
-          "key_points": [
-            "AI used in game development",
-            "Tomb Raider's new title",
-            "AI disclaimer included"
-          ],
-          "impact": "AI's role in gaming sparks debate.",
-          "id": "1bf94de69d5f953178f63020b8483967"
-        },
-        {
-          "title": "Gabe Newell Responds to Steam Monopoly Claims",
-          "description": "Valve's Gabe Newell refutes monopoly accusations, asserting players have 'enormous choice' in the gaming market. This statement aims to clarify Steam's position.",
-          "category": "Business",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/gabe-newell-says-players-have-enormous-choice-when-pressed-on-steam-monopoly-accusations-report-says",
-          "image": "https://assets-prd.ignimgs.com/2026/06/02/gabe-newell-1780432318412.png?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-03T10:17:14Z",
-          "key_points": [
-            "Newell denies monopoly claims",
-            "Players have many choices",
-            "Steam's market position clarified"
-          ],
-          "impact": "Newell's comments aim to reassure players.",
-          "id": "68b3e22b9954a22e83bdd26f943826db"
-        },
-        {
-          "title": "Marathon Season 2 Launches with Issues",
-          "description": "Marathon Season 2 faces a troubled launch due to numerous errors and bugs. Players are expressing frustration over the game's performance.",
-          "category": "Gaming",
-          "source": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JWXRuQUhodFQzNFAtY3hTRTdfNHJBU0UtWWdYTVlvbWczVmZJQ09HQVRYT0haX3hDQ2FmVGx1Y3g1MHRTOHlfYmNrZWZ5VGFabnpvdXRoSzBIVTMxQlhpeEJyb2VRdw?oc=5",
-          "image": "",
-          "published_at": "2026-06-03T09:43:27Z",
-          "key_points": [
-            "Marathon Season 2 launched",
-            "Numerous bugs reported",
-            "Player frustration evident"
-          ],
-          "impact": "Launch issues may affect player retention.",
-          "id": "48d35b6d0cd6c7ecb8687d2a592bd8a8"
-        },
-        {
-          "title": "AI Supercharges Computer Worms",
-          "description": "Scientists have discovered a method to enhance dangerous computer worms using AI. This development raises cybersecurity concerns.",
-          "category": "Security",
-          "source": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZlA2dUQyeWFBS1ZWNmVuQTdKNVhsdFBDZGFVeTBTSXlvM0NWVElLSzJqYmkxTjhQM3JvcEdiOS14RDVWcmpFZkZ5ZGNRaW5QVjhGcUtjaUpFekFoWktKc1kyeWNScWlxWk8tTjl0TmRxOWN6Y2pEbklzNjZzLWhZdjI0a3NVRUtySUFiREo4VU5yY3R3UnRfWUVzNXR6dnk4WDJDRG1RbFZnOUtIMGpjeUhmOTR2TmJxS3c?oc=5",
-          "image": "",
-          "published_at": "2026-06-03T00:37:55Z",
-          "key_points": [
-            "AI enhances computer worms",
-            "New cybersecurity concerns",
-            "Research raises alarms"
-          ],
-          "impact": "AI's role in malware evolution is alarming.",
-          "id": "5a3460b148e0b6c3bb40ba060498fdf9"
-        },
-        {
-          "title": "September 2026 Packed with Game Releases",
-          "description": "September 2026 will see a surge of game releases trying to avoid competition with Grand Theft Auto VI. Developers are strategizing around its launch.",
-          "category": "Gaming",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/september-2026-is-packed-with-games-trying-to-avoid-gta-6/",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/04/gamespot.png",
-          "published_at": "2026-06-02T22:28:47Z",
-          "key_points": [
-            "September 2026 game releases",
-            "Developers avoiding GTA VI",
-            "Strategic launch planning underway"
-          ],
-          "impact": "GTA VI's release impacts industry scheduling.",
-          "id": "351ea3ea2ddc035f10f2aad9d76bf0c7"
-        },
-        {
-          "title": "Control Resonant Release Date Update",
-          "description": "Control Resonant has received an exciting update regarding its release date. Fans are eager for more details.",
-          "category": "Gaming",
-          "source": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NMkhSYlRDRUdldEdOZzVJbkVyUjBSak9BVnZzS2hNTlFxM3pwa0pPNWVHOE9BQ2JhaUNPRzRFRldjcHVkbHBBRkJkTFNKYWN1aElkS01BZ0YxaWJWZEdMS3JYS2R1SUdsTjl2VFNEc2s?oc=5",
-          "image": "",
-          "published_at": "2026-06-02T21:55:57Z",
-          "key_points": [
-            "Control Resonant release date update",
-            "Fans eager for details",
-            "Anticipation builds for launch"
-          ],
-          "impact": "Fans await eagerly for the game's release.",
-          "id": "634926b1860294846ddad4713ffe5ea1"
-        },
-        {
-          "title": "Onimusha: Way of the Sword Release Date Announced",
-          "description": "Onimusha: Way of the Sword is set for a September release, with a playable demo available now. Fans can experience the game ahead of launch.",
-          "category": "Gaming",
-          "source": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LZl9STWNZTDZVMDR4YWg1U0pQTHRDU1dBbDdoTFZPX3cwUER5V1VKYlhtUUlmbXpyVU9rTkRDR3BVMmdjN3RJb2FwQlFFdnl6cV9URXVGc3dGMDBQR2duNlplSng0Y2VQNWxaTVBqMnNtblN6bXJ6a3BMR09RZw?oc=5",
-          "image": "",
-          "published_at": "2026-06-02T21:33:41Z",
-          "key_points": [
-            "Onimusha release date set",
-            "Playable demo available now",
-            "Fans can try before launch"
-          ],
-          "impact": "Demo allows early player engagement.",
-          "id": "a18a46613629d74a7cf320fb37544fdc"
-        },
-        {
-          "title": "Apple's AI Test at WWDC on June 8",
-          "description": "Apple's major AI test is set for June 8 at WWDC. This event could have significant implications for the company's future direction.",
-          "category": "Business",
-          "source": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPXy02dHNOeWFtVUptYzV0WWloY0hfY0VpZEgwLUlYUVQ2WlNlVTVIQUd4aXNfVmstOVI4Tk56b3J1X2pDcnppb1huelZZZXpDVG1HRXpja01MVXVJVm5CYTc2VXhES3NZNWJQdU9QanlGUk5iR2tLcTB5b3FSZTNhNXMzMFFWUmlwYUhuMlhfeXVTdw?oc=5",
-          "image": "",
-          "published_at": "2026-06-02T20:49:00Z",
-          "key_points": [
-            "Apple's AI test on June 8",
-            "WWDC event implications",
-            "Future direction at stake"
-          ],
-          "impact": "WWDC could redefine Apple's AI strategy.",
-          "id": "6e7efa18fdcf3852914ecec2b09dd572"
         }
       ]
     }
