@@ -1,165 +1,229 @@
 {
-  "generated_at": "2026-06-08T22:25:43.047543+00:00",
+  "generated_at": "2026-06-09T02:58:05.126832+00:00",
   "articles": [
     {
-      "title": "Spyro Returns on PS5 in A Realm Beyond",
-      "description": "Spyro the Dragon is back with a new game, 'A Realm Beyond,' launching on PS5 in Spring 2027. The announcement trailer is now available.",
+      "title": "Clockwork Revolution: Time-Bending RPG Unveiled",
+      "description": "inXile Entertainment reveals Clockwork Revolution, a steampunk RPG with impactful choices. Players navigate a reactive world filled with memorable characters.",
       "category": "Gaming",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/06/spyro-returns-on-ps5-in-a-realm-beyond-his-first-original-game-in-nearly-20-years",
-      "image": "https://images.pushsquare.com/5c3d37a802bef/large.jpg",
-      "published_at": "2026-06-07T17:11:00Z",
+      "source": "Xbox.com",
+      "url": "https://news.xbox.com/en-us/2026/06/07/clockwork-revolution-preview-xbox-games-showcase-2026/",
+      "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/ClockworkRevolution_2026_03_LadyIronwood-15fabaf5bd7afc3bc844.jpg",
+      "published_at": "2026-06-07T23:51:48Z",
+      "key_points": [
+        "Steampunk setting",
+        "Impactful player choices",
+        "Memorable characters"
+      ],
+      "impact": "Clockwork Revolution promises a unique RPG experience.",
+      "id": "4e6d0b8258f27d41f293d1bd91f3179a"
+    },
+    {
+      "title": "2026 Summer Xbox Games Showcase Highlights",
+      "description": "The 2026 Summer Xbox Games Showcase revealed major titles including Gears of War: E-Day and Call of Duty: Modern Warfare 4. Exciting updates and trailers captivated fans.",
+      "category": "Gaming",
+      "source": "Gameinformer.com",
+      "url": "https://gameinformer.com/xbox-games-showcase/2026/06/07/heres-everything-announced-during-the-2026-summer-xbox-games",
+      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/07/1639bcb1/gearsofwareday.jpg.webp",
+      "published_at": "2026-06-07T22:17:49Z",
+      "key_points": [
+        "Major game announcements",
+        "Exclusive reveals",
+        "Gameplay trailers"
+      ],
+      "impact": "The showcase set high expectations for upcoming games.",
+      "id": "20ee71c9903da3f03d032de53ee9c26e"
+    },
+    {
+      "title": "Persona 6™ Officially Announced",
+      "description": "Persona 6 is officially in development, announced during the Xbox Showcase. A release date for Persona 4 Revival was also revealed.",
+      "category": "Gaming",
+      "source": "Gamespress.com",
+      "url": "https://www.gamespress.com/Persona-6-Announced-at-The-XBOX-Games-Showcase-2026",
+      "image": "",
+      "published_at": "2026-06-07T22:06:07Z",
+      "key_points": [
+        "Persona 6 confirmed",
+        "Release date for Persona 4",
+        "Exciting RPG developments"
+      ],
+      "impact": "Fans eagerly await the next installment in the series.",
+      "id": "7697d916e1f554284fa1a0bfab512564"
+    },
+    {
+      "title": "Thief: The Dark Project Remaster Announced",
+      "description": "Nightdive Studios is remastering the classic stealth game Thief: The Dark Project. This follows their successful remakes of System Shock.",
+      "category": "Gaming",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/thief-the-dark-project-remastered-nightdive-studios",
+      "image": "https://assetsio.gnwcdn.com/thief-remastered-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-07T21:44:36Z",
+      "key_points": [
+        "Classic game remastered",
+        "Nightdive's expertise",
+        "Immersive stealth gameplay"
+      ],
+      "impact": "Thief fans can look forward to a modern update.",
+      "id": "8f86dbf0c8801abbad4475bfecc7f440"
+    },
+    {
+      "title": "Rumor: New Wario Game in Development",
+      "description": "Insider claims suggest Nintendo is developing a new Wario game. Details remain scarce, but excitement is building.",
+      "category": "Gaming",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/rumor-nintendo-has-a-new-wario-game-on-the-way/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/New-Wario-game.jpg",
+      "published_at": "2026-06-07T21:42:48Z",
+      "key_points": [
+        "New Wario game rumored",
+        "Insider claims",
+        "Details not yet revealed"
+      ],
+      "impact": "Nintendo fans are buzzing with anticipation.",
+      "id": "65ea1a9810292765d5bd3ed841c0d293"
+    },
+    {
+      "title": "Valheim Launches on Nintendo Switch 2",
+      "description": "Valheim will be available on Nintendo Switch 2 starting September 9, 2026. The announcement was made during a recent Nintendo Direct.",
+      "category": "Gaming",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/valheim-receives-nintendo-switch-2-release-date-new-trailer/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Valheim-release-date.jpg",
+      "published_at": "2026-06-07T20:47:48Z",
+      "key_points": [
+        "Valheim release date confirmed",
+        "Nintendo Switch 2",
+        "Exciting new trailer"
+      ],
+      "impact": "Switch 2 owners can soon enjoy Valheim.",
+      "id": "164d29f40910c4cc748a38df1bc8e64e"
+    },
+    {
+      "title": "Sega Confirms AI Use in Crazy Taxi",
+      "description": "Sega acknowledges the use of generative AI in developing background assets for Crazy Taxi: World Tour. This marks a new approach in game development.",
+      "category": "Gaming",
+      "source": "Gameinformer.com",
+      "url": "https://gameinformer.com/2026/06/07/sega-confirms-and-responds-to-generative-ai-content-in-new-crazy-taxi-game",
+      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/07/01814929/crazytaxi.jpg.webp",
+      "published_at": "2026-06-07T20:08:22Z",
+      "key_points": [
+        "Generative AI used",
+        "Background asset development",
+        "Innovative game design"
+      ],
+      "impact": "Sega embraces AI technology in gaming.",
+      "id": "bc9abf36932ca169bb95c8d37da054f7"
+    },
+    {
+      "title": "Summer Game Fest 2026 Highlights",
+      "description": "The Summer Game Fest 2026 showcased major titles like God of War Laufey and Persona 6, alongside Xbox's new exclusivity strategy.",
+      "category": "Gaming",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/CTRL_R_Key_Art_FINAL_4K.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "published_at": "2026-06-07T18:45:33Z",
+      "key_points": [
+        "Major game announcements",
+        "Xbox exclusivity strategy",
+        "Exciting new titles"
+      ],
+      "impact": "The event highlighted the future of gaming.",
+      "id": "4ac412b958e2906da7d1fd67f6f56aa4"
+    },
+    {
+      "title": "DMZ: Call of Duty's Extraction Shooter Revealed",
+      "description": "Activision unveiled DMZ, a new extraction shooter experience in Call of Duty. Players can expect a challenging solo play environment.",
+      "category": "Gaming",
+      "source": "Xbox.com",
+      "url": "https://news.xbox.com/en-us/2026/06/07/dmz-new-intel-call-of-duty-extraction-shooter-xbox-games-showcase-2026/",
+      "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/MW4_DMZ_011_BRANDED-14317359d6d97353e6a2.jpg",
+      "published_at": "2026-06-07T18:11:23Z",
+      "key_points": [
+        "New extraction shooter",
+        "Challenging solo gameplay",
+        "Innovative AI enemies"
+      ],
+      "impact": "DMZ aims to redefine the extraction shooter genre.",
+      "id": "1820034816e70e4fe99a73a44d297185"
+    },
+    {
+      "title": "Next Hellblade Game Set for 2027 Release",
+      "description": "Ninja Theory announces a new entry in the Hellblade series, simply titled Senua, set to launch in 2027.",
+      "category": "Gaming",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/new-hellblade-game-simply-titled-senua-and-will-be-out-next-year-2000703672",
+      "image": "https://kotaku.com/app/uploads/2026/06/Senua_Screenshot_05-8f0460a7413220bbe06e-1900x1080-1-1200x675.jpg",
+      "published_at": "2026-06-07T18:01:01Z",
+      "key_points": [
+        "New Hellblade game announced",
+        "Title: Senua",
+        "Release set for 2027"
+      ],
+      "impact": "Fans await the next chapter in Hellblade.",
+      "id": "f23df6bca2046688fb538ed837044cc3"
+    },
+    {
+      "title": "New Spyro Game Set for Spring 2027",
+      "description": "A new Spyro game, featuring the franchise's first dragon-flight feature, is set to release in Spring 2027 from Toys for Bob.",
+      "category": "Gaming",
+      "source": "Variety",
+      "url": "https://variety.com/2026/gaming/news/new-spyro-game-a-realm-beyond-release-spring-2027-1236768742/",
+      "image": "https://variety.com/wp-content/uploads/2026/06/Spyro-A-Realm-Beyond.png?w=1000&h=563&crop=1",
+      "published_at": "2026-06-07T18:00:00Z",
       "key_points": [
         "New Spyro game announced",
-        "Launches Spring 2027",
-        "Developed by Toys for Bob"
+        "First dragon-flight feature",
+        "Release in Spring 2027"
       ],
-      "impact": "Spyro's return revitalizes interest in classic franchises.",
-      "id": "56e6f9a697b4cb95c3e4b346c8ac1769"
+      "impact": "Spyro fans can look forward to exciting gameplay.",
+      "id": "5addda7673e24608f4e69d5c9d44d053"
     },
     {
-      "title": "The Big Bad Wolf Among Us 2 Interview",
-      "description": "Telltale CEO discusses the long-awaited sequel, 'The Wolf Among Us 2,' and its development challenges. The game is set for a 2027 release.",
+      "title": "DOOM: The Dark Ages DLC Announced",
+      "description": "Bethesda and id Software announced the new DLC 'Revelations' for DOOM: The Dark Ages, alongside a free update.",
       "category": "Gaming",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/telltale-ceo-explains-why-the-wolf-among-us-2-has-taken-so-long-and-what-happened-with-that-split-with-dispatch-maker-ad-hoc",
-      "image": "https://assets-prd.ignimgs.com/2026/06/05/waur-screenshot-8-1780651084233.png?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-07T16:35:04Z",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/doom-the-dark-ages-dlc-revelations-announced",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Doom-DLC_06-07-26.jpg",
+      "published_at": "2026-06-07T17:36:06Z",
       "key_points": [
-        "Sequel finally in development",
-        "Launch planned for 2027",
-        "Partnership changes discussed"
+        "New DOOM DLC announced",
+        "Free update included",
+        "Launch on July 7"
       ],
-      "impact": "Fans eagerly await the return of Bigby Wolf.",
-      "id": "bf8c54d53632faad5cdb02f652d99a0c"
+      "impact": "DOOM fans have new content to look forward to.",
+      "id": "dcb4c95dbbf14ea3324a063bffcb334d"
     },
     {
-      "title": "‘Star Trek’ Goes To the Scary Frontier",
-      "description": "Bloober Team is developing 'Star Trek: Shadow Frontier,' a horror-themed video game set in the Star Trek universe. Expect psychological thrills.",
+      "title": "METRO 2039 Set for February 2027 Launch",
+      "description": "METRO 2039 will launch on multiple platforms in February 2027, featuring immersive gameplay and stunning graphics.",
       "category": "Gaming",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/star-trek-goes-to-the-scary-frontier-in-next-major-video-game-2000768429",
-      "image": "https://gizmodo.com/app/uploads/2026/06/star-trek-shadow-hed-1200x675.jpg",
-      "published_at": "2026-06-07T15:50:51Z",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/metro-2039-launches-in-february-2027",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/METRO-2029_2026_06-07-26_001.jpg",
+      "published_at": "2026-06-07T17:25:55Z",
       "key_points": [
-        "New horror Star Trek game",
-        "Developed by Bloober Team",
-        "Psychological thrills await"
+        "METRO 2039 launching",
+        "Available on multiple platforms",
+        "Immersive gameplay experience"
       ],
-      "impact": "This game expands Star Trek's genre boundaries.",
-      "id": "7df3a145dd3f678f24c08dc3cca79013"
+      "impact": "Gamers can anticipate a thrilling return to METRO.",
+      "id": "d233b1dbe6aeba9e6ea637af5149c873"
     },
     {
-      "title": "Minecraft Dungeons II Gameplay Reveal",
-      "description": "Minecraft Dungeons II is set to release on September 28, 2026, with an exciting new gameplay trailer now available. Prepare for new adventures!",
+      "title": "Resonance: A Plague Tale Legacy Launches August 27",
+      "description": "Resonance: A Plague Tale Legacy will be available on major platforms on August 27, 2026, promising an engaging narrative.",
       "category": "Gaming",
-      "source": "Minecraft",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-dungeons-ii-date-announce",
-      "image": "https://www.minecraft.net/content/dam/minecraftnet/games/spicewood/key-art/xboxliveshowcase_1170x500.jpg",
-      "published_at": "2026-06-07T15:21:57Z",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/resonance-a-plague-tale-legacy-launches-august-27",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Resonance-A-Plague-Tale-Legacy_2026_06-07-26_006.jpg",
+      "published_at": "2026-06-07T17:15:54Z",
       "key_points": [
-        "Release date: September 28",
-        "New gameplay trailer released",
-        "Exciting adventures await"
+        "Plague Tale Legacy launching",
+        "Available on major platforms",
+        "Engaging narrative promised"
       ],
-      "impact": "Fans are excited for the next Minecraft adventure.",
-      "id": "9f68330e85d1a0c5d2477bf8f2edbdb7"
-    },
-    {
-      "title": "Why Did Apple Stop Using Titanium For iPhones?",
-      "description": "Apple has dropped titanium for the iPhone 17 Pro, despite its previous popularity. The decision is based on practical considerations.",
-      "category": "Business",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2185760/why-did-apple-stop-using-titanium-for-iphones/",
-      "image": "https://www.bgr.com/img/gallery/why-did-apple-stop-using-titanium-for-iphones/l-intro-1780414291.jpg",
-      "published_at": "2026-06-07T12:17:00Z",
-      "key_points": [
-        "Titanium was a selling point",
-        "Dropped for iPhone 17 Pro",
-        "Practical reasons behind decision"
-      ],
-      "impact": "Apple's material choices impact product marketing.",
-      "id": "79fca7491d90ee22c50dc0a1ac142d34"
-    },
-    {
-      "title": "How to Watch Apple’s WWDC 2026 Keynote",
-      "description": "Apple's WWDC 2026 is approaching, featuring updates on iOS 27 and potential new hardware. Here's how to tune in.",
-      "category": "Software",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/how-to-watch-apple-wwdc-2026/",
-      "image": "https://media.wired.com/photos/6a202a61b10c1400bea9fbfd/191:100/w_1280,c_limit/GettyImages-2218819259.jpg",
-      "published_at": "2026-06-07T09:30:00Z",
-      "key_points": [
-        "WWDC 2026 is upcoming",
-        "Expect iOS 27 updates",
-        "Potential new hardware announcements"
-      ],
-      "impact": "WWDC sets the stage for Apple's software future.",
-      "id": "59cf36be06d3ff671c2021300466335b"
-    },
-    {
-      "title": "Samsung Galaxy S26 Ultra Review",
-      "description": "The Samsung Galaxy S26 Ultra impresses with its consistent excellence and innovative features, solidifying its place in the Android market.",
-      "category": "Hardware",
-      "source": "Digital Trends",
-      "url": "https://www.digitaltrends.com/phones/samsung-galaxy-s26-ultra-review/",
-      "image": "https://www.digitaltrends.com/tachyon/2026/06/samsung-galaxy-s26-ultra-smartphone-4.jpg?resize=1200%2C630",
-      "published_at": "2026-06-07T05:00:51Z",
-      "key_points": [
-        "Consistent excellence showcased",
-        "Innovative features highlighted",
-        "Strong Android contender"
-      ],
-      "impact": "Samsung continues to lead in smartphone innovation.",
-      "id": "7fabe76198a95b30ac0463b387d4807b"
-    },
-    {
-      "title": "The 12-Month Mac: MacBook Neo's New Lifecycle",
-      "description": "Apple's MacBook Neo aligns with the iPhone lifecycle, raising questions about demand and resource allocation for new models.",
-      "category": "Business",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/ewanspence/2026/06/06/apple-macbook-neo-silicon-margins-strategy/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/69c809ae802570fd0a3387e1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published_at": "2026-06-07T00:38:13Z",
-      "key_points": [
-        "MacBook Neo follows iPhone lifecycle",
-        "Demand and resources questioned",
-        "Strategic alignment with smartphones"
-      ],
-      "impact": "Apple's strategy may reshape laptop sales.",
-      "id": "22c6949d422472e3014ded63c65e7b70"
-    },
-    {
-      "title": "Microsoft Lets You Kill Bing in Windows 11 Search",
-      "description": "Microsoft is testing a feature to disable Bing in Windows 11 Search, allowing users to remove unwanted web results.",
-      "category": "Software",
-      "source": "Windows Latest",
-      "url": "https://www.windowslatest.com/2026/06/07/microsoft-is-letting-you-kill-bing-in-windows-11-search-after-years-of-forcing-it-on-every-pc/",
-      "image": "https://www.windowslatest.com/wp-content/uploads/2026/06/Windows-Search-without-Bing-scaled.jpg",
-      "published_at": "2026-06-06T23:44:23Z",
-      "key_points": [
-        "New toggle for Windows 11 Search",
-        "Disables Bing and web results",
-        "User control over search experience"
-      ],
-      "impact": "Users gain more control over search functionality.",
-      "id": "6bb3d1542e7ad27945a2ca35a940c097"
-    },
-    {
-      "title": "Control Resonant Developer Remedy's September Release Plan",
-      "description": "Remedy plans a major marketing campaign for 'Control Resonant' to navigate a crowded September release window.",
-      "category": "Gaming",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/control-resonant-developer-remedy-admits-packed-september-release-window-is-challenging-but-it-has-a-plan",
-      "image": "https://assets-prd.ignimgs.com/2026/06/06/ss-75b1cde9947eea89eed52cf8f6471683f2e666a9-1920x1080-1780781092322.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-06T21:26:03Z",
-      "key_points": [
-        "Packed September release window",
-        "Major marketing campaign planned",
-        "Remedy aims to stand out"
-      ],
-      "impact": "Remedy's strategy is crucial for success.",
-      "id": "e8b5e902bb5d388cfc89c2c2a34c234a"
+      "impact": "Fans eagerly await the next chapter in the series.",
+      "id": "200f1dc1d9e26503e90de5a53d450f26"
     }
   ]
 }

@@ -1,6 +1,237 @@
 {
   "batches": [
     {
+      "id": "2026-06-09T02:58:05.126832+00:00",
+      "fetched_at": "2026-06-09T02:58:05.126832+00:00",
+      "label": "Jun 09, 2026 — 02:58 AM UTC",
+      "articles": [
+        {
+          "title": "Clockwork Revolution: Time-Bending RPG Unveiled",
+          "description": "inXile Entertainment reveals Clockwork Revolution, a steampunk RPG with impactful choices. Players navigate a reactive world filled with memorable characters.",
+          "category": "Gaming",
+          "source": "Xbox.com",
+          "url": "https://news.xbox.com/en-us/2026/06/07/clockwork-revolution-preview-xbox-games-showcase-2026/",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/ClockworkRevolution_2026_03_LadyIronwood-15fabaf5bd7afc3bc844.jpg",
+          "published_at": "2026-06-07T23:51:48Z",
+          "key_points": [
+            "Steampunk setting",
+            "Impactful player choices",
+            "Memorable characters"
+          ],
+          "impact": "Clockwork Revolution promises a unique RPG experience.",
+          "id": "4e6d0b8258f27d41f293d1bd91f3179a"
+        },
+        {
+          "title": "2026 Summer Xbox Games Showcase Highlights",
+          "description": "The 2026 Summer Xbox Games Showcase revealed major titles including Gears of War: E-Day and Call of Duty: Modern Warfare 4. Exciting updates and trailers captivated fans.",
+          "category": "Gaming",
+          "source": "Gameinformer.com",
+          "url": "https://gameinformer.com/xbox-games-showcase/2026/06/07/heres-everything-announced-during-the-2026-summer-xbox-games",
+          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/07/1639bcb1/gearsofwareday.jpg.webp",
+          "published_at": "2026-06-07T22:17:49Z",
+          "key_points": [
+            "Major game announcements",
+            "Exclusive reveals",
+            "Gameplay trailers"
+          ],
+          "impact": "The showcase set high expectations for upcoming games.",
+          "id": "20ee71c9903da3f03d032de53ee9c26e"
+        },
+        {
+          "title": "Persona 6™ Officially Announced",
+          "description": "Persona 6 is officially in development, announced during the Xbox Showcase. A release date for Persona 4 Revival was also revealed.",
+          "category": "Gaming",
+          "source": "Gamespress.com",
+          "url": "https://www.gamespress.com/Persona-6-Announced-at-The-XBOX-Games-Showcase-2026",
+          "image": "",
+          "published_at": "2026-06-07T22:06:07Z",
+          "key_points": [
+            "Persona 6 confirmed",
+            "Release date for Persona 4",
+            "Exciting RPG developments"
+          ],
+          "impact": "Fans eagerly await the next installment in the series.",
+          "id": "7697d916e1f554284fa1a0bfab512564"
+        },
+        {
+          "title": "Thief: The Dark Project Remaster Announced",
+          "description": "Nightdive Studios is remastering the classic stealth game Thief: The Dark Project. This follows their successful remakes of System Shock.",
+          "category": "Gaming",
+          "source": "Eurogamer.net",
+          "url": "https://www.eurogamer.net/thief-the-dark-project-remastered-nightdive-studios",
+          "image": "https://assetsio.gnwcdn.com/thief-remastered-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-07T21:44:36Z",
+          "key_points": [
+            "Classic game remastered",
+            "Nightdive's expertise",
+            "Immersive stealth gameplay"
+          ],
+          "impact": "Thief fans can look forward to a modern update.",
+          "id": "8f86dbf0c8801abbad4475bfecc7f440"
+        },
+        {
+          "title": "Rumor: New Wario Game in Development",
+          "description": "Insider claims suggest Nintendo is developing a new Wario game. Details remain scarce, but excitement is building.",
+          "category": "Gaming",
+          "source": "Nintendoeverything.com",
+          "url": "https://nintendoeverything.com/rumor-nintendo-has-a-new-wario-game-on-the-way/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/New-Wario-game.jpg",
+          "published_at": "2026-06-07T21:42:48Z",
+          "key_points": [
+            "New Wario game rumored",
+            "Insider claims",
+            "Details not yet revealed"
+          ],
+          "impact": "Nintendo fans are buzzing with anticipation.",
+          "id": "65ea1a9810292765d5bd3ed841c0d293"
+        },
+        {
+          "title": "Valheim Launches on Nintendo Switch 2",
+          "description": "Valheim will be available on Nintendo Switch 2 starting September 9, 2026. The announcement was made during a recent Nintendo Direct.",
+          "category": "Gaming",
+          "source": "Nintendoeverything.com",
+          "url": "https://nintendoeverything.com/valheim-receives-nintendo-switch-2-release-date-new-trailer/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Valheim-release-date.jpg",
+          "published_at": "2026-06-07T20:47:48Z",
+          "key_points": [
+            "Valheim release date confirmed",
+            "Nintendo Switch 2",
+            "Exciting new trailer"
+          ],
+          "impact": "Switch 2 owners can soon enjoy Valheim.",
+          "id": "164d29f40910c4cc748a38df1bc8e64e"
+        },
+        {
+          "title": "Sega Confirms AI Use in Crazy Taxi",
+          "description": "Sega acknowledges the use of generative AI in developing background assets for Crazy Taxi: World Tour. This marks a new approach in game development.",
+          "category": "Gaming",
+          "source": "Gameinformer.com",
+          "url": "https://gameinformer.com/2026/06/07/sega-confirms-and-responds-to-generative-ai-content-in-new-crazy-taxi-game",
+          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/07/01814929/crazytaxi.jpg.webp",
+          "published_at": "2026-06-07T20:08:22Z",
+          "key_points": [
+            "Generative AI used",
+            "Background asset development",
+            "Innovative game design"
+          ],
+          "impact": "Sega embraces AI technology in gaming.",
+          "id": "bc9abf36932ca169bb95c8d37da054f7"
+        },
+        {
+          "title": "Summer Game Fest 2026 Highlights",
+          "description": "The Summer Game Fest 2026 showcased major titles like God of War Laufey and Persona 6, alongside Xbox's new exclusivity strategy.",
+          "category": "Gaming",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/CTRL_R_Key_Art_FINAL_4K.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+          "published_at": "2026-06-07T18:45:33Z",
+          "key_points": [
+            "Major game announcements",
+            "Xbox exclusivity strategy",
+            "Exciting new titles"
+          ],
+          "impact": "The event highlighted the future of gaming.",
+          "id": "4ac412b958e2906da7d1fd67f6f56aa4"
+        },
+        {
+          "title": "DMZ: Call of Duty's Extraction Shooter Revealed",
+          "description": "Activision unveiled DMZ, a new extraction shooter experience in Call of Duty. Players can expect a challenging solo play environment.",
+          "category": "Gaming",
+          "source": "Xbox.com",
+          "url": "https://news.xbox.com/en-us/2026/06/07/dmz-new-intel-call-of-duty-extraction-shooter-xbox-games-showcase-2026/",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/MW4_DMZ_011_BRANDED-14317359d6d97353e6a2.jpg",
+          "published_at": "2026-06-07T18:11:23Z",
+          "key_points": [
+            "New extraction shooter",
+            "Challenging solo gameplay",
+            "Innovative AI enemies"
+          ],
+          "impact": "DMZ aims to redefine the extraction shooter genre.",
+          "id": "1820034816e70e4fe99a73a44d297185"
+        },
+        {
+          "title": "Next Hellblade Game Set for 2027 Release",
+          "description": "Ninja Theory announces a new entry in the Hellblade series, simply titled Senua, set to launch in 2027.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/new-hellblade-game-simply-titled-senua-and-will-be-out-next-year-2000703672",
+          "image": "https://kotaku.com/app/uploads/2026/06/Senua_Screenshot_05-8f0460a7413220bbe06e-1900x1080-1-1200x675.jpg",
+          "published_at": "2026-06-07T18:01:01Z",
+          "key_points": [
+            "New Hellblade game announced",
+            "Title: Senua",
+            "Release set for 2027"
+          ],
+          "impact": "Fans await the next chapter in Hellblade.",
+          "id": "f23df6bca2046688fb538ed837044cc3"
+        },
+        {
+          "title": "New Spyro Game Set for Spring 2027",
+          "description": "A new Spyro game, featuring the franchise's first dragon-flight feature, is set to release in Spring 2027 from Toys for Bob.",
+          "category": "Gaming",
+          "source": "Variety",
+          "url": "https://variety.com/2026/gaming/news/new-spyro-game-a-realm-beyond-release-spring-2027-1236768742/",
+          "image": "https://variety.com/wp-content/uploads/2026/06/Spyro-A-Realm-Beyond.png?w=1000&h=563&crop=1",
+          "published_at": "2026-06-07T18:00:00Z",
+          "key_points": [
+            "New Spyro game announced",
+            "First dragon-flight feature",
+            "Release in Spring 2027"
+          ],
+          "impact": "Spyro fans can look forward to exciting gameplay.",
+          "id": "5addda7673e24608f4e69d5c9d44d053"
+        },
+        {
+          "title": "DOOM: The Dark Ages DLC Announced",
+          "description": "Bethesda and id Software announced the new DLC 'Revelations' for DOOM: The Dark Ages, alongside a free update.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/doom-the-dark-ages-dlc-revelations-announced",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Doom-DLC_06-07-26.jpg",
+          "published_at": "2026-06-07T17:36:06Z",
+          "key_points": [
+            "New DOOM DLC announced",
+            "Free update included",
+            "Launch on July 7"
+          ],
+          "impact": "DOOM fans have new content to look forward to.",
+          "id": "dcb4c95dbbf14ea3324a063bffcb334d"
+        },
+        {
+          "title": "METRO 2039 Set for February 2027 Launch",
+          "description": "METRO 2039 will launch on multiple platforms in February 2027, featuring immersive gameplay and stunning graphics.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/metro-2039-launches-in-february-2027",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/METRO-2029_2026_06-07-26_001.jpg",
+          "published_at": "2026-06-07T17:25:55Z",
+          "key_points": [
+            "METRO 2039 launching",
+            "Available on multiple platforms",
+            "Immersive gameplay experience"
+          ],
+          "impact": "Gamers can anticipate a thrilling return to METRO.",
+          "id": "d233b1dbe6aeba9e6ea637af5149c873"
+        },
+        {
+          "title": "Resonance: A Plague Tale Legacy Launches August 27",
+          "description": "Resonance: A Plague Tale Legacy will be available on major platforms on August 27, 2026, promising an engaging narrative.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/resonance-a-plague-tale-legacy-launches-august-27",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Resonance-A-Plague-Tale-Legacy_2026_06-07-26_006.jpg",
+          "published_at": "2026-06-07T17:15:54Z",
+          "key_points": [
+            "Plague Tale Legacy launching",
+            "Available on major platforms",
+            "Engaging narrative promised"
+          ],
+          "impact": "Fans eagerly await the next chapter in the series.",
+          "id": "200f1dc1d9e26503e90de5a53d450f26"
+        }
+      ]
+    },
+    {
       "id": "2026-06-08T22:25:43.047543+00:00",
       "fetched_at": "2026-06-08T22:25:43.047543+00:00",
       "label": "Jun 08, 2026 — 10:26 PM UTC",
@@ -5912,253 +6143,6 @@
           ],
           "impact": "ASUS is shaping the future of healthcare technology.",
           "id": "671dc397a662abd0c1b8932814cd920d"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-04T03:53:54.822236+00:00",
-      "fetched_at": "2026-06-04T03:53:54.822236+00:00",
-      "label": "Jun 04, 2026 — 03:54 AM UTC",
-      "articles": [
-        {
-          "title": "Stuntman Hollywood Returns to PS5",
-          "description": "Stuntman Hollywood, featuring iconic cars, is set to launch on PS5 soon. The arcade racer promises thrilling gameplay and nostalgia for fans.",
-          "category": "Gaming",
-          "source": "Eurogamer.net",
-          "url": "https://www.eurogamer.net/stuntman-hollywood-revealed-at-sony-state-of-play-coming-soon-to-ps5",
-          "image": "https://assetsio.gnwcdn.com/stuntman-hollywood-white-car.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-02T22:49:33Z",
-          "key_points": [
-            "Iconic cars featured",
-            "Arcade racing gameplay",
-            "Nostalgic experience"
-          ],
-          "impact": "Fans eagerly await this nostalgic racing game.",
-          "id": "80f8a69313ab21634c8530db10fa6a0f"
-        },
-        {
-          "title": "Wolverine Game Developers Unveil New Features",
-          "description": "Developers discuss new Wolverine game footage, including X-Men cameos and a low-gore option. Players can expect intense claw combat and unique death mechanics.",
-          "category": "Gaming",
-          "source": "Variety",
-          "url": "https://variety.com/2026/digital/news/wolverine-video-game-trailer-x-men-cameos-gameplay-1236764406/",
-          "image": "https://variety.com/wp-content/uploads/2026/06/Wolverine-video-game-PlayStation.jpg?w=1000&h=563&crop=1",
-          "published_at": "2026-06-02T22:30:00Z",
-          "key_points": [
-            "New gameplay footage revealed",
-            "X-Men cameos included",
-            "Low-gore option available"
-          ],
-          "impact": "The game promises a unique Wolverine experience.",
-          "id": "48ce6ab0f6bf72c882a4968dbe27235c"
-        },
-        {
-          "title": "God of War Laufey Announced for PS5",
-          "description": "Sony showcased the next God of War game, Laufey, during the State of Play event. Fans can expect epic storytelling and stunning visuals.",
-          "category": "Gaming",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_5010883.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-          "published_at": "2026-06-02T22:16:08Z",
-          "key_points": [
-            "Epic storytelling expected",
-            "Stunning visuals showcased",
-            "PS5 exclusive title"
-          ],
-          "impact": "Fans are excited for the next chapter.",
-          "id": "468fdf5fe6658260e0480c897afce46d"
-        },
-        {
-          "title": "Control Resonant Release Date Revealed",
-          "description": "Control Resonant's release date was unveiled in a new trailer during Sony's State of Play. The trailer offers insights into the game's narrative.",
-          "category": "Gaming",
-          "source": "Eurogamer.net",
-          "url": "https://www.eurogamer.net/control-resonant-release-date-sony-state-of-play-trailer",
-          "image": "https://assetsio.gnwcdn.com/control-resonant-dylan-hammer.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-02T22:13:39Z",
-          "key_points": [
-            "Release date announced",
-            "New trailer insights",
-            "Narrative details revealed"
-          ],
-          "impact": "Anticipation builds for Control Resonant's launch.",
-          "id": "c3d400009dd563c524473b601448acd1"
-        },
-        {
-          "title": "BMW M2 Introduces xDrive AWD for 2027",
-          "description": "The 2027 BMW M2 will feature an xDrive AWD model, enhancing performance and winter driving. It will come with an eight-speed automatic transmission.",
-          "category": "Business",
-          "source": "RoadandTrack.com",
-          "url": "https://www.roadandtrack.com/news/a71473290/2027-bmw-m2-xdrive/",
-          "image": "https://hips.hearstapps.com/hmg-prod/images/f881536d-ac20-4f0d-8afd-a35bd712d130.jpg?crop=0.744xw:0.558xh;0.207xw,0.281xh&resize=1200:*",
-          "published_at": "2026-06-02T22:01:00Z",
-          "key_points": [
-            "xDrive AWD model introduced",
-            "Improved winter performance",
-            "Eight-speed automatic transmission"
-          ],
-          "impact": "The M2 enhances driving capabilities for enthusiasts.",
-          "id": "267c9ef2ef68c7c2948720457951aef1"
-        },
-        {
-          "title": "Microsoft Tests Wearable AI Gadget for Workers",
-          "description": "Microsoft is testing a wearable access badge and a desktop device aimed at enhancing productivity for office workers. The devices feature touch and voice activation.",
-          "category": "Business",
-          "source": "BBC News",
-          "url": "https://www.bbc.com/news/articles/cwy25x97wrxo",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f1a4/live/e0ba4220-5ec4-11f1-b588-45cc931ea6f1.png",
-          "published_at": "2026-06-02T21:47:42Z",
-          "key_points": [
-            "Wearable access badge tested",
-            "Desktop device included",
-            "Focus on productivity enhancement"
-          ],
-          "impact": "Microsoft aims to boost office productivity with AI.",
-          "id": "fbe5c4ca9fd1a6eca35f573df5900358"
-        },
-        {
-          "title": "Rayman Legends Retold Launches October 1",
-          "description": "Rayman Legends Retold, a reimagined version of the classic, will launch on October 1. It features stunning 3D visuals and new gameplay elements.",
-          "category": "Gaming",
-          "source": "Ubisoft.com",
-          "url": "https://news.ubisoft.com/en-us/article/2WxMvhIp4tEdeBz8HELI15/rayman-legends-retold-launching-october-1",
-          "image": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/37BUvdQKohf8lt6X0qCS7o/ae014f6251662c22425d9db533397506/RaymanLegendsRetold_Keyart.jpg",
-          "published_at": "2026-06-02T21:42:52Z",
-          "key_points": [
-            "Launch date set for October 1",
-            "New story and visuals",
-            "Exciting gameplay features"
-          ],
-          "impact": "Fans look forward to this reimagined classic.",
-          "id": "98f6f2e3d50a8407c918e73826e24da0"
-        },
-        {
-          "title": "Ace Combat 8: Wings of Theve Launches October 2",
-          "description": "Ace Combat 8: Wings of Theve will be available on October 2 for multiple platforms. Pre-orders are now open for eager fans.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/ace-combat-8-wings-of-theve-launches-october-2",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Ace-Combat-8-Dated_06-02-26.jpg",
-          "published_at": "2026-06-02T21:38:51Z",
-          "key_points": [
-            "Launch date confirmed",
-            "Available on multiple platforms",
-            "Pre-orders now open"
-          ],
-          "impact": "Excitement builds for the next Ace Combat.",
-          "id": "9d1baf3850d5cda0a9ef82292ee76b02"
-        },
-        {
-          "title": "Valve Threatens to Pull Rainbow Six Siege from Steam",
-          "description": "Valve reportedly threatened to delist Rainbow Six Siege from Steam due to a pricing dispute with Ubisoft. This highlights ongoing tensions in the gaming marketplace.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/valve-reportedly-threatened-to-delist-rainbow-six-siege-on-steam-after-ubisoft-offered-cheaper-alternative",
-          "image": "https://assets-prd.ignimgs.com/2026/06/02/rainbow-six-siege-steam-1780424935759.png?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-02T19:18:52Z",
-          "key_points": [
-            "Valve's threat to delist game",
-            "Pricing dispute with Ubisoft",
-            "Marketplace tensions highlighted"
-          ],
-          "impact": "This dispute could impact Steam's reputation.",
-          "id": "895b220301b5a8441832b7c9e71aecfa"
-        },
-        {
-          "title": "Microsoft Launches AI Behavior Testing Tool",
-          "description": "Microsoft introduced a new open-source framework for AI behavior testing, allowing developers to create evaluations using text descriptions. This aims to streamline AI development.",
-          "category": "Software",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-172665283.jpg?resize=1200,900",
-          "published_at": "2026-06-02T19:02:21Z",
-          "key_points": [
-            "New AI testing framework launched",
-            "Open-source for developers",
-            "Streamlines AI evaluations"
-          ],
-          "impact": "This tool enhances AI development efficiency.",
-          "id": "f9405aa053e6bd7bba0a1f653bfe54e0"
-        },
-        {
-          "title": "Android Phones to Detect Spoofed Calls",
-          "description": "Android's upcoming features include the ability to detect spoofed calls and impersonation scams. This aims to enhance user security and reduce fraud.",
-          "category": "Security",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
-          "published_at": "2026-06-02T18:00:46Z",
-          "key_points": [
-            "Spoofed call detection feature",
-            "Enhanced user security",
-            "Reduction of impersonation scams"
-          ],
-          "impact": "Android enhances security against fraud.",
-          "id": "e471778f8995cf066d26f1c04b31a4ef"
-        },
-        {
-          "title": "Googlebook Launch Could Feature 8 Devices",
-          "description": "Googlebook's launch may include up to eight devices from major partners like Dell and HP. This promises a diverse range of options for consumers.",
-          "category": "Business",
-          "source": "Chrome Unboxed",
-          "url": "https://chromeunboxed.com/the-googlebook-launch-could-arrive-with-up-to-8-devices-in-total/",
-          "image": "https://chromeunboxed.com/wp-content/uploads/2026/06/GooglebookLaunch8devicesFall2026.webp",
-          "published_at": "2026-06-02T16:11:23Z",
-          "key_points": [
-            "Launch may feature eight devices",
-            "Major partners involved",
-            "Diverse consumer options"
-          ],
-          "impact": "Googlebook aims for a strong market entry.",
-          "id": "9a5fada484e46a2368f8104dcb4d5f82"
-        },
-        {
-          "title": "Noctua Launches First AIO CPU Coolers",
-          "description": "Noctua's first AIO CPU coolers will launch on June 16, featuring various radiator sizes and advanced cooling technology. Prices start at €219.90.",
-          "category": "Hardware",
-          "source": "VideoCardz.com",
-          "url": "https://videocardz.com/newz/noctuas-first-aio-cpu-coolers-launch-june-16-starting-at-e219-90",
-          "image": "https://cdn.videocardz.com/1/2026/06/NOCTUA-AIO.jpg",
-          "published_at": "2026-06-02T14:49:13Z",
-          "key_points": [
-            "Launch date set for June 16",
-            "Multiple radiator sizes available",
-            "Starting price €219.90"
-          ],
-          "impact": "Noctua enters the AIO cooler market.",
-          "id": "44a3c0eca116fe1694a9a514dc5c4a86"
-        },
-        {
-          "title": "Marathon Season 2 Launches Today",
-          "description": "Marathon Season 2 kicks off today, introducing new changes and challenges for players. The update promises an exciting gameplay experience.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/everything-you-need-to-know-about-marathon-season-2-and-its-first-free-week-2000701243",
-          "image": "https://kotaku.com/app/uploads/2026/05/marathons21.jpg",
-          "published_at": "2026-06-02T14:00:35Z",
-          "key_points": [
-            "Season 2 launches today",
-            "New gameplay changes",
-            "Exciting challenges await"
-          ],
-          "impact": "Players are eager for the new season.",
-          "id": "ca8adcaca56b2aff20ffd00587dd5fa1"
-        },
-        {
-          "title": "Nintendo's Switch 2 StarFox Preview",
-          "description": "The new Switch 2 remake of StarFox impresses with its nostalgic gameplay and updated graphics. Players are excited about this fantastic do-over.",
-          "category": "Gaming",
-          "source": "CNET",
-          "url": "https://www.cnet.com/tech/gaming/starfox-remake-nintendo-switch-2-preview/",
-          "image": "https://www.cnet.com/a/img/resize/8b971dd7d8ab2691932142812b517d711f04610a/hub/2026/06/01/874ea615-171e-4a92-a19e-7ed13bb5076c/nintendoswitch2-starfox-scrn-01.jpg?auto=webp&fit=crop&height=675&precrop=2977,1673,x497,y250&width=1200",
-          "published_at": "2026-06-02T13:01:00Z",
-          "key_points": [
-            "Impressive graphics showcased",
-            "Nostalgic gameplay experience",
-            "Exciting remake for fans"
-          ],
-          "impact": "Fans are thrilled for the StarFox remake.",
-          "id": "d8c789301a76d3bb69f239a54126b552"
         }
       ]
     }
