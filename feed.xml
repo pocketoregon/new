@@ -5,143 +5,53 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jun 2026 20:29:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 22:50:34 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Marvel Rivals: Team-based PVP Shooter Launches</title>
-      <description>Marvel Rivals is now available for free, featuring cosmic battles and revamped gameplay. Join the fight and ignite the battle today!</description>
-      <link>https://www.marvelrivals.com/balancepost/20260609/41667_1303507.html</link>
-      <guid isPermaLink="true">https://www.marvelrivals.com/balancepost/20260609/41667_1303507.html</guid>
-      <pubDate>2026-06-09T18:47:27Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.marvelrivals.com/balancepost/20260609/41667_1303507.html">Marvelrivals.com</source>
-    </item>
-    <item>
-      <title>WWDC 2026: Siri AI and iOS 27 Announced</title>
-      <description>Apple unveiled enhancements to Siri AI and iOS 27 at WWDC 2026, focusing on improved user experience and developer tools. Exciting updates are on the horizon!</description>
-      <link>https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/</guid>
-      <pubDate>2026-06-09T18:04:24Z</pubDate>
+      <title>Apple Passwords Now Auto-Fix Weak Passwords</title>
+      <description>Apple's Passwords app can now automatically update weak and compromised passwords using AI. This feature enhances user security effortlessly.</description>
+      <link>https://www.macrumors.com/2026/06/08/apple-passwords-can-now-automatically-fix-passwords-with-agentic-ai/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/06/08/apple-passwords-can-now-automatically-fix-passwords-with-agentic-ai/</guid>
+      <pubDate>2026-06-08T20:05:12Z</pubDate>
       <category>Software</category>
-      <source url="https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/">TechCrunch</source>
+      <source url="https://www.macrumors.com/2026/06/08/apple-passwords-can-now-automatically-fix-passwords-with-agentic-ai/">MacRumors</source>
     </item>
     <item>
-      <title>Xenoblade Genesis: New Team Revealed</title>
-      <description>Nintendo reveals key team members for Xenoblade Genesis, including director Tetsuya Takashi. Fans eagerly await more details on this upcoming title.</description>
-      <link>https://nintendoeverything.com/xenoblade-genesis-reveals-director-composers-character-designers/</link>
-      <guid isPermaLink="true">https://nintendoeverything.com/xenoblade-genesis-reveals-director-composers-character-designers/</guid>
-      <pubDate>2026-06-09T17:49:57Z</pubDate>
+      <title>Valve’s Steam Frame VR Setup Tutorial Leaked</title>
+      <description>A leaked video reveals Valve's Steam Frame software and its VR setup tutorial. This could enhance user onboarding for VR experiences.</description>
+      <link>https://videocardz.com/newz/steam-frame-welcome-tour-leaks-shows-valves-vr-setup-tutorial</link>
+      <guid isPermaLink="true">https://videocardz.com/newz/steam-frame-welcome-tour-leaks-shows-valves-vr-setup-tutorial</guid>
+      <pubDate>2026-06-08T15:32:27Z</pubDate>
       <category>Gaming</category>
-      <source url="https://nintendoeverything.com/xenoblade-genesis-reveals-director-composers-character-designers/">Nintendoeverything.com</source>
+      <source url="https://videocardz.com/newz/steam-frame-welcome-tour-leaks-shows-valves-vr-setup-tutorial">Videocardz.com</source>
     </item>
     <item>
-      <title>Apple vs. EU: Siri AI Delays Explained</title>
-      <description>Apple cites the Digital Markets Act as the reason for Siri AI delays in Europe, while the EU insists there are no barriers to launch. Tensions rise.</description>
-      <link>https://www.theverge.com/ai-artificial-intelligence/947051/apple-europe-dma-siri-ai</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/947051/apple-europe-dma-siri-ai</guid>
-      <pubDate>2026-06-09T17:13:14Z</pubDate>
+      <title>Destiny 2's Final Update Arrives June 9</title>
+      <description>Destiny 2 will release its last major update on June 9, featuring significant content. This marks the end of an era for the game.</description>
+      <link>https://www.forbes.com/sites/paultassi/2026/06/08/heres-everything-coming-to-destiny-2s-final-june-9-update/</link>
+      <guid isPermaLink="true">https://www.forbes.com/sites/paultassi/2026/06/08/heres-everything-coming-to-destiny-2s-final-june-9-update/</guid>
+      <pubDate>2026-06-08T14:42:40Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.forbes.com/sites/paultassi/2026/06/08/heres-everything-coming-to-destiny-2s-final-june-9-update/">Forbes</source>
+    </item>
+    <item>
+      <title>Tim Cook Shares Comedic Video for Final Event</title>
+      <description>Tim Cook posted a humorous video ahead of his last Apple event at WWDC. He will step down as CEO on September 1.</description>
+      <link>https://9to5mac.com/2026/06/08/tim-cook-posts-comedic-good-morning-video-to-mark-final-apple-event-as-ceo/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/08/tim-cook-posts-comedic-good-morning-video-to-mark-final-apple-event-as-ceo/</guid>
+      <pubDate>2026-06-08T13:25:00Z</pubDate>
+      <category>Business</category>
+      <source url="https://9to5mac.com/2026/06/08/tim-cook-posts-comedic-good-morning-video-to-mark-final-apple-event-as-ceo/">9to5Mac</source>
+    </item>
+    <item>
+      <title>Nintendo Fined €35 Million Over Joy-Con Defect</title>
+      <description>Nintendo faces a €35 million fine in France for delaying communication about Joy-Con controller defects. The company was aware of the issue since 2018.</description>
+      <link>https://www.lemonde.fr/en/pixels/article/2026/06/08/nintendo-fined-35-million-in-france-over-defect-in-switch-joy-con-controllers_6754251_13.html</link>
+      <guid isPermaLink="true">https://www.lemonde.fr/en/pixels/article/2026/06/08/nintendo-fined-35-million-in-france-over-defect-in-switch-joy-con-controllers_6754251_13.html</guid>
+      <pubDate>2026-06-08T10:50:55Z</pubDate>
       <category>Geopolitics</category>
-      <source url="https://www.theverge.com/ai-artificial-intelligence/947051/apple-europe-dma-siri-ai">The Verge</source>
-    </item>
-    <item>
-      <title>iOS 27: 12 New Features for iPhone</title>
-      <description>Apple highlights 12 new features in iOS 27, including a smarter Siri. Users can expect significant enhancements to their iPhones.</description>
-      <link>https://www.macrumors.com/2026/06/09/apple-highlights-ios-27-features/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/06/09/apple-highlights-ios-27-features/</guid>
-      <pubDate>2026-06-09T16:47:47Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.macrumors.com/2026/06/09/apple-highlights-ios-27-features/">MacRumors</source>
-    </item>
-    <item>
-      <title>Nomad Launches Transparent Qi2 Charger</title>
-      <description>Nomad's Stand One charger now features a transparent design, showcasing the Qi2 wireless charging coil. A stylish upgrade for tech enthusiasts!</description>
-      <link>http://9to5google.com/2026/06/09/androids-best-qi2-wireless-charger-got-a-see-through-version/</link>
-      <guid isPermaLink="true">http://9to5google.com/2026/06/09/androids-best-qi2-wireless-charger-got-a-see-through-version/</guid>
-      <pubDate>2026-06-09T16:00:00Z</pubDate>
-      <category>Hardware</category>
-      <source url="http://9to5google.com/2026/06/09/androids-best-qi2-wireless-charger-got-a-see-through-version/">9to5Google</source>
-    </item>
-    <item>
-      <title>Gemini 3.5 Live Translate Launches</title>
-      <description>Google introduces Gemini 3.5 Live Translate, enhancing speech-to-speech translation capabilities. It supports over 70 languages for seamless communication.</description>
-      <link>http://9to5google.com/2026/06/09/gemini-3-5-live-translate-meet/</link>
-      <guid isPermaLink="true">http://9to5google.com/2026/06/09/gemini-3-5-live-translate-meet/</guid>
-      <pubDate>2026-06-09T15:43:00Z</pubDate>
-      <category>Software</category>
-      <source url="http://9to5google.com/2026/06/09/gemini-3-5-live-translate-meet/">9to5Google</source>
-    </item>
-    <item>
-      <title>Zelda: Ocarina of Time Remake Confirmed</title>
-      <description>The long-awaited remake of The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 is officially announced for 2026. Fans rejoice!</description>
-      <link>https://gameinformer.com/nintendo-direct/2026/06/09/the-nintendo-switch-2-remake-of-the-legend-of-zelda-ocarina-of-time</link>
-      <guid isPermaLink="true">https://gameinformer.com/nintendo-direct/2026/06/09/the-nintendo-switch-2-remake-of-the-legend-of-zelda-ocarina-of-time</guid>
-      <pubDate>2026-06-09T15:05:51Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://gameinformer.com/nintendo-direct/2026/06/09/the-nintendo-switch-2-remake-of-the-legend-of-zelda-ocarina-of-time">Game Informer</source>
-    </item>
-    <item>
-      <title>Kingdom Hearts IV Trailer Released</title>
-      <description>A new trailer for Kingdom Hearts IV showcases Sora's evolution and vibrant visuals. Fans eagerly anticipate the next chapter in the series.</description>
-      <link>https://kotaku.com/kingdom-hearts-4-marries-square-enix-fantasy-with-unreal-engine-action-2000704405</link>
-      <guid isPermaLink="true">https://kotaku.com/kingdom-hearts-4-marries-square-enix-fantasy-with-unreal-engine-action-2000704405</guid>
-      <pubDate>2026-06-09T15:01:20Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://kotaku.com/kingdom-hearts-4-marries-square-enix-fantasy-with-unreal-engine-action-2000704405">Kotaku</source>
-    </item>
-    <item>
-      <title>Apple's AI Models Exclude Google's Tech</title>
-      <description>Apple clarifies that its new AI models do not incorporate Google's Gemini technology, emphasizing its unique architecture and capabilities.</description>
-      <link>https://www.macrumors.com/2026/06/09/apples-new-ai-contains-no-gemini/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/06/09/apples-new-ai-contains-no-gemini/</guid>
-      <pubDate>2026-06-09T13:46:06Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.macrumors.com/2026/06/09/apples-new-ai-contains-no-gemini/">MacRumors</source>
-    </item>
-    <item>
-      <title>DDR5 Prices to Remain High Until 2028</title>
-      <description>AMD warns that DDR5 memory prices will stay elevated until 2028 due to high demand from AI applications, pushing users to DDR4.</description>
-      <link>https://wccftech.com/amd-warns-ddr5-prices-wont-return-to-normal-until-2028-as-ai-boom-strangles-consumer-memory-supply/</link>
-      <guid isPermaLink="true">https://wccftech.com/amd-warns-ddr5-prices-wont-return-to-normal-until-2028-as-ai-boom-strangles-consumer-memory-supply/</guid>
-      <pubDate>2026-06-09T13:12:00Z</pubDate>
-      <category>Hardware</category>
-      <source url="https://wccftech.com/amd-warns-ddr5-prices-wont-return-to-normal-until-2028-as-ai-boom-strangles-consumer-memory-supply/">Wccftech</source>
-    </item>
-    <item>
-      <title>macOS 27: Liquid Glass UI Changes</title>
-      <description>Apple's macOS 27 beta showcases a refined design with reduced Liquid Glass elements, enhancing the overall aesthetic for Mac users.</description>
-      <link>https://www.theverge.com/tech/946567/apple-macos-27-golden-gate-dev-beta-hands-on</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/946567/apple-macos-27-golden-gate-dev-beta-hands-on</guid>
-      <pubDate>2026-06-09T13:04:39Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.theverge.com/tech/946567/apple-macos-27-golden-gate-dev-beta-hands-on">The Verge</source>
-    </item>
-    <item>
-      <title>iOS 27 Revamps AirPods Settings</title>
-      <description>iOS 27 introduces a completely overhauled settings menu for AirPods, improving organization and user experience for Apple’s earbuds.</description>
-      <link>https://www.macrumors.com/2026/06/09/ios-27-overhauled-airpods-settings-menu/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/06/09/ios-27-overhauled-airpods-settings-menu/</guid>
-      <pubDate>2026-06-09T12:45:47Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.macrumors.com/2026/06/09/ios-27-overhauled-airpods-settings-menu/">MacRumors</source>
-    </item>
-    <item>
-      <title>Gemini Enhancements for Multitaskers</title>
-      <description>Google is testing new features for Gemini to improve multitasking, including a minimize option for the overlay. Exciting updates are on the way!</description>
-      <link>https://www.androidauthority.com/google-minimize-gemini-overlay-button-3675805/</link>
-      <guid isPermaLink="true">https://www.androidauthority.com/google-minimize-gemini-overlay-button-3675805/</guid>
-      <pubDate>2026-06-09T09:40:50Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.androidauthority.com/google-minimize-gemini-overlay-button-3675805/">Android Authority</source>
-    </item>
-    <item>
-      <title>Android Should Adopt iOS 27 Features</title>
-      <description>Android Central highlights five innovative features from iOS 27 that Android should consider adopting for improved user experience.</description>
-      <link>https://www.androidcentral.com/apps-software/android-os/9-things-android-should-steal-from-ios-27</link>
-      <guid isPermaLink="true">https://www.androidcentral.com/apps-software/android-os/9-things-android-should-steal-from-ios-27</guid>
-      <pubDate>2026-06-09T08:08:00Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.androidcentral.com/apps-software/android-os/9-things-android-should-steal-from-ios-27">Android Central</source>
+      <source url="https://www.lemonde.fr/en/pixels/article/2026/06/08/nintendo-fined-35-million-in-france-over-defect-in-switch-joy-con-controllers_6754251_13.html">Le Monde</source>
     </item>
   </channel>
 </rss>

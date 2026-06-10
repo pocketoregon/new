@@ -1,245 +1,85 @@
 {
-  "generated_at": "2026-06-10T20:28:46.079828+00:00",
+  "generated_at": "2026-06-10T22:50:24.837509+00:00",
   "articles": [
     {
-      "title": "Marvel Rivals: Team-based PVP Shooter Launches",
-      "description": "Marvel Rivals is now available for free, featuring cosmic battles and revamped gameplay. Join the fight and ignite the battle today!",
-      "category": "Gaming",
-      "source": "Marvelrivals.com",
-      "url": "https://www.marvelrivals.com/balancepost/20260609/41667_1303507.html",
-      "image": "https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg",
-      "published_at": "2026-06-09T18:47:27Z",
-      "key_points": [
-        "Free to play now",
-        "Cosmic battles await",
-        "Revamped gameplay mechanics"
-      ],
-      "impact": "Marvel Rivals aims to attract competitive gamers.",
-      "id": "d81cf2afe2974b0d6520e4b92a8b56d5"
-    },
-    {
-      "title": "WWDC 2026: Siri AI and iOS 27 Announced",
-      "description": "Apple unveiled enhancements to Siri AI and iOS 27 at WWDC 2026, focusing on improved user experience and developer tools. Exciting updates are on the horizon!",
+      "title": "Apple Passwords Now Auto-Fix Weak Passwords",
+      "description": "Apple's Passwords app can now automatically update weak and compromised passwords using AI. This feature enhances user security effortlessly.",
       "category": "Software",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-ai-use-cases.png?w=1186",
-      "published_at": "2026-06-09T18:04:24Z",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/08/apple-passwords-can-now-automatically-fix-passwords-with-agentic-ai/",
+      "image": "https://images.macrumors.com/t/S0o-hzuadWAucWAD99hN4pACQcs=/1600x/article-new/2026/06/ios-27-passwords-app.jpg",
+      "published_at": "2026-06-08T20:05:12Z",
       "key_points": [
-        "Siri AI improvements",
-        "iOS 27 features revealed",
-        "Developer tools showcased"
+        "Automatic password updates",
+        "Enhanced user security",
+        "Utilizes Apple Intelligence"
       ],
-      "impact": "Apple continues to enhance its software ecosystem.",
-      "id": "b841cb395af67c43e9e3d068cde55d51"
+      "impact": "This feature significantly improves password management.",
+      "id": "be1243201f4961a608f4719a89411164"
     },
     {
-      "title": "Xenoblade Genesis: New Team Revealed",
-      "description": "Nintendo reveals key team members for Xenoblade Genesis, including director Tetsuya Takashi. Fans eagerly await more details on this upcoming title.",
+      "title": "Valve’s Steam Frame VR Setup Tutorial Leaked",
+      "description": "A leaked video reveals Valve's Steam Frame software and its VR setup tutorial. This could enhance user onboarding for VR experiences.",
       "category": "Gaming",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/xenoblade-genesis-reveals-director-composers-character-designers/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Xenoblade-Genesis-director-composers-character-designers.jpg",
-      "published_at": "2026-06-09T17:49:57Z",
+      "source": "Videocardz.com",
+      "url": "https://videocardz.com/newz/steam-frame-welcome-tour-leaks-shows-valves-vr-setup-tutorial",
+      "image": "https://cdn.videocardz.com/1/2026/06/STEAM-FRAME-HERO-WELCOME-TOUR.jpg",
+      "published_at": "2026-06-08T15:32:27Z",
       "key_points": [
-        "Director Tetsuya Takashi announced",
-        "Composers and designers revealed",
-        "Fans excited for updates"
+        "Steam Frame software revealed",
+        "VR setup tutorial shown",
+        "Enhances user onboarding"
       ],
-      "impact": "Xenoblade Genesis builds anticipation among gamers.",
-      "id": "88529f597f13353ea5229bc6db143e78"
+      "impact": "This leak may boost interest in Valve's VR.",
+      "id": "b1e13b7c81283b283dc206075b751b96"
     },
     {
-      "title": "Apple vs. EU: Siri AI Delays Explained",
-      "description": "Apple cites the Digital Markets Act as the reason for Siri AI delays in Europe, while the EU insists there are no barriers to launch. Tensions rise.",
+      "title": "Destiny 2's Final Update Arrives June 9",
+      "description": "Destiny 2 will release its last major update on June 9, featuring significant content. This marks the end of an era for the game.",
+      "category": "Gaming",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/06/08/heres-everything-coming-to-destiny-2s-final-june-9-update/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a26d4b099b17a170bd5efbd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published_at": "2026-06-08T14:42:40Z",
+      "key_points": [
+        "Final content update announced",
+        "Major features included",
+        "End of Destiny 2 era"
+      ],
+      "impact": "This update concludes Destiny 2's journey.",
+      "id": "7240927cd21362b04a81af3e2ba95783"
+    },
+    {
+      "title": "Tim Cook Shares Comedic Video for Final Event",
+      "description": "Tim Cook posted a humorous video ahead of his last Apple event at WWDC. He will step down as CEO on September 1.",
+      "category": "Business",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/08/tim-cook-posts-comedic-good-morning-video-to-mark-final-apple-event-as-ceo/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/iPhone-17-event-scheduled-for-September-9-according-to-carrier-documents.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-08T13:25:00Z",
+      "key_points": [
+        "Tim Cook's final Apple event",
+        "Comedic farewell video",
+        "CEO transition on September 1"
+      ],
+      "impact": "Cook's departure marks a significant leadership change.",
+      "id": "f436d976191f9bf4b03b649d2211f8f9"
+    },
+    {
+      "title": "Nintendo Fined €35 Million Over Joy-Con Defect",
+      "description": "Nintendo faces a €35 million fine in France for delaying communication about Joy-Con controller defects. The company was aware of the issue since 2018.",
       "category": "Geopolitics",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/947051/apple-europe-dma-siri-ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STK450_EU_G.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-      "published_at": "2026-06-09T17:13:14Z",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/en/pixels/article/2026/06/08/nintendo-fined-35-million-in-france-over-defect-in-switch-joy-con-controllers_6754251_13.html",
+      "image": "https://img.lemde.fr/2021/10/08/0/0/4000/2666/1440/960/60/0/9be6308_176113083-dscf0981bis.jpg",
+      "published_at": "2026-06-08T10:50:55Z",
       "key_points": [
-        "Apple blames DMA",
-        "EU denies launch barriers",
-        "Siri AI delays continue"
+        "Nintendo fined €35 million",
+        "Delayed defect communication",
+        "Issue known since 2018"
       ],
-      "impact": "Regulatory issues hinder Apple's AI rollout.",
-      "id": "6a35945583f85644456c706d7ff1b2a5"
-    },
-    {
-      "title": "iOS 27: 12 New Features for iPhone",
-      "description": "Apple highlights 12 new features in iOS 27, including a smarter Siri. Users can expect significant enhancements to their iPhones.",
-      "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/09/apple-highlights-ios-27-features/",
-      "image": "https://images.macrumors.com/t/n8yoN_htXb7huLx8h8ldw1v1qEE=/2186x/article-new/2026/06/Apple-Says-iOS-27-Adds-These-12-New-Features-to-Your-iPhone-Feature.jpg",
-      "published_at": "2026-06-09T16:47:47Z",
-      "key_points": [
-        "Smarter Siri introduced",
-        "12 new features detailed",
-        "Enhanced user experience"
-      ],
-      "impact": "iOS 27 aims to improve user satisfaction.",
-      "id": "1f2f48811151603d7253c90c3d1511fd"
-    },
-    {
-      "title": "Nomad Launches Transparent Qi2 Charger",
-      "description": "Nomad's Stand One charger now features a transparent design, showcasing the Qi2 wireless charging coil. A stylish upgrade for tech enthusiasts!",
-      "category": "Hardware",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/06/09/androids-best-qi2-wireless-charger-got-a-see-through-version/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Nomad-Stand-One-Stellar-Orange-9.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-09T16:00:00Z",
-      "key_points": [
-        "Transparent design launched",
-        "Showcases Qi2 technology",
-        "Stylish upgrade available"
-      ],
-      "impact": "Nomad's charger appeals to design-conscious consumers.",
-      "id": "fe82573c4ae2ded4fe0bd1bde82a9098"
-    },
-    {
-      "title": "Gemini 3.5 Live Translate Launches",
-      "description": "Google introduces Gemini 3.5 Live Translate, enhancing speech-to-speech translation capabilities. It supports over 70 languages for seamless communication.",
-      "category": "Software",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/06/09/gemini-3-5-live-translate-meet/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Gemini-3.5-Live-Translate.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-09T15:43:00Z",
-      "key_points": [
-        "Supports 70+ languages",
-        "Enhances communication",
-        "Live speech translation introduced"
-      ],
-      "impact": "Gemini 3.5 improves global communication efficiency.",
-      "id": "d2378a129b5d72e875227b982e79e6e6"
-    },
-    {
-      "title": "Zelda: Ocarina of Time Remake Confirmed",
-      "description": "The long-awaited remake of The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 is officially announced for 2026. Fans rejoice!",
-      "category": "Gaming",
-      "source": "Game Informer",
-      "url": "https://gameinformer.com/nintendo-direct/2026/06/09/the-nintendo-switch-2-remake-of-the-legend-of-zelda-ocarina-of-time",
-      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/09/6a88a279/zelda01.jpg.webp",
-      "published_at": "2026-06-09T15:05:51Z",
-      "key_points": [
-        "Ocarina of Time remake confirmed",
-        "Coming to Nintendo Switch 2",
-        "Fans excited for release"
-      ],
-      "impact": "The remake revives nostalgia for gamers.",
-      "id": "02a19513ec6d3eee14704da3d937de4d"
-    },
-    {
-      "title": "Kingdom Hearts IV Trailer Released",
-      "description": "A new trailer for Kingdom Hearts IV showcases Sora's evolution and vibrant visuals. Fans eagerly anticipate the next chapter in the series.",
-      "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/kingdom-hearts-4-marries-square-enix-fantasy-with-unreal-engine-action-2000704405",
-      "image": "https://kotaku.com/app/uploads/2026/06/Kingdom-Hearts-4-1200x675.jpg",
-      "published_at": "2026-06-09T15:01:20Z",
-      "key_points": [
-        "New trailer unveiled",
-        "Sora's character development",
-        "Fans excited for gameplay"
-      ],
-      "impact": "Kingdom Hearts IV generates buzz among fans.",
-      "id": "e33ac04daa15f9b1fce99f60f8b6f32e"
-    },
-    {
-      "title": "Apple's AI Models Exclude Google's Tech",
-      "description": "Apple clarifies that its new AI models do not incorporate Google's Gemini technology, emphasizing its unique architecture and capabilities.",
-      "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/09/apples-new-ai-contains-no-gemini/",
-      "image": "https://images.macrumors.com/t/dUIgpIiBn2wAKhWSl0HDOLdc2LU=/1600x/article-new/2026/06/apple-intelligence-architecture.jpg",
-      "published_at": "2026-06-09T13:46:06Z",
-      "key_points": [
-        "No Google tech used",
-        "Unique AI architecture",
-        "Apple's independence emphasized"
-      ],
-      "impact": "Apple asserts its AI development strategy.",
-      "id": "34bf23e4ecbb7bf985600518a948ae0d"
-    },
-    {
-      "title": "DDR5 Prices to Remain High Until 2028",
-      "description": "AMD warns that DDR5 memory prices will stay elevated until 2028 due to high demand from AI applications, pushing users to DDR4.",
-      "category": "Hardware",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/amd-warns-ddr5-prices-wont-return-to-normal-until-2028-as-ai-boom-strangles-consumer-memory-supply/",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2025/12/Asgard-Thor-DDR5.jpg",
-      "published_at": "2026-06-09T13:12:00Z",
-      "key_points": [
-        "DDR5 prices remain high",
-        "AI demand impacts supply",
-        "Users shifting to DDR4"
-      ],
-      "impact": "High DDR5 prices affect consumer choices.",
-      "id": "86b2fe3ce9832fdd25d8b0fdd7d33764"
-    },
-    {
-      "title": "macOS 27: Liquid Glass UI Changes",
-      "description": "Apple's macOS 27 beta showcases a refined design with reduced Liquid Glass elements, enhancing the overall aesthetic for Mac users.",
-      "category": "Software",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/946567/apple-macos-27-golden-gate-dev-beta-hands-on",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/060926_MacBook_Neo_macOS_27_Golden_Gate_beta_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published_at": "2026-06-09T13:04:39Z",
-      "key_points": [
-        "Refined Liquid Glass design",
-        "Improved aesthetics",
-        "macOS 27 beta available"
-      ],
-      "impact": "macOS 27 aims for a modern look.",
-      "id": "f593f89ffd01f2e91e0f5d78d886219c"
-    },
-    {
-      "title": "iOS 27 Revamps AirPods Settings",
-      "description": "iOS 27 introduces a completely overhauled settings menu for AirPods, improving organization and user experience for Apple’s earbuds.",
-      "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/09/ios-27-overhauled-airpods-settings-menu/",
-      "image": "https://images.macrumors.com/t/PRt3hOQOcgYP-iOW475qMTax9ks=/2500x/article-new/2026/06/airpods-pro-3-orange.jpeg",
-      "published_at": "2026-06-09T12:45:47Z",
-      "key_points": [
-        "Revamped AirPods settings",
-        "Better organization",
-        "Enhanced user experience"
-      ],
-      "impact": "iOS 27 improves AirPods usability.",
-      "id": "0358e92e6b471109348313eb28864291"
-    },
-    {
-      "title": "Gemini Enhancements for Multitaskers",
-      "description": "Google is testing new features for Gemini to improve multitasking, including a minimize option for the overlay. Exciting updates are on the way!",
-      "category": "Software",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/google-minimize-gemini-overlay-button-3675805/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Gemini-overlay-on-an-Android-tablet-hero-image.jpg",
-      "published_at": "2026-06-09T09:40:50Z",
-      "key_points": [
-        "New multitasking features",
-        "Minimize Gemini overlay",
-        "Testing phase underway"
-      ],
-      "impact": "Gemini aims to enhance user productivity.",
-      "id": "44c6811d625fd6de779bc7683020b6cc"
-    },
-    {
-      "title": "Android Should Adopt iOS 27 Features",
-      "description": "Android Central highlights five innovative features from iOS 27 that Android should consider adopting for improved user experience.",
-      "category": "Software",
-      "source": "Android Central",
-      "url": "https://www.androidcentral.com/apps-software/android-os/9-things-android-should-steal-from-ios-27",
-      "image": "https://cdn.mos.cms.futurecdn.net/xT8aTTunkD6DnrPiLsmhti-2560-80.jpg",
-      "published_at": "2026-06-09T08:08:00Z",
-      "key_points": [
-        "iOS 27 features praised",
-        "Android could improve",
-        "Smart ideas highlighted"
-      ],
-      "impact": "Android could benefit from iOS innovations.",
-      "id": "dcbc3f9c43fa534df8e0d5d16349f5e4"
+      "impact": "This fine highlights consumer protection enforcement.",
+      "id": "b61f57e20045cc2a6a332fed3d76dc96"
     }
   ]
 }
