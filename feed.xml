@@ -5,116 +5,89 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 22:23:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 03:36:49 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>tvOS 27 Drops Support for Two Apple TV Models</title>
-      <description>tvOS 27 will no longer support Apple TV HD and another model. Users must upgrade to newer devices for future updates.</description>
-      <link>https://www.macrumors.com/2026/06/08/tvos-27-compatible-apple-tv-models/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/06/08/tvos-27-compatible-apple-tv-models/</guid>
-      <pubDate>2026-06-08T21:17:47Z</pubDate>
+      <title>Apple Unveils Enhanced Siri AI Assistant</title>
+      <description>Apple has launched a new Siri AI, offering improved personal assistance with enhanced context and awareness. This upgrade aims to redefine user interaction with Apple devices.</description>
+      <link>https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/</link>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/</guid>
+      <pubDate>2026-06-09T03:49:47Z</pubDate>
       <category>Software</category>
-      <source url="https://www.macrumors.com/2026/06/08/tvos-27-compatible-apple-tv-models/">MacRumors</source>
+      <source url="https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/">Apple Newsroom</source>
     </item>
     <item>
-      <title>Apple plays catch-up at WWDC</title>
-      <description>Apple's WWDC keynote focused on fixes and performance improvements, introducing an upgraded AI-powered Siri as part of broader enhancements.</description>
-      <link>https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/</guid>
-      <pubDate>2026-06-08T21:15:42Z</pubDate>
-      <category>Software</category>
-      <source url="https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/">TechCrunch</source>
-    </item>
-    <item>
-      <title>iOS 27 and iPadOS 27 don’t drop support for any iPhones—and just a few iPads</title>
-      <description>iOS 27 and iPadOS 27 maintain support for all iPhones and only a few iPads, ensuring compatibility for older devices.</description>
-      <link>https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/</link>
-      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/</guid>
-      <pubDate>2026-06-08T20:55:58Z</pubDate>
-      <category>Software</category>
-      <source url="https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Apple drops support for a long list of iPads and Apple Watches with latest OS updates</title>
-      <description>WatchOS 27 will not support several Apple Watch models, including Series 6, 7, and 8, alongside multiple iPads.</description>
-      <link>https://www.theverge.com/news/946147/apple-watchos-27-ipados-27-supported-devices-dropped</link>
-      <guid isPermaLink="true">https://www.theverge.com/news/946147/apple-watchos-27-ipados-27-supported-devices-dropped</guid>
-      <pubDate>2026-06-08T19:45:00Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.theverge.com/news/946147/apple-watchos-27-ipados-27-supported-devices-dropped">The Verge</source>
-    </item>
-    <item>
-      <title>iCloud+ subscribers will get new benefits in iOS 27</title>
-      <description>iOS 27 introduces new features for iCloud+ subscribers, enhancing the Apple Intelligence experience.</description>
-      <link>https://9to5mac.com/2026/06/08/icloud-subscribers-will-get-new-benefits-in-ios-27/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/08/icloud-subscribers-will-get-new-benefits-in-ios-27/</guid>
-      <pubDate>2026-06-08T18:58:00Z</pubDate>
-      <category>Software</category>
-      <source url="https://9to5mac.com/2026/06/08/icloud-subscribers-will-get-new-benefits-in-ios-27/">9to5Mac</source>
-    </item>
-    <item>
-      <title>Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27</title>
-      <description>Siri AI's release in the EU is postponed due to the Digital Markets Act, affecting iOS 27 and iPadOS 27.</description>
-      <link>https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/</guid>
-      <pubDate>2026-06-08T18:20:13Z</pubDate>
-      <category>Policy</category>
-      <source url="https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/">Apple Newsroom</source>
-    </item>
-    <item>
-      <title>Apple introduces systemwide dictation</title>
-      <description>Apple's new dictation feature aims to compete with existing services, enhancing user experience across devices.</description>
-      <link>https://techcrunch.com/2026/06/08/apple-introduces-systemwide-dictation/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/08/apple-introduces-systemwide-dictation/</guid>
-      <pubDate>2026-06-08T18:00:09Z</pubDate>
-      <category>Software</category>
-      <source url="https://techcrunch.com/2026/06/08/apple-introduces-systemwide-dictation/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Apple is redesigning Screen Time and overhauling child controls</title>
-      <description>Apple's revamped Screen Time and parental controls aim to better protect children using its devices.</description>
-      <link>https://www.theverge.com/tech/945898/apple-parental-controls-child-accounts-wwdc2026</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/945898/apple-parental-controls-child-accounts-wwdc2026</guid>
-      <pubDate>2026-06-08T17:55:30Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.theverge.com/tech/945898/apple-parental-controls-child-accounts-wwdc2026">The Verge</source>
-    </item>
-    <item>
-      <title>Apple is tweaking its controversial Liquid Glass design</title>
-      <description>Apple is adjusting its Liquid Glass design after mixed user feedback regarding readability and aesthetics.</description>
-      <link>https://techcrunch.com/2026/06/08/apple-is-tweaking-its-controversial-liquid-glass-design/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/08/apple-is-tweaking-its-controversial-liquid-glass-design/</guid>
-      <pubDate>2026-06-08T17:24:33Z</pubDate>
-      <category>Software</category>
-      <source url="https://techcrunch.com/2026/06/08/apple-is-tweaking-its-controversial-liquid-glass-design/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Google AI Plus gets price drop to $4.99 and storage bump</title>
-      <description>Google reduces AI Plus subscription price to $4.99 and increases storage to 400 GB, enhancing value for users.</description>
-      <link>http://9to5google.com/2026/06/08/google-ai-plus-price-drop/</link>
-      <guid isPermaLink="true">http://9to5google.com/2026/06/08/google-ai-plus-price-drop/</guid>
-      <pubDate>2026-06-08T17:21:00Z</pubDate>
-      <category>Business</category>
-      <source url="http://9to5google.com/2026/06/08/google-ai-plus-price-drop/">9to5google.com</source>
-    </item>
-    <item>
-      <title>Anker launches air-cooled 3-in-1 wireless charger with built-in touchscreen</title>
-      <description>Anker's new 3-in-1 wireless charger features air cooling, fast charging, and a touchscreen for enhanced usability.</description>
-      <link>https://www.gizmochina.com/2026/06/08/anker-launches-air-cooled-3-in-1-wireless-charger-with-built-in-touchscreen/</link>
-      <guid isPermaLink="true">https://www.gizmochina.com/2026/06/08/anker-launches-air-cooled-3-in-1-wireless-charger-with-built-in-touchscreen/</guid>
-      <pubDate>2026-06-08T04:03:13Z</pubDate>
-      <category>Hardware</category>
-      <source url="https://www.gizmochina.com/2026/06/08/anker-launches-air-cooled-3-in-1-wireless-charger-with-built-in-touchscreen/">Gizmochina</source>
-    </item>
-    <item>
-      <title>Gears Of War: E-Day Launches As A Console Exclusive On Xbox Series X/S And PC This October</title>
-      <description>Gears of War: E-Day will launch as a console exclusive for Xbox Series X/S and PC this October, showcasing new gameplay.</description>
-      <link>https://gameinformer.com/xbox-games-showcase/2026/06/07/gears-of-war-e-day-launches-as-a-console-exclusive-on-xbox-series-xs</link>
-      <guid isPermaLink="true">https://gameinformer.com/xbox-games-showcase/2026/06/07/gears-of-war-e-day-launches-as-a-console-exclusive-on-xbox-series-xs</guid>
-      <pubDate>2026-06-07T19:59:49Z</pubDate>
+      <title>Crazy Taxi Producer Addresses AI Controversy</title>
+      <description>The producer of Crazy Taxi: World Tour clarifies the game's AI usage amid fan concerns. The announcement has sparked discussions about AI's role in gaming.</description>
+      <link>https://gameinformer.com/sgf-2026/2026/06/08/crazy-taxi-world-tour-producer-clarifies-ai-use</link>
+      <guid isPermaLink="true">https://gameinformer.com/sgf-2026/2026/06/08/crazy-taxi-world-tour-producer-clarifies-ai-use</guid>
+      <pubDate>2026-06-09T02:16:07Z</pubDate>
       <category>Gaming</category>
-      <source url="https://gameinformer.com/xbox-games-showcase/2026/06/07/gears-of-war-e-day-launches-as-a-console-exclusive-on-xbox-series-xs">Game Informer</source>
+      <source url="https://gameinformer.com/sgf-2026/2026/06/08/crazy-taxi-world-tour-producer-clarifies-ai-use">Game Informer</source>
+    </item>
+    <item>
+      <title>Instagram Now Allows Profile Grid Reorganization</title>
+      <description>Instagram has rolled out a feature enabling users to rearrange their profile grid freely. This update enhances user customization options.</description>
+      <link>https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid</guid>
+      <pubDate>2026-06-08T23:58:30Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid">The Verge</source>
+    </item>
+    <item>
+      <title>Xbox Leaks Gears of War PS5 Trailer</title>
+      <description>An accidental upload revealed a Gears of War trailer for PS5, causing a stir in the gaming community. Xbox has since addressed the mishap.</description>
+      <link>https://www.pushsquare.com/news/2026/06/whoops-xbox-accidentally-uploads-gears-of-war-ps5-trailer</link>
+      <guid isPermaLink="true">https://www.pushsquare.com/news/2026/06/whoops-xbox-accidentally-uploads-gears-of-war-ps5-trailer</guid>
+      <pubDate>2026-06-08T23:11:03Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.pushsquare.com/news/2026/06/whoops-xbox-accidentally-uploads-gears-of-war-ps5-trailer">Push Square</source>
+    </item>
+    <item>
+      <title>iOS 27 Introduces Exciting New Features</title>
+      <description>Apple's iOS 27 brings features like shared phone numbers and independent alarm volumes. The update enhances user experience across devices.</description>
+      <link>https://www.macrumors.com/2026/06/08/ios-27-tidbits/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/06/08/ios-27-tidbits/</guid>
+      <pubDate>2026-06-08T22:23:03Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.macrumors.com/2026/06/08/ios-27-tidbits/">MacRumors</source>
+    </item>
+    <item>
+      <title>Apple Watch Series 9 Supports watchOS 27</title>
+      <description>Apple confirms that watchOS 27 will run on the Apple Watch Series 9, despite dropping support for older models. This ensures continued compatibility for newer users.</description>
+      <link>https://9to5mac.com/2026/06/08/apple-confirms-watchos-27-will-run-on-apple-watch-series-9/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/08/apple-confirms-watchos-27-will-run-on-apple-watch-series-9/</guid>
+      <pubDate>2026-06-08T21:09:00Z</pubDate>
+      <category>Software</category>
+      <source url="https://9to5mac.com/2026/06/08/apple-confirms-watchos-27-will-run-on-apple-watch-series-9/">9to5Mac</source>
+    </item>
+    <item>
+      <title>macOS 27 Requires Apple Silicon Only</title>
+      <description>Apple's macOS 27 will exclusively support Apple Silicon, marking the end of Intel Mac compatibility. This shift emphasizes Apple's transition to its own chips.</description>
+      <link>https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/</link>
+      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/</guid>
+      <pubDate>2026-06-08T21:03:56Z</pubDate>
+      <category>Software</category>
+      <source url="https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Summer Game Fest 2026 Highlights Major Reveals</title>
+      <description>The Summer Game Fest showcased major game trailers, including a new Spyro and Final Fantasy 7 remake updates. Fans are buzzing about the announcements.</description>
+      <link>https://kotaku.com/the-13-biggest-video-game-reveals-and-surprises-from-all-of-sgfs-showcases-2000704059</link>
+      <guid isPermaLink="true">https://kotaku.com/the-13-biggest-video-game-reveals-and-surprises-from-all-of-sgfs-showcases-2000704059</guid>
+      <pubDate>2026-06-08T20:48:04Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://kotaku.com/the-13-biggest-video-game-reveals-and-surprises-from-all-of-sgfs-showcases-2000704059">Kotaku</source>
+    </item>
+    <item>
+      <title>Apple Enhances Parental Controls for iPhones</title>
+      <description>Apple introduces new screen time features, giving parents more control over their children's iPhone usage. This aims to improve digital parenting tools.</description>
+      <link>https://techcrunch.com/2026/06/08/apple-puts-parents-back-in-control-of-kids-iphone-use/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/08/apple-puts-parents-back-in-control-of-kids-iphone-use/</guid>
+      <pubDate>2026-06-08T18:07:32Z</pubDate>
+      <category>Software</category>
+      <source url="https://techcrunch.com/2026/06/08/apple-puts-parents-back-in-control-of-kids-iphone-use/">TechCrunch</source>
     </item>
   </channel>
 </rss>
