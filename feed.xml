@@ -5,89 +5,71 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jun 2026 03:36:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 09:57:54 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Apple Unveils Enhanced Siri AI Assistant</title>
-      <description>Apple has launched a new Siri AI, offering improved personal assistance with enhanced context and awareness. This upgrade aims to redefine user interaction with Apple devices.</description>
-      <link>https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/</guid>
-      <pubDate>2026-06-09T03:49:47Z</pubDate>
+      <title>Apple’s iOS 27 Hints at Foldable iPhone</title>
+      <description>iOS 27 reveals features for Apple's upcoming foldable iPhone, showcasing folding hardware and enhancements for flexible displays.</description>
+      <link>https://www.bloomberg.com/news/articles/2026-06-09/apple-s-ios-27-is-filled-with-hints-about-its-upcoming-foldable-iphone</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-06-09/apple-s-ios-27-is-filled-with-hints-about-its-upcoming-foldable-iphone</guid>
+      <pubDate>2026-06-09T02:20:00Z</pubDate>
       <category>Software</category>
-      <source url="https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/">Apple Newsroom</source>
+      <source url="https://www.bloomberg.com/news/articles/2026-06-09/apple-s-ios-27-is-filled-with-hints-about-its-upcoming-foldable-iphone">Bloomberg</source>
     </item>
     <item>
-      <title>Crazy Taxi Producer Addresses AI Controversy</title>
-      <description>The producer of Crazy Taxi: World Tour clarifies the game's AI usage amid fan concerns. The announcement has sparked discussions about AI's role in gaming.</description>
-      <link>https://gameinformer.com/sgf-2026/2026/06/08/crazy-taxi-world-tour-producer-clarifies-ai-use</link>
-      <guid isPermaLink="true">https://gameinformer.com/sgf-2026/2026/06/08/crazy-taxi-world-tour-producer-clarifies-ai-use</guid>
-      <pubDate>2026-06-09T02:16:07Z</pubDate>
+      <title>Top 5 Features of iOS 27 Beta</title>
+      <description>The iOS 27 beta impresses with Liquid Glass improvements and a new extra-large widget option, enhancing user experience.</description>
+      <link>https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things</guid>
+      <pubDate>2026-06-08T23:30:00Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things">The Verge</source>
+    </item>
+    <item>
+      <title>Xbox Employee Denies PS5 Gears of War Rumor</title>
+      <description>An Xbox employee refutes claims about a PS5 logo for Gears of War, asserting the information is false.</description>
+      <link>https://www.purexbox.com/news/2026/06/xbox-employee-responds-to-new-trailer-showing-ps5-logo-for-gears-of-war-e-day</link>
+      <guid isPermaLink="true">https://www.purexbox.com/news/2026/06/xbox-employee-responds-to-new-trailer-showing-ps5-logo-for-gears-of-war-e-day</guid>
+      <pubDate>2026-06-08T23:00:00Z</pubDate>
       <category>Gaming</category>
-      <source url="https://gameinformer.com/sgf-2026/2026/06/08/crazy-taxi-world-tour-producer-clarifies-ai-use">Game Informer</source>
+      <source url="https://www.purexbox.com/news/2026/06/xbox-employee-responds-to-new-trailer-showing-ps5-logo-for-gears-of-war-e-day">Pure Xbox</source>
     </item>
     <item>
-      <title>Instagram Now Allows Profile Grid Reorganization</title>
-      <description>Instagram has rolled out a feature enabling users to rearrange their profile grid freely. This update enhances user customization options.</description>
-      <link>https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid</guid>
-      <pubDate>2026-06-08T23:58:30Z</pubDate>
+      <title>iOS 27 Revamps AirPods Settings</title>
+      <description>The iOS 27 beta introduces a significant redesign of AirPods settings, enhancing user accessibility and functionality.</description>
+      <link>https://9to5mac.com/2026/06/08/ios-27-revamps-airpods-settings-in-a-big-way-heres-the-new-design/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/08/ios-27-revamps-airpods-settings-in-a-big-way-heres-the-new-design/</guid>
+      <pubDate>2026-06-08T21:38:00Z</pubDate>
       <category>Software</category>
-      <source url="https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid">The Verge</source>
+      <source url="https://9to5mac.com/2026/06/08/ios-27-revamps-airpods-settings-in-a-big-way-heres-the-new-design/">9to5Mac</source>
     </item>
     <item>
-      <title>Xbox Leaks Gears of War PS5 Trailer</title>
-      <description>An accidental upload revealed a Gears of War trailer for PS5, causing a stir in the gaming community. Xbox has since addressed the mishap.</description>
-      <link>https://www.pushsquare.com/news/2026/06/whoops-xbox-accidentally-uploads-gears-of-war-ps5-trailer</link>
-      <guid isPermaLink="true">https://www.pushsquare.com/news/2026/06/whoops-xbox-accidentally-uploads-gears-of-war-ps5-trailer</guid>
-      <pubDate>2026-06-08T23:11:03Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.pushsquare.com/news/2026/06/whoops-xbox-accidentally-uploads-gears-of-war-ps5-trailer">Push Square</source>
-    </item>
-    <item>
-      <title>iOS 27 Introduces Exciting New Features</title>
-      <description>Apple's iOS 27 brings features like shared phone numbers and independent alarm volumes. The update enhances user experience across devices.</description>
-      <link>https://www.macrumors.com/2026/06/08/ios-27-tidbits/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/06/08/ios-27-tidbits/</guid>
-      <pubDate>2026-06-08T22:23:03Z</pubDate>
+      <title>Apple Launches watchOS 27 with Siri AI</title>
+      <description>watchOS 27 features Siri AI integration, a dynamic app grid, and enhanced health tracking capabilities for newer Apple Watch models.</description>
+      <link>https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026</guid>
+      <pubDate>2026-06-08T19:34:10Z</pubDate>
       <category>Software</category>
-      <source url="https://www.macrumors.com/2026/06/08/ios-27-tidbits/">MacRumors</source>
+      <source url="https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026">The Verge</source>
     </item>
     <item>
-      <title>Apple Watch Series 9 Supports watchOS 27</title>
-      <description>Apple confirms that watchOS 27 will run on the Apple Watch Series 9, despite dropping support for older models. This ensures continued compatibility for newer users.</description>
-      <link>https://9to5mac.com/2026/06/08/apple-confirms-watchos-27-will-run-on-apple-watch-series-9/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/08/apple-confirms-watchos-27-will-run-on-apple-watch-series-9/</guid>
-      <pubDate>2026-06-08T21:09:00Z</pubDate>
+      <title>Google NotebookLM Upgrades with Gemini 3.5</title>
+      <description>NotebookLM receives a major upgrade with Gemini 3.5 and Antigravity features, currently available for AI Ultra and enterprise accounts only.</description>
+      <link>https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/</link>
+      <guid isPermaLink="true">https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/</guid>
+      <pubDate>2026-06-08T19:00:30Z</pubDate>
+      <category>AI</category>
+      <source url="https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/">Ars Technica</source>
+    </item>
+    <item>
+      <title>macOS 27 'Golden Gate' Introduces Liquid Glass</title>
+      <description>macOS 27 'Golden Gate' features more Liquid Glass enhancements and an updated Siri, improving user experience across devices.</description>
+      <link>https://appleinsider.com/articles/26/06/08/macos-27-golden-gate-delivers-more-liquid-glass-and-updated-siri</link>
+      <guid isPermaLink="true">https://appleinsider.com/articles/26/06/08/macos-27-golden-gate-delivers-more-liquid-glass-and-updated-siri</guid>
+      <pubDate>2026-06-08T18:08:23Z</pubDate>
       <category>Software</category>
-      <source url="https://9to5mac.com/2026/06/08/apple-confirms-watchos-27-will-run-on-apple-watch-series-9/">9to5Mac</source>
-    </item>
-    <item>
-      <title>macOS 27 Requires Apple Silicon Only</title>
-      <description>Apple's macOS 27 will exclusively support Apple Silicon, marking the end of Intel Mac compatibility. This shift emphasizes Apple's transition to its own chips.</description>
-      <link>https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/</link>
-      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/</guid>
-      <pubDate>2026-06-08T21:03:56Z</pubDate>
-      <category>Software</category>
-      <source url="https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Summer Game Fest 2026 Highlights Major Reveals</title>
-      <description>The Summer Game Fest showcased major game trailers, including a new Spyro and Final Fantasy 7 remake updates. Fans are buzzing about the announcements.</description>
-      <link>https://kotaku.com/the-13-biggest-video-game-reveals-and-surprises-from-all-of-sgfs-showcases-2000704059</link>
-      <guid isPermaLink="true">https://kotaku.com/the-13-biggest-video-game-reveals-and-surprises-from-all-of-sgfs-showcases-2000704059</guid>
-      <pubDate>2026-06-08T20:48:04Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://kotaku.com/the-13-biggest-video-game-reveals-and-surprises-from-all-of-sgfs-showcases-2000704059">Kotaku</source>
-    </item>
-    <item>
-      <title>Apple Enhances Parental Controls for iPhones</title>
-      <description>Apple introduces new screen time features, giving parents more control over their children's iPhone usage. This aims to improve digital parenting tools.</description>
-      <link>https://techcrunch.com/2026/06/08/apple-puts-parents-back-in-control-of-kids-iphone-use/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/08/apple-puts-parents-back-in-control-of-kids-iphone-use/</guid>
-      <pubDate>2026-06-08T18:07:32Z</pubDate>
-      <category>Software</category>
-      <source url="https://techcrunch.com/2026/06/08/apple-puts-parents-back-in-control-of-kids-iphone-use/">TechCrunch</source>
+      <source url="https://appleinsider.com/articles/26/06/08/macos-27-golden-gate-delivers-more-liquid-glass-and-updated-siri">AppleInsider</source>
     </item>
   </channel>
 </rss>

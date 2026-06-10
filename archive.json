@@ -1,6 +1,125 @@
 {
   "batches": [
     {
+      "id": "2026-06-10T09:57:38.333463+00:00",
+      "fetched_at": "2026-06-10T09:57:38.333463+00:00",
+      "label": "Jun 10, 2026 — 09:57 AM UTC",
+      "articles": [
+        {
+          "title": "Apple’s iOS 27 Hints at Foldable iPhone",
+          "description": "iOS 27 reveals features for Apple's upcoming foldable iPhone, showcasing folding hardware and enhancements for flexible displays.",
+          "category": "Software",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-09/apple-s-ios-27-is-filled-with-hints-about-its-upcoming-foldable-iphone",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPsZiJEXOpI8/v0/1200x800.jpg",
+          "published_at": "2026-06-09T02:20:00Z",
+          "key_points": [
+            "Foldable iPhone features revealed",
+            "New display enhancements",
+            "Hints in iOS 27 beta"
+          ],
+          "impact": "Apple's foldable iPhone could reshape the market.",
+          "id": "7962d16c95ea0ad1822a1c728feb1a7b"
+        },
+        {
+          "title": "Top 5 Features of iOS 27 Beta",
+          "description": "The iOS 27 beta impresses with Liquid Glass improvements and a new extra-large widget option, enhancing user experience.",
+          "category": "Software",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_560765.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+          "published_at": "2026-06-08T23:30:00Z",
+          "key_points": [
+            "Liquid Glass enhancements",
+            "Extra-large widget option",
+            "Improved icons and design"
+          ],
+          "impact": "iOS 27 beta sets a new standard for usability.",
+          "id": "2a265d5492acbcf0801aa1eb8fa2dc43"
+        },
+        {
+          "title": "Xbox Employee Denies PS5 Gears of War Rumor",
+          "description": "An Xbox employee refutes claims about a PS5 logo for Gears of War, asserting the information is false.",
+          "category": "Gaming",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/06/xbox-employee-responds-to-new-trailer-showing-ps5-logo-for-gears-of-war-e-day",
+          "image": "https://images.purexbox.com/516e488b6a0ac/large.jpg",
+          "published_at": "2026-06-08T23:00:00Z",
+          "key_points": [
+            "Rumor about PS5 logo denied",
+            "Xbox employee clarification",
+            "No official confirmation yet"
+          ],
+          "impact": "Clarification helps maintain Xbox's brand integrity.",
+          "id": "c1e98aa1ded28952aa814b14e17a0677"
+        },
+        {
+          "title": "iOS 27 Revamps AirPods Settings",
+          "description": "The iOS 27 beta introduces a significant redesign of AirPods settings, enhancing user accessibility and functionality.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/08/ios-27-revamps-airpods-settings-in-a-big-way-heres-the-new-design/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/airpods-pro-3-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-08T21:38:00Z",
+          "key_points": [
+            "New AirPods settings design",
+            "Enhanced user experience",
+            "iOS 27 beta features"
+          ],
+          "impact": "Improved settings streamline AirPods management.",
+          "id": "50d578e79e9f7d23eb741ec524845be1"
+        },
+        {
+          "title": "Apple Launches watchOS 27 with Siri AI",
+          "description": "watchOS 27 features Siri AI integration, a dynamic app grid, and enhanced health tracking capabilities for newer Apple Watch models.",
+          "category": "Software",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Apple-Watch-watchOS-27-Siri-AI.jpg?quality=90&strip=all&crop=0,14.033409967608,100,71.933180064785",
+          "published_at": "2026-06-08T19:34:10Z",
+          "key_points": [
+            "Siri AI integration",
+            "Dynamic app grid",
+            "Health tracking improvements"
+          ],
+          "impact": "watchOS 27 enhances user interaction and health monitoring.",
+          "id": "6f89ab7c98e87ef52ca5c9f071b26e50"
+        },
+        {
+          "title": "Google NotebookLM Upgrades with Gemini 3.5",
+          "description": "NotebookLM receives a major upgrade with Gemini 3.5 and Antigravity features, currently available for AI Ultra and enterprise accounts only.",
+          "category": "AI",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-notebooklm-1152x630.jpg",
+          "published_at": "2026-06-08T19:00:30Z",
+          "key_points": [
+            "NotebookLM major upgrade",
+            "New Gemini 3.5 features",
+            "Limited to enterprise accounts"
+          ],
+          "impact": "Upgrade enhances AI capabilities for enterprise users.",
+          "id": "6bb3bfca033c4a3689d4c48a5829f17f"
+        },
+        {
+          "title": "macOS 27 'Golden Gate' Introduces Liquid Glass",
+          "description": "macOS 27 'Golden Gate' features more Liquid Glass enhancements and an updated Siri, improving user experience across devices.",
+          "category": "Software",
+          "source": "AppleInsider",
+          "url": "https://appleinsider.com/articles/26/06/08/macos-27-golden-gate-delivers-more-liquid-glass-and-updated-siri",
+          "image": "",
+          "published_at": "2026-06-08T18:08:23Z",
+          "key_points": [
+            "Liquid Glass enhancements",
+            "Updated Siri features",
+            "Improved user experience"
+          ],
+          "impact": "macOS 27 enhances functionality and aesthetics.",
+          "id": "9d77c55d41d4f7f1aeb8edbea0a5e281"
+        }
+      ]
+    },
+    {
       "id": "2026-06-10T03:36:27.050922+00:00",
       "fetched_at": "2026-06-10T03:36:27.050922+00:00",
       "label": "Jun 10, 2026 — 03:36 AM UTC",
@@ -5608,205 +5727,6 @@
           ],
           "impact": "This excites fans for upcoming Switch 2 titles.",
           "id": "19b113ec99c86c930fcf43de420fad74"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-05T09:46:15.812900+00:00",
-      "fetched_at": "2026-06-05T09:46:15.812900+00:00",
-      "label": "Jun 05, 2026 — 09:46 AM UTC",
-      "articles": [
-        {
-          "title": "Nvidia Expands AI Reach to Laptops",
-          "description": "Nvidia enters the laptop market, challenging Apple, Intel, AMD, and Qualcomm in the AI space. This move signifies a new competitive front in the tech industry.",
-          "category": "AI",
-          "source": "Financial Times",
-          "url": "https://www.ft.com/content/4db277bf-e67b-473d-a75e-e358fb31f69b?syn-25a6b1a6\\u003d1",
-          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0af7516f-a1fd-4f7d-80ee-fcf988dd0745.jpg?source=next-barrier-page",
-          "published_at": "2026-06-04T04:01:40Z",
-          "key_points": [
-            "Nvidia targets laptop market",
-            "Competes with major chipmakers",
-            "AI capabilities expanded"
-          ],
-          "impact": "Nvidia's move reshapes the laptop AI landscape.",
-          "id": "44a521729dea147286cd052eeca09b1f"
-        },
-        {
-          "title": "Google AI Edge Gallery Now on macOS",
-          "description": "Google launches AI Edge Gallery for macOS, enabling local Gemini model execution. The update includes the Gemma 4 12B model and Eloquent dictation app.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/03/google-ai-edge-gallery-launches-to-macos-letting-mac-users-run-gemini-models-locally/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/google-ai-edge-gallery.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-04T02:58:00Z",
-          "key_points": [
-            "AI models run locally",
-            "New dictation app released",
-            "Gemma 4 model introduced"
-          ],
-          "impact": "Mac users gain powerful AI capabilities locally.",
-          "id": "2edea5e552c4f131a1cdafe94dc74954"
-        },
-        {
-          "title": "Apple to Use Nvidia Chips for Siri",
-          "description": "Apple plans to integrate Nvidia chips into the new Gemini-powered Siri, enhancing its functionality. This collaboration marks a significant shift in Siri's architecture.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/03/report-details-apples-plan-to-use-nvidia-chips-for-the-gemini-powered-siri/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/siri.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-04T00:25:00Z",
-          "key_points": [
-            "Nvidia chips enhance Siri",
-            "Gemini architecture revealed",
-            "Apple's tech strategy evolves"
-          ],
-          "impact": "Siri's performance is set to improve significantly.",
-          "id": "83fa44349b1353170063a231653f3bcf"
-        },
-        {
-          "title": "Pixel 11 Series May Feature New Colors",
-          "description": "Rumors suggest Google will introduce unexpected color options for the Pixel 11 series. This could attract more consumers to the new devices.",
-          "category": "Business",
-          "source": "PhoneArena",
-          "url": "https://www.phonearena.com/news/google-may-have-surprising-new-colors-for-the-pixel-11-series-phones_id180857",
-          "image": "",
-          "published_at": "2026-06-04T00:19:40Z",
-          "key_points": [
-            "New colors for Pixel 11",
-            "Consumer interest anticipated",
-            "Google's design strategy shifts"
-          ],
-          "impact": "Color variety may boost Pixel 11 sales.",
-          "id": "b4eb579f7b6a31d6d36b72c4b09c1e63"
-        },
-        {
-          "title": "Nintendo Switch 2 to Feature Replaceable Battery",
-          "description": "Nintendo confirms the Switch 2 will have a replaceable battery in the EU, complying with new regulations. This change aims to enhance user convenience.",
-          "category": "Gaming",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0093_0ea1cb.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-06-04T00:04:00Z",
-          "key_points": [
-            "Switch 2 has replaceable battery",
-            "Complies with EU regulations",
-            "User-friendly design feature"
-          ],
-          "impact": "This feature enhances the Switch 2's appeal.",
-          "id": "8beeef1d02207cd7b9850c10b71c6d33"
-        },
-        {
-          "title": "Samsung Galaxy Watch Update Enhances Health Features",
-          "description": "Samsung announces a major update for the Galaxy Watch, transforming it into a proactive health companion. The update rolls out on June 8.",
-          "category": "Hardware",
-          "source": "samsung.com",
-          "url": "https://news.samsung.com/global/samsung-introduces-next-gen-galaxy-watch-features-for-ai-powered-everyday-health-companion",
-          "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/06/02162806/Samsung-Mobile-Next-Gen-Galaxy-Watch-AI-Powered-Health-Companion-Thumb932.jpg",
-          "published_at": "2026-06-03T23:00:00Z",
-          "key_points": [
-            "Galaxy Watch becomes health companion",
-            "Major app update announced",
-            "AI features integrated"
-          ],
-          "impact": "Samsung enhances user health monitoring capabilities.",
-          "id": "2d696ee13d534087928b72a67cefa0df"
-        },
-        {
-          "title": "New AI-Powered Worm Raises Cybersecurity Concerns",
-          "description": "Researchers develop an AI-powered worm that adapts to targets, posing new cybersecurity threats. This innovation could change defense strategies.",
-          "category": "Security",
-          "source": "Fortune",
-          "url": "https://fortune.com/2026/06/03/a-new-ai-powered-computer-worm-could-prove-to-be-the-stuff-of-cybersecurity-nightmares/",
-          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-1346756826-e1780502054264.jpg?resize=1200,600",
-          "published_at": "2026-06-03T17:42:00Z",
-          "key_points": [
-            "AI worm adapts to targets",
-            "New cybersecurity threat emerges",
-            "Defense strategies may change"
-          ],
-          "impact": "This worm could revolutionize cybersecurity challenges.",
-          "id": "3e5544df3dc6f2e72573372670c97a30"
-        },
-        {
-          "title": "Microsoft Aims to Make Users Addicted to AI",
-          "description": "Internal documents reveal Microsoft's strategy to make users addicted to its AI personal assistant. This raises ethical concerns about user engagement.",
-          "category": "Business",
-          "source": "Futurism",
-          "url": "https://futurism.com/artificial-intelligence/microsoft-plots-addicted-to-its-ai",
-          "image": "https://futurism.com/wp-content/uploads/2026/06/microsoft-plots-addicted-to-its-ai.jpg?w=1200",
-          "published_at": "2026-06-03T17:04:04Z",
-          "key_points": [
-            "Microsoft targets AI user engagement",
-            "Ethical concerns arise",
-            "Addiction strategy revealed"
-          ],
-          "impact": "This strategy may spark ethical debates in tech.",
-          "id": "2e7d1c5f828ca2e0a3c0554badf64136"
-        },
-        {
-          "title": "Control Resonant Early Access Exclusive to PS5",
-          "description": "Control Resonant's early access is exclusive to PS5, despite being available on Xbox. This raises questions about platform exclusivity.",
-          "category": "Gaming",
-          "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/news/2026/06/control-resonant-early-access-is-exclusive-to-ps5-but-at-least-we-get-play-anywhere-on-xbox",
-          "image": "https://images.purexbox.com/79dcff8005afe/large.jpg",
-          "published_at": "2026-06-03T15:55:00Z",
-          "key_points": [
-            "Early access exclusive to PS5",
-            "Xbox users get Play Anywhere",
-            "Platform exclusivity questioned"
-          ],
-          "impact": "Exclusivity may influence gaming platform choices.",
-          "id": "925324ef25b143751f4b08e262339d9e"
-        },
-        {
-          "title": "LEGO Batman Game Launches on Switch 2",
-          "description": "LEGO Batman: Legacy of the Dark Knight will launch on Nintendo Switch 2 on September 18, 2026. A new trailer has been released.",
-          "category": "Gaming",
-          "source": "Nintendoeverything.com",
-          "url": "https://nintendoeverything.com/lego-batman-legacy-of-the-dark-knight-reveals-nintendo-switch-2-release-date-new-trailer/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/LEGO-Batman-Legacy-of-the-Dark-Knight-release-date-Switch-2.jpg",
-          "published_at": "2026-06-03T15:08:15Z",
-          "key_points": [
-            "LEGO Batman game release date announced",
-            "New trailer revealed",
-            "Switch 2 gets exclusive title"
-          ],
-          "impact": "This title boosts Switch 2's game lineup.",
-          "id": "ea764d828b6d4eb004d97b3cbc12ddcb"
-        },
-        {
-          "title": "Microsoft Promotes Native Windows Apps at Build 2026",
-          "description": "At Build 2026, Microsoft emphasizes the importance of native Windows apps, moving developers away from web wrappers. New tools and hardware support this shift.",
-          "category": "Software",
-          "source": "Windows Central",
-          "url": "https://www.windowscentral.com/software-apps/microsoft-drives-developers-toward-native-windows-apps-at-build-2026",
-          "image": "https://cdn.mos.cms.futurecdn.net/jhjtcm3UCiV2Z7YrXkcGrb-2560-80.jpg",
-          "published_at": "2026-06-03T15:00:00Z",
-          "key_points": [
-            "Focus on native Windows apps",
-            "Developers encouraged to adapt",
-            "New tools introduced"
-          ],
-          "impact": "This shift may enhance Windows app performance.",
-          "id": "7e2019f7c2f32a6a5f74112ecfbde71d"
-        },
-        {
-          "title": "F1 25: 2026 Season Pack Review",
-          "description": "The 2026 Season Pack for F1 25 includes all teams and drivers, featuring new hybrid regulations. It's a must-have for completionists.",
-          "category": "Gaming",
-          "source": "Traxion.GG",
-          "url": "https://traxion.gg/f1-25-2026-season-pack-review/",
-          "image": "https://traxion.gg/wp-content/uploads/2026/06/F125_2026SeasonPack_FI.jpg",
-          "published_at": "2026-06-03T15:00:00Z",
-          "key_points": [
-            "Includes all teams and drivers",
-            "Features new hybrid regulations",
-            "Essential for racing fans"
-          ],
-          "impact": "This pack enhances the F1 25 gaming experience.",
-          "id": "d75dd874f49a4e854539c3649ede6807"
         }
       ]
     }
