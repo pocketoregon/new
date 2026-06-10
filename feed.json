@@ -1,117 +1,245 @@
 {
-  "generated_at": "2026-06-10T09:57:38.333463+00:00",
+  "generated_at": "2026-06-10T15:32:00.457926+00:00",
   "articles": [
     {
-      "title": "Apple’s iOS 27 Hints at Foldable iPhone",
-      "description": "iOS 27 reveals features for Apple's upcoming foldable iPhone, showcasing folding hardware and enhancements for flexible displays.",
-      "category": "Software",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-09/apple-s-ios-27-is-filled-with-hints-about-its-upcoming-foldable-iphone",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPsZiJEXOpI8/v0/1200x800.jpg",
-      "published_at": "2026-06-09T02:20:00Z",
-      "key_points": [
-        "Foldable iPhone features revealed",
-        "New display enhancements",
-        "Hints in iOS 27 beta"
-      ],
-      "impact": "Apple's foldable iPhone could reshape the market.",
-      "id": "7962d16c95ea0ad1822a1c728feb1a7b"
-    },
-    {
-      "title": "Top 5 Features of iOS 27 Beta",
-      "description": "The iOS 27 beta impresses with Liquid Glass improvements and a new extra-large widget option, enhancing user experience.",
-      "category": "Software",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_560765.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "published_at": "2026-06-08T23:30:00Z",
-      "key_points": [
-        "Liquid Glass enhancements",
-        "Extra-large widget option",
-        "Improved icons and design"
-      ],
-      "impact": "iOS 27 beta sets a new standard for usability.",
-      "id": "2a265d5492acbcf0801aa1eb8fa2dc43"
-    },
-    {
-      "title": "Xbox Employee Denies PS5 Gears of War Rumor",
-      "description": "An Xbox employee refutes claims about a PS5 logo for Gears of War, asserting the information is false.",
+      "title": "Zelda: Ocarina of Time Remake for Switch 2",
+      "description": "Nintendo confirms the remake of The Legend of Zelda: Ocarina of Time for Switch 2, set to launch in 2026. Fans can expect a nostalgic yet refreshed experience.",
       "category": "Gaming",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/06/xbox-employee-responds-to-new-trailer-showing-ps5-logo-for-gears-of-war-e-day",
-      "image": "https://images.purexbox.com/516e488b6a0ac/large.jpg",
-      "published_at": "2026-06-08T23:00:00Z",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-revealed-for-nintendo-switch-2",
+      "image": "https://assets-prd.ignimgs.com/2023/11/21/ocarina-of-time-blogroll-1700570336021.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-09T15:14:14Z",
       "key_points": [
-        "Rumor about PS5 logo denied",
-        "Xbox employee clarification",
-        "No official confirmation yet"
+        "Remake confirmed for Switch 2",
+        "Launch set for 2026",
+        "Nostalgic gameplay experience"
       ],
-      "impact": "Clarification helps maintain Xbox's brand integrity.",
-      "id": "c1e98aa1ded28952aa814b14e17a0677"
+      "impact": "This remake revives a classic for new audiences.",
+      "id": "827ddec1d5ea8a13f396f7b7c3ad8ebc"
     },
     {
-      "title": "iOS 27 Revamps AirPods Settings",
-      "description": "The iOS 27 beta introduces a significant redesign of AirPods settings, enhancing user accessibility and functionality.",
+      "title": "iOS 27 Features Unveiled",
+      "description": "iOS 27 introduces minor enhancements for iPhone users, focusing on usability rather than major changes. New features aim to streamline everyday tasks.",
+      "category": "Software",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/09/ios-27-features-we-didnt-see-on-stage/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/hero-vx-ios_2x.jpeg?resize=1200,675",
+      "published_at": "2026-06-09T15:06:12Z",
+      "key_points": [
+        "Minor enhancements for usability",
+        "Focus on everyday tasks",
+        "No major changes introduced"
+      ],
+      "impact": "iOS 27 improves user experience subtly.",
+      "id": "b24e4f048d0e58c476ad7940ae4d1fbe"
+    },
+    {
+      "title": "Kingdom Hearts Collection Announced",
+      "description": "Square Enix reveals Kingdom Hearts Collection [I ~ III] for PS5, Xbox Series, and Switch 2, featuring beloved titles. Fans can expect nostalgic gameplay.",
+      "category": "Gaming",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/kingdom-hearts-collection-i-iii-announced-for-ps5-xbox-series-and-switch-2",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/KHC-Ann_06-09-26.jpg",
+      "published_at": "2026-06-09T14:54:49Z",
+      "key_points": [
+        "Collection includes classic titles",
+        "Available on multiple platforms",
+        "Nostalgic gameplay experience"
+      ],
+      "impact": "This collection brings classic games to new consoles.",
+      "id": "cb93fb5cd8b47f8b4e0bc3dc5cd69c44"
+    },
+    {
+      "title": "macOS 27 Alerts Background Apps",
+      "description": "macOS 27 Golden Gate enhances user awareness by notifying when apps run in the background. This aims to improve transparency and security.",
       "category": "Software",
       "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/08/ios-27-revamps-airpods-settings-in-a-big-way-heres-the-new-design/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/airpods-pro-3-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-08T21:38:00Z",
+      "url": "https://9to5mac.com/2026/06/09/macos-27-golden-gate-makes-it-clear-when-apps-are-sneakily-running-in-background/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/gemini-mac.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-09T14:09:00Z",
       "key_points": [
-        "New AirPods settings design",
-        "Enhanced user experience",
-        "iOS 27 beta features"
+        "Notifies users of background apps",
+        "Improves transparency",
+        "Enhances security measures"
       ],
-      "impact": "Improved settings streamline AirPods management.",
-      "id": "50d578e79e9f7d23eb741ec524845be1"
+      "impact": "macOS 27 boosts user control over apps.",
+      "id": "e1ee218eb26e25cd16c0ec0dc350932a"
     },
     {
-      "title": "Apple Launches watchOS 27 with Siri AI",
-      "description": "watchOS 27 features Siri AI integration, a dynamic app grid, and enhanced health tracking capabilities for newer Apple Watch models.",
+      "title": "Apple WWDC 2026 Keynote Updates",
+      "description": "Mashable provides live updates from Apple's WWDC 2026, covering announcements about iOS 27 and Siri. Stay tuned for real-time news.",
       "category": "Software",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Apple-Watch-watchOS-27-Siri-AI.jpg?quality=90&strip=all&crop=0,14.033409967608,100,71.933180064785",
-      "published_at": "2026-06-08T19:34:10Z",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/apple-wwdc-2026-keynote-live-updates",
+      "image": "https://helios-i.mashable.com/imagery/live_blogs/06XLLDMWqePQxZQ6Mc0kqMS/desktop_banner_image.fill.size_1200x675.v1780700508.jpg",
+      "published_at": "2026-06-09T12:23:00Z",
       "key_points": [
-        "Siri AI integration",
-        "Dynamic app grid",
-        "Health tracking improvements"
+        "Live updates from WWDC 2026",
+        "Focus on iOS 27 and Siri",
+        "Real-time news coverage"
       ],
-      "impact": "watchOS 27 enhances user interaction and health monitoring.",
-      "id": "6f89ab7c98e87ef52ca5c9f071b26e50"
+      "impact": "WWDC 2026 showcases Apple's latest innovations.",
+      "id": "437be07c9ca0faa6c6c540cfd062a61c"
     },
     {
-      "title": "Google NotebookLM Upgrades with Gemini 3.5",
-      "description": "NotebookLM receives a major upgrade with Gemini 3.5 and Antigravity features, currently available for AI Ultra and enterprise accounts only.",
-      "category": "AI",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-notebooklm-1152x630.jpg",
-      "published_at": "2026-06-08T19:00:30Z",
+      "title": "Nvidia Targets CPU Market",
+      "description": "Nvidia is expanding into the CPU market, challenging AMD and Intel's dominance. This move could disrupt the current landscape significantly.",
+      "category": "Business",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/06/08/nvidia-is-doubling-down-on-the-cpu-market-thats-ba/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F873412%2Fnvidia-data-center-with-nvidia-units-installed-showing-nvidia-logo.png&w=1200&op=resize",
+      "published_at": "2026-06-09T01:49:00Z",
       "key_points": [
-        "NotebookLM major upgrade",
-        "New Gemini 3.5 features",
-        "Limited to enterprise accounts"
+        "Nvidia enters CPU market",
+        "Challenges AMD and Intel",
+        "Potential market disruption"
       ],
-      "impact": "Upgrade enhances AI capabilities for enterprise users.",
-      "id": "6bb3bfca033c4a3689d4c48a5829f17f"
+      "impact": "Nvidia's move could reshape CPU competition.",
+      "id": "2d88aeb6257f1bd75d4c1ad91262a721"
     },
     {
-      "title": "macOS 27 'Golden Gate' Introduces Liquid Glass",
-      "description": "macOS 27 'Golden Gate' features more Liquid Glass enhancements and an updated Siri, improving user experience across devices.",
+      "title": "iOS 27 Features Android Already Has",
+      "description": "Android users note that several features in iOS 27 have been available on their platform for years. Apple continues to follow trends.",
+      "category": "Software",
+      "source": "Android Central",
+      "url": "https://www.androidcentral.com/apps-software/4-of-the-best-ios-27-features-android-already-has",
+      "image": "https://cdn.mos.cms.futurecdn.net/mPBjLhkr9fMMFqbtY2fofM-2048-80.jpg",
+      "published_at": "2026-06-08T22:31:01Z",
+      "key_points": [
+        "iOS 27 lags behind Android",
+        "Features are not new",
+        "Apple follows existing trends"
+      ],
+      "impact": "iOS 27 highlights Apple's reactive approach.",
+      "id": "4675bf3fcfca900e96126d2fa0d682cb"
+    },
+    {
+      "title": "Hints of a Folding iPhone in iOS 27",
+      "description": "iOS 27 code reveals potential features of an upcoming folding iPhone, including subroutines for its folding mechanism. Excitement builds for the new device.",
       "category": "Software",
       "source": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/06/08/macos-27-golden-gate-delivers-more-liquid-glass-and-updated-siri",
-      "image": "",
-      "published_at": "2026-06-08T18:08:23Z",
+      "url": "https://appleinsider.com/articles/26/06/08/ios-27-code-has-clear-signs-that-a-folding-iphone-is-coming-soon",
+      "image": "https://photos5.appleinsider.com/gallery/67890-143098-Squat-Fold-8-xl.jpg",
+      "published_at": "2026-06-08T21:59:00Z",
       "key_points": [
-        "Liquid Glass enhancements",
-        "Updated Siri features",
-        "Improved user experience"
+        "Code hints at folding iPhone",
+        "Subroutines for folding mechanism",
+        "Excitement for new device"
       ],
-      "impact": "macOS 27 enhances functionality and aesthetics.",
-      "id": "9d77c55d41d4f7f1aeb8edbea0a5e281"
+      "impact": "A folding iPhone could revolutionize design.",
+      "id": "1eaa46f869724b47a30f862f510a4df2"
+    },
+    {
+      "title": "Apple Intelligence Automates Password Changes",
+      "description": "Apple's new feature allows automatic password changes when a user is hacked, enhancing security. This could significantly improve user safety.",
+      "category": "Security",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/apple-intelligence-can-change-your-passwords-for-you-when-you-get-hacked-2000769041",
+      "image": "https://gizmodo.com/app/uploads/2026/03/Apple-iPhone-17e-6-1200x675.jpg",
+      "published_at": "2026-06-08T21:25:21Z",
+      "key_points": [
+        "Automates password changes",
+        "Enhances user security",
+        "Addresses hacking concerns"
+      ],
+      "impact": "This feature significantly boosts online safety.",
+      "id": "7c63de328ddb0ac703a1e1897bc0b5e5"
+    },
+    {
+      "title": "tvOS 27 Drops Support for Older Models",
+      "description": "tvOS 27 will not support two older Apple TV models, marking a shift in compatibility. Users need to upgrade for the latest features.",
+      "category": "Software",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/08/tvos-27-drops-support-for-two-apple-tv-models/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tv-4k-tvos-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-08T19:53:00Z",
+      "key_points": [
+        "tvOS 27 drops older models",
+        "Compatibility shift announced",
+        "Users must upgrade devices"
+      ],
+      "impact": "Users need to adapt to new compatibility.",
+      "id": "846f6c531ee12fa310903527680fd02f"
+    },
+    {
+      "title": "AI Workflows in Apple Shortcuts",
+      "description": "Apple's Shortcuts app now allows users to create workflows using AI prompts, enhancing usability. This feature aims to simplify automation tasks.",
+      "category": "Software",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/shortcuts-at-2.26.16-PM.jpg?resize=1200,666",
+      "published_at": "2026-06-08T18:45:12Z",
+      "key_points": [
+        "AI enhances Shortcuts app",
+        "Simplifies workflow creation",
+        "User-friendly automation"
+      ],
+      "impact": "AI integration boosts Shortcuts usability.",
+      "id": "a6f495cb508bb46ea833a7dc8b92fdff"
+    },
+    {
+      "title": "visionOS 27 with Siri AI Announced",
+      "description": "Apple introduces visionOS 27 featuring Siri AI, curved app windows, and panorama support for Vision Pro. This update enhances mixed reality experiences.",
+      "category": "Software",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/944129/apple-visionos-updates-wwdc-2026",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/wwdc2026-visionos27.png?quality=90&strip=all&crop=0%2C9.6904971505351%2C100%2C80.61900569893&w=1200",
+      "published_at": "2026-06-08T18:32:00Z",
+      "key_points": [
+        "visionOS 27 announced",
+        "Features Siri AI integration",
+        "Enhances mixed reality experience"
+      ],
+      "impact": "visionOS 27 elevates mixed reality capabilities.",
+      "id": "70b06dd5523822c4539b30e8bbc2d9f7"
+    },
+    {
+      "title": "AI Tools Coming to Apple Photos",
+      "description": "Apple introduces AI-powered editing tools in the Photos app, enhancing user experience with features like Cleanup and Spatial Reframing. This update aims to simplify photo management.",
+      "category": "Software",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/08/apple-ai-reframing-and-editing-tools-in-photos/",
+      "image": "https://images.macrumors.com/t/UBxsuOhT1UNVy8rsUwHL57mCiuE=/1600x/article-new/2026/06/apple-intelligence-photos-tools.jpg",
+      "published_at": "2026-06-08T18:16:32Z",
+      "key_points": [
+        "AI tools enhance Photos app",
+        "New editing features introduced",
+        "Simplifies photo management"
+      ],
+      "impact": "AI tools improve user photo editing experience.",
+      "id": "9dd25980031fef0921e6f26a1a6bd9bd"
+    },
+    {
+      "title": "Apple Expands App Store Capabilities",
+      "description": "Apple enhances App Store features to help developers grow and reach new users. This initiative aims to improve app marketing and user acquisition.",
+      "category": "Business",
+      "source": "Apple",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-expands-app-store-capabilities-to-help-developers-grow-and-reach-new-users/",
+      "image": "https://www.apple.com/newsroom/images/2026/06/apple-expands-app-store-capabilities-to-help-developers-grow-and-reach-new-users/tile/Apple-App-Store-hero-260608-lp.jpg.og.jpg?202606091301",
+      "published_at": "2026-06-08T18:14:13Z",
+      "key_points": [
+        "New App Store features announced",
+        "Supports developer growth",
+        "Enhances user acquisition strategies"
+      ],
+      "impact": "This expansion aids developers in reaching audiences.",
+      "id": "d924ac8104ee618e7989a98adfd5f021"
+    },
+    {
+      "title": "Custom EQ Coming to AirPods",
+      "description": "Apple announces a custom EQ feature for AirPods, allowing users to personalize sound settings. This update enhances audio experience for users.",
+      "category": "Software",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/08/apple-to-bring-custom-eq-to-airpods/",
+      "image": "https://images.macrumors.com/t/mk0uyPXtuIoRafjIpKjQ6LGdsi8=/1600x/article-new/2026/06/airpods-eq.jpg",
+      "published_at": "2026-06-08T17:29:27Z",
+      "key_points": [
+        "Custom EQ feature announced",
+        "Personalizes AirPods sound",
+        "Enhances audio experience"
+      ],
+      "impact": "Custom EQ improves user audio personalization.",
+      "id": "0379803fb8cd429607856f7261a88987"
     }
   ]
 }

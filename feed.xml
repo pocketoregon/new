@@ -5,71 +5,143 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jun 2026 09:57:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 15:32:32 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Apple’s iOS 27 Hints at Foldable iPhone</title>
-      <description>iOS 27 reveals features for Apple's upcoming foldable iPhone, showcasing folding hardware and enhancements for flexible displays.</description>
-      <link>https://www.bloomberg.com/news/articles/2026-06-09/apple-s-ios-27-is-filled-with-hints-about-its-upcoming-foldable-iphone</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-06-09/apple-s-ios-27-is-filled-with-hints-about-its-upcoming-foldable-iphone</guid>
-      <pubDate>2026-06-09T02:20:00Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.bloomberg.com/news/articles/2026-06-09/apple-s-ios-27-is-filled-with-hints-about-its-upcoming-foldable-iphone">Bloomberg</source>
-    </item>
-    <item>
-      <title>Top 5 Features of iOS 27 Beta</title>
-      <description>The iOS 27 beta impresses with Liquid Glass improvements and a new extra-large widget option, enhancing user experience.</description>
-      <link>https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things</guid>
-      <pubDate>2026-06-08T23:30:00Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things">The Verge</source>
-    </item>
-    <item>
-      <title>Xbox Employee Denies PS5 Gears of War Rumor</title>
-      <description>An Xbox employee refutes claims about a PS5 logo for Gears of War, asserting the information is false.</description>
-      <link>https://www.purexbox.com/news/2026/06/xbox-employee-responds-to-new-trailer-showing-ps5-logo-for-gears-of-war-e-day</link>
-      <guid isPermaLink="true">https://www.purexbox.com/news/2026/06/xbox-employee-responds-to-new-trailer-showing-ps5-logo-for-gears-of-war-e-day</guid>
-      <pubDate>2026-06-08T23:00:00Z</pubDate>
+      <title>Zelda: Ocarina of Time Remake for Switch 2</title>
+      <description>Nintendo confirms the remake of The Legend of Zelda: Ocarina of Time for Switch 2, set to launch in 2026. Fans can expect a nostalgic yet refreshed experience.</description>
+      <link>https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-revealed-for-nintendo-switch-2</link>
+      <guid isPermaLink="true">https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-revealed-for-nintendo-switch-2</guid>
+      <pubDate>2026-06-09T15:14:14Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.purexbox.com/news/2026/06/xbox-employee-responds-to-new-trailer-showing-ps5-logo-for-gears-of-war-e-day">Pure Xbox</source>
+      <source url="https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-revealed-for-nintendo-switch-2">IGN</source>
     </item>
     <item>
-      <title>iOS 27 Revamps AirPods Settings</title>
-      <description>The iOS 27 beta introduces a significant redesign of AirPods settings, enhancing user accessibility and functionality.</description>
-      <link>https://9to5mac.com/2026/06/08/ios-27-revamps-airpods-settings-in-a-big-way-heres-the-new-design/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/08/ios-27-revamps-airpods-settings-in-a-big-way-heres-the-new-design/</guid>
-      <pubDate>2026-06-08T21:38:00Z</pubDate>
+      <title>iOS 27 Features Unveiled</title>
+      <description>iOS 27 introduces minor enhancements for iPhone users, focusing on usability rather than major changes. New features aim to streamline everyday tasks.</description>
+      <link>https://techcrunch.com/2026/06/09/ios-27-features-we-didnt-see-on-stage/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/09/ios-27-features-we-didnt-see-on-stage/</guid>
+      <pubDate>2026-06-09T15:06:12Z</pubDate>
       <category>Software</category>
-      <source url="https://9to5mac.com/2026/06/08/ios-27-revamps-airpods-settings-in-a-big-way-heres-the-new-design/">9to5Mac</source>
+      <source url="https://techcrunch.com/2026/06/09/ios-27-features-we-didnt-see-on-stage/">TechCrunch</source>
     </item>
     <item>
-      <title>Apple Launches watchOS 27 with Siri AI</title>
-      <description>watchOS 27 features Siri AI integration, a dynamic app grid, and enhanced health tracking capabilities for newer Apple Watch models.</description>
-      <link>https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026</guid>
-      <pubDate>2026-06-08T19:34:10Z</pubDate>
+      <title>Kingdom Hearts Collection Announced</title>
+      <description>Square Enix reveals Kingdom Hearts Collection [I ~ III] for PS5, Xbox Series, and Switch 2, featuring beloved titles. Fans can expect nostalgic gameplay.</description>
+      <link>https://www.gematsu.com/2026/06/kingdom-hearts-collection-i-iii-announced-for-ps5-xbox-series-and-switch-2</link>
+      <guid isPermaLink="true">https://www.gematsu.com/2026/06/kingdom-hearts-collection-i-iii-announced-for-ps5-xbox-series-and-switch-2</guid>
+      <pubDate>2026-06-09T14:54:49Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.gematsu.com/2026/06/kingdom-hearts-collection-i-iii-announced-for-ps5-xbox-series-and-switch-2">Gematsu</source>
+    </item>
+    <item>
+      <title>macOS 27 Alerts Background Apps</title>
+      <description>macOS 27 Golden Gate enhances user awareness by notifying when apps run in the background. This aims to improve transparency and security.</description>
+      <link>https://9to5mac.com/2026/06/09/macos-27-golden-gate-makes-it-clear-when-apps-are-sneakily-running-in-background/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/09/macos-27-golden-gate-makes-it-clear-when-apps-are-sneakily-running-in-background/</guid>
+      <pubDate>2026-06-09T14:09:00Z</pubDate>
       <category>Software</category>
-      <source url="https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026">The Verge</source>
+      <source url="https://9to5mac.com/2026/06/09/macos-27-golden-gate-makes-it-clear-when-apps-are-sneakily-running-in-background/">9to5Mac</source>
     </item>
     <item>
-      <title>Google NotebookLM Upgrades with Gemini 3.5</title>
-      <description>NotebookLM receives a major upgrade with Gemini 3.5 and Antigravity features, currently available for AI Ultra and enterprise accounts only.</description>
-      <link>https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/</link>
-      <guid isPermaLink="true">https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/</guid>
-      <pubDate>2026-06-08T19:00:30Z</pubDate>
-      <category>AI</category>
-      <source url="https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/">Ars Technica</source>
-    </item>
-    <item>
-      <title>macOS 27 'Golden Gate' Introduces Liquid Glass</title>
-      <description>macOS 27 'Golden Gate' features more Liquid Glass enhancements and an updated Siri, improving user experience across devices.</description>
-      <link>https://appleinsider.com/articles/26/06/08/macos-27-golden-gate-delivers-more-liquid-glass-and-updated-siri</link>
-      <guid isPermaLink="true">https://appleinsider.com/articles/26/06/08/macos-27-golden-gate-delivers-more-liquid-glass-and-updated-siri</guid>
-      <pubDate>2026-06-08T18:08:23Z</pubDate>
+      <title>Apple WWDC 2026 Keynote Updates</title>
+      <description>Mashable provides live updates from Apple's WWDC 2026, covering announcements about iOS 27 and Siri. Stay tuned for real-time news.</description>
+      <link>https://mashable.com/tech/apple-wwdc-2026-keynote-live-updates</link>
+      <guid isPermaLink="true">https://mashable.com/tech/apple-wwdc-2026-keynote-live-updates</guid>
+      <pubDate>2026-06-09T12:23:00Z</pubDate>
       <category>Software</category>
-      <source url="https://appleinsider.com/articles/26/06/08/macos-27-golden-gate-delivers-more-liquid-glass-and-updated-siri">AppleInsider</source>
+      <source url="https://mashable.com/tech/apple-wwdc-2026-keynote-live-updates">Mashable</source>
+    </item>
+    <item>
+      <title>Nvidia Targets CPU Market</title>
+      <description>Nvidia is expanding into the CPU market, challenging AMD and Intel's dominance. This move could disrupt the current landscape significantly.</description>
+      <link>https://www.fool.com/investing/2026/06/08/nvidia-is-doubling-down-on-the-cpu-market-thats-ba/</link>
+      <guid isPermaLink="true">https://www.fool.com/investing/2026/06/08/nvidia-is-doubling-down-on-the-cpu-market-thats-ba/</guid>
+      <pubDate>2026-06-09T01:49:00Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.fool.com/investing/2026/06/08/nvidia-is-doubling-down-on-the-cpu-market-thats-ba/">Motley Fool</source>
+    </item>
+    <item>
+      <title>iOS 27 Features Android Already Has</title>
+      <description>Android users note that several features in iOS 27 have been available on their platform for years. Apple continues to follow trends.</description>
+      <link>https://www.androidcentral.com/apps-software/4-of-the-best-ios-27-features-android-already-has</link>
+      <guid isPermaLink="true">https://www.androidcentral.com/apps-software/4-of-the-best-ios-27-features-android-already-has</guid>
+      <pubDate>2026-06-08T22:31:01Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.androidcentral.com/apps-software/4-of-the-best-ios-27-features-android-already-has">Android Central</source>
+    </item>
+    <item>
+      <title>Hints of a Folding iPhone in iOS 27</title>
+      <description>iOS 27 code reveals potential features of an upcoming folding iPhone, including subroutines for its folding mechanism. Excitement builds for the new device.</description>
+      <link>https://appleinsider.com/articles/26/06/08/ios-27-code-has-clear-signs-that-a-folding-iphone-is-coming-soon</link>
+      <guid isPermaLink="true">https://appleinsider.com/articles/26/06/08/ios-27-code-has-clear-signs-that-a-folding-iphone-is-coming-soon</guid>
+      <pubDate>2026-06-08T21:59:00Z</pubDate>
+      <category>Software</category>
+      <source url="https://appleinsider.com/articles/26/06/08/ios-27-code-has-clear-signs-that-a-folding-iphone-is-coming-soon">AppleInsider</source>
+    </item>
+    <item>
+      <title>Apple Intelligence Automates Password Changes</title>
+      <description>Apple's new feature allows automatic password changes when a user is hacked, enhancing security. This could significantly improve user safety.</description>
+      <link>https://gizmodo.com/apple-intelligence-can-change-your-passwords-for-you-when-you-get-hacked-2000769041</link>
+      <guid isPermaLink="true">https://gizmodo.com/apple-intelligence-can-change-your-passwords-for-you-when-you-get-hacked-2000769041</guid>
+      <pubDate>2026-06-08T21:25:21Z</pubDate>
+      <category>Security</category>
+      <source url="https://gizmodo.com/apple-intelligence-can-change-your-passwords-for-you-when-you-get-hacked-2000769041">Gizmodo.com</source>
+    </item>
+    <item>
+      <title>tvOS 27 Drops Support for Older Models</title>
+      <description>tvOS 27 will not support two older Apple TV models, marking a shift in compatibility. Users need to upgrade for the latest features.</description>
+      <link>https://9to5mac.com/2026/06/08/tvos-27-drops-support-for-two-apple-tv-models/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/08/tvos-27-drops-support-for-two-apple-tv-models/</guid>
+      <pubDate>2026-06-08T19:53:00Z</pubDate>
+      <category>Software</category>
+      <source url="https://9to5mac.com/2026/06/08/tvos-27-drops-support-for-two-apple-tv-models/">9to5Mac</source>
+    </item>
+    <item>
+      <title>AI Workflows in Apple Shortcuts</title>
+      <description>Apple's Shortcuts app now allows users to create workflows using AI prompts, enhancing usability. This feature aims to simplify automation tasks.</description>
+      <link>https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/</guid>
+      <pubDate>2026-06-08T18:45:12Z</pubDate>
+      <category>Software</category>
+      <source url="https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/">TechCrunch</source>
+    </item>
+    <item>
+      <title>visionOS 27 with Siri AI Announced</title>
+      <description>Apple introduces visionOS 27 featuring Siri AI, curved app windows, and panorama support for Vision Pro. This update enhances mixed reality experiences.</description>
+      <link>https://www.theverge.com/tech/944129/apple-visionos-updates-wwdc-2026</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/944129/apple-visionos-updates-wwdc-2026</guid>
+      <pubDate>2026-06-08T18:32:00Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.theverge.com/tech/944129/apple-visionos-updates-wwdc-2026">The Verge</source>
+    </item>
+    <item>
+      <title>AI Tools Coming to Apple Photos</title>
+      <description>Apple introduces AI-powered editing tools in the Photos app, enhancing user experience with features like Cleanup and Spatial Reframing. This update aims to simplify photo management.</description>
+      <link>https://www.macrumors.com/2026/06/08/apple-ai-reframing-and-editing-tools-in-photos/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/06/08/apple-ai-reframing-and-editing-tools-in-photos/</guid>
+      <pubDate>2026-06-08T18:16:32Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.macrumors.com/2026/06/08/apple-ai-reframing-and-editing-tools-in-photos/">MacRumors</source>
+    </item>
+    <item>
+      <title>Apple Expands App Store Capabilities</title>
+      <description>Apple enhances App Store features to help developers grow and reach new users. This initiative aims to improve app marketing and user acquisition.</description>
+      <link>https://www.apple.com/newsroom/2026/06/apple-expands-app-store-capabilities-to-help-developers-grow-and-reach-new-users/</link>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/06/apple-expands-app-store-capabilities-to-help-developers-grow-and-reach-new-users/</guid>
+      <pubDate>2026-06-08T18:14:13Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.apple.com/newsroom/2026/06/apple-expands-app-store-capabilities-to-help-developers-grow-and-reach-new-users/">Apple</source>
+    </item>
+    <item>
+      <title>Custom EQ Coming to AirPods</title>
+      <description>Apple announces a custom EQ feature for AirPods, allowing users to personalize sound settings. This update enhances audio experience for users.</description>
+      <link>https://www.macrumors.com/2026/06/08/apple-to-bring-custom-eq-to-airpods/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/06/08/apple-to-bring-custom-eq-to-airpods/</guid>
+      <pubDate>2026-06-08T17:29:27Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.macrumors.com/2026/06/08/apple-to-bring-custom-eq-to-airpods/">MacRumors</source>
     </item>
   </channel>
 </rss>
