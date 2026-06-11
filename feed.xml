@@ -5,143 +5,62 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jun 2026 20:21:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 22:49:46 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Logitech’s Foldable Mouse: Travel-Friendly Design</title>
-      <description>Logitech's Mobi Fold is an $80 Bluetooth mouse featuring a silicone-wrapped hinge for portability. Ideal for users on the go.</description>
-      <link>https://arstechnica.com/gadgets/2026/06/logitechs-mobi-fold-folds-for-travel-but-i-prefer-a-different-portable-mouse/</link>
-      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/06/logitechs-mobi-fold-folds-for-travel-but-i-prefer-a-different-portable-mouse/</guid>
-      <pubDate>2026-06-10T19:57:56Z</pubDate>
+      <title>Google TV Streamer Update Enhances Smart Home Features</title>
+      <description>The latest Google TV Streamer update improves smart home integration with Thread 1.4 support. Users can expect enhanced connectivity and functionality.</description>
+      <link>http://9to5google.com/2026/06/10/google-tv-streamers-new-update-turns-it-into-a-better-smart-home-device/</link>
+      <guid isPermaLink="true">http://9to5google.com/2026/06/10/google-tv-streamers-new-update-turns-it-into-a-better-smart-home-device/</guid>
+      <pubDate>2026-06-10T10:30:00Z</pubDate>
+      <category>Software</category>
+      <source url="http://9to5google.com/2026/06/10/google-tv-streamers-new-update-turns-it-into-a-better-smart-home-device/">9to5google.com</source>
+    </item>
+    <item>
+      <title>Microsoft Fixes Record 206 Vulnerabilities</title>
+      <description>Microsoft patched 206 vulnerabilities, including three critical zero-days. This marks a significant security update for its software ecosystem.</description>
+      <link>https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html</link>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html</guid>
+      <pubDate>2026-06-10T09:38:00Z</pubDate>
+      <category>Security</category>
+      <source url="https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html">The Hacker News</source>
+    </item>
+    <item>
+      <title>Switch 2 Zelda Remake Sparks Mixed Reactions</title>
+      <description>The Switch 2 remake of Zelda: Ocarina of Time has left some fans disappointed. Expectations clash with the new direction taken by developers.</description>
+      <link>https://www.creativebloq.com/3d/video-game-design/switch-2-zelda-ocarina-of-time-remake-is-making-some-fans-regret-what-they-wished-for</link>
+      <guid isPermaLink="true">https://www.creativebloq.com/3d/video-game-design/switch-2-zelda-ocarina-of-time-remake-is-making-some-fans-regret-what-they-wished-for</guid>
+      <pubDate>2026-06-10T07:00:00Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.creativebloq.com/3d/video-game-design/switch-2-zelda-ocarina-of-time-remake-is-making-some-fans-regret-what-they-wished-for">Creative Bloq</source>
+    </item>
+    <item>
+      <title>Apple and EU Clash Over Siri AI Compliance</title>
+      <description>Apple and EU regulators are at odds over compliance with DMA requirements. Apple claims the EU is uncooperative in negotiations.</description>
+      <link>https://appleinsider.com/articles/26/06/09/siri-ai-is-trapped-in-apples-escalating-cold-war-with-the-eu</link>
+      <guid isPermaLink="true">https://appleinsider.com/articles/26/06/09/siri-ai-is-trapped-in-apples-escalating-cold-war-with-the-eu</guid>
+      <pubDate>2026-06-09T20:11:00Z</pubDate>
+      <category>Geopolitics</category>
+      <source url="https://appleinsider.com/articles/26/06/09/siri-ai-is-trapped-in-apples-escalating-cold-war-with-the-eu">AppleInsider</source>
+    </item>
+    <item>
+      <title>Apple's Foldable iPhone Release Imminent</title>
+      <description>Hidden code in iOS 27 suggests a foldable iPhone may launch soon. Anticipation builds for Apple's innovative device.</description>
+      <link>https://techcrunch.com/2026/06/09/apples-foldable-iphone-could-be-just-around-the-corner/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/09/apples-foldable-iphone-could-be-just-around-the-corner/</guid>
+      <pubDate>2026-06-09T16:22:56Z</pubDate>
       <category>Hardware</category>
-      <source url="https://arstechnica.com/gadgets/2026/06/logitechs-mobi-fold-folds-for-travel-but-i-prefer-a-different-portable-mouse/">Ars Technica</source>
+      <source url="https://techcrunch.com/2026/06/09/apples-foldable-iphone-could-be-just-around-the-corner/">TechCrunch</source>
     </item>
     <item>
-      <title>Marvel Rivals: New Season Ignites the Battle</title>
-      <description>Marvel Rivals Season 8.5 is live, inviting players to join the action for free. Get ready for intense team-based PVP gameplay.</description>
-      <link>https://www.marvelrivals.com/20260610/41525_1303717.html</link>
-      <guid isPermaLink="true">https://www.marvelrivals.com/20260610/41525_1303717.html</guid>
-      <pubDate>2026-06-10T18:54:11Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.marvelrivals.com/20260610/41525_1303717.html">Marvelrivals.com</source>
-    </item>
-    <item>
-      <title>New Fable Gameplay: A Real Game Emerges</title>
-      <description>A 30-minute gameplay clip of the new Fable has sparked excitement, suggesting a potential early release next year.</description>
-      <link>https://kotaku.com/this-is-the-first-time-ive-felt-like-the-new-fable-is-a-real-game-2000704966</link>
-      <guid isPermaLink="true">https://kotaku.com/this-is-the-first-time-ive-felt-like-the-new-fable-is-a-real-game-2000704966</guid>
-      <pubDate>2026-06-10T17:55:15Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://kotaku.com/this-is-the-first-time-ive-felt-like-the-new-fable-is-a-real-game-2000704966">Kotaku</source>
-    </item>
-    <item>
-      <title>iOS 27 Disrupts 15 Years of iPhone Muscle Memory</title>
-      <description>iOS 27 introduces significant changes to the Notification Center, breaking long-standing user habits on iPhone and iPad.</description>
-      <link>https://9to5mac.com/2026/06/10/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/10/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/</guid>
-      <pubDate>2026-06-10T17:26:00Z</pubDate>
+      <title>New Features in Apple Maps for iOS 27</title>
+      <description>iOS 27 introduces exciting new features for Apple Maps. Users can expect enhanced navigation and functionality.</description>
+      <link>https://9to5mac.com/2026/06/09/heres-everything-new-for-apple-maps-in-ios-27/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/09/heres-everything-new-for-apple-maps-in-ios-27/</guid>
+      <pubDate>2026-06-09T15:59:00Z</pubDate>
       <category>Software</category>
-      <source url="https://9to5mac.com/2026/06/10/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/">9to5Mac</source>
-    </item>
-    <item>
-      <title>Instagram Algorithm: Users Gain Control</title>
-      <description>Instagram now allows users to customize their main feed algorithm, enhancing user control over content recommendations.</description>
-      <link>https://www.theverge.com/tech/947898/meta-instagram-your-algorithm-main-feed-tell</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/947898/meta-instagram-your-algorithm-main-feed-tell</guid>
-      <pubDate>2026-06-10T17:06:10Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.theverge.com/tech/947898/meta-instagram-your-algorithm-main-feed-tell">The Verge</source>
-    </item>
-    <item>
-      <title>Valve Ends Retail Gift Card Program</title>
-      <description>Valve has discontinued its retail gift card program due to rampant scams, impacting legitimate users who purchase cards with cash.</description>
-      <link>https://arstechnica.com/gaming/2026/06/valve-kills-its-retail-gift-card-program-due-to-scammers/</link>
-      <guid isPermaLink="true">https://arstechnica.com/gaming/2026/06/valve-kills-its-retail-gift-card-program-due-to-scammers/</guid>
-      <pubDate>2026-06-10T16:39:43Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://arstechnica.com/gaming/2026/06/valve-kills-its-retail-gift-card-program-due-to-scammers/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Ubisoft Closes Belgrade Studio, 100 Laid Off</title>
-      <description>Ubisoft has shut down its Belgrade studio, resulting in the layoff of all 100 employees amid ongoing restructuring.</description>
-      <link>https://insider-gaming.com/ubisoft-closes-belgrade-studio-all-employees-let-go/</link>
-      <guid isPermaLink="true">https://insider-gaming.com/ubisoft-closes-belgrade-studio-all-employees-let-go/</guid>
-      <pubDate>2026-06-10T16:16:58Z</pubDate>
-      <category>Business</category>
-      <source url="https://insider-gaming.com/ubisoft-closes-belgrade-studio-all-employees-let-go/">Insider Gaming</source>
-    </item>
-    <item>
-      <title>Sony Explores New PS Plus Game Delivery Methods</title>
-      <description>Sony is investigating new strategies for delivering PS Plus games, aiming to improve user experience and access.</description>
-      <link>https://www.pushsquare.com/news/2026/06/sony-exploring-new-ways-to-deliver-ps-plus-games</link>
-      <guid isPermaLink="true">https://www.pushsquare.com/news/2026/06/sony-exploring-new-ways-to-deliver-ps-plus-games</guid>
-      <pubDate>2026-06-10T16:00:00Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.pushsquare.com/news/2026/06/sony-exploring-new-ways-to-deliver-ps-plus-games">Push Square</source>
-    </item>
-    <item>
-      <title>Google Workspace's Gemini Faces Service Issues</title>
-      <description>Many Google Workspace users are experiencing errors with Gemini, leading to disruptions in service and productivity.</description>
-      <link>https://www.cnet.com/news-live/gemini-down-live-updates-google-workspaces-ai-errors/</link>
-      <guid isPermaLink="true">https://www.cnet.com/news-live/gemini-down-live-updates-google-workspaces-ai-errors/</guid>
-      <pubDate>2026-06-10T15:35:00Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.cnet.com/news-live/gemini-down-live-updates-google-workspaces-ai-errors/">CNET</source>
-    </item>
-    <item>
-      <title>Xbox Exclusives: New Strategy Revealed</title>
-      <description>Xbox announces that 'Gears of War: E-Day' and 'Clockwork Revolution' will be exclusive to Xbox consoles, reshaping its strategy.</description>
-      <link>https://variety.com/2026/gaming/news/xbox-exclusives-showcase-blade-elder-scrolls-6-matt-booty-1236771373/</link>
-      <guid isPermaLink="true">https://variety.com/2026/gaming/news/xbox-exclusives-showcase-blade-elder-scrolls-6-matt-booty-1236771373/</guid>
-      <pubDate>2026-06-10T15:12:00Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://variety.com/2026/gaming/news/xbox-exclusives-showcase-blade-elder-scrolls-6-matt-booty-1236771373/">Variety</source>
-    </item>
-    <item>
-      <title>Halo: Campaign Evolved Surprises Players</title>
-      <description>Initial skepticism about Halo: Campaign Evolved fades after gameplay reveals, sparking interest in remakes of the original trilogy.</description>
-      <link>https://www.eurogamer.net/halo-campaign-evolved-hands-on</link>
-      <guid isPermaLink="true">https://www.eurogamer.net/halo-campaign-evolved-hands-on</guid>
-      <pubDate>2026-06-10T15:00:00Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.eurogamer.net/halo-campaign-evolved-hands-on">Eurogamer</source>
-    </item>
-    <item>
-      <title>Resident Evil: Code Veronica Remake Details</title>
-      <description>Capcom clarifies that the Resident Evil - Code: Veronica remake will follow a third-person perspective, contrary to trailer hints.</description>
-      <link>https://www.eurogamer.net/resident-evil-veronica-first-person</link>
-      <guid isPermaLink="true">https://www.eurogamer.net/resident-evil-veronica-first-person</guid>
-      <pubDate>2026-06-10T15:00:00Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.eurogamer.net/resident-evil-veronica-first-person">Eurogamer</source>
-    </item>
-    <item>
-      <title>Stellar Blade CEO Addresses Protagonist Concerns</title>
-      <description>CEO Hyung-tae Kim responds to feedback about the sequel's protagonist, promising appealing outfits and character design.</description>
-      <link>https://kotaku.com/stellar-blade-blood-rain-evie-young-appearance-eve-sexualized-shift-up-2000704314</link>
-      <guid isPermaLink="true">https://kotaku.com/stellar-blade-blood-rain-evie-young-appearance-eve-sexualized-shift-up-2000704314</guid>
-      <pubDate>2026-06-10T14:23:05Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://kotaku.com/stellar-blade-blood-rain-evie-young-appearance-eve-sexualized-shift-up-2000704314">Kotaku</source>
-    </item>
-    <item>
-      <title>Alien: Isolation 2 Promises Tension and Horror</title>
-      <description>The prologue of Alien: Isolation 2 showcases a gripping experience, emphasizing tension and release in gameplay.</description>
-      <link>https://news.xbox.com/en-us/2026/06/10/alien-isolation-2-poised-to-deliver-another-bold-chapter/</link>
-      <guid isPermaLink="true">https://news.xbox.com/en-us/2026/06/10/alien-isolation-2-poised-to-deliver-another-bold-chapter/</guid>
-      <pubDate>2026-06-10T14:02:18Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://news.xbox.com/en-us/2026/06/10/alien-isolation-2-poised-to-deliver-another-bold-chapter/">XBOX Wire</source>
-    </item>
-    <item>
-      <title>Apple's Siri Chatbot App Explained</title>
-      <description>Craig Federighi discusses Apple's decision to launch a standalone Siri chatbot app in iOS 27, marking a significant shift.</description>
-      <link>https://www.macrumors.com/2026/06/10/federighi-explains-why-apple-pivoted-to-siri-chatbot/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/06/10/federighi-explains-why-apple-pivoted-to-siri-chatbot/</guid>
-      <pubDate>2026-06-10T12:07:48Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.macrumors.com/2026/06/10/federighi-explains-why-apple-pivoted-to-siri-chatbot/">MacRumors</source>
+      <source url="https://9to5mac.com/2026/06/09/heres-everything-new-for-apple-maps-in-ios-27/">9to5Mac</source>
     </item>
   </channel>
 </rss>
