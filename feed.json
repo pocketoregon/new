@@ -1,197 +1,245 @@
 {
-  "generated_at": "2026-06-11T03:51:57.520378+00:00",
+  "generated_at": "2026-06-11T10:21:37.627549+00:00",
   "articles": [
     {
-      "title": "Google Sparks AI Subscription Price War",
-      "description": "Google slashes prices for its budget AI subscription, intensifying competition in the market. This move targets American consumers amid a global pricing battle.",
-      "category": "Business",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
-      "published_at": "2026-06-10T00:26:10Z",
+      "title": "Nintendo Shares Slide After 2026 Game Showcase Disappoints",
+      "description": "Nintendo's stock dropped significantly after a lackluster game showcase failed to deliver new titles from major franchises. Investors expressed disappointment over the presentation.",
+      "category": "Gaming",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/nintendo-shares-slide-after-2026-game-showcase-disappoints",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDPtxeHvtgQc/v0/1200x800.jpg",
+      "published_at": "2026-06-10T00:29:00Z",
       "key_points": [
-        "Google lowers AI subscription costs",
-        "Targets American consumers",
-        "Intensifies market competition"
+        "Stock fell significantly",
+        "Lack of new titles",
+        "Investors disappointed"
       ],
-      "impact": "This could reshape AI subscription pricing.",
-      "id": "f5f16b778aa511b12529d9bb647b0a71"
+      "impact": "Nintendo's market confidence takes a hit.",
+      "id": "c373eedefb71ac2ac64e208674563464"
     },
     {
-      "title": "Siri AI Shows Promising Performance",
-      "description": "Apple's Siri AI, its second attempt at an AI assistant, demonstrates significant improvements and functionality. Early tests suggest it may finally meet user expectations.",
+      "title": "Toby Fox Shares New Development Update On Deltarune Chapter 6",
+      "description": "Toby Fox announced progress on Deltarune Chapter 6, with plans to start Chapter 7 development this year. Fans eagerly await further updates.",
+      "category": "Gaming",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/06/toby-fox-shares-new-development-update-on-deltarune-chapter-6",
+      "image": "https://images.nintendolife.com/90a8e8ca82632/large.jpg",
+      "published_at": "2026-06-09T23:30:00Z",
+      "key_points": [
+        "Chapter 6 development ongoing",
+        "Chapter 7 may start soon",
+        "Fans excited for updates"
+      ],
+      "impact": "Deltarune's future looks promising for fans.",
+      "id": "132031a084cea8f625d16cf60b76d65a"
+    },
+    {
+      "title": "The 25 Most Exciting Games Of Summer Game Fest 2026",
+      "description": "The Summer Game Fest showcased numerous trailers, highlighting the most anticipated games of the season. Here are the top 25 picks from the event.",
+      "category": "Gaming",
+      "source": "Game Informer",
+      "url": "https://gameinformer.com/sgf-2026/2026/06/09/the-25-most-exciting-games-of-summer-game-fest-2026",
+      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/09/3809ad38/Best%20of%20SGF%20Header.jpg.webp",
+      "published_at": "2026-06-09T22:21:53Z",
+      "key_points": [
+        "Top 25 games revealed",
+        "Exciting trailers showcased",
+        "Fans eager for releases"
+      ],
+      "impact": "Summer Game Fest sets high expectations.",
+      "id": "7ec01c12e65609e38e54408d1be80bbf"
+    },
+    {
+      "title": "The App Store is going to add subscription bundles soon",
+      "description": "Apple's App Store will introduce subscription bundles for iPhone apps, enhancing user experience with grouped subscriptions. This change comes with iOS 27.",
       "category": "Software",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03775_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-      "published_at": "2026-06-09T23:43:00Z",
+      "url": "https://www.theverge.com/tech/947365/apple-subscription-bundles-app-store",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23925966/acastro_STK045_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-06-09T21:30:48Z",
       "key_points": [
-        "Siri AI shows improved functionality",
-        "User experience is enhanced",
-        "Potentially meets expectations"
+        "New subscription bundles coming",
+        "Enhances user experience",
+        "Part of iOS 27 update"
       ],
-      "impact": "Siri AI could regain user trust.",
-      "id": "97e73bfc89ed13aa5f8929c049259ef8"
+      "impact": "Apple improves App Store subscription model.",
+      "id": "5b8444b174c02474ac82f18cafc3756a"
     },
     {
-      "title": "Starlink Introduces Monthly Hardware Fee",
-      "description": "Starlink shifts to a $10 monthly hardware rental fee, moving away from one-time purchases. Service prices also increase by $5 to $10.",
-      "category": "Business",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/getty-starlink-1152x648.jpg",
-      "published_at": "2026-06-09T21:05:39Z",
-      "key_points": [
-        "Starlink introduces monthly fees",
-        "Service prices increase",
-        "Shifts from one-time purchases"
-      ],
-      "impact": "This could affect customer retention.",
-      "id": "fe37e0d103e2d6d17a2e6146ae2cc651"
-    },
-    {
-      "title": "Destiny 2 Sees Player Surge Post-Update",
-      "description": "Destiny 2 experiences a record player count following its final update release. Fans are flocking back to celebrate the game's legacy.",
+      "title": "NBA The Run Review",
+      "description": "NBA The Run offers a quick-match basketball experience reminiscent of NBA Street, but lacks depth. It's a fun yet shallow gameplay option for fans.",
       "category": "Gaming",
       "source": "IGN",
-      "url": "https://www.ign.com/articles/destiny-2-hits-highest-player-count-in-two-years-following-final-updates-release-shatters-marathons-all-time-peak",
-      "image": "https://assets-prd.ignimgs.com/2025/11/13/destiynthumb-1763051460453.png?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-09T20:41:13Z",
+      "url": "https://www.ign.com/articles/nba-the-run-review",
+      "image": "https://assets-prd.ignimgs.com/2026/06/09/nba-the-run-blogroll-1781027696109.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-09T18:11:18Z",
       "key_points": [
-        "Destiny 2 hits record player count",
-        "Final update boosts engagement",
-        "Fans celebrate game's legacy"
+        "Quick-match basketball game",
+        "Feels like NBA Street",
+        "Lacks gameplay depth"
       ],
-      "impact": "This revitalizes interest in Destiny 2.",
-      "id": "3b978d72a7d7b3b8a6815d06d82836a6"
+      "impact": "NBA The Run appeals to casual players.",
+      "id": "f26de2372e028e6244984ca0b0869b27"
     },
     {
-      "title": "Google Launches Gemini 3.5 Live Translate",
-      "description": "Google's Gemini 3.5 Live Translate offers instant voice-to-voice translations, maintaining speaker tone and pitch. Security features include SynthID watermarks.",
-      "category": "AI",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-4-1152x648.jpg",
-      "published_at": "2026-06-09T18:57:25Z",
+      "title": "God of War Laufey Director Pushes Back on Cosmic Cube Criticism",
+      "description": "The director of God of War Laufey defends the inclusion of Phranque, stating it was always planned and enhances gameplay mechanics. Fans remain divided.",
+      "category": "Gaming",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/god-of-war-laufey-phranque-cosmic-cube/",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/God-of-War-Laufey-Cube-HD-1920x1080.jpeg",
+      "published_at": "2026-06-09T18:00:00Z",
       "key_points": [
-        "Instant voice translations available",
-        "Preserves speaker's tone",
-        "Includes security watermarks"
+        "Director defends Phranque's role",
+        "Enhances gameplay mechanics",
+        "Fans express mixed reactions"
       ],
-      "impact": "This enhances real-time communication.",
-      "id": "b555cceabdd0f48e98f7b03806515b63"
+      "impact": "Controversy surrounds God of War Laufey.",
+      "id": "5db21e08ba3cfb90268db4228b1cd343"
     },
     {
-      "title": "Apple Unveils New App Store Subscription Bundles",
-      "description": "Apple introduces new subscription bundles for the App Store, enhancing user options. This follows earlier monthly plans with long-term commitments.",
-      "category": "Business",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/09/apple-introduces-new-subscription-bundles-coming-to-app-store/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/app-store-app-icon-ios-27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-09T18:34:00Z",
+      "title": "Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws",
+      "description": "Microsoft's June Patch Tuesday addresses 200 vulnerabilities, including three critical zero-day flaws. Users are urged to update their systems immediately.",
+      "category": "Security",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/",
+      "image": "https://www.bleepingcomputer.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg",
+      "published_at": "2026-06-09T17:57:59Z",
       "key_points": [
-        "New subscription bundles announced",
-        "Enhances user options",
-        "Follows earlier subscription plans"
+        "200 vulnerabilities fixed",
+        "Three zero-day flaws addressed",
+        "Immediate updates recommended"
       ],
-      "impact": "This could boost App Store revenue.",
-      "id": "854d2ddfe0bfc6d61273de0016e4a1d2"
+      "impact": "Critical security updates enhance user safety.",
+      "id": "f7d5968e7e560f55ca59a8891b182f35"
     },
     {
-      "title": "Apple Reveals Top Features in iOS 27",
-      "description": "Apple showcases exciting new features in iOS 27, focusing on Siri improvements and user experience enhancements. The update aims to refine device functionality.",
+      "title": "Pokemon Pokopia Getting Free Underwater Expansion And Paid DLC",
+      "description": "Pokemon Pokopia will receive a free underwater expansion alongside paid DLC, creating some confusion among players. Clarifications are provided on the offerings.",
+      "category": "Gaming",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/pokemon-pokopia-getting-free-underwater-expansion-and-paid-dlc-and-its-all-a-little-confusing/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/04/gamespot.png",
+      "published_at": "2026-06-09T17:14:45Z",
+      "key_points": [
+        "Free underwater expansion announced",
+        "Paid DLC details confusing",
+        "Clarifications provided for players"
+      ],
+      "impact": "Pokemon Pokopia expands with new content.",
+      "id": "9510133ee5428d0102320681be21aae2"
+    },
+    {
+      "title": "'DK Challenge' Will Put Your NSO & Bananza Skills To The Test",
+      "description": "Nintendo announces the 'DK Challenge' event, testing players' skills in a Mario-themed Bananza. The event starts soon, promising fun competition.",
+      "category": "Gaming",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/06/dk-challenge-will-put-your-nso-and-bananza-skills-to-the-test-for-a-limited-time",
+      "image": "https://images.nintendolife.com/5c776e2999bf4/large.jpg",
+      "published_at": "2026-06-09T16:20:00Z",
+      "key_points": [
+        "New 'DK Challenge' event",
+        "Mario-themed competition",
+        "Starts June 10th"
+      ],
+      "impact": "Nintendo engages players with new challenges.",
+      "id": "ef4cf11ebb68e17a5153a8cfeb7240e7"
+    },
+    {
+      "title": "macOS 27 Finally Brings Direct Touch Control to Sidecar",
+      "description": "macOS 27 introduces direct touch control for Sidecar, allowing iPad users to interact with macOS elements directly. This feature enhances usability significantly.",
       "category": "Software",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/top-new-features-in-apples-ios-27-and-ipados-27/",
-      "image": "https://media.wired.com/photos/6a28233604cb8e65f7b969d3/191:100/w_1280,c_limit/Siri%20AI%20Site%20Image%20SOURCE%20Apple.jpg",
-      "published_at": "2026-06-09T17:03:00Z",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/09/macos-27-brings-direct-touch-control-to-sidecar/",
+      "image": "https://images.macrumors.com/t/cQXpBanzMoUQ8VdGvSBPHNEPQCw=/1600x/article-new/2026/06/macos-sidecar.jpg",
+      "published_at": "2026-06-09T16:17:00Z",
       "key_points": [
-        "iOS 27 features major upgrades",
-        "Focus on Siri improvements",
-        "Enhances user experience"
+        "Direct touch control added",
+        "Enhances usability for iPad users",
+        "Part of macOS 27 update"
       ],
-      "impact": "This could improve user satisfaction.",
-      "id": "32a2e9b211fb33fe3ab3e27ee58b3d7f"
+      "impact": "Apple improves Sidecar functionality.",
+      "id": "8e5152288963f2efc497dab3ca86064b"
     },
     {
-      "title": "Apple Announces tvOS 27 Enhancements",
-      "description": "Apple confirms tvOS 27, promising faster performance for streaming devices. The update aims to enhance user experience despite limited attention at WWDC.",
-      "category": "Software",
-      "source": "What Hi-Fi? US",
-      "url": "https://www.whathifi.com/streaming-entertainment/streaming-hardware/apple-officially-announces-tvos-27-and-it-nearly-makes-up-for-the-missing-next-generation-apple-tv-4k",
-      "image": "https://cdn.mos.cms.futurecdn.net/gaZxFBeuS4ipxGTBfUeqNU-2560-80.jpg",
-      "published_at": "2026-06-09T16:08:05Z",
+      "title": "Final Fantasy gets its first HD-2D game, and it was worth the wait",
+      "description": "Final Fantasy Resonance debuts as the franchise's first HD-2D game, blending nostalgia with modern graphics. Fans are excited about this new direction.",
+      "category": "Gaming",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/final-fantasy-resonance-trailer-date-switch-2-hd-2d-sprite-art-square/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/2d.JPG?w=1600&h=900&fit=crop",
+      "published_at": "2026-06-09T15:34:50Z",
       "key_points": [
-        "tvOS 27 announced",
-        "Faster streaming performance",
-        "Enhances user experience"
+        "First HD-2D Final Fantasy game",
+        "Combines nostalgia with modern graphics",
+        "Fans excited for new direction"
       ],
-      "impact": "This could attract more streaming users.",
-      "id": "32c4f4d1f9d63a264db091b95a374073"
+      "impact": "Final Fantasy embraces innovative gameplay style.",
+      "id": "8e72d5b0bd468b83ad700c56a0343e2e"
     },
     {
-      "title": "Zelda: Ocarina of Time Remake Coming Soon",
-      "description": "Nintendo announces a remake of The Legend of Zelda: Ocarina of Time, set for release this year. Fans eagerly anticipate this classic revival.",
+      "title": "New Joy-Con Colours And A Stand-Alone Direct Are Inbound For Splatoon Raiders",
+      "description": "Nintendo announces new Joy-Con colors and a dedicated Direct for Splatoon Raiders, generating excitement among fans. More details are expected soon.",
+      "category": "Gaming",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/06/new-joy-con-colours-and-a-stand-alone-direct-are-inbound-for-splatoon-raiders",
+      "image": "https://images.nintendolife.com/c26af73bcd346/large.jpg",
+      "published_at": "2026-06-09T15:25:00Z",
+      "key_points": [
+        "New Joy-Con colors revealed",
+        "Stand-alone Direct announced",
+        "Fans eager for updates"
+      ],
+      "impact": "Nintendo keeps Splatoon fans engaged.",
+      "id": "8ddcd016f3482042b7c53b93624de657"
+    },
+    {
+      "title": "Fire Emblem: Fortune’s Weave boxart, screenshots",
+      "description": "Fire Emblem: Fortune’s Weave reveals its official boxart and new screenshots following the Nintendo Direct. Fans are excited for this new entry.",
+      "category": "Gaming",
+      "source": "nintendoeverything.com",
+      "url": "https://nintendoeverything.com/fire-emblem-fortunes-weave-boxart-screenshots/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Fire-Emblem-Fortunes-Weave-boxart.jpg",
+      "published_at": "2026-06-09T15:13:58Z",
+      "key_points": [
+        "Official boxart revealed",
+        "New screenshots shared",
+        "Fans excited for new entry"
+      ],
+      "impact": "Fire Emblem series continues to expand.",
+      "id": "39602f0f7525e72dc01bf2a1cab68be9"
+    },
+    {
+      "title": "Over A Year Before Release, Stellar Blade: Blood Rain’s New Hero Evie Draws Fire",
+      "description": "Stellar Blade: Blood Rain introduces a new protagonist, Evie, stirring controversy ahead of its release next year. Fans are divided over the character's design.",
       "category": "Gaming",
       "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/06/09/nintendos-the-legend-of-zelda-ocarina-of-time-remake-is-out-this-year/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a283057a1ae8880301f685c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published_at": "2026-06-09T15:27:37Z",
+      "url": "https://www.forbes.com/sites/paultassi/2026/06/09/over-a-year-before-release-stellar-blade-blood-rains-new-hero-evie-draws-fire/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a282a7c5d3df6cb6e1cf00c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published_at": "2026-06-09T15:08:23Z",
       "key_points": [
-        "Zelda remake announced",
-        "Set for release this year",
-        "Fans excited for revival"
+        "New hero Evie introduced",
+        "Controversy over character design",
+        "Game releases next year"
       ],
-      "impact": "This could boost Nintendo's sales.",
-      "id": "9f2105b40be0d603db380f032bc91725"
+      "impact": "Stellar Blade sparks debate among fans.",
+      "id": "00995815d95bcaa3d185e6d073912bcb"
     },
     {
-      "title": "Apple May Remove Low-Performing Apps",
-      "description": "Apple warns it may remove apps from the App Store that fail to attract users. This move targets stale or low-value applications.",
-      "category": "Business",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/app-of-the-year.jpg?resize=1200,722",
-      "published_at": "2026-06-09T15:23:40Z",
-      "key_points": [
-        "Apple targets low-performing apps",
-        "May remove stale applications",
-        "Focus on user engagement"
-      ],
-      "impact": "This could streamline the App Store.",
-      "id": "ce34f28de3d961c5ababaf2b7e1763eb"
-    },
-    {
-      "title": "Kingdom Hearts IV Confirmed for Multiple Platforms",
-      "description": "Kingdom Hearts IV will launch on PS5, Xbox Series, Switch 2, and PC. Square Enix confirms the game's development but has not announced a release date.",
+      "title": "Kingdom Hearts IV Gameplay Trailer Revealed, Will Launch Simultaneously On Consoles And PC",
+      "description": "Kingdom Hearts IV gameplay trailer unveiled, confirming simultaneous launch on consoles and PC. Fans are eager for more details on this highly anticipated sequel.",
       "category": "Gaming",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/kingdom-hearts-iv-confirmed-for-ps5-xbox-series-switch-2-and-pc",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Kingdom-Hearts-IV_2026_06-09-26_006.jpg",
-      "published_at": "2026-06-09T14:56:26Z",
+      "source": "Game Informer",
+      "url": "https://gameinformer.com/nintendo-direct/2026/06/09/kingdom-hearts-iv-gameplay-trailer-revealed-will-launch-simultaneously",
+      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/09/155adcf5/kh4_04.jpg.webp",
+      "published_at": "2026-06-09T15:05:51Z",
       "key_points": [
-        "Kingdom Hearts IV confirmed",
-        "Available on multiple platforms",
-        "Release date not announced"
+        "Gameplay trailer revealed",
+        "Simultaneous launch confirmed",
+        "Fans eagerly await details"
       ],
-      "impact": "This excites fans of the franchise.",
-      "id": "98c1375a23b3dbea0eb0d4bdfda53712"
-    },
-    {
-      "title": "Critical Chrome Zero-Day Vulnerability Discovered",
-      "description": "Google addresses 74 vulnerabilities in Chrome, including a critical zero-day flaw, CVE-2026-11645. Users are urged to update immediately for security.",
-      "category": "Security",
-      "source": "Internet",
-      "url": "https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy9c53f3p1HHGx7jqu0BsfiQG9IExXm0FN2TErZuX0bEb-QuwP4-_1WCoEBEWu976cmqjbnjTJl04uxbLJIP3P0pzSXNqjLNOz_gbfLMilYwJswWq-lMAPWJ1FxaZB_jmcsJaBFO4E5oXd3cdhDPlnDc2TblqooNQ9Btxfak9W8cXEhyphenhyphenXzjEfSluORQ1Ty/s1600/chrome-zero-day.jpg",
-      "published_at": "2026-06-09T11:58:00Z",
-      "key_points": [
-        "74 vulnerabilities addressed",
-        "Critical zero-day flaw found",
-        "Users urged to update"
-      ],
-      "impact": "This enhances Chrome's security posture.",
-      "id": "dc1b2039550e0d682ce54988d57d409d"
+      "impact": "Kingdom Hearts IV builds excitement for fans.",
+      "id": "b50be35410bec0e30d5967d9e5f42241"
     }
   ]
 }

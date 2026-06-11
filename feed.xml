@@ -5,116 +5,143 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jun 2026 03:52:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 10:22:24 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Google Sparks AI Subscription Price War</title>
-      <description>Google slashes prices for its budget AI subscription, intensifying competition in the market. This move targets American consumers amid a global pricing battle.</description>
-      <link>https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/</guid>
-      <pubDate>2026-06-10T00:26:10Z</pubDate>
-      <category>Business</category>
-      <source url="https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Siri AI Shows Promising Performance</title>
-      <description>Apple's Siri AI, its second attempt at an AI assistant, demonstrates significant improvements and functionality. Early tests suggest it may finally meet user expectations.</description>
-      <link>https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc</guid>
-      <pubDate>2026-06-09T23:43:00Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc">The Verge</source>
-    </item>
-    <item>
-      <title>Starlink Introduces Monthly Hardware Fee</title>
-      <description>Starlink shifts to a $10 monthly hardware rental fee, moving away from one-time purchases. Service prices also increase by $5 to $10.</description>
-      <link>https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/</guid>
-      <pubDate>2026-06-09T21:05:39Z</pubDate>
-      <category>Business</category>
-      <source url="https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Destiny 2 Sees Player Surge Post-Update</title>
-      <description>Destiny 2 experiences a record player count following its final update release. Fans are flocking back to celebrate the game's legacy.</description>
-      <link>https://www.ign.com/articles/destiny-2-hits-highest-player-count-in-two-years-following-final-updates-release-shatters-marathons-all-time-peak</link>
-      <guid isPermaLink="true">https://www.ign.com/articles/destiny-2-hits-highest-player-count-in-two-years-following-final-updates-release-shatters-marathons-all-time-peak</guid>
-      <pubDate>2026-06-09T20:41:13Z</pubDate>
+      <title>Nintendo Shares Slide After 2026 Game Showcase Disappoints</title>
+      <description>Nintendo's stock dropped significantly after a lackluster game showcase failed to deliver new titles from major franchises. Investors expressed disappointment over the presentation.</description>
+      <link>https://www.bloomberg.com/news/articles/2026-06-10/nintendo-shares-slide-after-2026-game-showcase-disappoints</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-06-10/nintendo-shares-slide-after-2026-game-showcase-disappoints</guid>
+      <pubDate>2026-06-10T00:29:00Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.ign.com/articles/destiny-2-hits-highest-player-count-in-two-years-following-final-updates-release-shatters-marathons-all-time-peak">IGN</source>
+      <source url="https://www.bloomberg.com/news/articles/2026-06-10/nintendo-shares-slide-after-2026-game-showcase-disappoints">Bloomberg</source>
     </item>
     <item>
-      <title>Google Launches Gemini 3.5 Live Translate</title>
-      <description>Google's Gemini 3.5 Live Translate offers instant voice-to-voice translations, maintaining speaker tone and pitch. Security features include SynthID watermarks.</description>
-      <link>https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/</link>
-      <guid isPermaLink="true">https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/</guid>
-      <pubDate>2026-06-09T18:57:25Z</pubDate>
-      <category>AI</category>
-      <source url="https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/">Ars Technica</source>
-    </item>
-    <item>
-      <title>Apple Unveils New App Store Subscription Bundles</title>
-      <description>Apple introduces new subscription bundles for the App Store, enhancing user options. This follows earlier monthly plans with long-term commitments.</description>
-      <link>https://9to5mac.com/2026/06/09/apple-introduces-new-subscription-bundles-coming-to-app-store/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/09/apple-introduces-new-subscription-bundles-coming-to-app-store/</guid>
-      <pubDate>2026-06-09T18:34:00Z</pubDate>
-      <category>Business</category>
-      <source url="https://9to5mac.com/2026/06/09/apple-introduces-new-subscription-bundles-coming-to-app-store/">9to5Mac</source>
-    </item>
-    <item>
-      <title>Apple Reveals Top Features in iOS 27</title>
-      <description>Apple showcases exciting new features in iOS 27, focusing on Siri improvements and user experience enhancements. The update aims to refine device functionality.</description>
-      <link>https://www.wired.com/story/top-new-features-in-apples-ios-27-and-ipados-27/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/top-new-features-in-apples-ios-27-and-ipados-27/</guid>
-      <pubDate>2026-06-09T17:03:00Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.wired.com/story/top-new-features-in-apples-ios-27-and-ipados-27/">Wired</source>
-    </item>
-    <item>
-      <title>Apple Announces tvOS 27 Enhancements</title>
-      <description>Apple confirms tvOS 27, promising faster performance for streaming devices. The update aims to enhance user experience despite limited attention at WWDC.</description>
-      <link>https://www.whathifi.com/streaming-entertainment/streaming-hardware/apple-officially-announces-tvos-27-and-it-nearly-makes-up-for-the-missing-next-generation-apple-tv-4k</link>
-      <guid isPermaLink="true">https://www.whathifi.com/streaming-entertainment/streaming-hardware/apple-officially-announces-tvos-27-and-it-nearly-makes-up-for-the-missing-next-generation-apple-tv-4k</guid>
-      <pubDate>2026-06-09T16:08:05Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.whathifi.com/streaming-entertainment/streaming-hardware/apple-officially-announces-tvos-27-and-it-nearly-makes-up-for-the-missing-next-generation-apple-tv-4k">What Hi-Fi? US</source>
-    </item>
-    <item>
-      <title>Zelda: Ocarina of Time Remake Coming Soon</title>
-      <description>Nintendo announces a remake of The Legend of Zelda: Ocarina of Time, set for release this year. Fans eagerly anticipate this classic revival.</description>
-      <link>https://www.forbes.com/sites/paultassi/2026/06/09/nintendos-the-legend-of-zelda-ocarina-of-time-remake-is-out-this-year/</link>
-      <guid isPermaLink="true">https://www.forbes.com/sites/paultassi/2026/06/09/nintendos-the-legend-of-zelda-ocarina-of-time-remake-is-out-this-year/</guid>
-      <pubDate>2026-06-09T15:27:37Z</pubDate>
+      <title>Toby Fox Shares New Development Update On Deltarune Chapter 6</title>
+      <description>Toby Fox announced progress on Deltarune Chapter 6, with plans to start Chapter 7 development this year. Fans eagerly await further updates.</description>
+      <link>https://www.nintendolife.com/news/2026/06/toby-fox-shares-new-development-update-on-deltarune-chapter-6</link>
+      <guid isPermaLink="true">https://www.nintendolife.com/news/2026/06/toby-fox-shares-new-development-update-on-deltarune-chapter-6</guid>
+      <pubDate>2026-06-09T23:30:00Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.forbes.com/sites/paultassi/2026/06/09/nintendos-the-legend-of-zelda-ocarina-of-time-remake-is-out-this-year/">Forbes</source>
+      <source url="https://www.nintendolife.com/news/2026/06/toby-fox-shares-new-development-update-on-deltarune-chapter-6">Nintendo Life</source>
     </item>
     <item>
-      <title>Apple May Remove Low-Performing Apps</title>
-      <description>Apple warns it may remove apps from the App Store that fail to attract users. This move targets stale or low-value applications.</description>
-      <link>https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/</guid>
-      <pubDate>2026-06-09T15:23:40Z</pubDate>
-      <category>Business</category>
-      <source url="https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Kingdom Hearts IV Confirmed for Multiple Platforms</title>
-      <description>Kingdom Hearts IV will launch on PS5, Xbox Series, Switch 2, and PC. Square Enix confirms the game's development but has not announced a release date.</description>
-      <link>https://www.gematsu.com/2026/06/kingdom-hearts-iv-confirmed-for-ps5-xbox-series-switch-2-and-pc</link>
-      <guid isPermaLink="true">https://www.gematsu.com/2026/06/kingdom-hearts-iv-confirmed-for-ps5-xbox-series-switch-2-and-pc</guid>
-      <pubDate>2026-06-09T14:56:26Z</pubDate>
+      <title>The 25 Most Exciting Games Of Summer Game Fest 2026</title>
+      <description>The Summer Game Fest showcased numerous trailers, highlighting the most anticipated games of the season. Here are the top 25 picks from the event.</description>
+      <link>https://gameinformer.com/sgf-2026/2026/06/09/the-25-most-exciting-games-of-summer-game-fest-2026</link>
+      <guid isPermaLink="true">https://gameinformer.com/sgf-2026/2026/06/09/the-25-most-exciting-games-of-summer-game-fest-2026</guid>
+      <pubDate>2026-06-09T22:21:53Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.gematsu.com/2026/06/kingdom-hearts-iv-confirmed-for-ps5-xbox-series-switch-2-and-pc">Gematsu</source>
+      <source url="https://gameinformer.com/sgf-2026/2026/06/09/the-25-most-exciting-games-of-summer-game-fest-2026">Game Informer</source>
     </item>
     <item>
-      <title>Critical Chrome Zero-Day Vulnerability Discovered</title>
-      <description>Google addresses 74 vulnerabilities in Chrome, including a critical zero-day flaw, CVE-2026-11645. Users are urged to update immediately for security.</description>
-      <link>https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html</link>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html</guid>
-      <pubDate>2026-06-09T11:58:00Z</pubDate>
+      <title>The App Store is going to add subscription bundles soon</title>
+      <description>Apple's App Store will introduce subscription bundles for iPhone apps, enhancing user experience with grouped subscriptions. This change comes with iOS 27.</description>
+      <link>https://www.theverge.com/tech/947365/apple-subscription-bundles-app-store</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/947365/apple-subscription-bundles-app-store</guid>
+      <pubDate>2026-06-09T21:30:48Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.theverge.com/tech/947365/apple-subscription-bundles-app-store">The Verge</source>
+    </item>
+    <item>
+      <title>NBA The Run Review</title>
+      <description>NBA The Run offers a quick-match basketball experience reminiscent of NBA Street, but lacks depth. It's a fun yet shallow gameplay option for fans.</description>
+      <link>https://www.ign.com/articles/nba-the-run-review</link>
+      <guid isPermaLink="true">https://www.ign.com/articles/nba-the-run-review</guid>
+      <pubDate>2026-06-09T18:11:18Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.ign.com/articles/nba-the-run-review">IGN</source>
+    </item>
+    <item>
+      <title>God of War Laufey Director Pushes Back on Cosmic Cube Criticism</title>
+      <description>The director of God of War Laufey defends the inclusion of Phranque, stating it was always planned and enhances gameplay mechanics. Fans remain divided.</description>
+      <link>https://wccftech.com/god-of-war-laufey-phranque-cosmic-cube/</link>
+      <guid isPermaLink="true">https://wccftech.com/god-of-war-laufey-phranque-cosmic-cube/</guid>
+      <pubDate>2026-06-09T18:00:00Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://wccftech.com/god-of-war-laufey-phranque-cosmic-cube/">Wccftech</source>
+    </item>
+    <item>
+      <title>Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws</title>
+      <description>Microsoft's June Patch Tuesday addresses 200 vulnerabilities, including three critical zero-day flaws. Users are urged to update their systems immediately.</description>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/</link>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/</guid>
+      <pubDate>2026-06-09T17:57:59Z</pubDate>
       <category>Security</category>
-      <source url="https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html">Internet</source>
+      <source url="https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/">BleepingComputer</source>
+    </item>
+    <item>
+      <title>Pokemon Pokopia Getting Free Underwater Expansion And Paid DLC</title>
+      <description>Pokemon Pokopia will receive a free underwater expansion alongside paid DLC, creating some confusion among players. Clarifications are provided on the offerings.</description>
+      <link>https://www.gamespot.com/articles/pokemon-pokopia-getting-free-underwater-expansion-and-paid-dlc-and-its-all-a-little-confusing/</link>
+      <guid isPermaLink="true">https://www.gamespot.com/articles/pokemon-pokopia-getting-free-underwater-expansion-and-paid-dlc-and-its-all-a-little-confusing/</guid>
+      <pubDate>2026-06-09T17:14:45Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.gamespot.com/articles/pokemon-pokopia-getting-free-underwater-expansion-and-paid-dlc-and-its-all-a-little-confusing/">GameSpot</source>
+    </item>
+    <item>
+      <title>'DK Challenge' Will Put Your NSO &amp; Bananza Skills To The Test</title>
+      <description>Nintendo announces the 'DK Challenge' event, testing players' skills in a Mario-themed Bananza. The event starts soon, promising fun competition.</description>
+      <link>https://www.nintendolife.com/news/2026/06/dk-challenge-will-put-your-nso-and-bananza-skills-to-the-test-for-a-limited-time</link>
+      <guid isPermaLink="true">https://www.nintendolife.com/news/2026/06/dk-challenge-will-put-your-nso-and-bananza-skills-to-the-test-for-a-limited-time</guid>
+      <pubDate>2026-06-09T16:20:00Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.nintendolife.com/news/2026/06/dk-challenge-will-put-your-nso-and-bananza-skills-to-the-test-for-a-limited-time">Nintendo Life</source>
+    </item>
+    <item>
+      <title>macOS 27 Finally Brings Direct Touch Control to Sidecar</title>
+      <description>macOS 27 introduces direct touch control for Sidecar, allowing iPad users to interact with macOS elements directly. This feature enhances usability significantly.</description>
+      <link>https://www.macrumors.com/2026/06/09/macos-27-brings-direct-touch-control-to-sidecar/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/06/09/macos-27-brings-direct-touch-control-to-sidecar/</guid>
+      <pubDate>2026-06-09T16:17:00Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.macrumors.com/2026/06/09/macos-27-brings-direct-touch-control-to-sidecar/">MacRumors</source>
+    </item>
+    <item>
+      <title>Final Fantasy gets its first HD-2D game, and it was worth the wait</title>
+      <description>Final Fantasy Resonance debuts as the franchise's first HD-2D game, blending nostalgia with modern graphics. Fans are excited about this new direction.</description>
+      <link>https://www.polygon.com/final-fantasy-resonance-trailer-date-switch-2-hd-2d-sprite-art-square/</link>
+      <guid isPermaLink="true">https://www.polygon.com/final-fantasy-resonance-trailer-date-switch-2-hd-2d-sprite-art-square/</guid>
+      <pubDate>2026-06-09T15:34:50Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.polygon.com/final-fantasy-resonance-trailer-date-switch-2-hd-2d-sprite-art-square/">Polygon</source>
+    </item>
+    <item>
+      <title>New Joy-Con Colours And A Stand-Alone Direct Are Inbound For Splatoon Raiders</title>
+      <description>Nintendo announces new Joy-Con colors and a dedicated Direct for Splatoon Raiders, generating excitement among fans. More details are expected soon.</description>
+      <link>https://www.nintendolife.com/news/2026/06/new-joy-con-colours-and-a-stand-alone-direct-are-inbound-for-splatoon-raiders</link>
+      <guid isPermaLink="true">https://www.nintendolife.com/news/2026/06/new-joy-con-colours-and-a-stand-alone-direct-are-inbound-for-splatoon-raiders</guid>
+      <pubDate>2026-06-09T15:25:00Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.nintendolife.com/news/2026/06/new-joy-con-colours-and-a-stand-alone-direct-are-inbound-for-splatoon-raiders">Nintendo Life</source>
+    </item>
+    <item>
+      <title>Fire Emblem: Fortune’s Weave boxart, screenshots</title>
+      <description>Fire Emblem: Fortune’s Weave reveals its official boxart and new screenshots following the Nintendo Direct. Fans are excited for this new entry.</description>
+      <link>https://nintendoeverything.com/fire-emblem-fortunes-weave-boxart-screenshots/</link>
+      <guid isPermaLink="true">https://nintendoeverything.com/fire-emblem-fortunes-weave-boxart-screenshots/</guid>
+      <pubDate>2026-06-09T15:13:58Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://nintendoeverything.com/fire-emblem-fortunes-weave-boxart-screenshots/">nintendoeverything.com</source>
+    </item>
+    <item>
+      <title>Over A Year Before Release, Stellar Blade: Blood Rain’s New Hero Evie Draws Fire</title>
+      <description>Stellar Blade: Blood Rain introduces a new protagonist, Evie, stirring controversy ahead of its release next year. Fans are divided over the character's design.</description>
+      <link>https://www.forbes.com/sites/paultassi/2026/06/09/over-a-year-before-release-stellar-blade-blood-rains-new-hero-evie-draws-fire/</link>
+      <guid isPermaLink="true">https://www.forbes.com/sites/paultassi/2026/06/09/over-a-year-before-release-stellar-blade-blood-rains-new-hero-evie-draws-fire/</guid>
+      <pubDate>2026-06-09T15:08:23Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.forbes.com/sites/paultassi/2026/06/09/over-a-year-before-release-stellar-blade-blood-rains-new-hero-evie-draws-fire/">Forbes</source>
+    </item>
+    <item>
+      <title>Kingdom Hearts IV Gameplay Trailer Revealed, Will Launch Simultaneously On Consoles And PC</title>
+      <description>Kingdom Hearts IV gameplay trailer unveiled, confirming simultaneous launch on consoles and PC. Fans are eager for more details on this highly anticipated sequel.</description>
+      <link>https://gameinformer.com/nintendo-direct/2026/06/09/kingdom-hearts-iv-gameplay-trailer-revealed-will-launch-simultaneously</link>
+      <guid isPermaLink="true">https://gameinformer.com/nintendo-direct/2026/06/09/kingdom-hearts-iv-gameplay-trailer-revealed-will-launch-simultaneously</guid>
+      <pubDate>2026-06-09T15:05:51Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://gameinformer.com/nintendo-direct/2026/06/09/kingdom-hearts-iv-gameplay-trailer-revealed-will-launch-simultaneously">Game Informer</source>
     </item>
   </channel>
 </rss>

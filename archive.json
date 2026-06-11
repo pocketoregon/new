@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-11T10:21:37.627549+00:00",
+      "fetched_at": "2026-06-11T10:21:37.627549+00:00",
+      "label": "Jun 11, 2026 — 10:22 AM UTC",
+      "articles": [
+        {
+          "title": "Nintendo Shares Slide After 2026 Game Showcase Disappoints",
+          "description": "Nintendo's stock dropped significantly after a lackluster game showcase failed to deliver new titles from major franchises. Investors expressed disappointment over the presentation.",
+          "category": "Gaming",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-10/nintendo-shares-slide-after-2026-game-showcase-disappoints",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDPtxeHvtgQc/v0/1200x800.jpg",
+          "published_at": "2026-06-10T00:29:00Z",
+          "key_points": [
+            "Stock fell significantly",
+            "Lack of new titles",
+            "Investors disappointed"
+          ],
+          "impact": "Nintendo's market confidence takes a hit.",
+          "id": "c373eedefb71ac2ac64e208674563464"
+        },
+        {
+          "title": "Toby Fox Shares New Development Update On Deltarune Chapter 6",
+          "description": "Toby Fox announced progress on Deltarune Chapter 6, with plans to start Chapter 7 development this year. Fans eagerly await further updates.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/toby-fox-shares-new-development-update-on-deltarune-chapter-6",
+          "image": "https://images.nintendolife.com/90a8e8ca82632/large.jpg",
+          "published_at": "2026-06-09T23:30:00Z",
+          "key_points": [
+            "Chapter 6 development ongoing",
+            "Chapter 7 may start soon",
+            "Fans excited for updates"
+          ],
+          "impact": "Deltarune's future looks promising for fans.",
+          "id": "132031a084cea8f625d16cf60b76d65a"
+        },
+        {
+          "title": "The 25 Most Exciting Games Of Summer Game Fest 2026",
+          "description": "The Summer Game Fest showcased numerous trailers, highlighting the most anticipated games of the season. Here are the top 25 picks from the event.",
+          "category": "Gaming",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/sgf-2026/2026/06/09/the-25-most-exciting-games-of-summer-game-fest-2026",
+          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/09/3809ad38/Best%20of%20SGF%20Header.jpg.webp",
+          "published_at": "2026-06-09T22:21:53Z",
+          "key_points": [
+            "Top 25 games revealed",
+            "Exciting trailers showcased",
+            "Fans eager for releases"
+          ],
+          "impact": "Summer Game Fest sets high expectations.",
+          "id": "7ec01c12e65609e38e54408d1be80bbf"
+        },
+        {
+          "title": "The App Store is going to add subscription bundles soon",
+          "description": "Apple's App Store will introduce subscription bundles for iPhone apps, enhancing user experience with grouped subscriptions. This change comes with iOS 27.",
+          "category": "Software",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/947365/apple-subscription-bundles-app-store",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23925966/acastro_STK045_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-09T21:30:48Z",
+          "key_points": [
+            "New subscription bundles coming",
+            "Enhances user experience",
+            "Part of iOS 27 update"
+          ],
+          "impact": "Apple improves App Store subscription model.",
+          "id": "5b8444b174c02474ac82f18cafc3756a"
+        },
+        {
+          "title": "NBA The Run Review",
+          "description": "NBA The Run offers a quick-match basketball experience reminiscent of NBA Street, but lacks depth. It's a fun yet shallow gameplay option for fans.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/nba-the-run-review",
+          "image": "https://assets-prd.ignimgs.com/2026/06/09/nba-the-run-blogroll-1781027696109.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-09T18:11:18Z",
+          "key_points": [
+            "Quick-match basketball game",
+            "Feels like NBA Street",
+            "Lacks gameplay depth"
+          ],
+          "impact": "NBA The Run appeals to casual players.",
+          "id": "f26de2372e028e6244984ca0b0869b27"
+        },
+        {
+          "title": "God of War Laufey Director Pushes Back on Cosmic Cube Criticism",
+          "description": "The director of God of War Laufey defends the inclusion of Phranque, stating it was always planned and enhances gameplay mechanics. Fans remain divided.",
+          "category": "Gaming",
+          "source": "Wccftech",
+          "url": "https://wccftech.com/god-of-war-laufey-phranque-cosmic-cube/",
+          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/God-of-War-Laufey-Cube-HD-1920x1080.jpeg",
+          "published_at": "2026-06-09T18:00:00Z",
+          "key_points": [
+            "Director defends Phranque's role",
+            "Enhances gameplay mechanics",
+            "Fans express mixed reactions"
+          ],
+          "impact": "Controversy surrounds God of War Laufey.",
+          "id": "5db21e08ba3cfb90268db4228b1cd343"
+        },
+        {
+          "title": "Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws",
+          "description": "Microsoft's June Patch Tuesday addresses 200 vulnerabilities, including three critical zero-day flaws. Users are urged to update their systems immediately.",
+          "category": "Security",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/",
+          "image": "https://www.bleepingcomputer.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg",
+          "published_at": "2026-06-09T17:57:59Z",
+          "key_points": [
+            "200 vulnerabilities fixed",
+            "Three zero-day flaws addressed",
+            "Immediate updates recommended"
+          ],
+          "impact": "Critical security updates enhance user safety.",
+          "id": "f7d5968e7e560f55ca59a8891b182f35"
+        },
+        {
+          "title": "Pokemon Pokopia Getting Free Underwater Expansion And Paid DLC",
+          "description": "Pokemon Pokopia will receive a free underwater expansion alongside paid DLC, creating some confusion among players. Clarifications are provided on the offerings.",
+          "category": "Gaming",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/pokemon-pokopia-getting-free-underwater-expansion-and-paid-dlc-and-its-all-a-little-confusing/",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/04/gamespot.png",
+          "published_at": "2026-06-09T17:14:45Z",
+          "key_points": [
+            "Free underwater expansion announced",
+            "Paid DLC details confusing",
+            "Clarifications provided for players"
+          ],
+          "impact": "Pokemon Pokopia expands with new content.",
+          "id": "9510133ee5428d0102320681be21aae2"
+        },
+        {
+          "title": "'DK Challenge' Will Put Your NSO & Bananza Skills To The Test",
+          "description": "Nintendo announces the 'DK Challenge' event, testing players' skills in a Mario-themed Bananza. The event starts soon, promising fun competition.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/dk-challenge-will-put-your-nso-and-bananza-skills-to-the-test-for-a-limited-time",
+          "image": "https://images.nintendolife.com/5c776e2999bf4/large.jpg",
+          "published_at": "2026-06-09T16:20:00Z",
+          "key_points": [
+            "New 'DK Challenge' event",
+            "Mario-themed competition",
+            "Starts June 10th"
+          ],
+          "impact": "Nintendo engages players with new challenges.",
+          "id": "ef4cf11ebb68e17a5153a8cfeb7240e7"
+        },
+        {
+          "title": "macOS 27 Finally Brings Direct Touch Control to Sidecar",
+          "description": "macOS 27 introduces direct touch control for Sidecar, allowing iPad users to interact with macOS elements directly. This feature enhances usability significantly.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/09/macos-27-brings-direct-touch-control-to-sidecar/",
+          "image": "https://images.macrumors.com/t/cQXpBanzMoUQ8VdGvSBPHNEPQCw=/1600x/article-new/2026/06/macos-sidecar.jpg",
+          "published_at": "2026-06-09T16:17:00Z",
+          "key_points": [
+            "Direct touch control added",
+            "Enhances usability for iPad users",
+            "Part of macOS 27 update"
+          ],
+          "impact": "Apple improves Sidecar functionality.",
+          "id": "8e5152288963f2efc497dab3ca86064b"
+        },
+        {
+          "title": "Final Fantasy gets its first HD-2D game, and it was worth the wait",
+          "description": "Final Fantasy Resonance debuts as the franchise's first HD-2D game, blending nostalgia with modern graphics. Fans are excited about this new direction.",
+          "category": "Gaming",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/final-fantasy-resonance-trailer-date-switch-2-hd-2d-sprite-art-square/",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/2d.JPG?w=1600&h=900&fit=crop",
+          "published_at": "2026-06-09T15:34:50Z",
+          "key_points": [
+            "First HD-2D Final Fantasy game",
+            "Combines nostalgia with modern graphics",
+            "Fans excited for new direction"
+          ],
+          "impact": "Final Fantasy embraces innovative gameplay style.",
+          "id": "8e72d5b0bd468b83ad700c56a0343e2e"
+        },
+        {
+          "title": "New Joy-Con Colours And A Stand-Alone Direct Are Inbound For Splatoon Raiders",
+          "description": "Nintendo announces new Joy-Con colors and a dedicated Direct for Splatoon Raiders, generating excitement among fans. More details are expected soon.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/new-joy-con-colours-and-a-stand-alone-direct-are-inbound-for-splatoon-raiders",
+          "image": "https://images.nintendolife.com/c26af73bcd346/large.jpg",
+          "published_at": "2026-06-09T15:25:00Z",
+          "key_points": [
+            "New Joy-Con colors revealed",
+            "Stand-alone Direct announced",
+            "Fans eager for updates"
+          ],
+          "impact": "Nintendo keeps Splatoon fans engaged.",
+          "id": "8ddcd016f3482042b7c53b93624de657"
+        },
+        {
+          "title": "Fire Emblem: Fortune’s Weave boxart, screenshots",
+          "description": "Fire Emblem: Fortune’s Weave reveals its official boxart and new screenshots following the Nintendo Direct. Fans are excited for this new entry.",
+          "category": "Gaming",
+          "source": "nintendoeverything.com",
+          "url": "https://nintendoeverything.com/fire-emblem-fortunes-weave-boxart-screenshots/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Fire-Emblem-Fortunes-Weave-boxart.jpg",
+          "published_at": "2026-06-09T15:13:58Z",
+          "key_points": [
+            "Official boxart revealed",
+            "New screenshots shared",
+            "Fans excited for new entry"
+          ],
+          "impact": "Fire Emblem series continues to expand.",
+          "id": "39602f0f7525e72dc01bf2a1cab68be9"
+        },
+        {
+          "title": "Over A Year Before Release, Stellar Blade: Blood Rain’s New Hero Evie Draws Fire",
+          "description": "Stellar Blade: Blood Rain introduces a new protagonist, Evie, stirring controversy ahead of its release next year. Fans are divided over the character's design.",
+          "category": "Gaming",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/06/09/over-a-year-before-release-stellar-blade-blood-rains-new-hero-evie-draws-fire/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a282a7c5d3df6cb6e1cf00c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-09T15:08:23Z",
+          "key_points": [
+            "New hero Evie introduced",
+            "Controversy over character design",
+            "Game releases next year"
+          ],
+          "impact": "Stellar Blade sparks debate among fans.",
+          "id": "00995815d95bcaa3d185e6d073912bcb"
+        },
+        {
+          "title": "Kingdom Hearts IV Gameplay Trailer Revealed, Will Launch Simultaneously On Consoles And PC",
+          "description": "Kingdom Hearts IV gameplay trailer unveiled, confirming simultaneous launch on consoles and PC. Fans are eager for more details on this highly anticipated sequel.",
+          "category": "Gaming",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/nintendo-direct/2026/06/09/kingdom-hearts-iv-gameplay-trailer-revealed-will-launch-simultaneously",
+          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/09/155adcf5/kh4_04.jpg.webp",
+          "published_at": "2026-06-09T15:05:51Z",
+          "key_points": [
+            "Gameplay trailer revealed",
+            "Simultaneous launch confirmed",
+            "Fans eagerly await details"
+          ],
+          "impact": "Kingdom Hearts IV builds excitement for fans.",
+          "id": "b50be35410bec0e30d5967d9e5f42241"
+        }
+      ]
+    },
+    {
       "id": "2026-06-11T03:51:57.520378+00:00",
       "fetched_at": "2026-06-11T03:51:57.520378+00:00",
       "label": "Jun 11, 2026 — 03:52 AM UTC",
@@ -5272,253 +5519,6 @@
           ],
           "impact": "This update enhances player engagement and excitement.",
           "id": "1f7af935778e43df57864b82ee2aa741"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-06T08:32:37.593130+00:00",
-      "fetched_at": "2026-06-06T08:32:37.593130+00:00",
-      "label": "Jun 06, 2026 — 08:33 AM UTC",
-      "articles": [
-        {
-          "title": "Persona 6 Images Leak Ahead of Summer Game Fest",
-          "description": "Leaked images of Persona 6 have surfaced online, stirring excitement among fans. Sega is reportedly behind the takedowns of these images.",
-          "category": "Gaming",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/06/rumour-persona-6-images-supposedly-leak-online",
-          "image": "https://images.nintendolife.com/348835e7ab1c1/large.jpg",
-          "published_at": "2026-06-05T05:30:00Z",
-          "key_points": [
-            "Persona 6 images leaked online",
-            "Sega involved in takedowns",
-            "Excitement builds for release"
-          ],
-          "impact": "Fans eagerly await official announcements.",
-          "id": "7c96cabd3492518f7b1ac92f965e4c49"
-        },
-        {
-          "title": "Black Ops 7's Classic Mode Addresses Player Concerns",
-          "description": "Call of Duty: Black Ops 7 introduces a new Classic mode, addressing player feedback and enhancing gameplay experience. Players are enjoying the significant changes.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/black-ops-7s-new-classic-mode-seems-to-fix-a-lot-of-issues-players-have-with-the-game",
-          "image": "https://assets-prd.ignimgs.com/2025/11/04/blackops7thumb-1762276682204.png?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-05T00:49:00Z",
-          "key_points": [
-            "New Classic mode launched",
-            "Addresses player issues",
-            "Positive reception from players"
-          ],
-          "impact": "Players are more engaged with the game.",
-          "id": "90b6861ec3a81df5e659f86cdfe0498f"
-        },
-        {
-          "title": "Microsoft's AI Chief Critiques Anthropic Models' Costs",
-          "description": "Microsoft's AI chief claims Anthropic's models are too expensive. The company is focusing on developing more affordable in-house AI solutions.",
-          "category": "Business",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-06-04/microsoft-says-anthropic-models-are-too-expensive",
-          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKKTzuLapJ28/v9/1200x800.jpg",
-          "published_at": "2026-06-05T00:41:51Z",
-          "key_points": [
-            "Anthropic models deemed too costly",
-            "Microsoft seeks cheaper alternatives",
-            "Focus on in-house AI development"
-          ],
-          "impact": "Microsoft aims to reduce AI development costs.",
-          "id": "4124bccf95325b8c55d8600903958c29"
-        },
-        {
-          "title": "Student Identifies Teacher's ADHD Through Handwriting",
-          "description": "A student recognized their teacher's ADHD by analyzing her handwriting, sparking discussions about ADHD traits. The incident has gone viral on social media.",
-          "category": "Science",
-          "source": "Buzzfeed",
-          "url": "https://www.buzzfeed.com/kristatorres/adhd-handwriting-tiktok",
-          "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/21/thumb/7NAq93rfd.jpg?crop=1250:654;0,22&downsize=1250:*",
-          "published_at": "2026-06-04T21:57:10Z",
-          "key_points": [
-            "Student identifies ADHD through handwriting",
-            "Viral discussion on social media",
-            "ADHD traits highlighted"
-          ],
-          "impact": "Raises awareness about ADHD characteristics.",
-          "id": "8abeedcb37f0f42ad827e6bf24f64c21"
-        },
-        {
-          "title": "Behind the Scenes of The Adventures of Elliot",
-          "description": "Square Enix and Claytechworks release a 13-minute making-of video for The Adventures of Elliot: The Millennium Tales. Fans get an inside look at the game's development.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/the-adventures-of-elliot-the-millennium-tales-making-of-video",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Elliot-BtS_06-04-26.jpg",
-          "published_at": "2026-06-04T21:34:02Z",
-          "key_points": [
-            "Making-of video released",
-            "Insights into game development",
-            "Fans excited for new RPG"
-          ],
-          "impact": "Increases anticipation for the game release.",
-          "id": "0a23d45e642849443f491929e8cbf3ff"
-        },
-        {
-          "title": "Amazon Revamps Gaming Strategy with New Titles",
-          "description": "Amazon's new gaming strategy includes partnerships with James Bond and AI-powered games. The company aims to strengthen its position in the gaming market.",
-          "category": "Gaming",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/007_keyart_1920-1080-clean.jpg.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-          "published_at": "2026-06-04T17:01:15Z",
-          "key_points": [
-            "New gaming strategy unveiled",
-            "Focus on James Bond franchise",
-            "AI-powered games in development"
-          ],
-          "impact": "Amazon aims to enhance its gaming portfolio.",
-          "id": "af2ca91f252c671cf28e95a482ea2f48"
-        },
-        {
-          "title": "Meta Launches AI Creator Assistant on Facebook",
-          "description": "Meta introduces a new AI creator assistant on Facebook, providing personalized recommendations for content creators. This tool simplifies performance analysis and engagement strategies.",
-          "category": "Software",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Introducing-Creator-Assistant-Plus-More-Languages-for-AI-Translations-on-Facebook_Header.jpg?resize=1200,675",
-          "published_at": "2026-06-04T16:32:48Z",
-          "key_points": [
-            "New AI assistant launched",
-            "Personalized recommendations for creators",
-            "Simplifies performance tracking"
-          ],
-          "impact": "Enhances creator experience on Facebook.",
-          "id": "36b17b2ca4f8c11f4a8903736839a3e6"
-        },
-        {
-          "title": "Apple and MLB Reveal July Baseball Schedule",
-          "description": "Apple and Major League Baseball announce the July schedule for 'Friday Night Baseball' on Apple TV, featuring exciting matchups. Fans can look forward to a thrilling month of games.",
-          "category": "Gaming",
-          "source": "Apple",
-          "url": "https://www.apple.com/newsroom/2026/06/apple-and-major-league-baseball-announce-july-friday-night-baseball-schedule/",
-          "image": "https://www.apple.com/newsroom/images/2026/06/apple-and-major-league-baseball-announce-july-friday-night-baseball-schedule/tile/Apple-Friday-Night-Baseball-hero-lp.jpg.og.jpg?202606041559",
-          "published_at": "2026-06-04T16:01:37Z",
-          "key_points": [
-            "July baseball schedule announced",
-            "Exciting matchups on Apple TV",
-            "Fans eager for upcoming games"
-          ],
-          "impact": "Increases viewership for Friday Night Baseball.",
-          "id": "512b9cce8ae26e9f2bfa5333e4a27e24"
-        },
-        {
-          "title": "Destiny 2 Ending Content Sparks Controversy",
-          "description": "Bungie announces the end of ongoing content for Destiny 2, shifting focus to new projects. The decision has upset many fans, including industry peers.",
-          "category": "Gaming",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/destiny-2-ending-new-content-is-unthinkable-warframe-dev-says/",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/D2.jpg",
-          "published_at": "2026-06-04T15:39:55Z",
-          "key_points": [
-            "Bungie ends Destiny 2 content",
-            "Fans express disappointment",
-            "Shift to new projects confirmed"
-          ],
-          "impact": "Fans are concerned about the game's future.",
-          "id": "f4642a6abf1cf8efe26a0f45a3016f55"
-        },
-        {
-          "title": "Helldivers 2 Introduces New Roguelite Mode",
-          "description": "Helldivers 2 is set to launch a new roguelite mode called Planet Warfronts, enhancing gameplay with fresh mechanics. Developers aim to improve the overall experience.",
-          "category": "Gaming",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/we-didnt-have-the-content-needed-to-do-it-justice-at-the-time-helldivers-2-is-finally-getting-a-roguelite-system-arrowhead-experimented-with-pre-launch",
-          "image": "https://assetsio.gnwcdn.com/helldivers-2-planet-warfronts-confirmed-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-04T14:45:27Z",
-          "key_points": [
-            "New roguelite mode announced",
-            "Enhances gameplay mechanics",
-            "Developers aim for better experience"
-          ],
-          "impact": "Players excited for new gameplay features.",
-          "id": "7c798b01b274b4860c98dfdacd2d2a14"
-        },
-        {
-          "title": "Kratos Will Return in Future God of War Games",
-          "description": "Sony Santa Monica reassures fans that Kratos will return in future God of War titles, despite recent game developments. The beloved character remains central to the franchise.",
-          "category": "Gaming",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/god-of-war-laufey-more-kratos-games-coming",
-          "image": "https://assetsio.gnwcdn.com/god-of-war-laufey-reveal-screen-3.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-04T14:32:40Z",
-          "key_points": [
-            "Kratos confirmed for future games",
-            "Fans reassured by developers",
-            "Franchise remains strong"
-          ],
-          "impact": "Fans can expect more Kratos adventures.",
-          "id": "5666ccd8affd9b8d6b73b629a5d3ba09"
-        },
-        {
-          "title": "Cassette Beasts 2002 Announced for Nintendo Switch 2",
-          "description": "A sequel to the original Cassette Beasts, titled Cassette Beasts 2002, has been revealed for the Nintendo Switch 2. Fans are eager for more details.",
-          "category": "Gaming",
-          "source": "Nintendoeverything.com",
-          "url": "https://nintendoeverything.com/cassette-beasts-2002-a-follow-up-to-the-original-cassette-beasts-revealed-for-nintendo-switch-2/",
-          "image": "",
-          "published_at": "2026-06-04T14:07:09Z",
-          "key_points": [
-            "Cassette Beasts sequel announced",
-            "Coming to Nintendo Switch 2",
-            "Fans excited for new features"
-          ],
-          "impact": "Anticipation builds for the sequel's release.",
-          "id": "220e9d45f0f0b6fe01051527b8998c2c"
-        },
-        {
-          "title": "Ace Combat 8: Wings of Theve Preview",
-          "description": "A preview of Ace Combat 8: Wings of Theve reveals insights into the game's military narrative and pilot training. Players can expect an engaging storyline.",
-          "category": "Gaming",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/previews/ace-combat-8-wings-of-theve-journal-of-an-fcu-pilot-in-training",
-          "image": "https://images.pushsquare.com/e58e3846ff8e4/large.jpg",
-          "published_at": "2026-06-04T13:30:00Z",
-          "key_points": [
-            "Ace Combat 8 previewed",
-            "Focus on military narrative",
-            "Engaging pilot training experience"
-          ],
-          "impact": "Players look forward to the new storyline.",
-          "id": "7f0841dfdbb5fcf1872eb605b9f90cd6"
-        },
-        {
-          "title": "Marathon Season 2: The Good and Bad",
-          "description": "Bungie's Marathon season 2 introduces new features but also faces criticism for disrupting core gameplay. Players share mixed reactions to the changes.",
-          "category": "Gaming",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/paultassi/2026/06/04/the-good-and-bad-of-marathon-season-2-so-far/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a217a9b59bfa32b5103bb88/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "published_at": "2026-06-04T13:20:31Z",
-          "key_points": [
-            "Marathon season 2 launched",
-            "New features introduced",
-            "Mixed player reactions reported"
-          ],
-          "impact": "Players are divided on the new season.",
-          "id": "3bd673788ae631c604aadaf3399f4da2"
-        },
-        {
-          "title": "Nvidia RTX Spark PCs Expected to Be Expensive",
-          "description": "Upcoming Nvidia RTX Spark PCs are anticipated to have high price points, designed for advanced AI applications. Consumers brace for the financial impact.",
-          "category": "Hardware",
-          "source": "PCWorld",
-          "url": "https://www.pcworld.com/article/3156219/the-price-of-nvidia-rtx-spark-pcs-is-going-to-hurt.html",
-          "image": "https://www.pcworld.com/wp-content/uploads/2026/06/IMG_0995-sm.jpg?quality=50&strip=all&w=1024",
-          "published_at": "2026-06-04T12:00:00Z",
-          "key_points": [
-            "Nvidia RTX Spark PCs priced high",
-            "Designed for AI applications",
-            "Consumers prepare for costs"
-          ],
-          "impact": "High prices may limit consumer access.",
-          "id": "f9852505a3bde614d105025b887c9f6e"
         }
       ]
     }
