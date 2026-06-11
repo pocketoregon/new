@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-11T15:58:26.793636+00:00",
+      "fetched_at": "2026-06-11T15:58:26.793636+00:00",
+      "label": "Jun 11, 2026 — 03:59 PM UTC",
+      "articles": [
+        {
+          "title": "Minecraft 26.2 Pre-Release 6 Released",
+          "description": "Minecraft 26.2 Pre-Release 6 fixes spectating issues after dying in hardcore mode. Players can now enjoy a smoother experience post-death.",
+          "category": "Gaming",
+          "source": "Minecraft.net",
+          "url": "https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release-6",
+          "image": "https://www.minecraft.net/content/dam/minecraftnet/article-asset/2026/minecraft-26-2-pre-release-6/new-article-hero-image.jpg",
+          "published_at": "2026-06-10T14:03:30Z",
+          "key_points": [
+            "Fixes hardcore spectating",
+            "Improves player experience",
+            "New features included"
+          ],
+          "impact": "This update enhances gameplay for hardcore players.",
+          "id": "9ca36c0161b7e231cf88bef852603c74"
+        },
+        {
+          "title": "iOS 27 Enhances HomePod with AutoMix",
+          "description": "iOS 27 introduces AutoMix for HomePod, blending songs using AI. This feature enhances the music experience for Apple Music users.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/10/ios-27-new-functionality-to-homepod/",
+          "image": "https://images.macrumors.com/t/LrnoI49mYocvEDjkwXP6ql9E3nM=/1600x/article-new/2021/02/HomePodandMini-feature-green.jpg",
+          "published_at": "2026-06-10T10:02:38Z",
+          "key_points": [
+            "Introduces AutoMix feature",
+            "Enhances Apple Music",
+            "Supports seamless song blending"
+          ],
+          "impact": "HomePod users gain a richer music experience.",
+          "id": "0a524724840da7e51e280422dbbfcde3"
+        },
+        {
+          "title": "Valve Phases Out Physical Steam Gift Cards",
+          "description": "Valve confirms the discontinuation of physical Steam Gift Cards after current stocks are sold. This change is due to increased scams.",
+          "category": "Gaming",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/gaming/pc-gaming/scammers-have-adapted-valve-confirms-that-physical-steam-gift-cards-are-dead",
+          "image": "https://cdn.mos.cms.futurecdn.net/XjKB7kKsaNLFSgmJiCYaSa-1280-80.jpg",
+          "published_at": "2026-06-10T09:25:31Z",
+          "key_points": [
+            "Physical cards are discontinued",
+            "Scams prompted the decision",
+            "Digital options remain available"
+          ],
+          "impact": "Valve shifts focus to digital gift options.",
+          "id": "cc19a2649becbc02a32cee2dbd63f45c"
+        },
+        {
+          "title": "Cliff Bleszinski Praises Xbox's Direction",
+          "description": "Gears of War creator Cliff Bleszinski supports Xbox's decision to make E-Day a console exclusive. He believes it's a positive move for the brand.",
+          "category": "Gaming",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gears-of-war-e-day-xbox-console-exclusive-cliff-bleszinski",
+          "image": "https://assetsio.gnwcdn.com/eday-cliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-10T09:24:25Z",
+          "key_points": [
+            "E-Day is Xbox exclusive",
+            "Bleszinski supports decision",
+            "Positive for brand perception"
+          ],
+          "impact": "This move may strengthen Xbox's market position.",
+          "id": "509757c17491be00f4d7e898deb3e705"
+        },
+        {
+          "title": "iPhone 17 Lacks Siri Features Due to RAM Limit",
+          "description": "The iPhone 17's 8GB RAM limit prevents it from supporting advanced Siri AI features in iOS 27. Users may miss out on enhanced capabilities.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/10/iphone-17s-8gb-limit-loses-siri-ai-features/",
+          "image": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg",
+          "published_at": "2026-06-10T09:19:58Z",
+          "key_points": [
+            "iPhone 17 limited to 8GB RAM",
+            "Loses advanced Siri features",
+            "Impacts user experience"
+          ],
+          "impact": "Users may experience reduced Siri functionality.",
+          "id": "29ed78017dc49e0e50b95069ea15dc72"
+        },
+        {
+          "title": "Office 2019 for Mac to Lose Editing Features",
+          "description": "Microsoft will disable editing and saving for Office 2019 on Mac starting July 13 due to a certificate issue. Users need to upgrade to continue using Office.",
+          "category": "Software",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/947518/microsoft-office-2019-for-mac-end-of-support-no-edit",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-10T09:14:35Z",
+          "key_points": [
+            "Editing disabled from July 13",
+            "Certificate issue causes disruption",
+            "Upgrade required for continued use"
+          ],
+          "impact": "Users must upgrade to avoid losing access.",
+          "id": "0e2c95088c0dd2444aaafb9010b452e5"
+        },
+        {
+          "title": "Logitech Launches Compact Mobi Fold Mouse",
+          "description": "Logitech's Mobi Fold is a portable mouse that folds in half, making it easy to carry without sacrificing functionality. Ideal for travelers.",
+          "category": "Hardware",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/945549/logitech-mobi-fold-wireless-bluetooth-travel-mouse-hands-on",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/logitech10.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+          "published_at": "2026-06-10T07:01:00Z",
+          "key_points": [
+            "Compact folding design",
+            "Ideal for travel",
+            "Maintains full functionality"
+          ],
+          "impact": "Travelers gain a convenient mouse option.",
+          "id": "140a3cc3f697ceaea48966a1902dc1dc"
+        },
+        {
+          "title": "Xbox Boss Discusses Future Console Models",
+          "description": "Xbox's leadership hints at new console models to cater to diverse audiences. They aim to make gaming more accessible and affordable.",
+          "category": "Gaming",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/06/well-start-to-see-radically-different-business-models-xbox-boss-talks-future-of-consoles",
+          "image": "https://images.purexbox.com/47025abde1e5a/large.jpg",
+          "published_at": "2026-06-09T23:00:00Z",
+          "key_points": [
+            "New console models planned",
+            "Focus on affordability",
+            "Aim for broader audience"
+          ],
+          "impact": "Microsoft seeks to expand its gaming market.",
+          "id": "f7d27fdb0b68fdc530b1f16d4aa7ac04"
+        },
+        {
+          "title": "Record Patch Tuesday Fixes 200 Security Flaws",
+          "description": "Microsoft's June Patch Tuesday addresses nearly 200 security vulnerabilities across Windows and software, marking a record for the company.",
+          "category": "Security",
+          "source": "Krebs on Security",
+          "url": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
+          "image": "",
+          "published_at": "2026-06-09T22:20:39Z",
+          "key_points": [
+            "200 vulnerabilities patched",
+            "Record number of fixes",
+            "Enhances system security"
+          ],
+          "impact": "Users benefit from improved security measures.",
+          "id": "213876dbb156473d0909768f5a7305cb"
+        },
+        {
+          "title": "Google's Gemini 3.5 Translates Conversations Live",
+          "description": "Gemini 3.5 offers real-time translation, allowing seamless multilingual conversations. This AI tool enhances communication across languages.",
+          "category": "Software",
+          "source": "CNET",
+          "url": "https://www.cnet.com/tech/services-and-software/gemini-3-5-live-translation-real-time-multilingual-conversation/",
+          "image": "https://www.cnet.com/a/img/resize/f8cbb03e31c20ee58d096f6c18e9af58992a9626/hub/2026/06/09/f2586ef0-93ed-4ab0-bf83-55f64d2a3915/screenshot-2026-06-09-at-1-18-00pm.png?auto=webp&fit=crop&height=675&width=1200",
+          "published_at": "2026-06-09T19:50:00Z",
+          "key_points": [
+            "Real-time multilingual translation",
+            "Enhances conversation flow",
+            "AI-driven communication tool"
+          ],
+          "impact": "This tool revolutionizes cross-language interactions.",
+          "id": "1a0eb9056b35cf59c3ad94ee2b7a2126"
+        },
+        {
+          "title": "macOS Golden Gate Updates Liquid Glass Design",
+          "description": "macOS Golden Gate addresses previous criticisms of Liquid Glass design, enhancing its aesthetic appeal and functionality on Macs.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/09/macos-golden-gate-liquid-glass/",
+          "image": "https://images.macrumors.com/t/688clqBOOkeLbR-dMl3V1--AVps=/2500x/article-new/2026/06/macOS-26-vs-27-Unified-Sidebar.jpg",
+          "published_at": "2026-06-09T19:11:35Z",
+          "key_points": [
+            "Improves Liquid Glass design",
+            "Addresses user feedback",
+            "Enhances Mac aesthetics"
+          ],
+          "impact": "Users will appreciate the refined design.",
+          "id": "87a654c05932785fdc2a5c28d27b28d6"
+        },
+        {
+          "title": "Google Fi Expands to 22 New Regions",
+          "description": "Google Fi enhances its service by expanding to 22 new regions, offering improved connectivity for travelers this summer.",
+          "category": "Business",
+          "source": "Android Police",
+          "url": "https://www.androidpolice.com/google-fi-lands-some-major-improvements-ahead-of-summer/",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/04/google-fi-wireless-card-pixel-8-background.JPG?w=1600&h=900&fit=crop",
+          "published_at": "2026-06-09T18:23:43Z",
+          "key_points": [
+            "Expands to 22 new regions",
+            "Improves travel connectivity",
+            "Enhances service offerings"
+          ],
+          "impact": "Travelers gain better connectivity options.",
+          "id": "4d67ea10636c5d95df6b0f6328d3decd"
+        },
+        {
+          "title": "iOS 27 Personalizes iPhone Lock Screen",
+          "description": "iOS 27 introduces a new setting for customizing the iPhone Lock Screen, enhancing personalization options for users.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/09/ios-27-adds-unique-new-setting-to-personalize-your-iphones-lock-screen/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-lock-screen-clock-small.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-09T17:44:00Z",
+          "key_points": [
+            "New Lock Screen customization",
+            "Enhances user personalization",
+            "Adds unique clock setting"
+          ],
+          "impact": "Users can enjoy a more personalized experience.",
+          "id": "4d4eb7597e2a03407261fa28b996b54f"
+        },
+        {
+          "title": "Google Partners with Paris Hilton for Android AI",
+          "description": "Google collaborates with Paris Hilton to promote Android and AI app development, highlighting new tools for users.",
+          "category": "Startups",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/09/google-teams-up-with-paris-hilton-to-showcase-android-and-ai-app-building/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/android-paris-hilton-1.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-09T17:40:00Z",
+          "key_points": [
+            "Partnership with Paris Hilton",
+            "Focus on Android AI tools",
+            "Promotes app development"
+          ],
+          "impact": "This collaboration boosts Android's visibility.",
+          "id": "f18a01285091a2c635406a749144aea1"
+        },
+        {
+          "title": "Insta360 Luna Ultra Camera Partially Revealed",
+          "description": "The Insta360 Luna Ultra camera is available for purchase, but key details remain undisclosed. Content creators await more information.",
+          "category": "Startups",
+          "source": "PetaPixel",
+          "url": "https://petapixel.com/2026/06/09/you-can-buy-the-luna-ultra-camera-insta360-only-sorta-unveiled/",
+          "image": "https://petapixel.com/assets/uploads/2026/06/insta360-luna-ultra-featured.jpg",
+          "published_at": "2026-06-09T16:41:13Z",
+          "key_points": [
+            "Camera partially unveiled",
+            "Details still pending",
+            "Available for purchase now"
+          ],
+          "impact": "Content creators are eager for full specs.",
+          "id": "bb097d830d075e06015ae308aa34d87f"
+        }
+      ]
+    },
+    {
       "id": "2026-06-11T10:21:37.627549+00:00",
       "fetched_at": "2026-06-11T10:21:37.627549+00:00",
       "label": "Jun 11, 2026 — 10:22 AM UTC",
@@ -5448,77 +5695,6 @@
           ],
           "impact": "Participants have a chance to win big.",
           "id": "a8c77919694b6d30dee263f79e9da3eb"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-06T10:53:13.558585+00:00",
-      "fetched_at": "2026-06-06T10:53:13.558585+00:00",
-      "label": "Jun 06, 2026 — 10:53 AM UTC",
-      "articles": [
-        {
-          "title": "Meta's Smart Glasses Embed Face Recognition Code",
-          "description": "Meta has integrated face-recognition technology into its smart glasses app, now on millions of phones. This system identifies individuals using biometric data stored on devices.",
-          "category": "Security",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/",
-          "image": "https://media.wired.com/photos/6a1f7cd62dd56ccdeabd0786/191:100/w_1280,c_limit/security_meta_final_@.jpg",
-          "published_at": "2026-06-04T17:28:00Z",
-          "key_points": [
-            "Face recognition in smart glasses",
-            "Biometric data from phones",
-            "Millions of devices affected"
-          ],
-          "impact": "This raises significant privacy concerns for users.",
-          "id": "425fc226e514babffb7bb23e3df7af02"
-        },
-        {
-          "title": "Expert Tips for Capturing Northern Lights with Phone",
-          "description": "With strong northern lights expected, here's how to effectively photograph the aurora using your smartphone. Expert advice ensures you capture stunning images of this natural phenomenon.",
-          "category": "Science",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/jamiecartereurope/2026/06/04/how-i-photograph-the-northern-lights-with-my-phone---by-an-expert/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a21aeb443dc673441150726/0x0.jpg?format=jpg&crop=2049,1152,x207,y413,safe&height=900&width=1600&fit=bounds",
-          "published_at": "2026-06-04T17:19:36Z",
-          "key_points": [
-            "Strong aurora forecast",
-            "Smartphone photography tips",
-            "Capture stunning images"
-          ],
-          "impact": "This guide enhances your photography skills during auroras.",
-          "id": "f37d46b700890987862c6e8784b3eb12"
-        },
-        {
-          "title": "Samsung Cuts Exynos 2600 Chip Usage Amid Price Hikes",
-          "description": "Samsung Mobile is scaling back the Exynos 2600 chip in the Galaxy Z Flip 8 due to soaring costs from Samsung LSI. The company is now relying more on Qualcomm for its upcoming devices.",
-          "category": "Business",
-          "source": "Wccftech",
-          "url": "https://wccftech.com/samsung-lsis-price-gouging-pushes-exynos-2600-to-270-unit-forcing-samsung-mobile-to-bank-on-qualcomm-for-the-galaxy-z-flip-8/",
-          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/01/Exynos-2600-6.jpg",
-          "published_at": "2026-06-04T16:38:00Z",
-          "key_points": [
-            "Exynos 2600 price hikes",
-            "Samsung shifts to Qualcomm",
-            "Galaxy Z Flip 8 impacted"
-          ],
-          "impact": "This shift may affect Samsung's market competitiveness.",
-          "id": "b73005f883461471e07ed98607e88fda"
-        },
-        {
-          "title": "Le Mans Ultimate Introduces 2026 Cars and Free DLC",
-          "description": "Le Mans Ultimate has released a free update featuring 2026-spec cars, including Toyota and BMW hypercars, and the first LMP3 outside paid DLC. Exciting new content for racing fans is now available.",
-          "category": "Gaming",
-          "source": "Traxion.gg",
-          "url": "https://traxion.gg/le-mans-ultimate-adds-2026-spec-cars-and-free-lmp3/",
-          "image": "https://traxion.gg/wp-content/uploads/2026/06/1920x10802026_11.jpg",
-          "published_at": "2026-06-04T09:15:00Z",
-          "key_points": [
-            "Free update released",
-            "New 2026-spec cars",
-            "First free LMP3 addition"
-          ],
-          "impact": "This update enhances player engagement and excitement.",
-          "id": "1f7af935778e43df57864b82ee2aa741"
         }
       ]
     }

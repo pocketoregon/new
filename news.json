@@ -1,247 +1,247 @@
 {
   "date": "2026-06-11",
-  "generated_at": "2026-06-11T10:21:37.627549+00:00",
+  "generated_at": "2026-06-11T15:58:26.793636+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Nintendo Shares Slide After 2026 Game Showcase Disappoints",
-      "description": "Nintendo's stock dropped significantly after a lackluster game showcase failed to deliver new titles from major franchises. Investors expressed disappointment over the presentation.",
+      "title": "Minecraft 26.2 Pre-Release 6 Released",
+      "description": "Minecraft 26.2 Pre-Release 6 fixes spectating issues after dying in hardcore mode. Players can now enjoy a smoother experience post-death.",
       "category": "Gaming",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-10/nintendo-shares-slide-after-2026-game-showcase-disappoints",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDPtxeHvtgQc/v0/1200x800.jpg",
-      "published_at": "2026-06-10T00:29:00Z",
+      "source": "Minecraft.net",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release-6",
+      "image": "https://www.minecraft.net/content/dam/minecraftnet/article-asset/2026/minecraft-26-2-pre-release-6/new-article-hero-image.jpg",
+      "published_at": "2026-06-10T14:03:30Z",
       "key_points": [
-        "Stock fell significantly",
-        "Lack of new titles",
-        "Investors disappointed"
+        "Fixes hardcore spectating",
+        "Improves player experience",
+        "New features included"
       ],
-      "impact": "Nintendo's market confidence takes a hit.",
-      "id": "c373eedefb71ac2ac64e208674563464"
+      "impact": "This update enhances gameplay for hardcore players.",
+      "id": "9ca36c0161b7e231cf88bef852603c74"
     },
     {
-      "title": "Toby Fox Shares New Development Update On Deltarune Chapter 6",
-      "description": "Toby Fox announced progress on Deltarune Chapter 6, with plans to start Chapter 7 development this year. Fans eagerly await further updates.",
-      "category": "Gaming",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/06/toby-fox-shares-new-development-update-on-deltarune-chapter-6",
-      "image": "https://images.nintendolife.com/90a8e8ca82632/large.jpg",
-      "published_at": "2026-06-09T23:30:00Z",
-      "key_points": [
-        "Chapter 6 development ongoing",
-        "Chapter 7 may start soon",
-        "Fans excited for updates"
-      ],
-      "impact": "Deltarune's future looks promising for fans.",
-      "id": "132031a084cea8f625d16cf60b76d65a"
-    },
-    {
-      "title": "The 25 Most Exciting Games Of Summer Game Fest 2026",
-      "description": "The Summer Game Fest showcased numerous trailers, highlighting the most anticipated games of the season. Here are the top 25 picks from the event.",
-      "category": "Gaming",
-      "source": "Game Informer",
-      "url": "https://gameinformer.com/sgf-2026/2026/06/09/the-25-most-exciting-games-of-summer-game-fest-2026",
-      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/09/3809ad38/Best%20of%20SGF%20Header.jpg.webp",
-      "published_at": "2026-06-09T22:21:53Z",
-      "key_points": [
-        "Top 25 games revealed",
-        "Exciting trailers showcased",
-        "Fans eager for releases"
-      ],
-      "impact": "Summer Game Fest sets high expectations.",
-      "id": "7ec01c12e65609e38e54408d1be80bbf"
-    },
-    {
-      "title": "The App Store is going to add subscription bundles soon",
-      "description": "Apple's App Store will introduce subscription bundles for iPhone apps, enhancing user experience with grouped subscriptions. This change comes with iOS 27.",
-      "category": "Software",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/947365/apple-subscription-bundles-app-store",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23925966/acastro_STK045_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published_at": "2026-06-09T21:30:48Z",
-      "key_points": [
-        "New subscription bundles coming",
-        "Enhances user experience",
-        "Part of iOS 27 update"
-      ],
-      "impact": "Apple improves App Store subscription model.",
-      "id": "5b8444b174c02474ac82f18cafc3756a"
-    },
-    {
-      "title": "NBA The Run Review",
-      "description": "NBA The Run offers a quick-match basketball experience reminiscent of NBA Street, but lacks depth. It's a fun yet shallow gameplay option for fans.",
-      "category": "Gaming",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/nba-the-run-review",
-      "image": "https://assets-prd.ignimgs.com/2026/06/09/nba-the-run-blogroll-1781027696109.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-09T18:11:18Z",
-      "key_points": [
-        "Quick-match basketball game",
-        "Feels like NBA Street",
-        "Lacks gameplay depth"
-      ],
-      "impact": "NBA The Run appeals to casual players.",
-      "id": "f26de2372e028e6244984ca0b0869b27"
-    },
-    {
-      "title": "God of War Laufey Director Pushes Back on Cosmic Cube Criticism",
-      "description": "The director of God of War Laufey defends the inclusion of Phranque, stating it was always planned and enhances gameplay mechanics. Fans remain divided.",
-      "category": "Gaming",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/god-of-war-laufey-phranque-cosmic-cube/",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/God-of-War-Laufey-Cube-HD-1920x1080.jpeg",
-      "published_at": "2026-06-09T18:00:00Z",
-      "key_points": [
-        "Director defends Phranque's role",
-        "Enhances gameplay mechanics",
-        "Fans express mixed reactions"
-      ],
-      "impact": "Controversy surrounds God of War Laufey.",
-      "id": "5db21e08ba3cfb90268db4228b1cd343"
-    },
-    {
-      "title": "Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws",
-      "description": "Microsoft's June Patch Tuesday addresses 200 vulnerabilities, including three critical zero-day flaws. Users are urged to update their systems immediately.",
-      "category": "Security",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/",
-      "image": "https://www.bleepingcomputer.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg",
-      "published_at": "2026-06-09T17:57:59Z",
-      "key_points": [
-        "200 vulnerabilities fixed",
-        "Three zero-day flaws addressed",
-        "Immediate updates recommended"
-      ],
-      "impact": "Critical security updates enhance user safety.",
-      "id": "f7d5968e7e560f55ca59a8891b182f35"
-    },
-    {
-      "title": "Pokemon Pokopia Getting Free Underwater Expansion And Paid DLC",
-      "description": "Pokemon Pokopia will receive a free underwater expansion alongside paid DLC, creating some confusion among players. Clarifications are provided on the offerings.",
-      "category": "Gaming",
-      "source": "GameSpot",
-      "url": "https://www.gamespot.com/articles/pokemon-pokopia-getting-free-underwater-expansion-and-paid-dlc-and-its-all-a-little-confusing/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/04/gamespot.png",
-      "published_at": "2026-06-09T17:14:45Z",
-      "key_points": [
-        "Free underwater expansion announced",
-        "Paid DLC details confusing",
-        "Clarifications provided for players"
-      ],
-      "impact": "Pokemon Pokopia expands with new content.",
-      "id": "9510133ee5428d0102320681be21aae2"
-    },
-    {
-      "title": "'DK Challenge' Will Put Your NSO & Bananza Skills To The Test",
-      "description": "Nintendo announces the 'DK Challenge' event, testing players' skills in a Mario-themed Bananza. The event starts soon, promising fun competition.",
-      "category": "Gaming",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/06/dk-challenge-will-put-your-nso-and-bananza-skills-to-the-test-for-a-limited-time",
-      "image": "https://images.nintendolife.com/5c776e2999bf4/large.jpg",
-      "published_at": "2026-06-09T16:20:00Z",
-      "key_points": [
-        "New 'DK Challenge' event",
-        "Mario-themed competition",
-        "Starts June 10th"
-      ],
-      "impact": "Nintendo engages players with new challenges.",
-      "id": "ef4cf11ebb68e17a5153a8cfeb7240e7"
-    },
-    {
-      "title": "macOS 27 Finally Brings Direct Touch Control to Sidecar",
-      "description": "macOS 27 introduces direct touch control for Sidecar, allowing iPad users to interact with macOS elements directly. This feature enhances usability significantly.",
+      "title": "iOS 27 Enhances HomePod with AutoMix",
+      "description": "iOS 27 introduces AutoMix for HomePod, blending songs using AI. This feature enhances the music experience for Apple Music users.",
       "category": "Software",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/09/macos-27-brings-direct-touch-control-to-sidecar/",
-      "image": "https://images.macrumors.com/t/cQXpBanzMoUQ8VdGvSBPHNEPQCw=/1600x/article-new/2026/06/macos-sidecar.jpg",
-      "published_at": "2026-06-09T16:17:00Z",
+      "url": "https://www.macrumors.com/2026/06/10/ios-27-new-functionality-to-homepod/",
+      "image": "https://images.macrumors.com/t/LrnoI49mYocvEDjkwXP6ql9E3nM=/1600x/article-new/2021/02/HomePodandMini-feature-green.jpg",
+      "published_at": "2026-06-10T10:02:38Z",
       "key_points": [
-        "Direct touch control added",
-        "Enhances usability for iPad users",
-        "Part of macOS 27 update"
+        "Introduces AutoMix feature",
+        "Enhances Apple Music",
+        "Supports seamless song blending"
       ],
-      "impact": "Apple improves Sidecar functionality.",
-      "id": "8e5152288963f2efc497dab3ca86064b"
+      "impact": "HomePod users gain a richer music experience.",
+      "id": "0a524724840da7e51e280422dbbfcde3"
     },
     {
-      "title": "Final Fantasy gets its first HD-2D game, and it was worth the wait",
-      "description": "Final Fantasy Resonance debuts as the franchise's first HD-2D game, blending nostalgia with modern graphics. Fans are excited about this new direction.",
+      "title": "Valve Phases Out Physical Steam Gift Cards",
+      "description": "Valve confirms the discontinuation of physical Steam Gift Cards after current stocks are sold. This change is due to increased scams.",
       "category": "Gaming",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/final-fantasy-resonance-trailer-date-switch-2-hd-2d-sprite-art-square/",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/2d.JPG?w=1600&h=900&fit=crop",
-      "published_at": "2026-06-09T15:34:50Z",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/gaming/pc-gaming/scammers-have-adapted-valve-confirms-that-physical-steam-gift-cards-are-dead",
+      "image": "https://cdn.mos.cms.futurecdn.net/XjKB7kKsaNLFSgmJiCYaSa-1280-80.jpg",
+      "published_at": "2026-06-10T09:25:31Z",
       "key_points": [
-        "First HD-2D Final Fantasy game",
-        "Combines nostalgia with modern graphics",
-        "Fans excited for new direction"
+        "Physical cards are discontinued",
+        "Scams prompted the decision",
+        "Digital options remain available"
       ],
-      "impact": "Final Fantasy embraces innovative gameplay style.",
-      "id": "8e72d5b0bd468b83ad700c56a0343e2e"
+      "impact": "Valve shifts focus to digital gift options.",
+      "id": "cc19a2649becbc02a32cee2dbd63f45c"
     },
     {
-      "title": "New Joy-Con Colours And A Stand-Alone Direct Are Inbound For Splatoon Raiders",
-      "description": "Nintendo announces new Joy-Con colors and a dedicated Direct for Splatoon Raiders, generating excitement among fans. More details are expected soon.",
+      "title": "Cliff Bleszinski Praises Xbox's Direction",
+      "description": "Gears of War creator Cliff Bleszinski supports Xbox's decision to make E-Day a console exclusive. He believes it's a positive move for the brand.",
       "category": "Gaming",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/06/new-joy-con-colours-and-a-stand-alone-direct-are-inbound-for-splatoon-raiders",
-      "image": "https://images.nintendolife.com/c26af73bcd346/large.jpg",
-      "published_at": "2026-06-09T15:25:00Z",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/gears-of-war-e-day-xbox-console-exclusive-cliff-bleszinski",
+      "image": "https://assetsio.gnwcdn.com/eday-cliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-10T09:24:25Z",
       "key_points": [
-        "New Joy-Con colors revealed",
-        "Stand-alone Direct announced",
-        "Fans eager for updates"
+        "E-Day is Xbox exclusive",
+        "Bleszinski supports decision",
+        "Positive for brand perception"
       ],
-      "impact": "Nintendo keeps Splatoon fans engaged.",
-      "id": "8ddcd016f3482042b7c53b93624de657"
+      "impact": "This move may strengthen Xbox's market position.",
+      "id": "509757c17491be00f4d7e898deb3e705"
     },
     {
-      "title": "Fire Emblem: Fortune’s Weave boxart, screenshots",
-      "description": "Fire Emblem: Fortune’s Weave reveals its official boxart and new screenshots following the Nintendo Direct. Fans are excited for this new entry.",
-      "category": "Gaming",
-      "source": "nintendoeverything.com",
-      "url": "https://nintendoeverything.com/fire-emblem-fortunes-weave-boxart-screenshots/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Fire-Emblem-Fortunes-Weave-boxart.jpg",
-      "published_at": "2026-06-09T15:13:58Z",
+      "title": "iPhone 17 Lacks Siri Features Due to RAM Limit",
+      "description": "The iPhone 17's 8GB RAM limit prevents it from supporting advanced Siri AI features in iOS 27. Users may miss out on enhanced capabilities.",
+      "category": "Software",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/10/iphone-17s-8gb-limit-loses-siri-ai-features/",
+      "image": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg",
+      "published_at": "2026-06-10T09:19:58Z",
       "key_points": [
-        "Official boxart revealed",
-        "New screenshots shared",
-        "Fans excited for new entry"
+        "iPhone 17 limited to 8GB RAM",
+        "Loses advanced Siri features",
+        "Impacts user experience"
       ],
-      "impact": "Fire Emblem series continues to expand.",
-      "id": "39602f0f7525e72dc01bf2a1cab68be9"
+      "impact": "Users may experience reduced Siri functionality.",
+      "id": "29ed78017dc49e0e50b95069ea15dc72"
     },
     {
-      "title": "Over A Year Before Release, Stellar Blade: Blood Rain’s New Hero Evie Draws Fire",
-      "description": "Stellar Blade: Blood Rain introduces a new protagonist, Evie, stirring controversy ahead of its release next year. Fans are divided over the character's design.",
-      "category": "Gaming",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/06/09/over-a-year-before-release-stellar-blade-blood-rains-new-hero-evie-draws-fire/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a282a7c5d3df6cb6e1cf00c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published_at": "2026-06-09T15:08:23Z",
+      "title": "Office 2019 for Mac to Lose Editing Features",
+      "description": "Microsoft will disable editing and saving for Office 2019 on Mac starting July 13 due to a certificate issue. Users need to upgrade to continue using Office.",
+      "category": "Software",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/947518/microsoft-office-2019-for-mac-end-of-support-no-edit",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-06-10T09:14:35Z",
       "key_points": [
-        "New hero Evie introduced",
-        "Controversy over character design",
-        "Game releases next year"
+        "Editing disabled from July 13",
+        "Certificate issue causes disruption",
+        "Upgrade required for continued use"
       ],
-      "impact": "Stellar Blade sparks debate among fans.",
-      "id": "00995815d95bcaa3d185e6d073912bcb"
+      "impact": "Users must upgrade to avoid losing access.",
+      "id": "0e2c95088c0dd2444aaafb9010b452e5"
     },
     {
-      "title": "Kingdom Hearts IV Gameplay Trailer Revealed, Will Launch Simultaneously On Consoles And PC",
-      "description": "Kingdom Hearts IV gameplay trailer unveiled, confirming simultaneous launch on consoles and PC. Fans are eager for more details on this highly anticipated sequel.",
-      "category": "Gaming",
-      "source": "Game Informer",
-      "url": "https://gameinformer.com/nintendo-direct/2026/06/09/kingdom-hearts-iv-gameplay-trailer-revealed-will-launch-simultaneously",
-      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/09/155adcf5/kh4_04.jpg.webp",
-      "published_at": "2026-06-09T15:05:51Z",
+      "title": "Logitech Launches Compact Mobi Fold Mouse",
+      "description": "Logitech's Mobi Fold is a portable mouse that folds in half, making it easy to carry without sacrificing functionality. Ideal for travelers.",
+      "category": "Hardware",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/945549/logitech-mobi-fold-wireless-bluetooth-travel-mouse-hands-on",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/logitech10.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "published_at": "2026-06-10T07:01:00Z",
       "key_points": [
-        "Gameplay trailer revealed",
-        "Simultaneous launch confirmed",
-        "Fans eagerly await details"
+        "Compact folding design",
+        "Ideal for travel",
+        "Maintains full functionality"
       ],
-      "impact": "Kingdom Hearts IV builds excitement for fans.",
-      "id": "b50be35410bec0e30d5967d9e5f42241"
+      "impact": "Travelers gain a convenient mouse option.",
+      "id": "140a3cc3f697ceaea48966a1902dc1dc"
+    },
+    {
+      "title": "Xbox Boss Discusses Future Console Models",
+      "description": "Xbox's leadership hints at new console models to cater to diverse audiences. They aim to make gaming more accessible and affordable.",
+      "category": "Gaming",
+      "source": "Pure Xbox",
+      "url": "https://www.purexbox.com/news/2026/06/well-start-to-see-radically-different-business-models-xbox-boss-talks-future-of-consoles",
+      "image": "https://images.purexbox.com/47025abde1e5a/large.jpg",
+      "published_at": "2026-06-09T23:00:00Z",
+      "key_points": [
+        "New console models planned",
+        "Focus on affordability",
+        "Aim for broader audience"
+      ],
+      "impact": "Microsoft seeks to expand its gaming market.",
+      "id": "f7d27fdb0b68fdc530b1f16d4aa7ac04"
+    },
+    {
+      "title": "Record Patch Tuesday Fixes 200 Security Flaws",
+      "description": "Microsoft's June Patch Tuesday addresses nearly 200 security vulnerabilities across Windows and software, marking a record for the company.",
+      "category": "Security",
+      "source": "Krebs on Security",
+      "url": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
+      "image": "",
+      "published_at": "2026-06-09T22:20:39Z",
+      "key_points": [
+        "200 vulnerabilities patched",
+        "Record number of fixes",
+        "Enhances system security"
+      ],
+      "impact": "Users benefit from improved security measures.",
+      "id": "213876dbb156473d0909768f5a7305cb"
+    },
+    {
+      "title": "Google's Gemini 3.5 Translates Conversations Live",
+      "description": "Gemini 3.5 offers real-time translation, allowing seamless multilingual conversations. This AI tool enhances communication across languages.",
+      "category": "Software",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/services-and-software/gemini-3-5-live-translation-real-time-multilingual-conversation/",
+      "image": "https://www.cnet.com/a/img/resize/f8cbb03e31c20ee58d096f6c18e9af58992a9626/hub/2026/06/09/f2586ef0-93ed-4ab0-bf83-55f64d2a3915/screenshot-2026-06-09-at-1-18-00pm.png?auto=webp&fit=crop&height=675&width=1200",
+      "published_at": "2026-06-09T19:50:00Z",
+      "key_points": [
+        "Real-time multilingual translation",
+        "Enhances conversation flow",
+        "AI-driven communication tool"
+      ],
+      "impact": "This tool revolutionizes cross-language interactions.",
+      "id": "1a0eb9056b35cf59c3ad94ee2b7a2126"
+    },
+    {
+      "title": "macOS Golden Gate Updates Liquid Glass Design",
+      "description": "macOS Golden Gate addresses previous criticisms of Liquid Glass design, enhancing its aesthetic appeal and functionality on Macs.",
+      "category": "Software",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/09/macos-golden-gate-liquid-glass/",
+      "image": "https://images.macrumors.com/t/688clqBOOkeLbR-dMl3V1--AVps=/2500x/article-new/2026/06/macOS-26-vs-27-Unified-Sidebar.jpg",
+      "published_at": "2026-06-09T19:11:35Z",
+      "key_points": [
+        "Improves Liquid Glass design",
+        "Addresses user feedback",
+        "Enhances Mac aesthetics"
+      ],
+      "impact": "Users will appreciate the refined design.",
+      "id": "87a654c05932785fdc2a5c28d27b28d6"
+    },
+    {
+      "title": "Google Fi Expands to 22 New Regions",
+      "description": "Google Fi enhances its service by expanding to 22 new regions, offering improved connectivity for travelers this summer.",
+      "category": "Business",
+      "source": "Android Police",
+      "url": "https://www.androidpolice.com/google-fi-lands-some-major-improvements-ahead-of-summer/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/04/google-fi-wireless-card-pixel-8-background.JPG?w=1600&h=900&fit=crop",
+      "published_at": "2026-06-09T18:23:43Z",
+      "key_points": [
+        "Expands to 22 new regions",
+        "Improves travel connectivity",
+        "Enhances service offerings"
+      ],
+      "impact": "Travelers gain better connectivity options.",
+      "id": "4d67ea10636c5d95df6b0f6328d3decd"
+    },
+    {
+      "title": "iOS 27 Personalizes iPhone Lock Screen",
+      "description": "iOS 27 introduces a new setting for customizing the iPhone Lock Screen, enhancing personalization options for users.",
+      "category": "Software",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/09/ios-27-adds-unique-new-setting-to-personalize-your-iphones-lock-screen/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-lock-screen-clock-small.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-09T17:44:00Z",
+      "key_points": [
+        "New Lock Screen customization",
+        "Enhances user personalization",
+        "Adds unique clock setting"
+      ],
+      "impact": "Users can enjoy a more personalized experience.",
+      "id": "4d4eb7597e2a03407261fa28b996b54f"
+    },
+    {
+      "title": "Google Partners with Paris Hilton for Android AI",
+      "description": "Google collaborates with Paris Hilton to promote Android and AI app development, highlighting new tools for users.",
+      "category": "Startups",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/06/09/google-teams-up-with-paris-hilton-to-showcase-android-and-ai-app-building/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/android-paris-hilton-1.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-09T17:40:00Z",
+      "key_points": [
+        "Partnership with Paris Hilton",
+        "Focus on Android AI tools",
+        "Promotes app development"
+      ],
+      "impact": "This collaboration boosts Android's visibility.",
+      "id": "f18a01285091a2c635406a749144aea1"
+    },
+    {
+      "title": "Insta360 Luna Ultra Camera Partially Revealed",
+      "description": "The Insta360 Luna Ultra camera is available for purchase, but key details remain undisclosed. Content creators await more information.",
+      "category": "Startups",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/06/09/you-can-buy-the-luna-ultra-camera-insta360-only-sorta-unveiled/",
+      "image": "https://petapixel.com/assets/uploads/2026/06/insta360-luna-ultra-featured.jpg",
+      "published_at": "2026-06-09T16:41:13Z",
+      "key_points": [
+        "Camera partially unveiled",
+        "Details still pending",
+        "Available for purchase now"
+      ],
+      "impact": "Content creators are eager for full specs.",
+      "id": "bb097d830d075e06015ae308aa34d87f"
     }
   ]
 }
