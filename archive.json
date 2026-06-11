@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-11T20:20:34.148687+00:00",
+      "fetched_at": "2026-06-11T20:20:34.148687+00:00",
+      "label": "Jun 11, 2026 — 08:21 PM UTC",
+      "articles": [
+        {
+          "title": "Logitech’s Foldable Mouse: Travel-Friendly Design",
+          "description": "Logitech's Mobi Fold is an $80 Bluetooth mouse featuring a silicone-wrapped hinge for portability. Ideal for users on the go.",
+          "category": "Hardware",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/06/logitechs-mobi-fold-folds-for-travel-but-i-prefer-a-different-portable-mouse/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Logitech-Mobi-Fold-cover-1152x648.jpg",
+          "published_at": "2026-06-10T19:57:56Z",
+          "key_points": [
+            "Portable design for travel",
+            "Bluetooth connectivity",
+            "Affordable price point"
+          ],
+          "impact": "This mouse enhances mobility for users.",
+          "id": "61c40da36735f082b51a79a71704f473"
+        },
+        {
+          "title": "Marvel Rivals: New Season Ignites the Battle",
+          "description": "Marvel Rivals Season 8.5 is live, inviting players to join the action for free. Get ready for intense team-based PVP gameplay.",
+          "category": "Gaming",
+          "source": "Marvelrivals.com",
+          "url": "https://www.marvelrivals.com/20260610/41525_1303717.html",
+          "image": "https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg",
+          "published_at": "2026-06-10T18:54:11Z",
+          "key_points": [
+            "Free to play now",
+            "New season launched",
+            "Team-based PVP action"
+          ],
+          "impact": "Players can dive into exciting battles.",
+          "id": "62b0298ff67baf44f0c50e01d47dc10a"
+        },
+        {
+          "title": "New Fable Gameplay: A Real Game Emerges",
+          "description": "A 30-minute gameplay clip of the new Fable has sparked excitement, suggesting a potential early release next year.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/this-is-the-first-time-ive-felt-like-the-new-fable-is-a-real-game-2000704966",
+          "image": "https://kotaku.com/app/uploads/2026/06/Fable-Extended-Gameplay-Demo-4K-1200x675.jpeg",
+          "published_at": "2026-06-10T17:55:15Z",
+          "key_points": [
+            "30-minute gameplay revealed",
+            "Early release anticipated",
+            "Excitement builds for Fable"
+          ],
+          "impact": "Fans are hopeful for a 2027 launch.",
+          "id": "173346f7c733c0a230456ff3b06c7389"
+        },
+        {
+          "title": "iOS 27 Disrupts 15 Years of iPhone Muscle Memory",
+          "description": "iOS 27 introduces significant changes to the Notification Center, breaking long-standing user habits on iPhone and iPad.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/10/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ipad-ios-27-notification-siri.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-10T17:26:00Z",
+          "key_points": [
+            "Major Notification Center changes",
+            "Breaks user habits",
+            "Introduces new interface"
+          ],
+          "impact": "Users must adapt to new navigation.",
+          "id": "5ea7fec3c7b14f2130f0c290da6d27b8"
+        },
+        {
+          "title": "Instagram Algorithm: Users Gain Control",
+          "description": "Instagram now allows users to customize their main feed algorithm, enhancing user control over content recommendations.",
+          "category": "Software",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/947898/meta-instagram-your-algorithm-main-feed-tell",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932740/acastro_STK070__02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-10T17:06:10Z",
+          "key_points": [
+            "Users can customize feed",
+            "Enhanced algorithm control",
+            "AI-driven recommendations"
+          ],
+          "impact": "This change empowers Instagram users.",
+          "id": "4b4eff833bd1629451a200fe487df4f8"
+        },
+        {
+          "title": "Valve Ends Retail Gift Card Program",
+          "description": "Valve has discontinued its retail gift card program due to rampant scams, impacting legitimate users who purchase cards with cash.",
+          "category": "Gaming",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gaming/2026/06/valve-kills-its-retail-gift-card-program-due-to-scammers/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/steamcard-1152x648-1781107823.jpg",
+          "published_at": "2026-06-10T16:39:43Z",
+          "key_points": [
+            "Gift card program discontinued",
+            "Scams prompted decision",
+            "Legitimate users affected"
+          ],
+          "impact": "Legitimate users lose a convenient option.",
+          "id": "133c822c2b3652768b0339539ba656a8"
+        },
+        {
+          "title": "Ubisoft Closes Belgrade Studio, 100 Laid Off",
+          "description": "Ubisoft has shut down its Belgrade studio, resulting in the layoff of all 100 employees amid ongoing restructuring.",
+          "category": "Business",
+          "source": "Insider Gaming",
+          "url": "https://insider-gaming.com/ubisoft-closes-belgrade-studio-all-employees-let-go/",
+          "image": "https://insider-gaming.com/wp-content/uploads/2026/06/Belgrade_Gallery_Belgrade_studio_2_-_Photo_gallery.jpg",
+          "published_at": "2026-06-10T16:16:58Z",
+          "key_points": [
+            "Belgrade studio closed",
+            "100 employees laid off",
+            "Restructuring continues"
+          ],
+          "impact": "Ubisoft's restructuring impacts many jobs.",
+          "id": "c808fc9881ebcc98fc12a547c4562d60"
+        },
+        {
+          "title": "Sony Explores New PS Plus Game Delivery Methods",
+          "description": "Sony is investigating new strategies for delivering PS Plus games, aiming to improve user experience and access.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/sony-exploring-new-ways-to-deliver-ps-plus-games",
+          "image": "https://images.pushsquare.com/09d863543943e/large.jpg",
+          "published_at": "2026-06-10T16:00:00Z",
+          "key_points": [
+            "New delivery methods explored",
+            "Improving user experience",
+            "PS Plus game access"
+          ],
+          "impact": "Sony aims to enhance PS Plus offerings.",
+          "id": "6079b5237d658eb1c488dbcb94f80c5f"
+        },
+        {
+          "title": "Google Workspace's Gemini Faces Service Issues",
+          "description": "Many Google Workspace users are experiencing errors with Gemini, leading to disruptions in service and productivity.",
+          "category": "Software",
+          "source": "CNET",
+          "url": "https://www.cnet.com/news-live/gemini-down-live-updates-google-workspaces-ai-errors/",
+          "image": "https://www.cnet.com/a/img/resize/21cab39f177617e06697911886159e8d9328b010/hub/2026/05/11/b610fa22-274a-40c5-a813-dc0826144197/gettyimages-2221253320.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "published_at": "2026-06-10T15:35:00Z",
+          "key_points": [
+            "Gemini service issues reported",
+            "Users face disruptions",
+            "Google working on fixes"
+          ],
+          "impact": "Service interruptions affect productivity.",
+          "id": "27e628f2338e27ceafb6f8234edb111e"
+        },
+        {
+          "title": "Xbox Exclusives: New Strategy Revealed",
+          "description": "Xbox announces that 'Gears of War: E-Day' and 'Clockwork Revolution' will be exclusive to Xbox consoles, reshaping its strategy.",
+          "category": "Gaming",
+          "source": "Variety",
+          "url": "https://variety.com/2026/gaming/news/xbox-exclusives-showcase-blade-elder-scrolls-6-matt-booty-1236771373/",
+          "image": "https://variety.com/wp-content/uploads/2026/02/Asha-Sharma-and-Matt-Booty-Primary.png?w=1000&h=563&crop=1",
+          "published_at": "2026-06-10T15:12:00Z",
+          "key_points": [
+            "New Xbox exclusives announced",
+            "Strategy reshaped",
+            "Focus on console gaming"
+          ],
+          "impact": "Xbox strengthens its exclusive game lineup.",
+          "id": "39ade2e666af6785991aaa1eec2eeefc"
+        },
+        {
+          "title": "Halo: Campaign Evolved Surprises Players",
+          "description": "Initial skepticism about Halo: Campaign Evolved fades after gameplay reveals, sparking interest in remakes of the original trilogy.",
+          "category": "Gaming",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/halo-campaign-evolved-hands-on",
+          "image": "https://assetsio.gnwcdn.com/halo-consoles.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-10T15:00:00Z",
+          "key_points": [
+            "Gameplay impresses players",
+            "Calls for trilogy remakes",
+            "Positive reception builds"
+          ],
+          "impact": "Fans are eager for more Halo remakes.",
+          "id": "e327a4d0ed6e1abd2d6a242deb768c2c"
+        },
+        {
+          "title": "Resident Evil: Code Veronica Remake Details",
+          "description": "Capcom clarifies that the Resident Evil - Code: Veronica remake will follow a third-person perspective, contrary to trailer hints.",
+          "category": "Gaming",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/resident-evil-veronica-first-person",
+          "image": "https://assetsio.gnwcdn.com/resident-evil-veronica-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-10T15:00:00Z",
+          "key_points": [
+            "Remake will be third-person",
+            "Trailer misled expectations",
+            "Stays true to series style"
+          ],
+          "impact": "Fans await a classic remake experience.",
+          "id": "2a3579218529aaa874181a3f81a313ad"
+        },
+        {
+          "title": "Stellar Blade CEO Addresses Protagonist Concerns",
+          "description": "CEO Hyung-tae Kim responds to feedback about the sequel's protagonist, promising appealing outfits and character design.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/stellar-blade-blood-rain-evie-young-appearance-eve-sexualized-shift-up-2000704314",
+          "image": "https://kotaku.com/app/uploads/2026/06/Stellar-Blade-Summer-Game-Fest-1200x675.jpg",
+          "published_at": "2026-06-10T14:23:05Z",
+          "key_points": [
+            "CEO addresses character design",
+            "Promises appealing outfits",
+            "Feedback acknowledged"
+          ],
+          "impact": "Fans hope for improved character representation.",
+          "id": "a1223e95ca43610ed0b3126069f6bcbf"
+        },
+        {
+          "title": "Alien: Isolation 2 Promises Tension and Horror",
+          "description": "The prologue of Alien: Isolation 2 showcases a gripping experience, emphasizing tension and release in gameplay.",
+          "category": "Gaming",
+          "source": "XBOX Wire",
+          "url": "https://news.xbox.com/en-us/2026/06/10/alien-isolation-2-poised-to-deliver-another-bold-chapter/",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/05_PROLOGUE-ALIEN-ATTACK-db260343c31f2b3cf24b.jpg",
+          "published_at": "2026-06-10T14:02:18Z",
+          "key_points": [
+            "Prologue showcases gripping gameplay",
+            "Focus on tension and release",
+            "Bold horror experience promised"
+          ],
+          "impact": "Fans anticipate a thrilling sequel.",
+          "id": "8b87e79feafab40ba760284ce6ba2887"
+        },
+        {
+          "title": "Apple's Siri Chatbot App Explained",
+          "description": "Craig Federighi discusses Apple's decision to launch a standalone Siri chatbot app in iOS 27, marking a significant shift.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/10/federighi-explains-why-apple-pivoted-to-siri-chatbot/",
+          "image": "https://images.macrumors.com/t/IPtX7k5CjH3jF5drY3V9MWT37wM=/1600x/article-new/2026/06/Ask-Siri-iOS-27.jpg",
+          "published_at": "2026-06-10T12:07:48Z",
+          "key_points": [
+            "Standalone Siri app launched",
+            "Significant shift in strategy",
+            "Focus on chatbot capabilities"
+          ],
+          "impact": "Apple aims to enhance Siri's functionality.",
+          "id": "882b9e13dd0955feee51dd8379a3c15d"
+        }
+      ]
+    },
+    {
       "id": "2026-06-11T15:58:26.793636+00:00",
       "fetched_at": "2026-06-11T15:58:26.793636+00:00",
       "label": "Jun 11, 2026 — 03:59 PM UTC",
@@ -5512,189 +5759,6 @@
           ],
           "impact": "Brave's pricing strategy faces backlash.",
           "id": "91e8566c175c2acf2589f663caccaa97"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-06T13:39:57.875090+00:00",
-      "fetched_at": "2026-06-06T13:39:57.875090+00:00",
-      "label": "Jun 06, 2026 — 01:40 PM UTC",
-      "articles": [
-        {
-          "title": "Steve Jobs' NeXT Years Explored in Profile",
-          "description": "A new profile highlights Steve Jobs' impactful years at NeXT. It reveals insights into his vision and challenges during this pivotal time.",
-          "category": "Business",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/apple/2026/06/steve-jobs-in-exile-is-a-fine-profile-of-jobs-years-at-next/",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-136021736-2560x1440-1780609093.jpg",
-          "published_at": "2026-06-05T11:15:29Z",
-          "key_points": [
-            "Insightful look at Jobs' vision",
-            "Challenges during NeXT era",
-            "Impact on future Apple innovations"
-          ],
-          "impact": "This profile sheds light on Jobs' legacy.",
-          "id": "19717f4cc354ff878c004261112d9edd"
-        },
-        {
-          "title": "Neighbor Feud: A Friendly Approach Backfires",
-          "description": "A couple's attempt to resolve a neighbor dispute amicably has led to unexpected anger. Prudie's advice sparks discussion among readers.",
-          "category": "Geopolitics",
-          "source": "Slate Magazine",
-          "url": "https://slate.com/advice/2026/06/marriage-advice-neighbor-feud-dear-prudence.html",
-          "image": "https://compote.slate.com/images/3316df33-7d83-4e62-bdd3-09e47677048a.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-          "published_at": "2026-06-05T10:00:00Z",
-          "key_points": [
-            "Couple seeks neighborly peace",
-            "Prudie's advice sparks debate",
-            "Unexpected neighbor backlash"
-          ],
-          "impact": "The situation highlights communication challenges.",
-          "id": "5d8eb32caaab337191875cd85e1c15f6"
-        },
-        {
-          "title": "Yacht Club Games Teases Secrets in Mina The Hollower",
-          "description": "Yacht Club Games hints at hidden surprises in their upcoming title, Mina The Hollower. Some playthroughs reportedly miss significant content.",
-          "category": "Gaming",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/06/yacht-club-games-teases-some-very-secret-things-in-mina-the-hollower",
-          "image": "https://images.nintendolife.com/7d67acfd0caba/large.jpg",
-          "published_at": "2026-06-05T06:45:00Z",
-          "key_points": [
-            "Mina The Hollower secrets teased",
-            "Playthroughs missing content",
-            "Excitement builds for release"
-          ],
-          "impact": "Anticipation grows for the game's launch.",
-          "id": "325d270989c36d999820df9c8b28687d"
-        },
-        {
-          "title": "Xbox CEO Emphasizes Importance of Exclusives",
-          "description": "Xbox CEO Asha Sharma reaffirms the significance of exclusive games for the platform's identity, despite expanding to more devices.",
-          "category": "Gaming",
-          "source": "Windows Central",
-          "url": "https://www.windowscentral.com/gaming/xbox-ceo-doubles-down-on-exclusives-saying-they-remain-central-to-defining-the-xbox-platform",
-          "image": "https://cdn.mos.cms.futurecdn.net/nG3cDMxeRZMHdgHHA3JVEL-1920-80.jpg",
-          "published_at": "2026-06-05T01:57:23Z",
-          "key_points": [
-            "Exclusives define Xbox identity",
-            "CEO reaffirms commitment",
-            "Expansion won't dilute exclusivity"
-          ],
-          "impact": "Exclusives remain central to Xbox strategy.",
-          "id": "f308f33e129e8887ba35e47486aa0fdb"
-        },
-        {
-          "title": "Google Health App Update Fixes Major Bugs",
-          "description": "Following user backlash, Google Health app receives a significant update addressing over 15 core bugs. Improvements are rolling out now.",
-          "category": "Software",
-          "source": "Droid Life",
-          "url": "https://www.droid-life.com/2026/06/04/google-health-app-gets-massive-update-fixing-15-core-bugs-after-user-backlash/",
-          "image": "https://www.droid-life.com/wp-content/uploads/2026/05/Google-Health-Premium-Features-4-1200x628.jpg",
-          "published_at": "2026-06-04T22:55:39Z",
-          "key_points": [
-            "Major update fixes 15 bugs",
-            "User feedback prompted changes",
-            "Improvements rolling out now"
-          ],
-          "impact": "User experience is expected to improve significantly.",
-          "id": "273f8ef653c318ae1a992b8e5044d98f"
-        },
-        {
-          "title": "Linux 7.1 and Mesa 26.1 Performance Review",
-          "description": "A review of the AMD Radeon RX 9070 GRE performance on Linux 7.1 and Mesa 26.1 highlights its capabilities. Testing conducted on Ubuntu 26.04.",
-          "category": "Hardware",
-          "source": "Phoronix",
-          "url": "https://www.phoronix.com/news/Linux-7.1-Mesa-26.1-RX-9070-GRE",
-          "image": "https://www.phoronix.net/image.php?id=amd-radeon-rx-9070-gre&image=amd_rx9070gre_8",
-          "published_at": "2026-06-04T21:25:00Z",
-          "key_points": [
-            "Performance review of RX 9070",
-            "Testing on Linux 7.1",
-            "Ubuntu 26.04 used for benchmarks"
-          ],
-          "impact": "Performance insights benefit Linux users.",
-          "id": "ab09f216f935d12fc248a50983396628"
-        },
-        {
-          "title": "Jurassic Park Gaming News Disrupted by Silence",
-          "description": "A sudden silence around the Jurassic Park brand has delayed some gaming news and DLC announcements. Fans are left in suspense.",
-          "category": "Gaming",
-          "source": "Gamefile.news",
-          "url": "https://www.gamefile.news/p/stuntman-hollywood-jurassic-park",
-          "image": "https://substackcdn.com/image/fetch/$s_!YkZo!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a8cc292-caad-412a-b9ea-e58ed234af27_3550x1908.png",
-          "published_at": "2026-06-04T21:07:36Z",
-          "key_points": [
-            "Jurassic brand silence disrupts news",
-            "DLC announcements delayed",
-            "Fans left in suspense"
-          ],
-          "impact": "Fans await clarity on future releases.",
-          "id": "766fededf1ad21446cd59adafd544fdd"
-        },
-        {
-          "title": "Google Launches Search Profiles in Discover",
-          "description": "Google introduces Search profiles for publishers within Google Discover, enhancing user engagement with curated content. Users can follow publishers easily.",
-          "category": "Software",
-          "source": "Search Engine Land",
-          "url": "https://searchengineland.com/google-introduces-search-profiles-within-google-discover-479475",
-          "image": "https://searchengineland.com/wp-content/seloads/2026/06/google-publisher-hero-1920.jpg",
-          "published_at": "2026-06-04T16:00:00Z",
-          "key_points": [
-            "New publisher landing pages",
-            "Enhanced user engagement",
-            "Follow publishers easily"
-          ],
-          "impact": "This feature improves content discovery.",
-          "id": "0e95c41b73640bddcc1e3d16701d1487"
-        },
-        {
-          "title": "Amazon Clarifies Future of James Bond Games",
-          "description": "Amid confusion, Amazon Game Studios clarifies that IO Interactive will not self-publish future James Bond games. Fans seek clarity on upcoming titles.",
-          "category": "Gaming",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/06/widespread-confusion-forces-amazon-to-make-statement-about-future-james-bond-games",
-          "image": "https://images.pushsquare.com/f51ef78ed1ea5/large.jpg",
-          "published_at": "2026-06-04T15:45:00Z",
-          "key_points": [
-            "Amazon clarifies Bond game rights",
-            "IO Interactive won't self-publish",
-            "Fans seek clarity on titles"
-          ],
-          "impact": "Confusion resolved for Bond game fans.",
-          "id": "1bdc438140cf2637236eab9db59e60e5"
-        },
-        {
-          "title": "Pixel Watch Updates Enhance ECG Functionality",
-          "description": "The Pixel Watch receives updates, including a new ECG app icon and improved functionality. Users can better monitor their health now.",
-          "category": "Hardware",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/06/04/google-pixel-watch-ecg-app-updates/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/indigo-pixel-watch-4-band.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-04T14:45:00Z",
-          "key_points": [
-            "ECG app gets new icon",
-            "Improved functionality for users",
-            "Health monitoring enhanced"
-          ],
-          "impact": "Users benefit from improved health tracking.",
-          "id": "a404a7bc6886c2778bfef60dde52f67a"
-        },
-        {
-          "title": "Win $800 Tech Grab Bag from The Verge",
-          "description": "The Verge is hosting a giveaway for a tech grab bag worth over $800. The contest ends on June 30th, offering exciting prizes.",
-          "category": "Startups",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/gadgets/936396/prime-day-grab-bag-giveaway-sweepstakes",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/P6031295.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-06-04T14:00:00Z",
-          "key_points": [
-            "$800 tech grab bag giveaway",
-            "Contest ends June 30th",
-            "Exciting prizes for participants"
-          ],
-          "impact": "Participants have a chance to win big.",
-          "id": "a8c77919694b6d30dee263f79e9da3eb"
         }
       ]
     }

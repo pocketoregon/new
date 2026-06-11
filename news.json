@@ -1,247 +1,247 @@
 {
   "date": "2026-06-11",
-  "generated_at": "2026-06-11T15:58:26.793636+00:00",
+  "generated_at": "2026-06-11T20:20:34.148687+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Minecraft 26.2 Pre-Release 6 Released",
-      "description": "Minecraft 26.2 Pre-Release 6 fixes spectating issues after dying in hardcore mode. Players can now enjoy a smoother experience post-death.",
-      "category": "Gaming",
-      "source": "Minecraft.net",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release-6",
-      "image": "https://www.minecraft.net/content/dam/minecraftnet/article-asset/2026/minecraft-26-2-pre-release-6/new-article-hero-image.jpg",
-      "published_at": "2026-06-10T14:03:30Z",
-      "key_points": [
-        "Fixes hardcore spectating",
-        "Improves player experience",
-        "New features included"
-      ],
-      "impact": "This update enhances gameplay for hardcore players.",
-      "id": "9ca36c0161b7e231cf88bef852603c74"
-    },
-    {
-      "title": "iOS 27 Enhances HomePod with AutoMix",
-      "description": "iOS 27 introduces AutoMix for HomePod, blending songs using AI. This feature enhances the music experience for Apple Music users.",
-      "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/10/ios-27-new-functionality-to-homepod/",
-      "image": "https://images.macrumors.com/t/LrnoI49mYocvEDjkwXP6ql9E3nM=/1600x/article-new/2021/02/HomePodandMini-feature-green.jpg",
-      "published_at": "2026-06-10T10:02:38Z",
-      "key_points": [
-        "Introduces AutoMix feature",
-        "Enhances Apple Music",
-        "Supports seamless song blending"
-      ],
-      "impact": "HomePod users gain a richer music experience.",
-      "id": "0a524724840da7e51e280422dbbfcde3"
-    },
-    {
-      "title": "Valve Phases Out Physical Steam Gift Cards",
-      "description": "Valve confirms the discontinuation of physical Steam Gift Cards after current stocks are sold. This change is due to increased scams.",
-      "category": "Gaming",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/gaming/pc-gaming/scammers-have-adapted-valve-confirms-that-physical-steam-gift-cards-are-dead",
-      "image": "https://cdn.mos.cms.futurecdn.net/XjKB7kKsaNLFSgmJiCYaSa-1280-80.jpg",
-      "published_at": "2026-06-10T09:25:31Z",
-      "key_points": [
-        "Physical cards are discontinued",
-        "Scams prompted the decision",
-        "Digital options remain available"
-      ],
-      "impact": "Valve shifts focus to digital gift options.",
-      "id": "cc19a2649becbc02a32cee2dbd63f45c"
-    },
-    {
-      "title": "Cliff Bleszinski Praises Xbox's Direction",
-      "description": "Gears of War creator Cliff Bleszinski supports Xbox's decision to make E-Day a console exclusive. He believes it's a positive move for the brand.",
-      "category": "Gaming",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/gears-of-war-e-day-xbox-console-exclusive-cliff-bleszinski",
-      "image": "https://assetsio.gnwcdn.com/eday-cliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-10T09:24:25Z",
-      "key_points": [
-        "E-Day is Xbox exclusive",
-        "Bleszinski supports decision",
-        "Positive for brand perception"
-      ],
-      "impact": "This move may strengthen Xbox's market position.",
-      "id": "509757c17491be00f4d7e898deb3e705"
-    },
-    {
-      "title": "iPhone 17 Lacks Siri Features Due to RAM Limit",
-      "description": "The iPhone 17's 8GB RAM limit prevents it from supporting advanced Siri AI features in iOS 27. Users may miss out on enhanced capabilities.",
-      "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/10/iphone-17s-8gb-limit-loses-siri-ai-features/",
-      "image": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg",
-      "published_at": "2026-06-10T09:19:58Z",
-      "key_points": [
-        "iPhone 17 limited to 8GB RAM",
-        "Loses advanced Siri features",
-        "Impacts user experience"
-      ],
-      "impact": "Users may experience reduced Siri functionality.",
-      "id": "29ed78017dc49e0e50b95069ea15dc72"
-    },
-    {
-      "title": "Office 2019 for Mac to Lose Editing Features",
-      "description": "Microsoft will disable editing and saving for Office 2019 on Mac starting July 13 due to a certificate issue. Users need to upgrade to continue using Office.",
-      "category": "Software",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/947518/microsoft-office-2019-for-mac-end-of-support-no-edit",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published_at": "2026-06-10T09:14:35Z",
-      "key_points": [
-        "Editing disabled from July 13",
-        "Certificate issue causes disruption",
-        "Upgrade required for continued use"
-      ],
-      "impact": "Users must upgrade to avoid losing access.",
-      "id": "0e2c95088c0dd2444aaafb9010b452e5"
-    },
-    {
-      "title": "Logitech Launches Compact Mobi Fold Mouse",
-      "description": "Logitech's Mobi Fold is a portable mouse that folds in half, making it easy to carry without sacrificing functionality. Ideal for travelers.",
+      "title": "Logitech’s Foldable Mouse: Travel-Friendly Design",
+      "description": "Logitech's Mobi Fold is an $80 Bluetooth mouse featuring a silicone-wrapped hinge for portability. Ideal for users on the go.",
       "category": "Hardware",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/945549/logitech-mobi-fold-wireless-bluetooth-travel-mouse-hands-on",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/logitech10.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-      "published_at": "2026-06-10T07:01:00Z",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/06/logitechs-mobi-fold-folds-for-travel-but-i-prefer-a-different-portable-mouse/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Logitech-Mobi-Fold-cover-1152x648.jpg",
+      "published_at": "2026-06-10T19:57:56Z",
       "key_points": [
-        "Compact folding design",
-        "Ideal for travel",
-        "Maintains full functionality"
+        "Portable design for travel",
+        "Bluetooth connectivity",
+        "Affordable price point"
       ],
-      "impact": "Travelers gain a convenient mouse option.",
-      "id": "140a3cc3f697ceaea48966a1902dc1dc"
+      "impact": "This mouse enhances mobility for users.",
+      "id": "61c40da36735f082b51a79a71704f473"
     },
     {
-      "title": "Xbox Boss Discusses Future Console Models",
-      "description": "Xbox's leadership hints at new console models to cater to diverse audiences. They aim to make gaming more accessible and affordable.",
+      "title": "Marvel Rivals: New Season Ignites the Battle",
+      "description": "Marvel Rivals Season 8.5 is live, inviting players to join the action for free. Get ready for intense team-based PVP gameplay.",
       "category": "Gaming",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/06/well-start-to-see-radically-different-business-models-xbox-boss-talks-future-of-consoles",
-      "image": "https://images.purexbox.com/47025abde1e5a/large.jpg",
-      "published_at": "2026-06-09T23:00:00Z",
+      "source": "Marvelrivals.com",
+      "url": "https://www.marvelrivals.com/20260610/41525_1303717.html",
+      "image": "https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg",
+      "published_at": "2026-06-10T18:54:11Z",
       "key_points": [
-        "New console models planned",
-        "Focus on affordability",
-        "Aim for broader audience"
+        "Free to play now",
+        "New season launched",
+        "Team-based PVP action"
       ],
-      "impact": "Microsoft seeks to expand its gaming market.",
-      "id": "f7d27fdb0b68fdc530b1f16d4aa7ac04"
+      "impact": "Players can dive into exciting battles.",
+      "id": "62b0298ff67baf44f0c50e01d47dc10a"
     },
     {
-      "title": "Record Patch Tuesday Fixes 200 Security Flaws",
-      "description": "Microsoft's June Patch Tuesday addresses nearly 200 security vulnerabilities across Windows and software, marking a record for the company.",
-      "category": "Security",
-      "source": "Krebs on Security",
-      "url": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
-      "image": "",
-      "published_at": "2026-06-09T22:20:39Z",
+      "title": "New Fable Gameplay: A Real Game Emerges",
+      "description": "A 30-minute gameplay clip of the new Fable has sparked excitement, suggesting a potential early release next year.",
+      "category": "Gaming",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/this-is-the-first-time-ive-felt-like-the-new-fable-is-a-real-game-2000704966",
+      "image": "https://kotaku.com/app/uploads/2026/06/Fable-Extended-Gameplay-Demo-4K-1200x675.jpeg",
+      "published_at": "2026-06-10T17:55:15Z",
       "key_points": [
-        "200 vulnerabilities patched",
-        "Record number of fixes",
-        "Enhances system security"
+        "30-minute gameplay revealed",
+        "Early release anticipated",
+        "Excitement builds for Fable"
       ],
-      "impact": "Users benefit from improved security measures.",
-      "id": "213876dbb156473d0909768f5a7305cb"
+      "impact": "Fans are hopeful for a 2027 launch.",
+      "id": "173346f7c733c0a230456ff3b06c7389"
     },
     {
-      "title": "Google's Gemini 3.5 Translates Conversations Live",
-      "description": "Gemini 3.5 offers real-time translation, allowing seamless multilingual conversations. This AI tool enhances communication across languages.",
-      "category": "Software",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/services-and-software/gemini-3-5-live-translation-real-time-multilingual-conversation/",
-      "image": "https://www.cnet.com/a/img/resize/f8cbb03e31c20ee58d096f6c18e9af58992a9626/hub/2026/06/09/f2586ef0-93ed-4ab0-bf83-55f64d2a3915/screenshot-2026-06-09-at-1-18-00pm.png?auto=webp&fit=crop&height=675&width=1200",
-      "published_at": "2026-06-09T19:50:00Z",
-      "key_points": [
-        "Real-time multilingual translation",
-        "Enhances conversation flow",
-        "AI-driven communication tool"
-      ],
-      "impact": "This tool revolutionizes cross-language interactions.",
-      "id": "1a0eb9056b35cf59c3ad94ee2b7a2126"
-    },
-    {
-      "title": "macOS Golden Gate Updates Liquid Glass Design",
-      "description": "macOS Golden Gate addresses previous criticisms of Liquid Glass design, enhancing its aesthetic appeal and functionality on Macs.",
-      "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/09/macos-golden-gate-liquid-glass/",
-      "image": "https://images.macrumors.com/t/688clqBOOkeLbR-dMl3V1--AVps=/2500x/article-new/2026/06/macOS-26-vs-27-Unified-Sidebar.jpg",
-      "published_at": "2026-06-09T19:11:35Z",
-      "key_points": [
-        "Improves Liquid Glass design",
-        "Addresses user feedback",
-        "Enhances Mac aesthetics"
-      ],
-      "impact": "Users will appreciate the refined design.",
-      "id": "87a654c05932785fdc2a5c28d27b28d6"
-    },
-    {
-      "title": "Google Fi Expands to 22 New Regions",
-      "description": "Google Fi enhances its service by expanding to 22 new regions, offering improved connectivity for travelers this summer.",
-      "category": "Business",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/google-fi-lands-some-major-improvements-ahead-of-summer/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/04/google-fi-wireless-card-pixel-8-background.JPG?w=1600&h=900&fit=crop",
-      "published_at": "2026-06-09T18:23:43Z",
-      "key_points": [
-        "Expands to 22 new regions",
-        "Improves travel connectivity",
-        "Enhances service offerings"
-      ],
-      "impact": "Travelers gain better connectivity options.",
-      "id": "4d67ea10636c5d95df6b0f6328d3decd"
-    },
-    {
-      "title": "iOS 27 Personalizes iPhone Lock Screen",
-      "description": "iOS 27 introduces a new setting for customizing the iPhone Lock Screen, enhancing personalization options for users.",
+      "title": "iOS 27 Disrupts 15 Years of iPhone Muscle Memory",
+      "description": "iOS 27 introduces significant changes to the Notification Center, breaking long-standing user habits on iPhone and iPad.",
       "category": "Software",
       "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/09/ios-27-adds-unique-new-setting-to-personalize-your-iphones-lock-screen/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-lock-screen-clock-small.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-09T17:44:00Z",
+      "url": "https://9to5mac.com/2026/06/10/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ipad-ios-27-notification-siri.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-10T17:26:00Z",
       "key_points": [
-        "New Lock Screen customization",
-        "Enhances user personalization",
-        "Adds unique clock setting"
+        "Major Notification Center changes",
+        "Breaks user habits",
+        "Introduces new interface"
       ],
-      "impact": "Users can enjoy a more personalized experience.",
-      "id": "4d4eb7597e2a03407261fa28b996b54f"
+      "impact": "Users must adapt to new navigation.",
+      "id": "5ea7fec3c7b14f2130f0c290da6d27b8"
     },
     {
-      "title": "Google Partners with Paris Hilton for Android AI",
-      "description": "Google collaborates with Paris Hilton to promote Android and AI app development, highlighting new tools for users.",
-      "category": "Startups",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/06/09/google-teams-up-with-paris-hilton-to-showcase-android-and-ai-app-building/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/android-paris-hilton-1.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-09T17:40:00Z",
+      "title": "Instagram Algorithm: Users Gain Control",
+      "description": "Instagram now allows users to customize their main feed algorithm, enhancing user control over content recommendations.",
+      "category": "Software",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/947898/meta-instagram-your-algorithm-main-feed-tell",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932740/acastro_STK070__02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-06-10T17:06:10Z",
       "key_points": [
-        "Partnership with Paris Hilton",
-        "Focus on Android AI tools",
-        "Promotes app development"
+        "Users can customize feed",
+        "Enhanced algorithm control",
+        "AI-driven recommendations"
       ],
-      "impact": "This collaboration boosts Android's visibility.",
-      "id": "f18a01285091a2c635406a749144aea1"
+      "impact": "This change empowers Instagram users.",
+      "id": "4b4eff833bd1629451a200fe487df4f8"
     },
     {
-      "title": "Insta360 Luna Ultra Camera Partially Revealed",
-      "description": "The Insta360 Luna Ultra camera is available for purchase, but key details remain undisclosed. Content creators await more information.",
-      "category": "Startups",
-      "source": "PetaPixel",
-      "url": "https://petapixel.com/2026/06/09/you-can-buy-the-luna-ultra-camera-insta360-only-sorta-unveiled/",
-      "image": "https://petapixel.com/assets/uploads/2026/06/insta360-luna-ultra-featured.jpg",
-      "published_at": "2026-06-09T16:41:13Z",
+      "title": "Valve Ends Retail Gift Card Program",
+      "description": "Valve has discontinued its retail gift card program due to rampant scams, impacting legitimate users who purchase cards with cash.",
+      "category": "Gaming",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/06/valve-kills-its-retail-gift-card-program-due-to-scammers/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/steamcard-1152x648-1781107823.jpg",
+      "published_at": "2026-06-10T16:39:43Z",
       "key_points": [
-        "Camera partially unveiled",
-        "Details still pending",
-        "Available for purchase now"
+        "Gift card program discontinued",
+        "Scams prompted decision",
+        "Legitimate users affected"
       ],
-      "impact": "Content creators are eager for full specs.",
-      "id": "bb097d830d075e06015ae308aa34d87f"
+      "impact": "Legitimate users lose a convenient option.",
+      "id": "133c822c2b3652768b0339539ba656a8"
+    },
+    {
+      "title": "Ubisoft Closes Belgrade Studio, 100 Laid Off",
+      "description": "Ubisoft has shut down its Belgrade studio, resulting in the layoff of all 100 employees amid ongoing restructuring.",
+      "category": "Business",
+      "source": "Insider Gaming",
+      "url": "https://insider-gaming.com/ubisoft-closes-belgrade-studio-all-employees-let-go/",
+      "image": "https://insider-gaming.com/wp-content/uploads/2026/06/Belgrade_Gallery_Belgrade_studio_2_-_Photo_gallery.jpg",
+      "published_at": "2026-06-10T16:16:58Z",
+      "key_points": [
+        "Belgrade studio closed",
+        "100 employees laid off",
+        "Restructuring continues"
+      ],
+      "impact": "Ubisoft's restructuring impacts many jobs.",
+      "id": "c808fc9881ebcc98fc12a547c4562d60"
+    },
+    {
+      "title": "Sony Explores New PS Plus Game Delivery Methods",
+      "description": "Sony is investigating new strategies for delivering PS Plus games, aiming to improve user experience and access.",
+      "category": "Gaming",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/06/sony-exploring-new-ways-to-deliver-ps-plus-games",
+      "image": "https://images.pushsquare.com/09d863543943e/large.jpg",
+      "published_at": "2026-06-10T16:00:00Z",
+      "key_points": [
+        "New delivery methods explored",
+        "Improving user experience",
+        "PS Plus game access"
+      ],
+      "impact": "Sony aims to enhance PS Plus offerings.",
+      "id": "6079b5237d658eb1c488dbcb94f80c5f"
+    },
+    {
+      "title": "Google Workspace's Gemini Faces Service Issues",
+      "description": "Many Google Workspace users are experiencing errors with Gemini, leading to disruptions in service and productivity.",
+      "category": "Software",
+      "source": "CNET",
+      "url": "https://www.cnet.com/news-live/gemini-down-live-updates-google-workspaces-ai-errors/",
+      "image": "https://www.cnet.com/a/img/resize/21cab39f177617e06697911886159e8d9328b010/hub/2026/05/11/b610fa22-274a-40c5-a813-dc0826144197/gettyimages-2221253320.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "published_at": "2026-06-10T15:35:00Z",
+      "key_points": [
+        "Gemini service issues reported",
+        "Users face disruptions",
+        "Google working on fixes"
+      ],
+      "impact": "Service interruptions affect productivity.",
+      "id": "27e628f2338e27ceafb6f8234edb111e"
+    },
+    {
+      "title": "Xbox Exclusives: New Strategy Revealed",
+      "description": "Xbox announces that 'Gears of War: E-Day' and 'Clockwork Revolution' will be exclusive to Xbox consoles, reshaping its strategy.",
+      "category": "Gaming",
+      "source": "Variety",
+      "url": "https://variety.com/2026/gaming/news/xbox-exclusives-showcase-blade-elder-scrolls-6-matt-booty-1236771373/",
+      "image": "https://variety.com/wp-content/uploads/2026/02/Asha-Sharma-and-Matt-Booty-Primary.png?w=1000&h=563&crop=1",
+      "published_at": "2026-06-10T15:12:00Z",
+      "key_points": [
+        "New Xbox exclusives announced",
+        "Strategy reshaped",
+        "Focus on console gaming"
+      ],
+      "impact": "Xbox strengthens its exclusive game lineup.",
+      "id": "39ade2e666af6785991aaa1eec2eeefc"
+    },
+    {
+      "title": "Halo: Campaign Evolved Surprises Players",
+      "description": "Initial skepticism about Halo: Campaign Evolved fades after gameplay reveals, sparking interest in remakes of the original trilogy.",
+      "category": "Gaming",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/halo-campaign-evolved-hands-on",
+      "image": "https://assetsio.gnwcdn.com/halo-consoles.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-10T15:00:00Z",
+      "key_points": [
+        "Gameplay impresses players",
+        "Calls for trilogy remakes",
+        "Positive reception builds"
+      ],
+      "impact": "Fans are eager for more Halo remakes.",
+      "id": "e327a4d0ed6e1abd2d6a242deb768c2c"
+    },
+    {
+      "title": "Resident Evil: Code Veronica Remake Details",
+      "description": "Capcom clarifies that the Resident Evil - Code: Veronica remake will follow a third-person perspective, contrary to trailer hints.",
+      "category": "Gaming",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/resident-evil-veronica-first-person",
+      "image": "https://assetsio.gnwcdn.com/resident-evil-veronica-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-10T15:00:00Z",
+      "key_points": [
+        "Remake will be third-person",
+        "Trailer misled expectations",
+        "Stays true to series style"
+      ],
+      "impact": "Fans await a classic remake experience.",
+      "id": "2a3579218529aaa874181a3f81a313ad"
+    },
+    {
+      "title": "Stellar Blade CEO Addresses Protagonist Concerns",
+      "description": "CEO Hyung-tae Kim responds to feedback about the sequel's protagonist, promising appealing outfits and character design.",
+      "category": "Gaming",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/stellar-blade-blood-rain-evie-young-appearance-eve-sexualized-shift-up-2000704314",
+      "image": "https://kotaku.com/app/uploads/2026/06/Stellar-Blade-Summer-Game-Fest-1200x675.jpg",
+      "published_at": "2026-06-10T14:23:05Z",
+      "key_points": [
+        "CEO addresses character design",
+        "Promises appealing outfits",
+        "Feedback acknowledged"
+      ],
+      "impact": "Fans hope for improved character representation.",
+      "id": "a1223e95ca43610ed0b3126069f6bcbf"
+    },
+    {
+      "title": "Alien: Isolation 2 Promises Tension and Horror",
+      "description": "The prologue of Alien: Isolation 2 showcases a gripping experience, emphasizing tension and release in gameplay.",
+      "category": "Gaming",
+      "source": "XBOX Wire",
+      "url": "https://news.xbox.com/en-us/2026/06/10/alien-isolation-2-poised-to-deliver-another-bold-chapter/",
+      "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/05_PROLOGUE-ALIEN-ATTACK-db260343c31f2b3cf24b.jpg",
+      "published_at": "2026-06-10T14:02:18Z",
+      "key_points": [
+        "Prologue showcases gripping gameplay",
+        "Focus on tension and release",
+        "Bold horror experience promised"
+      ],
+      "impact": "Fans anticipate a thrilling sequel.",
+      "id": "8b87e79feafab40ba760284ce6ba2887"
+    },
+    {
+      "title": "Apple's Siri Chatbot App Explained",
+      "description": "Craig Federighi discusses Apple's decision to launch a standalone Siri chatbot app in iOS 27, marking a significant shift.",
+      "category": "Software",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/10/federighi-explains-why-apple-pivoted-to-siri-chatbot/",
+      "image": "https://images.macrumors.com/t/IPtX7k5CjH3jF5drY3V9MWT37wM=/1600x/article-new/2026/06/Ask-Siri-iOS-27.jpg",
+      "published_at": "2026-06-10T12:07:48Z",
+      "key_points": [
+        "Standalone Siri app launched",
+        "Significant shift in strategy",
+        "Focus on chatbot capabilities"
+      ],
+      "impact": "Apple aims to enhance Siri's functionality.",
+      "id": "882b9e13dd0955feee51dd8379a3c15d"
     }
   ]
 }
