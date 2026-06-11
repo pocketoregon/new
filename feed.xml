@@ -5,53 +5,116 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jun 2026 22:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 03:52:34 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Apple Passwords Now Auto-Fix Weak Passwords</title>
-      <description>Apple's Passwords app can now automatically update weak and compromised passwords using AI. This feature enhances user security effortlessly.</description>
-      <link>https://www.macrumors.com/2026/06/08/apple-passwords-can-now-automatically-fix-passwords-with-agentic-ai/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/06/08/apple-passwords-can-now-automatically-fix-passwords-with-agentic-ai/</guid>
-      <pubDate>2026-06-08T20:05:12Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.macrumors.com/2026/06/08/apple-passwords-can-now-automatically-fix-passwords-with-agentic-ai/">MacRumors</source>
-    </item>
-    <item>
-      <title>Valve’s Steam Frame VR Setup Tutorial Leaked</title>
-      <description>A leaked video reveals Valve's Steam Frame software and its VR setup tutorial. This could enhance user onboarding for VR experiences.</description>
-      <link>https://videocardz.com/newz/steam-frame-welcome-tour-leaks-shows-valves-vr-setup-tutorial</link>
-      <guid isPermaLink="true">https://videocardz.com/newz/steam-frame-welcome-tour-leaks-shows-valves-vr-setup-tutorial</guid>
-      <pubDate>2026-06-08T15:32:27Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://videocardz.com/newz/steam-frame-welcome-tour-leaks-shows-valves-vr-setup-tutorial">Videocardz.com</source>
-    </item>
-    <item>
-      <title>Destiny 2's Final Update Arrives June 9</title>
-      <description>Destiny 2 will release its last major update on June 9, featuring significant content. This marks the end of an era for the game.</description>
-      <link>https://www.forbes.com/sites/paultassi/2026/06/08/heres-everything-coming-to-destiny-2s-final-june-9-update/</link>
-      <guid isPermaLink="true">https://www.forbes.com/sites/paultassi/2026/06/08/heres-everything-coming-to-destiny-2s-final-june-9-update/</guid>
-      <pubDate>2026-06-08T14:42:40Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.forbes.com/sites/paultassi/2026/06/08/heres-everything-coming-to-destiny-2s-final-june-9-update/">Forbes</source>
-    </item>
-    <item>
-      <title>Tim Cook Shares Comedic Video for Final Event</title>
-      <description>Tim Cook posted a humorous video ahead of his last Apple event at WWDC. He will step down as CEO on September 1.</description>
-      <link>https://9to5mac.com/2026/06/08/tim-cook-posts-comedic-good-morning-video-to-mark-final-apple-event-as-ceo/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/08/tim-cook-posts-comedic-good-morning-video-to-mark-final-apple-event-as-ceo/</guid>
-      <pubDate>2026-06-08T13:25:00Z</pubDate>
+      <title>Google Sparks AI Subscription Price War</title>
+      <description>Google slashes prices for its budget AI subscription, intensifying competition in the market. This move targets American consumers amid a global pricing battle.</description>
+      <link>https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/</guid>
+      <pubDate>2026-06-10T00:26:10Z</pubDate>
       <category>Business</category>
-      <source url="https://9to5mac.com/2026/06/08/tim-cook-posts-comedic-good-morning-video-to-mark-final-apple-event-as-ceo/">9to5Mac</source>
+      <source url="https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/">TechCrunch</source>
     </item>
     <item>
-      <title>Nintendo Fined €35 Million Over Joy-Con Defect</title>
-      <description>Nintendo faces a €35 million fine in France for delaying communication about Joy-Con controller defects. The company was aware of the issue since 2018.</description>
-      <link>https://www.lemonde.fr/en/pixels/article/2026/06/08/nintendo-fined-35-million-in-france-over-defect-in-switch-joy-con-controllers_6754251_13.html</link>
-      <guid isPermaLink="true">https://www.lemonde.fr/en/pixels/article/2026/06/08/nintendo-fined-35-million-in-france-over-defect-in-switch-joy-con-controllers_6754251_13.html</guid>
-      <pubDate>2026-06-08T10:50:55Z</pubDate>
-      <category>Geopolitics</category>
-      <source url="https://www.lemonde.fr/en/pixels/article/2026/06/08/nintendo-fined-35-million-in-france-over-defect-in-switch-joy-con-controllers_6754251_13.html">Le Monde</source>
+      <title>Siri AI Shows Promising Performance</title>
+      <description>Apple's Siri AI, its second attempt at an AI assistant, demonstrates significant improvements and functionality. Early tests suggest it may finally meet user expectations.</description>
+      <link>https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc</guid>
+      <pubDate>2026-06-09T23:43:00Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc">The Verge</source>
+    </item>
+    <item>
+      <title>Starlink Introduces Monthly Hardware Fee</title>
+      <description>Starlink shifts to a $10 monthly hardware rental fee, moving away from one-time purchases. Service prices also increase by $5 to $10.</description>
+      <link>https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/</guid>
+      <pubDate>2026-06-09T21:05:39Z</pubDate>
+      <category>Business</category>
+      <source url="https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Destiny 2 Sees Player Surge Post-Update</title>
+      <description>Destiny 2 experiences a record player count following its final update release. Fans are flocking back to celebrate the game's legacy.</description>
+      <link>https://www.ign.com/articles/destiny-2-hits-highest-player-count-in-two-years-following-final-updates-release-shatters-marathons-all-time-peak</link>
+      <guid isPermaLink="true">https://www.ign.com/articles/destiny-2-hits-highest-player-count-in-two-years-following-final-updates-release-shatters-marathons-all-time-peak</guid>
+      <pubDate>2026-06-09T20:41:13Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.ign.com/articles/destiny-2-hits-highest-player-count-in-two-years-following-final-updates-release-shatters-marathons-all-time-peak">IGN</source>
+    </item>
+    <item>
+      <title>Google Launches Gemini 3.5 Live Translate</title>
+      <description>Google's Gemini 3.5 Live Translate offers instant voice-to-voice translations, maintaining speaker tone and pitch. Security features include SynthID watermarks.</description>
+      <link>https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/</link>
+      <guid isPermaLink="true">https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/</guid>
+      <pubDate>2026-06-09T18:57:25Z</pubDate>
+      <category>AI</category>
+      <source url="https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Apple Unveils New App Store Subscription Bundles</title>
+      <description>Apple introduces new subscription bundles for the App Store, enhancing user options. This follows earlier monthly plans with long-term commitments.</description>
+      <link>https://9to5mac.com/2026/06/09/apple-introduces-new-subscription-bundles-coming-to-app-store/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/09/apple-introduces-new-subscription-bundles-coming-to-app-store/</guid>
+      <pubDate>2026-06-09T18:34:00Z</pubDate>
+      <category>Business</category>
+      <source url="https://9to5mac.com/2026/06/09/apple-introduces-new-subscription-bundles-coming-to-app-store/">9to5Mac</source>
+    </item>
+    <item>
+      <title>Apple Reveals Top Features in iOS 27</title>
+      <description>Apple showcases exciting new features in iOS 27, focusing on Siri improvements and user experience enhancements. The update aims to refine device functionality.</description>
+      <link>https://www.wired.com/story/top-new-features-in-apples-ios-27-and-ipados-27/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/top-new-features-in-apples-ios-27-and-ipados-27/</guid>
+      <pubDate>2026-06-09T17:03:00Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.wired.com/story/top-new-features-in-apples-ios-27-and-ipados-27/">Wired</source>
+    </item>
+    <item>
+      <title>Apple Announces tvOS 27 Enhancements</title>
+      <description>Apple confirms tvOS 27, promising faster performance for streaming devices. The update aims to enhance user experience despite limited attention at WWDC.</description>
+      <link>https://www.whathifi.com/streaming-entertainment/streaming-hardware/apple-officially-announces-tvos-27-and-it-nearly-makes-up-for-the-missing-next-generation-apple-tv-4k</link>
+      <guid isPermaLink="true">https://www.whathifi.com/streaming-entertainment/streaming-hardware/apple-officially-announces-tvos-27-and-it-nearly-makes-up-for-the-missing-next-generation-apple-tv-4k</guid>
+      <pubDate>2026-06-09T16:08:05Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.whathifi.com/streaming-entertainment/streaming-hardware/apple-officially-announces-tvos-27-and-it-nearly-makes-up-for-the-missing-next-generation-apple-tv-4k">What Hi-Fi? US</source>
+    </item>
+    <item>
+      <title>Zelda: Ocarina of Time Remake Coming Soon</title>
+      <description>Nintendo announces a remake of The Legend of Zelda: Ocarina of Time, set for release this year. Fans eagerly anticipate this classic revival.</description>
+      <link>https://www.forbes.com/sites/paultassi/2026/06/09/nintendos-the-legend-of-zelda-ocarina-of-time-remake-is-out-this-year/</link>
+      <guid isPermaLink="true">https://www.forbes.com/sites/paultassi/2026/06/09/nintendos-the-legend-of-zelda-ocarina-of-time-remake-is-out-this-year/</guid>
+      <pubDate>2026-06-09T15:27:37Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.forbes.com/sites/paultassi/2026/06/09/nintendos-the-legend-of-zelda-ocarina-of-time-remake-is-out-this-year/">Forbes</source>
+    </item>
+    <item>
+      <title>Apple May Remove Low-Performing Apps</title>
+      <description>Apple warns it may remove apps from the App Store that fail to attract users. This move targets stale or low-value applications.</description>
+      <link>https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/</guid>
+      <pubDate>2026-06-09T15:23:40Z</pubDate>
+      <category>Business</category>
+      <source url="https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Kingdom Hearts IV Confirmed for Multiple Platforms</title>
+      <description>Kingdom Hearts IV will launch on PS5, Xbox Series, Switch 2, and PC. Square Enix confirms the game's development but has not announced a release date.</description>
+      <link>https://www.gematsu.com/2026/06/kingdom-hearts-iv-confirmed-for-ps5-xbox-series-switch-2-and-pc</link>
+      <guid isPermaLink="true">https://www.gematsu.com/2026/06/kingdom-hearts-iv-confirmed-for-ps5-xbox-series-switch-2-and-pc</guid>
+      <pubDate>2026-06-09T14:56:26Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.gematsu.com/2026/06/kingdom-hearts-iv-confirmed-for-ps5-xbox-series-switch-2-and-pc">Gematsu</source>
+    </item>
+    <item>
+      <title>Critical Chrome Zero-Day Vulnerability Discovered</title>
+      <description>Google addresses 74 vulnerabilities in Chrome, including a critical zero-day flaw, CVE-2026-11645. Users are urged to update immediately for security.</description>
+      <link>https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html</link>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html</guid>
+      <pubDate>2026-06-09T11:58:00Z</pubDate>
+      <category>Security</category>
+      <source url="https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html">Internet</source>
     </item>
   </channel>
 </rss>

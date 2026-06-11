@@ -1,87 +1,199 @@
 {
-  "date": "2026-06-10",
-  "generated_at": "2026-06-10T22:50:24.837509+00:00",
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T03:51:57.520378+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Apple Passwords Now Auto-Fix Weak Passwords",
-      "description": "Apple's Passwords app can now automatically update weak and compromised passwords using AI. This feature enhances user security effortlessly.",
+      "title": "Google Sparks AI Subscription Price War",
+      "description": "Google slashes prices for its budget AI subscription, intensifying competition in the market. This move targets American consumers amid a global pricing battle.",
+      "category": "Business",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
+      "published_at": "2026-06-10T00:26:10Z",
+      "key_points": [
+        "Google lowers AI subscription costs",
+        "Targets American consumers",
+        "Intensifies market competition"
+      ],
+      "impact": "This could reshape AI subscription pricing.",
+      "id": "f5f16b778aa511b12529d9bb647b0a71"
+    },
+    {
+      "title": "Siri AI Shows Promising Performance",
+      "description": "Apple's Siri AI, its second attempt at an AI assistant, demonstrates significant improvements and functionality. Early tests suggest it may finally meet user expectations.",
       "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/08/apple-passwords-can-now-automatically-fix-passwords-with-agentic-ai/",
-      "image": "https://images.macrumors.com/t/S0o-hzuadWAucWAD99hN4pACQcs=/1600x/article-new/2026/06/ios-27-passwords-app.jpg",
-      "published_at": "2026-06-08T20:05:12Z",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03775_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "published_at": "2026-06-09T23:43:00Z",
       "key_points": [
-        "Automatic password updates",
-        "Enhanced user security",
-        "Utilizes Apple Intelligence"
+        "Siri AI shows improved functionality",
+        "User experience is enhanced",
+        "Potentially meets expectations"
       ],
-      "impact": "This feature significantly improves password management.",
-      "id": "be1243201f4961a608f4719a89411164"
+      "impact": "Siri AI could regain user trust.",
+      "id": "97e73bfc89ed13aa5f8929c049259ef8"
     },
     {
-      "title": "Valve’s Steam Frame VR Setup Tutorial Leaked",
-      "description": "A leaked video reveals Valve's Steam Frame software and its VR setup tutorial. This could enhance user onboarding for VR experiences.",
+      "title": "Starlink Introduces Monthly Hardware Fee",
+      "description": "Starlink shifts to a $10 monthly hardware rental fee, moving away from one-time purchases. Service prices also increase by $5 to $10.",
+      "category": "Business",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/getty-starlink-1152x648.jpg",
+      "published_at": "2026-06-09T21:05:39Z",
+      "key_points": [
+        "Starlink introduces monthly fees",
+        "Service prices increase",
+        "Shifts from one-time purchases"
+      ],
+      "impact": "This could affect customer retention.",
+      "id": "fe37e0d103e2d6d17a2e6146ae2cc651"
+    },
+    {
+      "title": "Destiny 2 Sees Player Surge Post-Update",
+      "description": "Destiny 2 experiences a record player count following its final update release. Fans are flocking back to celebrate the game's legacy.",
       "category": "Gaming",
-      "source": "Videocardz.com",
-      "url": "https://videocardz.com/newz/steam-frame-welcome-tour-leaks-shows-valves-vr-setup-tutorial",
-      "image": "https://cdn.videocardz.com/1/2026/06/STEAM-FRAME-HERO-WELCOME-TOUR.jpg",
-      "published_at": "2026-06-08T15:32:27Z",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/destiny-2-hits-highest-player-count-in-two-years-following-final-updates-release-shatters-marathons-all-time-peak",
+      "image": "https://assets-prd.ignimgs.com/2025/11/13/destiynthumb-1763051460453.png?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-09T20:41:13Z",
       "key_points": [
-        "Steam Frame software revealed",
-        "VR setup tutorial shown",
-        "Enhances user onboarding"
+        "Destiny 2 hits record player count",
+        "Final update boosts engagement",
+        "Fans celebrate game's legacy"
       ],
-      "impact": "This leak may boost interest in Valve's VR.",
-      "id": "b1e13b7c81283b283dc206075b751b96"
+      "impact": "This revitalizes interest in Destiny 2.",
+      "id": "3b978d72a7d7b3b8a6815d06d82836a6"
     },
     {
-      "title": "Destiny 2's Final Update Arrives June 9",
-      "description": "Destiny 2 will release its last major update on June 9, featuring significant content. This marks the end of an era for the game.",
-      "category": "Gaming",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/06/08/heres-everything-coming-to-destiny-2s-final-june-9-update/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a26d4b099b17a170bd5efbd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published_at": "2026-06-08T14:42:40Z",
+      "title": "Google Launches Gemini 3.5 Live Translate",
+      "description": "Google's Gemini 3.5 Live Translate offers instant voice-to-voice translations, maintaining speaker tone and pitch. Security features include SynthID watermarks.",
+      "category": "AI",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-4-1152x648.jpg",
+      "published_at": "2026-06-09T18:57:25Z",
       "key_points": [
-        "Final content update announced",
-        "Major features included",
-        "End of Destiny 2 era"
+        "Instant voice translations available",
+        "Preserves speaker's tone",
+        "Includes security watermarks"
       ],
-      "impact": "This update concludes Destiny 2's journey.",
-      "id": "7240927cd21362b04a81af3e2ba95783"
+      "impact": "This enhances real-time communication.",
+      "id": "b555cceabdd0f48e98f7b03806515b63"
     },
     {
-      "title": "Tim Cook Shares Comedic Video for Final Event",
-      "description": "Tim Cook posted a humorous video ahead of his last Apple event at WWDC. He will step down as CEO on September 1.",
+      "title": "Apple Unveils New App Store Subscription Bundles",
+      "description": "Apple introduces new subscription bundles for the App Store, enhancing user options. This follows earlier monthly plans with long-term commitments.",
       "category": "Business",
       "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/08/tim-cook-posts-comedic-good-morning-video-to-mark-final-apple-event-as-ceo/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/iPhone-17-event-scheduled-for-September-9-according-to-carrier-documents.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-08T13:25:00Z",
+      "url": "https://9to5mac.com/2026/06/09/apple-introduces-new-subscription-bundles-coming-to-app-store/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/app-store-app-icon-ios-27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-09T18:34:00Z",
       "key_points": [
-        "Tim Cook's final Apple event",
-        "Comedic farewell video",
-        "CEO transition on September 1"
+        "New subscription bundles announced",
+        "Enhances user options",
+        "Follows earlier subscription plans"
       ],
-      "impact": "Cook's departure marks a significant leadership change.",
-      "id": "f436d976191f9bf4b03b649d2211f8f9"
+      "impact": "This could boost App Store revenue.",
+      "id": "854d2ddfe0bfc6d61273de0016e4a1d2"
     },
     {
-      "title": "Nintendo Fined €35 Million Over Joy-Con Defect",
-      "description": "Nintendo faces a €35 million fine in France for delaying communication about Joy-Con controller defects. The company was aware of the issue since 2018.",
-      "category": "Geopolitics",
-      "source": "Le Monde",
-      "url": "https://www.lemonde.fr/en/pixels/article/2026/06/08/nintendo-fined-35-million-in-france-over-defect-in-switch-joy-con-controllers_6754251_13.html",
-      "image": "https://img.lemde.fr/2021/10/08/0/0/4000/2666/1440/960/60/0/9be6308_176113083-dscf0981bis.jpg",
-      "published_at": "2026-06-08T10:50:55Z",
+      "title": "Apple Reveals Top Features in iOS 27",
+      "description": "Apple showcases exciting new features in iOS 27, focusing on Siri improvements and user experience enhancements. The update aims to refine device functionality.",
+      "category": "Software",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/top-new-features-in-apples-ios-27-and-ipados-27/",
+      "image": "https://media.wired.com/photos/6a28233604cb8e65f7b969d3/191:100/w_1280,c_limit/Siri%20AI%20Site%20Image%20SOURCE%20Apple.jpg",
+      "published_at": "2026-06-09T17:03:00Z",
       "key_points": [
-        "Nintendo fined €35 million",
-        "Delayed defect communication",
-        "Issue known since 2018"
+        "iOS 27 features major upgrades",
+        "Focus on Siri improvements",
+        "Enhances user experience"
       ],
-      "impact": "This fine highlights consumer protection enforcement.",
-      "id": "b61f57e20045cc2a6a332fed3d76dc96"
+      "impact": "This could improve user satisfaction.",
+      "id": "32a2e9b211fb33fe3ab3e27ee58b3d7f"
+    },
+    {
+      "title": "Apple Announces tvOS 27 Enhancements",
+      "description": "Apple confirms tvOS 27, promising faster performance for streaming devices. The update aims to enhance user experience despite limited attention at WWDC.",
+      "category": "Software",
+      "source": "What Hi-Fi? US",
+      "url": "https://www.whathifi.com/streaming-entertainment/streaming-hardware/apple-officially-announces-tvos-27-and-it-nearly-makes-up-for-the-missing-next-generation-apple-tv-4k",
+      "image": "https://cdn.mos.cms.futurecdn.net/gaZxFBeuS4ipxGTBfUeqNU-2560-80.jpg",
+      "published_at": "2026-06-09T16:08:05Z",
+      "key_points": [
+        "tvOS 27 announced",
+        "Faster streaming performance",
+        "Enhances user experience"
+      ],
+      "impact": "This could attract more streaming users.",
+      "id": "32c4f4d1f9d63a264db091b95a374073"
+    },
+    {
+      "title": "Zelda: Ocarina of Time Remake Coming Soon",
+      "description": "Nintendo announces a remake of The Legend of Zelda: Ocarina of Time, set for release this year. Fans eagerly anticipate this classic revival.",
+      "category": "Gaming",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/06/09/nintendos-the-legend-of-zelda-ocarina-of-time-remake-is-out-this-year/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a283057a1ae8880301f685c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published_at": "2026-06-09T15:27:37Z",
+      "key_points": [
+        "Zelda remake announced",
+        "Set for release this year",
+        "Fans excited for revival"
+      ],
+      "impact": "This could boost Nintendo's sales.",
+      "id": "9f2105b40be0d603db380f032bc91725"
+    },
+    {
+      "title": "Apple May Remove Low-Performing Apps",
+      "description": "Apple warns it may remove apps from the App Store that fail to attract users. This move targets stale or low-value applications.",
+      "category": "Business",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/app-of-the-year.jpg?resize=1200,722",
+      "published_at": "2026-06-09T15:23:40Z",
+      "key_points": [
+        "Apple targets low-performing apps",
+        "May remove stale applications",
+        "Focus on user engagement"
+      ],
+      "impact": "This could streamline the App Store.",
+      "id": "ce34f28de3d961c5ababaf2b7e1763eb"
+    },
+    {
+      "title": "Kingdom Hearts IV Confirmed for Multiple Platforms",
+      "description": "Kingdom Hearts IV will launch on PS5, Xbox Series, Switch 2, and PC. Square Enix confirms the game's development but has not announced a release date.",
+      "category": "Gaming",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/kingdom-hearts-iv-confirmed-for-ps5-xbox-series-switch-2-and-pc",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Kingdom-Hearts-IV_2026_06-09-26_006.jpg",
+      "published_at": "2026-06-09T14:56:26Z",
+      "key_points": [
+        "Kingdom Hearts IV confirmed",
+        "Available on multiple platforms",
+        "Release date not announced"
+      ],
+      "impact": "This excites fans of the franchise.",
+      "id": "98c1375a23b3dbea0eb0d4bdfda53712"
+    },
+    {
+      "title": "Critical Chrome Zero-Day Vulnerability Discovered",
+      "description": "Google addresses 74 vulnerabilities in Chrome, including a critical zero-day flaw, CVE-2026-11645. Users are urged to update immediately for security.",
+      "category": "Security",
+      "source": "Internet",
+      "url": "https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy9c53f3p1HHGx7jqu0BsfiQG9IExXm0FN2TErZuX0bEb-QuwP4-_1WCoEBEWu976cmqjbnjTJl04uxbLJIP3P0pzSXNqjLNOz_gbfLMilYwJswWq-lMAPWJ1FxaZB_jmcsJaBFO4E5oXd3cdhDPlnDc2TblqooNQ9Btxfak9W8cXEhyphenhyphenXzjEfSluORQ1Ty/s1600/chrome-zero-day.jpg",
+      "published_at": "2026-06-09T11:58:00Z",
+      "key_points": [
+        "74 vulnerabilities addressed",
+        "Critical zero-day flaw found",
+        "Users urged to update"
+      ],
+      "impact": "This enhances Chrome's security posture.",
+      "id": "dc1b2039550e0d682ce54988d57d409d"
     }
   ]
 }

@@ -1,6 +1,205 @@
 {
   "batches": [
     {
+      "id": "2026-06-11T03:51:57.520378+00:00",
+      "fetched_at": "2026-06-11T03:51:57.520378+00:00",
+      "label": "Jun 11, 2026 — 03:52 AM UTC",
+      "articles": [
+        {
+          "title": "Google Sparks AI Subscription Price War",
+          "description": "Google slashes prices for its budget AI subscription, intensifying competition in the market. This move targets American consumers amid a global pricing battle.",
+          "category": "Business",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
+          "published_at": "2026-06-10T00:26:10Z",
+          "key_points": [
+            "Google lowers AI subscription costs",
+            "Targets American consumers",
+            "Intensifies market competition"
+          ],
+          "impact": "This could reshape AI subscription pricing.",
+          "id": "f5f16b778aa511b12529d9bb647b0a71"
+        },
+        {
+          "title": "Siri AI Shows Promising Performance",
+          "description": "Apple's Siri AI, its second attempt at an AI assistant, demonstrates significant improvements and functionality. Early tests suggest it may finally meet user expectations.",
+          "category": "Software",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03775_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+          "published_at": "2026-06-09T23:43:00Z",
+          "key_points": [
+            "Siri AI shows improved functionality",
+            "User experience is enhanced",
+            "Potentially meets expectations"
+          ],
+          "impact": "Siri AI could regain user trust.",
+          "id": "97e73bfc89ed13aa5f8929c049259ef8"
+        },
+        {
+          "title": "Starlink Introduces Monthly Hardware Fee",
+          "description": "Starlink shifts to a $10 monthly hardware rental fee, moving away from one-time purchases. Service prices also increase by $5 to $10.",
+          "category": "Business",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/getty-starlink-1152x648.jpg",
+          "published_at": "2026-06-09T21:05:39Z",
+          "key_points": [
+            "Starlink introduces monthly fees",
+            "Service prices increase",
+            "Shifts from one-time purchases"
+          ],
+          "impact": "This could affect customer retention.",
+          "id": "fe37e0d103e2d6d17a2e6146ae2cc651"
+        },
+        {
+          "title": "Destiny 2 Sees Player Surge Post-Update",
+          "description": "Destiny 2 experiences a record player count following its final update release. Fans are flocking back to celebrate the game's legacy.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/destiny-2-hits-highest-player-count-in-two-years-following-final-updates-release-shatters-marathons-all-time-peak",
+          "image": "https://assets-prd.ignimgs.com/2025/11/13/destiynthumb-1763051460453.png?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-09T20:41:13Z",
+          "key_points": [
+            "Destiny 2 hits record player count",
+            "Final update boosts engagement",
+            "Fans celebrate game's legacy"
+          ],
+          "impact": "This revitalizes interest in Destiny 2.",
+          "id": "3b978d72a7d7b3b8a6815d06d82836a6"
+        },
+        {
+          "title": "Google Launches Gemini 3.5 Live Translate",
+          "description": "Google's Gemini 3.5 Live Translate offers instant voice-to-voice translations, maintaining speaker tone and pitch. Security features include SynthID watermarks.",
+          "category": "AI",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-4-1152x648.jpg",
+          "published_at": "2026-06-09T18:57:25Z",
+          "key_points": [
+            "Instant voice translations available",
+            "Preserves speaker's tone",
+            "Includes security watermarks"
+          ],
+          "impact": "This enhances real-time communication.",
+          "id": "b555cceabdd0f48e98f7b03806515b63"
+        },
+        {
+          "title": "Apple Unveils New App Store Subscription Bundles",
+          "description": "Apple introduces new subscription bundles for the App Store, enhancing user options. This follows earlier monthly plans with long-term commitments.",
+          "category": "Business",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/09/apple-introduces-new-subscription-bundles-coming-to-app-store/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/app-store-app-icon-ios-27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-09T18:34:00Z",
+          "key_points": [
+            "New subscription bundles announced",
+            "Enhances user options",
+            "Follows earlier subscription plans"
+          ],
+          "impact": "This could boost App Store revenue.",
+          "id": "854d2ddfe0bfc6d61273de0016e4a1d2"
+        },
+        {
+          "title": "Apple Reveals Top Features in iOS 27",
+          "description": "Apple showcases exciting new features in iOS 27, focusing on Siri improvements and user experience enhancements. The update aims to refine device functionality.",
+          "category": "Software",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/top-new-features-in-apples-ios-27-and-ipados-27/",
+          "image": "https://media.wired.com/photos/6a28233604cb8e65f7b969d3/191:100/w_1280,c_limit/Siri%20AI%20Site%20Image%20SOURCE%20Apple.jpg",
+          "published_at": "2026-06-09T17:03:00Z",
+          "key_points": [
+            "iOS 27 features major upgrades",
+            "Focus on Siri improvements",
+            "Enhances user experience"
+          ],
+          "impact": "This could improve user satisfaction.",
+          "id": "32a2e9b211fb33fe3ab3e27ee58b3d7f"
+        },
+        {
+          "title": "Apple Announces tvOS 27 Enhancements",
+          "description": "Apple confirms tvOS 27, promising faster performance for streaming devices. The update aims to enhance user experience despite limited attention at WWDC.",
+          "category": "Software",
+          "source": "What Hi-Fi? US",
+          "url": "https://www.whathifi.com/streaming-entertainment/streaming-hardware/apple-officially-announces-tvos-27-and-it-nearly-makes-up-for-the-missing-next-generation-apple-tv-4k",
+          "image": "https://cdn.mos.cms.futurecdn.net/gaZxFBeuS4ipxGTBfUeqNU-2560-80.jpg",
+          "published_at": "2026-06-09T16:08:05Z",
+          "key_points": [
+            "tvOS 27 announced",
+            "Faster streaming performance",
+            "Enhances user experience"
+          ],
+          "impact": "This could attract more streaming users.",
+          "id": "32c4f4d1f9d63a264db091b95a374073"
+        },
+        {
+          "title": "Zelda: Ocarina of Time Remake Coming Soon",
+          "description": "Nintendo announces a remake of The Legend of Zelda: Ocarina of Time, set for release this year. Fans eagerly anticipate this classic revival.",
+          "category": "Gaming",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/06/09/nintendos-the-legend-of-zelda-ocarina-of-time-remake-is-out-this-year/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a283057a1ae8880301f685c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-09T15:27:37Z",
+          "key_points": [
+            "Zelda remake announced",
+            "Set for release this year",
+            "Fans excited for revival"
+          ],
+          "impact": "This could boost Nintendo's sales.",
+          "id": "9f2105b40be0d603db380f032bc91725"
+        },
+        {
+          "title": "Apple May Remove Low-Performing Apps",
+          "description": "Apple warns it may remove apps from the App Store that fail to attract users. This move targets stale or low-value applications.",
+          "category": "Business",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/12/app-of-the-year.jpg?resize=1200,722",
+          "published_at": "2026-06-09T15:23:40Z",
+          "key_points": [
+            "Apple targets low-performing apps",
+            "May remove stale applications",
+            "Focus on user engagement"
+          ],
+          "impact": "This could streamline the App Store.",
+          "id": "ce34f28de3d961c5ababaf2b7e1763eb"
+        },
+        {
+          "title": "Kingdom Hearts IV Confirmed for Multiple Platforms",
+          "description": "Kingdom Hearts IV will launch on PS5, Xbox Series, Switch 2, and PC. Square Enix confirms the game's development but has not announced a release date.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/kingdom-hearts-iv-confirmed-for-ps5-xbox-series-switch-2-and-pc",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Kingdom-Hearts-IV_2026_06-09-26_006.jpg",
+          "published_at": "2026-06-09T14:56:26Z",
+          "key_points": [
+            "Kingdom Hearts IV confirmed",
+            "Available on multiple platforms",
+            "Release date not announced"
+          ],
+          "impact": "This excites fans of the franchise.",
+          "id": "98c1375a23b3dbea0eb0d4bdfda53712"
+        },
+        {
+          "title": "Critical Chrome Zero-Day Vulnerability Discovered",
+          "description": "Google addresses 74 vulnerabilities in Chrome, including a critical zero-day flaw, CVE-2026-11645. Users are urged to update immediately for security.",
+          "category": "Security",
+          "source": "Internet",
+          "url": "https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy9c53f3p1HHGx7jqu0BsfiQG9IExXm0FN2TErZuX0bEb-QuwP4-_1WCoEBEWu976cmqjbnjTJl04uxbLJIP3P0pzSXNqjLNOz_gbfLMilYwJswWq-lMAPWJ1FxaZB_jmcsJaBFO4E5oXd3cdhDPlnDc2TblqooNQ9Btxfak9W8cXEhyphenhyphenXzjEfSluORQ1Ty/s1600/chrome-zero-day.jpg",
+          "published_at": "2026-06-09T11:58:00Z",
+          "key_points": [
+            "74 vulnerabilities addressed",
+            "Critical zero-day flaw found",
+            "Users urged to update"
+          ],
+          "impact": "This enhances Chrome's security posture.",
+          "id": "dc1b2039550e0d682ce54988d57d409d"
+        }
+      ]
+    },
+    {
       "id": "2026-06-10T22:50:24.837509+00:00",
       "fetched_at": "2026-06-10T22:50:24.837509+00:00",
       "label": "Jun 10, 2026 — 10:50 PM UTC",
@@ -5320,253 +5519,6 @@
           ],
           "impact": "High prices may limit consumer access.",
           "id": "f9852505a3bde614d105025b887c9f6e"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-06T03:21:38.696737+00:00",
-      "fetched_at": "2026-06-06T03:21:38.696737+00:00",
-      "label": "Jun 06, 2026 — 03:22 AM UTC",
-      "articles": [
-        {
-          "title": "Xbox Series S Blamed for Game Delay",
-          "description": "Moon Studio's founder cites Xbox Series S as a reason for the delay of their RPG, No Rest for the Wicked. The console faces ongoing criticism.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/no-rest-for-the-wicked-developer-blames-series-s-for-xbox-release-delay",
-          "image": "https://assets-prd.ignimgs.com/2026/03/17/norestthumb-1773773043681.png?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-05T00:21:00Z",
-          "key_points": [
-            "Xbox Series S criticized again",
-            "Delay affects No Rest for the Wicked",
-            "Developer's comments spark debate"
-          ],
-          "impact": "The delay raises questions about console performance.",
-          "id": "3cd0806b58c6fc531b5ec322012a436e"
-        },
-        {
-          "title": "God of War Laufey Crowned Best PS5 Game",
-          "description": "At the latest State of Play, God of War Laufey was voted the best PS5 game, with Wolverine trailing closely behind. The event showcased numerous high-quality titles.",
-          "category": "Gaming",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/06/god-of-war-laufey-voted-best-ps5-game-at-state-of-play",
-          "image": "https://images.pushsquare.com/2fd0032e8a279/large.jpg",
-          "published_at": "2026-06-04T23:00:00Z",
-          "key_points": [
-            "God of War wins top honor",
-            "Wolverine ranks closely behind",
-            "State of Play highlights quality games"
-          ],
-          "impact": "This recognition boosts God of War's popularity.",
-          "id": "b639fa235430bafc886bcb1e8ddc3cf3"
-        },
-        {
-          "title": "Google Health 5.01 Update Rolls Out",
-          "description": "Google Health app version 5.01 is now available, featuring 16 updates focused on nutrition, fitness, and sleep improvements. Users can expect enhanced functionality.",
-          "category": "Software",
-          "source": "9to5google.com",
-          "url": "http://9to5google.com/2026/06/04/google-health-5-01-release-notes/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/google-health-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-04T23:00:00Z",
-          "key_points": [
-            "16 new features added",
-            "Focus on health improvements",
-            "Update enhances user experience"
-          ],
-          "impact": "Users gain better health management tools.",
-          "id": "cc35e0c63e1a751245bc65f1ae67c780"
-        },
-        {
-          "title": "Valve Set to Launch Steam Machine This Summer",
-          "description": "Valve announces the upcoming launch of the Steam Machine and Steam Frame VR headset this summer, both featuring Verified programs for optimal game performance.",
-          "category": "Gaming",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0058.jpg?quality=90&strip=all&crop=0%2C10.805700988947%2C100%2C78.388598022106&w=1200",
-          "published_at": "2026-06-04T22:48:53Z",
-          "key_points": [
-            "Steam Machine launching soon",
-            "Steam Frame VR headset arrives",
-            "Verified programs for games"
-          ],
-          "impact": "This launch could reshape gaming hardware.",
-          "id": "84ea6dba6890f9c80ce70055bc10475c"
-        },
-        {
-          "title": "Nadella Uncertain About Microsoft's AI Strategy",
-          "description": "Microsoft CEO Satya Nadella expresses confusion over claims of the company wanting to create addictive AI. He seeks clarity on the internal strategy.",
-          "category": "Business",
-          "source": "404media.co",
-          "url": "https://www.404media.co/satya-nadella-not-sure-who-said-microsoft-wanted-to-make-addictive-ai-is-looking-for-guy-who-did-this/",
-          "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/CleanShot-2026-06-04-at-15.02.05@2x.png",
-          "published_at": "2026-06-04T22:04:46Z",
-          "key_points": [
-            "Nadella questions AI strategy",
-            "Microsoft seeks clarity",
-            "Concerns over addictive AI"
-          ],
-          "impact": "Uncertainty may affect Microsoft's AI direction.",
-          "id": "81b4e57c2b1a0acb07b5633ae31e0b03"
-        },
-        {
-          "title": "Filtr Blocks Ads on iPhone and Mac Apps",
-          "description": "Filtr, a new privacy tool, now blocks ads in nearly all iPhone and Mac apps, enhancing user privacy and security with the latest Apple software update.",
-          "category": "Software",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/06/ad-blocker-1609310276.jpg?resize=1200,766",
-          "published_at": "2026-06-04T21:44:09Z",
-          "key_points": [
-            "New ad blocker for Apple devices",
-            "Enhances privacy and security",
-            "Blocks ads in various apps"
-          ],
-          "impact": "Users enjoy a cleaner browsing experience.",
-          "id": "4d8de7d9e5562a7f86309a16c95b3681"
-        },
-        {
-          "title": "Cyberdecks Evolve Beyond Laptops",
-          "description": "Cyberdecks are transforming into creative art projects, moving away from traditional laptop designs. Social media showcases these unique, personalized creations.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/943445/cyberdeck-tiktok",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/aesthetic-cyberdecks-collage.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-          "published_at": "2026-06-04T20:07:31Z",
-          "key_points": [
-            "Cyberdecks become art projects",
-            "Creative designs on social media",
-            "Shift from traditional laptops"
-          ],
-          "impact": "This trend redefines personal tech aesthetics.",
-          "id": "4da813ce488a0aaaec9c09c446cd6a50"
-        },
-        {
-          "title": "Samsung Health App Gets AI Redesign",
-          "description": "Ahead of the Galaxy Watch 9 launch, Samsung Health is undergoing a significant AI-centric redesign, enhancing user experience and functionality.",
-          "category": "Software",
-          "source": "9to5google.com",
-          "url": "http://9to5google.com/2026/06/04/samsung-health-ai-redesign-galaxy-watch-9/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-watch-8-8.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-04T19:45:00Z",
-          "key_points": [
-            "Samsung Health redesign announced",
-            "Focus on AI enhancements",
-            "Prepares for Galaxy Watch 9"
-          ],
-          "impact": "The update aims to improve health tracking.",
-          "id": "4f532fe46758258a299083dc056c0bb9"
-        },
-        {
-          "title": "Ubisoft Teases Rayman's Future",
-          "description": "Ubisoft hints at exciting developments for the Rayman franchise, marking a resurgence after years of limited activity. Fans can expect more content soon.",
-          "category": "Gaming",
-          "source": "Nintendoeverything.com",
-          "url": "https://nintendoeverything.com/ubisoft-teases-the-future-of-rayman-more-to-come/",
-          "image": "https://nintendoeverything.com/uploads/Rayman-future-tease.jpg",
-          "published_at": "2026-06-04T19:07:12Z",
-          "key_points": [
-            "Rayman franchise revival teased",
-            "Ubisoft hints at new content",
-            "2026 is a big year for Rayman"
-          ],
-          "impact": "Fans eagerly await new Rayman experiences.",
-          "id": "a1ca3d986b6fae9ab9be3e749222d3f8"
-        },
-        {
-          "title": "Google Allows Creators to Customize Search Profiles",
-          "description": "Google introduces customizable search profiles for creators and publishers, enabling them to showcase their content prominently in search results.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/943233/google-search-profiles-custom-page",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screenshot-2026-06-04-at-11.42.21AM.png?quality=90&strip=all&crop=0%2C3.178134261518%2C100%2C93.643731476964&w=1200",
-          "published_at": "2026-06-04T18:32:23Z",
-          "key_points": [
-            "Creators can customize search profiles",
-            "Highlights videos and articles",
-            "Enhances online visibility"
-          ],
-          "impact": "This feature boosts creators' online presence.",
-          "id": "7038224c0eb673b467f89e2830f27f8f"
-        },
-        {
-          "title": "Run Google's Gemini LLMs Locally on Mac",
-          "description": "Google's AI Edge Gallery app now allows Mac users to run Gemini large language models locally, eliminating the need for internet connectivity.",
-          "category": "Software",
-          "source": "AppleInsider",
-          "url": "https://appleinsider.com/articles/26/06/04/run-googles-gemini-llms-right-on-your-mac-with-the-new-ai-edge-gallery",
-          "image": "https://photos5.appleinsider.com/gallery/67835-142964-Google-AI-Edge-Gallery-xl.jpg",
-          "published_at": "2026-06-04T15:13:14Z",
-          "key_points": [
-            "Gemini LLMs run locally",
-            "No internet required",
-            "AI Edge Gallery launched for Mac"
-          ],
-          "impact": "This enhances accessibility for AI users.",
-          "id": "4a96712accb46dfd79551cc3b14d5228"
-        },
-        {
-          "title": "Ferrari and HP Launch Supercar-Inspired Laptop",
-          "description": "Ferrari and HP unveil a laptop designed with supercar aesthetics and engineering, pushing the boundaries of traditional PC design.",
-          "category": "Hardware",
-          "source": "Dezeen",
-          "url": "https://www.dezeen.com/2026/06/04/ferrari-laptop-hp/",
-          "image": "https://static.dezeen.com/uploads/2026/05/ferrari-hp-laptop-interview_dezeen_2364_col_1.jpg",
-          "published_at": "2026-06-04T15:01:00Z",
-          "key_points": [
-            "Ferrari collaborates with HP",
-            "Laptop inspired by supercars",
-            "Innovative PC design unveiled"
-          ],
-          "impact": "This laptop redefines luxury tech aesthetics.",
-          "id": "19eac80ecf16ade96be91760ec399b46"
-        },
-        {
-          "title": "GTA Online Introduces New Community Missions",
-          "description": "GTA Online launches new community missions, featuring player-created experiences and showcasing new creators. Available on PS5, Xbox Series X|S, and PC.",
-          "category": "Gaming",
-          "source": "Rockstargames.com",
-          "url": "https://www.rockstargames.com/newswire/article/252kk2a21k7451/explore-fun-and-immersive-new-community-missions-in-gta-online",
-          "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/252kk2a21k7451/4b6acbb83e14acbd5fb2d68a1275fba598803371.jpg",
-          "published_at": "2026-06-04T14:53:41Z",
-          "key_points": [
-            "New community missions launched",
-            "Player-created experiences featured",
-            "Available on multiple platforms"
-          ],
-          "impact": "This enhances player engagement in GTA Online.",
-          "id": "62086c05a27d14f422bd7f037f4b5d0c"
-        },
-        {
-          "title": "DIY AI Laser System Eliminates Mosquitoes",
-          "description": "An engineer creates a DIY AI laser system that effectively eliminates mosquitoes at home using deep learning and computer vision technology.",
-          "category": "Software",
-          "source": "SlashGear",
-          "url": "https://www.slashgear.com/2187283/steven-cheng-engineer-diy-ai-mosquito-laser/",
-          "image": "https://www.slashgear.com/img/gallery/diy-ai-laser-system-wipes-out-every-mosquito-in-engineers-home/l-intro-1780564679.jpg",
-          "published_at": "2026-06-04T14:45:00Z",
-          "key_points": [
-            "DIY mosquito laser system created",
-            "Uses AI and computer vision",
-            "Effective home pest control"
-          ],
-          "impact": "This innovation offers a new pest control solution.",
-          "id": "df1fd5064bcabdcc6bbe12c20c5090aa"
-        },
-        {
-          "title": "Apple Arcade Expands with Four New Games",
-          "description": "Apple Arcade adds four new games to its extensive library, with five more titles set to arrive soon, enhancing its gaming offerings.",
-          "category": "Gaming",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/04/apple-arcade-just-got-four-new-games-with-more-coming-soon/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/apple-arcade-fi.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-04T14:25:00Z",
-          "key_points": [
-            "Four new games added",
-            "More titles coming soon",
-            "Expands Apple Arcade library"
-          ],
-          "impact": "This keeps Apple Arcade competitive in gaming.",
-          "id": "8ca6b17d5a3c2779cb325a8b3e20d966"
         }
       ]
     }
