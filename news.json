@@ -1,247 +1,247 @@
 {
   "date": "2026-06-12",
-  "generated_at": "2026-06-12T14:56:06.833283+00:00",
+  "generated_at": "2026-06-12T17:38:26.713580+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Xbox CEO Explains $800 Console Price",
-      "description": "Xbox's new CEO clarifies the reasons behind the console's $800 price tag, citing factors beyond Microsoft's control. Transparency is key in this new era for Xbox.",
+      "title": "Stranger Than Heaven Devs Stand by Tupac Addition",
+      "description": "Developers believe adding Tupac enhances gameplay value. They defend the decision amid mixed reactions.",
       "category": "Gaming",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/06/11/xbox-ceo-gives-a-good-explanation-for-why-a-console-now-costs-800/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a2ab77b6e43a729fb97c73f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published_at": "2026-06-11T13:35:14Z",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/stranger-than-heaven-devs-say-adding-tupac-to-the-game-was-a-good-idea-2000705565",
+      "image": "https://kotaku.com/app/uploads/2026/06/image-3-1-1200x675.jpg",
+      "published_at": "2026-06-11T15:35:14Z",
       "key_points": [
-        "Xbox price increase explained",
-        "Factors beyond Microsoft's control",
-        "New CEO emphasizes transparency"
+        "Tupac's character added",
+        "Developers defend decision",
+        "Enhances gameplay experience"
       ],
-      "impact": "Xbox's pricing strategy faces scrutiny amid rising costs.",
-      "id": "2da38b8a06aa9d0e60a70d8e58049319"
+      "impact": "This decision could redefine character integration in games.",
+      "id": "ae7847e65f8e464378e1335717afa3e7"
     },
     {
-      "title": "Trails from Zero Launching on PS5 and Switch",
-      "description": "The Legend of Heroes: Trails from Zero and Trails to Azure will launch on PS5 and Switch on September 10. Fans can look forward to these exciting releases.",
+      "title": "God of War Laufey Dominates Summer Game Fest",
+      "description": "God of War Laufey topped engagement metrics at Summer Game Fest, showcasing its popularity among fans.",
+      "category": "Gaming",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/06/ps5s-god-of-war-laufey-dominated-summer-game-fest",
+      "image": "https://images.pushsquare.com/1435863d1a4de/large.jpg",
+      "published_at": "2026-06-11T14:45:00Z",
+      "key_points": [
+        "Topped engagement index",
+        "Strong fan interest",
+        "Highlights franchise popularity"
+      ],
+      "impact": "This success reinforces God of War's market dominance.",
+      "id": "a7d49c2cdc4408904b7b222d9d5173cb"
+    },
+    {
+      "title": "Spyro's Comeback Fueled by Independence from Microsoft",
+      "description": "Toys for Bob's independence allows a return to beloved games, marking a significant shift post-Microsoft acquisition.",
+      "category": "Gaming",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/spyros-big-comeback-wouldnt-be-possible-without-first-escaping-the-call-of-duty-mines-2000705537",
+      "image": "https://kotaku.com/app/uploads/2024/08/0e29178d8829a460762192712c056588-1200x675.jpg",
+      "published_at": "2026-06-11T13:53:19Z",
+      "key_points": [
+        "Independence from Microsoft",
+        "Focus on classic games",
+        "Revival of Spyro franchise"
+      ],
+      "impact": "This independence could revitalize nostalgic gaming experiences.",
+      "id": "c333f6a131e4fe7321fb04532e2d3775"
+    },
+    {
+      "title": "Kingdom Hearts 4 Release Date Hopes Rise",
+      "description": "Australian retailers hint at a potential release date for Kingdom Hearts 4, sparking excitement among fans.",
+      "category": "Gaming",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/06/kingdom-hearts-4-ps5-release-date-hopium-hits-new-high",
+      "image": "https://images.pushsquare.com/671bab0253cc4/large.jpg",
+      "published_at": "2026-06-11T13:45:00Z",
+      "key_points": [
+        "Retailers hint at release",
+        "Fans express excitement",
+        "Anticipation builds for sequel"
+      ],
+      "impact": "This speculation could boost pre-release engagement.",
+      "id": "96dd20630f0a259010ed4229a3a4605b"
+    },
+    {
+      "title": "Apple Maps to Introduce 10 New Features in iOS 27",
+      "description": "iOS 27 will enhance Apple Maps with new features, including an AI-driven Flyover experience for improved realism.",
+      "category": "Software",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/11/apple-maps-to-get-these-10-new-features-in-ios-27/",
+      "image": "https://images.macrumors.com/t/dWEIrdLAxdd5Tt6TUy4QjkEKWHg=/1600x/article-new/2026/06/liquid-glass-app-icon.jpg",
+      "published_at": "2026-06-11T12:45:07Z",
+      "key_points": [
+        "New AI-driven Flyover",
+        "Enhanced realism features",
+        "Improved user experience"
+      ],
+      "impact": "These updates aim to enhance navigation efficiency.",
+      "id": "114658cb1b32560e129110bd8469534d"
+    },
+    {
+      "title": "Bypass Siri AI Waitlist on macOS 27 Beta",
+      "description": "A Terminal command allows immediate access to Siri AI for macOS 27 beta users waiting on the waitlist.",
+      "category": "Software",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/how-to/bypass-siri-ai-waitlist-macos-27-beta/",
+      "image": "https://images.macrumors.com/t/D2t-vmVOeRO051Pfz8cW0TCKfE8=/1600x/article-new/2026/06/Siri-App.jpg",
+      "published_at": "2026-06-11T09:52:12Z",
+      "key_points": [
+        "Terminal command workaround",
+        "Immediate Siri access",
+        "For macOS 27 beta users"
+      ],
+      "impact": "This hack could enhance user experience significantly.",
+      "id": "b6947a991e57e3973dbf3dfcedd7095f"
+    },
+    {
+      "title": "Hunter x Hunter: Zeno DLC Launches June 18",
+      "description": "Zeno, a new character for Hunter x Hunter: Nen x Impact, will be available on June 18, enhancing gameplay options.",
       "category": "Gaming",
       "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/the-legend-of-heroes-trails-from-zero-and-the-legend-of-heroes-trails-to-azure-for-ps5-switch-2-launch-september-10",
-      "image": "",
-      "published_at": "2026-06-11T13:18:38Z",
+      "url": "https://www.gematsu.com/2026/06/hunter-x-hunter-nen-x-impact-dlc-character-zeno-launches-june-18",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/HxH-NxI-DLC_06-10-26.jpg",
+      "published_at": "2026-06-11T02:13:17Z",
       "key_points": [
-        "Trails from Zero launches September 10",
-        "Available on PS5 and Switch",
-        "Exciting releases for fans"
+        "Zeno character launches soon",
+        "Enhances gameplay variety",
+        "Long-range combat specialist"
       ],
-      "impact": "Fans eagerly await the upcoming Trails releases.",
-      "id": "60bb184fcf48e618fe4f7e4d0ded8f81"
+      "impact": "This addition could attract more players.",
+      "id": "90d4f33151d91bde6683f4e237035c65"
     },
     {
-      "title": "Unlock Destiny 2’s Secret Endings",
-      "description": "Destiny 2 players can unlock two secret endings before the game concludes. Bungie has hidden these endings, making them a must-see for fans.",
-      "category": "Gaming",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/06/11/how-to-unlock-destiny-2s-two-secret-final-endings/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a2aac1213810580a8913bfb/0x0.jpg?format=jpg&crop=2562,1440,x437,y0,safe&height=900&width=1600&fit=bounds",
-      "published_at": "2026-06-11T12:42:40Z",
-      "key_points": [
-        "Two secret endings available",
-        "Unlock before game ends",
-        "Bungie hides valuable content"
-      ],
-      "impact": "Players are motivated to explore hidden content.",
-      "id": "a5f43437c335e031fc41fb7ec80c2eef"
-    },
-    {
-      "title": "Minecraft 26.2 Release Candidate 1 Available",
-      "description": "Minecraft has released the first candidate for version 26.2, featuring the Chaos Cubed game drop. This version will be finalized if no critical issues arise.",
-      "category": "Gaming",
-      "source": "Minecraft.net",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-2-release-candidate-1",
-      "image": "https://www.minecraft.net/content/dam/minecraftnet/article-asset/2026/minecraft-26-2-release-candidate-1/new-article-hero-image.jpg",
-      "published_at": "2026-06-11T12:42:27Z",
-      "key_points": [
-        "Minecraft 26.2 candidate released",
-        "Chaos Cubed game drop included",
-        "Final version pending critical issues"
-      ],
-      "impact": "Players can test new features in Minecraft.",
-      "id": "e1ebfb9dd77d38d31eae6dcca6933c1d"
-    },
-    {
-      "title": "macOS 27 Golden Gate Beta Review",
-      "description": "The macOS 27 Golden Gate beta introduces several useful improvements, enhancing user experience. However, one feature is still desired by users.",
-      "category": "Software",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/golden-gate-window-corner-1152x648-1781124749.jpeg",
-      "published_at": "2026-06-11T11:00:32Z",
-      "key_points": [
-        "Golden Gate beta improves user experience",
-        "AI features enhance functionality",
-        "Users desire additional features"
-      ],
-      "impact": "Users appreciate improvements in macOS 27.",
-      "id": "58ccfc0f6056b6f3f2f2abf7605b9e26"
-    },
-    {
-      "title": "Trump Phone Teardown Reveals HTC Duplication",
-      "description": "iFixit confirms that the Trump Mobile T1 Phone's internals closely resemble those of the HTC U24 Pro. This revelation raises questions about originality.",
-      "category": "Hardware",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/948262/trump-phone-t1-ifixit-teardown-htc-u24-pro",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-mobile-t1-phone-redesign-website-2026.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published_at": "2026-06-11T10:40:21Z",
-      "key_points": [
-        "Trump Phone resembles HTC U24 Pro",
-        "iFixit confirms internal similarities",
-        "Questions raised about originality"
-      ],
-      "impact": "Concerns grow over the phone's authenticity.",
-      "id": "e6baa06ee808ec9f02e6a760513ba867"
-    },
-    {
-      "title": "Alien: Isolation 2 Director Discusses Sequel",
-      "description": "The director of Alien: Isolation 2 shares insights on improving the beloved horror game while aiming to surpass the original. Fans eagerly anticipate the sequel.",
-      "category": "Gaming",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/we-wanted-to-match-the-original-and-go-beyond-alien-isolation-2s-director-on-improving-a-survivor-horror-icon",
-      "image": "https://assets-prd.ignimgs.com/2026/06/10/alien-int-blog-1781088417100.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-11T08:10:38Z",
-      "key_points": [
-        "Director aims to surpass original",
-        "Fans excited for the sequel",
-        "Focus on improving horror elements"
-      ],
-      "impact": "Anticipation builds for Alien: Isolation 2.",
-      "id": "bc719773f809324c325d25bb9b3d7fca"
-    },
-    {
-      "title": "Deezer Launches AI Music Detector",
-      "description": "Deezer introduces an AI music detection tool for users of other streaming services, aiming to enhance music discovery. This move targets a broader audience.",
-      "category": "Software",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NEW_1200-x-580-pixel-SI-logo-1240x600-1.jpeg?quality=90&strip=all&crop=3.7903225806452,0,92.41935483871,100",
-      "published_at": "2026-06-11T08:00:00Z",
-      "key_points": [
-        "Deezer's AI tool for all users",
-        "Enhances music discovery experience",
-        "Targets broader streaming audience"
-      ],
-      "impact": "Deezer expands its reach with new technology.",
-      "id": "b8acadde21ce5c9102b837cc97bd2fe3"
-    },
-    {
-      "title": "Galaxy S25 Receives New AI Features",
-      "description": "Samsung's Galaxy S25 series update includes two AI features previously exclusive to the Galaxy S26. This update also addresses security patches.",
-      "category": "Hardware",
-      "source": "SamMobile",
-      "url": "https://www.sammobile.com/news/galaxy-s25-gets-galaxy-s26s-two-galaxy-ai-features-missing-from-its-one-ui-8-5-update/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2025/02/Galaxy-S25-Ultra-review-Galaxy-AI.jpg",
-      "published_at": "2026-06-11T07:00:00Z",
-      "key_points": [
-        "Galaxy S25 update includes AI features",
-        "Security patch also released",
-        "Enhancements from Galaxy S26 included"
-      ],
-      "impact": "Users benefit from new AI capabilities.",
-      "id": "6e39581e14b4dc30181e3598d3687382"
-    },
-    {
-      "title": "Apple's iPadOS 27 Beta Briefly Listed Unsupported Models",
-      "description": "Apple mistakenly listed restore images for unsupported iPad Pro models in the iPadOS 27 beta. The images were quickly removed from the downloads page.",
-      "category": "Software",
+      "title": "Jon Prosser Seeks Response Opportunity in Apple Lawsuit",
+      "description": "Jon Prosser aims to respond to Apple's lawsuit regarding a Liquid Glass leak, seeking to overturn a court default.",
+      "category": "Business",
       "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/10/apples-ipados-27-beta-downloads-briefly-included-two-unsupported-ipad-pro-models/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/iPadOS-27-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-11T02:12:00Z",
+      "url": "https://9to5mac.com/2026/06/10/jon-prosser-seeks-another-shot-to-respond-to-apples-liquid-glass-leak-lawsuit/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/joe-prosser.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-10T21:55:00Z",
       "key_points": [
-        "Apple lists unsupported iPad models",
-        "Restore images removed quickly",
-        "Confusion over iPadOS 27 beta"
+        "Prosser seeks court response",
+        "Liquid Glass leak lawsuit",
+        "Default ruling challenged"
       ],
-      "impact": "Users faced confusion over unsupported devices.",
-      "id": "b967558de2668ee12b1fbea2715681d5"
+      "impact": "This could change the lawsuit's trajectory.",
+      "id": "fb2336dc65ef4dfc1793411fc3fb4a3a"
     },
     {
-      "title": "Final Fantasy XIV Online Switch 2 Trailer Released",
-      "description": "Square Enix unveils the gameplay trailer for Final Fantasy XIV Online on Switch 2, with early access starting this August. Fans are excited for the release.",
-      "category": "Gaming",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/06/square-enix-releases-final-fantasy-xiv-online-switch-2-gameplay-trailer",
-      "image": "https://images.nintendolife.com/d20c67b26fc0c/large.jpg",
-      "published_at": "2026-06-11T02:00:00Z",
-      "key_points": [
-        "Gameplay trailer released",
-        "Early access begins in August",
-        "Fans excited for Switch 2 version"
-      ],
-      "impact": "Anticipation builds for Final Fantasy XIV Online.",
-      "id": "7bf1f46bbea60cc9f31b001eaf10e666"
-    },
-    {
-      "title": "Samsung Galaxy Z Fold8 and Watch Ultra 2 Certified",
-      "description": "Samsung's Galaxy Z Fold8 and Galaxy Watch Ultra 2 receive new certifications, confirming their upcoming availability in India. Fans await these devices.",
-      "category": "Hardware",
-      "source": "GSMArena.com",
-      "url": "https://www.gsmarena.com/the_wide_samsung_galaxy_z_fold8_and_the_galaxy_watch_ultra_2_receive_new_certifications-news-73219.php",
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/samsung-galaxy-z-fold8-wide-galaxy-watch-ultra-2-bis/-952x498w6/gsmarena_000.jpg",
-      "published_at": "2026-06-11T01:01:02Z",
-      "key_points": [
-        "Galaxy Z Fold8 certified",
-        "Galaxy Watch Ultra 2 certified",
-        "Devices coming to India soon"
-      ],
-      "impact": "Samsung prepares for new device launches.",
-      "id": "a88770cbcfad4597fa26a502b690a0d6"
-    },
-    {
-      "title": "YouTube Introduces In-App Messaging Feature",
-      "description": "YouTube rolls out a new in-app messaging system, allowing users to chat about videos directly. This feature aims to enhance community engagement.",
+      "title": "Windows June Update Boosts PC Performance",
+      "description": "The June update enhances Windows 11's performance, making sluggish PCs feel faster with new Low Latency Profile.",
       "category": "Software",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/06/10/youtube-new-messaging-chat/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/youtube-logo-circle-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-10T20:00:00Z",
+      "source": "PCWorld",
+      "url": "https://www.pcworld.com/article/3162218/windows-june-update-finally-makes-your-sluggish-pc-feel-snappier.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/06/Windows11Logo-1.jpg?quality=50&strip=all&w=1024",
+      "published_at": "2026-06-10T16:17:00Z",
       "key_points": [
-        "New in-app messaging feature",
-        "Enhances community engagement",
-        "Chat about favorite videos"
+        "June update improves performance",
+        "Low Latency Profile introduced",
+        "Enhances user experience"
       ],
-      "impact": "YouTube fosters deeper user connections.",
-      "id": "864e88c4c0e4100791628850457ab9e4"
+      "impact": "This update could significantly improve user satisfaction.",
+      "id": "e46798094824552d92db52839eab9e7f"
     },
     {
-      "title": "Stellar Blade: BLOOD RAIN Protagonist Explained",
-      "description": "The new protagonist Evie in Stellar Blade: BLOOD RAIN is introduced, tasked with hunting a terrorist group. This shift brings fresh narrative elements.",
+      "title": "Xbox CEO Calls for Cheaper Console Alternatives",
+      "description": "Xbox CEO acknowledges the need for affordable options in the console market to ensure its survival.",
       "category": "Gaming",
-      "source": "Niche Gamer",
-      "url": "https://nichegamer.com/stellar-blade-blood-rain-why-protag-so-young/",
-      "image": "https://media.nichegamer.com/wp-content/uploads/2026/06/Stellar-Blade-Blood-Rain-06-10-26-1.jpg",
-      "published_at": "2026-06-10T19:01:00Z",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/xbox-ceo-admits-the-console-arms-race-has-gone-too-far-2000770035",
+      "image": "https://gizmodo.com/app/uploads/2026/03/Xbox-Series-X-Console-1-1200x675.jpg",
+      "published_at": "2026-06-10T15:35:48Z",
       "key_points": [
-        "New protagonist Evie introduced",
-        "Focus on hunting terrorist group",
-        "Fresh narrative elements in gameplay"
+        "Need for cheaper consoles",
+        "Market sustainability concerns",
+        "CEO addresses industry issues"
       ],
-      "impact": "Players look forward to new storylines.",
-      "id": "38ae7941d751b369f12a5ab499a7afb7"
+      "impact": "This could reshape future console strategies.",
+      "id": "5770638e9c8e561a3e4ca0e4029980fd"
     },
     {
-      "title": "iPhone 18 Pro Features to Tempt Upgrades",
-      "description": "The upcoming iPhone 18 Pro may entice users with three new features, set to launch this fall. Apple fans are eager for the latest flagship model.",
-      "category": "Hardware",
+      "title": "AirPods Pro 3 Hit Record Low Price",
+      "description": "AirPods Pro 3 are now available at their lowest price ever, alongside significant discounts on other Apple products.",
+      "category": "Business",
       "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/10/iphone-18-pro-three-new-features-might-make-you-want-to-upgrade/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-blue-angle-two.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-10T18:51:00Z",
+      "url": "https://9to5mac.com/2026/06/10/deals-airpods-pro-240w-beats-cable-macbook-pro/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/Apple-deals-AirPods-Max-2-MacBook-Apple-Watch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-10T15:29:00Z",
       "key_points": [
-        "iPhone 18 Pro launching this fall",
-        "Three new enticing features",
-        "Fans eager for upgrade"
+        "AirPods Pro 3 discounted",
+        "MacBook Pro savings",
+        "Best prices available now"
       ],
-      "impact": "Anticipation grows for the iPhone 18 Pro.",
-      "id": "4038d0d62bf22a12f46dec282da51ea9"
+      "impact": "These deals could boost sales significantly.",
+      "id": "18045f1829f55a1efb46b9a71629fce0"
+    },
+    {
+      "title": "Tifa Joins Street Fighter 6 as Guest Character",
+      "description": "Final Fantasy VII's Tifa is set to appear in Street Fighter 6, exciting fans with her inclusion.",
+      "category": "Gaming",
+      "source": "Game Informer",
+      "url": "https://gameinformer.com/sgf-2026/2026/06/10/how-final-fantasy-viis-tifa-arrived-in-street-fighter-6",
+      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/10/db00116b/tifa.jpg.webp",
+      "published_at": "2026-06-10T15:07:31Z",
+      "key_points": [
+        "Tifa joins Street Fighter 6",
+        "Exciting crossover announcement",
+        "Fans eager for gameplay"
+      ],
+      "impact": "This crossover could attract diverse player bases.",
+      "id": "80377fcdbd2cd5d1b6afdc3583da18a4"
+    },
+    {
+      "title": "Gears of War: E-Day Not in Development for PS5",
+      "description": "Developers clarify that Gears of War: E-Day was never intended for PS5, despite speculation following Summer Game Fest.",
+      "category": "Gaming",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/gears-of-war-e-day-ps5-snub-smaller-audience-interview",
+      "image": "https://assetsio.gnwcdn.com/gears-of-war-e-day-june-2026-screen-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-10T15:00:19Z",
+      "key_points": [
+        "No PS5 version planned",
+        "Developers clarify rumors",
+        "Focus on Xbox exclusivity"
+      ],
+      "impact": "This clarification may ease fan concerns.",
+      "id": "39078e7fb76dd11629242ead7b425624"
+    },
+    {
+      "title": "Apple Removes Walkie-Talkie from Apple Watch",
+      "description": "The Walkie-Talkie app has been removed from Apple Watch in the watchOS 27 beta, surprising users.",
+      "category": "Software",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/10/watchos-27-removes-walkie-talkie/",
+      "image": "https://images.macrumors.com/t/_lUAH9Pz7-T3BQkBz7VPGWvCjHI=/1600x/article-new/2026/06/walkie-talkie.jpg",
+      "published_at": "2026-06-10T11:31:35Z",
+      "key_points": [
+        "Walkie-Talkie app removed",
+        "Surprising beta change",
+        "Users express disappointment"
+      ],
+      "impact": "This removal may frustrate existing users.",
+      "id": "19c42ca078eadb6c1c3d5350570c548d"
+    },
+    {
+      "title": "Apple's New AI Tools Impress at WWDC26",
+      "description": "Apple showcased exciting new AI features at WWDC26, with a focus on enhancing Siri's capabilities.",
+      "category": "Software",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/mobile/apple-struck-the-right-notes-with-its-new-ai-tools-and-im-excited-to-try-these-4-features/",
+      "image": "https://www.cnet.com/a/img/resize/7bc8c8bcb66edc1209a2898fb7b5f42238341ead/hub/2025/10/21/f79330af-c5f8-4b1e-858f-bc8bab8d98af/img-20250926-191337.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "published_at": "2026-06-10T10:54:00Z",
+      "key_points": [
+        "New AI features unveiled",
+        "Focus on Siri enhancements",
+        "Exciting capabilities demonstrated"
+      ],
+      "impact": "These tools could redefine user interaction with Apple products.",
+      "id": "a5516c0b6902ec894519e0a1b2383969"
     }
   ]
 }
