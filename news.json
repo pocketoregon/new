@@ -1,151 +1,247 @@
 {
   "date": "2026-06-12",
-  "generated_at": "2026-06-12T10:10:17.981857+00:00",
+  "generated_at": "2026-06-12T14:56:06.833283+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Framework Delays Laptop 13 Pro Shipments",
-      "description": "Framework's Laptop 13 Pro shipments are delayed by a month due to issues with the haptic trackpad and custom display. New expected shipping is now in July.",
-      "category": "Hardware",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC00210_71b030.webp?quality=90&strip=all&crop=0%2C16.22192197264%2C100%2C67.55615605472&w=1200",
-      "published_at": "2026-06-10T23:12:51Z",
+      "title": "Xbox CEO Explains $800 Console Price",
+      "description": "Xbox's new CEO clarifies the reasons behind the console's $800 price tag, citing factors beyond Microsoft's control. Transparency is key in this new era for Xbox.",
+      "category": "Gaming",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/06/11/xbox-ceo-gives-a-good-explanation-for-why-a-console-now-costs-800/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a2ab77b6e43a729fb97c73f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published_at": "2026-06-11T13:35:14Z",
       "key_points": [
-        "Shipments delayed to July",
-        "Issues with trackpad",
-        "Custom display problems"
+        "Xbox price increase explained",
+        "Factors beyond Microsoft's control",
+        "New CEO emphasizes transparency"
       ],
-      "impact": "Delays may affect customer satisfaction.",
-      "id": "e8c1163f4f6444145fbea34a23c02dd2"
+      "impact": "Xbox's pricing strategy faces scrutiny amid rising costs.",
+      "id": "2da38b8a06aa9d0e60a70d8e58049319"
     },
     {
-      "title": "Ubisoft Announces Studio Closures and Layoffs",
-      "description": "Ubisoft has closed its Winnipeg and Belgrade studios amid a new restructuring, resulting in hundreds of layoffs. This move is part of a broader organizational change.",
-      "category": "Business",
-      "source": "Gameinformer.com",
-      "url": "https://gameinformer.com/2026/06/10/report-ubisoft-announces-more-studio-closures-and-layoffs-amid-new-organizational",
-      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2021/12/21/58cb5c42/ubisoft_black_logo.jpg.webp",
-      "published_at": "2026-06-10T22:57:29Z",
+      "title": "Trails from Zero Launching on PS5 and Switch",
+      "description": "The Legend of Heroes: Trails from Zero and Trails to Azure will launch on PS5 and Switch on September 10. Fans can look forward to these exciting releases.",
+      "category": "Gaming",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/the-legend-of-heroes-trails-from-zero-and-the-legend-of-heroes-trails-to-azure-for-ps5-switch-2-launch-september-10",
+      "image": "",
+      "published_at": "2026-06-11T13:18:38Z",
       "key_points": [
-        "Two studios closed",
-        "Hundreds laid off",
-        "Organizational restructuring"
+        "Trails from Zero launches September 10",
+        "Available on PS5 and Switch",
+        "Exciting releases for fans"
       ],
-      "impact": "Restructuring may impact future game development.",
-      "id": "32ada8a9f7eb85cd4db870b864e4ebb2"
+      "impact": "Fans eagerly await the upcoming Trails releases.",
+      "id": "60bb184fcf48e618fe4f7e4d0ded8f81"
     },
     {
-      "title": "Intel’s Project Firefly Unveiled",
-      "description": "Intel's Project Firefly aims to create affordable laptops with premium features, utilizing Wildcat Lake SoCs in a sleek, ventless design. Targeting budget-conscious consumers.",
-      "category": "Hardware",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/intel-project-firefly-takes-best-of-phones-to-build-laptops-in-a-slim-chassis-with-no-vents/",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/Intel-Firefly-Project-_-Wildcat-Lake-Core-Series-3-_F-1920x1060.jpg",
-      "published_at": "2026-06-10T19:56:00Z",
+      "title": "Unlock Destiny 2’s Secret Endings",
+      "description": "Destiny 2 players can unlock two secret endings before the game concludes. Bungie has hidden these endings, making them a must-see for fans.",
+      "category": "Gaming",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/06/11/how-to-unlock-destiny-2s-two-secret-final-endings/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a2aac1213810580a8913bfb/0x0.jpg?format=jpg&crop=2562,1440,x437,y0,safe&height=900&width=1600&fit=bounds",
+      "published_at": "2026-06-11T12:42:40Z",
       "key_points": [
-        "Affordable premium laptops",
-        "Ventless design",
-        "Wildcat Lake SoCs"
+        "Two secret endings available",
+        "Unlock before game ends",
+        "Bungie hides valuable content"
       ],
-      "impact": "Project Firefly could disrupt budget laptop market.",
-      "id": "4b431527bcbcff6012eb61676d73f29e"
+      "impact": "Players are motivated to explore hidden content.",
+      "id": "a5f43437c335e031fc41fb7ec80c2eef"
     },
     {
-      "title": "Amazon’s Echo Speakers Aid Kids' Sleep",
-      "description": "Amazon introduces Sleep Studio, enhancing Echo and Echo Kids speakers to help children wind down and fall asleep with calming stories and sounds. Aimed at improving bedtime routines.",
+      "title": "Minecraft 26.2 Release Candidate 1 Available",
+      "description": "Minecraft has released the first candidate for version 26.2, featuring the Chaos Cubed game drop. This version will be finalized if no critical issues arise.",
+      "category": "Gaming",
+      "source": "Minecraft.net",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-2-release-candidate-1",
+      "image": "https://www.minecraft.net/content/dam/minecraftnet/article-asset/2026/minecraft-26-2-release-candidate-1/new-article-hero-image.jpg",
+      "published_at": "2026-06-11T12:42:27Z",
+      "key_points": [
+        "Minecraft 26.2 candidate released",
+        "Chaos Cubed game drop included",
+        "Final version pending critical issues"
+      ],
+      "impact": "Players can test new features in Minecraft.",
+      "id": "e1ebfb9dd77d38d31eae6dcca6933c1d"
+    },
+    {
+      "title": "macOS 27 Golden Gate Beta Review",
+      "description": "The macOS 27 Golden Gate beta introduces several useful improvements, enhancing user experience. However, one feature is still desired by users.",
       "category": "Software",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/golden-gate-window-corner-1152x648-1781124749.jpeg",
+      "published_at": "2026-06-11T11:00:32Z",
+      "key_points": [
+        "Golden Gate beta improves user experience",
+        "AI features enhance functionality",
+        "Users desire additional features"
+      ],
+      "impact": "Users appreciate improvements in macOS 27.",
+      "id": "58ccfc0f6056b6f3f2f2abf7605b9e26"
+    },
+    {
+      "title": "Trump Phone Teardown Reveals HTC Duplication",
+      "description": "iFixit confirms that the Trump Mobile T1 Phone's internals closely resemble those of the HTC U24 Pro. This revelation raises questions about originality.",
+      "category": "Hardware",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/947871/amazon-sleep-studio-echo-kids-smart-speakers-calm-moshi-headspace",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/amazonsleep1.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-      "published_at": "2026-06-10T16:54:17Z",
+      "url": "https://www.theverge.com/gadgets/948262/trump-phone-t1-ifixit-teardown-htc-u24-pro",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-mobile-t1-phone-redesign-website-2026.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-06-11T10:40:21Z",
       "key_points": [
-        "New Sleep Studio feature",
-        "Helps kids sleep better",
-        "Plays calming content"
+        "Trump Phone resembles HTC U24 Pro",
+        "iFixit confirms internal similarities",
+        "Questions raised about originality"
       ],
-      "impact": "Improves children's sleep experiences.",
-      "id": "c838f6455586a5a4919b93a2c5250ff5"
+      "impact": "Concerns grow over the phone's authenticity.",
+      "id": "e6baa06ee808ec9f02e6a760513ba867"
     },
     {
-      "title": "PlayStation Plus Adds 8 Free Games",
-      "description": "PlayStation Plus subscribers can enjoy eight new free games this June, expanding their gaming library. Exciting titles are now available for download.",
-      "category": "Gaming",
-      "source": "Gamingbible.com",
-      "url": "https://www.gamingbible.com/news/platform/playstation/playstation-plus-extra-premium-june-2026-268323-20260610",
-      "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt6ae1211561fed780/6a294806d561b9321b8e8291/psplusdepartures.jpg",
-      "published_at": "2026-06-10T15:49:55Z",
-      "key_points": [
-        "Eight new free games",
-        "Available for download",
-        "June offerings expanded"
-      ],
-      "impact": "Enhances PlayStation Plus value for subscribers.",
-      "id": "ea0bc68e2643efc869685ae2b2dc409c"
-    },
-    {
-      "title": "Nintendo Stock Drops After Direct",
-      "description": "Nintendo's stock fell nearly 7% following a disappointing June Direct that lacked a new 3D Mario game, despite positive fan reactions. Investors remain cautious.",
-      "category": "Gaming",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/nintendo-stock-crash-june-direct-no-3d-mario/",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2022/12/cover-home-1.jpg",
-      "published_at": "2026-06-10T08:30:00Z",
-      "key_points": [
-        "Stock fell nearly 7%",
-        "No new 3D Mario game",
-        "Investors disappointed"
-      ],
-      "impact": "Stock drop reflects investor concerns.",
-      "id": "557bc9aba2022389c206066624b9e3b8"
-    },
-    {
-      "title": "Street Fighter 6 DLC Reveals New Characters",
-      "description": "Capcom reveals new details about Yasmine and Arjun, newcomers in Street Fighter 6's Season 4. Fans are excited about the latest updates.",
-      "category": "Gaming",
-      "source": "EventHubs",
-      "url": "https://www.eventhubs.com/news/2026/jun/09/street-fighter-yasmine-details/",
-      "image": "https://media.eventhubs.com/images/2026/06/09-street-fighter-yasmine-detailst.webp",
-      "published_at": "2026-06-09T23:22:28Z",
-      "key_points": [
-        "New characters revealed",
-        "Yasmine and Arjun",
-        "Fans excited for updates"
-      ],
-      "impact": "Increases anticipation for Season 4.",
-      "id": "f73c00bb343139597b43bbdd3f13ad98"
-    },
-    {
-      "title": "Deltarune Chapter 5 Release Date Announced",
-      "description": "Toby Fox announces the release date for Deltarune Chapter 5 and provides updates on Chapter 6, exciting fans of the series. Anticipation builds for the next installment.",
+      "title": "Alien: Isolation 2 Director Discusses Sequel",
+      "description": "The director of Alien: Isolation 2 shares insights on improving the beloved horror game while aiming to surpass the original. Fans eagerly anticipate the sequel.",
       "category": "Gaming",
       "source": "IGN",
-      "url": "https://www.ign.com/articles/deltarune-chapter-5-release-date-revealed-as-toby-fox-offers-promising-update-for-the-future",
-      "image": "https://assets-prd.ignimgs.com/2026/06/09/deltarune-chapter-5-key-art-by-temmie-1781039360555.png?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-09T21:42:12Z",
+      "url": "https://www.ign.com/articles/we-wanted-to-match-the-original-and-go-beyond-alien-isolation-2s-director-on-improving-a-survivor-horror-icon",
+      "image": "https://assets-prd.ignimgs.com/2026/06/10/alien-int-blog-1781088417100.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-11T08:10:38Z",
       "key_points": [
-        "Chapter 5 release date revealed",
-        "Updates on Chapter 6",
-        "Fans eagerly await news"
+        "Director aims to surpass original",
+        "Fans excited for the sequel",
+        "Focus on improving horror elements"
       ],
-      "impact": "Boosts excitement for the Deltarune series.",
-      "id": "dc7f4fc9c4648710036ddab4f630e3de"
+      "impact": "Anticipation builds for Alien: Isolation 2.",
+      "id": "bc719773f809324c325d25bb9b3d7fca"
     },
     {
-      "title": "EU Responds to Apple's Siri AI Decision",
-      "description": "The European Commission states that Apple's choice not to launch Siri AI in Europe is solely Apple's decision, clarifying its stance on the matter. Apple sought legal exemptions.",
-      "category": "Policy",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/09/eu-says-decision-not-to-launch-siri-ai-in-europe-is-apples/",
-      "image": "https://images.macrumors.com/t/AMzlHXYCh5f7HOPQwqP7K3rUyXI=/1600x/article-new/2026/06/Siri-AI.jpg",
-      "published_at": "2026-06-09T14:07:35Z",
+      "title": "Deezer Launches AI Music Detector",
+      "description": "Deezer introduces an AI music detection tool for users of other streaming services, aiming to enhance music discovery. This move targets a broader audience.",
+      "category": "Software",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NEW_1200-x-580-pixel-SI-logo-1240x600-1.jpeg?quality=90&strip=all&crop=3.7903225806452,0,92.41935483871,100",
+      "published_at": "2026-06-11T08:00:00Z",
       "key_points": [
-        "EU clarifies Siri AI decision",
-        "Apple's choice is independent",
-        "Legal exemptions sought by Apple"
+        "Deezer's AI tool for all users",
+        "Enhances music discovery experience",
+        "Targets broader streaming audience"
       ],
-      "impact": "Highlights Apple's control over AI deployment.",
-      "id": "02759b8e8f6726c5fbe6d97a36425102"
+      "impact": "Deezer expands its reach with new technology.",
+      "id": "b8acadde21ce5c9102b837cc97bd2fe3"
+    },
+    {
+      "title": "Galaxy S25 Receives New AI Features",
+      "description": "Samsung's Galaxy S25 series update includes two AI features previously exclusive to the Galaxy S26. This update also addresses security patches.",
+      "category": "Hardware",
+      "source": "SamMobile",
+      "url": "https://www.sammobile.com/news/galaxy-s25-gets-galaxy-s26s-two-galaxy-ai-features-missing-from-its-one-ui-8-5-update/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2025/02/Galaxy-S25-Ultra-review-Galaxy-AI.jpg",
+      "published_at": "2026-06-11T07:00:00Z",
+      "key_points": [
+        "Galaxy S25 update includes AI features",
+        "Security patch also released",
+        "Enhancements from Galaxy S26 included"
+      ],
+      "impact": "Users benefit from new AI capabilities.",
+      "id": "6e39581e14b4dc30181e3598d3687382"
+    },
+    {
+      "title": "Apple's iPadOS 27 Beta Briefly Listed Unsupported Models",
+      "description": "Apple mistakenly listed restore images for unsupported iPad Pro models in the iPadOS 27 beta. The images were quickly removed from the downloads page.",
+      "category": "Software",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/10/apples-ipados-27-beta-downloads-briefly-included-two-unsupported-ipad-pro-models/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/iPadOS-27-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-11T02:12:00Z",
+      "key_points": [
+        "Apple lists unsupported iPad models",
+        "Restore images removed quickly",
+        "Confusion over iPadOS 27 beta"
+      ],
+      "impact": "Users faced confusion over unsupported devices.",
+      "id": "b967558de2668ee12b1fbea2715681d5"
+    },
+    {
+      "title": "Final Fantasy XIV Online Switch 2 Trailer Released",
+      "description": "Square Enix unveils the gameplay trailer for Final Fantasy XIV Online on Switch 2, with early access starting this August. Fans are excited for the release.",
+      "category": "Gaming",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/06/square-enix-releases-final-fantasy-xiv-online-switch-2-gameplay-trailer",
+      "image": "https://images.nintendolife.com/d20c67b26fc0c/large.jpg",
+      "published_at": "2026-06-11T02:00:00Z",
+      "key_points": [
+        "Gameplay trailer released",
+        "Early access begins in August",
+        "Fans excited for Switch 2 version"
+      ],
+      "impact": "Anticipation builds for Final Fantasy XIV Online.",
+      "id": "7bf1f46bbea60cc9f31b001eaf10e666"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold8 and Watch Ultra 2 Certified",
+      "description": "Samsung's Galaxy Z Fold8 and Galaxy Watch Ultra 2 receive new certifications, confirming their upcoming availability in India. Fans await these devices.",
+      "category": "Hardware",
+      "source": "GSMArena.com",
+      "url": "https://www.gsmarena.com/the_wide_samsung_galaxy_z_fold8_and_the_galaxy_watch_ultra_2_receive_new_certifications-news-73219.php",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/samsung-galaxy-z-fold8-wide-galaxy-watch-ultra-2-bis/-952x498w6/gsmarena_000.jpg",
+      "published_at": "2026-06-11T01:01:02Z",
+      "key_points": [
+        "Galaxy Z Fold8 certified",
+        "Galaxy Watch Ultra 2 certified",
+        "Devices coming to India soon"
+      ],
+      "impact": "Samsung prepares for new device launches.",
+      "id": "a88770cbcfad4597fa26a502b690a0d6"
+    },
+    {
+      "title": "YouTube Introduces In-App Messaging Feature",
+      "description": "YouTube rolls out a new in-app messaging system, allowing users to chat about videos directly. This feature aims to enhance community engagement.",
+      "category": "Software",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/06/10/youtube-new-messaging-chat/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/youtube-logo-circle-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-10T20:00:00Z",
+      "key_points": [
+        "New in-app messaging feature",
+        "Enhances community engagement",
+        "Chat about favorite videos"
+      ],
+      "impact": "YouTube fosters deeper user connections.",
+      "id": "864e88c4c0e4100791628850457ab9e4"
+    },
+    {
+      "title": "Stellar Blade: BLOOD RAIN Protagonist Explained",
+      "description": "The new protagonist Evie in Stellar Blade: BLOOD RAIN is introduced, tasked with hunting a terrorist group. This shift brings fresh narrative elements.",
+      "category": "Gaming",
+      "source": "Niche Gamer",
+      "url": "https://nichegamer.com/stellar-blade-blood-rain-why-protag-so-young/",
+      "image": "https://media.nichegamer.com/wp-content/uploads/2026/06/Stellar-Blade-Blood-Rain-06-10-26-1.jpg",
+      "published_at": "2026-06-10T19:01:00Z",
+      "key_points": [
+        "New protagonist Evie introduced",
+        "Focus on hunting terrorist group",
+        "Fresh narrative elements in gameplay"
+      ],
+      "impact": "Players look forward to new storylines.",
+      "id": "38ae7941d751b369f12a5ab499a7afb7"
+    },
+    {
+      "title": "iPhone 18 Pro Features to Tempt Upgrades",
+      "description": "The upcoming iPhone 18 Pro may entice users with three new features, set to launch this fall. Apple fans are eager for the latest flagship model.",
+      "category": "Hardware",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/10/iphone-18-pro-three-new-features-might-make-you-want-to-upgrade/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-blue-angle-two.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-10T18:51:00Z",
+      "key_points": [
+        "iPhone 18 Pro launching this fall",
+        "Three new enticing features",
+        "Fans eager for upgrade"
+      ],
+      "impact": "Anticipation grows for the iPhone 18 Pro.",
+      "id": "4038d0d62bf22a12f46dec282da51ea9"
     }
   ]
 }

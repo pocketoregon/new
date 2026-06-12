@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-12T14:56:06.833283+00:00",
+      "fetched_at": "2026-06-12T14:56:06.833283+00:00",
+      "label": "Jun 12, 2026 — 02:56 PM UTC",
+      "articles": [
+        {
+          "title": "Xbox CEO Explains $800 Console Price",
+          "description": "Xbox's new CEO clarifies the reasons behind the console's $800 price tag, citing factors beyond Microsoft's control. Transparency is key in this new era for Xbox.",
+          "category": "Gaming",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/06/11/xbox-ceo-gives-a-good-explanation-for-why-a-console-now-costs-800/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a2ab77b6e43a729fb97c73f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-11T13:35:14Z",
+          "key_points": [
+            "Xbox price increase explained",
+            "Factors beyond Microsoft's control",
+            "New CEO emphasizes transparency"
+          ],
+          "impact": "Xbox's pricing strategy faces scrutiny amid rising costs.",
+          "id": "2da38b8a06aa9d0e60a70d8e58049319"
+        },
+        {
+          "title": "Trails from Zero Launching on PS5 and Switch",
+          "description": "The Legend of Heroes: Trails from Zero and Trails to Azure will launch on PS5 and Switch on September 10. Fans can look forward to these exciting releases.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/the-legend-of-heroes-trails-from-zero-and-the-legend-of-heroes-trails-to-azure-for-ps5-switch-2-launch-september-10",
+          "image": "",
+          "published_at": "2026-06-11T13:18:38Z",
+          "key_points": [
+            "Trails from Zero launches September 10",
+            "Available on PS5 and Switch",
+            "Exciting releases for fans"
+          ],
+          "impact": "Fans eagerly await the upcoming Trails releases.",
+          "id": "60bb184fcf48e618fe4f7e4d0ded8f81"
+        },
+        {
+          "title": "Unlock Destiny 2’s Secret Endings",
+          "description": "Destiny 2 players can unlock two secret endings before the game concludes. Bungie has hidden these endings, making them a must-see for fans.",
+          "category": "Gaming",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/06/11/how-to-unlock-destiny-2s-two-secret-final-endings/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a2aac1213810580a8913bfb/0x0.jpg?format=jpg&crop=2562,1440,x437,y0,safe&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-11T12:42:40Z",
+          "key_points": [
+            "Two secret endings available",
+            "Unlock before game ends",
+            "Bungie hides valuable content"
+          ],
+          "impact": "Players are motivated to explore hidden content.",
+          "id": "a5f43437c335e031fc41fb7ec80c2eef"
+        },
+        {
+          "title": "Minecraft 26.2 Release Candidate 1 Available",
+          "description": "Minecraft has released the first candidate for version 26.2, featuring the Chaos Cubed game drop. This version will be finalized if no critical issues arise.",
+          "category": "Gaming",
+          "source": "Minecraft.net",
+          "url": "https://www.minecraft.net/en-us/article/minecraft-26-2-release-candidate-1",
+          "image": "https://www.minecraft.net/content/dam/minecraftnet/article-asset/2026/minecraft-26-2-release-candidate-1/new-article-hero-image.jpg",
+          "published_at": "2026-06-11T12:42:27Z",
+          "key_points": [
+            "Minecraft 26.2 candidate released",
+            "Chaos Cubed game drop included",
+            "Final version pending critical issues"
+          ],
+          "impact": "Players can test new features in Minecraft.",
+          "id": "e1ebfb9dd77d38d31eae6dcca6933c1d"
+        },
+        {
+          "title": "macOS 27 Golden Gate Beta Review",
+          "description": "The macOS 27 Golden Gate beta introduces several useful improvements, enhancing user experience. However, one feature is still desired by users.",
+          "category": "Software",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/golden-gate-window-corner-1152x648-1781124749.jpeg",
+          "published_at": "2026-06-11T11:00:32Z",
+          "key_points": [
+            "Golden Gate beta improves user experience",
+            "AI features enhance functionality",
+            "Users desire additional features"
+          ],
+          "impact": "Users appreciate improvements in macOS 27.",
+          "id": "58ccfc0f6056b6f3f2f2abf7605b9e26"
+        },
+        {
+          "title": "Trump Phone Teardown Reveals HTC Duplication",
+          "description": "iFixit confirms that the Trump Mobile T1 Phone's internals closely resemble those of the HTC U24 Pro. This revelation raises questions about originality.",
+          "category": "Hardware",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/948262/trump-phone-t1-ifixit-teardown-htc-u24-pro",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-mobile-t1-phone-redesign-website-2026.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-11T10:40:21Z",
+          "key_points": [
+            "Trump Phone resembles HTC U24 Pro",
+            "iFixit confirms internal similarities",
+            "Questions raised about originality"
+          ],
+          "impact": "Concerns grow over the phone's authenticity.",
+          "id": "e6baa06ee808ec9f02e6a760513ba867"
+        },
+        {
+          "title": "Alien: Isolation 2 Director Discusses Sequel",
+          "description": "The director of Alien: Isolation 2 shares insights on improving the beloved horror game while aiming to surpass the original. Fans eagerly anticipate the sequel.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/we-wanted-to-match-the-original-and-go-beyond-alien-isolation-2s-director-on-improving-a-survivor-horror-icon",
+          "image": "https://assets-prd.ignimgs.com/2026/06/10/alien-int-blog-1781088417100.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-11T08:10:38Z",
+          "key_points": [
+            "Director aims to surpass original",
+            "Fans excited for the sequel",
+            "Focus on improving horror elements"
+          ],
+          "impact": "Anticipation builds for Alien: Isolation 2.",
+          "id": "bc719773f809324c325d25bb9b3d7fca"
+        },
+        {
+          "title": "Deezer Launches AI Music Detector",
+          "description": "Deezer introduces an AI music detection tool for users of other streaming services, aiming to enhance music discovery. This move targets a broader audience.",
+          "category": "Software",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NEW_1200-x-580-pixel-SI-logo-1240x600-1.jpeg?quality=90&strip=all&crop=3.7903225806452,0,92.41935483871,100",
+          "published_at": "2026-06-11T08:00:00Z",
+          "key_points": [
+            "Deezer's AI tool for all users",
+            "Enhances music discovery experience",
+            "Targets broader streaming audience"
+          ],
+          "impact": "Deezer expands its reach with new technology.",
+          "id": "b8acadde21ce5c9102b837cc97bd2fe3"
+        },
+        {
+          "title": "Galaxy S25 Receives New AI Features",
+          "description": "Samsung's Galaxy S25 series update includes two AI features previously exclusive to the Galaxy S26. This update also addresses security patches.",
+          "category": "Hardware",
+          "source": "SamMobile",
+          "url": "https://www.sammobile.com/news/galaxy-s25-gets-galaxy-s26s-two-galaxy-ai-features-missing-from-its-one-ui-8-5-update/",
+          "image": "https://www.sammobile.com/wp-content/uploads/2025/02/Galaxy-S25-Ultra-review-Galaxy-AI.jpg",
+          "published_at": "2026-06-11T07:00:00Z",
+          "key_points": [
+            "Galaxy S25 update includes AI features",
+            "Security patch also released",
+            "Enhancements from Galaxy S26 included"
+          ],
+          "impact": "Users benefit from new AI capabilities.",
+          "id": "6e39581e14b4dc30181e3598d3687382"
+        },
+        {
+          "title": "Apple's iPadOS 27 Beta Briefly Listed Unsupported Models",
+          "description": "Apple mistakenly listed restore images for unsupported iPad Pro models in the iPadOS 27 beta. The images were quickly removed from the downloads page.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/10/apples-ipados-27-beta-downloads-briefly-included-two-unsupported-ipad-pro-models/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/iPadOS-27-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-11T02:12:00Z",
+          "key_points": [
+            "Apple lists unsupported iPad models",
+            "Restore images removed quickly",
+            "Confusion over iPadOS 27 beta"
+          ],
+          "impact": "Users faced confusion over unsupported devices.",
+          "id": "b967558de2668ee12b1fbea2715681d5"
+        },
+        {
+          "title": "Final Fantasy XIV Online Switch 2 Trailer Released",
+          "description": "Square Enix unveils the gameplay trailer for Final Fantasy XIV Online on Switch 2, with early access starting this August. Fans are excited for the release.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/square-enix-releases-final-fantasy-xiv-online-switch-2-gameplay-trailer",
+          "image": "https://images.nintendolife.com/d20c67b26fc0c/large.jpg",
+          "published_at": "2026-06-11T02:00:00Z",
+          "key_points": [
+            "Gameplay trailer released",
+            "Early access begins in August",
+            "Fans excited for Switch 2 version"
+          ],
+          "impact": "Anticipation builds for Final Fantasy XIV Online.",
+          "id": "7bf1f46bbea60cc9f31b001eaf10e666"
+        },
+        {
+          "title": "Samsung Galaxy Z Fold8 and Watch Ultra 2 Certified",
+          "description": "Samsung's Galaxy Z Fold8 and Galaxy Watch Ultra 2 receive new certifications, confirming their upcoming availability in India. Fans await these devices.",
+          "category": "Hardware",
+          "source": "GSMArena.com",
+          "url": "https://www.gsmarena.com/the_wide_samsung_galaxy_z_fold8_and_the_galaxy_watch_ultra_2_receive_new_certifications-news-73219.php",
+          "image": "https://fdn.gsmarena.com/imgroot/news/26/06/samsung-galaxy-z-fold8-wide-galaxy-watch-ultra-2-bis/-952x498w6/gsmarena_000.jpg",
+          "published_at": "2026-06-11T01:01:02Z",
+          "key_points": [
+            "Galaxy Z Fold8 certified",
+            "Galaxy Watch Ultra 2 certified",
+            "Devices coming to India soon"
+          ],
+          "impact": "Samsung prepares for new device launches.",
+          "id": "a88770cbcfad4597fa26a502b690a0d6"
+        },
+        {
+          "title": "YouTube Introduces In-App Messaging Feature",
+          "description": "YouTube rolls out a new in-app messaging system, allowing users to chat about videos directly. This feature aims to enhance community engagement.",
+          "category": "Software",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/10/youtube-new-messaging-chat/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/youtube-logo-circle-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-10T20:00:00Z",
+          "key_points": [
+            "New in-app messaging feature",
+            "Enhances community engagement",
+            "Chat about favorite videos"
+          ],
+          "impact": "YouTube fosters deeper user connections.",
+          "id": "864e88c4c0e4100791628850457ab9e4"
+        },
+        {
+          "title": "Stellar Blade: BLOOD RAIN Protagonist Explained",
+          "description": "The new protagonist Evie in Stellar Blade: BLOOD RAIN is introduced, tasked with hunting a terrorist group. This shift brings fresh narrative elements.",
+          "category": "Gaming",
+          "source": "Niche Gamer",
+          "url": "https://nichegamer.com/stellar-blade-blood-rain-why-protag-so-young/",
+          "image": "https://media.nichegamer.com/wp-content/uploads/2026/06/Stellar-Blade-Blood-Rain-06-10-26-1.jpg",
+          "published_at": "2026-06-10T19:01:00Z",
+          "key_points": [
+            "New protagonist Evie introduced",
+            "Focus on hunting terrorist group",
+            "Fresh narrative elements in gameplay"
+          ],
+          "impact": "Players look forward to new storylines.",
+          "id": "38ae7941d751b369f12a5ab499a7afb7"
+        },
+        {
+          "title": "iPhone 18 Pro Features to Tempt Upgrades",
+          "description": "The upcoming iPhone 18 Pro may entice users with three new features, set to launch this fall. Apple fans are eager for the latest flagship model.",
+          "category": "Hardware",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/10/iphone-18-pro-three-new-features-might-make-you-want-to-upgrade/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-blue-angle-two.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-10T18:51:00Z",
+          "key_points": [
+            "iPhone 18 Pro launching this fall",
+            "Three new enticing features",
+            "Fans eager for upgrade"
+          ],
+          "impact": "Anticipation grows for the iPhone 18 Pro.",
+          "id": "4038d0d62bf22a12f46dec282da51ea9"
+        }
+      ]
+    },
+    {
       "id": "2026-06-12T10:10:17.981857+00:00",
       "fetched_at": "2026-06-12T10:10:17.981857+00:00",
       "label": "Jun 12, 2026 — 10:10 AM UTC",
@@ -5384,253 +5631,6 @@
           ],
           "impact": "Fans are left guessing about the plot.",
           "id": "cd1a898a584f2b957f5062244bd56e41"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-07T03:46:44.290989+00:00",
-      "fetched_at": "2026-06-07T03:46:44.290989+00:00",
-      "label": "Jun 07, 2026 — 03:47 AM UTC",
-      "articles": [
-        {
-          "title": "Monster Hunter Wilds Confirmed for Switch 2",
-          "description": "Monster Hunter Wilds is officially coming to Nintendo Switch 2, following heavy speculation. A release date will be announced later.",
-          "category": "Gaming",
-          "source": "Nintendoeverything.com",
-          "url": "https://nintendoeverything.com/monster-hunter-wilds-confirmed-for-nintendo-switch-2/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Monster-Hunter-Wilds-Switch-2-1-scaled.jpg",
-          "published_at": "2026-06-06T02:46:49Z",
-          "key_points": [
-            "Confirmed for Nintendo Switch 2",
-            "Release date TBA",
-            "Fans excited for new content"
-          ],
-          "impact": "This title boosts the Switch 2's game library.",
-          "id": "c6fba487c94153c2e9114812fa540672"
-        },
-        {
-          "title": "Summer Game Fest 2026 Showcase Highlights",
-          "description": "The Summer Game Fest 2026 showcased numerous game announcements, including Resident Evil Veronica and Final Fantasy VII Revelation. Fans are buzzing with excitement.",
-          "category": "Gaming",
-          "source": "Gameinformer.com",
-          "url": "https://gameinformer.com/sgf-2026/2026/06/05/heres-everything-announced-during-the-summer-game-fest-2026-showcase",
-          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/05/01a68981/ff01.jpg.webp",
-          "published_at": "2026-06-06T02:26:15Z",
-          "key_points": [
-            "Packed with game reveals",
-            "Major titles announced",
-            "Fans eagerly await releases"
-          ],
-          "impact": "This event sets the stage for upcoming releases.",
-          "id": "949bc02090c37f1cc5ec0246377a770c"
-        },
-        {
-          "title": "HITMAN Classic Trilogy Remastered Coming 2027",
-          "description": "Saber Interactive and IOI are remastering the HITMAN Classic Trilogy with enhanced visuals and new features. The release is set for 2027.",
-          "category": "Gaming",
-          "source": "Xbox.com",
-          "url": "https://news.xbox.com/en-us/2026/06/05/hitman-classic-trilogy-remastered-sgf-announce/",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/keyart-4f3b95b6f4a9cc6f7be1.jpg",
-          "published_at": "2026-06-06T01:01:22Z",
-          "key_points": [
-            "Enhanced visuals and performance",
-            "New features included",
-            "Release set for 2027"
-          ],
-          "impact": "This remaster revitalizes a classic franchise.",
-          "id": "df22f5a7c553fdbf1be87fead8a3eff9"
-        },
-        {
-          "title": "Capcom's Major Reveals at Summer Game Fest 2026",
-          "description": "Capcom unveiled several major titles, including Resident Evil Veronica and Monster Hunter Wilds: Ascendance, during the Summer Game Fest 2026.",
-          "category": "Gaming",
-          "source": "Gamespress.com",
-          "url": "https://www.gamespress.com/Capcom-Shines-Bright-With-Massive-Reveals-at-Summer-Game-Fest-2026",
-          "image": "https://imguscdn.gamespress.com/cdn/files/CapcomUS/2025/04/021523-0cc2a24c/SF6_Screenshot_World_Tour_040225.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=4fe15d8d83ab82dddbe9d6e5447f34ba1274726ef5f6b6cc6df6e643a16ddbf4",
-          "published_at": "2026-06-06T00:09:08Z",
-          "key_points": [
-            "Resident Evil Veronica announced",
-            "New Monster Hunter title",
-            "Capcom's lineup impresses fans"
-          ],
-          "impact": "Capcom strengthens its position in gaming.",
-          "id": "1ef802bdc7362093d076dfa2facb0141"
-        },
-        {
-          "title": "Stellar Blade Blood Rain Debuts at Summer Game Fest",
-          "description": "Shift Up announced Stellar Blade 2, titled Stellar Blade Blood Rain, with a debut trailer at Summer Game Fest 2026. Fans are excited for the sequel.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/stellar-blade-bloodrain-revealed-with-debut-trailer",
-          "image": "https://assets-prd.ignimgs.com/2026/06/05/hkfaoorwgaar2-r-1780699607211.jpg?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-05T23:20:38Z",
-          "key_points": [
-            "Sequel to Stellar Blade",
-            "Debut trailer released",
-            "Fans eagerly anticipate gameplay"
-          ],
-          "impact": "This sequel builds on a successful franchise.",
-          "id": "9f76662d8f582b5af145df9f0e79bd37"
-        },
-        {
-          "title": "GTA VI Crowds Upcoming Release Calendar",
-          "description": "The release of Grand Theft Auto VI in November is causing a crowded schedule for upcoming games. Developers are adjusting their timelines accordingly.",
-          "category": "Gaming",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Lucia_Caminos_02.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-          "published_at": "2026-06-05T23:05:27Z",
-          "key_points": [
-            "GTA VI launches in November",
-            "Release schedule crowded",
-            "Developers adjusting timelines"
-          ],
-          "impact": "GTA VI's launch reshapes the gaming landscape.",
-          "id": "7dff4676a8137b09e7a722aeded23a8a"
-        },
-        {
-          "title": "Final Fantasy VII: Revelation Trailer Released",
-          "description": "Final Fantasy VII: Revelation, the final installment of the remake trilogy, has been announced for Spring 2027. The first trailer is now available.",
-          "category": "Gaming",
-          "source": "Variety",
-          "url": "https://variety.com/2026/gaming/news/final-fantasy-7-revelation-trailer-release-matthew-mercer-1236768349/",
-          "image": "https://variety.com/wp-content/uploads/2026/06/Final-Fantasy-7-Revelation.png?w=1000&h=563&crop=1",
-          "published_at": "2026-06-05T23:01:00Z",
-          "key_points": [
-            "Final remake trilogy installment",
-            "Spring 2027 release",
-            "Trailer showcases new features"
-          ],
-          "impact": "This conclusion excites long-time fans.",
-          "id": "146335a1732a6c428755773fa2b1e687"
-        },
-        {
-          "title": "Street Fighter 6 Year 4 DLC Characters Announced",
-          "description": "Capcom revealed new DLC characters for Street Fighter 6, including Yasmine, Arjun, Tifa, and Bosch. Fans are eager for the new content.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/street-fighter-6-year-4-dlc-characters-yasmine-arjun-tifa-and-bosch-announced",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Street-Fighter-6_2026_06-05-26_001.jpg",
-          "published_at": "2026-06-05T22:45:18Z",
-          "key_points": [
-            "New characters for Street Fighter 6",
-            "Includes Tifa from Final Fantasy",
-            "Fans excited for DLC"
-          ],
-          "impact": "This DLC expands the game's roster.",
-          "id": "94ab11d5a2214311466c7e5ecd3a04f8"
-        },
-        {
-          "title": "The Wolf Among Us Remastered Announced",
-          "description": "Telltale Games announced The Wolf Among Us Remastered for multiple platforms, including PS5 and Xbox Series. Fans can expect a refined experience.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/the-wolf-among-us-remastered-announced-for-ps5-xbox-series-switch-2-xbox-one-switch-and-pc",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/TWAUR-Ann_06-05-26.jpg",
-          "published_at": "2026-06-05T22:40:53Z",
-          "key_points": [
-            "Remastered for modern consoles",
-            "Launch on multiple platforms",
-            "Fans anticipate enhanced graphics"
-          ],
-          "impact": "This remaster revives a beloved title.",
-          "id": "49ffce0cf6272418beb6e9a111047a1a"
-        },
-        {
-          "title": "1666: Amsterdam Revealed by Patrice Désilets",
-          "description": "Patrice Désilets unveiled his new game, 1666: Amsterdam, during Summer Game Fest 2026. The project has been in development for 16 years.",
-          "category": "Gaming",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/1666-amsterdam-trailer-prologue-demo/",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/1666-amsterdam-demo-trailer.jpg?w=1600&h=900&fit=crop",
-          "published_at": "2026-06-05T22:19:10Z",
-          "key_points": [
-            "New game from Assassin's Creed creator",
-            "16 years in development",
-            "Dark fantasy theme revealed"
-          ],
-          "impact": "This project showcases long-term dedication.",
-          "id": "eada5b5a54e7b6064a492e3fdbcdcb49"
-        },
-        {
-          "title": "Guild Wars 3 Announced for PC and PS5",
-          "description": "ArenaNet announced Guild Wars 3 at Summer Game Fest, promising a modern evolution of the MMORPG. Fans are eager for more details.",
-          "category": "Gaming",
-          "source": "PRNewswire",
-          "url": "https://www.prnewswire.com/news-releases/guild-wars-3-modern-evolution-of-the-mmorpg-announced-at-summer-game-fest-for-pc-and-playstation-5-302793119.html",
-          "image": "https://mmx.prnewswire.com/media/MS1856105/Guild_Wars_3_Key_Art.jpg?id=OA2669571&p=facebook",
-          "published_at": "2026-06-05T21:56:00Z",
-          "key_points": [
-            "Modern MMORPG evolution",
-            "Announced for PC and PS5",
-            "Fans excited for new features"
-          ],
-          "impact": "This announcement revitalizes the franchise.",
-          "id": "3fa7c91cf24fb37e22a6b8da4ad2ebf4"
-        },
-        {
-          "title": "Virtua Fighter Crossroads Set for 2027 Release",
-          "description": "SEGA announced Virtua Fighter Crossroads, previously known as Virtua Fighter New Project, set to launch in 2027. Fans are looking forward to new gameplay.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/virtua-fighter-crossroads-announced",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Virtua-Fighter-Crossroads_2026_06-05-26_031.jpg",
-          "published_at": "2026-06-05T21:55:02Z",
-          "key_points": [
-            "New Virtua Fighter title announced",
-            "Launch set for 2027",
-            "Fans anticipate fresh gameplay"
-          ],
-          "impact": "This title reinvigorates the classic series.",
-          "id": "9d1e55fa58499e25007dbe9121b14dd2"
-        },
-        {
-          "title": "Control Resonant Explores Trauma and Redemption",
-          "description": "Control Resonant combines supernatural elements with fast-paced melee combat, offering a new experience for fans of the genre. Remedy Entertainment pushes boundaries.",
-          "category": "Gaming",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/control-resonant-deals-with-trauma-and-redemption/",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/ofmz2jv7zkw_2e5a4c.jpg",
-          "published_at": "2026-06-05T21:45:34Z",
-          "key_points": [
-            "New gameplay footage released",
-            "Focus on trauma and redemption",
-            "Remedy explores new territory"
-          ],
-          "impact": "This game expands the narrative possibilities.",
-          "id": "a078c29e756dd468dc8c4bf44e0b1882"
-        },
-        {
-          "title": "Crossfire: A Unique PS5 Shooter Experience",
-          "description": "Crossfire, a new PS5 shooter from ex-Naughty Dog developers, aims to redefine military shooters with a unique approach. Players can expect a fresh take.",
-          "category": "Gaming",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/06/crossfire-is-a-single-player-ps5-shooter-with-soul-from-ex-naughty-dog-devs",
-          "image": "https://images.pushsquare.com/8da22cba4f9e3/large.jpg",
-          "published_at": "2026-06-05T21:34:00Z",
-          "key_points": [
-            "Unique military shooter concept",
-            "Developed by ex-Naughty Dog team",
-            "Fresh take on the genre"
-          ],
-          "impact": "This game could redefine shooter expectations.",
-          "id": "c830345d5facb58157a8d3e5a2a6162f"
-        },
-        {
-          "title": "Mighty Cuphead Adventure Announced",
-          "description": "Studio MDHR revealed Mighty Cuphead Adventure, a new 8-bit action platformer. Fans are excited for this fresh take on the Cuphead franchise.",
-          "category": "Gaming",
-          "source": "Nintendoeverything.com",
-          "url": "https://nintendoeverything.com/mighty-cuphead-adventure-announced-new-cuphead-game-on-the-way/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Mighty-Cuphead-Adventure.png",
-          "published_at": "2026-06-05T21:20:33Z",
-          "key_points": [
-            "New Cuphead game announced",
-            "8-bit action platformer",
-            "Fans eager for gameplay details"
-          ],
-          "impact": "This title expands the Cuphead universe.",
-          "id": "5ce220337601f92be380870a0aa010ac"
         }
       ]
     }
