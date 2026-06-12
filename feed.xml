@@ -5,17 +5,8 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2026 20:09:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 22:24:46 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
-    <item>
-      <title>Windows BitLocker 0-Day Vulnerability Exposed</title>
-      <description>Microsoft revealed a critical BitLocker vulnerability, CVE-2026-50507, allowing attackers to bypass security. This flaw was disclosed during the June Patch Tuesday release.</description>
-      <link>https://cybersecuritynews.com/windows-bitlocker-0-day-bypass-vulnerability/</link>
-      <guid isPermaLink="true">https://cybersecuritynews.com/windows-bitlocker-0-day-bypass-vulnerability/</guid>
-      <pubDate>2026-06-10T06:13:23Z</pubDate>
-      <category>Security</category>
-      <source url="https://cybersecuritynews.com/windows-bitlocker-0-day-bypass-vulnerability/">Cybersecuritynews.com</source>
-    </item>
   </channel>
 </rss>

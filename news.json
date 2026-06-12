@@ -1,23 +1,5 @@
 {
   "date": "2026-06-12",
-  "generated_at": "2026-06-12T20:09:20.144781+00:00",
-  "edition": "Tech Briefing",
-  "articles": [
-    {
-      "title": "Windows BitLocker 0-Day Vulnerability Exposed",
-      "description": "Microsoft revealed a critical BitLocker vulnerability, CVE-2026-50507, allowing attackers to bypass security. This flaw was disclosed during the June Patch Tuesday release.",
-      "category": "Security",
-      "source": "Cybersecuritynews.com",
-      "url": "https://cybersecuritynews.com/windows-bitlocker-0-day-bypass-vulnerability/",
-      "image": "http://cybersecuritynews.com/wp-content/uploads/2026/06/Windows-BitLocker-0-Day-Vulnerability-Allow-Attackers-to-bypass-security-feature.webp",
-      "published_at": "2026-06-10T06:13:23Z",
-      "key_points": [
-        "CVE-2026-50507 identified",
-        "Allows unauthorized access",
-        "Disclosed on June Patch Tuesday"
-      ],
-      "impact": "This vulnerability poses significant security risks to users.",
-      "id": "abd2956b779f25d74b096591a18cfb84"
-    }
-  ]
+  "generated_at": "2026-06-12T22:24:46.349557+00:00",
+  "articles": []
 }
