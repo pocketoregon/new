@@ -5,62 +5,143 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jun 2026 22:49:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 03:51:52 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Google TV Streamer Update Enhances Smart Home Features</title>
-      <description>The latest Google TV Streamer update improves smart home integration with Thread 1.4 support. Users can expect enhanced connectivity and functionality.</description>
-      <link>http://9to5google.com/2026/06/10/google-tv-streamers-new-update-turns-it-into-a-better-smart-home-device/</link>
-      <guid isPermaLink="true">http://9to5google.com/2026/06/10/google-tv-streamers-new-update-turns-it-into-a-better-smart-home-device/</guid>
-      <pubDate>2026-06-10T10:30:00Z</pubDate>
+      <title>Siri AI: Apple’s New Chatbot Knows When to Stop</title>
+      <description>Apple's Siri AI is now more concise and effective, impressing users with its curt responses. This marks a significant improvement in user interaction.</description>
+      <link>https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality</guid>
+      <pubDate>2026-06-10T22:52:17Z</pubDate>
       <category>Software</category>
-      <source url="http://9to5google.com/2026/06/10/google-tv-streamers-new-update-turns-it-into-a-better-smart-home-device/">9to5google.com</source>
+      <source url="https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality">The Verge</source>
     </item>
     <item>
-      <title>Microsoft Fixes Record 206 Vulnerabilities</title>
-      <description>Microsoft patched 206 vulnerabilities, including three critical zero-days. This marks a significant security update for its software ecosystem.</description>
-      <link>https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html</link>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html</guid>
-      <pubDate>2026-06-10T09:38:00Z</pubDate>
-      <category>Security</category>
-      <source url="https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html">The Hacker News</source>
-    </item>
-    <item>
-      <title>Switch 2 Zelda Remake Sparks Mixed Reactions</title>
-      <description>The Switch 2 remake of Zelda: Ocarina of Time has left some fans disappointed. Expectations clash with the new direction taken by developers.</description>
-      <link>https://www.creativebloq.com/3d/video-game-design/switch-2-zelda-ocarina-of-time-remake-is-making-some-fans-regret-what-they-wished-for</link>
-      <guid isPermaLink="true">https://www.creativebloq.com/3d/video-game-design/switch-2-zelda-ocarina-of-time-remake-is-making-some-fans-regret-what-they-wished-for</guid>
-      <pubDate>2026-06-10T07:00:00Z</pubDate>
+      <title>Gears of War: E-Day Insights from Xbox Developers</title>
+      <description>IGN interviews The Coalition about Gears of War: E-Day, revealing details on game mechanics and story. Fans are eager for more lore.</description>
+      <link>https://www.ign.com/articles/gears-e-day-devs-on-gears-lore-game-length-new-movement-mechanics-and-ai</link>
+      <guid isPermaLink="true">https://www.ign.com/articles/gears-e-day-devs-on-gears-lore-game-length-new-movement-mechanics-and-ai</guid>
+      <pubDate>2026-06-10T20:56:57Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.creativebloq.com/3d/video-game-design/switch-2-zelda-ocarina-of-time-remake-is-making-some-fans-regret-what-they-wished-for">Creative Bloq</source>
+      <source url="https://www.ign.com/articles/gears-e-day-devs-on-gears-lore-game-length-new-movement-mechanics-and-ai">IGN</source>
     </item>
     <item>
-      <title>Apple and EU Clash Over Siri AI Compliance</title>
-      <description>Apple and EU regulators are at odds over compliance with DMA requirements. Apple claims the EU is uncooperative in negotiations.</description>
-      <link>https://appleinsider.com/articles/26/06/09/siri-ai-is-trapped-in-apples-escalating-cold-war-with-the-eu</link>
-      <guid isPermaLink="true">https://appleinsider.com/articles/26/06/09/siri-ai-is-trapped-in-apples-escalating-cold-war-with-the-eu</guid>
-      <pubDate>2026-06-09T20:11:00Z</pubDate>
-      <category>Geopolitics</category>
-      <source url="https://appleinsider.com/articles/26/06/09/siri-ai-is-trapped-in-apples-escalating-cold-war-with-the-eu">AppleInsider</source>
+      <title>Destiny 3 Event Set for June 17</title>
+      <description>A new event supporting Destiny 3 is scheduled for June 17, continuing the excitement from Destiny 2. Fans are rallying online.</description>
+      <link>https://gamerant.com/new-destiny-3-event-is-officially-happening-on-june-17/</link>
+      <guid isPermaLink="true">https://gamerant.com/new-destiny-3-event-is-officially-happening-on-june-17/</guid>
+      <pubDate>2026-06-10T20:45:26Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://gamerant.com/new-destiny-3-event-is-officially-happening-on-june-17/">GameRant</source>
     </item>
     <item>
-      <title>Apple's Foldable iPhone Release Imminent</title>
-      <description>Hidden code in iOS 27 suggests a foldable iPhone may launch soon. Anticipation builds for Apple's innovative device.</description>
-      <link>https://techcrunch.com/2026/06/09/apples-foldable-iphone-could-be-just-around-the-corner/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/09/apples-foldable-iphone-could-be-just-around-the-corner/</guid>
-      <pubDate>2026-06-09T16:22:56Z</pubDate>
-      <category>Hardware</category>
-      <source url="https://techcrunch.com/2026/06/09/apples-foldable-iphone-could-be-just-around-the-corner/">TechCrunch</source>
-    </item>
-    <item>
-      <title>New Features in Apple Maps for iOS 27</title>
-      <description>iOS 27 introduces exciting new features for Apple Maps. Users can expect enhanced navigation and functionality.</description>
-      <link>https://9to5mac.com/2026/06/09/heres-everything-new-for-apple-maps-in-ios-27/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/09/heres-everything-new-for-apple-maps-in-ios-27/</guid>
-      <pubDate>2026-06-09T15:59:00Z</pubDate>
+      <title>Apple Unveils 250+ Changes in Latest OS Updates</title>
+      <description>Apple announced over 250 new features across iOS 27 and macOS Golden Gate during WWDC 2026. Users can expect significant enhancements.</description>
+      <link>https://www.macrumors.com/2026/06/10/apple-lists-250-changes-ios-27-and-more/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/06/10/apple-lists-250-changes-ios-27-and-more/</guid>
+      <pubDate>2026-06-10T20:34:00Z</pubDate>
       <category>Software</category>
-      <source url="https://9to5mac.com/2026/06/09/heres-everything-new-for-apple-maps-in-ios-27/">9to5Mac</source>
+      <source url="https://www.macrumors.com/2026/06/10/apple-lists-250-changes-ios-27-and-more/">MacRumors</source>
+    </item>
+    <item>
+      <title>Framework Laptop 13 Pro Shipping Delayed to July</title>
+      <description>Framework Computer has announced a delay in shipping the Framework Laptop 13 Pro to July, pushing back the original June timeline.</description>
+      <link>https://www.phoronix.com/news/Framework-13-Pro-July</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Framework-13-Pro-July</guid>
+      <pubDate>2026-06-10T20:10:00Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://www.phoronix.com/news/Framework-13-Pro-July">Phoronix</source>
+    </item>
+    <item>
+      <title>Kingdom Hearts 3 Graphics Comparison Video Released</title>
+      <description>A new video compares graphics of Kingdom Hearts 3 on Nintendo Switch 2, PS5, and Steam Deck, showcasing performance differences.</description>
+      <link>https://nintendoeverything.com/video-kingdom-hearts-3-nintendo-switch-2-vs-ps5-vs-steam-deck-graphics-comparison/</link>
+      <guid isPermaLink="true">https://nintendoeverything.com/video-kingdom-hearts-3-nintendo-switch-2-vs-ps5-vs-steam-deck-graphics-comparison/</guid>
+      <pubDate>2026-06-10T18:52:19Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://nintendoeverything.com/video-kingdom-hearts-3-nintendo-switch-2-vs-ps5-vs-steam-deck-graphics-comparison/">Nintendoeverything.com</source>
+    </item>
+    <item>
+      <title>Fable PS5 Introduces Innovative Life Simulation</title>
+      <description>Fable PS5 features a unique life simulation loop, captivating players with its immersive world and character routines.</description>
+      <link>https://www.pushsquare.com/news/2026/06/fable-ps5s-innovative-life-sim-loop-has-me-smitten</link>
+      <guid isPermaLink="true">https://www.pushsquare.com/news/2026/06/fable-ps5s-innovative-life-sim-loop-has-me-smitten</guid>
+      <pubDate>2026-06-10T17:30:00Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.pushsquare.com/news/2026/06/fable-ps5s-innovative-life-sim-loop-has-me-smitten">Push Square</source>
+    </item>
+    <item>
+      <title>Ubisoft to Close Studios and Lay Off Employees</title>
+      <description>Ubisoft is shutting down its Winnipeg and Belgrade studios, potentially affecting up to 380 jobs as part of restructuring efforts.</description>
+      <link>https://www.gamedeveloper.com/business/ubisoft-closing-winnipeg-and-belgrade-studios-and-making-further-layoffs</link>
+      <guid isPermaLink="true">https://www.gamedeveloper.com/business/ubisoft-closing-winnipeg-and-belgrade-studios-and-making-further-layoffs</guid>
+      <pubDate>2026-06-10T17:02:37Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.gamedeveloper.com/business/ubisoft-closing-winnipeg-and-belgrade-studios-and-making-further-layoffs">Gamedeveloper.com</source>
+    </item>
+    <item>
+      <title>Killer Bean: A Disappointing Gaming Experience</title>
+      <description>Killer Bean fails to deliver despite its promising ideas, receiving negative reviews for its gameplay and execution.</description>
+      <link>https://kotaku.com/killer-bean-is-a-very-very-bad-game-2000704867</link>
+      <guid isPermaLink="true">https://kotaku.com/killer-bean-is-a-very-very-bad-game-2000704867</guid>
+      <pubDate>2026-06-10T15:45:34Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://kotaku.com/killer-bean-is-a-very-very-bad-game-2000704867">Kotaku</source>
+    </item>
+    <item>
+      <title>Lenovo Launches Rugged Android Tablet for $499</title>
+      <description>Lenovo's ThinkTab X11, a rugged Android tablet with a removable battery, is now available for purchase in the US at $499.</description>
+      <link>http://9to5google.com/2026/06/10/lenovo-thinktab-x11-android-tablet-launch/</link>
+      <guid isPermaLink="true">http://9to5google.com/2026/06/10/lenovo-thinktab-x11-android-tablet-launch/</guid>
+      <pubDate>2026-06-10T14:20:00Z</pubDate>
+      <category>Hardware</category>
+      <source url="http://9to5google.com/2026/06/10/lenovo-thinktab-x11-android-tablet-launch/">9to5google.com</source>
+    </item>
+    <item>
+      <title>Insta360 Reveals Details of Leica Gimbal Camera</title>
+      <description>Insta360 has unveiled the full details of its Leica-branded gimbal camera, Luna Ultra, after teasing it for months.</description>
+      <link>https://petapixel.com/2026/06/10/luna-ultra-insta360-finally-reveals-full-details-of-the-leica-branded-gimbal-camera/</link>
+      <guid isPermaLink="true">https://petapixel.com/2026/06/10/luna-ultra-insta360-finally-reveals-full-details-of-the-leica-branded-gimbal-camera/</guid>
+      <pubDate>2026-06-10T13:00:29Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://petapixel.com/2026/06/10/luna-ultra-insta360-finally-reveals-full-details-of-the-leica-branded-gimbal-camera/">PetaPixel</source>
+    </item>
+    <item>
+      <title>Premium Editions for Xbox Games Announced</title>
+      <description>Xbox reveals premium upgrade editions for Fable, Gears, and Halo, featuring early access and exclusive content for fans.</description>
+      <link>https://www.purexbox.com/news/2026/06/heres-whats-in-the-premium-upgrade-editions-for-fable-gears-and-halo-on-xbox</link>
+      <guid isPermaLink="true">https://www.purexbox.com/news/2026/06/heres-whats-in-the-premium-upgrade-editions-for-fable-gears-and-halo-on-xbox</guid>
+      <pubDate>2026-06-10T12:30:00Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.purexbox.com/news/2026/06/heres-whats-in-the-premium-upgrade-editions-for-fable-gears-and-halo-on-xbox">Pure Xbox</source>
+    </item>
+    <item>
+      <title>Xbox Explores New Console Business Models</title>
+      <description>Microsoft is considering innovative business models for Xbox consoles to reduce costs and enhance accessibility for gamers.</description>
+      <link>https://www.theverge.com/news/947537/microsoft-xbox-console-hardware-price-changes-ramageddon</link>
+      <guid isPermaLink="true">https://www.theverge.com/news/947537/microsoft-xbox-console-hardware-price-changes-ramageddon</guid>
+      <pubDate>2026-06-10T11:04:22Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.theverge.com/news/947537/microsoft-xbox-console-hardware-price-changes-ramageddon">The Verge</source>
+    </item>
+    <item>
+      <title>Fire Emblem: Fortune's Weave Inspired by Medieval Spain</title>
+      <description>Fire Emblem: Fortune's Weave features a world map influenced by medieval Spain, blending various cultural elements for a unique experience.</description>
+      <link>https://www.eurogamer.net/fire-emblem-fortunes-weave-spain-regions</link>
+      <guid isPermaLink="true">https://www.eurogamer.net/fire-emblem-fortunes-weave-spain-regions</guid>
+      <pubDate>2026-06-10T10:48:48Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.eurogamer.net/fire-emblem-fortunes-weave-spain-regions">Eurogamer.net</source>
+    </item>
+    <item>
+      <title>Instagram Introduces Photo Grid Rearrangement Feature</title>
+      <description>Instagram now allows users to manually rearrange their photo grid, fulfilling a long-requested feature for better profile customization.</description>
+      <link>https://9to5mac.com/2026/06/09/instagram-now-lets-you-rearrange-your-photos-grid/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/09/instagram-now-lets-you-rearrange-your-photos-grid/</guid>
+      <pubDate>2026-06-10T02:21:00Z</pubDate>
+      <category>Software</category>
+      <source url="https://9to5mac.com/2026/06/09/instagram-now-lets-you-rearrange-your-photos-grid/">9to5Mac</source>
     </item>
   </channel>
 </rss>

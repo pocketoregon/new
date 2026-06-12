@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-12T03:51:14.806643+00:00",
+      "fetched_at": "2026-06-12T03:51:14.806643+00:00",
+      "label": "Jun 12, 2026 — 03:51 AM UTC",
+      "articles": [
+        {
+          "title": "Siri AI: Apple’s New Chatbot Knows When to Stop",
+          "description": "Apple's Siri AI is now more concise and effective, impressing users with its curt responses. This marks a significant improvement in user interaction.",
+          "category": "Software",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_13193.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+          "published_at": "2026-06-10T22:52:17Z",
+          "key_points": [
+            "Siri AI is more concise",
+            "Improved user interaction",
+            "Positive user feedback"
+          ],
+          "impact": "Siri's new design enhances user experience.",
+          "id": "f79136a26bfb8de9ae71da89e829cbb1"
+        },
+        {
+          "title": "Gears of War: E-Day Insights from Xbox Developers",
+          "description": "IGN interviews The Coalition about Gears of War: E-Day, revealing details on game mechanics and story. Fans are eager for more lore.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/gears-e-day-devs-on-gears-lore-game-length-new-movement-mechanics-and-ai",
+          "image": "https://assets-prd.ignimgs.com/2026/06/10/gears-of-war-eday-br-1781083823810.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-10T20:56:57Z",
+          "key_points": [
+            "New game mechanics revealed",
+            "Focus on Gears lore",
+            "Developer insights shared"
+          ],
+          "impact": "Fans anticipate exciting gameplay changes.",
+          "id": "933b1c49d396df1f47b98b0c277bd96b"
+        },
+        {
+          "title": "Destiny 3 Event Set for June 17",
+          "description": "A new event supporting Destiny 3 is scheduled for June 17, continuing the excitement from Destiny 2. Fans are rallying online.",
+          "category": "Gaming",
+          "source": "GameRant",
+          "url": "https://gamerant.com/new-destiny-3-event-is-officially-happening-on-june-17/",
+          "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/06/image-2026-06-10t224246-895.jpg?w=1600&h=900&fit=crop",
+          "published_at": "2026-06-10T20:45:26Z",
+          "key_points": [
+            "Event supports Destiny 3",
+            "Fans rally on social media",
+            "Excitement builds for June 17"
+          ],
+          "impact": "Community engagement boosts game visibility.",
+          "id": "d1f95add7f773f657e7fb2cead3cd1f6"
+        },
+        {
+          "title": "Apple Unveils 250+ Changes in Latest OS Updates",
+          "description": "Apple announced over 250 new features across iOS 27 and macOS Golden Gate during WWDC 2026. Users can expect significant enhancements.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/10/apple-lists-250-changes-ios-27-and-more/",
+          "image": "https://images.macrumors.com/t/IrEhBGwNUTRw6pskEGLirN4Z85Y=/2500x/article-new/2026/06/Apple-Lists-250-Changes-Across-iOS-27-and-More-Feature.jpg",
+          "published_at": "2026-06-10T20:34:00Z",
+          "key_points": [
+            "Over 250 new features",
+            "Enhancements across platforms",
+            "Announced at WWDC 2026"
+          ],
+          "impact": "Users will enjoy a richer experience.",
+          "id": "d3d567ba55bfa88d1cf6e5ef2dae115c"
+        },
+        {
+          "title": "Framework Laptop 13 Pro Shipping Delayed to July",
+          "description": "Framework Computer has announced a delay in shipping the Framework Laptop 13 Pro to July, pushing back the original June timeline.",
+          "category": "Hardware",
+          "source": "Phoronix",
+          "url": "https://www.phoronix.com/news/Framework-13-Pro-July",
+          "image": "https://www.phoronix.net/image.php?id=2026&image=framework_13_pro_1",
+          "published_at": "2026-06-10T20:10:00Z",
+          "key_points": [
+            "Shipping delayed to July",
+            "Original date was June",
+            "Pre-order customers notified"
+          ],
+          "impact": "Customers await their laptops longer.",
+          "id": "d12f48ea55dbffc66f4d790fd7394d8e"
+        },
+        {
+          "title": "Kingdom Hearts 3 Graphics Comparison Video Released",
+          "description": "A new video compares graphics of Kingdom Hearts 3 on Nintendo Switch 2, PS5, and Steam Deck, showcasing performance differences.",
+          "category": "Gaming",
+          "source": "Nintendoeverything.com",
+          "url": "https://nintendoeverything.com/video-kingdom-hearts-3-nintendo-switch-2-vs-ps5-vs-steam-deck-graphics-comparison/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Kingdom-Hearts-3-Switch-2-comparison.jpg",
+          "published_at": "2026-06-10T18:52:19Z",
+          "key_points": [
+            "Graphics compared across platforms",
+            "Showcases performance differences",
+            "Fans eager for visuals"
+          ],
+          "impact": "Players can choose their preferred platform.",
+          "id": "6de11c633d5657a1cc182d24d0029275"
+        },
+        {
+          "title": "Fable PS5 Introduces Innovative Life Simulation",
+          "description": "Fable PS5 features a unique life simulation loop, captivating players with its immersive world and character routines.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/fable-ps5s-innovative-life-sim-loop-has-me-smitten",
+          "image": "https://images.pushsquare.com/92bd7641fa6e5/large.jpg",
+          "published_at": "2026-06-10T17:30:00Z",
+          "key_points": [
+            "Innovative life simulation",
+            "Immersive character routines",
+            "Captivating gameplay experience"
+          ],
+          "impact": "Players are excited for Fable's release.",
+          "id": "2208fee0c7d15a7cf810290d98c7598d"
+        },
+        {
+          "title": "Ubisoft to Close Studios and Lay Off Employees",
+          "description": "Ubisoft is shutting down its Winnipeg and Belgrade studios, potentially affecting up to 380 jobs as part of restructuring efforts.",
+          "category": "Business",
+          "source": "Gamedeveloper.com",
+          "url": "https://www.gamedeveloper.com/business/ubisoft-closing-winnipeg-and-belgrade-studios-and-making-further-layoffs",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltd2b0a95dd1b81811/6a298e683baf6a3f9c25d0f6/Ubisoft_Winnipeg.png?disable=upscale&width=1200&height=630&fit=crop",
+          "published_at": "2026-06-10T17:02:37Z",
+          "key_points": [
+            "Two studios to close",
+            "Up to 380 layoffs",
+            "Restructuring efforts underway"
+          ],
+          "impact": "Ubisoft faces significant operational changes.",
+          "id": "077219fc5e0440141ca64c6115e08414"
+        },
+        {
+          "title": "Killer Bean: A Disappointing Gaming Experience",
+          "description": "Killer Bean fails to deliver despite its promising ideas, receiving negative reviews for its gameplay and execution.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/killer-bean-is-a-very-very-bad-game-2000704867",
+          "image": "https://kotaku.com/app/uploads/2026/06/ss_465fe050974396bcc5ba16666200888773132657.1920x1080-1200x675.jpg",
+          "published_at": "2026-06-10T15:45:34Z",
+          "key_points": [
+            "Disappointing gameplay experience",
+            "Promising ideas fall flat",
+            "Negative reviews received"
+          ],
+          "impact": "Players are dissatisfied with the game.",
+          "id": "5afa52efe784d6caa21d09bc6d374def"
+        },
+        {
+          "title": "Lenovo Launches Rugged Android Tablet for $499",
+          "description": "Lenovo's ThinkTab X11, a rugged Android tablet with a removable battery, is now available for purchase in the US at $499.",
+          "category": "Hardware",
+          "source": "9to5google.com",
+          "url": "http://9to5google.com/2026/06/10/lenovo-thinktab-x11-android-tablet-launch/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/lenovo-thinkpad-x11-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-10T14:20:00Z",
+          "key_points": [
+            "Rugged Android tablet launched",
+            "Removable battery feature",
+            "Priced at $499"
+          ],
+          "impact": "Lenovo targets rugged device market.",
+          "id": "2ed2a35f07e9c642367cca86728de07a"
+        },
+        {
+          "title": "Insta360 Reveals Details of Leica Gimbal Camera",
+          "description": "Insta360 has unveiled the full details of its Leica-branded gimbal camera, Luna Ultra, after teasing it for months.",
+          "category": "Hardware",
+          "source": "PetaPixel",
+          "url": "https://petapixel.com/2026/06/10/luna-ultra-insta360-finally-reveals-full-details-of-the-leica-branded-gimbal-camera/",
+          "image": "https://petapixel.com/assets/uploads/2026/06/Luna-Ultra-Insta360-Finally-Reveals-Full-Details-of-the-Leica-Branded-Gimbal-Camera.jpg",
+          "published_at": "2026-06-10T13:00:29Z",
+          "key_points": [
+            "Luna Ultra details revealed",
+            "Leica-branded gimbal camera",
+            "Months of anticipation"
+          ],
+          "impact": "Camera enthusiasts await its release.",
+          "id": "e23adfc94ab0ece889e2c92a1f79b5bd"
+        },
+        {
+          "title": "Premium Editions for Xbox Games Announced",
+          "description": "Xbox reveals premium upgrade editions for Fable, Gears, and Halo, featuring early access and exclusive content for fans.",
+          "category": "Gaming",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/06/heres-whats-in-the-premium-upgrade-editions-for-fable-gears-and-halo-on-xbox",
+          "image": "https://images.purexbox.com/2b35a8d59a50b/large.jpg",
+          "published_at": "2026-06-10T12:30:00Z",
+          "key_points": [
+            "Premium upgrades announced",
+            "Early access perks included",
+            "Exclusive content for fans"
+          ],
+          "impact": "Fans excited for premium gaming experiences.",
+          "id": "72652a5909bd92b983d40569b7aa1d92"
+        },
+        {
+          "title": "Xbox Explores New Console Business Models",
+          "description": "Microsoft is considering innovative business models for Xbox consoles to reduce costs and enhance accessibility for gamers.",
+          "category": "Business",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/947537/microsoft-xbox-console-hardware-price-changes-ramageddon",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22012259/vpavic_4275_20201030_0033.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-10T11:04:22Z",
+          "key_points": [
+            "New business models explored",
+            "Focus on cost reduction",
+            "Enhancing gamer accessibility"
+          ],
+          "impact": "Microsoft aims to innovate console offerings.",
+          "id": "9851075ea99b85f4d8da2d48c76446b8"
+        },
+        {
+          "title": "Fire Emblem: Fortune's Weave Inspired by Medieval Spain",
+          "description": "Fire Emblem: Fortune's Weave features a world map influenced by medieval Spain, blending various cultural elements for a unique experience.",
+          "category": "Gaming",
+          "source": "Eurogamer.net",
+          "url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-spain-regions",
+          "image": "https://assetsio.gnwcdn.com/FE-Fortunes-Weave_custom_characters-and-map.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-10T10:48:48Z",
+          "key_points": [
+            "Inspired by medieval Spain",
+            "Unique cultural blend",
+            "New entry in Fire Emblem series"
+          ],
+          "impact": "Fans look forward to its release.",
+          "id": "ce60e2124d0c9b936c17e664132bc24c"
+        },
+        {
+          "title": "Instagram Introduces Photo Grid Rearrangement Feature",
+          "description": "Instagram now allows users to manually rearrange their photo grid, fulfilling a long-requested feature for better profile customization.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/09/instagram-now-lets-you-rearrange-your-photos-grid/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/instagram-grid-reorder.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-10T02:21:00Z",
+          "key_points": [
+            "New grid rearrangement feature",
+            "User customization improved",
+            "Long-requested by users"
+          ],
+          "impact": "Instagram enhances user profile experience.",
+          "id": "25b6d80bad09e2df095cfa6eacdba85d"
+        }
+      ]
+    },
+    {
       "id": "2026-06-11T22:49:33.888177+00:00",
       "fetched_at": "2026-06-11T22:49:33.888177+00:00",
       "label": "Jun 11, 2026 — 10:49 PM UTC",
@@ -5368,253 +5615,6 @@
           ],
           "impact": "This stance reinforces Microsoft's commitment to ethics.",
           "id": "7a69144288214e8715529b89d86a2acf"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-06T19:20:51.974602+00:00",
-      "fetched_at": "2026-06-06T19:20:51.974602+00:00",
-      "label": "Jun 06, 2026 — 07:21 PM UTC",
-      "articles": [
-        {
-          "title": "Vampire Survivors' Wet Update Launches Soon",
-          "description": "The upcoming 'Wet Update' for Vampire Survivors promises exciting new content. Players can expect fresh features and enhancements to the beloved game.",
-          "category": "Gaming",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/06/vampire-survivors-wet-update-is-coming-soon-heres-everything-included",
-          "image": "https://images.nintendolife.com/eadf836cd408f/large.jpg",
-          "published_at": "2026-06-05T16:30:00Z",
-          "key_points": [
-            "New content coming soon",
-            "Exciting features revealed",
-            "Fans eagerly await update"
-          ],
-          "impact": "The update is set to enhance gameplay significantly.",
-          "id": "f2a967280b6691af089495c5c5bed2c2"
-        },
-        {
-          "title": "YouTube Premium Price Increase: Will You Cancel?",
-          "description": "YouTube Premium's price hike takes effect this month, prompting users to consider cancellation. The increase raises questions about subscription value.",
-          "category": "Business",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/06/05/youtube-premium-price-hikes-cancel-poll/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/youtube-premium.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-05T15:55:00Z",
-          "key_points": [
-            "Price hike effective this month",
-            "Users considering cancellation",
-            "Subscription value questioned"
-          ],
-          "impact": "This could lead to a drop in subscribers.",
-          "id": "2f3086dea77cf6fbc95c983e4427cb98"
-        },
-        {
-          "title": "Fitbit Air: Great Tracker, But AI Coach Lacks",
-          "description": "The Fitbit Air excels as a minimalist fitness tracker, but Google's AI Health Coach feels overly gentle and unnecessary. Users may prefer traditional coaching methods.",
-          "category": "Hardware",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Fitbit-Air-1-1152x648.jpg",
-          "published_at": "2026-06-05T15:40:48Z",
-          "key_points": [
-            "Fitbit Air is minimalist",
-            "AI coach lacks assertiveness",
-            "Traditional coaching preferred"
-          ],
-          "impact": "Users may seek alternatives for coaching.",
-          "id": "1f809a308b0c7a69e5685276af434728"
-        },
-        {
-          "title": "Ubisoft Revives 3D Rayman Games with New Release",
-          "description": "Ubisoft confirms the launch of Rayman Legends Retold for Nintendo Switch 2 on October 1. Fans are excited about the charming visual style and gameplay.",
-          "category": "Gaming",
-          "source": "Nintendo Everything",
-          "url": "https://nintendoeverything.com/ubisoft-looking-to-start-making-3d-rayman-games-again/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/rayman-2.jpg",
-          "published_at": "2026-06-05T15:02:25Z",
-          "key_points": [
-            "Rayman Legends Retold confirmed",
-            "Launch on October 1",
-            "Exciting visuals showcased"
-          ],
-          "impact": "This could rejuvenate the Rayman franchise.",
-          "id": "a04f7138f393895ce1f7c91d32eee6e8"
-        },
-        {
-          "title": "Last Chance for Discounted Switch Gems in Indie Sale",
-          "description": "Nintendo's eShop Indie Sale features top-rated games at discounted prices. Don't miss out on these 9/10+ rated titles before the sale ends.",
-          "category": "Gaming",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/last-chance-to-get-these-discounted-switch-gems-in-nintendos-eshop-indie-sale-north-america",
-          "image": "https://images.nintendolife.com/f7dddcd2311d9/large.jpg",
-          "published_at": "2026-06-05T15:00:00Z",
-          "key_points": [
-            "Indie Sale features top-rated games",
-            "Discounts on 9/10+ titles",
-            "Sale ends soon"
-          ],
-          "impact": "This sale could boost indie game sales.",
-          "id": "93ce9cb01b43d7295ff82df5bbbbce82"
-        },
-        {
-          "title": "Apple's WWDC: New Hardware Launches Expected?",
-          "description": "Apple may unveil new hardware at WWDC, despite it being primarily a software event. Anticipation builds for potential announcements.",
-          "category": "Business",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/05/will-apple-launch-new-hardware-at-wwdc-next-week/",
-          "image": "https://images.macrumors.com/t/mYtP6uIb00rSmXyPSXg5ZLMGOpI=/2500x/article-new/2026/03/WWDC26-Mock-Feature-2.jpg",
-          "published_at": "2026-06-05T14:56:38Z",
-          "key_points": [
-            "New hardware expected at WWDC",
-            "Primarily a software event",
-            "Anticipation builds for announcements"
-          ],
-          "impact": "New hardware could excite Apple fans.",
-          "id": "a9a19592fcf15324c26540867aa38ec0"
-        },
-        {
-          "title": "Top 10 Nintendo Switch 2 Games Revealed",
-          "description": "Celebrating one year of the Switch 2, here are the top games to play on Nintendo's latest console. The list highlights its commercial success.",
-          "category": "Gaming",
-          "source": "Game Informer",
-          "url": "https://gameinformer.com/2026/06/05/the-top-10-nintendo-switch-2-games",
-          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/12/05/d64cc054/top10_revisited_switch2.png.webp",
-          "published_at": "2026-06-05T13:50:48Z",
-          "key_points": [
-            "Top games for Switch 2",
-            "Celebrating one year",
-            "Commercial success highlighted"
-          ],
-          "impact": "This reinforces Switch 2's market position.",
-          "id": "d5e686f620a0af87dd6084b62d2c9c05"
-        },
-        {
-          "title": "Trump Phone: Assembled in the USA, Not Made",
-          "description": "The Trump Mobile T1 Phone is only assembled in the US, raising questions about domestic manufacturing capabilities. Full production in the US is nearly impossible.",
-          "category": "Geopolitics",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/943852/trump-phone-made-in-the-usa-ftc-assembled-china",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-mobile-t1-phone-redesign-website-2026.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-06-05T13:33:12Z",
-          "key_points": [
-            "Trump Phone assembled in USA",
-            "Manufacturing challenges highlighted",
-            "Domestic production nearly impossible"
-          ],
-          "impact": "This raises concerns about US manufacturing.",
-          "id": "45b088877caaa8c2923b7ab732611074"
-        },
-        {
-          "title": "Elden Ring Nintendo Switch 2 Footage Released",
-          "description": "New direct-feed footage of Elden Ring Tarnished Edition for Nintendo Switch 2 has been released, following its anticipated announcement. Fans are eager for more details.",
-          "category": "Gaming",
-          "source": "Nintendo Everything",
-          "url": "https://nintendoeverything.com/brand-new-direct-feed-elden-ring-nintendo-switch-2-footage-released/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Elden-Ring-Switch-2-direct-feed-footage.jpg",
-          "published_at": "2026-06-05T13:17:25Z",
-          "key_points": [
-            "New footage of Elden Ring released",
-            "Tarnished Edition announced",
-            "Fans eager for details"
-          ],
-          "impact": "This could boost interest in the game.",
-          "id": "a0ad4f849bcaecab105a0896544d8193"
-        },
-        {
-          "title": "Summer Game Fest 2026: Live Report",
-          "description": "The Summer Game Fest showcase is the highlight of the summer gaming season, featuring major announcements and news. Coverage is ongoing.",
-          "category": "Gaming",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/summer-game-fest-2026-live-report",
-          "image": "https://assetsio.gnwcdn.com/Summer-Game-Fest-When-Where-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-05T11:00:33Z",
-          "key_points": [
-            "Major announcements expected",
-            "Live coverage ongoing",
-            "Highlight of summer gaming"
-          ],
-          "impact": "This event shapes the gaming landscape.",
-          "id": "fbd4f9888f9de3a26cef4397ba0c6ebd"
-        },
-        {
-          "title": "Gothic Remake Released Today",
-          "description": "The remake of the classic RPG Gothic is now available, enhancing the original's detailed world. Players can explore its revamped prison setting.",
-          "category": "Gaming",
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/gothics-remake-is-out-today-adding-new-detail-and-awfulness-to-the-2001-rpgs-bustling-prison-world",
-          "image": "https://assetsio.gnwcdn.com/gothic-remake-1_K66YdCi.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-05T09:50:33Z",
-          "key_points": [
-            "Gothic remake launched today",
-            "Enhanced prison world details",
-            "Classic RPG revived"
-          ],
-          "impact": "This could attract both new and old fans.",
-          "id": "aba31caf274b604a08338275f29f0ea4"
-        },
-        {
-          "title": "New Safer Power Banks with Semi-Solid-State Tech",
-          "description": "New semi-solid-state magnetic power banks are now available, offering improved safety and Qi2 charging. These innovative devices were first unveiled at CES 2026.",
-          "category": "Hardware",
-          "source": "Android Authority",
-          "url": "https://www.androidauthority.com/bmx-semi-solid-state-battery-power-banks-3674759/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/SolidSafe-Power-Bank-5K-Air.jpg",
-          "published_at": "2026-06-05T04:32:49Z",
-          "key_points": [
-            "New power banks available now",
-            "Improved safety features",
-            "Qi2 charging supported"
-          ],
-          "impact": "This innovation enhances user safety significantly.",
-          "id": "9377aab05eaee3647df11d63687f4869"
-        },
-        {
-          "title": "Big Corporations Should Leave LOTR Alone",
-          "description": "Critics urge corporations to stop exploiting The Lord of the Rings IP for profit. The cancellation of Amazon's MMO is seen as a positive step.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/amazon-embracer-leave-the-lord-of-the-rings-alone-2000702588",
-          "image": "https://kotaku.com/app/uploads/2026/06/gandalffedup-1200x675.jpg",
-          "published_at": "2026-06-04T21:19:31Z",
-          "key_points": [
-            "Critics call for IP respect",
-            "Amazon's MMO canceled",
-            "Profit over quality concerns"
-          ],
-          "impact": "This reflects growing frustration among fans.",
-          "id": "72585afe7e7b9b171d8faee12b9224a7"
-        },
-        {
-          "title": "Subnautica 2: Upcoming Content Drop Details",
-          "description": "Unknown Worlds outlines future plans for Subnautica 2, including a new region. The studio shifts focus from quick fixes to substantial updates.",
-          "category": "Gaming",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/subnautica-2-dev-outlines-upcoming-content-drop-including-brand-new-region/",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Subnautica-2-The-Collector-Leviathan.jpg",
-          "published_at": "2026-06-04T19:43:45Z",
-          "key_points": [
-            "New content drop announced",
-            "Focus on substantial updates",
-            "New region coming soon"
-          ],
-          "impact": "This could enhance player engagement significantly.",
-          "id": "1f099cb0a63f90c0d7e0cb4f7cc8c821"
-        },
-        {
-          "title": "Dell's New XPS 13 vs. Apple MacBook Neo",
-          "description": "Dell's $699 XPS 13 impresses in side-by-side comparisons with the Apple MacBook Neo at Computex. It may be the best budget laptop of the year.",
-          "category": "Hardware",
-          "source": "PCMag",
-          "url": "https://www.pcmag.com/news/i-tried-dells-699-xps-13-what-it-has-over-apple-macbook-neo-computex-2026",
-          "image": "https://i.pcmag.com/imagery/articles/03RvS4CXgrO8MbPMOfyWHHN-1.fit_lim.size_1200x630.v1780589092.jpg",
-          "published_at": "2026-06-04T19:17:09Z",
-          "key_points": [
-            "XPS 13 impresses at Computex",
-            "Best budget laptop contender",
-            "Comparison with MacBook Neo"
-          ],
-          "impact": "This could shift budget laptop preferences.",
-          "id": "b98079eeeab85a7967de7afbdb69e8da"
         }
       ]
     }
