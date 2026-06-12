@@ -1,6 +1,157 @@
 {
   "batches": [
     {
+      "id": "2026-06-12T10:10:17.981857+00:00",
+      "fetched_at": "2026-06-12T10:10:17.981857+00:00",
+      "label": "Jun 12, 2026 — 10:10 AM UTC",
+      "articles": [
+        {
+          "title": "Framework Delays Laptop 13 Pro Shipments",
+          "description": "Framework's Laptop 13 Pro shipments are delayed by a month due to issues with the haptic trackpad and custom display. New expected shipping is now in July.",
+          "category": "Hardware",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC00210_71b030.webp?quality=90&strip=all&crop=0%2C16.22192197264%2C100%2C67.55615605472&w=1200",
+          "published_at": "2026-06-10T23:12:51Z",
+          "key_points": [
+            "Shipments delayed to July",
+            "Issues with trackpad",
+            "Custom display problems"
+          ],
+          "impact": "Delays may affect customer satisfaction.",
+          "id": "e8c1163f4f6444145fbea34a23c02dd2"
+        },
+        {
+          "title": "Ubisoft Announces Studio Closures and Layoffs",
+          "description": "Ubisoft has closed its Winnipeg and Belgrade studios amid a new restructuring, resulting in hundreds of layoffs. This move is part of a broader organizational change.",
+          "category": "Business",
+          "source": "Gameinformer.com",
+          "url": "https://gameinformer.com/2026/06/10/report-ubisoft-announces-more-studio-closures-and-layoffs-amid-new-organizational",
+          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2021/12/21/58cb5c42/ubisoft_black_logo.jpg.webp",
+          "published_at": "2026-06-10T22:57:29Z",
+          "key_points": [
+            "Two studios closed",
+            "Hundreds laid off",
+            "Organizational restructuring"
+          ],
+          "impact": "Restructuring may impact future game development.",
+          "id": "32ada8a9f7eb85cd4db870b864e4ebb2"
+        },
+        {
+          "title": "Intel’s Project Firefly Unveiled",
+          "description": "Intel's Project Firefly aims to create affordable laptops with premium features, utilizing Wildcat Lake SoCs in a sleek, ventless design. Targeting budget-conscious consumers.",
+          "category": "Hardware",
+          "source": "Wccftech",
+          "url": "https://wccftech.com/intel-project-firefly-takes-best-of-phones-to-build-laptops-in-a-slim-chassis-with-no-vents/",
+          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/Intel-Firefly-Project-_-Wildcat-Lake-Core-Series-3-_F-1920x1060.jpg",
+          "published_at": "2026-06-10T19:56:00Z",
+          "key_points": [
+            "Affordable premium laptops",
+            "Ventless design",
+            "Wildcat Lake SoCs"
+          ],
+          "impact": "Project Firefly could disrupt budget laptop market.",
+          "id": "4b431527bcbcff6012eb61676d73f29e"
+        },
+        {
+          "title": "Amazon’s Echo Speakers Aid Kids' Sleep",
+          "description": "Amazon introduces Sleep Studio, enhancing Echo and Echo Kids speakers to help children wind down and fall asleep with calming stories and sounds. Aimed at improving bedtime routines.",
+          "category": "Software",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/947871/amazon-sleep-studio-echo-kids-smart-speakers-calm-moshi-headspace",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/amazonsleep1.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+          "published_at": "2026-06-10T16:54:17Z",
+          "key_points": [
+            "New Sleep Studio feature",
+            "Helps kids sleep better",
+            "Plays calming content"
+          ],
+          "impact": "Improves children's sleep experiences.",
+          "id": "c838f6455586a5a4919b93a2c5250ff5"
+        },
+        {
+          "title": "PlayStation Plus Adds 8 Free Games",
+          "description": "PlayStation Plus subscribers can enjoy eight new free games this June, expanding their gaming library. Exciting titles are now available for download.",
+          "category": "Gaming",
+          "source": "Gamingbible.com",
+          "url": "https://www.gamingbible.com/news/platform/playstation/playstation-plus-extra-premium-june-2026-268323-20260610",
+          "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt6ae1211561fed780/6a294806d561b9321b8e8291/psplusdepartures.jpg",
+          "published_at": "2026-06-10T15:49:55Z",
+          "key_points": [
+            "Eight new free games",
+            "Available for download",
+            "June offerings expanded"
+          ],
+          "impact": "Enhances PlayStation Plus value for subscribers.",
+          "id": "ea0bc68e2643efc869685ae2b2dc409c"
+        },
+        {
+          "title": "Nintendo Stock Drops After Direct",
+          "description": "Nintendo's stock fell nearly 7% following a disappointing June Direct that lacked a new 3D Mario game, despite positive fan reactions. Investors remain cautious.",
+          "category": "Gaming",
+          "source": "Wccftech",
+          "url": "https://wccftech.com/nintendo-stock-crash-june-direct-no-3d-mario/",
+          "image": "https://cdn.wccftech.com/wp-content/uploads/2022/12/cover-home-1.jpg",
+          "published_at": "2026-06-10T08:30:00Z",
+          "key_points": [
+            "Stock fell nearly 7%",
+            "No new 3D Mario game",
+            "Investors disappointed"
+          ],
+          "impact": "Stock drop reflects investor concerns.",
+          "id": "557bc9aba2022389c206066624b9e3b8"
+        },
+        {
+          "title": "Street Fighter 6 DLC Reveals New Characters",
+          "description": "Capcom reveals new details about Yasmine and Arjun, newcomers in Street Fighter 6's Season 4. Fans are excited about the latest updates.",
+          "category": "Gaming",
+          "source": "EventHubs",
+          "url": "https://www.eventhubs.com/news/2026/jun/09/street-fighter-yasmine-details/",
+          "image": "https://media.eventhubs.com/images/2026/06/09-street-fighter-yasmine-detailst.webp",
+          "published_at": "2026-06-09T23:22:28Z",
+          "key_points": [
+            "New characters revealed",
+            "Yasmine and Arjun",
+            "Fans excited for updates"
+          ],
+          "impact": "Increases anticipation for Season 4.",
+          "id": "f73c00bb343139597b43bbdd3f13ad98"
+        },
+        {
+          "title": "Deltarune Chapter 5 Release Date Announced",
+          "description": "Toby Fox announces the release date for Deltarune Chapter 5 and provides updates on Chapter 6, exciting fans of the series. Anticipation builds for the next installment.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/deltarune-chapter-5-release-date-revealed-as-toby-fox-offers-promising-update-for-the-future",
+          "image": "https://assets-prd.ignimgs.com/2026/06/09/deltarune-chapter-5-key-art-by-temmie-1781039360555.png?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-09T21:42:12Z",
+          "key_points": [
+            "Chapter 5 release date revealed",
+            "Updates on Chapter 6",
+            "Fans eagerly await news"
+          ],
+          "impact": "Boosts excitement for the Deltarune series.",
+          "id": "dc7f4fc9c4648710036ddab4f630e3de"
+        },
+        {
+          "title": "EU Responds to Apple's Siri AI Decision",
+          "description": "The European Commission states that Apple's choice not to launch Siri AI in Europe is solely Apple's decision, clarifying its stance on the matter. Apple sought legal exemptions.",
+          "category": "Policy",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/09/eu-says-decision-not-to-launch-siri-ai-in-europe-is-apples/",
+          "image": "https://images.macrumors.com/t/AMzlHXYCh5f7HOPQwqP7K3rUyXI=/1600x/article-new/2026/06/Siri-AI.jpg",
+          "published_at": "2026-06-09T14:07:35Z",
+          "key_points": [
+            "EU clarifies Siri AI decision",
+            "Apple's choice is independent",
+            "Legal exemptions sought by Apple"
+          ],
+          "impact": "Highlights Apple's control over AI deployment.",
+          "id": "02759b8e8f6726c5fbe6d97a36425102"
+        }
+      ]
+    },
+    {
       "id": "2026-06-12T03:51:14.806643+00:00",
       "fetched_at": "2026-06-12T03:51:14.806643+00:00",
       "label": "Jun 12, 2026 — 03:51 AM UTC",
@@ -5480,141 +5631,6 @@
           ],
           "impact": "This title expands the Cuphead universe.",
           "id": "5ce220337601f92be380870a0aa010ac"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-06T22:02:21.961171+00:00",
-      "fetched_at": "2026-06-06T22:02:21.961171+00:00",
-      "label": "Jun 06, 2026 — 10:02 PM UTC",
-      "articles": [
-        {
-          "title": "007: First Light - A Tutorial Triumph",
-          "description": "007: First Light impresses with its exceptional tutorial, making it a standout in gaming. Released on May 27, 2026, it’s available on multiple platforms.",
-          "category": "Gaming",
-          "source": "Thejimquisition.com",
-          "url": "https://www.thejimquisition.com/post/007-first-light-007-out-of-ten-review",
-          "image": "https://static.wixstatic.com/media/a511ef_84f95722962d49aab0c5e1bf10b2a237~mv2.jpg/v1/fill/w_1000,h_563,al_c,q_85,usm_0.66_1.00_0.01/a511ef_84f95722962d49aab0c5e1bf10b2a237~mv2.jpg",
-          "published_at": "2026-06-05T19:49:46Z",
-          "key_points": [
-            "Exceptional tutorial experience",
-            "Available on multiple platforms",
-            "Developed by IO Interactive"
-          ],
-          "impact": "This game sets a new standard for tutorials.",
-          "id": "7c77a1402c315928b25b21de6070cc64"
-        },
-        {
-          "title": "TVLine's Weekly TV Questions Unpacked",
-          "description": "TVLine dives into this week's pressing TV questions, covering shows like Not Suitable For Work and Criminal Minds: Evolution. Join the conversation on pop culture.",
-          "category": "Gaming",
-          "source": "TVLine",
-          "url": "https://www.tvline.com/2188370/not-suitable-for-work-relationships-pop-culture-jeopardy-semi-final-tv-questions/",
-          "image": "https://www.tvline.com/img/gallery/tvline-asks-who-are-you-shipping-on-not-suitable-for-work-how-did-criminal-minds-escape-work-was-pop-culture-jeopardy-semi-final-too-hard-and-more/l-intro-1780671860.jpg",
-          "published_at": "2026-06-05T18:00:00Z",
-          "key_points": [
-            "Exploring Not Suitable For Work",
-            "Questions on Criminal Minds",
-            "Pop Culture Jeopardy insights"
-          ],
-          "impact": "Engaging discussions on current TV trends.",
-          "id": "94fc96aa771fa0f053b1a8a7b127bb83"
-        },
-        {
-          "title": "iPhone Ultra to Feature Touch ID",
-          "description": "Apple's upcoming iPhone Ultra, launching this fall, will introduce Touch ID instead of Face ID. This foldable model promises innovative features.",
-          "category": "Hardware",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/05/touch-id-coming-to-iphone-ultra-this-fall-heres-why/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-05T16:56:00Z",
-          "key_points": [
-            "Foldable design debut",
-            "Touch ID replaces Face ID",
-            "Launch set for fall 2026"
-          ],
-          "impact": "This could redefine user authentication on iPhones.",
-          "id": "2c7678f6351539a64bbddae7ad3c2d9a"
-        },
-        {
-          "title": "Galaxy S27 Pro Set for Major Upgrade",
-          "description": "Rumors suggest the Galaxy S27 Pro will feature significant upgrades at a lower price, positioning it as Samsung's best seller. The Galaxy S27 Ultra may miss out.",
-          "category": "Hardware",
-          "source": "Wccftech",
-          "url": "https://wccftech.com/galaxy-s27-pro-another-upgrade-to-make-it-a-best-seller/",
-          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/Galaxy-S27-2.jpg",
-          "published_at": "2026-06-05T14:08:00Z",
-          "key_points": [
-            "Galaxy S27 Pro upgrades rumored",
-            "Lower price expected",
-            "Galaxy S27 Ultra left behind"
-          ],
-          "impact": "This could shift Samsung's market strategy.",
-          "id": "b14a679304f6e529a89d216e4548553a"
-        },
-        {
-          "title": "Xbox Innovates to Cut Project Helix Costs",
-          "description": "Xbox is exploring innovative strategies to reduce the price of its upcoming Project Helix console, addressing industry pricing challenges.",
-          "category": "Gaming",
-          "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/news/2026/06/xbox-will-innovate-to-reduce-the-price-of-project-helix-suggests-asha-sharma",
-          "image": "https://images.purexbox.com/ae1440f508a2c/large.jpg",
-          "published_at": "2026-06-05T11:30:00Z",
-          "key_points": [
-            "Project Helix pricing concerns",
-            "Innovative cost-reduction strategies",
-            "Focus on affordability"
-          ],
-          "impact": "This could enhance Xbox's competitive edge.",
-          "id": "6fdb1a6b497046fb6908a76e58c14465"
-        },
-        {
-          "title": "Subnautica 2 Teases New Content",
-          "description": "Subnautica 2's developer reveals exciting updates, including a new vehicle and region focused on the Collector Leviathan, coming soon in update 1.1.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/subnautica-2-dev-reveals-what-to-expect-from-upcoming-early-access-11-update",
-          "image": "https://assets-prd.ignimgs.com/2026/06/05/screenshot-2026-06-05-103536-1780652181265.png?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-05T09:40:04Z",
-          "key_points": [
-            "New vehicle announced",
-            "Collector Leviathan region",
-            "Update 1.1 coming soon"
-          ],
-          "impact": "This update promises to enhance gameplay experience.",
-          "id": "c3f033e29eacd50665355b779cb9c394"
-        },
-        {
-          "title": "Galaxy Z Flip8 to Feature Dual Chips",
-          "description": "Samsung's Galaxy Z Flip8 will reportedly offer both Exynos and Snapdragon chips, depending on the region, enhancing its versatility.",
-          "category": "Hardware",
-          "source": "GSMArena.com",
-          "url": "https://www.gsmarena.com/samsung_galaxy_z_flip8_to_have_both_exynos_and_snapdragon_chips-news-73138.php",
-          "image": "https://fdn.gsmarena.com/imgroot/news/26/06/galaxy-z-flip8-soc-rumor/-952x498w6/gsmarena_000.jpg",
-          "published_at": "2026-06-04T21:59:02Z",
-          "key_points": [
-            "Exynos and Snapdragon options",
-            "Region-dependent chip selection",
-            "Enhanced performance expected"
-          ],
-          "impact": "This could improve user choice and performance.",
-          "id": "0b89e5f9e1d37b4e39d118e05b2da3dd"
-        },
-        {
-          "title": "Nadella Rejects AI Addiction Strategy",
-          "description": "Microsoft CEO Satya Nadella has dismissed an internal proposal aimed at making users addicted to its AI agent, Scout, emphasizing ethical considerations.",
-          "category": "Policy",
-          "source": "The Information",
-          "url": "https://www.theinformation.com/briefings/exclusive-nadella-rebukes-microsoft-executives-plan-make-users-addicted-ai-agents",
-          "image": "https://tii.imgix.net/global/defaults/article_image_unavailable.jpg",
-          "published_at": "2026-06-04T20:52:00Z",
-          "key_points": [
-            "Nadella rebukes addiction strategy",
-            "Focus on ethical AI use",
-            "Scout AI agent under scrutiny"
-          ],
-          "impact": "This stance reinforces Microsoft's commitment to ethics.",
-          "id": "7a69144288214e8715529b89d86a2acf"
         }
       ]
     }

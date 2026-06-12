@@ -5,143 +5,89 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2026 03:51:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 10:10:52 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Siri AI: Apple’s New Chatbot Knows When to Stop</title>
-      <description>Apple's Siri AI is now more concise and effective, impressing users with its curt responses. This marks a significant improvement in user interaction.</description>
-      <link>https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality</guid>
-      <pubDate>2026-06-10T22:52:17Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality">The Verge</source>
-    </item>
-    <item>
-      <title>Gears of War: E-Day Insights from Xbox Developers</title>
-      <description>IGN interviews The Coalition about Gears of War: E-Day, revealing details on game mechanics and story. Fans are eager for more lore.</description>
-      <link>https://www.ign.com/articles/gears-e-day-devs-on-gears-lore-game-length-new-movement-mechanics-and-ai</link>
-      <guid isPermaLink="true">https://www.ign.com/articles/gears-e-day-devs-on-gears-lore-game-length-new-movement-mechanics-and-ai</guid>
-      <pubDate>2026-06-10T20:56:57Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.ign.com/articles/gears-e-day-devs-on-gears-lore-game-length-new-movement-mechanics-and-ai">IGN</source>
-    </item>
-    <item>
-      <title>Destiny 3 Event Set for June 17</title>
-      <description>A new event supporting Destiny 3 is scheduled for June 17, continuing the excitement from Destiny 2. Fans are rallying online.</description>
-      <link>https://gamerant.com/new-destiny-3-event-is-officially-happening-on-june-17/</link>
-      <guid isPermaLink="true">https://gamerant.com/new-destiny-3-event-is-officially-happening-on-june-17/</guid>
-      <pubDate>2026-06-10T20:45:26Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://gamerant.com/new-destiny-3-event-is-officially-happening-on-june-17/">GameRant</source>
-    </item>
-    <item>
-      <title>Apple Unveils 250+ Changes in Latest OS Updates</title>
-      <description>Apple announced over 250 new features across iOS 27 and macOS Golden Gate during WWDC 2026. Users can expect significant enhancements.</description>
-      <link>https://www.macrumors.com/2026/06/10/apple-lists-250-changes-ios-27-and-more/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/06/10/apple-lists-250-changes-ios-27-and-more/</guid>
-      <pubDate>2026-06-10T20:34:00Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.macrumors.com/2026/06/10/apple-lists-250-changes-ios-27-and-more/">MacRumors</source>
-    </item>
-    <item>
-      <title>Framework Laptop 13 Pro Shipping Delayed to July</title>
-      <description>Framework Computer has announced a delay in shipping the Framework Laptop 13 Pro to July, pushing back the original June timeline.</description>
-      <link>https://www.phoronix.com/news/Framework-13-Pro-July</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Framework-13-Pro-July</guid>
-      <pubDate>2026-06-10T20:10:00Z</pubDate>
+      <title>Framework Delays Laptop 13 Pro Shipments</title>
+      <description>Framework's Laptop 13 Pro shipments are delayed by a month due to issues with the haptic trackpad and custom display. New expected shipping is now in July.</description>
+      <link>https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august</link>
+      <guid isPermaLink="true">https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august</guid>
+      <pubDate>2026-06-10T23:12:51Z</pubDate>
       <category>Hardware</category>
-      <source url="https://www.phoronix.com/news/Framework-13-Pro-July">Phoronix</source>
+      <source url="https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august">The Verge</source>
     </item>
     <item>
-      <title>Kingdom Hearts 3 Graphics Comparison Video Released</title>
-      <description>A new video compares graphics of Kingdom Hearts 3 on Nintendo Switch 2, PS5, and Steam Deck, showcasing performance differences.</description>
-      <link>https://nintendoeverything.com/video-kingdom-hearts-3-nintendo-switch-2-vs-ps5-vs-steam-deck-graphics-comparison/</link>
-      <guid isPermaLink="true">https://nintendoeverything.com/video-kingdom-hearts-3-nintendo-switch-2-vs-ps5-vs-steam-deck-graphics-comparison/</guid>
-      <pubDate>2026-06-10T18:52:19Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://nintendoeverything.com/video-kingdom-hearts-3-nintendo-switch-2-vs-ps5-vs-steam-deck-graphics-comparison/">Nintendoeverything.com</source>
-    </item>
-    <item>
-      <title>Fable PS5 Introduces Innovative Life Simulation</title>
-      <description>Fable PS5 features a unique life simulation loop, captivating players with its immersive world and character routines.</description>
-      <link>https://www.pushsquare.com/news/2026/06/fable-ps5s-innovative-life-sim-loop-has-me-smitten</link>
-      <guid isPermaLink="true">https://www.pushsquare.com/news/2026/06/fable-ps5s-innovative-life-sim-loop-has-me-smitten</guid>
-      <pubDate>2026-06-10T17:30:00Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.pushsquare.com/news/2026/06/fable-ps5s-innovative-life-sim-loop-has-me-smitten">Push Square</source>
-    </item>
-    <item>
-      <title>Ubisoft to Close Studios and Lay Off Employees</title>
-      <description>Ubisoft is shutting down its Winnipeg and Belgrade studios, potentially affecting up to 380 jobs as part of restructuring efforts.</description>
-      <link>https://www.gamedeveloper.com/business/ubisoft-closing-winnipeg-and-belgrade-studios-and-making-further-layoffs</link>
-      <guid isPermaLink="true">https://www.gamedeveloper.com/business/ubisoft-closing-winnipeg-and-belgrade-studios-and-making-further-layoffs</guid>
-      <pubDate>2026-06-10T17:02:37Z</pubDate>
+      <title>Ubisoft Announces Studio Closures and Layoffs</title>
+      <description>Ubisoft has closed its Winnipeg and Belgrade studios amid a new restructuring, resulting in hundreds of layoffs. This move is part of a broader organizational change.</description>
+      <link>https://gameinformer.com/2026/06/10/report-ubisoft-announces-more-studio-closures-and-layoffs-amid-new-organizational</link>
+      <guid isPermaLink="true">https://gameinformer.com/2026/06/10/report-ubisoft-announces-more-studio-closures-and-layoffs-amid-new-organizational</guid>
+      <pubDate>2026-06-10T22:57:29Z</pubDate>
       <category>Business</category>
-      <source url="https://www.gamedeveloper.com/business/ubisoft-closing-winnipeg-and-belgrade-studios-and-making-further-layoffs">Gamedeveloper.com</source>
+      <source url="https://gameinformer.com/2026/06/10/report-ubisoft-announces-more-studio-closures-and-layoffs-amid-new-organizational">Gameinformer.com</source>
     </item>
     <item>
-      <title>Killer Bean: A Disappointing Gaming Experience</title>
-      <description>Killer Bean fails to deliver despite its promising ideas, receiving negative reviews for its gameplay and execution.</description>
-      <link>https://kotaku.com/killer-bean-is-a-very-very-bad-game-2000704867</link>
-      <guid isPermaLink="true">https://kotaku.com/killer-bean-is-a-very-very-bad-game-2000704867</guid>
-      <pubDate>2026-06-10T15:45:34Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://kotaku.com/killer-bean-is-a-very-very-bad-game-2000704867">Kotaku</source>
-    </item>
-    <item>
-      <title>Lenovo Launches Rugged Android Tablet for $499</title>
-      <description>Lenovo's ThinkTab X11, a rugged Android tablet with a removable battery, is now available for purchase in the US at $499.</description>
-      <link>http://9to5google.com/2026/06/10/lenovo-thinktab-x11-android-tablet-launch/</link>
-      <guid isPermaLink="true">http://9to5google.com/2026/06/10/lenovo-thinktab-x11-android-tablet-launch/</guid>
-      <pubDate>2026-06-10T14:20:00Z</pubDate>
+      <title>Intel’s Project Firefly Unveiled</title>
+      <description>Intel's Project Firefly aims to create affordable laptops with premium features, utilizing Wildcat Lake SoCs in a sleek, ventless design. Targeting budget-conscious consumers.</description>
+      <link>https://wccftech.com/intel-project-firefly-takes-best-of-phones-to-build-laptops-in-a-slim-chassis-with-no-vents/</link>
+      <guid isPermaLink="true">https://wccftech.com/intel-project-firefly-takes-best-of-phones-to-build-laptops-in-a-slim-chassis-with-no-vents/</guid>
+      <pubDate>2026-06-10T19:56:00Z</pubDate>
       <category>Hardware</category>
-      <source url="http://9to5google.com/2026/06/10/lenovo-thinktab-x11-android-tablet-launch/">9to5google.com</source>
+      <source url="https://wccftech.com/intel-project-firefly-takes-best-of-phones-to-build-laptops-in-a-slim-chassis-with-no-vents/">Wccftech</source>
     </item>
     <item>
-      <title>Insta360 Reveals Details of Leica Gimbal Camera</title>
-      <description>Insta360 has unveiled the full details of its Leica-branded gimbal camera, Luna Ultra, after teasing it for months.</description>
-      <link>https://petapixel.com/2026/06/10/luna-ultra-insta360-finally-reveals-full-details-of-the-leica-branded-gimbal-camera/</link>
-      <guid isPermaLink="true">https://petapixel.com/2026/06/10/luna-ultra-insta360-finally-reveals-full-details-of-the-leica-branded-gimbal-camera/</guid>
-      <pubDate>2026-06-10T13:00:29Z</pubDate>
-      <category>Hardware</category>
-      <source url="https://petapixel.com/2026/06/10/luna-ultra-insta360-finally-reveals-full-details-of-the-leica-branded-gimbal-camera/">PetaPixel</source>
-    </item>
-    <item>
-      <title>Premium Editions for Xbox Games Announced</title>
-      <description>Xbox reveals premium upgrade editions for Fable, Gears, and Halo, featuring early access and exclusive content for fans.</description>
-      <link>https://www.purexbox.com/news/2026/06/heres-whats-in-the-premium-upgrade-editions-for-fable-gears-and-halo-on-xbox</link>
-      <guid isPermaLink="true">https://www.purexbox.com/news/2026/06/heres-whats-in-the-premium-upgrade-editions-for-fable-gears-and-halo-on-xbox</guid>
-      <pubDate>2026-06-10T12:30:00Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.purexbox.com/news/2026/06/heres-whats-in-the-premium-upgrade-editions-for-fable-gears-and-halo-on-xbox">Pure Xbox</source>
-    </item>
-    <item>
-      <title>Xbox Explores New Console Business Models</title>
-      <description>Microsoft is considering innovative business models for Xbox consoles to reduce costs and enhance accessibility for gamers.</description>
-      <link>https://www.theverge.com/news/947537/microsoft-xbox-console-hardware-price-changes-ramageddon</link>
-      <guid isPermaLink="true">https://www.theverge.com/news/947537/microsoft-xbox-console-hardware-price-changes-ramageddon</guid>
-      <pubDate>2026-06-10T11:04:22Z</pubDate>
-      <category>Business</category>
-      <source url="https://www.theverge.com/news/947537/microsoft-xbox-console-hardware-price-changes-ramageddon">The Verge</source>
-    </item>
-    <item>
-      <title>Fire Emblem: Fortune's Weave Inspired by Medieval Spain</title>
-      <description>Fire Emblem: Fortune's Weave features a world map influenced by medieval Spain, blending various cultural elements for a unique experience.</description>
-      <link>https://www.eurogamer.net/fire-emblem-fortunes-weave-spain-regions</link>
-      <guid isPermaLink="true">https://www.eurogamer.net/fire-emblem-fortunes-weave-spain-regions</guid>
-      <pubDate>2026-06-10T10:48:48Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.eurogamer.net/fire-emblem-fortunes-weave-spain-regions">Eurogamer.net</source>
-    </item>
-    <item>
-      <title>Instagram Introduces Photo Grid Rearrangement Feature</title>
-      <description>Instagram now allows users to manually rearrange their photo grid, fulfilling a long-requested feature for better profile customization.</description>
-      <link>https://9to5mac.com/2026/06/09/instagram-now-lets-you-rearrange-your-photos-grid/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/09/instagram-now-lets-you-rearrange-your-photos-grid/</guid>
-      <pubDate>2026-06-10T02:21:00Z</pubDate>
+      <title>Amazon’s Echo Speakers Aid Kids' Sleep</title>
+      <description>Amazon introduces Sleep Studio, enhancing Echo and Echo Kids speakers to help children wind down and fall asleep with calming stories and sounds. Aimed at improving bedtime routines.</description>
+      <link>https://www.theverge.com/tech/947871/amazon-sleep-studio-echo-kids-smart-speakers-calm-moshi-headspace</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/947871/amazon-sleep-studio-echo-kids-smart-speakers-calm-moshi-headspace</guid>
+      <pubDate>2026-06-10T16:54:17Z</pubDate>
       <category>Software</category>
-      <source url="https://9to5mac.com/2026/06/09/instagram-now-lets-you-rearrange-your-photos-grid/">9to5Mac</source>
+      <source url="https://www.theverge.com/tech/947871/amazon-sleep-studio-echo-kids-smart-speakers-calm-moshi-headspace">The Verge</source>
+    </item>
+    <item>
+      <title>PlayStation Plus Adds 8 Free Games</title>
+      <description>PlayStation Plus subscribers can enjoy eight new free games this June, expanding their gaming library. Exciting titles are now available for download.</description>
+      <link>https://www.gamingbible.com/news/platform/playstation/playstation-plus-extra-premium-june-2026-268323-20260610</link>
+      <guid isPermaLink="true">https://www.gamingbible.com/news/platform/playstation/playstation-plus-extra-premium-june-2026-268323-20260610</guid>
+      <pubDate>2026-06-10T15:49:55Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.gamingbible.com/news/platform/playstation/playstation-plus-extra-premium-june-2026-268323-20260610">Gamingbible.com</source>
+    </item>
+    <item>
+      <title>Nintendo Stock Drops After Direct</title>
+      <description>Nintendo's stock fell nearly 7% following a disappointing June Direct that lacked a new 3D Mario game, despite positive fan reactions. Investors remain cautious.</description>
+      <link>https://wccftech.com/nintendo-stock-crash-june-direct-no-3d-mario/</link>
+      <guid isPermaLink="true">https://wccftech.com/nintendo-stock-crash-june-direct-no-3d-mario/</guid>
+      <pubDate>2026-06-10T08:30:00Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://wccftech.com/nintendo-stock-crash-june-direct-no-3d-mario/">Wccftech</source>
+    </item>
+    <item>
+      <title>Street Fighter 6 DLC Reveals New Characters</title>
+      <description>Capcom reveals new details about Yasmine and Arjun, newcomers in Street Fighter 6's Season 4. Fans are excited about the latest updates.</description>
+      <link>https://www.eventhubs.com/news/2026/jun/09/street-fighter-yasmine-details/</link>
+      <guid isPermaLink="true">https://www.eventhubs.com/news/2026/jun/09/street-fighter-yasmine-details/</guid>
+      <pubDate>2026-06-09T23:22:28Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.eventhubs.com/news/2026/jun/09/street-fighter-yasmine-details/">EventHubs</source>
+    </item>
+    <item>
+      <title>Deltarune Chapter 5 Release Date Announced</title>
+      <description>Toby Fox announces the release date for Deltarune Chapter 5 and provides updates on Chapter 6, exciting fans of the series. Anticipation builds for the next installment.</description>
+      <link>https://www.ign.com/articles/deltarune-chapter-5-release-date-revealed-as-toby-fox-offers-promising-update-for-the-future</link>
+      <guid isPermaLink="true">https://www.ign.com/articles/deltarune-chapter-5-release-date-revealed-as-toby-fox-offers-promising-update-for-the-future</guid>
+      <pubDate>2026-06-09T21:42:12Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.ign.com/articles/deltarune-chapter-5-release-date-revealed-as-toby-fox-offers-promising-update-for-the-future">IGN</source>
+    </item>
+    <item>
+      <title>EU Responds to Apple's Siri AI Decision</title>
+      <description>The European Commission states that Apple's choice not to launch Siri AI in Europe is solely Apple's decision, clarifying its stance on the matter. Apple sought legal exemptions.</description>
+      <link>https://www.macrumors.com/2026/06/09/eu-says-decision-not-to-launch-siri-ai-in-europe-is-apples/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/06/09/eu-says-decision-not-to-launch-siri-ai-in-europe-is-apples/</guid>
+      <pubDate>2026-06-09T14:07:35Z</pubDate>
+      <category>Policy</category>
+      <source url="https://www.macrumors.com/2026/06/09/eu-says-decision-not-to-launch-siri-ai-in-europe-is-apples/">MacRumors</source>
     </item>
   </channel>
 </rss>

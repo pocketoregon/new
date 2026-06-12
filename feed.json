@@ -1,245 +1,149 @@
 {
-  "generated_at": "2026-06-12T03:51:14.806643+00:00",
+  "generated_at": "2026-06-12T10:10:17.981857+00:00",
   "articles": [
     {
-      "title": "Siri AI: Apple’s New Chatbot Knows When to Stop",
-      "description": "Apple's Siri AI is now more concise and effective, impressing users with its curt responses. This marks a significant improvement in user interaction.",
-      "category": "Software",
+      "title": "Framework Delays Laptop 13 Pro Shipments",
+      "description": "Framework's Laptop 13 Pro shipments are delayed by a month due to issues with the haptic trackpad and custom display. New expected shipping is now in July.",
+      "category": "Hardware",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_13193.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "published_at": "2026-06-10T22:52:17Z",
+      "url": "https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC00210_71b030.webp?quality=90&strip=all&crop=0%2C16.22192197264%2C100%2C67.55615605472&w=1200",
+      "published_at": "2026-06-10T23:12:51Z",
       "key_points": [
-        "Siri AI is more concise",
-        "Improved user interaction",
-        "Positive user feedback"
+        "Shipments delayed to July",
+        "Issues with trackpad",
+        "Custom display problems"
       ],
-      "impact": "Siri's new design enhances user experience.",
-      "id": "f79136a26bfb8de9ae71da89e829cbb1"
+      "impact": "Delays may affect customer satisfaction.",
+      "id": "e8c1163f4f6444145fbea34a23c02dd2"
     },
     {
-      "title": "Gears of War: E-Day Insights from Xbox Developers",
-      "description": "IGN interviews The Coalition about Gears of War: E-Day, revealing details on game mechanics and story. Fans are eager for more lore.",
+      "title": "Ubisoft Announces Studio Closures and Layoffs",
+      "description": "Ubisoft has closed its Winnipeg and Belgrade studios amid a new restructuring, resulting in hundreds of layoffs. This move is part of a broader organizational change.",
+      "category": "Business",
+      "source": "Gameinformer.com",
+      "url": "https://gameinformer.com/2026/06/10/report-ubisoft-announces-more-studio-closures-and-layoffs-amid-new-organizational",
+      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2021/12/21/58cb5c42/ubisoft_black_logo.jpg.webp",
+      "published_at": "2026-06-10T22:57:29Z",
+      "key_points": [
+        "Two studios closed",
+        "Hundreds laid off",
+        "Organizational restructuring"
+      ],
+      "impact": "Restructuring may impact future game development.",
+      "id": "32ada8a9f7eb85cd4db870b864e4ebb2"
+    },
+    {
+      "title": "Intel’s Project Firefly Unveiled",
+      "description": "Intel's Project Firefly aims to create affordable laptops with premium features, utilizing Wildcat Lake SoCs in a sleek, ventless design. Targeting budget-conscious consumers.",
+      "category": "Hardware",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/intel-project-firefly-takes-best-of-phones-to-build-laptops-in-a-slim-chassis-with-no-vents/",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/Intel-Firefly-Project-_-Wildcat-Lake-Core-Series-3-_F-1920x1060.jpg",
+      "published_at": "2026-06-10T19:56:00Z",
+      "key_points": [
+        "Affordable premium laptops",
+        "Ventless design",
+        "Wildcat Lake SoCs"
+      ],
+      "impact": "Project Firefly could disrupt budget laptop market.",
+      "id": "4b431527bcbcff6012eb61676d73f29e"
+    },
+    {
+      "title": "Amazon’s Echo Speakers Aid Kids' Sleep",
+      "description": "Amazon introduces Sleep Studio, enhancing Echo and Echo Kids speakers to help children wind down and fall asleep with calming stories and sounds. Aimed at improving bedtime routines.",
+      "category": "Software",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/947871/amazon-sleep-studio-echo-kids-smart-speakers-calm-moshi-headspace",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/amazonsleep1.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+      "published_at": "2026-06-10T16:54:17Z",
+      "key_points": [
+        "New Sleep Studio feature",
+        "Helps kids sleep better",
+        "Plays calming content"
+      ],
+      "impact": "Improves children's sleep experiences.",
+      "id": "c838f6455586a5a4919b93a2c5250ff5"
+    },
+    {
+      "title": "PlayStation Plus Adds 8 Free Games",
+      "description": "PlayStation Plus subscribers can enjoy eight new free games this June, expanding their gaming library. Exciting titles are now available for download.",
+      "category": "Gaming",
+      "source": "Gamingbible.com",
+      "url": "https://www.gamingbible.com/news/platform/playstation/playstation-plus-extra-premium-june-2026-268323-20260610",
+      "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt6ae1211561fed780/6a294806d561b9321b8e8291/psplusdepartures.jpg",
+      "published_at": "2026-06-10T15:49:55Z",
+      "key_points": [
+        "Eight new free games",
+        "Available for download",
+        "June offerings expanded"
+      ],
+      "impact": "Enhances PlayStation Plus value for subscribers.",
+      "id": "ea0bc68e2643efc869685ae2b2dc409c"
+    },
+    {
+      "title": "Nintendo Stock Drops After Direct",
+      "description": "Nintendo's stock fell nearly 7% following a disappointing June Direct that lacked a new 3D Mario game, despite positive fan reactions. Investors remain cautious.",
+      "category": "Gaming",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/nintendo-stock-crash-june-direct-no-3d-mario/",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2022/12/cover-home-1.jpg",
+      "published_at": "2026-06-10T08:30:00Z",
+      "key_points": [
+        "Stock fell nearly 7%",
+        "No new 3D Mario game",
+        "Investors disappointed"
+      ],
+      "impact": "Stock drop reflects investor concerns.",
+      "id": "557bc9aba2022389c206066624b9e3b8"
+    },
+    {
+      "title": "Street Fighter 6 DLC Reveals New Characters",
+      "description": "Capcom reveals new details about Yasmine and Arjun, newcomers in Street Fighter 6's Season 4. Fans are excited about the latest updates.",
+      "category": "Gaming",
+      "source": "EventHubs",
+      "url": "https://www.eventhubs.com/news/2026/jun/09/street-fighter-yasmine-details/",
+      "image": "https://media.eventhubs.com/images/2026/06/09-street-fighter-yasmine-detailst.webp",
+      "published_at": "2026-06-09T23:22:28Z",
+      "key_points": [
+        "New characters revealed",
+        "Yasmine and Arjun",
+        "Fans excited for updates"
+      ],
+      "impact": "Increases anticipation for Season 4.",
+      "id": "f73c00bb343139597b43bbdd3f13ad98"
+    },
+    {
+      "title": "Deltarune Chapter 5 Release Date Announced",
+      "description": "Toby Fox announces the release date for Deltarune Chapter 5 and provides updates on Chapter 6, exciting fans of the series. Anticipation builds for the next installment.",
       "category": "Gaming",
       "source": "IGN",
-      "url": "https://www.ign.com/articles/gears-e-day-devs-on-gears-lore-game-length-new-movement-mechanics-and-ai",
-      "image": "https://assets-prd.ignimgs.com/2026/06/10/gears-of-war-eday-br-1781083823810.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-10T20:56:57Z",
+      "url": "https://www.ign.com/articles/deltarune-chapter-5-release-date-revealed-as-toby-fox-offers-promising-update-for-the-future",
+      "image": "https://assets-prd.ignimgs.com/2026/06/09/deltarune-chapter-5-key-art-by-temmie-1781039360555.png?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-09T21:42:12Z",
       "key_points": [
-        "New game mechanics revealed",
-        "Focus on Gears lore",
-        "Developer insights shared"
+        "Chapter 5 release date revealed",
+        "Updates on Chapter 6",
+        "Fans eagerly await news"
       ],
-      "impact": "Fans anticipate exciting gameplay changes.",
-      "id": "933b1c49d396df1f47b98b0c277bd96b"
+      "impact": "Boosts excitement for the Deltarune series.",
+      "id": "dc7f4fc9c4648710036ddab4f630e3de"
     },
     {
-      "title": "Destiny 3 Event Set for June 17",
-      "description": "A new event supporting Destiny 3 is scheduled for June 17, continuing the excitement from Destiny 2. Fans are rallying online.",
-      "category": "Gaming",
-      "source": "GameRant",
-      "url": "https://gamerant.com/new-destiny-3-event-is-officially-happening-on-june-17/",
-      "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/06/image-2026-06-10t224246-895.jpg?w=1600&h=900&fit=crop",
-      "published_at": "2026-06-10T20:45:26Z",
-      "key_points": [
-        "Event supports Destiny 3",
-        "Fans rally on social media",
-        "Excitement builds for June 17"
-      ],
-      "impact": "Community engagement boosts game visibility.",
-      "id": "d1f95add7f773f657e7fb2cead3cd1f6"
-    },
-    {
-      "title": "Apple Unveils 250+ Changes in Latest OS Updates",
-      "description": "Apple announced over 250 new features across iOS 27 and macOS Golden Gate during WWDC 2026. Users can expect significant enhancements.",
-      "category": "Software",
+      "title": "EU Responds to Apple's Siri AI Decision",
+      "description": "The European Commission states that Apple's choice not to launch Siri AI in Europe is solely Apple's decision, clarifying its stance on the matter. Apple sought legal exemptions.",
+      "category": "Policy",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/10/apple-lists-250-changes-ios-27-and-more/",
-      "image": "https://images.macrumors.com/t/IrEhBGwNUTRw6pskEGLirN4Z85Y=/2500x/article-new/2026/06/Apple-Lists-250-Changes-Across-iOS-27-and-More-Feature.jpg",
-      "published_at": "2026-06-10T20:34:00Z",
+      "url": "https://www.macrumors.com/2026/06/09/eu-says-decision-not-to-launch-siri-ai-in-europe-is-apples/",
+      "image": "https://images.macrumors.com/t/AMzlHXYCh5f7HOPQwqP7K3rUyXI=/1600x/article-new/2026/06/Siri-AI.jpg",
+      "published_at": "2026-06-09T14:07:35Z",
       "key_points": [
-        "Over 250 new features",
-        "Enhancements across platforms",
-        "Announced at WWDC 2026"
+        "EU clarifies Siri AI decision",
+        "Apple's choice is independent",
+        "Legal exemptions sought by Apple"
       ],
-      "impact": "Users will enjoy a richer experience.",
-      "id": "d3d567ba55bfa88d1cf6e5ef2dae115c"
-    },
-    {
-      "title": "Framework Laptop 13 Pro Shipping Delayed to July",
-      "description": "Framework Computer has announced a delay in shipping the Framework Laptop 13 Pro to July, pushing back the original June timeline.",
-      "category": "Hardware",
-      "source": "Phoronix",
-      "url": "https://www.phoronix.com/news/Framework-13-Pro-July",
-      "image": "https://www.phoronix.net/image.php?id=2026&image=framework_13_pro_1",
-      "published_at": "2026-06-10T20:10:00Z",
-      "key_points": [
-        "Shipping delayed to July",
-        "Original date was June",
-        "Pre-order customers notified"
-      ],
-      "impact": "Customers await their laptops longer.",
-      "id": "d12f48ea55dbffc66f4d790fd7394d8e"
-    },
-    {
-      "title": "Kingdom Hearts 3 Graphics Comparison Video Released",
-      "description": "A new video compares graphics of Kingdom Hearts 3 on Nintendo Switch 2, PS5, and Steam Deck, showcasing performance differences.",
-      "category": "Gaming",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/video-kingdom-hearts-3-nintendo-switch-2-vs-ps5-vs-steam-deck-graphics-comparison/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Kingdom-Hearts-3-Switch-2-comparison.jpg",
-      "published_at": "2026-06-10T18:52:19Z",
-      "key_points": [
-        "Graphics compared across platforms",
-        "Showcases performance differences",
-        "Fans eager for visuals"
-      ],
-      "impact": "Players can choose their preferred platform.",
-      "id": "6de11c633d5657a1cc182d24d0029275"
-    },
-    {
-      "title": "Fable PS5 Introduces Innovative Life Simulation",
-      "description": "Fable PS5 features a unique life simulation loop, captivating players with its immersive world and character routines.",
-      "category": "Gaming",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/06/fable-ps5s-innovative-life-sim-loop-has-me-smitten",
-      "image": "https://images.pushsquare.com/92bd7641fa6e5/large.jpg",
-      "published_at": "2026-06-10T17:30:00Z",
-      "key_points": [
-        "Innovative life simulation",
-        "Immersive character routines",
-        "Captivating gameplay experience"
-      ],
-      "impact": "Players are excited for Fable's release.",
-      "id": "2208fee0c7d15a7cf810290d98c7598d"
-    },
-    {
-      "title": "Ubisoft to Close Studios and Lay Off Employees",
-      "description": "Ubisoft is shutting down its Winnipeg and Belgrade studios, potentially affecting up to 380 jobs as part of restructuring efforts.",
-      "category": "Business",
-      "source": "Gamedeveloper.com",
-      "url": "https://www.gamedeveloper.com/business/ubisoft-closing-winnipeg-and-belgrade-studios-and-making-further-layoffs",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltd2b0a95dd1b81811/6a298e683baf6a3f9c25d0f6/Ubisoft_Winnipeg.png?disable=upscale&width=1200&height=630&fit=crop",
-      "published_at": "2026-06-10T17:02:37Z",
-      "key_points": [
-        "Two studios to close",
-        "Up to 380 layoffs",
-        "Restructuring efforts underway"
-      ],
-      "impact": "Ubisoft faces significant operational changes.",
-      "id": "077219fc5e0440141ca64c6115e08414"
-    },
-    {
-      "title": "Killer Bean: A Disappointing Gaming Experience",
-      "description": "Killer Bean fails to deliver despite its promising ideas, receiving negative reviews for its gameplay and execution.",
-      "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/killer-bean-is-a-very-very-bad-game-2000704867",
-      "image": "https://kotaku.com/app/uploads/2026/06/ss_465fe050974396bcc5ba16666200888773132657.1920x1080-1200x675.jpg",
-      "published_at": "2026-06-10T15:45:34Z",
-      "key_points": [
-        "Disappointing gameplay experience",
-        "Promising ideas fall flat",
-        "Negative reviews received"
-      ],
-      "impact": "Players are dissatisfied with the game.",
-      "id": "5afa52efe784d6caa21d09bc6d374def"
-    },
-    {
-      "title": "Lenovo Launches Rugged Android Tablet for $499",
-      "description": "Lenovo's ThinkTab X11, a rugged Android tablet with a removable battery, is now available for purchase in the US at $499.",
-      "category": "Hardware",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/06/10/lenovo-thinktab-x11-android-tablet-launch/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/lenovo-thinkpad-x11-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-10T14:20:00Z",
-      "key_points": [
-        "Rugged Android tablet launched",
-        "Removable battery feature",
-        "Priced at $499"
-      ],
-      "impact": "Lenovo targets rugged device market.",
-      "id": "2ed2a35f07e9c642367cca86728de07a"
-    },
-    {
-      "title": "Insta360 Reveals Details of Leica Gimbal Camera",
-      "description": "Insta360 has unveiled the full details of its Leica-branded gimbal camera, Luna Ultra, after teasing it for months.",
-      "category": "Hardware",
-      "source": "PetaPixel",
-      "url": "https://petapixel.com/2026/06/10/luna-ultra-insta360-finally-reveals-full-details-of-the-leica-branded-gimbal-camera/",
-      "image": "https://petapixel.com/assets/uploads/2026/06/Luna-Ultra-Insta360-Finally-Reveals-Full-Details-of-the-Leica-Branded-Gimbal-Camera.jpg",
-      "published_at": "2026-06-10T13:00:29Z",
-      "key_points": [
-        "Luna Ultra details revealed",
-        "Leica-branded gimbal camera",
-        "Months of anticipation"
-      ],
-      "impact": "Camera enthusiasts await its release.",
-      "id": "e23adfc94ab0ece889e2c92a1f79b5bd"
-    },
-    {
-      "title": "Premium Editions for Xbox Games Announced",
-      "description": "Xbox reveals premium upgrade editions for Fable, Gears, and Halo, featuring early access and exclusive content for fans.",
-      "category": "Gaming",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/06/heres-whats-in-the-premium-upgrade-editions-for-fable-gears-and-halo-on-xbox",
-      "image": "https://images.purexbox.com/2b35a8d59a50b/large.jpg",
-      "published_at": "2026-06-10T12:30:00Z",
-      "key_points": [
-        "Premium upgrades announced",
-        "Early access perks included",
-        "Exclusive content for fans"
-      ],
-      "impact": "Fans excited for premium gaming experiences.",
-      "id": "72652a5909bd92b983d40569b7aa1d92"
-    },
-    {
-      "title": "Xbox Explores New Console Business Models",
-      "description": "Microsoft is considering innovative business models for Xbox consoles to reduce costs and enhance accessibility for gamers.",
-      "category": "Business",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/947537/microsoft-xbox-console-hardware-price-changes-ramageddon",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22012259/vpavic_4275_20201030_0033.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published_at": "2026-06-10T11:04:22Z",
-      "key_points": [
-        "New business models explored",
-        "Focus on cost reduction",
-        "Enhancing gamer accessibility"
-      ],
-      "impact": "Microsoft aims to innovate console offerings.",
-      "id": "9851075ea99b85f4d8da2d48c76446b8"
-    },
-    {
-      "title": "Fire Emblem: Fortune's Weave Inspired by Medieval Spain",
-      "description": "Fire Emblem: Fortune's Weave features a world map influenced by medieval Spain, blending various cultural elements for a unique experience.",
-      "category": "Gaming",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-spain-regions",
-      "image": "https://assetsio.gnwcdn.com/FE-Fortunes-Weave_custom_characters-and-map.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-10T10:48:48Z",
-      "key_points": [
-        "Inspired by medieval Spain",
-        "Unique cultural blend",
-        "New entry in Fire Emblem series"
-      ],
-      "impact": "Fans look forward to its release.",
-      "id": "ce60e2124d0c9b936c17e664132bc24c"
-    },
-    {
-      "title": "Instagram Introduces Photo Grid Rearrangement Feature",
-      "description": "Instagram now allows users to manually rearrange their photo grid, fulfilling a long-requested feature for better profile customization.",
-      "category": "Software",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/09/instagram-now-lets-you-rearrange-your-photos-grid/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/instagram-grid-reorder.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-10T02:21:00Z",
-      "key_points": [
-        "New grid rearrangement feature",
-        "User customization improved",
-        "Long-requested by users"
-      ],
-      "impact": "Instagram enhances user profile experience.",
-      "id": "25b6d80bad09e2df095cfa6eacdba85d"
+      "impact": "Highlights Apple's control over AI deployment.",
+      "id": "02759b8e8f6726c5fbe6d97a36425102"
     }
   ]
 }
