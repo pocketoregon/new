@@ -1,247 +1,247 @@
 {
   "date": "2026-06-13",
-  "generated_at": "2026-06-13T19:23:53.059686+00:00",
+  "generated_at": "2026-06-13T22:02:43.946082+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Pixel Watch Bands Now Available for $5",
-      "description": "Google's official Pixel Watch bands are currently priced as low as $5. This offers an affordable option for users looking to customize their devices.",
-      "category": "Hardware",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/06/12/googles-official-pixel-watch-bands-are-as-low-as-5-right-now/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Pixel-Watch-4-45mm-design-and-details-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-12T17:43:00Z",
-      "key_points": [
-        "Affordable customization options",
-        "Great for Pixel Watch users",
-        "Limited time offer"
-      ],
-      "impact": "This price drop enhances accessibility for users.",
-      "id": "331055ee60ee51e5cd06681c1d1d6466"
-    },
-    {
-      "title": "Stellar Blade Coming to Nintendo Switch 2",
-      "description": "Stellar Blade will launch on the Nintendo Switch 2 in 2026, as confirmed by developer ShiftUp. Fans are also curious about a potential Bloodrain port.",
-      "category": "Gaming",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/stellar-blade-dev-on-bringing-the-game-to-nintendo-switch-2-asked-about-bringing-over-stellar-blade-bloodrain/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Stellar-Blade-Bloodrain-Switch-2.jpg",
-      "published_at": "2026-06-12T16:57:02Z",
-      "key_points": [
-        "Switch 2 port confirmed",
-        "Bloodrain inquiry addressed",
-        "Developer ShiftUp responds"
-      ],
-      "impact": "This announcement excites fans of the franchise.",
-      "id": "4555b5c171ebb4c465bdb73244812171"
-    },
-    {
-      "title": "Hands-On with the Trump Phone",
-      "description": "The Trump phone is a midrange Android device, distinct from luxury models like the gold iPhone. It offers basic features for its target audience.",
-      "category": "Hardware",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/948464/trump-phone-t1-hands-on",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268588_I_held_trump_phone_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published_at": "2026-06-12T16:05:00Z",
-      "key_points": [
-        "Midrange Android device",
-        "Distinct from luxury phones",
-        "Basic features offered"
-      ],
-      "impact": "The phone targets a specific market segment.",
-      "id": "0015e00b78358557a73d9f05de2a508a"
-    },
-    {
-      "title": "Exclusive Cutscene from Assassin's Creed Black Flag",
-      "description": "An exclusive cutscene from the remake of Assassin's Creed Black Flag has been released. Fans can enjoy this nostalgic moment with a hot chocolate.",
-      "category": "Gaming",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-exclusive-edward-and-caroline-cutscene-ign-first",
-      "image": "https://assets-prd.ignimgs.com/2026/06/11/ignfirst-acbfr-cutscene-blogroll-1781210219348.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-12T16:00:00Z",
-      "key_points": [
-        "Exclusive cutscene released",
-        "Remake of a classic game",
-        "Nostalgic experience for fans"
-      ],
-      "impact": "This enhances excitement for the upcoming remake.",
-      "id": "8448cf62eb332e11bfd134018b4280ca"
-    },
-    {
-      "title": "Nintendo Fans React to Switch Sports Resort",
-      "description": "Nintendo fans express outrage over perceived 'colonization' in Switch Sports Resort. The backlash highlights cultural sensitivities among gamers.",
+      "title": "GameStop Employees Panic Over Pro Membership Changes",
+      "description": "GameStop's Pro Membership is set to worsen, causing unrest among employees. The shift to digital has left staff concerned about the future.",
       "category": "Gaming",
       "source": "Kotaku",
-      "url": "https://kotaku.com/fans-hate-on-switch-sports-resorts-new-sportsmates-for-colonizing-wuhu-islands-sacred-mii-territory-2000704934",
-      "image": "https://kotaku.com/app/uploads/2026/06/resort-1200x675.jpg",
-      "published_at": "2026-06-12T15:02:25Z",
+      "url": "https://kotaku.com/one-of-the-only-good-things-left-about-gamestop-is-about-to-get-worse-2000706035",
+      "image": "https://kotaku.com/app/uploads/2026/06/gamestop-1200x675.jpg",
+      "published_at": "2026-06-12T19:15:56Z",
       "key_points": [
-        "Fans criticize cultural representation",
-        "Outrage over game content",
-        "Discussion on sensitivity issues"
+        "Pro Membership changes alarm staff",
+        "Shift to digital impacts sales",
+        "Employee morale at risk"
       ],
-      "impact": "This controversy sparks broader cultural discussions.",
-      "id": "2586ac33eabfe17c650af0ffce42072d"
+      "impact": "GameStop's future may be jeopardized.",
+      "id": "cdd29b13b6a79e77c2b5a25a585be61c"
     },
     {
-      "title": "iOS 27 Introduces Landscape Mode for More Apps",
-      "description": "iOS 27 adds landscape mode to several Apple apps, enhancing usability for iPhone users. This update prepares for the upcoming 'iPhone Ultra'.",
-      "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/12/ios-27-landscape-mode-apps/",
-      "image": "https://images.macrumors.com/t/COswt9dApKmqyYm1-5PxbhsVb0k=/2302x/article-new/2026/06/iOS-27-Adds-Landscape-Mode-to-Many-Apple-Apps-Ahead-of-iPhone-Ultra-Feature.jpg",
-      "published_at": "2026-06-12T13:55:04Z",
-      "key_points": [
-        "Landscape mode for more apps",
-        "Enhances user experience",
-        "Prepares for iPhone Ultra"
-      ],
-      "impact": "This update improves functionality for users.",
-      "id": "5a677f4f69c622030f4aca34ba7009ba"
-    },
-    {
-      "title": "NVIDIA Lists RTX PRO 6000 Blackwell GPU",
-      "description": "NVIDIA has listed the RTX PRO 6000 Blackwell GPU at $13,250, though it is currently out of stock. This high-end card targets professional users.",
-      "category": "Hardware",
-      "source": "Videocardz.com",
-      "url": "https://videocardz.com/newz/nvidia-now-lists-rtx-pro-6000-blackwell-96gb-gpu-at-13250",
-      "image": "https://cdn.videocardz.com/1/2025/11/RTX-PRO-6000-ORANGE.jpg",
-      "published_at": "2026-06-12T13:38:47Z",
-      "key_points": [
-        "High-end GPU priced at $13,250",
-        "Targeted at professionals",
-        "Currently out of stock"
-      ],
-      "impact": "This pricing reflects the premium market segment.",
-      "id": "3fbc22183a7b276cf84253f560f308c0"
-    },
-    {
-      "title": "Kingdom Hearts 4 Features Unplayable Game Characters",
-      "description": "Kingdom Hearts 4's latest trailer includes characters from the now-unplayable Kingdom Hearts Union X Dark Road. This move raises eyebrows among fans.",
-      "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/kingdom-hearts-4-new-trailer-characters-union-x-dark-road-2000705991",
-      "image": "https://kotaku.com/app/uploads/2026/06/image-67-1200x675.jpg",
-      "published_at": "2026-06-12T13:38:17Z",
-      "key_points": [
-        "New trailer features unplayable characters",
-        "Fan reactions mixed",
-        "Spin-off connections highlighted"
-      ],
-      "impact": "This decision intrigues and confuses fans.",
-      "id": "71786d50618b19fb2bb8c563d55bd6c2"
-    },
-    {
-      "title": "Xbox's New Startup Animation and Features",
-      "description": "Xbox has rolled out a new startup animation along with four additional features. Users are excited about these updates.",
-      "category": "Gaming",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/06/xboxs-new-startup-animation-is-now-live-for-everyone-plus-four-other-new-features",
-      "image": "https://images.purexbox.com/d44b4cb349776/large.jpg",
-      "published_at": "2026-06-12T13:30:00Z",
-      "key_points": [
-        "New startup animation launched",
-        "Four additional features added",
-        "User excitement noted"
-      ],
-      "impact": "These updates enhance the Xbox user experience.",
-      "id": "2ce57a4c3eecae1c1d605799660e57a3"
-    },
-    {
-      "title": "RPG Maker Forum Users Archive Resources",
-      "description": "RPG Maker forum users are racing to archive valuable resources before the forum shuts down in December. This transition threatens years of community contributions.",
-      "category": "Gaming",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/rpg-maker-forum-shutting-down",
-      "image": "https://assetsio.gnwcdn.com/rpg-maker-mv.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-12T13:29:36Z",
-      "key_points": [
-        "Forum shutting down in December",
-        "Users archiving valuable resources",
-        "Community contributions at risk"
-      ],
-      "impact": "This closure impacts the RPG Maker community significantly.",
-      "id": "47c6cca2ce79d9ca4e47394670cc1b49"
-    },
-    {
-      "title": "New Pokémon Merch for Pets",
-      "description": "Pokémon has launched a new merchandise line for pets, expanding its brand into the pet market. This includes toys and accessories for animal lovers.",
+      "title": "Top 32 Multiplayer Games on Nintendo's eShop Sale",
+      "description": "Nintendo's latest eShop sale features 32 multiplayer games rated 9/10 or higher. Perfect for gamers looking to play with friends.",
       "category": "Gaming",
       "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/06/gotta-fetch-em-all-your-pet-will-love-pokemons-latest-merch-line",
-      "image": "https://images.nintendolife.com/071d5d1653c8d/large.jpg",
-      "published_at": "2026-06-12T13:15:00Z",
+      "url": "https://www.nintendolife.com/guides/32-games-you-should-check-out-in-nintendos-multiplayer-eshop-sale-europe",
+      "image": "https://images.nintendolife.com/6801085a9a922/large.jpg",
+      "published_at": "2026-06-12T18:03:25Z",
       "key_points": [
-        "New Pokémon pet merchandise launched",
-        "Includes toys and accessories",
-        "Expands brand reach"
+        "32 games rated 9/10 or higher",
+        "Focus on multiplayer experiences",
+        "Limited-time sale offers"
       ],
-      "impact": "This move taps into the pet-loving market.",
-      "id": "306d0df98a186661229d58d08eba3dab"
+      "impact": "Great deals for multiplayer gaming enthusiasts.",
+      "id": "4c2a00310db2f1e8545a435674e26085"
     },
     {
-      "title": "Xbox's Buy One, Get Two Free Sale",
-      "description": "Xbox has launched a 'Buy One, Get Two Free' sale featuring over 30 indie games. This promotion encourages gamers to explore new titles.",
+      "title": "Huawei's HarmonyOS Optimized for Minimal RAM Usage",
+      "description": "Huawei claims HarmonyOS can run on just 64KB of RAM for a year on a single battery. This optimization showcases the platform's efficiency.",
+      "category": "Software",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/huawei-executive-says-harmonyos-can-be-optimized-to-run-on-64kb-ram/",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/HarmonyOS-2.jpg",
+      "published_at": "2026-06-12T16:07:00Z",
+      "key_points": [
+        "HarmonyOS efficiency highlighted",
+        "Runs on minimal RAM",
+        "Single battery lasts a year"
+      ],
+      "impact": "Potentially revolutionizes low-power devices.",
+      "id": "60da11a569aa611c684c1a4b3b2e5a85"
+    },
+    {
+      "title": "LEGO Retiring Sets: June 2026 Update",
+      "description": "The LEGO Retiring Soon list has been updated, with major sets selling out faster than anticipated. Collectors should act quickly.",
       "category": "Gaming",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/features/30plus-of-the-best-games-in-xboxs-latest-buy-one-get-two-free-sale",
-      "image": "https://images.purexbox.com/7146e2e1b9678/large.jpg",
-      "published_at": "2026-06-12T12:07:50Z",
+      "source": "The Brick Fan",
+      "url": "https://www.thebrickfan.com/lego-retiring-soon-list-june-2026-update/",
+      "image": "https://www.thebrickfan.com/wp-content/uploads/2024/03/LEGO-Ideas-Dungeons-Dragons-Red-Dragons-Tale-21348-Cover.jpg",
+      "published_at": "2026-06-12T14:33:07Z",
       "key_points": [
-        "Indie games featured in sale",
-        "Buy one, get two free",
-        "Encourages exploration of titles"
+        "Major sets sold out quickly",
+        "Updated retiring list released",
+        "Collectors urged to buy now"
       ],
-      "impact": "This sale boosts indie game visibility.",
-      "id": "5ba6ace8268b0d717c417ba46ea117cb"
+      "impact": "LEGO enthusiasts face urgency to purchase.",
+      "id": "37ba49342d98804754542f7031afd875"
     },
     {
-      "title": "AMD Denies Researcher Bounty After Delay",
-      "description": "AMD has denied a $10,000 bounty to a researcher after a lengthy delay in patching a security flaw. This has sparked criticism regarding their response.",
-      "category": "Security",
-      "source": "TechSpot",
-      "url": "https://www.techspot.com/news/112746-amd-changes-rules-denies-researcher-10000-bounty-after.html",
-      "image": "https://www.techspot.com/images2/news/bigimage/2026/06/2026-06-12-image-9.jpg",
-      "published_at": "2026-06-12T12:03:00Z",
+      "title": "New Warhammer 40,000 Event Companions Available",
+      "description": "Warhammer 40,000 introduces new event rules and terrain layouts for tournaments. Players can now enjoy enhanced gameplay experiences.",
+      "category": "Gaming",
+      "source": "Warhammer Community",
+      "url": "https://www.warhammer-community.com/articles/lszdpzmc/new40k-download-the-new-event-companions-today",
+      "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/40k_tournamentcompanion-jun12-1-feature-3k0fswx3hi.jpg",
+      "published_at": "2026-06-12T13:58:02Z",
       "key_points": [
-        "AMD denies bounty to researcher",
-        "Criticism over response time",
-        "Security flaw patched after delay"
+        "New event rules introduced",
+        "Terrain layouts for tournaments",
+        "Enhanced gameplay experiences"
       ],
-      "impact": "This incident raises concerns about AMD's practices.",
-      "id": "d3dc826bea9e734ac2ca0544a281d61b"
+      "impact": "Improves competitive play in Warhammer 40K.",
+      "id": "262c69cb9754ce1ff8bad3b87055a8d1"
     },
     {
-      "title": "Xbox Predicts Storage Cost Surge by 2027",
-      "description": "An internal Xbox memo predicts a fivefold increase in storage and memory costs by holiday 2027. This reflects ongoing industry challenges.",
-      "category": "Business",
-      "source": "Digitalfoundry.net",
-      "url": "https://www.digitalfoundry.net/news/2026/06/xbox-memo-predicts-over-5x-increase-in-storage-and-memory-costs-by-holiday-2027",
-      "image": "https://images.digitalfoundry.net/bb17f4eb06b7a/large.jpg",
-      "published_at": "2026-06-12T10:51:00Z",
+      "title": "Forza Horizon 6 Save Bug Fix Released",
+      "description": "A fix for the save-erasing bug in Forza Horizon 6 is rolling out today, allowing players to safely return to the game.",
+      "category": "Gaming",
+      "source": "TrueAchievements",
+      "url": "https://www.trueachievements.com/news/forza-horizon-6-save-bug-fix",
+      "image": "https://www.trueachievements.com/imgs/176053/forza-horizon-6-save-bug-fix.jpg",
+      "published_at": "2026-06-12T13:15:43Z",
       "key_points": [
-        "Predicted cost increase by 2027",
-        "Industry-wide components crisis",
-        "Internal memo reveals concerns"
+        "Save bug fix rolling out",
+        "Players can return safely",
+        "Playground Games addresses issues"
       ],
-      "impact": "This forecast highlights future industry challenges.",
-      "id": "50b9d50e78d58d8bdefdc462f81b6a20"
+      "impact": "Restores player confidence in the game.",
+      "id": "24c91fb74a262a16ad539b36baa92be6"
     },
     {
-      "title": "Nintendo's Legal Battle Over Palworld",
-      "description": "Nintendo attempted to block Palworld but now faces a minimal payout of $30,000. The outcome reflects challenges in IP enforcement.",
-      "category": "Geopolitics",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTlJDQ01lRzBUcmxMVzhfWjFnbG1nQVptMm0tUUZqTDNDNDBlUzBOLVhGNWhLQjB2RnFfYmk3MzVYZmJ5Q1c1T2p1cXNjME5IcGZzSy10TVRYZEdFZlFSaEFlZ0l0cjk1ajRHYU9xNHJBVmxMcUVkUEh6VTZuUXVBcEdvOWdGTWk5YWJwcEdqWEo0RDN5YUZ3WDF0cGlMM0RvakYxdnR0alBvMGFNaFpsRXE3TzdrYkpaWGNRcWlsRXFFTXdHVU50UWZ3?oc=5",
-      "image": "",
-      "published_at": "2026-06-12T10:28:48Z",
+      "title": "Crimson Desert Patch Adds New Features",
+      "description": "The latest patch for Crimson Desert introduces a petting zoo and restores lost rare items. Players can enjoy new content and improvements.",
+      "category": "Gaming",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/06/12/new-crimson-desert-patch-adds-a-petting-zoo-lost-rare-item-return/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/69c6841e85f3f3f7b83007ef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published_at": "2026-06-12T12:57:43Z",
       "key_points": [
-        "Nintendo's legal attempt fails",
-        "Minimal payout of $30,000",
-        "Challenges in IP enforcement"
+        "New petting zoo feature",
+        "Restores lost rare items",
+        "Regular updates keep game fresh"
       ],
-      "impact": "This case highlights difficulties in copyright protection.",
-      "id": "933ff71517c8f86add3a7b1f88b32988"
+      "impact": "Enhances player engagement in Crimson Desert.",
+      "id": "8a2111a85382f7815a95e60eab734b02"
+    },
+    {
+      "title": "Vibe Coding Declared Outdated by Karpathy",
+      "description": "Andrej Karpathy has moved on from vibe coding, signaling a shift in engineering trends. This change may impact founders and developers.",
+      "category": "Software",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/jodiecook/2026/06/12/is-vibe-coding-already-dead-even-karpathy-is-moving-on/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a2b06275c456e87cdb5e3e6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published_at": "2026-06-12T12:00:00Z",
+      "key_points": [
+        "Karpathy moves on from vibe coding",
+        "Shift in engineering trends",
+        "Impact on founders and developers"
+      ],
+      "impact": "Signals a new direction in coding practices.",
+      "id": "0326131088fbd78240702a5cacae4fcf"
+    },
+    {
+      "title": "Galaxy Phones Get Long-Awaited Network Speed Meter",
+      "description": "Samsung's One UI 9 introduces a network speed meter for Galaxy phones, allowing users to monitor real-time speeds easily.",
+      "category": "Software",
+      "source": "Android Central",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-phones-are-finally-getting-a-feature-android-users-have-wanted-for-years",
+      "image": "https://cdn.mos.cms.futurecdn.net/7yDjB7Dppc8HUjCyREPkr5-2560-80.jpg",
+      "published_at": "2026-06-12T10:57:44Z",
+      "key_points": [
+        "Network speed meter added",
+        "Real-time speed monitoring",
+        "One UI 9 update released"
+      ],
+      "impact": "Enhances user experience on Galaxy devices.",
+      "id": "2fde45f48a96299b43f7de019dedc38e"
+    },
+    {
+      "title": "FromSoftware Rejects Investor Pressure for Safer Sequels",
+      "description": "FromSoftware's director Miyazaki refuses to compromise on creative freedom despite investor demands for safer game sequels.",
+      "category": "Gaming",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/elden-ring-bloodborne-developer-fromsoftware-rejects-safer-sequels/",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/Elden-Ring-FromSoftware-Miyazaki-Investors-Pressure.jpg",
+      "published_at": "2026-06-12T09:47:00Z",
+      "key_points": [
+        "Miyazaki defends creative freedom",
+        "Rejects investor demands",
+        "Commitment to unique game experiences"
+      ],
+      "impact": "Ensures continued innovation in gaming.",
+      "id": "99173b6b6734ae6da3c80a69893892e8"
+    },
+    {
+      "title": "Strava Enhances Hiking Tools with New Features",
+      "description": "Strava has upgraded its hiking tools, adding better maps and route planning features, including enhancements for Apple Watch users.",
+      "category": "Software",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/11/strava-expands-hiking-tools-with-better-maps-route-planning-and-trail-navigation/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/strava-hike.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-12T00:02:00Z",
+      "key_points": [
+        "New hiking maps introduced",
+        "Improved route planning tools",
+        "Apple Watch app enhancements"
+      ],
+      "impact": "Boosts outdoor activity engagement.",
+      "id": "dacd5fbb7bb8690ca2f86fa87a3ac753"
+    },
+    {
+      "title": "Starfield Patch Addresses Major Crashing Issue",
+      "description": "A new patch for Starfield aims to fix significant crashing issues on PS5, two months post-launch. Players can expect improved stability.",
+      "category": "Gaming",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/06/starfield-patch-promises-to-fix-its-biggest-crashing-issue-on-ps5-two-months-after-launch",
+      "image": "https://images.pushsquare.com/c5dc9d094a12b/large.jpg",
+      "published_at": "2026-06-11T23:45:00Z",
+      "key_points": [
+        "Patch fixes crashing issues",
+        "Improves PS5 game stability",
+        "Two months after launch"
+      ],
+      "impact": "Enhances gameplay experience for players.",
+      "id": "1ff8bec645c5e57693deba101476aacd"
+    },
+    {
+      "title": "Waze Introduces Traffic Lights in Navigation",
+      "description": "Waze is rolling out traffic light visibility in navigation, enhancing route awareness for users. The feature is gradually becoming available.",
+      "category": "Software",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/06/11/waze-now-shows-traffic-lights-on-your-route-but-its-rolling-out-slowly/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/waze-logo-2024.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-11T20:55:00Z",
+      "key_points": [
+        "Traffic lights visible in navigation",
+        "Gradual rollout of feature",
+        "Improves route awareness"
+      ],
+      "impact": "Enhances navigation experience for users.",
+      "id": "f2cd3ccdd35f411c474392349d2bbad5"
+    },
+    {
+      "title": "Final Fantasy 7 Director Critiques Streaming Impact",
+      "description": "Final Fantasy 7 Revelation's director believes streaming is causing a crisis for RPGs, affecting how fans engage with games.",
+      "category": "Gaming",
+      "source": "Nintendo Everything",
+      "url": "https://nintendoeverything.com/final-fantasy-7-revelation-director-feels-streamers-are-causing-a-bit-of-a-crisis-for-rpgs/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Final-Fantasy-RPGs-crisis.jpg",
+      "published_at": "2026-06-11T20:01:55Z",
+      "key_points": [
+        "Streaming impacts RPG engagement",
+        "Director expresses concerns",
+        "Crisis for RPGs noted"
+      ],
+      "impact": "Highlights challenges facing the RPG genre.",
+      "id": "951cf0f8b09fcb3154ad0a1f2bd70f82"
+    },
+    {
+      "title": "RPG Maker to Delete 14 Years of Community Content",
+      "description": "RPG Maker's forums will close, erasing 14 years of community content without backup. Fans have limited time to save resources.",
+      "category": "Gaming",
+      "source": "Dexerto",
+      "url": "https://www.dexerto.com/gaming/rpg-maker-is-deleting-14-years-of-community-content-and-fans-have-days-to-save-them-3374972/",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/11/RPG-maker-forums-closing.jpg",
+      "published_at": "2026-06-11T19:45:08Z",
+      "key_points": [
+        "Forums closing in December",
+        "14 years of content lost",
+        "Fans urged to save resources"
+      ],
+      "impact": "Community resources face permanent loss.",
+      "id": "53d20cd517425a8d535cbf67cdfcb43a"
     }
   ]
 }

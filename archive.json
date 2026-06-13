@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-13T22:02:43.946082+00:00",
+      "fetched_at": "2026-06-13T22:02:43.946082+00:00",
+      "label": "Jun 13, 2026 — 10:03 PM UTC",
+      "articles": [
+        {
+          "title": "GameStop Employees Panic Over Pro Membership Changes",
+          "description": "GameStop's Pro Membership is set to worsen, causing unrest among employees. The shift to digital has left staff concerned about the future.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/one-of-the-only-good-things-left-about-gamestop-is-about-to-get-worse-2000706035",
+          "image": "https://kotaku.com/app/uploads/2026/06/gamestop-1200x675.jpg",
+          "published_at": "2026-06-12T19:15:56Z",
+          "key_points": [
+            "Pro Membership changes alarm staff",
+            "Shift to digital impacts sales",
+            "Employee morale at risk"
+          ],
+          "impact": "GameStop's future may be jeopardized.",
+          "id": "cdd29b13b6a79e77c2b5a25a585be61c"
+        },
+        {
+          "title": "Top 32 Multiplayer Games on Nintendo's eShop Sale",
+          "description": "Nintendo's latest eShop sale features 32 multiplayer games rated 9/10 or higher. Perfect for gamers looking to play with friends.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/guides/32-games-you-should-check-out-in-nintendos-multiplayer-eshop-sale-europe",
+          "image": "https://images.nintendolife.com/6801085a9a922/large.jpg",
+          "published_at": "2026-06-12T18:03:25Z",
+          "key_points": [
+            "32 games rated 9/10 or higher",
+            "Focus on multiplayer experiences",
+            "Limited-time sale offers"
+          ],
+          "impact": "Great deals for multiplayer gaming enthusiasts.",
+          "id": "4c2a00310db2f1e8545a435674e26085"
+        },
+        {
+          "title": "Huawei's HarmonyOS Optimized for Minimal RAM Usage",
+          "description": "Huawei claims HarmonyOS can run on just 64KB of RAM for a year on a single battery. This optimization showcases the platform's efficiency.",
+          "category": "Software",
+          "source": "Wccftech",
+          "url": "https://wccftech.com/huawei-executive-says-harmonyos-can-be-optimized-to-run-on-64kb-ram/",
+          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/HarmonyOS-2.jpg",
+          "published_at": "2026-06-12T16:07:00Z",
+          "key_points": [
+            "HarmonyOS efficiency highlighted",
+            "Runs on minimal RAM",
+            "Single battery lasts a year"
+          ],
+          "impact": "Potentially revolutionizes low-power devices.",
+          "id": "60da11a569aa611c684c1a4b3b2e5a85"
+        },
+        {
+          "title": "LEGO Retiring Sets: June 2026 Update",
+          "description": "The LEGO Retiring Soon list has been updated, with major sets selling out faster than anticipated. Collectors should act quickly.",
+          "category": "Gaming",
+          "source": "The Brick Fan",
+          "url": "https://www.thebrickfan.com/lego-retiring-soon-list-june-2026-update/",
+          "image": "https://www.thebrickfan.com/wp-content/uploads/2024/03/LEGO-Ideas-Dungeons-Dragons-Red-Dragons-Tale-21348-Cover.jpg",
+          "published_at": "2026-06-12T14:33:07Z",
+          "key_points": [
+            "Major sets sold out quickly",
+            "Updated retiring list released",
+            "Collectors urged to buy now"
+          ],
+          "impact": "LEGO enthusiasts face urgency to purchase.",
+          "id": "37ba49342d98804754542f7031afd875"
+        },
+        {
+          "title": "New Warhammer 40,000 Event Companions Available",
+          "description": "Warhammer 40,000 introduces new event rules and terrain layouts for tournaments. Players can now enjoy enhanced gameplay experiences.",
+          "category": "Gaming",
+          "source": "Warhammer Community",
+          "url": "https://www.warhammer-community.com/articles/lszdpzmc/new40k-download-the-new-event-companions-today",
+          "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/40k_tournamentcompanion-jun12-1-feature-3k0fswx3hi.jpg",
+          "published_at": "2026-06-12T13:58:02Z",
+          "key_points": [
+            "New event rules introduced",
+            "Terrain layouts for tournaments",
+            "Enhanced gameplay experiences"
+          ],
+          "impact": "Improves competitive play in Warhammer 40K.",
+          "id": "262c69cb9754ce1ff8bad3b87055a8d1"
+        },
+        {
+          "title": "Forza Horizon 6 Save Bug Fix Released",
+          "description": "A fix for the save-erasing bug in Forza Horizon 6 is rolling out today, allowing players to safely return to the game.",
+          "category": "Gaming",
+          "source": "TrueAchievements",
+          "url": "https://www.trueachievements.com/news/forza-horizon-6-save-bug-fix",
+          "image": "https://www.trueachievements.com/imgs/176053/forza-horizon-6-save-bug-fix.jpg",
+          "published_at": "2026-06-12T13:15:43Z",
+          "key_points": [
+            "Save bug fix rolling out",
+            "Players can return safely",
+            "Playground Games addresses issues"
+          ],
+          "impact": "Restores player confidence in the game.",
+          "id": "24c91fb74a262a16ad539b36baa92be6"
+        },
+        {
+          "title": "Crimson Desert Patch Adds New Features",
+          "description": "The latest patch for Crimson Desert introduces a petting zoo and restores lost rare items. Players can enjoy new content and improvements.",
+          "category": "Gaming",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/06/12/new-crimson-desert-patch-adds-a-petting-zoo-lost-rare-item-return/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/69c6841e85f3f3f7b83007ef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-12T12:57:43Z",
+          "key_points": [
+            "New petting zoo feature",
+            "Restores lost rare items",
+            "Regular updates keep game fresh"
+          ],
+          "impact": "Enhances player engagement in Crimson Desert.",
+          "id": "8a2111a85382f7815a95e60eab734b02"
+        },
+        {
+          "title": "Vibe Coding Declared Outdated by Karpathy",
+          "description": "Andrej Karpathy has moved on from vibe coding, signaling a shift in engineering trends. This change may impact founders and developers.",
+          "category": "Software",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/jodiecook/2026/06/12/is-vibe-coding-already-dead-even-karpathy-is-moving-on/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a2b06275c456e87cdb5e3e6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-12T12:00:00Z",
+          "key_points": [
+            "Karpathy moves on from vibe coding",
+            "Shift in engineering trends",
+            "Impact on founders and developers"
+          ],
+          "impact": "Signals a new direction in coding practices.",
+          "id": "0326131088fbd78240702a5cacae4fcf"
+        },
+        {
+          "title": "Galaxy Phones Get Long-Awaited Network Speed Meter",
+          "description": "Samsung's One UI 9 introduces a network speed meter for Galaxy phones, allowing users to monitor real-time speeds easily.",
+          "category": "Software",
+          "source": "Android Central",
+          "url": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-phones-are-finally-getting-a-feature-android-users-have-wanted-for-years",
+          "image": "https://cdn.mos.cms.futurecdn.net/7yDjB7Dppc8HUjCyREPkr5-2560-80.jpg",
+          "published_at": "2026-06-12T10:57:44Z",
+          "key_points": [
+            "Network speed meter added",
+            "Real-time speed monitoring",
+            "One UI 9 update released"
+          ],
+          "impact": "Enhances user experience on Galaxy devices.",
+          "id": "2fde45f48a96299b43f7de019dedc38e"
+        },
+        {
+          "title": "FromSoftware Rejects Investor Pressure for Safer Sequels",
+          "description": "FromSoftware's director Miyazaki refuses to compromise on creative freedom despite investor demands for safer game sequels.",
+          "category": "Gaming",
+          "source": "Wccftech",
+          "url": "https://wccftech.com/elden-ring-bloodborne-developer-fromsoftware-rejects-safer-sequels/",
+          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/Elden-Ring-FromSoftware-Miyazaki-Investors-Pressure.jpg",
+          "published_at": "2026-06-12T09:47:00Z",
+          "key_points": [
+            "Miyazaki defends creative freedom",
+            "Rejects investor demands",
+            "Commitment to unique game experiences"
+          ],
+          "impact": "Ensures continued innovation in gaming.",
+          "id": "99173b6b6734ae6da3c80a69893892e8"
+        },
+        {
+          "title": "Strava Enhances Hiking Tools with New Features",
+          "description": "Strava has upgraded its hiking tools, adding better maps and route planning features, including enhancements for Apple Watch users.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/11/strava-expands-hiking-tools-with-better-maps-route-planning-and-trail-navigation/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/strava-hike.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-12T00:02:00Z",
+          "key_points": [
+            "New hiking maps introduced",
+            "Improved route planning tools",
+            "Apple Watch app enhancements"
+          ],
+          "impact": "Boosts outdoor activity engagement.",
+          "id": "dacd5fbb7bb8690ca2f86fa87a3ac753"
+        },
+        {
+          "title": "Starfield Patch Addresses Major Crashing Issue",
+          "description": "A new patch for Starfield aims to fix significant crashing issues on PS5, two months post-launch. Players can expect improved stability.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/starfield-patch-promises-to-fix-its-biggest-crashing-issue-on-ps5-two-months-after-launch",
+          "image": "https://images.pushsquare.com/c5dc9d094a12b/large.jpg",
+          "published_at": "2026-06-11T23:45:00Z",
+          "key_points": [
+            "Patch fixes crashing issues",
+            "Improves PS5 game stability",
+            "Two months after launch"
+          ],
+          "impact": "Enhances gameplay experience for players.",
+          "id": "1ff8bec645c5e57693deba101476aacd"
+        },
+        {
+          "title": "Waze Introduces Traffic Lights in Navigation",
+          "description": "Waze is rolling out traffic light visibility in navigation, enhancing route awareness for users. The feature is gradually becoming available.",
+          "category": "Software",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/11/waze-now-shows-traffic-lights-on-your-route-but-its-rolling-out-slowly/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/waze-logo-2024.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-11T20:55:00Z",
+          "key_points": [
+            "Traffic lights visible in navigation",
+            "Gradual rollout of feature",
+            "Improves route awareness"
+          ],
+          "impact": "Enhances navigation experience for users.",
+          "id": "f2cd3ccdd35f411c474392349d2bbad5"
+        },
+        {
+          "title": "Final Fantasy 7 Director Critiques Streaming Impact",
+          "description": "Final Fantasy 7 Revelation's director believes streaming is causing a crisis for RPGs, affecting how fans engage with games.",
+          "category": "Gaming",
+          "source": "Nintendo Everything",
+          "url": "https://nintendoeverything.com/final-fantasy-7-revelation-director-feels-streamers-are-causing-a-bit-of-a-crisis-for-rpgs/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Final-Fantasy-RPGs-crisis.jpg",
+          "published_at": "2026-06-11T20:01:55Z",
+          "key_points": [
+            "Streaming impacts RPG engagement",
+            "Director expresses concerns",
+            "Crisis for RPGs noted"
+          ],
+          "impact": "Highlights challenges facing the RPG genre.",
+          "id": "951cf0f8b09fcb3154ad0a1f2bd70f82"
+        },
+        {
+          "title": "RPG Maker to Delete 14 Years of Community Content",
+          "description": "RPG Maker's forums will close, erasing 14 years of community content without backup. Fans have limited time to save resources.",
+          "category": "Gaming",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/gaming/rpg-maker-is-deleting-14-years-of-community-content-and-fans-have-days-to-save-them-3374972/",
+          "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/11/RPG-maker-forums-closing.jpg",
+          "published_at": "2026-06-11T19:45:08Z",
+          "key_points": [
+            "Forums closing in December",
+            "14 years of content lost",
+            "Fans urged to save resources"
+          ],
+          "impact": "Community resources face permanent loss.",
+          "id": "53d20cd517425a8d535cbf67cdfcb43a"
+        }
+      ]
+    },
+    {
       "id": "2026-06-13T19:23:53.059686+00:00",
       "fetched_at": "2026-06-13T19:23:53.059686+00:00",
       "label": "Jun 13, 2026 — 07:24 PM UTC",
@@ -5752,189 +5999,6 @@
           ],
           "impact": "This pressure may influence future game development.",
           "id": "90743dc898fa68212a06e631cf9c63b7"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-08T03:54:45.133163+00:00",
-      "fetched_at": "2026-06-08T03:54:45.133163+00:00",
-      "label": "Jun 08, 2026 — 03:55 AM UTC",
-      "articles": [
-        {
-          "title": "Star Trek: Shadow Frontier Unveiled for Multiple Platforms",
-          "description": "Bloober Team announces Star Trek: Shadow Frontier, a psychological thriller launching on PS5, Xbox Series, Switch 2, and PC. Fans can expect an immersive sci-fi experience.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/bloober-team-announces-psychological-thriller-star-trek-shadow-frontier-for-ps5-xbox-series-switch-2-and-pc",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Star-Trek-Shadow-Frontier-Announce_06-06-26.jpg",
-          "published_at": "2026-06-06T23:12:57Z",
-          "key_points": [
-            "Psychological thriller genre",
-            "Multiple platform release",
-            "Developed by Bloober Team"
-          ],
-          "impact": "This game expands the Star Trek universe.",
-          "id": "cae3361f076c70fb33e2d19d04ba9d20"
-        },
-        {
-          "title": "Stellar Blade: Blood Rain Trailer Criticized for AI Use",
-          "description": "The reveal trailer for Stellar Blade: Blood Rain faces backlash for heavy reliance on generative AI. Fans express disappointment over the artistic integrity.",
-          "category": "Gaming",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/06/stellar-blade-blood-rains-reveal-is-allegedly-riddled-with-generative-ai",
-          "image": "https://images.pushsquare.com/819425a793272/large.jpg",
-          "published_at": "2026-06-06T21:57:59Z",
-          "key_points": [
-            "Generative AI controversy",
-            "Fan disappointment",
-            "Artistic integrity questioned"
-          ],
-          "impact": "Concerns over AI may affect game reception.",
-          "id": "8173ee7a352954e79e092faf1b368380"
-        },
-        {
-          "title": "iOS 27 Launching Monday with Major Updates",
-          "description": "iOS 27 is set to launch, featuring significant stability improvements and new Apple Intelligence capabilities. Updates are tailored for Apple's foldable iPhone.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/06/ios-27-new-features/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27-guide.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-06T19:21:00Z",
-          "key_points": [
-            "Major stability improvements",
-            "New Apple Intelligence features",
-            "Foldable iPhone updates"
-          ],
-          "impact": "iOS 27 aims to enhance user experience.",
-          "id": "115321ef87439d9108120c2fd07432e8"
-        },
-        {
-          "title": "WWDC 2026: Anticipated Siri Overhaul and Updates",
-          "description": "WWDC 2026 is approaching, promising a major Siri revamp and new Apple Intelligence features. Excitement builds for Apple's latest innovations.",
-          "category": "Software",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/03/Apple-WWDC26-event-branding_big.jpg.large_.jpg?w=980",
-          "published_at": "2026-06-06T18:13:36Z",
-          "key_points": [
-            "Siri revamp expected",
-            "New Apple Intelligence features",
-            "Excitement for innovations"
-          ],
-          "impact": "WWDC 2026 could redefine Apple's software.",
-          "id": "fa9b3f426447e528fbfbf0586790f26f"
-        },
-        {
-          "title": "Bungie Offers Free Marathon Game After Misleading Description",
-          "description": "Bungie addresses a misleading PS5 store description by giving affected fans full access to the Marathon game. The company aims to rectify the situation.",
-          "category": "Gaming",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/06/bungie-fixes-marathon-mess-by-giving-away-full-game-to-fans-who-purchased-due-to-misleading-ps5-store-description",
-          "image": "https://images.pushsquare.com/a527b100205fa/large.jpg",
-          "published_at": "2026-06-06T16:00:00Z",
-          "key_points": [
-            "Misleading store description",
-            "Free game offer",
-            "Bungie's customer service"
-          ],
-          "impact": "Bungie's response may restore fan trust.",
-          "id": "baff7edec5c4d3f5b820b4cb7faf5638"
-        },
-        {
-          "title": "007 First Light Roadmap Confirms Switch 2 Release",
-          "description": "IO Interactive reveals the Year One roadmap for 007 First Light, confirming its release window for Switch 2. The game is already available on other platforms.",
-          "category": "Gaming",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/06/007-first-light-year-one-roadmap-revealed-reconfirms-switch-2-release-window",
-          "image": "https://images.nintendolife.com/a0c39b88e69d6/large.jpg",
-          "published_at": "2026-06-06T12:30:00Z",
-          "key_points": [
-            "Year One roadmap revealed",
-            "Switch 2 release confirmed",
-            "Sales update shared"
-          ],
-          "impact": "Fans await the Switch 2 launch eagerly.",
-          "id": "f64b29d9778b897cb4aa7c1a3de5678c"
-        },
-        {
-          "title": "HP Unveils Powerful AI PC with Nvidia GB300",
-          "description": "HP introduces the Nvidia GB300 workstation, the most powerful Windows AI PC, capable of handling one trillion parameters. It features 784GB unified memory.",
-          "category": "Hardware",
-          "source": "TechRadar",
-          "url": "https://www.techradar.com/pro/hp-announces-the-most-powerful-windows-ai-pc-ever-built-nvidia-gb300-workstation-can-handle-one-trillion-parameters-thanks-to-its-784gb-unified-memory-but-it-wont-be-cheap",
-          "image": "https://cdn.mos.cms.futurecdn.net/sjKs9hHvJ2otwxt3RBzLRM-1920-80.jpg",
-          "published_at": "2026-06-06T01:05:00Z",
-          "key_points": [
-            "Most powerful Windows AI PC",
-            "784GB unified memory",
-            "Handles one trillion parameters"
-          ],
-          "impact": "This PC sets a new performance standard.",
-          "id": "0fc21afa4732ad666e1ab53dc91aa5c6"
-        },
-        {
-          "title": "Tupac Shakur Joins SEGA’s Stranger Than Heaven",
-          "description": "Tupac Shakur will appear in SEGA’s upcoming game, Stranger Than Heaven, alongside notable actors. The game is highly anticipated.",
-          "category": "Gaming",
-          "source": "Gamespress.com",
-          "url": "https://www.gamespress.com/TUPAC-SHAKUR-JOINS-SEGAS-STRANGER-THAN-HEAVEN",
-          "image": "",
-          "published_at": "2026-06-05T23:59:08Z",
-          "key_points": [
-            "Tupac joins game cast",
-            "Highly anticipated title",
-            "Collaboration with RGG Studio"
-          ],
-          "impact": "This adds star power to the game.",
-          "id": "d4c1868ba8cbb2822916f90d4d68e7e2"
-        },
-        {
-          "title": "Gemini App Integrates Google Contacts for Insights",
-          "description": "The Gemini app introduces Google Contacts integration, enhancing personalized insights and responses. This feature aims to improve user experience.",
-          "category": "Software",
-          "source": "9to5google.com",
-          "url": "http://9to5google.com/2026/06/05/gemini-google-contacts/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Gemini-app-Contacts.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-05T23:04:00Z",
-          "key_points": [
-            "New Google Contacts integration",
-            "Personalized insights",
-            "Enhanced user experience"
-          ],
-          "impact": "This feature boosts Gemini's functionality.",
-          "id": "63393e5d54e184a985e3d15d4e2a1551"
-        },
-        {
-          "title": "Blood Message Releases Story Trailer",
-          "description": "NetEase Games and 24 Entertainment unveil a story trailer for Blood Message, a cinematic action-adventure game. The trailer showcases its narrative depth.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/blood-message-hold-till-dawn-story-trailer",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Blood-Message-PV_06-05-26.jpg",
-          "published_at": "2026-06-05T21:20:43Z",
-          "key_points": [
-            "Cinematic story trailer released",
-            "Single-player action-adventure",
-            "Narrative-driven gameplay"
-          ],
-          "impact": "The trailer heightens anticipation for the game.",
-          "id": "a968375da7ce221aa1717c586356beff"
-        },
-        {
-          "title": "Valve Announces Steam Machine Release Window",
-          "description": "Valve confirms the release window for its Steam Machine and Steam Frame hardware this summer. Pricing details remain undisclosed.",
-          "category": "Gaming",
-          "source": "Android Authority",
-          "url": "https://www.androidauthority.com/valve-steam-machine-release-window-3675116/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/Valve-Steam-Machine-wood-cover.jpg",
-          "published_at": "2026-06-05T17:46:54Z",
-          "key_points": [
-            "Steam Machine release confirmed",
-            "Steam Frame coming soon",
-            "Pricing still unknown"
-          ],
-          "impact": "Valve's hardware launch could reshape gaming.",
-          "id": "e52d24c66585b071b9d20edf29967e7a"
         }
       ]
     }
