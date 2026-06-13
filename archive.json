@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-13T19:23:53.059686+00:00",
+      "fetched_at": "2026-06-13T19:23:53.059686+00:00",
+      "label": "Jun 13, 2026 — 07:24 PM UTC",
+      "articles": [
+        {
+          "title": "Pixel Watch Bands Now Available for $5",
+          "description": "Google's official Pixel Watch bands are currently priced as low as $5. This offers an affordable option for users looking to customize their devices.",
+          "category": "Hardware",
+          "source": "9to5google.com",
+          "url": "http://9to5google.com/2026/06/12/googles-official-pixel-watch-bands-are-as-low-as-5-right-now/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Pixel-Watch-4-45mm-design-and-details-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-12T17:43:00Z",
+          "key_points": [
+            "Affordable customization options",
+            "Great for Pixel Watch users",
+            "Limited time offer"
+          ],
+          "impact": "This price drop enhances accessibility for users.",
+          "id": "331055ee60ee51e5cd06681c1d1d6466"
+        },
+        {
+          "title": "Stellar Blade Coming to Nintendo Switch 2",
+          "description": "Stellar Blade will launch on the Nintendo Switch 2 in 2026, as confirmed by developer ShiftUp. Fans are also curious about a potential Bloodrain port.",
+          "category": "Gaming",
+          "source": "Nintendoeverything.com",
+          "url": "https://nintendoeverything.com/stellar-blade-dev-on-bringing-the-game-to-nintendo-switch-2-asked-about-bringing-over-stellar-blade-bloodrain/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Stellar-Blade-Bloodrain-Switch-2.jpg",
+          "published_at": "2026-06-12T16:57:02Z",
+          "key_points": [
+            "Switch 2 port confirmed",
+            "Bloodrain inquiry addressed",
+            "Developer ShiftUp responds"
+          ],
+          "impact": "This announcement excites fans of the franchise.",
+          "id": "4555b5c171ebb4c465bdb73244812171"
+        },
+        {
+          "title": "Hands-On with the Trump Phone",
+          "description": "The Trump phone is a midrange Android device, distinct from luxury models like the gold iPhone. It offers basic features for its target audience.",
+          "category": "Hardware",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/948464/trump-phone-t1-hands-on",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268588_I_held_trump_phone_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-12T16:05:00Z",
+          "key_points": [
+            "Midrange Android device",
+            "Distinct from luxury phones",
+            "Basic features offered"
+          ],
+          "impact": "The phone targets a specific market segment.",
+          "id": "0015e00b78358557a73d9f05de2a508a"
+        },
+        {
+          "title": "Exclusive Cutscene from Assassin's Creed Black Flag",
+          "description": "An exclusive cutscene from the remake of Assassin's Creed Black Flag has been released. Fans can enjoy this nostalgic moment with a hot chocolate.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-exclusive-edward-and-caroline-cutscene-ign-first",
+          "image": "https://assets-prd.ignimgs.com/2026/06/11/ignfirst-acbfr-cutscene-blogroll-1781210219348.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-12T16:00:00Z",
+          "key_points": [
+            "Exclusive cutscene released",
+            "Remake of a classic game",
+            "Nostalgic experience for fans"
+          ],
+          "impact": "This enhances excitement for the upcoming remake.",
+          "id": "8448cf62eb332e11bfd134018b4280ca"
+        },
+        {
+          "title": "Nintendo Fans React to Switch Sports Resort",
+          "description": "Nintendo fans express outrage over perceived 'colonization' in Switch Sports Resort. The backlash highlights cultural sensitivities among gamers.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/fans-hate-on-switch-sports-resorts-new-sportsmates-for-colonizing-wuhu-islands-sacred-mii-territory-2000704934",
+          "image": "https://kotaku.com/app/uploads/2026/06/resort-1200x675.jpg",
+          "published_at": "2026-06-12T15:02:25Z",
+          "key_points": [
+            "Fans criticize cultural representation",
+            "Outrage over game content",
+            "Discussion on sensitivity issues"
+          ],
+          "impact": "This controversy sparks broader cultural discussions.",
+          "id": "2586ac33eabfe17c650af0ffce42072d"
+        },
+        {
+          "title": "iOS 27 Introduces Landscape Mode for More Apps",
+          "description": "iOS 27 adds landscape mode to several Apple apps, enhancing usability for iPhone users. This update prepares for the upcoming 'iPhone Ultra'.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/12/ios-27-landscape-mode-apps/",
+          "image": "https://images.macrumors.com/t/COswt9dApKmqyYm1-5PxbhsVb0k=/2302x/article-new/2026/06/iOS-27-Adds-Landscape-Mode-to-Many-Apple-Apps-Ahead-of-iPhone-Ultra-Feature.jpg",
+          "published_at": "2026-06-12T13:55:04Z",
+          "key_points": [
+            "Landscape mode for more apps",
+            "Enhances user experience",
+            "Prepares for iPhone Ultra"
+          ],
+          "impact": "This update improves functionality for users.",
+          "id": "5a677f4f69c622030f4aca34ba7009ba"
+        },
+        {
+          "title": "NVIDIA Lists RTX PRO 6000 Blackwell GPU",
+          "description": "NVIDIA has listed the RTX PRO 6000 Blackwell GPU at $13,250, though it is currently out of stock. This high-end card targets professional users.",
+          "category": "Hardware",
+          "source": "Videocardz.com",
+          "url": "https://videocardz.com/newz/nvidia-now-lists-rtx-pro-6000-blackwell-96gb-gpu-at-13250",
+          "image": "https://cdn.videocardz.com/1/2025/11/RTX-PRO-6000-ORANGE.jpg",
+          "published_at": "2026-06-12T13:38:47Z",
+          "key_points": [
+            "High-end GPU priced at $13,250",
+            "Targeted at professionals",
+            "Currently out of stock"
+          ],
+          "impact": "This pricing reflects the premium market segment.",
+          "id": "3fbc22183a7b276cf84253f560f308c0"
+        },
+        {
+          "title": "Kingdom Hearts 4 Features Unplayable Game Characters",
+          "description": "Kingdom Hearts 4's latest trailer includes characters from the now-unplayable Kingdom Hearts Union X Dark Road. This move raises eyebrows among fans.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/kingdom-hearts-4-new-trailer-characters-union-x-dark-road-2000705991",
+          "image": "https://kotaku.com/app/uploads/2026/06/image-67-1200x675.jpg",
+          "published_at": "2026-06-12T13:38:17Z",
+          "key_points": [
+            "New trailer features unplayable characters",
+            "Fan reactions mixed",
+            "Spin-off connections highlighted"
+          ],
+          "impact": "This decision intrigues and confuses fans.",
+          "id": "71786d50618b19fb2bb8c563d55bd6c2"
+        },
+        {
+          "title": "Xbox's New Startup Animation and Features",
+          "description": "Xbox has rolled out a new startup animation along with four additional features. Users are excited about these updates.",
+          "category": "Gaming",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/06/xboxs-new-startup-animation-is-now-live-for-everyone-plus-four-other-new-features",
+          "image": "https://images.purexbox.com/d44b4cb349776/large.jpg",
+          "published_at": "2026-06-12T13:30:00Z",
+          "key_points": [
+            "New startup animation launched",
+            "Four additional features added",
+            "User excitement noted"
+          ],
+          "impact": "These updates enhance the Xbox user experience.",
+          "id": "2ce57a4c3eecae1c1d605799660e57a3"
+        },
+        {
+          "title": "RPG Maker Forum Users Archive Resources",
+          "description": "RPG Maker forum users are racing to archive valuable resources before the forum shuts down in December. This transition threatens years of community contributions.",
+          "category": "Gaming",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/rpg-maker-forum-shutting-down",
+          "image": "https://assetsio.gnwcdn.com/rpg-maker-mv.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-12T13:29:36Z",
+          "key_points": [
+            "Forum shutting down in December",
+            "Users archiving valuable resources",
+            "Community contributions at risk"
+          ],
+          "impact": "This closure impacts the RPG Maker community significantly.",
+          "id": "47c6cca2ce79d9ca4e47394670cc1b49"
+        },
+        {
+          "title": "New Pokémon Merch for Pets",
+          "description": "Pokémon has launched a new merchandise line for pets, expanding its brand into the pet market. This includes toys and accessories for animal lovers.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/gotta-fetch-em-all-your-pet-will-love-pokemons-latest-merch-line",
+          "image": "https://images.nintendolife.com/071d5d1653c8d/large.jpg",
+          "published_at": "2026-06-12T13:15:00Z",
+          "key_points": [
+            "New Pokémon pet merchandise launched",
+            "Includes toys and accessories",
+            "Expands brand reach"
+          ],
+          "impact": "This move taps into the pet-loving market.",
+          "id": "306d0df98a186661229d58d08eba3dab"
+        },
+        {
+          "title": "Xbox's Buy One, Get Two Free Sale",
+          "description": "Xbox has launched a 'Buy One, Get Two Free' sale featuring over 30 indie games. This promotion encourages gamers to explore new titles.",
+          "category": "Gaming",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/features/30plus-of-the-best-games-in-xboxs-latest-buy-one-get-two-free-sale",
+          "image": "https://images.purexbox.com/7146e2e1b9678/large.jpg",
+          "published_at": "2026-06-12T12:07:50Z",
+          "key_points": [
+            "Indie games featured in sale",
+            "Buy one, get two free",
+            "Encourages exploration of titles"
+          ],
+          "impact": "This sale boosts indie game visibility.",
+          "id": "5ba6ace8268b0d717c417ba46ea117cb"
+        },
+        {
+          "title": "AMD Denies Researcher Bounty After Delay",
+          "description": "AMD has denied a $10,000 bounty to a researcher after a lengthy delay in patching a security flaw. This has sparked criticism regarding their response.",
+          "category": "Security",
+          "source": "TechSpot",
+          "url": "https://www.techspot.com/news/112746-amd-changes-rules-denies-researcher-10000-bounty-after.html",
+          "image": "https://www.techspot.com/images2/news/bigimage/2026/06/2026-06-12-image-9.jpg",
+          "published_at": "2026-06-12T12:03:00Z",
+          "key_points": [
+            "AMD denies bounty to researcher",
+            "Criticism over response time",
+            "Security flaw patched after delay"
+          ],
+          "impact": "This incident raises concerns about AMD's practices.",
+          "id": "d3dc826bea9e734ac2ca0544a281d61b"
+        },
+        {
+          "title": "Xbox Predicts Storage Cost Surge by 2027",
+          "description": "An internal Xbox memo predicts a fivefold increase in storage and memory costs by holiday 2027. This reflects ongoing industry challenges.",
+          "category": "Business",
+          "source": "Digitalfoundry.net",
+          "url": "https://www.digitalfoundry.net/news/2026/06/xbox-memo-predicts-over-5x-increase-in-storage-and-memory-costs-by-holiday-2027",
+          "image": "https://images.digitalfoundry.net/bb17f4eb06b7a/large.jpg",
+          "published_at": "2026-06-12T10:51:00Z",
+          "key_points": [
+            "Predicted cost increase by 2027",
+            "Industry-wide components crisis",
+            "Internal memo reveals concerns"
+          ],
+          "impact": "This forecast highlights future industry challenges.",
+          "id": "50b9d50e78d58d8bdefdc462f81b6a20"
+        },
+        {
+          "title": "Nintendo's Legal Battle Over Palworld",
+          "description": "Nintendo attempted to block Palworld but now faces a minimal payout of $30,000. The outcome reflects challenges in IP enforcement.",
+          "category": "Geopolitics",
+          "source": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTlJDQ01lRzBUcmxMVzhfWjFnbG1nQVptMm0tUUZqTDNDNDBlUzBOLVhGNWhLQjB2RnFfYmk3MzVYZmJ5Q1c1T2p1cXNjME5IcGZzSy10TVRYZEdFZlFSaEFlZ0l0cjk1ajRHYU9xNHJBVmxMcUVkUEh6VTZuUXVBcEdvOWdGTWk5YWJwcEdqWEo0RDN5YUZ3WDF0cGlMM0RvakYxdnR0alBvMGFNaFpsRXE3TzdrYkpaWGNRcWlsRXFFTXdHVU50UWZ3?oc=5",
+          "image": "",
+          "published_at": "2026-06-12T10:28:48Z",
+          "key_points": [
+            "Nintendo's legal attempt fails",
+            "Minimal payout of $30,000",
+            "Challenges in IP enforcement"
+          ],
+          "impact": "This case highlights difficulties in copyright protection.",
+          "id": "933ff71517c8f86add3a7b1f88b32988"
+        }
+      ]
+    },
+    {
       "id": "2026-06-13T16:13:10.273960+00:00",
       "fetched_at": "2026-06-13T16:13:10.273960+00:00",
       "label": "Jun 13, 2026 — 04:13 PM UTC",
@@ -5688,173 +5935,6 @@
           ],
           "impact": "Valve's hardware launch could reshape gaming.",
           "id": "e52d24c66585b071b9d20edf29967e7a"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-07T22:02:51.315403+00:00",
-      "fetched_at": "2026-06-07T22:02:51.315403+00:00",
-      "label": "Jun 07, 2026 — 10:03 PM UTC",
-      "articles": [
-        {
-          "title": "Godzilla vs GTA 6: Retro Remake Makes PlayStation Debut on PS5 This November",
-          "description": "Godzilla: Destroy All Monsters Melee Remastered launches on PS5 November 3 for $29.99. The game is powered by Unreal Engine 5.",
-          "category": "Gaming",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/06/godzilla-vs-gta-6-retro-remake-makes-playstation-debut-on-ps5-this-november",
-          "image": "https://images.pushsquare.com/e2fa6b1f33159/large.jpg",
-          "published_at": "2026-06-06T21:15:00Z",
-          "key_points": [
-            "Launches November 3",
-            "Price set at $29.99",
-            "Powered by Unreal Engine 5"
-          ],
-          "impact": "This remake revives a classic for new players.",
-          "id": "598d68e38afc3d4cd34171506fd7aad3"
-        },
-        {
-          "title": "Nintendo Switch 2 - Year One: The Digital Foundry Verdict",
-          "description": "Digital Foundry reviews the first year of Nintendo Switch 2, highlighting significant improvements and future potential. The console shows promise for gamers.",
-          "category": "Gaming",
-          "source": "Digitalfoundry.net",
-          "url": "https://www.digitalfoundry.net/features/nintendo-switch-2-year-one-the-digital-foundry-verdict",
-          "image": "https://images.digitalfoundry.net/9c1dda69f7ee3/large.jpg",
-          "published_at": "2026-06-06T21:01:38Z",
-          "key_points": [
-            "Significant generational leap",
-            "Positive long-term outlook",
-            "Strong performance reviews"
-          ],
-          "impact": "Switch 2 sets a high bar for future consoles.",
-          "id": "05f63a15df12510da5f14ec8da9fa1c3"
-        },
-        {
-          "title": "Stellar Blade Blood Rain Trailer Reveal Is Raising AI Alarm Bells",
-          "description": "The reveal trailer for Stellar Blade: Blood Rain has sparked concerns over AI-generated content quality. Critics label it as 'AI slop'.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/stellar-blade-blood-rains-reveal-trailer-is-raising-genai-alarm-bells-for-some-people-2000703444",
-          "image": "https://kotaku.com/app/uploads/2026/06/Stellar-Blade-Blood-Rain-image-from-official-trailer-Shift-Up-1200x675.jpg",
-          "published_at": "2026-06-06T19:51:19Z",
-          "key_points": [
-            "Trailer raises AI quality concerns",
-            "Critics call it 'AI slop'",
-            "High anticipation for sequel"
-          ],
-          "impact": "AI content quality remains a hot topic in gaming.",
-          "id": "33fa342fceb6621f33f367aa5d7a40b5"
-        },
-        {
-          "title": "One Of 2025's Best Games Is Getting A 'Nintendo Switch 2 Edition' This Month",
-          "description": "A popular game from 2025 is receiving a Nintendo Switch 2 edition this month, reigniting excitement among fans. The trend continues with new editions.",
-          "category": "Gaming",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/06/one-of-2025s-best-games-is-getting-a-nintendo-switch-2-edition-this-month",
-          "image": "https://images.nintendolife.com/eb4e9bf344c48/large.jpg",
-          "published_at": "2026-06-06T18:30:00Z",
-          "key_points": [
-            "New edition for Switch 2",
-            "Fans excited for release",
-            "Continues trend of remakes"
-          ],
-          "impact": "Switch 2 editions keep players engaged and excited.",
-          "id": "2440d2f68d474721468b7f81c6868467"
-        },
-        {
-          "title": "Monster Hunter Wilds Is So Back With Big Ascendance Expansion",
-          "description": "Capcom announces the Ascendance expansion for Monster Hunter Wilds, featuring Elder Dragons and new gameplay elements. The expansion is set for 2027.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/monster-hunter-wilds-reveals-the-elder-dragons-are-coming-in-a-new-expansion-and-surprise-theres-a-switch-2-port-2000703218",
-          "image": "https://kotaku.com/app/uploads/2026/06/monster-hunter-1200x675.jpg",
-          "published_at": "2026-06-06T15:17:58Z",
-          "key_points": [
-            "New expansion called Ascendance",
-            "Features Elder Dragons",
-            "Set for release in 2027"
-          ],
-          "impact": "Monster Hunter continues to evolve with expansions.",
-          "id": "1460c79dd3705ea886e63e7dddc2144b"
-        },
-        {
-          "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
-          "description": "OpenAI introduces Lockdown Mode for ChatGPT to mitigate data exfiltration risks. This feature restricts certain outbound requests.",
-          "category": "Security",
-          "source": "Internet",
-          "url": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBOQJLNqTRWigWAgPKNCKXr8hOgMZD4ZNb3lNzGbrvSj87BzK_VzrbaqMPVOo1wmCsILPHO2s5cdfu1I2nUOhNibPpzsOHko3qWQwCVXXVdi8yaqYjMJGBD6Fzz-eBmgJ1-Vy0E02L_X1xsT3neUlTTsn9s8e2ODQVYXNErvOz9VrHEIdJNfGhsASUV0ag/s1600/chatgpt-lockdown.jpg",
-          "published_at": "2026-06-06T13:36:00Z",
-          "key_points": [
-            "New Lockdown Mode introduced",
-            "Limits outbound requests",
-            "Reduces data exfiltration risks"
-          ],
-          "impact": "Enhanced security measures for ChatGPT users.",
-          "id": "cb1a6ca2a610ea2806bf94a76b55a110"
-        },
-        {
-          "title": "You can choose to resurrect Bosch in Street Fighter 6's World Tour mode",
-          "description": "Street Fighter 6 reveals Bosch as a new character in Season 4 DLC, allowing players to resurrect him in World Tour mode. Excitement builds for the DLC.",
-          "category": "Gaming",
-          "source": "EventHubs",
-          "url": "https://www.eventhubs.com/news/2026/jun/05/bosch-resurrect-street-fighter-6/",
-          "image": "https://media.eventhubs.com/images/2026/06/05_boschbnrt.webp",
-          "published_at": "2026-06-06T06:35:27Z",
-          "key_points": [
-            "Bosch joins Season 4 DLC",
-            "Players can resurrect him",
-            "World Tour mode feature"
-          ],
-          "impact": "New characters keep Street Fighter 6 fresh.",
-          "id": "3d75361adac88c1678a61881088cdffa"
-        },
-        {
-          "title": "Super Yooka-Laylee Kart announced, first details and trailer",
-          "description": "Playtonic announces Super Yooka-Laylee Kart, set for PC with potential Switch 2 release. The game promises exciting new features and gameplay.",
-          "category": "Gaming",
-          "source": "Nintendoeverything.com",
-          "url": "https://nintendoeverything.com/super-yooka-laylee-kart-announced/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Super-Yooka-Laylee-Kart.jpg",
-          "published_at": "2026-06-05T23:57:25Z",
-          "key_points": [
-            "New kart racing game announced",
-            "Planned for PC and Switch 2",
-            "Exciting gameplay features expected"
-          ],
-          "impact": "Playtonic expands its universe with kart racing.",
-          "id": "39818daf72970ff0da919d05e2764852"
-        },
-        {
-          "title": "iOS 27 beta release date: When you can install the new iPhone update",
-          "description": "The iOS 27 beta is set to launch soon, allowing users to install pre-release software on their iPhones. Anticipation builds for new features.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/05/ios-27-beta-release-date-when-you-can-install-the-new-iphone-update/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-when-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-05T15:00:00Z",
-          "key_points": [
-            "iOS 27 beta launching soon",
-            "Pre-release software available",
-            "New features anticipated"
-          ],
-          "impact": "Users eagerly await the latest iOS update.",
-          "id": "d889f264793185c4c246e1ea6f8d4ae5"
-        },
-        {
-          "title": "HP and Ferrari launch $5,599 AI PC limited to 4,999 units",
-          "description": "HP and Ferrari unveil a limited edition AI PC priced at $5,599, with only 4,999 units available across nine countries. The laptop features high-end specifications.",
-          "category": "Hardware",
-          "source": "Videocardz.com",
-          "url": "https://videocardz.com/newz/hp-and-ferrari-launch-5599-ai-pc-limited-to-4999-units",
-          "image": "https://cdn.videocardz.com/1/2026/06/HP-FERRARI-LUCE-NOTEBOOK-HERO.jpg",
-          "published_at": "2026-06-05T14:58:03Z",
-          "key_points": [
-            "Limited to 4,999 units",
-            "Priced at $5,599",
-            "Developed with Ferrari Design Studio"
-          ],
-          "impact": "A luxury PC collaboration between HP and Ferrari.",
-          "id": "33b891cc9ef9d673cb5a1f5bec639e6f"
         }
       ]
     }
