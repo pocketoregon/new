@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-13T11:16:41.633083+00:00",
+      "fetched_at": "2026-06-13T11:16:41.633083+00:00",
+      "label": "Jun 13, 2026 — 11:17 AM UTC",
+      "articles": [
+        {
+          "title": "Apple Unveils Third-Gen Foundation Models",
+          "description": "Apple introduced its third generation of Foundation Models at WWDC26, featuring local and cloud-based AI capabilities. Here's a breakdown of their functionalities.",
+          "category": "AI",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/11/apples-new-foundation-models-explained-on-device-ai-cloud-ai-and-everything-in-between/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-foundation-models-2026.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-12T02:27:00Z",
+          "key_points": [
+            "New AI models launched",
+            "Local and cloud options",
+            "Detailed functionality breakdown"
+          ],
+          "impact": "Apple's AI advancements enhance user experience.",
+          "id": "26165e594fbd9483cd1574f19260e5e5"
+        },
+        {
+          "title": "iOS 27 Introduces New Health Features",
+          "description": "iOS 27 beta reveals new health and fitness features, despite the cancellation of an AI health service. Users can expect improved health tracking capabilities.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/guide/ios-27-health-app/",
+          "image": "https://images.macrumors.com/t/UCeGcUpfGc84SXVWBT9k79vbx4E=/2048x/article-new/2023/04/apple-health-app.jpg",
+          "published_at": "2026-06-11T23:35:38Z",
+          "key_points": [
+            "New health tracking features",
+            "AI service scrapped",
+            "Enhanced fitness capabilities"
+          ],
+          "impact": "iOS 27 boosts health app functionality.",
+          "id": "5ffe1f6cee35cebe8f888a11c4f9646f"
+        },
+        {
+          "title": "Amazon Echo Hub Gets Major Update",
+          "description": "Amazon's Echo Hub now features a customizable home screen, Alexa Plus video summaries, and Ring AI video search capabilities. Users can personalize their smart display experience.",
+          "category": "Hardware",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/amazon-echo-hub-redesign-wide.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+          "published_at": "2026-06-11T22:06:32Z",
+          "key_points": [
+            "Customizable home screen",
+            "Alexa Plus features",
+            "Enhanced video search"
+          ],
+          "impact": "Echo Hub update improves user customization.",
+          "id": "65add8215d6cb0c8d31133a80d5d50d9"
+        },
+        {
+          "title": "Niantic Confirms No Data Sharing with Drone Company",
+          "description": "Niantic Spatial clarifies that it no longer shares Pokémon Go data with the drone company following its acquisition by Scopely. Data privacy remains a priority.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/pokemon-go-niantic-spatial-drone-ai-map-training-gps-2000705669",
+          "image": "https://kotaku.com/app/uploads/2023/04/0e360c870e6b0950a14426b6a080997a-1200x675.jpg",
+          "published_at": "2026-06-11T21:26:30Z",
+          "key_points": [
+            "No data sharing confirmed",
+            "Privacy remains a priority",
+            "Acquisition impacts data policies"
+          ],
+          "impact": "Niantic reinforces commitment to user privacy.",
+          "id": "3e5f64d935923aecc7e9f7dad962fd3a"
+        },
+        {
+          "title": "WhatsApp Expands Multi-Account Support on iOS",
+          "description": "WhatsApp is rolling out multi-account support on iOS, fulfilling a highly requested feature. Users can now manage multiple accounts seamlessly.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/11/whatsapp-rolling-out-multi-account-support-more-widely-on-ios/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-11T21:12:00Z",
+          "key_points": [
+            "Multi-account feature launched",
+            "Highly requested by users",
+            "Seamless account management"
+          ],
+          "impact": "WhatsApp enhances user flexibility with accounts.",
+          "id": "f403a22cfc8e230370c51b851f712139"
+        },
+        {
+          "title": "iPhone Ultra Set to Launch This Fall",
+          "description": "Apple's first foldable iPhone, rumored to be called iPhone Ultra, is expected to launch this fall with six new features. Anticipation builds for this innovative device.",
+          "category": "Hardware",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/11/iphone-ultra-is-coming-six-new-features-in-apples-top-tier-model/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-11T20:49:00Z",
+          "key_points": [
+            "First foldable iPhone",
+            "Launch expected this fall",
+            "Six new features anticipated"
+          ],
+          "impact": "iPhone Ultra promises innovative design and features.",
+          "id": "91e0cccaac3dc6f6053f5e717519a6ca"
+        },
+        {
+          "title": "Trump Phone Revealed as HTC Clone",
+          "description": "Teardown of the Trump Mobile T1 reveals it is nearly identical to the HTC U24 Pro, with minor modifications. The phone's origins raise questions about its uniqueness.",
+          "category": "Business",
+          "source": "Yahoo Entertainment",
+          "url": "https://tech.yahoo.com/phones/article/trump-phone-teardown-confirms-its-nearly-identical-to-an-existing-htc-phone-204012315.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/149a3b54986a111913cad9acdab23b07b5e253977a7df8799a7438f1ec5f610e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Ftrump-mobile-t1-phone_6131.jpg",
+          "published_at": "2026-06-11T20:40:12Z",
+          "key_points": [
+            "Trump phone teardown reveals clone",
+            "Identical to HTC U24 Pro",
+            "Minor tweaks noted"
+          ],
+          "impact": "Trump phone's uniqueness questioned after teardown.",
+          "id": "5c6a0e05f7f5d4bd005a2d752cf00616"
+        },
+        {
+          "title": "Telegram Revives Wear OS App After Five Years",
+          "description": "Telegram has reintroduced its Wear OS app, allowing Android smartwatch users to access chats and voice messages. This marks a significant return after five years.",
+          "category": "Software",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/11/telegram-wear-os-app-returns/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/telegram-wear-os-app-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-11T20:25:00Z",
+          "key_points": [
+            "Wear OS app returns",
+            "Access chats and voice messages",
+            "Five years absence"
+          ],
+          "impact": "Telegram enhances smartwatch functionality with app.",
+          "id": "de62cdb05363d5b78cf0642dbdd04361"
+        },
+        {
+          "title": "Xbox Considers In-Game Ads for Affordability",
+          "description": "Xbox's chief strategist suggests in-game ads could help keep products affordable and fund development teams. This proposal aims to balance user experience and costs.",
+          "category": "Gaming",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/gaming/xbox/oh-boy-xboxs-chief-strategist-is-floating-the-idea-of-in-game-ads",
+          "image": "https://cdn.mos.cms.futurecdn.net/xsrgVHEkxpsCxmdDvUsqrj-1523-80.jpg",
+          "published_at": "2026-06-11T18:31:55Z",
+          "key_points": [
+            "In-game ads proposed",
+            "Aim to keep products affordable",
+            "Support development funding"
+          ],
+          "impact": "Xbox explores ads to maintain affordability.",
+          "id": "ba5eb7ff0706fbe9334436bc192cb9a2"
+        },
+        {
+          "title": "Halo: Campaign Evolved Pre-Release Comparison",
+          "description": "A comparison of Halo: Campaign Evolved on Xbox Series X and Ally X shows notable differences based on early footage. Fans eagerly await the game's release.",
+          "category": "Gaming",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/06/halo-campaign-evolved-comparison-shows-difference-between-xbox-series-x-and-ally-x",
+          "image": "https://images.purexbox.com/06de523bfd186/large.jpg",
+          "published_at": "2026-06-11T18:30:00Z",
+          "key_points": [
+            "Pre-release footage comparison",
+            "Differences noted between consoles",
+            "Fans excited for release"
+          ],
+          "impact": "Halo: Campaign Evolved generates pre-launch buzz.",
+          "id": "e8913ca93a77cdc6f5058f9b11da9645"
+        },
+        {
+          "title": "Chatbots' Repeated Stories About Elias Thorne",
+          "description": "Chatbots frequently reference a character named Elias Thorne, raising questions about their creativity. A new study explores this phenomenon.",
+          "category": "AI",
+          "source": "Gizmodo.com",
+          "url": "https://gizmodo.com/why-do-chatbots-keep-telling-stories-about-someone-named-elias-thorne-2000770629",
+          "image": "https://gizmodo.com/app/uploads/2023/08/e520de63962eac1bfbe941db24122a1a.jpg",
+          "published_at": "2026-06-11T18:20:05Z",
+          "key_points": [
+            "Chatbots lack creativity",
+            "Elias Thorne frequently mentioned",
+            "Study explores chatbot behavior"
+          ],
+          "impact": "Chatbots' storytelling raises creativity concerns.",
+          "id": "64d07598df0d994f7568f93f9be49cce"
+        },
+        {
+          "title": "Mina The Hollower's Unique Game Finale Explained",
+          "description": "Developers of Mina The Hollower discuss a Chrono Trigger-style twist in the game's finale, enhancing player experience. The game features seven main dungeons.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/mina-the-hollower-ending-devs-chrono-trigger-style-grand-finale-2000705580",
+          "image": "https://kotaku.com/app/uploads/2025/10/minathehollower-1200x675.jpg",
+          "published_at": "2026-06-11T18:13:13Z",
+          "key_points": [
+            "Unique game finale twist",
+            "Chrono Trigger inspiration",
+            "Seven main dungeons"
+          ],
+          "impact": "Mina The Hollower offers innovative gameplay experience.",
+          "id": "5715f85b3362bc92b18e8c1ddd6dd3a8"
+        },
+        {
+          "title": "New GreatXML Exploit Bypasses Windows BitLocker",
+          "description": "A new exploit named GreatXML can bypass Windows BitLocker, exposing encrypted data. This vulnerability raises security concerns for users.",
+          "category": "Security",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqKyNLbT9WYm7m6ZsvIgv0mNbGJCrgEjUUXLbRZV9mmQUVi7jT9IiwlXh2kYKiMOrsCnJ-ZaoAK9GnL9jy6RHJELISIGFuLSZgsSYuclWFcPmItYL04pTVeA7cl_jy8L6RU4CVPypa6u24OH8hCwPL1g1tEVRczTV1YjZ5KUFGZc6DVw8Pdo_CFGXRTS-d/s1600/windows-bitlocker.jpg",
+          "published_at": "2026-06-11T17:43:00Z",
+          "key_points": [
+            "GreatXML exploit discovered",
+            "Bypasses BitLocker security",
+            "Exposes encrypted data"
+          ],
+          "impact": "New exploit poses serious security risks.",
+          "id": "d6dfe9a733b5347827f7fd40c745a868"
+        },
+        {
+          "title": "DJI Sues Insta360 Over Patent Violations",
+          "description": "DJI has filed lawsuits against Insta360 for allegedly violating multiple patents related to its Osmo Pocket products. The legal battle centers on design and functionality.",
+          "category": "Business",
+          "source": "PetaPixel",
+          "url": "https://petapixel.com/2026/06/11/dji-is-suing-insta360-for-violating-multiple-osmo-pocket-patents/",
+          "image": "https://petapixel.com/assets/uploads/2026/06/DJI-Is-Suing-Insta360-for-Violating-Multiple-Osmo-Pocket-Patents.jpg",
+          "published_at": "2026-06-11T17:27:53Z",
+          "key_points": [
+            "DJI files patent lawsuits",
+            "Insta360 accused of violations",
+            "Focus on Osmo Pocket products"
+          ],
+          "impact": "DJI's legal action highlights patent enforcement.",
+          "id": "f4d93e559977882fe40a1c748c6d7968"
+        },
+        {
+          "title": "Windows 11 Low Latency Profile CPU Boost Available",
+          "description": "Microsoft has released a cumulative update for Windows 11, enhancing CPU performance for the Start Menu. Users can expect improved responsiveness.",
+          "category": "Software",
+          "source": "VideoCardz.com",
+          "url": "https://videocardz.com/newz/microsoft-windows-11-low-latency-profile-cpu-boost-for-start-menu-is-now-available",
+          "image": "https://cdn.videocardz.com/1/2026/06/WINDOWS-11-START-MENU-BOOST-HERO.jpg",
+          "published_at": "2026-06-11T17:13:47Z",
+          "key_points": [
+            "Windows 11 update released",
+            "Boosts CPU performance",
+            "Improves Start Menu responsiveness"
+          ],
+          "impact": "Windows 11 update enhances user experience.",
+          "id": "6e8d8e53a7c23502b955b75fdfc34f8a"
+        }
+      ]
+    },
+    {
       "id": "2026-06-12T20:09:20.144781+00:00",
       "fetched_at": "2026-06-12T20:09:20.144781+00:00",
       "label": "Jun 12, 2026 — 08:09 PM UTC",
@@ -5400,109 +5647,6 @@
           ],
           "impact": "Nintendo faces challenges post-price revision.",
           "id": "542ab5d6dc389657afd82b6710f4c366"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-07T13:49:59.049290+00:00",
-      "fetched_at": "2026-06-07T13:49:59.049290+00:00",
-      "label": "Jun 07, 2026 — 01:50 PM UTC",
-      "articles": [
-        {
-          "title": "Assassin's Creed Co-Creator Re-Reveals 1666 Amsterdam, 30-Minute Demo Playable Now",
-          "description": "1666 Amsterdam, a historical action adventure, is back with a 30-minute demo at Summer Game Fest, revealed by co-creator Patrice Désilets.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/assassins-creed-co-creator-re-reveals-1666-amsterdam-30-minute-demo-playable-now",
-          "image": "https://assets-prd.ignimgs.com/2026/06/05/hkfqknlwaaafark-1780697087378.jpg?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-05T22:40:26Z",
-          "key_points": [
-            "Demo available now",
-            "Created by Patrice Désilets",
-            "Historical action adventure"
-          ],
-          "impact": "1666 Amsterdam's return excites fans of the genre.",
-          "id": "ced01a6d13b7539f946e06d155cae14d"
-        },
-        {
-          "title": "RuneScape: Dragonwilds Leaves Early Access and Launches Across PC, PS5, and Xbox Series X and S in September",
-          "description": "RuneScape: Dragonwilds officially launches on September 15, 2026, across PC, PS5, and Xbox Series X and S, adding to a busy gaming month.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/even-the-runescape-spinoff-is-coming-out-in-september",
-          "image": "https://assets-prd.ignimgs.com/2026/06/05/rsdw-dr-ss-03-4k-1780658722879.png?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-05T22:01:36Z",
-          "key_points": [
-            "Launch on September 15",
-            "Available on multiple platforms",
-            "Part of September gaming rush"
-          ],
-          "impact": "Dragonwilds adds to September's gaming excitement.",
-          "id": "4cf1f8b9ccd5aaaea01810c7c062f793"
-        },
-        {
-          "title": "Control Resonant Preview - Hands-On With Remedy’s Surreal Take On Stylish Action",
-          "description": "Control Resonant offers a fresh melee-focused action experience, diverging from its predecessor's shooter mechanics, as previewed by Game Informer.",
-          "category": "Gaming",
-          "source": "Game Informer",
-          "url": "https://gameinformer.com/preview/2026/06/05/hands-on-with-remedys-surreal-take-on-stylish-action",
-          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/04/98c140c2/control-resonant-sgf-2026-4.jpg.webp",
-          "published_at": "2026-06-05T21:58:59Z",
-          "key_points": [
-            "Melee-focused gameplay",
-            "Surreal action experience",
-            "Sequel to Control franchise"
-          ],
-          "impact": "Control Resonant reinvents the franchise's gameplay.",
-          "id": "28a946bc96473f4ea849d3eb7cecd788"
-        },
-        {
-          "title": "Nintendo Switch 2: One Year Later",
-          "description": "Celebrating one year since its release, the Nintendo Switch 2 features enhanced hardware, a larger screen, and new Joy-Con controllers, improving the gaming experience.",
-          "category": "Gaming",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/nintendo-switch-2-one-year-later/",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/switch-2-tour.webp",
-          "published_at": "2026-06-05T14:43:26Z",
-          "key_points": [
-            "One year since launch",
-            "Improved hardware features",
-            "New Joy-Con controllers"
-          ],
-          "impact": "Switch 2 continues to enhance gaming experiences.",
-          "id": "3666b4d1c07fb64a9c3e03cd842702d5"
-        },
-        {
-          "title": "Leak Reveals Microsoft Wants Its AI To Be ‘Addictive,’ CEO Satya Nadella Feigns Astonishment",
-          "description": "Microsoft's new AI assistant, Scout, reportedly aims for addictiveness, as revealed in a leaked internal document, surprising even CEO Satya Nadella.",
-          "category": "Business",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924",
-          "image": "https://kotaku.com/app/uploads/2026/06/scout2-1200x675.jpeg",
-          "published_at": "2026-06-05T13:08:43Z",
-          "key_points": [
-            "AI assistant named Scout",
-            "Leaked document reveals strategy",
-            "Nadella's reaction questioned"
-          ],
-          "impact": "Microsoft's AI strategy raises ethical concerns.",
-          "id": "61b07d25fa94a6886f3479b172e5c45d"
-        },
-        {
-          "title": "Elden Ring Tarnished Edition launches August 28",
-          "description": "Elden Ring's Tarnished Edition is set to launch for Switch 2 on August 28, alongside new downloadable content, enhancing the game's offerings.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/elden-ring-tarnished-edition-launches-august-28",
-          "image": "https://www.gematsu.com/wp-content/uploads/2025/09/Elden-Ring-Switch-2_06-04-26.jpg",
-          "published_at": "2026-06-04T14:04:49Z",
-          "key_points": [
-            "Launch on August 28",
-            "Available for Switch 2",
-            "Includes new downloadable content"
-          ],
-          "impact": "Elden Ring expands its universe with new content.",
-          "id": "7288e7c537a2fdc49b9f8d025f394563"
         }
       ]
     }

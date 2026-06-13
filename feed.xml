@@ -5,8 +5,143 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jun 2026 08:56:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 11:17:19 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>Apple Unveils Third-Gen Foundation Models</title>
+      <description>Apple introduced its third generation of Foundation Models at WWDC26, featuring local and cloud-based AI capabilities. Here's a breakdown of their functionalities.</description>
+      <link>https://9to5mac.com/2026/06/11/apples-new-foundation-models-explained-on-device-ai-cloud-ai-and-everything-in-between/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/11/apples-new-foundation-models-explained-on-device-ai-cloud-ai-and-everything-in-between/</guid>
+      <pubDate>2026-06-12T02:27:00Z</pubDate>
+      <category>AI</category>
+      <source url="https://9to5mac.com/2026/06/11/apples-new-foundation-models-explained-on-device-ai-cloud-ai-and-everything-in-between/">9to5Mac</source>
+    </item>
+    <item>
+      <title>iOS 27 Introduces New Health Features</title>
+      <description>iOS 27 beta reveals new health and fitness features, despite the cancellation of an AI health service. Users can expect improved health tracking capabilities.</description>
+      <link>https://www.macrumors.com/guide/ios-27-health-app/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/guide/ios-27-health-app/</guid>
+      <pubDate>2026-06-11T23:35:38Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.macrumors.com/guide/ios-27-health-app/">MacRumors</source>
+    </item>
+    <item>
+      <title>Amazon Echo Hub Gets Major Update</title>
+      <description>Amazon's Echo Hub now features a customizable home screen, Alexa Plus video summaries, and Ring AI video search capabilities. Users can personalize their smart display experience.</description>
+      <link>https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign</guid>
+      <pubDate>2026-06-11T22:06:32Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign">The Verge</source>
+    </item>
+    <item>
+      <title>Niantic Confirms No Data Sharing with Drone Company</title>
+      <description>Niantic Spatial clarifies that it no longer shares Pokémon Go data with the drone company following its acquisition by Scopely. Data privacy remains a priority.</description>
+      <link>https://kotaku.com/pokemon-go-niantic-spatial-drone-ai-map-training-gps-2000705669</link>
+      <guid isPermaLink="true">https://kotaku.com/pokemon-go-niantic-spatial-drone-ai-map-training-gps-2000705669</guid>
+      <pubDate>2026-06-11T21:26:30Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://kotaku.com/pokemon-go-niantic-spatial-drone-ai-map-training-gps-2000705669">Kotaku</source>
+    </item>
+    <item>
+      <title>WhatsApp Expands Multi-Account Support on iOS</title>
+      <description>WhatsApp is rolling out multi-account support on iOS, fulfilling a highly requested feature. Users can now manage multiple accounts seamlessly.</description>
+      <link>https://9to5mac.com/2026/06/11/whatsapp-rolling-out-multi-account-support-more-widely-on-ios/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/11/whatsapp-rolling-out-multi-account-support-more-widely-on-ios/</guid>
+      <pubDate>2026-06-11T21:12:00Z</pubDate>
+      <category>Software</category>
+      <source url="https://9to5mac.com/2026/06/11/whatsapp-rolling-out-multi-account-support-more-widely-on-ios/">9to5Mac</source>
+    </item>
+    <item>
+      <title>iPhone Ultra Set to Launch This Fall</title>
+      <description>Apple's first foldable iPhone, rumored to be called iPhone Ultra, is expected to launch this fall with six new features. Anticipation builds for this innovative device.</description>
+      <link>https://9to5mac.com/2026/06/11/iphone-ultra-is-coming-six-new-features-in-apples-top-tier-model/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/11/iphone-ultra-is-coming-six-new-features-in-apples-top-tier-model/</guid>
+      <pubDate>2026-06-11T20:49:00Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://9to5mac.com/2026/06/11/iphone-ultra-is-coming-six-new-features-in-apples-top-tier-model/">9to5Mac</source>
+    </item>
+    <item>
+      <title>Trump Phone Revealed as HTC Clone</title>
+      <description>Teardown of the Trump Mobile T1 reveals it is nearly identical to the HTC U24 Pro, with minor modifications. The phone's origins raise questions about its uniqueness.</description>
+      <link>https://tech.yahoo.com/phones/article/trump-phone-teardown-confirms-its-nearly-identical-to-an-existing-htc-phone-204012315.html</link>
+      <guid isPermaLink="true">https://tech.yahoo.com/phones/article/trump-phone-teardown-confirms-its-nearly-identical-to-an-existing-htc-phone-204012315.html</guid>
+      <pubDate>2026-06-11T20:40:12Z</pubDate>
+      <category>Business</category>
+      <source url="https://tech.yahoo.com/phones/article/trump-phone-teardown-confirms-its-nearly-identical-to-an-existing-htc-phone-204012315.html">Yahoo Entertainment</source>
+    </item>
+    <item>
+      <title>Telegram Revives Wear OS App After Five Years</title>
+      <description>Telegram has reintroduced its Wear OS app, allowing Android smartwatch users to access chats and voice messages. This marks a significant return after five years.</description>
+      <link>http://9to5google.com/2026/06/11/telegram-wear-os-app-returns/</link>
+      <guid isPermaLink="true">http://9to5google.com/2026/06/11/telegram-wear-os-app-returns/</guid>
+      <pubDate>2026-06-11T20:25:00Z</pubDate>
+      <category>Software</category>
+      <source url="http://9to5google.com/2026/06/11/telegram-wear-os-app-returns/">9to5Google</source>
+    </item>
+    <item>
+      <title>Xbox Considers In-Game Ads for Affordability</title>
+      <description>Xbox's chief strategist suggests in-game ads could help keep products affordable and fund development teams. This proposal aims to balance user experience and costs.</description>
+      <link>https://www.windowscentral.com/gaming/xbox/oh-boy-xboxs-chief-strategist-is-floating-the-idea-of-in-game-ads</link>
+      <guid isPermaLink="true">https://www.windowscentral.com/gaming/xbox/oh-boy-xboxs-chief-strategist-is-floating-the-idea-of-in-game-ads</guid>
+      <pubDate>2026-06-11T18:31:55Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.windowscentral.com/gaming/xbox/oh-boy-xboxs-chief-strategist-is-floating-the-idea-of-in-game-ads">Windows Central</source>
+    </item>
+    <item>
+      <title>Halo: Campaign Evolved Pre-Release Comparison</title>
+      <description>A comparison of Halo: Campaign Evolved on Xbox Series X and Ally X shows notable differences based on early footage. Fans eagerly await the game's release.</description>
+      <link>https://www.purexbox.com/news/2026/06/halo-campaign-evolved-comparison-shows-difference-between-xbox-series-x-and-ally-x</link>
+      <guid isPermaLink="true">https://www.purexbox.com/news/2026/06/halo-campaign-evolved-comparison-shows-difference-between-xbox-series-x-and-ally-x</guid>
+      <pubDate>2026-06-11T18:30:00Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.purexbox.com/news/2026/06/halo-campaign-evolved-comparison-shows-difference-between-xbox-series-x-and-ally-x">Pure Xbox</source>
+    </item>
+    <item>
+      <title>Chatbots' Repeated Stories About Elias Thorne</title>
+      <description>Chatbots frequently reference a character named Elias Thorne, raising questions about their creativity. A new study explores this phenomenon.</description>
+      <link>https://gizmodo.com/why-do-chatbots-keep-telling-stories-about-someone-named-elias-thorne-2000770629</link>
+      <guid isPermaLink="true">https://gizmodo.com/why-do-chatbots-keep-telling-stories-about-someone-named-elias-thorne-2000770629</guid>
+      <pubDate>2026-06-11T18:20:05Z</pubDate>
+      <category>AI</category>
+      <source url="https://gizmodo.com/why-do-chatbots-keep-telling-stories-about-someone-named-elias-thorne-2000770629">Gizmodo.com</source>
+    </item>
+    <item>
+      <title>Mina The Hollower's Unique Game Finale Explained</title>
+      <description>Developers of Mina The Hollower discuss a Chrono Trigger-style twist in the game's finale, enhancing player experience. The game features seven main dungeons.</description>
+      <link>https://kotaku.com/mina-the-hollower-ending-devs-chrono-trigger-style-grand-finale-2000705580</link>
+      <guid isPermaLink="true">https://kotaku.com/mina-the-hollower-ending-devs-chrono-trigger-style-grand-finale-2000705580</guid>
+      <pubDate>2026-06-11T18:13:13Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://kotaku.com/mina-the-hollower-ending-devs-chrono-trigger-style-grand-finale-2000705580">Kotaku</source>
+    </item>
+    <item>
+      <title>New GreatXML Exploit Bypasses Windows BitLocker</title>
+      <description>A new exploit named GreatXML can bypass Windows BitLocker, exposing encrypted data. This vulnerability raises security concerns for users.</description>
+      <link>https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html</link>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html</guid>
+      <pubDate>2026-06-11T17:43:00Z</pubDate>
+      <category>Security</category>
+      <source url="https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html">The Hacker News</source>
+    </item>
+    <item>
+      <title>DJI Sues Insta360 Over Patent Violations</title>
+      <description>DJI has filed lawsuits against Insta360 for allegedly violating multiple patents related to its Osmo Pocket products. The legal battle centers on design and functionality.</description>
+      <link>https://petapixel.com/2026/06/11/dji-is-suing-insta360-for-violating-multiple-osmo-pocket-patents/</link>
+      <guid isPermaLink="true">https://petapixel.com/2026/06/11/dji-is-suing-insta360-for-violating-multiple-osmo-pocket-patents/</guid>
+      <pubDate>2026-06-11T17:27:53Z</pubDate>
+      <category>Business</category>
+      <source url="https://petapixel.com/2026/06/11/dji-is-suing-insta360-for-violating-multiple-osmo-pocket-patents/">PetaPixel</source>
+    </item>
+    <item>
+      <title>Windows 11 Low Latency Profile CPU Boost Available</title>
+      <description>Microsoft has released a cumulative update for Windows 11, enhancing CPU performance for the Start Menu. Users can expect improved responsiveness.</description>
+      <link>https://videocardz.com/newz/microsoft-windows-11-low-latency-profile-cpu-boost-for-start-menu-is-now-available</link>
+      <guid isPermaLink="true">https://videocardz.com/newz/microsoft-windows-11-low-latency-profile-cpu-boost-for-start-menu-is-now-available</guid>
+      <pubDate>2026-06-11T17:13:47Z</pubDate>
+      <category>Software</category>
+      <source url="https://videocardz.com/newz/microsoft-windows-11-low-latency-profile-cpu-boost-for-start-menu-is-now-available">VideoCardz.com</source>
+    </item>
   </channel>
 </rss>
