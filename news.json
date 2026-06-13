@@ -1,247 +1,247 @@
 {
   "date": "2026-06-13",
-  "generated_at": "2026-06-13T11:16:41.633083+00:00",
+  "generated_at": "2026-06-13T13:57:29.706026+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Apple Unveils Third-Gen Foundation Models",
-      "description": "Apple introduced its third generation of Foundation Models at WWDC26, featuring local and cloud-based AI capabilities. Here's a breakdown of their functionalities.",
-      "category": "AI",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/11/apples-new-foundation-models-explained-on-device-ai-cloud-ai-and-everything-in-between/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-foundation-models-2026.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-12T02:27:00Z",
+      "title": "Arch Linux's AUR Compromised by Malware Attack",
+      "description": "Over 400 packages in Arch Linux's AUR were compromised in a significant malware campaign this week. Users are advised to check their installations immediately.",
+      "category": "Security",
+      "source": "Phoronix",
+      "url": "https://www.phoronix.com/news/Arch-Linux-AUR-400-Compromised",
+      "image": "https://www.phoronix.net/image.php?id=cachyos-thelio-major&image=cachyos_thelio_2",
+      "published_at": "2026-06-12T10:39:00Z",
       "key_points": [
-        "New AI models launched",
-        "Local and cloud options",
-        "Detailed functionality breakdown"
+        "400+ packages affected",
+        "Users urged to check installations",
+        "Significant malware campaign"
       ],
-      "impact": "Apple's AI advancements enhance user experience.",
-      "id": "26165e594fbd9483cd1574f19260e5e5"
+      "impact": "This breach raises serious security concerns for users.",
+      "id": "f974f52fa15096dae95efabcb7de2ab5"
     },
     {
-      "title": "iOS 27 Introduces New Health Features",
-      "description": "iOS 27 beta reveals new health and fitness features, despite the cancellation of an AI health service. Users can expect improved health tracking capabilities.",
+      "title": "Tomb Raider: Legacy of Atlantis Uses AI for Development",
+      "description": "Crystal Dynamics utilized generative AI to create placeholder assets for Tomb Raider: Legacy of Atlantis, enhancing visualization during development.",
+      "category": "Gaming",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/tomb-raider-legacy-of-atlantis-ai-use-explained",
+      "image": "https://assetsio.gnwcdn.com/Lara-Croft-sits-with-her-arms-open-in-Tomb-Raider-Legacy-of-Atlantis.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-12T09:08:25Z",
+      "key_points": [
+        "AI used for placeholder assets",
+        "Improves development speed",
+        "Enhances visualization process"
+      ],
+      "impact": "AI integration could revolutionize game development.",
+      "id": "825318c7cf5b027679ad003595bf1cb2"
+    },
+    {
+      "title": "Valve Confirms Steam Frame Shipping This Summer",
+      "description": "Valve has announced that the Steam Frame will begin shipping this summer, promising exciting new features for gamers.",
+      "category": "Gaming",
+      "source": "UploadVR",
+      "url": "https://www.uploadvr.com/steam-frame-is-shipping-this-summer-valve-confirms/",
+      "image": "",
+      "published_at": "2026-06-12T08:25:29Z",
+      "key_points": [
+        "Steam Frame shipping confirmed",
+        "Launch set for summer",
+        "New features for gamers"
+      ],
+      "impact": "This could enhance the gaming experience significantly.",
+      "id": "4fd13e1be902e5710023d2701e0e2fe2"
+    },
+    {
+      "title": "Apple iOS 27 Now Available for Developers",
+      "description": "Apple has officially released the first developer beta of iOS 27, featuring new functionalities and improvements for iPhone users.",
+      "category": "Software",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/davidphelan/2026/06/11/apple-ios-27-release-date-when-you-can-download-the-new-iphone-software---starts-now/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a2763c80ab4a2c742ab14e6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published_at": "2026-06-12T00:42:00Z",
+      "key_points": [
+        "iOS 27 beta released",
+        "New features unveiled",
+        "Available for developers now"
+      ],
+      "impact": "Developers can now explore new iOS capabilities.",
+      "id": "cec4bda10f669316a30732dca7f35cdd"
+    },
+    {
+      "title": "Fable Embraces Life Sim Elements",
+      "description": "Fable is evolving into a life simulation game, introducing new gameplay features that enhance player interaction and experience.",
+      "category": "Gaming",
+      "source": "Simscommunity.info",
+      "url": "https://simscommunity.info/2026/06/12/fable-life-sim-gameplay-features/",
+      "image": "https://simscommunity.info/wp-content/uploads/2026/06/FABLE-Life-Sim-Xbox-FI.jpg",
+      "published_at": "2026-06-11T22:43:06Z",
+      "key_points": [
+        "Fable adds life sim features",
+        "New gameplay elements introduced",
+        "Focus on player interaction"
+      ],
+      "impact": "This shift could attract a broader audience.",
+      "id": "cf8d847b8bd605856f4bc416f3755ef2"
+    },
+    {
+      "title": "Waze to Receive Long-Awaited Visual Upgrade",
+      "description": "Waze is set to roll out a visual upgrade that users have been requesting, enhancing the overall navigation experience.",
+      "category": "Software",
+      "source": "Android Police",
+      "url": "https://www.androidpolice.com/waze-traffic-light-map-update/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2024/10/waze.jpg?w=1600&h=900&fit=crop",
+      "published_at": "2026-06-11T22:21:11Z",
+      "key_points": [
+        "Waze visual upgrade coming",
+        "User-requested features",
+        "Enhanced navigation experience"
+      ],
+      "impact": "This update aims to improve user satisfaction.",
+      "id": "299895976fb914babcad3acdfb73bf8a"
+    },
+    {
+      "title": "iOS 27 Photos App Gets Major Improvements",
+      "description": "The Photos app in iOS 27 has received significant performance enhancements and new features aimed at improving user experience.",
       "category": "Software",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/guide/ios-27-health-app/",
-      "image": "https://images.macrumors.com/t/UCeGcUpfGc84SXVWBT9k79vbx4E=/2048x/article-new/2023/04/apple-health-app.jpg",
-      "published_at": "2026-06-11T23:35:38Z",
+      "url": "https://www.macrumors.com/guide/ios-27-photos-app/",
+      "image": "https://images.macrumors.com/t/unhPqyCVrTCjjDbsInY-zCuef6U=/2500x/article-new/2026/06/Whats-New-in-the-iOS-27-Photos-App-Feature.jpg",
+      "published_at": "2026-06-11T21:04:57Z",
       "key_points": [
-        "New health tracking features",
-        "AI service scrapped",
-        "Enhanced fitness capabilities"
+        "Photos app improvements",
+        "New AI features added",
+        "Enhanced performance overall"
       ],
-      "impact": "iOS 27 boosts health app functionality.",
-      "id": "5ffe1f6cee35cebe8f888a11c4f9646f"
+      "impact": "Users can expect a smoother photo management experience.",
+      "id": "55dd466392c493cd590d6c75b5222f2c"
     },
     {
-      "title": "Amazon Echo Hub Gets Major Update",
-      "description": "Amazon's Echo Hub now features a customizable home screen, Alexa Plus video summaries, and Ring AI video search capabilities. Users can personalize their smart display experience.",
+      "title": "Waymo Launches First National Ads Amid Competition",
+      "description": "Waymo is set to launch its first national advertising campaign to promote its driverless car service during the World Cup.",
+      "category": "Geopolitics",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/cmo-today/waymo-readies-first-national-ads-as-rivals-and-critics-proliferate-dcc1fbdb",
+      "image": "https://images.wsj.net/im-61537961/social",
+      "published_at": "2026-06-11T17:00:00Z",
+      "key_points": [
+        "Waymo launching national ads",
+        "Promoting driverless technology",
+        "Targeting World Cup audience"
+      ],
+      "impact": "This campaign aims to boost public perception.",
+      "id": "b4bae1490a9546884808a17c4049ee90"
+    },
+    {
+      "title": "Star Fox Designer Amazed by New Graphics",
+      "description": "The designer of Star Fox expressed emotional reactions to the stunning graphics in the upcoming Nintendo Switch 2 remake.",
+      "category": "Gaming",
+      "source": "Nintendo Everything",
+      "url": "https://nintendoeverything.com/star-fox-designer-choked-up-by-graphics-in-new-nintendo-switch-2-remake/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Star-Fox-update.jpg",
+      "published_at": "2026-06-11T16:56:55Z",
+      "key_points": [
+        "Designer impressed by graphics",
+        "New visuals for Star Fox",
+        "Excitement for upcoming release"
+      ],
+      "impact": "High expectations for the game's visual quality.",
+      "id": "afafef003aa1b67d918a2e06d97e61df"
+    },
+    {
+      "title": "Ocarina of Time Remake Revives Fan Hopes",
+      "description": "Fans reminisce about a 2011 tech demo as the Ocarina of Time remake promises to fulfill long-held dreams for Zelda enthusiasts.",
+      "category": "Gaming",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-could-fulfill-the-zelda-dream-killed-years-ago/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/nintendoswitch2_thelegendofzelda_ocarinaoftime_screenshot.png?w=1600&h=900&fit=crop",
+      "published_at": "2026-06-11T16:41:44Z",
+      "key_points": [
+        "Fans excited for remake",
+        "Revives nostalgic memories",
+        "Tech demo sparked interest"
+      ],
+      "impact": "This remake could reignite Zelda fandom.",
+      "id": "e743b0bcc2ec2c44b53c60f83e0991f0"
+    },
+    {
+      "title": "Deezer Launches Tool to Identify AI Music",
+      "description": "Deezer has introduced a new tool that identifies AI-generated music across various streaming platforms, addressing growing concerns in the industry.",
+      "category": "Software",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2180853826.jpg?resize=1200,800",
+      "published_at": "2026-06-11T16:36:20Z",
+      "key_points": [
+        "Deezer identifies AI music",
+        "Tool scans multiple platforms",
+        "Addresses industry concerns"
+      ],
+      "impact": "This tool could reshape music streaming standards.",
+      "id": "d008a461e5817c493730745ee82bf1a6"
+    },
+    {
+      "title": "Rhythm Heaven Groove Previews Released",
+      "description": "Previews for Rhythm Heaven Groove have surfaced, generating excitement and speculation about the upcoming game.",
+      "category": "Gaming",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/06/round-up-the-previews-are-in-for-rhythm-heaven-groove",
+      "image": "https://images.nintendolife.com/716e301164435/large.jpg",
+      "published_at": "2026-06-11T16:15:00Z",
+      "key_points": [
+        "Previews for Rhythm Heaven Groove",
+        "Excitement builds for release",
+        "Gameplay details revealed"
+      ],
+      "impact": "Anticipation is high for this title.",
+      "id": "4dad6fc51bb1d5616752b70f02715c5a"
+    },
+    {
+      "title": "Top JRPGs to Play Before Final Fantasy 7 Revelation",
+      "description": "With Final Fantasy 7 Revelation on the horizon, here are three must-play JRPGs to enjoy in the meantime.",
+      "category": "Gaming",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/best-jrpgs-like-ff7-revelation/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/digimonstorytimestranger_header.jpg?w=1600&h=900&fit=crop",
+      "published_at": "2026-06-11T16:00:21Z",
+      "key_points": [
+        "Three JRPGs recommended",
+        "Perfect for waiting period",
+        "Exciting gameplay experiences"
+      ],
+      "impact": "These games will keep fans engaged.",
+      "id": "a3aeecd404e8fe43f2511e680eb7fa40"
+    },
+    {
+      "title": "RGG Studio Discusses Tupac's Game Inclusion",
+      "description": "Masayoshi Yokoyama from RGG Studio addresses the inclusion of Tupac in their upcoming game, emphasizing respect for his legacy.",
+      "category": "Gaming",
+      "source": "Game Informer",
+      "url": "https://gameinformer.com/2026/06/11/rgg-studio-head-talks-tupacs-controversial-stranger-than-heaven-inclusion",
+      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/10/dc363005/strangerthanheaven01.jpg.webp",
+      "published_at": "2026-06-11T15:42:41Z",
+      "key_points": [
+        "Tupac's legacy respected",
+        "RGG Studio discusses inclusion",
+        "Controversial game elements addressed"
+      ],
+      "impact": "This inclusion could spark significant discussions.",
+      "id": "c0a5497d1bfbfe57b64c1b9cc155f8b8"
+    },
+    {
+      "title": "Rimpact's New Mass Damper for Gravel Bikes",
+      "description": "Rimpact introduces a bolt-on tuned mass damper designed to reduce fatigue for gravel bike riders, enhancing comfort without replacing suspension forks.",
       "category": "Hardware",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/amazon-echo-hub-redesign-wide.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "published_at": "2026-06-11T22:06:32Z",
+      "source": "Outside Magazine",
+      "url": "https://velo.outsideonline.com/gravel/rimpact-bolt-on-mass-damper-gravel-bikes-promises-reduce-fatigue-first-look/#article",
+      "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/06/rimpact-tmd-for-gravel.jpg",
+      "published_at": "2026-06-11T15:30:11Z",
       "key_points": [
-        "Customizable home screen",
-        "Alexa Plus features",
-        "Enhanced video search"
+        "New mass damper for gravel bikes",
+        "Reduces rider fatigue",
+        "Enhances comfort without suspension"
       ],
-      "impact": "Echo Hub update improves user customization.",
-      "id": "65add8215d6cb0c8d31133a80d5d50d9"
-    },
-    {
-      "title": "Niantic Confirms No Data Sharing with Drone Company",
-      "description": "Niantic Spatial clarifies that it no longer shares Pokémon Go data with the drone company following its acquisition by Scopely. Data privacy remains a priority.",
-      "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/pokemon-go-niantic-spatial-drone-ai-map-training-gps-2000705669",
-      "image": "https://kotaku.com/app/uploads/2023/04/0e360c870e6b0950a14426b6a080997a-1200x675.jpg",
-      "published_at": "2026-06-11T21:26:30Z",
-      "key_points": [
-        "No data sharing confirmed",
-        "Privacy remains a priority",
-        "Acquisition impacts data policies"
-      ],
-      "impact": "Niantic reinforces commitment to user privacy.",
-      "id": "3e5f64d935923aecc7e9f7dad962fd3a"
-    },
-    {
-      "title": "WhatsApp Expands Multi-Account Support on iOS",
-      "description": "WhatsApp is rolling out multi-account support on iOS, fulfilling a highly requested feature. Users can now manage multiple accounts seamlessly.",
-      "category": "Software",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/11/whatsapp-rolling-out-multi-account-support-more-widely-on-ios/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-11T21:12:00Z",
-      "key_points": [
-        "Multi-account feature launched",
-        "Highly requested by users",
-        "Seamless account management"
-      ],
-      "impact": "WhatsApp enhances user flexibility with accounts.",
-      "id": "f403a22cfc8e230370c51b851f712139"
-    },
-    {
-      "title": "iPhone Ultra Set to Launch This Fall",
-      "description": "Apple's first foldable iPhone, rumored to be called iPhone Ultra, is expected to launch this fall with six new features. Anticipation builds for this innovative device.",
-      "category": "Hardware",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/11/iphone-ultra-is-coming-six-new-features-in-apples-top-tier-model/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-11T20:49:00Z",
-      "key_points": [
-        "First foldable iPhone",
-        "Launch expected this fall",
-        "Six new features anticipated"
-      ],
-      "impact": "iPhone Ultra promises innovative design and features.",
-      "id": "91e0cccaac3dc6f6053f5e717519a6ca"
-    },
-    {
-      "title": "Trump Phone Revealed as HTC Clone",
-      "description": "Teardown of the Trump Mobile T1 reveals it is nearly identical to the HTC U24 Pro, with minor modifications. The phone's origins raise questions about its uniqueness.",
-      "category": "Business",
-      "source": "Yahoo Entertainment",
-      "url": "https://tech.yahoo.com/phones/article/trump-phone-teardown-confirms-its-nearly-identical-to-an-existing-htc-phone-204012315.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/149a3b54986a111913cad9acdab23b07b5e253977a7df8799a7438f1ec5f610e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Ftrump-mobile-t1-phone_6131.jpg",
-      "published_at": "2026-06-11T20:40:12Z",
-      "key_points": [
-        "Trump phone teardown reveals clone",
-        "Identical to HTC U24 Pro",
-        "Minor tweaks noted"
-      ],
-      "impact": "Trump phone's uniqueness questioned after teardown.",
-      "id": "5c6a0e05f7f5d4bd005a2d752cf00616"
-    },
-    {
-      "title": "Telegram Revives Wear OS App After Five Years",
-      "description": "Telegram has reintroduced its Wear OS app, allowing Android smartwatch users to access chats and voice messages. This marks a significant return after five years.",
-      "category": "Software",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/06/11/telegram-wear-os-app-returns/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/telegram-wear-os-app-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-11T20:25:00Z",
-      "key_points": [
-        "Wear OS app returns",
-        "Access chats and voice messages",
-        "Five years absence"
-      ],
-      "impact": "Telegram enhances smartwatch functionality with app.",
-      "id": "de62cdb05363d5b78cf0642dbdd04361"
-    },
-    {
-      "title": "Xbox Considers In-Game Ads for Affordability",
-      "description": "Xbox's chief strategist suggests in-game ads could help keep products affordable and fund development teams. This proposal aims to balance user experience and costs.",
-      "category": "Gaming",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/gaming/xbox/oh-boy-xboxs-chief-strategist-is-floating-the-idea-of-in-game-ads",
-      "image": "https://cdn.mos.cms.futurecdn.net/xsrgVHEkxpsCxmdDvUsqrj-1523-80.jpg",
-      "published_at": "2026-06-11T18:31:55Z",
-      "key_points": [
-        "In-game ads proposed",
-        "Aim to keep products affordable",
-        "Support development funding"
-      ],
-      "impact": "Xbox explores ads to maintain affordability.",
-      "id": "ba5eb7ff0706fbe9334436bc192cb9a2"
-    },
-    {
-      "title": "Halo: Campaign Evolved Pre-Release Comparison",
-      "description": "A comparison of Halo: Campaign Evolved on Xbox Series X and Ally X shows notable differences based on early footage. Fans eagerly await the game's release.",
-      "category": "Gaming",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/06/halo-campaign-evolved-comparison-shows-difference-between-xbox-series-x-and-ally-x",
-      "image": "https://images.purexbox.com/06de523bfd186/large.jpg",
-      "published_at": "2026-06-11T18:30:00Z",
-      "key_points": [
-        "Pre-release footage comparison",
-        "Differences noted between consoles",
-        "Fans excited for release"
-      ],
-      "impact": "Halo: Campaign Evolved generates pre-launch buzz.",
-      "id": "e8913ca93a77cdc6f5058f9b11da9645"
-    },
-    {
-      "title": "Chatbots' Repeated Stories About Elias Thorne",
-      "description": "Chatbots frequently reference a character named Elias Thorne, raising questions about their creativity. A new study explores this phenomenon.",
-      "category": "AI",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/why-do-chatbots-keep-telling-stories-about-someone-named-elias-thorne-2000770629",
-      "image": "https://gizmodo.com/app/uploads/2023/08/e520de63962eac1bfbe941db24122a1a.jpg",
-      "published_at": "2026-06-11T18:20:05Z",
-      "key_points": [
-        "Chatbots lack creativity",
-        "Elias Thorne frequently mentioned",
-        "Study explores chatbot behavior"
-      ],
-      "impact": "Chatbots' storytelling raises creativity concerns.",
-      "id": "64d07598df0d994f7568f93f9be49cce"
-    },
-    {
-      "title": "Mina The Hollower's Unique Game Finale Explained",
-      "description": "Developers of Mina The Hollower discuss a Chrono Trigger-style twist in the game's finale, enhancing player experience. The game features seven main dungeons.",
-      "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/mina-the-hollower-ending-devs-chrono-trigger-style-grand-finale-2000705580",
-      "image": "https://kotaku.com/app/uploads/2025/10/minathehollower-1200x675.jpg",
-      "published_at": "2026-06-11T18:13:13Z",
-      "key_points": [
-        "Unique game finale twist",
-        "Chrono Trigger inspiration",
-        "Seven main dungeons"
-      ],
-      "impact": "Mina The Hollower offers innovative gameplay experience.",
-      "id": "5715f85b3362bc92b18e8c1ddd6dd3a8"
-    },
-    {
-      "title": "New GreatXML Exploit Bypasses Windows BitLocker",
-      "description": "A new exploit named GreatXML can bypass Windows BitLocker, exposing encrypted data. This vulnerability raises security concerns for users.",
-      "category": "Security",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqKyNLbT9WYm7m6ZsvIgv0mNbGJCrgEjUUXLbRZV9mmQUVi7jT9IiwlXh2kYKiMOrsCnJ-ZaoAK9GnL9jy6RHJELISIGFuLSZgsSYuclWFcPmItYL04pTVeA7cl_jy8L6RU4CVPypa6u24OH8hCwPL1g1tEVRczTV1YjZ5KUFGZc6DVw8Pdo_CFGXRTS-d/s1600/windows-bitlocker.jpg",
-      "published_at": "2026-06-11T17:43:00Z",
-      "key_points": [
-        "GreatXML exploit discovered",
-        "Bypasses BitLocker security",
-        "Exposes encrypted data"
-      ],
-      "impact": "New exploit poses serious security risks.",
-      "id": "d6dfe9a733b5347827f7fd40c745a868"
-    },
-    {
-      "title": "DJI Sues Insta360 Over Patent Violations",
-      "description": "DJI has filed lawsuits against Insta360 for allegedly violating multiple patents related to its Osmo Pocket products. The legal battle centers on design and functionality.",
-      "category": "Business",
-      "source": "PetaPixel",
-      "url": "https://petapixel.com/2026/06/11/dji-is-suing-insta360-for-violating-multiple-osmo-pocket-patents/",
-      "image": "https://petapixel.com/assets/uploads/2026/06/DJI-Is-Suing-Insta360-for-Violating-Multiple-Osmo-Pocket-Patents.jpg",
-      "published_at": "2026-06-11T17:27:53Z",
-      "key_points": [
-        "DJI files patent lawsuits",
-        "Insta360 accused of violations",
-        "Focus on Osmo Pocket products"
-      ],
-      "impact": "DJI's legal action highlights patent enforcement.",
-      "id": "f4d93e559977882fe40a1c748c6d7968"
-    },
-    {
-      "title": "Windows 11 Low Latency Profile CPU Boost Available",
-      "description": "Microsoft has released a cumulative update for Windows 11, enhancing CPU performance for the Start Menu. Users can expect improved responsiveness.",
-      "category": "Software",
-      "source": "VideoCardz.com",
-      "url": "https://videocardz.com/newz/microsoft-windows-11-low-latency-profile-cpu-boost-for-start-menu-is-now-available",
-      "image": "https://cdn.videocardz.com/1/2026/06/WINDOWS-11-START-MENU-BOOST-HERO.jpg",
-      "published_at": "2026-06-11T17:13:47Z",
-      "key_points": [
-        "Windows 11 update released",
-        "Boosts CPU performance",
-        "Improves Start Menu responsiveness"
-      ],
-      "impact": "Windows 11 update enhances user experience.",
-      "id": "6e8d8e53a7c23502b955b75fdfc34f8a"
+      "impact": "This innovation could improve gravel biking experiences.",
+      "id": "25d381ee488cdd77f405efd4bac8fb8b"
     }
   ]
 }

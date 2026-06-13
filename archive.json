@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-13T13:57:29.706026+00:00",
+      "fetched_at": "2026-06-13T13:57:29.706026+00:00",
+      "label": "Jun 13, 2026 — 01:58 PM UTC",
+      "articles": [
+        {
+          "title": "Arch Linux's AUR Compromised by Malware Attack",
+          "description": "Over 400 packages in Arch Linux's AUR were compromised in a significant malware campaign this week. Users are advised to check their installations immediately.",
+          "category": "Security",
+          "source": "Phoronix",
+          "url": "https://www.phoronix.com/news/Arch-Linux-AUR-400-Compromised",
+          "image": "https://www.phoronix.net/image.php?id=cachyos-thelio-major&image=cachyos_thelio_2",
+          "published_at": "2026-06-12T10:39:00Z",
+          "key_points": [
+            "400+ packages affected",
+            "Users urged to check installations",
+            "Significant malware campaign"
+          ],
+          "impact": "This breach raises serious security concerns for users.",
+          "id": "f974f52fa15096dae95efabcb7de2ab5"
+        },
+        {
+          "title": "Tomb Raider: Legacy of Atlantis Uses AI for Development",
+          "description": "Crystal Dynamics utilized generative AI to create placeholder assets for Tomb Raider: Legacy of Atlantis, enhancing visualization during development.",
+          "category": "Gaming",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/tomb-raider-legacy-of-atlantis-ai-use-explained",
+          "image": "https://assetsio.gnwcdn.com/Lara-Croft-sits-with-her-arms-open-in-Tomb-Raider-Legacy-of-Atlantis.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-12T09:08:25Z",
+          "key_points": [
+            "AI used for placeholder assets",
+            "Improves development speed",
+            "Enhances visualization process"
+          ],
+          "impact": "AI integration could revolutionize game development.",
+          "id": "825318c7cf5b027679ad003595bf1cb2"
+        },
+        {
+          "title": "Valve Confirms Steam Frame Shipping This Summer",
+          "description": "Valve has announced that the Steam Frame will begin shipping this summer, promising exciting new features for gamers.",
+          "category": "Gaming",
+          "source": "UploadVR",
+          "url": "https://www.uploadvr.com/steam-frame-is-shipping-this-summer-valve-confirms/",
+          "image": "",
+          "published_at": "2026-06-12T08:25:29Z",
+          "key_points": [
+            "Steam Frame shipping confirmed",
+            "Launch set for summer",
+            "New features for gamers"
+          ],
+          "impact": "This could enhance the gaming experience significantly.",
+          "id": "4fd13e1be902e5710023d2701e0e2fe2"
+        },
+        {
+          "title": "Apple iOS 27 Now Available for Developers",
+          "description": "Apple has officially released the first developer beta of iOS 27, featuring new functionalities and improvements for iPhone users.",
+          "category": "Software",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/davidphelan/2026/06/11/apple-ios-27-release-date-when-you-can-download-the-new-iphone-software---starts-now/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a2763c80ab4a2c742ab14e6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-12T00:42:00Z",
+          "key_points": [
+            "iOS 27 beta released",
+            "New features unveiled",
+            "Available for developers now"
+          ],
+          "impact": "Developers can now explore new iOS capabilities.",
+          "id": "cec4bda10f669316a30732dca7f35cdd"
+        },
+        {
+          "title": "Fable Embraces Life Sim Elements",
+          "description": "Fable is evolving into a life simulation game, introducing new gameplay features that enhance player interaction and experience.",
+          "category": "Gaming",
+          "source": "Simscommunity.info",
+          "url": "https://simscommunity.info/2026/06/12/fable-life-sim-gameplay-features/",
+          "image": "https://simscommunity.info/wp-content/uploads/2026/06/FABLE-Life-Sim-Xbox-FI.jpg",
+          "published_at": "2026-06-11T22:43:06Z",
+          "key_points": [
+            "Fable adds life sim features",
+            "New gameplay elements introduced",
+            "Focus on player interaction"
+          ],
+          "impact": "This shift could attract a broader audience.",
+          "id": "cf8d847b8bd605856f4bc416f3755ef2"
+        },
+        {
+          "title": "Waze to Receive Long-Awaited Visual Upgrade",
+          "description": "Waze is set to roll out a visual upgrade that users have been requesting, enhancing the overall navigation experience.",
+          "category": "Software",
+          "source": "Android Police",
+          "url": "https://www.androidpolice.com/waze-traffic-light-map-update/",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2024/10/waze.jpg?w=1600&h=900&fit=crop",
+          "published_at": "2026-06-11T22:21:11Z",
+          "key_points": [
+            "Waze visual upgrade coming",
+            "User-requested features",
+            "Enhanced navigation experience"
+          ],
+          "impact": "This update aims to improve user satisfaction.",
+          "id": "299895976fb914babcad3acdfb73bf8a"
+        },
+        {
+          "title": "iOS 27 Photos App Gets Major Improvements",
+          "description": "The Photos app in iOS 27 has received significant performance enhancements and new features aimed at improving user experience.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/guide/ios-27-photos-app/",
+          "image": "https://images.macrumors.com/t/unhPqyCVrTCjjDbsInY-zCuef6U=/2500x/article-new/2026/06/Whats-New-in-the-iOS-27-Photos-App-Feature.jpg",
+          "published_at": "2026-06-11T21:04:57Z",
+          "key_points": [
+            "Photos app improvements",
+            "New AI features added",
+            "Enhanced performance overall"
+          ],
+          "impact": "Users can expect a smoother photo management experience.",
+          "id": "55dd466392c493cd590d6c75b5222f2c"
+        },
+        {
+          "title": "Waymo Launches First National Ads Amid Competition",
+          "description": "Waymo is set to launch its first national advertising campaign to promote its driverless car service during the World Cup.",
+          "category": "Geopolitics",
+          "source": "The Wall Street Journal",
+          "url": "https://www.wsj.com/cmo-today/waymo-readies-first-national-ads-as-rivals-and-critics-proliferate-dcc1fbdb",
+          "image": "https://images.wsj.net/im-61537961/social",
+          "published_at": "2026-06-11T17:00:00Z",
+          "key_points": [
+            "Waymo launching national ads",
+            "Promoting driverless technology",
+            "Targeting World Cup audience"
+          ],
+          "impact": "This campaign aims to boost public perception.",
+          "id": "b4bae1490a9546884808a17c4049ee90"
+        },
+        {
+          "title": "Star Fox Designer Amazed by New Graphics",
+          "description": "The designer of Star Fox expressed emotional reactions to the stunning graphics in the upcoming Nintendo Switch 2 remake.",
+          "category": "Gaming",
+          "source": "Nintendo Everything",
+          "url": "https://nintendoeverything.com/star-fox-designer-choked-up-by-graphics-in-new-nintendo-switch-2-remake/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Star-Fox-update.jpg",
+          "published_at": "2026-06-11T16:56:55Z",
+          "key_points": [
+            "Designer impressed by graphics",
+            "New visuals for Star Fox",
+            "Excitement for upcoming release"
+          ],
+          "impact": "High expectations for the game's visual quality.",
+          "id": "afafef003aa1b67d918a2e06d97e61df"
+        },
+        {
+          "title": "Ocarina of Time Remake Revives Fan Hopes",
+          "description": "Fans reminisce about a 2011 tech demo as the Ocarina of Time remake promises to fulfill long-held dreams for Zelda enthusiasts.",
+          "category": "Gaming",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-could-fulfill-the-zelda-dream-killed-years-ago/",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/nintendoswitch2_thelegendofzelda_ocarinaoftime_screenshot.png?w=1600&h=900&fit=crop",
+          "published_at": "2026-06-11T16:41:44Z",
+          "key_points": [
+            "Fans excited for remake",
+            "Revives nostalgic memories",
+            "Tech demo sparked interest"
+          ],
+          "impact": "This remake could reignite Zelda fandom.",
+          "id": "e743b0bcc2ec2c44b53c60f83e0991f0"
+        },
+        {
+          "title": "Deezer Launches Tool to Identify AI Music",
+          "description": "Deezer has introduced a new tool that identifies AI-generated music across various streaming platforms, addressing growing concerns in the industry.",
+          "category": "Software",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2180853826.jpg?resize=1200,800",
+          "published_at": "2026-06-11T16:36:20Z",
+          "key_points": [
+            "Deezer identifies AI music",
+            "Tool scans multiple platforms",
+            "Addresses industry concerns"
+          ],
+          "impact": "This tool could reshape music streaming standards.",
+          "id": "d008a461e5817c493730745ee82bf1a6"
+        },
+        {
+          "title": "Rhythm Heaven Groove Previews Released",
+          "description": "Previews for Rhythm Heaven Groove have surfaced, generating excitement and speculation about the upcoming game.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/round-up-the-previews-are-in-for-rhythm-heaven-groove",
+          "image": "https://images.nintendolife.com/716e301164435/large.jpg",
+          "published_at": "2026-06-11T16:15:00Z",
+          "key_points": [
+            "Previews for Rhythm Heaven Groove",
+            "Excitement builds for release",
+            "Gameplay details revealed"
+          ],
+          "impact": "Anticipation is high for this title.",
+          "id": "4dad6fc51bb1d5616752b70f02715c5a"
+        },
+        {
+          "title": "Top JRPGs to Play Before Final Fantasy 7 Revelation",
+          "description": "With Final Fantasy 7 Revelation on the horizon, here are three must-play JRPGs to enjoy in the meantime.",
+          "category": "Gaming",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/best-jrpgs-like-ff7-revelation/",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/digimonstorytimestranger_header.jpg?w=1600&h=900&fit=crop",
+          "published_at": "2026-06-11T16:00:21Z",
+          "key_points": [
+            "Three JRPGs recommended",
+            "Perfect for waiting period",
+            "Exciting gameplay experiences"
+          ],
+          "impact": "These games will keep fans engaged.",
+          "id": "a3aeecd404e8fe43f2511e680eb7fa40"
+        },
+        {
+          "title": "RGG Studio Discusses Tupac's Game Inclusion",
+          "description": "Masayoshi Yokoyama from RGG Studio addresses the inclusion of Tupac in their upcoming game, emphasizing respect for his legacy.",
+          "category": "Gaming",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/2026/06/11/rgg-studio-head-talks-tupacs-controversial-stranger-than-heaven-inclusion",
+          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/10/dc363005/strangerthanheaven01.jpg.webp",
+          "published_at": "2026-06-11T15:42:41Z",
+          "key_points": [
+            "Tupac's legacy respected",
+            "RGG Studio discusses inclusion",
+            "Controversial game elements addressed"
+          ],
+          "impact": "This inclusion could spark significant discussions.",
+          "id": "c0a5497d1bfbfe57b64c1b9cc155f8b8"
+        },
+        {
+          "title": "Rimpact's New Mass Damper for Gravel Bikes",
+          "description": "Rimpact introduces a bolt-on tuned mass damper designed to reduce fatigue for gravel bike riders, enhancing comfort without replacing suspension forks.",
+          "category": "Hardware",
+          "source": "Outside Magazine",
+          "url": "https://velo.outsideonline.com/gravel/rimpact-bolt-on-mass-damper-gravel-bikes-promises-reduce-fatigue-first-look/#article",
+          "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/06/rimpact-tmd-for-gravel.jpg",
+          "published_at": "2026-06-11T15:30:11Z",
+          "key_points": [
+            "New mass damper for gravel bikes",
+            "Reduces rider fatigue",
+            "Enhances comfort without suspension"
+          ],
+          "impact": "This innovation could improve gravel biking experiences.",
+          "id": "25d381ee488cdd77f405efd4bac8fb8b"
+        }
+      ]
+    },
+    {
       "id": "2026-06-13T11:16:41.633083+00:00",
       "fetched_at": "2026-06-13T11:16:41.633083+00:00",
       "label": "Jun 13, 2026 — 11:17 AM UTC",
@@ -5592,61 +5839,6 @@
           ],
           "impact": "Could revolutionize the smartphone market.",
           "id": "f9e030669e601b11993ef5ad14d2c5c9"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-07T16:14:16.309017+00:00",
-      "fetched_at": "2026-06-07T16:14:16.309017+00:00",
-      "label": "Jun 07, 2026 — 04:14 PM UTC",
-      "articles": [
-        {
-          "title": "Sonic Racing: CrossWorlds adds Godzilla and Evangelion DLC",
-          "description": "SEGA announces new DLC for Sonic Racing: CrossWorlds featuring Godzilla and Evangelion. Release dates will be revealed later.",
-          "category": "Gaming",
-          "source": "Nintendoeverything.com",
-          "url": "https://nintendoeverything.com/sonic-racing-crossworlds-announces-godzilla-and-evangelion-dlc/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Sonic-Racing-CrossWorlds-Godzilla-and-Evangelion-DLC.png",
-          "published_at": "2026-06-06T01:32:46Z",
-          "key_points": [
-            "New DLC features Godzilla",
-            "Evangelion collaboration announced",
-            "Release timing pending"
-          ],
-          "impact": "This expands Sonic Racing's appeal to fans.",
-          "id": "c3d82689b685dd0b2d833b234049de27"
-        },
-        {
-          "title": "Fumito Ueda unveils Gen Atlas for multiple platforms",
-          "description": "Legendary developer Fumito Ueda announces Gen Atlas, a new single-player game for Xbox, PlayStation, and PC. The game promises moments of quiet wonder and discovery.",
-          "category": "Gaming",
-          "source": "Eurogamer.net",
-          "url": "https://www.eurogamer.net/fumito-ueda-shadow-of-the-colossus-ico-gen-atlas-or-xbox-playstation-pc",
-          "image": "https://assetsio.gnwcdn.com/Ueda_FSZC1j7.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-05T21:18:10Z",
-          "key_points": [
-            "New game by Fumito Ueda",
-            "Available on Xbox, PlayStation, PC",
-            "Focus on exploration and discovery"
-          ],
-          "impact": "Ueda's new title raises anticipation among gamers.",
-          "id": "ce72100a3ca7802a21c74628c3a04cfa"
-        },
-        {
-          "title": "Switch 2 sales plummet 87% in Japan",
-          "description": "Sales of the Switch 2 in Japan dropped 87% following a price increase. Original Switch sales also declined significantly.",
-          "category": "Gaming",
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/switch-2-sales-drop-87-in-japan-following-surge-ahead-of-cost-revisions",
-          "image": "https://assetsio.gnwcdn.com/how-much-will-switch-2-cost-nintendo-says-it-needs-to-consid_gvt1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-05T08:14:13Z",
-          "key_points": [
-            "Switch 2 sales down 87%",
-            "Price increase impacts sales",
-            "Original Switch also sees decline"
-          ],
-          "impact": "Nintendo faces challenges post-price revision.",
-          "id": "542ab5d6dc389657afd82b6710f4c366"
         }
       ]
     }
