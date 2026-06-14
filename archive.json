@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-14T19:25:07.543220+00:00",
+      "fetched_at": "2026-06-14T19:25:07.543220+00:00",
+      "label": "Jun 14, 2026 — 07:25 PM UTC",
+      "articles": [
+        {
+          "title": "iPhone 18 Pro Launch Expected in September",
+          "description": "Apple's WWDC 2026 hints at a September release for the iPhone 18 Pro and its variants, following last year's pattern.",
+          "category": "Business",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/davidphelan/2026/06/13/apple-iphone-18-pro-release-date-september-2026/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/695d93b89d51c957214caa7d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-13T17:11:43Z",
+          "key_points": [
+            "September launch anticipated",
+            "WWDC hints at features",
+            "Foldable iPhone rumored"
+          ],
+          "impact": "Apple's new iPhone could boost sales significantly.",
+          "id": "6c4012ca2d5b02ee117fd943bb19c74c"
+        },
+        {
+          "title": "6 Expert Tips to Boost Your Patience",
+          "description": "Experts share six effective strategies to help you cultivate patience in today's fast-paced world.",
+          "category": "Business",
+          "source": "The Washington Post",
+          "url": "https://www.washingtonpost.com/wellness/2026/06/13/6-ways-be-more-patient-according-experts/",
+          "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/BQDCPQDTS7XSNB33EFAFOUCSEA.jpg&w=1440",
+          "published_at": "2026-06-13T16:40:42Z",
+          "key_points": [
+            "Practice mindfulness techniques",
+            "Set realistic expectations",
+            "Take deep breaths often"
+          ],
+          "impact": "Improving patience can enhance overall well-being.",
+          "id": "ec753877a394e3720ceb8dff289fdd65"
+        },
+        {
+          "title": "Super Mario Bros. Auctioned for $3 Million",
+          "description": "A rare copy of Super Mario Bros. sold for a staggering $3 million, setting a new auction record for video games.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/copy-of-super-mario-bros-sells-for-3-million-in-auction-2000706228",
+          "image": "https://kotaku.com/app/uploads/2026/06/mariogold-1200x675.jpg",
+          "published_at": "2026-06-13T15:17:51Z",
+          "key_points": [
+            "Record-breaking auction price",
+            "Rare sticker seal copy",
+            "Collector frenzy continues"
+          ],
+          "impact": "This sale highlights the growing value of retro games.",
+          "id": "2ab97375024f5ad6d17587ac9ce04b69"
+        },
+        {
+          "title": "First Impressions of Siri AI on Mac",
+          "description": "Testing Apple's new Siri AI on macOS 27 reveals improvements but also noticeable limitations compared to iPhone.",
+          "category": "Software",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/061326_Siri_AI_MacBook_Pro_macOS_27_Golden_Gate_beta_ADiBenedetto_0003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-13T15:00:00Z",
+          "key_points": [
+            "Siri shows notable improvements",
+            "Limitations more apparent on Mac",
+            "User experience varies significantly"
+          ],
+          "impact": "Siri's upgrade aims to enhance user engagement.",
+          "id": "32a09a489ecbe77b5d9dbe457d92e481"
+        },
+        {
+          "title": "MacBook Pro vs. Air: Longevity Comparison",
+          "description": "Both MacBook Pro and Air have similar lifespans, influenced by user care and hardware specifications.",
+          "category": "Hardware",
+          "source": "BGR",
+          "url": "https://www.bgr.com/2190542/macbook-pro-or-air-which-apple-laptop-lasts-longer/",
+          "image": "https://www.bgr.com/img/gallery/macbook-pro-or-macbook-air-which-apple-laptop-lasts-longer/l-intro-1781020857.jpg",
+          "published_at": "2026-06-13T14:47:00Z",
+          "key_points": [
+            "Similar lifespan for both models",
+            "User care impacts longevity",
+            "Silicon choice matters"
+          ],
+          "impact": "Choosing the right model can extend usability.",
+          "id": "3c1093d0a3301aa7da93e6499443e06b"
+        },
+        {
+          "title": "Fitbit Air Beats Pixel Watch for Me",
+          "description": "Switching from Pixel Watch to Fitbit Air has simplified my life, despite some utility trade-offs.",
+          "category": "Hardware",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/13/the-fitbit-air-made-me-ditch-my-pixel-watch-and-i-couldnt-be-happier/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Fitbit-Air-in-Fog-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-13T14:30:00Z",
+          "key_points": [
+            "Fitbit Air offers simplicity",
+            "Less frequent charging needed",
+            "Utility trade-offs accepted"
+          ],
+          "impact": "The switch improved my daily routine significantly.",
+          "id": "601bd373d8bd6d613019c9308f805b16"
+        },
+        {
+          "title": "Living with Strangers: A Surprising Choice",
+          "description": "After college, living with strangers proved easier than expected, changing my perspective on roommate dynamics.",
+          "category": "Business",
+          "source": "Business Insider",
+          "url": "https://www.businessinsider.com/living-with-strangers-instead-of-friends-after-college-worth-it-2026-6#article",
+          "image": "https://i.insider.com/6a2716410421ca48aa59fe57?width=1200&format=jpeg",
+          "published_at": "2026-06-13T14:19:07Z",
+          "key_points": [
+            "Easier than living with friends",
+            "Strangers can be more compatible",
+            "New roommate dynamics explored"
+          ],
+          "impact": "Living with strangers can be surprisingly beneficial.",
+          "id": "a2b8dd8c8399db836371a610877d76fc"
+        },
+        {
+          "title": "Destiny 2's Ending: A Silver Lining",
+          "description": "Despite the end of Destiny 2, the game's final update has brought a surge of player engagement and excitement.",
+          "category": "Gaming",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/06/13/the-only-good-thing-about-destiny-2-ending/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a2d58e553ba9450176da20a/0x0.jpg?format=jpg&crop=2562,1440,x437,y0,safe&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-13T13:24:54Z",
+          "key_points": [
+            "Final update impresses players",
+            "High concurrent player counts",
+            "Community engagement remains strong"
+          ],
+          "impact": "The ending has revitalized player interest.",
+          "id": "05095cc2fc39fa91cb228ae38c94396b"
+        },
+        {
+          "title": "Siri's Major AI Update Launches",
+          "description": "Apple's significant Siri AI update is now live, marking a pivotal moment for the assistant's capabilities.",
+          "category": "Software",
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/06/13/tech/apple-siri-ai-update",
+          "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap25002711885098.jpg?c=16x9&q=w_800,c_fill",
+          "published_at": "2026-06-13T10:30:09Z",
+          "key_points": [
+            "Major AI upgrade announced",
+            "New features expected",
+            "User experience improvements anticipated"
+          ],
+          "impact": "This update aims to enhance Siri's competitiveness.",
+          "id": "2b27df7d0b5afd53e3c4d66751776cb3"
+        },
+        {
+          "title": "Has All Earth's Water Been Peeed Out?",
+          "description": "Exploring the intriguing question of whether all water on Earth has been recycled through living beings.",
+          "category": "Science",
+          "source": "Live Science",
+          "url": "https://www.livescience.com/planet-earth/has-all-the-water-on-earth-been-peed-before",
+          "image": "https://cdn.mos.cms.futurecdn.net/EEoEgf5ZTNwfj6W7hQo36C-1920-80.jpg",
+          "published_at": "2026-06-13T09:00:00Z",
+          "key_points": [
+            "Water recycling concept explored",
+            "Interesting ecological implications",
+            "Curiosity about Earth's water cycle"
+          ],
+          "impact": "Understanding water's journey is fascinating.",
+          "id": "889c02ffeb99f7c49f0844f588b17e10"
+        },
+        {
+          "title": "June 2026 Nintendo Direct Highlights",
+          "description": "The latest Nintendo Direct showcased exciting announcements for Switch and Switch 2, rated by fans.",
+          "category": "Gaming",
+          "source": "Nintendo Everything",
+          "url": "https://nintendoeverything.com/june-2026-nintendo-direct-rating/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Direct-June-2026-Ratings.jpg",
+          "published_at": "2026-06-13T04:02:02Z",
+          "key_points": [
+            "Packed with game announcements",
+            "First Direct since September",
+            "Fan ratings assessed"
+          ],
+          "impact": "Fans are excited for upcoming Nintendo titles.",
+          "id": "5d4fd88a814bc4cd4384f83614e52a30"
+        },
+        {
+          "title": "Property Rights: Tree Cutting Dilemma",
+          "description": "Exploring the complexities of property rights regarding tree removal and local government regulations.",
+          "category": "Policy",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/06/12/nx-s1-5856509/property-rights-zoning-laws-trees-portland-oregon",
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/1400/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7e%2Ff8%2F1fd6a0a44a58893e961246905497%2F0fa2980c-4427-414f-b312-8f74a89c64db.png",
+          "published_at": "2026-06-12T22:00:00Z",
+          "key_points": [
+            "Tree removal regulations discussed",
+            "Permits often required",
+            "Local laws vary significantly"
+          ],
+          "impact": "Understanding property rights is crucial for homeowners.",
+          "id": "b61fb3a02927315b443de4e824b7082a"
+        },
+        {
+          "title": "PowerA's New Controller for Flight Simulator",
+          "description": "PowerA unveils a specialized controller for Microsoft Flight Simulator 2024, compatible with Xbox.",
+          "category": "Gaming",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/gaming/xbox/powera-now-wants-in-on-microsoft-flight-simulator-2024-with-a-specialist-new-controller-and-itll-work-on-xbox-too",
+          "image": "https://cdn.mos.cms.futurecdn.net/kWMigJ6x6iuvggp7wABKqV-1244-80.jpg",
+          "published_at": "2026-06-12T21:34:49Z",
+          "key_points": [
+            "Specialized controller revealed",
+            "Designed for flight simulation",
+            "Compatible with Xbox consoles"
+          ],
+          "impact": "This controller enhances the flight simulation experience.",
+          "id": "6b6caf8441e872ded86471c1d448a89f"
+        },
+        {
+          "title": "Google AI Mode Introduces Search Agents",
+          "description": "Google's new AI Mode features Search agents that track information for users, enhancing search capabilities.",
+          "category": "Software",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/12/google-information-agents/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/google-ai-mode-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-12T21:30:00Z",
+          "key_points": [
+            "Search agents now rolling out",
+            "AI Mode enhances user experience",
+            "Background tracking capabilities introduced"
+          ],
+          "impact": "This innovation aims to streamline information retrieval.",
+          "id": "4e19c647fd614ce4c86d10d5bfd7d5fb"
+        },
+        {
+          "title": "Historic Home of Casablanca Director for Sale",
+          "description": "A 1920s home once owned by Casablanca's director is hitting the market for nearly $6 million.",
+          "category": "Business",
+          "source": "Mansion Global",
+          "url": "https://www.mansionglobal.com/articles/1920s-home-once-owned-by-the-director-of-casablancaand-later-gene-hackmanto-hit-the-market-2746a020",
+          "image": "https://images.mansionglobal.com/im-09773687/social",
+          "published_at": "2026-06-12T21:03:00Z",
+          "key_points": [
+            "Historic home listed for sale",
+            "Formerly owned by Gene Hackman",
+            "Asking price nearly $6 million"
+          ],
+          "impact": "This property attracts interest from collectors.",
+          "id": "90a9db886f9b35e134197ed5bd9801bf"
+        }
+      ]
+    },
+    {
       "id": "2026-06-14T14:00:22.397555+00:00",
       "fetched_at": "2026-06-14T14:00:22.397555+00:00",
       "label": "Jun 14, 2026 — 02:00 PM UTC",
@@ -5752,173 +5999,6 @@
           ],
           "impact": "Fans eagerly await the next chapter in the series.",
           "id": "200f1dc1d9e26503e90de5a53d450f26"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-08T22:25:43.047543+00:00",
-      "fetched_at": "2026-06-08T22:25:43.047543+00:00",
-      "label": "Jun 08, 2026 — 10:26 PM UTC",
-      "articles": [
-        {
-          "title": "Spyro Returns on PS5 in A Realm Beyond",
-          "description": "Spyro the Dragon is back with a new game, 'A Realm Beyond,' launching on PS5 in Spring 2027. The announcement trailer is now available.",
-          "category": "Gaming",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/06/spyro-returns-on-ps5-in-a-realm-beyond-his-first-original-game-in-nearly-20-years",
-          "image": "https://images.pushsquare.com/5c3d37a802bef/large.jpg",
-          "published_at": "2026-06-07T17:11:00Z",
-          "key_points": [
-            "New Spyro game announced",
-            "Launches Spring 2027",
-            "Developed by Toys for Bob"
-          ],
-          "impact": "Spyro's return revitalizes interest in classic franchises.",
-          "id": "56e6f9a697b4cb95c3e4b346c8ac1769"
-        },
-        {
-          "title": "The Big Bad Wolf Among Us 2 Interview",
-          "description": "Telltale CEO discusses the long-awaited sequel, 'The Wolf Among Us 2,' and its development challenges. The game is set for a 2027 release.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/telltale-ceo-explains-why-the-wolf-among-us-2-has-taken-so-long-and-what-happened-with-that-split-with-dispatch-maker-ad-hoc",
-          "image": "https://assets-prd.ignimgs.com/2026/06/05/waur-screenshot-8-1780651084233.png?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-07T16:35:04Z",
-          "key_points": [
-            "Sequel finally in development",
-            "Launch planned for 2027",
-            "Partnership changes discussed"
-          ],
-          "impact": "Fans eagerly await the return of Bigby Wolf.",
-          "id": "bf8c54d53632faad5cdb02f652d99a0c"
-        },
-        {
-          "title": "‘Star Trek’ Goes To the Scary Frontier",
-          "description": "Bloober Team is developing 'Star Trek: Shadow Frontier,' a horror-themed video game set in the Star Trek universe. Expect psychological thrills.",
-          "category": "Gaming",
-          "source": "Gizmodo",
-          "url": "https://gizmodo.com/star-trek-goes-to-the-scary-frontier-in-next-major-video-game-2000768429",
-          "image": "https://gizmodo.com/app/uploads/2026/06/star-trek-shadow-hed-1200x675.jpg",
-          "published_at": "2026-06-07T15:50:51Z",
-          "key_points": [
-            "New horror Star Trek game",
-            "Developed by Bloober Team",
-            "Psychological thrills await"
-          ],
-          "impact": "This game expands Star Trek's genre boundaries.",
-          "id": "7df3a145dd3f678f24c08dc3cca79013"
-        },
-        {
-          "title": "Minecraft Dungeons II Gameplay Reveal",
-          "description": "Minecraft Dungeons II is set to release on September 28, 2026, with an exciting new gameplay trailer now available. Prepare for new adventures!",
-          "category": "Gaming",
-          "source": "Minecraft",
-          "url": "https://www.minecraft.net/en-us/article/minecraft-dungeons-ii-date-announce",
-          "image": "https://www.minecraft.net/content/dam/minecraftnet/games/spicewood/key-art/xboxliveshowcase_1170x500.jpg",
-          "published_at": "2026-06-07T15:21:57Z",
-          "key_points": [
-            "Release date: September 28",
-            "New gameplay trailer released",
-            "Exciting adventures await"
-          ],
-          "impact": "Fans are excited for the next Minecraft adventure.",
-          "id": "9f68330e85d1a0c5d2477bf8f2edbdb7"
-        },
-        {
-          "title": "Why Did Apple Stop Using Titanium For iPhones?",
-          "description": "Apple has dropped titanium for the iPhone 17 Pro, despite its previous popularity. The decision is based on practical considerations.",
-          "category": "Business",
-          "source": "BGR",
-          "url": "https://www.bgr.com/2185760/why-did-apple-stop-using-titanium-for-iphones/",
-          "image": "https://www.bgr.com/img/gallery/why-did-apple-stop-using-titanium-for-iphones/l-intro-1780414291.jpg",
-          "published_at": "2026-06-07T12:17:00Z",
-          "key_points": [
-            "Titanium was a selling point",
-            "Dropped for iPhone 17 Pro",
-            "Practical reasons behind decision"
-          ],
-          "impact": "Apple's material choices impact product marketing.",
-          "id": "79fca7491d90ee22c50dc0a1ac142d34"
-        },
-        {
-          "title": "How to Watch Apple’s WWDC 2026 Keynote",
-          "description": "Apple's WWDC 2026 is approaching, featuring updates on iOS 27 and potential new hardware. Here's how to tune in.",
-          "category": "Software",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/how-to-watch-apple-wwdc-2026/",
-          "image": "https://media.wired.com/photos/6a202a61b10c1400bea9fbfd/191:100/w_1280,c_limit/GettyImages-2218819259.jpg",
-          "published_at": "2026-06-07T09:30:00Z",
-          "key_points": [
-            "WWDC 2026 is upcoming",
-            "Expect iOS 27 updates",
-            "Potential new hardware announcements"
-          ],
-          "impact": "WWDC sets the stage for Apple's software future.",
-          "id": "59cf36be06d3ff671c2021300466335b"
-        },
-        {
-          "title": "Samsung Galaxy S26 Ultra Review",
-          "description": "The Samsung Galaxy S26 Ultra impresses with its consistent excellence and innovative features, solidifying its place in the Android market.",
-          "category": "Hardware",
-          "source": "Digital Trends",
-          "url": "https://www.digitaltrends.com/phones/samsung-galaxy-s26-ultra-review/",
-          "image": "https://www.digitaltrends.com/tachyon/2026/06/samsung-galaxy-s26-ultra-smartphone-4.jpg?resize=1200%2C630",
-          "published_at": "2026-06-07T05:00:51Z",
-          "key_points": [
-            "Consistent excellence showcased",
-            "Innovative features highlighted",
-            "Strong Android contender"
-          ],
-          "impact": "Samsung continues to lead in smartphone innovation.",
-          "id": "7fabe76198a95b30ac0463b387d4807b"
-        },
-        {
-          "title": "The 12-Month Mac: MacBook Neo's New Lifecycle",
-          "description": "Apple's MacBook Neo aligns with the iPhone lifecycle, raising questions about demand and resource allocation for new models.",
-          "category": "Business",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/ewanspence/2026/06/06/apple-macbook-neo-silicon-margins-strategy/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/69c809ae802570fd0a3387e1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "published_at": "2026-06-07T00:38:13Z",
-          "key_points": [
-            "MacBook Neo follows iPhone lifecycle",
-            "Demand and resources questioned",
-            "Strategic alignment with smartphones"
-          ],
-          "impact": "Apple's strategy may reshape laptop sales.",
-          "id": "22c6949d422472e3014ded63c65e7b70"
-        },
-        {
-          "title": "Microsoft Lets You Kill Bing in Windows 11 Search",
-          "description": "Microsoft is testing a feature to disable Bing in Windows 11 Search, allowing users to remove unwanted web results.",
-          "category": "Software",
-          "source": "Windows Latest",
-          "url": "https://www.windowslatest.com/2026/06/07/microsoft-is-letting-you-kill-bing-in-windows-11-search-after-years-of-forcing-it-on-every-pc/",
-          "image": "https://www.windowslatest.com/wp-content/uploads/2026/06/Windows-Search-without-Bing-scaled.jpg",
-          "published_at": "2026-06-06T23:44:23Z",
-          "key_points": [
-            "New toggle for Windows 11 Search",
-            "Disables Bing and web results",
-            "User control over search experience"
-          ],
-          "impact": "Users gain more control over search functionality.",
-          "id": "6bb3d1542e7ad27945a2ca35a940c097"
-        },
-        {
-          "title": "Control Resonant Developer Remedy's September Release Plan",
-          "description": "Remedy plans a major marketing campaign for 'Control Resonant' to navigate a crowded September release window.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/control-resonant-developer-remedy-admits-packed-september-release-window-is-challenging-but-it-has-a-plan",
-          "image": "https://assets-prd.ignimgs.com/2026/06/06/ss-75b1cde9947eea89eed52cf8f6471683f2e666a9-1920x1080-1780781092322.jpg?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-06T21:26:03Z",
-          "key_points": [
-            "Packed September release window",
-            "Major marketing campaign planned",
-            "Remedy aims to stand out"
-          ],
-          "impact": "Remedy's strategy is crucial for success.",
-          "id": "e8b5e902bb5d388cfc89c2c2a34c234a"
         }
       ]
     }
