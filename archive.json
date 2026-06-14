@@ -1,6 +1,189 @@
 {
   "batches": [
     {
+      "id": "2026-06-14T14:00:22.397555+00:00",
+      "fetched_at": "2026-06-14T14:00:22.397555+00:00",
+      "label": "Jun 14, 2026 — 02:00 PM UTC",
+      "articles": [
+        {
+          "title": "Xbox Games Showcase 2026: Share Your Favorites!",
+          "description": "What were your favorite announcements from the Xbox Games Showcase 2026? Share your thoughts on titles like Gears of War: E-Day and Clockwork Revolution.",
+          "category": "Gaming",
+          "source": "TrueAchievements",
+          "url": "https://www.trueachievements.com/poll/62717/poll-xbox-games-showcase-2026",
+          "image": "https://www.trueachievements.com/imgs/175974/poll-xbox-games-showcase-2026.jpg",
+          "published_at": "2026-06-13T08:03:59Z",
+          "key_points": [
+            "Gears of War: E-Day announced",
+            "Clockwork Revolution revealed",
+            "Community poll open now"
+          ],
+          "impact": "Fans are eager to discuss their favorites.",
+          "id": "e6e72a6e74cfbd59b7f2f4339f21aa50"
+        },
+        {
+          "title": "Massive Bandai Namco Sale on Nintendo Switch 2",
+          "description": "Bandai Namco's eShop sale features major discounts on titles like Tales of Berseria and Xillia Remastered, with many games at their lowest prices ever.",
+          "category": "Gaming",
+          "source": "Nintendoeverything.com",
+          "url": "https://nintendoeverything.com/bandai-namco-sale-switch-2-switch-tales-berseria-xillia-once-upon-a-katamari/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Bandai-Namco-Switch-2-Switch-sale-Tales-of-Berseria-Xillia-Katamari.jpg",
+          "published_at": "2026-06-13T04:52:02Z",
+          "key_points": [
+            "Big discounts on popular titles",
+            "Lowest prices ever",
+            "Sale includes Switch 2 games"
+          ],
+          "impact": "Gamers can save significantly on purchases.",
+          "id": "a3edfb5b678e8283c40cda435463f805"
+        },
+        {
+          "title": "T-Mobile Users Enjoy Better Service Than Competitors",
+          "description": "T-Mobile users currently experience superior service compared to AT&T and Verizon, but this advantage may not last long.",
+          "category": "Business",
+          "source": "PhoneArena",
+          "url": "https://www.phonearena.com/news/at-t-t-mobile-verizon-5g_id181067",
+          "image": "",
+          "published_at": "2026-06-12T21:51:29Z",
+          "key_points": [
+            "T-Mobile leads in user satisfaction",
+            "AT&T and Verizon lag behind",
+            "Service quality may change soon"
+          ],
+          "impact": "T-Mobile's edge could diminish quickly.",
+          "id": "ae5ec22e9b5e2f1f0bc2b241fd5841ad"
+        },
+        {
+          "title": "Activist Investors Push For FromSoftware Self-Publishing",
+          "description": "Activist investors are urging FromSoftware to self-publish, claiming current publisher deals are unfavorable for the company.",
+          "category": "Business",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/activist-investors-elden-ring-developer-fromsoftware-2000706037",
+          "image": "https://kotaku.com/app/uploads/2025/04/eacc0e56ca6aeb681cff8909d4cf7b40-1200x675.jpg",
+          "published_at": "2026-06-12T20:12:33Z",
+          "key_points": [
+            "Investors demand self-publishing",
+            "Current deals deemed unfavorable",
+            "Focus on FromSoftware's future"
+          ],
+          "impact": "This could reshape FromSoftware's strategy.",
+          "id": "a4985f1ab6184bfc7ad3421195e7c690"
+        },
+        {
+          "title": "Microsoft Updates Key Windows 11 Apps",
+          "description": "Microsoft has rolled out significant updates for Windows 11's built-in apps, enhancing features for Paint, Clock, and Calculator.",
+          "category": "Software",
+          "source": "Neowin",
+          "url": "https://www.neowin.net/news/microsoft-releases-major-feature-updates-for-stock-windows-11-apps/",
+          "image": "https://cdn.neowin.com/news/images/uploaded/2026/06/1781290082_windows_11_apps_story.webp",
+          "published_at": "2026-06-12T19:00:00Z",
+          "key_points": [
+            "Major updates for Windows apps",
+            "New features for Paint and Clock",
+            "Improved user experience"
+          ],
+          "impact": "Users benefit from enhanced app functionality.",
+          "id": "b302c880f7cf532ec80df8a07060a3cc"
+        },
+        {
+          "title": "Persona 6 Officially Announced by Atlus",
+          "description": "Atlus has confirmed Persona 6, revealing details and speculation about its release timeline after years of anticipation.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/everything-we-know-about-persona-6",
+          "image": "https://assets-prd.ignimgs.com/2026/06/07/4k-xbox-games-showcase-2026-gears-of-war-e-day-direct-01-48-12-1780855196475.png?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-12T18:10:07Z",
+          "key_points": [
+            "Persona 6 officially confirmed",
+            "Details on release timeline",
+            "Anticipation builds among fans"
+          ],
+          "impact": "Fans are excited for the new installment.",
+          "id": "73192c2b5fe2483fb5d9bf2518128e9b"
+        },
+        {
+          "title": "Early Prime Day Garmin Watch Deals Available",
+          "description": "Amazon has launched early Prime Day deals on Garmin watches, offering discounts up to 50% on popular models like Fenix and Venu.",
+          "category": "Business",
+          "source": "Android Central",
+          "url": "https://www.androidcentral.com/wearables/garmin/early-prime-day-garmin-deals-2026",
+          "image": "https://cdn.mos.cms.futurecdn.net/WyW7xtNLf2SBT6XKwm5STR-2560-80.jpg",
+          "published_at": "2026-06-12T17:38:59Z",
+          "key_points": [
+            "Up to 50% off Garmin watches",
+            "Early Prime Day discounts",
+            "Popular models included"
+          ],
+          "impact": "Shoppers can save big on fitness tech.",
+          "id": "4487485eed0dea31c92b3983a28b6c98"
+        },
+        {
+          "title": "New Xenomorph Image Revealed for Alien: Isolation 2",
+          "description": "Creative Assembly has shared a new image of the Xenomorph, Stompy, from Alien: Isolation 2, showcasing its design.",
+          "category": "Gaming",
+          "source": "Avpgalaxy.net",
+          "url": "https://www.avpgalaxy.net/2026/06/12/creative-assembly-reintroduces-stompy-with-new-alien-isolation-2-xenomorph-picture/",
+          "image": "https://www.avpgalaxy.net/wordpress/wp-content/uploads/2026/06/HKnzDruWEAAYd6n.jpg",
+          "published_at": "2026-06-12T17:20:10Z",
+          "key_points": [
+            "New Xenomorph design revealed",
+            "Stompy returns in sequel",
+            "Fans excited for Alien: Isolation 2"
+          ],
+          "impact": "Anticipation for the game continues to grow.",
+          "id": "0cebb3c0611ab10e459f48c1b0d0c0d7"
+        },
+        {
+          "title": "Grow a Garden 2: Complete Plants and Seeds Guide",
+          "description": "Discover the full list of plants and seeds available in Grow a Garden 2, including how to acquire them.",
+          "category": "Gaming",
+          "source": "Beebom",
+          "url": "https://beebom.com/grow-a-garden-2-plants-and-seeds/",
+          "image": "https://static.beebom.com/wp-content/uploads/2026/06/Grow-a-Garden-2-seeds-and-plants.jpg",
+          "published_at": "2026-06-12T16:53:17Z",
+          "key_points": [
+            "Complete plants and seeds list",
+            "Learn acquisition methods",
+            "Enhance your gardening strategy"
+          ],
+          "impact": "Players can optimize their gardening experience.",
+          "id": "6ce7995907b7ca7bfd2951435f719dd1"
+        },
+        {
+          "title": "Insta360 Countersues DJI Over Patent Violations",
+          "description": "Insta360 has filed a countersuit against DJI, claiming five patent violations related to gimbal and 360-degree camera technology.",
+          "category": "Business",
+          "source": "PetaPixel",
+          "url": "https://petapixel.com/2026/06/12/insta360-countersues-dji-asserting-five-patent-violations/",
+          "image": "https://petapixel.com/assets/uploads/2026/06/Insta360-Intends-to-Prove-the-Luna-Is-an-Original-Idea-Not-Based-on-DJIs-Patents.jpg",
+          "published_at": "2026-06-12T14:33:34Z",
+          "key_points": [
+            "Insta360 countersues DJI",
+            "Claims five patent violations",
+            "Focus on camera technology"
+          ],
+          "impact": "Legal battle could impact both companies.",
+          "id": "1693f949460e9737e0ebb03676f6701c"
+        },
+        {
+          "title": "Valor Mortis Delayed Ahead of Release",
+          "description": "Valor Mortis has been delayed to avoid competition with major releases in September, following its initial announcement at the Xbox Games Showcase.",
+          "category": "Gaming",
+          "source": "TrueAchievements",
+          "url": "https://www.trueachievements.com/news/valor-mortis-delayed",
+          "image": "https://www.trueachievements.com/imgs/176051/valor-mortis-delayed.jpg",
+          "published_at": "2026-06-12T12:45:43Z",
+          "key_points": [
+            "Valor Mortis release delayed",
+            "Avoiding September competition",
+            "New release date pending"
+          ],
+          "impact": "Fans await the new release timeline.",
+          "id": "1af28ab4333125151d8f0b89d499e26a"
+        }
+      ]
+    },
+    {
       "id": "2026-06-14T09:32:09.174991+00:00",
       "fetched_at": "2026-06-14T09:32:09.174991+00:00",
       "label": "Jun 14, 2026 — 09:32 AM UTC",
@@ -5736,253 +5919,6 @@
           ],
           "impact": "Remedy's strategy is crucial for success.",
           "id": "e8b5e902bb5d388cfc89c2c2a34c234a"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-08T20:13:08.479819+00:00",
-      "fetched_at": "2026-06-08T20:13:08.479819+00:00",
-      "label": "Jun 08, 2026 — 08:13 PM UTC",
-      "articles": [
-        {
-          "title": "Final Fantasy VII Revelation: Queen's Blood Returns",
-          "description": "Final Fantasy VII Remake Trilogy director reveals changes to the beloved card game in the trilogy's final entry. Exciting updates await fans of Queen's Blood.",
-          "category": "Gaming",
-          "source": "Game Informer",
-          "url": "https://gameinformer.com/preview/2026/06/07/queens-blood-is-back-and-has-a-new-protagonist",
-          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/07/644b1a08/ffviirevelation01.jpg.webp",
-          "published_at": "2026-06-07T19:05:36Z",
-          "key_points": [
-            "New protagonist introduced",
-            "Card game updates revealed",
-            "Final entry in trilogy"
-          ],
-          "impact": "Fans can expect significant gameplay changes.",
-          "id": "de4a43f5c906b40e7f9ff475c2dddb55"
-        },
-        {
-          "title": "Castlevania: Belmont’s Curse Delayed on Switch",
-          "description": "Castlevania: Belmont’s Curse will launch on October 15, 2026, but the Nintendo Switch version will be delayed. Players on other platforms will get it on time.",
-          "category": "Gaming",
-          "source": "Nintendo Everything",
-          "url": "https://nintendoeverything.com/castlevania-belmonts-curse-wont-be-on-nintendo-switch-at-launch/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Castlevania-Belmonts-Curse-Switch-launch-timing.jpg",
-          "published_at": "2026-06-07T18:57:47Z",
-          "key_points": [
-            "Switch version delayed",
-            "Launch date set for October",
-            "Other platforms unaffected"
-          ],
-          "impact": "Switch players must wait longer for release.",
-          "id": "ac7f16c89e926770bf0fc78d188b76ac"
-        },
-        {
-          "title": "Xbox's Exclusive Strategy Confusion Continues",
-          "description": "Microsoft's approach to Xbox console exclusives remains unclear, with some first-party games exclusive to Xbox while others may come to PlayStation 5.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/xboxs-strategy-on-exclusives-is-more-confusing-than-ever-2000703739",
-          "image": "https://kotaku.com/app/uploads/2026/06/xbox-1200x675.jpg",
-          "published_at": "2026-06-07T18:56:04Z",
-          "key_points": [
-            "Confusion over exclusivity",
-            "Some games won't reach PlayStation",
-            "Unprecedented strategy continues"
-          ],
-          "impact": "Gamers are left uncertain about future titles.",
-          "id": "7c43a63f577477257eebba69c076ff90"
-        },
-        {
-          "title": "Crazy Taxi World Tour: AI Controversy Unveiled",
-          "description": "Sega announces Crazy Taxi World Tour, but faces backlash for using generative AI in development. Fans react to the controversial decision.",
-          "category": "Gaming",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/crazy-taxi-world-tour-officially-announced-sega-immediately-upsets-everyone-by-announcing-it-used-generative-ai",
-          "image": "https://assetsio.gnwcdn.com/crazy-taxi-.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-07T18:36:52Z",
-          "key_points": [
-            "Game officially announced",
-            "Generative AI used",
-            "Fan backlash ensues"
-          ],
-          "impact": "Sega's AI use sparks heated discussions.",
-          "id": "b91462c4c52d0a1676ed5121bfe92ff6"
-        },
-        {
-          "title": "Halo: Campaign Evolved Launches July 28",
-          "description": "Halo: Campaign Evolved is set to launch on July 28, 2026, with pre-orders now available. Early access begins on July 23.",
-          "category": "Gaming",
-          "source": "XBOX Wire",
-          "url": "https://news.xbox.com/en-us/2026/06/07/halo-campaign-evolved-launch-preorder-xbox-games-showcase-2026/",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/HALO-CE-Standard-Hero-e854c175faac9c8a2a78.jpg",
-          "published_at": "2026-06-07T18:30:02Z",
-          "key_points": [
-            "Launch date confirmed",
-            "Pre-orders available now",
-            "Early access starts July 23"
-          ],
-          "impact": "Fans eagerly await the new Halo experience.",
-          "id": "9a20b217c970867785069a89cfd44495"
-        },
-        {
-          "title": "XBOX Games Showcase 2026 Highlights",
-          "description": "The XBOX Games Showcase 2026 featured new exclusives, anniversary hardware, and exciting game announcements. A recap of the event is now available.",
-          "category": "Gaming",
-          "source": "XBOX Wire",
-          "url": "https://news.xbox.com/en-us/2026/06/07/xbox-games-showcase-2026-recap-everything-announced/",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/HERO-a9c68c46239cc2afb5ac.jpg",
-          "published_at": "2026-06-07T18:11:27Z",
-          "key_points": [
-            "Showcase featured new exclusives",
-            "Anniversary hardware revealed",
-            "Exciting game announcements"
-          ],
-          "impact": "XBOX showcases its commitment to gaming innovation.",
-          "id": "178ea395c757fea93fcb33f816887f61"
-        },
-        {
-          "title": "Clockwork Revolution Set for 2027 Launch",
-          "description": "First-person RPG Clockwork Revolution will launch in 2027 for Xbox Series and PC. Players will manipulate time in a steampunk setting.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/clockwork-revolution-launches-in-2027",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Clockwork-Date_06-07-26.jpg",
-          "published_at": "2026-06-07T18:03:28Z",
-          "key_points": [
-            "Launch set for 2027",
-            "Time manipulation gameplay",
-            "Steampunk setting"
-          ],
-          "impact": "Gamers anticipate a unique RPG experience.",
-          "id": "f0527b8211cab599ffc2d2b057c2e3b1"
-        },
-        {
-          "title": "Persona 6 Announced for Multiple Platforms",
-          "description": "ATLUS has officially announced Persona 6 for PS5, Xbox Series, and PC. No release date has been provided yet.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/persona-6-announced-for-ps5-xbox-series-and-pc",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/P6-Ann_06-07-26.jpg",
-          "published_at": "2026-06-07T17:57:55Z",
-          "key_points": [
-            "Persona 6 officially announced",
-            "Available on multiple platforms",
-            "Release date not revealed"
-          ],
-          "impact": "Fans eagerly await more details on Persona 6.",
-          "id": "b0877871073bf673e28154bf9ea5e935"
-        },
-        {
-          "title": "Microsoft Unveils 25th Anniversary Xbox Console",
-          "description": "Microsoft reveals a translucent green anniversary console featuring a glowing Xbox button and matching controller. A nostalgic tribute to Xbox's legacy.",
-          "category": "Gaming",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/945359/microsoft-xbox-25th-anniversary-console-controller-release-date",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/X25-Collection-44fa4f8521aeaf755181.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-          "published_at": "2026-06-07T17:45:48Z",
-          "key_points": [
-            "Anniversary console unveiled",
-            "Translucent green design",
-            "Glowing Xbox button"
-          ],
-          "impact": "A nostalgic celebration of Xbox's history.",
-          "id": "1729ad1835c89b5d082622042fe81c47"
-        },
-        {
-          "title": "Senua: New Action-Adventure Game Revealed",
-          "description": "Ninja Theory introduces Senua, a new action-adventure game set in the Hellblade universe. Details revealed during the XBOX Games Showcase.",
-          "category": "Gaming",
-          "source": "XBOX Wire",
-          "url": "https://news.xbox.com/en-us/2026/06/07/senua-ninja-theory-details-interview-action-adventure-xbox-games-showcase-2026/",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/Key-Art-f25498b526451edba564.jpg",
-          "published_at": "2026-06-07T17:36:23Z",
-          "key_points": [
-            "New game in Hellblade universe",
-            "Details shared at showcase",
-            "Exciting gameplay elements"
-          ],
-          "impact": "Fans are excited for Senua's new adventure.",
-          "id": "ebb587394c41d10aa9be980b0751516f"
-        },
-        {
-          "title": "Fallout 76 Launches P.R.O.T.E.C.T. Protocol",
-          "description": "Fallout 76 players can log in daily for rewards from June 7 to June 15. Participate in the Community Challenge to unlock exclusive items.",
-          "category": "Gaming",
-          "source": "Fallout | Bethesda.net",
-          "url": "https://fallout.bethesda.net/en/article/3sUk3hPTpo7k34RgoR9H7x/fallout-76-protect-protocol",
-          "image": "//images.ctfassets.net/rporu91m20dc/2Kjkm93decSfNFfsmKDqF0/1ad446aefab5471f02869be629f6fd42/F76_PROTECT_Protocol_HERO_1920x870.jpg",
-          "published_at": "2026-06-07T17:35:13Z",
-          "key_points": [
-            "Daily login rewards available",
-            "Community Challenge launched",
-            "Unlock exclusive power armor"
-          ],
-          "impact": "Players are incentivized to engage daily.",
-          "id": "e055da5b7cc259cc7cc94f4a6d3a3800"
-        },
-        {
-          "title": "State of Decay 3 Gameplay Revealed",
-          "description": "The first gameplay reveal for State of Decay 3 showcases open-world exploration, multiplayer, and crafting elements. Fans are excited for the new features.",
-          "category": "Gaming",
-          "source": "XBOX Wire",
-          "url": "https://news.xbox.com/en-us/2026/06/07/state-of-decay-3-first-gameplay-reveal-xbox-games-showcase-2026/",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/Xbox_SOD3_yourchoicesmatter-27b62de54d5434c90114.jpg",
-          "published_at": "2026-06-07T17:21:23Z",
-          "key_points": [
-            "Gameplay reveal showcased",
-            "New crafting and exploration",
-            "Multiplayer features highlighted"
-          ],
-          "impact": "Fans are eager for State of Decay 3.",
-          "id": "f83d4a074330c4c8bef46d0117b4242e"
-        },
-        {
-          "title": "Persona 4 Revival Launches February 2027",
-          "description": "Persona 4 Revival will be available on February 18, 2027, for PS5, Xbox Series, and PC. Pre-orders are now open.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/persona-4-revival-launches-february-18-2027",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/P4R-Release_06-07-26.jpg",
-          "published_at": "2026-06-07T17:17:01Z",
-          "key_points": [
-            "Launch date set for February 2027",
-            "Available on multiple platforms",
-            "Pre-orders now open"
-          ],
-          "impact": "Fans can secure their copies early.",
-          "id": "98f0f851c2c1019486fcde3daa73e27a"
-        },
-        {
-          "title": "Nintendo Switch Now Supports Classic Wii Games",
-          "description": "Nintendo Switch owners can now access classic Wii and GameCube games. Instructions for playing these titles are available online.",
-          "category": "Gaming",
-          "source": "BGR",
-          "url": "https://www.bgr.com/2185981/nintendo-switch-wii-gamecube-emulation/",
-          "image": "https://www.bgr.com/img/gallery/nintendo-switch-owners-can-now-play-their-classic-wii-and-gamecube-games-heres-how/l-intro-1780424727.jpg",
-          "published_at": "2026-06-07T17:17:00Z",
-          "key_points": [
-            "Classic games available now",
-            "Instructions for access provided",
-            "Wii and GameCube titles playable"
-          ],
-          "impact": "Nintendo Switch expands its game library.",
-          "id": "0e2bc6636fce1bb8316e9ad066fbab63"
-        },
-        {
-          "title": "Fable Reveals Cast Including Hayley Atwell",
-          "description": "Fable's new trailer showcases its cast, including Hayley Atwell as the villain. Exciting gameplay and story elements were also revealed.",
-          "category": "Gaming",
-          "source": "XBOX Wire",
-          "url": "https://news.xbox.com/en-us/2026/06/07/fable-cast-list-new-trailer-hayley-atwell-xbox-games-showcase-2026/",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/01/Fable-497a240ce212355686c6.jpg",
-          "published_at": "2026-06-07T17:16:23Z",
-          "key_points": [
-            "New trailer reveals cast",
-            "Hayley Atwell plays villain",
-            "Gameplay and story showcased"
-          ],
-          "impact": "Fable's cast adds excitement to the game.",
-          "id": "09617f7f6f5e99ea10a519c5fbfde4ad"
         }
       ]
     }

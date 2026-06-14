@@ -5,143 +5,107 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2026 09:32:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 14:00:42 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>DJI Sues Insta360 Over Luna Ultra Similarities</title>
-      <description>DJI has filed lawsuits against Insta360, claiming patent violations related to the new Luna Ultra camera, which resembles the Osmo Pocket 4P. The lawsuits are filed in the US.</description>
-      <link>https://www.gsmarena.com/dji_sues_insta360_for_how_similar_the_luna_ultra_is_to_the_osmo_pocket_4p-news-73258.php</link>
-      <guid isPermaLink="true">https://www.gsmarena.com/dji_sues_insta360_for_how_similar_the_luna_ultra_is_to_the_osmo_pocket_4p-news-73258.php</guid>
-      <pubDate>2026-06-12T21:17:02Z</pubDate>
+      <title>Xbox Games Showcase 2026: Share Your Favorites!</title>
+      <description>What were your favorite announcements from the Xbox Games Showcase 2026? Share your thoughts on titles like Gears of War: E-Day and Clockwork Revolution.</description>
+      <link>https://www.trueachievements.com/poll/62717/poll-xbox-games-showcase-2026</link>
+      <guid isPermaLink="true">https://www.trueachievements.com/poll/62717/poll-xbox-games-showcase-2026</guid>
+      <pubDate>2026-06-13T08:03:59Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.trueachievements.com/poll/62717/poll-xbox-games-showcase-2026">TrueAchievements</source>
+    </item>
+    <item>
+      <title>Massive Bandai Namco Sale on Nintendo Switch 2</title>
+      <description>Bandai Namco's eShop sale features major discounts on titles like Tales of Berseria and Xillia Remastered, with many games at their lowest prices ever.</description>
+      <link>https://nintendoeverything.com/bandai-namco-sale-switch-2-switch-tales-berseria-xillia-once-upon-a-katamari/</link>
+      <guid isPermaLink="true">https://nintendoeverything.com/bandai-namco-sale-switch-2-switch-tales-berseria-xillia-once-upon-a-katamari/</guid>
+      <pubDate>2026-06-13T04:52:02Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://nintendoeverything.com/bandai-namco-sale-switch-2-switch-tales-berseria-xillia-once-upon-a-katamari/">Nintendoeverything.com</source>
+    </item>
+    <item>
+      <title>T-Mobile Users Enjoy Better Service Than Competitors</title>
+      <description>T-Mobile users currently experience superior service compared to AT&amp;T and Verizon, but this advantage may not last long.</description>
+      <link>https://www.phonearena.com/news/at-t-t-mobile-verizon-5g_id181067</link>
+      <guid isPermaLink="true">https://www.phonearena.com/news/at-t-t-mobile-verizon-5g_id181067</guid>
+      <pubDate>2026-06-12T21:51:29Z</pubDate>
       <category>Business</category>
-      <source url="https://www.gsmarena.com/dji_sues_insta360_for_how_similar_the_luna_ultra_is_to_the_osmo_pocket_4p-news-73258.php">GSMArena.com</source>
+      <source url="https://www.phonearena.com/news/at-t-t-mobile-verizon-5g_id181067">PhoneArena</source>
     </item>
     <item>
-      <title>iOS 27 Introduces New Keyboards and Typing Features</title>
-      <description>iOS 27 adds support for new keyboards, including Afrikaans and Indigenous languages, enhancing typing experiences across multiple languages. Apple continues to expand its accessibility features.</description>
-      <link>https://9to5mac.com/2026/06/12/ios-27-brings-new-keyboards-and-typing-improvements-across-multiple-languages/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/12/ios-27-brings-new-keyboards-and-typing-improvements-across-multiple-languages/</guid>
-      <pubDate>2026-06-12T21:16:00Z</pubDate>
+      <title>Activist Investors Push For FromSoftware Self-Publishing</title>
+      <description>Activist investors are urging FromSoftware to self-publish, claiming current publisher deals are unfavorable for the company.</description>
+      <link>https://kotaku.com/activist-investors-elden-ring-developer-fromsoftware-2000706037</link>
+      <guid isPermaLink="true">https://kotaku.com/activist-investors-elden-ring-developer-fromsoftware-2000706037</guid>
+      <pubDate>2026-06-12T20:12:33Z</pubDate>
+      <category>Business</category>
+      <source url="https://kotaku.com/activist-investors-elden-ring-developer-fromsoftware-2000706037">Kotaku</source>
+    </item>
+    <item>
+      <title>Microsoft Updates Key Windows 11 Apps</title>
+      <description>Microsoft has rolled out significant updates for Windows 11's built-in apps, enhancing features for Paint, Clock, and Calculator.</description>
+      <link>https://www.neowin.net/news/microsoft-releases-major-feature-updates-for-stock-windows-11-apps/</link>
+      <guid isPermaLink="true">https://www.neowin.net/news/microsoft-releases-major-feature-updates-for-stock-windows-11-apps/</guid>
+      <pubDate>2026-06-12T19:00:00Z</pubDate>
       <category>Software</category>
-      <source url="https://9to5mac.com/2026/06/12/ios-27-brings-new-keyboards-and-typing-improvements-across-multiple-languages/">9to5Mac</source>
+      <source url="https://www.neowin.net/news/microsoft-releases-major-feature-updates-for-stock-windows-11-apps/">Neowin</source>
     </item>
     <item>
-      <title>macOS Golden Gate Phasing Out Rosetta 2 Support</title>
-      <description>Apple will discontinue Rosetta 2 support in macOS Golden Gate, affecting Intel-based apps on Apple silicon Macs. Users need to prepare for app compatibility issues.</description>
-      <link>https://www.macrumors.com/2026/06/12/macos-golden-gate-rosetta-support/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/06/12/macos-golden-gate-rosetta-support/</guid>
-      <pubDate>2026-06-12T21:05:57Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.macrumors.com/2026/06/12/macos-golden-gate-rosetta-support/">MacRumors</source>
-    </item>
-    <item>
-      <title>Over 400 Arch Linux AUR Packages Hijacked</title>
-      <description>More than 400 Arch Linux AUR packages were hijacked to deploy a Rust credential stealer and optional eBPF rootkit. Users are urged to check their systems for vulnerabilities.</description>
-      <link>https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html</link>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html</guid>
-      <pubDate>2026-06-12T19:35:58Z</pubDate>
-      <category>Security</category>
-      <source url="https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html">The Hacker News</source>
-    </item>
-    <item>
-      <title>Jurassic World Rebirth 2 Update from Writer</title>
-      <description>Screenwriter David Koepp provides an update on the sequel to Jurassic World Rebirth, confirming that development is underway. Fans eagerly await more details.</description>
-      <link>https://screenrant.com/jurassic-world-rebirth-2-update-future-writer-david-koepp/</link>
-      <guid isPermaLink="true">https://screenrant.com/jurassic-world-rebirth-2-update-future-writer-david-koepp/</guid>
-      <pubDate>2026-06-12T19:20:38Z</pubDate>
+      <title>Persona 6 Officially Announced by Atlus</title>
+      <description>Atlus has confirmed Persona 6, revealing details and speculation about its release timeline after years of anticipation.</description>
+      <link>https://www.ign.com/articles/everything-we-know-about-persona-6</link>
+      <guid isPermaLink="true">https://www.ign.com/articles/everything-we-know-about-persona-6</guid>
+      <pubDate>2026-06-12T18:10:07Z</pubDate>
       <category>Gaming</category>
-      <source url="https://screenrant.com/jurassic-world-rebirth-2-update-future-writer-david-koepp/">Screen Rant</source>
+      <source url="https://www.ign.com/articles/everything-we-know-about-persona-6">IGN</source>
     </item>
     <item>
-      <title>Resident Evil Veronica Remake Story Adjustments</title>
-      <description>Capcom is modifying Code: Veronica's story for its remake to better fit the evolving Resident Evil series. This aims to enhance narrative cohesion.</description>
-      <link>https://www.eurogamer.net/resident-evil-veronica-story-changes</link>
-      <guid isPermaLink="true">https://www.eurogamer.net/resident-evil-veronica-story-changes</guid>
-      <pubDate>2026-06-12T18:00:08Z</pubDate>
+      <title>Early Prime Day Garmin Watch Deals Available</title>
+      <description>Amazon has launched early Prime Day deals on Garmin watches, offering discounts up to 50% on popular models like Fenix and Venu.</description>
+      <link>https://www.androidcentral.com/wearables/garmin/early-prime-day-garmin-deals-2026</link>
+      <guid isPermaLink="true">https://www.androidcentral.com/wearables/garmin/early-prime-day-garmin-deals-2026</guid>
+      <pubDate>2026-06-12T17:38:59Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.androidcentral.com/wearables/garmin/early-prime-day-garmin-deals-2026">Android Central</source>
+    </item>
+    <item>
+      <title>New Xenomorph Image Revealed for Alien: Isolation 2</title>
+      <description>Creative Assembly has shared a new image of the Xenomorph, Stompy, from Alien: Isolation 2, showcasing its design.</description>
+      <link>https://www.avpgalaxy.net/2026/06/12/creative-assembly-reintroduces-stompy-with-new-alien-isolation-2-xenomorph-picture/</link>
+      <guid isPermaLink="true">https://www.avpgalaxy.net/2026/06/12/creative-assembly-reintroduces-stompy-with-new-alien-isolation-2-xenomorph-picture/</guid>
+      <pubDate>2026-06-12T17:20:10Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.eurogamer.net/resident-evil-veronica-story-changes">Eurogamer</source>
+      <source url="https://www.avpgalaxy.net/2026/06/12/creative-assembly-reintroduces-stompy-with-new-alien-isolation-2-xenomorph-picture/">Avpgalaxy.net</source>
     </item>
     <item>
-      <title>iOS 27 Features Revealed at Apple Keynote</title>
-      <description>Apple's keynote unveiled numerous features for iOS 27, including enhancements across various platforms. The full list highlights significant updates.</description>
-      <link>https://9to5mac.com/2026/06/12/heres-everything-new-in-ios-27-and-more-per-apples-keynote-list/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/12/heres-everything-new-in-ios-27-and-more-per-apples-keynote-list/</guid>
-      <pubDate>2026-06-12T17:57:00Z</pubDate>
-      <category>Software</category>
-      <source url="https://9to5mac.com/2026/06/12/heres-everything-new-in-ios-27-and-more-per-apples-keynote-list/">9to5Mac</source>
-    </item>
-    <item>
-      <title>Pokémon Go Scans Used for Military AI Tool</title>
-      <description>30 billion Pokémon Go images are now training an AI model for US military drone navigation, showcasing innovative uses of gaming data in defense technology.</description>
-      <link>https://united24media.com/war-in-ukraine/how-30-billion-pokemon-go-scans-became-a-military-ai-tool-for-drone-warfare-19776</link>
-      <guid isPermaLink="true">https://united24media.com/war-in-ukraine/how-30-billion-pokemon-go-scans-became-a-military-ai-tool-for-drone-warfare-19776</guid>
-      <pubDate>2026-06-12T15:58:13Z</pubDate>
-      <category>Geopolitics</category>
-      <source url="https://united24media.com/war-in-ukraine/how-30-billion-pokemon-go-scans-became-a-military-ai-tool-for-drone-warfare-19776">UNITED24 Media</source>
-    </item>
-    <item>
-      <title>Ubuntu 26.10 to Switch to Dbus-Broker</title>
-      <description>Ubuntu 26.10 plans to switch its default D-Bus implementation to the high-performance Dbus-Broker, enhancing system performance and efficiency.</description>
-      <link>https://www.phoronix.com/news/Ubuntu-26.10-Dbus-Broker</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Ubuntu-26.10-Dbus-Broker</guid>
-      <pubDate>2026-06-12T15:26:00Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.phoronix.com/news/Ubuntu-26.10-Dbus-Broker">Phoronix</source>
-    </item>
-    <item>
-      <title>Guild Wars 3 Timeline Revealed</title>
-      <description>ArenaNet has clarified the timeline for Guild Wars 3, but it appears there won't be a traditional guild war. Fans are curious about the new direction.</description>
-      <link>https://www.eurogamer.net/guild-wars-3-timeline-setting-no-guild-war</link>
-      <guid isPermaLink="true">https://www.eurogamer.net/guild-wars-3-timeline-setting-no-guild-war</guid>
-      <pubDate>2026-06-12T15:02:23Z</pubDate>
+      <title>Grow a Garden 2: Complete Plants and Seeds Guide</title>
+      <description>Discover the full list of plants and seeds available in Grow a Garden 2, including how to acquire them.</description>
+      <link>https://beebom.com/grow-a-garden-2-plants-and-seeds/</link>
+      <guid isPermaLink="true">https://beebom.com/grow-a-garden-2-plants-and-seeds/</guid>
+      <pubDate>2026-06-12T16:53:17Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.eurogamer.net/guild-wars-3-timeline-setting-no-guild-war">Eurogamer</source>
+      <source url="https://beebom.com/grow-a-garden-2-plants-and-seeds/">Beebom</source>
     </item>
     <item>
-      <title>Fold 8 vs. Fold 8 Ultra Images Leaked</title>
-      <description>Leaked images of the Fold 8 and Fold 8 Ultra reveal discrepancies in previous expectations. Fans are eager for official confirmations.</description>
-      <link>https://www.phonearena.com/news/fold-8-wide-vs-ultra-vs-flip-8_id181061</link>
-      <guid isPermaLink="true">https://www.phonearena.com/news/fold-8-wide-vs-ultra-vs-flip-8_id181061</guid>
-      <pubDate>2026-06-12T13:51:02Z</pubDate>
-      <category>Hardware</category>
-      <source url="https://www.phonearena.com/news/fold-8-wide-vs-ultra-vs-flip-8_id181061">PhoneArena</source>
+      <title>Insta360 Countersues DJI Over Patent Violations</title>
+      <description>Insta360 has filed a countersuit against DJI, claiming five patent violations related to gimbal and 360-degree camera technology.</description>
+      <link>https://petapixel.com/2026/06/12/insta360-countersues-dji-asserting-five-patent-violations/</link>
+      <guid isPermaLink="true">https://petapixel.com/2026/06/12/insta360-countersues-dji-asserting-five-patent-violations/</guid>
+      <pubDate>2026-06-12T14:33:34Z</pubDate>
+      <category>Business</category>
+      <source url="https://petapixel.com/2026/06/12/insta360-countersues-dji-asserting-five-patent-violations/">PetaPixel</source>
     </item>
     <item>
-      <title>Stranger Than Heaven Explores Tupac's Potential Future</title>
-      <description>The game Stranger Than Heaven will envision Tupac Shakur's life had he lived today, according to RGG Studio head Masayoshi Yokoyama. This unique concept aims to engage fans.</description>
-      <link>https://www.rockpapershotgun.com/stranger-than-heaven-will-explore-tupacs-potential-future-if-he-was-still-alive-now-according-to-rgg-studio-head</link>
-      <guid isPermaLink="true">https://www.rockpapershotgun.com/stranger-than-heaven-will-explore-tupacs-potential-future-if-he-was-still-alive-now-according-to-rgg-studio-head</guid>
-      <pubDate>2026-06-12T12:25:16Z</pubDate>
+      <title>Valor Mortis Delayed Ahead of Release</title>
+      <description>Valor Mortis has been delayed to avoid competition with major releases in September, following its initial announcement at the Xbox Games Showcase.</description>
+      <link>https://www.trueachievements.com/news/valor-mortis-delayed</link>
+      <guid isPermaLink="true">https://www.trueachievements.com/news/valor-mortis-delayed</guid>
+      <pubDate>2026-06-12T12:45:43Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.rockpapershotgun.com/stranger-than-heaven-will-explore-tupacs-potential-future-if-he-was-still-alive-now-according-to-rgg-studio-head">Rock Paper Shotgun</source>
-    </item>
-    <item>
-      <title>Zelda: Ocarina Of Time Remake Exclusive to Switch 2</title>
-      <description>The upcoming Legend of Zelda: Ocarina of Time Remake will be exclusive to the Nintendo Switch 2, limiting access for many fans. Anticipation builds for its release.</description>
-      <link>https://screenrant.com/zelda-ocarina-of-time-remake-unplayable-exclusive/</link>
-      <guid isPermaLink="true">https://screenrant.com/zelda-ocarina-of-time-remake-unplayable-exclusive/</guid>
-      <pubDate>2026-06-12T12:00:20Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://screenrant.com/zelda-ocarina-of-time-remake-unplayable-exclusive/">Screen Rant</source>
-    </item>
-    <item>
-      <title>Final Fantasy VII Revelation Level Cap Increased</title>
-      <description>Final Fantasy VII Revelation will allow players to reach level 99, featuring a massive endgame and challenging Weapons bosses. Fans are excited about the new content.</description>
-      <link>https://wccftech.com/final-fantasy-vii-revelation-level-99-endgame/</link>
-      <guid isPermaLink="true">https://wccftech.com/final-fantasy-vii-revelation-level-99-endgame/</guid>
-      <pubDate>2026-06-12T10:30:00Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://wccftech.com/final-fantasy-vii-revelation-level-99-endgame/">Wccftech</source>
-    </item>
-    <item>
-      <title>MacBook Neo Review: A Solid Alternative</title>
-      <description>The MacBook Neo performed well during a week of testing, proving to be a reliable alternative to the MacBook Pro. Users may find it a suitable option.</description>
-      <link>https://www.cnet.com/tech/computing/macbook-neo-vs-macbook-pro/</link>
-      <guid isPermaLink="true">https://www.cnet.com/tech/computing/macbook-neo-vs-macbook-pro/</guid>
-      <pubDate>2026-06-12T10:07:00Z</pubDate>
-      <category>Hardware</category>
-      <source url="https://www.cnet.com/tech/computing/macbook-neo-vs-macbook-pro/">CNET</source>
+      <source url="https://www.trueachievements.com/news/valor-mortis-delayed">TrueAchievements</source>
     </item>
   </channel>
 </rss>

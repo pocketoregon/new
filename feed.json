@@ -1,245 +1,181 @@
 {
-  "generated_at": "2026-06-14T09:32:09.174991+00:00",
+  "generated_at": "2026-06-14T14:00:22.397555+00:00",
   "articles": [
     {
-      "title": "DJI Sues Insta360 Over Luna Ultra Similarities",
-      "description": "DJI has filed lawsuits against Insta360, claiming patent violations related to the new Luna Ultra camera, which resembles the Osmo Pocket 4P. The lawsuits are filed in the US.",
+      "title": "Xbox Games Showcase 2026: Share Your Favorites!",
+      "description": "What were your favorite announcements from the Xbox Games Showcase 2026? Share your thoughts on titles like Gears of War: E-Day and Clockwork Revolution.",
+      "category": "Gaming",
+      "source": "TrueAchievements",
+      "url": "https://www.trueachievements.com/poll/62717/poll-xbox-games-showcase-2026",
+      "image": "https://www.trueachievements.com/imgs/175974/poll-xbox-games-showcase-2026.jpg",
+      "published_at": "2026-06-13T08:03:59Z",
+      "key_points": [
+        "Gears of War: E-Day announced",
+        "Clockwork Revolution revealed",
+        "Community poll open now"
+      ],
+      "impact": "Fans are eager to discuss their favorites.",
+      "id": "e6e72a6e74cfbd59b7f2f4339f21aa50"
+    },
+    {
+      "title": "Massive Bandai Namco Sale on Nintendo Switch 2",
+      "description": "Bandai Namco's eShop sale features major discounts on titles like Tales of Berseria and Xillia Remastered, with many games at their lowest prices ever.",
+      "category": "Gaming",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/bandai-namco-sale-switch-2-switch-tales-berseria-xillia-once-upon-a-katamari/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Bandai-Namco-Switch-2-Switch-sale-Tales-of-Berseria-Xillia-Katamari.jpg",
+      "published_at": "2026-06-13T04:52:02Z",
+      "key_points": [
+        "Big discounts on popular titles",
+        "Lowest prices ever",
+        "Sale includes Switch 2 games"
+      ],
+      "impact": "Gamers can save significantly on purchases.",
+      "id": "a3edfb5b678e8283c40cda435463f805"
+    },
+    {
+      "title": "T-Mobile Users Enjoy Better Service Than Competitors",
+      "description": "T-Mobile users currently experience superior service compared to AT&T and Verizon, but this advantage may not last long.",
       "category": "Business",
-      "source": "GSMArena.com",
-      "url": "https://www.gsmarena.com/dji_sues_insta360_for_how_similar_the_luna_ultra_is_to_the_osmo_pocket_4p-news-73258.php",
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/dji-sues-insta360/-952x498w6/gsmarena_000.jpg",
-      "published_at": "2026-06-12T21:17:02Z",
-      "key_points": [
-        "DJI files two lawsuits",
-        "Claims patent violations",
-        "Insta360's Luna Ultra challenged"
-      ],
-      "impact": "This lawsuit could impact Insta360's market strategy.",
-      "id": "c3b75164bccdce4b4c9d6de15b6ece94"
-    },
-    {
-      "title": "iOS 27 Introduces New Keyboards and Typing Features",
-      "description": "iOS 27 adds support for new keyboards, including Afrikaans and Indigenous languages, enhancing typing experiences across multiple languages. Apple continues to expand its accessibility features.",
-      "category": "Software",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/12/ios-27-brings-new-keyboards-and-typing-improvements-across-multiple-languages/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ios27-keyboard.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-12T21:16:00Z",
-      "key_points": [
-        "New keyboards for multiple languages",
-        "Typing improvements included",
-        "Focus on accessibility features"
-      ],
-      "impact": "This update enhances global user accessibility.",
-      "id": "87163e27f512dbcdd7076e7480825973"
-    },
-    {
-      "title": "macOS Golden Gate Phasing Out Rosetta 2 Support",
-      "description": "Apple will discontinue Rosetta 2 support in macOS Golden Gate, affecting Intel-based apps on Apple silicon Macs. Users need to prepare for app compatibility issues.",
-      "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/12/macos-golden-gate-rosetta-support/",
-      "image": "https://images.macrumors.com/t/b14DGwY8ms5kvXfNjTjnfx1srWw=/1600x/article-new/2020/07/rosetta-2.jpg",
-      "published_at": "2026-06-12T21:05:57Z",
-      "key_points": [
-        "Rosetta 2 support ending",
-        "Intel apps affected",
-        "Prepare for compatibility issues"
-      ],
-      "impact": "Users must transition to native apps soon.",
-      "id": "474c25af99025384a2f219dda84ac11f"
-    },
-    {
-      "title": "Over 400 Arch Linux AUR Packages Hijacked",
-      "description": "More than 400 Arch Linux AUR packages were hijacked to deploy a Rust credential stealer and optional eBPF rootkit. Users are urged to check their systems for vulnerabilities.",
-      "category": "Security",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoaB3XILLCN-oMr8vicgye6mcqKGYsgqgxPAGunmwASyrP3c7XgAxJTV8tsVPuRSmJ8ia7SZdS8hyphenhyphenb6moPI2QiwkdKoI2E_zchlBfqx1KnfFpb3yKHQQY6qCWyKmkSK_12texqsHTxtYnv8kMMpzJ-SEFxR7Ougz0axLPVr5zDAWQiZY8pEtUUL8L4hmri/s1600/arch-hack.jpg",
-      "published_at": "2026-06-12T19:35:58Z",
-      "key_points": [
-        "400+ packages hijacked",
-        "Credential stealer deployed",
-        "Users urged to check systems"
-      ],
-      "impact": "This breach raises serious security concerns.",
-      "id": "96229a308f6e8434eb574698cbb95eb6"
-    },
-    {
-      "title": "Jurassic World Rebirth 2 Update from Writer",
-      "description": "Screenwriter David Koepp provides an update on the sequel to Jurassic World Rebirth, confirming that development is underway. Fans eagerly await more details.",
-      "category": "Gaming",
-      "source": "Screen Rant",
-      "url": "https://screenrant.com/jurassic-world-rebirth-2-update-future-writer-david-koepp/",
-      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/06/scarlett-johansson-shouts-down-from-the-side-of-a-rock-formation-in-jurassic-world-rebirth-1.jpg?w=1600&h=900&fit=crop",
-      "published_at": "2026-06-12T19:20:38Z",
-      "key_points": [
-        "Sequel development confirmed",
-        "Writer shares new update",
-        "Fans await more details"
-      ],
-      "impact": "Anticipation builds for the sequel's release.",
-      "id": "1509576e7a73ac9f23cec60130238502"
-    },
-    {
-      "title": "Resident Evil Veronica Remake Story Adjustments",
-      "description": "Capcom is modifying Code: Veronica's story for its remake to better fit the evolving Resident Evil series. This aims to enhance narrative cohesion.",
-      "category": "Gaming",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/resident-evil-veronica-story-changes",
-      "image": "https://assetsio.gnwcdn.com/code-veronica-header-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-12T18:00:08Z",
-      "key_points": [
-        "Story changes for remake",
-        "Enhancing series cohesion",
-        "Capcom focuses on narrative"
-      ],
-      "impact": "This could improve player engagement with the story.",
-      "id": "e886cabd6175402b95dcc1c9761dfae3"
-    },
-    {
-      "title": "iOS 27 Features Revealed at Apple Keynote",
-      "description": "Apple's keynote unveiled numerous features for iOS 27, including enhancements across various platforms. The full list highlights significant updates.",
-      "category": "Software",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/12/heres-everything-new-in-ios-27-and-more-per-apples-keynote-list/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-wwdc-slide-feature-list.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-12T17:57:00Z",
-      "key_points": [
-        "Numerous new features announced",
-        "Significant updates highlighted",
-        "Focus on user experience"
-      ],
-      "impact": "These updates aim to enhance user satisfaction.",
-      "id": "f370a927259c6a7f20a1654ce7664d81"
-    },
-    {
-      "title": "Pokémon Go Scans Used for Military AI Tool",
-      "description": "30 billion Pokémon Go images are now training an AI model for US military drone navigation, showcasing innovative uses of gaming data in defense technology.",
-      "category": "Geopolitics",
-      "source": "UNITED24 Media",
-      "url": "https://united24media.com/war-in-ukraine/how-30-billion-pokemon-go-scans-became-a-military-ai-tool-for-drone-warfare-19776",
-      "image": "https://storage.united24media.com/og/d/5c/cb2a6eb643351f8293cc2eda574ed5cd.jpg",
-      "published_at": "2026-06-12T15:58:13Z",
-      "key_points": [
-        "30 billion images repurposed",
-        "AI for military drone navigation",
-        "Innovative use of gaming data"
-      ],
-      "impact": "This highlights the intersection of gaming and military tech.",
-      "id": "55d5d86966ba15bc6b9233ed4d2d1ee9"
-    },
-    {
-      "title": "Ubuntu 26.10 to Switch to Dbus-Broker",
-      "description": "Ubuntu 26.10 plans to switch its default D-Bus implementation to the high-performance Dbus-Broker, enhancing system performance and efficiency.",
-      "category": "Software",
-      "source": "Phoronix",
-      "url": "https://www.phoronix.com/news/Ubuntu-26.10-Dbus-Broker",
-      "image": "https://www.phoronix.net/image.php?id=2026&image=ubuntu_dbus",
-      "published_at": "2026-06-12T15:26:00Z",
-      "key_points": [
-        "Switch to Dbus-Broker confirmed",
-        "Enhancing system performance",
-        "Focus on efficiency improvements"
-      ],
-      "impact": "This change could improve overall system responsiveness.",
-      "id": "311368f69fc32358b05925baa1961043"
-    },
-    {
-      "title": "Guild Wars 3 Timeline Revealed",
-      "description": "ArenaNet has clarified the timeline for Guild Wars 3, but it appears there won't be a traditional guild war. Fans are curious about the new direction.",
-      "category": "Gaming",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/guild-wars-3-timeline-setting-no-guild-war",
-      "image": "https://assetsio.gnwcdn.com/guild-wars-3-art.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-12T15:02:23Z",
-      "key_points": [
-        "Timeline for Guild Wars 3 revealed",
-        "No traditional guild war",
-        "New direction for the series"
-      ],
-      "impact": "This could redefine player expectations for the game.",
-      "id": "4f4128274f847ff344ffa637b468ce35"
-    },
-    {
-      "title": "Fold 8 vs. Fold 8 Ultra Images Leaked",
-      "description": "Leaked images of the Fold 8 and Fold 8 Ultra reveal discrepancies in previous expectations. Fans are eager for official confirmations.",
-      "category": "Hardware",
       "source": "PhoneArena",
-      "url": "https://www.phonearena.com/news/fold-8-wide-vs-ultra-vs-flip-8_id181061",
+      "url": "https://www.phonearena.com/news/at-t-t-mobile-verizon-5g_id181067",
       "image": "",
-      "published_at": "2026-06-12T13:51:02Z",
+      "published_at": "2026-06-12T21:51:29Z",
       "key_points": [
-        "Leaked images show discrepancies",
-        "Fold 8 Ultra details revealed",
-        "Fans await official confirmation"
+        "T-Mobile leads in user satisfaction",
+        "AT&T and Verizon lag behind",
+        "Service quality may change soon"
       ],
-      "impact": "These leaks may influence consumer interest.",
-      "id": "76ee123da01bd40961d2e5917e889400"
+      "impact": "T-Mobile's edge could diminish quickly.",
+      "id": "ae5ec22e9b5e2f1f0bc2b241fd5841ad"
     },
     {
-      "title": "Stranger Than Heaven Explores Tupac's Potential Future",
-      "description": "The game Stranger Than Heaven will envision Tupac Shakur's life had he lived today, according to RGG Studio head Masayoshi Yokoyama. This unique concept aims to engage fans.",
+      "title": "Activist Investors Push For FromSoftware Self-Publishing",
+      "description": "Activist investors are urging FromSoftware to self-publish, claiming current publisher deals are unfavorable for the company.",
+      "category": "Business",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/activist-investors-elden-ring-developer-fromsoftware-2000706037",
+      "image": "https://kotaku.com/app/uploads/2025/04/eacc0e56ca6aeb681cff8909d4cf7b40-1200x675.jpg",
+      "published_at": "2026-06-12T20:12:33Z",
+      "key_points": [
+        "Investors demand self-publishing",
+        "Current deals deemed unfavorable",
+        "Focus on FromSoftware's future"
+      ],
+      "impact": "This could reshape FromSoftware's strategy.",
+      "id": "a4985f1ab6184bfc7ad3421195e7c690"
+    },
+    {
+      "title": "Microsoft Updates Key Windows 11 Apps",
+      "description": "Microsoft has rolled out significant updates for Windows 11's built-in apps, enhancing features for Paint, Clock, and Calculator.",
+      "category": "Software",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/microsoft-releases-major-feature-updates-for-stock-windows-11-apps/",
+      "image": "https://cdn.neowin.com/news/images/uploaded/2026/06/1781290082_windows_11_apps_story.webp",
+      "published_at": "2026-06-12T19:00:00Z",
+      "key_points": [
+        "Major updates for Windows apps",
+        "New features for Paint and Clock",
+        "Improved user experience"
+      ],
+      "impact": "Users benefit from enhanced app functionality.",
+      "id": "b302c880f7cf532ec80df8a07060a3cc"
+    },
+    {
+      "title": "Persona 6 Officially Announced by Atlus",
+      "description": "Atlus has confirmed Persona 6, revealing details and speculation about its release timeline after years of anticipation.",
       "category": "Gaming",
-      "source": "Rock Paper Shotgun",
-      "url": "https://www.rockpapershotgun.com/stranger-than-heaven-will-explore-tupacs-potential-future-if-he-was-still-alive-now-according-to-rgg-studio-head",
-      "image": "https://assetsio.gnwcdn.com/stranger-than-heaven-release-date-tupac-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-12T12:25:16Z",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/everything-we-know-about-persona-6",
+      "image": "https://assets-prd.ignimgs.com/2026/06/07/4k-xbox-games-showcase-2026-gears-of-war-e-day-direct-01-48-12-1780855196475.png?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-12T18:10:07Z",
       "key_points": [
-        "Explores Tupac's potential future",
-        "Unique concept for engagement",
-        "RGG Studio's creative direction"
+        "Persona 6 officially confirmed",
+        "Details on release timeline",
+        "Anticipation builds among fans"
       ],
-      "impact": "This could attract both gamers and Tupac fans.",
-      "id": "d8e9f67b23d074877d9da10c637577a6"
+      "impact": "Fans are excited for the new installment.",
+      "id": "73192c2b5fe2483fb5d9bf2518128e9b"
     },
     {
-      "title": "Zelda: Ocarina Of Time Remake Exclusive to Switch 2",
-      "description": "The upcoming Legend of Zelda: Ocarina of Time Remake will be exclusive to the Nintendo Switch 2, limiting access for many fans. Anticipation builds for its release.",
+      "title": "Early Prime Day Garmin Watch Deals Available",
+      "description": "Amazon has launched early Prime Day deals on Garmin watches, offering discounts up to 50% on popular models like Fenix and Venu.",
+      "category": "Business",
+      "source": "Android Central",
+      "url": "https://www.androidcentral.com/wearables/garmin/early-prime-day-garmin-deals-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/WyW7xtNLf2SBT6XKwm5STR-2560-80.jpg",
+      "published_at": "2026-06-12T17:38:59Z",
+      "key_points": [
+        "Up to 50% off Garmin watches",
+        "Early Prime Day discounts",
+        "Popular models included"
+      ],
+      "impact": "Shoppers can save big on fitness tech.",
+      "id": "4487485eed0dea31c92b3983a28b6c98"
+    },
+    {
+      "title": "New Xenomorph Image Revealed for Alien: Isolation 2",
+      "description": "Creative Assembly has shared a new image of the Xenomorph, Stompy, from Alien: Isolation 2, showcasing its design.",
       "category": "Gaming",
-      "source": "Screen Rant",
-      "url": "https://screenrant.com/zelda-ocarina-of-time-remake-unplayable-exclusive/",
-      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/06/ocarina-of-time-remake.jpeg?w=1600&h=900&fit=crop",
-      "published_at": "2026-06-12T12:00:20Z",
+      "source": "Avpgalaxy.net",
+      "url": "https://www.avpgalaxy.net/2026/06/12/creative-assembly-reintroduces-stompy-with-new-alien-isolation-2-xenomorph-picture/",
+      "image": "https://www.avpgalaxy.net/wordpress/wp-content/uploads/2026/06/HKnzDruWEAAYd6n.jpg",
+      "published_at": "2026-06-12T17:20:10Z",
       "key_points": [
-        "Exclusive to Nintendo Switch 2",
-        "Limited access for fans",
-        "High anticipation for release"
+        "New Xenomorph design revealed",
+        "Stompy returns in sequel",
+        "Fans excited for Alien: Isolation 2"
       ],
-      "impact": "This exclusivity may frustrate some gamers.",
-      "id": "ba880ca1bf898e7634ca2ef3dab619a2"
+      "impact": "Anticipation for the game continues to grow.",
+      "id": "0cebb3c0611ab10e459f48c1b0d0c0d7"
     },
     {
-      "title": "Final Fantasy VII Revelation Level Cap Increased",
-      "description": "Final Fantasy VII Revelation will allow players to reach level 99, featuring a massive endgame and challenging Weapons bosses. Fans are excited about the new content.",
+      "title": "Grow a Garden 2: Complete Plants and Seeds Guide",
+      "description": "Discover the full list of plants and seeds available in Grow a Garden 2, including how to acquire them.",
       "category": "Gaming",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/final-fantasy-vii-revelation-level-99-endgame/",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/maxresdefault-21-HD-1920x1080.jpeg",
-      "published_at": "2026-06-12T10:30:00Z",
+      "source": "Beebom",
+      "url": "https://beebom.com/grow-a-garden-2-plants-and-seeds/",
+      "image": "https://static.beebom.com/wp-content/uploads/2026/06/Grow-a-Garden-2-seeds-and-plants.jpg",
+      "published_at": "2026-06-12T16:53:17Z",
       "key_points": [
-        "Level cap increased to 99",
-        "Massive endgame content",
-        "Challenging Weapons bosses included"
+        "Complete plants and seeds list",
+        "Learn acquisition methods",
+        "Enhance your gardening strategy"
       ],
-      "impact": "This could enhance gameplay longevity and engagement.",
-      "id": "c9b4db6e71dd404a91800bb5e71bcb71"
+      "impact": "Players can optimize their gardening experience.",
+      "id": "6ce7995907b7ca7bfd2951435f719dd1"
     },
     {
-      "title": "MacBook Neo Review: A Solid Alternative",
-      "description": "The MacBook Neo performed well during a week of testing, proving to be a reliable alternative to the MacBook Pro. Users may find it a suitable option.",
-      "category": "Hardware",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/computing/macbook-neo-vs-macbook-pro/",
-      "image": "https://www.cnet.com/a/img/resize/0485591f2a669d8d5ab215df82622654bed9f23e/hub/2026/06/11/bda12c55-bc32-4f64-8f5f-42d15cf5012b/macbook-neo-feature-aryan-surendranath-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "published_at": "2026-06-12T10:07:00Z",
+      "title": "Insta360 Countersues DJI Over Patent Violations",
+      "description": "Insta360 has filed a countersuit against DJI, claiming five patent violations related to gimbal and 360-degree camera technology.",
+      "category": "Business",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/06/12/insta360-countersues-dji-asserting-five-patent-violations/",
+      "image": "https://petapixel.com/assets/uploads/2026/06/Insta360-Intends-to-Prove-the-Luna-Is-an-Original-Idea-Not-Based-on-DJIs-Patents.jpg",
+      "published_at": "2026-06-12T14:33:34Z",
       "key_points": [
-        "MacBook Neo performs well",
-        "Reliable alternative to Pro",
-        "Suitable for everyday use"
+        "Insta360 countersues DJI",
+        "Claims five patent violations",
+        "Focus on camera technology"
       ],
-      "impact": "This could influence buyer decisions in the market.",
-      "id": "8b9dd1269ac43c72c6d809ea8570f897"
+      "impact": "Legal battle could impact both companies.",
+      "id": "1693f949460e9737e0ebb03676f6701c"
+    },
+    {
+      "title": "Valor Mortis Delayed Ahead of Release",
+      "description": "Valor Mortis has been delayed to avoid competition with major releases in September, following its initial announcement at the Xbox Games Showcase.",
+      "category": "Gaming",
+      "source": "TrueAchievements",
+      "url": "https://www.trueachievements.com/news/valor-mortis-delayed",
+      "image": "https://www.trueachievements.com/imgs/176051/valor-mortis-delayed.jpg",
+      "published_at": "2026-06-12T12:45:43Z",
+      "key_points": [
+        "Valor Mortis release delayed",
+        "Avoiding September competition",
+        "New release date pending"
+      ],
+      "impact": "Fans await the new release timeline.",
+      "id": "1af28ab4333125151d8f0b89d499e26a"
     }
   ]
 }
