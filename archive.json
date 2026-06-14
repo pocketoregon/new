@@ -1,6 +1,237 @@
 {
   "batches": [
     {
+      "id": "2026-06-14T22:07:45.918898+00:00",
+      "fetched_at": "2026-06-14T22:07:45.918898+00:00",
+      "label": "Jun 14, 2026 — 10:08 PM UTC",
+      "articles": [
+        {
+          "title": "Gears of War: E-Day PC Requirements Unveiled",
+          "description": "Microsoft has announced the official PC requirements for Gears of War: E-Day, launching on October 6. Gamers can prepare their systems accordingly.",
+          "category": "Gaming",
+          "source": "DSOGaming",
+          "url": "https://www.dsogaming.com/news/official-pc-requirements-for-gears-of-war-e-day-revealed/",
+          "image": "https://www.dsogaming.com/wp-content/uploads/2026/06/Gears-of-War-E-Day-feature-3.jpg",
+          "published_at": "2026-06-13T14:40:51Z",
+          "key_points": [
+            "PC specs revealed",
+            "Launch date set",
+            "Powered by Unreal Engine"
+          ],
+          "impact": "Gamers can optimize their PCs for the game.",
+          "id": "4f25e4e7497d7be3bc80db6a8015c7c9"
+        },
+        {
+          "title": "Onimusha: Way of the Sword Preview",
+          "description": "Capcom's Onimusha: Way of the Sword features a solid 30fps mode and high frame-rate options. The game revives the classic series with modern enhancements.",
+          "category": "Gaming",
+          "source": "Digitalfoundry.net",
+          "url": "https://www.digitalfoundry.net/previews/onimusha-way-of-the-sword-offers-a-rock-solid-30fps-mode-and-a-great-high-frame-rate-experience-too",
+          "image": "https://images.digitalfoundry.net/0568eeb371c54/large.jpg",
+          "published_at": "2026-06-13T14:00:00Z",
+          "key_points": [
+            "Solid 30fps mode",
+            "High frame-rate options",
+            "Revives classic series"
+          ],
+          "impact": "Fans can expect a polished gaming experience.",
+          "id": "33bc8d44fcdd3bbe849a3686a0ba787f"
+        },
+        {
+          "title": "Samsung Galaxy S26 Ultra Performance Boosts",
+          "description": "The Galaxy S26 Ultra features significant performance upgrades, enhancing speed and multitasking capabilities. Users will notice smoother operation in demanding tasks.",
+          "category": "Hardware",
+          "source": "SamMobile",
+          "url": "https://www.sammobile.com/news/5-performance-upgrades-that-make-galaxy-s26-ultra-faster/",
+          "image": "https://www.sammobile.com/wp-content/uploads/2026/05/Wuthering-Waves-Galaxy-S26-Ultra-gaming-1200x675.png",
+          "published_at": "2026-06-13T13:16:00Z",
+          "key_points": [
+            "Significant performance upgrades",
+            "Faster response times",
+            "Improved multitasking capabilities"
+          ],
+          "impact": "Users will enjoy a faster smartphone experience.",
+          "id": "f7905285036f115933dfe3146788da1c"
+        },
+        {
+          "title": "iOS 27 Enhances Apple Pay Experience",
+          "description": "iOS 27 introduces a redesigned Apple Pay checkout, simplifying card switching and displaying payment details more clearly. Users can navigate payments more efficiently.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/13/ios-27-makes-it-easier-to-switch-between-apple-pay-cards/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-pay-ios-27.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-13T13:14:00Z",
+          "key_points": [
+            "Easier card switching",
+            "New card picker",
+            "More payment details visible"
+          ],
+          "impact": "Users will find payments more convenient.",
+          "id": "dda21c12d7b12f10b8e367623dcf1cbf"
+        },
+        {
+          "title": "GentleOS: A Lightweight OS for Old PCs",
+          "description": "GentleOS is designed for older PCs, providing a simple and efficient operating system. It aims to breathe new life into outdated hardware.",
+          "category": "Software",
+          "source": "Hackaday",
+          "url": "https://hackaday.com/2026/06/13/gentleos-a-simple-os-for-your-old-pc/",
+          "image": "https://hackaday.com/wp-content/uploads/2026/06/gentleos-featured.jpg",
+          "published_at": "2026-06-13T08:00:00Z",
+          "key_points": [
+            "Lightweight OS",
+            "Revives old hardware",
+            "User-friendly interface"
+          ],
+          "impact": "Old PCs can be repurposed effectively.",
+          "id": "d9ec091654f15c346867e1ef04cf1f37"
+        },
+        {
+          "title": "Bose QuietComfort Ultra Headphones on Sale",
+          "description": "Bose QuietComfort Ultra Bluetooth Headphones (2nd Gen) are now 16% off on Amazon, featuring advanced noise cancellation and comfort. A great deal for audiophiles.",
+          "category": "Hardware",
+          "source": "Notebookcheck",
+          "url": "https://www.notebookcheck.net/Bose-QuietComfort-Ultra-Bluetooth-Headphones-2nd-Gen-drops-to-lowest-price-on-Amazon.1320921.0.html",
+          "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Bose-QuietComfort-Ultra-Bluetooth-Headphones-2nd-Gen-drops-to-lowest-price-on-Amazon.jpg",
+          "published_at": "2026-06-12T20:22:00Z",
+          "key_points": [
+            "16% discount",
+            "Advanced noise cancellation",
+            "Available in five colors"
+          ],
+          "impact": "Great savings for high-quality headphones.",
+          "id": "e23a34db9d2b4e90134f08104aac1102"
+        },
+        {
+          "title": "Best Sun Protective Clothing for Summer",
+          "description": "Experts recommend the best UPF clothing for outdoor activities this summer. Stay protected from harmful UV rays while enjoying the sun.",
+          "category": "Science",
+          "source": "CNN",
+          "url": "https://www.cnn.com/cnn-underscored/outdoors/best-sun-protection-upf-clothing",
+          "image": "https://media.cnn.com/api/v1/images/stellar/prod/kai-best-upf-clothes-cnnu-4.jpg?c=16x9&q=w_800,c_fill",
+          "published_at": "2026-06-12T20:00:00Z",
+          "key_points": [
+            "Best UPF clothing",
+            "Expert recommendations",
+            "Stay safe outdoors"
+          ],
+          "impact": "Stay protected while enjoying outdoor activities.",
+          "id": "ebd0663c06c47a31e1e0fb5aa2ba01f8"
+        },
+        {
+          "title": "Nintendo Faces Legal Setback Against Palworld",
+          "description": "Nintendo reportedly has little chance of winning its lawsuit against the makers of Palworld, concluding a two-year legal battle. The game remains unaffected.",
+          "category": "Gaming",
+          "source": "Wccftech",
+          "url": "https://wccftech.com/nintendo-losing-palworld-lawsuit/",
+          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/pokemon-palworld-HD-scaled-1-1920x1008.jpg",
+          "published_at": "2026-06-12T19:59:00Z",
+          "key_points": [
+            "Nintendo's lawsuit setback",
+            "Two-year legal battle",
+            "Palworld remains online"
+          ],
+          "impact": "Nintendo's legal efforts have failed.",
+          "id": "705b0885619915b49d48024086d59546"
+        },
+        {
+          "title": "Elden Ring Tarnished Edition Size Revealed",
+          "description": "The Elden Ring Tarnished Edition for Nintendo Switch 2 is listed at 41GB. Fans await its release with anticipation.",
+          "category": "Gaming",
+          "source": "My Nintendo News",
+          "url": "https://mynintendonews.com/2026/06/12/elden-ring-tarnished-edition-on-switch-2-listed-as-41gb/",
+          "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2026/06/elden_ring_tarnished_edition.jpeg?fit=1920%2C1080&ssl=1",
+          "published_at": "2026-06-12T18:21:16Z",
+          "key_points": [
+            "41GB file size",
+            "Switch 2 edition",
+            "Fans eagerly await release"
+          ],
+          "impact": "Anticipation builds for the game's launch.",
+          "id": "b2d06979ad3391db0fa2e565709ceee9"
+        },
+        {
+          "title": "China-Linked Hackers Exploit Linux for Years",
+          "description": "A China-linked hacking group has backdoored Linux login software, maintaining stealthy access since 2016. This poses significant security risks.",
+          "category": "Security",
+          "source": "The Hacker News",
+          "url": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxJqmKAQv_I_7JkmQwoIVSx2BkRPUEb9TTNOd2RkNqTg3tcLyZszN8KiXfUUeIBSPSoxjzMAn2inE6TL791l5B_CbQaHqG708c2tgN-kSUmz_fTuewdcrWHS8u-xdWKIr6fEhx2W7_JDszsJ1oXO9v47JxU81490QKz0ZRL2OOFoljevoD8f6OMozfMZU/s1600/linux-backdoor.jpg",
+          "published_at": "2026-06-12T18:17:00Z",
+          "key_points": [
+            "Backdoored Linux software",
+            "Stealthy access since 2016",
+            "Significant security risks"
+          ],
+          "impact": "This breach raises major security concerns.",
+          "id": "8a77ae01fe4f3132eee7710ecba05c6e"
+        },
+        {
+          "title": "Call of Duty: MW4 Early Access Details",
+          "description": "Xbox and Activision announce early access for Call of Duty: Modern Warfare 4's campaign for pre-orders, starting October 16. Gamers can get a head start.",
+          "category": "Gaming",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/06/xbox-and-activision-reveal-campaign-early-access-details-for-call-of-duty-mw4",
+          "image": "https://images.purexbox.com/5e0a9a36a4d05/large.jpg",
+          "published_at": "2026-06-12T17:31:00Z",
+          "key_points": [
+            "Campaign early access announced",
+            "Starts October 16",
+            "Pre-order benefits"
+          ],
+          "impact": "Gamers can enjoy early gameplay access.",
+          "id": "417095346608f7c538ee7eaed0100e63"
+        },
+        {
+          "title": "Bungie's Near Closure Before Sony Acquisition",
+          "description": "A former Destiny 2 developer reveals Bungie was close to shutting down before Sony's acquisition. The merger was crucial for the studio's survival.",
+          "category": "Gaming",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/gaming/former-destiny-2-dev-says-if-sony-didnt-buy-bungie-the-studio-would-have-been-very-close-to-shutting-its-doors",
+          "image": "https://cdn.mos.cms.futurecdn.net/G2yDFdtEpPV4d8x8kxFJoh-1920-80.jpg",
+          "published_at": "2026-06-12T16:14:45Z",
+          "key_points": [
+            "Bungie nearly closed",
+            "Sony's acquisition saved studio",
+            "Emergency acquisition"
+          ],
+          "impact": "Bungie's future was uncertain without Sony.",
+          "id": "7de432f86ab1a4eebeb156cf3314177f"
+        },
+        {
+          "title": "Xbox CEO Warns of Rising Hardware Costs",
+          "description": "Xbox CEO warns that increasing memory and storage costs may lead to higher console prices. Ad-based Xbox Cloud Gaming could be a solution.",
+          "category": "Business",
+          "source": "Gizmodo.com",
+          "url": "https://gizmodo.com/xbox-ceo-is-preparing-gamers-for-when-hardware-is-a-luxury-2000771138",
+          "image": "https://gizmodo.com/app/uploads/2025/11/X-Box-Green-Feature-Vignette-2-1200x675.jpg",
+          "published_at": "2026-06-12T16:05:15Z",
+          "key_points": [
+            "Rising hardware costs",
+            "Ad-based gaming solution",
+            "Future console prices uncertain"
+          ],
+          "impact": "Gamers may face higher costs ahead.",
+          "id": "4e3d73893696d966df2900c408b901c6"
+        },
+        {
+          "title": "Controversial Tupac Character in Stranger Than Heaven",
+          "description": "Developers of Stranger Than Heaven clarify their portrayal of Tupac, depicting him 30 years after his death. The decision has sparked mixed reactions.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/i-hate-what-stranger-than-heaven-is-doing-with-tupac-but-at-least-theyre-being-honest-about-it-2000705998",
+          "image": "https://kotaku.com/app/uploads/2026/06/image-1-1.jpg",
+          "published_at": "2026-06-12T15:57:19Z",
+          "key_points": [
+            "Tupac's character explained",
+            "30 years after his death",
+            "Mixed reactions from fans"
+          ],
+          "impact": "The portrayal has sparked significant debate.",
+          "id": "b9b2a47637e009bf5b455387372d94a8"
+        }
+      ]
+    },
+    {
       "id": "2026-06-14T19:25:07.543220+00:00",
       "fetched_at": "2026-06-14T19:25:07.543220+00:00",
       "label": "Jun 14, 2026 — 07:25 PM UTC",
@@ -5768,237 +5999,6 @@
           ],
           "impact": "Godzilla's remaster aims to revive nostalgia.",
           "id": "58d12cc90fbe80a0facb7e47ff9d6f63"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-09T02:58:05.126832+00:00",
-      "fetched_at": "2026-06-09T02:58:05.126832+00:00",
-      "label": "Jun 09, 2026 — 02:58 AM UTC",
-      "articles": [
-        {
-          "title": "Clockwork Revolution: Time-Bending RPG Unveiled",
-          "description": "inXile Entertainment reveals Clockwork Revolution, a steampunk RPG with impactful choices. Players navigate a reactive world filled with memorable characters.",
-          "category": "Gaming",
-          "source": "Xbox.com",
-          "url": "https://news.xbox.com/en-us/2026/06/07/clockwork-revolution-preview-xbox-games-showcase-2026/",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/ClockworkRevolution_2026_03_LadyIronwood-15fabaf5bd7afc3bc844.jpg",
-          "published_at": "2026-06-07T23:51:48Z",
-          "key_points": [
-            "Steampunk setting",
-            "Impactful player choices",
-            "Memorable characters"
-          ],
-          "impact": "Clockwork Revolution promises a unique RPG experience.",
-          "id": "4e6d0b8258f27d41f293d1bd91f3179a"
-        },
-        {
-          "title": "2026 Summer Xbox Games Showcase Highlights",
-          "description": "The 2026 Summer Xbox Games Showcase revealed major titles including Gears of War: E-Day and Call of Duty: Modern Warfare 4. Exciting updates and trailers captivated fans.",
-          "category": "Gaming",
-          "source": "Gameinformer.com",
-          "url": "https://gameinformer.com/xbox-games-showcase/2026/06/07/heres-everything-announced-during-the-2026-summer-xbox-games",
-          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/07/1639bcb1/gearsofwareday.jpg.webp",
-          "published_at": "2026-06-07T22:17:49Z",
-          "key_points": [
-            "Major game announcements",
-            "Exclusive reveals",
-            "Gameplay trailers"
-          ],
-          "impact": "The showcase set high expectations for upcoming games.",
-          "id": "20ee71c9903da3f03d032de53ee9c26e"
-        },
-        {
-          "title": "Persona 6™ Officially Announced",
-          "description": "Persona 6 is officially in development, announced during the Xbox Showcase. A release date for Persona 4 Revival was also revealed.",
-          "category": "Gaming",
-          "source": "Gamespress.com",
-          "url": "https://www.gamespress.com/Persona-6-Announced-at-The-XBOX-Games-Showcase-2026",
-          "image": "",
-          "published_at": "2026-06-07T22:06:07Z",
-          "key_points": [
-            "Persona 6 confirmed",
-            "Release date for Persona 4",
-            "Exciting RPG developments"
-          ],
-          "impact": "Fans eagerly await the next installment in the series.",
-          "id": "7697d916e1f554284fa1a0bfab512564"
-        },
-        {
-          "title": "Thief: The Dark Project Remaster Announced",
-          "description": "Nightdive Studios is remastering the classic stealth game Thief: The Dark Project. This follows their successful remakes of System Shock.",
-          "category": "Gaming",
-          "source": "Eurogamer.net",
-          "url": "https://www.eurogamer.net/thief-the-dark-project-remastered-nightdive-studios",
-          "image": "https://assetsio.gnwcdn.com/thief-remastered-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-07T21:44:36Z",
-          "key_points": [
-            "Classic game remastered",
-            "Nightdive's expertise",
-            "Immersive stealth gameplay"
-          ],
-          "impact": "Thief fans can look forward to a modern update.",
-          "id": "8f86dbf0c8801abbad4475bfecc7f440"
-        },
-        {
-          "title": "Rumor: New Wario Game in Development",
-          "description": "Insider claims suggest Nintendo is developing a new Wario game. Details remain scarce, but excitement is building.",
-          "category": "Gaming",
-          "source": "Nintendoeverything.com",
-          "url": "https://nintendoeverything.com/rumor-nintendo-has-a-new-wario-game-on-the-way/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/New-Wario-game.jpg",
-          "published_at": "2026-06-07T21:42:48Z",
-          "key_points": [
-            "New Wario game rumored",
-            "Insider claims",
-            "Details not yet revealed"
-          ],
-          "impact": "Nintendo fans are buzzing with anticipation.",
-          "id": "65ea1a9810292765d5bd3ed841c0d293"
-        },
-        {
-          "title": "Valheim Launches on Nintendo Switch 2",
-          "description": "Valheim will be available on Nintendo Switch 2 starting September 9, 2026. The announcement was made during a recent Nintendo Direct.",
-          "category": "Gaming",
-          "source": "Nintendoeverything.com",
-          "url": "https://nintendoeverything.com/valheim-receives-nintendo-switch-2-release-date-new-trailer/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Valheim-release-date.jpg",
-          "published_at": "2026-06-07T20:47:48Z",
-          "key_points": [
-            "Valheim release date confirmed",
-            "Nintendo Switch 2",
-            "Exciting new trailer"
-          ],
-          "impact": "Switch 2 owners can soon enjoy Valheim.",
-          "id": "164d29f40910c4cc748a38df1bc8e64e"
-        },
-        {
-          "title": "Sega Confirms AI Use in Crazy Taxi",
-          "description": "Sega acknowledges the use of generative AI in developing background assets for Crazy Taxi: World Tour. This marks a new approach in game development.",
-          "category": "Gaming",
-          "source": "Gameinformer.com",
-          "url": "https://gameinformer.com/2026/06/07/sega-confirms-and-responds-to-generative-ai-content-in-new-crazy-taxi-game",
-          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/07/01814929/crazytaxi.jpg.webp",
-          "published_at": "2026-06-07T20:08:22Z",
-          "key_points": [
-            "Generative AI used",
-            "Background asset development",
-            "Innovative game design"
-          ],
-          "impact": "Sega embraces AI technology in gaming.",
-          "id": "bc9abf36932ca169bb95c8d37da054f7"
-        },
-        {
-          "title": "Summer Game Fest 2026 Highlights",
-          "description": "The Summer Game Fest 2026 showcased major titles like God of War Laufey and Persona 6, alongside Xbox's new exclusivity strategy.",
-          "category": "Gaming",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/CTRL_R_Key_Art_FINAL_4K.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-          "published_at": "2026-06-07T18:45:33Z",
-          "key_points": [
-            "Major game announcements",
-            "Xbox exclusivity strategy",
-            "Exciting new titles"
-          ],
-          "impact": "The event highlighted the future of gaming.",
-          "id": "4ac412b958e2906da7d1fd67f6f56aa4"
-        },
-        {
-          "title": "DMZ: Call of Duty's Extraction Shooter Revealed",
-          "description": "Activision unveiled DMZ, a new extraction shooter experience in Call of Duty. Players can expect a challenging solo play environment.",
-          "category": "Gaming",
-          "source": "Xbox.com",
-          "url": "https://news.xbox.com/en-us/2026/06/07/dmz-new-intel-call-of-duty-extraction-shooter-xbox-games-showcase-2026/",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/MW4_DMZ_011_BRANDED-14317359d6d97353e6a2.jpg",
-          "published_at": "2026-06-07T18:11:23Z",
-          "key_points": [
-            "New extraction shooter",
-            "Challenging solo gameplay",
-            "Innovative AI enemies"
-          ],
-          "impact": "DMZ aims to redefine the extraction shooter genre.",
-          "id": "1820034816e70e4fe99a73a44d297185"
-        },
-        {
-          "title": "Next Hellblade Game Set for 2027 Release",
-          "description": "Ninja Theory announces a new entry in the Hellblade series, simply titled Senua, set to launch in 2027.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/new-hellblade-game-simply-titled-senua-and-will-be-out-next-year-2000703672",
-          "image": "https://kotaku.com/app/uploads/2026/06/Senua_Screenshot_05-8f0460a7413220bbe06e-1900x1080-1-1200x675.jpg",
-          "published_at": "2026-06-07T18:01:01Z",
-          "key_points": [
-            "New Hellblade game announced",
-            "Title: Senua",
-            "Release set for 2027"
-          ],
-          "impact": "Fans await the next chapter in Hellblade.",
-          "id": "f23df6bca2046688fb538ed837044cc3"
-        },
-        {
-          "title": "New Spyro Game Set for Spring 2027",
-          "description": "A new Spyro game, featuring the franchise's first dragon-flight feature, is set to release in Spring 2027 from Toys for Bob.",
-          "category": "Gaming",
-          "source": "Variety",
-          "url": "https://variety.com/2026/gaming/news/new-spyro-game-a-realm-beyond-release-spring-2027-1236768742/",
-          "image": "https://variety.com/wp-content/uploads/2026/06/Spyro-A-Realm-Beyond.png?w=1000&h=563&crop=1",
-          "published_at": "2026-06-07T18:00:00Z",
-          "key_points": [
-            "New Spyro game announced",
-            "First dragon-flight feature",
-            "Release in Spring 2027"
-          ],
-          "impact": "Spyro fans can look forward to exciting gameplay.",
-          "id": "5addda7673e24608f4e69d5c9d44d053"
-        },
-        {
-          "title": "DOOM: The Dark Ages DLC Announced",
-          "description": "Bethesda and id Software announced the new DLC 'Revelations' for DOOM: The Dark Ages, alongside a free update.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/doom-the-dark-ages-dlc-revelations-announced",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Doom-DLC_06-07-26.jpg",
-          "published_at": "2026-06-07T17:36:06Z",
-          "key_points": [
-            "New DOOM DLC announced",
-            "Free update included",
-            "Launch on July 7"
-          ],
-          "impact": "DOOM fans have new content to look forward to.",
-          "id": "dcb4c95dbbf14ea3324a063bffcb334d"
-        },
-        {
-          "title": "METRO 2039 Set for February 2027 Launch",
-          "description": "METRO 2039 will launch on multiple platforms in February 2027, featuring immersive gameplay and stunning graphics.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/metro-2039-launches-in-february-2027",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/METRO-2029_2026_06-07-26_001.jpg",
-          "published_at": "2026-06-07T17:25:55Z",
-          "key_points": [
-            "METRO 2039 launching",
-            "Available on multiple platforms",
-            "Immersive gameplay experience"
-          ],
-          "impact": "Gamers can anticipate a thrilling return to METRO.",
-          "id": "d233b1dbe6aeba9e6ea637af5149c873"
-        },
-        {
-          "title": "Resonance: A Plague Tale Legacy Launches August 27",
-          "description": "Resonance: A Plague Tale Legacy will be available on major platforms on August 27, 2026, promising an engaging narrative.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/resonance-a-plague-tale-legacy-launches-august-27",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Resonance-A-Plague-Tale-Legacy_2026_06-07-26_006.jpg",
-          "published_at": "2026-06-07T17:15:54Z",
-          "key_points": [
-            "Plague Tale Legacy launching",
-            "Available on major platforms",
-            "Engaging narrative promised"
-          ],
-          "impact": "Fans eagerly await the next chapter in the series.",
-          "id": "200f1dc1d9e26503e90de5a53d450f26"
         }
       ]
     }
