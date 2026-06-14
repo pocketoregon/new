@@ -5,125 +5,143 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2026 03:57:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 09:32:49 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Support Marathon to Save Bungie, Says Ex-Manager</title>
-      <description>Bungie's former community manager insists player counts shouldn't be compared between Destiny 2 and Marathon. He claims Bungie's issues predate Marathon's arrival.</description>
-      <link>https://www.ign.com/articles/the-only-way-to-keep-bungie-alive-is-to-support-marathon-ex-destiny-community-manager-says</link>
-      <guid isPermaLink="true">https://www.ign.com/articles/the-only-way-to-keep-bungie-alive-is-to-support-marathon-ex-destiny-community-manager-says</guid>
-      <pubDate>2026-06-12T21:59:38Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.ign.com/articles/the-only-way-to-keep-bungie-alive-is-to-support-marathon-ex-destiny-community-manager-says">IGN</source>
+      <title>DJI Sues Insta360 Over Luna Ultra Similarities</title>
+      <description>DJI has filed lawsuits against Insta360, claiming patent violations related to the new Luna Ultra camera, which resembles the Osmo Pocket 4P. The lawsuits are filed in the US.</description>
+      <link>https://www.gsmarena.com/dji_sues_insta360_for_how_similar_the_luna_ultra_is_to_the_osmo_pocket_4p-news-73258.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/dji_sues_insta360_for_how_similar_the_luna_ultra_is_to_the_osmo_pocket_4p-news-73258.php</guid>
+      <pubDate>2026-06-12T21:17:02Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.gsmarena.com/dji_sues_insta360_for_how_similar_the_luna_ultra_is_to_the_osmo_pocket_4p-news-73258.php">GSMArena.com</source>
     </item>
     <item>
-      <title>Poll Reveals Mixed Feelings on Street Fighter 6 Season 4</title>
-      <description>Street Fighter 6's Season 4 plans were unveiled, surprising many fans. Community feedback is being gathered on the new direction and character additions.</description>
-      <link>https://www.eventhubs.com/news/2026/jun/12/street-fighter-season-4-poll/</link>
-      <guid isPermaLink="true">https://www.eventhubs.com/news/2026/jun/12/street-fighter-season-4-poll/</guid>
-      <pubDate>2026-06-12T21:44:50Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.eventhubs.com/news/2026/jun/12/street-fighter-season-4-poll/">EventHubs</source>
-    </item>
-    <item>
-      <title>Zelda: Ocarina of Time Remake Tops Summer Game Fest</title>
-      <description>The remake of Zelda: Ocarina of Time was among the most popular titles at Summer Game Fest 2026. Fans are excited about its upcoming release.</description>
-      <link>https://nintendoeverything.com/zelda-ocarina-of-time-nintendo-switch-2-remake-was-one-of-the-most-popular-titles-of-summer-game-fest-2026-according-to-data/</link>
-      <guid isPermaLink="true">https://nintendoeverything.com/zelda-ocarina-of-time-nintendo-switch-2-remake-was-one-of-the-most-popular-titles-of-summer-game-fest-2026-according-to-data/</guid>
-      <pubDate>2026-06-12T21:12:02Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://nintendoeverything.com/zelda-ocarina-of-time-nintendo-switch-2-remake-was-one-of-the-most-popular-titles-of-summer-game-fest-2026-according-to-data/">Nintendoeverything.com</source>
-    </item>
-    <item>
-      <title>AMD Denies Bug Bounty After Security Flaw Fix</title>
-      <description>AMD failed to pay a $10,000 bounty for a critical security flaw in its auto-updater, which took 124 days to fix. This has raised concerns about their security practices.</description>
-      <link>https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix</link>
-      <guid isPermaLink="true">https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix</guid>
-      <pubDate>2026-06-12T17:17:12Z</pubDate>
-      <category>Security</category>
-      <source url="https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix">Gadgetreview.com</source>
-    </item>
-    <item>
-      <title>Waze Expands Traffic Lights Feature to More Users</title>
-      <description>Waze continues to roll out its traffic lights feature, enhancing navigation for users. This feature was first tested last December.</description>
-      <link>https://www.gsmarena.com/waze_traffic_lights_feature_gradual_rollout-news-73251.php</link>
-      <guid isPermaLink="true">https://www.gsmarena.com/waze_traffic_lights_feature_gradual_rollout-news-73251.php</guid>
-      <pubDate>2026-06-12T14:37:02Z</pubDate>
+      <title>iOS 27 Introduces New Keyboards and Typing Features</title>
+      <description>iOS 27 adds support for new keyboards, including Afrikaans and Indigenous languages, enhancing typing experiences across multiple languages. Apple continues to expand its accessibility features.</description>
+      <link>https://9to5mac.com/2026/06/12/ios-27-brings-new-keyboards-and-typing-improvements-across-multiple-languages/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/12/ios-27-brings-new-keyboards-and-typing-improvements-across-multiple-languages/</guid>
+      <pubDate>2026-06-12T21:16:00Z</pubDate>
       <category>Software</category>
-      <source url="https://www.gsmarena.com/waze_traffic_lights_feature_gradual_rollout-news-73251.php">GSMArena.com</source>
+      <source url="https://9to5mac.com/2026/06/12/ios-27-brings-new-keyboards-and-typing-improvements-across-multiple-languages/">9to5Mac</source>
     </item>
     <item>
-      <title>Record Discounts on AirPods and Switch 2 Sales</title>
-      <description>AirPods models see record low prices this week, including AirPods Pro 3 and Max 2. A rare discount on Switch 2 is also available.</description>
-      <link>https://www.macrumors.com/2026/06/12/best-apple-deals-of-the-week-6-12-26/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/06/12/best-apple-deals-of-the-week-6-12-26/</guid>
-      <pubDate>2026-06-12T14:33:10Z</pubDate>
-      <category>Business</category>
-      <source url="https://www.macrumors.com/2026/06/12/best-apple-deals-of-the-week-6-12-26/">MacRumors</source>
+      <title>macOS Golden Gate Phasing Out Rosetta 2 Support</title>
+      <description>Apple will discontinue Rosetta 2 support in macOS Golden Gate, affecting Intel-based apps on Apple silicon Macs. Users need to prepare for app compatibility issues.</description>
+      <link>https://www.macrumors.com/2026/06/12/macos-golden-gate-rosetta-support/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/06/12/macos-golden-gate-rosetta-support/</guid>
+      <pubDate>2026-06-12T21:05:57Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.macrumors.com/2026/06/12/macos-golden-gate-rosetta-support/">MacRumors</source>
     </item>
     <item>
-      <title>Final Fantasy 7 Director Calls Streamers a Crisis</title>
-      <description>The director of Final Fantasy 7 expresses concern that watching streamers may deter players from engaging with RPGs. He emphasizes the need for more player choice.</description>
-      <link>https://kotaku.com/final-fantasy-7-revelation-director-calls-watching-streamers-a-crisis-for-rpgs-that-dont-offer-enough-choice-2000705983</link>
-      <guid isPermaLink="true">https://kotaku.com/final-fantasy-7-revelation-director-calls-watching-streamers-a-crisis-for-rpgs-that-dont-offer-enough-choice-2000705983</guid>
-      <pubDate>2026-06-12T13:13:58Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://kotaku.com/final-fantasy-7-revelation-director-calls-watching-streamers-a-crisis-for-rpgs-that-dont-offer-enough-choice-2000705983">Kotaku</source>
-    </item>
-    <item>
-      <title>Crimson Desert Developer Discusses Game Changes</title>
-      <description>Crimson Desert's developer shares insights on story changes and the meaning of 'DLC'. The game has sold over 6 million copies since launch.</description>
-      <link>https://nordic.ign.com/crimson-desert/108758/crimson-desert-dev-explains-how-its-changing-the-games-story-what-dlc-means-and-why-anything-goes</link>
-      <guid isPermaLink="true">https://nordic.ign.com/crimson-desert/108758/crimson-desert-dev-explains-how-its-changing-the-games-story-what-dlc-means-and-why-anything-goes</guid>
-      <pubDate>2026-06-12T12:36:20Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://nordic.ign.com/crimson-desert/108758/crimson-desert-dev-explains-how-its-changing-the-games-story-what-dlc-means-and-why-anything-goes">IGN</source>
-    </item>
-    <item>
-      <title>Nintendo's Legal Battle Over Palworld Nears End</title>
-      <description>Nintendo's attempt to block Palworld is likely to yield minimal results, with a potential payout of only $30,000. The case appears to be wrapping up.</description>
-      <link>https://www.windowscentral.com/gaming/nintendo-wanted-to-block-palworld-now-it-faces-a-0-percent-chance-and-a-measly-usd30k-payout</link>
-      <guid isPermaLink="true">https://www.windowscentral.com/gaming/nintendo-wanted-to-block-palworld-now-it-faces-a-0-percent-chance-and-a-measly-usd30k-payout</guid>
-      <pubDate>2026-06-12T10:28:48Z</pubDate>
-      <category>Geopolitics</category>
-      <source url="https://www.windowscentral.com/gaming/nintendo-wanted-to-block-palworld-now-it-faces-a-0-percent-chance-and-a-measly-usd30k-payout">Windows Central</source>
-    </item>
-    <item>
-      <title>New Surveillance Tech Enhances Tracking Capabilities</title>
-      <description>New surveillance technology allows tracking beyond license plates using smartphone data and RFID chips. This raises privacy concerns.</description>
-      <link>https://www.jalopnik.com/2191765/new-surveillance-tech-pairs-your-license-plate-phone-bluetooth-devices/</link>
-      <guid isPermaLink="true">https://www.jalopnik.com/2191765/new-surveillance-tech-pairs-your-license-plate-phone-bluetooth-devices/</guid>
-      <pubDate>2026-06-12T04:25:00Z</pubDate>
+      <title>Over 400 Arch Linux AUR Packages Hijacked</title>
+      <description>More than 400 Arch Linux AUR packages were hijacked to deploy a Rust credential stealer and optional eBPF rootkit. Users are urged to check their systems for vulnerabilities.</description>
+      <link>https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html</link>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html</guid>
+      <pubDate>2026-06-12T19:35:58Z</pubDate>
       <category>Security</category>
-      <source url="https://www.jalopnik.com/2191765/new-surveillance-tech-pairs-your-license-plate-phone-bluetooth-devices/">Jalopnik</source>
+      <source url="https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html">The Hacker News</source>
     </item>
     <item>
-      <title>Xenoblade Chronicles Graphics Comparison Across Platforms</title>
-      <description>A new video compares Xenoblade Chronicles graphics on Wii, 3DS, Switch, and Switch 2. Fans can see the visual improvements across systems.</description>
-      <link>https://gonintendo.com/contents/61826-xenoblade-chronicles-wii-vs-3ds-vs-switch-vs-switch-2-graphics-comparison</link>
-      <guid isPermaLink="true">https://gonintendo.com/contents/61826-xenoblade-chronicles-wii-vs-3ds-vs-switch-vs-switch-2-graphics-comparison</guid>
-      <pubDate>2026-06-11T23:29:08Z</pubDate>
+      <title>Jurassic World Rebirth 2 Update from Writer</title>
+      <description>Screenwriter David Koepp provides an update on the sequel to Jurassic World Rebirth, confirming that development is underway. Fans eagerly await more details.</description>
+      <link>https://screenrant.com/jurassic-world-rebirth-2-update-future-writer-david-koepp/</link>
+      <guid isPermaLink="true">https://screenrant.com/jurassic-world-rebirth-2-update-future-writer-david-koepp/</guid>
+      <pubDate>2026-06-12T19:20:38Z</pubDate>
       <category>Gaming</category>
-      <source url="https://gonintendo.com/contents/61826-xenoblade-chronicles-wii-vs-3ds-vs-switch-vs-switch-2-graphics-comparison">GoNintendo</source>
+      <source url="https://screenrant.com/jurassic-world-rebirth-2-update-future-writer-david-koepp/">Screen Rant</source>
     </item>
     <item>
-      <title>Gran Turismo 7 Launches New Weekly Challenges</title>
-      <description>Gran Turismo 7 introduces new weekly challenges starting June 12. Players can participate in five events and earn rewards.</description>
-      <link>https://www.gtplanet.net/gran-turismo-7-weekly-challenges-when-life-gives-you-le-mans-20260611/</link>
-      <guid isPermaLink="true">https://www.gtplanet.net/gran-turismo-7-weekly-challenges-when-life-gives-you-le-mans-20260611/</guid>
-      <pubDate>2026-06-11T20:20:41Z</pubDate>
+      <title>Resident Evil Veronica Remake Story Adjustments</title>
+      <description>Capcom is modifying Code: Veronica's story for its remake to better fit the evolving Resident Evil series. This aims to enhance narrative cohesion.</description>
+      <link>https://www.eurogamer.net/resident-evil-veronica-story-changes</link>
+      <guid isPermaLink="true">https://www.eurogamer.net/resident-evil-veronica-story-changes</guid>
+      <pubDate>2026-06-12T18:00:08Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.gtplanet.net/gran-turismo-7-weekly-challenges-when-life-gives-you-le-mans-20260611/">GTPlanet</source>
+      <source url="https://www.eurogamer.net/resident-evil-veronica-story-changes">Eurogamer</source>
     </item>
     <item>
-      <title>Early Prime Day Apple Deals Offer Major Discounts</title>
-      <description>Ahead of Prime Day, Apple products are seeing discounts up to $300. Retailers are offering some of the lowest prices on new releases.</description>
-      <link>https://appleinsider.com/articles/26/06/11/early-prime-day-apple-deals-start-at-just-1499-save-up-to-300</link>
-      <guid isPermaLink="true">https://appleinsider.com/articles/26/06/11/early-prime-day-apple-deals-start-at-just-1499-save-up-to-300</guid>
-      <pubDate>2026-06-11T19:07:00Z</pubDate>
-      <category>Business</category>
-      <source url="https://appleinsider.com/articles/26/06/11/early-prime-day-apple-deals-start-at-just-1499-save-up-to-300">AppleInsider</source>
+      <title>iOS 27 Features Revealed at Apple Keynote</title>
+      <description>Apple's keynote unveiled numerous features for iOS 27, including enhancements across various platforms. The full list highlights significant updates.</description>
+      <link>https://9to5mac.com/2026/06/12/heres-everything-new-in-ios-27-and-more-per-apples-keynote-list/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/12/heres-everything-new-in-ios-27-and-more-per-apples-keynote-list/</guid>
+      <pubDate>2026-06-12T17:57:00Z</pubDate>
+      <category>Software</category>
+      <source url="https://9to5mac.com/2026/06/12/heres-everything-new-in-ios-27-and-more-per-apples-keynote-list/">9to5Mac</source>
+    </item>
+    <item>
+      <title>Pokémon Go Scans Used for Military AI Tool</title>
+      <description>30 billion Pokémon Go images are now training an AI model for US military drone navigation, showcasing innovative uses of gaming data in defense technology.</description>
+      <link>https://united24media.com/war-in-ukraine/how-30-billion-pokemon-go-scans-became-a-military-ai-tool-for-drone-warfare-19776</link>
+      <guid isPermaLink="true">https://united24media.com/war-in-ukraine/how-30-billion-pokemon-go-scans-became-a-military-ai-tool-for-drone-warfare-19776</guid>
+      <pubDate>2026-06-12T15:58:13Z</pubDate>
+      <category>Geopolitics</category>
+      <source url="https://united24media.com/war-in-ukraine/how-30-billion-pokemon-go-scans-became-a-military-ai-tool-for-drone-warfare-19776">UNITED24 Media</source>
+    </item>
+    <item>
+      <title>Ubuntu 26.10 to Switch to Dbus-Broker</title>
+      <description>Ubuntu 26.10 plans to switch its default D-Bus implementation to the high-performance Dbus-Broker, enhancing system performance and efficiency.</description>
+      <link>https://www.phoronix.com/news/Ubuntu-26.10-Dbus-Broker</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Ubuntu-26.10-Dbus-Broker</guid>
+      <pubDate>2026-06-12T15:26:00Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.phoronix.com/news/Ubuntu-26.10-Dbus-Broker">Phoronix</source>
+    </item>
+    <item>
+      <title>Guild Wars 3 Timeline Revealed</title>
+      <description>ArenaNet has clarified the timeline for Guild Wars 3, but it appears there won't be a traditional guild war. Fans are curious about the new direction.</description>
+      <link>https://www.eurogamer.net/guild-wars-3-timeline-setting-no-guild-war</link>
+      <guid isPermaLink="true">https://www.eurogamer.net/guild-wars-3-timeline-setting-no-guild-war</guid>
+      <pubDate>2026-06-12T15:02:23Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.eurogamer.net/guild-wars-3-timeline-setting-no-guild-war">Eurogamer</source>
+    </item>
+    <item>
+      <title>Fold 8 vs. Fold 8 Ultra Images Leaked</title>
+      <description>Leaked images of the Fold 8 and Fold 8 Ultra reveal discrepancies in previous expectations. Fans are eager for official confirmations.</description>
+      <link>https://www.phonearena.com/news/fold-8-wide-vs-ultra-vs-flip-8_id181061</link>
+      <guid isPermaLink="true">https://www.phonearena.com/news/fold-8-wide-vs-ultra-vs-flip-8_id181061</guid>
+      <pubDate>2026-06-12T13:51:02Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://www.phonearena.com/news/fold-8-wide-vs-ultra-vs-flip-8_id181061">PhoneArena</source>
+    </item>
+    <item>
+      <title>Stranger Than Heaven Explores Tupac's Potential Future</title>
+      <description>The game Stranger Than Heaven will envision Tupac Shakur's life had he lived today, according to RGG Studio head Masayoshi Yokoyama. This unique concept aims to engage fans.</description>
+      <link>https://www.rockpapershotgun.com/stranger-than-heaven-will-explore-tupacs-potential-future-if-he-was-still-alive-now-according-to-rgg-studio-head</link>
+      <guid isPermaLink="true">https://www.rockpapershotgun.com/stranger-than-heaven-will-explore-tupacs-potential-future-if-he-was-still-alive-now-according-to-rgg-studio-head</guid>
+      <pubDate>2026-06-12T12:25:16Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.rockpapershotgun.com/stranger-than-heaven-will-explore-tupacs-potential-future-if-he-was-still-alive-now-according-to-rgg-studio-head">Rock Paper Shotgun</source>
+    </item>
+    <item>
+      <title>Zelda: Ocarina Of Time Remake Exclusive to Switch 2</title>
+      <description>The upcoming Legend of Zelda: Ocarina of Time Remake will be exclusive to the Nintendo Switch 2, limiting access for many fans. Anticipation builds for its release.</description>
+      <link>https://screenrant.com/zelda-ocarina-of-time-remake-unplayable-exclusive/</link>
+      <guid isPermaLink="true">https://screenrant.com/zelda-ocarina-of-time-remake-unplayable-exclusive/</guid>
+      <pubDate>2026-06-12T12:00:20Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://screenrant.com/zelda-ocarina-of-time-remake-unplayable-exclusive/">Screen Rant</source>
+    </item>
+    <item>
+      <title>Final Fantasy VII Revelation Level Cap Increased</title>
+      <description>Final Fantasy VII Revelation will allow players to reach level 99, featuring a massive endgame and challenging Weapons bosses. Fans are excited about the new content.</description>
+      <link>https://wccftech.com/final-fantasy-vii-revelation-level-99-endgame/</link>
+      <guid isPermaLink="true">https://wccftech.com/final-fantasy-vii-revelation-level-99-endgame/</guid>
+      <pubDate>2026-06-12T10:30:00Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://wccftech.com/final-fantasy-vii-revelation-level-99-endgame/">Wccftech</source>
+    </item>
+    <item>
+      <title>MacBook Neo Review: A Solid Alternative</title>
+      <description>The MacBook Neo performed well during a week of testing, proving to be a reliable alternative to the MacBook Pro. Users may find it a suitable option.</description>
+      <link>https://www.cnet.com/tech/computing/macbook-neo-vs-macbook-pro/</link>
+      <guid isPermaLink="true">https://www.cnet.com/tech/computing/macbook-neo-vs-macbook-pro/</guid>
+      <pubDate>2026-06-12T10:07:00Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://www.cnet.com/tech/computing/macbook-neo-vs-macbook-pro/">CNET</source>
     </item>
   </channel>
 </rss>
