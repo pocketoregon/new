@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-15T23:02:21.241473+00:00",
+      "fetched_at": "2026-06-15T23:02:21.241473+00:00",
+      "label": "Jun 15, 2026 — 11:02 PM UTC",
+      "articles": [
+        {
+          "title": "Capcom Pulls Dragon's Dogma 2 Deluxe Edition",
+          "description": "Capcom discontinues Dragon's Dogma 2 deluxe edition and removes controversial microtransactions. This decision aims to enhance player experience.",
+          "category": "Gaming",
+          "source": "Eurogamer.net",
+          "url": "https://www.eurogamer.net/dragon-dogma-2-discontinues-microtransactions",
+          "image": "https://assetsio.gnwcdn.com/DD2-Switch-2-trailer.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-14T20:56:01Z",
+          "key_points": [
+            "Deluxe edition discontinued",
+            "Microtransactions removed",
+            "Focus on player experience"
+          ],
+          "impact": "Capcom aims to improve player satisfaction.",
+          "id": "3520651db3990251d0ed9254e6608107"
+        },
+        {
+          "title": "Flight Crew Warns About Passenger Risks",
+          "description": "Flight attendants reveal risky passenger behaviors, emphasizing the importance of asking for help with lost items to avoid dangerous situations.",
+          "category": "Geopolitics",
+          "source": "Buzzfeed",
+          "url": "https://www.buzzfeed.com/jake_farrington/pilots-flight-attendants-important-tips-reddit",
+          "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/08/21/thumb/VEHSE7pi6.jpg?crop=2999:1570;0,2%26downsize=1250:*",
+          "published_at": "2026-06-14T19:21:02Z",
+          "key_points": [
+            "Passengers risk phone loss",
+            "Crew assistance is crucial",
+            "Safety over friendliness"
+          ],
+          "impact": "Awareness can enhance flight safety.",
+          "id": "482535e8751bfc57f0a920bbce04c068"
+        },
+        {
+          "title": "New Witcher Multiplayer Game Details Leaked",
+          "description": "An unannounced Witcher multiplayer game is set for PC and mobile, featuring a free-to-play co-op action RPG with custom characters.",
+          "category": "Gaming",
+          "source": "MP1st",
+          "url": "https://mp1st.com/news/unannounced-witcher-multiplayer-game-details-pc-mobile",
+          "image": "https://mp1st.com/wp-content/uploads/2026/06/w3kyart-600x338.png",
+          "published_at": "2026-06-14T18:26:10Z",
+          "key_points": [
+            "Free-to-play multiplayer",
+            "Custom Witcher characters",
+            "Set in 1230"
+          ],
+          "impact": "Expands The Witcher franchise's reach.",
+          "id": "242ccf711effc663e4cf713e0349d912"
+        },
+        {
+          "title": "Warhammer Pre-Orders Include New Handbook",
+          "description": "Upcoming pre-orders feature the Hedonites of Slaanesh and a new General’s Handbook for Warhammer Age of Sigmar.",
+          "category": "Gaming",
+          "source": "Warhammer-community.com",
+          "url": "https://www.warhammer-community.com/articles/0y4dh0xg/sunday-preview-hedonites-head-into-battle-along-with-a-new-generals-handbook",
+          "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/sundaypreview-jul30-1-feature-cinuqzn66p.jpg",
+          "published_at": "2026-06-14T16:59:51Z",
+          "key_points": [
+            "New Hedonites faction",
+            "General's Handbook released",
+            "Pre-orders available soon"
+          ],
+          "impact": "Enhances gameplay options for Warhammer fans.",
+          "id": "1a42854422f04c6caa95e72a201bed07"
+        },
+        {
+          "title": "Windows 11 Secure Boot Update Released",
+          "description": "Microsoft rolls out the Secure Boot 2023 update for Windows 11 PCs, enhancing security features for users and IT admins.",
+          "category": "Software",
+          "source": "WindowsLatest",
+          "url": "https://www.windowslatest.com/2026/06/14/microsoft-released-the-windows-11-secure-boot-update-for-all-pcs-how-to-verify-yours/",
+          "image": "https://www.windowslatest.com/wp-content/uploads/2026/06/Windows-11-is-now-automatically-rolling-out-the-Secure-Boot-2023-certificate-update-to-most-PCs-via-the-June-2026-Patch-Tuesday-update.jpg",
+          "published_at": "2026-06-14T16:13:27Z",
+          "key_points": [
+            "Secure Boot update released",
+            "Enhances PC security",
+            "IT admins need to verify"
+          ],
+          "impact": "Improves overall security for Windows users.",
+          "id": "4ba6b1afd6b9a069d7a80da6ed38db58"
+        },
+        {
+          "title": "Nintendo Announces Maintenance Schedule",
+          "description": "Nintendo's maintenance schedule for June 14 includes sessions for Wii U and 3DS, with no updates for Switch.",
+          "category": "Gaming",
+          "source": "Nintendoeverything.com",
+          "url": "https://nintendoeverything.com/nintendo-maintenance-schedule-june-14-2026/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/maintenance-3DS-Wii-U.jpg",
+          "published_at": "2026-06-14T16:05:02Z",
+          "key_points": [
+            "Maintenance for Wii U",
+            "No Switch updates",
+            "Scheduled for June 14"
+          ],
+          "impact": "Ensures system stability for older consoles.",
+          "id": "41f4e928b4636a3611410cf92f36d46f"
+        },
+        {
+          "title": "Five Key Settings to Change in One UI 8.5",
+          "description": "One UI 8.5 introduces significant updates, prompting users to adjust five key settings for optimal performance.",
+          "category": "Software",
+          "source": "MakeUseOf",
+          "url": "https://www.makeuseof.com/one-ui-8-5-settings-to-change/",
+          "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/06/ready-to-update-screen-on-samsung-galaxy-z-flip-6-1.jpg?w=1600&h=900&fit=crop",
+          "published_at": "2026-06-14T16:00:20Z",
+          "key_points": [
+            "One UI 8.5 released",
+            "Adjust five key settings",
+            "Improves user experience"
+          ],
+          "impact": "Enhances functionality of Samsung devices.",
+          "id": "b782b799350bb75ca0005ba7b91e21e6"
+        },
+        {
+          "title": "Apple's Siri Gets Major AI Upgrade",
+          "description": "Apple announces a significant AI upgrade for Siri, marking the beginning of a new era for the voice assistant.",
+          "category": "Software",
+          "source": "KSL.com",
+          "url": "https://www.ksl.com/article/51510780/apples-big-siri-update-is-here-now-the-real-challenge-begins",
+          "image": "https://img.ksl.com/slc/3160/316059/31605931.jpg?filter=kslv2/responsive_story_lg",
+          "published_at": "2026-06-14T15:36:06Z",
+          "key_points": [
+            "Siri AI upgrade announced",
+            "New features coming soon",
+            "Focus on user interaction"
+          ],
+          "impact": "Sets the stage for Siri's evolution.",
+          "id": "27159ffe97f4bc21c8e3b4ccc7b46097"
+        },
+        {
+          "title": "Linux 7.1 Kernel Released",
+          "description": "Linus Torvalds announces the release of the stable Linux 7.1 kernel, featuring new drivers and improved graphics support.",
+          "category": "Software",
+          "source": "Phoronix",
+          "url": "https://www.phoronix.com/news/Linux-7.1-Released",
+          "image": "https://www.phoronix.net/image.php?id=2026&image=linux_71",
+          "published_at": "2026-06-14T15:09:00Z",
+          "key_points": [
+            "Linux 7.1 released",
+            "New NTFS driver included",
+            "Improved graphics support"
+          ],
+          "impact": "Enhances performance for Linux users.",
+          "id": "7fd6fe94fee6ac10ea6a324e6d138841"
+        },
+        {
+          "title": "AI Founder Attempts to Create GTA Clone",
+          "description": "An AI startup founder aims to code a Grand Theft Auto-style game before the highly anticipated release this November.",
+          "category": "Gaming",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/ai-startup-founder-attempts-to-vibe-code-grand-theft-auto-game",
+          "image": "https://helios-i.mashable.com/imagery/articles/07xDdK7Ire8Io6xhjhT9Nwz/hero-image.fill.size_1200x675.v1781445889.png",
+          "published_at": "2026-06-14T14:24:46Z",
+          "key_points": [
+            "AI coding a GTA clone",
+            "Targeting November release",
+            "Innovative game development"
+          ],
+          "impact": "Challenges traditional game development methods.",
+          "id": "988f49f796c7f83e3a8120b3cd63249f"
+        },
+        {
+          "title": "PowerA Teases New Xbox Controller",
+          "description": "PowerA reveals Project X-Ray, a wireless controller designed for flight simulation on Xbox, featuring swappable faceplates.",
+          "category": "Gaming",
+          "source": "Notebookcheck",
+          "url": "https://www.notebookcheck.net/PowerA-teases-Project-X-Ray-Flight-Deck-Wireless-Controller-for-Xbox.1321304.0.html",
+          "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Power-Project-X-Ray-Project-Flight-Deck-Wireless-Controller.jpg",
+          "published_at": "2026-06-14T13:30:00Z",
+          "key_points": [
+            "New Xbox controller teased",
+            "Designed for flight simulation",
+            "Swappable faceplates included"
+          ],
+          "impact": "Enhances gaming experience for flight enthusiasts.",
+          "id": "e0e7ee73479c2865f131ff4c21ab8c24"
+        },
+        {
+          "title": "Capcom's Success Explained by President",
+          "description": "Capcom's president attributes the company's recent success to a new team-based approach in game development.",
+          "category": "Business",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/capcoms-president-explains-the-secret-behind-the-resident-evil-makers-recent-winning-streak-2000706227",
+          "image": "https://kotaku.com/app/uploads/2025/07/f2e0c810ca1866360ee164a048d735cd-1200x675.jpg",
+          "published_at": "2026-06-14T13:26:04Z",
+          "key_points": [
+            "Team-based development approach",
+            "Capcom's recent success",
+            "Focus on collaboration"
+          ],
+          "impact": "Revolutionizes Capcom's game development strategy.",
+          "id": "fc47cfb3b343166a9678ee68f8c581ec"
+        },
+        {
+          "title": "Xbox Game Pass Reveals 2027 Lineup",
+          "description": "Over ten new games for Xbox Game Pass in 2027 have been announced, promising an exciting year ahead for subscribers.",
+          "category": "Gaming",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/06/10plus-games-that-have-been-revealed-for-xbox-game-pass-in-2027-already",
+          "image": "https://images.purexbox.com/6ccd5e1d44e2f/large.jpg",
+          "published_at": "2026-06-14T13:21:15Z",
+          "key_points": [
+            "Exciting 2027 lineup",
+            "Over ten new games",
+            "Xbox Game Pass growth"
+          ],
+          "impact": "Strengthens Xbox Game Pass offerings.",
+          "id": "2ef3e5843a8002d317a56e59a22937b1"
+        },
+        {
+          "title": "Windows 11 Users Criticize Account Requirements",
+          "description": "Windows 11 users express frustration over mandatory Microsoft account requirements, sparking a debate on privacy and user control.",
+          "category": "Software",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds",
+          "image": "https://cdn.mos.cms.futurecdn.net/j6KmfXaKwgMziobFTx9itD-1687-80.jpg",
+          "published_at": "2026-06-14T13:18:33Z",
+          "key_points": [
+            "Users frustrated with requirements",
+            "Privacy concerns raised",
+            "Debate on user control"
+          ],
+          "impact": "Highlights ongoing privacy issues in software.",
+          "id": "228cc30d6552c5466edb7b6e7b45b1be"
+        },
+        {
+          "title": "How to Restart a Frozen Apple Watch",
+          "description": "To restart a frozen Apple Watch, press both side buttons until the Apple logo appears, taking about 10 seconds.",
+          "category": "Software",
+          "source": "BGR",
+          "url": "https://www.bgr.com/2191429/how-to-restart-frozen-apple-watch/",
+          "image": "https://www.bgr.com/img/gallery/how-to-restart-your-apple-watch-when-its-frozen/l-intro-1781105745.jpg",
+          "published_at": "2026-06-14T12:17:00Z",
+          "key_points": [
+            "Restart Apple Watch easily",
+            "Press side buttons",
+            "Quick troubleshooting guide"
+          ],
+          "impact": "Empowers users to resolve device issues.",
+          "id": "b75f1b93494fbe6bc58bf3f600699214"
+        }
+      ]
+    },
+    {
       "id": "2026-06-15T19:03:00.922798+00:00",
       "fetched_at": "2026-06-15T19:03:00.922798+00:00",
       "label": "Jun 15, 2026 — 07:03 PM UTC",
@@ -6104,221 +6351,6 @@
           ],
           "impact": "Excitement builds for Gears of War fans.",
           "id": "c9a50a61cf8dd79a2d55b5920604e501"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-09T20:06:07.718272+00:00",
-      "fetched_at": "2026-06-09T20:06:07.718272+00:00",
-      "label": "Jun 09, 2026 — 08:06 PM UTC",
-      "articles": [
-        {
-          "title": "Apple Unveils Next-Gen Siri AI",
-          "description": "Apple's revamped Siri AI promises enhanced capabilities across devices. The update aims to improve user experience significantly.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Apple-announces-Siri-AI-and-its-next-generation-of-Apple-Intelligence.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-06-08T17:34:24Z",
-          "key_points": [
-            "Enhanced Siri capabilities",
-            "Improved user experience",
-            "Available on all devices"
-          ],
-          "impact": "This update could redefine user interaction with Apple devices.",
-          "id": "d83456ffca102e61a938eba86d00a571"
-        },
-        {
-          "title": "visionOS 27 Launches with Exciting Features",
-          "description": "Apple introduces visionOS 27, enhancing the Vision Pro experience with new features. Users can expect improved functionality and performance.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/08/visionos-27-announced-with-new-features-for-vision-pro/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/WWDC-26-13.16.48.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-08T17:30:00Z",
-          "key_points": [
-            "New features for Vision Pro",
-            "Enhanced user experience",
-            "Improved performance"
-          ],
-          "impact": "visionOS 27 aims to elevate user engagement significantly.",
-          "id": "f78aa45d25208934e566ddf56a419bff"
-        },
-        {
-          "title": "Apple Unveils macOS 27 Golden Gate",
-          "description": "Apple announces macOS 27 Golden Gate, designed for various Mac models. The new OS promises faster and smoother performance.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/943695/apple-wwdc-2026-macos-27-macbook-mac-announcement-features",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Apple-announces-macOS-Golden-Gate-27.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-06-08T17:07:30Z",
-          "key_points": [
-            "Faster and smoother performance",
-            "Supports multiple Mac models",
-            "User-friendly interface"
-          ],
-          "impact": "macOS 27 aims to enhance productivity for users.",
-          "id": "9c03a68b023976b09f1fbf894492076f"
-        },
-        {
-          "title": "Apple Beta Website Temporarily Down Ahead of WWDC",
-          "description": "Apple's Beta Software Program website is down just before WWDC 2026. Users await the first developer betas of iOS 27.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/08/apple-beta-website-back-soon/",
-          "image": "https://images.macrumors.com/t/8TyANX8iZ0OXgocM8vVIYjtztQM=/1600x/article-new/2026/06/Apple-Beta-Back-Soon.jpg",
-          "published_at": "2026-06-08T16:20:04Z",
-          "key_points": [
-            "Beta website down",
-            "WWDC 2026 imminent",
-            "iOS 27 developer betas coming"
-          ],
-          "impact": "This downtime builds anticipation for upcoming announcements.",
-          "id": "a4a638338179269debd3a99ec774f8ca"
-        },
-        {
-          "title": "New Halo Cosmetics Honor Legacy",
-          "description": "Halo: Campaign Evolved introduces new cosmetics for Master Chief. Available in Premium and Collector’s Editions, these honor the franchise's legacy.",
-          "category": "Gaming",
-          "source": "Xbox.com",
-          "url": "https://news.xbox.com/en-us/2026/06/08/halo-campaign-evolved-prorder-alpha-halo-armory-pack-skins/",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/Hero-Customization-abffa6681daaaba38c9d.jpg",
-          "published_at": "2026-06-08T16:02:18Z",
-          "key_points": [
-            "New Master Chief cosmetics",
-            "Available in special editions",
-            "Honors Halo legacy"
-          ],
-          "impact": "These cosmetics enhance player connection to Halo's history.",
-          "id": "1cb48173766521adc2fdb55caa27196c"
-        },
-        {
-          "title": "NotebookLM Update Enhances Research Tool",
-          "description": "Google updates NotebookLM, making Gemini 3.5 the default model. New features aim to streamline research processes.",
-          "category": "Software",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/08/notebooklms-new-update-will-help-you-build-source-repository-from-chat/",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/06/NotebookLM-Outputs.jpeg?resize=1200,675",
-          "published_at": "2026-06-08T16:00:00Z",
-          "key_points": [
-            "Gemini 3.5 as default",
-            "New research features",
-            "Streamlined source management"
-          ],
-          "impact": "This update could revolutionize research efficiency.",
-          "id": "a7980eff08b04b9e402bd788113169ac"
-        },
-        {
-          "title": "Pokémon TCG: Mega Evolution Pre-release Event",
-          "description": "Get early access to the Mega Evolution—Pitch Black Build & Battle Box at local events. The expansion launches on July 17, 2026.",
-          "category": "Gaming",
-          "source": "Pokemon.com",
-          "url": "https://www.pokemon.com/us/pokemon-news/get-a-pokemon-tcg-mega-evolution-pitch-black-build-battle-box-early",
-          "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me05-build-battle-box/me05-build-battle-box-a-169-en.png",
-          "published_at": "2026-06-08T15:10:48Z",
-          "key_points": [
-            "Early access at local events",
-            "Expansion launches July 17",
-            "Build & Battle Box available"
-          ],
-          "impact": "This event boosts community engagement for Pokémon fans.",
-          "id": "0840776ded1ea9da089ce4b6363703d4"
-        },
-        {
-          "title": "New MkIV Space Marines Arrive for Horus Heresy",
-          "description": "Warhammer introduces updated MkIV Space Marines miniatures for The Horus Heresy. Classic power armor gets a modern redesign.",
-          "category": "Gaming",
-          "source": "Warhammer-community.com",
-          "url": "https://www.warhammer-community.com/articles/egzsv8co/new-mkiv-space-marines-deploy-to-the-horus-heresy",
-          "image": "https://assets.warhammer-community.com/thh_mkivgroup-jun08-1-feature-6ijfrdra5r.jpg",
-          "published_at": "2026-06-08T13:58:19Z",
-          "key_points": [
-            "Updated MkIV miniatures",
-            "Classic power armor redesign",
-            "Enhances Horus Heresy experience"
-          ],
-          "impact": "These miniatures will attract new and veteran players.",
-          "id": "43779c998f9ff5fb30e7c59b6090b890"
-        },
-        {
-          "title": "Xbox Confirms Anti-Scalping Measures for Series X25",
-          "description": "Ahead of the Xbox Series X25 launch, Xbox confirms anti-scalping measures to ensure fair access. The limited-edition console drops in November 2026.",
-          "category": "Gaming",
-          "source": "Windows Central",
-          "url": "https://www.windowscentral.com/gaming/xbox/its-top-of-mind-and-being-worked-on-xbox-confirms-anti-scalping-methods-will-be-in-place-ahead-of-the-xbox-series-x25-preorder",
-          "image": "https://cdn.mos.cms.futurecdn.net/bMzKyXvxCXLHKqujC98GPm-1900-80.jpg",
-          "published_at": "2026-06-08T13:54:02Z",
-          "key_points": [
-            "Anti-scalping measures confirmed",
-            "Limited-edition console launch",
-            "Ensures fair access for gamers"
-          ],
-          "impact": "This strategy aims to protect consumer interests.",
-          "id": "62c9ee133441cc4e6002443f2ab99955"
-        },
-        {
-          "title": "Xbox Exclusives Strategy Becomes Complex",
-          "description": "The next Gears of War is an Xbox exclusive, while Halo remains multi-platform. Xbox's exclusives strategy raises questions among fans.",
-          "category": "Gaming",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/report/945639/xbox-exclusives-strategy-complicated-confusing",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283723/STK048_XBOX_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-          "published_at": "2026-06-08T13:54:01Z",
-          "key_points": [
-            "Gears of War is exclusive",
-            "Halo remains multi-platform",
-            "Confusion among fans grows"
-          ],
-          "impact": "This complexity may affect Xbox's market strategy.",
-          "id": "5d339a6d6180552a2ce2f7a19474a144"
-        },
-        {
-          "title": "Prada and Axiom Reveal Stylish Cooling Suit for Moon Missions",
-          "description": "Prada and Axiom Space unveil a fashionable cooling suit for astronauts. This garment enhances comfort during lunar missions.",
-          "category": "Geopolitics",
-          "source": "Space.com",
-          "url": "https://www.space.com/space-exploration/human-spaceflight/its-very-aesthetically-pleasing-prada-and-axiom-just-revealed-the-stylish-cooling-suit-artemis-astronuats-will-wear-under-their-spacesuit-on-the-moon",
-          "image": "https://cdn.mos.cms.futurecdn.net/AMEJkTp5MmdhHnqiazYiyE-1920-80.jpg",
-          "published_at": "2026-06-08T12:00:00Z",
-          "key_points": [
-            "Stylish cooling suit revealed",
-            "Enhances astronaut comfort",
-            "Designed for lunar missions"
-          ],
-          "impact": "This innovation could redefine astronaut attire.",
-          "id": "3c68ae19c803637fe3e859e5e0ad4f0e"
-        },
-        {
-          "title": "Pixel Feature Disappears with New Replacement",
-          "description": "A Pixel-exclusive feature has vanished, replaced by a new option with limitations. Users express frustration over the changes.",
-          "category": "Software",
-          "source": "PhoneArena",
-          "url": "https://www.phonearena.com/news/another-pixel-exclusive-feature-just-vanished-and-the-replacement-comes-with-strings-attached_id180934",
-          "image": "",
-          "published_at": "2026-06-07T21:04:36Z",
-          "key_points": [
-            "Pixel feature removed",
-            "New option has limitations",
-            "User frustration grows"
-          ],
-          "impact": "This change may impact user satisfaction.",
-          "id": "2f0479b85d697d727142ed42ef5fa412"
-        },
-        {
-          "title": "iPhone Fold Leak and Nvidia RTX Spark Official",
-          "description": "This week features a leak of the iPhone Fold and the official announcement of Nvidia's RTX Spark. Exciting developments in tech continue.",
-          "category": "Software",
-          "source": "GSMArena.com",
-          "url": "https://www.gsmarena.com/iphone_fold_photo_leak_nvidia_rtx_spark_is_official_week_23_in_review-news-73151.php",
-          "image": "https://fdn.gsmarena.com/imgroot/news/26/06/week-23-in-review/-952x498w6/gsmarena_000.jpg",
-          "published_at": "2026-06-07T14:04:02Z",
-          "key_points": [
-            "iPhone Fold photo leak",
-            "Nvidia RTX Spark announced",
-            "Tech developments continue"
-          ],
-          "impact": "These announcements keep tech enthusiasts engaged.",
-          "id": "184b73d02150b4edc3cb288a2563c872"
         }
       ]
     }

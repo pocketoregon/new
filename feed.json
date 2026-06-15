@@ -1,245 +1,245 @@
 {
-  "generated_at": "2026-06-15T19:03:00.922798+00:00",
+  "generated_at": "2026-06-15T23:02:21.241473+00:00",
   "articles": [
     {
-      "title": "Galaxy Z Fold 8 Ultra: Excitement or Disappointment?",
-      "description": "Samsung's upcoming foldable may have potential, but concerns linger about its execution. The excitement is tempered by skepticism.",
-      "category": "Hardware",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/06/14/galaxy-z-fold-8-ultra-problems/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-35.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-14T16:00:00Z",
-      "key_points": [
-        "Potential for innovation",
-        "Concerns about execution",
-        "Excitement tempered by skepticism"
-      ],
-      "impact": "Samsung's foldable phone faces mixed expectations.",
-      "id": "69be899d95a4258039d4f31635627fce"
-    },
-    {
-      "title": "Zelda: Ocarina of Time Remake Boasts Stunning Visuals",
-      "description": "Nintendo reveals details about the Switch 2 remake of Zelda: Ocarina of Time, highlighting its visuals and gameplay enhancements.",
+      "title": "Capcom Pulls Dragon's Dogma 2 Deluxe Edition",
+      "description": "Capcom discontinues Dragon's Dogma 2 deluxe edition and removes controversial microtransactions. This decision aims to enhance player experience.",
       "category": "Gaming",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/nintendo-says-zelda-ocarina-of-time-switch-2-remake-has-stunning-visuals-updated-designs-and-timeless-gameplay/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Zelda-Ocarina-of-Time-remake-information.png",
-      "published_at": "2026-06-14T14:45:00Z",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/dragon-dogma-2-discontinues-microtransactions",
+      "image": "https://assetsio.gnwcdn.com/DD2-Switch-2-trailer.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-14T20:56:01Z",
       "key_points": [
-        "Stunning visuals confirmed",
-        "Updated designs revealed",
-        "Timeless gameplay intact"
+        "Deluxe edition discontinued",
+        "Microtransactions removed",
+        "Focus on player experience"
       ],
-      "impact": "The remake aims to enhance a classic experience.",
-      "id": "97fd158de19922f3dc599e990f2ab830"
+      "impact": "Capcom aims to improve player satisfaction.",
+      "id": "3520651db3990251d0ed9254e6608107"
     },
     {
-      "title": "Apple's iOS 27 Features: Three Unannounced Surprises",
-      "description": "Apple hints at three unannounced features for iOS 27, following its WWDC 2026 keynote showcasing major updates.",
-      "category": "Software",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/14/three-major-unannounced-ios-27-features-coming-soon/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-three-iphones-fi.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-14T14:41:00Z",
+      "title": "Flight Crew Warns About Passenger Risks",
+      "description": "Flight attendants reveal risky passenger behaviors, emphasizing the importance of asking for help with lost items to avoid dangerous situations.",
+      "category": "Geopolitics",
+      "source": "Buzzfeed",
+      "url": "https://www.buzzfeed.com/jake_farrington/pilots-flight-attendants-important-tips-reddit",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/08/21/thumb/VEHSE7pi6.jpg?crop=2999:1570;0,2%26downsize=1250:*",
+      "published_at": "2026-06-14T19:21:02Z",
       "key_points": [
-        "Three features remain unannounced",
-        "WWDC showcased major updates",
-        "Siri AI improvements highlighted"
+        "Passengers risk phone loss",
+        "Crew assistance is crucial",
+        "Safety over friendliness"
       ],
-      "impact": "Apple keeps users guessing about iOS 27.",
-      "id": "a21f55cd6a6226d5450dc4b7014b4f42"
+      "impact": "Awareness can enhance flight safety.",
+      "id": "482535e8751bfc57f0a920bbce04c068"
     },
     {
-      "title": "Apple's Siri: A Step Towards AI Recovery",
-      "description": "Apple's new Siri AI shows promise, helping the company recover from its AI challenges as it prepares for new devices.",
-      "category": "Software",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-06-14/siri-ai-hands-on-review-ios-27-macos-27-details-iphone-fold-touch-macbook",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwn7_Q7X5W7g/v0/1200x800.jpg",
-      "published_at": "2026-06-14T14:00:01Z",
-      "key_points": [
-        "Siri shows improved performance",
-        "Prepares for foldable devices",
-        "AI crisis easing for Apple"
-      ],
-      "impact": "Apple's AI strategy is showing signs of recovery.",
-      "id": "418ecc7338cb2bbfb861c0e6c541f143"
-    },
-    {
-      "title": "New Sonos Play: The Ultimate Desk Speaker",
-      "description": "The new Sonos Play is a versatile speaker, perfect for both desk and kitchen use, enhancing audio experiences at home.",
-      "category": "Hardware",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Sonos-Play-With-Wireless-Charging-Base-Black.jpg?resize=1200,800",
-      "published_at": "2026-06-14T14:00:00Z",
-      "key_points": [
-        "Versatile for home use",
-        "Compact design",
-        "Great audio quality"
-      ],
-      "impact": "Sonos Play redefines home audio convenience.",
-      "id": "9d54f6571b7daa68ca05294a8cb720d8"
-    },
-    {
-      "title": "GeIL Launches AQUARIUS Diamond RGB DDR5-6000 Kit",
-      "description": "GeIL introduces its AQUARIUS Diamond RGB DDR5-6000 memory kit in China, targeting AMD platforms with high performance.",
-      "category": "Hardware",
-      "source": "Videocardz.com",
-      "url": "https://videocardz.com/newz/geil-aquarius-diamond-rgb-ddr5-6000-32gb-kit-launches-for-354-in-china",
-      "image": "https://cdn.videocardz.com/1/2026/06/GEIL-AQUARIUS-DDR5-MEMORY-DIAMOND-STYLE-HERO.jpg",
-      "published_at": "2026-06-14T13:38:47Z",
-      "key_points": [
-        "DDR5-6000 for AMD",
-        "32GB kit available",
-        "RGB design included"
-      ],
-      "impact": "GeIL targets gamers with new memory kit.",
-      "id": "1d87a3d7cdbbdc102f63b72aef2db582"
-    },
-    {
-      "title": "Ingrid Joins Street Fighter 6: Tier List Insights",
-      "description": "Ingrid's addition to Street Fighter 6 sparks discussions about her tier placement as Season 4 content approaches.",
+      "title": "New Witcher Multiplayer Game Details Leaked",
+      "description": "An unannounced Witcher multiplayer game is set for PC and mobile, featuring a free-to-play co-op action RPG with custom characters.",
       "category": "Gaming",
-      "source": "EventHubs",
-      "url": "https://www.eventhubs.com/news/2026/jun/14/momochi-zeta-ingrid-placement-sf6/",
-      "image": "https://media.eventhubs.com/images/2026/06/13_ingrid-position-bnrt.webp",
-      "published_at": "2026-06-14T13:02:55Z",
+      "source": "MP1st",
+      "url": "https://mp1st.com/news/unannounced-witcher-multiplayer-game-details-pc-mobile",
+      "image": "https://mp1st.com/wp-content/uploads/2026/06/w3kyart-600x338.png",
+      "published_at": "2026-06-14T18:26:10Z",
       "key_points": [
-        "Ingrid is 30th fighter",
-        "Season 4 content announced",
-        "Tier list discussions ongoing"
+        "Free-to-play multiplayer",
+        "Custom Witcher characters",
+        "Set in 1230"
       ],
-      "impact": "Ingrid's arrival reshapes competitive dynamics.",
-      "id": "2a7722ca91217a3a8bca26ea4cdafda5"
+      "impact": "Expands The Witcher franchise's reach.",
+      "id": "242ccf711effc663e4cf713e0349d912"
     },
     {
-      "title": "PS5 Controller Features Now Work on PC",
-      "description": "PS5 controller's best features are now functional over Bluetooth on PC, enhancing gaming experiences for users.",
-      "category": "Gaming",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/06/ps5-controllers-best-features-are-finally-working-over-bluetooth-on-pc",
-      "image": "https://images.pushsquare.com/b2df80dbac948/large.jpg",
-      "published_at": "2026-06-14T13:00:00Z",
-      "key_points": [
-        "PS5 features enabled on PC",
-        "Bluetooth connectivity improved",
-        "Enhanced gaming experience"
-      ],
-      "impact": "PC gamers benefit from PS5 controller features.",
-      "id": "52f919d630865cb1ad0214dc8caa0c9f"
-    },
-    {
-      "title": "Apple iPhone 18 Pro Launch Expected in September",
-      "description": "Hints from WWDC 2026 suggest a September launch for the iPhone 18 Pro and its variants, following last year's pattern.",
-      "category": "Hardware",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/davidphelan/2026/06/14/apple-iphone-18-pro-release-date-september-2026/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/695d93b89d51c957214caa7d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published_at": "2026-06-14T12:50:00Z",
-      "key_points": [
-        "September launch anticipated",
-        "Follows last year's schedule",
-        "iPhone 18 Pro details emerging"
-      ],
-      "impact": "Apple's launch strategy remains consistent.",
-      "id": "f06abb9ef52f59ca6cfbfa6394bb8114"
-    },
-    {
-      "title": "Unlock Hidden Android Automation Features",
-      "description": "Many Android users overlook powerful automation features in their settings. Here are the best ones to enhance your experience.",
-      "category": "Software",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/android-automation-features-already-on-your-phone-that-most-people-do-not-know-exist/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/android-automation-toggles.jpeg?w=1600&h=900&fit=crop",
-      "published_at": "2026-06-14T12:15:11Z",
-      "key_points": [
-        "Automation features often overlooked",
-        "Enhance Android experience",
-        "Simple settings adjustments"
-      ],
-      "impact": "Unlocking features can improve user experience.",
-      "id": "5cdc27d66d03977a64d266393c53ae34"
-    },
-    {
-      "title": "Warhammer Community Previews Upcoming Releases",
-      "description": "Warhammer Community shares a preview of upcoming pre-orders, generating excitement among fans for new editions.",
+      "title": "Warhammer Pre-Orders Include New Handbook",
+      "description": "Upcoming pre-orders feature the Hedonites of Slaanesh and a new General’s Handbook for Warhammer Age of Sigmar.",
       "category": "Gaming",
       "source": "Warhammer-community.com",
-      "url": "https://www.warhammer-community.com/articles/s7gr9dmd/sunday-preview-dawn-of-the-new-edition",
-      "image": "https://assets.warhammer-community.com/sundaypreview-jun07-1-feature-tdyld0rp59.jpg",
-      "published_at": "2026-06-14T12:06:10Z",
+      "url": "https://www.warhammer-community.com/articles/0y4dh0xg/sunday-preview-hedonites-head-into-battle-along-with-a-new-generals-handbook",
+      "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/sundaypreview-jul30-1-feature-cinuqzn66p.jpg",
+      "published_at": "2026-06-14T16:59:51Z",
       "key_points": [
-        "Upcoming pre-orders previewed",
-        "New edition excitement builds",
-        "Fans eagerly await releases"
+        "New Hedonites faction",
+        "General's Handbook released",
+        "Pre-orders available soon"
       ],
-      "impact": "Anticipation grows for new Warhammer content.",
-      "id": "143533de2366247cd27584137510eaf7"
+      "impact": "Enhances gameplay options for Warhammer fans.",
+      "id": "1a42854422f04c6caa95e72a201bed07"
     },
     {
-      "title": "Top Android Auto Apps for Your Dashboard",
-      "description": "After testing many apps, only six made the cut for my Android Auto dashboard, proving essential for driving.",
+      "title": "Windows 11 Secure Boot Update Released",
+      "description": "Microsoft rolls out the Secure Boot 2023 update for Windows 11 PCs, enhancing security features for users and IT admins.",
       "category": "Software",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/deleted-most-android-auto-apps-only-six-permanent-spot-on-dashboard/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/06/android-auto-dashboard-showing-google-maps-with-essential-apps-like-smart-audiobook-player-spotify-whatsapp-weather-radar-and-fuelio.png?w=1600&h=900&fit=crop",
-      "published_at": "2026-06-14T12:00:10Z",
+      "source": "WindowsLatest",
+      "url": "https://www.windowslatest.com/2026/06/14/microsoft-released-the-windows-11-secure-boot-update-for-all-pcs-how-to-verify-yours/",
+      "image": "https://www.windowslatest.com/wp-content/uploads/2026/06/Windows-11-is-now-automatically-rolling-out-the-Secure-Boot-2023-certificate-update-to-most-PCs-via-the-June-2026-Patch-Tuesday-update.jpg",
+      "published_at": "2026-06-14T16:13:27Z",
       "key_points": [
-        "Only six apps remain essential",
-        "Streamlined dashboard experience",
-        "Focus on functionality"
+        "Secure Boot update released",
+        "Enhances PC security",
+        "IT admins need to verify"
       ],
-      "impact": "Optimizing apps enhances driving convenience.",
-      "id": "d5433648028fedbb279476f03c9c985a"
+      "impact": "Improves overall security for Windows users.",
+      "id": "4ba6b1afd6b9a069d7a80da6ed38db58"
     },
     {
-      "title": "Intel Raptor Lake Next CPUs: New Options Ahead",
-      "description": "Intel's upcoming Raptor Lake Next CPUs will offer budget-friendly options for gamers, compatible with existing LGA 1700 sockets.",
-      "category": "Hardware",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/intel-raptor-lake-next-desktop-cpus-core-7-core-5-core-3-up-to-20-cores-lga-1700-socket/",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/Intel-Raptor-Lake-Next-1.jpg",
-      "published_at": "2026-06-14T11:25:00Z",
+      "title": "Nintendo Announces Maintenance Schedule",
+      "description": "Nintendo's maintenance schedule for June 14 includes sessions for Wii U and 3DS, with no updates for Switch.",
+      "category": "Gaming",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/nintendo-maintenance-schedule-june-14-2026/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/maintenance-3DS-Wii-U.jpg",
+      "published_at": "2026-06-14T16:05:02Z",
       "key_points": [
-        "New CPUs for budget gamers",
-        "Compatible with LGA 1700",
-        "Up to 20 cores available"
+        "Maintenance for Wii U",
+        "No Switch updates",
+        "Scheduled for June 14"
       ],
-      "impact": "Intel expands options for budget-conscious gamers.",
-      "id": "2caa93dd0c7a28cb3347f087b8c89fe0"
+      "impact": "Ensures system stability for older consoles.",
+      "id": "41f4e928b4636a3611410cf92f36d46f"
     },
     {
-      "title": "SAMA Launches Affordable Sound-Damping PC Case",
-      "description": "SAMA's Black Hole Turbo case, priced at $44, features sound-damping panels and supports various motherboard sizes.",
-      "category": "Hardware",
-      "source": "Videocardz.com",
-      "url": "https://videocardz.com/newz/sama-launches-black-hole-turbo-case-with-sound-damping-panels-for-around-44",
-      "image": "https://cdn.videocardz.com/1/2026/06/SEGOTEP-NOISE-SILENCING-PC-CASE.jpg",
-      "published_at": "2026-06-14T11:18:47Z",
-      "key_points": [
-        "Affordable sound-damping case",
-        "Supports multiple motherboard sizes",
-        "Available in China"
-      ],
-      "impact": "SAMA offers budget-friendly PC case solutions.",
-      "id": "7dc446bdf78068b5b3d8a16672e67882"
-    },
-    {
-      "title": "Claude Audits Home Assistant Setup for Improvement",
-      "description": "Using Claude to audit my Home Assistant setup revealed significant areas for improvement in my smart home configuration.",
+      "title": "Five Key Settings to Change in One UI 8.5",
+      "description": "One UI 8.5 introduces significant updates, prompting users to adjust five key settings for optimal performance.",
       "category": "Software",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/using-claude-fix-home-assistant-smart-home-3674998/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Home-Assistant-dashboard-scaled.jpg",
-      "published_at": "2026-06-14T10:51:39Z",
+      "source": "MakeUseOf",
+      "url": "https://www.makeuseof.com/one-ui-8-5-settings-to-change/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/06/ready-to-update-screen-on-samsung-galaxy-z-flip-6-1.jpg?w=1600&h=900&fit=crop",
+      "published_at": "2026-06-14T16:00:20Z",
       "key_points": [
-        "Claude provided valuable insights",
-        "Improved smart home setup",
-        "Audit revealed configuration issues"
+        "One UI 8.5 released",
+        "Adjust five key settings",
+        "Improves user experience"
       ],
-      "impact": "Smart home setups can benefit from audits.",
-      "id": "03997a5dd167a427bf7aa78ea7a19c8c"
+      "impact": "Enhances functionality of Samsung devices.",
+      "id": "b782b799350bb75ca0005ba7b91e21e6"
+    },
+    {
+      "title": "Apple's Siri Gets Major AI Upgrade",
+      "description": "Apple announces a significant AI upgrade for Siri, marking the beginning of a new era for the voice assistant.",
+      "category": "Software",
+      "source": "KSL.com",
+      "url": "https://www.ksl.com/article/51510780/apples-big-siri-update-is-here-now-the-real-challenge-begins",
+      "image": "https://img.ksl.com/slc/3160/316059/31605931.jpg?filter=kslv2/responsive_story_lg",
+      "published_at": "2026-06-14T15:36:06Z",
+      "key_points": [
+        "Siri AI upgrade announced",
+        "New features coming soon",
+        "Focus on user interaction"
+      ],
+      "impact": "Sets the stage for Siri's evolution.",
+      "id": "27159ffe97f4bc21c8e3b4ccc7b46097"
+    },
+    {
+      "title": "Linux 7.1 Kernel Released",
+      "description": "Linus Torvalds announces the release of the stable Linux 7.1 kernel, featuring new drivers and improved graphics support.",
+      "category": "Software",
+      "source": "Phoronix",
+      "url": "https://www.phoronix.com/news/Linux-7.1-Released",
+      "image": "https://www.phoronix.net/image.php?id=2026&image=linux_71",
+      "published_at": "2026-06-14T15:09:00Z",
+      "key_points": [
+        "Linux 7.1 released",
+        "New NTFS driver included",
+        "Improved graphics support"
+      ],
+      "impact": "Enhances performance for Linux users.",
+      "id": "7fd6fe94fee6ac10ea6a324e6d138841"
+    },
+    {
+      "title": "AI Founder Attempts to Create GTA Clone",
+      "description": "An AI startup founder aims to code a Grand Theft Auto-style game before the highly anticipated release this November.",
+      "category": "Gaming",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/ai-startup-founder-attempts-to-vibe-code-grand-theft-auto-game",
+      "image": "https://helios-i.mashable.com/imagery/articles/07xDdK7Ire8Io6xhjhT9Nwz/hero-image.fill.size_1200x675.v1781445889.png",
+      "published_at": "2026-06-14T14:24:46Z",
+      "key_points": [
+        "AI coding a GTA clone",
+        "Targeting November release",
+        "Innovative game development"
+      ],
+      "impact": "Challenges traditional game development methods.",
+      "id": "988f49f796c7f83e3a8120b3cd63249f"
+    },
+    {
+      "title": "PowerA Teases New Xbox Controller",
+      "description": "PowerA reveals Project X-Ray, a wireless controller designed for flight simulation on Xbox, featuring swappable faceplates.",
+      "category": "Gaming",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/PowerA-teases-Project-X-Ray-Flight-Deck-Wireless-Controller-for-Xbox.1321304.0.html",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Power-Project-X-Ray-Project-Flight-Deck-Wireless-Controller.jpg",
+      "published_at": "2026-06-14T13:30:00Z",
+      "key_points": [
+        "New Xbox controller teased",
+        "Designed for flight simulation",
+        "Swappable faceplates included"
+      ],
+      "impact": "Enhances gaming experience for flight enthusiasts.",
+      "id": "e0e7ee73479c2865f131ff4c21ab8c24"
+    },
+    {
+      "title": "Capcom's Success Explained by President",
+      "description": "Capcom's president attributes the company's recent success to a new team-based approach in game development.",
+      "category": "Business",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/capcoms-president-explains-the-secret-behind-the-resident-evil-makers-recent-winning-streak-2000706227",
+      "image": "https://kotaku.com/app/uploads/2025/07/f2e0c810ca1866360ee164a048d735cd-1200x675.jpg",
+      "published_at": "2026-06-14T13:26:04Z",
+      "key_points": [
+        "Team-based development approach",
+        "Capcom's recent success",
+        "Focus on collaboration"
+      ],
+      "impact": "Revolutionizes Capcom's game development strategy.",
+      "id": "fc47cfb3b343166a9678ee68f8c581ec"
+    },
+    {
+      "title": "Xbox Game Pass Reveals 2027 Lineup",
+      "description": "Over ten new games for Xbox Game Pass in 2027 have been announced, promising an exciting year ahead for subscribers.",
+      "category": "Gaming",
+      "source": "Pure Xbox",
+      "url": "https://www.purexbox.com/news/2026/06/10plus-games-that-have-been-revealed-for-xbox-game-pass-in-2027-already",
+      "image": "https://images.purexbox.com/6ccd5e1d44e2f/large.jpg",
+      "published_at": "2026-06-14T13:21:15Z",
+      "key_points": [
+        "Exciting 2027 lineup",
+        "Over ten new games",
+        "Xbox Game Pass growth"
+      ],
+      "impact": "Strengthens Xbox Game Pass offerings.",
+      "id": "2ef3e5843a8002d317a56e59a22937b1"
+    },
+    {
+      "title": "Windows 11 Users Criticize Account Requirements",
+      "description": "Windows 11 users express frustration over mandatory Microsoft account requirements, sparking a debate on privacy and user control.",
+      "category": "Software",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds",
+      "image": "https://cdn.mos.cms.futurecdn.net/j6KmfXaKwgMziobFTx9itD-1687-80.jpg",
+      "published_at": "2026-06-14T13:18:33Z",
+      "key_points": [
+        "Users frustrated with requirements",
+        "Privacy concerns raised",
+        "Debate on user control"
+      ],
+      "impact": "Highlights ongoing privacy issues in software.",
+      "id": "228cc30d6552c5466edb7b6e7b45b1be"
+    },
+    {
+      "title": "How to Restart a Frozen Apple Watch",
+      "description": "To restart a frozen Apple Watch, press both side buttons until the Apple logo appears, taking about 10 seconds.",
+      "category": "Software",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2191429/how-to-restart-frozen-apple-watch/",
+      "image": "https://www.bgr.com/img/gallery/how-to-restart-your-apple-watch-when-its-frozen/l-intro-1781105745.jpg",
+      "published_at": "2026-06-14T12:17:00Z",
+      "key_points": [
+        "Restart Apple Watch easily",
+        "Press side buttons",
+        "Quick troubleshooting guide"
+      ],
+      "impact": "Empowers users to resolve device issues.",
+      "id": "b75f1b93494fbe6bc58bf3f600699214"
     }
   ]
 }
