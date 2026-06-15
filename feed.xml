@@ -5,134 +5,143 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2026 22:08:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 04:10:20 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Gears of War: E-Day PC Requirements Unveiled</title>
-      <description>Microsoft has announced the official PC requirements for Gears of War: E-Day, launching on October 6. Gamers can prepare their systems accordingly.</description>
-      <link>https://www.dsogaming.com/news/official-pc-requirements-for-gears-of-war-e-day-revealed/</link>
-      <guid isPermaLink="true">https://www.dsogaming.com/news/official-pc-requirements-for-gears-of-war-e-day-revealed/</guid>
-      <pubDate>2026-06-13T14:40:51Z</pubDate>
+      <title>Onimusha: Way Of The Sword Switch 2 Specs Unveiled</title>
+      <description>Capcom reveals Onimusha: Way of the Sword for Switch 2, launching this September. Expect enhanced graphics and performance.</description>
+      <link>https://www.nintendolife.com/news/2026/06/onimusha-way-of-the-sword-switch-2-resolution-and-frame-rate-revealed</link>
+      <guid isPermaLink="true">https://www.nintendolife.com/news/2026/06/onimusha-way-of-the-sword-switch-2-resolution-and-frame-rate-revealed</guid>
+      <pubDate>2026-06-14T00:30:00Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.dsogaming.com/news/official-pc-requirements-for-gears-of-war-e-day-revealed/">DSOGaming</source>
+      <source url="https://www.nintendolife.com/news/2026/06/onimusha-way-of-the-sword-switch-2-resolution-and-frame-rate-revealed">Nintendo Life</source>
     </item>
     <item>
-      <title>Onimusha: Way of the Sword Preview</title>
-      <description>Capcom's Onimusha: Way of the Sword features a solid 30fps mode and high frame-rate options. The game revives the classic series with modern enhancements.</description>
-      <link>https://www.digitalfoundry.net/previews/onimusha-way-of-the-sword-offers-a-rock-solid-30fps-mode-and-a-great-high-frame-rate-experience-too</link>
-      <guid isPermaLink="true">https://www.digitalfoundry.net/previews/onimusha-way-of-the-sword-offers-a-rock-solid-30fps-mode-and-a-great-high-frame-rate-experience-too</guid>
-      <pubDate>2026-06-13T14:00:00Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.digitalfoundry.net/previews/onimusha-way-of-the-sword-offers-a-rock-solid-30fps-mode-and-a-great-high-frame-rate-experience-too">Digitalfoundry.net</source>
-    </item>
-    <item>
-      <title>Samsung Galaxy S26 Ultra Performance Boosts</title>
-      <description>The Galaxy S26 Ultra features significant performance upgrades, enhancing speed and multitasking capabilities. Users will notice smoother operation in demanding tasks.</description>
-      <link>https://www.sammobile.com/news/5-performance-upgrades-that-make-galaxy-s26-ultra-faster/</link>
-      <guid isPermaLink="true">https://www.sammobile.com/news/5-performance-upgrades-that-make-galaxy-s26-ultra-faster/</guid>
-      <pubDate>2026-06-13T13:16:00Z</pubDate>
-      <category>Hardware</category>
-      <source url="https://www.sammobile.com/news/5-performance-upgrades-that-make-galaxy-s26-ultra-faster/">SamMobile</source>
-    </item>
-    <item>
-      <title>iOS 27 Enhances Apple Pay Experience</title>
-      <description>iOS 27 introduces a redesigned Apple Pay checkout, simplifying card switching and displaying payment details more clearly. Users can navigate payments more efficiently.</description>
-      <link>https://9to5mac.com/2026/06/13/ios-27-makes-it-easier-to-switch-between-apple-pay-cards/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/13/ios-27-makes-it-easier-to-switch-between-apple-pay-cards/</guid>
-      <pubDate>2026-06-13T13:14:00Z</pubDate>
+      <title>Bambuddy Ends Bambu Lab Cloud Services</title>
+      <description>Bambuddy offers a cloud-free solution for Bambu Lab printer users, allowing local file management without server reliance.</description>
+      <link>https://hackaday.com/2026/06/13/bambuddy-says-bye-to-bambu-lab-cloud-services/</link>
+      <guid isPermaLink="true">https://hackaday.com/2026/06/13/bambuddy-says-bye-to-bambu-lab-cloud-services/</guid>
+      <pubDate>2026-06-13T23:00:00Z</pubDate>
       <category>Software</category>
-      <source url="https://9to5mac.com/2026/06/13/ios-27-makes-it-easier-to-switch-between-apple-pay-cards/">9to5Mac</source>
+      <source url="https://hackaday.com/2026/06/13/bambuddy-says-bye-to-bambu-lab-cloud-services/">Hackaday</source>
     </item>
     <item>
-      <title>GentleOS: A Lightweight OS for Old PCs</title>
-      <description>GentleOS is designed for older PCs, providing a simple and efficient operating system. It aims to breathe new life into outdated hardware.</description>
-      <link>https://hackaday.com/2026/06/13/gentleos-a-simple-os-for-your-old-pc/</link>
-      <guid isPermaLink="true">https://hackaday.com/2026/06/13/gentleos-a-simple-os-for-your-old-pc/</guid>
-      <pubDate>2026-06-13T08:00:00Z</pubDate>
+      <title>iOS 27 Introduces New Siri App</title>
+      <description>Apple's iOS 27 debuts a new Siri app, enhancing user interaction and integrating advanced AI features.</description>
+      <link>https://9to5mac.com/2026/06/13/ios-27-adds-an-all-new-app-to-your-iphones-home-screen/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/13/ios-27-adds-an-all-new-app-to-your-iphones-home-screen/</guid>
+      <pubDate>2026-06-13T22:53:00Z</pubDate>
       <category>Software</category>
-      <source url="https://hackaday.com/2026/06/13/gentleos-a-simple-os-for-your-old-pc/">Hackaday</source>
+      <source url="https://9to5mac.com/2026/06/13/ios-27-adds-an-all-new-app-to-your-iphones-home-screen/">9to5Mac</source>
     </item>
     <item>
-      <title>Bose QuietComfort Ultra Headphones on Sale</title>
-      <description>Bose QuietComfort Ultra Bluetooth Headphones (2nd Gen) are now 16% off on Amazon, featuring advanced noise cancellation and comfort. A great deal for audiophiles.</description>
-      <link>https://www.notebookcheck.net/Bose-QuietComfort-Ultra-Bluetooth-Headphones-2nd-Gen-drops-to-lowest-price-on-Amazon.1320921.0.html</link>
-      <guid isPermaLink="true">https://www.notebookcheck.net/Bose-QuietComfort-Ultra-Bluetooth-Headphones-2nd-Gen-drops-to-lowest-price-on-Amazon.1320921.0.html</guid>
-      <pubDate>2026-06-12T20:22:00Z</pubDate>
-      <category>Hardware</category>
-      <source url="https://www.notebookcheck.net/Bose-QuietComfort-Ultra-Bluetooth-Headphones-2nd-Gen-drops-to-lowest-price-on-Amazon.1320921.0.html">Notebookcheck</source>
+      <title>Google Launches Free Flight Simulator</title>
+      <description>Google Earth now features a free flight simulator, allowing users to pilot over 3D maps directly in their browser.</description>
+      <link>https://www.usatoday.com/story/money/2026/06/13/google-free-flight-simulator/90539296007/</link>
+      <guid isPermaLink="true">https://www.usatoday.com/story/money/2026/06/13/google-free-flight-simulator/90539296007/</guid>
+      <pubDate>2026-06-13T21:44:00Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.usatoday.com/story/money/2026/06/13/google-free-flight-simulator/90539296007/">USA Today</source>
     </item>
     <item>
-      <title>Best Sun Protective Clothing for Summer</title>
-      <description>Experts recommend the best UPF clothing for outdoor activities this summer. Stay protected from harmful UV rays while enjoying the sun.</description>
-      <link>https://www.cnn.com/cnn-underscored/outdoors/best-sun-protection-upf-clothing</link>
-      <guid isPermaLink="true">https://www.cnn.com/cnn-underscored/outdoors/best-sun-protection-upf-clothing</guid>
-      <pubDate>2026-06-12T20:00:00Z</pubDate>
-      <category>Science</category>
-      <source url="https://www.cnn.com/cnn-underscored/outdoors/best-sun-protection-upf-clothing">CNN</source>
-    </item>
-    <item>
-      <title>Nintendo Faces Legal Setback Against Palworld</title>
-      <description>Nintendo reportedly has little chance of winning its lawsuit against the makers of Palworld, concluding a two-year legal battle. The game remains unaffected.</description>
-      <link>https://wccftech.com/nintendo-losing-palworld-lawsuit/</link>
-      <guid isPermaLink="true">https://wccftech.com/nintendo-losing-palworld-lawsuit/</guid>
-      <pubDate>2026-06-12T19:59:00Z</pubDate>
+      <title>Famitsu Review Scores Released</title>
+      <description>Latest Famitsu scores include 007 First Light at 9/9/10/9 and The Adventures of Elliot: The Millennium Tales at 8/8/9/8.</description>
+      <link>https://nintendoeverything.com/famitsu-review-scores-june-14-2026-first-score-for-the-adventures-of-elliot-the-millennium-tales/</link>
+      <guid isPermaLink="true">https://nintendoeverything.com/famitsu-review-scores-june-14-2026-first-score-for-the-adventures-of-elliot-the-millennium-tales/</guid>
+      <pubDate>2026-06-13T20:32:22Z</pubDate>
       <category>Gaming</category>
-      <source url="https://wccftech.com/nintendo-losing-palworld-lawsuit/">Wccftech</source>
+      <source url="https://nintendoeverything.com/famitsu-review-scores-june-14-2026-first-score-for-the-adventures-of-elliot-the-millennium-tales/">Nintendoeverything.com</source>
     </item>
     <item>
-      <title>Elden Ring Tarnished Edition Size Revealed</title>
-      <description>The Elden Ring Tarnished Edition for Nintendo Switch 2 is listed at 41GB. Fans await its release with anticipation.</description>
-      <link>https://mynintendonews.com/2026/06/12/elden-ring-tarnished-edition-on-switch-2-listed-as-41gb/</link>
-      <guid isPermaLink="true">https://mynintendonews.com/2026/06/12/elden-ring-tarnished-edition-on-switch-2-listed-as-41gb/</guid>
-      <pubDate>2026-06-12T18:21:16Z</pubDate>
+      <title>Crimson Desert Video Challenge Announced</title>
+      <description>Crimson Desert invites players to submit videos for a chance to win a trip to South Korea, celebrating community engagement.</description>
+      <link>https://www.eurogamer.net/crimson-desert-video-challenge-trip-korea</link>
+      <guid isPermaLink="true">https://www.eurogamer.net/crimson-desert-video-challenge-trip-korea</guid>
+      <pubDate>2026-06-13T19:42:29Z</pubDate>
       <category>Gaming</category>
-      <source url="https://mynintendonews.com/2026/06/12/elden-ring-tarnished-edition-on-switch-2-listed-as-41gb/">My Nintendo News</source>
+      <source url="https://www.eurogamer.net/crimson-desert-video-challenge-trip-korea">Eurogamer</source>
     </item>
     <item>
-      <title>China-Linked Hackers Exploit Linux for Years</title>
-      <description>A China-linked hacking group has backdoored Linux login software, maintaining stealthy access since 2016. This poses significant security risks.</description>
-      <link>https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html</link>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html</guid>
-      <pubDate>2026-06-12T18:17:00Z</pubDate>
-      <category>Security</category>
-      <source url="https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html">The Hacker News</source>
+      <title>Gemini's Daily Brief Transforms Mornings</title>
+      <description>Gemini's Daily Brief app simplifies morning routines with helpful nudges and reminders, enhancing productivity.</description>
+      <link>https://www.androidpolice.com/gemini-daily-brief-replaced-morning-routine-shocked-well-works/</link>
+      <guid isPermaLink="true">https://www.androidpolice.com/gemini-daily-brief-replaced-morning-routine-shocked-well-works/</guid>
+      <pubDate>2026-06-13T19:00:11Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.androidpolice.com/gemini-daily-brief-replaced-morning-routine-shocked-well-works/">Android Police</source>
     </item>
     <item>
-      <title>Call of Duty: MW4 Early Access Details</title>
-      <description>Xbox and Activision announce early access for Call of Duty: Modern Warfare 4's campaign for pre-orders, starting October 16. Gamers can get a head start.</description>
-      <link>https://www.purexbox.com/news/2026/06/xbox-and-activision-reveal-campaign-early-access-details-for-call-of-duty-mw4</link>
-      <guid isPermaLink="true">https://www.purexbox.com/news/2026/06/xbox-and-activision-reveal-campaign-early-access-details-for-call-of-duty-mw4</guid>
-      <pubDate>2026-06-12T17:31:00Z</pubDate>
+      <title>Bungie's Last Destiny 2 Update Released</title>
+      <description>Bungie concludes Destiny 2 with the 'Monuments of Triumph' update, wrapping up storylines and hinting at future projects.</description>
+      <link>https://gizmodo.com/bungies-last-destiny-2-update-is-a-bittersweet-blast-2000771352</link>
+      <guid isPermaLink="true">https://gizmodo.com/bungies-last-destiny-2-update-is-a-bittersweet-blast-2000771352</guid>
+      <pubDate>2026-06-13T18:50:28Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.purexbox.com/news/2026/06/xbox-and-activision-reveal-campaign-early-access-details-for-call-of-duty-mw4">Pure Xbox</source>
+      <source url="https://gizmodo.com/bungies-last-destiny-2-update-is-a-bittersweet-blast-2000771352">Gizmodo</source>
     </item>
     <item>
-      <title>Bungie's Near Closure Before Sony Acquisition</title>
-      <description>A former Destiny 2 developer reveals Bungie was close to shutting down before Sony's acquisition. The merger was crucial for the studio's survival.</description>
-      <link>https://www.windowscentral.com/gaming/former-destiny-2-dev-says-if-sony-didnt-buy-bungie-the-studio-would-have-been-very-close-to-shutting-its-doors</link>
-      <guid isPermaLink="true">https://www.windowscentral.com/gaming/former-destiny-2-dev-says-if-sony-didnt-buy-bungie-the-studio-would-have-been-very-close-to-shutting-its-doors</guid>
-      <pubDate>2026-06-12T16:14:45Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.windowscentral.com/gaming/former-destiny-2-dev-says-if-sony-didnt-buy-bungie-the-studio-would-have-been-very-close-to-shutting-its-doors">Windows Central</source>
-    </item>
-    <item>
-      <title>Xbox CEO Warns of Rising Hardware Costs</title>
-      <description>Xbox CEO warns that increasing memory and storage costs may lead to higher console prices. Ad-based Xbox Cloud Gaming could be a solution.</description>
-      <link>https://gizmodo.com/xbox-ceo-is-preparing-gamers-for-when-hardware-is-a-luxury-2000771138</link>
-      <guid isPermaLink="true">https://gizmodo.com/xbox-ceo-is-preparing-gamers-for-when-hardware-is-a-luxury-2000771138</guid>
-      <pubDate>2026-06-12T16:05:15Z</pubDate>
+      <title>DJI and Insta360 Patent Battle Intensifies</title>
+      <description>DJI and Insta360 are embroiled in patent lawsuits over action gimbal cameras, amid market competition challenges.</description>
+      <link>https://mashable.com/tech/dji-insta360-action-gimbal-cameras-patent-lawsuits</link>
+      <guid isPermaLink="true">https://mashable.com/tech/dji-insta360-action-gimbal-cameras-patent-lawsuits</guid>
+      <pubDate>2026-06-13T18:37:47Z</pubDate>
       <category>Business</category>
-      <source url="https://gizmodo.com/xbox-ceo-is-preparing-gamers-for-when-hardware-is-a-luxury-2000771138">Gizmodo.com</source>
+      <source url="https://mashable.com/tech/dji-insta360-action-gimbal-cameras-patent-lawsuits">Mashable</source>
     </item>
     <item>
-      <title>Controversial Tupac Character in Stranger Than Heaven</title>
-      <description>Developers of Stranger Than Heaven clarify their portrayal of Tupac, depicting him 30 years after his death. The decision has sparked mixed reactions.</description>
-      <link>https://kotaku.com/i-hate-what-stranger-than-heaven-is-doing-with-tupac-but-at-least-theyre-being-honest-about-it-2000705998</link>
-      <guid isPermaLink="true">https://kotaku.com/i-hate-what-stranger-than-heaven-is-doing-with-tupac-but-at-least-theyre-being-honest-about-it-2000705998</guid>
-      <pubDate>2026-06-12T15:57:19Z</pubDate>
+      <title>Sealed Super Mario Bros. Fetches $3 Million</title>
+      <description>A sealed copy of Super Mario Bros. sold for a record $3 million at auction, highlighting the booming collectibles market.</description>
+      <link>https://www.theverge.com/games/949593/super-mario-bros-3-million-auction</link>
+      <guid isPermaLink="true">https://www.theverge.com/games/949593/super-mario-bros-3-million-auction</guid>
+      <pubDate>2026-06-13T18:37:21Z</pubDate>
       <category>Gaming</category>
-      <source url="https://kotaku.com/i-hate-what-stranger-than-heaven-is-doing-with-tupac-but-at-least-theyre-being-honest-about-it-2000705998">Kotaku</source>
+      <source url="https://www.theverge.com/games/949593/super-mario-bros-3-million-auction">The Verge</source>
+    </item>
+    <item>
+      <title>Trademark Troll Tim Langdell Returns</title>
+      <description>Tim Langdell, notorious for trademark disputes, resurfaces with intentions to challenge gaming companies again.</description>
+      <link>https://www.timeextension.com/news/2026/06/we-have-the-means-to-fight-this-case-to-the-end-gamings-most-infamous-trademark-troll-is-back</link>
+      <guid isPermaLink="true">https://www.timeextension.com/news/2026/06/we-have-the-means-to-fight-this-case-to-the-end-gamings-most-infamous-trademark-troll-is-back</guid>
+      <pubDate>2026-06-13T18:00:00Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.timeextension.com/news/2026/06/we-have-the-means-to-fight-this-case-to-the-end-gamings-most-infamous-trademark-troll-is-back">Timeextension.com</source>
+    </item>
+    <item>
+      <title>Spyro Franchise Revived by Fan Demand</title>
+      <description>Spyro: A Realm Beyond is back, thanks to passionate fans urging Xbox to revive the beloved franchise.</description>
+      <link>https://www.eurogamer.net/spyro-a-realm-beyond-loud-fans</link>
+      <guid isPermaLink="true">https://www.eurogamer.net/spyro-a-realm-beyond-loud-fans</guid>
+      <pubDate>2026-06-13T17:02:18Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.eurogamer.net/spyro-a-realm-beyond-loud-fans">Eurogamer</source>
+    </item>
+    <item>
+      <title>Tomb Raider's New Star Embraces Classic Lara</title>
+      <description>Alix Wilton Regan aims to bring back the classic essence of Lara Croft in Tomb Raider: Legacy of Atlantis.</description>
+      <link>https://www.polygon.com/tomb-raider-legacy-of-atlantis-alex-wilton-regan-interview/</link>
+      <guid isPermaLink="true">https://www.polygon.com/tomb-raider-legacy-of-atlantis-alex-wilton-regan-interview/</guid>
+      <pubDate>2026-06-13T16:00:20Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.polygon.com/tomb-raider-legacy-of-atlantis-alex-wilton-regan-interview/">Polygon</source>
+    </item>
+    <item>
+      <title>Bose QuietComfort Ultra Headphones Discounted</title>
+      <description>Bose's QuietComfort Ultra headphones are now $70 off, featuring lossless audio and improved battery life.</description>
+      <link>https://www.theverge.com/gadgets/949190/bose-quietcomfort-ultra-headphones-deal-sale</link>
+      <guid isPermaLink="true">https://www.theverge.com/gadgets/949190/bose-quietcomfort-ultra-headphones-deal-sale</guid>
+      <pubDate>2026-06-13T16:00:00Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://www.theverge.com/gadgets/949190/bose-quietcomfort-ultra-headphones-deal-sale">The Verge</source>
+    </item>
+    <item>
+      <title>AI Startup Aims to Create GTA 6 Clone</title>
+      <description>An AI startup founder is attempting to develop a Grand Theft Auto-inspired game before the official release of GTA 6.</description>
+      <link>https://gizmodo.com/this-guy-is-trying-to-vibe-code-gta-6-before-its-official-release-2000771395</link>
+      <guid isPermaLink="true">https://gizmodo.com/this-guy-is-trying-to-vibe-code-gta-6-before-its-official-release-2000771395</guid>
+      <pubDate>2026-06-13T15:23:54Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://gizmodo.com/this-guy-is-trying-to-vibe-code-gta-6-before-its-official-release-2000771395">Gizmodo</source>
     </item>
   </channel>
 </rss>
