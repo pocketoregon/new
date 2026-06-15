@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-15T12:11:12.858637+00:00",
+      "fetched_at": "2026-06-15T12:11:12.858637+00:00",
+      "label": "Jun 15, 2026 — 12:12 PM UTC",
+      "articles": [
+        {
+          "title": "Discover Samsung's Hidden Phone Features",
+          "description": "Samsung phones have hidden features like a compass and ruler that many users overlook. Explore these tools to enhance your smartphone experience.",
+          "category": "Software",
+          "source": "Android Authority",
+          "url": "https://www.androidauthority.com/hidden-features-samsung-phone-3672514/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2025/06/samsung-connectivity-labs-nearby-wifi-info-scaled.jpg",
+          "published_at": "2026-06-14T10:01:26Z",
+          "key_points": [
+            "Hidden tools enhance user experience",
+            "Explore One UI features",
+            "Maximize smartphone functionality"
+          ],
+          "impact": "Users can unlock new capabilities on Samsung devices.",
+          "id": "651ff147339b8b6e0e7e9860ac51db9b"
+        },
+        {
+          "title": "Intel's Core 200 Processors Set for 2027 Launch",
+          "description": "Intel's upcoming Core 200 processors, known as Raptor Lake Next, are confirmed for a 2027 release. These will be compatible with the LGA-1700 socket.",
+          "category": "Hardware",
+          "source": "Videocardz.com",
+          "url": "https://videocardz.com/newz/intel-to-launch-core-200-raptor-lake-next-in-2027-for-lga-1700-socket",
+          "image": "https://cdn.videocardz.com/1/2026/06/INTEL-CORE-200-RAPTOR-LAKE-NEXT-HERO.jpg",
+          "published_at": "2026-06-14T07:23:47Z",
+          "key_points": [
+            "Core 200 processors coming in 2027",
+            "Compatible with LGA-1700 socket",
+            "Raptor Lake Next confirmed"
+          ],
+          "impact": "Intel aims to enhance its processor lineup.",
+          "id": "34210eb4b6f36ffb2d8b290bd45c03ac"
+        },
+        {
+          "title": "Rayman Legends Returns with New Content",
+          "description": "Ubisoft revives Rayman Legends with a remake featuring new content and gameplay. Fans can expect a fresh take on the beloved classic.",
+          "category": "Gaming",
+          "source": "Nintendoeverything.com",
+          "url": "https://nintendoeverything.com/rayman-legends-retold-interview/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Rayman-Legends-Retold-interview.jpg",
+          "published_at": "2026-06-14T04:56:41Z",
+          "key_points": [
+            "Rayman Legends remake announced",
+            "New content and gameplay features",
+            "Thirteen years since original release"
+          ],
+          "impact": "Fans can enjoy a modernized Rayman experience.",
+          "id": "33601a1ff5f6c7f7ae19d2b77ef34102"
+        },
+        {
+          "title": "Samsung's Foldable Lineup Size Comparison Leaked",
+          "description": "Leaked images reveal size comparisons for Samsung's Galaxy Z Flip 8 and Z Fold 8 models. The designs show notable changes in dimensions.",
+          "category": "Hardware",
+          "source": "Notebookcheck.net",
+          "url": "https://www.notebookcheck.net/Side-by-side-size-comparison-of-Samsung-s-upcoming-foldable-lineup-leaked.1321370.0.html",
+          "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsungs-2025-foldable-lineup.png",
+          "published_at": "2026-06-14T01:30:00Z",
+          "key_points": [
+            "New foldable designs revealed",
+            "Galaxy Z Flip 8 and Z Fold 8",
+            "Wider, shorter Fold 8 design"
+          ],
+          "impact": "Samsung's foldable lineup shows significant evolution.",
+          "id": "fe3294d3782182e9efbd3225d7934d73"
+        },
+        {
+          "title": "Mega Man Star Force Update Coming Soon",
+          "description": "A new update for Mega Man Star Force: Legacy Collection will be released next week, addressing bugs and enhancing functionality.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/mega-man-star-force-legacy-collection-is-getting-a-new-update-early-next-week",
+          "image": "https://images.nintendolife.com/3a286644eb84c/large.jpg",
+          "published_at": "2026-06-14T01:06:46Z",
+          "key_points": [
+            "Update fixes bugs",
+            "Improves game functionality",
+            "Release scheduled for next week"
+          ],
+          "impact": "Players can expect a smoother gaming experience.",
+          "id": "cc39111da5c1fd62a32570ae6a939909"
+        },
+        {
+          "title": "AirPods Pro 3 Price Drop Ahead of Prime Day",
+          "description": "Apple's AirPods Pro 3 are now available at their lowest price ever, coinciding with new features in iOS 27. Don't miss this deal.",
+          "category": "Hardware",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/13/airpods-pro-3-drop-to-their-best-price-ever-as-apple-announces-new-ios-27-features/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/airpods-pro-3-siri-icon.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-13T22:08:00Z",
+          "key_points": [
+            "AirPods Pro 3 at lowest price",
+            "New iOS 27 features announced",
+            "Best Prime Day deal available"
+          ],
+          "impact": "Consumers can save significantly on AirPods Pro 3.",
+          "id": "86b51ae78064b637b04b3ead1118955f"
+        },
+        {
+          "title": "Apple's iPhone Ultra Pricing Strategy Explained",
+          "description": "Apple's iPhone Ultra is set at $1,999, positioning it as a luxury foldable smartphone to maintain profit margins across the lineup.",
+          "category": "Business",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/ewanspence/2026/06/13/iphone-18-pro-ultra-pricing-strategy-apple-intelligence/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6933456f4efbd204f83bd179/0x0.jpg?format=jpg&crop=3223,1814,x756,y379,safe&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-13T21:10:34Z",
+          "key_points": [
+            "iPhone Ultra priced at $1,999",
+            "Luxury smartphone strategy",
+            "Protects margins across iPhone range"
+          ],
+          "impact": "Apple aims to balance luxury and affordability.",
+          "id": "f24f21941d2719e82d8fc6ae18f8d7f5"
+        },
+        {
+          "title": "Microsoft Releases New Windows 11 Updates",
+          "description": "Microsoft has launched new dynamic updates for Windows 11 and Windows 10, enhancing setup and recovery features across versions.",
+          "category": "Software",
+          "source": "Neowin",
+          "url": "https://www.neowin.net/news/microsoft-released-windows-11-kb5094149--kb5095971--kb5094156-setup-recovery-updates/",
+          "image": "https://cdn.neowin.com/news/images/uploaded/2026/06/1781375214_windows_11_update_neowin_1_story.webp",
+          "published_at": "2026-06-13T19:14:00Z",
+          "key_points": [
+            "New updates for Windows 11",
+            "Enhances setup and recovery",
+            "Dynamic updates released"
+          ],
+          "impact": "Users benefit from improved Windows performance.",
+          "id": "b209250549312aece550fd3921d6ce65"
+        },
+        {
+          "title": "Little Nightmares 3 DLC Now Available",
+          "description": "The Backstage DLC for Little Nightmares 3 has launched, adding new content to the game following its announcement at Summer Game Fest.",
+          "category": "Gaming",
+          "source": "Eurogamer.net",
+          "url": "https://www.eurogamer.net/little-nightmares-3-backstage-dlc",
+          "image": "https://assetsio.gnwcdn.com/Little_Nightmares_III_The_Backstage_Screenshot_1.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-13T17:45:51Z",
+          "key_points": [
+            "Little Nightmares 3 DLC released",
+            "New content available now",
+            "Announced at Summer Game Fest"
+          ],
+          "impact": "Players can explore new adventures in-game.",
+          "id": "10418004405b881f33397a81f29995d5"
+        },
+        {
+          "title": "Supercomputer Reveals Pion Structure",
+          "description": "Researchers used a supercomputer to uncover the internal structure of a pion, enhancing understanding of subatomic particles.",
+          "category": "Science",
+          "source": "Phys.Org",
+          "url": "https://phys.org/news/2026-06-supercomputer-illuminates-subatomic-particle.html",
+          "image": "https://scx2.b-cdn.net/gfx/news/2026/researchers-use-superc.jpg",
+          "published_at": "2026-06-13T17:00:02Z",
+          "key_points": [
+            "Supercomputer reveals pion structure",
+            "Advances particle physics research",
+            "Findings published in scientific journal"
+          ],
+          "impact": "New insights into fundamental particles achieved.",
+          "id": "78edde8ef2fb076765e4b75088c48791"
+        },
+        {
+          "title": "ChromeOS to Skip Odd Number Releases",
+          "description": "ChromeOS will now skip odd-numbered releases to align better with Chrome updates, marking a significant change in versioning strategy.",
+          "category": "Software",
+          "source": "Chrome Unboxed",
+          "url": "https://chromeunboxed.com/chromeos-releases-will-soon-skip-odd-numbers-to-keep-up-with-chrome-updates/",
+          "image": "https://chromeunboxed.com/wp-content/uploads/2026/06/ChromeOSversionNumbersSkipOdds.webp",
+          "published_at": "2026-06-13T16:48:15Z",
+          "key_points": [
+            "ChromeOS skips odd-numbered releases",
+            "Aligns with Chrome versioning",
+            "Major structural change announced"
+          ],
+          "impact": "Streamlined updates for ChromeOS users.",
+          "id": "d9a622e517bc6e47a795e38dc2d69d16"
+        },
+        {
+          "title": "Microsoft Paid $20 Million for One Letter",
+          "description": "Microsoft's $20 million settlement over the name 'Lindows' highlights the complexities of tech branding and trademark disputes.",
+          "category": "Business",
+          "source": "XDA Developers",
+          "url": "https://www.xda-developers.com/microsoft-paid-20-million-one-letter/",
+          "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/lindows-os-featured.jpg?w=1600&h=900&fit=crop",
+          "published_at": "2026-06-13T16:30:22Z",
+          "key_points": [
+            "Microsoft's $20 million settlement",
+            "Trademark dispute over 'Lindows'",
+            "Branding complexities in tech"
+          ],
+          "impact": "Highlights challenges in tech branding disputes.",
+          "id": "48cc5318a8e8714e1d513d4ecb2f942b"
+        },
+        {
+          "title": "Ranking Major Streaming Device Brands",
+          "description": "Nvidia, Apple, and Roku top the rankings of streaming device brands, while Google and Amazon have their own strengths.",
+          "category": "Business",
+          "source": "SlashGear",
+          "url": "https://www.slashgear.com/2191988/every-major-streaming-device-brand-ranked-worst-to-best/",
+          "image": "https://www.slashgear.com/img/gallery/every-major-streaming-device-brand-ranked-worst-to-best/l-intro-1781164791.jpg",
+          "published_at": "2026-06-13T15:15:00Z",
+          "key_points": [
+            "Nvidia and Apple lead rankings",
+            "Roku known for reliability",
+            "Google and Amazon strengths noted"
+          ],
+          "impact": "Consumers can choose from top-rated brands.",
+          "id": "557c829dee2c50ff6296ac2775ef6d3e"
+        },
+        {
+          "title": "Fitbit Air Review: A Promising Fitness Tracker",
+          "description": "The Fitbit Air, a screenless fitness tracker with AI features, impresses with its innovative design and functionality.",
+          "category": "Hardware",
+          "source": "Android Police",
+          "url": "https://www.androidpolice.com/fitbit-air-review/",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/fitbit-air-wrist-1.JPG?w=1600&h=900&fit=crop",
+          "published_at": "2026-06-13T15:00:14Z",
+          "key_points": [
+            "Screenless design with AI coach",
+            "Innovative fitness tracking",
+            "Affordable pricing"
+          ],
+          "impact": "A new contender in the fitness tracker market.",
+          "id": "e205177396eeb21b8fe1ae29e5907612"
+        },
+        {
+          "title": "Navigating Age Gaps in Relationships",
+          "description": "Confronting the realities of an age gap in relationships can lead to difficult reflections on the future and time together.",
+          "category": "Policy",
+          "source": "Business Insider",
+          "url": "https://www.businessinsider.com/grief-math-future-with-older-partner-age-gap-relationship-2026-6#article",
+          "image": "https://i.insider.com/6a2c035d24b35440ad29c27d4?width=1200&format=jpeg",
+          "published_at": "2026-06-13T14:54:00Z",
+          "key_points": [
+            "Age gap raises future concerns",
+            "Navigating relationship dynamics",
+            "Emotional reflections on time"
+          ],
+          "impact": "Highlights challenges in age-gap relationships.",
+          "id": "2cc740535efd603809378bb9e3c52bb3"
+        }
+      ]
+    },
+    {
       "id": "2026-06-15T04:09:42.765801+00:00",
       "fetched_at": "2026-06-15T04:09:42.765801+00:00",
       "label": "Jun 15, 2026 — 04:10 AM UTC",
@@ -6008,61 +6255,6 @@
           ],
           "impact": "Samsung's new model generates early buzz.",
           "id": "4755174df49168a268d1d62f90952136"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-09T11:59:10.714802+00:00",
-      "fetched_at": "2026-06-09T11:59:10.714802+00:00",
-      "label": "Jun 09, 2026 — 11:59 AM UTC",
-      "articles": [
-        {
-          "title": "Senua Brings A 'Different Kind' Of Hellblade Game To Xbox Game Pass In 2027",
-          "description": "Ninja Theory reveals a new Hellblade game for Xbox Game Pass in 2027. Fans are excited for this fresh take on the series.",
-          "category": "Gaming",
-          "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/news/2026/06/senua-brings-a-different-kind-of-hellblade-game-to-xbox-game-pass-in-2027",
-          "image": "https://images.purexbox.com/4a802a8f8a1e2/large.jpg",
-          "published_at": "2026-06-07T19:34:00Z",
-          "key_points": [
-            "New Hellblade game announced",
-            "Releasing on Xbox Game Pass",
-            "Developed by Ninja Theory"
-          ],
-          "impact": "This expands Xbox Game Pass offerings significantly.",
-          "id": "4f0072a61a890ad4cb1e8f0830cbdb5c"
-        },
-        {
-          "title": "21 Game Pass Titles Get New Announcements At The Xbox Showcase 2026",
-          "description": "The Xbox Showcase 2026 unveiled 21 new Game Pass titles, featuring world premieres and updates. Gamers can expect an exciting lineup ahead.",
-          "category": "Gaming",
-          "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/news/2026/06/21-game-pass-titles-get-new-announcements-at-the-xbox-showcase-2026",
-          "image": "https://images.purexbox.com/079f8ea336482/large.jpg",
-          "published_at": "2026-06-07T18:57:00Z",
-          "key_points": [
-            "21 new titles announced",
-            "Includes world premieres",
-            "Exciting updates for gamers"
-          ],
-          "impact": "This enhances the Game Pass library significantly.",
-          "id": "3561cace9e643c5c54de473e4f5ed681"
-        },
-        {
-          "title": "How one video game brought me back to gaming after 15 years",
-          "description": "The article discusses how 007 First Light reignited the author's passion for gaming after a long hiatus. It's praised for its cinematic experience.",
-          "category": "Gaming",
-          "source": "Creative Bloq",
-          "url": "https://www.creativebloq.com/design/why-007-first-light-is-the-first-video-game-ive-wanted-to-play-in-over-a-decade",
-          "image": "https://cdn.mos.cms.futurecdn.net/6DsNEtsgWYcUiXGsPjGhKJ-1000-80.jpg",
-          "published_at": "2026-06-07T15:04:13Z",
-          "key_points": [
-            "007 First Light praised",
-            "Cinematic gaming experience",
-            "Revived interest in gaming"
-          ],
-          "impact": "This highlights the game's strong emotional impact.",
-          "id": "c867fb5db4c5938392ef7514bb768db2"
         }
       ]
     }
