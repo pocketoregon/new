@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-16T03:59:04.321393+00:00",
+      "fetched_at": "2026-06-16T03:59:04.321393+00:00",
+      "label": "Jun 16, 2026 — 03:59 AM UTC",
+      "articles": [
+        {
+          "title": "DOKAPON 3-2-1: Super Collection! Launching on PC",
+          "description": "DOKAPON 3-2-1: Super Collection! arrives on PC via Steam on June 29, exclusively in Japanese. The bundle features three RPG adventures.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/dokapon-3-2-1-super-collection-coming-to-pc-on-june-29",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/DOKAPON-3-2-1-PC_06-14-26.jpg",
+          "published_at": "2026-06-15T02:35:11Z",
+          "key_points": [
+            "Launch on June 29",
+            "Only Japanese language",
+            "Three RPG adventures included"
+          ],
+          "impact": "This collection expands DOKAPON's reach to PC gamers.",
+          "id": "c791bbf5cd609c3de6db55ef77af5e15"
+        },
+        {
+          "title": "Highlights from Dead by Daylight's 10th Anniversary Broadcast",
+          "description": "Behaviour Interactive celebrated Dead by Daylight's 10th anniversary with a broadcast showcasing exciting updates and features. Key highlights were shared live.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/dead-by-daylight-10th-anniversary-broadcast-everything-announced",
+          "image": "https://assets-prd.ignimgs.com/2026/06/15/deadbydaylight-10thanniversary-blogroll-1-1781490776149.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-15T02:31:00Z",
+          "key_points": [
+            "10th anniversary celebration",
+            "New features announced",
+            "Live updates shared"
+          ],
+          "impact": "The broadcast energized the Dead by Daylight community.",
+          "id": "d901d5cc8dd85d10394c680afa651e41"
+        },
+        {
+          "title": "1993 GMC Typhoon Produces 682 HP, Outshines Durango Hellcat",
+          "description": "A modified 1993 GMC Typhoon now boasts 682 horsepower, potentially outperforming the Durango Hellcat. Nitrous boosts its power significantly.",
+          "category": "Business",
+          "source": "Jalopnik",
+          "url": "https://www.jalopnik.com/2193372/1993-gmc-typhoon-682-hp-for-sale/",
+          "image": "https://www.jalopnik.com/img/gallery/1993-gmc-typhoon-making-682-hp-at-the-wheels-says-durango-hellcat-who/l-intro-1781290817.jpg",
+          "published_at": "2026-06-14T22:25:00Z",
+          "key_points": [
+            "682 horsepower achieved",
+            "Nitrous modification",
+            "Beats Durango Hellcat"
+          ],
+          "impact": "This Typhoon sets a new performance benchmark.",
+          "id": "331603810d624320fa22b53a5961650a"
+        },
+        {
+          "title": "T-Mobile Users Upset Over Data Selling Discovery",
+          "description": "T-Mobile faces backlash after revelations about selling user data through its T-Life app. Customer trust is at an all-time low.",
+          "category": "Security",
+          "source": "PhoneArena",
+          "url": "https://www.phonearena.com/news/t-mobile-t-life-app-selling-user-data_id181081",
+          "image": "",
+          "published_at": "2026-06-14T20:55:39Z",
+          "key_points": [
+            "User data selling scandal",
+            "Trust issues arise",
+            "T-Mobile faces backlash"
+          ],
+          "impact": "Customer trust in T-Mobile has significantly declined.",
+          "id": "23999f2ba1a792f7aabc8ff237324ace"
+        },
+        {
+          "title": "Google Teases Upcoming Pixel Drop Features",
+          "description": "Google's next Pixel Drop will introduce Screen Reactions and Gemini Omni features, as revealed in early ads. Exciting updates are on the way.",
+          "category": "Software",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/14/google-ads-tease-next-pixel-drop-with-screen-reactions-and-gemini-omni-video/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/pixel-drop-amazon-videos-1.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-14T20:55:00Z",
+          "key_points": [
+            "Next Pixel Drop announced",
+            "New features teased",
+            "Screen Reactions included"
+          ],
+          "impact": "These updates enhance the Pixel user experience.",
+          "id": "c929c47cf8ee605e658e062e3ae0e246"
+        },
+        {
+          "title": "Signal Developers Aim to Encrypt Popular Apps",
+          "description": "Signal veterans are developing open-source software to encrypt apps like Slack and Google Docs, enhancing privacy and security.",
+          "category": "Security",
+          "source": "Gizmodo.com",
+          "url": "https://gizmodo.com/signal-veterans-want-to-encrypt-slack-google-docs-and-basically-every-other-app-2000771623",
+          "image": "https://gizmodo.com/app/uploads/2026/03/Crypto-Hack-1200x675.jpg",
+          "published_at": "2026-06-14T19:54:15Z",
+          "key_points": [
+            "Encrypting popular apps",
+            "Open-source software development",
+            "Focus on privacy"
+          ],
+          "impact": "This initiative could revolutionize app security.",
+          "id": "19ce1d42d0aa4c31bf8bf9f697d339c2"
+        },
+        {
+          "title": "SMIC's N+3 Node vs Intel's 18A Process",
+          "description": "SMIC's N+3 process is now shipping in Huawei's Kirin 9030, raising questions about its metal pitch compared to Intel's 18A.",
+          "category": "Hardware",
+          "source": "SemiAnalysis",
+          "url": "https://newsletter.semianalysis.com/p/steel-smic-n3-teardown",
+          "image": "https://substackcdn.com/image/fetch/$s_!b3Qg!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff327da24-3300-4bca-b81a-49d68043b1be_2752x1536.png",
+          "published_at": "2026-06-14T19:14:21Z",
+          "key_points": [
+            "SMIC N+3 process shipping",
+            "Comparison with Intel 18A",
+            "Focus on metal pitch"
+          ],
+          "impact": "This could shift semiconductor industry dynamics.",
+          "id": "1187606bf9ec4354c6fdeb1dd35df320"
+        },
+        {
+          "title": "Exploring Alternatives to Google Play Store",
+          "description": "An Android user shares their experience switching from Google Play to alternative app stores, discovering better options.",
+          "category": "Software",
+          "source": "Android Police",
+          "url": "https://www.androidpolice.com/found-better-google-play-alternative/",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/02/android-mascot-peering-through-a-magnifying-glass-behind-a-large-colorful-3d-google-play-store-logo.png?w=1600&h=900&fit=crop",
+          "published_at": "2026-06-14T19:01:14Z",
+          "key_points": [
+            "Switched from Google Play",
+            "Found better alternatives",
+            "Improved app discovery"
+          ],
+          "impact": "This shift could influence app store dynamics.",
+          "id": "24771c08d8b8a97ce97075007b28a182"
+        },
+        {
+          "title": "Unlock Hidden Performance Boosts in Windows 11",
+          "description": "Microsoft hides several performance-enhancing settings in Windows 11 that users can enable for better system performance and heat management.",
+          "category": "Software",
+          "source": "Neowin",
+          "url": "https://www.neowin.net/guides/microsoft-hides-these-secret-windows-11-performance-boost-settings-available-on-every-pc/",
+          "image": "https://cdn.neowin.com/news/images/uploaded/2023/08/1691046087_windows_11_story.jpg",
+          "published_at": "2026-06-14T18:00:00Z",
+          "key_points": [
+            "Hidden performance settings",
+            "Enhance system performance",
+            "Manage heat effectively"
+          ],
+          "impact": "Users can significantly boost their Windows 11 experience.",
+          "id": "577170f3e9c3c208fbb8aaca394e1fd9"
+        },
+        {
+          "title": "Yserver: A Rusty Alternative to Xserver",
+          "description": "Yserver emerges as a Rust-based alternative to Xserver, catering to users seeking options beyond Wayland as a display manager.",
+          "category": "Software",
+          "source": "Hackaday",
+          "url": "https://hackaday.com/2026/06/14/why-not-yserver-its-xserver-but-rust-y/",
+          "image": "https://hackaday.com/wp-content/uploads/2026/06/yserver-compiz-screenshot.png",
+          "published_at": "2026-06-14T17:00:00Z",
+          "key_points": [
+            "Rust-based display manager",
+            "Alternative to Xserver",
+            "Focus on user options"
+          ],
+          "impact": "Yserver could diversify display management choices.",
+          "id": "f3e4df21cc8030d1316d95610a1103ba"
+        },
+        {
+          "title": "Apple's AI System for Siri Remains Unannounced",
+          "description": "Apple's iOS 27 beta hints at a third-party AI system for Siri, but it was not mentioned during WWDC, raising questions about its future.",
+          "category": "Software",
+          "source": "The Next Web",
+          "url": "https://thenextweb.com/news/apple-siri-extensions-third-party-ai-missing-wwdc/",
+          "image": "https://media.thenextweb.com/2026/06/apple-siri-extensions-third-party-ai-missing-wwdc.avif",
+          "published_at": "2026-06-14T16:10:00Z",
+          "key_points": [
+            "Third-party AI support",
+            "Not announced at WWDC",
+            "iOS 27 beta hints"
+          ],
+          "impact": "This could enhance Siri's functionality significantly.",
+          "id": "e3a914a10969e4ba47b4ec08fb21d0f0"
+        },
+        {
+          "title": "Android Routines Revolutionize Morning Alarms",
+          "description": "Android Routines replaces traditional alarms, providing a smoother wake-up experience for users, enhancing morning routines.",
+          "category": "Software",
+          "source": "Android Police",
+          "url": "https://www.androidpolice.com/let-android-routines-take-over-morning-never-going-back-to-phones-alarm-app/",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/11/the-android-mascot-sleeping-in-a-bed-while-a-large-ringing-alarm-clock-beside-it.png?w=1600&h=900&fit=crop",
+          "published_at": "2026-06-14T15:15:13Z",
+          "key_points": [
+            "Replaces traditional alarms",
+            "Enhances morning routines",
+            "Smoother wake-up experience"
+          ],
+          "impact": "Users are likely to embrace this feature.",
+          "id": "f731e91da5c1b1108f51484b07feef46"
+        },
+        {
+          "title": "Xbox Games Showcase 2026 Predictions Reviewed",
+          "description": "Pure Xbox reviews its predictions for the Xbox Games Showcase 2026, revealing mixed results and lessons learned.",
+          "category": "Gaming",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/features/roundup-the-results-from-our-xbox-games-showcase-2026-predictions",
+          "image": "https://images.purexbox.com/4b404f4e83788/large.jpg",
+          "published_at": "2026-06-14T15:04:18Z",
+          "key_points": [
+            "Predictions reviewed",
+            "Mixed results",
+            "Lessons learned"
+          ],
+          "impact": "This analysis helps refine future predictions.",
+          "id": "2b4cd24c914df5373ea7dc99a20698a3"
+        },
+        {
+          "title": "Evidence of iPhone Fold and Touchscreen MacBook in iOS 27",
+          "description": "iOS 27 and macOS 27 reveal signs of a folding iPhone and touchscreen MacBook Pro, hinting at Apple's upcoming hardware innovations.",
+          "category": "Business",
+          "source": "AppleInsider",
+          "url": "https://appleinsider.com/articles/26/06/14/iphone-fold-touchscreen-macbook-evidence-mounts-in-ios-27-macos-27",
+          "image": "https://photos5.appleinsider.com/gallery/67943-143238-66570-139613-000-lead-iPhone-Fold-xl-xl.jpg",
+          "published_at": "2026-06-14T14:54:00Z",
+          "key_points": [
+            "Folding iPhone evidence",
+            "Touchscreen MacBook hints",
+            "iOS 27 reveals"
+          ],
+          "impact": "These innovations could reshape Apple's product lineup.",
+          "id": "a955b5431a07a145c38c3324bf4e7818"
+        },
+        {
+          "title": "Fix for Android Auto Disconnection Issues Released",
+          "description": "A recent update addresses Android Auto disconnection problems for Samsung and Pixel users, improving both wired and wireless connections.",
+          "category": "Software",
+          "source": "XDA Developers",
+          "url": "https://www.xda-developers.com/if-your-android-auto-keeps-disconnecting-googles-latest-update-might-help/",
+          "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/android-auto-header.jpg?w=1600&h=900&fit=crop",
+          "published_at": "2026-06-14T14:27:26Z",
+          "key_points": [
+            "Update improves connections",
+            "Fixes disconnection issues",
+            "Targets Samsung and Pixel users"
+          ],
+          "impact": "This update enhances user experience with Android Auto.",
+          "id": "8d39b7d2ddb17cc6dd9d6190736de825"
+        }
+      ]
+    },
+    {
       "id": "2026-06-15T23:02:21.241473+00:00",
       "fetched_at": "2026-06-15T23:02:21.241473+00:00",
       "label": "Jun 15, 2026 — 11:02 PM UTC",
@@ -6152,205 +6399,6 @@
           ],
           "impact": "Parents gain better oversight of device usage.",
           "id": "8d45edfeaf3c4027086c2644ce83a1d6"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-09T22:23:20.497676+00:00",
-      "fetched_at": "2026-06-09T22:23:20.497676+00:00",
-      "label": "Jun 09, 2026 — 10:23 PM UTC",
-      "articles": [
-        {
-          "title": "tvOS 27 Drops Support for Two Apple TV Models",
-          "description": "tvOS 27 will no longer support Apple TV HD and another model. Users must upgrade to newer devices for future updates.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/08/tvos-27-compatible-apple-tv-models/",
-          "image": "https://images.macrumors.com/t/VsFKl4UWO8oZVdkJHHPVQWReYCo=/2500x/article-new/2026/04/Where-is-the-New-Apple-TV-Feature.jpg",
-          "published_at": "2026-06-08T21:17:47Z",
-          "key_points": [
-            "tvOS 27 drops two models",
-            "Upgrade required for updates",
-            "Focus on newer devices"
-          ],
-          "impact": "Users need newer Apple TVs for updates.",
-          "id": "f949bc22951a1ba7593c0ab7e6b8a437"
-        },
-        {
-          "title": "Apple plays catch-up at WWDC",
-          "description": "Apple's WWDC keynote focused on fixes and performance improvements, introducing an upgraded AI-powered Siri as part of broader enhancements.",
-          "category": "Software",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/06/tim-cook-wwdc-2026.jpeg?resize=1200,677",
-          "published_at": "2026-06-08T21:15:42Z",
-          "key_points": [
-            "Focus on performance improvements",
-            "AI-powered Siri introduced",
-            "Emphasis on user experience"
-          ],
-          "impact": "Apple aims to enhance user satisfaction with updates.",
-          "id": "d5767efbb2bb2b392504597cff27d99f"
-        },
-        {
-          "title": "iOS 27 and iPadOS 27 don’t drop support for any iPhones—and just a few iPads",
-          "description": "iOS 27 and iPadOS 27 maintain support for all iPhones and only a few iPads, ensuring compatibility for older devices.",
-          "category": "Software",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Apple-Intelligence-Image-Playground-Messages-and-Contact-Poster-and-Lock-Screen-260608-1152x648.jpg",
-          "published_at": "2026-06-08T20:55:58Z",
-          "key_points": [
-            "No iPhone support dropped",
-            "Few iPads lose compatibility",
-            "Solid release for older devices"
-          ],
-          "impact": "Older iPhones remain supported with updates.",
-          "id": "09b3224f895bdef879c5d8fc5a83891a"
-        },
-        {
-          "title": "Apple drops support for a long list of iPads and Apple Watches with latest OS updates",
-          "description": "WatchOS 27 will not support several Apple Watch models, including Series 6, 7, and 8, alongside multiple iPads.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/946147/apple-watchos-27-ipados-27-supported-devices-dropped",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24023358/226266_APPLE_WATCH_8_SE_PHO_akrales_0350.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-06-08T19:45:00Z",
-          "key_points": [
-            "WatchOS 27 drops multiple models",
-            "Series 6, 7, 8 unsupported",
-            "Several iPads also dropped"
-          ],
-          "impact": "Users must upgrade devices for new OS.",
-          "id": "b0247c320ba12eaf6fd3809b043f3255"
-        },
-        {
-          "title": "iCloud+ subscribers will get new benefits in iOS 27",
-          "description": "iOS 27 introduces new features for iCloud+ subscribers, enhancing the Apple Intelligence experience.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/08/icloud-subscribers-will-get-new-benefits-in-ios-27/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/icloud-icon-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-08T18:58:00Z",
-          "key_points": [
-            "New iCloud+ features announced",
-            "Enhancements for subscribers",
-            "Focus on Apple Intelligence"
-          ],
-          "impact": "iCloud+ users gain valuable new benefits.",
-          "id": "18ab623647df00e2eafb057078e2f259"
-        },
-        {
-          "title": "Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27",
-          "description": "Siri AI's release in the EU is postponed due to the Digital Markets Act, affecting iOS 27 and iPadOS 27.",
-          "category": "Policy",
-          "source": "Apple Newsroom",
-          "url": "https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/",
-          "image": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202606082105",
-          "published_at": "2026-06-08T18:20:13Z",
-          "key_points": [
-            "Siri AI delayed in EU",
-            "Impact of Digital Markets Act",
-            "Availability on other OS versions"
-          ],
-          "impact": "EU users will wait longer for Siri AI.",
-          "id": "dec9fef2390caa3ac41f859d5512594f"
-        },
-        {
-          "title": "Apple introduces systemwide dictation",
-          "description": "Apple's new dictation feature aims to compete with existing services, enhancing user experience across devices.",
-          "category": "Software",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/08/apple-introduces-systemwide-dictation/",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/06/wwdc-2026-preview.png?w=1164",
-          "published_at": "2026-06-08T18:00:09Z",
-          "key_points": [
-            "New dictation feature launched",
-            "Competes with existing services",
-            "Enhances user experience"
-          ],
-          "impact": "Apple aims to improve dictation capabilities.",
-          "id": "e7266a607564035692d3fbdf26e4dc54"
-        },
-        {
-          "title": "Apple is redesigning Screen Time and overhauling child controls",
-          "description": "Apple's revamped Screen Time and parental controls aim to better protect children using its devices.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/945898/apple-parental-controls-child-accounts-wwdc2026",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24023358/226266_APPLE_WATCH_8_SE_PHO_akrales_0350.jpg?quality=90&strip=all&crop=0,14.033409967608,100,71.933180064785",
-          "published_at": "2026-06-08T17:55:30Z",
-          "key_points": [
-            "Screen Time overhaul announced",
-            "New child safety features",
-            "Focus on parental controls"
-          ],
-          "impact": "Enhanced controls aim to protect children.",
-          "id": "31b41768866e291f5dd4b343b5a5ead7"
-        },
-        {
-          "title": "Apple is tweaking its controversial Liquid Glass design",
-          "description": "Apple is adjusting its Liquid Glass design after mixed user feedback regarding readability and aesthetics.",
-          "category": "Software",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/08/apple-is-tweaking-its-controversial-liquid-glass-design/",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-wwdc-liquid-glass.png?resize=1200,656",
-          "published_at": "2026-06-08T17:24:33Z",
-          "key_points": [
-            "Liquid Glass design adjustments",
-            "Mixed user feedback",
-            "Focus on readability"
-          ],
-          "impact": "Apple responds to user concerns on design.",
-          "id": "32cb6054214f14eb5e02657d7e2b9852"
-        },
-        {
-          "title": "Google AI Plus gets price drop to $4.99 and storage bump",
-          "description": "Google reduces AI Plus subscription price to $4.99 and increases storage to 400 GB, enhancing value for users.",
-          "category": "Business",
-          "source": "9to5google.com",
-          "url": "http://9to5google.com/2026/06/08/google-ai-plus-price-drop/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Google-AI-Plus-cover-us.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-08T17:21:00Z",
-          "key_points": [
-            "AI Plus price reduced",
-            "Storage increased to 400 GB",
-            "Enhanced subscription value"
-          ],
-          "impact": "Google improves AI Plus offering for users.",
-          "id": "8d12f40d8ea0fccba7e1de635ab9f9a5"
-        },
-        {
-          "title": "Anker launches air-cooled 3-in-1 wireless charger with built-in touchscreen",
-          "description": "Anker's new 3-in-1 wireless charger features air cooling, fast charging, and a touchscreen for enhanced usability.",
-          "category": "Hardware",
-          "source": "Gizmochina",
-          "url": "https://www.gizmochina.com/2026/06/08/anker-launches-air-cooled-3-in-1-wireless-charger-with-built-in-touchscreen/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Anker-Prime-3-in-1-aircool-wireless-charger.jpg",
-          "published_at": "2026-06-08T04:03:13Z",
-          "key_points": [
-            "New 3-in-1 wireless charger",
-            "Features air cooling",
-            "Includes built-in touchscreen"
-          ],
-          "impact": "Anker enhances charging experience with innovation.",
-          "id": "864f41f951cc5e1105c4f7300e9175ca"
-        },
-        {
-          "title": "Gears Of War: E-Day Launches As A Console Exclusive On Xbox Series X/S And PC This October",
-          "description": "Gears of War: E-Day will launch as a console exclusive for Xbox Series X/S and PC this October, showcasing new gameplay.",
-          "category": "Gaming",
-          "source": "Game Informer",
-          "url": "https://gameinformer.com/xbox-games-showcase/2026/06/07/gears-of-war-e-day-launches-as-a-console-exclusive-on-xbox-series-xs",
-          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/07/ca5a7b7e/gow%20eday%20new%20header.jpg.webp",
-          "published_at": "2026-06-07T19:59:49Z",
-          "key_points": [
-            "Gears of War: E-Day announced",
-            "Exclusive to Xbox and PC",
-            "Gameplay trailer revealed"
-          ],
-          "impact": "Excitement builds for Gears of War fans.",
-          "id": "c9a50a61cf8dd79a2d55b5920604e501"
         }
       ]
     }

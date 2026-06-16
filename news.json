@@ -1,247 +1,247 @@
 {
-  "date": "2026-06-15",
-  "generated_at": "2026-06-15T23:02:21.241473+00:00",
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T03:59:04.321393+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Capcom Pulls Dragon's Dogma 2 Deluxe Edition",
-      "description": "Capcom discontinues Dragon's Dogma 2 deluxe edition and removes controversial microtransactions. This decision aims to enhance player experience.",
+      "title": "DOKAPON 3-2-1: Super Collection! Launching on PC",
+      "description": "DOKAPON 3-2-1: Super Collection! arrives on PC via Steam on June 29, exclusively in Japanese. The bundle features three RPG adventures.",
       "category": "Gaming",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/dragon-dogma-2-discontinues-microtransactions",
-      "image": "https://assetsio.gnwcdn.com/DD2-Switch-2-trailer.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-14T20:56:01Z",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/dokapon-3-2-1-super-collection-coming-to-pc-on-june-29",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/DOKAPON-3-2-1-PC_06-14-26.jpg",
+      "published_at": "2026-06-15T02:35:11Z",
       "key_points": [
-        "Deluxe edition discontinued",
-        "Microtransactions removed",
-        "Focus on player experience"
+        "Launch on June 29",
+        "Only Japanese language",
+        "Three RPG adventures included"
       ],
-      "impact": "Capcom aims to improve player satisfaction.",
-      "id": "3520651db3990251d0ed9254e6608107"
+      "impact": "This collection expands DOKAPON's reach to PC gamers.",
+      "id": "c791bbf5cd609c3de6db55ef77af5e15"
     },
     {
-      "title": "Flight Crew Warns About Passenger Risks",
-      "description": "Flight attendants reveal risky passenger behaviors, emphasizing the importance of asking for help with lost items to avoid dangerous situations.",
-      "category": "Geopolitics",
-      "source": "Buzzfeed",
-      "url": "https://www.buzzfeed.com/jake_farrington/pilots-flight-attendants-important-tips-reddit",
-      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/08/21/thumb/VEHSE7pi6.jpg?crop=2999:1570;0,2%26downsize=1250:*",
-      "published_at": "2026-06-14T19:21:02Z",
-      "key_points": [
-        "Passengers risk phone loss",
-        "Crew assistance is crucial",
-        "Safety over friendliness"
-      ],
-      "impact": "Awareness can enhance flight safety.",
-      "id": "482535e8751bfc57f0a920bbce04c068"
-    },
-    {
-      "title": "New Witcher Multiplayer Game Details Leaked",
-      "description": "An unannounced Witcher multiplayer game is set for PC and mobile, featuring a free-to-play co-op action RPG with custom characters.",
+      "title": "Highlights from Dead by Daylight's 10th Anniversary Broadcast",
+      "description": "Behaviour Interactive celebrated Dead by Daylight's 10th anniversary with a broadcast showcasing exciting updates and features. Key highlights were shared live.",
       "category": "Gaming",
-      "source": "MP1st",
-      "url": "https://mp1st.com/news/unannounced-witcher-multiplayer-game-details-pc-mobile",
-      "image": "https://mp1st.com/wp-content/uploads/2026/06/w3kyart-600x338.png",
-      "published_at": "2026-06-14T18:26:10Z",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/dead-by-daylight-10th-anniversary-broadcast-everything-announced",
+      "image": "https://assets-prd.ignimgs.com/2026/06/15/deadbydaylight-10thanniversary-blogroll-1-1781490776149.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-15T02:31:00Z",
       "key_points": [
-        "Free-to-play multiplayer",
-        "Custom Witcher characters",
-        "Set in 1230"
+        "10th anniversary celebration",
+        "New features announced",
+        "Live updates shared"
       ],
-      "impact": "Expands The Witcher franchise's reach.",
-      "id": "242ccf711effc663e4cf713e0349d912"
+      "impact": "The broadcast energized the Dead by Daylight community.",
+      "id": "d901d5cc8dd85d10394c680afa651e41"
     },
     {
-      "title": "Warhammer Pre-Orders Include New Handbook",
-      "description": "Upcoming pre-orders feature the Hedonites of Slaanesh and a new General’s Handbook for Warhammer Age of Sigmar.",
-      "category": "Gaming",
-      "source": "Warhammer-community.com",
-      "url": "https://www.warhammer-community.com/articles/0y4dh0xg/sunday-preview-hedonites-head-into-battle-along-with-a-new-generals-handbook",
-      "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/sundaypreview-jul30-1-feature-cinuqzn66p.jpg",
-      "published_at": "2026-06-14T16:59:51Z",
-      "key_points": [
-        "New Hedonites faction",
-        "General's Handbook released",
-        "Pre-orders available soon"
-      ],
-      "impact": "Enhances gameplay options for Warhammer fans.",
-      "id": "1a42854422f04c6caa95e72a201bed07"
-    },
-    {
-      "title": "Windows 11 Secure Boot Update Released",
-      "description": "Microsoft rolls out the Secure Boot 2023 update for Windows 11 PCs, enhancing security features for users and IT admins.",
-      "category": "Software",
-      "source": "WindowsLatest",
-      "url": "https://www.windowslatest.com/2026/06/14/microsoft-released-the-windows-11-secure-boot-update-for-all-pcs-how-to-verify-yours/",
-      "image": "https://www.windowslatest.com/wp-content/uploads/2026/06/Windows-11-is-now-automatically-rolling-out-the-Secure-Boot-2023-certificate-update-to-most-PCs-via-the-June-2026-Patch-Tuesday-update.jpg",
-      "published_at": "2026-06-14T16:13:27Z",
-      "key_points": [
-        "Secure Boot update released",
-        "Enhances PC security",
-        "IT admins need to verify"
-      ],
-      "impact": "Improves overall security for Windows users.",
-      "id": "4ba6b1afd6b9a069d7a80da6ed38db58"
-    },
-    {
-      "title": "Nintendo Announces Maintenance Schedule",
-      "description": "Nintendo's maintenance schedule for June 14 includes sessions for Wii U and 3DS, with no updates for Switch.",
-      "category": "Gaming",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/nintendo-maintenance-schedule-june-14-2026/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/maintenance-3DS-Wii-U.jpg",
-      "published_at": "2026-06-14T16:05:02Z",
-      "key_points": [
-        "Maintenance for Wii U",
-        "No Switch updates",
-        "Scheduled for June 14"
-      ],
-      "impact": "Ensures system stability for older consoles.",
-      "id": "41f4e928b4636a3611410cf92f36d46f"
-    },
-    {
-      "title": "Five Key Settings to Change in One UI 8.5",
-      "description": "One UI 8.5 introduces significant updates, prompting users to adjust five key settings for optimal performance.",
-      "category": "Software",
-      "source": "MakeUseOf",
-      "url": "https://www.makeuseof.com/one-ui-8-5-settings-to-change/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/06/ready-to-update-screen-on-samsung-galaxy-z-flip-6-1.jpg?w=1600&h=900&fit=crop",
-      "published_at": "2026-06-14T16:00:20Z",
-      "key_points": [
-        "One UI 8.5 released",
-        "Adjust five key settings",
-        "Improves user experience"
-      ],
-      "impact": "Enhances functionality of Samsung devices.",
-      "id": "b782b799350bb75ca0005ba7b91e21e6"
-    },
-    {
-      "title": "Apple's Siri Gets Major AI Upgrade",
-      "description": "Apple announces a significant AI upgrade for Siri, marking the beginning of a new era for the voice assistant.",
-      "category": "Software",
-      "source": "KSL.com",
-      "url": "https://www.ksl.com/article/51510780/apples-big-siri-update-is-here-now-the-real-challenge-begins",
-      "image": "https://img.ksl.com/slc/3160/316059/31605931.jpg?filter=kslv2/responsive_story_lg",
-      "published_at": "2026-06-14T15:36:06Z",
-      "key_points": [
-        "Siri AI upgrade announced",
-        "New features coming soon",
-        "Focus on user interaction"
-      ],
-      "impact": "Sets the stage for Siri's evolution.",
-      "id": "27159ffe97f4bc21c8e3b4ccc7b46097"
-    },
-    {
-      "title": "Linux 7.1 Kernel Released",
-      "description": "Linus Torvalds announces the release of the stable Linux 7.1 kernel, featuring new drivers and improved graphics support.",
-      "category": "Software",
-      "source": "Phoronix",
-      "url": "https://www.phoronix.com/news/Linux-7.1-Released",
-      "image": "https://www.phoronix.net/image.php?id=2026&image=linux_71",
-      "published_at": "2026-06-14T15:09:00Z",
-      "key_points": [
-        "Linux 7.1 released",
-        "New NTFS driver included",
-        "Improved graphics support"
-      ],
-      "impact": "Enhances performance for Linux users.",
-      "id": "7fd6fe94fee6ac10ea6a324e6d138841"
-    },
-    {
-      "title": "AI Founder Attempts to Create GTA Clone",
-      "description": "An AI startup founder aims to code a Grand Theft Auto-style game before the highly anticipated release this November.",
-      "category": "Gaming",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/ai-startup-founder-attempts-to-vibe-code-grand-theft-auto-game",
-      "image": "https://helios-i.mashable.com/imagery/articles/07xDdK7Ire8Io6xhjhT9Nwz/hero-image.fill.size_1200x675.v1781445889.png",
-      "published_at": "2026-06-14T14:24:46Z",
-      "key_points": [
-        "AI coding a GTA clone",
-        "Targeting November release",
-        "Innovative game development"
-      ],
-      "impact": "Challenges traditional game development methods.",
-      "id": "988f49f796c7f83e3a8120b3cd63249f"
-    },
-    {
-      "title": "PowerA Teases New Xbox Controller",
-      "description": "PowerA reveals Project X-Ray, a wireless controller designed for flight simulation on Xbox, featuring swappable faceplates.",
-      "category": "Gaming",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/PowerA-teases-Project-X-Ray-Flight-Deck-Wireless-Controller-for-Xbox.1321304.0.html",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Power-Project-X-Ray-Project-Flight-Deck-Wireless-Controller.jpg",
-      "published_at": "2026-06-14T13:30:00Z",
-      "key_points": [
-        "New Xbox controller teased",
-        "Designed for flight simulation",
-        "Swappable faceplates included"
-      ],
-      "impact": "Enhances gaming experience for flight enthusiasts.",
-      "id": "e0e7ee73479c2865f131ff4c21ab8c24"
-    },
-    {
-      "title": "Capcom's Success Explained by President",
-      "description": "Capcom's president attributes the company's recent success to a new team-based approach in game development.",
+      "title": "1993 GMC Typhoon Produces 682 HP, Outshines Durango Hellcat",
+      "description": "A modified 1993 GMC Typhoon now boasts 682 horsepower, potentially outperforming the Durango Hellcat. Nitrous boosts its power significantly.",
       "category": "Business",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/capcoms-president-explains-the-secret-behind-the-resident-evil-makers-recent-winning-streak-2000706227",
-      "image": "https://kotaku.com/app/uploads/2025/07/f2e0c810ca1866360ee164a048d735cd-1200x675.jpg",
-      "published_at": "2026-06-14T13:26:04Z",
+      "source": "Jalopnik",
+      "url": "https://www.jalopnik.com/2193372/1993-gmc-typhoon-682-hp-for-sale/",
+      "image": "https://www.jalopnik.com/img/gallery/1993-gmc-typhoon-making-682-hp-at-the-wheels-says-durango-hellcat-who/l-intro-1781290817.jpg",
+      "published_at": "2026-06-14T22:25:00Z",
       "key_points": [
-        "Team-based development approach",
-        "Capcom's recent success",
-        "Focus on collaboration"
+        "682 horsepower achieved",
+        "Nitrous modification",
+        "Beats Durango Hellcat"
       ],
-      "impact": "Revolutionizes Capcom's game development strategy.",
-      "id": "fc47cfb3b343166a9678ee68f8c581ec"
+      "impact": "This Typhoon sets a new performance benchmark.",
+      "id": "331603810d624320fa22b53a5961650a"
     },
     {
-      "title": "Xbox Game Pass Reveals 2027 Lineup",
-      "description": "Over ten new games for Xbox Game Pass in 2027 have been announced, promising an exciting year ahead for subscribers.",
+      "title": "T-Mobile Users Upset Over Data Selling Discovery",
+      "description": "T-Mobile faces backlash after revelations about selling user data through its T-Life app. Customer trust is at an all-time low.",
+      "category": "Security",
+      "source": "PhoneArena",
+      "url": "https://www.phonearena.com/news/t-mobile-t-life-app-selling-user-data_id181081",
+      "image": "",
+      "published_at": "2026-06-14T20:55:39Z",
+      "key_points": [
+        "User data selling scandal",
+        "Trust issues arise",
+        "T-Mobile faces backlash"
+      ],
+      "impact": "Customer trust in T-Mobile has significantly declined.",
+      "id": "23999f2ba1a792f7aabc8ff237324ace"
+    },
+    {
+      "title": "Google Teases Upcoming Pixel Drop Features",
+      "description": "Google's next Pixel Drop will introduce Screen Reactions and Gemini Omni features, as revealed in early ads. Exciting updates are on the way.",
+      "category": "Software",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/06/14/google-ads-tease-next-pixel-drop-with-screen-reactions-and-gemini-omni-video/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/pixel-drop-amazon-videos-1.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-14T20:55:00Z",
+      "key_points": [
+        "Next Pixel Drop announced",
+        "New features teased",
+        "Screen Reactions included"
+      ],
+      "impact": "These updates enhance the Pixel user experience.",
+      "id": "c929c47cf8ee605e658e062e3ae0e246"
+    },
+    {
+      "title": "Signal Developers Aim to Encrypt Popular Apps",
+      "description": "Signal veterans are developing open-source software to encrypt apps like Slack and Google Docs, enhancing privacy and security.",
+      "category": "Security",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/signal-veterans-want-to-encrypt-slack-google-docs-and-basically-every-other-app-2000771623",
+      "image": "https://gizmodo.com/app/uploads/2026/03/Crypto-Hack-1200x675.jpg",
+      "published_at": "2026-06-14T19:54:15Z",
+      "key_points": [
+        "Encrypting popular apps",
+        "Open-source software development",
+        "Focus on privacy"
+      ],
+      "impact": "This initiative could revolutionize app security.",
+      "id": "19ce1d42d0aa4c31bf8bf9f697d339c2"
+    },
+    {
+      "title": "SMIC's N+3 Node vs Intel's 18A Process",
+      "description": "SMIC's N+3 process is now shipping in Huawei's Kirin 9030, raising questions about its metal pitch compared to Intel's 18A.",
+      "category": "Hardware",
+      "source": "SemiAnalysis",
+      "url": "https://newsletter.semianalysis.com/p/steel-smic-n3-teardown",
+      "image": "https://substackcdn.com/image/fetch/$s_!b3Qg!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff327da24-3300-4bca-b81a-49d68043b1be_2752x1536.png",
+      "published_at": "2026-06-14T19:14:21Z",
+      "key_points": [
+        "SMIC N+3 process shipping",
+        "Comparison with Intel 18A",
+        "Focus on metal pitch"
+      ],
+      "impact": "This could shift semiconductor industry dynamics.",
+      "id": "1187606bf9ec4354c6fdeb1dd35df320"
+    },
+    {
+      "title": "Exploring Alternatives to Google Play Store",
+      "description": "An Android user shares their experience switching from Google Play to alternative app stores, discovering better options.",
+      "category": "Software",
+      "source": "Android Police",
+      "url": "https://www.androidpolice.com/found-better-google-play-alternative/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/02/android-mascot-peering-through-a-magnifying-glass-behind-a-large-colorful-3d-google-play-store-logo.png?w=1600&h=900&fit=crop",
+      "published_at": "2026-06-14T19:01:14Z",
+      "key_points": [
+        "Switched from Google Play",
+        "Found better alternatives",
+        "Improved app discovery"
+      ],
+      "impact": "This shift could influence app store dynamics.",
+      "id": "24771c08d8b8a97ce97075007b28a182"
+    },
+    {
+      "title": "Unlock Hidden Performance Boosts in Windows 11",
+      "description": "Microsoft hides several performance-enhancing settings in Windows 11 that users can enable for better system performance and heat management.",
+      "category": "Software",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/guides/microsoft-hides-these-secret-windows-11-performance-boost-settings-available-on-every-pc/",
+      "image": "https://cdn.neowin.com/news/images/uploaded/2023/08/1691046087_windows_11_story.jpg",
+      "published_at": "2026-06-14T18:00:00Z",
+      "key_points": [
+        "Hidden performance settings",
+        "Enhance system performance",
+        "Manage heat effectively"
+      ],
+      "impact": "Users can significantly boost their Windows 11 experience.",
+      "id": "577170f3e9c3c208fbb8aaca394e1fd9"
+    },
+    {
+      "title": "Yserver: A Rusty Alternative to Xserver",
+      "description": "Yserver emerges as a Rust-based alternative to Xserver, catering to users seeking options beyond Wayland as a display manager.",
+      "category": "Software",
+      "source": "Hackaday",
+      "url": "https://hackaday.com/2026/06/14/why-not-yserver-its-xserver-but-rust-y/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/06/yserver-compiz-screenshot.png",
+      "published_at": "2026-06-14T17:00:00Z",
+      "key_points": [
+        "Rust-based display manager",
+        "Alternative to Xserver",
+        "Focus on user options"
+      ],
+      "impact": "Yserver could diversify display management choices.",
+      "id": "f3e4df21cc8030d1316d95610a1103ba"
+    },
+    {
+      "title": "Apple's AI System for Siri Remains Unannounced",
+      "description": "Apple's iOS 27 beta hints at a third-party AI system for Siri, but it was not mentioned during WWDC, raising questions about its future.",
+      "category": "Software",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/apple-siri-extensions-third-party-ai-missing-wwdc/",
+      "image": "https://media.thenextweb.com/2026/06/apple-siri-extensions-third-party-ai-missing-wwdc.avif",
+      "published_at": "2026-06-14T16:10:00Z",
+      "key_points": [
+        "Third-party AI support",
+        "Not announced at WWDC",
+        "iOS 27 beta hints"
+      ],
+      "impact": "This could enhance Siri's functionality significantly.",
+      "id": "e3a914a10969e4ba47b4ec08fb21d0f0"
+    },
+    {
+      "title": "Android Routines Revolutionize Morning Alarms",
+      "description": "Android Routines replaces traditional alarms, providing a smoother wake-up experience for users, enhancing morning routines.",
+      "category": "Software",
+      "source": "Android Police",
+      "url": "https://www.androidpolice.com/let-android-routines-take-over-morning-never-going-back-to-phones-alarm-app/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/11/the-android-mascot-sleeping-in-a-bed-while-a-large-ringing-alarm-clock-beside-it.png?w=1600&h=900&fit=crop",
+      "published_at": "2026-06-14T15:15:13Z",
+      "key_points": [
+        "Replaces traditional alarms",
+        "Enhances morning routines",
+        "Smoother wake-up experience"
+      ],
+      "impact": "Users are likely to embrace this feature.",
+      "id": "f731e91da5c1b1108f51484b07feef46"
+    },
+    {
+      "title": "Xbox Games Showcase 2026 Predictions Reviewed",
+      "description": "Pure Xbox reviews its predictions for the Xbox Games Showcase 2026, revealing mixed results and lessons learned.",
       "category": "Gaming",
       "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/06/10plus-games-that-have-been-revealed-for-xbox-game-pass-in-2027-already",
-      "image": "https://images.purexbox.com/6ccd5e1d44e2f/large.jpg",
-      "published_at": "2026-06-14T13:21:15Z",
+      "url": "https://www.purexbox.com/features/roundup-the-results-from-our-xbox-games-showcase-2026-predictions",
+      "image": "https://images.purexbox.com/4b404f4e83788/large.jpg",
+      "published_at": "2026-06-14T15:04:18Z",
       "key_points": [
-        "Exciting 2027 lineup",
-        "Over ten new games",
-        "Xbox Game Pass growth"
+        "Predictions reviewed",
+        "Mixed results",
+        "Lessons learned"
       ],
-      "impact": "Strengthens Xbox Game Pass offerings.",
-      "id": "2ef3e5843a8002d317a56e59a22937b1"
+      "impact": "This analysis helps refine future predictions.",
+      "id": "2b4cd24c914df5373ea7dc99a20698a3"
     },
     {
-      "title": "Windows 11 Users Criticize Account Requirements",
-      "description": "Windows 11 users express frustration over mandatory Microsoft account requirements, sparking a debate on privacy and user control.",
-      "category": "Software",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds",
-      "image": "https://cdn.mos.cms.futurecdn.net/j6KmfXaKwgMziobFTx9itD-1687-80.jpg",
-      "published_at": "2026-06-14T13:18:33Z",
+      "title": "Evidence of iPhone Fold and Touchscreen MacBook in iOS 27",
+      "description": "iOS 27 and macOS 27 reveal signs of a folding iPhone and touchscreen MacBook Pro, hinting at Apple's upcoming hardware innovations.",
+      "category": "Business",
+      "source": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/06/14/iphone-fold-touchscreen-macbook-evidence-mounts-in-ios-27-macos-27",
+      "image": "https://photos5.appleinsider.com/gallery/67943-143238-66570-139613-000-lead-iPhone-Fold-xl-xl.jpg",
+      "published_at": "2026-06-14T14:54:00Z",
       "key_points": [
-        "Users frustrated with requirements",
-        "Privacy concerns raised",
-        "Debate on user control"
+        "Folding iPhone evidence",
+        "Touchscreen MacBook hints",
+        "iOS 27 reveals"
       ],
-      "impact": "Highlights ongoing privacy issues in software.",
-      "id": "228cc30d6552c5466edb7b6e7b45b1be"
+      "impact": "These innovations could reshape Apple's product lineup.",
+      "id": "a955b5431a07a145c38c3324bf4e7818"
     },
     {
-      "title": "How to Restart a Frozen Apple Watch",
-      "description": "To restart a frozen Apple Watch, press both side buttons until the Apple logo appears, taking about 10 seconds.",
+      "title": "Fix for Android Auto Disconnection Issues Released",
+      "description": "A recent update addresses Android Auto disconnection problems for Samsung and Pixel users, improving both wired and wireless connections.",
       "category": "Software",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2191429/how-to-restart-frozen-apple-watch/",
-      "image": "https://www.bgr.com/img/gallery/how-to-restart-your-apple-watch-when-its-frozen/l-intro-1781105745.jpg",
-      "published_at": "2026-06-14T12:17:00Z",
+      "source": "XDA Developers",
+      "url": "https://www.xda-developers.com/if-your-android-auto-keeps-disconnecting-googles-latest-update-might-help/",
+      "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/android-auto-header.jpg?w=1600&h=900&fit=crop",
+      "published_at": "2026-06-14T14:27:26Z",
       "key_points": [
-        "Restart Apple Watch easily",
-        "Press side buttons",
-        "Quick troubleshooting guide"
+        "Update improves connections",
+        "Fixes disconnection issues",
+        "Targets Samsung and Pixel users"
       ],
-      "impact": "Empowers users to resolve device issues.",
-      "id": "b75f1b93494fbe6bc58bf3f600699214"
+      "impact": "This update enhances user experience with Android Auto.",
+      "id": "8d39b7d2ddb17cc6dd9d6190736de825"
     }
   ]
 }
