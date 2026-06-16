@@ -5,143 +5,143 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 20:50:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 22:53:17 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Xbox Studios Face Potential Closures</title>
-      <description>Microsoft's Xbox studios, including Compulsion Games, may spin off to avoid closures. Negotiations are ongoing for independence.</description>
-      <link>https://www.bloomberg.com/news/articles/2026-06-15/studios-in-microsoft-s-xbox-division-brace-for-closures</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-06-15/studios-in-microsoft-s-xbox-division-brace-for-closures</guid>
-      <pubDate>2026-06-15T20:15:04Z</pubDate>
+      <title>Xbox Shuts Down Ninja Theory Studio</title>
+      <description>Xbox is closing Ninja Theory, the studio behind Hellblade. Staff were informed during a call on Monday.</description>
+      <link>https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua</link>
+      <guid isPermaLink="true">https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua</guid>
+      <pubDate>2026-06-15T21:13:35Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.bloomberg.com/news/articles/2026-06-15/studios-in-microsoft-s-xbox-division-brace-for-closures">Bloomberg</source>
+      <source url="https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua">The Verge</source>
     </item>
     <item>
-      <title>Apple Reveals Siri Overhaul Delays</title>
-      <description>Apple's Siri overhaul for iOS 27 took longer than expected due to extensive improvements. Mike Rockwell explains the challenges faced.</description>
-      <link>https://9to5mac.com/2026/06/15/apple-explains-why-siris-major-ios-27-overhaul-took-so-long/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/15/apple-explains-why-siris-major-ios-27-overhaul-took-so-long/</guid>
-      <pubDate>2026-06-15T19:19:00Z</pubDate>
-      <category>Software</category>
-      <source url="https://9to5mac.com/2026/06/15/apple-explains-why-siris-major-ios-27-overhaul-took-so-long/">9to5Mac</source>
-    </item>
-    <item>
-      <title>Steam Next Fest Overrun by AI Games</title>
-      <description>Steam Next Fest is criticized for being flooded with AI-generated games, disappointing many gamers. The event's charm seems diminished.</description>
-      <link>https://kotaku.com/exploring-steam-next-fest-with-an-ai-blocking-extension-is-very-depressing-2000706695</link>
-      <guid isPermaLink="true">https://kotaku.com/exploring-steam-next-fest-with-an-ai-blocking-extension-is-very-depressing-2000706695</guid>
-      <pubDate>2026-06-15T19:14:00Z</pubDate>
+      <title>Treyarch Studio Head Retires After 22 Years</title>
+      <description>Mark Gordon, Treyarch's studio head since 2016, is retiring after 22 years with the studio. His departure marks a significant change for the Call of Duty franchise.</description>
+      <link>https://kotaku.com/call-of-duty-studio-treyarch-loses-studio-head-mark-gordon-2000706712</link>
+      <guid isPermaLink="true">https://kotaku.com/call-of-duty-studio-treyarch-loses-studio-head-mark-gordon-2000706712</guid>
+      <pubDate>2026-06-15T19:40:10Z</pubDate>
       <category>Gaming</category>
-      <source url="https://kotaku.com/exploring-steam-next-fest-with-an-ai-blocking-extension-is-very-depressing-2000706695">Kotaku</source>
+      <source url="https://kotaku.com/call-of-duty-studio-treyarch-loses-studio-head-mark-gordon-2000706712">Kotaku</source>
     </item>
     <item>
-      <title>Google Chrome Tightens Ad Blocker Policies</title>
-      <description>Google Chrome will remove loopholes allowing older ad blockers to function, impacting user experience. Updates are expected this summer.</description>
-      <link>https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes</guid>
-      <pubDate>2026-06-15T18:06:18Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes">The Verge</source>
-    </item>
-    <item>
-      <title>AMD Removes Memory Crypto from CPUs</title>
-      <description>AMD's decision to strip memory crypto from consumer CPUs has sparked user backlash, suggesting a covert strategy.</description>
-      <link>https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/</link>
-      <guid isPermaLink="true">https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/</guid>
-      <pubDate>2026-06-15T17:55:46Z</pubDate>
+      <title>FBI Warns of Kali365 Security Threat</title>
+      <description>The FBI alerts users of Teams, Outlook, and OneDrive about Kali365, a hacking platform bypassing multifactor authentication. Users are urged to stay vigilant.</description>
+      <link>https://www.newsnationnow.com/business/tech/kali365-security-warning-teams-outlook-onedrive/</link>
+      <guid isPermaLink="true">https://www.newsnationnow.com/business/tech/kali365-security-warning-teams-outlook-onedrive/</guid>
+      <pubDate>2026-06-15T18:38:40Z</pubDate>
       <category>Security</category>
-      <source url="https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/">Ars Technica</source>
+      <source url="https://www.newsnationnow.com/business/tech/kali365-security-warning-teams-outlook-onedrive/">NewsNation</source>
     </item>
     <item>
-      <title>No iPhone 18 Release This Year</title>
-      <description>Apple's iPhone 18 will not launch in 2026, with a new release expected in early 2027, according to supply chain sources.</description>
-      <link>https://www.macrumors.com/2026/06/15/no-iphone-18-this-year-apple-supplier-confirms/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/06/15/no-iphone-18-this-year-apple-supplier-confirms/</guid>
-      <pubDate>2026-06-15T17:51:57Z</pubDate>
+      <title>Final Fantasy Resonance Inspired by Classic Titles</title>
+      <description>Final Fantasy Resonance's creators discuss its inspiration from Final Fantasy V and VI, adapting Brave Exvius for a new RPG experience. The game promises a nostalgic return to turn-based combat.</description>
+      <link>https://www.ign.com/articles/final-fantasy-resonance-interview-the-first-hd-2d-ff-was-conceptualized-6-7-years-ago-and-inspired-by-final-fantasy-v</link>
+      <guid isPermaLink="true">https://www.ign.com/articles/final-fantasy-resonance-interview-the-first-hd-2d-ff-was-conceptualized-6-7-years-ago-and-inspired-by-final-fantasy-v</guid>
+      <pubDate>2026-06-15T18:16:04Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.ign.com/articles/final-fantasy-resonance-interview-the-first-hd-2d-ff-was-conceptualized-6-7-years-ago-and-inspired-by-final-fantasy-v">IGN</source>
+    </item>
+    <item>
+      <title>Xbox Shutters South of Midnight Studio</title>
+      <description>Reports indicate Xbox has closed the South of Midnight studio, adding to concerns about several first-party developers facing closure. Double Fine and Ninja Theory are also mentioned.</description>
+      <link>https://www.pushsquare.com/news/2026/06/several-xbox-studios-at-risk-of-closure-in-talks-to-become-independent</link>
+      <guid isPermaLink="true">https://www.pushsquare.com/news/2026/06/several-xbox-studios-at-risk-of-closure-in-talks-to-become-independent</guid>
+      <pubDate>2026-06-15T17:30:00Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.pushsquare.com/news/2026/06/several-xbox-studios-at-risk-of-closure-in-talks-to-become-independent">Push Square</source>
+    </item>
+    <item>
+      <title>Civilization 7 Update Addresses Player Feedback</title>
+      <description>Civilization 7's lengthy revitalization continues with a major update addressing player concerns after its troubled launch. New features are set to enhance gameplay.</description>
+      <link>https://www.eurogamer.net/civilization-7-new-update-hotseat-multiplayer</link>
+      <guid isPermaLink="true">https://www.eurogamer.net/civilization-7-new-update-hotseat-multiplayer</guid>
+      <pubDate>2026-06-15T17:10:29Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.eurogamer.net/civilization-7-new-update-hotseat-multiplayer">Eurogamer</source>
+    </item>
+    <item>
+      <title>Steam Next Fest Features New PC VR Demos</title>
+      <description>Steam Next Fest kicks off today, showcasing a variety of new PC VR demos available for players. The event runs until June 22.</description>
+      <link>https://www.uploadvr.com/steam-next-fest-june-2026-here-are-the-featured-pc-vr-demos/</link>
+      <guid isPermaLink="true">https://www.uploadvr.com/steam-next-fest-june-2026-here-are-the-featured-pc-vr-demos/</guid>
+      <pubDate>2026-06-15T17:09:07Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.uploadvr.com/steam-next-fest-june-2026-here-are-the-featured-pc-vr-demos/">UploadVR</source>
+    </item>
+    <item>
+      <title>Intel Mac Era Comes to a Close</title>
+      <description>Reflecting on 20 years of Intel Macs, Apple’s transition marks the end of an era. The shift highlights the evolution of Apple's hardware strategy.</description>
+      <link>https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/</link>
+      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/</guid>
+      <pubDate>2026-06-15T16:32:14Z</pubDate>
       <category>Business</category>
-      <source url="https://www.macrumors.com/2026/06/15/no-iphone-18-this-year-apple-supplier-confirms/">MacRumors</source>
+      <source url="https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/">Ars Technica</source>
     </item>
     <item>
-      <title>MTG Arena Updates Announced</title>
-      <description>Magic: The Gathering Arena announces new events and updates, including an early-access event for Marvel Super Heroes.</description>
-      <link>https://magic.wizards.com/en/news/mtg-arena/announcements-june-15-2026</link>
-      <guid isPermaLink="true">https://magic.wizards.com/en/news/mtg-arena/announcements-june-15-2026</guid>
-      <pubDate>2026-06-15T17:12:44Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://magic.wizards.com/en/news/mtg-arena/announcements-june-15-2026">Wizards.com</source>
-    </item>
-    <item>
-      <title>Vikings Used Islamic Coins for Pennies</title>
-      <description>A study reveals Vikings melted Islamic silver coins to create their early pennies, highlighting cultural exchanges.</description>
-      <link>https://www.livescience.com/archaeology/vikings/melted-in-a-pot-somewhere-vikings-used-islamic-silver-coins-to-make-their-early-pennies-study-finds</link>
-      <guid isPermaLink="true">https://www.livescience.com/archaeology/vikings/melted-in-a-pot-somewhere-vikings-used-islamic-silver-coins-to-make-their-early-pennies-study-finds</guid>
-      <pubDate>2026-06-15T17:07:07Z</pubDate>
-      <category>Geopolitics</category>
-      <source url="https://www.livescience.com/archaeology/vikings/melted-in-a-pot-somewhere-vikings-used-islamic-silver-coins-to-make-their-early-pennies-study-finds">Live Science</source>
-    </item>
-    <item>
-      <title>Assassin's Creed Shadows Update Released</title>
-      <description>The 1.1.11 update for Assassin's Creed Shadows introduces a new story quest and improvements for Nintendo Switch 2.</description>
-      <link>https://nintendoeverything.com/assassins-creed-shadows-1-1-11-update-announced-patch-notes-new-story-quest-nintendo-switch-2-handheld-gpu-improvements-more/</link>
-      <guid isPermaLink="true">https://nintendoeverything.com/assassins-creed-shadows-1-1-11-update-announced-patch-notes-new-story-quest-nintendo-switch-2-handheld-gpu-improvements-more/</guid>
-      <pubDate>2026-06-15T16:20:21Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://nintendoeverything.com/assassins-creed-shadows-1-1-11-update-announced-patch-notes-new-story-quest-nintendo-switch-2-handheld-gpu-improvements-more/">Nintendoeverything.com</source>
-    </item>
-    <item>
-      <title>SiN Remaster Gameplay Trailer Released</title>
-      <description>Nightdive's remaster of SiN is back with a gameplay trailer and a Steam demo, reviving interest in the classic FPS.</description>
-      <link>https://www.eurogamer.net/sin-reloaded-gameplay-trailer-steam-demo</link>
-      <guid isPermaLink="true">https://www.eurogamer.net/sin-reloaded-gameplay-trailer-steam-demo</guid>
-      <pubDate>2026-06-15T16:10:05Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.eurogamer.net/sin-reloaded-gameplay-trailer-steam-demo">Eurogamer.net</source>
-    </item>
-    <item>
-      <title>Apple Watch Ultra Won't Get Updates</title>
-      <description>Apple's first Watch Ultra will not receive the upcoming watchOS 27 update, leaving many features unsupported.</description>
-      <link>https://gizmodo.com/apple-is-leaving-its-first-apple-watch-ultra-in-the-dust-2000771952</link>
-      <guid isPermaLink="true">https://gizmodo.com/apple-is-leaving-its-first-apple-watch-ultra-in-the-dust-2000771952</guid>
-      <pubDate>2026-06-15T16:07:38Z</pubDate>
+      <title>Galaxy Z Fold 8 Features Stronger Display</title>
+      <description>The Galaxy Z Fold 8 'Wide' will reportedly have a stronger inner display than the 'Ultra', thanks to improved glass technology. This enhances durability and performance.</description>
+      <link>http://9to5google.com/2026/06/15/galaxy-z-fold-8-wide-reportedly-has-a-stronger-inner-display-than-the-ultra/</link>
+      <guid isPermaLink="true">http://9to5google.com/2026/06/15/galaxy-z-fold-8-wide-reportedly-has-a-stronger-inner-display-than-the-ultra/</guid>
+      <pubDate>2026-06-15T14:25:00Z</pubDate>
       <category>Hardware</category>
-      <source url="https://gizmodo.com/apple-is-leaving-its-first-apple-watch-ultra-in-the-dust-2000771952">Gizmodo.com</source>
+      <source url="http://9to5google.com/2026/06/15/galaxy-z-fold-8-wide-reportedly-has-a-stronger-inner-display-than-the-ultra/">9to5Google</source>
     </item>
     <item>
-      <title>Mistfall Hunter Open Beta Now Live</title>
-      <description>The free open beta for Mistfall Hunter is now available on PS5, offering a gothic action RPG experience for players.</description>
-      <link>https://www.pushsquare.com/news/2026/06/if-youre-itching-for-a-gothic-action-rpg-mistfall-hunters-free-open-beta-is-now-live-on-ps5</link>
-      <guid isPermaLink="true">https://www.pushsquare.com/news/2026/06/if-youre-itching-for-a-gothic-action-rpg-mistfall-hunters-free-open-beta-is-now-live-on-ps5</guid>
-      <pubDate>2026-06-15T15:30:00Z</pubDate>
+      <title>Xbox Project Helix May Launch Without Controller</title>
+      <description>Rumors suggest Xbox Project Helix could launch without a controller as Microsoft aims to cut costs. This could redefine user interaction with the platform.</description>
+      <link>https://mp1st.com/news/rumor-xbox-project-helix-could-launch-without-a-controller</link>
+      <guid isPermaLink="true">https://mp1st.com/news/rumor-xbox-project-helix-could-launch-without-a-controller</guid>
+      <pubDate>2026-06-15T14:22:36Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.pushsquare.com/news/2026/06/if-youre-itching-for-a-gothic-action-rpg-mistfall-hunters-free-open-beta-is-now-live-on-ps5">Push Square</source>
+      <source url="https://mp1st.com/news/rumor-xbox-project-helix-could-launch-without-a-controller">MP1st</source>
     </item>
     <item>
-      <title>Adobe Creative Cloud Updates Released</title>
-      <description>Adobe introduces major updates for Creative Cloud, enhancing tools like Lightroom and Photoshop with AI features.</description>
-      <link>https://9to5mac.com/2026/06/15/adobe-rolls-out-major-creative-cloud-updates-for-lightroom-premiere-photoshop-more/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/15/adobe-rolls-out-major-creative-cloud-updates-for-lightroom-premiere-photoshop-more/</guid>
-      <pubDate>2026-06-15T15:00:00Z</pubDate>
-      <category>Software</category>
-      <source url="https://9to5mac.com/2026/06/15/adobe-rolls-out-major-creative-cloud-updates-for-lightroom-premiere-photoshop-more/">9to5Mac</source>
-    </item>
-    <item>
-      <title>AMD Discusses FSR 4.1 Upscaling</title>
-      <description>AMD promises quality parity between RDNA 3 and RDNA 4 with its FSR 4.1 upscaling technology, discussed at Computex 2026.</description>
-      <link>https://www.techpowerup.com/349972/amd-explains-fsr-4-1-upscaling-for-rdna-3-promises-quality-parity-with-rdna-4</link>
-      <guid isPermaLink="true">https://www.techpowerup.com/349972/amd-explains-fsr-4-1-upscaling-for-rdna-3-promises-quality-parity-with-rdna-4</guid>
-      <pubDate>2026-06-15T14:55:02Z</pubDate>
+      <title>Galaxy S25 Update Introduces Notification Highlights</title>
+      <description>Samsung's Galaxy S25 series receives a software update, adding Notification Highlights alongside the June security patch. The update expands to more regions soon.</description>
+      <link>https://www.sammobile.com/news/galaxy-s25-gets-notification-highlights-new-update/</link>
+      <guid isPermaLink="true">https://www.sammobile.com/news/galaxy-s25-gets-notification-highlights-new-update/</guid>
+      <pubDate>2026-06-15T13:59:00Z</pubDate>
       <category>Hardware</category>
-      <source url="https://www.techpowerup.com/349972/amd-explains-fsr-4-1-upscaling-for-rdna-3-promises-quality-parity-with-rdna-4">Techpowerup.com</source>
+      <source url="https://www.sammobile.com/news/galaxy-s25-gets-notification-highlights-new-update/">SamMobile</source>
     </item>
     <item>
-      <title>Xbox May Introduce Buy Now, Pay Later</title>
-      <description>Xbox's website code hints at potential Buy Now, Pay Later options via PayPal and Klarna, enhancing payment flexibility.</description>
-      <link>https://kotaku.com/xbox-series-x-klarna-paypal-pay-later-financing-microsoft-2000706625</link>
-      <guid isPermaLink="true">https://kotaku.com/xbox-series-x-klarna-paypal-pay-later-financing-microsoft-2000706625</guid>
-      <pubDate>2026-06-15T14:50:17Z</pubDate>
+      <title>Destiny 2 Sees Surge in Player Engagement</title>
+      <description>Destiny 2's latest update has significantly boosted player counts and earnings, marking its healthiest period in years. The game continues to evolve positively.</description>
+      <link>https://www.forbes.com/sites/paultassi/2026/06/15/destiny-2-is-now-the-healthiest-its-been-in-years/</link>
+      <guid isPermaLink="true">https://www.forbes.com/sites/paultassi/2026/06/15/destiny-2-is-now-the-healthiest-its-been-in-years/</guid>
+      <pubDate>2026-06-15T13:36:02Z</pubDate>
       <category>Gaming</category>
-      <source url="https://kotaku.com/xbox-series-x-klarna-paypal-pay-later-financing-microsoft-2000706625">Kotaku</source>
+      <source url="https://www.forbes.com/sites/paultassi/2026/06/15/destiny-2-is-now-the-healthiest-its-been-in-years/">Forbes</source>
+    </item>
+    <item>
+      <title>Fable Developer Discusses Game Delay</title>
+      <description>The Fable developer shares insights on the pros and cons of delaying the game to February 2027. Initial disappointment was expressed but potential benefits are highlighted.</description>
+      <link>https://www.purexbox.com/news/2026/06/fable-developer-highlights-the-pros-and-cons-of-delaying-to-february-2027</link>
+      <guid isPermaLink="true">https://www.purexbox.com/news/2026/06/fable-developer-highlights-the-pros-and-cons-of-delaying-to-february-2027</guid>
+      <pubDate>2026-06-15T13:34:09Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.purexbox.com/news/2026/06/fable-developer-highlights-the-pros-and-cons-of-delaying-to-february-2027">Pure Xbox</source>
+    </item>
+    <item>
+      <title>Caltech Launches Massive Deep Space Telescope</title>
+      <description>Caltech unveils plans for the Deep Synoptic Array, a groundbreaking radio telescope that will be 100 times faster than existing models. This project aims to revolutionize deep space exploration.</description>
+      <link>https://gizmodo.com/the-mother-of-all-deep-space-radio-telescopes-is-going-up-in-the-nevada-desert-2000771731</link>
+      <guid isPermaLink="true">https://gizmodo.com/the-mother-of-all-deep-space-radio-telescopes-is-going-up-in-the-nevada-desert-2000771731</guid>
+      <pubDate>2026-06-15T13:25:40Z</pubDate>
+      <category>Science</category>
+      <source url="https://gizmodo.com/the-mother-of-all-deep-space-radio-telescopes-is-going-up-in-the-nevada-desert-2000771731">Gizmodo</source>
+    </item>
+    <item>
+      <title>Rare Ford Capri Emerges After 30 Years</title>
+      <description>A rare Ford Capri, stored since the 1990s, is finally revealed after three decades. This model is one of only 1,038 produced, making it a unique find.</description>
+      <link>https://www.autoevolution.com/news/rare-ford-garaged-since-the-1990s-is-finally-out-in-broad-daylight-after-30-years-271525.html</link>
+      <guid isPermaLink="true">https://www.autoevolution.com/news/rare-ford-garaged-since-the-1990s-is-finally-out-in-broad-daylight-after-30-years-271525.html</guid>
+      <pubDate>2026-06-15T13:21:35Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.autoevolution.com/news/rare-ford-garaged-since-the-1990s-is-finally-out-in-broad-daylight-after-30-years-271525.html">autoevolution</source>
     </item>
   </channel>
 </rss>

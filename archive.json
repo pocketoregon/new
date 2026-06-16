@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-16T22:52:41.863102+00:00",
+      "fetched_at": "2026-06-16T22:52:41.863102+00:00",
+      "label": "Jun 16, 2026 — 10:53 PM UTC",
+      "articles": [
+        {
+          "title": "Xbox Shuts Down Ninja Theory Studio",
+          "description": "Xbox is closing Ninja Theory, the studio behind Hellblade. Staff were informed during a call on Monday.",
+          "category": "Gaming",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/hellblade-ii-senuas-sacrifice.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+          "published_at": "2026-06-15T21:13:35Z",
+          "key_points": [
+            "Ninja Theory closure confirmed",
+            "Staff informed via call",
+            "Xbox studios at risk"
+          ],
+          "impact": "This closure impacts Xbox's game development landscape.",
+          "id": "8842c6f99adcbc85814252edb1e0b84c"
+        },
+        {
+          "title": "Treyarch Studio Head Retires After 22 Years",
+          "description": "Mark Gordon, Treyarch's studio head since 2016, is retiring after 22 years with the studio. His departure marks a significant change for the Call of Duty franchise.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/call-of-duty-studio-treyarch-loses-studio-head-mark-gordon-2000706712",
+          "image": "https://kotaku.com/app/uploads/2026/04/Call-of-Duty-Black-Ops-3-official-artwork-Activision-1200x675.jpg",
+          "published_at": "2026-06-15T19:40:10Z",
+          "key_points": [
+            "Mark Gordon retires",
+            "22 years at Treyarch",
+            "Significant franchise change"
+          ],
+          "impact": "Treyarch faces leadership transition amid franchise evolution.",
+          "id": "b2efda53afc9ca69a69b86a77e424aaa"
+        },
+        {
+          "title": "FBI Warns of Kali365 Security Threat",
+          "description": "The FBI alerts users of Teams, Outlook, and OneDrive about Kali365, a hacking platform bypassing multifactor authentication. Users are urged to stay vigilant.",
+          "category": "Security",
+          "source": "NewsNation",
+          "url": "https://www.newsnationnow.com/business/tech/kali365-security-warning-teams-outlook-onedrive/",
+          "image": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/06/microsoft_beijing_05242023_AP23144795455950-1.jpg?w=1280",
+          "published_at": "2026-06-15T18:38:40Z",
+          "key_points": [
+            "Kali365 targets Microsoft 365",
+            "Bypasses multifactor authentication",
+            "Users urged to stay vigilant"
+          ],
+          "impact": "Increased security awareness is crucial for users.",
+          "id": "dbd17f4874dcd70d515c0c616ceb7690"
+        },
+        {
+          "title": "Final Fantasy Resonance Inspired by Classic Titles",
+          "description": "Final Fantasy Resonance's creators discuss its inspiration from Final Fantasy V and VI, adapting Brave Exvius for a new RPG experience. The game promises a nostalgic return to turn-based combat.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/final-fantasy-resonance-interview-the-first-hd-2d-ff-was-conceptualized-6-7-years-ago-and-inspired-by-final-fantasy-v",
+          "image": "https://assets-prd.ignimgs.com/2026/06/10/ffthumb-1781113181781.png?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-15T18:16:04Z",
+          "key_points": [
+            "Inspired by FF V and VI",
+            "Adapts Brave Exvius story",
+            "Returns to turn-based combat"
+          ],
+          "impact": "Fans anticipate a nostalgic RPG experience.",
+          "id": "8e63034536940b20a3715b3763194175"
+        },
+        {
+          "title": "Xbox Shutters South of Midnight Studio",
+          "description": "Reports indicate Xbox has closed the South of Midnight studio, adding to concerns about several first-party developers facing closure. Double Fine and Ninja Theory are also mentioned.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/several-xbox-studios-at-risk-of-closure-in-talks-to-become-independent",
+          "image": "https://images.pushsquare.com/0232958e5b409/large.jpg",
+          "published_at": "2026-06-15T17:30:00Z",
+          "key_points": [
+            "South of Midnight studio closed",
+            "Concerns over Xbox studios",
+            "Double Fine and Ninja Theory mentioned"
+          ],
+          "impact": "The closure raises questions about Xbox's future.",
+          "id": "b3faa9dfe920fe2cfab172a338c28c94"
+        },
+        {
+          "title": "Civilization 7 Update Addresses Player Feedback",
+          "description": "Civilization 7's lengthy revitalization continues with a major update addressing player concerns after its troubled launch. New features are set to enhance gameplay.",
+          "category": "Gaming",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/civilization-7-new-update-hotseat-multiplayer",
+          "image": "https://assetsio.gnwcdn.com/civ-7-machiavelli.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-15T17:10:29Z",
+          "key_points": [
+            "Major update arrives next week",
+            "Addresses player concerns",
+            "Revitalization continues"
+          ],
+          "impact": "Players can expect improved gameplay experiences.",
+          "id": "7f6f4eb06a473094f7716422af9dd76e"
+        },
+        {
+          "title": "Steam Next Fest Features New PC VR Demos",
+          "description": "Steam Next Fest kicks off today, showcasing a variety of new PC VR demos available for players. The event runs until June 22.",
+          "category": "Gaming",
+          "source": "UploadVR",
+          "url": "https://www.uploadvr.com/steam-next-fest-june-2026-here-are-the-featured-pc-vr-demos/",
+          "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/06/english.jpg",
+          "published_at": "2026-06-15T17:09:07Z",
+          "key_points": [
+            "Steam Next Fest starts today",
+            "New PC VR demos available",
+            "Event runs until June 22"
+          ],
+          "impact": "Players can explore exciting new VR experiences.",
+          "id": "c7c35146fbc9589d7ec6e981cf76c738"
+        },
+        {
+          "title": "Intel Mac Era Comes to a Close",
+          "description": "Reflecting on 20 years of Intel Macs, Apple’s transition marks the end of an era. The shift highlights the evolution of Apple's hardware strategy.",
+          "category": "Business",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Steve-Jobs-announces-Intel-processor-GettyImages-53028118-1152x648-1781292898.jpg",
+          "published_at": "2026-06-15T16:32:14Z",
+          "key_points": [
+            "Intel Mac era ends",
+            "Apple's hardware strategy evolves",
+            "Reflecting on 20 years"
+          ],
+          "impact": "Apple's transition signifies major hardware shifts.",
+          "id": "572172e39a4c2c0b92953013bddd846d"
+        },
+        {
+          "title": "Galaxy Z Fold 8 Features Stronger Display",
+          "description": "The Galaxy Z Fold 8 'Wide' will reportedly have a stronger inner display than the 'Ultra', thanks to improved glass technology. This enhances durability and performance.",
+          "category": "Hardware",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/15/galaxy-z-fold-8-wide-reportedly-has-a-stronger-inner-display-than-the-ultra/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/galaxy-z-fold-8-wide-leak-renders-onl-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-15T14:25:00Z",
+          "key_points": [
+            "Z Fold 8 has stronger display",
+            "Improved glass technology",
+            "Enhances durability and performance"
+          ],
+          "impact": "Samsung's innovation boosts device resilience.",
+          "id": "e4fa26c311bb439bd6773a41415ef06b"
+        },
+        {
+          "title": "Xbox Project Helix May Launch Without Controller",
+          "description": "Rumors suggest Xbox Project Helix could launch without a controller as Microsoft aims to cut costs. This could redefine user interaction with the platform.",
+          "category": "Gaming",
+          "source": "MP1st",
+          "url": "https://mp1st.com/news/rumor-xbox-project-helix-could-launch-without-a-controller",
+          "image": "https://mp1st.com/wp-content/uploads/2026/06/Project-Helix.jpg",
+          "published_at": "2026-06-15T14:22:36Z",
+          "key_points": [
+            "Project Helix may lack controller",
+            "Microsoft aims to reduce costs",
+            "User interaction could change"
+          ],
+          "impact": "This shift could redefine gaming experiences.",
+          "id": "b75d13b9abef2f825baa7bc992ad9f62"
+        },
+        {
+          "title": "Galaxy S25 Update Introduces Notification Highlights",
+          "description": "Samsung's Galaxy S25 series receives a software update, adding Notification Highlights alongside the June security patch. The update expands to more regions soon.",
+          "category": "Hardware",
+          "source": "SamMobile",
+          "url": "https://www.sammobile.com/news/galaxy-s25-gets-notification-highlights-new-update/",
+          "image": "https://www.sammobile.com/wp-content/uploads/2025/08/Galaxy-S25-Plus-2-1200x674.jpg",
+          "published_at": "2026-06-15T13:59:00Z",
+          "key_points": [
+            "Galaxy S25 update released",
+            "Introduces Notification Highlights",
+            "Expanding to more regions"
+          ],
+          "impact": "Users gain enhanced notification management.",
+          "id": "a86b879022d7319c83b7670e91f8a66a"
+        },
+        {
+          "title": "Destiny 2 Sees Surge in Player Engagement",
+          "description": "Destiny 2's latest update has significantly boosted player counts and earnings, marking its healthiest period in years. The game continues to evolve positively.",
+          "category": "Gaming",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/06/15/destiny-2-is-now-the-healthiest-its-been-in-years/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a2ffe396d9e596d1199add7/0x0.jpg?format=jpg&crop=2562,1440,x437,y0,safe&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-15T13:36:02Z",
+          "key_points": [
+            "Destiny 2 update boosts engagement",
+            "Healthiest player count in years",
+            "Earnings rise significantly"
+          ],
+          "impact": "The game is thriving with renewed interest.",
+          "id": "584796fb9a9d452798bb9aca7cf2d4a5"
+        },
+        {
+          "title": "Fable Developer Discusses Game Delay",
+          "description": "The Fable developer shares insights on the pros and cons of delaying the game to February 2027. Initial disappointment was expressed but potential benefits are highlighted.",
+          "category": "Gaming",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/06/fable-developer-highlights-the-pros-and-cons-of-delaying-to-february-2027",
+          "image": "https://images.purexbox.com/1e4a073de82fe/large.jpg",
+          "published_at": "2026-06-15T13:34:09Z",
+          "key_points": [
+            "Fable delayed to February 2027",
+            "Developer discusses pros and cons",
+            "Initial disappointment expressed"
+          ],
+          "impact": "Delay may enhance game quality and experience.",
+          "id": "c63d545f162764212b0307f06d370033"
+        },
+        {
+          "title": "Caltech Launches Massive Deep Space Telescope",
+          "description": "Caltech unveils plans for the Deep Synoptic Array, a groundbreaking radio telescope that will be 100 times faster than existing models. This project aims to revolutionize deep space exploration.",
+          "category": "Science",
+          "source": "Gizmodo",
+          "url": "https://gizmodo.com/the-mother-of-all-deep-space-radio-telescopes-is-going-up-in-the-nevada-desert-2000771731",
+          "image": "https://gizmodo.com/app/uploads/2026/06/Caltech-DSA-Test-Owens-Valley-1200x675.jpg",
+          "published_at": "2026-06-15T13:25:40Z",
+          "key_points": [
+            "Caltech's new radio telescope",
+            "100 times faster than predecessors",
+            "Revolutionizes deep space exploration"
+          ],
+          "impact": "This telescope could transform astronomical research.",
+          "id": "69136e6abb224e1b7bfd01cdf402eb1a"
+        },
+        {
+          "title": "Rare Ford Capri Emerges After 30 Years",
+          "description": "A rare Ford Capri, stored since the 1990s, is finally revealed after three decades. This model is one of only 1,038 produced, making it a unique find.",
+          "category": "Business",
+          "source": "autoevolution",
+          "url": "https://www.autoevolution.com/news/rare-ford-garaged-since-the-1990s-is-finally-out-in-broad-daylight-after-30-years-271525.html",
+          "image": "https://s1.cdn.autoevolution.com/images/news/rare-ford-garaged-since-the-1990s-is-finally-out-in-broad-daylight-after-30-years-271525_1.jpg",
+          "published_at": "2026-06-15T13:21:35Z",
+          "key_points": [
+            "Rare Ford Capri revealed",
+            "Stored since the 1990s",
+            "Only 1,038 units produced"
+          ],
+          "impact": "This find excites classic car enthusiasts.",
+          "id": "0918b52c398dc321df6b4ee0ac9d3ff4"
+        }
+      ]
+    },
+    {
       "id": "2026-06-16T20:49:31.607588+00:00",
       "fetched_at": "2026-06-16T20:49:31.607588+00:00",
       "label": "Jun 16, 2026 — 08:50 PM UTC",
@@ -6376,253 +6623,6 @@
           ],
           "impact": "This fine highlights consumer protection enforcement.",
           "id": "b61f57e20045cc2a6a332fed3d76dc96"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-10T20:28:46.079828+00:00",
-      "fetched_at": "2026-06-10T20:28:46.079828+00:00",
-      "label": "Jun 10, 2026 — 08:29 PM UTC",
-      "articles": [
-        {
-          "title": "Marvel Rivals: Team-based PVP Shooter Launches",
-          "description": "Marvel Rivals is now available for free, featuring cosmic battles and revamped gameplay. Join the fight and ignite the battle today!",
-          "category": "Gaming",
-          "source": "Marvelrivals.com",
-          "url": "https://www.marvelrivals.com/balancepost/20260609/41667_1303507.html",
-          "image": "https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg",
-          "published_at": "2026-06-09T18:47:27Z",
-          "key_points": [
-            "Free to play now",
-            "Cosmic battles await",
-            "Revamped gameplay mechanics"
-          ],
-          "impact": "Marvel Rivals aims to attract competitive gamers.",
-          "id": "d81cf2afe2974b0d6520e4b92a8b56d5"
-        },
-        {
-          "title": "WWDC 2026: Siri AI and iOS 27 Announced",
-          "description": "Apple unveiled enhancements to Siri AI and iOS 27 at WWDC 2026, focusing on improved user experience and developer tools. Exciting updates are on the horizon!",
-          "category": "Software",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-ai-use-cases.png?w=1186",
-          "published_at": "2026-06-09T18:04:24Z",
-          "key_points": [
-            "Siri AI improvements",
-            "iOS 27 features revealed",
-            "Developer tools showcased"
-          ],
-          "impact": "Apple continues to enhance its software ecosystem.",
-          "id": "b841cb395af67c43e9e3d068cde55d51"
-        },
-        {
-          "title": "Xenoblade Genesis: New Team Revealed",
-          "description": "Nintendo reveals key team members for Xenoblade Genesis, including director Tetsuya Takashi. Fans eagerly await more details on this upcoming title.",
-          "category": "Gaming",
-          "source": "Nintendoeverything.com",
-          "url": "https://nintendoeverything.com/xenoblade-genesis-reveals-director-composers-character-designers/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Xenoblade-Genesis-director-composers-character-designers.jpg",
-          "published_at": "2026-06-09T17:49:57Z",
-          "key_points": [
-            "Director Tetsuya Takashi announced",
-            "Composers and designers revealed",
-            "Fans excited for updates"
-          ],
-          "impact": "Xenoblade Genesis builds anticipation among gamers.",
-          "id": "88529f597f13353ea5229bc6db143e78"
-        },
-        {
-          "title": "Apple vs. EU: Siri AI Delays Explained",
-          "description": "Apple cites the Digital Markets Act as the reason for Siri AI delays in Europe, while the EU insists there are no barriers to launch. Tensions rise.",
-          "category": "Geopolitics",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/947051/apple-europe-dma-siri-ai",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STK450_EU_G.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-          "published_at": "2026-06-09T17:13:14Z",
-          "key_points": [
-            "Apple blames DMA",
-            "EU denies launch barriers",
-            "Siri AI delays continue"
-          ],
-          "impact": "Regulatory issues hinder Apple's AI rollout.",
-          "id": "6a35945583f85644456c706d7ff1b2a5"
-        },
-        {
-          "title": "iOS 27: 12 New Features for iPhone",
-          "description": "Apple highlights 12 new features in iOS 27, including a smarter Siri. Users can expect significant enhancements to their iPhones.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/09/apple-highlights-ios-27-features/",
-          "image": "https://images.macrumors.com/t/n8yoN_htXb7huLx8h8ldw1v1qEE=/2186x/article-new/2026/06/Apple-Says-iOS-27-Adds-These-12-New-Features-to-Your-iPhone-Feature.jpg",
-          "published_at": "2026-06-09T16:47:47Z",
-          "key_points": [
-            "Smarter Siri introduced",
-            "12 new features detailed",
-            "Enhanced user experience"
-          ],
-          "impact": "iOS 27 aims to improve user satisfaction.",
-          "id": "1f2f48811151603d7253c90c3d1511fd"
-        },
-        {
-          "title": "Nomad Launches Transparent Qi2 Charger",
-          "description": "Nomad's Stand One charger now features a transparent design, showcasing the Qi2 wireless charging coil. A stylish upgrade for tech enthusiasts!",
-          "category": "Hardware",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/06/09/androids-best-qi2-wireless-charger-got-a-see-through-version/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Nomad-Stand-One-Stellar-Orange-9.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-09T16:00:00Z",
-          "key_points": [
-            "Transparent design launched",
-            "Showcases Qi2 technology",
-            "Stylish upgrade available"
-          ],
-          "impact": "Nomad's charger appeals to design-conscious consumers.",
-          "id": "fe82573c4ae2ded4fe0bd1bde82a9098"
-        },
-        {
-          "title": "Gemini 3.5 Live Translate Launches",
-          "description": "Google introduces Gemini 3.5 Live Translate, enhancing speech-to-speech translation capabilities. It supports over 70 languages for seamless communication.",
-          "category": "Software",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/06/09/gemini-3-5-live-translate-meet/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Gemini-3.5-Live-Translate.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-09T15:43:00Z",
-          "key_points": [
-            "Supports 70+ languages",
-            "Enhances communication",
-            "Live speech translation introduced"
-          ],
-          "impact": "Gemini 3.5 improves global communication efficiency.",
-          "id": "d2378a129b5d72e875227b982e79e6e6"
-        },
-        {
-          "title": "Zelda: Ocarina of Time Remake Confirmed",
-          "description": "The long-awaited remake of The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 is officially announced for 2026. Fans rejoice!",
-          "category": "Gaming",
-          "source": "Game Informer",
-          "url": "https://gameinformer.com/nintendo-direct/2026/06/09/the-nintendo-switch-2-remake-of-the-legend-of-zelda-ocarina-of-time",
-          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/09/6a88a279/zelda01.jpg.webp",
-          "published_at": "2026-06-09T15:05:51Z",
-          "key_points": [
-            "Ocarina of Time remake confirmed",
-            "Coming to Nintendo Switch 2",
-            "Fans excited for release"
-          ],
-          "impact": "The remake revives nostalgia for gamers.",
-          "id": "02a19513ec6d3eee14704da3d937de4d"
-        },
-        {
-          "title": "Kingdom Hearts IV Trailer Released",
-          "description": "A new trailer for Kingdom Hearts IV showcases Sora's evolution and vibrant visuals. Fans eagerly anticipate the next chapter in the series.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/kingdom-hearts-4-marries-square-enix-fantasy-with-unreal-engine-action-2000704405",
-          "image": "https://kotaku.com/app/uploads/2026/06/Kingdom-Hearts-4-1200x675.jpg",
-          "published_at": "2026-06-09T15:01:20Z",
-          "key_points": [
-            "New trailer unveiled",
-            "Sora's character development",
-            "Fans excited for gameplay"
-          ],
-          "impact": "Kingdom Hearts IV generates buzz among fans.",
-          "id": "e33ac04daa15f9b1fce99f60f8b6f32e"
-        },
-        {
-          "title": "Apple's AI Models Exclude Google's Tech",
-          "description": "Apple clarifies that its new AI models do not incorporate Google's Gemini technology, emphasizing its unique architecture and capabilities.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/09/apples-new-ai-contains-no-gemini/",
-          "image": "https://images.macrumors.com/t/dUIgpIiBn2wAKhWSl0HDOLdc2LU=/1600x/article-new/2026/06/apple-intelligence-architecture.jpg",
-          "published_at": "2026-06-09T13:46:06Z",
-          "key_points": [
-            "No Google tech used",
-            "Unique AI architecture",
-            "Apple's independence emphasized"
-          ],
-          "impact": "Apple asserts its AI development strategy.",
-          "id": "34bf23e4ecbb7bf985600518a948ae0d"
-        },
-        {
-          "title": "DDR5 Prices to Remain High Until 2028",
-          "description": "AMD warns that DDR5 memory prices will stay elevated until 2028 due to high demand from AI applications, pushing users to DDR4.",
-          "category": "Hardware",
-          "source": "Wccftech",
-          "url": "https://wccftech.com/amd-warns-ddr5-prices-wont-return-to-normal-until-2028-as-ai-boom-strangles-consumer-memory-supply/",
-          "image": "https://cdn.wccftech.com/wp-content/uploads/2025/12/Asgard-Thor-DDR5.jpg",
-          "published_at": "2026-06-09T13:12:00Z",
-          "key_points": [
-            "DDR5 prices remain high",
-            "AI demand impacts supply",
-            "Users shifting to DDR4"
-          ],
-          "impact": "High DDR5 prices affect consumer choices.",
-          "id": "86b2fe3ce9832fdd25d8b0fdd7d33764"
-        },
-        {
-          "title": "macOS 27: Liquid Glass UI Changes",
-          "description": "Apple's macOS 27 beta showcases a refined design with reduced Liquid Glass elements, enhancing the overall aesthetic for Mac users.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/946567/apple-macos-27-golden-gate-dev-beta-hands-on",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/060926_MacBook_Neo_macOS_27_Golden_Gate_beta_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-06-09T13:04:39Z",
-          "key_points": [
-            "Refined Liquid Glass design",
-            "Improved aesthetics",
-            "macOS 27 beta available"
-          ],
-          "impact": "macOS 27 aims for a modern look.",
-          "id": "f593f89ffd01f2e91e0f5d78d886219c"
-        },
-        {
-          "title": "iOS 27 Revamps AirPods Settings",
-          "description": "iOS 27 introduces a completely overhauled settings menu for AirPods, improving organization and user experience for Apple’s earbuds.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/09/ios-27-overhauled-airpods-settings-menu/",
-          "image": "https://images.macrumors.com/t/PRt3hOQOcgYP-iOW475qMTax9ks=/2500x/article-new/2026/06/airpods-pro-3-orange.jpeg",
-          "published_at": "2026-06-09T12:45:47Z",
-          "key_points": [
-            "Revamped AirPods settings",
-            "Better organization",
-            "Enhanced user experience"
-          ],
-          "impact": "iOS 27 improves AirPods usability.",
-          "id": "0358e92e6b471109348313eb28864291"
-        },
-        {
-          "title": "Gemini Enhancements for Multitaskers",
-          "description": "Google is testing new features for Gemini to improve multitasking, including a minimize option for the overlay. Exciting updates are on the way!",
-          "category": "Software",
-          "source": "Android Authority",
-          "url": "https://www.androidauthority.com/google-minimize-gemini-overlay-button-3675805/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Gemini-overlay-on-an-Android-tablet-hero-image.jpg",
-          "published_at": "2026-06-09T09:40:50Z",
-          "key_points": [
-            "New multitasking features",
-            "Minimize Gemini overlay",
-            "Testing phase underway"
-          ],
-          "impact": "Gemini aims to enhance user productivity.",
-          "id": "44c6811d625fd6de779bc7683020b6cc"
-        },
-        {
-          "title": "Android Should Adopt iOS 27 Features",
-          "description": "Android Central highlights five innovative features from iOS 27 that Android should consider adopting for improved user experience.",
-          "category": "Software",
-          "source": "Android Central",
-          "url": "https://www.androidcentral.com/apps-software/android-os/9-things-android-should-steal-from-ios-27",
-          "image": "https://cdn.mos.cms.futurecdn.net/xT8aTTunkD6DnrPiLsmhti-2560-80.jpg",
-          "published_at": "2026-06-09T08:08:00Z",
-          "key_points": [
-            "iOS 27 features praised",
-            "Android could improve",
-            "Smart ideas highlighted"
-          ],
-          "impact": "Android could benefit from iOS innovations.",
-          "id": "dcbc3f9c43fa534df8e0d5d16349f5e4"
         }
       ]
     }

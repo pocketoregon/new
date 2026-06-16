@@ -1,247 +1,247 @@
 {
   "date": "2026-06-16",
-  "generated_at": "2026-06-16T20:49:31.607588+00:00",
+  "generated_at": "2026-06-16T22:52:41.863102+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Xbox Studios Face Potential Closures",
-      "description": "Microsoft's Xbox studios, including Compulsion Games, may spin off to avoid closures. Negotiations are ongoing for independence.",
+      "title": "Xbox Shuts Down Ninja Theory Studio",
+      "description": "Xbox is closing Ninja Theory, the studio behind Hellblade. Staff were informed during a call on Monday.",
       "category": "Gaming",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-15/studios-in-microsoft-s-xbox-division-brace-for-closures",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieKu6AwmmgjQ/v0/1200x799.jpg",
-      "published_at": "2026-06-15T20:15:04Z",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/hellblade-ii-senuas-sacrifice.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "published_at": "2026-06-15T21:13:35Z",
       "key_points": [
-        "Studios negotiating independence",
-        "Potential closures looming",
-        "Compulsion Games involved"
+        "Ninja Theory closure confirmed",
+        "Staff informed via call",
+        "Xbox studios at risk"
       ],
-      "impact": "This could reshape Xbox's development landscape.",
-      "id": "321b274501fd2d5418ddf102bb0e0fd8"
+      "impact": "This closure impacts Xbox's game development landscape.",
+      "id": "8842c6f99adcbc85814252edb1e0b84c"
     },
     {
-      "title": "Apple Reveals Siri Overhaul Delays",
-      "description": "Apple's Siri overhaul for iOS 27 took longer than expected due to extensive improvements. Mike Rockwell explains the challenges faced.",
-      "category": "Software",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/15/apple-explains-why-siris-major-ios-27-overhaul-took-so-long/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-15T19:19:00Z",
-      "key_points": [
-        "Siri upgrade significantly delayed",
-        "Extensive improvements made",
-        "Mike Rockwell provides insights"
-      ],
-      "impact": "Siri's new features aim to enhance user experience.",
-      "id": "68bf2791994637de1bbde5686dba9d24"
-    },
-    {
-      "title": "Steam Next Fest Overrun by AI Games",
-      "description": "Steam Next Fest is criticized for being flooded with AI-generated games, disappointing many gamers. The event's charm seems diminished.",
+      "title": "Treyarch Studio Head Retires After 22 Years",
+      "description": "Mark Gordon, Treyarch's studio head since 2016, is retiring after 22 years with the studio. His departure marks a significant change for the Call of Duty franchise.",
       "category": "Gaming",
       "source": "Kotaku",
-      "url": "https://kotaku.com/exploring-steam-next-fest-with-an-ai-blocking-extension-is-very-depressing-2000706695",
-      "image": "https://kotaku.com/app/uploads/2026/06/steamnexfest-1200x675.jpg",
-      "published_at": "2026-06-15T19:14:00Z",
+      "url": "https://kotaku.com/call-of-duty-studio-treyarch-loses-studio-head-mark-gordon-2000706712",
+      "image": "https://kotaku.com/app/uploads/2026/04/Call-of-Duty-Black-Ops-3-official-artwork-Activision-1200x675.jpg",
+      "published_at": "2026-06-15T19:40:10Z",
       "key_points": [
-        "AI games dominate Steam Next Fest",
-        "Gamers express disappointment",
-        "Event charm diminished"
+        "Mark Gordon retires",
+        "22 years at Treyarch",
+        "Significant franchise change"
       ],
-      "impact": "This trend may alter future gaming events.",
-      "id": "10edc77853184eb68e7ecf7ec64ae91c"
+      "impact": "Treyarch faces leadership transition amid franchise evolution.",
+      "id": "b2efda53afc9ca69a69b86a77e424aaa"
     },
     {
-      "title": "Google Chrome Tightens Ad Blocker Policies",
-      "description": "Google Chrome will remove loopholes allowing older ad blockers to function, impacting user experience. Updates are expected this summer.",
-      "category": "Software",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24418648/STK114_Google_Chrome_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published_at": "2026-06-15T18:06:18Z",
-      "key_points": [
-        "Chrome removes ad blocker loopholes",
-        "Updates coming this summer",
-        "User experience impacted"
-      ],
-      "impact": "This may frustrate users relying on ad blockers.",
-      "id": "9c6a905412b5634b987dafa045a86c02"
-    },
-    {
-      "title": "AMD Removes Memory Crypto from CPUs",
-      "description": "AMD's decision to strip memory crypto from consumer CPUs has sparked user backlash, suggesting a covert strategy.",
+      "title": "FBI Warns of Kali365 Security Threat",
+      "description": "The FBI alerts users of Teams, Outlook, and OneDrive about Kali365, a hacking platform bypassing multifactor authentication. Users are urged to stay vigilant.",
       "category": "Security",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_7105-1152x648-1769617334.jpeg",
-      "published_at": "2026-06-15T17:55:46Z",
+      "source": "NewsNation",
+      "url": "https://www.newsnationnow.com/business/tech/kali365-security-warning-teams-outlook-onedrive/",
+      "image": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/06/microsoft_beijing_05242023_AP23144795455950-1.jpg?w=1280",
+      "published_at": "2026-06-15T18:38:40Z",
       "key_points": [
-        "AMD strips memory crypto",
-        "User backlash ensues",
-        "Covert strategy suspected"
+        "Kali365 targets Microsoft 365",
+        "Bypasses multifactor authentication",
+        "Users urged to stay vigilant"
       ],
-      "impact": "This could affect consumer trust in AMD.",
-      "id": "67377d6541c6a4e9e379c8491ff1966f"
+      "impact": "Increased security awareness is crucial for users.",
+      "id": "dbd17f4874dcd70d515c0c616ceb7690"
     },
     {
-      "title": "No iPhone 18 Release This Year",
-      "description": "Apple's iPhone 18 will not launch in 2026, with a new release expected in early 2027, according to supply chain sources.",
-      "category": "Business",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/15/no-iphone-18-this-year-apple-supplier-confirms/",
-      "image": "https://images.macrumors.com/t/Y1Sp3NsfWCwKbQL0mUSrnViR6tY=/2000x/article-new/2025/09/iphone-17-models.jpg",
-      "published_at": "2026-06-15T17:51:57Z",
-      "key_points": [
-        "iPhone 18 delayed to 2027",
-        "Supply chain confirms rumors",
-        "No release this year"
-      ],
-      "impact": "This may impact Apple's market strategy.",
-      "id": "6f90eca4aa7522de8b0e32c85f24952a"
-    },
-    {
-      "title": "MTG Arena Updates Announced",
-      "description": "Magic: The Gathering Arena announces new events and updates, including an early-access event for Marvel Super Heroes.",
+      "title": "Final Fantasy Resonance Inspired by Classic Titles",
+      "description": "Final Fantasy Resonance's creators discuss its inspiration from Final Fantasy V and VI, adapting Brave Exvius for a new RPG experience. The game promises a nostalgic return to turn-based combat.",
       "category": "Gaming",
-      "source": "Wizards.com",
-      "url": "https://magic.wizards.com/en/news/mtg-arena/announcements-june-15-2026",
-      "image": "https://images.ctfassets.net/s5n2t79q9icq/1qqHUJ9cKYenQosEqhXIPD/968f0dfadd6c9b3841beb7a93058e210/en_articles_archive_magic-digital_mtg-arena-announcements-september-14-2022-meta-image.jpeg",
-      "published_at": "2026-06-15T17:12:44Z",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/final-fantasy-resonance-interview-the-first-hd-2d-ff-was-conceptualized-6-7-years-ago-and-inspired-by-final-fantasy-v",
+      "image": "https://assets-prd.ignimgs.com/2026/06/10/ffthumb-1781113181781.png?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-15T18:16:04Z",
       "key_points": [
-        "New MTG Arena events announced",
-        "Marvel Super Heroes early-access",
-        "Exciting updates for players"
+        "Inspired by FF V and VI",
+        "Adapts Brave Exvius story",
+        "Returns to turn-based combat"
       ],
-      "impact": "This will engage the MTG community further.",
-      "id": "2cf5f8b79e2763700cdee9e49d2d57db"
+      "impact": "Fans anticipate a nostalgic RPG experience.",
+      "id": "8e63034536940b20a3715b3763194175"
     },
     {
-      "title": "Vikings Used Islamic Coins for Pennies",
-      "description": "A study reveals Vikings melted Islamic silver coins to create their early pennies, highlighting cultural exchanges.",
-      "category": "Geopolitics",
-      "source": "Live Science",
-      "url": "https://www.livescience.com/archaeology/vikings/melted-in-a-pot-somewhere-vikings-used-islamic-silver-coins-to-make-their-early-pennies-study-finds",
-      "image": "https://cdn.mos.cms.futurecdn.net/4ixkCueWXjLJhv7fffaU74-1920-80.jpg",
-      "published_at": "2026-06-15T17:07:07Z",
-      "key_points": [
-        "Vikings melted Islamic coins",
-        "Cultural exchange highlighted",
-        "New study findings revealed"
-      ],
-      "impact": "This sheds light on Viking trade practices.",
-      "id": "0f599d55d9c0666dcfdf2b4b2e0e76bb"
-    },
-    {
-      "title": "Assassin's Creed Shadows Update Released",
-      "description": "The 1.1.11 update for Assassin's Creed Shadows introduces a new story quest and improvements for Nintendo Switch 2.",
-      "category": "Gaming",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/assassins-creed-shadows-1-1-11-update-announced-patch-notes-new-story-quest-nintendo-switch-2-handheld-gpu-improvements-more/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Assassins-Creed-Shadows-1.1.11-update.jpg",
-      "published_at": "2026-06-15T16:20:21Z",
-      "key_points": [
-        "New story quest added",
-        "Switch 2 improvements included",
-        "Final content drop announced"
-      ],
-      "impact": "This enhances gameplay for Assassin's Creed fans.",
-      "id": "08ce61e22e4988bb9cad0d47cb926e31"
-    },
-    {
-      "title": "SiN Remaster Gameplay Trailer Released",
-      "description": "Nightdive's remaster of SiN is back with a gameplay trailer and a Steam demo, reviving interest in the classic FPS.",
-      "category": "Gaming",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/sin-reloaded-gameplay-trailer-steam-demo",
-      "image": "https://assetsio.gnwcdn.com/Sin-Reloaded-shootout.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-15T16:10:05Z",
-      "key_points": [
-        "SiN remaster gameplay trailer released",
-        "Steam demo available now",
-        "Classic FPS revival announced"
-      ],
-      "impact": "This could attract nostalgic gamers back.",
-      "id": "fb03bedd31ed44ac534c689e1dd325fd"
-    },
-    {
-      "title": "Apple Watch Ultra Won't Get Updates",
-      "description": "Apple's first Watch Ultra will not receive the upcoming watchOS 27 update, leaving many features unsupported.",
-      "category": "Hardware",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/apple-is-leaving-its-first-apple-watch-ultra-in-the-dust-2000771952",
-      "image": "https://gizmodo.com/app/uploads/2026/06/Apple-Watch-Ultra-2022--1200x675.jpg",
-      "published_at": "2026-06-15T16:07:38Z",
-      "key_points": [
-        "Apple Watch Ultra left behind",
-        "No watchOS 27 update",
-        "Features unsupported"
-      ],
-      "impact": "This may frustrate existing Apple Watch users.",
-      "id": "d70b0e6bcfcea5deefd18f0e623c1684"
-    },
-    {
-      "title": "Mistfall Hunter Open Beta Now Live",
-      "description": "The free open beta for Mistfall Hunter is now available on PS5, offering a gothic action RPG experience for players.",
+      "title": "Xbox Shutters South of Midnight Studio",
+      "description": "Reports indicate Xbox has closed the South of Midnight studio, adding to concerns about several first-party developers facing closure. Double Fine and Ninja Theory are also mentioned.",
       "category": "Gaming",
       "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/06/if-youre-itching-for-a-gothic-action-rpg-mistfall-hunters-free-open-beta-is-now-live-on-ps5",
-      "image": "https://images.pushsquare.com/6eaa2dfa2a110/large.jpg",
-      "published_at": "2026-06-15T15:30:00Z",
+      "url": "https://www.pushsquare.com/news/2026/06/several-xbox-studios-at-risk-of-closure-in-talks-to-become-independent",
+      "image": "https://images.pushsquare.com/0232958e5b409/large.jpg",
+      "published_at": "2026-06-15T17:30:00Z",
       "key_points": [
-        "Mistfall Hunter beta launched",
-        "Available for PS5 players",
-        "Gothic action RPG experience"
+        "South of Midnight studio closed",
+        "Concerns over Xbox studios",
+        "Double Fine and Ninja Theory mentioned"
       ],
-      "impact": "This could attract new players to the genre.",
-      "id": "5f5174cb66a917cee9c0da6d500e22f5"
+      "impact": "The closure raises questions about Xbox's future.",
+      "id": "b3faa9dfe920fe2cfab172a338c28c94"
     },
     {
-      "title": "Adobe Creative Cloud Updates Released",
-      "description": "Adobe introduces major updates for Creative Cloud, enhancing tools like Lightroom and Photoshop with AI features.",
-      "category": "Software",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/15/adobe-rolls-out-major-creative-cloud-updates-for-lightroom-premiere-photoshop-more/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/adobe-after-effects.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-15T15:00:00Z",
-      "key_points": [
-        "Major Creative Cloud updates released",
-        "AI tools introduced",
-        "Workflow improvements included"
-      ],
-      "impact": "This enhances productivity for creative professionals.",
-      "id": "55c95421bd3f5ca04c08ae0e2f7f207e"
-    },
-    {
-      "title": "AMD Discusses FSR 4.1 Upscaling",
-      "description": "AMD promises quality parity between RDNA 3 and RDNA 4 with its FSR 4.1 upscaling technology, discussed at Computex 2026.",
-      "category": "Hardware",
-      "source": "Techpowerup.com",
-      "url": "https://www.techpowerup.com/349972/amd-explains-fsr-4-1-upscaling-for-rdna-3-promises-quality-parity-with-rdna-4",
-      "image": "https://www.techpowerup.com/img/AlY0IbsI14yNalZC.jpg",
-      "published_at": "2026-06-15T14:55:02Z",
-      "key_points": [
-        "AMD discusses FSR 4.1 upscaling",
-        "Quality parity promised",
-        "Insights shared at Computex"
-      ],
-      "impact": "This could enhance gaming performance significantly.",
-      "id": "1e323aa2fbc8500adb540949876022fc"
-    },
-    {
-      "title": "Xbox May Introduce Buy Now, Pay Later",
-      "description": "Xbox's website code hints at potential Buy Now, Pay Later options via PayPal and Klarna, enhancing payment flexibility.",
+      "title": "Civilization 7 Update Addresses Player Feedback",
+      "description": "Civilization 7's lengthy revitalization continues with a major update addressing player concerns after its troubled launch. New features are set to enhance gameplay.",
       "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/xbox-series-x-klarna-paypal-pay-later-financing-microsoft-2000706625",
-      "image": "https://kotaku.com/app/uploads/2026/06/xbox-pay-later.jpg",
-      "published_at": "2026-06-15T14:50:17Z",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/civilization-7-new-update-hotseat-multiplayer",
+      "image": "https://assetsio.gnwcdn.com/civ-7-machiavelli.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-15T17:10:29Z",
       "key_points": [
-        "Buy Now, Pay Later options coming",
-        "PayPal and Klarna mentioned",
-        "Enhanced payment flexibility expected"
+        "Major update arrives next week",
+        "Addresses player concerns",
+        "Revitalization continues"
       ],
-      "impact": "This could attract more customers to Xbox.",
-      "id": "6110167f074be94c460dfbdf8b02d958"
+      "impact": "Players can expect improved gameplay experiences.",
+      "id": "7f6f4eb06a473094f7716422af9dd76e"
+    },
+    {
+      "title": "Steam Next Fest Features New PC VR Demos",
+      "description": "Steam Next Fest kicks off today, showcasing a variety of new PC VR demos available for players. The event runs until June 22.",
+      "category": "Gaming",
+      "source": "UploadVR",
+      "url": "https://www.uploadvr.com/steam-next-fest-june-2026-here-are-the-featured-pc-vr-demos/",
+      "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/06/english.jpg",
+      "published_at": "2026-06-15T17:09:07Z",
+      "key_points": [
+        "Steam Next Fest starts today",
+        "New PC VR demos available",
+        "Event runs until June 22"
+      ],
+      "impact": "Players can explore exciting new VR experiences.",
+      "id": "c7c35146fbc9589d7ec6e981cf76c738"
+    },
+    {
+      "title": "Intel Mac Era Comes to a Close",
+      "description": "Reflecting on 20 years of Intel Macs, Apple’s transition marks the end of an era. The shift highlights the evolution of Apple's hardware strategy.",
+      "category": "Business",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Steve-Jobs-announces-Intel-processor-GettyImages-53028118-1152x648-1781292898.jpg",
+      "published_at": "2026-06-15T16:32:14Z",
+      "key_points": [
+        "Intel Mac era ends",
+        "Apple's hardware strategy evolves",
+        "Reflecting on 20 years"
+      ],
+      "impact": "Apple's transition signifies major hardware shifts.",
+      "id": "572172e39a4c2c0b92953013bddd846d"
+    },
+    {
+      "title": "Galaxy Z Fold 8 Features Stronger Display",
+      "description": "The Galaxy Z Fold 8 'Wide' will reportedly have a stronger inner display than the 'Ultra', thanks to improved glass technology. This enhances durability and performance.",
+      "category": "Hardware",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/06/15/galaxy-z-fold-8-wide-reportedly-has-a-stronger-inner-display-than-the-ultra/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/galaxy-z-fold-8-wide-leak-renders-onl-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-15T14:25:00Z",
+      "key_points": [
+        "Z Fold 8 has stronger display",
+        "Improved glass technology",
+        "Enhances durability and performance"
+      ],
+      "impact": "Samsung's innovation boosts device resilience.",
+      "id": "e4fa26c311bb439bd6773a41415ef06b"
+    },
+    {
+      "title": "Xbox Project Helix May Launch Without Controller",
+      "description": "Rumors suggest Xbox Project Helix could launch without a controller as Microsoft aims to cut costs. This could redefine user interaction with the platform.",
+      "category": "Gaming",
+      "source": "MP1st",
+      "url": "https://mp1st.com/news/rumor-xbox-project-helix-could-launch-without-a-controller",
+      "image": "https://mp1st.com/wp-content/uploads/2026/06/Project-Helix.jpg",
+      "published_at": "2026-06-15T14:22:36Z",
+      "key_points": [
+        "Project Helix may lack controller",
+        "Microsoft aims to reduce costs",
+        "User interaction could change"
+      ],
+      "impact": "This shift could redefine gaming experiences.",
+      "id": "b75d13b9abef2f825baa7bc992ad9f62"
+    },
+    {
+      "title": "Galaxy S25 Update Introduces Notification Highlights",
+      "description": "Samsung's Galaxy S25 series receives a software update, adding Notification Highlights alongside the June security patch. The update expands to more regions soon.",
+      "category": "Hardware",
+      "source": "SamMobile",
+      "url": "https://www.sammobile.com/news/galaxy-s25-gets-notification-highlights-new-update/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2025/08/Galaxy-S25-Plus-2-1200x674.jpg",
+      "published_at": "2026-06-15T13:59:00Z",
+      "key_points": [
+        "Galaxy S25 update released",
+        "Introduces Notification Highlights",
+        "Expanding to more regions"
+      ],
+      "impact": "Users gain enhanced notification management.",
+      "id": "a86b879022d7319c83b7670e91f8a66a"
+    },
+    {
+      "title": "Destiny 2 Sees Surge in Player Engagement",
+      "description": "Destiny 2's latest update has significantly boosted player counts and earnings, marking its healthiest period in years. The game continues to evolve positively.",
+      "category": "Gaming",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/06/15/destiny-2-is-now-the-healthiest-its-been-in-years/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a2ffe396d9e596d1199add7/0x0.jpg?format=jpg&crop=2562,1440,x437,y0,safe&height=900&width=1600&fit=bounds",
+      "published_at": "2026-06-15T13:36:02Z",
+      "key_points": [
+        "Destiny 2 update boosts engagement",
+        "Healthiest player count in years",
+        "Earnings rise significantly"
+      ],
+      "impact": "The game is thriving with renewed interest.",
+      "id": "584796fb9a9d452798bb9aca7cf2d4a5"
+    },
+    {
+      "title": "Fable Developer Discusses Game Delay",
+      "description": "The Fable developer shares insights on the pros and cons of delaying the game to February 2027. Initial disappointment was expressed but potential benefits are highlighted.",
+      "category": "Gaming",
+      "source": "Pure Xbox",
+      "url": "https://www.purexbox.com/news/2026/06/fable-developer-highlights-the-pros-and-cons-of-delaying-to-february-2027",
+      "image": "https://images.purexbox.com/1e4a073de82fe/large.jpg",
+      "published_at": "2026-06-15T13:34:09Z",
+      "key_points": [
+        "Fable delayed to February 2027",
+        "Developer discusses pros and cons",
+        "Initial disappointment expressed"
+      ],
+      "impact": "Delay may enhance game quality and experience.",
+      "id": "c63d545f162764212b0307f06d370033"
+    },
+    {
+      "title": "Caltech Launches Massive Deep Space Telescope",
+      "description": "Caltech unveils plans for the Deep Synoptic Array, a groundbreaking radio telescope that will be 100 times faster than existing models. This project aims to revolutionize deep space exploration.",
+      "category": "Science",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/the-mother-of-all-deep-space-radio-telescopes-is-going-up-in-the-nevada-desert-2000771731",
+      "image": "https://gizmodo.com/app/uploads/2026/06/Caltech-DSA-Test-Owens-Valley-1200x675.jpg",
+      "published_at": "2026-06-15T13:25:40Z",
+      "key_points": [
+        "Caltech's new radio telescope",
+        "100 times faster than predecessors",
+        "Revolutionizes deep space exploration"
+      ],
+      "impact": "This telescope could transform astronomical research.",
+      "id": "69136e6abb224e1b7bfd01cdf402eb1a"
+    },
+    {
+      "title": "Rare Ford Capri Emerges After 30 Years",
+      "description": "A rare Ford Capri, stored since the 1990s, is finally revealed after three decades. This model is one of only 1,038 produced, making it a unique find.",
+      "category": "Business",
+      "source": "autoevolution",
+      "url": "https://www.autoevolution.com/news/rare-ford-garaged-since-the-1990s-is-finally-out-in-broad-daylight-after-30-years-271525.html",
+      "image": "https://s1.cdn.autoevolution.com/images/news/rare-ford-garaged-since-the-1990s-is-finally-out-in-broad-daylight-after-30-years-271525_1.jpg",
+      "published_at": "2026-06-15T13:21:35Z",
+      "key_points": [
+        "Rare Ford Capri revealed",
+        "Stored since the 1990s",
+        "Only 1,038 units produced"
+      ],
+      "impact": "This find excites classic car enthusiasts.",
+      "id": "0918b52c398dc321df6b4ee0ac9d3ff4"
     }
   ]
 }
