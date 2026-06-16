@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-16T11:08:38.279701+00:00",
+      "fetched_at": "2026-06-16T11:08:38.279701+00:00",
+      "label": "Jun 16, 2026 — 11:10 AM UTC",
+      "articles": [
+        {
+          "title": "PH1 Barrel: 30 Years of Craft Beer Innovation",
+          "description": "The legendary PH1 barrel has inspired brewers across America for 30 years, fostering innovation and connection in craft beer culture.",
+          "category": "Business",
+          "source": "The Washington Post",
+          "url": "https://www.washingtonpost.com/food/2026/06/15/how-ph1-barrel-became-legend-america-craft-beer-scene/",
+          "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XN7HSHJ26ZUYDT5Y3ZTAYWPFLU.JPG&w=1440",
+          "published_at": "2026-06-15T12:33:59Z",
+          "key_points": [
+            "PH1 barrel inspires brewers",
+            "30 years of travel",
+            "Craft beer innovation"
+          ],
+          "impact": "The PH1 barrel continues to shape craft beer.",
+          "id": "33e4779dc46772a6b72c5b72f705bff7"
+        },
+        {
+          "title": "New Warhammer 40,000 Updates Announced",
+          "description": "Exciting updates and new features are coming for the latest edition of Warhammer 40,000, enhancing gameplay and community engagement.",
+          "category": "Gaming",
+          "source": "Warhammer Community",
+          "url": "https://www.warhammer-community.com/articles/8wi6x7nq/new40k-points-apps-and-updates-incoming",
+          "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/40k_pointsapp-jun15-1-feature-pmwhdp4vpd.jpg",
+          "published_at": "2026-06-15T11:55:34Z",
+          "key_points": [
+            "New edition updates",
+            "Enhanced gameplay features",
+            "Community engagement"
+          ],
+          "impact": "Warhammer 40,000 evolves with new updates.",
+          "id": "eb5169fc7b1f1ff8243af18b2a50d672"
+        },
+        {
+          "title": "Essential Travel Gear from a Gadget Veteran",
+          "description": "A seasoned gadget blogger shares must-have travel gear, including bags, chargers, and entertainment essentials for tech-savvy travelers.",
+          "category": "Software",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/947310/gadget-veteran-travel-gear",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268530_SUMMER_UPGRADE_WEEK__CAMPING_GEAR_ADemidova.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-15T11:30:00Z",
+          "key_points": [
+            "Travel gear essentials",
+            "Bags and chargers",
+            "Entertainment tips"
+          ],
+          "impact": "Travel smarter with expert gadget advice.",
+          "id": "3e8a96b347994ed1972de45aa2645069"
+        },
+        {
+          "title": "Super Mario Bros. Copy Sells for $3 Million",
+          "description": "A pristine copy of Super Mario Bros. has shattered auction records, selling for $3 million, highlighting the game's enduring legacy.",
+          "category": "Gaming",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/super-mario-bros-3-million-auction",
+          "image": "https://assetsio.gnwcdn.com/super-mario-bros-nes.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-15T11:20:38Z",
+          "key_points": [
+            "Record-breaking auction",
+            "$3 million sale",
+            "Pristine game condition"
+          ],
+          "impact": "Super Mario Bros. continues to captivate collectors.",
+          "id": "57ba2727184545c32210543776eb0112"
+        },
+        {
+          "title": "iOS 27 Developer Beta Shows Promising Stability",
+          "description": "The first developer beta of iOS 27 demonstrates unexpected stability, encouraging early adopters to explore new features without major issues.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/15/the-stability-of-the-first-ios-27-developer-beta-tells-its-own-story/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/The-stability-of-the-first-iOS-27-developer-beta-tells-its-own-story.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-15T11:20:00Z",
+          "key_points": [
+            "iOS 27 beta stability",
+            "Encourages early adoption",
+            "New features explored"
+          ],
+          "impact": "iOS 27 beta impresses with stability.",
+          "id": "74fe56ef760a9dd083e091e3a8042413"
+        },
+        {
+          "title": "Honor Magic V6: Foldable Phone Innovations",
+          "description": "Honor's Magic V6 introduces significant advancements in foldable technology, with a focus on battery life and user experience.",
+          "category": "Hardware",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/948919/honor-magic-v6-foldable-review",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/honor-magic-v6-review-7.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+          "published_at": "2026-06-15T11:00:00Z",
+          "key_points": [
+            "Foldable phone advancements",
+            "Improved battery life",
+            "User experience focus"
+          ],
+          "impact": "Honor Magic V6 sets new foldable standards.",
+          "id": "499fca3ac1c0ff77f6e2ac2661274e6e"
+        },
+        {
+          "title": "Halo: Campaign Evolved Surges in PS5 Pre-Orders",
+          "description": "Halo: Campaign Evolved's multiplatform release strategy is driving significant pre-order interest on PlayStation 5, signaling a major shift.",
+          "category": "Gaming",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/halo-campaign-evolved-ps5-pre-orders",
+          "image": "https://assetsio.gnwcdn.com/Halo_CE_PS-Store.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-15T09:30:48Z",
+          "key_points": [
+            "Multiplatform release strategy",
+            "PS5 pre-orders surge",
+            "Major franchise shift"
+          ],
+          "impact": "Halo's multiplatform move reshapes gaming landscape.",
+          "id": "265905846fccc40d8f468367375d4707"
+        },
+        {
+          "title": "Shimano Revamps Deore Group with New Features",
+          "description": "Shimano introduces innovative cable-actuated derailleurs and brakes in its Deore group, enhancing performance for mountain biking enthusiasts.",
+          "category": "Hardware",
+          "source": "Pinkbike",
+          "url": "https://www.pinkbike.com/news/shimano-reinvents-deore-group-with-new-brakes-and-cable-actuated-drivetrain.html",
+          "image": "https://ep1.pinkbike.org/p4pb29850750/p4pb29850750.jpg",
+          "published_at": "2026-06-15T07:00:00Z",
+          "key_points": [
+            "New cable-actuated derailleurs",
+            "Enhanced braking performance",
+            "Targeted for mountain biking"
+          ],
+          "impact": "Shimano's Deore group sets new performance standards.",
+          "id": "4e33e5a83d8276db217cf0f0f715f7db"
+        },
+        {
+          "title": "Bovensiepen Unveils Elegant BMW M5 Touring",
+          "description": "Bovensiepen, in collaboration with designer Frank Stephenson, presents a refined version of the BMW M5 Touring, emphasizing elegance.",
+          "category": "Business",
+          "source": "Motor1",
+          "url": "https://www.motor1.com/news/798680/bovensiepen-bmw-m5-touring/",
+          "image": "https://cdn.motor1.com/images/mgl/9m8Rzv/s1/bovensiepen-05-gt.jpg",
+          "published_at": "2026-06-15T06:26:00Z",
+          "key_points": [
+            "Elegant BMW M5 Touring",
+            "Collaboration with Frank Stephenson",
+            "Refined design approach"
+          ],
+          "impact": "Bovensiepen redefines BMW elegance.",
+          "id": "383cec27b4ae6b844986c5045e33de22"
+        },
+        {
+          "title": "Modern Warfare 4 Offers Early Access for Pre-Orders",
+          "description": "Pre-ordering Modern Warfare 4 grants players early access to the campaign, starting a week before the official release.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/campaign-early-access-now-included-in-modern-warfare-4-ps5-pre-orders",
+          "image": "https://images.pushsquare.com/e7c25e51b5362/large.jpg",
+          "published_at": "2026-06-15T01:00:00Z",
+          "key_points": [
+            "Early access for pre-orders",
+            "Campaign starts October 16",
+            "Exclusive player benefits"
+          ],
+          "impact": "Pre-ordering enhances player engagement.",
+          "id": "46f2e391fa4451c3beb71ff1830c8a50"
+        },
+        {
+          "title": "Forza Horizon 6: A New Era for Driving Games",
+          "description": "Set in Japan, Forza Horizon 6 promises to elevate open-world driving experiences with its most ambitious setting yet.",
+          "category": "Gaming",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/forza-horizon-6-signals-a-new-peak-for-open-world-driving-games/",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Xbox-Sponsored-Article-1-Feature-Image-2.jpg",
+          "published_at": "2026-06-14T23:30:00Z",
+          "key_points": [
+            "Set in Japan",
+            "Ambitious open-world design",
+            "Elevated driving experience"
+          ],
+          "impact": "Forza Horizon 6 redefines driving games.",
+          "id": "c7c18f567f6c5cb6f71ce73262af7218"
+        },
+        {
+          "title": "Digimon Story: Time Stranger Comparison Video Released",
+          "description": "A new comparison video showcases the differences between Digimon Story: Time Stranger on Nintendo Switch 2, Switch, and PS5.",
+          "category": "Gaming",
+          "source": "Nintendo Everything",
+          "url": "https://nintendoeverything.com/video-digimon-story-time-stranger-nintendo-switch-2-vs-switch-vs-ps5-comparison/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Digimon-Story-Time-Stranger-Switch-2-Switch-PS5-comparison.jpg",
+          "published_at": "2026-06-14T22:20:06Z",
+          "key_points": [
+            "Comparison video released",
+            "Switch 2 vs. PS5",
+            "Digimon gameplay differences"
+          ],
+          "impact": "Digimon comparison highlights platform variations.",
+          "id": "14432636a3bc22664d31f4bb91c118f9"
+        },
+        {
+          "title": "M-VAVE FM-1: Affordable FM Synthesizer Launched",
+          "description": "The M-VAVE FM-1 is a budget-friendly, battery-powered FM synthesizer featuring a multi-FX engine, appealing to music enthusiasts.",
+          "category": "Hardware",
+          "source": "Synthanatomy",
+          "url": "https://synthanatomy.com/2026/06/m-vave-fm-1-a-budget-friendly-dx-7-style-desktop-fm-polysynth.html",
+          "image": "https://synthanatomy.com/wp-content/uploads/2026/06/M-vave-FM-1-synth.jpg",
+          "published_at": "2026-06-14T20:22:41Z",
+          "key_points": [
+            "Budget-friendly FM synthesizer",
+            "Battery-powered design",
+            "Built-in multi-FX engine"
+          ],
+          "impact": "M-VAVE FM-1 makes synthesis accessible.",
+          "id": "09e46cdd9629b5a0644b745a886fd6d3"
+        },
+        {
+          "title": "Top Laptops to Watch After Computex 2026",
+          "description": "Discover the most exciting laptops unveiled at Computex 2026, featuring powerful RTX graphics and innovative AI capabilities.",
+          "category": "Hardware",
+          "source": "Digital Trends",
+          "url": "https://www.digitaltrends.com/computing/best-laptops-coming-in-2026-after-computex/",
+          "image": "https://www.digitaltrends.com/tachyon/2026/06/ASUS-ROG-Strix-Scar-18-Computex-2026-Other.jpg?resize=1200%2C630",
+          "published_at": "2026-06-14T20:08:37Z",
+          "key_points": [
+            "Exciting laptop announcements",
+            "RTX graphics powerhouses",
+            "Innovative AI features"
+          ],
+          "impact": "Computex 2026 showcases future laptop innovations.",
+          "id": "013a2cdafd654b149ff2821e37dc4f0b"
+        },
+        {
+          "title": "Stranger Than Heaven Revamps Yakuza Combat System",
+          "description": "Stranger Than Heaven introduces a new stamina-based combat system, replacing traditional Heat Moves with innovative shoulder button mechanics.",
+          "category": "Gaming",
+          "source": "Wccftech",
+          "url": "https://wccftech.com/stranger-than-heaven-combat-shoulder-buttons-stamina-counterattacks/",
+          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/8790abc5-b82e-48f5-97ae-da40d341a723-HD-1920x1080.jpeg",
+          "published_at": "2026-06-14T19:00:00Z",
+          "key_points": [
+            "New combat system introduced",
+            "Stamina-based mechanics",
+            "Shoulder button focus"
+          ],
+          "impact": "Stranger Than Heaven innovates Yakuza gameplay.",
+          "id": "e5600b743eb011984ffe4be290103ca6"
+        }
+      ]
+    },
+    {
       "id": "2026-06-16T03:59:04.321393+00:00",
       "fetched_at": "2026-06-16T03:59:04.321393+00:00",
       "label": "Jun 16, 2026 — 03:59 AM UTC",
@@ -6248,157 +6495,6 @@
           ],
           "impact": "macOS 27 enhances functionality and aesthetics.",
           "id": "9d77c55d41d4f7f1aeb8edbea0a5e281"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-10T03:36:27.050922+00:00",
-      "fetched_at": "2026-06-10T03:36:27.050922+00:00",
-      "label": "Jun 10, 2026 — 03:36 AM UTC",
-      "articles": [
-        {
-          "title": "Apple Unveils Enhanced Siri AI Assistant",
-          "description": "Apple has launched a new Siri AI, offering improved personal assistance with enhanced context and awareness. This upgrade aims to redefine user interaction with Apple devices.",
-          "category": "Software",
-          "source": "Apple Newsroom",
-          "url": "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
-          "image": "https://www.apple.com/newsroom/images/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/tile/Apple-Siri-AI-hero-260608-lp.jpg.og.jpg?202606090054",
-          "published_at": "2026-06-09T03:49:47Z",
-          "key_points": [
-            "New personal assistant features",
-            "Enhanced context awareness",
-            "Improved user interaction"
-          ],
-          "impact": "This upgrade significantly enhances user experience.",
-          "id": "6ef8c2d45181d0d7c50a68774f1d9bb3"
-        },
-        {
-          "title": "Crazy Taxi Producer Addresses AI Controversy",
-          "description": "The producer of Crazy Taxi: World Tour clarifies the game's AI usage amid fan concerns. The announcement has sparked discussions about AI's role in gaming.",
-          "category": "Gaming",
-          "source": "Game Informer",
-          "url": "https://gameinformer.com/sgf-2026/2026/06/08/crazy-taxi-world-tour-producer-clarifies-ai-use",
-          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/08/d3362944/ctwt.jpg.webp",
-          "published_at": "2026-06-09T02:16:07Z",
-          "key_points": [
-            "Clarification on AI use",
-            "Fan concerns addressed",
-            "Producer comments on development"
-          ],
-          "impact": "AI's role in gaming remains a hot topic.",
-          "id": "87772e44715311a5e37d3934b636a506"
-        },
-        {
-          "title": "Instagram Now Allows Profile Grid Reorganization",
-          "description": "Instagram has rolled out a feature enabling users to rearrange their profile grid freely. This update enhances user customization options.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Square-DualScreen.jpg?quality=90&strip=all&crop=7.8%2C0.26432081939454%2C85.4%2C59.091617738989&w=1200",
-          "published_at": "2026-06-08T23:58:30Z",
-          "key_points": [
-            "New grid organization feature",
-            "Enhanced user customization",
-            "Improved profile management"
-          ],
-          "impact": "Users gain more control over their profiles.",
-          "id": "e0e6e20cf2cd53c45631c8acff41ee25"
-        },
-        {
-          "title": "Xbox Leaks Gears of War PS5 Trailer",
-          "description": "An accidental upload revealed a Gears of War trailer for PS5, causing a stir in the gaming community. Xbox has since addressed the mishap.",
-          "category": "Gaming",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/06/whoops-xbox-accidentally-uploads-gears-of-war-ps5-trailer",
-          "image": "https://images.pushsquare.com/f571b1bfc92e8/large.jpg",
-          "published_at": "2026-06-08T23:11:03Z",
-          "key_points": [
-            "Accidental trailer leak",
-            "Gears of War for PS5",
-            "Xbox addresses the error"
-          ],
-          "impact": "The leak has generated significant buzz.",
-          "id": "2d8a575339a4cf5732446d25b927c56b"
-        },
-        {
-          "title": "iOS 27 Introduces Exciting New Features",
-          "description": "Apple's iOS 27 brings features like shared phone numbers and independent alarm volumes. The update enhances user experience across devices.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/08/ios-27-tidbits/",
-          "image": "https://images.macrumors.com/t/wP731GR8GOnZyduIeSr3hda4rzU=/2000x/article-new/2026/06/ios-27-1.jpg",
-          "published_at": "2026-06-08T22:23:03Z",
-          "key_points": [
-            "New sharing features",
-            "Independent alarm settings",
-            "Enhanced AirPlay performance"
-          ],
-          "impact": "iOS 27 improves overall device functionality.",
-          "id": "d1ce9e479c3d006b2353ed79270f6c9c"
-        },
-        {
-          "title": "Apple Watch Series 9 Supports watchOS 27",
-          "description": "Apple confirms that watchOS 27 will run on the Apple Watch Series 9, despite dropping support for older models. This ensures continued compatibility for newer users.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/08/apple-confirms-watchos-27-will-run-on-apple-watch-series-9/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/WWDC-26-13.47.28.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-08T21:09:00Z",
-          "key_points": [
-            "watchOS 27 compatibility confirmed",
-            "Older models unsupported",
-            "Focus on newer devices"
-          ],
-          "impact": "Users can expect enhanced features on Series 9.",
-          "id": "f1c2855abe913dba79918de7fd27f653"
-        },
-        {
-          "title": "macOS 27 Requires Apple Silicon Only",
-          "description": "Apple's macOS 27 will exclusively support Apple Silicon, marking the end of Intel Mac compatibility. This shift emphasizes Apple's transition to its own chips.",
-          "category": "Software",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Apple-child-account-hero-260608-1152x648.jpg",
-          "published_at": "2026-06-08T21:03:56Z",
-          "key_points": [
-            "macOS 27 requires Apple Silicon",
-            "Intel Macs no longer supported",
-            "Focus on proprietary technology"
-          ],
-          "impact": "This marks a significant hardware transition.",
-          "id": "823229889526cbd41fb42b75a59385de"
-        },
-        {
-          "title": "Summer Game Fest 2026 Highlights Major Reveals",
-          "description": "The Summer Game Fest showcased major game trailers, including a new Spyro and Final Fantasy 7 remake updates. Fans are buzzing about the announcements.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/the-13-biggest-video-game-reveals-and-surprises-from-all-of-sgfs-showcases-2000704059",
-          "image": "https://kotaku.com/app/uploads/2026/06/summergamefesttt-1200x675.jpg",
-          "published_at": "2026-06-08T20:48:04Z",
-          "key_points": [
-            "New Spyro game announced",
-            "Final Fantasy 7 updates revealed",
-            "Exciting trailers showcased"
-          ],
-          "impact": "Fans are thrilled with the new announcements.",
-          "id": "b1534f92eff1bcc26326dddd9b3dcdcc"
-        },
-        {
-          "title": "Apple Enhances Parental Controls for iPhones",
-          "description": "Apple introduces new screen time features, giving parents more control over their children's iPhone usage. This aims to improve digital parenting tools.",
-          "category": "Software",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/08/apple-puts-parents-back-in-control-of-kids-iphone-use/",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/06/screentime-devices.jpeg?resize=1200,653",
-          "published_at": "2026-06-08T18:07:32Z",
-          "key_points": [
-            "New parental control features",
-            "Enhanced screen time management",
-            "Improved digital parenting tools"
-          ],
-          "impact": "Parents gain better oversight of device usage.",
-          "id": "8d45edfeaf3c4027086c2644ce83a1d6"
         }
       ]
     }
