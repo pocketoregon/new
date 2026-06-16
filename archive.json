@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-16T16:49:40.430343+00:00",
+      "fetched_at": "2026-06-16T16:49:40.430343+00:00",
+      "label": "Jun 16, 2026 — 04:50 PM UTC",
+      "articles": [
+        {
+          "title": "Microsoft 365 Copilot Vulnerability Enables Data Theft",
+          "description": "A new vulnerability in Microsoft 365 Copilot allows attackers to steal sensitive data via a crafted URL. This poses significant risks for enterprise users.",
+          "category": "Security",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/",
+          "image": "https://www.bleepstatic.com/content/hl-images/2026/06/15/Copilot.jpg",
+          "published_at": "2026-06-15T15:51:42Z",
+          "key_points": [
+            "Vulnerability named SearchLeak",
+            "Targets mailbox and OneDrive",
+            "Exploitable via crafted URL"
+          ],
+          "impact": "Enterprises must urgently address this vulnerability.",
+          "id": "203a335c132fdae377795a9a19877522"
+        },
+        {
+          "title": "Record Sale for Pristine Super Mario Bros. Cartridge",
+          "description": "A pristine copy of Super Mario Bros. has sold for millions, breaking sales records due to its rarity and condition. Collectors are eager for such finds.",
+          "category": "Gaming",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/super-mario-bros-nes-record-2026-sale-why-rare-price-psa-grade/",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/mario-artwork-from-the-original-super-mario-bros-nes-box-art.jpg?w=1600&h=900&fit=crop",
+          "published_at": "2026-06-15T15:36:12Z",
+          "key_points": [
+            "Pristine condition drives price",
+            "Record-breaking sale",
+            "Rare collectible market thrives"
+          ],
+          "impact": "This sale highlights the value of collectibles.",
+          "id": "2b32b73b9dc8f6dc8bc3e3ffe57c5c5e"
+        },
+        {
+          "title": "Final Fantasy 7 Revelation Revives Airship Gameplay",
+          "description": "Final Fantasy 7 Revelation reintroduces the iconic Highwind airship, allowing players to pilot it once again. Fans are excited for this nostalgic feature.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/final-fantasy-7-revelation-is-bringing-back-the-airship-dream",
+          "image": "https://assets-prd.ignimgs.com/2026/06/15/ff7-airship-blogroll-1781517922269.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-15T15:30:00Z",
+          "key_points": [
+            "Highwind airship returns",
+            "Nostalgic gameplay feature",
+            "Fans eagerly anticipate release"
+          ],
+          "impact": "Players can relive classic airship adventures.",
+          "id": "248a5f131ee8c2629a16c1ab43f4bb3f"
+        },
+        {
+          "title": "Nintendo Direct Breaks Viewership Records",
+          "description": "Nintendo's latest Direct was the most-watched showcase of 2026, peaking at 3.7 million viewers. The Zelda: Ocarina of Time remake trailer led the views.",
+          "category": "Gaming",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/nintendo-direct-june-2026-zelda-ocarina-of-time",
+          "image": "https://assetsio.gnwcdn.com/Link-sleeps-in-the-teaser-of-Zelda-Ocarina-of-Time's-Switch-2-remake.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-15T15:23:57Z",
+          "key_points": [
+            "Most-watched Summer Game Fest",
+            "3.7 million peak viewers",
+            "Zelda remake trailer tops views"
+          ],
+          "impact": "Nintendo continues to captivate gaming audiences.",
+          "id": "d679e472c142551b9a5fdee188d2a45e"
+        },
+        {
+          "title": "New Crossword Puzzle Released by Defector",
+          "description": "Defector's latest crossword puzzle, crafted by Patrick Maher, is now available. It promises to challenge and entertain puzzle enthusiasts.",
+          "category": "Gaming",
+          "source": "Defector.com",
+          "url": "https://defector.com/the-crossword-june-15-i-need-some-space",
+          "image": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/06/GettyImages-2271101627.jpg",
+          "published_at": "2026-06-15T15:03:00Z",
+          "key_points": [
+            "New crossword puzzle released",
+            "Constructed by Patrick Maher",
+            "Engaging challenge for enthusiasts"
+          ],
+          "impact": "Puzzles provide a fun mental challenge.",
+          "id": "c36603c08d590da81f7454d09879ed12"
+        },
+        {
+          "title": "Apple and Tesla Collaborate on CarPlay Integration",
+          "description": "Apple and Tesla are reportedly enhancing CarPlay support for Tesla vehicles. This collaboration could improve user experience in electric cars.",
+          "category": "Business",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/15/this-carplay-change-may-be-the-missing-link-for-tesla-support/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/tesla-carplay-mockup-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-15T14:47:00Z",
+          "key_points": [
+            "Apple and Tesla partnership",
+            "Enhancing CarPlay support",
+            "Improved user experience expected"
+          ],
+          "impact": "This could revolutionize in-car technology.",
+          "id": "f81312d2eab03063b03b0d3fc411397b"
+        },
+        {
+          "title": "Google Chrome Update Ends Popular Ad Blockers",
+          "description": "Google Chrome's upcoming update will eliminate many popular ad blockers due to changes in extension policies. Users may face increased ads.",
+          "category": "Software",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/05/chrome-logo-sign-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-15T14:45:00Z",
+          "key_points": [
+            "Chrome update impacts ad blockers",
+            "Manifest V3 changes",
+            "Users may see more ads"
+          ],
+          "impact": "Users will face a less ad-free browsing experience.",
+          "id": "c7c9018580a4124939c4707e04bfb92b"
+        },
+        {
+          "title": "Discount on Popular Qi2 Power Bank for Readers",
+          "description": "The Baseus AM52 Qi2.2 power bank is now available at a discounted price of $42.99 for Verge readers. It's compatible with MagSafe devices.",
+          "category": "Business",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/949766/baseus-am52-usbc-power-bank-magsafe-deal-sale",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268545_Best_MagSafe_battery_CFaulkner_0011.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-15T14:39:24Z",
+          "key_points": [
+            "Baseus AM52 discounted",
+            "Compatible with MagSafe",
+            "Limited-time offer for readers"
+          ],
+          "impact": "Great savings on a popular power bank.",
+          "id": "56ba4ae7b2862aad5efb604038067fdb"
+        },
+        {
+          "title": "EA Launches New Advertising Platform",
+          "description": "Electronic Arts has introduced EA Advertising, allowing brands to advertise directly within gameplay. This innovation aims to enhance brand engagement.",
+          "category": "Business",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/15/electronic-arts-launches-a-new-way-to-advertise-directly-into-gameplay.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108206035-17592647502025-09-30t203737z_2031180478_rc2k2habsg4n_rtrmadp_0_electronic-arts-m-a.jpeg?v=1759264896&w=1920&h=1080",
+          "published_at": "2026-06-15T14:32:12Z",
+          "key_points": [
+            "EA Advertising launched",
+            "Brands can advertise in-game",
+            "Enhances brand engagement"
+          ],
+          "impact": "This could transform in-game advertising.",
+          "id": "a51a5576ca5210de9914fb4425f10579"
+        },
+        {
+          "title": "Nintendo Deletes Hidden Info on Zelda Remake",
+          "description": "Nintendo has removed hidden information about the Zelda: Ocarina of Time remake from its site, leaving fans speculating about the game.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/hidden-info-zelda-ocarina-of-time-remake-nintendo-deleted-store-html-info-switch-2-2000706626",
+          "image": "https://kotaku.com/app/uploads/2026/06/The-Legend-of-Zelda-Ocarina-of-Time-3D-64-1362715422-1200x675.jpg",
+          "published_at": "2026-06-15T14:28:47Z",
+          "key_points": [
+            "Nintendo deletes hidden info",
+            "Fans left speculating",
+            "Ocarina of Time remake anticipated"
+          ],
+          "impact": "Fans are eager for more details.",
+          "id": "8f1bb7c6ea4535f29a08cc689e15da71"
+        },
+        {
+          "title": "Uncertainty Surrounds Trump Mobile's T1 Phone",
+          "description": "A year after its announcement, the Trump Mobile T1 Phone's production status remains unclear, leaving potential buyers in doubt.",
+          "category": "Policy",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/policy/949093/trump-mobile-t1-phone-one-year-anniversary",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268568_Trump_phone_1_year_AKRALES3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-15T14:15:00Z",
+          "key_points": [
+            "T1 Phone production unclear",
+            "Buyers still waiting",
+            "One year since announcement"
+          ],
+          "impact": "Uncertainty raises concerns among potential buyers.",
+          "id": "039d6b053ad014f5cd048f294fbf1a59"
+        },
+        {
+          "title": "Craig Duncan Steps Down as Xbox Game Studios Head",
+          "description": "Craig Duncan has resigned from his position as head of Xbox Game Studios after 18 months. His departure raises questions about future leadership.",
+          "category": "Business",
+          "source": "Thegamebusiness.com",
+          "url": "https://www.thegamebusiness.com/p/xbox-game-studios-boss-craig-duncan",
+          "image": "https://substackcdn.com/image/fetch/$s_!8dLq!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2be2480-1836-4ce0-8cd0-903c3991f2cb_856x484.png",
+          "published_at": "2026-06-15T14:08:42Z",
+          "key_points": [
+            "Craig Duncan resigns",
+            "Leadership transition at Xbox",
+            "Future direction uncertain"
+          ],
+          "impact": "Leadership changes may impact Xbox's strategy.",
+          "id": "1ba4693c6f20b2371adc974291dd8e21"
+        },
+        {
+          "title": "SN Operator Review: Backup Solution for SNES Games",
+          "description": "The Epilogue SN Operator is a device for backing up SNES games and saves, offering collectors a reliable preservation method. It's priced at $60.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/epilogue-sn-operator-review",
+          "image": "https://assets-prd.ignimgs.com/2026/06/12/snoperator-1-1781306560953.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-15T14:00:00Z",
+          "key_points": [
+            "Backup solution for SNES",
+            "Priced at $60",
+            "Preserves physical game library"
+          ],
+          "impact": "Collectors can safeguard their game memories.",
+          "id": "a9303c37dc51ef13e7cef41b9d0ff5ae"
+        },
+        {
+          "title": "iPhone 18 Pro Rumored Camera Upgrades",
+          "description": "Rumors suggest the iPhone 18 Pro will feature significant camera upgrades, enhancing photography capabilities. Three main features are anticipated.",
+          "category": "Hardware",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/15/iphone-18-pro-three-new-camera-upgrades-are-coming/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-blue-camera-array.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-15T13:52:00Z",
+          "key_points": [
+            "iPhone 18 Pro camera upgrades",
+            "Three main features rumored",
+            "Enhances photography capabilities"
+          ],
+          "impact": "Anticipated upgrades excite photography enthusiasts.",
+          "id": "ff002de2597aa0379d3a7c3b08e17afd"
+        },
+        {
+          "title": "iPhone 18 Pro Casing Similar to Predecessor",
+          "description": "The iPhone 18 Pro is expected to use the same aluminum alloy casing as its predecessor, maintaining a mix of pros and cons from previous models.",
+          "category": "Hardware",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/15/iphone-18-pro-casing-likely-to-experience-same-pros-cons-as-its-predecessor/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-18-pro-colors.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-15T13:48:00Z",
+          "key_points": [
+            "iPhone 18 Pro casing details",
+            "Same alloy as predecessor",
+            "Pros and cons remain"
+          ],
+          "impact": "Design continuity may affect user experience.",
+          "id": "adc3eac0db0c6cb38dbcc9a198a86216"
+        }
+      ]
+    },
+    {
       "id": "2026-06-16T11:08:38.279701+00:00",
       "fetched_at": "2026-06-16T11:08:38.279701+00:00",
       "label": "Jun 16, 2026 — 11:10 AM UTC",
@@ -6376,125 +6623,6 @@
           ],
           "impact": "Custom EQ improves user audio personalization.",
           "id": "0379803fb8cd429607856f7261a88987"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-10T09:57:38.333463+00:00",
-      "fetched_at": "2026-06-10T09:57:38.333463+00:00",
-      "label": "Jun 10, 2026 — 09:57 AM UTC",
-      "articles": [
-        {
-          "title": "Apple’s iOS 27 Hints at Foldable iPhone",
-          "description": "iOS 27 reveals features for Apple's upcoming foldable iPhone, showcasing folding hardware and enhancements for flexible displays.",
-          "category": "Software",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-09/apple-s-ios-27-is-filled-with-hints-about-its-upcoming-foldable-iphone",
-          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPsZiJEXOpI8/v0/1200x800.jpg",
-          "published_at": "2026-06-09T02:20:00Z",
-          "key_points": [
-            "Foldable iPhone features revealed",
-            "New display enhancements",
-            "Hints in iOS 27 beta"
-          ],
-          "impact": "Apple's foldable iPhone could reshape the market.",
-          "id": "7962d16c95ea0ad1822a1c728feb1a7b"
-        },
-        {
-          "title": "Top 5 Features of iOS 27 Beta",
-          "description": "The iOS 27 beta impresses with Liquid Glass improvements and a new extra-large widget option, enhancing user experience.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_560765.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-          "published_at": "2026-06-08T23:30:00Z",
-          "key_points": [
-            "Liquid Glass enhancements",
-            "Extra-large widget option",
-            "Improved icons and design"
-          ],
-          "impact": "iOS 27 beta sets a new standard for usability.",
-          "id": "2a265d5492acbcf0801aa1eb8fa2dc43"
-        },
-        {
-          "title": "Xbox Employee Denies PS5 Gears of War Rumor",
-          "description": "An Xbox employee refutes claims about a PS5 logo for Gears of War, asserting the information is false.",
-          "category": "Gaming",
-          "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/news/2026/06/xbox-employee-responds-to-new-trailer-showing-ps5-logo-for-gears-of-war-e-day",
-          "image": "https://images.purexbox.com/516e488b6a0ac/large.jpg",
-          "published_at": "2026-06-08T23:00:00Z",
-          "key_points": [
-            "Rumor about PS5 logo denied",
-            "Xbox employee clarification",
-            "No official confirmation yet"
-          ],
-          "impact": "Clarification helps maintain Xbox's brand integrity.",
-          "id": "c1e98aa1ded28952aa814b14e17a0677"
-        },
-        {
-          "title": "iOS 27 Revamps AirPods Settings",
-          "description": "The iOS 27 beta introduces a significant redesign of AirPods settings, enhancing user accessibility and functionality.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/08/ios-27-revamps-airpods-settings-in-a-big-way-heres-the-new-design/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/airpods-pro-3-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-08T21:38:00Z",
-          "key_points": [
-            "New AirPods settings design",
-            "Enhanced user experience",
-            "iOS 27 beta features"
-          ],
-          "impact": "Improved settings streamline AirPods management.",
-          "id": "50d578e79e9f7d23eb741ec524845be1"
-        },
-        {
-          "title": "Apple Launches watchOS 27 with Siri AI",
-          "description": "watchOS 27 features Siri AI integration, a dynamic app grid, and enhanced health tracking capabilities for newer Apple Watch models.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Apple-Watch-watchOS-27-Siri-AI.jpg?quality=90&strip=all&crop=0,14.033409967608,100,71.933180064785",
-          "published_at": "2026-06-08T19:34:10Z",
-          "key_points": [
-            "Siri AI integration",
-            "Dynamic app grid",
-            "Health tracking improvements"
-          ],
-          "impact": "watchOS 27 enhances user interaction and health monitoring.",
-          "id": "6f89ab7c98e87ef52ca5c9f071b26e50"
-        },
-        {
-          "title": "Google NotebookLM Upgrades with Gemini 3.5",
-          "description": "NotebookLM receives a major upgrade with Gemini 3.5 and Antigravity features, currently available for AI Ultra and enterprise accounts only.",
-          "category": "AI",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-notebooklm-1152x630.jpg",
-          "published_at": "2026-06-08T19:00:30Z",
-          "key_points": [
-            "NotebookLM major upgrade",
-            "New Gemini 3.5 features",
-            "Limited to enterprise accounts"
-          ],
-          "impact": "Upgrade enhances AI capabilities for enterprise users.",
-          "id": "6bb3bfca033c4a3689d4c48a5829f17f"
-        },
-        {
-          "title": "macOS 27 'Golden Gate' Introduces Liquid Glass",
-          "description": "macOS 27 'Golden Gate' features more Liquid Glass enhancements and an updated Siri, improving user experience across devices.",
-          "category": "Software",
-          "source": "AppleInsider",
-          "url": "https://appleinsider.com/articles/26/06/08/macos-27-golden-gate-delivers-more-liquid-glass-and-updated-siri",
-          "image": "",
-          "published_at": "2026-06-08T18:08:23Z",
-          "key_points": [
-            "Liquid Glass enhancements",
-            "Updated Siri features",
-            "Improved user experience"
-          ],
-          "impact": "macOS 27 enhances functionality and aesthetics.",
-          "id": "9d77c55d41d4f7f1aeb8edbea0a5e281"
         }
       ]
     }

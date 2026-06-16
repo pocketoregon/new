@@ -1,247 +1,247 @@
 {
   "date": "2026-06-16",
-  "generated_at": "2026-06-16T11:08:38.279701+00:00",
+  "generated_at": "2026-06-16T16:49:40.430343+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "PH1 Barrel: 30 Years of Craft Beer Innovation",
-      "description": "The legendary PH1 barrel has inspired brewers across America for 30 years, fostering innovation and connection in craft beer culture.",
-      "category": "Business",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/food/2026/06/15/how-ph1-barrel-became-legend-america-craft-beer-scene/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XN7HSHJ26ZUYDT5Y3ZTAYWPFLU.JPG&w=1440",
-      "published_at": "2026-06-15T12:33:59Z",
+      "title": "Microsoft 365 Copilot Vulnerability Enables Data Theft",
+      "description": "A new vulnerability in Microsoft 365 Copilot allows attackers to steal sensitive data via a crafted URL. This poses significant risks for enterprise users.",
+      "category": "Security",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/15/Copilot.jpg",
+      "published_at": "2026-06-15T15:51:42Z",
       "key_points": [
-        "PH1 barrel inspires brewers",
-        "30 years of travel",
-        "Craft beer innovation"
+        "Vulnerability named SearchLeak",
+        "Targets mailbox and OneDrive",
+        "Exploitable via crafted URL"
       ],
-      "impact": "The PH1 barrel continues to shape craft beer.",
-      "id": "33e4779dc46772a6b72c5b72f705bff7"
+      "impact": "Enterprises must urgently address this vulnerability.",
+      "id": "203a335c132fdae377795a9a19877522"
     },
     {
-      "title": "New Warhammer 40,000 Updates Announced",
-      "description": "Exciting updates and new features are coming for the latest edition of Warhammer 40,000, enhancing gameplay and community engagement.",
+      "title": "Record Sale for Pristine Super Mario Bros. Cartridge",
+      "description": "A pristine copy of Super Mario Bros. has sold for millions, breaking sales records due to its rarity and condition. Collectors are eager for such finds.",
       "category": "Gaming",
-      "source": "Warhammer Community",
-      "url": "https://www.warhammer-community.com/articles/8wi6x7nq/new40k-points-apps-and-updates-incoming",
-      "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/40k_pointsapp-jun15-1-feature-pmwhdp4vpd.jpg",
-      "published_at": "2026-06-15T11:55:34Z",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/super-mario-bros-nes-record-2026-sale-why-rare-price-psa-grade/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/mario-artwork-from-the-original-super-mario-bros-nes-box-art.jpg?w=1600&h=900&fit=crop",
+      "published_at": "2026-06-15T15:36:12Z",
       "key_points": [
-        "New edition updates",
-        "Enhanced gameplay features",
-        "Community engagement"
+        "Pristine condition drives price",
+        "Record-breaking sale",
+        "Rare collectible market thrives"
       ],
-      "impact": "Warhammer 40,000 evolves with new updates.",
-      "id": "eb5169fc7b1f1ff8243af18b2a50d672"
+      "impact": "This sale highlights the value of collectibles.",
+      "id": "2b32b73b9dc8f6dc8bc3e3ffe57c5c5e"
     },
     {
-      "title": "Essential Travel Gear from a Gadget Veteran",
-      "description": "A seasoned gadget blogger shares must-have travel gear, including bags, chargers, and entertainment essentials for tech-savvy travelers.",
-      "category": "Software",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/947310/gadget-veteran-travel-gear",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268530_SUMMER_UPGRADE_WEEK__CAMPING_GEAR_ADemidova.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published_at": "2026-06-15T11:30:00Z",
+      "title": "Final Fantasy 7 Revelation Revives Airship Gameplay",
+      "description": "Final Fantasy 7 Revelation reintroduces the iconic Highwind airship, allowing players to pilot it once again. Fans are excited for this nostalgic feature.",
+      "category": "Gaming",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/final-fantasy-7-revelation-is-bringing-back-the-airship-dream",
+      "image": "https://assets-prd.ignimgs.com/2026/06/15/ff7-airship-blogroll-1781517922269.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-15T15:30:00Z",
       "key_points": [
-        "Travel gear essentials",
-        "Bags and chargers",
-        "Entertainment tips"
+        "Highwind airship returns",
+        "Nostalgic gameplay feature",
+        "Fans eagerly anticipate release"
       ],
-      "impact": "Travel smarter with expert gadget advice.",
-      "id": "3e8a96b347994ed1972de45aa2645069"
+      "impact": "Players can relive classic airship adventures.",
+      "id": "248a5f131ee8c2629a16c1ab43f4bb3f"
     },
     {
-      "title": "Super Mario Bros. Copy Sells for $3 Million",
-      "description": "A pristine copy of Super Mario Bros. has shattered auction records, selling for $3 million, highlighting the game's enduring legacy.",
+      "title": "Nintendo Direct Breaks Viewership Records",
+      "description": "Nintendo's latest Direct was the most-watched showcase of 2026, peaking at 3.7 million viewers. The Zelda: Ocarina of Time remake trailer led the views.",
       "category": "Gaming",
       "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/super-mario-bros-3-million-auction",
-      "image": "https://assetsio.gnwcdn.com/super-mario-bros-nes.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-15T11:20:38Z",
+      "url": "https://www.eurogamer.net/nintendo-direct-june-2026-zelda-ocarina-of-time",
+      "image": "https://assetsio.gnwcdn.com/Link-sleeps-in-the-teaser-of-Zelda-Ocarina-of-Time's-Switch-2-remake.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-15T15:23:57Z",
       "key_points": [
-        "Record-breaking auction",
-        "$3 million sale",
-        "Pristine game condition"
+        "Most-watched Summer Game Fest",
+        "3.7 million peak viewers",
+        "Zelda remake trailer tops views"
       ],
-      "impact": "Super Mario Bros. continues to captivate collectors.",
-      "id": "57ba2727184545c32210543776eb0112"
+      "impact": "Nintendo continues to captivate gaming audiences.",
+      "id": "d679e472c142551b9a5fdee188d2a45e"
     },
     {
-      "title": "iOS 27 Developer Beta Shows Promising Stability",
-      "description": "The first developer beta of iOS 27 demonstrates unexpected stability, encouraging early adopters to explore new features without major issues.",
-      "category": "Software",
+      "title": "New Crossword Puzzle Released by Defector",
+      "description": "Defector's latest crossword puzzle, crafted by Patrick Maher, is now available. It promises to challenge and entertain puzzle enthusiasts.",
+      "category": "Gaming",
+      "source": "Defector.com",
+      "url": "https://defector.com/the-crossword-june-15-i-need-some-space",
+      "image": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/06/GettyImages-2271101627.jpg",
+      "published_at": "2026-06-15T15:03:00Z",
+      "key_points": [
+        "New crossword puzzle released",
+        "Constructed by Patrick Maher",
+        "Engaging challenge for enthusiasts"
+      ],
+      "impact": "Puzzles provide a fun mental challenge.",
+      "id": "c36603c08d590da81f7454d09879ed12"
+    },
+    {
+      "title": "Apple and Tesla Collaborate on CarPlay Integration",
+      "description": "Apple and Tesla are reportedly enhancing CarPlay support for Tesla vehicles. This collaboration could improve user experience in electric cars.",
+      "category": "Business",
       "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/15/the-stability-of-the-first-ios-27-developer-beta-tells-its-own-story/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/The-stability-of-the-first-iOS-27-developer-beta-tells-its-own-story.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-15T11:20:00Z",
+      "url": "https://9to5mac.com/2026/06/15/this-carplay-change-may-be-the-missing-link-for-tesla-support/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/tesla-carplay-mockup-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-15T14:47:00Z",
       "key_points": [
-        "iOS 27 beta stability",
-        "Encourages early adoption",
-        "New features explored"
+        "Apple and Tesla partnership",
+        "Enhancing CarPlay support",
+        "Improved user experience expected"
       ],
-      "impact": "iOS 27 beta impresses with stability.",
-      "id": "74fe56ef760a9dd083e091e3a8042413"
+      "impact": "This could revolutionize in-car technology.",
+      "id": "f81312d2eab03063b03b0d3fc411397b"
     },
     {
-      "title": "Honor Magic V6: Foldable Phone Innovations",
-      "description": "Honor's Magic V6 introduces significant advancements in foldable technology, with a focus on battery life and user experience.",
-      "category": "Hardware",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/948919/honor-magic-v6-foldable-review",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/honor-magic-v6-review-7.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-      "published_at": "2026-06-15T11:00:00Z",
+      "title": "Google Chrome Update Ends Popular Ad Blockers",
+      "description": "Google Chrome's upcoming update will eliminate many popular ad blockers due to changes in extension policies. Users may face increased ads.",
+      "category": "Software",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/05/chrome-logo-sign-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-15T14:45:00Z",
       "key_points": [
-        "Foldable phone advancements",
-        "Improved battery life",
-        "User experience focus"
+        "Chrome update impacts ad blockers",
+        "Manifest V3 changes",
+        "Users may see more ads"
       ],
-      "impact": "Honor Magic V6 sets new foldable standards.",
-      "id": "499fca3ac1c0ff77f6e2ac2661274e6e"
+      "impact": "Users will face a less ad-free browsing experience.",
+      "id": "c7c9018580a4124939c4707e04bfb92b"
     },
     {
-      "title": "Halo: Campaign Evolved Surges in PS5 Pre-Orders",
-      "description": "Halo: Campaign Evolved's multiplatform release strategy is driving significant pre-order interest on PlayStation 5, signaling a major shift.",
-      "category": "Gaming",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/halo-campaign-evolved-ps5-pre-orders",
-      "image": "https://assetsio.gnwcdn.com/Halo_CE_PS-Store.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-15T09:30:48Z",
-      "key_points": [
-        "Multiplatform release strategy",
-        "PS5 pre-orders surge",
-        "Major franchise shift"
-      ],
-      "impact": "Halo's multiplatform move reshapes gaming landscape.",
-      "id": "265905846fccc40d8f468367375d4707"
-    },
-    {
-      "title": "Shimano Revamps Deore Group with New Features",
-      "description": "Shimano introduces innovative cable-actuated derailleurs and brakes in its Deore group, enhancing performance for mountain biking enthusiasts.",
-      "category": "Hardware",
-      "source": "Pinkbike",
-      "url": "https://www.pinkbike.com/news/shimano-reinvents-deore-group-with-new-brakes-and-cable-actuated-drivetrain.html",
-      "image": "https://ep1.pinkbike.org/p4pb29850750/p4pb29850750.jpg",
-      "published_at": "2026-06-15T07:00:00Z",
-      "key_points": [
-        "New cable-actuated derailleurs",
-        "Enhanced braking performance",
-        "Targeted for mountain biking"
-      ],
-      "impact": "Shimano's Deore group sets new performance standards.",
-      "id": "4e33e5a83d8276db217cf0f0f715f7db"
-    },
-    {
-      "title": "Bovensiepen Unveils Elegant BMW M5 Touring",
-      "description": "Bovensiepen, in collaboration with designer Frank Stephenson, presents a refined version of the BMW M5 Touring, emphasizing elegance.",
+      "title": "Discount on Popular Qi2 Power Bank for Readers",
+      "description": "The Baseus AM52 Qi2.2 power bank is now available at a discounted price of $42.99 for Verge readers. It's compatible with MagSafe devices.",
       "category": "Business",
-      "source": "Motor1",
-      "url": "https://www.motor1.com/news/798680/bovensiepen-bmw-m5-touring/",
-      "image": "https://cdn.motor1.com/images/mgl/9m8Rzv/s1/bovensiepen-05-gt.jpg",
-      "published_at": "2026-06-15T06:26:00Z",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/949766/baseus-am52-usbc-power-bank-magsafe-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268545_Best_MagSafe_battery_CFaulkner_0011.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-06-15T14:39:24Z",
       "key_points": [
-        "Elegant BMW M5 Touring",
-        "Collaboration with Frank Stephenson",
-        "Refined design approach"
+        "Baseus AM52 discounted",
+        "Compatible with MagSafe",
+        "Limited-time offer for readers"
       ],
-      "impact": "Bovensiepen redefines BMW elegance.",
-      "id": "383cec27b4ae6b844986c5045e33de22"
+      "impact": "Great savings on a popular power bank.",
+      "id": "56ba4ae7b2862aad5efb604038067fdb"
     },
     {
-      "title": "Modern Warfare 4 Offers Early Access for Pre-Orders",
-      "description": "Pre-ordering Modern Warfare 4 grants players early access to the campaign, starting a week before the official release.",
+      "title": "EA Launches New Advertising Platform",
+      "description": "Electronic Arts has introduced EA Advertising, allowing brands to advertise directly within gameplay. This innovation aims to enhance brand engagement.",
+      "category": "Business",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/15/electronic-arts-launches-a-new-way-to-advertise-directly-into-gameplay.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108206035-17592647502025-09-30t203737z_2031180478_rc2k2habsg4n_rtrmadp_0_electronic-arts-m-a.jpeg?v=1759264896&w=1920&h=1080",
+      "published_at": "2026-06-15T14:32:12Z",
+      "key_points": [
+        "EA Advertising launched",
+        "Brands can advertise in-game",
+        "Enhances brand engagement"
+      ],
+      "impact": "This could transform in-game advertising.",
+      "id": "a51a5576ca5210de9914fb4425f10579"
+    },
+    {
+      "title": "Nintendo Deletes Hidden Info on Zelda Remake",
+      "description": "Nintendo has removed hidden information about the Zelda: Ocarina of Time remake from its site, leaving fans speculating about the game.",
       "category": "Gaming",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/06/campaign-early-access-now-included-in-modern-warfare-4-ps5-pre-orders",
-      "image": "https://images.pushsquare.com/e7c25e51b5362/large.jpg",
-      "published_at": "2026-06-15T01:00:00Z",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/hidden-info-zelda-ocarina-of-time-remake-nintendo-deleted-store-html-info-switch-2-2000706626",
+      "image": "https://kotaku.com/app/uploads/2026/06/The-Legend-of-Zelda-Ocarina-of-Time-3D-64-1362715422-1200x675.jpg",
+      "published_at": "2026-06-15T14:28:47Z",
       "key_points": [
-        "Early access for pre-orders",
-        "Campaign starts October 16",
-        "Exclusive player benefits"
+        "Nintendo deletes hidden info",
+        "Fans left speculating",
+        "Ocarina of Time remake anticipated"
       ],
-      "impact": "Pre-ordering enhances player engagement.",
-      "id": "46f2e391fa4451c3beb71ff1830c8a50"
+      "impact": "Fans are eager for more details.",
+      "id": "8f1bb7c6ea4535f29a08cc689e15da71"
     },
     {
-      "title": "Forza Horizon 6: A New Era for Driving Games",
-      "description": "Set in Japan, Forza Horizon 6 promises to elevate open-world driving experiences with its most ambitious setting yet.",
+      "title": "Uncertainty Surrounds Trump Mobile's T1 Phone",
+      "description": "A year after its announcement, the Trump Mobile T1 Phone's production status remains unclear, leaving potential buyers in doubt.",
+      "category": "Policy",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/949093/trump-mobile-t1-phone-one-year-anniversary",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268568_Trump_phone_1_year_AKRALES3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-06-15T14:15:00Z",
+      "key_points": [
+        "T1 Phone production unclear",
+        "Buyers still waiting",
+        "One year since announcement"
+      ],
+      "impact": "Uncertainty raises concerns among potential buyers.",
+      "id": "039d6b053ad014f5cd048f294fbf1a59"
+    },
+    {
+      "title": "Craig Duncan Steps Down as Xbox Game Studios Head",
+      "description": "Craig Duncan has resigned from his position as head of Xbox Game Studios after 18 months. His departure raises questions about future leadership.",
+      "category": "Business",
+      "source": "Thegamebusiness.com",
+      "url": "https://www.thegamebusiness.com/p/xbox-game-studios-boss-craig-duncan",
+      "image": "https://substackcdn.com/image/fetch/$s_!8dLq!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2be2480-1836-4ce0-8cd0-903c3991f2cb_856x484.png",
+      "published_at": "2026-06-15T14:08:42Z",
+      "key_points": [
+        "Craig Duncan resigns",
+        "Leadership transition at Xbox",
+        "Future direction uncertain"
+      ],
+      "impact": "Leadership changes may impact Xbox's strategy.",
+      "id": "1ba4693c6f20b2371adc974291dd8e21"
+    },
+    {
+      "title": "SN Operator Review: Backup Solution for SNES Games",
+      "description": "The Epilogue SN Operator is a device for backing up SNES games and saves, offering collectors a reliable preservation method. It's priced at $60.",
       "category": "Gaming",
-      "source": "GameSpot",
-      "url": "https://www.gamespot.com/articles/forza-horizon-6-signals-a-new-peak-for-open-world-driving-games/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Xbox-Sponsored-Article-1-Feature-Image-2.jpg",
-      "published_at": "2026-06-14T23:30:00Z",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/epilogue-sn-operator-review",
+      "image": "https://assets-prd.ignimgs.com/2026/06/12/snoperator-1-1781306560953.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-15T14:00:00Z",
       "key_points": [
-        "Set in Japan",
-        "Ambitious open-world design",
-        "Elevated driving experience"
+        "Backup solution for SNES",
+        "Priced at $60",
+        "Preserves physical game library"
       ],
-      "impact": "Forza Horizon 6 redefines driving games.",
-      "id": "c7c18f567f6c5cb6f71ce73262af7218"
+      "impact": "Collectors can safeguard their game memories.",
+      "id": "a9303c37dc51ef13e7cef41b9d0ff5ae"
     },
     {
-      "title": "Digimon Story: Time Stranger Comparison Video Released",
-      "description": "A new comparison video showcases the differences between Digimon Story: Time Stranger on Nintendo Switch 2, Switch, and PS5.",
-      "category": "Gaming",
-      "source": "Nintendo Everything",
-      "url": "https://nintendoeverything.com/video-digimon-story-time-stranger-nintendo-switch-2-vs-switch-vs-ps5-comparison/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Digimon-Story-Time-Stranger-Switch-2-Switch-PS5-comparison.jpg",
-      "published_at": "2026-06-14T22:20:06Z",
-      "key_points": [
-        "Comparison video released",
-        "Switch 2 vs. PS5",
-        "Digimon gameplay differences"
-      ],
-      "impact": "Digimon comparison highlights platform variations.",
-      "id": "14432636a3bc22664d31f4bb91c118f9"
-    },
-    {
-      "title": "M-VAVE FM-1: Affordable FM Synthesizer Launched",
-      "description": "The M-VAVE FM-1 is a budget-friendly, battery-powered FM synthesizer featuring a multi-FX engine, appealing to music enthusiasts.",
+      "title": "iPhone 18 Pro Rumored Camera Upgrades",
+      "description": "Rumors suggest the iPhone 18 Pro will feature significant camera upgrades, enhancing photography capabilities. Three main features are anticipated.",
       "category": "Hardware",
-      "source": "Synthanatomy",
-      "url": "https://synthanatomy.com/2026/06/m-vave-fm-1-a-budget-friendly-dx-7-style-desktop-fm-polysynth.html",
-      "image": "https://synthanatomy.com/wp-content/uploads/2026/06/M-vave-FM-1-synth.jpg",
-      "published_at": "2026-06-14T20:22:41Z",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/15/iphone-18-pro-three-new-camera-upgrades-are-coming/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-blue-camera-array.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-15T13:52:00Z",
       "key_points": [
-        "Budget-friendly FM synthesizer",
-        "Battery-powered design",
-        "Built-in multi-FX engine"
+        "iPhone 18 Pro camera upgrades",
+        "Three main features rumored",
+        "Enhances photography capabilities"
       ],
-      "impact": "M-VAVE FM-1 makes synthesis accessible.",
-      "id": "09e46cdd9629b5a0644b745a886fd6d3"
+      "impact": "Anticipated upgrades excite photography enthusiasts.",
+      "id": "ff002de2597aa0379d3a7c3b08e17afd"
     },
     {
-      "title": "Top Laptops to Watch After Computex 2026",
-      "description": "Discover the most exciting laptops unveiled at Computex 2026, featuring powerful RTX graphics and innovative AI capabilities.",
+      "title": "iPhone 18 Pro Casing Similar to Predecessor",
+      "description": "The iPhone 18 Pro is expected to use the same aluminum alloy casing as its predecessor, maintaining a mix of pros and cons from previous models.",
       "category": "Hardware",
-      "source": "Digital Trends",
-      "url": "https://www.digitaltrends.com/computing/best-laptops-coming-in-2026-after-computex/",
-      "image": "https://www.digitaltrends.com/tachyon/2026/06/ASUS-ROG-Strix-Scar-18-Computex-2026-Other.jpg?resize=1200%2C630",
-      "published_at": "2026-06-14T20:08:37Z",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/15/iphone-18-pro-casing-likely-to-experience-same-pros-cons-as-its-predecessor/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-18-pro-colors.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-15T13:48:00Z",
       "key_points": [
-        "Exciting laptop announcements",
-        "RTX graphics powerhouses",
-        "Innovative AI features"
+        "iPhone 18 Pro casing details",
+        "Same alloy as predecessor",
+        "Pros and cons remain"
       ],
-      "impact": "Computex 2026 showcases future laptop innovations.",
-      "id": "013a2cdafd654b149ff2821e37dc4f0b"
-    },
-    {
-      "title": "Stranger Than Heaven Revamps Yakuza Combat System",
-      "description": "Stranger Than Heaven introduces a new stamina-based combat system, replacing traditional Heat Moves with innovative shoulder button mechanics.",
-      "category": "Gaming",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/stranger-than-heaven-combat-shoulder-buttons-stamina-counterattacks/",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/8790abc5-b82e-48f5-97ae-da40d341a723-HD-1920x1080.jpeg",
-      "published_at": "2026-06-14T19:00:00Z",
-      "key_points": [
-        "New combat system introduced",
-        "Stamina-based mechanics",
-        "Shoulder button focus"
-      ],
-      "impact": "Stranger Than Heaven innovates Yakuza gameplay.",
-      "id": "e5600b743eb011984ffe4be290103ca6"
+      "impact": "Design continuity may affect user experience.",
+      "id": "adc3eac0db0c6cb38dbcc9a198a86216"
     }
   ]
 }
