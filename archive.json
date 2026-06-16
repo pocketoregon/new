@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-16T20:49:31.607588+00:00",
+      "fetched_at": "2026-06-16T20:49:31.607588+00:00",
+      "label": "Jun 16, 2026 — 08:50 PM UTC",
+      "articles": [
+        {
+          "title": "Xbox Studios Face Potential Closures",
+          "description": "Microsoft's Xbox studios, including Compulsion Games, may spin off to avoid closures. Negotiations are ongoing for independence.",
+          "category": "Gaming",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-15/studios-in-microsoft-s-xbox-division-brace-for-closures",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieKu6AwmmgjQ/v0/1200x799.jpg",
+          "published_at": "2026-06-15T20:15:04Z",
+          "key_points": [
+            "Studios negotiating independence",
+            "Potential closures looming",
+            "Compulsion Games involved"
+          ],
+          "impact": "This could reshape Xbox's development landscape.",
+          "id": "321b274501fd2d5418ddf102bb0e0fd8"
+        },
+        {
+          "title": "Apple Reveals Siri Overhaul Delays",
+          "description": "Apple's Siri overhaul for iOS 27 took longer than expected due to extensive improvements. Mike Rockwell explains the challenges faced.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/15/apple-explains-why-siris-major-ios-27-overhaul-took-so-long/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-15T19:19:00Z",
+          "key_points": [
+            "Siri upgrade significantly delayed",
+            "Extensive improvements made",
+            "Mike Rockwell provides insights"
+          ],
+          "impact": "Siri's new features aim to enhance user experience.",
+          "id": "68bf2791994637de1bbde5686dba9d24"
+        },
+        {
+          "title": "Steam Next Fest Overrun by AI Games",
+          "description": "Steam Next Fest is criticized for being flooded with AI-generated games, disappointing many gamers. The event's charm seems diminished.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/exploring-steam-next-fest-with-an-ai-blocking-extension-is-very-depressing-2000706695",
+          "image": "https://kotaku.com/app/uploads/2026/06/steamnexfest-1200x675.jpg",
+          "published_at": "2026-06-15T19:14:00Z",
+          "key_points": [
+            "AI games dominate Steam Next Fest",
+            "Gamers express disappointment",
+            "Event charm diminished"
+          ],
+          "impact": "This trend may alter future gaming events.",
+          "id": "10edc77853184eb68e7ecf7ec64ae91c"
+        },
+        {
+          "title": "Google Chrome Tightens Ad Blocker Policies",
+          "description": "Google Chrome will remove loopholes allowing older ad blockers to function, impacting user experience. Updates are expected this summer.",
+          "category": "Software",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24418648/STK114_Google_Chrome_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-15T18:06:18Z",
+          "key_points": [
+            "Chrome removes ad blocker loopholes",
+            "Updates coming this summer",
+            "User experience impacted"
+          ],
+          "impact": "This may frustrate users relying on ad blockers.",
+          "id": "9c6a905412b5634b987dafa045a86c02"
+        },
+        {
+          "title": "AMD Removes Memory Crypto from CPUs",
+          "description": "AMD's decision to strip memory crypto from consumer CPUs has sparked user backlash, suggesting a covert strategy.",
+          "category": "Security",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_7105-1152x648-1769617334.jpeg",
+          "published_at": "2026-06-15T17:55:46Z",
+          "key_points": [
+            "AMD strips memory crypto",
+            "User backlash ensues",
+            "Covert strategy suspected"
+          ],
+          "impact": "This could affect consumer trust in AMD.",
+          "id": "67377d6541c6a4e9e379c8491ff1966f"
+        },
+        {
+          "title": "No iPhone 18 Release This Year",
+          "description": "Apple's iPhone 18 will not launch in 2026, with a new release expected in early 2027, according to supply chain sources.",
+          "category": "Business",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/15/no-iphone-18-this-year-apple-supplier-confirms/",
+          "image": "https://images.macrumors.com/t/Y1Sp3NsfWCwKbQL0mUSrnViR6tY=/2000x/article-new/2025/09/iphone-17-models.jpg",
+          "published_at": "2026-06-15T17:51:57Z",
+          "key_points": [
+            "iPhone 18 delayed to 2027",
+            "Supply chain confirms rumors",
+            "No release this year"
+          ],
+          "impact": "This may impact Apple's market strategy.",
+          "id": "6f90eca4aa7522de8b0e32c85f24952a"
+        },
+        {
+          "title": "MTG Arena Updates Announced",
+          "description": "Magic: The Gathering Arena announces new events and updates, including an early-access event for Marvel Super Heroes.",
+          "category": "Gaming",
+          "source": "Wizards.com",
+          "url": "https://magic.wizards.com/en/news/mtg-arena/announcements-june-15-2026",
+          "image": "https://images.ctfassets.net/s5n2t79q9icq/1qqHUJ9cKYenQosEqhXIPD/968f0dfadd6c9b3841beb7a93058e210/en_articles_archive_magic-digital_mtg-arena-announcements-september-14-2022-meta-image.jpeg",
+          "published_at": "2026-06-15T17:12:44Z",
+          "key_points": [
+            "New MTG Arena events announced",
+            "Marvel Super Heroes early-access",
+            "Exciting updates for players"
+          ],
+          "impact": "This will engage the MTG community further.",
+          "id": "2cf5f8b79e2763700cdee9e49d2d57db"
+        },
+        {
+          "title": "Vikings Used Islamic Coins for Pennies",
+          "description": "A study reveals Vikings melted Islamic silver coins to create their early pennies, highlighting cultural exchanges.",
+          "category": "Geopolitics",
+          "source": "Live Science",
+          "url": "https://www.livescience.com/archaeology/vikings/melted-in-a-pot-somewhere-vikings-used-islamic-silver-coins-to-make-their-early-pennies-study-finds",
+          "image": "https://cdn.mos.cms.futurecdn.net/4ixkCueWXjLJhv7fffaU74-1920-80.jpg",
+          "published_at": "2026-06-15T17:07:07Z",
+          "key_points": [
+            "Vikings melted Islamic coins",
+            "Cultural exchange highlighted",
+            "New study findings revealed"
+          ],
+          "impact": "This sheds light on Viking trade practices.",
+          "id": "0f599d55d9c0666dcfdf2b4b2e0e76bb"
+        },
+        {
+          "title": "Assassin's Creed Shadows Update Released",
+          "description": "The 1.1.11 update for Assassin's Creed Shadows introduces a new story quest and improvements for Nintendo Switch 2.",
+          "category": "Gaming",
+          "source": "Nintendoeverything.com",
+          "url": "https://nintendoeverything.com/assassins-creed-shadows-1-1-11-update-announced-patch-notes-new-story-quest-nintendo-switch-2-handheld-gpu-improvements-more/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Assassins-Creed-Shadows-1.1.11-update.jpg",
+          "published_at": "2026-06-15T16:20:21Z",
+          "key_points": [
+            "New story quest added",
+            "Switch 2 improvements included",
+            "Final content drop announced"
+          ],
+          "impact": "This enhances gameplay for Assassin's Creed fans.",
+          "id": "08ce61e22e4988bb9cad0d47cb926e31"
+        },
+        {
+          "title": "SiN Remaster Gameplay Trailer Released",
+          "description": "Nightdive's remaster of SiN is back with a gameplay trailer and a Steam demo, reviving interest in the classic FPS.",
+          "category": "Gaming",
+          "source": "Eurogamer.net",
+          "url": "https://www.eurogamer.net/sin-reloaded-gameplay-trailer-steam-demo",
+          "image": "https://assetsio.gnwcdn.com/Sin-Reloaded-shootout.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-15T16:10:05Z",
+          "key_points": [
+            "SiN remaster gameplay trailer released",
+            "Steam demo available now",
+            "Classic FPS revival announced"
+          ],
+          "impact": "This could attract nostalgic gamers back.",
+          "id": "fb03bedd31ed44ac534c689e1dd325fd"
+        },
+        {
+          "title": "Apple Watch Ultra Won't Get Updates",
+          "description": "Apple's first Watch Ultra will not receive the upcoming watchOS 27 update, leaving many features unsupported.",
+          "category": "Hardware",
+          "source": "Gizmodo.com",
+          "url": "https://gizmodo.com/apple-is-leaving-its-first-apple-watch-ultra-in-the-dust-2000771952",
+          "image": "https://gizmodo.com/app/uploads/2026/06/Apple-Watch-Ultra-2022--1200x675.jpg",
+          "published_at": "2026-06-15T16:07:38Z",
+          "key_points": [
+            "Apple Watch Ultra left behind",
+            "No watchOS 27 update",
+            "Features unsupported"
+          ],
+          "impact": "This may frustrate existing Apple Watch users.",
+          "id": "d70b0e6bcfcea5deefd18f0e623c1684"
+        },
+        {
+          "title": "Mistfall Hunter Open Beta Now Live",
+          "description": "The free open beta for Mistfall Hunter is now available on PS5, offering a gothic action RPG experience for players.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/if-youre-itching-for-a-gothic-action-rpg-mistfall-hunters-free-open-beta-is-now-live-on-ps5",
+          "image": "https://images.pushsquare.com/6eaa2dfa2a110/large.jpg",
+          "published_at": "2026-06-15T15:30:00Z",
+          "key_points": [
+            "Mistfall Hunter beta launched",
+            "Available for PS5 players",
+            "Gothic action RPG experience"
+          ],
+          "impact": "This could attract new players to the genre.",
+          "id": "5f5174cb66a917cee9c0da6d500e22f5"
+        },
+        {
+          "title": "Adobe Creative Cloud Updates Released",
+          "description": "Adobe introduces major updates for Creative Cloud, enhancing tools like Lightroom and Photoshop with AI features.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/15/adobe-rolls-out-major-creative-cloud-updates-for-lightroom-premiere-photoshop-more/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/adobe-after-effects.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-15T15:00:00Z",
+          "key_points": [
+            "Major Creative Cloud updates released",
+            "AI tools introduced",
+            "Workflow improvements included"
+          ],
+          "impact": "This enhances productivity for creative professionals.",
+          "id": "55c95421bd3f5ca04c08ae0e2f7f207e"
+        },
+        {
+          "title": "AMD Discusses FSR 4.1 Upscaling",
+          "description": "AMD promises quality parity between RDNA 3 and RDNA 4 with its FSR 4.1 upscaling technology, discussed at Computex 2026.",
+          "category": "Hardware",
+          "source": "Techpowerup.com",
+          "url": "https://www.techpowerup.com/349972/amd-explains-fsr-4-1-upscaling-for-rdna-3-promises-quality-parity-with-rdna-4",
+          "image": "https://www.techpowerup.com/img/AlY0IbsI14yNalZC.jpg",
+          "published_at": "2026-06-15T14:55:02Z",
+          "key_points": [
+            "AMD discusses FSR 4.1 upscaling",
+            "Quality parity promised",
+            "Insights shared at Computex"
+          ],
+          "impact": "This could enhance gaming performance significantly.",
+          "id": "1e323aa2fbc8500adb540949876022fc"
+        },
+        {
+          "title": "Xbox May Introduce Buy Now, Pay Later",
+          "description": "Xbox's website code hints at potential Buy Now, Pay Later options via PayPal and Klarna, enhancing payment flexibility.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/xbox-series-x-klarna-paypal-pay-later-financing-microsoft-2000706625",
+          "image": "https://kotaku.com/app/uploads/2026/06/xbox-pay-later.jpg",
+          "published_at": "2026-06-15T14:50:17Z",
+          "key_points": [
+            "Buy Now, Pay Later options coming",
+            "PayPal and Klarna mentioned",
+            "Enhanced payment flexibility expected"
+          ],
+          "impact": "This could attract more customers to Xbox.",
+          "id": "6110167f074be94c460dfbdf8b02d958"
+        }
+      ]
+    },
+    {
       "id": "2026-06-16T16:49:40.430343+00:00",
       "fetched_at": "2026-06-16T16:49:40.430343+00:00",
       "label": "Jun 16, 2026 — 04:50 PM UTC",
@@ -6376,253 +6623,6 @@
           ],
           "impact": "Android could benefit from iOS innovations.",
           "id": "dcbc3f9c43fa534df8e0d5d16349f5e4"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-10T15:32:00.457926+00:00",
-      "fetched_at": "2026-06-10T15:32:00.457926+00:00",
-      "label": "Jun 10, 2026 — 03:32 PM UTC",
-      "articles": [
-        {
-          "title": "Zelda: Ocarina of Time Remake for Switch 2",
-          "description": "Nintendo confirms the remake of The Legend of Zelda: Ocarina of Time for Switch 2, set to launch in 2026. Fans can expect a nostalgic yet refreshed experience.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-revealed-for-nintendo-switch-2",
-          "image": "https://assets-prd.ignimgs.com/2023/11/21/ocarina-of-time-blogroll-1700570336021.jpg?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-09T15:14:14Z",
-          "key_points": [
-            "Remake confirmed for Switch 2",
-            "Launch set for 2026",
-            "Nostalgic gameplay experience"
-          ],
-          "impact": "This remake revives a classic for new audiences.",
-          "id": "827ddec1d5ea8a13f396f7b7c3ad8ebc"
-        },
-        {
-          "title": "iOS 27 Features Unveiled",
-          "description": "iOS 27 introduces minor enhancements for iPhone users, focusing on usability rather than major changes. New features aim to streamline everyday tasks.",
-          "category": "Software",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/09/ios-27-features-we-didnt-see-on-stage/",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/06/hero-vx-ios_2x.jpeg?resize=1200,675",
-          "published_at": "2026-06-09T15:06:12Z",
-          "key_points": [
-            "Minor enhancements for usability",
-            "Focus on everyday tasks",
-            "No major changes introduced"
-          ],
-          "impact": "iOS 27 improves user experience subtly.",
-          "id": "b24e4f048d0e58c476ad7940ae4d1fbe"
-        },
-        {
-          "title": "Kingdom Hearts Collection Announced",
-          "description": "Square Enix reveals Kingdom Hearts Collection [I ~ III] for PS5, Xbox Series, and Switch 2, featuring beloved titles. Fans can expect nostalgic gameplay.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/kingdom-hearts-collection-i-iii-announced-for-ps5-xbox-series-and-switch-2",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/KHC-Ann_06-09-26.jpg",
-          "published_at": "2026-06-09T14:54:49Z",
-          "key_points": [
-            "Collection includes classic titles",
-            "Available on multiple platforms",
-            "Nostalgic gameplay experience"
-          ],
-          "impact": "This collection brings classic games to new consoles.",
-          "id": "cb93fb5cd8b47f8b4e0bc3dc5cd69c44"
-        },
-        {
-          "title": "macOS 27 Alerts Background Apps",
-          "description": "macOS 27 Golden Gate enhances user awareness by notifying when apps run in the background. This aims to improve transparency and security.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/09/macos-27-golden-gate-makes-it-clear-when-apps-are-sneakily-running-in-background/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/gemini-mac.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-09T14:09:00Z",
-          "key_points": [
-            "Notifies users of background apps",
-            "Improves transparency",
-            "Enhances security measures"
-          ],
-          "impact": "macOS 27 boosts user control over apps.",
-          "id": "e1ee218eb26e25cd16c0ec0dc350932a"
-        },
-        {
-          "title": "Apple WWDC 2026 Keynote Updates",
-          "description": "Mashable provides live updates from Apple's WWDC 2026, covering announcements about iOS 27 and Siri. Stay tuned for real-time news.",
-          "category": "Software",
-          "source": "Mashable",
-          "url": "https://mashable.com/tech/apple-wwdc-2026-keynote-live-updates",
-          "image": "https://helios-i.mashable.com/imagery/live_blogs/06XLLDMWqePQxZQ6Mc0kqMS/desktop_banner_image.fill.size_1200x675.v1780700508.jpg",
-          "published_at": "2026-06-09T12:23:00Z",
-          "key_points": [
-            "Live updates from WWDC 2026",
-            "Focus on iOS 27 and Siri",
-            "Real-time news coverage"
-          ],
-          "impact": "WWDC 2026 showcases Apple's latest innovations.",
-          "id": "437be07c9ca0faa6c6c540cfd062a61c"
-        },
-        {
-          "title": "Nvidia Targets CPU Market",
-          "description": "Nvidia is expanding into the CPU market, challenging AMD and Intel's dominance. This move could disrupt the current landscape significantly.",
-          "category": "Business",
-          "source": "Motley Fool",
-          "url": "https://www.fool.com/investing/2026/06/08/nvidia-is-doubling-down-on-the-cpu-market-thats-ba/",
-          "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F873412%2Fnvidia-data-center-with-nvidia-units-installed-showing-nvidia-logo.png&w=1200&op=resize",
-          "published_at": "2026-06-09T01:49:00Z",
-          "key_points": [
-            "Nvidia enters CPU market",
-            "Challenges AMD and Intel",
-            "Potential market disruption"
-          ],
-          "impact": "Nvidia's move could reshape CPU competition.",
-          "id": "2d88aeb6257f1bd75d4c1ad91262a721"
-        },
-        {
-          "title": "iOS 27 Features Android Already Has",
-          "description": "Android users note that several features in iOS 27 have been available on their platform for years. Apple continues to follow trends.",
-          "category": "Software",
-          "source": "Android Central",
-          "url": "https://www.androidcentral.com/apps-software/4-of-the-best-ios-27-features-android-already-has",
-          "image": "https://cdn.mos.cms.futurecdn.net/mPBjLhkr9fMMFqbtY2fofM-2048-80.jpg",
-          "published_at": "2026-06-08T22:31:01Z",
-          "key_points": [
-            "iOS 27 lags behind Android",
-            "Features are not new",
-            "Apple follows existing trends"
-          ],
-          "impact": "iOS 27 highlights Apple's reactive approach.",
-          "id": "4675bf3fcfca900e96126d2fa0d682cb"
-        },
-        {
-          "title": "Hints of a Folding iPhone in iOS 27",
-          "description": "iOS 27 code reveals potential features of an upcoming folding iPhone, including subroutines for its folding mechanism. Excitement builds for the new device.",
-          "category": "Software",
-          "source": "AppleInsider",
-          "url": "https://appleinsider.com/articles/26/06/08/ios-27-code-has-clear-signs-that-a-folding-iphone-is-coming-soon",
-          "image": "https://photos5.appleinsider.com/gallery/67890-143098-Squat-Fold-8-xl.jpg",
-          "published_at": "2026-06-08T21:59:00Z",
-          "key_points": [
-            "Code hints at folding iPhone",
-            "Subroutines for folding mechanism",
-            "Excitement for new device"
-          ],
-          "impact": "A folding iPhone could revolutionize design.",
-          "id": "1eaa46f869724b47a30f862f510a4df2"
-        },
-        {
-          "title": "Apple Intelligence Automates Password Changes",
-          "description": "Apple's new feature allows automatic password changes when a user is hacked, enhancing security. This could significantly improve user safety.",
-          "category": "Security",
-          "source": "Gizmodo.com",
-          "url": "https://gizmodo.com/apple-intelligence-can-change-your-passwords-for-you-when-you-get-hacked-2000769041",
-          "image": "https://gizmodo.com/app/uploads/2026/03/Apple-iPhone-17e-6-1200x675.jpg",
-          "published_at": "2026-06-08T21:25:21Z",
-          "key_points": [
-            "Automates password changes",
-            "Enhances user security",
-            "Addresses hacking concerns"
-          ],
-          "impact": "This feature significantly boosts online safety.",
-          "id": "7c63de328ddb0ac703a1e1897bc0b5e5"
-        },
-        {
-          "title": "tvOS 27 Drops Support for Older Models",
-          "description": "tvOS 27 will not support two older Apple TV models, marking a shift in compatibility. Users need to upgrade for the latest features.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/08/tvos-27-drops-support-for-two-apple-tv-models/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tv-4k-tvos-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-08T19:53:00Z",
-          "key_points": [
-            "tvOS 27 drops older models",
-            "Compatibility shift announced",
-            "Users must upgrade devices"
-          ],
-          "impact": "Users need to adapt to new compatibility.",
-          "id": "846f6c531ee12fa310903527680fd02f"
-        },
-        {
-          "title": "AI Workflows in Apple Shortcuts",
-          "description": "Apple's Shortcuts app now allows users to create workflows using AI prompts, enhancing usability. This feature aims to simplify automation tasks.",
-          "category": "Software",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/06/shortcuts-at-2.26.16-PM.jpg?resize=1200,666",
-          "published_at": "2026-06-08T18:45:12Z",
-          "key_points": [
-            "AI enhances Shortcuts app",
-            "Simplifies workflow creation",
-            "User-friendly automation"
-          ],
-          "impact": "AI integration boosts Shortcuts usability.",
-          "id": "a6f495cb508bb46ea833a7dc8b92fdff"
-        },
-        {
-          "title": "visionOS 27 with Siri AI Announced",
-          "description": "Apple introduces visionOS 27 featuring Siri AI, curved app windows, and panorama support for Vision Pro. This update enhances mixed reality experiences.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/944129/apple-visionos-updates-wwdc-2026",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/wwdc2026-visionos27.png?quality=90&strip=all&crop=0%2C9.6904971505351%2C100%2C80.61900569893&w=1200",
-          "published_at": "2026-06-08T18:32:00Z",
-          "key_points": [
-            "visionOS 27 announced",
-            "Features Siri AI integration",
-            "Enhances mixed reality experience"
-          ],
-          "impact": "visionOS 27 elevates mixed reality capabilities.",
-          "id": "70b06dd5523822c4539b30e8bbc2d9f7"
-        },
-        {
-          "title": "AI Tools Coming to Apple Photos",
-          "description": "Apple introduces AI-powered editing tools in the Photos app, enhancing user experience with features like Cleanup and Spatial Reframing. This update aims to simplify photo management.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/08/apple-ai-reframing-and-editing-tools-in-photos/",
-          "image": "https://images.macrumors.com/t/UBxsuOhT1UNVy8rsUwHL57mCiuE=/1600x/article-new/2026/06/apple-intelligence-photos-tools.jpg",
-          "published_at": "2026-06-08T18:16:32Z",
-          "key_points": [
-            "AI tools enhance Photos app",
-            "New editing features introduced",
-            "Simplifies photo management"
-          ],
-          "impact": "AI tools improve user photo editing experience.",
-          "id": "9dd25980031fef0921e6f26a1a6bd9bd"
-        },
-        {
-          "title": "Apple Expands App Store Capabilities",
-          "description": "Apple enhances App Store features to help developers grow and reach new users. This initiative aims to improve app marketing and user acquisition.",
-          "category": "Business",
-          "source": "Apple",
-          "url": "https://www.apple.com/newsroom/2026/06/apple-expands-app-store-capabilities-to-help-developers-grow-and-reach-new-users/",
-          "image": "https://www.apple.com/newsroom/images/2026/06/apple-expands-app-store-capabilities-to-help-developers-grow-and-reach-new-users/tile/Apple-App-Store-hero-260608-lp.jpg.og.jpg?202606091301",
-          "published_at": "2026-06-08T18:14:13Z",
-          "key_points": [
-            "New App Store features announced",
-            "Supports developer growth",
-            "Enhances user acquisition strategies"
-          ],
-          "impact": "This expansion aids developers in reaching audiences.",
-          "id": "d924ac8104ee618e7989a98adfd5f021"
-        },
-        {
-          "title": "Custom EQ Coming to AirPods",
-          "description": "Apple announces a custom EQ feature for AirPods, allowing users to personalize sound settings. This update enhances audio experience for users.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/08/apple-to-bring-custom-eq-to-airpods/",
-          "image": "https://images.macrumors.com/t/mk0uyPXtuIoRafjIpKjQ6LGdsi8=/1600x/article-new/2026/06/airpods-eq.jpg",
-          "published_at": "2026-06-08T17:29:27Z",
-          "key_points": [
-            "Custom EQ feature announced",
-            "Personalizes AirPods sound",
-            "Enhances audio experience"
-          ],
-          "impact": "Custom EQ improves user audio personalization.",
-          "id": "0379803fb8cd429607856f7261a88987"
         }
       ]
     }

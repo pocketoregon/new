@@ -5,143 +5,143 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 16:50:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 20:50:12 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Microsoft 365 Copilot Vulnerability Enables Data Theft</title>
-      <description>A new vulnerability in Microsoft 365 Copilot allows attackers to steal sensitive data via a crafted URL. This poses significant risks for enterprise users.</description>
-      <link>https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/</link>
-      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/</guid>
-      <pubDate>2026-06-15T15:51:42Z</pubDate>
-      <category>Security</category>
-      <source url="https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/">BleepingComputer</source>
-    </item>
-    <item>
-      <title>Record Sale for Pristine Super Mario Bros. Cartridge</title>
-      <description>A pristine copy of Super Mario Bros. has sold for millions, breaking sales records due to its rarity and condition. Collectors are eager for such finds.</description>
-      <link>https://www.polygon.com/super-mario-bros-nes-record-2026-sale-why-rare-price-psa-grade/</link>
-      <guid isPermaLink="true">https://www.polygon.com/super-mario-bros-nes-record-2026-sale-why-rare-price-psa-grade/</guid>
-      <pubDate>2026-06-15T15:36:12Z</pubDate>
+      <title>Xbox Studios Face Potential Closures</title>
+      <description>Microsoft's Xbox studios, including Compulsion Games, may spin off to avoid closures. Negotiations are ongoing for independence.</description>
+      <link>https://www.bloomberg.com/news/articles/2026-06-15/studios-in-microsoft-s-xbox-division-brace-for-closures</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-06-15/studios-in-microsoft-s-xbox-division-brace-for-closures</guid>
+      <pubDate>2026-06-15T20:15:04Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.polygon.com/super-mario-bros-nes-record-2026-sale-why-rare-price-psa-grade/">Polygon</source>
+      <source url="https://www.bloomberg.com/news/articles/2026-06-15/studios-in-microsoft-s-xbox-division-brace-for-closures">Bloomberg</source>
     </item>
     <item>
-      <title>Final Fantasy 7 Revelation Revives Airship Gameplay</title>
-      <description>Final Fantasy 7 Revelation reintroduces the iconic Highwind airship, allowing players to pilot it once again. Fans are excited for this nostalgic feature.</description>
-      <link>https://www.ign.com/articles/final-fantasy-7-revelation-is-bringing-back-the-airship-dream</link>
-      <guid isPermaLink="true">https://www.ign.com/articles/final-fantasy-7-revelation-is-bringing-back-the-airship-dream</guid>
+      <title>Apple Reveals Siri Overhaul Delays</title>
+      <description>Apple's Siri overhaul for iOS 27 took longer than expected due to extensive improvements. Mike Rockwell explains the challenges faced.</description>
+      <link>https://9to5mac.com/2026/06/15/apple-explains-why-siris-major-ios-27-overhaul-took-so-long/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/15/apple-explains-why-siris-major-ios-27-overhaul-took-so-long/</guid>
+      <pubDate>2026-06-15T19:19:00Z</pubDate>
+      <category>Software</category>
+      <source url="https://9to5mac.com/2026/06/15/apple-explains-why-siris-major-ios-27-overhaul-took-so-long/">9to5Mac</source>
+    </item>
+    <item>
+      <title>Steam Next Fest Overrun by AI Games</title>
+      <description>Steam Next Fest is criticized for being flooded with AI-generated games, disappointing many gamers. The event's charm seems diminished.</description>
+      <link>https://kotaku.com/exploring-steam-next-fest-with-an-ai-blocking-extension-is-very-depressing-2000706695</link>
+      <guid isPermaLink="true">https://kotaku.com/exploring-steam-next-fest-with-an-ai-blocking-extension-is-very-depressing-2000706695</guid>
+      <pubDate>2026-06-15T19:14:00Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://kotaku.com/exploring-steam-next-fest-with-an-ai-blocking-extension-is-very-depressing-2000706695">Kotaku</source>
+    </item>
+    <item>
+      <title>Google Chrome Tightens Ad Blocker Policies</title>
+      <description>Google Chrome will remove loopholes allowing older ad blockers to function, impacting user experience. Updates are expected this summer.</description>
+      <link>https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes</guid>
+      <pubDate>2026-06-15T18:06:18Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes">The Verge</source>
+    </item>
+    <item>
+      <title>AMD Removes Memory Crypto from CPUs</title>
+      <description>AMD's decision to strip memory crypto from consumer CPUs has sparked user backlash, suggesting a covert strategy.</description>
+      <link>https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/</link>
+      <guid isPermaLink="true">https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/</guid>
+      <pubDate>2026-06-15T17:55:46Z</pubDate>
+      <category>Security</category>
+      <source url="https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/">Ars Technica</source>
+    </item>
+    <item>
+      <title>No iPhone 18 Release This Year</title>
+      <description>Apple's iPhone 18 will not launch in 2026, with a new release expected in early 2027, according to supply chain sources.</description>
+      <link>https://www.macrumors.com/2026/06/15/no-iphone-18-this-year-apple-supplier-confirms/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/06/15/no-iphone-18-this-year-apple-supplier-confirms/</guid>
+      <pubDate>2026-06-15T17:51:57Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.macrumors.com/2026/06/15/no-iphone-18-this-year-apple-supplier-confirms/">MacRumors</source>
+    </item>
+    <item>
+      <title>MTG Arena Updates Announced</title>
+      <description>Magic: The Gathering Arena announces new events and updates, including an early-access event for Marvel Super Heroes.</description>
+      <link>https://magic.wizards.com/en/news/mtg-arena/announcements-june-15-2026</link>
+      <guid isPermaLink="true">https://magic.wizards.com/en/news/mtg-arena/announcements-june-15-2026</guid>
+      <pubDate>2026-06-15T17:12:44Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://magic.wizards.com/en/news/mtg-arena/announcements-june-15-2026">Wizards.com</source>
+    </item>
+    <item>
+      <title>Vikings Used Islamic Coins for Pennies</title>
+      <description>A study reveals Vikings melted Islamic silver coins to create their early pennies, highlighting cultural exchanges.</description>
+      <link>https://www.livescience.com/archaeology/vikings/melted-in-a-pot-somewhere-vikings-used-islamic-silver-coins-to-make-their-early-pennies-study-finds</link>
+      <guid isPermaLink="true">https://www.livescience.com/archaeology/vikings/melted-in-a-pot-somewhere-vikings-used-islamic-silver-coins-to-make-their-early-pennies-study-finds</guid>
+      <pubDate>2026-06-15T17:07:07Z</pubDate>
+      <category>Geopolitics</category>
+      <source url="https://www.livescience.com/archaeology/vikings/melted-in-a-pot-somewhere-vikings-used-islamic-silver-coins-to-make-their-early-pennies-study-finds">Live Science</source>
+    </item>
+    <item>
+      <title>Assassin's Creed Shadows Update Released</title>
+      <description>The 1.1.11 update for Assassin's Creed Shadows introduces a new story quest and improvements for Nintendo Switch 2.</description>
+      <link>https://nintendoeverything.com/assassins-creed-shadows-1-1-11-update-announced-patch-notes-new-story-quest-nintendo-switch-2-handheld-gpu-improvements-more/</link>
+      <guid isPermaLink="true">https://nintendoeverything.com/assassins-creed-shadows-1-1-11-update-announced-patch-notes-new-story-quest-nintendo-switch-2-handheld-gpu-improvements-more/</guid>
+      <pubDate>2026-06-15T16:20:21Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://nintendoeverything.com/assassins-creed-shadows-1-1-11-update-announced-patch-notes-new-story-quest-nintendo-switch-2-handheld-gpu-improvements-more/">Nintendoeverything.com</source>
+    </item>
+    <item>
+      <title>SiN Remaster Gameplay Trailer Released</title>
+      <description>Nightdive's remaster of SiN is back with a gameplay trailer and a Steam demo, reviving interest in the classic FPS.</description>
+      <link>https://www.eurogamer.net/sin-reloaded-gameplay-trailer-steam-demo</link>
+      <guid isPermaLink="true">https://www.eurogamer.net/sin-reloaded-gameplay-trailer-steam-demo</guid>
+      <pubDate>2026-06-15T16:10:05Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.eurogamer.net/sin-reloaded-gameplay-trailer-steam-demo">Eurogamer.net</source>
+    </item>
+    <item>
+      <title>Apple Watch Ultra Won't Get Updates</title>
+      <description>Apple's first Watch Ultra will not receive the upcoming watchOS 27 update, leaving many features unsupported.</description>
+      <link>https://gizmodo.com/apple-is-leaving-its-first-apple-watch-ultra-in-the-dust-2000771952</link>
+      <guid isPermaLink="true">https://gizmodo.com/apple-is-leaving-its-first-apple-watch-ultra-in-the-dust-2000771952</guid>
+      <pubDate>2026-06-15T16:07:38Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://gizmodo.com/apple-is-leaving-its-first-apple-watch-ultra-in-the-dust-2000771952">Gizmodo.com</source>
+    </item>
+    <item>
+      <title>Mistfall Hunter Open Beta Now Live</title>
+      <description>The free open beta for Mistfall Hunter is now available on PS5, offering a gothic action RPG experience for players.</description>
+      <link>https://www.pushsquare.com/news/2026/06/if-youre-itching-for-a-gothic-action-rpg-mistfall-hunters-free-open-beta-is-now-live-on-ps5</link>
+      <guid isPermaLink="true">https://www.pushsquare.com/news/2026/06/if-youre-itching-for-a-gothic-action-rpg-mistfall-hunters-free-open-beta-is-now-live-on-ps5</guid>
       <pubDate>2026-06-15T15:30:00Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.ign.com/articles/final-fantasy-7-revelation-is-bringing-back-the-airship-dream">IGN</source>
+      <source url="https://www.pushsquare.com/news/2026/06/if-youre-itching-for-a-gothic-action-rpg-mistfall-hunters-free-open-beta-is-now-live-on-ps5">Push Square</source>
     </item>
     <item>
-      <title>Nintendo Direct Breaks Viewership Records</title>
-      <description>Nintendo's latest Direct was the most-watched showcase of 2026, peaking at 3.7 million viewers. The Zelda: Ocarina of Time remake trailer led the views.</description>
-      <link>https://www.eurogamer.net/nintendo-direct-june-2026-zelda-ocarina-of-time</link>
-      <guid isPermaLink="true">https://www.eurogamer.net/nintendo-direct-june-2026-zelda-ocarina-of-time</guid>
-      <pubDate>2026-06-15T15:23:57Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.eurogamer.net/nintendo-direct-june-2026-zelda-ocarina-of-time">Eurogamer</source>
-    </item>
-    <item>
-      <title>New Crossword Puzzle Released by Defector</title>
-      <description>Defector's latest crossword puzzle, crafted by Patrick Maher, is now available. It promises to challenge and entertain puzzle enthusiasts.</description>
-      <link>https://defector.com/the-crossword-june-15-i-need-some-space</link>
-      <guid isPermaLink="true">https://defector.com/the-crossword-june-15-i-need-some-space</guid>
-      <pubDate>2026-06-15T15:03:00Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://defector.com/the-crossword-june-15-i-need-some-space">Defector.com</source>
-    </item>
-    <item>
-      <title>Apple and Tesla Collaborate on CarPlay Integration</title>
-      <description>Apple and Tesla are reportedly enhancing CarPlay support for Tesla vehicles. This collaboration could improve user experience in electric cars.</description>
-      <link>https://9to5mac.com/2026/06/15/this-carplay-change-may-be-the-missing-link-for-tesla-support/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/15/this-carplay-change-may-be-the-missing-link-for-tesla-support/</guid>
-      <pubDate>2026-06-15T14:47:00Z</pubDate>
-      <category>Business</category>
-      <source url="https://9to5mac.com/2026/06/15/this-carplay-change-may-be-the-missing-link-for-tesla-support/">9to5Mac</source>
-    </item>
-    <item>
-      <title>Google Chrome Update Ends Popular Ad Blockers</title>
-      <description>Google Chrome's upcoming update will eliminate many popular ad blockers due to changes in extension policies. Users may face increased ads.</description>
-      <link>http://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/</link>
-      <guid isPermaLink="true">http://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/</guid>
-      <pubDate>2026-06-15T14:45:00Z</pubDate>
+      <title>Adobe Creative Cloud Updates Released</title>
+      <description>Adobe introduces major updates for Creative Cloud, enhancing tools like Lightroom and Photoshop with AI features.</description>
+      <link>https://9to5mac.com/2026/06/15/adobe-rolls-out-major-creative-cloud-updates-for-lightroom-premiere-photoshop-more/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/15/adobe-rolls-out-major-creative-cloud-updates-for-lightroom-premiere-photoshop-more/</guid>
+      <pubDate>2026-06-15T15:00:00Z</pubDate>
       <category>Software</category>
-      <source url="http://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/">9to5Google</source>
+      <source url="https://9to5mac.com/2026/06/15/adobe-rolls-out-major-creative-cloud-updates-for-lightroom-premiere-photoshop-more/">9to5Mac</source>
     </item>
     <item>
-      <title>Discount on Popular Qi2 Power Bank for Readers</title>
-      <description>The Baseus AM52 Qi2.2 power bank is now available at a discounted price of $42.99 for Verge readers. It's compatible with MagSafe devices.</description>
-      <link>https://www.theverge.com/gadgets/949766/baseus-am52-usbc-power-bank-magsafe-deal-sale</link>
-      <guid isPermaLink="true">https://www.theverge.com/gadgets/949766/baseus-am52-usbc-power-bank-magsafe-deal-sale</guid>
-      <pubDate>2026-06-15T14:39:24Z</pubDate>
-      <category>Business</category>
-      <source url="https://www.theverge.com/gadgets/949766/baseus-am52-usbc-power-bank-magsafe-deal-sale">The Verge</source>
-    </item>
-    <item>
-      <title>EA Launches New Advertising Platform</title>
-      <description>Electronic Arts has introduced EA Advertising, allowing brands to advertise directly within gameplay. This innovation aims to enhance brand engagement.</description>
-      <link>https://www.cnbc.com/2026/06/15/electronic-arts-launches-a-new-way-to-advertise-directly-into-gameplay.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/06/15/electronic-arts-launches-a-new-way-to-advertise-directly-into-gameplay.html</guid>
-      <pubDate>2026-06-15T14:32:12Z</pubDate>
-      <category>Business</category>
-      <source url="https://www.cnbc.com/2026/06/15/electronic-arts-launches-a-new-way-to-advertise-directly-into-gameplay.html">CNBC</source>
-    </item>
-    <item>
-      <title>Nintendo Deletes Hidden Info on Zelda Remake</title>
-      <description>Nintendo has removed hidden information about the Zelda: Ocarina of Time remake from its site, leaving fans speculating about the game.</description>
-      <link>https://kotaku.com/hidden-info-zelda-ocarina-of-time-remake-nintendo-deleted-store-html-info-switch-2-2000706626</link>
-      <guid isPermaLink="true">https://kotaku.com/hidden-info-zelda-ocarina-of-time-remake-nintendo-deleted-store-html-info-switch-2-2000706626</guid>
-      <pubDate>2026-06-15T14:28:47Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://kotaku.com/hidden-info-zelda-ocarina-of-time-remake-nintendo-deleted-store-html-info-switch-2-2000706626">Kotaku</source>
-    </item>
-    <item>
-      <title>Uncertainty Surrounds Trump Mobile's T1 Phone</title>
-      <description>A year after its announcement, the Trump Mobile T1 Phone's production status remains unclear, leaving potential buyers in doubt.</description>
-      <link>https://www.theverge.com/policy/949093/trump-mobile-t1-phone-one-year-anniversary</link>
-      <guid isPermaLink="true">https://www.theverge.com/policy/949093/trump-mobile-t1-phone-one-year-anniversary</guid>
-      <pubDate>2026-06-15T14:15:00Z</pubDate>
-      <category>Policy</category>
-      <source url="https://www.theverge.com/policy/949093/trump-mobile-t1-phone-one-year-anniversary">The Verge</source>
-    </item>
-    <item>
-      <title>Craig Duncan Steps Down as Xbox Game Studios Head</title>
-      <description>Craig Duncan has resigned from his position as head of Xbox Game Studios after 18 months. His departure raises questions about future leadership.</description>
-      <link>https://www.thegamebusiness.com/p/xbox-game-studios-boss-craig-duncan</link>
-      <guid isPermaLink="true">https://www.thegamebusiness.com/p/xbox-game-studios-boss-craig-duncan</guid>
-      <pubDate>2026-06-15T14:08:42Z</pubDate>
-      <category>Business</category>
-      <source url="https://www.thegamebusiness.com/p/xbox-game-studios-boss-craig-duncan">Thegamebusiness.com</source>
-    </item>
-    <item>
-      <title>SN Operator Review: Backup Solution for SNES Games</title>
-      <description>The Epilogue SN Operator is a device for backing up SNES games and saves, offering collectors a reliable preservation method. It's priced at $60.</description>
-      <link>https://www.ign.com/articles/epilogue-sn-operator-review</link>
-      <guid isPermaLink="true">https://www.ign.com/articles/epilogue-sn-operator-review</guid>
-      <pubDate>2026-06-15T14:00:00Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.ign.com/articles/epilogue-sn-operator-review">IGN</source>
-    </item>
-    <item>
-      <title>iPhone 18 Pro Rumored Camera Upgrades</title>
-      <description>Rumors suggest the iPhone 18 Pro will feature significant camera upgrades, enhancing photography capabilities. Three main features are anticipated.</description>
-      <link>https://9to5mac.com/2026/06/15/iphone-18-pro-three-new-camera-upgrades-are-coming/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/15/iphone-18-pro-three-new-camera-upgrades-are-coming/</guid>
-      <pubDate>2026-06-15T13:52:00Z</pubDate>
+      <title>AMD Discusses FSR 4.1 Upscaling</title>
+      <description>AMD promises quality parity between RDNA 3 and RDNA 4 with its FSR 4.1 upscaling technology, discussed at Computex 2026.</description>
+      <link>https://www.techpowerup.com/349972/amd-explains-fsr-4-1-upscaling-for-rdna-3-promises-quality-parity-with-rdna-4</link>
+      <guid isPermaLink="true">https://www.techpowerup.com/349972/amd-explains-fsr-4-1-upscaling-for-rdna-3-promises-quality-parity-with-rdna-4</guid>
+      <pubDate>2026-06-15T14:55:02Z</pubDate>
       <category>Hardware</category>
-      <source url="https://9to5mac.com/2026/06/15/iphone-18-pro-three-new-camera-upgrades-are-coming/">9to5Mac</source>
+      <source url="https://www.techpowerup.com/349972/amd-explains-fsr-4-1-upscaling-for-rdna-3-promises-quality-parity-with-rdna-4">Techpowerup.com</source>
     </item>
     <item>
-      <title>iPhone 18 Pro Casing Similar to Predecessor</title>
-      <description>The iPhone 18 Pro is expected to use the same aluminum alloy casing as its predecessor, maintaining a mix of pros and cons from previous models.</description>
-      <link>https://9to5mac.com/2026/06/15/iphone-18-pro-casing-likely-to-experience-same-pros-cons-as-its-predecessor/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/15/iphone-18-pro-casing-likely-to-experience-same-pros-cons-as-its-predecessor/</guid>
-      <pubDate>2026-06-15T13:48:00Z</pubDate>
-      <category>Hardware</category>
-      <source url="https://9to5mac.com/2026/06/15/iphone-18-pro-casing-likely-to-experience-same-pros-cons-as-its-predecessor/">9to5Mac</source>
+      <title>Xbox May Introduce Buy Now, Pay Later</title>
+      <description>Xbox's website code hints at potential Buy Now, Pay Later options via PayPal and Klarna, enhancing payment flexibility.</description>
+      <link>https://kotaku.com/xbox-series-x-klarna-paypal-pay-later-financing-microsoft-2000706625</link>
+      <guid isPermaLink="true">https://kotaku.com/xbox-series-x-klarna-paypal-pay-later-financing-microsoft-2000706625</guid>
+      <pubDate>2026-06-15T14:50:17Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://kotaku.com/xbox-series-x-klarna-paypal-pay-later-financing-microsoft-2000706625">Kotaku</source>
     </item>
   </channel>
 </rss>
