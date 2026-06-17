@@ -5,89 +5,143 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2026 10:53:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 15:26:17 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Apple Unifies Email Domains for Privacy Features</title>
-      <description>Apple will soon implement a shared domain for private email addresses from Sign in with Apple and iCloud+ Hide My Email. This aims to enhance user privacy and streamline services.</description>
-      <link>https://9to5mac.com/2026/06/15/sign-in-with-apple-and-hide-my-email-are-getting-a-new-shared-email-domain/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/15/sign-in-with-apple-and-hide-my-email-are-getting-a-new-shared-email-domain/</guid>
-      <pubDate>2026-06-16T01:16:00Z</pubDate>
-      <category>Software</category>
-      <source url="https://9to5mac.com/2026/06/15/sign-in-with-apple-and-hide-my-email-are-getting-a-new-shared-email-domain/">9to5Mac</source>
-    </item>
-    <item>
-      <title>Siri Transformed: iOS 27's AI Overhaul</title>
-      <description>iOS 27 introduces a complete redesign of Siri, now featuring advanced AI capabilities. Apple enhances functionality and user experience with this significant update.</description>
-      <link>https://www.macrumors.com/guide/ios-27-siri/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/guide/ios-27-siri/</guid>
-      <pubDate>2026-06-15T23:17:00Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.macrumors.com/guide/ios-27-siri/">MacRumors</source>
-    </item>
-    <item>
-      <title>Google Earth Launches Flight Simulator in Browsers</title>
-      <description>Google Earth now offers a flight simulator accessible directly in browsers, eliminating the need for downloads. Users can explore the globe virtually with ease.</description>
-      <link>https://www.cnet.com/tech/gaming/google-earths-flight-simulator-is-now-on-browsers-heres-how-to-play/</link>
-      <guid isPermaLink="true">https://www.cnet.com/tech/gaming/google-earths-flight-simulator-is-now-on-browsers-heres-how-to-play/</guid>
-      <pubDate>2026-06-15T22:10:00Z</pubDate>
+      <title>Marathon's Free Week Fails to Boost Players</title>
+      <description>Marathon's season 2 and free week ended without increasing player counts. Server issues plagued the launch, leaving player engagement unchanged.</description>
+      <link>https://www.forbes.com/sites/paultassi/2026/06/16/marathon-season-2-and-free-week-did-not-turn-things-around/</link>
+      <guid isPermaLink="true">https://www.forbes.com/sites/paultassi/2026/06/16/marathon-season-2-and-free-week-did-not-turn-things-around/</guid>
+      <pubDate>2026-06-16T13:46:35Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.cnet.com/tech/gaming/google-earths-flight-simulator-is-now-on-browsers-heres-how-to-play/">CNET</source>
+      <source url="https://www.forbes.com/sites/paultassi/2026/06/16/marathon-season-2-and-free-week-did-not-turn-things-around/">Forbes</source>
     </item>
     <item>
-      <title>Microsoft Partners for Flexible Xbox Payments</title>
-      <description>Microsoft plans to allow Xbox customers to split purchases into interest-free installments through Klarna and PayPal. This aims to ease financial burdens amid rising costs.</description>
-      <link>https://www.windowscentral.com/gaming/xbox/microsoft-is-gearing-up-to-let-you-spread-the-cost-of-xbox-purchases-partnering-with-klarna-and-paypal</link>
-      <guid isPermaLink="true">https://www.windowscentral.com/gaming/xbox/microsoft-is-gearing-up-to-let-you-spread-the-cost-of-xbox-purchases-partnering-with-klarna-and-paypal</guid>
-      <pubDate>2026-06-15T17:20:35Z</pubDate>
+      <title>PopSockets Launches Ultra-Thin Grip</title>
+      <description>PopSockets introduces the Low-Pro, a 2.6mm thick magnetic phone grip with a fold-out stand. It's designed for minimal bulk and maximum functionality.</description>
+      <link>https://www.theverge.com/tech/949305/popsockets-magnetic-magsafe-low-pro-grip-hands-on</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/949305/popsockets-magnetic-magsafe-low-pro-grip-hands-on</guid>
+      <pubDate>2026-06-16T13:30:00Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://www.theverge.com/tech/949305/popsockets-magnetic-magsafe-low-pro-grip-hands-on">The Verge</source>
+    </item>
+    <item>
+      <title>New Games Coming to Xbox Game Pass</title>
+      <description>Xbox Game Pass adds EA Sports FC 26 and more titles in June. Players can enjoy new experiences with the 'Play It Day One' feature.</description>
+      <link>https://news.xbox.com/en-us/2026/06/16/xbox-game-pass-june-2026-wave-2/</link>
+      <guid isPermaLink="true">https://news.xbox.com/en-us/2026/06/16/xbox-game-pass-june-2026-wave-2/</guid>
+      <pubDate>2026-06-16T13:01:17Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.windowscentral.com/gaming/xbox/microsoft-is-gearing-up-to-let-you-spread-the-cost-of-xbox-purchases-partnering-with-klarna-and-paypal">Windows Central</source>
+      <source url="https://news.xbox.com/en-us/2026/06/16/xbox-game-pass-june-2026-wave-2/">Xbox.com</source>
     </item>
     <item>
-      <title>Final Fantasy Franchise Sale on Steam</title>
-      <description>Steam is hosting a massive sale on the Final Fantasy franchise, including FF7 Remake and Rebirth. Gamers can enjoy hundreds of hours of RPG content at discounted prices.</description>
-      <link>https://kotaku.com/all-of-final-fantasy-is-on-sale-on-steam-including-ff7-remake-and-rebirth-2000706667</link>
-      <guid isPermaLink="true">https://kotaku.com/all-of-final-fantasy-is-on-sale-on-steam-including-ff7-remake-and-rebirth-2000706667</guid>
-      <pubDate>2026-06-15T16:44:30Z</pubDate>
+      <title>Surface Laptop 8 and Pro 12 Get Snapdragon X2</title>
+      <description>Microsoft's Surface Laptop 8 and Surface Pro 12 now feature Snapdragon X2 chips, offering new colors and higher prices.</description>
+      <link>https://www.theverge.com/tech/950146/microsoft-surface-laptop-8-surface-pro-12-snapdragon-x2-specs-price</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/950146/microsoft-surface-laptop-8-surface-pro-12-snapdragon-x2-specs-price</guid>
+      <pubDate>2026-06-16T13:00:00Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://www.theverge.com/tech/950146/microsoft-surface-laptop-8-surface-pro-12-snapdragon-x2-specs-price">The Verge</source>
+    </item>
+    <item>
+      <title>Launch Destiny 2 Raid Bosses into the Sun</title>
+      <description>A guide on how to launch Destiny 2 raid bosses into the sun has been released, showcasing a fun gameplay mechanic.</description>
+      <link>https://www.forbes.com/sites/paultassi/2026/06/16/how-to-launch-destiny-2-raid-bosses-into-the-sun/</link>
+      <guid isPermaLink="true">https://www.forbes.com/sites/paultassi/2026/06/16/how-to-launch-destiny-2-raid-bosses-into-the-sun/</guid>
+      <pubDate>2026-06-16T12:56:34Z</pubDate>
       <category>Gaming</category>
-      <source url="https://kotaku.com/all-of-final-fantasy-is-on-sale-on-steam-including-ff7-remake-and-rebirth-2000706667">Kotaku</source>
+      <source url="https://www.forbes.com/sites/paultassi/2026/06/16/how-to-launch-destiny-2-raid-bosses-into-the-sun/">Forbes</source>
     </item>
     <item>
-      <title>Sony Aims for God of War Laufey Release in 2027</title>
-      <description>Sony expresses hopes to launch PS5's God of War Laufey in early 2027, though plans may change. Development continues amid fan anticipation.</description>
-      <link>https://www.pushsquare.com/news/2026/06/sony-hopes-to-launch-ps5s-god-of-war-laufey-in-the-first-half-of-2027</link>
-      <guid isPermaLink="true">https://www.pushsquare.com/news/2026/06/sony-hopes-to-launch-ps5s-god-of-war-laufey-in-the-first-half-of-2027</guid>
-      <pubDate>2026-06-15T13:00:00Z</pubDate>
+      <title>Steam Next Fest Features AI Disclosures</title>
+      <description>Steam Next Fest showcases 1694 games with generative AI disclosures amid ongoing tech controversies. This highlights the growing integration of AI in gaming.</description>
+      <link>https://www.eurogamer.net/steam-next-fest-generative-ai-disclosure-thousands</link>
+      <guid isPermaLink="true">https://www.eurogamer.net/steam-next-fest-generative-ai-disclosure-thousands</guid>
+      <pubDate>2026-06-16T12:16:10Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.pushsquare.com/news/2026/06/sony-hopes-to-launch-ps5s-god-of-war-laufey-in-the-first-half-of-2027">Push Square</source>
+      <source url="https://www.eurogamer.net/steam-next-fest-generative-ai-disclosure-thousands">Eurogamer</source>
     </item>
     <item>
-      <title>Bungie Near Shutdown Before Sony Acquisition</title>
-      <description>A former Bungie employee reveals the studio was close to shutting down before Sony's acquisition. The future of Destiny 2 was uncertain during this period.</description>
-      <link>https://www.eurogamer.net/bungie-close-to-shutting-down-before-sony-acquisition-its-claimed</link>
-      <guid isPermaLink="true">https://www.eurogamer.net/bungie-close-to-shutting-down-before-sony-acquisition-its-claimed</guid>
-      <pubDate>2026-06-15T12:29:31Z</pubDate>
+      <title>GTA 6 Release Date Confirmed for November</title>
+      <description>Take-Two's CEO confirms GTA 6's release date as November 19, 2026, during an unexpected TikTok interview, easing fan concerns.</description>
+      <link>https://kotaku.com/gta-6-grand-theft-auto-release-date-confirmed-take-two-rockstar-2000707059</link>
+      <guid isPermaLink="true">https://kotaku.com/gta-6-grand-theft-auto-release-date-confirmed-take-two-rockstar-2000707059</guid>
+      <pubDate>2026-06-16T12:05:20Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.eurogamer.net/bungie-close-to-shutting-down-before-sony-acquisition-its-claimed">Eurogamer.net</source>
+      <source url="https://kotaku.com/gta-6-grand-theft-auto-release-date-confirmed-take-two-rockstar-2000707059">Kotaku</source>
     </item>
     <item>
-      <title>Mistfall Hunter Free on Xbox for a Week</title>
-      <description>Mistfall Hunter is available for free on Xbox for one week ahead of its Game Pass release in July. Players can try the new PvPvE extraction ARPG now.</description>
-      <link>https://www.purexbox.com/news/2026/06/excited-for-mistfall-hunter-its-free-to-play-on-xbox-for-the-next-week</link>
-      <guid isPermaLink="true">https://www.purexbox.com/news/2026/06/excited-for-mistfall-hunter-its-free-to-play-on-xbox-for-the-next-week</guid>
-      <pubDate>2026-06-15T12:15:00Z</pubDate>
+      <title>Apple's Home Camera Service Impresses</title>
+      <description>Apple's HomeKit Secure Video in iOS 27 now features AI summaries and natural-language search, enhancing its competitive edge.</description>
+      <link>https://www.theverge.com/tech/949854/first-look-apple-home-ios-27-upgrades-homekit-secure-video</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/949854/first-look-apple-home-ios-27-upgrades-homekit-secure-video</guid>
+      <pubDate>2026-06-16T12:00:00Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://www.theverge.com/tech/949854/first-look-apple-home-ios-27-upgrades-homekit-secure-video">The Verge</source>
+    </item>
+    <item>
+      <title>Rise of the Tomb Raider Review on Switch 2</title>
+      <description>The Switch 2 version of Rise of the Tomb Raider celebrates 30 years of the franchise, showcasing impressive graphics and gameplay.</description>
+      <link>https://www.nintendolife.com/reviews/nintendo-switch-2/rise-of-the-tomb-raider-20-year-celebration</link>
+      <guid isPermaLink="true">https://www.nintendolife.com/reviews/nintendo-switch-2/rise-of-the-tomb-raider-20-year-celebration</guid>
+      <pubDate>2026-06-16T12:00:00Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.purexbox.com/news/2026/06/excited-for-mistfall-hunter-its-free-to-play-on-xbox-for-the-next-week">Pure Xbox</source>
+      <source url="https://www.nintendolife.com/reviews/nintendo-switch-2/rise-of-the-tomb-raider-20-year-celebration">Nintendo Life</source>
     </item>
     <item>
-      <title>Old Pixel Phones Repurposed as Data Centers</title>
-      <description>Researchers are converting old Pixel phones into a data center, outperforming some traditional server hardware. This project addresses electronic waste and sustainability.</description>
-      <link>https://www.techspot.com/news/112762-researchers-turning-old-pixel-phones-data-center-they.html</link>
-      <guid isPermaLink="true">https://www.techspot.com/news/112762-researchers-turning-old-pixel-phones-data-center-they.html</guid>
-      <pubDate>2026-06-15T11:49:00Z</pubDate>
-      <category>Science</category>
-      <source url="https://www.techspot.com/news/112762-researchers-turning-old-pixel-phones-data-center-they.html">TechSpot</source>
+      <title>Apple's Anti-Nausea Dots Work Effectively</title>
+      <description>Apple's Vehicle Motion Cues successfully reduce motion sickness, allowing users to read and write comfortably in moving vehicles.</description>
+      <link>https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work</guid>
+      <pubDate>2026-06-16T11:30:00Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work">The Verge</source>
+    </item>
+    <item>
+      <title>Don't Nod Faces Cash Crunch by November</title>
+      <description>Auditors warn that Don't Nod may run out of cash by November without securing additional financing from Tencent, its largest shareholder.</description>
+      <link>https://www.gamesindustry.biz/auditors-warn-dont-nod-will-run-out-of-cash-by-november-if-it-is-unable-to-secure-financing</link>
+      <guid isPermaLink="true">https://www.gamesindustry.biz/auditors-warn-dont-nod-will-run-out-of-cash-by-november-if-it-is-unable-to-secure-financing</guid>
+      <pubDate>2026-06-16T11:20:29Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.gamesindustry.biz/auditors-warn-dont-nod-will-run-out-of-cash-by-november-if-it-is-unable-to-secure-financing">GamesIndustry.biz</source>
+    </item>
+    <item>
+      <title>Forza Horizon 6 Update Eases Multiplayer Grind</title>
+      <description>A new Forza Horizon 6 update reduces the time needed to unlock a challenging multiplayer achievement, improving player experience.</description>
+      <link>https://www.trueachievements.com/news/forza-horizon-6-series-2-update-patch-notes</link>
+      <guid isPermaLink="true">https://www.trueachievements.com/news/forza-horizon-6-series-2-update-patch-notes</guid>
+      <pubDate>2026-06-16T11:18:29Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.trueachievements.com/news/forza-horizon-6-series-2-update-patch-notes">TrueAchievements</source>
+    </item>
+    <item>
+      <title>Ransomware Gang Exploits Microsoft Teams</title>
+      <description>DragonForce ransomware uses a custom malware to conceal malicious traffic within Microsoft Teams, raising security concerns.</description>
+      <link>https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/</link>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/</guid>
+      <pubDate>2026-06-16T10:18:48Z</pubDate>
+      <category>Security</category>
+      <source url="https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/">BleepingComputer</source>
+    </item>
+    <item>
+      <title>ARC Raiders Live Update 1.33.0 Released</title>
+      <description>ARC Raiders introduces new content and features in its latest update, enhancing the multiplayer extraction adventure experience.</description>
+      <link>https://arcraiders.com/news/live-update-1-33-0</link>
+      <guid isPermaLink="true">https://arcraiders.com/news/live-update-1-33-0</guid>
+      <pubDate>2026-06-16T09:05:42Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://arcraiders.com/news/live-update-1-33-0">Arcraiders.com</source>
+    </item>
+    <item>
+      <title>Noctua NL-LC1-36 AIO Cooler Review</title>
+      <description>Noctua's first AIO liquid cooler impresses with high performance, low noise, and exceptional engineering, making it a top choice for PC builders.</description>
+      <link>https://www.techpowerup.com/review/noctua-nl-lc1-36-aio-liquid-cpu-cooler/</link>
+      <guid isPermaLink="true">https://www.techpowerup.com/review/noctua-nl-lc1-36-aio-liquid-cpu-cooler/</guid>
+      <pubDate>2026-06-16T09:00:43Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://www.techpowerup.com/review/noctua-nl-lc1-36-aio-liquid-cpu-cooler/">Techpowerup.com</source>
     </item>
   </channel>
 </rss>

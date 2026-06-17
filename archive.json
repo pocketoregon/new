@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-17T15:25:33.161757+00:00",
+      "fetched_at": "2026-06-17T15:25:33.161757+00:00",
+      "label": "Jun 17, 2026 — 03:26 PM UTC",
+      "articles": [
+        {
+          "title": "Marathon's Free Week Fails to Boost Players",
+          "description": "Marathon's season 2 and free week ended without increasing player counts. Server issues plagued the launch, leaving player engagement unchanged.",
+          "category": "Gaming",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/06/16/marathon-season-2-and-free-week-did-not-turn-things-around/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a3153816b135d424c277249/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-16T13:46:35Z",
+          "key_points": [
+            "No player growth observed",
+            "Server issues impacted launch",
+            "Free week failed to attract players"
+          ],
+          "impact": "Marathon struggles to retain player interest.",
+          "id": "7b4013f3985f9759f86a2e3dc58c9037"
+        },
+        {
+          "title": "PopSockets Launches Ultra-Thin Grip",
+          "description": "PopSockets introduces the Low-Pro, a 2.6mm thick magnetic phone grip with a fold-out stand. It's designed for minimal bulk and maximum functionality.",
+          "category": "Hardware",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/949305/popsockets-magnetic-magsafe-low-pro-grip-hands-on",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/popsockets1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+          "published_at": "2026-06-16T13:30:00Z",
+          "key_points": [
+            "Ultra-slim design",
+            "Includes fold-out stand",
+            "Magnetic attachment"
+          ],
+          "impact": "PopSockets enhances convenience for mobile users.",
+          "id": "ebba27075bec91b1752b061e49db6bdb"
+        },
+        {
+          "title": "New Games Coming to Xbox Game Pass",
+          "description": "Xbox Game Pass adds EA Sports FC 26 and more titles in June. Players can enjoy new experiences with the 'Play It Day One' feature.",
+          "category": "Gaming",
+          "source": "Xbox.com",
+          "url": "https://news.xbox.com/en-us/2026/06/16/xbox-game-pass-june-2026-wave-2/",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/XBOX_GamePass_Announcement_16x9_06.16.2026_EN-US-2c13acdfbf78730b55ba.jpg",
+          "published_at": "2026-06-16T13:01:17Z",
+          "key_points": [
+            "EA Sports FC 26 included",
+            "Multiple new titles added",
+            "Play It Day One feature"
+          ],
+          "impact": "Xbox Game Pass expands its game library.",
+          "id": "90833d1e7b2122646182b509e00f42a3"
+        },
+        {
+          "title": "Surface Laptop 8 and Pro 12 Get Snapdragon X2",
+          "description": "Microsoft's Surface Laptop 8 and Surface Pro 12 now feature Snapdragon X2 chips, offering new colors and higher prices.",
+          "category": "Hardware",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/950146/microsoft-surface-laptop-8-surface-pro-12-snapdragon-x2-specs-price",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Surface-Pro-13-inch-Surface-Laptop-13.8-inch.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+          "published_at": "2026-06-16T13:00:00Z",
+          "key_points": [
+            "New Snapdragon X2 chips",
+            "Fresh color options",
+            "Increased pricing"
+          ],
+          "impact": "Microsoft updates its Surface lineup with new tech.",
+          "id": "c15c335238cf10b31c4b55594b763234"
+        },
+        {
+          "title": "Launch Destiny 2 Raid Bosses into the Sun",
+          "description": "A guide on how to launch Destiny 2 raid bosses into the sun has been released, showcasing a fun gameplay mechanic.",
+          "category": "Gaming",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/06/16/how-to-launch-destiny-2-raid-bosses-into-the-sun/",
+          "image": "",
+          "published_at": "2026-06-16T12:56:34Z",
+          "key_points": [
+            "Guide for launching bosses",
+            "Fun gameplay mechanic",
+            "Engaging player strategies"
+          ],
+          "impact": "Players discover new strategies in Destiny 2.",
+          "id": "641716586c52f6c6315b8f4d4aa8d275"
+        },
+        {
+          "title": "Steam Next Fest Features AI Disclosures",
+          "description": "Steam Next Fest showcases 1694 games with generative AI disclosures amid ongoing tech controversies. This highlights the growing integration of AI in gaming.",
+          "category": "Gaming",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/steam-next-fest-generative-ai-disclosure-thousands",
+          "image": "https://assetsio.gnwcdn.com/steam-next-fest_myGmpAu.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-16T12:16:10Z",
+          "key_points": [
+            "1694 games featured",
+            "Generative AI disclosures present",
+            "AI integration in gaming grows"
+          ],
+          "impact": "AI's role in gaming continues to expand.",
+          "id": "bb359a3308aeba13b95b637e15d63e67"
+        },
+        {
+          "title": "GTA 6 Release Date Confirmed for November",
+          "description": "Take-Two's CEO confirms GTA 6's release date as November 19, 2026, during an unexpected TikTok interview, easing fan concerns.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/gta-6-grand-theft-auto-release-date-confirmed-take-two-rockstar-2000707059",
+          "image": "https://kotaku.com/app/uploads/2026/06/gta6date-1200x675.jpg",
+          "published_at": "2026-06-16T12:05:20Z",
+          "key_points": [
+            "GTA 6 release date confirmed",
+            "November 19, 2026",
+            "TikTok interview reveals details"
+          ],
+          "impact": "Fans receive confirmation for GTA 6 release.",
+          "id": "5763c882af8ea142ec0d69abaebbfda4"
+        },
+        {
+          "title": "Apple's Home Camera Service Impresses",
+          "description": "Apple's HomeKit Secure Video in iOS 27 now features AI summaries and natural-language search, enhancing its competitive edge.",
+          "category": "Hardware",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/949854/first-look-apple-home-ios-27-upgrades-homekit-secure-video",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268594_iOS_27_home_app_first_look_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-16T12:00:00Z",
+          "key_points": [
+            "AI-powered summaries",
+            "Natural-language search",
+            "Improved reliability"
+          ],
+          "impact": "Apple enhances its smart home offerings.",
+          "id": "c153477fc22406d9bf12da737bdd5fb0"
+        },
+        {
+          "title": "Rise of the Tomb Raider Review on Switch 2",
+          "description": "The Switch 2 version of Rise of the Tomb Raider celebrates 30 years of the franchise, showcasing impressive graphics and gameplay.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/rise-of-the-tomb-raider-20-year-celebration",
+          "image": "https://images.nintendolife.com/2ca1628a64f65/1280x720.jpg",
+          "published_at": "2026-06-16T12:00:00Z",
+          "key_points": [
+            "30-year franchise celebration",
+            "Impressive graphics",
+            "Enhanced gameplay experience"
+          ],
+          "impact": "Tomb Raider franchise continues to thrive.",
+          "id": "8e9059e9e7d4fe2e5ccf9629817fac08"
+        },
+        {
+          "title": "Apple's Anti-Nausea Dots Work Effectively",
+          "description": "Apple's Vehicle Motion Cues successfully reduce motion sickness, allowing users to read and write comfortably in moving vehicles.",
+          "category": "Hardware",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268530_SUMMER_UPGRADE_WEEK__NAUSEA_DOTS_ADemidova.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-16T11:30:00Z",
+          "key_points": [
+            "Reduces motion sickness",
+            "Allows comfortable reading",
+            "Innovative technology"
+          ],
+          "impact": "Apple's tech improves travel comfort.",
+          "id": "8b5587ded666f6ed34e1df3cb4fb71f8"
+        },
+        {
+          "title": "Don't Nod Faces Cash Crunch by November",
+          "description": "Auditors warn that Don't Nod may run out of cash by November without securing additional financing from Tencent, its largest shareholder.",
+          "category": "Business",
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/auditors-warn-dont-nod-will-run-out-of-cash-by-november-if-it-is-unable-to-secure-financing",
+          "image": "https://assetsio.gnwcdn.com/lost-records.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-16T11:20:29Z",
+          "key_points": [
+            "Cash crunch warning issued",
+            "Tencent financing needed",
+            "Potential financial crisis ahead"
+          ],
+          "impact": "Don't Nod faces financial uncertainty.",
+          "id": "6490de27ccf5aef21cf10b73635af29d"
+        },
+        {
+          "title": "Forza Horizon 6 Update Eases Multiplayer Grind",
+          "description": "A new Forza Horizon 6 update reduces the time needed to unlock a challenging multiplayer achievement, improving player experience.",
+          "category": "Gaming",
+          "source": "TrueAchievements",
+          "url": "https://www.trueachievements.com/news/forza-horizon-6-series-2-update-patch-notes",
+          "image": "https://www.trueachievements.com/imgs/176107/forza-horizon-6-update-makes-ridiculous-multiplayer-xbox-achievement-much-easier-to-unlock.jpg",
+          "published_at": "2026-06-16T11:18:29Z",
+          "key_points": [
+            "Achievement grind reduced",
+            "AI racers balanced",
+            "Improved player experience"
+          ],
+          "impact": "Forza Horizon 6 enhances multiplayer accessibility.",
+          "id": "847c1b294ba2d562ad97e4728ac3cb72"
+        },
+        {
+          "title": "Ransomware Gang Exploits Microsoft Teams",
+          "description": "DragonForce ransomware uses a custom malware to conceal malicious traffic within Microsoft Teams, raising security concerns.",
+          "category": "Security",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/",
+          "image": "https://www.bleepstatic.com/content/hl-images/2026/02/17/Microsoft-Teams.jpg",
+          "published_at": "2026-06-16T10:18:48Z",
+          "key_points": [
+            "Ransomware hides in Teams",
+            "Custom malware used",
+            "Security risks highlighted"
+          ],
+          "impact": "Microsoft Teams faces new security threats.",
+          "id": "a0af703507a67a6ebef3ba63eba47202"
+        },
+        {
+          "title": "ARC Raiders Live Update 1.33.0 Released",
+          "description": "ARC Raiders introduces new content and features in its latest update, enhancing the multiplayer extraction adventure experience.",
+          "category": "Gaming",
+          "source": "Arcraiders.com",
+          "url": "https://arcraiders.com/news/live-update-1-33-0",
+          "image": "https://storage.googleapis.com/web-arc-raiders-cms-assets/temp/social/arc-raiders-social.png",
+          "published_at": "2026-06-16T09:05:42Z",
+          "key_points": [
+            "New content added",
+            "Multiplayer experience enhanced",
+            "Exciting gameplay updates"
+          ],
+          "impact": "ARC Raiders continues to evolve with updates.",
+          "id": "2ae136bfc38e3e598aba0dbe1ddefe3a"
+        },
+        {
+          "title": "Noctua NL-LC1-36 AIO Cooler Review",
+          "description": "Noctua's first AIO liquid cooler impresses with high performance, low noise, and exceptional engineering, making it a top choice for PC builders.",
+          "category": "Hardware",
+          "source": "Techpowerup.com",
+          "url": "https://www.techpowerup.com/review/noctua-nl-lc1-36-aio-liquid-cpu-cooler/",
+          "image": "https://www.techpowerup.com/review/noctua-nl-lc1-36-aio-liquid-cpu-cooler/images/title.jpg",
+          "published_at": "2026-06-16T09:00:43Z",
+          "key_points": [
+            "High performance",
+            "Minimal noise",
+            "Exceptional engineering"
+          ],
+          "impact": "Noctua sets a new standard in cooling.",
+          "id": "7f678cb1eaa8ab1aa25c3c8a9de108ba"
+        }
+      ]
+    },
+    {
       "id": "2026-06-17T10:53:15.538935+00:00",
       "fetched_at": "2026-06-17T10:53:15.538935+00:00",
       "label": "Jun 17, 2026 — 10:53 AM UTC",
@@ -6488,253 +6735,6 @@
           ],
           "impact": "Content creators are eager for full specs.",
           "id": "bb097d830d075e06015ae308aa34d87f"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-11T10:21:37.627549+00:00",
-      "fetched_at": "2026-06-11T10:21:37.627549+00:00",
-      "label": "Jun 11, 2026 — 10:22 AM UTC",
-      "articles": [
-        {
-          "title": "Nintendo Shares Slide After 2026 Game Showcase Disappoints",
-          "description": "Nintendo's stock dropped significantly after a lackluster game showcase failed to deliver new titles from major franchises. Investors expressed disappointment over the presentation.",
-          "category": "Gaming",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-10/nintendo-shares-slide-after-2026-game-showcase-disappoints",
-          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDPtxeHvtgQc/v0/1200x800.jpg",
-          "published_at": "2026-06-10T00:29:00Z",
-          "key_points": [
-            "Stock fell significantly",
-            "Lack of new titles",
-            "Investors disappointed"
-          ],
-          "impact": "Nintendo's market confidence takes a hit.",
-          "id": "c373eedefb71ac2ac64e208674563464"
-        },
-        {
-          "title": "Toby Fox Shares New Development Update On Deltarune Chapter 6",
-          "description": "Toby Fox announced progress on Deltarune Chapter 6, with plans to start Chapter 7 development this year. Fans eagerly await further updates.",
-          "category": "Gaming",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/06/toby-fox-shares-new-development-update-on-deltarune-chapter-6",
-          "image": "https://images.nintendolife.com/90a8e8ca82632/large.jpg",
-          "published_at": "2026-06-09T23:30:00Z",
-          "key_points": [
-            "Chapter 6 development ongoing",
-            "Chapter 7 may start soon",
-            "Fans excited for updates"
-          ],
-          "impact": "Deltarune's future looks promising for fans.",
-          "id": "132031a084cea8f625d16cf60b76d65a"
-        },
-        {
-          "title": "The 25 Most Exciting Games Of Summer Game Fest 2026",
-          "description": "The Summer Game Fest showcased numerous trailers, highlighting the most anticipated games of the season. Here are the top 25 picks from the event.",
-          "category": "Gaming",
-          "source": "Game Informer",
-          "url": "https://gameinformer.com/sgf-2026/2026/06/09/the-25-most-exciting-games-of-summer-game-fest-2026",
-          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/09/3809ad38/Best%20of%20SGF%20Header.jpg.webp",
-          "published_at": "2026-06-09T22:21:53Z",
-          "key_points": [
-            "Top 25 games revealed",
-            "Exciting trailers showcased",
-            "Fans eager for releases"
-          ],
-          "impact": "Summer Game Fest sets high expectations.",
-          "id": "7ec01c12e65609e38e54408d1be80bbf"
-        },
-        {
-          "title": "The App Store is going to add subscription bundles soon",
-          "description": "Apple's App Store will introduce subscription bundles for iPhone apps, enhancing user experience with grouped subscriptions. This change comes with iOS 27.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/947365/apple-subscription-bundles-app-store",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23925966/acastro_STK045_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-06-09T21:30:48Z",
-          "key_points": [
-            "New subscription bundles coming",
-            "Enhances user experience",
-            "Part of iOS 27 update"
-          ],
-          "impact": "Apple improves App Store subscription model.",
-          "id": "5b8444b174c02474ac82f18cafc3756a"
-        },
-        {
-          "title": "NBA The Run Review",
-          "description": "NBA The Run offers a quick-match basketball experience reminiscent of NBA Street, but lacks depth. It's a fun yet shallow gameplay option for fans.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/nba-the-run-review",
-          "image": "https://assets-prd.ignimgs.com/2026/06/09/nba-the-run-blogroll-1781027696109.jpg?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-09T18:11:18Z",
-          "key_points": [
-            "Quick-match basketball game",
-            "Feels like NBA Street",
-            "Lacks gameplay depth"
-          ],
-          "impact": "NBA The Run appeals to casual players.",
-          "id": "f26de2372e028e6244984ca0b0869b27"
-        },
-        {
-          "title": "God of War Laufey Director Pushes Back on Cosmic Cube Criticism",
-          "description": "The director of God of War Laufey defends the inclusion of Phranque, stating it was always planned and enhances gameplay mechanics. Fans remain divided.",
-          "category": "Gaming",
-          "source": "Wccftech",
-          "url": "https://wccftech.com/god-of-war-laufey-phranque-cosmic-cube/",
-          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/God-of-War-Laufey-Cube-HD-1920x1080.jpeg",
-          "published_at": "2026-06-09T18:00:00Z",
-          "key_points": [
-            "Director defends Phranque's role",
-            "Enhances gameplay mechanics",
-            "Fans express mixed reactions"
-          ],
-          "impact": "Controversy surrounds God of War Laufey.",
-          "id": "5db21e08ba3cfb90268db4228b1cd343"
-        },
-        {
-          "title": "Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws",
-          "description": "Microsoft's June Patch Tuesday addresses 200 vulnerabilities, including three critical zero-day flaws. Users are urged to update their systems immediately.",
-          "category": "Security",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/",
-          "image": "https://www.bleepingcomputer.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg",
-          "published_at": "2026-06-09T17:57:59Z",
-          "key_points": [
-            "200 vulnerabilities fixed",
-            "Three zero-day flaws addressed",
-            "Immediate updates recommended"
-          ],
-          "impact": "Critical security updates enhance user safety.",
-          "id": "f7d5968e7e560f55ca59a8891b182f35"
-        },
-        {
-          "title": "Pokemon Pokopia Getting Free Underwater Expansion And Paid DLC",
-          "description": "Pokemon Pokopia will receive a free underwater expansion alongside paid DLC, creating some confusion among players. Clarifications are provided on the offerings.",
-          "category": "Gaming",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/pokemon-pokopia-getting-free-underwater-expansion-and-paid-dlc-and-its-all-a-little-confusing/",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/04/gamespot.png",
-          "published_at": "2026-06-09T17:14:45Z",
-          "key_points": [
-            "Free underwater expansion announced",
-            "Paid DLC details confusing",
-            "Clarifications provided for players"
-          ],
-          "impact": "Pokemon Pokopia expands with new content.",
-          "id": "9510133ee5428d0102320681be21aae2"
-        },
-        {
-          "title": "'DK Challenge' Will Put Your NSO & Bananza Skills To The Test",
-          "description": "Nintendo announces the 'DK Challenge' event, testing players' skills in a Mario-themed Bananza. The event starts soon, promising fun competition.",
-          "category": "Gaming",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/06/dk-challenge-will-put-your-nso-and-bananza-skills-to-the-test-for-a-limited-time",
-          "image": "https://images.nintendolife.com/5c776e2999bf4/large.jpg",
-          "published_at": "2026-06-09T16:20:00Z",
-          "key_points": [
-            "New 'DK Challenge' event",
-            "Mario-themed competition",
-            "Starts June 10th"
-          ],
-          "impact": "Nintendo engages players with new challenges.",
-          "id": "ef4cf11ebb68e17a5153a8cfeb7240e7"
-        },
-        {
-          "title": "macOS 27 Finally Brings Direct Touch Control to Sidecar",
-          "description": "macOS 27 introduces direct touch control for Sidecar, allowing iPad users to interact with macOS elements directly. This feature enhances usability significantly.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/09/macos-27-brings-direct-touch-control-to-sidecar/",
-          "image": "https://images.macrumors.com/t/cQXpBanzMoUQ8VdGvSBPHNEPQCw=/1600x/article-new/2026/06/macos-sidecar.jpg",
-          "published_at": "2026-06-09T16:17:00Z",
-          "key_points": [
-            "Direct touch control added",
-            "Enhances usability for iPad users",
-            "Part of macOS 27 update"
-          ],
-          "impact": "Apple improves Sidecar functionality.",
-          "id": "8e5152288963f2efc497dab3ca86064b"
-        },
-        {
-          "title": "Final Fantasy gets its first HD-2D game, and it was worth the wait",
-          "description": "Final Fantasy Resonance debuts as the franchise's first HD-2D game, blending nostalgia with modern graphics. Fans are excited about this new direction.",
-          "category": "Gaming",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/final-fantasy-resonance-trailer-date-switch-2-hd-2d-sprite-art-square/",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/2d.JPG?w=1600&h=900&fit=crop",
-          "published_at": "2026-06-09T15:34:50Z",
-          "key_points": [
-            "First HD-2D Final Fantasy game",
-            "Combines nostalgia with modern graphics",
-            "Fans excited for new direction"
-          ],
-          "impact": "Final Fantasy embraces innovative gameplay style.",
-          "id": "8e72d5b0bd468b83ad700c56a0343e2e"
-        },
-        {
-          "title": "New Joy-Con Colours And A Stand-Alone Direct Are Inbound For Splatoon Raiders",
-          "description": "Nintendo announces new Joy-Con colors and a dedicated Direct for Splatoon Raiders, generating excitement among fans. More details are expected soon.",
-          "category": "Gaming",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/06/new-joy-con-colours-and-a-stand-alone-direct-are-inbound-for-splatoon-raiders",
-          "image": "https://images.nintendolife.com/c26af73bcd346/large.jpg",
-          "published_at": "2026-06-09T15:25:00Z",
-          "key_points": [
-            "New Joy-Con colors revealed",
-            "Stand-alone Direct announced",
-            "Fans eager for updates"
-          ],
-          "impact": "Nintendo keeps Splatoon fans engaged.",
-          "id": "8ddcd016f3482042b7c53b93624de657"
-        },
-        {
-          "title": "Fire Emblem: Fortune’s Weave boxart, screenshots",
-          "description": "Fire Emblem: Fortune’s Weave reveals its official boxart and new screenshots following the Nintendo Direct. Fans are excited for this new entry.",
-          "category": "Gaming",
-          "source": "nintendoeverything.com",
-          "url": "https://nintendoeverything.com/fire-emblem-fortunes-weave-boxart-screenshots/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Fire-Emblem-Fortunes-Weave-boxart.jpg",
-          "published_at": "2026-06-09T15:13:58Z",
-          "key_points": [
-            "Official boxart revealed",
-            "New screenshots shared",
-            "Fans excited for new entry"
-          ],
-          "impact": "Fire Emblem series continues to expand.",
-          "id": "39602f0f7525e72dc01bf2a1cab68be9"
-        },
-        {
-          "title": "Over A Year Before Release, Stellar Blade: Blood Rain’s New Hero Evie Draws Fire",
-          "description": "Stellar Blade: Blood Rain introduces a new protagonist, Evie, stirring controversy ahead of its release next year. Fans are divided over the character's design.",
-          "category": "Gaming",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/paultassi/2026/06/09/over-a-year-before-release-stellar-blade-blood-rains-new-hero-evie-draws-fire/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a282a7c5d3df6cb6e1cf00c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "published_at": "2026-06-09T15:08:23Z",
-          "key_points": [
-            "New hero Evie introduced",
-            "Controversy over character design",
-            "Game releases next year"
-          ],
-          "impact": "Stellar Blade sparks debate among fans.",
-          "id": "00995815d95bcaa3d185e6d073912bcb"
-        },
-        {
-          "title": "Kingdom Hearts IV Gameplay Trailer Revealed, Will Launch Simultaneously On Consoles And PC",
-          "description": "Kingdom Hearts IV gameplay trailer unveiled, confirming simultaneous launch on consoles and PC. Fans are eager for more details on this highly anticipated sequel.",
-          "category": "Gaming",
-          "source": "Game Informer",
-          "url": "https://gameinformer.com/nintendo-direct/2026/06/09/kingdom-hearts-iv-gameplay-trailer-revealed-will-launch-simultaneously",
-          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/09/155adcf5/kh4_04.jpg.webp",
-          "published_at": "2026-06-09T15:05:51Z",
-          "key_points": [
-            "Gameplay trailer revealed",
-            "Simultaneous launch confirmed",
-            "Fans eagerly await details"
-          ],
-          "impact": "Kingdom Hearts IV builds excitement for fans.",
-          "id": "b50be35410bec0e30d5967d9e5f42241"
         }
       ]
     }
