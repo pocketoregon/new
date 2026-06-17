@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-17T20:10:56.162072+00:00",
+      "fetched_at": "2026-06-17T20:10:56.162072+00:00",
+      "label": "Jun 17, 2026 — 08:11 PM UTC",
+      "articles": [
+        {
+          "title": "Google Unveils Wear OS 7 for Pixel Watch",
+          "description": "Google launches Wear OS 7 alongside Android 17 for Pixel Watch. The update enhances smartwatch functionality for users.",
+          "category": "Software",
+          "source": "9to5google.com",
+          "url": "http://9to5google.com/2026/06/16/wear-os-7-pixel-watch/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Wear-OS-7-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-16T18:02:00Z",
+          "key_points": [
+            "Wear OS 7 now available",
+            "Enhances Pixel Watch features",
+            "Launch coincides with Android 17"
+          ],
+          "impact": "This update improves user experience on Pixel devices.",
+          "id": "fa9ad79b257965c6ec602b51adc771a3"
+        },
+        {
+          "title": "Android 17 Launches for Pixel Devices",
+          "description": "Google officially launches Android 17 for Pixel devices, coinciding with the June 2026 Pixel Feature Drop.",
+          "category": "Software",
+          "source": "9to5google.com",
+          "url": "http://9to5google.com/2026/06/16/google-android-17-pixel-launch/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-16T18:00:00Z",
+          "key_points": [
+            "Android 17 now available",
+            "Includes major updates",
+            "Part of June Pixel Drop"
+          ],
+          "impact": "Users can now enjoy new features on their devices.",
+          "id": "9b876ea8803899a6535dc819dcdbd40b"
+        },
+        {
+          "title": "Viral Video on Flamin' Hot Cheetos Ingredients",
+          "description": "A humorous video shows the ingredients of Flamin' Hot Cheetos, sparking viral interest.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/i-would-like-to-drink-the-forbidden-cheeto-tube-2000707150",
+          "image": "https://kotaku.com/app/uploads/2026/06/cheetotube-1200x675.jpg",
+          "published_at": "2026-06-16T17:55:48Z",
+          "key_points": [
+            "Viral video on Cheetos",
+            "Ingredients revealed humorously",
+            "Not to be taken seriously"
+          ],
+          "impact": "The video humorously engages Cheetos fans online.",
+          "id": "c435a2f748062adc53a66c7d84a35398"
+        },
+        {
+          "title": "Apple Releases iOS 26.6 Beta 2 for iPhone",
+          "description": "Apple has released the second public beta of iOS 26.6, while focusing on iOS 27 development.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/16/apple-releases-ios-26-6-beta-2-for-iphone-heres-what-to-expect/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iOS-26.6-b2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-16T17:18:00Z",
+          "key_points": [
+            "iOS 26.6 beta 2 released",
+            "Focus shifts to iOS 27",
+            "Public beta now available"
+          ],
+          "impact": "Users can test new features ahead of full release.",
+          "id": "7dc9cf675b38798dbc370da26c5ca2e9"
+        },
+        {
+          "title": "Persona 4 Revival English Voice Cast Announced",
+          "description": "ATLUS reveals an all-new English voice cast for Persona 4 Revival, differing from the Japanese version.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/persona-4-revival-english-voice-cast-announced",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/P4R-Cast_06-16-26.jpg",
+          "published_at": "2026-06-16T17:16:04Z",
+          "key_points": [
+            "New English voice cast",
+            "Different from Japanese version",
+            "Exciting updates for fans"
+          ],
+          "impact": "Fans anticipate fresh performances in the game.",
+          "id": "81c959f2f3c0cb4ab047a4646cffaf9b"
+        },
+        {
+          "title": "Snap Launches AR Glasses Specs at $2,195",
+          "description": "Snap unveils its long-awaited AR glasses, Specs, priced at $2,195, available for preorder now.",
+          "category": "Hardware",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/SPECS27_52_Front_View81.png?resize=1200,675",
+          "published_at": "2026-06-16T17:00:00Z",
+          "key_points": [
+            "Specs AR glasses launched",
+            "Priced at $2,195",
+            "Available for preorder now"
+          ],
+          "impact": "Snap aims to capture the AR market with Specs.",
+          "id": "147a41ba12b8b6c706b17df94e3ac43c"
+        },
+        {
+          "title": "Google Xreal Aura XR Glasses Available for Preorder",
+          "description": "Google's Xreal Aura XR glasses can now be reserved for $99, with a full launch expected this fall.",
+          "category": "Hardware",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/950597/xreal-google-aura-xr-glasses-deposit-scheme",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Xreal-Google-Aura-XR-glasses.jpg?quality=90&strip=all&crop=0,14.033409967608,100,71.933180064785",
+          "published_at": "2026-06-16T17:00:00Z",
+          "key_points": [
+            "Xreal Aura glasses preorder",
+            "Launch expected this fall",
+            "Reserve for $99"
+          ],
+          "impact": "Google expands its hardware offerings with XR glasses.",
+          "id": "d08c3ff3bc82c5a03d88db18c9d3167d"
+        },
+        {
+          "title": "Saros Dev Inspired by FromSoftware's Success",
+          "description": "Housemarque aims to create challenging games like Returnal, focusing on tough gameplay mechanics.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/saros-housemarque-returnal-new-content-dlc-fromsoftware-2000707113",
+          "image": "https://kotaku.com/app/uploads/2026/05/bafkreig4oxwkkgy2ozoruyrmqfeefge7hxamf3qd77vgy5jjoodbkhgtha-1200x675.jpg",
+          "published_at": "2026-06-16T16:41:15Z",
+          "key_points": [
+            "Housemarque's new game Saros",
+            "Focus on challenging gameplay",
+            "Inspired by FromSoftware"
+          ],
+          "impact": "Saros aims to attract hardcore gamers.",
+          "id": "721355a30db8e74248bfc33359770f7c"
+        },
+        {
+          "title": "Halo: Campaign Evolved Cover Reveal",
+          "description": "Game Informer reveals the cover for Halo: Campaign Evolved, revisiting the franchise's origins.",
+          "category": "Gaming",
+          "source": "Gameinformer.com",
+          "url": "https://gameinformer.com/cover-reveal/2026/06/16/cover-reveal-halo-campaign-evolved",
+          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/09/bf029444/halo02.jpg.webp",
+          "published_at": "2026-06-16T16:04:31Z",
+          "key_points": [
+            "Halo: Campaign Evolved cover revealed",
+            "Returns to franchise roots",
+            "Exciting for long-time fans"
+          ],
+          "impact": "Fans eagerly await this nostalgic return.",
+          "id": "f727cfa2adc1fc89591d5b80880659b0"
+        },
+        {
+          "title": "Apple Plans Camera AirPods for 2027",
+          "description": "Apple is set to launch camera-equipped AirPods in late 2027, enhancing its AI device lineup.",
+          "category": "Business",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-16/apple-plans-camera-airpods-iphone-foldable-2-20th-anniversary-iphone-in-2027",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqgE81WV9tWk/v1/-1x-1.webp",
+          "published_at": "2026-06-16T16:01:41Z",
+          "key_points": [
+            "Camera AirPods planned for 2027",
+            "Enhances AI device offerings",
+            "Part of new product lineup"
+          ],
+          "impact": "Apple aims to innovate in the audio market.",
+          "id": "85510788efa1954a7a028f6a8aeeef94"
+        },
+        {
+          "title": "Final Fantasy VII Revelation Insights",
+          "description": "Final Fantasy VII Revelation concludes the remake saga, introducing new elements and characters.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/airships-fresh-fits-and-queens-blood-7-things-we-learned-about-final-fantasy-vii-revelation-2000707110",
+          "image": "https://kotaku.com/app/uploads/2026/06/FFVII_Revelation_June_Screenshots_15-e1780874730693-1200x675.jpg",
+          "published_at": "2026-06-16T16:00:25Z",
+          "key_points": [
+            "Final chapter of FFVII saga",
+            "New characters introduced",
+            "Concludes ambitious remake"
+          ],
+          "impact": "Fans are excited for the series finale.",
+          "id": "a6bf43f71d09d3a4d77ac36d9ad0c9d2"
+        },
+        {
+          "title": "iPhone 17 Lacks iOS 27 Features",
+          "description": "iPhone 17 will miss out on top features of iOS 27, requiring more powerful devices for access.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/16/iphone-17-wont-get-ios-27s-top-tier-features-heres-why/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/iphone-17-blue-display.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-16T15:42:00Z",
+          "key_points": [
+            "iPhone 17 misses iOS 27 features",
+            "Requires more powerful devices",
+            "Limited access for users"
+          ],
+          "impact": "Users may feel disappointed with device limitations.",
+          "id": "b56a3c3687f132207d017c4b69580379"
+        },
+        {
+          "title": "Controversial Painting Returns to PDX",
+          "description": "A controversial painting is back on display at Portland International Airport, sparking discussions.",
+          "category": "Geopolitics",
+          "source": "OregonLive",
+          "url": "https://www.oregonlive.com/travel/2026/06/one-of-portlands-most-controversial-paintings-is-back-at-pdx.html",
+          "image": "",
+          "published_at": "2026-06-16T15:15:00Z",
+          "key_points": [
+            "Controversial painting returns",
+            "Displayed at PDX airport",
+            "Sparks public discussions"
+          ],
+          "impact": "The painting reignites local debates on art.",
+          "id": "751e26d76f5bc4ce86b4065bfb60d0cc"
+        },
+        {
+          "title": "2XKO x Chipotle Collaboration Returns",
+          "description": "2XKO and Chipotle team up again, offering fresh rewards and events for fans.",
+          "category": "Gaming",
+          "source": "Riotgames.com",
+          "url": "https://2xko.riotgames.com/en-us/news/game-updates/2xko-x-chipotle-is-back/",
+          "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e29a45033b379426abc0a35320c725888cb802e3-1920x1080.jpg?accountingTag=2XKO?w=1200&h=630&fm=webp&fit=crop&crop=center",
+          "published_at": "2026-06-16T15:00:00Z",
+          "key_points": [
+            "2XKO and Chipotle collaboration",
+            "Fresh rewards available",
+            "Event runs until June 28"
+          ],
+          "impact": "Fans can enjoy new rewards and events.",
+          "id": "f322533b470c7655ece954da06c1c040"
+        },
+        {
+          "title": "PS5 Security Issue: Unowned Games Displayed",
+          "description": "A new security concern arises as PS5 accounts show games users do not own.",
+          "category": "Security",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/another-sony-security-concern-ps5-games-people-dont-own-are-appearing-on-their-profiles",
+          "image": "https://images.pushsquare.com/5551de42b2f7f/large.jpg",
+          "published_at": "2026-06-16T15:00:00Z",
+          "key_points": [
+            "PS5 shows unowned games",
+            "Security concern raised",
+            "Users report strange activity"
+          ],
+          "impact": "Sony faces scrutiny over account security issues.",
+          "id": "12d15f093287e844b99f508332068473"
+        }
+      ]
+    },
+    {
       "id": "2026-06-17T15:25:33.161757+00:00",
       "fetched_at": "2026-06-17T15:25:33.161757+00:00",
       "label": "Jun 17, 2026 — 03:26 PM UTC",
@@ -6488,253 +6735,6 @@
           ],
           "impact": "Apple aims to enhance Siri's functionality.",
           "id": "882b9e13dd0955feee51dd8379a3c15d"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-11T15:58:26.793636+00:00",
-      "fetched_at": "2026-06-11T15:58:26.793636+00:00",
-      "label": "Jun 11, 2026 — 03:59 PM UTC",
-      "articles": [
-        {
-          "title": "Minecraft 26.2 Pre-Release 6 Released",
-          "description": "Minecraft 26.2 Pre-Release 6 fixes spectating issues after dying in hardcore mode. Players can now enjoy a smoother experience post-death.",
-          "category": "Gaming",
-          "source": "Minecraft.net",
-          "url": "https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release-6",
-          "image": "https://www.minecraft.net/content/dam/minecraftnet/article-asset/2026/minecraft-26-2-pre-release-6/new-article-hero-image.jpg",
-          "published_at": "2026-06-10T14:03:30Z",
-          "key_points": [
-            "Fixes hardcore spectating",
-            "Improves player experience",
-            "New features included"
-          ],
-          "impact": "This update enhances gameplay for hardcore players.",
-          "id": "9ca36c0161b7e231cf88bef852603c74"
-        },
-        {
-          "title": "iOS 27 Enhances HomePod with AutoMix",
-          "description": "iOS 27 introduces AutoMix for HomePod, blending songs using AI. This feature enhances the music experience for Apple Music users.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/10/ios-27-new-functionality-to-homepod/",
-          "image": "https://images.macrumors.com/t/LrnoI49mYocvEDjkwXP6ql9E3nM=/1600x/article-new/2021/02/HomePodandMini-feature-green.jpg",
-          "published_at": "2026-06-10T10:02:38Z",
-          "key_points": [
-            "Introduces AutoMix feature",
-            "Enhances Apple Music",
-            "Supports seamless song blending"
-          ],
-          "impact": "HomePod users gain a richer music experience.",
-          "id": "0a524724840da7e51e280422dbbfcde3"
-        },
-        {
-          "title": "Valve Phases Out Physical Steam Gift Cards",
-          "description": "Valve confirms the discontinuation of physical Steam Gift Cards after current stocks are sold. This change is due to increased scams.",
-          "category": "Gaming",
-          "source": "Windows Central",
-          "url": "https://www.windowscentral.com/gaming/pc-gaming/scammers-have-adapted-valve-confirms-that-physical-steam-gift-cards-are-dead",
-          "image": "https://cdn.mos.cms.futurecdn.net/XjKB7kKsaNLFSgmJiCYaSa-1280-80.jpg",
-          "published_at": "2026-06-10T09:25:31Z",
-          "key_points": [
-            "Physical cards are discontinued",
-            "Scams prompted the decision",
-            "Digital options remain available"
-          ],
-          "impact": "Valve shifts focus to digital gift options.",
-          "id": "cc19a2649becbc02a32cee2dbd63f45c"
-        },
-        {
-          "title": "Cliff Bleszinski Praises Xbox's Direction",
-          "description": "Gears of War creator Cliff Bleszinski supports Xbox's decision to make E-Day a console exclusive. He believes it's a positive move for the brand.",
-          "category": "Gaming",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gears-of-war-e-day-xbox-console-exclusive-cliff-bleszinski",
-          "image": "https://assetsio.gnwcdn.com/eday-cliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-10T09:24:25Z",
-          "key_points": [
-            "E-Day is Xbox exclusive",
-            "Bleszinski supports decision",
-            "Positive for brand perception"
-          ],
-          "impact": "This move may strengthen Xbox's market position.",
-          "id": "509757c17491be00f4d7e898deb3e705"
-        },
-        {
-          "title": "iPhone 17 Lacks Siri Features Due to RAM Limit",
-          "description": "The iPhone 17's 8GB RAM limit prevents it from supporting advanced Siri AI features in iOS 27. Users may miss out on enhanced capabilities.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/10/iphone-17s-8gb-limit-loses-siri-ai-features/",
-          "image": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg",
-          "published_at": "2026-06-10T09:19:58Z",
-          "key_points": [
-            "iPhone 17 limited to 8GB RAM",
-            "Loses advanced Siri features",
-            "Impacts user experience"
-          ],
-          "impact": "Users may experience reduced Siri functionality.",
-          "id": "29ed78017dc49e0e50b95069ea15dc72"
-        },
-        {
-          "title": "Office 2019 for Mac to Lose Editing Features",
-          "description": "Microsoft will disable editing and saving for Office 2019 on Mac starting July 13 due to a certificate issue. Users need to upgrade to continue using Office.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/947518/microsoft-office-2019-for-mac-end-of-support-no-edit",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-06-10T09:14:35Z",
-          "key_points": [
-            "Editing disabled from July 13",
-            "Certificate issue causes disruption",
-            "Upgrade required for continued use"
-          ],
-          "impact": "Users must upgrade to avoid losing access.",
-          "id": "0e2c95088c0dd2444aaafb9010b452e5"
-        },
-        {
-          "title": "Logitech Launches Compact Mobi Fold Mouse",
-          "description": "Logitech's Mobi Fold is a portable mouse that folds in half, making it easy to carry without sacrificing functionality. Ideal for travelers.",
-          "category": "Hardware",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/945549/logitech-mobi-fold-wireless-bluetooth-travel-mouse-hands-on",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/logitech10.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-          "published_at": "2026-06-10T07:01:00Z",
-          "key_points": [
-            "Compact folding design",
-            "Ideal for travel",
-            "Maintains full functionality"
-          ],
-          "impact": "Travelers gain a convenient mouse option.",
-          "id": "140a3cc3f697ceaea48966a1902dc1dc"
-        },
-        {
-          "title": "Xbox Boss Discusses Future Console Models",
-          "description": "Xbox's leadership hints at new console models to cater to diverse audiences. They aim to make gaming more accessible and affordable.",
-          "category": "Gaming",
-          "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/news/2026/06/well-start-to-see-radically-different-business-models-xbox-boss-talks-future-of-consoles",
-          "image": "https://images.purexbox.com/47025abde1e5a/large.jpg",
-          "published_at": "2026-06-09T23:00:00Z",
-          "key_points": [
-            "New console models planned",
-            "Focus on affordability",
-            "Aim for broader audience"
-          ],
-          "impact": "Microsoft seeks to expand its gaming market.",
-          "id": "f7d27fdb0b68fdc530b1f16d4aa7ac04"
-        },
-        {
-          "title": "Record Patch Tuesday Fixes 200 Security Flaws",
-          "description": "Microsoft's June Patch Tuesday addresses nearly 200 security vulnerabilities across Windows and software, marking a record for the company.",
-          "category": "Security",
-          "source": "Krebs on Security",
-          "url": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
-          "image": "",
-          "published_at": "2026-06-09T22:20:39Z",
-          "key_points": [
-            "200 vulnerabilities patched",
-            "Record number of fixes",
-            "Enhances system security"
-          ],
-          "impact": "Users benefit from improved security measures.",
-          "id": "213876dbb156473d0909768f5a7305cb"
-        },
-        {
-          "title": "Google's Gemini 3.5 Translates Conversations Live",
-          "description": "Gemini 3.5 offers real-time translation, allowing seamless multilingual conversations. This AI tool enhances communication across languages.",
-          "category": "Software",
-          "source": "CNET",
-          "url": "https://www.cnet.com/tech/services-and-software/gemini-3-5-live-translation-real-time-multilingual-conversation/",
-          "image": "https://www.cnet.com/a/img/resize/f8cbb03e31c20ee58d096f6c18e9af58992a9626/hub/2026/06/09/f2586ef0-93ed-4ab0-bf83-55f64d2a3915/screenshot-2026-06-09-at-1-18-00pm.png?auto=webp&fit=crop&height=675&width=1200",
-          "published_at": "2026-06-09T19:50:00Z",
-          "key_points": [
-            "Real-time multilingual translation",
-            "Enhances conversation flow",
-            "AI-driven communication tool"
-          ],
-          "impact": "This tool revolutionizes cross-language interactions.",
-          "id": "1a0eb9056b35cf59c3ad94ee2b7a2126"
-        },
-        {
-          "title": "macOS Golden Gate Updates Liquid Glass Design",
-          "description": "macOS Golden Gate addresses previous criticisms of Liquid Glass design, enhancing its aesthetic appeal and functionality on Macs.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/09/macos-golden-gate-liquid-glass/",
-          "image": "https://images.macrumors.com/t/688clqBOOkeLbR-dMl3V1--AVps=/2500x/article-new/2026/06/macOS-26-vs-27-Unified-Sidebar.jpg",
-          "published_at": "2026-06-09T19:11:35Z",
-          "key_points": [
-            "Improves Liquid Glass design",
-            "Addresses user feedback",
-            "Enhances Mac aesthetics"
-          ],
-          "impact": "Users will appreciate the refined design.",
-          "id": "87a654c05932785fdc2a5c28d27b28d6"
-        },
-        {
-          "title": "Google Fi Expands to 22 New Regions",
-          "description": "Google Fi enhances its service by expanding to 22 new regions, offering improved connectivity for travelers this summer.",
-          "category": "Business",
-          "source": "Android Police",
-          "url": "https://www.androidpolice.com/google-fi-lands-some-major-improvements-ahead-of-summer/",
-          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/04/google-fi-wireless-card-pixel-8-background.JPG?w=1600&h=900&fit=crop",
-          "published_at": "2026-06-09T18:23:43Z",
-          "key_points": [
-            "Expands to 22 new regions",
-            "Improves travel connectivity",
-            "Enhances service offerings"
-          ],
-          "impact": "Travelers gain better connectivity options.",
-          "id": "4d67ea10636c5d95df6b0f6328d3decd"
-        },
-        {
-          "title": "iOS 27 Personalizes iPhone Lock Screen",
-          "description": "iOS 27 introduces a new setting for customizing the iPhone Lock Screen, enhancing personalization options for users.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/09/ios-27-adds-unique-new-setting-to-personalize-your-iphones-lock-screen/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-lock-screen-clock-small.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-09T17:44:00Z",
-          "key_points": [
-            "New Lock Screen customization",
-            "Enhances user personalization",
-            "Adds unique clock setting"
-          ],
-          "impact": "Users can enjoy a more personalized experience.",
-          "id": "4d4eb7597e2a03407261fa28b996b54f"
-        },
-        {
-          "title": "Google Partners with Paris Hilton for Android AI",
-          "description": "Google collaborates with Paris Hilton to promote Android and AI app development, highlighting new tools for users.",
-          "category": "Startups",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/06/09/google-teams-up-with-paris-hilton-to-showcase-android-and-ai-app-building/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/android-paris-hilton-1.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-09T17:40:00Z",
-          "key_points": [
-            "Partnership with Paris Hilton",
-            "Focus on Android AI tools",
-            "Promotes app development"
-          ],
-          "impact": "This collaboration boosts Android's visibility.",
-          "id": "f18a01285091a2c635406a749144aea1"
-        },
-        {
-          "title": "Insta360 Luna Ultra Camera Partially Revealed",
-          "description": "The Insta360 Luna Ultra camera is available for purchase, but key details remain undisclosed. Content creators await more information.",
-          "category": "Startups",
-          "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/06/09/you-can-buy-the-luna-ultra-camera-insta360-only-sorta-unveiled/",
-          "image": "https://petapixel.com/assets/uploads/2026/06/insta360-luna-ultra-featured.jpg",
-          "published_at": "2026-06-09T16:41:13Z",
-          "key_points": [
-            "Camera partially unveiled",
-            "Details still pending",
-            "Available for purchase now"
-          ],
-          "impact": "Content creators are eager for full specs.",
-          "id": "bb097d830d075e06015ae308aa34d87f"
         }
       ]
     }

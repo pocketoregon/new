@@ -1,245 +1,245 @@
 {
-  "generated_at": "2026-06-17T15:25:33.161757+00:00",
+  "generated_at": "2026-06-17T20:10:56.162072+00:00",
   "articles": [
     {
-      "title": "Marathon's Free Week Fails to Boost Players",
-      "description": "Marathon's season 2 and free week ended without increasing player counts. Server issues plagued the launch, leaving player engagement unchanged.",
-      "category": "Gaming",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/06/16/marathon-season-2-and-free-week-did-not-turn-things-around/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a3153816b135d424c277249/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published_at": "2026-06-16T13:46:35Z",
+      "title": "Google Unveils Wear OS 7 for Pixel Watch",
+      "description": "Google launches Wear OS 7 alongside Android 17 for Pixel Watch. The update enhances smartwatch functionality for users.",
+      "category": "Software",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/06/16/wear-os-7-pixel-watch/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Wear-OS-7-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-16T18:02:00Z",
       "key_points": [
-        "No player growth observed",
-        "Server issues impacted launch",
-        "Free week failed to attract players"
+        "Wear OS 7 now available",
+        "Enhances Pixel Watch features",
+        "Launch coincides with Android 17"
       ],
-      "impact": "Marathon struggles to retain player interest.",
-      "id": "7b4013f3985f9759f86a2e3dc58c9037"
+      "impact": "This update improves user experience on Pixel devices.",
+      "id": "fa9ad79b257965c6ec602b51adc771a3"
     },
     {
-      "title": "PopSockets Launches Ultra-Thin Grip",
-      "description": "PopSockets introduces the Low-Pro, a 2.6mm thick magnetic phone grip with a fold-out stand. It's designed for minimal bulk and maximum functionality.",
-      "category": "Hardware",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/949305/popsockets-magnetic-magsafe-low-pro-grip-hands-on",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/popsockets1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-      "published_at": "2026-06-16T13:30:00Z",
+      "title": "Android 17 Launches for Pixel Devices",
+      "description": "Google officially launches Android 17 for Pixel devices, coinciding with the June 2026 Pixel Feature Drop.",
+      "category": "Software",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/06/16/google-android-17-pixel-launch/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-16T18:00:00Z",
       "key_points": [
-        "Ultra-slim design",
-        "Includes fold-out stand",
-        "Magnetic attachment"
+        "Android 17 now available",
+        "Includes major updates",
+        "Part of June Pixel Drop"
       ],
-      "impact": "PopSockets enhances convenience for mobile users.",
-      "id": "ebba27075bec91b1752b061e49db6bdb"
+      "impact": "Users can now enjoy new features on their devices.",
+      "id": "9b876ea8803899a6535dc819dcdbd40b"
     },
     {
-      "title": "New Games Coming to Xbox Game Pass",
-      "description": "Xbox Game Pass adds EA Sports FC 26 and more titles in June. Players can enjoy new experiences with the 'Play It Day One' feature.",
-      "category": "Gaming",
-      "source": "Xbox.com",
-      "url": "https://news.xbox.com/en-us/2026/06/16/xbox-game-pass-june-2026-wave-2/",
-      "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/XBOX_GamePass_Announcement_16x9_06.16.2026_EN-US-2c13acdfbf78730b55ba.jpg",
-      "published_at": "2026-06-16T13:01:17Z",
-      "key_points": [
-        "EA Sports FC 26 included",
-        "Multiple new titles added",
-        "Play It Day One feature"
-      ],
-      "impact": "Xbox Game Pass expands its game library.",
-      "id": "90833d1e7b2122646182b509e00f42a3"
-    },
-    {
-      "title": "Surface Laptop 8 and Pro 12 Get Snapdragon X2",
-      "description": "Microsoft's Surface Laptop 8 and Surface Pro 12 now feature Snapdragon X2 chips, offering new colors and higher prices.",
-      "category": "Hardware",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/950146/microsoft-surface-laptop-8-surface-pro-12-snapdragon-x2-specs-price",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Surface-Pro-13-inch-Surface-Laptop-13.8-inch.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "published_at": "2026-06-16T13:00:00Z",
-      "key_points": [
-        "New Snapdragon X2 chips",
-        "Fresh color options",
-        "Increased pricing"
-      ],
-      "impact": "Microsoft updates its Surface lineup with new tech.",
-      "id": "c15c335238cf10b31c4b55594b763234"
-    },
-    {
-      "title": "Launch Destiny 2 Raid Bosses into the Sun",
-      "description": "A guide on how to launch Destiny 2 raid bosses into the sun has been released, showcasing a fun gameplay mechanic.",
-      "category": "Gaming",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/06/16/how-to-launch-destiny-2-raid-bosses-into-the-sun/",
-      "image": "",
-      "published_at": "2026-06-16T12:56:34Z",
-      "key_points": [
-        "Guide for launching bosses",
-        "Fun gameplay mechanic",
-        "Engaging player strategies"
-      ],
-      "impact": "Players discover new strategies in Destiny 2.",
-      "id": "641716586c52f6c6315b8f4d4aa8d275"
-    },
-    {
-      "title": "Steam Next Fest Features AI Disclosures",
-      "description": "Steam Next Fest showcases 1694 games with generative AI disclosures amid ongoing tech controversies. This highlights the growing integration of AI in gaming.",
-      "category": "Gaming",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/steam-next-fest-generative-ai-disclosure-thousands",
-      "image": "https://assetsio.gnwcdn.com/steam-next-fest_myGmpAu.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-16T12:16:10Z",
-      "key_points": [
-        "1694 games featured",
-        "Generative AI disclosures present",
-        "AI integration in gaming grows"
-      ],
-      "impact": "AI's role in gaming continues to expand.",
-      "id": "bb359a3308aeba13b95b637e15d63e67"
-    },
-    {
-      "title": "GTA 6 Release Date Confirmed for November",
-      "description": "Take-Two's CEO confirms GTA 6's release date as November 19, 2026, during an unexpected TikTok interview, easing fan concerns.",
+      "title": "Viral Video on Flamin' Hot Cheetos Ingredients",
+      "description": "A humorous video shows the ingredients of Flamin' Hot Cheetos, sparking viral interest.",
       "category": "Gaming",
       "source": "Kotaku",
-      "url": "https://kotaku.com/gta-6-grand-theft-auto-release-date-confirmed-take-two-rockstar-2000707059",
-      "image": "https://kotaku.com/app/uploads/2026/06/gta6date-1200x675.jpg",
-      "published_at": "2026-06-16T12:05:20Z",
+      "url": "https://kotaku.com/i-would-like-to-drink-the-forbidden-cheeto-tube-2000707150",
+      "image": "https://kotaku.com/app/uploads/2026/06/cheetotube-1200x675.jpg",
+      "published_at": "2026-06-16T17:55:48Z",
       "key_points": [
-        "GTA 6 release date confirmed",
-        "November 19, 2026",
-        "TikTok interview reveals details"
+        "Viral video on Cheetos",
+        "Ingredients revealed humorously",
+        "Not to be taken seriously"
       ],
-      "impact": "Fans receive confirmation for GTA 6 release.",
-      "id": "5763c882af8ea142ec0d69abaebbfda4"
+      "impact": "The video humorously engages Cheetos fans online.",
+      "id": "c435a2f748062adc53a66c7d84a35398"
     },
     {
-      "title": "Apple's Home Camera Service Impresses",
-      "description": "Apple's HomeKit Secure Video in iOS 27 now features AI summaries and natural-language search, enhancing its competitive edge.",
-      "category": "Hardware",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/949854/first-look-apple-home-ios-27-upgrades-homekit-secure-video",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268594_iOS_27_home_app_first_look_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published_at": "2026-06-16T12:00:00Z",
+      "title": "Apple Releases iOS 26.6 Beta 2 for iPhone",
+      "description": "Apple has released the second public beta of iOS 26.6, while focusing on iOS 27 development.",
+      "category": "Software",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/16/apple-releases-ios-26-6-beta-2-for-iphone-heres-what-to-expect/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iOS-26.6-b2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-16T17:18:00Z",
       "key_points": [
-        "AI-powered summaries",
-        "Natural-language search",
-        "Improved reliability"
+        "iOS 26.6 beta 2 released",
+        "Focus shifts to iOS 27",
+        "Public beta now available"
       ],
-      "impact": "Apple enhances its smart home offerings.",
-      "id": "c153477fc22406d9bf12da737bdd5fb0"
+      "impact": "Users can test new features ahead of full release.",
+      "id": "7dc9cf675b38798dbc370da26c5ca2e9"
     },
     {
-      "title": "Rise of the Tomb Raider Review on Switch 2",
-      "description": "The Switch 2 version of Rise of the Tomb Raider celebrates 30 years of the franchise, showcasing impressive graphics and gameplay.",
+      "title": "Persona 4 Revival English Voice Cast Announced",
+      "description": "ATLUS reveals an all-new English voice cast for Persona 4 Revival, differing from the Japanese version.",
       "category": "Gaming",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/rise-of-the-tomb-raider-20-year-celebration",
-      "image": "https://images.nintendolife.com/2ca1628a64f65/1280x720.jpg",
-      "published_at": "2026-06-16T12:00:00Z",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/persona-4-revival-english-voice-cast-announced",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/P4R-Cast_06-16-26.jpg",
+      "published_at": "2026-06-16T17:16:04Z",
       "key_points": [
-        "30-year franchise celebration",
-        "Impressive graphics",
-        "Enhanced gameplay experience"
+        "New English voice cast",
+        "Different from Japanese version",
+        "Exciting updates for fans"
       ],
-      "impact": "Tomb Raider franchise continues to thrive.",
-      "id": "8e9059e9e7d4fe2e5ccf9629817fac08"
+      "impact": "Fans anticipate fresh performances in the game.",
+      "id": "81c959f2f3c0cb4ab047a4646cffaf9b"
     },
     {
-      "title": "Apple's Anti-Nausea Dots Work Effectively",
-      "description": "Apple's Vehicle Motion Cues successfully reduce motion sickness, allowing users to read and write comfortably in moving vehicles.",
+      "title": "Snap Launches AR Glasses Specs at $2,195",
+      "description": "Snap unveils its long-awaited AR glasses, Specs, priced at $2,195, available for preorder now.",
+      "category": "Hardware",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/SPECS27_52_Front_View81.png?resize=1200,675",
+      "published_at": "2026-06-16T17:00:00Z",
+      "key_points": [
+        "Specs AR glasses launched",
+        "Priced at $2,195",
+        "Available for preorder now"
+      ],
+      "impact": "Snap aims to capture the AR market with Specs.",
+      "id": "147a41ba12b8b6c706b17df94e3ac43c"
+    },
+    {
+      "title": "Google Xreal Aura XR Glasses Available for Preorder",
+      "description": "Google's Xreal Aura XR glasses can now be reserved for $99, with a full launch expected this fall.",
       "category": "Hardware",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268530_SUMMER_UPGRADE_WEEK__NAUSEA_DOTS_ADemidova.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published_at": "2026-06-16T11:30:00Z",
+      "url": "https://www.theverge.com/gadgets/950597/xreal-google-aura-xr-glasses-deposit-scheme",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Xreal-Google-Aura-XR-glasses.jpg?quality=90&strip=all&crop=0,14.033409967608,100,71.933180064785",
+      "published_at": "2026-06-16T17:00:00Z",
       "key_points": [
-        "Reduces motion sickness",
-        "Allows comfortable reading",
-        "Innovative technology"
+        "Xreal Aura glasses preorder",
+        "Launch expected this fall",
+        "Reserve for $99"
       ],
-      "impact": "Apple's tech improves travel comfort.",
-      "id": "8b5587ded666f6ed34e1df3cb4fb71f8"
+      "impact": "Google expands its hardware offerings with XR glasses.",
+      "id": "d08c3ff3bc82c5a03d88db18c9d3167d"
     },
     {
-      "title": "Don't Nod Faces Cash Crunch by November",
-      "description": "Auditors warn that Don't Nod may run out of cash by November without securing additional financing from Tencent, its largest shareholder.",
+      "title": "Saros Dev Inspired by FromSoftware's Success",
+      "description": "Housemarque aims to create challenging games like Returnal, focusing on tough gameplay mechanics.",
+      "category": "Gaming",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/saros-housemarque-returnal-new-content-dlc-fromsoftware-2000707113",
+      "image": "https://kotaku.com/app/uploads/2026/05/bafkreig4oxwkkgy2ozoruyrmqfeefge7hxamf3qd77vgy5jjoodbkhgtha-1200x675.jpg",
+      "published_at": "2026-06-16T16:41:15Z",
+      "key_points": [
+        "Housemarque's new game Saros",
+        "Focus on challenging gameplay",
+        "Inspired by FromSoftware"
+      ],
+      "impact": "Saros aims to attract hardcore gamers.",
+      "id": "721355a30db8e74248bfc33359770f7c"
+    },
+    {
+      "title": "Halo: Campaign Evolved Cover Reveal",
+      "description": "Game Informer reveals the cover for Halo: Campaign Evolved, revisiting the franchise's origins.",
+      "category": "Gaming",
+      "source": "Gameinformer.com",
+      "url": "https://gameinformer.com/cover-reveal/2026/06/16/cover-reveal-halo-campaign-evolved",
+      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/09/bf029444/halo02.jpg.webp",
+      "published_at": "2026-06-16T16:04:31Z",
+      "key_points": [
+        "Halo: Campaign Evolved cover revealed",
+        "Returns to franchise roots",
+        "Exciting for long-time fans"
+      ],
+      "impact": "Fans eagerly await this nostalgic return.",
+      "id": "f727cfa2adc1fc89591d5b80880659b0"
+    },
+    {
+      "title": "Apple Plans Camera AirPods for 2027",
+      "description": "Apple is set to launch camera-equipped AirPods in late 2027, enhancing its AI device lineup.",
       "category": "Business",
-      "source": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/auditors-warn-dont-nod-will-run-out-of-cash-by-november-if-it-is-unable-to-secure-financing",
-      "image": "https://assetsio.gnwcdn.com/lost-records.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-16T11:20:29Z",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-16/apple-plans-camera-airpods-iphone-foldable-2-20th-anniversary-iphone-in-2027",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqgE81WV9tWk/v1/-1x-1.webp",
+      "published_at": "2026-06-16T16:01:41Z",
       "key_points": [
-        "Cash crunch warning issued",
-        "Tencent financing needed",
-        "Potential financial crisis ahead"
+        "Camera AirPods planned for 2027",
+        "Enhances AI device offerings",
+        "Part of new product lineup"
       ],
-      "impact": "Don't Nod faces financial uncertainty.",
-      "id": "6490de27ccf5aef21cf10b73635af29d"
+      "impact": "Apple aims to innovate in the audio market.",
+      "id": "85510788efa1954a7a028f6a8aeeef94"
     },
     {
-      "title": "Forza Horizon 6 Update Eases Multiplayer Grind",
-      "description": "A new Forza Horizon 6 update reduces the time needed to unlock a challenging multiplayer achievement, improving player experience.",
+      "title": "Final Fantasy VII Revelation Insights",
+      "description": "Final Fantasy VII Revelation concludes the remake saga, introducing new elements and characters.",
       "category": "Gaming",
-      "source": "TrueAchievements",
-      "url": "https://www.trueachievements.com/news/forza-horizon-6-series-2-update-patch-notes",
-      "image": "https://www.trueachievements.com/imgs/176107/forza-horizon-6-update-makes-ridiculous-multiplayer-xbox-achievement-much-easier-to-unlock.jpg",
-      "published_at": "2026-06-16T11:18:29Z",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/airships-fresh-fits-and-queens-blood-7-things-we-learned-about-final-fantasy-vii-revelation-2000707110",
+      "image": "https://kotaku.com/app/uploads/2026/06/FFVII_Revelation_June_Screenshots_15-e1780874730693-1200x675.jpg",
+      "published_at": "2026-06-16T16:00:25Z",
       "key_points": [
-        "Achievement grind reduced",
-        "AI racers balanced",
-        "Improved player experience"
+        "Final chapter of FFVII saga",
+        "New characters introduced",
+        "Concludes ambitious remake"
       ],
-      "impact": "Forza Horizon 6 enhances multiplayer accessibility.",
-      "id": "847c1b294ba2d562ad97e4728ac3cb72"
+      "impact": "Fans are excited for the series finale.",
+      "id": "a6bf43f71d09d3a4d77ac36d9ad0c9d2"
     },
     {
-      "title": "Ransomware Gang Exploits Microsoft Teams",
-      "description": "DragonForce ransomware uses a custom malware to conceal malicious traffic within Microsoft Teams, raising security concerns.",
+      "title": "iPhone 17 Lacks iOS 27 Features",
+      "description": "iPhone 17 will miss out on top features of iOS 27, requiring more powerful devices for access.",
+      "category": "Software",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/16/iphone-17-wont-get-ios-27s-top-tier-features-heres-why/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/iphone-17-blue-display.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-16T15:42:00Z",
+      "key_points": [
+        "iPhone 17 misses iOS 27 features",
+        "Requires more powerful devices",
+        "Limited access for users"
+      ],
+      "impact": "Users may feel disappointed with device limitations.",
+      "id": "b56a3c3687f132207d017c4b69580379"
+    },
+    {
+      "title": "Controversial Painting Returns to PDX",
+      "description": "A controversial painting is back on display at Portland International Airport, sparking discussions.",
+      "category": "Geopolitics",
+      "source": "OregonLive",
+      "url": "https://www.oregonlive.com/travel/2026/06/one-of-portlands-most-controversial-paintings-is-back-at-pdx.html",
+      "image": "",
+      "published_at": "2026-06-16T15:15:00Z",
+      "key_points": [
+        "Controversial painting returns",
+        "Displayed at PDX airport",
+        "Sparks public discussions"
+      ],
+      "impact": "The painting reignites local debates on art.",
+      "id": "751e26d76f5bc4ce86b4065bfb60d0cc"
+    },
+    {
+      "title": "2XKO x Chipotle Collaboration Returns",
+      "description": "2XKO and Chipotle team up again, offering fresh rewards and events for fans.",
+      "category": "Gaming",
+      "source": "Riotgames.com",
+      "url": "https://2xko.riotgames.com/en-us/news/game-updates/2xko-x-chipotle-is-back/",
+      "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e29a45033b379426abc0a35320c725888cb802e3-1920x1080.jpg?accountingTag=2XKO?w=1200&h=630&fm=webp&fit=crop&crop=center",
+      "published_at": "2026-06-16T15:00:00Z",
+      "key_points": [
+        "2XKO and Chipotle collaboration",
+        "Fresh rewards available",
+        "Event runs until June 28"
+      ],
+      "impact": "Fans can enjoy new rewards and events.",
+      "id": "f322533b470c7655ece954da06c1c040"
+    },
+    {
+      "title": "PS5 Security Issue: Unowned Games Displayed",
+      "description": "A new security concern arises as PS5 accounts show games users do not own.",
       "category": "Security",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/02/17/Microsoft-Teams.jpg",
-      "published_at": "2026-06-16T10:18:48Z",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/06/another-sony-security-concern-ps5-games-people-dont-own-are-appearing-on-their-profiles",
+      "image": "https://images.pushsquare.com/5551de42b2f7f/large.jpg",
+      "published_at": "2026-06-16T15:00:00Z",
       "key_points": [
-        "Ransomware hides in Teams",
-        "Custom malware used",
-        "Security risks highlighted"
+        "PS5 shows unowned games",
+        "Security concern raised",
+        "Users report strange activity"
       ],
-      "impact": "Microsoft Teams faces new security threats.",
-      "id": "a0af703507a67a6ebef3ba63eba47202"
-    },
-    {
-      "title": "ARC Raiders Live Update 1.33.0 Released",
-      "description": "ARC Raiders introduces new content and features in its latest update, enhancing the multiplayer extraction adventure experience.",
-      "category": "Gaming",
-      "source": "Arcraiders.com",
-      "url": "https://arcraiders.com/news/live-update-1-33-0",
-      "image": "https://storage.googleapis.com/web-arc-raiders-cms-assets/temp/social/arc-raiders-social.png",
-      "published_at": "2026-06-16T09:05:42Z",
-      "key_points": [
-        "New content added",
-        "Multiplayer experience enhanced",
-        "Exciting gameplay updates"
-      ],
-      "impact": "ARC Raiders continues to evolve with updates.",
-      "id": "2ae136bfc38e3e598aba0dbe1ddefe3a"
-    },
-    {
-      "title": "Noctua NL-LC1-36 AIO Cooler Review",
-      "description": "Noctua's first AIO liquid cooler impresses with high performance, low noise, and exceptional engineering, making it a top choice for PC builders.",
-      "category": "Hardware",
-      "source": "Techpowerup.com",
-      "url": "https://www.techpowerup.com/review/noctua-nl-lc1-36-aio-liquid-cpu-cooler/",
-      "image": "https://www.techpowerup.com/review/noctua-nl-lc1-36-aio-liquid-cpu-cooler/images/title.jpg",
-      "published_at": "2026-06-16T09:00:43Z",
-      "key_points": [
-        "High performance",
-        "Minimal noise",
-        "Exceptional engineering"
-      ],
-      "impact": "Noctua sets a new standard in cooling.",
-      "id": "7f678cb1eaa8ab1aa25c3c8a9de108ba"
+      "impact": "Sony faces scrutiny over account security issues.",
+      "id": "12d15f093287e844b99f508332068473"
     }
   ]
 }
