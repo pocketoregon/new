@@ -1,6 +1,157 @@
 {
   "batches": [
     {
+      "id": "2026-06-17T10:53:15.538935+00:00",
+      "fetched_at": "2026-06-17T10:53:15.538935+00:00",
+      "label": "Jun 17, 2026 — 10:53 AM UTC",
+      "articles": [
+        {
+          "title": "Apple Unifies Email Domains for Privacy Features",
+          "description": "Apple will soon implement a shared domain for private email addresses from Sign in with Apple and iCloud+ Hide My Email. This aims to enhance user privacy and streamline services.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/15/sign-in-with-apple-and-hide-my-email-are-getting-a-new-shared-email-domain/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/icloud-icon-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-16T01:16:00Z",
+          "key_points": [
+            "New shared email domain",
+            "Enhances user privacy",
+            "Streamlines Apple services"
+          ],
+          "impact": "This change simplifies email management for users.",
+          "id": "99c24c96d428bf242d25232917d064b4"
+        },
+        {
+          "title": "Siri Transformed: iOS 27's AI Overhaul",
+          "description": "iOS 27 introduces a complete redesign of Siri, now featuring advanced AI capabilities. Apple enhances functionality and user experience with this significant update.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/guide/ios-27-siri/",
+          "image": "https://images.macrumors.com/t/5VqGjtmjIjCfOM8Sv0v-nzPfg54=/1600x/article-new/2026/03/ios-27-siri-animation.jpg",
+          "published_at": "2026-06-15T23:17:00Z",
+          "key_points": [
+            "Siri gets AI upgrade",
+            "Enhanced user experience",
+            "New features added"
+          ],
+          "impact": "This overhaul positions Siri as a smarter assistant.",
+          "id": "6248c167445c11d5e81736c401498a44"
+        },
+        {
+          "title": "Google Earth Launches Flight Simulator in Browsers",
+          "description": "Google Earth now offers a flight simulator accessible directly in browsers, eliminating the need for downloads. Users can explore the globe virtually with ease.",
+          "category": "Gaming",
+          "source": "CNET",
+          "url": "https://www.cnet.com/tech/gaming/google-earths-flight-simulator-is-now-on-browsers-heres-how-to-play/",
+          "image": "https://www.cnet.com/a/img/resize/c1b067050d2938f1ebed4b343b11a3c643d512bb/hub/2026/06/15/0521f4f8-f423-41dd-8f0c-b86234255cca/google-earth-flight-simulator-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "published_at": "2026-06-15T22:10:00Z",
+          "key_points": [
+            "Flight simulator now browser-based",
+            "No downloads required",
+            "Explore the globe virtually"
+          ],
+          "impact": "This feature enhances accessibility for users.",
+          "id": "4853669098a9eab6da020f2d89554f0b"
+        },
+        {
+          "title": "Microsoft Partners for Flexible Xbox Payments",
+          "description": "Microsoft plans to allow Xbox customers to split purchases into interest-free installments through Klarna and PayPal. This aims to ease financial burdens amid rising costs.",
+          "category": "Gaming",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/gaming/xbox/microsoft-is-gearing-up-to-let-you-spread-the-cost-of-xbox-purchases-partnering-with-klarna-and-paypal",
+          "image": "https://cdn.mos.cms.futurecdn.net/S4igP54s4TcqiMHiMn7jtd-1024-80.jpg",
+          "published_at": "2026-06-15T17:20:35Z",
+          "key_points": [
+            "Flexible payment options",
+            "Interest-free installments",
+            "Supports customers financially"
+          ],
+          "impact": "This initiative helps customers manage expenses.",
+          "id": "af2017c9cf53c5ecaab54e21ea53723f"
+        },
+        {
+          "title": "Final Fantasy Franchise Sale on Steam",
+          "description": "Steam is hosting a massive sale on the Final Fantasy franchise, including FF7 Remake and Rebirth. Gamers can enjoy hundreds of hours of RPG content at discounted prices.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/all-of-final-fantasy-is-on-sale-on-steam-including-ff7-remake-and-rebirth-2000706667",
+          "image": "https://kotaku.com/app/uploads/2026/06/ff7-salessteam-1200x675.jpg",
+          "published_at": "2026-06-15T16:44:30Z",
+          "key_points": [
+            "Massive sale on Steam",
+            "Includes FF7 Remake",
+            "Hundreds of hours of gameplay"
+          ],
+          "impact": "This sale boosts accessibility to classic games.",
+          "id": "41900b58fbf7424aa7fa7b717bd6d195"
+        },
+        {
+          "title": "Sony Aims for God of War Laufey Release in 2027",
+          "description": "Sony expresses hopes to launch PS5's God of War Laufey in early 2027, though plans may change. Development continues amid fan anticipation.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/sony-hopes-to-launch-ps5s-god-of-war-laufey-in-the-first-half-of-2027",
+          "image": "https://images.pushsquare.com/d85d84829248d/large.jpg",
+          "published_at": "2026-06-15T13:00:00Z",
+          "key_points": [
+            "Expected release in 2027",
+            "Development ongoing",
+            "Plans may change"
+          ],
+          "impact": "Fans eagerly await this anticipated title.",
+          "id": "70b602ba473400aecde990d89c921c5c"
+        },
+        {
+          "title": "Bungie Near Shutdown Before Sony Acquisition",
+          "description": "A former Bungie employee reveals the studio was close to shutting down before Sony's acquisition. The future of Destiny 2 was uncertain during this period.",
+          "category": "Gaming",
+          "source": "Eurogamer.net",
+          "url": "https://www.eurogamer.net/bungie-close-to-shutting-down-before-sony-acquisition-its-claimed",
+          "image": "https://assetsio.gnwcdn.com/d2-header-end.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-15T12:29:31Z",
+          "key_points": [
+            "Bungie faced shutdown risk",
+            "Sony acquisition saved studio",
+            "Destiny 2's future uncertain"
+          ],
+          "impact": "This acquisition changed Bungie's trajectory.",
+          "id": "f6bab16f5d2e7bceab7c5830c9bffecf"
+        },
+        {
+          "title": "Mistfall Hunter Free on Xbox for a Week",
+          "description": "Mistfall Hunter is available for free on Xbox for one week ahead of its Game Pass release in July. Players can try the new PvPvE extraction ARPG now.",
+          "category": "Gaming",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/06/excited-for-mistfall-hunter-its-free-to-play-on-xbox-for-the-next-week",
+          "image": "https://images.purexbox.com/edbb69497d5d7/large.jpg",
+          "published_at": "2026-06-15T12:15:00Z",
+          "key_points": [
+            "Free trial on Xbox",
+            "Available for one week",
+            "Game Pass release in July"
+          ],
+          "impact": "This trial encourages player engagement.",
+          "id": "c0d6bbdd6cc29289f905b2b708c6084a"
+        },
+        {
+          "title": "Old Pixel Phones Repurposed as Data Centers",
+          "description": "Researchers are converting old Pixel phones into a data center, outperforming some traditional server hardware. This project addresses electronic waste and sustainability.",
+          "category": "Science",
+          "source": "TechSpot",
+          "url": "https://www.techspot.com/news/112762-researchers-turning-old-pixel-phones-data-center-they.html",
+          "image": "https://www.techspot.com/images2/news/bigimage/2026/06/2026-06-14-image-11.jpg",
+          "published_at": "2026-06-15T11:49:00Z",
+          "key_points": [
+            "Old phones as data centers",
+            "Outperform some servers",
+            "Focus on sustainability"
+          ],
+          "impact": "This project promotes innovative recycling solutions.",
+          "id": "6584e95057398b28f48d35e996658171"
+        }
+      ]
+    },
+    {
       "id": "2026-06-17T04:00:20.970285+00:00",
       "fetched_at": "2026-06-17T04:00:20.970285+00:00",
       "label": "Jun 17, 2026 — 04:01 AM UTC",
@@ -6584,205 +6735,6 @@
           ],
           "impact": "Kingdom Hearts IV builds excitement for fans.",
           "id": "b50be35410bec0e30d5967d9e5f42241"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-11T03:51:57.520378+00:00",
-      "fetched_at": "2026-06-11T03:51:57.520378+00:00",
-      "label": "Jun 11, 2026 — 03:52 AM UTC",
-      "articles": [
-        {
-          "title": "Google Sparks AI Subscription Price War",
-          "description": "Google slashes prices for its budget AI subscription, intensifying competition in the market. This move targets American consumers amid a global pricing battle.",
-          "category": "Business",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
-          "published_at": "2026-06-10T00:26:10Z",
-          "key_points": [
-            "Google lowers AI subscription costs",
-            "Targets American consumers",
-            "Intensifies market competition"
-          ],
-          "impact": "This could reshape AI subscription pricing.",
-          "id": "f5f16b778aa511b12529d9bb647b0a71"
-        },
-        {
-          "title": "Siri AI Shows Promising Performance",
-          "description": "Apple's Siri AI, its second attempt at an AI assistant, demonstrates significant improvements and functionality. Early tests suggest it may finally meet user expectations.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03775_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-          "published_at": "2026-06-09T23:43:00Z",
-          "key_points": [
-            "Siri AI shows improved functionality",
-            "User experience is enhanced",
-            "Potentially meets expectations"
-          ],
-          "impact": "Siri AI could regain user trust.",
-          "id": "97e73bfc89ed13aa5f8929c049259ef8"
-        },
-        {
-          "title": "Starlink Introduces Monthly Hardware Fee",
-          "description": "Starlink shifts to a $10 monthly hardware rental fee, moving away from one-time purchases. Service prices also increase by $5 to $10.",
-          "category": "Business",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/getty-starlink-1152x648.jpg",
-          "published_at": "2026-06-09T21:05:39Z",
-          "key_points": [
-            "Starlink introduces monthly fees",
-            "Service prices increase",
-            "Shifts from one-time purchases"
-          ],
-          "impact": "This could affect customer retention.",
-          "id": "fe37e0d103e2d6d17a2e6146ae2cc651"
-        },
-        {
-          "title": "Destiny 2 Sees Player Surge Post-Update",
-          "description": "Destiny 2 experiences a record player count following its final update release. Fans are flocking back to celebrate the game's legacy.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/destiny-2-hits-highest-player-count-in-two-years-following-final-updates-release-shatters-marathons-all-time-peak",
-          "image": "https://assets-prd.ignimgs.com/2025/11/13/destiynthumb-1763051460453.png?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-09T20:41:13Z",
-          "key_points": [
-            "Destiny 2 hits record player count",
-            "Final update boosts engagement",
-            "Fans celebrate game's legacy"
-          ],
-          "impact": "This revitalizes interest in Destiny 2.",
-          "id": "3b978d72a7d7b3b8a6815d06d82836a6"
-        },
-        {
-          "title": "Google Launches Gemini 3.5 Live Translate",
-          "description": "Google's Gemini 3.5 Live Translate offers instant voice-to-voice translations, maintaining speaker tone and pitch. Security features include SynthID watermarks.",
-          "category": "AI",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-4-1152x648.jpg",
-          "published_at": "2026-06-09T18:57:25Z",
-          "key_points": [
-            "Instant voice translations available",
-            "Preserves speaker's tone",
-            "Includes security watermarks"
-          ],
-          "impact": "This enhances real-time communication.",
-          "id": "b555cceabdd0f48e98f7b03806515b63"
-        },
-        {
-          "title": "Apple Unveils New App Store Subscription Bundles",
-          "description": "Apple introduces new subscription bundles for the App Store, enhancing user options. This follows earlier monthly plans with long-term commitments.",
-          "category": "Business",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/09/apple-introduces-new-subscription-bundles-coming-to-app-store/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/app-store-app-icon-ios-27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-09T18:34:00Z",
-          "key_points": [
-            "New subscription bundles announced",
-            "Enhances user options",
-            "Follows earlier subscription plans"
-          ],
-          "impact": "This could boost App Store revenue.",
-          "id": "854d2ddfe0bfc6d61273de0016e4a1d2"
-        },
-        {
-          "title": "Apple Reveals Top Features in iOS 27",
-          "description": "Apple showcases exciting new features in iOS 27, focusing on Siri improvements and user experience enhancements. The update aims to refine device functionality.",
-          "category": "Software",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/top-new-features-in-apples-ios-27-and-ipados-27/",
-          "image": "https://media.wired.com/photos/6a28233604cb8e65f7b969d3/191:100/w_1280,c_limit/Siri%20AI%20Site%20Image%20SOURCE%20Apple.jpg",
-          "published_at": "2026-06-09T17:03:00Z",
-          "key_points": [
-            "iOS 27 features major upgrades",
-            "Focus on Siri improvements",
-            "Enhances user experience"
-          ],
-          "impact": "This could improve user satisfaction.",
-          "id": "32a2e9b211fb33fe3ab3e27ee58b3d7f"
-        },
-        {
-          "title": "Apple Announces tvOS 27 Enhancements",
-          "description": "Apple confirms tvOS 27, promising faster performance for streaming devices. The update aims to enhance user experience despite limited attention at WWDC.",
-          "category": "Software",
-          "source": "What Hi-Fi? US",
-          "url": "https://www.whathifi.com/streaming-entertainment/streaming-hardware/apple-officially-announces-tvos-27-and-it-nearly-makes-up-for-the-missing-next-generation-apple-tv-4k",
-          "image": "https://cdn.mos.cms.futurecdn.net/gaZxFBeuS4ipxGTBfUeqNU-2560-80.jpg",
-          "published_at": "2026-06-09T16:08:05Z",
-          "key_points": [
-            "tvOS 27 announced",
-            "Faster streaming performance",
-            "Enhances user experience"
-          ],
-          "impact": "This could attract more streaming users.",
-          "id": "32c4f4d1f9d63a264db091b95a374073"
-        },
-        {
-          "title": "Zelda: Ocarina of Time Remake Coming Soon",
-          "description": "Nintendo announces a remake of The Legend of Zelda: Ocarina of Time, set for release this year. Fans eagerly anticipate this classic revival.",
-          "category": "Gaming",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/paultassi/2026/06/09/nintendos-the-legend-of-zelda-ocarina-of-time-remake-is-out-this-year/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a283057a1ae8880301f685c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "published_at": "2026-06-09T15:27:37Z",
-          "key_points": [
-            "Zelda remake announced",
-            "Set for release this year",
-            "Fans excited for revival"
-          ],
-          "impact": "This could boost Nintendo's sales.",
-          "id": "9f2105b40be0d603db380f032bc91725"
-        },
-        {
-          "title": "Apple May Remove Low-Performing Apps",
-          "description": "Apple warns it may remove apps from the App Store that fail to attract users. This move targets stale or low-value applications.",
-          "category": "Business",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/",
-          "image": "https://techcrunch.com/wp-content/uploads/2025/12/app-of-the-year.jpg?resize=1200,722",
-          "published_at": "2026-06-09T15:23:40Z",
-          "key_points": [
-            "Apple targets low-performing apps",
-            "May remove stale applications",
-            "Focus on user engagement"
-          ],
-          "impact": "This could streamline the App Store.",
-          "id": "ce34f28de3d961c5ababaf2b7e1763eb"
-        },
-        {
-          "title": "Kingdom Hearts IV Confirmed for Multiple Platforms",
-          "description": "Kingdom Hearts IV will launch on PS5, Xbox Series, Switch 2, and PC. Square Enix confirms the game's development but has not announced a release date.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/kingdom-hearts-iv-confirmed-for-ps5-xbox-series-switch-2-and-pc",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Kingdom-Hearts-IV_2026_06-09-26_006.jpg",
-          "published_at": "2026-06-09T14:56:26Z",
-          "key_points": [
-            "Kingdom Hearts IV confirmed",
-            "Available on multiple platforms",
-            "Release date not announced"
-          ],
-          "impact": "This excites fans of the franchise.",
-          "id": "98c1375a23b3dbea0eb0d4bdfda53712"
-        },
-        {
-          "title": "Critical Chrome Zero-Day Vulnerability Discovered",
-          "description": "Google addresses 74 vulnerabilities in Chrome, including a critical zero-day flaw, CVE-2026-11645. Users are urged to update immediately for security.",
-          "category": "Security",
-          "source": "Internet",
-          "url": "https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy9c53f3p1HHGx7jqu0BsfiQG9IExXm0FN2TErZuX0bEb-QuwP4-_1WCoEBEWu976cmqjbnjTJl04uxbLJIP3P0pzSXNqjLNOz_gbfLMilYwJswWq-lMAPWJ1FxaZB_jmcsJaBFO4E5oXd3cdhDPlnDc2TblqooNQ9Btxfak9W8cXEhyphenhyphenXzjEfSluORQ1Ty/s1600/chrome-zero-day.jpg",
-          "published_at": "2026-06-09T11:58:00Z",
-          "key_points": [
-            "74 vulnerabilities addressed",
-            "Critical zero-day flaw found",
-            "Users urged to update"
-          ],
-          "impact": "This enhances Chrome's security posture.",
-          "id": "dc1b2039550e0d682ce54988d57d409d"
         }
       ]
     }
