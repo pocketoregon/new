@@ -1,245 +1,245 @@
 {
-  "generated_at": "2026-06-18T03:51:13.536955+00:00",
+  "generated_at": "2026-06-18T10:18:53.639934+00:00",
   "articles": [
     {
-      "title": "Final Fantasy Tactics Update 1.5.0 Launches Today",
-      "description": "The 1.5.0 update for Final Fantasy Tactics: The Ivalice Chronicles is now available, introducing new features and improvements. Check out the full patch notes for details.",
+      "title": "New Senua Game Reveal Used as a Way to Sell Ninja Theory to Suitors",
+      "description": "Xbox is reportedly selling Ninja Theory, revealed through a new Senua game. This strategic move raises questions about Microsoft's gaming future.",
       "category": "Gaming",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/final-fantasy-tactics-the-ivalice-chronicles-1-5-0-update-out-today-new-game-and-more/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Final-Fantasy-Tactics-The-Ivalice-Chronicles-1.5.0-update.jpg",
-      "published_at": "2026-06-17T02:13:59Z",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/06/new-senua-game-reveal-used-as-a-way-to-sell-ninja-theory-to-suitors",
+      "image": "https://images.pushsquare.com/3ae9586f99f5c/large.jpg",
+      "published_at": "2026-06-17T01:30:00Z",
       "key_points": [
-        "New Game+ feature added",
-        "Full patch notes available",
-        "Update live on Switch"
+        "Xbox selling Ninja Theory",
+        "New Senua game revealed",
+        "Concerns over Microsoft's future"
       ],
-      "impact": "This update enhances gameplay experience significantly.",
-      "id": "fcc461fc6ffe7291d47e4aad06ddcf7c"
+      "impact": "This could reshape Microsoft's gaming strategy.",
+      "id": "7fc96c3a3eb0ce85ea8434fac6cdf21c"
     },
     {
-      "title": "Switch Online Offers Free Month for 12-Month Memberships",
-      "description": "Nintendo is providing a limited-time offer of a free bonus month for new 12-month memberships to Switch Online + Expansion Pack in the US. Don't miss out on this deal!",
-      "category": "Gaming",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/06/psa-switch-online-plus-expansion-pack-limited-time-offer-adds-free-bonus-month-for-12-month-memberships-us",
-      "image": "https://images.nintendolife.com/633f0e6708d49/large.jpg",
-      "published_at": "2026-06-16T23:55:00Z",
+      "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
+      "description": "Fifteen malicious plugins on JetBrains Marketplace have been identified, targeting developers to steal AI API keys. Aikido Security uncovered this alarming campaign.",
+      "category": "Security",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
+      "image": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
+      "published_at": "2026-06-16T21:54:50Z",
       "key_points": [
-        "Free month promotion",
-        "Limited-time offer",
-        "Available for US users"
+        "15 malicious plugins found",
+        "Targeting AI API keys",
+        "Developers at risk"
       ],
-      "impact": "This offer boosts membership appeal significantly.",
-      "id": "dd33206aa6fdb8f8d1202dd0a79765ff"
+      "impact": "Developers must enhance security measures immediately.",
+      "id": "605bc54040ab45ddddcf92bb6dab79ac"
     },
     {
-      "title": "SanDisk Launches 8TB PS5 SSD Priced at $3800",
-      "description": "SanDisk has unveiled its new 8TB Optimus GX PRO SSD for PS5, priced at a staggering $3800. This high-capacity drive aims to enhance gaming storage solutions.",
+      "title": "WhatsApp working on yet another ephemeral feature on iOS",
+      "description": "WhatsApp is developing a new ephemeral messaging feature for iOS, adding to its disappearing messages functionality. Details are emerging from beta builds.",
+      "category": "Software",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/16/whatsapp-working-on-yet-another-ephemeral-feature-on-ios/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-16T21:52:00Z",
+      "key_points": [
+        "New ephemeral feature coming",
+        "Enhances disappearing messages",
+        "Beta builds reveal details"
+      ],
+      "impact": "WhatsApp continues to innovate messaging privacy.",
+      "id": "ba873dd9ea592931fe6c5a86e90455b7"
+    },
+    {
+      "title": "Xbox Promises Gears Of War: E-Day Exclusivity Is Not A Limited-Time Fake Out",
+      "description": "Xbox assures fans that Gears of War: E-Day will remain exclusive, dispelling rumors of a future PS5 release. The company aims to clarify its gaming direction.",
       "category": "Gaming",
       "source": "Kotaku",
-      "url": "https://kotaku.com/sandisk-ps5-ssd-8tb-heatsink-optimus-gx-pro-2000707175",
-      "image": "https://kotaku.com/app/uploads/2026/06/SANDISK-Optimus-GX-PRO-850X-NVMe-SSD-official-image-from-trailer-1200x675.jpg",
-      "published_at": "2026-06-16T20:52:13Z",
+      "url": "https://kotaku.com/xbox-promises-gears-of-war-e-day-exclusivity-is-not-a-limited-time-fake-out-2000707199",
+      "image": "https://kotaku.com/app/uploads/2026/06/05_GoW_EDAY_PlaysLikeNew_Final-7ef1be5a3c94e92a7462-1900x1080-1-1200x675.jpg",
+      "published_at": "2026-06-16T21:14:10Z",
       "key_points": [
-        "8TB storage capacity",
-        "High price point",
-        "Optimized for PS5"
+        "Gears of War exclusivity confirmed",
+        "No PS5 release planned",
+        "Xbox clarifies gaming strategy"
       ],
-      "impact": "This SSD sets a new storage benchmark.",
-      "id": "48ac6d1640ca8054aa6f3f1ec1d22dbe"
+      "impact": "This strengthens Xbox's exclusive game lineup.",
+      "id": "3c78ab4b0246d4485e1b9d8493a10a90"
     },
     {
-      "title": "Android 17 Update Rolling Out to Pixel Devices",
-      "description": "The Android 17 update is now being rolled out to Pixel phones and watches, bringing various enhancements. Users can expect improvements but no major changes.",
+      "title": "Halo: Campaign Evolved Preview - Exclusive Hands-On Impressions Of The Bonus Missions",
+      "description": "Game Informer shares exclusive hands-on impressions of new missions in the Halo: Campaign Evolved remake. Fans can expect exciting content.",
+      "category": "Gaming",
+      "source": "Game Informer",
+      "url": "https://gameinformer.com/preview/2026/06/16/exclusive-hands-on-impressions-of-the-bonus-missions",
+      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/10/3940050a/379lfte.jpg.webp",
+      "published_at": "2026-06-16T19:34:39Z",
+      "key_points": [
+        "Exclusive hands-on impressions",
+        "New missions revealed",
+        "Halo: Campaign Evolved excitement"
+      ],
+      "impact": "Fans are eager for the Halo remake.",
+      "id": "b7743d0e2d16148f38ac7b63dd820077"
+    },
+    {
+      "title": "Persona 4 Revival Game Announces New English Voice Cast",
+      "description": "Sega reveals the English voice cast for the upcoming Persona 4 Revival game, set to launch on February 18. Notable actors join the cast.",
+      "category": "Gaming",
+      "source": "Anime News Network",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-16/persona-4-revival-game-announces-new-english-voice-cast/.238583",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMJ/cms/news.9/238583/p4r-protag-va-1920x1080.jpg",
+      "published_at": "2026-06-16T19:30:00Z",
+      "key_points": [
+        "New English voice cast announced",
+        "Persona 4 Revival launching",
+        "Excitement builds for release"
+      ],
+      "impact": "Fans anticipate the revamped Persona experience.",
+      "id": "8bf2e1bd2f191f8420f29ec39150e721"
+    },
+    {
+      "title": "Siri AI may have confirmed a major iPhone 18 design change",
+      "description": "Siri AI hints at a significant design change for the upcoming iPhone 18. Details remain speculative but intriguing for Apple enthusiasts.",
       "category": "Software",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/06/android-17-starts-hitting-pixel-phones-and-watches-today/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-1152x648.jpg",
-      "published_at": "2026-06-16T18:00:08Z",
+      "source": "PhoneArena",
+      "url": "https://www.phonearena.com/news/Siri-AI-may-have-confirmed-a-major-iPhone-18-design-change_id181152",
+      "image": "",
+      "published_at": "2026-06-16T19:13:34Z",
       "key_points": [
-        "Android 17 update released",
-        "Available for Pixel devices",
-        "Minor enhancements included"
+        "Siri hints at iPhone 18 change",
+        "Design details remain unclear",
+        "Apple fans intrigued"
       ],
-      "impact": "This update improves user experience subtly.",
-      "id": "8ab8523c271d0428355954b0e092c5b0"
+      "impact": "Potential design shift could excite Apple users.",
+      "id": "19ef406313b5c7a050ef1daf268256b6"
     },
     {
-      "title": "Sony Faces Security Issues with PS5 Game Profiles",
-      "description": "PS5 users report unauthorized games appearing on their profiles, prompting Sony to address security concerns. The company is working on a fix.",
-      "category": "Security",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/06/ps5s-recently-played-section-wiped-as-sony-contends-with-another-security-concern",
-      "image": "https://images.pushsquare.com/5551de42b2f7f/large.jpg",
-      "published_at": "2026-06-16T15:00:00Z",
-      "key_points": [
-        "Unauthorized games appearing",
-        "Sony addressing security issues",
-        "User profiles affected"
-      ],
-      "impact": "This raises significant concerns about user security.",
-      "id": "67ec58d2c174c0b0cfa4d363bc27be48"
-    },
-    {
-      "title": "Steam Machine CPU Benchmark Results Underwhelm",
-      "description": "Recent Geekbench 6 CPU benchmarks for the Steam Machine show mediocre performance compared to current handhelds. Concerns about its competitiveness arise.",
+      "title": "Sega Put Sonic’s DNA In A Chaos Emerald, Your Move Nintendo",
+      "description": "Sega celebrates Sonic's 35th anniversary by introducing a life-sized Chaos Emerald containing Sonic's DNA. A quirky marketing move that sparks interest.",
       "category": "Gaming",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/gaming/pc-gaming/steam-machine-geekbench-cpu-gaming-handheld-comparison",
-      "image": "https://cdn.mos.cms.futurecdn.net/6i5kqYW5gcaazt3LSNEVY4-2560-80.jpg",
-      "published_at": "2026-06-16T14:48:58Z",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/sega-put-sonics-dna-in-a-chaos-emerald-your-move-nintendo-2000707158",
+      "image": "https://kotaku.com/app/uploads/2026/06/Sonic-DNA-statue.jpg",
+      "published_at": "2026-06-16T18:25:41Z",
       "key_points": [
-        "Mediocre benchmark results",
-        "Comparison with handhelds",
-        "Concerns about competitiveness"
+        "Sonic's DNA in Chaos Emerald",
+        "35th anniversary celebration",
+        "Unique marketing strategy"
       ],
-      "impact": "This may affect Steam Machine's market viability.",
-      "id": "778118419c9cce430d9c5d5ca1c74074"
+      "impact": "Sega's creativity keeps Sonic relevant.",
+      "id": "9cfe5df8e926718a66d7aebd22f48904"
     },
     {
-      "title": "Xbox May Shut Down South of Midnight & Hellblade Studios",
-      "description": "Reports suggest Xbox is considering shutting down Compulsion Games and Ninja Theory. These studios are negotiating to remain operational amid challenges.",
-      "category": "Gaming",
-      "source": "80.lv",
-      "url": "https://80.lv/articles/xbox-is-reportedly-planning-to-shut-down-south-of-midnight-hellblade-studios",
-      "image": "https://cdn.80.lv/api/upload/meta/48813/images/6a31416639c2e/contain_1200x630.jpg",
-      "published_at": "2026-06-16T12:32:24Z",
+      "title": "5 New Apple Music Features Coming In iOS 27",
+      "description": "iOS 27 introduces minor improvements to Apple Music, enhancing user experience without major changes. New features aim to streamline functionality.",
+      "category": "Software",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2195614/new-apple-music-features-coming-ios-27/",
+      "image": "https://www.bgr.com/img/gallery/5-new-apple-music-features-coming-in-ios-27/l-intro-1781633613.jpg",
+      "published_at": "2026-06-16T18:15:15Z",
       "key_points": [
-        "Possible studio shutdowns",
-        "Negotiations ongoing",
-        "Impact on game development"
+        "Minor improvements for Apple Music",
+        "Enhancements in iOS 27",
+        "User experience focus"
       ],
-      "impact": "This could disrupt future game releases.",
-      "id": "c1a6833f0901e22d846bb2e8215c4e45"
+      "impact": "Apple Music continues to evolve for users.",
+      "id": "576b2715098e20d16add97dc967bd814"
     },
     {
-      "title": "Samsung S95H OLED TV Review: Good, Not Great",
-      "description": "The Samsung S95H OLED TV excels in gaming but falls short in color performance. It offers solid features but lacks the expected 'Ultra' quality.",
+      "title": "Google’s June Pixel Drop expands AirDrop compatibility, creation tools, and Pixel Watch safety",
+      "description": "Google's June Pixel Drop enhances AirDrop compatibility and introduces new creation tools for Pixel devices. Safety features for Pixel Watch are also included.",
+      "category": "Software",
+      "source": "Android Police",
+      "url": "https://www.androidpolice.com/googles-june-pixel-drop-expands-airdrop-compatibility-to-cheaper-and-ups-pixel-watch-safety/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/04/google-pixel-9a-hands-on-02-jpg.jpg?w=1600&h=900&fit=crop",
+      "published_at": "2026-06-16T18:08:51Z",
+      "key_points": [
+        "AirDrop compatibility expanded",
+        "New creation tools added",
+        "Pixel Watch safety features"
+      ],
+      "impact": "Google enhances user experience across devices.",
+      "id": "d565bfd903ee42ac6570cc20ac3d8ed1"
+    },
+    {
+      "title": "Commodore gets into the phone biz with Sailfish-powered retro 'Callback'",
+      "description": "Commodore launches a retro flip phone, the Callback, powered by Sailfish OS. The device lacks modern features like email and social media.",
       "category": "Hardware",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/home-entertainment/samsung-s95h-oled-tv-review/",
-      "image": "https://www.cnet.com/a/img/resize/1a5c1554d11684e1482eee6bf402a3bd7c8f1e5a/hub/2026/04/01/d6a97a0d-f620-428a-9a0e-32380a47901d/samsung-s95h-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "published_at": "2026-06-16T12:07:00Z",
+      "source": "The Register",
+      "url": "https://www.theregister.com/personal-tech/2026/06/16/commodore-gets-into-the-phone-biz-with-sailfish-powered-retro-callback/5256186",
+      "image": "https://image.theregister.com/5256209.jpg?imageId=5256209&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "published_at": "2026-06-16T18:01:00Z",
       "key_points": [
-        "Great for gaming",
-        "Color performance lacking",
-        "Not the 'Ultra' expected"
+        "Retro phone launched by Commodore",
+        "Powered by Sailfish OS",
+        "Lacks modern features"
       ],
-      "impact": "This TV may disappoint high-end users.",
-      "id": "ff01d71fea1180757a06cad3a112312f"
+      "impact": "Commodore targets nostalgia-driven consumers.",
+      "id": "096be7d877c850b1921c9c34bfa1d2bc"
     },
     {
-      "title": "Gmail's AI Summaries Now Available Globally",
-      "description": "Gmail's AI email summaries are now accessible to all users worldwide, enhancing email management without requiring a paid plan. Users can opt-out if desired.",
-      "category": "Software",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/google-gmail-ai-summaries-global-turn-off-3677798/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2021/12/Gmail-on-smartphone-and-tablet-stock-photo-7.jpg",
-      "published_at": "2026-06-16T10:43:23Z",
-      "key_points": [
-        "AI summaries launched globally",
-        "No paid plan needed",
-        "Opt-out option available"
-      ],
-      "impact": "This feature improves email efficiency for users.",
-      "id": "fdb7772576aba1e3bb5ca78674472e76"
-    },
-    {
-      "title": "Commodore Launches Digital Detox Phone",
-      "description": "The Commodore Callback 8020 is a retro-style flip phone designed for digital detox, featuring T9 texting and limited app access. It blocks social media apps.",
-      "category": "Software",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/commodore-callback-8020-is-a-digital-detox-phone-that-isnt-dumb/",
-      "image": "https://media.wired.com/photos/6a2ff4cfd01a0a55006b45fd/191:100/w_1280,c_limit/Commodore%20Callback%208020%20-%20ProtoPET%20005.jpg",
-      "published_at": "2026-06-16T09:00:00Z",
-      "key_points": [
-        "Retro design",
-        "Blocks social media",
-        "Supports essential apps"
-      ],
-      "impact": "This phone caters to digital detox trends.",
-      "id": "bac82cc4389afc99bd2efa7bf25b2bb1"
-    },
-    {
-      "title": "Assassin's Creed Shadows Final Update Released",
-      "description": "Ubisoft announces the final update for Assassin's Creed Shadows, including improvements for Switch 2. This marks the end of support for the game.",
-      "category": "Gaming",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/06/assassins-creed-shadows-update-1-1-11-out-this-week-includes-switch-2-handheld-improvements",
-      "image": "https://images.nintendolife.com/1ea3a21910cd4/large.jpg",
-      "published_at": "2026-06-16T05:43:28Z",
-      "key_points": [
-        "Final content update",
-        "Switch 2 improvements",
-        "End of support announced"
-      ],
-      "impact": "This concludes the game's development cycle.",
-      "id": "b6b7090b751429623a6918c06a1d289a"
-    },
-    {
-      "title": "Apple iPhone 18 Pro Likely Launching September 2026",
-      "description": "Apple's schedule hints at a September 2026 launch for the iPhone 18 Pro and its variants. Anticipation builds for new features and designs.",
+      "title": "Analyst says Xbox CEO Asha Sharma’s Next 100 Days will be about “the job she was Actually Hired to do,” with Mass Layoffs Looming",
+      "description": "Analysts predict Xbox CEO Asha Sharma's upcoming focus will be on her core responsibilities amid looming layoffs. The gaming industry watches closely.",
       "category": "Business",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/davidphelan/2026/06/15/apple-iphone-18-pro-release-date-september-2026/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/695d93b89d51c957214caa7d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published_at": "2026-06-15T21:00:00Z",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/xbox-asha-sharma-mass-layoffs-what-she-was-hired-to-do/",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2022/12/cover-home-1.jpg",
+      "published_at": "2026-06-16T17:58:00Z",
       "key_points": [
-        "September launch expected",
-        "New features anticipated",
-        "iPhone 18 Pro details emerging"
+        "Asha Sharma's focus shifts",
+        "Mass layoffs anticipated",
+        "Industry watches closely"
       ],
-      "impact": "This could reshape Apple's product lineup.",
-      "id": "e4eb7e27a229bc5ee26f0cc84fd51239"
+      "impact": "Xbox's future direction remains uncertain.",
+      "id": "6b6a5874f843af7727c7fdbb6ef32a54"
     },
     {
-      "title": "Galaxy Book6 Edge Launches with AI Performance",
-      "description": "Samsung's Galaxy Book6 Edge is now available, featuring next-gen AI performance and premium portability for productivity. It's designed for modern users.",
+      "title": "Snap Opens Preorders For Specs, True AR Glasses Shipping This Fall For $2195",
+      "description": "Snap launches preorders for Specs, standalone AR glasses priced at $2195, set to ship this fall in select countries. Aiming to innovate in AR technology.",
       "category": "Hardware",
-      "source": "Samsung",
-      "url": "https://news.samsung.com/us/galaxy-book6-edge-available-next-generation-ai-performance-premium-portability",
-      "image": "https://img.us.news.samsung.com/us/wp-content/uploads/2026/06/15093115/Book6-Edge_16_US_004_L-Side_RGB-1200x630.jpg",
-      "published_at": "2026-06-15T16:00:49Z",
+      "source": "UploadVR",
+      "url": "https://www.uploadvr.com/snap-specs-design-revealed-preorders-open-price/",
+      "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/06/SPECS27_3-4_View.png",
+      "published_at": "2026-06-16T16:50:28Z",
       "key_points": [
-        "AI-enhanced performance",
-        "Portable design",
-        "Available now"
+        "Preorders for AR glasses open",
+        "Specs priced at $2195",
+        "Shipping this fall"
       ],
-      "impact": "This device targets productivity-focused consumers.",
-      "id": "aa7155263cbb7894e6cfeffaeadcb7ea"
+      "impact": "Snap aims to lead in AR innovation.",
+      "id": "33390e4ca0c53d8b42137506401090ab"
     },
     {
-      "title": "Benefits of Sunlight Explored in New Book",
-      "description": "The book 'In Defense of Sunlight' discusses the health benefits of sunlight exposure and how to safely enjoy it. It challenges common misconceptions about sun exposure.",
-      "category": "Science",
-      "source": "Men's Health",
-      "url": "https://www.menshealth.com/health/a71563030/health-benefits-sunlight-in-defense-of-sunlight-book/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/036afc9e-c9b9-4418-9197-98d8a55265ec.jpg?crop=1xw:0.796xh;0xw,0.129xh&resize=1200:*",
-      "published_at": "2026-06-15T14:00:00Z",
+      "title": "Steam Machine one step closer to launch as benchmarks surface online, here's how it compares to the Steam Deck",
+      "description": "Benchmarks for the Steam Machine have surfaced, indicating progress towards launch. Comparisons with the Steam Deck reveal performance insights.",
+      "category": "Gaming",
+      "source": "PC Guide",
+      "url": "https://www.pcguide.com/news/steam-machine-one-step-closer-to-launch-as-benchmarks-surface-online-heres-how-it-compares-to-the-steam-deck/",
+      "image": "https://www.pcguide.com/wp-content/uploads/2026/06/Steam-Machine-with-table-tennis-paddles-and-balls.jpg",
+      "published_at": "2026-06-16T16:50:22Z",
       "key_points": [
-        "Explores sunlight health benefits",
-        "Challenges misconceptions",
-        "Promotes safe exposure"
+        "Steam Machine benchmarks released",
+        "Comparison with Steam Deck",
+        "Launch progress indicated"
       ],
-      "impact": "This book encourages a balanced view on sunlight.",
-      "id": "6e7d26f35c751011225c88c774595173"
+      "impact": "Steam Machine's performance sparks interest.",
+      "id": "88052d764457a991b8194e130d608e2e"
     },
     {
-      "title": "Google Search Introduces Paid Information Agents",
-      "description": "Google is launching Information agents in AI Mode for a fee, enhancing search capabilities for users willing to pay. This feature was announced at Google I/O.",
-      "category": "Software",
-      "source": "Search Engine Roundtable",
-      "url": "https://www.seroundtable.com/google-search-information-agents-41502.html",
-      "image": "https://images.seroundtable.com/google-robot-agent-computer-tasks-EeI3Vi4h.jpg",
-      "published_at": "2026-06-15T11:51:00Z",
+      "title": "Nothing’s Ear (a), our favorite budget earbuds, are cheaper than ever ahead of Prime Day",
+      "description": "Nothing’s Ear (a) earbuds are now $53.20, offering noise cancellation and great sound. A perfect deal ahead of Amazon Prime Day.",
+      "category": "Hardware",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/950756/nothing-ear-a-early-amazon-prime-day-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406202/DSCF6918.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-06-16T16:10:27Z",
       "key_points": [
-        "Paid search feature introduced",
-        "Enhances user experience",
-        "Announced at Google I/O"
+        "Nothing's Ear (a) discounted",
+        "Now $53.20 ahead of Prime Day",
+        "Offers noise cancellation"
       ],
-      "impact": "This could change how users interact with search.",
-      "id": "8107dd38279b6edb2ae9e4579d54d12f"
+      "impact": "Great savings on popular budget earbuds.",
+      "id": "93b641ef884a2018c3b30f0c31d9b21d"
     }
   ]
 }

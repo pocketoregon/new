@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-18T10:18:53.639934+00:00",
+      "fetched_at": "2026-06-18T10:18:53.639934+00:00",
+      "label": "Jun 18, 2026 — 10:19 AM UTC",
+      "articles": [
+        {
+          "title": "New Senua Game Reveal Used as a Way to Sell Ninja Theory to Suitors",
+          "description": "Xbox is reportedly selling Ninja Theory, revealed through a new Senua game. This strategic move raises questions about Microsoft's gaming future.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/new-senua-game-reveal-used-as-a-way-to-sell-ninja-theory-to-suitors",
+          "image": "https://images.pushsquare.com/3ae9586f99f5c/large.jpg",
+          "published_at": "2026-06-17T01:30:00Z",
+          "key_points": [
+            "Xbox selling Ninja Theory",
+            "New Senua game revealed",
+            "Concerns over Microsoft's future"
+          ],
+          "impact": "This could reshape Microsoft's gaming strategy.",
+          "id": "7fc96c3a3eb0ce85ea8434fac6cdf21c"
+        },
+        {
+          "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
+          "description": "Fifteen malicious plugins on JetBrains Marketplace have been identified, targeting developers to steal AI API keys. Aikido Security uncovered this alarming campaign.",
+          "category": "Security",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
+          "image": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
+          "published_at": "2026-06-16T21:54:50Z",
+          "key_points": [
+            "15 malicious plugins found",
+            "Targeting AI API keys",
+            "Developers at risk"
+          ],
+          "impact": "Developers must enhance security measures immediately.",
+          "id": "605bc54040ab45ddddcf92bb6dab79ac"
+        },
+        {
+          "title": "WhatsApp working on yet another ephemeral feature on iOS",
+          "description": "WhatsApp is developing a new ephemeral messaging feature for iOS, adding to its disappearing messages functionality. Details are emerging from beta builds.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/16/whatsapp-working-on-yet-another-ephemeral-feature-on-ios/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-16T21:52:00Z",
+          "key_points": [
+            "New ephemeral feature coming",
+            "Enhances disappearing messages",
+            "Beta builds reveal details"
+          ],
+          "impact": "WhatsApp continues to innovate messaging privacy.",
+          "id": "ba873dd9ea592931fe6c5a86e90455b7"
+        },
+        {
+          "title": "Xbox Promises Gears Of War: E-Day Exclusivity Is Not A Limited-Time Fake Out",
+          "description": "Xbox assures fans that Gears of War: E-Day will remain exclusive, dispelling rumors of a future PS5 release. The company aims to clarify its gaming direction.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/xbox-promises-gears-of-war-e-day-exclusivity-is-not-a-limited-time-fake-out-2000707199",
+          "image": "https://kotaku.com/app/uploads/2026/06/05_GoW_EDAY_PlaysLikeNew_Final-7ef1be5a3c94e92a7462-1900x1080-1-1200x675.jpg",
+          "published_at": "2026-06-16T21:14:10Z",
+          "key_points": [
+            "Gears of War exclusivity confirmed",
+            "No PS5 release planned",
+            "Xbox clarifies gaming strategy"
+          ],
+          "impact": "This strengthens Xbox's exclusive game lineup.",
+          "id": "3c78ab4b0246d4485e1b9d8493a10a90"
+        },
+        {
+          "title": "Halo: Campaign Evolved Preview - Exclusive Hands-On Impressions Of The Bonus Missions",
+          "description": "Game Informer shares exclusive hands-on impressions of new missions in the Halo: Campaign Evolved remake. Fans can expect exciting content.",
+          "category": "Gaming",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/preview/2026/06/16/exclusive-hands-on-impressions-of-the-bonus-missions",
+          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/10/3940050a/379lfte.jpg.webp",
+          "published_at": "2026-06-16T19:34:39Z",
+          "key_points": [
+            "Exclusive hands-on impressions",
+            "New missions revealed",
+            "Halo: Campaign Evolved excitement"
+          ],
+          "impact": "Fans are eager for the Halo remake.",
+          "id": "b7743d0e2d16148f38ac7b63dd820077"
+        },
+        {
+          "title": "Persona 4 Revival Game Announces New English Voice Cast",
+          "description": "Sega reveals the English voice cast for the upcoming Persona 4 Revival game, set to launch on February 18. Notable actors join the cast.",
+          "category": "Gaming",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-06-16/persona-4-revival-game-announces-new-english-voice-cast/.238583",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMJ/cms/news.9/238583/p4r-protag-va-1920x1080.jpg",
+          "published_at": "2026-06-16T19:30:00Z",
+          "key_points": [
+            "New English voice cast announced",
+            "Persona 4 Revival launching",
+            "Excitement builds for release"
+          ],
+          "impact": "Fans anticipate the revamped Persona experience.",
+          "id": "8bf2e1bd2f191f8420f29ec39150e721"
+        },
+        {
+          "title": "Siri AI may have confirmed a major iPhone 18 design change",
+          "description": "Siri AI hints at a significant design change for the upcoming iPhone 18. Details remain speculative but intriguing for Apple enthusiasts.",
+          "category": "Software",
+          "source": "PhoneArena",
+          "url": "https://www.phonearena.com/news/Siri-AI-may-have-confirmed-a-major-iPhone-18-design-change_id181152",
+          "image": "",
+          "published_at": "2026-06-16T19:13:34Z",
+          "key_points": [
+            "Siri hints at iPhone 18 change",
+            "Design details remain unclear",
+            "Apple fans intrigued"
+          ],
+          "impact": "Potential design shift could excite Apple users.",
+          "id": "19ef406313b5c7a050ef1daf268256b6"
+        },
+        {
+          "title": "Sega Put Sonic’s DNA In A Chaos Emerald, Your Move Nintendo",
+          "description": "Sega celebrates Sonic's 35th anniversary by introducing a life-sized Chaos Emerald containing Sonic's DNA. A quirky marketing move that sparks interest.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/sega-put-sonics-dna-in-a-chaos-emerald-your-move-nintendo-2000707158",
+          "image": "https://kotaku.com/app/uploads/2026/06/Sonic-DNA-statue.jpg",
+          "published_at": "2026-06-16T18:25:41Z",
+          "key_points": [
+            "Sonic's DNA in Chaos Emerald",
+            "35th anniversary celebration",
+            "Unique marketing strategy"
+          ],
+          "impact": "Sega's creativity keeps Sonic relevant.",
+          "id": "9cfe5df8e926718a66d7aebd22f48904"
+        },
+        {
+          "title": "5 New Apple Music Features Coming In iOS 27",
+          "description": "iOS 27 introduces minor improvements to Apple Music, enhancing user experience without major changes. New features aim to streamline functionality.",
+          "category": "Software",
+          "source": "BGR",
+          "url": "https://www.bgr.com/2195614/new-apple-music-features-coming-ios-27/",
+          "image": "https://www.bgr.com/img/gallery/5-new-apple-music-features-coming-in-ios-27/l-intro-1781633613.jpg",
+          "published_at": "2026-06-16T18:15:15Z",
+          "key_points": [
+            "Minor improvements for Apple Music",
+            "Enhancements in iOS 27",
+            "User experience focus"
+          ],
+          "impact": "Apple Music continues to evolve for users.",
+          "id": "576b2715098e20d16add97dc967bd814"
+        },
+        {
+          "title": "Google’s June Pixel Drop expands AirDrop compatibility, creation tools, and Pixel Watch safety",
+          "description": "Google's June Pixel Drop enhances AirDrop compatibility and introduces new creation tools for Pixel devices. Safety features for Pixel Watch are also included.",
+          "category": "Software",
+          "source": "Android Police",
+          "url": "https://www.androidpolice.com/googles-june-pixel-drop-expands-airdrop-compatibility-to-cheaper-and-ups-pixel-watch-safety/",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/04/google-pixel-9a-hands-on-02-jpg.jpg?w=1600&h=900&fit=crop",
+          "published_at": "2026-06-16T18:08:51Z",
+          "key_points": [
+            "AirDrop compatibility expanded",
+            "New creation tools added",
+            "Pixel Watch safety features"
+          ],
+          "impact": "Google enhances user experience across devices.",
+          "id": "d565bfd903ee42ac6570cc20ac3d8ed1"
+        },
+        {
+          "title": "Commodore gets into the phone biz with Sailfish-powered retro 'Callback'",
+          "description": "Commodore launches a retro flip phone, the Callback, powered by Sailfish OS. The device lacks modern features like email and social media.",
+          "category": "Hardware",
+          "source": "The Register",
+          "url": "https://www.theregister.com/personal-tech/2026/06/16/commodore-gets-into-the-phone-biz-with-sailfish-powered-retro-callback/5256186",
+          "image": "https://image.theregister.com/5256209.jpg?imageId=5256209&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+          "published_at": "2026-06-16T18:01:00Z",
+          "key_points": [
+            "Retro phone launched by Commodore",
+            "Powered by Sailfish OS",
+            "Lacks modern features"
+          ],
+          "impact": "Commodore targets nostalgia-driven consumers.",
+          "id": "096be7d877c850b1921c9c34bfa1d2bc"
+        },
+        {
+          "title": "Analyst says Xbox CEO Asha Sharma’s Next 100 Days will be about “the job she was Actually Hired to do,” with Mass Layoffs Looming",
+          "description": "Analysts predict Xbox CEO Asha Sharma's upcoming focus will be on her core responsibilities amid looming layoffs. The gaming industry watches closely.",
+          "category": "Business",
+          "source": "Wccftech",
+          "url": "https://wccftech.com/xbox-asha-sharma-mass-layoffs-what-she-was-hired-to-do/",
+          "image": "https://cdn.wccftech.com/wp-content/uploads/2022/12/cover-home-1.jpg",
+          "published_at": "2026-06-16T17:58:00Z",
+          "key_points": [
+            "Asha Sharma's focus shifts",
+            "Mass layoffs anticipated",
+            "Industry watches closely"
+          ],
+          "impact": "Xbox's future direction remains uncertain.",
+          "id": "6b6a5874f843af7727c7fdbb6ef32a54"
+        },
+        {
+          "title": "Snap Opens Preorders For Specs, True AR Glasses Shipping This Fall For $2195",
+          "description": "Snap launches preorders for Specs, standalone AR glasses priced at $2195, set to ship this fall in select countries. Aiming to innovate in AR technology.",
+          "category": "Hardware",
+          "source": "UploadVR",
+          "url": "https://www.uploadvr.com/snap-specs-design-revealed-preorders-open-price/",
+          "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/06/SPECS27_3-4_View.png",
+          "published_at": "2026-06-16T16:50:28Z",
+          "key_points": [
+            "Preorders for AR glasses open",
+            "Specs priced at $2195",
+            "Shipping this fall"
+          ],
+          "impact": "Snap aims to lead in AR innovation.",
+          "id": "33390e4ca0c53d8b42137506401090ab"
+        },
+        {
+          "title": "Steam Machine one step closer to launch as benchmarks surface online, here's how it compares to the Steam Deck",
+          "description": "Benchmarks for the Steam Machine have surfaced, indicating progress towards launch. Comparisons with the Steam Deck reveal performance insights.",
+          "category": "Gaming",
+          "source": "PC Guide",
+          "url": "https://www.pcguide.com/news/steam-machine-one-step-closer-to-launch-as-benchmarks-surface-online-heres-how-it-compares-to-the-steam-deck/",
+          "image": "https://www.pcguide.com/wp-content/uploads/2026/06/Steam-Machine-with-table-tennis-paddles-and-balls.jpg",
+          "published_at": "2026-06-16T16:50:22Z",
+          "key_points": [
+            "Steam Machine benchmarks released",
+            "Comparison with Steam Deck",
+            "Launch progress indicated"
+          ],
+          "impact": "Steam Machine's performance sparks interest.",
+          "id": "88052d764457a991b8194e130d608e2e"
+        },
+        {
+          "title": "Nothing’s Ear (a), our favorite budget earbuds, are cheaper than ever ahead of Prime Day",
+          "description": "Nothing’s Ear (a) earbuds are now $53.20, offering noise cancellation and great sound. A perfect deal ahead of Amazon Prime Day.",
+          "category": "Hardware",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/950756/nothing-ear-a-early-amazon-prime-day-deal-sale",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406202/DSCF6918.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-16T16:10:27Z",
+          "key_points": [
+            "Nothing's Ear (a) discounted",
+            "Now $53.20 ahead of Prime Day",
+            "Offers noise cancellation"
+          ],
+          "impact": "Great savings on popular budget earbuds.",
+          "id": "93b641ef884a2018c3b30f0c31d9b21d"
+        }
+      ]
+    },
+    {
       "id": "2026-06-18T03:51:13.536955+00:00",
       "fetched_at": "2026-06-18T03:51:13.536955+00:00",
       "label": "Jun 18, 2026 — 03:51 AM UTC",
@@ -6632,253 +6879,6 @@
           ],
           "impact": "Highlights Apple's control over AI deployment.",
           "id": "02759b8e8f6726c5fbe6d97a36425102"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-12T03:51:14.806643+00:00",
-      "fetched_at": "2026-06-12T03:51:14.806643+00:00",
-      "label": "Jun 12, 2026 — 03:51 AM UTC",
-      "articles": [
-        {
-          "title": "Siri AI: Apple’s New Chatbot Knows When to Stop",
-          "description": "Apple's Siri AI is now more concise and effective, impressing users with its curt responses. This marks a significant improvement in user interaction.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_13193.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-          "published_at": "2026-06-10T22:52:17Z",
-          "key_points": [
-            "Siri AI is more concise",
-            "Improved user interaction",
-            "Positive user feedback"
-          ],
-          "impact": "Siri's new design enhances user experience.",
-          "id": "f79136a26bfb8de9ae71da89e829cbb1"
-        },
-        {
-          "title": "Gears of War: E-Day Insights from Xbox Developers",
-          "description": "IGN interviews The Coalition about Gears of War: E-Day, revealing details on game mechanics and story. Fans are eager for more lore.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/gears-e-day-devs-on-gears-lore-game-length-new-movement-mechanics-and-ai",
-          "image": "https://assets-prd.ignimgs.com/2026/06/10/gears-of-war-eday-br-1781083823810.jpg?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-10T20:56:57Z",
-          "key_points": [
-            "New game mechanics revealed",
-            "Focus on Gears lore",
-            "Developer insights shared"
-          ],
-          "impact": "Fans anticipate exciting gameplay changes.",
-          "id": "933b1c49d396df1f47b98b0c277bd96b"
-        },
-        {
-          "title": "Destiny 3 Event Set for June 17",
-          "description": "A new event supporting Destiny 3 is scheduled for June 17, continuing the excitement from Destiny 2. Fans are rallying online.",
-          "category": "Gaming",
-          "source": "GameRant",
-          "url": "https://gamerant.com/new-destiny-3-event-is-officially-happening-on-june-17/",
-          "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/06/image-2026-06-10t224246-895.jpg?w=1600&h=900&fit=crop",
-          "published_at": "2026-06-10T20:45:26Z",
-          "key_points": [
-            "Event supports Destiny 3",
-            "Fans rally on social media",
-            "Excitement builds for June 17"
-          ],
-          "impact": "Community engagement boosts game visibility.",
-          "id": "d1f95add7f773f657e7fb2cead3cd1f6"
-        },
-        {
-          "title": "Apple Unveils 250+ Changes in Latest OS Updates",
-          "description": "Apple announced over 250 new features across iOS 27 and macOS Golden Gate during WWDC 2026. Users can expect significant enhancements.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/10/apple-lists-250-changes-ios-27-and-more/",
-          "image": "https://images.macrumors.com/t/IrEhBGwNUTRw6pskEGLirN4Z85Y=/2500x/article-new/2026/06/Apple-Lists-250-Changes-Across-iOS-27-and-More-Feature.jpg",
-          "published_at": "2026-06-10T20:34:00Z",
-          "key_points": [
-            "Over 250 new features",
-            "Enhancements across platforms",
-            "Announced at WWDC 2026"
-          ],
-          "impact": "Users will enjoy a richer experience.",
-          "id": "d3d567ba55bfa88d1cf6e5ef2dae115c"
-        },
-        {
-          "title": "Framework Laptop 13 Pro Shipping Delayed to July",
-          "description": "Framework Computer has announced a delay in shipping the Framework Laptop 13 Pro to July, pushing back the original June timeline.",
-          "category": "Hardware",
-          "source": "Phoronix",
-          "url": "https://www.phoronix.com/news/Framework-13-Pro-July",
-          "image": "https://www.phoronix.net/image.php?id=2026&image=framework_13_pro_1",
-          "published_at": "2026-06-10T20:10:00Z",
-          "key_points": [
-            "Shipping delayed to July",
-            "Original date was June",
-            "Pre-order customers notified"
-          ],
-          "impact": "Customers await their laptops longer.",
-          "id": "d12f48ea55dbffc66f4d790fd7394d8e"
-        },
-        {
-          "title": "Kingdom Hearts 3 Graphics Comparison Video Released",
-          "description": "A new video compares graphics of Kingdom Hearts 3 on Nintendo Switch 2, PS5, and Steam Deck, showcasing performance differences.",
-          "category": "Gaming",
-          "source": "Nintendoeverything.com",
-          "url": "https://nintendoeverything.com/video-kingdom-hearts-3-nintendo-switch-2-vs-ps5-vs-steam-deck-graphics-comparison/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Kingdom-Hearts-3-Switch-2-comparison.jpg",
-          "published_at": "2026-06-10T18:52:19Z",
-          "key_points": [
-            "Graphics compared across platforms",
-            "Showcases performance differences",
-            "Fans eager for visuals"
-          ],
-          "impact": "Players can choose their preferred platform.",
-          "id": "6de11c633d5657a1cc182d24d0029275"
-        },
-        {
-          "title": "Fable PS5 Introduces Innovative Life Simulation",
-          "description": "Fable PS5 features a unique life simulation loop, captivating players with its immersive world and character routines.",
-          "category": "Gaming",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/06/fable-ps5s-innovative-life-sim-loop-has-me-smitten",
-          "image": "https://images.pushsquare.com/92bd7641fa6e5/large.jpg",
-          "published_at": "2026-06-10T17:30:00Z",
-          "key_points": [
-            "Innovative life simulation",
-            "Immersive character routines",
-            "Captivating gameplay experience"
-          ],
-          "impact": "Players are excited for Fable's release.",
-          "id": "2208fee0c7d15a7cf810290d98c7598d"
-        },
-        {
-          "title": "Ubisoft to Close Studios and Lay Off Employees",
-          "description": "Ubisoft is shutting down its Winnipeg and Belgrade studios, potentially affecting up to 380 jobs as part of restructuring efforts.",
-          "category": "Business",
-          "source": "Gamedeveloper.com",
-          "url": "https://www.gamedeveloper.com/business/ubisoft-closing-winnipeg-and-belgrade-studios-and-making-further-layoffs",
-          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltd2b0a95dd1b81811/6a298e683baf6a3f9c25d0f6/Ubisoft_Winnipeg.png?disable=upscale&width=1200&height=630&fit=crop",
-          "published_at": "2026-06-10T17:02:37Z",
-          "key_points": [
-            "Two studios to close",
-            "Up to 380 layoffs",
-            "Restructuring efforts underway"
-          ],
-          "impact": "Ubisoft faces significant operational changes.",
-          "id": "077219fc5e0440141ca64c6115e08414"
-        },
-        {
-          "title": "Killer Bean: A Disappointing Gaming Experience",
-          "description": "Killer Bean fails to deliver despite its promising ideas, receiving negative reviews for its gameplay and execution.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/killer-bean-is-a-very-very-bad-game-2000704867",
-          "image": "https://kotaku.com/app/uploads/2026/06/ss_465fe050974396bcc5ba16666200888773132657.1920x1080-1200x675.jpg",
-          "published_at": "2026-06-10T15:45:34Z",
-          "key_points": [
-            "Disappointing gameplay experience",
-            "Promising ideas fall flat",
-            "Negative reviews received"
-          ],
-          "impact": "Players are dissatisfied with the game.",
-          "id": "5afa52efe784d6caa21d09bc6d374def"
-        },
-        {
-          "title": "Lenovo Launches Rugged Android Tablet for $499",
-          "description": "Lenovo's ThinkTab X11, a rugged Android tablet with a removable battery, is now available for purchase in the US at $499.",
-          "category": "Hardware",
-          "source": "9to5google.com",
-          "url": "http://9to5google.com/2026/06/10/lenovo-thinktab-x11-android-tablet-launch/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/lenovo-thinkpad-x11-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-10T14:20:00Z",
-          "key_points": [
-            "Rugged Android tablet launched",
-            "Removable battery feature",
-            "Priced at $499"
-          ],
-          "impact": "Lenovo targets rugged device market.",
-          "id": "2ed2a35f07e9c642367cca86728de07a"
-        },
-        {
-          "title": "Insta360 Reveals Details of Leica Gimbal Camera",
-          "description": "Insta360 has unveiled the full details of its Leica-branded gimbal camera, Luna Ultra, after teasing it for months.",
-          "category": "Hardware",
-          "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/06/10/luna-ultra-insta360-finally-reveals-full-details-of-the-leica-branded-gimbal-camera/",
-          "image": "https://petapixel.com/assets/uploads/2026/06/Luna-Ultra-Insta360-Finally-Reveals-Full-Details-of-the-Leica-Branded-Gimbal-Camera.jpg",
-          "published_at": "2026-06-10T13:00:29Z",
-          "key_points": [
-            "Luna Ultra details revealed",
-            "Leica-branded gimbal camera",
-            "Months of anticipation"
-          ],
-          "impact": "Camera enthusiasts await its release.",
-          "id": "e23adfc94ab0ece889e2c92a1f79b5bd"
-        },
-        {
-          "title": "Premium Editions for Xbox Games Announced",
-          "description": "Xbox reveals premium upgrade editions for Fable, Gears, and Halo, featuring early access and exclusive content for fans.",
-          "category": "Gaming",
-          "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/news/2026/06/heres-whats-in-the-premium-upgrade-editions-for-fable-gears-and-halo-on-xbox",
-          "image": "https://images.purexbox.com/2b35a8d59a50b/large.jpg",
-          "published_at": "2026-06-10T12:30:00Z",
-          "key_points": [
-            "Premium upgrades announced",
-            "Early access perks included",
-            "Exclusive content for fans"
-          ],
-          "impact": "Fans excited for premium gaming experiences.",
-          "id": "72652a5909bd92b983d40569b7aa1d92"
-        },
-        {
-          "title": "Xbox Explores New Console Business Models",
-          "description": "Microsoft is considering innovative business models for Xbox consoles to reduce costs and enhance accessibility for gamers.",
-          "category": "Business",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/947537/microsoft-xbox-console-hardware-price-changes-ramageddon",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22012259/vpavic_4275_20201030_0033.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-06-10T11:04:22Z",
-          "key_points": [
-            "New business models explored",
-            "Focus on cost reduction",
-            "Enhancing gamer accessibility"
-          ],
-          "impact": "Microsoft aims to innovate console offerings.",
-          "id": "9851075ea99b85f4d8da2d48c76446b8"
-        },
-        {
-          "title": "Fire Emblem: Fortune's Weave Inspired by Medieval Spain",
-          "description": "Fire Emblem: Fortune's Weave features a world map influenced by medieval Spain, blending various cultural elements for a unique experience.",
-          "category": "Gaming",
-          "source": "Eurogamer.net",
-          "url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-spain-regions",
-          "image": "https://assetsio.gnwcdn.com/FE-Fortunes-Weave_custom_characters-and-map.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-10T10:48:48Z",
-          "key_points": [
-            "Inspired by medieval Spain",
-            "Unique cultural blend",
-            "New entry in Fire Emblem series"
-          ],
-          "impact": "Fans look forward to its release.",
-          "id": "ce60e2124d0c9b936c17e664132bc24c"
-        },
-        {
-          "title": "Instagram Introduces Photo Grid Rearrangement Feature",
-          "description": "Instagram now allows users to manually rearrange their photo grid, fulfilling a long-requested feature for better profile customization.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/09/instagram-now-lets-you-rearrange-your-photos-grid/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/instagram-grid-reorder.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-10T02:21:00Z",
-          "key_points": [
-            "New grid rearrangement feature",
-            "User customization improved",
-            "Long-requested by users"
-          ],
-          "impact": "Instagram enhances user profile experience.",
-          "id": "25b6d80bad09e2df095cfa6eacdba85d"
         }
       ]
     }
