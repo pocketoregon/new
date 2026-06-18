@@ -1,245 +1,245 @@
 {
-  "generated_at": "2026-06-18T10:18:53.639934+00:00",
+  "generated_at": "2026-06-18T15:20:37.707470+00:00",
   "articles": [
     {
-      "title": "New Senua Game Reveal Used as a Way to Sell Ninja Theory to Suitors",
-      "description": "Xbox is reportedly selling Ninja Theory, revealed through a new Senua game. This strategic move raises questions about Microsoft's gaming future.",
+      "title": "Pokémon Champions Launches On Mobile Today",
+      "description": "Pokémon Champions debuts on mobile today, with a new update for the Switch version. The update enhances gameplay and expands the roster.",
+      "category": "Gaming",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/06/pokemon-champions-launches-on-mobile-today-alongside-a-new-game-update",
+      "image": "https://images.nintendolife.com/eb91d0d144ea7/large.jpg",
+      "published_at": "2026-06-17T04:30:00Z",
+      "key_points": [
+        "Mobile launch today",
+        "Switch update released",
+        "Expanded roster available"
+      ],
+      "impact": "This launch boosts Pokémon's mobile presence.",
+      "id": "3e56a64503059dfc089f5b120797ab0b"
+    },
+    {
+      "title": "Grok Imagine Video 1.5 Released",
+      "description": "Grok Imagine Video 1.5 is now available, offering improved quality and speed on the Imagine API and mobile apps. This update enhances image-to-video capabilities.",
+      "category": "Software",
+      "source": "X.ai",
+      "url": "https://x.ai/news/grok-imagine-video-1-5",
+      "image": "https://x.ai/images/news/grok-imagine-video-1-5-og.png",
+      "published_at": "2026-06-17T02:55:32Z",
+      "key_points": [
+        "Improved video quality",
+        "Faster processing speeds",
+        "Available on all platforms"
+      ],
+      "impact": "This update enhances user experience significantly.",
+      "id": "7fffe5c660d37b5fabe29cd88dcc6a0d"
+    },
+    {
+      "title": "Housemarque Teases Smaller PS5 Game",
+      "description": "Housemarque hints its next PS5 game may be smaller than Saros, exploring new opportunities post-acquisition. The studio embraces its PlayStation identity.",
       "category": "Gaming",
       "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/06/new-senua-game-reveal-used-as-a-way-to-sell-ninja-theory-to-suitors",
-      "image": "https://images.pushsquare.com/3ae9586f99f5c/large.jpg",
-      "published_at": "2026-06-17T01:30:00Z",
+      "url": "https://www.pushsquare.com/news/2026/06/housemarque-hints-its-next-ps5-game-could-be-smaller-than-saros",
+      "image": "https://images.pushsquare.com/865e7c87d25c9/large.jpg",
+      "published_at": "2026-06-16T23:30:00Z",
       "key_points": [
-        "Xbox selling Ninja Theory",
-        "New Senua game revealed",
-        "Concerns over Microsoft's future"
+        "Next game may be smaller",
+        "Exploring new opportunities",
+        "Embracing PlayStation identity"
       ],
-      "impact": "This could reshape Microsoft's gaming strategy.",
-      "id": "7fc96c3a3eb0ce85ea8434fac6cdf21c"
+      "impact": "This could redefine Housemarque's game development strategy.",
+      "id": "5fe77cd137cb808c7c4e6fdfc25bc614"
     },
     {
-      "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
-      "description": "Fifteen malicious plugins on JetBrains Marketplace have been identified, targeting developers to steal AI API keys. Aikido Security uncovered this alarming campaign.",
-      "category": "Security",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
-      "image": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
-      "published_at": "2026-06-16T21:54:50Z",
+      "title": "Apple's Hide My Email Feature Changes",
+      "description": "Apple plans to modify its Hide My Email feature, potentially reducing its effectiveness for users. The change involves moving generated email addresses to a new domain.",
+      "category": "Policy",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-477672484.jpg?resize=1200,800",
+      "published_at": "2026-06-16T22:09:32Z",
       "key_points": [
-        "15 malicious plugins found",
-        "Targeting AI API keys",
-        "Developers at risk"
+        "Privacy feature changes coming",
+        "New domain for email addresses",
+        "Potential effectiveness reduction"
       ],
-      "impact": "Developers must enhance security measures immediately.",
-      "id": "605bc54040ab45ddddcf92bb6dab79ac"
+      "impact": "This may compromise user privacy significantly.",
+      "id": "7ec29f4cdedcf6619c63eb632075ca8b"
     },
     {
-      "title": "WhatsApp working on yet another ephemeral feature on iOS",
-      "description": "WhatsApp is developing a new ephemeral messaging feature for iOS, adding to its disappearing messages functionality. Details are emerging from beta builds.",
-      "category": "Software",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/16/whatsapp-working-on-yet-another-ephemeral-feature-on-ios/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-16T21:52:00Z",
+      "title": "Trump Phone Revealed as HTC Reskin",
+      "description": "The Trump Mobile T1 is confirmed as a reskinned HTC U24, built in China, contradicting 'Made in America' claims. iFixit's teardown reveals the truth.",
+      "category": "Business",
+      "source": "TechSpot",
+      "url": "https://www.techspot.com/news/112785-made-america-trump-phone-reskinned-htc-u24-built.html",
+      "image": "https://www.techspot.com/images2/news/bigimage/2026/06/2026-06-16-image-34.jpg",
+      "published_at": "2026-06-16T21:37:43Z",
       "key_points": [
-        "New ephemeral feature coming",
-        "Enhances disappearing messages",
-        "Beta builds reveal details"
+        "Trump phone is HTC U24",
+        "Built in China",
+        "Contradicts 'Made in America' claims"
       ],
-      "impact": "WhatsApp continues to innovate messaging privacy.",
-      "id": "ba873dd9ea592931fe6c5a86e90455b7"
+      "impact": "This revelation undermines the product's marketing.",
+      "id": "aec2b34b9e7ccc6b974939061f74f1c8"
     },
     {
-      "title": "Xbox Promises Gears Of War: E-Day Exclusivity Is Not A Limited-Time Fake Out",
-      "description": "Xbox assures fans that Gears of War: E-Day will remain exclusive, dispelling rumors of a future PS5 release. The company aims to clarify its gaming direction.",
+      "title": "Rumors of Bungie Layoffs Surface",
+      "description": "Reports suggest PlayStation may lay off at least 50% of Bungie staff this summer, raising concerns about the studio's future. The news comes from a French journalist.",
+      "category": "Business",
+      "source": "Vgchartz.com",
+      "url": "https://www.vgchartz.com/article/468232/rumor-playstation-to-lay-off-at-least-50-of-bungie-staff-this-summer/",
+      "image": "https://www.vgchartz.com/articles_media/images/rumor-bungie-to-lay-off-at-least-50-of-staff-this-summer-028649_condensed.jpg",
+      "published_at": "2026-06-16T21:24:47Z",
+      "key_points": [
+        "50% Bungie layoffs rumored",
+        "Concerns about studio future",
+        "Reported by French journalist"
+      ],
+      "impact": "This could significantly impact Bungie's operations.",
+      "id": "a9d6880d5985e746ed93df5712dda332"
+    },
+    {
+      "title": "Luna Abyss Developers Laid Off Post-Launch",
+      "description": "Kwalee Labs has laid off its entire team, including the CEO, just weeks after launching Luna Abyss. The decision raises eyebrows in the gaming community.",
       "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/xbox-promises-gears-of-war-e-day-exclusivity-is-not-a-limited-time-fake-out-2000707199",
-      "image": "https://kotaku.com/app/uploads/2026/06/05_GoW_EDAY_PlaysLikeNew_Final-7ef1be5a3c94e92a7462-1900x1080-1-1200x675.jpg",
-      "published_at": "2026-06-16T21:14:10Z",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/luna-abyss-developers-laid-off-just-weeks-after-launch/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Luna-Abyss.jpg",
+      "published_at": "2026-06-16T20:55:56Z",
       "key_points": [
-        "Gears of War exclusivity confirmed",
-        "No PS5 release planned",
-        "Xbox clarifies gaming strategy"
+        "Entire team laid off",
+        "CEO also terminated",
+        "Weeks after game launch"
       ],
-      "impact": "This strengthens Xbox's exclusive game lineup.",
-      "id": "3c78ab4b0246d4485e1b9d8493a10a90"
+      "impact": "This raises concerns about industry stability.",
+      "id": "cac978ca2a62e96293fa14d608b5b457"
     },
     {
-      "title": "Halo: Campaign Evolved Preview - Exclusive Hands-On Impressions Of The Bonus Missions",
-      "description": "Game Informer shares exclusive hands-on impressions of new missions in the Halo: Campaign Evolved remake. Fans can expect exciting content.",
+      "title": "Final Fantasy VII Revelation Title Explained",
+      "description": "The title for the final entry in the Final Fantasy VII Remake trilogy has been revealed as 'Revelation', surprising fans. Only a few knew before the announcement.",
       "category": "Gaming",
       "source": "Game Informer",
-      "url": "https://gameinformer.com/preview/2026/06/16/exclusive-hands-on-impressions-of-the-bonus-missions",
-      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/10/3940050a/379lfte.jpg.webp",
-      "published_at": "2026-06-16T19:34:39Z",
+      "url": "https://gameinformer.com/sgf-2026/2026/06/16/why-its-called-final-fantasy-vii-revelation-instead-of-resolve-or-other",
+      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/16/88c192a6/cloud.jpg.webp",
+      "published_at": "2026-06-16T20:45:09Z",
       "key_points": [
-        "Exclusive hands-on impressions",
-        "New missions revealed",
-        "Halo: Campaign Evolved excitement"
+        "Final title revealed",
+        "Surprised fan community",
+        "Few knew before announcement"
       ],
-      "impact": "Fans are eager for the Halo remake.",
-      "id": "b7743d0e2d16148f38ac7b63dd820077"
+      "impact": "This title change excites the fanbase.",
+      "id": "89f34522a4c5c2845197941e06a6c6e6"
     },
     {
-      "title": "Persona 4 Revival Game Announces New English Voice Cast",
-      "description": "Sega reveals the English voice cast for the upcoming Persona 4 Revival game, set to launch on February 18. Notable actors join the cast.",
-      "category": "Gaming",
-      "source": "Anime News Network",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-16/persona-4-revival-game-announces-new-english-voice-cast/.238583",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMJ/cms/news.9/238583/p4r-protag-va-1920x1080.jpg",
-      "published_at": "2026-06-16T19:30:00Z",
-      "key_points": [
-        "New English voice cast announced",
-        "Persona 4 Revival launching",
-        "Excitement builds for release"
-      ],
-      "impact": "Fans anticipate the revamped Persona experience.",
-      "id": "8bf2e1bd2f191f8420f29ec39150e721"
-    },
-    {
-      "title": "Siri AI may have confirmed a major iPhone 18 design change",
-      "description": "Siri AI hints at a significant design change for the upcoming iPhone 18. Details remain speculative but intriguing for Apple enthusiasts.",
-      "category": "Software",
-      "source": "PhoneArena",
-      "url": "https://www.phonearena.com/news/Siri-AI-may-have-confirmed-a-major-iPhone-18-design-change_id181152",
-      "image": "",
-      "published_at": "2026-06-16T19:13:34Z",
-      "key_points": [
-        "Siri hints at iPhone 18 change",
-        "Design details remain unclear",
-        "Apple fans intrigued"
-      ],
-      "impact": "Potential design shift could excite Apple users.",
-      "id": "19ef406313b5c7a050ef1daf268256b6"
-    },
-    {
-      "title": "Sega Put Sonic’s DNA In A Chaos Emerald, Your Move Nintendo",
-      "description": "Sega celebrates Sonic's 35th anniversary by introducing a life-sized Chaos Emerald containing Sonic's DNA. A quirky marketing move that sparks interest.",
+      "title": "Epic Games Admits AI Use in Fortnite",
+      "description": "Epic Games acknowledges its use of generative AI in Fortnite after player criticism. A video showcases the AI tools used in game development.",
       "category": "Gaming",
       "source": "Kotaku",
-      "url": "https://kotaku.com/sega-put-sonics-dna-in-a-chaos-emerald-your-move-nintendo-2000707158",
-      "image": "https://kotaku.com/app/uploads/2026/06/Sonic-DNA-statue.jpg",
-      "published_at": "2026-06-16T18:25:41Z",
+      "url": "https://kotaku.com/epic-games-generative-ai-fortnite-mistakes-2000707180",
+      "image": "https://kotaku.com/app/uploads/2026/06/A-Look-At-Epics-Art-Concepting-Process-2-40-screenshot-1200x675.jpg",
+      "published_at": "2026-06-16T20:36:29Z",
       "key_points": [
-        "Sonic's DNA in Chaos Emerald",
-        "35th anniversary celebration",
-        "Unique marketing strategy"
+        "Generative AI use confirmed",
+        "Video showcases AI tools",
+        "Response to player criticism"
       ],
-      "impact": "Sega's creativity keeps Sonic relevant.",
-      "id": "9cfe5df8e926718a66d7aebd22f48904"
+      "impact": "This transparency may rebuild player trust.",
+      "id": "dbebc6e4027428e9458c54ec5e031ea1"
     },
     {
-      "title": "5 New Apple Music Features Coming In iOS 27",
-      "description": "iOS 27 introduces minor improvements to Apple Music, enhancing user experience without major changes. New features aim to streamline functionality.",
-      "category": "Software",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2195614/new-apple-music-features-coming-ios-27/",
-      "image": "https://www.bgr.com/img/gallery/5-new-apple-music-features-coming-in-ios-27/l-intro-1781633613.jpg",
-      "published_at": "2026-06-16T18:15:15Z",
-      "key_points": [
-        "Minor improvements for Apple Music",
-        "Enhancements in iOS 27",
-        "User experience focus"
-      ],
-      "impact": "Apple Music continues to evolve for users.",
-      "id": "576b2715098e20d16add97dc967bd814"
-    },
-    {
-      "title": "Google’s June Pixel Drop expands AirDrop compatibility, creation tools, and Pixel Watch safety",
-      "description": "Google's June Pixel Drop enhances AirDrop compatibility and introduces new creation tools for Pixel devices. Safety features for Pixel Watch are also included.",
-      "category": "Software",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/googles-june-pixel-drop-expands-airdrop-compatibility-to-cheaper-and-ups-pixel-watch-safety/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/04/google-pixel-9a-hands-on-02-jpg.jpg?w=1600&h=900&fit=crop",
-      "published_at": "2026-06-16T18:08:51Z",
-      "key_points": [
-        "AirDrop compatibility expanded",
-        "New creation tools added",
-        "Pixel Watch safety features"
-      ],
-      "impact": "Google enhances user experience across devices.",
-      "id": "d565bfd903ee42ac6570cc20ac3d8ed1"
-    },
-    {
-      "title": "Commodore gets into the phone biz with Sailfish-powered retro 'Callback'",
-      "description": "Commodore launches a retro flip phone, the Callback, powered by Sailfish OS. The device lacks modern features like email and social media.",
-      "category": "Hardware",
-      "source": "The Register",
-      "url": "https://www.theregister.com/personal-tech/2026/06/16/commodore-gets-into-the-phone-biz-with-sailfish-powered-retro-callback/5256186",
-      "image": "https://image.theregister.com/5256209.jpg?imageId=5256209&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "published_at": "2026-06-16T18:01:00Z",
-      "key_points": [
-        "Retro phone launched by Commodore",
-        "Powered by Sailfish OS",
-        "Lacks modern features"
-      ],
-      "impact": "Commodore targets nostalgia-driven consumers.",
-      "id": "096be7d877c850b1921c9c34bfa1d2bc"
-    },
-    {
-      "title": "Analyst says Xbox CEO Asha Sharma’s Next 100 Days will be about “the job she was Actually Hired to do,” with Mass Layoffs Looming",
-      "description": "Analysts predict Xbox CEO Asha Sharma's upcoming focus will be on her core responsibilities amid looming layoffs. The gaming industry watches closely.",
+      "title": "Snap Launches AR Glasses Amid Stock Drop",
+      "description": "Snap Inc. unveils its new AR glasses, 'Specs', priced at $2,195, amidst skepticism from retailers. The high price raises concerns about market acceptance.",
       "category": "Business",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/xbox-asha-sharma-mass-layoffs-what-she-was-hired-to-do/",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2022/12/cover-home-1.jpg",
-      "published_at": "2026-06-16T17:58:00Z",
+      "source": "Stocktwits.com",
+      "url": "https://stocktwits.com/news-articles/markets/equity/snap-stock-drops-snap-launches-ar-smart-glasses-but-retail-is-skeptical-on-over-2-000-price-tag/cZKW6FjR74V",
+      "image": "https://news.stocktwits-cdn.com/large_Snap_jpg_11a44b44a0.webp",
+      "published_at": "2026-06-16T19:49:00Z",
       "key_points": [
-        "Asha Sharma's focus shifts",
-        "Mass layoffs anticipated",
-        "Industry watches closely"
+        "AR glasses launched",
+        "Priced at $2,195",
+        "Retail skepticism remains"
       ],
-      "impact": "Xbox's future direction remains uncertain.",
-      "id": "6b6a5874f843af7727c7fdbb6ef32a54"
+      "impact": "High price may hinder sales success.",
+      "id": "8839522c9c2ecd842d55a51087edaf22"
     },
     {
-      "title": "Snap Opens Preorders For Specs, True AR Glasses Shipping This Fall For $2195",
-      "description": "Snap launches preorders for Specs, standalone AR glasses priced at $2195, set to ship this fall in select countries. Aiming to innovate in AR technology.",
-      "category": "Hardware",
-      "source": "UploadVR",
-      "url": "https://www.uploadvr.com/snap-specs-design-revealed-preorders-open-price/",
-      "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/06/SPECS27_3-4_View.png",
-      "published_at": "2026-06-16T16:50:28Z",
+      "title": "Steam Workshop Malware Threat",
+      "description": "Malware is being spread through Steam Workshop, with infected wallpaper packages posing risks to users. This exploitation raises security concerns.",
+      "category": "Security",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/",
+      "image": "https://www.bleepingcomputer.com/content/hl-images/2025/09/19/Steam-red.jpg",
+      "published_at": "2026-06-16T18:27:55Z",
       "key_points": [
-        "Preorders for AR glasses open",
-        "Specs priced at $2195",
-        "Shipping this fall"
+        "Malware spread via wallpapers",
+        "Steam Workshop exploited",
+        "User security at risk"
       ],
-      "impact": "Snap aims to lead in AR innovation.",
-      "id": "33390e4ca0c53d8b42137506401090ab"
+      "impact": "This poses a significant threat to users.",
+      "id": "0a7be160d4a2f962d738419999a97aa5"
     },
     {
-      "title": "Steam Machine one step closer to launch as benchmarks surface online, here's how it compares to the Steam Deck",
-      "description": "Benchmarks for the Steam Machine have surfaced, indicating progress towards launch. Comparisons with the Steam Deck reveal performance insights.",
+      "title": "New Co-Op Dark Fantasy RPG Announced",
+      "description": "Mistfall Hunter combines Soulslike combat with co-op RPG elements, offering an engaging experience reminiscent of Elden Ring. Players face challenging encounters and loot collection.",
       "category": "Gaming",
-      "source": "PC Guide",
-      "url": "https://www.pcguide.com/news/steam-machine-one-step-closer-to-launch-as-benchmarks-surface-online-heres-how-it-compares-to-the-steam-deck/",
-      "image": "https://www.pcguide.com/wp-content/uploads/2026/06/Steam-Machine-with-table-tennis-paddles-and-balls.jpg",
-      "published_at": "2026-06-16T16:50:22Z",
+      "source": "80.lv",
+      "url": "https://80.lv/articles/this-new-co-op-dark-fantasy-rpg-is-like-elden-ring-meets-arc-raiders",
+      "image": "https://cdn.80.lv/api/upload/meta/48821/images/6a318c956e0e4/contain_1200x630.jpg",
+      "published_at": "2026-06-16T17:53:30Z",
       "key_points": [
-        "Steam Machine benchmarks released",
-        "Comparison with Steam Deck",
-        "Launch progress indicated"
+        "Co-op RPG gameplay",
+        "Soulslike combat mechanics",
+        "Epic adventure awaits"
       ],
-      "impact": "Steam Machine's performance sparks interest.",
-      "id": "88052d764457a991b8194e130d608e2e"
+      "impact": "This could attract fans of the genre.",
+      "id": "b57b18550ad571a42d347b015c8c8bb0"
     },
     {
-      "title": "Nothing’s Ear (a), our favorite budget earbuds, are cheaper than ever ahead of Prime Day",
-      "description": "Nothing’s Ear (a) earbuds are now $53.20, offering noise cancellation and great sound. A perfect deal ahead of Amazon Prime Day.",
-      "category": "Hardware",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/950756/nothing-ear-a-early-amazon-prime-day-deal-sale",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406202/DSCF6918.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published_at": "2026-06-16T16:10:27Z",
+      "title": "Siri AI Hints at iPhone 18 Pro Changes",
+      "description": "Siri AI in iOS 27 beta hints at design changes for the upcoming iPhone 18 Pro. The revelation has sparked interest among Apple enthusiasts.",
+      "category": "Software",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/16/siri-ai-hints-at-new-iphone-18-pro-design-change/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai-27-dark.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-16T17:32:00Z",
       "key_points": [
-        "Nothing's Ear (a) discounted",
-        "Now $53.20 ahead of Prime Day",
-        "Offers noise cancellation"
+        "Siri hints at design change",
+        "iPhone 18 Pro rumors",
+        "Available in iOS 27 beta"
       ],
-      "impact": "Great savings on popular budget earbuds.",
-      "id": "93b641ef884a2018c3b30f0c31d9b21d"
+      "impact": "This could influence consumer expectations.",
+      "id": "7092c0198f72108bb80cf5d728038721"
+    },
+    {
+      "title": "Apple's Future iPhones to Use 1.4nm Chips",
+      "description": "Apple plans to use 1.4-nanometer chips in its 2028 iPhone models, transitioning from 2-nanometer technology. This advancement promises improved performance.",
+      "category": "Hardware",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/16/2028-iphones-a22-pro-chips/",
+      "image": "https://images.macrumors.com/t/ERXbALqGfy0lkvWipEq15WE1xic=/1600x/article-new/2023/11/apple-silicon-1-feature.jpg",
+      "published_at": "2026-06-16T17:03:42Z",
+      "key_points": [
+        "1.4nm chips for 2028 iPhones",
+        "Transition from 2nm technology",
+        "Improved performance expected"
+      ],
+      "impact": "This advancement could enhance device capabilities.",
+      "id": "2b414d42a660a2d241caebaae8d565f8"
+    },
+    {
+      "title": "Halo Campaign Evolved Supports PS5 Pro",
+      "description": "Halo: Campaign Evolved is now fully optimized for PS5 Pro, as Microsoft invests heavily in rival console support. This move surprises many in the gaming community.",
+      "category": "Gaming",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/06/halo-campaign-evolved-goes-all-in-on-ps5-pro-support-as-xbox-bets-big-on-rival-console",
+      "image": "https://images.pushsquare.com/b74f97990bfa4/large.jpg",
+      "published_at": "2026-06-16T17:00:00Z",
+      "key_points": [
+        "Halo supports PS5 Pro",
+        "Microsoft invests in rival console",
+        "Surprising gaming community"
+      ],
+      "impact": "This could shift competitive dynamics in gaming.",
+      "id": "f3545f2bc4871c045202f2aee278c025"
     }
   ]
 }

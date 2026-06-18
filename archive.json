@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-18T15:20:37.707470+00:00",
+      "fetched_at": "2026-06-18T15:20:37.707470+00:00",
+      "label": "Jun 18, 2026 — 03:21 PM UTC",
+      "articles": [
+        {
+          "title": "Pokémon Champions Launches On Mobile Today",
+          "description": "Pokémon Champions debuts on mobile today, with a new update for the Switch version. The update enhances gameplay and expands the roster.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/pokemon-champions-launches-on-mobile-today-alongside-a-new-game-update",
+          "image": "https://images.nintendolife.com/eb91d0d144ea7/large.jpg",
+          "published_at": "2026-06-17T04:30:00Z",
+          "key_points": [
+            "Mobile launch today",
+            "Switch update released",
+            "Expanded roster available"
+          ],
+          "impact": "This launch boosts Pokémon's mobile presence.",
+          "id": "3e56a64503059dfc089f5b120797ab0b"
+        },
+        {
+          "title": "Grok Imagine Video 1.5 Released",
+          "description": "Grok Imagine Video 1.5 is now available, offering improved quality and speed on the Imagine API and mobile apps. This update enhances image-to-video capabilities.",
+          "category": "Software",
+          "source": "X.ai",
+          "url": "https://x.ai/news/grok-imagine-video-1-5",
+          "image": "https://x.ai/images/news/grok-imagine-video-1-5-og.png",
+          "published_at": "2026-06-17T02:55:32Z",
+          "key_points": [
+            "Improved video quality",
+            "Faster processing speeds",
+            "Available on all platforms"
+          ],
+          "impact": "This update enhances user experience significantly.",
+          "id": "7fffe5c660d37b5fabe29cd88dcc6a0d"
+        },
+        {
+          "title": "Housemarque Teases Smaller PS5 Game",
+          "description": "Housemarque hints its next PS5 game may be smaller than Saros, exploring new opportunities post-acquisition. The studio embraces its PlayStation identity.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/housemarque-hints-its-next-ps5-game-could-be-smaller-than-saros",
+          "image": "https://images.pushsquare.com/865e7c87d25c9/large.jpg",
+          "published_at": "2026-06-16T23:30:00Z",
+          "key_points": [
+            "Next game may be smaller",
+            "Exploring new opportunities",
+            "Embracing PlayStation identity"
+          ],
+          "impact": "This could redefine Housemarque's game development strategy.",
+          "id": "5fe77cd137cb808c7c4e6fdfc25bc614"
+        },
+        {
+          "title": "Apple's Hide My Email Feature Changes",
+          "description": "Apple plans to modify its Hide My Email feature, potentially reducing its effectiveness for users. The change involves moving generated email addresses to a new domain.",
+          "category": "Policy",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
+          "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-477672484.jpg?resize=1200,800",
+          "published_at": "2026-06-16T22:09:32Z",
+          "key_points": [
+            "Privacy feature changes coming",
+            "New domain for email addresses",
+            "Potential effectiveness reduction"
+          ],
+          "impact": "This may compromise user privacy significantly.",
+          "id": "7ec29f4cdedcf6619c63eb632075ca8b"
+        },
+        {
+          "title": "Trump Phone Revealed as HTC Reskin",
+          "description": "The Trump Mobile T1 is confirmed as a reskinned HTC U24, built in China, contradicting 'Made in America' claims. iFixit's teardown reveals the truth.",
+          "category": "Business",
+          "source": "TechSpot",
+          "url": "https://www.techspot.com/news/112785-made-america-trump-phone-reskinned-htc-u24-built.html",
+          "image": "https://www.techspot.com/images2/news/bigimage/2026/06/2026-06-16-image-34.jpg",
+          "published_at": "2026-06-16T21:37:43Z",
+          "key_points": [
+            "Trump phone is HTC U24",
+            "Built in China",
+            "Contradicts 'Made in America' claims"
+          ],
+          "impact": "This revelation undermines the product's marketing.",
+          "id": "aec2b34b9e7ccc6b974939061f74f1c8"
+        },
+        {
+          "title": "Rumors of Bungie Layoffs Surface",
+          "description": "Reports suggest PlayStation may lay off at least 50% of Bungie staff this summer, raising concerns about the studio's future. The news comes from a French journalist.",
+          "category": "Business",
+          "source": "Vgchartz.com",
+          "url": "https://www.vgchartz.com/article/468232/rumor-playstation-to-lay-off-at-least-50-of-bungie-staff-this-summer/",
+          "image": "https://www.vgchartz.com/articles_media/images/rumor-bungie-to-lay-off-at-least-50-of-staff-this-summer-028649_condensed.jpg",
+          "published_at": "2026-06-16T21:24:47Z",
+          "key_points": [
+            "50% Bungie layoffs rumored",
+            "Concerns about studio future",
+            "Reported by French journalist"
+          ],
+          "impact": "This could significantly impact Bungie's operations.",
+          "id": "a9d6880d5985e746ed93df5712dda332"
+        },
+        {
+          "title": "Luna Abyss Developers Laid Off Post-Launch",
+          "description": "Kwalee Labs has laid off its entire team, including the CEO, just weeks after launching Luna Abyss. The decision raises eyebrows in the gaming community.",
+          "category": "Gaming",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/luna-abyss-developers-laid-off-just-weeks-after-launch/",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Luna-Abyss.jpg",
+          "published_at": "2026-06-16T20:55:56Z",
+          "key_points": [
+            "Entire team laid off",
+            "CEO also terminated",
+            "Weeks after game launch"
+          ],
+          "impact": "This raises concerns about industry stability.",
+          "id": "cac978ca2a62e96293fa14d608b5b457"
+        },
+        {
+          "title": "Final Fantasy VII Revelation Title Explained",
+          "description": "The title for the final entry in the Final Fantasy VII Remake trilogy has been revealed as 'Revelation', surprising fans. Only a few knew before the announcement.",
+          "category": "Gaming",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/sgf-2026/2026/06/16/why-its-called-final-fantasy-vii-revelation-instead-of-resolve-or-other",
+          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/16/88c192a6/cloud.jpg.webp",
+          "published_at": "2026-06-16T20:45:09Z",
+          "key_points": [
+            "Final title revealed",
+            "Surprised fan community",
+            "Few knew before announcement"
+          ],
+          "impact": "This title change excites the fanbase.",
+          "id": "89f34522a4c5c2845197941e06a6c6e6"
+        },
+        {
+          "title": "Epic Games Admits AI Use in Fortnite",
+          "description": "Epic Games acknowledges its use of generative AI in Fortnite after player criticism. A video showcases the AI tools used in game development.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/epic-games-generative-ai-fortnite-mistakes-2000707180",
+          "image": "https://kotaku.com/app/uploads/2026/06/A-Look-At-Epics-Art-Concepting-Process-2-40-screenshot-1200x675.jpg",
+          "published_at": "2026-06-16T20:36:29Z",
+          "key_points": [
+            "Generative AI use confirmed",
+            "Video showcases AI tools",
+            "Response to player criticism"
+          ],
+          "impact": "This transparency may rebuild player trust.",
+          "id": "dbebc6e4027428e9458c54ec5e031ea1"
+        },
+        {
+          "title": "Snap Launches AR Glasses Amid Stock Drop",
+          "description": "Snap Inc. unveils its new AR glasses, 'Specs', priced at $2,195, amidst skepticism from retailers. The high price raises concerns about market acceptance.",
+          "category": "Business",
+          "source": "Stocktwits.com",
+          "url": "https://stocktwits.com/news-articles/markets/equity/snap-stock-drops-snap-launches-ar-smart-glasses-but-retail-is-skeptical-on-over-2-000-price-tag/cZKW6FjR74V",
+          "image": "https://news.stocktwits-cdn.com/large_Snap_jpg_11a44b44a0.webp",
+          "published_at": "2026-06-16T19:49:00Z",
+          "key_points": [
+            "AR glasses launched",
+            "Priced at $2,195",
+            "Retail skepticism remains"
+          ],
+          "impact": "High price may hinder sales success.",
+          "id": "8839522c9c2ecd842d55a51087edaf22"
+        },
+        {
+          "title": "Steam Workshop Malware Threat",
+          "description": "Malware is being spread through Steam Workshop, with infected wallpaper packages posing risks to users. This exploitation raises security concerns.",
+          "category": "Security",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/",
+          "image": "https://www.bleepingcomputer.com/content/hl-images/2025/09/19/Steam-red.jpg",
+          "published_at": "2026-06-16T18:27:55Z",
+          "key_points": [
+            "Malware spread via wallpapers",
+            "Steam Workshop exploited",
+            "User security at risk"
+          ],
+          "impact": "This poses a significant threat to users.",
+          "id": "0a7be160d4a2f962d738419999a97aa5"
+        },
+        {
+          "title": "New Co-Op Dark Fantasy RPG Announced",
+          "description": "Mistfall Hunter combines Soulslike combat with co-op RPG elements, offering an engaging experience reminiscent of Elden Ring. Players face challenging encounters and loot collection.",
+          "category": "Gaming",
+          "source": "80.lv",
+          "url": "https://80.lv/articles/this-new-co-op-dark-fantasy-rpg-is-like-elden-ring-meets-arc-raiders",
+          "image": "https://cdn.80.lv/api/upload/meta/48821/images/6a318c956e0e4/contain_1200x630.jpg",
+          "published_at": "2026-06-16T17:53:30Z",
+          "key_points": [
+            "Co-op RPG gameplay",
+            "Soulslike combat mechanics",
+            "Epic adventure awaits"
+          ],
+          "impact": "This could attract fans of the genre.",
+          "id": "b57b18550ad571a42d347b015c8c8bb0"
+        },
+        {
+          "title": "Siri AI Hints at iPhone 18 Pro Changes",
+          "description": "Siri AI in iOS 27 beta hints at design changes for the upcoming iPhone 18 Pro. The revelation has sparked interest among Apple enthusiasts.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/16/siri-ai-hints-at-new-iphone-18-pro-design-change/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai-27-dark.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-16T17:32:00Z",
+          "key_points": [
+            "Siri hints at design change",
+            "iPhone 18 Pro rumors",
+            "Available in iOS 27 beta"
+          ],
+          "impact": "This could influence consumer expectations.",
+          "id": "7092c0198f72108bb80cf5d728038721"
+        },
+        {
+          "title": "Apple's Future iPhones to Use 1.4nm Chips",
+          "description": "Apple plans to use 1.4-nanometer chips in its 2028 iPhone models, transitioning from 2-nanometer technology. This advancement promises improved performance.",
+          "category": "Hardware",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/16/2028-iphones-a22-pro-chips/",
+          "image": "https://images.macrumors.com/t/ERXbALqGfy0lkvWipEq15WE1xic=/1600x/article-new/2023/11/apple-silicon-1-feature.jpg",
+          "published_at": "2026-06-16T17:03:42Z",
+          "key_points": [
+            "1.4nm chips for 2028 iPhones",
+            "Transition from 2nm technology",
+            "Improved performance expected"
+          ],
+          "impact": "This advancement could enhance device capabilities.",
+          "id": "2b414d42a660a2d241caebaae8d565f8"
+        },
+        {
+          "title": "Halo Campaign Evolved Supports PS5 Pro",
+          "description": "Halo: Campaign Evolved is now fully optimized for PS5 Pro, as Microsoft invests heavily in rival console support. This move surprises many in the gaming community.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/halo-campaign-evolved-goes-all-in-on-ps5-pro-support-as-xbox-bets-big-on-rival-console",
+          "image": "https://images.pushsquare.com/b74f97990bfa4/large.jpg",
+          "published_at": "2026-06-16T17:00:00Z",
+          "key_points": [
+            "Halo supports PS5 Pro",
+            "Microsoft invests in rival console",
+            "Surprising gaming community"
+          ],
+          "impact": "This could shift competitive dynamics in gaming.",
+          "id": "f3545f2bc4871c045202f2aee278c025"
+        }
+      ]
+    },
+    {
       "id": "2026-06-18T10:18:53.639934+00:00",
       "fetched_at": "2026-06-18T10:18:53.639934+00:00",
       "label": "Jun 18, 2026 — 10:19 AM UTC",
@@ -6728,157 +6975,6 @@
           ],
           "impact": "Anticipation grows for the iPhone 18 Pro.",
           "id": "4038d0d62bf22a12f46dec282da51ea9"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-12T10:10:17.981857+00:00",
-      "fetched_at": "2026-06-12T10:10:17.981857+00:00",
-      "label": "Jun 12, 2026 — 10:10 AM UTC",
-      "articles": [
-        {
-          "title": "Framework Delays Laptop 13 Pro Shipments",
-          "description": "Framework's Laptop 13 Pro shipments are delayed by a month due to issues with the haptic trackpad and custom display. New expected shipping is now in July.",
-          "category": "Hardware",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC00210_71b030.webp?quality=90&strip=all&crop=0%2C16.22192197264%2C100%2C67.55615605472&w=1200",
-          "published_at": "2026-06-10T23:12:51Z",
-          "key_points": [
-            "Shipments delayed to July",
-            "Issues with trackpad",
-            "Custom display problems"
-          ],
-          "impact": "Delays may affect customer satisfaction.",
-          "id": "e8c1163f4f6444145fbea34a23c02dd2"
-        },
-        {
-          "title": "Ubisoft Announces Studio Closures and Layoffs",
-          "description": "Ubisoft has closed its Winnipeg and Belgrade studios amid a new restructuring, resulting in hundreds of layoffs. This move is part of a broader organizational change.",
-          "category": "Business",
-          "source": "Gameinformer.com",
-          "url": "https://gameinformer.com/2026/06/10/report-ubisoft-announces-more-studio-closures-and-layoffs-amid-new-organizational",
-          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2021/12/21/58cb5c42/ubisoft_black_logo.jpg.webp",
-          "published_at": "2026-06-10T22:57:29Z",
-          "key_points": [
-            "Two studios closed",
-            "Hundreds laid off",
-            "Organizational restructuring"
-          ],
-          "impact": "Restructuring may impact future game development.",
-          "id": "32ada8a9f7eb85cd4db870b864e4ebb2"
-        },
-        {
-          "title": "Intel’s Project Firefly Unveiled",
-          "description": "Intel's Project Firefly aims to create affordable laptops with premium features, utilizing Wildcat Lake SoCs in a sleek, ventless design. Targeting budget-conscious consumers.",
-          "category": "Hardware",
-          "source": "Wccftech",
-          "url": "https://wccftech.com/intel-project-firefly-takes-best-of-phones-to-build-laptops-in-a-slim-chassis-with-no-vents/",
-          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/Intel-Firefly-Project-_-Wildcat-Lake-Core-Series-3-_F-1920x1060.jpg",
-          "published_at": "2026-06-10T19:56:00Z",
-          "key_points": [
-            "Affordable premium laptops",
-            "Ventless design",
-            "Wildcat Lake SoCs"
-          ],
-          "impact": "Project Firefly could disrupt budget laptop market.",
-          "id": "4b431527bcbcff6012eb61676d73f29e"
-        },
-        {
-          "title": "Amazon’s Echo Speakers Aid Kids' Sleep",
-          "description": "Amazon introduces Sleep Studio, enhancing Echo and Echo Kids speakers to help children wind down and fall asleep with calming stories and sounds. Aimed at improving bedtime routines.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/947871/amazon-sleep-studio-echo-kids-smart-speakers-calm-moshi-headspace",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/amazonsleep1.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-          "published_at": "2026-06-10T16:54:17Z",
-          "key_points": [
-            "New Sleep Studio feature",
-            "Helps kids sleep better",
-            "Plays calming content"
-          ],
-          "impact": "Improves children's sleep experiences.",
-          "id": "c838f6455586a5a4919b93a2c5250ff5"
-        },
-        {
-          "title": "PlayStation Plus Adds 8 Free Games",
-          "description": "PlayStation Plus subscribers can enjoy eight new free games this June, expanding their gaming library. Exciting titles are now available for download.",
-          "category": "Gaming",
-          "source": "Gamingbible.com",
-          "url": "https://www.gamingbible.com/news/platform/playstation/playstation-plus-extra-premium-june-2026-268323-20260610",
-          "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt6ae1211561fed780/6a294806d561b9321b8e8291/psplusdepartures.jpg",
-          "published_at": "2026-06-10T15:49:55Z",
-          "key_points": [
-            "Eight new free games",
-            "Available for download",
-            "June offerings expanded"
-          ],
-          "impact": "Enhances PlayStation Plus value for subscribers.",
-          "id": "ea0bc68e2643efc869685ae2b2dc409c"
-        },
-        {
-          "title": "Nintendo Stock Drops After Direct",
-          "description": "Nintendo's stock fell nearly 7% following a disappointing June Direct that lacked a new 3D Mario game, despite positive fan reactions. Investors remain cautious.",
-          "category": "Gaming",
-          "source": "Wccftech",
-          "url": "https://wccftech.com/nintendo-stock-crash-june-direct-no-3d-mario/",
-          "image": "https://cdn.wccftech.com/wp-content/uploads/2022/12/cover-home-1.jpg",
-          "published_at": "2026-06-10T08:30:00Z",
-          "key_points": [
-            "Stock fell nearly 7%",
-            "No new 3D Mario game",
-            "Investors disappointed"
-          ],
-          "impact": "Stock drop reflects investor concerns.",
-          "id": "557bc9aba2022389c206066624b9e3b8"
-        },
-        {
-          "title": "Street Fighter 6 DLC Reveals New Characters",
-          "description": "Capcom reveals new details about Yasmine and Arjun, newcomers in Street Fighter 6's Season 4. Fans are excited about the latest updates.",
-          "category": "Gaming",
-          "source": "EventHubs",
-          "url": "https://www.eventhubs.com/news/2026/jun/09/street-fighter-yasmine-details/",
-          "image": "https://media.eventhubs.com/images/2026/06/09-street-fighter-yasmine-detailst.webp",
-          "published_at": "2026-06-09T23:22:28Z",
-          "key_points": [
-            "New characters revealed",
-            "Yasmine and Arjun",
-            "Fans excited for updates"
-          ],
-          "impact": "Increases anticipation for Season 4.",
-          "id": "f73c00bb343139597b43bbdd3f13ad98"
-        },
-        {
-          "title": "Deltarune Chapter 5 Release Date Announced",
-          "description": "Toby Fox announces the release date for Deltarune Chapter 5 and provides updates on Chapter 6, exciting fans of the series. Anticipation builds for the next installment.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/deltarune-chapter-5-release-date-revealed-as-toby-fox-offers-promising-update-for-the-future",
-          "image": "https://assets-prd.ignimgs.com/2026/06/09/deltarune-chapter-5-key-art-by-temmie-1781039360555.png?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-09T21:42:12Z",
-          "key_points": [
-            "Chapter 5 release date revealed",
-            "Updates on Chapter 6",
-            "Fans eagerly await news"
-          ],
-          "impact": "Boosts excitement for the Deltarune series.",
-          "id": "dc7f4fc9c4648710036ddab4f630e3de"
-        },
-        {
-          "title": "EU Responds to Apple's Siri AI Decision",
-          "description": "The European Commission states that Apple's choice not to launch Siri AI in Europe is solely Apple's decision, clarifying its stance on the matter. Apple sought legal exemptions.",
-          "category": "Policy",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/09/eu-says-decision-not-to-launch-siri-ai-in-europe-is-apples/",
-          "image": "https://images.macrumors.com/t/AMzlHXYCh5f7HOPQwqP7K3rUyXI=/1600x/article-new/2026/06/Siri-AI.jpg",
-          "published_at": "2026-06-09T14:07:35Z",
-          "key_points": [
-            "EU clarifies Siri AI decision",
-            "Apple's choice is independent",
-            "Legal exemptions sought by Apple"
-          ],
-          "impact": "Highlights Apple's control over AI deployment.",
-          "id": "02759b8e8f6726c5fbe6d97a36425102"
         }
       ]
     }
