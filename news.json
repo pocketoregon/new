@@ -1,231 +1,247 @@
 {
   "date": "2026-06-18",
-  "generated_at": "2026-06-18T20:24:31.381270+00:00",
+  "generated_at": "2026-06-18T22:55:23.167955+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Vampire Survivors Fortnite Crossover Might Not Happen Due To GenAI",
-      "description": "Poncle is hesitant about Epic's generative AI plans for Fortnite. The future of their collaboration remains uncertain.",
+      "title": "Microsoft Begins Layoffs at Zenimax",
+      "description": "Redundancies have started at Zenimax, affecting studios like Bethesda and Arkane. Microsoft is restructuring its gaming division.",
+      "category": "Gaming",
+      "source": "TheSixthAxis",
+      "url": "https://www.thesixthaxis.com/2026/06/17/report-redundancies-at-microsoft-owned-zenimax-have-begun/",
+      "image": "https://www.thesixthaxis.com/wp-content/uploads/2019/10/FalloutLegacy-Hero500.jpg",
+      "published_at": "2026-06-17T20:56:02Z",
+      "key_points": [
+        "Layoffs at Zenimax confirmed",
+        "Affects major game studios",
+        "Microsoft restructuring gaming division"
+      ],
+      "impact": "This could impact future game releases.",
+      "id": "b8267a74b7014fccb6c30c20451eae0f"
+    },
+    {
+      "title": "Marvel Rivals Launches Free-to-Play Shooter",
+      "description": "Marvel Rivals invites players to ignite the battle in its new team-based shooter. The game is now available for free.",
+      "category": "Gaming",
+      "source": "Marvelrivals.com",
+      "url": "https://www.marvelrivals.com/20260617/41525_1304600.html",
+      "image": "https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg",
+      "published_at": "2026-06-17T20:47:52Z",
+      "key_points": [
+        "Free-to-play shooter launched",
+        "Team-based gameplay",
+        "No server downtime for patch"
+      ],
+      "impact": "This could attract a large player base.",
+      "id": "d34943ad7565a159026d35a51d647c76"
+    },
+    {
+      "title": "Snap's AR Glasses Launch Causes Stock Drop",
+      "description": "Snap's new AR glasses launch has negatively impacted its stock performance. The company faces ongoing financial challenges.",
+      "category": "Business",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2281915461.jpg?resize=1200,800",
+      "published_at": "2026-06-17T20:24:28Z",
+      "key_points": [
+        "AR glasses launch disappointing",
+        "Stock dropped 30% this year",
+        "Financial struggles continue"
+      ],
+      "impact": "Investors are concerned about Snap's future.",
+      "id": "358e207ac3c718c864b49194f949d6f6"
+    },
+    {
+      "title": "PS5 Ports for Call of Duty: Black Ops Confirmed",
+      "description": "Treyarch confirms PS5 ports for Call of Duty: Black Ops and Black Ops 2, set to launch in July.",
+      "category": "Gaming",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/06/call-of-duty-black-ops-1-and-2-ps5-ports-now-official-launching-in-july",
+      "image": "https://images.pushsquare.com/8a4b3a3640b3a/large.jpg",
+      "published_at": "2026-06-17T20:00:00Z",
+      "key_points": [
+        "PS5 ports confirmed",
+        "Launching in July",
+        "Developed by Iron Galaxy"
+      ],
+      "impact": "This will boost interest in classic titles.",
+      "id": "e4ede06243b0cf32d844204970fdfa16"
+    },
+    {
+      "title": "Apple's Second-Gen iPhone Air Coming in 2027",
+      "description": "Apple is preparing a second-generation iPhone Air for spring 2027 to enhance its appeal. Prototypes are currently in development.",
+      "category": "Business",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-17/apple-prepares-second-generation-iphone-air-for-spring-2027",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4oYuYc_kzSg/v1/1200x800.jpg",
+      "published_at": "2026-06-17T19:57:38Z",
+      "key_points": [
+        "Second-gen iPhone Air planned",
+        "Launch expected in spring 2027",
+        "Prototypes are in development"
+      ],
+      "impact": "This could revitalize Apple's smartphone lineup.",
+      "id": "6cc507359a568aeaaf9b0ba1dd07e4ea"
+    },
+    {
+      "title": "Google Photos Expands AI Editing Feature",
+      "description": "Google Photos is rolling out its AI-powered 'Edit with Ask Photos' feature to five new countries, enhancing user experience.",
+      "category": "Software",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/06/17/google-photos-edit-ask-photos-expansion/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/edit-with-ask-photos.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-17T19:40:00Z",
+      "key_points": [
+        "AI editing feature expanded",
+        "Now available in five countries",
+        "Enhances user photo editing"
+      ],
+      "impact": "This improves accessibility for global users.",
+      "id": "fddd0d4564258fbcee6dee9f6c9fe765"
+    },
+    {
+      "title": "Mega Staraptor Dominates Pokémon Champions",
+      "description": "The latest update in Pokémon Champions makes Mega Staraptor a formidable opponent. Players are excited about its new abilities.",
       "category": "Gaming",
       "source": "Kotaku",
-      "url": "https://kotaku.com/vampire-survivors-studio-reviewing-future-fortnite-collab-after-epics-genai-annoumcents-2000707634",
-      "image": "https://kotaku.com/app/uploads/2026/04/vcrawlers-1200x675.jpg",
-      "published_at": "2026-06-17T17:49:46Z",
+      "url": "https://kotaku.com/pokemon-champions-mega-staraptor-contrary-close-combat-2000707669",
+      "image": "https://kotaku.com/app/uploads/2026/06/homerchokebart-1200x675.jpg",
+      "published_at": "2026-06-17T19:32:20Z",
       "key_points": [
-        "Poncle doubts Epic's GenAI plans",
-        "Collaboration future uncertain",
-        "Epic pushes generative AI"
+        "Mega Staraptor update released",
+        "New abilities enhance gameplay",
+        "Players excited about changes"
       ],
-      "impact": "This could affect future game collaborations.",
-      "id": "c9ee1321b884bf0ea7252819a4ac32ba"
+      "impact": "This could shift competitive strategies.",
+      "id": "32505ef8adb811f01408492f9105330f"
     },
     {
-      "title": "Android 17 just dropped for Pixel phones and Watch all at once - the biggest update of the year",
-      "description": "Google's Android 17 update is now available for Pixel devices and the Pixel Watch, marking a significant upgrade.",
-      "category": "Software",
-      "source": "PhoneArena",
-      "url": "https://www.phonearena.com/news/google-just-dropped-its-biggest-update-of-the-year-and-it-hits-android-17-pixel-and-watch-all-at-once_id181143",
-      "image": "",
-      "published_at": "2026-06-17T15:05:06Z",
-      "key_points": [
-        "Android 17 released today",
-        "Major update for Pixel devices",
-        "Includes new features and improvements"
-      ],
-      "impact": "This enhances user experience across devices.",
-      "id": "a5e2f06ce9657c8a8b329fd6dc14ab9e"
-    },
-    {
-      "title": "The Next Big Score",
-      "description": "Rockstar Games announces a new heist at the Kortz Center, promising thrilling gameplay and high-stakes action.",
-      "category": "Gaming",
-      "source": "Rockstargames.com",
-      "url": "https://www.rockstargames.com/newswire/article/517k8ak75ao327/the-next-big-score",
-      "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/517k8ak75ao327/bd8dd92adc077fa7ee13dcddc2d6a93cfb684599.jpg",
-      "published_at": "2026-06-17T13:57:37Z",
-      "key_points": [
-        "New heist at Kortz Center",
-        "Exciting gameplay promised",
-        "High-stakes action awaits"
-      ],
-      "impact": "This will attract more players to the game.",
-      "id": "9795ce556ff65a40881c6d5f2e0f92d5"
-    },
-    {
-      "title": "Samsung Galaxy Z Fold 8 Ultra: The Foldable We’ve Been Waiting For",
-      "description": "Samsung's Galaxy Z Fold 8 Ultra is confirmed, featuring innovative designs and improved functionality.",
+      "title": "Motorola Razr 70 Ultra Review Highlights",
+      "description": "The Motorola Razr 70 Ultra features a familiar design but increases battery capacity to 5,000 mAh. It's now under review.",
       "category": "Hardware",
-      "source": "Geeky Gadgets",
-      "url": "https://www.geeky-gadgets.com/samsung-galaxy-z-fold-8-ultra-8/",
-      "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/fold-8-ultra-design-1.jpg",
-      "published_at": "2026-06-17T07:02:55Z",
+      "source": "GSMArena.com",
+      "url": "https://www.gsmarena.com/motorola_razr_70_ultra_razr_ultra_2026_in_for_review-news-73282.php",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/motorola-razr-70-ultra-ifr/-952x498w6/gsmarena_000.jpg",
+      "published_at": "2026-06-17T18:31:02Z",
       "key_points": [
-        "Galaxy Z Fold 8 Ultra confirmed",
-        "Innovative foldable design",
-        "Improved functionality expected"
+        "Battery capacity increased",
+        "Design similar to predecessor",
+        "Undergoing review process"
       ],
-      "impact": "This could redefine the foldable smartphone market.",
-      "id": "2860ce070ca3f145222d6b61ee62e6be"
+      "impact": "This may attract loyal Razr fans.",
+      "id": "d5e5153c465d22fe2c85f7b5bf301c16"
     },
     {
-      "title": "Apple Stock Rises on AI AirPods and Foldable iPhone Report",
-      "description": "Apple shares increase as reports reveal advancements in AI AirPods and a new foldable iPhone model.",
-      "category": "Business",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-rises-ai-airpods-191952020.html",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "published_at": "2026-06-16T19:19:52Z",
-      "key_points": [
-        "Apple stock rises 1%",
-        "New AI AirPods in development",
-        "Foldable iPhone model reported"
-      ],
-      "impact": "Investors are optimistic about Apple's future.",
-      "id": "cc003efd641715b399662c30baffa5d0"
-    },
-    {
-      "title": "Apple Releases New Firmware for AirPods Pro 2, AirPods Pro 3 and Beats Studio Buds",
-      "description": "Apple updates firmware for AirPods Pro 2 and 3, enhancing performance and features.",
-      "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/16/airpods-pro-firmware-8b41/",
-      "image": "https://images.macrumors.com/t/sLY2rnsZ8CO7pw9y-a1_y0wXDE8=/2322x/article-new/2021/11/AirPods-Pro-Firmware-Feature.jpg",
-      "published_at": "2026-06-16T18:19:01Z",
-      "key_points": [
-        "New firmware for AirPods released",
-        "Improves performance and features",
-        "Version number updated to 8B41"
-      ],
-      "impact": "Users will benefit from enhanced audio quality.",
-      "id": "06098cc614419eb9140498f8c38461b4"
-    },
-    {
-      "title": "Wear OS 7 drops today with Live Updates, Gemini, and more",
-      "description": "Google launches Wear OS 7, introducing live updates and new features for smartwatch users.",
-      "category": "Software",
-      "source": "Android Headlines",
-      "url": "https://www.androidheadlines.com/2026/06/wear-os-7-drops-today-with-live-updates-gemini-and-more.html",
-      "image": "https://www.androidheadlines.com/wp-content/uploads/2025/10/AH-Google-Pixel-Watch-4-scaled.jpg",
-      "published_at": "2026-06-16T18:00:40Z",
-      "key_points": [
-        "Wear OS 7 officially launched",
-        "Includes live updates feature",
-        "New functionalities added"
-      ],
-      "impact": "This enhances smartwatch usability significantly.",
-      "id": "315f28bbfb2124f24f45ab69e286bfe9"
-    },
-    {
-      "title": "These are the best iPadOS 27 features you should try [Video]",
-      "description": "iPadOS 27 introduces impressive new features that enhance user experience and functionality.",
-      "category": "Software",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/16/these-are-the-best-ipados-27-features-you-should-try-video/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ipados27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-16T17:09:00Z",
-      "key_points": [
-        "iPadOS 27 features unveiled",
-        "Enhances user experience",
-        "Five key upgrades highlighted"
-      ],
-      "impact": "Users will enjoy a more efficient workflow.",
-      "id": "44b37f7129e89ec64e00531e3791be30"
-    },
-    {
-      "title": "Walt Disney World to Offer iOS 27's Upgraded Apple Wallet Key Feature",
-      "description": "iOS 27 enhances Apple Wallet with digital keys for Disney resorts, improving guest experience.",
-      "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/16/disney-world-ios-27-apple-wallet/",
-      "image": "https://images.macrumors.com/t/4cWBU14420TsfW7CW78ftNO7Ydo=/1600x/article-new/2026/06/Disney-MagicMobile-Feature.jpg",
-      "published_at": "2026-06-16T16:02:24Z",
-      "key_points": [
-        "iOS 27 enhances Apple Wallet",
-        "Digital keys for Disney resorts",
-        "Improves guest experience"
-      ],
-      "impact": "This simplifies access for Disney visitors.",
-      "id": "add8a3616f684621f573df81dc159c7e"
-    },
-    {
-      "title": "Nearly a decade later, the original Switch finally has an eShop that isn't painfully slow, thanks to a new system update",
-      "description": "Nintendo updates the original Switch's eShop, significantly improving speed and user experience.",
+      "title": "Yakuza Creator's Game Loses Director Amid Funding Issues",
+      "description": "Daisuke Sato, formerly of Nagoshi Studio, reports losing the director of his new game due to funding cuts from NetEase.",
       "category": "Gaming",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/nintendo-switch-eshop-update",
-      "image": "https://assetsio.gnwcdn.com/Nintendo-eShop-official-image-Switch-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-16T15:59:43Z",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/yakuza-creators-new-game-lost-director-2000707635",
+      "image": "https://kotaku.com/app/uploads/2026/03/gangofdragon.jpg",
+      "published_at": "2026-06-17T18:28:19Z",
       "key_points": [
-        "Original Switch eShop updated",
-        "Improved speed and performance",
-        "Enhances user experience"
+        "Director lost amid funding cuts",
+        "Nagoshi Studio facing challenges",
+        "Game development uncertain"
       ],
-      "impact": "Users will enjoy a smoother shopping experience.",
-      "id": "704de169cfe9be54c1a2ed424b697080"
+      "impact": "This raises concerns about project viability.",
+      "id": "bc993cbafb1d3f995cc638d817779f9a"
     },
     {
-      "title": "Google Is Now Sending Broken Galaxy S22 Ultra As Replacements For Defective Pixel Units, As One Customer Found Out The Hard Way",
-      "description": "A customer received a broken Galaxy S22 Ultra as a replacement for a defective Pixel, highlighting Google's error.",
-      "category": "Software",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/pixel-owner-received-broken-galaxy-s22-ultra-as-replacement-for-defective-unit/",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/Pixel-9-Pro-XL-rotated.jpeg",
-      "published_at": "2026-06-16T15:54:00Z",
-      "key_points": [
-        "Google sends broken replacement",
-        "Customer experiences major blunder",
-        "Pixel replacement mishap reported"
-      ],
-      "impact": "This raises concerns about Google's customer service.",
-      "id": "4ca7af1a4d8dcf3814f6e9d4ac787670"
-    },
-    {
-      "title": "Minecraft Java Edition 26.2",
-      "description": "Minecraft Java Edition 26.2 introduces technical changes and improvements for players.",
+      "title": "Xbox's Strategy Criticized by Former Sony Boss",
+      "description": "Shawn Layden critiques Xbox's recent decisions, suggesting a fundamental misunderstanding of the gaming industry.",
       "category": "Gaming",
-      "source": "Minecraft.net",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2",
-      "image": "https://www.minecraft.net/content/dam/minecraftnet/article-asset/2026/minecraft-26-2/new-article-hero-image.jpg",
-      "published_at": "2026-06-16T15:13:03Z",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/former-sony-gaming-boss-shawn-layden-xbox-basic-misunderstanding-industry-2000707632",
+      "image": "https://kotaku.com/app/uploads/2019/09/wawgyqt4bdzu3vfidw4i.jpg",
+      "published_at": "2026-06-17T18:08:38Z",
       "key_points": [
-        "Minecraft Java Edition 26.2 released",
-        "Technical changes introduced",
-        "Improves game performance"
-      ],
-      "impact": "Players will experience smoother gameplay.",
-      "id": "91417967a5379b15d1da60de113209a7"
-    },
-    {
-      "title": "Upcoming Xbox Exclusives Are Being Sent Out To Die, Analyst Says; Xbox Pushes Back",
-      "description": "Analysts claim Xbox exclusives are poorly timed, but Xbox's strategy team defends their release schedule.",
-      "category": "Gaming",
-      "source": "GameSpot",
-      "url": "https://www.gamespot.com/articles/upcoming-xbox-exclusives-are-being-sent-out-to-die-analyst-says-xbox-pushes-back/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Xboxlogo_cde787.jpg",
-      "published_at": "2026-06-16T15:10:29Z",
-      "key_points": [
-        "Analyst criticizes Xbox release strategy",
-        "Xbox defends upcoming titles",
-        "Concerns over exclusive game timing"
+        "Layden critiques Xbox strategy",
+        "Misunderstanding of gaming industry",
+        "Concerns for Xbox's future"
       ],
       "impact": "This could affect Xbox's market position.",
-      "id": "f4d17dee45a3728d01e76c663c81b9b1"
+      "id": "e62270aad573b4f8201632c4316557ec"
     },
     {
-      "title": "Beyerdynamic's new IEM for musicians might also be ideal for your commute",
-      "description": "The DT 30 IE is designed for musicians but also suits commuters, offering portability and quality sound.",
-      "category": "Hardware",
-      "source": "Creative Bloq",
-      "url": "https://www.creativebloq.com/tech/headphones-earbuds/beyerdynamics-new-iem-for-musicians-might-also-be-ideal-for-your-commute",
-      "image": "https://cdn.mos.cms.futurecdn.net/UwBrib8aSM9iinxKX5XNrj-1920-80.jpg",
-      "published_at": "2026-06-16T14:24:06Z",
+      "title": "Unreal Engine 5 Update Boosts Nintendo Switch 2",
+      "description": "Epic Games announces a major Unreal Engine 5 update, enhancing performance on Nintendo Switch 2 significantly.",
+      "category": "Gaming",
+      "source": "Video Games Chronicle",
+      "url": "https://www.videogameschronicle.com/news/epic-introduces-major-unreal-engine-5-update-that-runs-twice-as-fast-on-nintendo-switch-2/",
+      "image": "https://www.videogameschronicle.com/files/2026/06/Screenshot-2026-06-17-172233.jpg",
+      "published_at": "2026-06-17T16:29:19Z",
       "key_points": [
-        "DT 30 IE designed for musicians",
-        "Ideal for commuting",
-        "Portable and quality sound"
+        "Unreal Engine 5 update released",
+        "Performance boost for Switch 2",
+        "Improved lighting features"
       ],
-      "impact": "This appeals to both musicians and commuters.",
-      "id": "452aa907a368723f12b2c0404a039004"
+      "impact": "This enhances game development possibilities.",
+      "id": "266b73c8c04dac2ca828a1954323c329"
+    },
+    {
+      "title": "Upcoming Xbox Layoffs Expected to Be Severe",
+      "description": "Reports indicate significant layoffs at Xbox, affecting multiple studios. Details are still emerging.",
+      "category": "Business",
+      "source": "Pure Xbox",
+      "url": "https://www.purexbox.com/news/2026/06/its-going-to-be-pretty-brutal-jason-schreier-reveals-more-on-upcoming-xbox-layoffs",
+      "image": "https://images.purexbox.com/e012ba5040bbf/large.jpg",
+      "published_at": "2026-06-17T16:10:00Z",
+      "key_points": [
+        "Severe layoffs expected at Xbox",
+        "Multiple studios affected",
+        "Details still emerging"
+      ],
+      "impact": "This could impact Xbox's development teams.",
+      "id": "81c66ba9c4ca50dff8055f9a932fad8b"
+    },
+    {
+      "title": "Google Home Speaker Finally Available for Preorder",
+      "description": "The $100 Google Home Speaker, powered by Gemini, is now available for preorder after a long wait.",
+      "category": "Hardware",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Google-Home-Speaker-Jade-copy-1152x648.jpg",
+      "published_at": "2026-06-17T15:57:14Z",
+      "key_points": [
+        "Google Home Speaker available for preorder",
+        "Powered by Gemini technology",
+        "Launch set for June 25"
+      ],
+      "impact": "This could boost Google's smart home market.",
+      "id": "e517d277b36d35212ccf401cf07c49c1"
+    },
+    {
+      "title": "Valve Steam Machine Shows Impressive Performance",
+      "description": "New benchmarks reveal Valve's Steam Machine performs comparably to a Ryzen 5 5600X, indicating strong potential if priced right.",
+      "category": "Hardware",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/valve-steam-machine-benchmarks-2x-uplift-over-steam-deck-comparable-to-ryzen-5-5600x-at-30w/",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2025/11/Steam_Machine_Closeup-HD-1920x987.jpeg",
+      "published_at": "2026-06-17T15:30:00Z",
+      "key_points": [
+        "Steam Machine benchmarks released",
+        "Performance comparable to Ryzen 5",
+        "Potential if priced competitively"
+      ],
+      "impact": "This could reshape Valve's hardware strategy.",
+      "id": "945c9e44f1712fc975176c1575533d81"
+    },
+    {
+      "title": "Destiny 2 Introduces Endless Grind for Collectors",
+      "description": "Despite its decline, Destiny 2 offers players a new reason to engage with the game through collectible grinding.",
+      "category": "Gaming",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/06/17/a-dead-destiny-2-now-has-something-players-can-grind-for-forever/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a32a51b0bf452559a0c349f/0x0.jpg?format=jpg&crop=2562,1440,x437,y0,safe&height=900&width=1600&fit=bounds",
+      "published_at": "2026-06-17T13:50:33Z",
+      "key_points": [
+        "Destiny 2 offers new grind",
+        "Focus on collectible items",
+        "Game still engaging for players"
+      ],
+      "impact": "This could retain some player interest.",
+      "id": "fb295274d07e9fe02586cc25032c1b32"
     }
   ]
 }

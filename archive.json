@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-18T22:55:23.167955+00:00",
+      "fetched_at": "2026-06-18T22:55:23.167955+00:00",
+      "label": "Jun 18, 2026 — 10:55 PM UTC",
+      "articles": [
+        {
+          "title": "Microsoft Begins Layoffs at Zenimax",
+          "description": "Redundancies have started at Zenimax, affecting studios like Bethesda and Arkane. Microsoft is restructuring its gaming division.",
+          "category": "Gaming",
+          "source": "TheSixthAxis",
+          "url": "https://www.thesixthaxis.com/2026/06/17/report-redundancies-at-microsoft-owned-zenimax-have-begun/",
+          "image": "https://www.thesixthaxis.com/wp-content/uploads/2019/10/FalloutLegacy-Hero500.jpg",
+          "published_at": "2026-06-17T20:56:02Z",
+          "key_points": [
+            "Layoffs at Zenimax confirmed",
+            "Affects major game studios",
+            "Microsoft restructuring gaming division"
+          ],
+          "impact": "This could impact future game releases.",
+          "id": "b8267a74b7014fccb6c30c20451eae0f"
+        },
+        {
+          "title": "Marvel Rivals Launches Free-to-Play Shooter",
+          "description": "Marvel Rivals invites players to ignite the battle in its new team-based shooter. The game is now available for free.",
+          "category": "Gaming",
+          "source": "Marvelrivals.com",
+          "url": "https://www.marvelrivals.com/20260617/41525_1304600.html",
+          "image": "https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg",
+          "published_at": "2026-06-17T20:47:52Z",
+          "key_points": [
+            "Free-to-play shooter launched",
+            "Team-based gameplay",
+            "No server downtime for patch"
+          ],
+          "impact": "This could attract a large player base.",
+          "id": "d34943ad7565a159026d35a51d647c76"
+        },
+        {
+          "title": "Snap's AR Glasses Launch Causes Stock Drop",
+          "description": "Snap's new AR glasses launch has negatively impacted its stock performance. The company faces ongoing financial challenges.",
+          "category": "Business",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2281915461.jpg?resize=1200,800",
+          "published_at": "2026-06-17T20:24:28Z",
+          "key_points": [
+            "AR glasses launch disappointing",
+            "Stock dropped 30% this year",
+            "Financial struggles continue"
+          ],
+          "impact": "Investors are concerned about Snap's future.",
+          "id": "358e207ac3c718c864b49194f949d6f6"
+        },
+        {
+          "title": "PS5 Ports for Call of Duty: Black Ops Confirmed",
+          "description": "Treyarch confirms PS5 ports for Call of Duty: Black Ops and Black Ops 2, set to launch in July.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/call-of-duty-black-ops-1-and-2-ps5-ports-now-official-launching-in-july",
+          "image": "https://images.pushsquare.com/8a4b3a3640b3a/large.jpg",
+          "published_at": "2026-06-17T20:00:00Z",
+          "key_points": [
+            "PS5 ports confirmed",
+            "Launching in July",
+            "Developed by Iron Galaxy"
+          ],
+          "impact": "This will boost interest in classic titles.",
+          "id": "e4ede06243b0cf32d844204970fdfa16"
+        },
+        {
+          "title": "Apple's Second-Gen iPhone Air Coming in 2027",
+          "description": "Apple is preparing a second-generation iPhone Air for spring 2027 to enhance its appeal. Prototypes are currently in development.",
+          "category": "Business",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-17/apple-prepares-second-generation-iphone-air-for-spring-2027",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4oYuYc_kzSg/v1/1200x800.jpg",
+          "published_at": "2026-06-17T19:57:38Z",
+          "key_points": [
+            "Second-gen iPhone Air planned",
+            "Launch expected in spring 2027",
+            "Prototypes are in development"
+          ],
+          "impact": "This could revitalize Apple's smartphone lineup.",
+          "id": "6cc507359a568aeaaf9b0ba1dd07e4ea"
+        },
+        {
+          "title": "Google Photos Expands AI Editing Feature",
+          "description": "Google Photos is rolling out its AI-powered 'Edit with Ask Photos' feature to five new countries, enhancing user experience.",
+          "category": "Software",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/17/google-photos-edit-ask-photos-expansion/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/edit-with-ask-photos.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-17T19:40:00Z",
+          "key_points": [
+            "AI editing feature expanded",
+            "Now available in five countries",
+            "Enhances user photo editing"
+          ],
+          "impact": "This improves accessibility for global users.",
+          "id": "fddd0d4564258fbcee6dee9f6c9fe765"
+        },
+        {
+          "title": "Mega Staraptor Dominates Pokémon Champions",
+          "description": "The latest update in Pokémon Champions makes Mega Staraptor a formidable opponent. Players are excited about its new abilities.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/pokemon-champions-mega-staraptor-contrary-close-combat-2000707669",
+          "image": "https://kotaku.com/app/uploads/2026/06/homerchokebart-1200x675.jpg",
+          "published_at": "2026-06-17T19:32:20Z",
+          "key_points": [
+            "Mega Staraptor update released",
+            "New abilities enhance gameplay",
+            "Players excited about changes"
+          ],
+          "impact": "This could shift competitive strategies.",
+          "id": "32505ef8adb811f01408492f9105330f"
+        },
+        {
+          "title": "Motorola Razr 70 Ultra Review Highlights",
+          "description": "The Motorola Razr 70 Ultra features a familiar design but increases battery capacity to 5,000 mAh. It's now under review.",
+          "category": "Hardware",
+          "source": "GSMArena.com",
+          "url": "https://www.gsmarena.com/motorola_razr_70_ultra_razr_ultra_2026_in_for_review-news-73282.php",
+          "image": "https://fdn.gsmarena.com/imgroot/news/26/06/motorola-razr-70-ultra-ifr/-952x498w6/gsmarena_000.jpg",
+          "published_at": "2026-06-17T18:31:02Z",
+          "key_points": [
+            "Battery capacity increased",
+            "Design similar to predecessor",
+            "Undergoing review process"
+          ],
+          "impact": "This may attract loyal Razr fans.",
+          "id": "d5e5153c465d22fe2c85f7b5bf301c16"
+        },
+        {
+          "title": "Yakuza Creator's Game Loses Director Amid Funding Issues",
+          "description": "Daisuke Sato, formerly of Nagoshi Studio, reports losing the director of his new game due to funding cuts from NetEase.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/yakuza-creators-new-game-lost-director-2000707635",
+          "image": "https://kotaku.com/app/uploads/2026/03/gangofdragon.jpg",
+          "published_at": "2026-06-17T18:28:19Z",
+          "key_points": [
+            "Director lost amid funding cuts",
+            "Nagoshi Studio facing challenges",
+            "Game development uncertain"
+          ],
+          "impact": "This raises concerns about project viability.",
+          "id": "bc993cbafb1d3f995cc638d817779f9a"
+        },
+        {
+          "title": "Xbox's Strategy Criticized by Former Sony Boss",
+          "description": "Shawn Layden critiques Xbox's recent decisions, suggesting a fundamental misunderstanding of the gaming industry.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/former-sony-gaming-boss-shawn-layden-xbox-basic-misunderstanding-industry-2000707632",
+          "image": "https://kotaku.com/app/uploads/2019/09/wawgyqt4bdzu3vfidw4i.jpg",
+          "published_at": "2026-06-17T18:08:38Z",
+          "key_points": [
+            "Layden critiques Xbox strategy",
+            "Misunderstanding of gaming industry",
+            "Concerns for Xbox's future"
+          ],
+          "impact": "This could affect Xbox's market position.",
+          "id": "e62270aad573b4f8201632c4316557ec"
+        },
+        {
+          "title": "Unreal Engine 5 Update Boosts Nintendo Switch 2",
+          "description": "Epic Games announces a major Unreal Engine 5 update, enhancing performance on Nintendo Switch 2 significantly.",
+          "category": "Gaming",
+          "source": "Video Games Chronicle",
+          "url": "https://www.videogameschronicle.com/news/epic-introduces-major-unreal-engine-5-update-that-runs-twice-as-fast-on-nintendo-switch-2/",
+          "image": "https://www.videogameschronicle.com/files/2026/06/Screenshot-2026-06-17-172233.jpg",
+          "published_at": "2026-06-17T16:29:19Z",
+          "key_points": [
+            "Unreal Engine 5 update released",
+            "Performance boost for Switch 2",
+            "Improved lighting features"
+          ],
+          "impact": "This enhances game development possibilities.",
+          "id": "266b73c8c04dac2ca828a1954323c329"
+        },
+        {
+          "title": "Upcoming Xbox Layoffs Expected to Be Severe",
+          "description": "Reports indicate significant layoffs at Xbox, affecting multiple studios. Details are still emerging.",
+          "category": "Business",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/06/its-going-to-be-pretty-brutal-jason-schreier-reveals-more-on-upcoming-xbox-layoffs",
+          "image": "https://images.purexbox.com/e012ba5040bbf/large.jpg",
+          "published_at": "2026-06-17T16:10:00Z",
+          "key_points": [
+            "Severe layoffs expected at Xbox",
+            "Multiple studios affected",
+            "Details still emerging"
+          ],
+          "impact": "This could impact Xbox's development teams.",
+          "id": "81c66ba9c4ca50dff8055f9a932fad8b"
+        },
+        {
+          "title": "Google Home Speaker Finally Available for Preorder",
+          "description": "The $100 Google Home Speaker, powered by Gemini, is now available for preorder after a long wait.",
+          "category": "Hardware",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Google-Home-Speaker-Jade-copy-1152x648.jpg",
+          "published_at": "2026-06-17T15:57:14Z",
+          "key_points": [
+            "Google Home Speaker available for preorder",
+            "Powered by Gemini technology",
+            "Launch set for June 25"
+          ],
+          "impact": "This could boost Google's smart home market.",
+          "id": "e517d277b36d35212ccf401cf07c49c1"
+        },
+        {
+          "title": "Valve Steam Machine Shows Impressive Performance",
+          "description": "New benchmarks reveal Valve's Steam Machine performs comparably to a Ryzen 5 5600X, indicating strong potential if priced right.",
+          "category": "Hardware",
+          "source": "Wccftech",
+          "url": "https://wccftech.com/valve-steam-machine-benchmarks-2x-uplift-over-steam-deck-comparable-to-ryzen-5-5600x-at-30w/",
+          "image": "https://cdn.wccftech.com/wp-content/uploads/2025/11/Steam_Machine_Closeup-HD-1920x987.jpeg",
+          "published_at": "2026-06-17T15:30:00Z",
+          "key_points": [
+            "Steam Machine benchmarks released",
+            "Performance comparable to Ryzen 5",
+            "Potential if priced competitively"
+          ],
+          "impact": "This could reshape Valve's hardware strategy.",
+          "id": "945c9e44f1712fc975176c1575533d81"
+        },
+        {
+          "title": "Destiny 2 Introduces Endless Grind for Collectors",
+          "description": "Despite its decline, Destiny 2 offers players a new reason to engage with the game through collectible grinding.",
+          "category": "Gaming",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/06/17/a-dead-destiny-2-now-has-something-players-can-grind-for-forever/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a32a51b0bf452559a0c349f/0x0.jpg?format=jpg&crop=2562,1440,x437,y0,safe&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-17T13:50:33Z",
+          "key_points": [
+            "Destiny 2 offers new grind",
+            "Focus on collectible items",
+            "Game still engaging for players"
+          ],
+          "impact": "This could retain some player interest.",
+          "id": "fb295274d07e9fe02586cc25032c1b32"
+        }
+      ]
+    },
+    {
       "id": "2026-06-18T20:24:31.381270+00:00",
       "fetched_at": "2026-06-18T20:24:31.381270+00:00",
       "label": "Jun 18, 2026 — 08:24 PM UTC",
@@ -6712,253 +6959,6 @@
           ],
           "impact": "This vulnerability poses significant security risks to users.",
           "id": "abd2956b779f25d74b096591a18cfb84"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-12T17:38:26.713580+00:00",
-      "fetched_at": "2026-06-12T17:38:26.713580+00:00",
-      "label": "Jun 12, 2026 — 05:39 PM UTC",
-      "articles": [
-        {
-          "title": "Stranger Than Heaven Devs Stand by Tupac Addition",
-          "description": "Developers believe adding Tupac enhances gameplay value. They defend the decision amid mixed reactions.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/stranger-than-heaven-devs-say-adding-tupac-to-the-game-was-a-good-idea-2000705565",
-          "image": "https://kotaku.com/app/uploads/2026/06/image-3-1-1200x675.jpg",
-          "published_at": "2026-06-11T15:35:14Z",
-          "key_points": [
-            "Tupac's character added",
-            "Developers defend decision",
-            "Enhances gameplay experience"
-          ],
-          "impact": "This decision could redefine character integration in games.",
-          "id": "ae7847e65f8e464378e1335717afa3e7"
-        },
-        {
-          "title": "God of War Laufey Dominates Summer Game Fest",
-          "description": "God of War Laufey topped engagement metrics at Summer Game Fest, showcasing its popularity among fans.",
-          "category": "Gaming",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/06/ps5s-god-of-war-laufey-dominated-summer-game-fest",
-          "image": "https://images.pushsquare.com/1435863d1a4de/large.jpg",
-          "published_at": "2026-06-11T14:45:00Z",
-          "key_points": [
-            "Topped engagement index",
-            "Strong fan interest",
-            "Highlights franchise popularity"
-          ],
-          "impact": "This success reinforces God of War's market dominance.",
-          "id": "a7d49c2cdc4408904b7b222d9d5173cb"
-        },
-        {
-          "title": "Spyro's Comeback Fueled by Independence from Microsoft",
-          "description": "Toys for Bob's independence allows a return to beloved games, marking a significant shift post-Microsoft acquisition.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/spyros-big-comeback-wouldnt-be-possible-without-first-escaping-the-call-of-duty-mines-2000705537",
-          "image": "https://kotaku.com/app/uploads/2024/08/0e29178d8829a460762192712c056588-1200x675.jpg",
-          "published_at": "2026-06-11T13:53:19Z",
-          "key_points": [
-            "Independence from Microsoft",
-            "Focus on classic games",
-            "Revival of Spyro franchise"
-          ],
-          "impact": "This independence could revitalize nostalgic gaming experiences.",
-          "id": "c333f6a131e4fe7321fb04532e2d3775"
-        },
-        {
-          "title": "Kingdom Hearts 4 Release Date Hopes Rise",
-          "description": "Australian retailers hint at a potential release date for Kingdom Hearts 4, sparking excitement among fans.",
-          "category": "Gaming",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/06/kingdom-hearts-4-ps5-release-date-hopium-hits-new-high",
-          "image": "https://images.pushsquare.com/671bab0253cc4/large.jpg",
-          "published_at": "2026-06-11T13:45:00Z",
-          "key_points": [
-            "Retailers hint at release",
-            "Fans express excitement",
-            "Anticipation builds for sequel"
-          ],
-          "impact": "This speculation could boost pre-release engagement.",
-          "id": "96dd20630f0a259010ed4229a3a4605b"
-        },
-        {
-          "title": "Apple Maps to Introduce 10 New Features in iOS 27",
-          "description": "iOS 27 will enhance Apple Maps with new features, including an AI-driven Flyover experience for improved realism.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/11/apple-maps-to-get-these-10-new-features-in-ios-27/",
-          "image": "https://images.macrumors.com/t/dWEIrdLAxdd5Tt6TUy4QjkEKWHg=/1600x/article-new/2026/06/liquid-glass-app-icon.jpg",
-          "published_at": "2026-06-11T12:45:07Z",
-          "key_points": [
-            "New AI-driven Flyover",
-            "Enhanced realism features",
-            "Improved user experience"
-          ],
-          "impact": "These updates aim to enhance navigation efficiency.",
-          "id": "114658cb1b32560e129110bd8469534d"
-        },
-        {
-          "title": "Bypass Siri AI Waitlist on macOS 27 Beta",
-          "description": "A Terminal command allows immediate access to Siri AI for macOS 27 beta users waiting on the waitlist.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/how-to/bypass-siri-ai-waitlist-macos-27-beta/",
-          "image": "https://images.macrumors.com/t/D2t-vmVOeRO051Pfz8cW0TCKfE8=/1600x/article-new/2026/06/Siri-App.jpg",
-          "published_at": "2026-06-11T09:52:12Z",
-          "key_points": [
-            "Terminal command workaround",
-            "Immediate Siri access",
-            "For macOS 27 beta users"
-          ],
-          "impact": "This hack could enhance user experience significantly.",
-          "id": "b6947a991e57e3973dbf3dfcedd7095f"
-        },
-        {
-          "title": "Hunter x Hunter: Zeno DLC Launches June 18",
-          "description": "Zeno, a new character for Hunter x Hunter: Nen x Impact, will be available on June 18, enhancing gameplay options.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/hunter-x-hunter-nen-x-impact-dlc-character-zeno-launches-june-18",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/HxH-NxI-DLC_06-10-26.jpg",
-          "published_at": "2026-06-11T02:13:17Z",
-          "key_points": [
-            "Zeno character launches soon",
-            "Enhances gameplay variety",
-            "Long-range combat specialist"
-          ],
-          "impact": "This addition could attract more players.",
-          "id": "90d4f33151d91bde6683f4e237035c65"
-        },
-        {
-          "title": "Jon Prosser Seeks Response Opportunity in Apple Lawsuit",
-          "description": "Jon Prosser aims to respond to Apple's lawsuit regarding a Liquid Glass leak, seeking to overturn a court default.",
-          "category": "Business",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/10/jon-prosser-seeks-another-shot-to-respond-to-apples-liquid-glass-leak-lawsuit/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/joe-prosser.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-10T21:55:00Z",
-          "key_points": [
-            "Prosser seeks court response",
-            "Liquid Glass leak lawsuit",
-            "Default ruling challenged"
-          ],
-          "impact": "This could change the lawsuit's trajectory.",
-          "id": "fb2336dc65ef4dfc1793411fc3fb4a3a"
-        },
-        {
-          "title": "Windows June Update Boosts PC Performance",
-          "description": "The June update enhances Windows 11's performance, making sluggish PCs feel faster with new Low Latency Profile.",
-          "category": "Software",
-          "source": "PCWorld",
-          "url": "https://www.pcworld.com/article/3162218/windows-june-update-finally-makes-your-sluggish-pc-feel-snappier.html",
-          "image": "https://www.pcworld.com/wp-content/uploads/2026/06/Windows11Logo-1.jpg?quality=50&strip=all&w=1024",
-          "published_at": "2026-06-10T16:17:00Z",
-          "key_points": [
-            "June update improves performance",
-            "Low Latency Profile introduced",
-            "Enhances user experience"
-          ],
-          "impact": "This update could significantly improve user satisfaction.",
-          "id": "e46798094824552d92db52839eab9e7f"
-        },
-        {
-          "title": "Xbox CEO Calls for Cheaper Console Alternatives",
-          "description": "Xbox CEO acknowledges the need for affordable options in the console market to ensure its survival.",
-          "category": "Gaming",
-          "source": "Gizmodo.com",
-          "url": "https://gizmodo.com/xbox-ceo-admits-the-console-arms-race-has-gone-too-far-2000770035",
-          "image": "https://gizmodo.com/app/uploads/2026/03/Xbox-Series-X-Console-1-1200x675.jpg",
-          "published_at": "2026-06-10T15:35:48Z",
-          "key_points": [
-            "Need for cheaper consoles",
-            "Market sustainability concerns",
-            "CEO addresses industry issues"
-          ],
-          "impact": "This could reshape future console strategies.",
-          "id": "5770638e9c8e561a3e4ca0e4029980fd"
-        },
-        {
-          "title": "AirPods Pro 3 Hit Record Low Price",
-          "description": "AirPods Pro 3 are now available at their lowest price ever, alongside significant discounts on other Apple products.",
-          "category": "Business",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/10/deals-airpods-pro-240w-beats-cable-macbook-pro/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/Apple-deals-AirPods-Max-2-MacBook-Apple-Watch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-10T15:29:00Z",
-          "key_points": [
-            "AirPods Pro 3 discounted",
-            "MacBook Pro savings",
-            "Best prices available now"
-          ],
-          "impact": "These deals could boost sales significantly.",
-          "id": "18045f1829f55a1efb46b9a71629fce0"
-        },
-        {
-          "title": "Tifa Joins Street Fighter 6 as Guest Character",
-          "description": "Final Fantasy VII's Tifa is set to appear in Street Fighter 6, exciting fans with her inclusion.",
-          "category": "Gaming",
-          "source": "Game Informer",
-          "url": "https://gameinformer.com/sgf-2026/2026/06/10/how-final-fantasy-viis-tifa-arrived-in-street-fighter-6",
-          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/10/db00116b/tifa.jpg.webp",
-          "published_at": "2026-06-10T15:07:31Z",
-          "key_points": [
-            "Tifa joins Street Fighter 6",
-            "Exciting crossover announcement",
-            "Fans eager for gameplay"
-          ],
-          "impact": "This crossover could attract diverse player bases.",
-          "id": "80377fcdbd2cd5d1b6afdc3583da18a4"
-        },
-        {
-          "title": "Gears of War: E-Day Not in Development for PS5",
-          "description": "Developers clarify that Gears of War: E-Day was never intended for PS5, despite speculation following Summer Game Fest.",
-          "category": "Gaming",
-          "source": "Eurogamer.net",
-          "url": "https://www.eurogamer.net/gears-of-war-e-day-ps5-snub-smaller-audience-interview",
-          "image": "https://assetsio.gnwcdn.com/gears-of-war-e-day-june-2026-screen-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-10T15:00:19Z",
-          "key_points": [
-            "No PS5 version planned",
-            "Developers clarify rumors",
-            "Focus on Xbox exclusivity"
-          ],
-          "impact": "This clarification may ease fan concerns.",
-          "id": "39078e7fb76dd11629242ead7b425624"
-        },
-        {
-          "title": "Apple Removes Walkie-Talkie from Apple Watch",
-          "description": "The Walkie-Talkie app has been removed from Apple Watch in the watchOS 27 beta, surprising users.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/10/watchos-27-removes-walkie-talkie/",
-          "image": "https://images.macrumors.com/t/_lUAH9Pz7-T3BQkBz7VPGWvCjHI=/1600x/article-new/2026/06/walkie-talkie.jpg",
-          "published_at": "2026-06-10T11:31:35Z",
-          "key_points": [
-            "Walkie-Talkie app removed",
-            "Surprising beta change",
-            "Users express disappointment"
-          ],
-          "impact": "This removal may frustrate existing users.",
-          "id": "19c42ca078eadb6c1c3d5350570c548d"
-        },
-        {
-          "title": "Apple's New AI Tools Impress at WWDC26",
-          "description": "Apple showcased exciting new AI features at WWDC26, with a focus on enhancing Siri's capabilities.",
-          "category": "Software",
-          "source": "CNET",
-          "url": "https://www.cnet.com/tech/mobile/apple-struck-the-right-notes-with-its-new-ai-tools-and-im-excited-to-try-these-4-features/",
-          "image": "https://www.cnet.com/a/img/resize/7bc8c8bcb66edc1209a2898fb7b5f42238341ead/hub/2025/10/21/f79330af-c5f8-4b1e-858f-bc8bab8d98af/img-20250926-191337.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "published_at": "2026-06-10T10:54:00Z",
-          "key_points": [
-            "New AI features unveiled",
-            "Focus on Siri enhancements",
-            "Exciting capabilities demonstrated"
-          ],
-          "impact": "These tools could redefine user interaction with Apple products.",
-          "id": "a5516c0b6902ec894519e0a1b2383969"
         }
       ]
     }
