@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-18T03:51:13.536955+00:00",
+      "fetched_at": "2026-06-18T03:51:13.536955+00:00",
+      "label": "Jun 18, 2026 — 03:51 AM UTC",
+      "articles": [
+        {
+          "title": "Final Fantasy Tactics Update 1.5.0 Launches Today",
+          "description": "The 1.5.0 update for Final Fantasy Tactics: The Ivalice Chronicles is now available, introducing new features and improvements. Check out the full patch notes for details.",
+          "category": "Gaming",
+          "source": "Nintendoeverything.com",
+          "url": "https://nintendoeverything.com/final-fantasy-tactics-the-ivalice-chronicles-1-5-0-update-out-today-new-game-and-more/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Final-Fantasy-Tactics-The-Ivalice-Chronicles-1.5.0-update.jpg",
+          "published_at": "2026-06-17T02:13:59Z",
+          "key_points": [
+            "New Game+ feature added",
+            "Full patch notes available",
+            "Update live on Switch"
+          ],
+          "impact": "This update enhances gameplay experience significantly.",
+          "id": "fcc461fc6ffe7291d47e4aad06ddcf7c"
+        },
+        {
+          "title": "Switch Online Offers Free Month for 12-Month Memberships",
+          "description": "Nintendo is providing a limited-time offer of a free bonus month for new 12-month memberships to Switch Online + Expansion Pack in the US. Don't miss out on this deal!",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/psa-switch-online-plus-expansion-pack-limited-time-offer-adds-free-bonus-month-for-12-month-memberships-us",
+          "image": "https://images.nintendolife.com/633f0e6708d49/large.jpg",
+          "published_at": "2026-06-16T23:55:00Z",
+          "key_points": [
+            "Free month promotion",
+            "Limited-time offer",
+            "Available for US users"
+          ],
+          "impact": "This offer boosts membership appeal significantly.",
+          "id": "dd33206aa6fdb8f8d1202dd0a79765ff"
+        },
+        {
+          "title": "SanDisk Launches 8TB PS5 SSD Priced at $3800",
+          "description": "SanDisk has unveiled its new 8TB Optimus GX PRO SSD for PS5, priced at a staggering $3800. This high-capacity drive aims to enhance gaming storage solutions.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/sandisk-ps5-ssd-8tb-heatsink-optimus-gx-pro-2000707175",
+          "image": "https://kotaku.com/app/uploads/2026/06/SANDISK-Optimus-GX-PRO-850X-NVMe-SSD-official-image-from-trailer-1200x675.jpg",
+          "published_at": "2026-06-16T20:52:13Z",
+          "key_points": [
+            "8TB storage capacity",
+            "High price point",
+            "Optimized for PS5"
+          ],
+          "impact": "This SSD sets a new storage benchmark.",
+          "id": "48ac6d1640ca8054aa6f3f1ec1d22dbe"
+        },
+        {
+          "title": "Android 17 Update Rolling Out to Pixel Devices",
+          "description": "The Android 17 update is now being rolled out to Pixel phones and watches, bringing various enhancements. Users can expect improvements but no major changes.",
+          "category": "Software",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/06/android-17-starts-hitting-pixel-phones-and-watches-today/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-1152x648.jpg",
+          "published_at": "2026-06-16T18:00:08Z",
+          "key_points": [
+            "Android 17 update released",
+            "Available for Pixel devices",
+            "Minor enhancements included"
+          ],
+          "impact": "This update improves user experience subtly.",
+          "id": "8ab8523c271d0428355954b0e092c5b0"
+        },
+        {
+          "title": "Sony Faces Security Issues with PS5 Game Profiles",
+          "description": "PS5 users report unauthorized games appearing on their profiles, prompting Sony to address security concerns. The company is working on a fix.",
+          "category": "Security",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/ps5s-recently-played-section-wiped-as-sony-contends-with-another-security-concern",
+          "image": "https://images.pushsquare.com/5551de42b2f7f/large.jpg",
+          "published_at": "2026-06-16T15:00:00Z",
+          "key_points": [
+            "Unauthorized games appearing",
+            "Sony addressing security issues",
+            "User profiles affected"
+          ],
+          "impact": "This raises significant concerns about user security.",
+          "id": "67ec58d2c174c0b0cfa4d363bc27be48"
+        },
+        {
+          "title": "Steam Machine CPU Benchmark Results Underwhelm",
+          "description": "Recent Geekbench 6 CPU benchmarks for the Steam Machine show mediocre performance compared to current handhelds. Concerns about its competitiveness arise.",
+          "category": "Gaming",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/gaming/pc-gaming/steam-machine-geekbench-cpu-gaming-handheld-comparison",
+          "image": "https://cdn.mos.cms.futurecdn.net/6i5kqYW5gcaazt3LSNEVY4-2560-80.jpg",
+          "published_at": "2026-06-16T14:48:58Z",
+          "key_points": [
+            "Mediocre benchmark results",
+            "Comparison with handhelds",
+            "Concerns about competitiveness"
+          ],
+          "impact": "This may affect Steam Machine's market viability.",
+          "id": "778118419c9cce430d9c5d5ca1c74074"
+        },
+        {
+          "title": "Xbox May Shut Down South of Midnight & Hellblade Studios",
+          "description": "Reports suggest Xbox is considering shutting down Compulsion Games and Ninja Theory. These studios are negotiating to remain operational amid challenges.",
+          "category": "Gaming",
+          "source": "80.lv",
+          "url": "https://80.lv/articles/xbox-is-reportedly-planning-to-shut-down-south-of-midnight-hellblade-studios",
+          "image": "https://cdn.80.lv/api/upload/meta/48813/images/6a31416639c2e/contain_1200x630.jpg",
+          "published_at": "2026-06-16T12:32:24Z",
+          "key_points": [
+            "Possible studio shutdowns",
+            "Negotiations ongoing",
+            "Impact on game development"
+          ],
+          "impact": "This could disrupt future game releases.",
+          "id": "c1a6833f0901e22d846bb2e8215c4e45"
+        },
+        {
+          "title": "Samsung S95H OLED TV Review: Good, Not Great",
+          "description": "The Samsung S95H OLED TV excels in gaming but falls short in color performance. It offers solid features but lacks the expected 'Ultra' quality.",
+          "category": "Hardware",
+          "source": "CNET",
+          "url": "https://www.cnet.com/tech/home-entertainment/samsung-s95h-oled-tv-review/",
+          "image": "https://www.cnet.com/a/img/resize/1a5c1554d11684e1482eee6bf402a3bd7c8f1e5a/hub/2026/04/01/d6a97a0d-f620-428a-9a0e-32380a47901d/samsung-s95h-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "published_at": "2026-06-16T12:07:00Z",
+          "key_points": [
+            "Great for gaming",
+            "Color performance lacking",
+            "Not the 'Ultra' expected"
+          ],
+          "impact": "This TV may disappoint high-end users.",
+          "id": "ff01d71fea1180757a06cad3a112312f"
+        },
+        {
+          "title": "Gmail's AI Summaries Now Available Globally",
+          "description": "Gmail's AI email summaries are now accessible to all users worldwide, enhancing email management without requiring a paid plan. Users can opt-out if desired.",
+          "category": "Software",
+          "source": "Android Authority",
+          "url": "https://www.androidauthority.com/google-gmail-ai-summaries-global-turn-off-3677798/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2021/12/Gmail-on-smartphone-and-tablet-stock-photo-7.jpg",
+          "published_at": "2026-06-16T10:43:23Z",
+          "key_points": [
+            "AI summaries launched globally",
+            "No paid plan needed",
+            "Opt-out option available"
+          ],
+          "impact": "This feature improves email efficiency for users.",
+          "id": "fdb7772576aba1e3bb5ca78674472e76"
+        },
+        {
+          "title": "Commodore Launches Digital Detox Phone",
+          "description": "The Commodore Callback 8020 is a retro-style flip phone designed for digital detox, featuring T9 texting and limited app access. It blocks social media apps.",
+          "category": "Software",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/commodore-callback-8020-is-a-digital-detox-phone-that-isnt-dumb/",
+          "image": "https://media.wired.com/photos/6a2ff4cfd01a0a55006b45fd/191:100/w_1280,c_limit/Commodore%20Callback%208020%20-%20ProtoPET%20005.jpg",
+          "published_at": "2026-06-16T09:00:00Z",
+          "key_points": [
+            "Retro design",
+            "Blocks social media",
+            "Supports essential apps"
+          ],
+          "impact": "This phone caters to digital detox trends.",
+          "id": "bac82cc4389afc99bd2efa7bf25b2bb1"
+        },
+        {
+          "title": "Assassin's Creed Shadows Final Update Released",
+          "description": "Ubisoft announces the final update for Assassin's Creed Shadows, including improvements for Switch 2. This marks the end of support for the game.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/assassins-creed-shadows-update-1-1-11-out-this-week-includes-switch-2-handheld-improvements",
+          "image": "https://images.nintendolife.com/1ea3a21910cd4/large.jpg",
+          "published_at": "2026-06-16T05:43:28Z",
+          "key_points": [
+            "Final content update",
+            "Switch 2 improvements",
+            "End of support announced"
+          ],
+          "impact": "This concludes the game's development cycle.",
+          "id": "b6b7090b751429623a6918c06a1d289a"
+        },
+        {
+          "title": "Apple iPhone 18 Pro Likely Launching September 2026",
+          "description": "Apple's schedule hints at a September 2026 launch for the iPhone 18 Pro and its variants. Anticipation builds for new features and designs.",
+          "category": "Business",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/davidphelan/2026/06/15/apple-iphone-18-pro-release-date-september-2026/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/695d93b89d51c957214caa7d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-15T21:00:00Z",
+          "key_points": [
+            "September launch expected",
+            "New features anticipated",
+            "iPhone 18 Pro details emerging"
+          ],
+          "impact": "This could reshape Apple's product lineup.",
+          "id": "e4eb7e27a229bc5ee26f0cc84fd51239"
+        },
+        {
+          "title": "Galaxy Book6 Edge Launches with AI Performance",
+          "description": "Samsung's Galaxy Book6 Edge is now available, featuring next-gen AI performance and premium portability for productivity. It's designed for modern users.",
+          "category": "Hardware",
+          "source": "Samsung",
+          "url": "https://news.samsung.com/us/galaxy-book6-edge-available-next-generation-ai-performance-premium-portability",
+          "image": "https://img.us.news.samsung.com/us/wp-content/uploads/2026/06/15093115/Book6-Edge_16_US_004_L-Side_RGB-1200x630.jpg",
+          "published_at": "2026-06-15T16:00:49Z",
+          "key_points": [
+            "AI-enhanced performance",
+            "Portable design",
+            "Available now"
+          ],
+          "impact": "This device targets productivity-focused consumers.",
+          "id": "aa7155263cbb7894e6cfeffaeadcb7ea"
+        },
+        {
+          "title": "Benefits of Sunlight Explored in New Book",
+          "description": "The book 'In Defense of Sunlight' discusses the health benefits of sunlight exposure and how to safely enjoy it. It challenges common misconceptions about sun exposure.",
+          "category": "Science",
+          "source": "Men's Health",
+          "url": "https://www.menshealth.com/health/a71563030/health-benefits-sunlight-in-defense-of-sunlight-book/",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/036afc9e-c9b9-4418-9197-98d8a55265ec.jpg?crop=1xw:0.796xh;0xw,0.129xh&resize=1200:*",
+          "published_at": "2026-06-15T14:00:00Z",
+          "key_points": [
+            "Explores sunlight health benefits",
+            "Challenges misconceptions",
+            "Promotes safe exposure"
+          ],
+          "impact": "This book encourages a balanced view on sunlight.",
+          "id": "6e7d26f35c751011225c88c774595173"
+        },
+        {
+          "title": "Google Search Introduces Paid Information Agents",
+          "description": "Google is launching Information agents in AI Mode for a fee, enhancing search capabilities for users willing to pay. This feature was announced at Google I/O.",
+          "category": "Software",
+          "source": "Search Engine Roundtable",
+          "url": "https://www.seroundtable.com/google-search-information-agents-41502.html",
+          "image": "https://images.seroundtable.com/google-robot-agent-computer-tasks-EeI3Vi4h.jpg",
+          "published_at": "2026-06-15T11:51:00Z",
+          "key_points": [
+            "Paid search feature introduced",
+            "Enhances user experience",
+            "Announced at Google I/O"
+          ],
+          "impact": "This could change how users interact with search.",
+          "id": "8107dd38279b6edb2ae9e4579d54d12f"
+        }
+      ]
+    },
+    {
       "id": "2026-06-17T22:44:23.713653+00:00",
       "fetched_at": "2026-06-17T22:44:23.713653+00:00",
       "label": "Jun 17, 2026 — 10:45 PM UTC",
@@ -6632,109 +6879,6 @@
           ],
           "impact": "Instagram enhances user profile experience.",
           "id": "25b6d80bad09e2df095cfa6eacdba85d"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-11T22:49:33.888177+00:00",
-      "fetched_at": "2026-06-11T22:49:33.888177+00:00",
-      "label": "Jun 11, 2026 — 10:49 PM UTC",
-      "articles": [
-        {
-          "title": "Google TV Streamer Update Enhances Smart Home Features",
-          "description": "The latest Google TV Streamer update improves smart home integration with Thread 1.4 support. Users can expect enhanced connectivity and functionality.",
-          "category": "Software",
-          "source": "9to5google.com",
-          "url": "http://9to5google.com/2026/06/10/google-tv-streamers-new-update-turns-it-into-a-better-smart-home-device/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/Google-TV-Streamer-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-10T10:30:00Z",
-          "key_points": [
-            "Improved smart home integration",
-            "Supports Thread 1.4",
-            "Enhanced connectivity features"
-          ],
-          "impact": "This update positions Google TV as a stronger smart home hub.",
-          "id": "9f783f9f8460da496b4cf8bcc5e66d43"
-        },
-        {
-          "title": "Microsoft Fixes Record 206 Vulnerabilities",
-          "description": "Microsoft patched 206 vulnerabilities, including three critical zero-days. This marks a significant security update for its software ecosystem.",
-          "category": "Security",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDOIX9PorKjXDciuKmL8xLL9vrOVtBou5tBhn4T-u7cgllDKei3HRDr8vsXGM-MllL1eb6E_pdEID5s_sRUxbjHiA6AhlLUQLFi6vDXM5v0Mq0hM43eWSh8Pc_qdYtcjqushm7Wl-S64w6qEGg5P6ETD_o9l5VGGoflzGo3VpgFqmL9NhIe2RUuilVAB0c/s1600/windows-patch.jpg",
-          "published_at": "2026-06-10T09:38:00Z",
-          "key_points": [
-            "206 vulnerabilities patched",
-            "Includes three zero-days",
-            "39 critical flaws addressed"
-          ],
-          "impact": "This update significantly enhances Microsoft software security.",
-          "id": "dbb7d43ebd32d9b6d51c0558b77e438d"
-        },
-        {
-          "title": "Switch 2 Zelda Remake Sparks Mixed Reactions",
-          "description": "The Switch 2 remake of Zelda: Ocarina of Time has left some fans disappointed. Expectations clash with the new direction taken by developers.",
-          "category": "Gaming",
-          "source": "Creative Bloq",
-          "url": "https://www.creativebloq.com/3d/video-game-design/switch-2-zelda-ocarina-of-time-remake-is-making-some-fans-regret-what-they-wished-for",
-          "image": "https://cdn.mos.cms.futurecdn.net/WKGb6pgjAs9Ryw7WJ9nReg-1100-80.jpg",
-          "published_at": "2026-06-10T07:00:00Z",
-          "key_points": [
-            "Mixed fan reactions",
-            "Disappointment over changes",
-            "Expectations vs. reality clash"
-          ],
-          "impact": "Fan expectations may lead to backlash against the remake.",
-          "id": "35b6542d40ebe1d8588429cf37a59fb4"
-        },
-        {
-          "title": "Apple and EU Clash Over Siri AI Compliance",
-          "description": "Apple and EU regulators are at odds over compliance with DMA requirements. Apple claims the EU is uncooperative in negotiations.",
-          "category": "Geopolitics",
-          "source": "AppleInsider",
-          "url": "https://appleinsider.com/articles/26/06/09/siri-ai-is-trapped-in-apples-escalating-cold-war-with-the-eu",
-          "image": "https://photos5.appleinsider.com/gallery/67906-143137-SiriAI-xl.jpg",
-          "published_at": "2026-06-09T20:11:00Z",
-          "key_points": [
-            "Apple claims EU uncooperative",
-            "Regulators demand compliance",
-            "Ongoing regulatory tensions"
-          ],
-          "impact": "This conflict could delay Siri AI advancements.",
-          "id": "75550d12f5aadee7aaf80280e962096a"
-        },
-        {
-          "title": "Apple's Foldable iPhone Release Imminent",
-          "description": "Hidden code in iOS 27 suggests a foldable iPhone may launch soon. Anticipation builds for Apple's innovative device.",
-          "category": "Hardware",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/09/apples-foldable-iphone-could-be-just-around-the-corner/",
-          "image": "https://techcrunch.com/wp-content/uploads/2022/08/CMC_2923.jpg?resize=1200,893",
-          "published_at": "2026-06-09T16:22:56Z",
-          "key_points": [
-            "Foldable iPhone may launch soon",
-            "iOS 27 reveals hidden code",
-            "Anticipation for innovation grows"
-          ],
-          "impact": "A foldable iPhone could redefine mobile design.",
-          "id": "13f5001827d5a4b82de8bb00497bd735"
-        },
-        {
-          "title": "New Features in Apple Maps for iOS 27",
-          "description": "iOS 27 introduces exciting new features for Apple Maps. Users can expect enhanced navigation and functionality.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/09/heres-everything-new-for-apple-maps-in-ios-27/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-maps-icon-ios-27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-09T15:59:00Z",
-          "key_points": [
-            "New features for Apple Maps",
-            "Enhanced navigation tools",
-            "Improved user experience"
-          ],
-          "impact": "These updates enhance Apple Maps' competitiveness.",
-          "id": "6c2ef6dc200caaabf1a625558a2bae5e"
         }
       ]
     }

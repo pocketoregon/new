@@ -1,247 +1,247 @@
 {
-  "date": "2026-06-17",
-  "generated_at": "2026-06-17T22:44:23.713653+00:00",
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T03:51:13.536955+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "The James Bond of First Light Is Hot In A Grown Up Way",
-      "description": "The latest character in First Light is captivatingly attractive, drawing significant attention. His appeal is undeniably distracting for players.",
+      "title": "Final Fantasy Tactics Update 1.5.0 Launches Today",
+      "description": "The 1.5.0 update for Final Fantasy Tactics: The Ivalice Chronicles is now available, introducing new features and improvements. Check out the full patch notes for details.",
       "category": "Gaming",
-      "source": "Aftermath.site",
-      "url": "https://aftermath.site/the-james-bond-of-first-light-is-hot-in-a-grown-up-way/",
-      "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/06/bond-2-1.png",
-      "published_at": "2026-06-16T18:56:48Z",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/final-fantasy-tactics-the-ivalice-chronicles-1-5-0-update-out-today-new-game-and-more/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Final-Fantasy-Tactics-The-Ivalice-Chronicles-1.5.0-update.jpg",
+      "published_at": "2026-06-17T02:13:59Z",
       "key_points": [
-        "Character is very attractive",
-        "Draws significant attention",
-        "Appeal is distracting"
+        "New Game+ feature added",
+        "Full patch notes available",
+        "Update live on Switch"
       ],
-      "impact": "This character enhances player engagement significantly.",
-      "id": "5194596155508b48963dd7688c7e7491"
+      "impact": "This update enhances gameplay experience significantly.",
+      "id": "fcc461fc6ffe7291d47e4aad06ddcf7c"
     },
     {
-      "title": "Apple just released new AirPods Pro 3 firmware, more",
-      "description": "Apple has rolled out new firmware updates for AirPods Pro 3 and 2. Users can easily install the latest enhancements now.",
-      "category": "Hardware",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/16/apple-just-released-new-airpods-pro-3-firmware-more/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/airpods-pro-3-upside-down.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-16T18:25:00Z",
+      "title": "Switch Online Offers Free Month for 12-Month Memberships",
+      "description": "Nintendo is providing a limited-time offer of a free bonus month for new 12-month memberships to Switch Online + Expansion Pack in the US. Don't miss out on this deal!",
+      "category": "Gaming",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/06/psa-switch-online-plus-expansion-pack-limited-time-offer-adds-free-bonus-month-for-12-month-memberships-us",
+      "image": "https://images.nintendolife.com/633f0e6708d49/large.jpg",
+      "published_at": "2026-06-16T23:55:00Z",
       "key_points": [
-        "New firmware for AirPods Pro",
-        "Installation instructions available",
-        "Enhancements improve user experience"
+        "Free month promotion",
+        "Limited-time offer",
+        "Available for US users"
       ],
-      "impact": "Users will benefit from improved AirPods functionality.",
-      "id": "519e7e91777101d49aaacdf425d4fbaa"
+      "impact": "This offer boosts membership appeal significantly.",
+      "id": "dd33206aa6fdb8f8d1202dd0a79765ff"
     },
     {
-      "title": "Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end",
-      "description": "Qualcomm is developing over 40 AI wearable devices, including innovative jewelry and earbuds. This marks a significant shift in their product strategy.",
-      "category": "Hardware",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/09/qualcomm-layoff-san-diego.jpg?resize=1200,800",
-      "published_at": "2026-06-16T18:22:24Z",
+      "title": "SanDisk Launches 8TB PS5 SSD Priced at $3800",
+      "description": "SanDisk has unveiled its new 8TB Optimus GX PRO SSD for PS5, priced at a staggering $3800. This high-capacity drive aims to enhance gaming storage solutions.",
+      "category": "Gaming",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/sandisk-ps5-ssd-8tb-heatsink-optimus-gx-pro-2000707175",
+      "image": "https://kotaku.com/app/uploads/2026/06/SANDISK-Optimus-GX-PRO-850X-NVMe-SSD-official-image-from-trailer-1200x675.jpg",
+      "published_at": "2026-06-16T20:52:13Z",
       "key_points": [
-        "Over 40 AI wearables in development",
-        "Includes jewelry and earbuds",
-        "Shift from smartphone focus"
+        "8TB storage capacity",
+        "High price point",
+        "Optimized for PS5"
       ],
-      "impact": "Qualcomm aims to redefine wearable technology.",
-      "id": "1a433075c8e4e466545a825975550b70"
+      "impact": "This SSD sets a new storage benchmark.",
+      "id": "48ac6d1640ca8054aa6f3f1ec1d22dbe"
     },
     {
-      "title": "Android 17 arrives on Pixel phones today",
-      "description": "Pixel phones are the first to receive Android 17 along with new features. Other devices will follow later this year.",
+      "title": "Android 17 Update Rolling Out to Pixel Devices",
+      "description": "The Android 17 update is now being rolled out to Pixel phones and watches, bringing various enhancements. Users can expect improvements but no major changes.",
       "category": "Software",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/950651/android-17-release-pixel-drop-google-bubble-screen-reaction",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/android-17.jpg?quality=90&strip=all&crop=0%2C10.751709622572%2C100%2C78.496580754855&w=1200",
-      "published_at": "2026-06-16T18:00:00Z",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/06/android-17-starts-hitting-pixel-phones-and-watches-today/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-1152x648.jpg",
+      "published_at": "2026-06-16T18:00:08Z",
       "key_points": [
-        "Android 17 launches on Pixel first",
-        "New features included",
-        "Other devices to follow later"
+        "Android 17 update released",
+        "Available for Pixel devices",
+        "Minor enhancements included"
       ],
-      "impact": "Pixel users gain early access to Android 17.",
-      "id": "8ea5e5f85343f2a8e97719a9d9e4d0e3"
+      "impact": "This update improves user experience subtly.",
+      "id": "8ab8523c271d0428355954b0e092c5b0"
     },
     {
-      "title": "Google launches Wear OS 7 with Live Updates and a battery life boost",
-      "description": "Wear OS 7 introduces Live Updates for deliveries and sports scores. This update enhances user experience significantly.",
-      "category": "Software",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/950671/wear-os-7-pixel-watches-launch",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/google-wearos-7-launch-live-updates.png?quality=90&strip=all&crop=0%2C3.5645047073983%2C100%2C92.870990585203&w=1200",
-      "published_at": "2026-06-16T18:00:00Z",
+      "title": "Sony Faces Security Issues with PS5 Game Profiles",
+      "description": "PS5 users report unauthorized games appearing on their profiles, prompting Sony to address security concerns. The company is working on a fix.",
+      "category": "Security",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/06/ps5s-recently-played-section-wiped-as-sony-contends-with-another-security-concern",
+      "image": "https://images.pushsquare.com/5551de42b2f7f/large.jpg",
+      "published_at": "2026-06-16T15:00:00Z",
       "key_points": [
-        "Wear OS 7 launched today",
-        "Includes Live Updates feature",
-        "Battery life improvements included"
+        "Unauthorized games appearing",
+        "Sony addressing security issues",
+        "User profiles affected"
       ],
-      "impact": "Wear OS 7 enhances smartwatch functionality.",
-      "id": "21df60475971849e41192ffbad45350d"
+      "impact": "This raises significant concerns about user security.",
+      "id": "67ec58d2c174c0b0cfa4d363bc27be48"
     },
     {
-      "title": "Destiny 2 Devs Bid Farewell To The Game They Spent A Decade Making",
-      "description": "Bungie developers reflect on their decade-long journey with Destiny 2, highlighting both challenges and rewarding experiences.",
-      "category": "Gaming",
-      "source": "Aftermath.site",
-      "url": "https://aftermath.site/destiny-2-developers-favorite-parts-bungie-ends-support/",
-      "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/06/destiny.jpg",
-      "published_at": "2026-06-16T17:12:14Z",
-      "key_points": [
-        "Developers reflect on decade-long journey",
-        "Challenges faced during development",
-        "Community engagement highlighted"
-      ],
-      "impact": "Bungie's legacy in gaming is significant.",
-      "id": "6d095ce5c939c0813396b3386ca758b1"
-    },
-    {
-      "title": "Weeks After Launching Luna Abyss, Its Entire Development Team At Kwalee Labs Has Been Laid Off",
-      "description": "Kwalee Labs has laid off its entire team shortly after the launch of Luna Abyss. This follows a generally positive reception of the game.",
-      "category": "Gaming",
-      "source": "Game Informer",
-      "url": "https://gameinformer.com/2026/06/16/weeks-after-launching-luna-abyss-its-entire-development-team-at-kwalee-labs-has-been",
-      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/16/23052e3a/LunaAbyss_Screenshot_Boss.jpg.webp",
-      "published_at": "2026-06-16T17:04:57Z",
-      "key_points": [
-        "Entire team laid off post-launch",
-        "Luna Abyss received positive reviews",
-        "Industry challenges highlighted"
-      ],
-      "impact": "Layoffs reflect ongoing industry volatility.",
-      "id": "a427e89e601ceaed66b7042e9a4b4355"
-    },
-    {
-      "title": "Snap unveils $2,195 AR glasses as CEO Evan Spiegel bets on post-smartphone future",
-      "description": "Snap has launched AR glasses aimed at consumers, priced at $2,195. This move signals a shift towards augmented reality experiences.",
-      "category": "Hardware",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/16/snap-unveils-2195-specs-ar-glasses-spiegel-bets-on-post-smartphone.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108322746-1781639526820-108322746-1781636449036-Spiegel1.jpg?v=1781639537&w=1920&h=1080",
-      "published_at": "2026-06-16T16:50:01Z",
-      "key_points": [
-        "Snap launches consumer AR glasses",
-        "Priced at $2,195",
-        "Focus on post-smartphone technology"
-      ],
-      "impact": "Snap aims to lead in AR consumer market.",
-      "id": "ece11b9bd750f4f0dc5671bdf9e44607"
-    },
-    {
-      "title": "The Steam Machine Is Likely in Testers’ Hands, as 2 Fresh SteamOS Benchmarks Leak",
-      "description": "Steam Machine Fremont benchmarks suggest an upcoming Summer launch for Valve's new console. Testers are already using the system.",
-      "category": "Gaming",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/steam-machine-benchmarks/",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/Steam-Machine-CPU-Benchmarks-1920x1071.jpg",
-      "published_at": "2026-06-16T15:06:00Z",
-      "key_points": [
-        "Steam Machine benchmarks leaked",
-        "Imminent Summer launch expected",
-        "Testers already using the console"
-      ],
-      "impact": "Valve's new console is highly anticipated.",
-      "id": "b7c81ede9ee1e7f9df3a554e6338c378"
-    },
-    {
-      "title": "Microsoft denies killing Xbox exclusives — but the trust delta is real",
-      "description": "Microsoft has refuted rumors about abandoning Xbox exclusives. The company emphasizes its commitment to exclusive game development.",
+      "title": "Steam Machine CPU Benchmark Results Underwhelm",
+      "description": "Recent Geekbench 6 CPU benchmarks for the Steam Machine show mediocre performance compared to current handhelds. Concerns about its competitiveness arise.",
       "category": "Gaming",
       "source": "Windows Central",
-      "url": "https://www.windowscentral.com/gaming/xbox/the-rumors-are-false-no-microsoft-isnt-already-looking-to-reverse-course-on-xbox-exclusives",
-      "image": "https://cdn.mos.cms.futurecdn.net/MEbMT9AYtPMXiKeWbNPYem-1167-80.jpg",
-      "published_at": "2026-06-16T14:31:30Z",
+      "url": "https://www.windowscentral.com/gaming/pc-gaming/steam-machine-geekbench-cpu-gaming-handheld-comparison",
+      "image": "https://cdn.mos.cms.futurecdn.net/6i5kqYW5gcaazt3LSNEVY4-2560-80.jpg",
+      "published_at": "2026-06-16T14:48:58Z",
       "key_points": [
-        "Microsoft denies exclusives rumors",
-        "Commitment to Xbox games reaffirmed",
-        "Trust issues among gamers noted"
+        "Mediocre benchmark results",
+        "Comparison with handhelds",
+        "Concerns about competitiveness"
       ],
-      "impact": "Microsoft aims to restore gamer confidence.",
-      "id": "dc79f6111d858335de6a5eb014e89c46"
+      "impact": "This may affect Steam Machine's market viability.",
+      "id": "778118419c9cce430d9c5d5ca1c74074"
     },
     {
-      "title": "Microsoft's new Surface Laptop and Surface Pro upgrade to Snapdragon X2 and start at $1,499",
-      "description": "Microsoft unveils new Surface Laptop and Surface Pro models featuring Snapdragon X2. Prices start at $1,499, showcasing significant upgrades.",
-      "category": "Hardware",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/06/16/microsofts-new-surface-laptop-and-surface-pro-upgrade-to-snapdragon-x2-and-start-at-1499/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/microsoft-surface-laptop-pro-2026.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-16T13:35:00Z",
-      "key_points": [
-        "New Surface models launched",
-        "Upgraded to Snapdragon X2",
-        "Starting price is $1,499"
-      ],
-      "impact": "Microsoft enhances its Surface lineup significantly.",
-      "id": "bcea6a00b92f163f51db2da189656418"
-    },
-    {
-      "title": "Schlage’s UWB-enabled smart lock launches this month",
-      "description": "Schlage's new Sense Pro smart lock will be available starting June 29 for $399. It features advanced unlocking technology.",
-      "category": "Hardware",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/950564/schlage-sense-pro-uwb-aliro-deadlock-price-availability",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ENTRYWAY_BE889_SEP622_DAV_COL_EXT_IU_01-1.jpg?quality=90&strip=all&crop=0%2C11.874755925629%2C100%2C76.250488148741&w=1200",
-      "published_at": "2026-06-16T13:00:00Z",
-      "key_points": [
-        "Schlage Sense Pro launches June 29",
-        "Priced at $399",
-        "Features advanced unlocking technology"
-      ],
-      "impact": "Smart lock technology advances with Schlage.",
-      "id": "d65949ef4bc4846eb07177139c922273"
-    },
-    {
-      "title": "The preening prince of perfection",
-      "description": "Sigvald's new Army of Renown for Warhammer Age of Sigmar allows players to dominate the battlefield with style. This adds depth to gameplay.",
+      "title": "Xbox May Shut Down South of Midnight & Hellblade Studios",
+      "description": "Reports suggest Xbox is considering shutting down Compulsion Games and Ninja Theory. These studios are negotiating to remain operational amid challenges.",
       "category": "Gaming",
-      "source": "Warhammer Community",
-      "url": "https://www.warhammer-community.com/articles/6edn7i2q/the-preening-prince-of-perfection",
-      "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/aos_hosrules2-jun16-1-feature-ci9sms1dpr.jpg",
-      "published_at": "2026-06-16T12:55:40Z",
+      "source": "80.lv",
+      "url": "https://80.lv/articles/xbox-is-reportedly-planning-to-shut-down-south-of-midnight-hellblade-studios",
+      "image": "https://cdn.80.lv/api/upload/meta/48813/images/6a31416639c2e/contain_1200x630.jpg",
+      "published_at": "2026-06-16T12:32:24Z",
       "key_points": [
-        "New Army of Renown introduced",
-        "Enhances gameplay strategy",
-        "Players can dominate battles"
+        "Possible studio shutdowns",
+        "Negotiations ongoing",
+        "Impact on game development"
       ],
-      "impact": "Warhammer gameplay becomes more dynamic.",
-      "id": "1a9b7d572c46c130590fdf75bbf98047"
+      "impact": "This could disrupt future game releases.",
+      "id": "c1a6833f0901e22d846bb2e8215c4e45"
     },
     {
-      "title": "More Sanitation Workers Are Getting Pricked by Used Needles",
-      "description": "Sanitation workers are increasingly encountering used needles during their duties. This raises concerns about disposal practices among users.",
-      "category": "Policy",
-      "source": "Curbed",
-      "url": "http://www.curbed.com/article/sanitation-workers-stuck-needles-ozempic-glp-1-peptides.html",
-      "image": "https://pyxis.nymag.com/v1/imgs/ab2/503/44285eacdbb8ed81fd9bc144a4e1afffae-dsny-needles.1x.rsocial.w1200.jpg",
-      "published_at": "2026-06-16T11:00:28Z",
+      "title": "Samsung S95H OLED TV Review: Good, Not Great",
+      "description": "The Samsung S95H OLED TV excels in gaming but falls short in color performance. It offers solid features but lacks the expected 'Ultra' quality.",
+      "category": "Hardware",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/home-entertainment/samsung-s95h-oled-tv-review/",
+      "image": "https://www.cnet.com/a/img/resize/1a5c1554d11684e1482eee6bf402a3bd7c8f1e5a/hub/2026/04/01/d6a97a0d-f620-428a-9a0e-32380a47901d/samsung-s95h-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "published_at": "2026-06-16T12:07:00Z",
       "key_points": [
-        "Increase in needle pricks reported",
-        "Concerns over disposal practices",
-        "Sanitation workers' safety at risk"
+        "Great for gaming",
+        "Color performance lacking",
+        "Not the 'Ultra' expected"
       ],
-      "impact": "Worker safety issues need urgent attention.",
-      "id": "63767991f68ed7ce3f95f97c01c48fc0"
+      "impact": "This TV may disappoint high-end users.",
+      "id": "ff01d71fea1180757a06cad3a112312f"
     },
     {
-      "title": "GTA 6 May Shatter All Sales Records with 45+ Million Units Sold on Launch Day, According to Piper Sandler",
-      "description": "Piper Sandler predicts GTA 6 could sell over 45 million copies on launch day, potentially breaking industry sales records.",
+      "title": "Gmail's AI Summaries Now Available Globally",
+      "description": "Gmail's AI email summaries are now accessible to all users worldwide, enhancing email management without requiring a paid plan. Users can opt-out if desired.",
+      "category": "Software",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/google-gmail-ai-summaries-global-turn-off-3677798/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2021/12/Gmail-on-smartphone-and-tablet-stock-photo-7.jpg",
+      "published_at": "2026-06-16T10:43:23Z",
+      "key_points": [
+        "AI summaries launched globally",
+        "No paid plan needed",
+        "Opt-out option available"
+      ],
+      "impact": "This feature improves email efficiency for users.",
+      "id": "fdb7772576aba1e3bb5ca78674472e76"
+    },
+    {
+      "title": "Commodore Launches Digital Detox Phone",
+      "description": "The Commodore Callback 8020 is a retro-style flip phone designed for digital detox, featuring T9 texting and limited app access. It blocks social media apps.",
+      "category": "Software",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/commodore-callback-8020-is-a-digital-detox-phone-that-isnt-dumb/",
+      "image": "https://media.wired.com/photos/6a2ff4cfd01a0a55006b45fd/191:100/w_1280,c_limit/Commodore%20Callback%208020%20-%20ProtoPET%20005.jpg",
+      "published_at": "2026-06-16T09:00:00Z",
+      "key_points": [
+        "Retro design",
+        "Blocks social media",
+        "Supports essential apps"
+      ],
+      "impact": "This phone caters to digital detox trends.",
+      "id": "bac82cc4389afc99bd2efa7bf25b2bb1"
+    },
+    {
+      "title": "Assassin's Creed Shadows Final Update Released",
+      "description": "Ubisoft announces the final update for Assassin's Creed Shadows, including improvements for Switch 2. This marks the end of support for the game.",
       "category": "Gaming",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/gta-6-45m-day-one-launch-sales/",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/gta-vi-jason-HD-1920x1095.jpeg",
-      "published_at": "2026-06-16T10:30:00Z",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/06/assassins-creed-shadows-update-1-1-11-out-this-week-includes-switch-2-handheld-improvements",
+      "image": "https://images.nintendolife.com/1ea3a21910cd4/large.jpg",
+      "published_at": "2026-06-16T05:43:28Z",
       "key_points": [
-        "GTA 6 expected to break records",
-        "45 million units predicted sold",
-        "Industry anticipates massive sales"
+        "Final content update",
+        "Switch 2 improvements",
+        "End of support announced"
       ],
-      "impact": "GTA 6 could redefine gaming sales benchmarks.",
-      "id": "7ab20f42826291883525afcab0323969"
+      "impact": "This concludes the game's development cycle.",
+      "id": "b6b7090b751429623a6918c06a1d289a"
+    },
+    {
+      "title": "Apple iPhone 18 Pro Likely Launching September 2026",
+      "description": "Apple's schedule hints at a September 2026 launch for the iPhone 18 Pro and its variants. Anticipation builds for new features and designs.",
+      "category": "Business",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/davidphelan/2026/06/15/apple-iphone-18-pro-release-date-september-2026/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/695d93b89d51c957214caa7d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published_at": "2026-06-15T21:00:00Z",
+      "key_points": [
+        "September launch expected",
+        "New features anticipated",
+        "iPhone 18 Pro details emerging"
+      ],
+      "impact": "This could reshape Apple's product lineup.",
+      "id": "e4eb7e27a229bc5ee26f0cc84fd51239"
+    },
+    {
+      "title": "Galaxy Book6 Edge Launches with AI Performance",
+      "description": "Samsung's Galaxy Book6 Edge is now available, featuring next-gen AI performance and premium portability for productivity. It's designed for modern users.",
+      "category": "Hardware",
+      "source": "Samsung",
+      "url": "https://news.samsung.com/us/galaxy-book6-edge-available-next-generation-ai-performance-premium-portability",
+      "image": "https://img.us.news.samsung.com/us/wp-content/uploads/2026/06/15093115/Book6-Edge_16_US_004_L-Side_RGB-1200x630.jpg",
+      "published_at": "2026-06-15T16:00:49Z",
+      "key_points": [
+        "AI-enhanced performance",
+        "Portable design",
+        "Available now"
+      ],
+      "impact": "This device targets productivity-focused consumers.",
+      "id": "aa7155263cbb7894e6cfeffaeadcb7ea"
+    },
+    {
+      "title": "Benefits of Sunlight Explored in New Book",
+      "description": "The book 'In Defense of Sunlight' discusses the health benefits of sunlight exposure and how to safely enjoy it. It challenges common misconceptions about sun exposure.",
+      "category": "Science",
+      "source": "Men's Health",
+      "url": "https://www.menshealth.com/health/a71563030/health-benefits-sunlight-in-defense-of-sunlight-book/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/036afc9e-c9b9-4418-9197-98d8a55265ec.jpg?crop=1xw:0.796xh;0xw,0.129xh&resize=1200:*",
+      "published_at": "2026-06-15T14:00:00Z",
+      "key_points": [
+        "Explores sunlight health benefits",
+        "Challenges misconceptions",
+        "Promotes safe exposure"
+      ],
+      "impact": "This book encourages a balanced view on sunlight.",
+      "id": "6e7d26f35c751011225c88c774595173"
+    },
+    {
+      "title": "Google Search Introduces Paid Information Agents",
+      "description": "Google is launching Information agents in AI Mode for a fee, enhancing search capabilities for users willing to pay. This feature was announced at Google I/O.",
+      "category": "Software",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-search-information-agents-41502.html",
+      "image": "https://images.seroundtable.com/google-robot-agent-computer-tasks-EeI3Vi4h.jpg",
+      "published_at": "2026-06-15T11:51:00Z",
+      "key_points": [
+        "Paid search feature introduced",
+        "Enhances user experience",
+        "Announced at Google I/O"
+      ],
+      "impact": "This could change how users interact with search.",
+      "id": "8107dd38279b6edb2ae9e4579d54d12f"
     }
   ]
 }
