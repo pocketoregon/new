@@ -1,245 +1,229 @@
 {
-  "generated_at": "2026-06-18T15:20:37.707470+00:00",
+  "generated_at": "2026-06-18T20:24:31.381270+00:00",
   "articles": [
     {
-      "title": "Pokémon Champions Launches On Mobile Today",
-      "description": "Pokémon Champions debuts on mobile today, with a new update for the Switch version. The update enhances gameplay and expands the roster.",
-      "category": "Gaming",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/06/pokemon-champions-launches-on-mobile-today-alongside-a-new-game-update",
-      "image": "https://images.nintendolife.com/eb91d0d144ea7/large.jpg",
-      "published_at": "2026-06-17T04:30:00Z",
-      "key_points": [
-        "Mobile launch today",
-        "Switch update released",
-        "Expanded roster available"
-      ],
-      "impact": "This launch boosts Pokémon's mobile presence.",
-      "id": "3e56a64503059dfc089f5b120797ab0b"
-    },
-    {
-      "title": "Grok Imagine Video 1.5 Released",
-      "description": "Grok Imagine Video 1.5 is now available, offering improved quality and speed on the Imagine API and mobile apps. This update enhances image-to-video capabilities.",
-      "category": "Software",
-      "source": "X.ai",
-      "url": "https://x.ai/news/grok-imagine-video-1-5",
-      "image": "https://x.ai/images/news/grok-imagine-video-1-5-og.png",
-      "published_at": "2026-06-17T02:55:32Z",
-      "key_points": [
-        "Improved video quality",
-        "Faster processing speeds",
-        "Available on all platforms"
-      ],
-      "impact": "This update enhances user experience significantly.",
-      "id": "7fffe5c660d37b5fabe29cd88dcc6a0d"
-    },
-    {
-      "title": "Housemarque Teases Smaller PS5 Game",
-      "description": "Housemarque hints its next PS5 game may be smaller than Saros, exploring new opportunities post-acquisition. The studio embraces its PlayStation identity.",
-      "category": "Gaming",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/06/housemarque-hints-its-next-ps5-game-could-be-smaller-than-saros",
-      "image": "https://images.pushsquare.com/865e7c87d25c9/large.jpg",
-      "published_at": "2026-06-16T23:30:00Z",
-      "key_points": [
-        "Next game may be smaller",
-        "Exploring new opportunities",
-        "Embracing PlayStation identity"
-      ],
-      "impact": "This could redefine Housemarque's game development strategy.",
-      "id": "5fe77cd137cb808c7c4e6fdfc25bc614"
-    },
-    {
-      "title": "Apple's Hide My Email Feature Changes",
-      "description": "Apple plans to modify its Hide My Email feature, potentially reducing its effectiveness for users. The change involves moving generated email addresses to a new domain.",
-      "category": "Policy",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-477672484.jpg?resize=1200,800",
-      "published_at": "2026-06-16T22:09:32Z",
-      "key_points": [
-        "Privacy feature changes coming",
-        "New domain for email addresses",
-        "Potential effectiveness reduction"
-      ],
-      "impact": "This may compromise user privacy significantly.",
-      "id": "7ec29f4cdedcf6619c63eb632075ca8b"
-    },
-    {
-      "title": "Trump Phone Revealed as HTC Reskin",
-      "description": "The Trump Mobile T1 is confirmed as a reskinned HTC U24, built in China, contradicting 'Made in America' claims. iFixit's teardown reveals the truth.",
-      "category": "Business",
-      "source": "TechSpot",
-      "url": "https://www.techspot.com/news/112785-made-america-trump-phone-reskinned-htc-u24-built.html",
-      "image": "https://www.techspot.com/images2/news/bigimage/2026/06/2026-06-16-image-34.jpg",
-      "published_at": "2026-06-16T21:37:43Z",
-      "key_points": [
-        "Trump phone is HTC U24",
-        "Built in China",
-        "Contradicts 'Made in America' claims"
-      ],
-      "impact": "This revelation undermines the product's marketing.",
-      "id": "aec2b34b9e7ccc6b974939061f74f1c8"
-    },
-    {
-      "title": "Rumors of Bungie Layoffs Surface",
-      "description": "Reports suggest PlayStation may lay off at least 50% of Bungie staff this summer, raising concerns about the studio's future. The news comes from a French journalist.",
-      "category": "Business",
-      "source": "Vgchartz.com",
-      "url": "https://www.vgchartz.com/article/468232/rumor-playstation-to-lay-off-at-least-50-of-bungie-staff-this-summer/",
-      "image": "https://www.vgchartz.com/articles_media/images/rumor-bungie-to-lay-off-at-least-50-of-staff-this-summer-028649_condensed.jpg",
-      "published_at": "2026-06-16T21:24:47Z",
-      "key_points": [
-        "50% Bungie layoffs rumored",
-        "Concerns about studio future",
-        "Reported by French journalist"
-      ],
-      "impact": "This could significantly impact Bungie's operations.",
-      "id": "a9d6880d5985e746ed93df5712dda332"
-    },
-    {
-      "title": "Luna Abyss Developers Laid Off Post-Launch",
-      "description": "Kwalee Labs has laid off its entire team, including the CEO, just weeks after launching Luna Abyss. The decision raises eyebrows in the gaming community.",
-      "category": "Gaming",
-      "source": "GameSpot",
-      "url": "https://www.gamespot.com/articles/luna-abyss-developers-laid-off-just-weeks-after-launch/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Luna-Abyss.jpg",
-      "published_at": "2026-06-16T20:55:56Z",
-      "key_points": [
-        "Entire team laid off",
-        "CEO also terminated",
-        "Weeks after game launch"
-      ],
-      "impact": "This raises concerns about industry stability.",
-      "id": "cac978ca2a62e96293fa14d608b5b457"
-    },
-    {
-      "title": "Final Fantasy VII Revelation Title Explained",
-      "description": "The title for the final entry in the Final Fantasy VII Remake trilogy has been revealed as 'Revelation', surprising fans. Only a few knew before the announcement.",
-      "category": "Gaming",
-      "source": "Game Informer",
-      "url": "https://gameinformer.com/sgf-2026/2026/06/16/why-its-called-final-fantasy-vii-revelation-instead-of-resolve-or-other",
-      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/16/88c192a6/cloud.jpg.webp",
-      "published_at": "2026-06-16T20:45:09Z",
-      "key_points": [
-        "Final title revealed",
-        "Surprised fan community",
-        "Few knew before announcement"
-      ],
-      "impact": "This title change excites the fanbase.",
-      "id": "89f34522a4c5c2845197941e06a6c6e6"
-    },
-    {
-      "title": "Epic Games Admits AI Use in Fortnite",
-      "description": "Epic Games acknowledges its use of generative AI in Fortnite after player criticism. A video showcases the AI tools used in game development.",
+      "title": "Vampire Survivors Fortnite Crossover Might Not Happen Due To GenAI",
+      "description": "Poncle is hesitant about Epic's generative AI plans for Fortnite. The future of their collaboration remains uncertain.",
       "category": "Gaming",
       "source": "Kotaku",
-      "url": "https://kotaku.com/epic-games-generative-ai-fortnite-mistakes-2000707180",
-      "image": "https://kotaku.com/app/uploads/2026/06/A-Look-At-Epics-Art-Concepting-Process-2-40-screenshot-1200x675.jpg",
-      "published_at": "2026-06-16T20:36:29Z",
+      "url": "https://kotaku.com/vampire-survivors-studio-reviewing-future-fortnite-collab-after-epics-genai-annoumcents-2000707634",
+      "image": "https://kotaku.com/app/uploads/2026/04/vcrawlers-1200x675.jpg",
+      "published_at": "2026-06-17T17:49:46Z",
       "key_points": [
-        "Generative AI use confirmed",
-        "Video showcases AI tools",
-        "Response to player criticism"
+        "Poncle doubts Epic's GenAI plans",
+        "Collaboration future uncertain",
+        "Epic pushes generative AI"
       ],
-      "impact": "This transparency may rebuild player trust.",
-      "id": "dbebc6e4027428e9458c54ec5e031ea1"
+      "impact": "This could affect future game collaborations.",
+      "id": "c9ee1321b884bf0ea7252819a4ac32ba"
     },
     {
-      "title": "Snap Launches AR Glasses Amid Stock Drop",
-      "description": "Snap Inc. unveils its new AR glasses, 'Specs', priced at $2,195, amidst skepticism from retailers. The high price raises concerns about market acceptance.",
-      "category": "Business",
-      "source": "Stocktwits.com",
-      "url": "https://stocktwits.com/news-articles/markets/equity/snap-stock-drops-snap-launches-ar-smart-glasses-but-retail-is-skeptical-on-over-2-000-price-tag/cZKW6FjR74V",
-      "image": "https://news.stocktwits-cdn.com/large_Snap_jpg_11a44b44a0.webp",
-      "published_at": "2026-06-16T19:49:00Z",
+      "title": "Android 17 just dropped for Pixel phones and Watch all at once - the biggest update of the year",
+      "description": "Google's Android 17 update is now available for Pixel devices and the Pixel Watch, marking a significant upgrade.",
+      "category": "Software",
+      "source": "PhoneArena",
+      "url": "https://www.phonearena.com/news/google-just-dropped-its-biggest-update-of-the-year-and-it-hits-android-17-pixel-and-watch-all-at-once_id181143",
+      "image": "",
+      "published_at": "2026-06-17T15:05:06Z",
       "key_points": [
-        "AR glasses launched",
-        "Priced at $2,195",
-        "Retail skepticism remains"
+        "Android 17 released today",
+        "Major update for Pixel devices",
+        "Includes new features and improvements"
       ],
-      "impact": "High price may hinder sales success.",
-      "id": "8839522c9c2ecd842d55a51087edaf22"
+      "impact": "This enhances user experience across devices.",
+      "id": "a5e2f06ce9657c8a8b329fd6dc14ab9e"
     },
     {
-      "title": "Steam Workshop Malware Threat",
-      "description": "Malware is being spread through Steam Workshop, with infected wallpaper packages posing risks to users. This exploitation raises security concerns.",
-      "category": "Security",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/",
-      "image": "https://www.bleepingcomputer.com/content/hl-images/2025/09/19/Steam-red.jpg",
-      "published_at": "2026-06-16T18:27:55Z",
-      "key_points": [
-        "Malware spread via wallpapers",
-        "Steam Workshop exploited",
-        "User security at risk"
-      ],
-      "impact": "This poses a significant threat to users.",
-      "id": "0a7be160d4a2f962d738419999a97aa5"
-    },
-    {
-      "title": "New Co-Op Dark Fantasy RPG Announced",
-      "description": "Mistfall Hunter combines Soulslike combat with co-op RPG elements, offering an engaging experience reminiscent of Elden Ring. Players face challenging encounters and loot collection.",
+      "title": "The Next Big Score",
+      "description": "Rockstar Games announces a new heist at the Kortz Center, promising thrilling gameplay and high-stakes action.",
       "category": "Gaming",
-      "source": "80.lv",
-      "url": "https://80.lv/articles/this-new-co-op-dark-fantasy-rpg-is-like-elden-ring-meets-arc-raiders",
-      "image": "https://cdn.80.lv/api/upload/meta/48821/images/6a318c956e0e4/contain_1200x630.jpg",
-      "published_at": "2026-06-16T17:53:30Z",
+      "source": "Rockstargames.com",
+      "url": "https://www.rockstargames.com/newswire/article/517k8ak75ao327/the-next-big-score",
+      "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/517k8ak75ao327/bd8dd92adc077fa7ee13dcddc2d6a93cfb684599.jpg",
+      "published_at": "2026-06-17T13:57:37Z",
       "key_points": [
-        "Co-op RPG gameplay",
-        "Soulslike combat mechanics",
-        "Epic adventure awaits"
+        "New heist at Kortz Center",
+        "Exciting gameplay promised",
+        "High-stakes action awaits"
       ],
-      "impact": "This could attract fans of the genre.",
-      "id": "b57b18550ad571a42d347b015c8c8bb0"
+      "impact": "This will attract more players to the game.",
+      "id": "9795ce556ff65a40881c6d5f2e0f92d5"
     },
     {
-      "title": "Siri AI Hints at iPhone 18 Pro Changes",
-      "description": "Siri AI in iOS 27 beta hints at design changes for the upcoming iPhone 18 Pro. The revelation has sparked interest among Apple enthusiasts.",
+      "title": "Samsung Galaxy Z Fold 8 Ultra: The Foldable We’ve Been Waiting For",
+      "description": "Samsung's Galaxy Z Fold 8 Ultra is confirmed, featuring innovative designs and improved functionality.",
+      "category": "Hardware",
+      "source": "Geeky Gadgets",
+      "url": "https://www.geeky-gadgets.com/samsung-galaxy-z-fold-8-ultra-8/",
+      "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/fold-8-ultra-design-1.jpg",
+      "published_at": "2026-06-17T07:02:55Z",
+      "key_points": [
+        "Galaxy Z Fold 8 Ultra confirmed",
+        "Innovative foldable design",
+        "Improved functionality expected"
+      ],
+      "impact": "This could redefine the foldable smartphone market.",
+      "id": "2860ce070ca3f145222d6b61ee62e6be"
+    },
+    {
+      "title": "Apple Stock Rises on AI AirPods and Foldable iPhone Report",
+      "description": "Apple shares increase as reports reveal advancements in AI AirPods and a new foldable iPhone model.",
+      "category": "Business",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-rises-ai-airpods-191952020.html",
+      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "published_at": "2026-06-16T19:19:52Z",
+      "key_points": [
+        "Apple stock rises 1%",
+        "New AI AirPods in development",
+        "Foldable iPhone model reported"
+      ],
+      "impact": "Investors are optimistic about Apple's future.",
+      "id": "cc003efd641715b399662c30baffa5d0"
+    },
+    {
+      "title": "Apple Releases New Firmware for AirPods Pro 2, AirPods Pro 3 and Beats Studio Buds",
+      "description": "Apple updates firmware for AirPods Pro 2 and 3, enhancing performance and features.",
+      "category": "Software",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/16/airpods-pro-firmware-8b41/",
+      "image": "https://images.macrumors.com/t/sLY2rnsZ8CO7pw9y-a1_y0wXDE8=/2322x/article-new/2021/11/AirPods-Pro-Firmware-Feature.jpg",
+      "published_at": "2026-06-16T18:19:01Z",
+      "key_points": [
+        "New firmware for AirPods released",
+        "Improves performance and features",
+        "Version number updated to 8B41"
+      ],
+      "impact": "Users will benefit from enhanced audio quality.",
+      "id": "06098cc614419eb9140498f8c38461b4"
+    },
+    {
+      "title": "Wear OS 7 drops today with Live Updates, Gemini, and more",
+      "description": "Google launches Wear OS 7, introducing live updates and new features for smartwatch users.",
+      "category": "Software",
+      "source": "Android Headlines",
+      "url": "https://www.androidheadlines.com/2026/06/wear-os-7-drops-today-with-live-updates-gemini-and-more.html",
+      "image": "https://www.androidheadlines.com/wp-content/uploads/2025/10/AH-Google-Pixel-Watch-4-scaled.jpg",
+      "published_at": "2026-06-16T18:00:40Z",
+      "key_points": [
+        "Wear OS 7 officially launched",
+        "Includes live updates feature",
+        "New functionalities added"
+      ],
+      "impact": "This enhances smartwatch usability significantly.",
+      "id": "315f28bbfb2124f24f45ab69e286bfe9"
+    },
+    {
+      "title": "These are the best iPadOS 27 features you should try [Video]",
+      "description": "iPadOS 27 introduces impressive new features that enhance user experience and functionality.",
       "category": "Software",
       "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/16/siri-ai-hints-at-new-iphone-18-pro-design-change/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai-27-dark.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-16T17:32:00Z",
+      "url": "https://9to5mac.com/2026/06/16/these-are-the-best-ipados-27-features-you-should-try-video/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ipados27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-16T17:09:00Z",
       "key_points": [
-        "Siri hints at design change",
-        "iPhone 18 Pro rumors",
-        "Available in iOS 27 beta"
+        "iPadOS 27 features unveiled",
+        "Enhances user experience",
+        "Five key upgrades highlighted"
       ],
-      "impact": "This could influence consumer expectations.",
-      "id": "7092c0198f72108bb80cf5d728038721"
+      "impact": "Users will enjoy a more efficient workflow.",
+      "id": "44b37f7129e89ec64e00531e3791be30"
     },
     {
-      "title": "Apple's Future iPhones to Use 1.4nm Chips",
-      "description": "Apple plans to use 1.4-nanometer chips in its 2028 iPhone models, transitioning from 2-nanometer technology. This advancement promises improved performance.",
-      "category": "Hardware",
+      "title": "Walt Disney World to Offer iOS 27's Upgraded Apple Wallet Key Feature",
+      "description": "iOS 27 enhances Apple Wallet with digital keys for Disney resorts, improving guest experience.",
+      "category": "Software",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/16/2028-iphones-a22-pro-chips/",
-      "image": "https://images.macrumors.com/t/ERXbALqGfy0lkvWipEq15WE1xic=/1600x/article-new/2023/11/apple-silicon-1-feature.jpg",
-      "published_at": "2026-06-16T17:03:42Z",
+      "url": "https://www.macrumors.com/2026/06/16/disney-world-ios-27-apple-wallet/",
+      "image": "https://images.macrumors.com/t/4cWBU14420TsfW7CW78ftNO7Ydo=/1600x/article-new/2026/06/Disney-MagicMobile-Feature.jpg",
+      "published_at": "2026-06-16T16:02:24Z",
       "key_points": [
-        "1.4nm chips for 2028 iPhones",
-        "Transition from 2nm technology",
-        "Improved performance expected"
+        "iOS 27 enhances Apple Wallet",
+        "Digital keys for Disney resorts",
+        "Improves guest experience"
       ],
-      "impact": "This advancement could enhance device capabilities.",
-      "id": "2b414d42a660a2d241caebaae8d565f8"
+      "impact": "This simplifies access for Disney visitors.",
+      "id": "add8a3616f684621f573df81dc159c7e"
     },
     {
-      "title": "Halo Campaign Evolved Supports PS5 Pro",
-      "description": "Halo: Campaign Evolved is now fully optimized for PS5 Pro, as Microsoft invests heavily in rival console support. This move surprises many in the gaming community.",
+      "title": "Nearly a decade later, the original Switch finally has an eShop that isn't painfully slow, thanks to a new system update",
+      "description": "Nintendo updates the original Switch's eShop, significantly improving speed and user experience.",
       "category": "Gaming",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/06/halo-campaign-evolved-goes-all-in-on-ps5-pro-support-as-xbox-bets-big-on-rival-console",
-      "image": "https://images.pushsquare.com/b74f97990bfa4/large.jpg",
-      "published_at": "2026-06-16T17:00:00Z",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/nintendo-switch-eshop-update",
+      "image": "https://assetsio.gnwcdn.com/Nintendo-eShop-official-image-Switch-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-16T15:59:43Z",
       "key_points": [
-        "Halo supports PS5 Pro",
-        "Microsoft invests in rival console",
-        "Surprising gaming community"
+        "Original Switch eShop updated",
+        "Improved speed and performance",
+        "Enhances user experience"
       ],
-      "impact": "This could shift competitive dynamics in gaming.",
-      "id": "f3545f2bc4871c045202f2aee278c025"
+      "impact": "Users will enjoy a smoother shopping experience.",
+      "id": "704de169cfe9be54c1a2ed424b697080"
+    },
+    {
+      "title": "Google Is Now Sending Broken Galaxy S22 Ultra As Replacements For Defective Pixel Units, As One Customer Found Out The Hard Way",
+      "description": "A customer received a broken Galaxy S22 Ultra as a replacement for a defective Pixel, highlighting Google's error.",
+      "category": "Software",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/pixel-owner-received-broken-galaxy-s22-ultra-as-replacement-for-defective-unit/",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/Pixel-9-Pro-XL-rotated.jpeg",
+      "published_at": "2026-06-16T15:54:00Z",
+      "key_points": [
+        "Google sends broken replacement",
+        "Customer experiences major blunder",
+        "Pixel replacement mishap reported"
+      ],
+      "impact": "This raises concerns about Google's customer service.",
+      "id": "4ca7af1a4d8dcf3814f6e9d4ac787670"
+    },
+    {
+      "title": "Minecraft Java Edition 26.2",
+      "description": "Minecraft Java Edition 26.2 introduces technical changes and improvements for players.",
+      "category": "Gaming",
+      "source": "Minecraft.net",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2",
+      "image": "https://www.minecraft.net/content/dam/minecraftnet/article-asset/2026/minecraft-26-2/new-article-hero-image.jpg",
+      "published_at": "2026-06-16T15:13:03Z",
+      "key_points": [
+        "Minecraft Java Edition 26.2 released",
+        "Technical changes introduced",
+        "Improves game performance"
+      ],
+      "impact": "Players will experience smoother gameplay.",
+      "id": "91417967a5379b15d1da60de113209a7"
+    },
+    {
+      "title": "Upcoming Xbox Exclusives Are Being Sent Out To Die, Analyst Says; Xbox Pushes Back",
+      "description": "Analysts claim Xbox exclusives are poorly timed, but Xbox's strategy team defends their release schedule.",
+      "category": "Gaming",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/upcoming-xbox-exclusives-are-being-sent-out-to-die-analyst-says-xbox-pushes-back/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Xboxlogo_cde787.jpg",
+      "published_at": "2026-06-16T15:10:29Z",
+      "key_points": [
+        "Analyst criticizes Xbox release strategy",
+        "Xbox defends upcoming titles",
+        "Concerns over exclusive game timing"
+      ],
+      "impact": "This could affect Xbox's market position.",
+      "id": "f4d17dee45a3728d01e76c663c81b9b1"
+    },
+    {
+      "title": "Beyerdynamic's new IEM for musicians might also be ideal for your commute",
+      "description": "The DT 30 IE is designed for musicians but also suits commuters, offering portability and quality sound.",
+      "category": "Hardware",
+      "source": "Creative Bloq",
+      "url": "https://www.creativebloq.com/tech/headphones-earbuds/beyerdynamics-new-iem-for-musicians-might-also-be-ideal-for-your-commute",
+      "image": "https://cdn.mos.cms.futurecdn.net/UwBrib8aSM9iinxKX5XNrj-1920-80.jpg",
+      "published_at": "2026-06-16T14:24:06Z",
+      "key_points": [
+        "DT 30 IE designed for musicians",
+        "Ideal for commuting",
+        "Portable and quality sound"
+      ],
+      "impact": "This appeals to both musicians and commuters.",
+      "id": "452aa907a368723f12b2c0404a039004"
     }
   ]
 }

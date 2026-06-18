@@ -1,6 +1,237 @@
 {
   "batches": [
     {
+      "id": "2026-06-18T20:24:31.381270+00:00",
+      "fetched_at": "2026-06-18T20:24:31.381270+00:00",
+      "label": "Jun 18, 2026 — 08:24 PM UTC",
+      "articles": [
+        {
+          "title": "Vampire Survivors Fortnite Crossover Might Not Happen Due To GenAI",
+          "description": "Poncle is hesitant about Epic's generative AI plans for Fortnite. The future of their collaboration remains uncertain.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/vampire-survivors-studio-reviewing-future-fortnite-collab-after-epics-genai-annoumcents-2000707634",
+          "image": "https://kotaku.com/app/uploads/2026/04/vcrawlers-1200x675.jpg",
+          "published_at": "2026-06-17T17:49:46Z",
+          "key_points": [
+            "Poncle doubts Epic's GenAI plans",
+            "Collaboration future uncertain",
+            "Epic pushes generative AI"
+          ],
+          "impact": "This could affect future game collaborations.",
+          "id": "c9ee1321b884bf0ea7252819a4ac32ba"
+        },
+        {
+          "title": "Android 17 just dropped for Pixel phones and Watch all at once - the biggest update of the year",
+          "description": "Google's Android 17 update is now available for Pixel devices and the Pixel Watch, marking a significant upgrade.",
+          "category": "Software",
+          "source": "PhoneArena",
+          "url": "https://www.phonearena.com/news/google-just-dropped-its-biggest-update-of-the-year-and-it-hits-android-17-pixel-and-watch-all-at-once_id181143",
+          "image": "",
+          "published_at": "2026-06-17T15:05:06Z",
+          "key_points": [
+            "Android 17 released today",
+            "Major update for Pixel devices",
+            "Includes new features and improvements"
+          ],
+          "impact": "This enhances user experience across devices.",
+          "id": "a5e2f06ce9657c8a8b329fd6dc14ab9e"
+        },
+        {
+          "title": "The Next Big Score",
+          "description": "Rockstar Games announces a new heist at the Kortz Center, promising thrilling gameplay and high-stakes action.",
+          "category": "Gaming",
+          "source": "Rockstargames.com",
+          "url": "https://www.rockstargames.com/newswire/article/517k8ak75ao327/the-next-big-score",
+          "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/517k8ak75ao327/bd8dd92adc077fa7ee13dcddc2d6a93cfb684599.jpg",
+          "published_at": "2026-06-17T13:57:37Z",
+          "key_points": [
+            "New heist at Kortz Center",
+            "Exciting gameplay promised",
+            "High-stakes action awaits"
+          ],
+          "impact": "This will attract more players to the game.",
+          "id": "9795ce556ff65a40881c6d5f2e0f92d5"
+        },
+        {
+          "title": "Samsung Galaxy Z Fold 8 Ultra: The Foldable We’ve Been Waiting For",
+          "description": "Samsung's Galaxy Z Fold 8 Ultra is confirmed, featuring innovative designs and improved functionality.",
+          "category": "Hardware",
+          "source": "Geeky Gadgets",
+          "url": "https://www.geeky-gadgets.com/samsung-galaxy-z-fold-8-ultra-8/",
+          "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/fold-8-ultra-design-1.jpg",
+          "published_at": "2026-06-17T07:02:55Z",
+          "key_points": [
+            "Galaxy Z Fold 8 Ultra confirmed",
+            "Innovative foldable design",
+            "Improved functionality expected"
+          ],
+          "impact": "This could redefine the foldable smartphone market.",
+          "id": "2860ce070ca3f145222d6b61ee62e6be"
+        },
+        {
+          "title": "Apple Stock Rises on AI AirPods and Foldable iPhone Report",
+          "description": "Apple shares increase as reports reveal advancements in AI AirPods and a new foldable iPhone model.",
+          "category": "Business",
+          "source": "Yahoo Entertainment",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-rises-ai-airpods-191952020.html",
+          "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+          "published_at": "2026-06-16T19:19:52Z",
+          "key_points": [
+            "Apple stock rises 1%",
+            "New AI AirPods in development",
+            "Foldable iPhone model reported"
+          ],
+          "impact": "Investors are optimistic about Apple's future.",
+          "id": "cc003efd641715b399662c30baffa5d0"
+        },
+        {
+          "title": "Apple Releases New Firmware for AirPods Pro 2, AirPods Pro 3 and Beats Studio Buds",
+          "description": "Apple updates firmware for AirPods Pro 2 and 3, enhancing performance and features.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/16/airpods-pro-firmware-8b41/",
+          "image": "https://images.macrumors.com/t/sLY2rnsZ8CO7pw9y-a1_y0wXDE8=/2322x/article-new/2021/11/AirPods-Pro-Firmware-Feature.jpg",
+          "published_at": "2026-06-16T18:19:01Z",
+          "key_points": [
+            "New firmware for AirPods released",
+            "Improves performance and features",
+            "Version number updated to 8B41"
+          ],
+          "impact": "Users will benefit from enhanced audio quality.",
+          "id": "06098cc614419eb9140498f8c38461b4"
+        },
+        {
+          "title": "Wear OS 7 drops today with Live Updates, Gemini, and more",
+          "description": "Google launches Wear OS 7, introducing live updates and new features for smartwatch users.",
+          "category": "Software",
+          "source": "Android Headlines",
+          "url": "https://www.androidheadlines.com/2026/06/wear-os-7-drops-today-with-live-updates-gemini-and-more.html",
+          "image": "https://www.androidheadlines.com/wp-content/uploads/2025/10/AH-Google-Pixel-Watch-4-scaled.jpg",
+          "published_at": "2026-06-16T18:00:40Z",
+          "key_points": [
+            "Wear OS 7 officially launched",
+            "Includes live updates feature",
+            "New functionalities added"
+          ],
+          "impact": "This enhances smartwatch usability significantly.",
+          "id": "315f28bbfb2124f24f45ab69e286bfe9"
+        },
+        {
+          "title": "These are the best iPadOS 27 features you should try [Video]",
+          "description": "iPadOS 27 introduces impressive new features that enhance user experience and functionality.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/16/these-are-the-best-ipados-27-features-you-should-try-video/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ipados27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-16T17:09:00Z",
+          "key_points": [
+            "iPadOS 27 features unveiled",
+            "Enhances user experience",
+            "Five key upgrades highlighted"
+          ],
+          "impact": "Users will enjoy a more efficient workflow.",
+          "id": "44b37f7129e89ec64e00531e3791be30"
+        },
+        {
+          "title": "Walt Disney World to Offer iOS 27's Upgraded Apple Wallet Key Feature",
+          "description": "iOS 27 enhances Apple Wallet with digital keys for Disney resorts, improving guest experience.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/16/disney-world-ios-27-apple-wallet/",
+          "image": "https://images.macrumors.com/t/4cWBU14420TsfW7CW78ftNO7Ydo=/1600x/article-new/2026/06/Disney-MagicMobile-Feature.jpg",
+          "published_at": "2026-06-16T16:02:24Z",
+          "key_points": [
+            "iOS 27 enhances Apple Wallet",
+            "Digital keys for Disney resorts",
+            "Improves guest experience"
+          ],
+          "impact": "This simplifies access for Disney visitors.",
+          "id": "add8a3616f684621f573df81dc159c7e"
+        },
+        {
+          "title": "Nearly a decade later, the original Switch finally has an eShop that isn't painfully slow, thanks to a new system update",
+          "description": "Nintendo updates the original Switch's eShop, significantly improving speed and user experience.",
+          "category": "Gaming",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/nintendo-switch-eshop-update",
+          "image": "https://assetsio.gnwcdn.com/Nintendo-eShop-official-image-Switch-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-16T15:59:43Z",
+          "key_points": [
+            "Original Switch eShop updated",
+            "Improved speed and performance",
+            "Enhances user experience"
+          ],
+          "impact": "Users will enjoy a smoother shopping experience.",
+          "id": "704de169cfe9be54c1a2ed424b697080"
+        },
+        {
+          "title": "Google Is Now Sending Broken Galaxy S22 Ultra As Replacements For Defective Pixel Units, As One Customer Found Out The Hard Way",
+          "description": "A customer received a broken Galaxy S22 Ultra as a replacement for a defective Pixel, highlighting Google's error.",
+          "category": "Software",
+          "source": "Wccftech",
+          "url": "https://wccftech.com/pixel-owner-received-broken-galaxy-s22-ultra-as-replacement-for-defective-unit/",
+          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/Pixel-9-Pro-XL-rotated.jpeg",
+          "published_at": "2026-06-16T15:54:00Z",
+          "key_points": [
+            "Google sends broken replacement",
+            "Customer experiences major blunder",
+            "Pixel replacement mishap reported"
+          ],
+          "impact": "This raises concerns about Google's customer service.",
+          "id": "4ca7af1a4d8dcf3814f6e9d4ac787670"
+        },
+        {
+          "title": "Minecraft Java Edition 26.2",
+          "description": "Minecraft Java Edition 26.2 introduces technical changes and improvements for players.",
+          "category": "Gaming",
+          "source": "Minecraft.net",
+          "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2",
+          "image": "https://www.minecraft.net/content/dam/minecraftnet/article-asset/2026/minecraft-26-2/new-article-hero-image.jpg",
+          "published_at": "2026-06-16T15:13:03Z",
+          "key_points": [
+            "Minecraft Java Edition 26.2 released",
+            "Technical changes introduced",
+            "Improves game performance"
+          ],
+          "impact": "Players will experience smoother gameplay.",
+          "id": "91417967a5379b15d1da60de113209a7"
+        },
+        {
+          "title": "Upcoming Xbox Exclusives Are Being Sent Out To Die, Analyst Says; Xbox Pushes Back",
+          "description": "Analysts claim Xbox exclusives are poorly timed, but Xbox's strategy team defends their release schedule.",
+          "category": "Gaming",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/upcoming-xbox-exclusives-are-being-sent-out-to-die-analyst-says-xbox-pushes-back/",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Xboxlogo_cde787.jpg",
+          "published_at": "2026-06-16T15:10:29Z",
+          "key_points": [
+            "Analyst criticizes Xbox release strategy",
+            "Xbox defends upcoming titles",
+            "Concerns over exclusive game timing"
+          ],
+          "impact": "This could affect Xbox's market position.",
+          "id": "f4d17dee45a3728d01e76c663c81b9b1"
+        },
+        {
+          "title": "Beyerdynamic's new IEM for musicians might also be ideal for your commute",
+          "description": "The DT 30 IE is designed for musicians but also suits commuters, offering portability and quality sound.",
+          "category": "Hardware",
+          "source": "Creative Bloq",
+          "url": "https://www.creativebloq.com/tech/headphones-earbuds/beyerdynamics-new-iem-for-musicians-might-also-be-ideal-for-your-commute",
+          "image": "https://cdn.mos.cms.futurecdn.net/UwBrib8aSM9iinxKX5XNrj-1920-80.jpg",
+          "published_at": "2026-06-16T14:24:06Z",
+          "key_points": [
+            "DT 30 IE designed for musicians",
+            "Ideal for commuting",
+            "Portable and quality sound"
+          ],
+          "impact": "This appeals to both musicians and commuters.",
+          "id": "452aa907a368723f12b2c0404a039004"
+        }
+      ]
+    },
+    {
       "id": "2026-06-18T15:20:37.707470+00:00",
       "fetched_at": "2026-06-18T15:20:37.707470+00:00",
       "label": "Jun 18, 2026 — 03:21 PM UTC",
@@ -6728,253 +6959,6 @@
           ],
           "impact": "These tools could redefine user interaction with Apple products.",
           "id": "a5516c0b6902ec894519e0a1b2383969"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-12T14:56:06.833283+00:00",
-      "fetched_at": "2026-06-12T14:56:06.833283+00:00",
-      "label": "Jun 12, 2026 — 02:56 PM UTC",
-      "articles": [
-        {
-          "title": "Xbox CEO Explains $800 Console Price",
-          "description": "Xbox's new CEO clarifies the reasons behind the console's $800 price tag, citing factors beyond Microsoft's control. Transparency is key in this new era for Xbox.",
-          "category": "Gaming",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/paultassi/2026/06/11/xbox-ceo-gives-a-good-explanation-for-why-a-console-now-costs-800/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a2ab77b6e43a729fb97c73f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "published_at": "2026-06-11T13:35:14Z",
-          "key_points": [
-            "Xbox price increase explained",
-            "Factors beyond Microsoft's control",
-            "New CEO emphasizes transparency"
-          ],
-          "impact": "Xbox's pricing strategy faces scrutiny amid rising costs.",
-          "id": "2da38b8a06aa9d0e60a70d8e58049319"
-        },
-        {
-          "title": "Trails from Zero Launching on PS5 and Switch",
-          "description": "The Legend of Heroes: Trails from Zero and Trails to Azure will launch on PS5 and Switch on September 10. Fans can look forward to these exciting releases.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/the-legend-of-heroes-trails-from-zero-and-the-legend-of-heroes-trails-to-azure-for-ps5-switch-2-launch-september-10",
-          "image": "",
-          "published_at": "2026-06-11T13:18:38Z",
-          "key_points": [
-            "Trails from Zero launches September 10",
-            "Available on PS5 and Switch",
-            "Exciting releases for fans"
-          ],
-          "impact": "Fans eagerly await the upcoming Trails releases.",
-          "id": "60bb184fcf48e618fe4f7e4d0ded8f81"
-        },
-        {
-          "title": "Unlock Destiny 2’s Secret Endings",
-          "description": "Destiny 2 players can unlock two secret endings before the game concludes. Bungie has hidden these endings, making them a must-see for fans.",
-          "category": "Gaming",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/paultassi/2026/06/11/how-to-unlock-destiny-2s-two-secret-final-endings/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a2aac1213810580a8913bfb/0x0.jpg?format=jpg&crop=2562,1440,x437,y0,safe&height=900&width=1600&fit=bounds",
-          "published_at": "2026-06-11T12:42:40Z",
-          "key_points": [
-            "Two secret endings available",
-            "Unlock before game ends",
-            "Bungie hides valuable content"
-          ],
-          "impact": "Players are motivated to explore hidden content.",
-          "id": "a5f43437c335e031fc41fb7ec80c2eef"
-        },
-        {
-          "title": "Minecraft 26.2 Release Candidate 1 Available",
-          "description": "Minecraft has released the first candidate for version 26.2, featuring the Chaos Cubed game drop. This version will be finalized if no critical issues arise.",
-          "category": "Gaming",
-          "source": "Minecraft.net",
-          "url": "https://www.minecraft.net/en-us/article/minecraft-26-2-release-candidate-1",
-          "image": "https://www.minecraft.net/content/dam/minecraftnet/article-asset/2026/minecraft-26-2-release-candidate-1/new-article-hero-image.jpg",
-          "published_at": "2026-06-11T12:42:27Z",
-          "key_points": [
-            "Minecraft 26.2 candidate released",
-            "Chaos Cubed game drop included",
-            "Final version pending critical issues"
-          ],
-          "impact": "Players can test new features in Minecraft.",
-          "id": "e1ebfb9dd77d38d31eae6dcca6933c1d"
-        },
-        {
-          "title": "macOS 27 Golden Gate Beta Review",
-          "description": "The macOS 27 Golden Gate beta introduces several useful improvements, enhancing user experience. However, one feature is still desired by users.",
-          "category": "Software",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/golden-gate-window-corner-1152x648-1781124749.jpeg",
-          "published_at": "2026-06-11T11:00:32Z",
-          "key_points": [
-            "Golden Gate beta improves user experience",
-            "AI features enhance functionality",
-            "Users desire additional features"
-          ],
-          "impact": "Users appreciate improvements in macOS 27.",
-          "id": "58ccfc0f6056b6f3f2f2abf7605b9e26"
-        },
-        {
-          "title": "Trump Phone Teardown Reveals HTC Duplication",
-          "description": "iFixit confirms that the Trump Mobile T1 Phone's internals closely resemble those of the HTC U24 Pro. This revelation raises questions about originality.",
-          "category": "Hardware",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/gadgets/948262/trump-phone-t1-ifixit-teardown-htc-u24-pro",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-mobile-t1-phone-redesign-website-2026.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-06-11T10:40:21Z",
-          "key_points": [
-            "Trump Phone resembles HTC U24 Pro",
-            "iFixit confirms internal similarities",
-            "Questions raised about originality"
-          ],
-          "impact": "Concerns grow over the phone's authenticity.",
-          "id": "e6baa06ee808ec9f02e6a760513ba867"
-        },
-        {
-          "title": "Alien: Isolation 2 Director Discusses Sequel",
-          "description": "The director of Alien: Isolation 2 shares insights on improving the beloved horror game while aiming to surpass the original. Fans eagerly anticipate the sequel.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/we-wanted-to-match-the-original-and-go-beyond-alien-isolation-2s-director-on-improving-a-survivor-horror-icon",
-          "image": "https://assets-prd.ignimgs.com/2026/06/10/alien-int-blog-1781088417100.jpg?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-11T08:10:38Z",
-          "key_points": [
-            "Director aims to surpass original",
-            "Fans excited for the sequel",
-            "Focus on improving horror elements"
-          ],
-          "impact": "Anticipation builds for Alien: Isolation 2.",
-          "id": "bc719773f809324c325d25bb9b3d7fca"
-        },
-        {
-          "title": "Deezer Launches AI Music Detector",
-          "description": "Deezer introduces an AI music detection tool for users of other streaming services, aiming to enhance music discovery. This move targets a broader audience.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NEW_1200-x-580-pixel-SI-logo-1240x600-1.jpeg?quality=90&strip=all&crop=3.7903225806452,0,92.41935483871,100",
-          "published_at": "2026-06-11T08:00:00Z",
-          "key_points": [
-            "Deezer's AI tool for all users",
-            "Enhances music discovery experience",
-            "Targets broader streaming audience"
-          ],
-          "impact": "Deezer expands its reach with new technology.",
-          "id": "b8acadde21ce5c9102b837cc97bd2fe3"
-        },
-        {
-          "title": "Galaxy S25 Receives New AI Features",
-          "description": "Samsung's Galaxy S25 series update includes two AI features previously exclusive to the Galaxy S26. This update also addresses security patches.",
-          "category": "Hardware",
-          "source": "SamMobile",
-          "url": "https://www.sammobile.com/news/galaxy-s25-gets-galaxy-s26s-two-galaxy-ai-features-missing-from-its-one-ui-8-5-update/",
-          "image": "https://www.sammobile.com/wp-content/uploads/2025/02/Galaxy-S25-Ultra-review-Galaxy-AI.jpg",
-          "published_at": "2026-06-11T07:00:00Z",
-          "key_points": [
-            "Galaxy S25 update includes AI features",
-            "Security patch also released",
-            "Enhancements from Galaxy S26 included"
-          ],
-          "impact": "Users benefit from new AI capabilities.",
-          "id": "6e39581e14b4dc30181e3598d3687382"
-        },
-        {
-          "title": "Apple's iPadOS 27 Beta Briefly Listed Unsupported Models",
-          "description": "Apple mistakenly listed restore images for unsupported iPad Pro models in the iPadOS 27 beta. The images were quickly removed from the downloads page.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/10/apples-ipados-27-beta-downloads-briefly-included-two-unsupported-ipad-pro-models/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/iPadOS-27-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-11T02:12:00Z",
-          "key_points": [
-            "Apple lists unsupported iPad models",
-            "Restore images removed quickly",
-            "Confusion over iPadOS 27 beta"
-          ],
-          "impact": "Users faced confusion over unsupported devices.",
-          "id": "b967558de2668ee12b1fbea2715681d5"
-        },
-        {
-          "title": "Final Fantasy XIV Online Switch 2 Trailer Released",
-          "description": "Square Enix unveils the gameplay trailer for Final Fantasy XIV Online on Switch 2, with early access starting this August. Fans are excited for the release.",
-          "category": "Gaming",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/06/square-enix-releases-final-fantasy-xiv-online-switch-2-gameplay-trailer",
-          "image": "https://images.nintendolife.com/d20c67b26fc0c/large.jpg",
-          "published_at": "2026-06-11T02:00:00Z",
-          "key_points": [
-            "Gameplay trailer released",
-            "Early access begins in August",
-            "Fans excited for Switch 2 version"
-          ],
-          "impact": "Anticipation builds for Final Fantasy XIV Online.",
-          "id": "7bf1f46bbea60cc9f31b001eaf10e666"
-        },
-        {
-          "title": "Samsung Galaxy Z Fold8 and Watch Ultra 2 Certified",
-          "description": "Samsung's Galaxy Z Fold8 and Galaxy Watch Ultra 2 receive new certifications, confirming their upcoming availability in India. Fans await these devices.",
-          "category": "Hardware",
-          "source": "GSMArena.com",
-          "url": "https://www.gsmarena.com/the_wide_samsung_galaxy_z_fold8_and_the_galaxy_watch_ultra_2_receive_new_certifications-news-73219.php",
-          "image": "https://fdn.gsmarena.com/imgroot/news/26/06/samsung-galaxy-z-fold8-wide-galaxy-watch-ultra-2-bis/-952x498w6/gsmarena_000.jpg",
-          "published_at": "2026-06-11T01:01:02Z",
-          "key_points": [
-            "Galaxy Z Fold8 certified",
-            "Galaxy Watch Ultra 2 certified",
-            "Devices coming to India soon"
-          ],
-          "impact": "Samsung prepares for new device launches.",
-          "id": "a88770cbcfad4597fa26a502b690a0d6"
-        },
-        {
-          "title": "YouTube Introduces In-App Messaging Feature",
-          "description": "YouTube rolls out a new in-app messaging system, allowing users to chat about videos directly. This feature aims to enhance community engagement.",
-          "category": "Software",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/06/10/youtube-new-messaging-chat/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/youtube-logo-circle-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-10T20:00:00Z",
-          "key_points": [
-            "New in-app messaging feature",
-            "Enhances community engagement",
-            "Chat about favorite videos"
-          ],
-          "impact": "YouTube fosters deeper user connections.",
-          "id": "864e88c4c0e4100791628850457ab9e4"
-        },
-        {
-          "title": "Stellar Blade: BLOOD RAIN Protagonist Explained",
-          "description": "The new protagonist Evie in Stellar Blade: BLOOD RAIN is introduced, tasked with hunting a terrorist group. This shift brings fresh narrative elements.",
-          "category": "Gaming",
-          "source": "Niche Gamer",
-          "url": "https://nichegamer.com/stellar-blade-blood-rain-why-protag-so-young/",
-          "image": "https://media.nichegamer.com/wp-content/uploads/2026/06/Stellar-Blade-Blood-Rain-06-10-26-1.jpg",
-          "published_at": "2026-06-10T19:01:00Z",
-          "key_points": [
-            "New protagonist Evie introduced",
-            "Focus on hunting terrorist group",
-            "Fresh narrative elements in gameplay"
-          ],
-          "impact": "Players look forward to new storylines.",
-          "id": "38ae7941d751b369f12a5ab499a7afb7"
-        },
-        {
-          "title": "iPhone 18 Pro Features to Tempt Upgrades",
-          "description": "The upcoming iPhone 18 Pro may entice users with three new features, set to launch this fall. Apple fans are eager for the latest flagship model.",
-          "category": "Hardware",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/10/iphone-18-pro-three-new-features-might-make-you-want-to-upgrade/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-blue-angle-two.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-10T18:51:00Z",
-          "key_points": [
-            "iPhone 18 Pro launching this fall",
-            "Three new enticing features",
-            "Fans eager for upgrade"
-          ],
-          "impact": "Anticipation grows for the iPhone 18 Pro.",
-          "id": "4038d0d62bf22a12f46dec282da51ea9"
         }
       ]
     }
