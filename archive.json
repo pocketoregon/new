@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-19T15:16:24.104023+00:00",
+      "fetched_at": "2026-06-19T15:16:24.104023+00:00",
+      "label": "Jun 19, 2026 — 03:16 PM UTC",
+      "articles": [
+        {
+          "title": "Hedonites of Slaanesh Battle Traits Unveiled",
+          "description": "Discover new battle traits for the Hedonites of Slaanesh in Warhammer Age of Sigmar. Enhance your gameplay with these exciting updates.",
+          "category": "Gaming",
+          "source": "Warhammer-community.com",
+          "url": "https://www.warhammer-community.com/articles/75cyi2wg/succumb-to-temptation",
+          "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/aos_hosrules-jun15-1-feature-nvsn7fh4iw.jpg",
+          "published_at": "2026-06-18T14:25:41Z",
+          "key_points": [
+            "New traits enhance gameplay",
+            "Focus on Hedonites of Slaanesh",
+            "Exciting updates for players"
+          ],
+          "impact": "Players can expect fresh strategies in gameplay.",
+          "id": "474c196c7d091b5fabb8f2d360b2d3de"
+        },
+        {
+          "title": "Gabe Newell Buys $70.8M Florida Mansion",
+          "description": "Valve founder Gabe Newell purchases a luxurious $70.8 million mansion in Florida, featuring a private dock and ocean access tunnel.",
+          "category": "Business",
+          "source": "The Seattle Times",
+          "url": "https://www.seattletimes.com/business/real-estate/gabe-newell-founder-of-bellevues-valve-buys-70-8m-florida-mansion/",
+          "image": "https://images.seattletimes.com/wp-content/uploads/2026/06/06172026_tzr_tzr_154347.jpg?d=1200x630",
+          "published_at": "2026-06-18T14:20:47Z",
+          "key_points": [
+            "Gabe Newell's new mansion",
+            "Features private dock",
+            "Cost $70.8 million"
+          ],
+          "impact": "Newell's purchase highlights his wealth and influence.",
+          "id": "883c37b1e8afe0a2544fbf38286eeb21"
+        },
+        {
+          "title": "GTA VI Cover Art and Pre-Order Date Revealed",
+          "description": "The official cover art for Grand Theft Auto VI has been unveiled, along with its pre-order date, exciting fans ahead of release.",
+          "category": "Gaming",
+          "source": "Bleacher Report",
+          "url": "https://bleacherreport.com/articles/25442069-grand-theft-auto-vi-cover-and-pre-order-date-revealed-new-viral-video-months-release",
+          "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-06/2212422820_large_cropped.jpg?w=3800&h=2000",
+          "published_at": "2026-06-18T14:03:45Z",
+          "key_points": [
+            "GTA VI cover art revealed",
+            "Pre-order date announced",
+            "Fans excited for release"
+          ],
+          "impact": "Anticipation for GTA VI continues to grow.",
+          "id": "c2aa0003a4f12f43d5b241738dab9d78"
+        },
+        {
+          "title": "Sony Did Not End Destiny 2 for Revenge",
+          "description": "Reports clarify that Sony's closure of Destiny 2 was not a revenge act against Bungie, dispelling fan theories.",
+          "category": "Gaming",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/06/18/no-sony-did-not-end-destiny-2-to-get-revenge-on-bungie/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a11a663649790fc925b0e42/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-18T13:56:36Z",
+          "key_points": [
+            "Sony's closure not revenge",
+            "Clarifies fan misconceptions",
+            "Destiny 2's end explained"
+          ],
+          "impact": "Fans can now understand the closure's context.",
+          "id": "067e2afec246b8b7cacdb57a6bc8a4d7"
+        },
+        {
+          "title": "Android 17 Update: Pixel Performance Poll",
+          "description": "Users are asked if their Pixel devices run smoother after updating to Android 17, gauging performance improvements.",
+          "category": "Software",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/18/is-your-pixel-running-smoother-after-updating-to-android-17-poll/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-18T12:00:00Z",
+          "key_points": [
+            "Poll on Android 17 performance",
+            "User feedback sought",
+            "Pixel device improvements"
+          ],
+          "impact": "User experiences will inform future updates.",
+          "id": "bf9118947347de6a64ed70fb18f6dfe4"
+        },
+        {
+          "title": "Ghost in the Shell Keyboard Review",
+          "description": "Iqunix’s EV63 Ghost in the Shell Edition keyboard combines anime aesthetics with high-performance gaming features.",
+          "category": "Gaming",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/951371/iqunix-ev63-ghost-in-the-shell-edition-anime-gaming-mechanical-keyboard-review",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268602_Iqunix_EV63_Ghost_in_the_Shell_mechanical_keyboards_ADiBenedetto_0004.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-18T12:00:00Z",
+          "key_points": [
+            "Anime-inspired design",
+            "High-performance features",
+            "Great tactile feedback"
+          ],
+          "impact": "A must-have for anime and gaming fans.",
+          "id": "7aa8e3798fa05a518389240eff552237"
+        },
+        {
+          "title": "GTA Online: Fine Art Collector Program",
+          "description": "Join the Fine Art Collector program in GTA Online to earn special rewards, including up to GTA$1,500,000 in bonus cash.",
+          "category": "Gaming",
+          "source": "Rockstar Games",
+          "url": "https://www.rockstargames.com/newswire/article/4k157o2o8k7o7o/earn-special-rewards-in-gta-online-with-the-fine-art-collector-program",
+          "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/4k157o2o8k7o7o/3f3aad75b26a79d0339aa43ce43cfdfb4e1da53e.jpg",
+          "published_at": "2026-06-18T11:55:53Z",
+          "key_points": [
+            "Earn GTA$1,500,000",
+            "Join Fine Art Collector program",
+            "Special rewards available"
+          ],
+          "impact": "Players can boost their earnings in-game.",
+          "id": "2c91d08e8787d791ce8f021857a89b09"
+        },
+        {
+          "title": "Xbox Studio Layoffs Expected Amid Struggles",
+          "description": "A report indicates significant layoffs at Xbox studios, leading to potential job losses and studio closures due to internal pressures.",
+          "category": "Business",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/amid-concern-over-xbox-studio-bloodbath-new-report-says-developers-are-being-punished-today-for-following-orders",
+          "image": "https://assets-prd.ignimgs.com/2026/05/07/xbox-1778178511851.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-18T11:47:07Z",
+          "key_points": [
+            "Significant layoffs expected",
+            "Developers facing internal pressures",
+            "Potential studio closures"
+          ],
+          "impact": "The gaming industry faces uncertainty with layoffs.",
+          "id": "fbf895a215a8b6c779a82f513d071633"
+        },
+        {
+          "title": "Commodore Launches Linux-Powered Flip Phone",
+          "description": "Commodore introduces a new Linux-powered flip phone, reviving nostalgia for the brand's classic products.",
+          "category": "Hardware",
+          "source": "Hackaday",
+          "url": "https://hackaday.com/2026/06/18/commodore-unveils-linux-powered-flip-phone/",
+          "image": "https://hackaday.com/wp-content/uploads/2026/06/CommodorePhoneFeat.jpg",
+          "published_at": "2026-06-18T11:00:00Z",
+          "key_points": [
+            "Linux-powered flip phone",
+            "Nostalgic brand revival",
+            "New tech innovation"
+          ],
+          "impact": "Commodore aims to capture retro tech enthusiasts.",
+          "id": "2b59dc478b63b3efdb9bdc1d57442aff"
+        },
+        {
+          "title": "Treyarch Confuses Xbox Fans with Black Ops Reveal",
+          "description": "Treyarch announces Black Ops 1 and 2 for PS5, leaving Xbox fans puzzled about the game's availability on their platform.",
+          "category": "Gaming",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/06/treyarch-confuses-xbox-fans-with-black-ops-1-and-2-reveal-for-ps5",
+          "image": "https://images.purexbox.com/8ab8ad78b4b47/large.jpg",
+          "published_at": "2026-06-18T10:00:00Z",
+          "key_points": [
+            "Black Ops for PS5 announced",
+            "Xbox fans confused",
+            "No clear Xbox release date"
+          ],
+          "impact": "Fans await clarity on game availability.",
+          "id": "c0c224da3814605325fbcc45e40d9915"
+        },
+        {
+          "title": "12 Reasons to Wait for iPhone 18 Pro",
+          "description": "Anticipation builds for the iPhone 18 Pro, with several enhancements expected in Apple's next flagship smartphone.",
+          "category": "Business",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/18/12-reasons-wait-iphone-18-pro/",
+          "image": "https://images.macrumors.com/t/GEiBu2iaA9GrrmRRMXVC3ULLfZo=/2500x/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
+          "published_at": "2026-06-18T09:17:44Z",
+          "key_points": [
+            "iPhone 18 Pro enhancements",
+            "Launch in three months",
+            "Reasons to wait"
+          ],
+          "impact": "Consumers are encouraged to hold off on purchases.",
+          "id": "929eea04af08867287653a6d1fa9ec43"
+        },
+        {
+          "title": "Granblue Fantasy: Relink Demo Available Now",
+          "description": "A demo for Granblue Fantasy: Relink – Endless Ragnarok is now available on multiple platforms, allowing players to experience the game early.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/granblue-fantasy-relink-endless-ragnarok-demo-now-available",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/GBF-Demo_06-17-26.jpg",
+          "published_at": "2026-06-18T03:11:56Z",
+          "key_points": [
+            "Demo available for multiple platforms",
+            "Experience Endless Ragnarok early",
+            "Exciting gameplay preview"
+          ],
+          "impact": "Players can try the game before release.",
+          "id": "87fe2d33a8d748f83c966a21ecf75048"
+        },
+        {
+          "title": "Gemini Overlay Uses Bubbles for Multitasking",
+          "description": "The Gemini overlay on Android now utilizes Bubbles for better multitasking and conversation tracking, enhancing user experience.",
+          "category": "Software",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/17/gemini-overlay-bubble-android/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-overlay-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-18T02:16:00Z",
+          "key_points": [
+            "Gemini overlay updated",
+            "Bubbles for multitasking",
+            "Improved conversation tracking"
+          ],
+          "impact": "Enhanced multitasking capabilities for users.",
+          "id": "4f6fe3412e9e320ed324fa8c57c53e11"
+        },
+        {
+          "title": "OtherSide Entertainment Lays Off 17 Staff",
+          "description": "Following the cancellation of a game, OtherSide Entertainment has laid off 17 employees, impacting the studio's future projects.",
+          "category": "Business",
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/otherside-entertainment-lays-off-17-staff-following-game-cancellation",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltb38da172cac2072/6a32cc00283d295aa334d50d/thick_as_thieves.jpg?disable=upscale&width=1200&height=630&fit=crop",
+          "published_at": "2026-06-17T21:09:33Z",
+          "key_points": [
+            "17 staff laid off",
+            "Game cancellation impact",
+            "Studio's future uncertain"
+          ],
+          "impact": "The studio faces challenges after layoffs.",
+          "id": "54ae811a5ae30b2ff2771ff650dbe477"
+        },
+        {
+          "title": "Google Calendar Expands Event Color Options",
+          "description": "Google Calendar now offers expanded color options and a color picker, addressing a major design flaw for better event management.",
+          "category": "Software",
+          "source": "Android Police",
+          "url": "https://www.androidpolice.com/google-calendar-fixes-its-biggest-design-flaw-with-expanded-event-color-options/",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/12/illustration-of-a-google-calendar-schedule-grid-featuring-colorful-time-blocks-and-the-app-logo.png?w=1600&h=900&fit=crop",
+          "published_at": "2026-06-17T19:42:30Z",
+          "key_points": [
+            "Expanded color options added",
+            "New color picker feature",
+            "Improved event management"
+          ],
+          "impact": "Users can now organize events more effectively.",
+          "id": "90b300cb05f97337f7e3935f59eaf5cd"
+        }
+      ]
+    },
+    {
       "id": "2026-06-19T10:24:15.366042+00:00",
       "fetched_at": "2026-06-19T10:24:15.366042+00:00",
       "label": "Jun 19, 2026 — 10:24 AM UTC",
@@ -6936,253 +7183,6 @@
           ],
           "impact": "Legal battle narrows focus on specific versions.",
           "id": "852f4a4267a23288caf5d99f968495f7"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-13T13:57:29.706026+00:00",
-      "fetched_at": "2026-06-13T13:57:29.706026+00:00",
-      "label": "Jun 13, 2026 — 01:58 PM UTC",
-      "articles": [
-        {
-          "title": "Arch Linux's AUR Compromised by Malware Attack",
-          "description": "Over 400 packages in Arch Linux's AUR were compromised in a significant malware campaign this week. Users are advised to check their installations immediately.",
-          "category": "Security",
-          "source": "Phoronix",
-          "url": "https://www.phoronix.com/news/Arch-Linux-AUR-400-Compromised",
-          "image": "https://www.phoronix.net/image.php?id=cachyos-thelio-major&image=cachyos_thelio_2",
-          "published_at": "2026-06-12T10:39:00Z",
-          "key_points": [
-            "400+ packages affected",
-            "Users urged to check installations",
-            "Significant malware campaign"
-          ],
-          "impact": "This breach raises serious security concerns for users.",
-          "id": "f974f52fa15096dae95efabcb7de2ab5"
-        },
-        {
-          "title": "Tomb Raider: Legacy of Atlantis Uses AI for Development",
-          "description": "Crystal Dynamics utilized generative AI to create placeholder assets for Tomb Raider: Legacy of Atlantis, enhancing visualization during development.",
-          "category": "Gaming",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/tomb-raider-legacy-of-atlantis-ai-use-explained",
-          "image": "https://assetsio.gnwcdn.com/Lara-Croft-sits-with-her-arms-open-in-Tomb-Raider-Legacy-of-Atlantis.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-12T09:08:25Z",
-          "key_points": [
-            "AI used for placeholder assets",
-            "Improves development speed",
-            "Enhances visualization process"
-          ],
-          "impact": "AI integration could revolutionize game development.",
-          "id": "825318c7cf5b027679ad003595bf1cb2"
-        },
-        {
-          "title": "Valve Confirms Steam Frame Shipping This Summer",
-          "description": "Valve has announced that the Steam Frame will begin shipping this summer, promising exciting new features for gamers.",
-          "category": "Gaming",
-          "source": "UploadVR",
-          "url": "https://www.uploadvr.com/steam-frame-is-shipping-this-summer-valve-confirms/",
-          "image": "",
-          "published_at": "2026-06-12T08:25:29Z",
-          "key_points": [
-            "Steam Frame shipping confirmed",
-            "Launch set for summer",
-            "New features for gamers"
-          ],
-          "impact": "This could enhance the gaming experience significantly.",
-          "id": "4fd13e1be902e5710023d2701e0e2fe2"
-        },
-        {
-          "title": "Apple iOS 27 Now Available for Developers",
-          "description": "Apple has officially released the first developer beta of iOS 27, featuring new functionalities and improvements for iPhone users.",
-          "category": "Software",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/davidphelan/2026/06/11/apple-ios-27-release-date-when-you-can-download-the-new-iphone-software---starts-now/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a2763c80ab4a2c742ab14e6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "published_at": "2026-06-12T00:42:00Z",
-          "key_points": [
-            "iOS 27 beta released",
-            "New features unveiled",
-            "Available for developers now"
-          ],
-          "impact": "Developers can now explore new iOS capabilities.",
-          "id": "cec4bda10f669316a30732dca7f35cdd"
-        },
-        {
-          "title": "Fable Embraces Life Sim Elements",
-          "description": "Fable is evolving into a life simulation game, introducing new gameplay features that enhance player interaction and experience.",
-          "category": "Gaming",
-          "source": "Simscommunity.info",
-          "url": "https://simscommunity.info/2026/06/12/fable-life-sim-gameplay-features/",
-          "image": "https://simscommunity.info/wp-content/uploads/2026/06/FABLE-Life-Sim-Xbox-FI.jpg",
-          "published_at": "2026-06-11T22:43:06Z",
-          "key_points": [
-            "Fable adds life sim features",
-            "New gameplay elements introduced",
-            "Focus on player interaction"
-          ],
-          "impact": "This shift could attract a broader audience.",
-          "id": "cf8d847b8bd605856f4bc416f3755ef2"
-        },
-        {
-          "title": "Waze to Receive Long-Awaited Visual Upgrade",
-          "description": "Waze is set to roll out a visual upgrade that users have been requesting, enhancing the overall navigation experience.",
-          "category": "Software",
-          "source": "Android Police",
-          "url": "https://www.androidpolice.com/waze-traffic-light-map-update/",
-          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2024/10/waze.jpg?w=1600&h=900&fit=crop",
-          "published_at": "2026-06-11T22:21:11Z",
-          "key_points": [
-            "Waze visual upgrade coming",
-            "User-requested features",
-            "Enhanced navigation experience"
-          ],
-          "impact": "This update aims to improve user satisfaction.",
-          "id": "299895976fb914babcad3acdfb73bf8a"
-        },
-        {
-          "title": "iOS 27 Photos App Gets Major Improvements",
-          "description": "The Photos app in iOS 27 has received significant performance enhancements and new features aimed at improving user experience.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/guide/ios-27-photos-app/",
-          "image": "https://images.macrumors.com/t/unhPqyCVrTCjjDbsInY-zCuef6U=/2500x/article-new/2026/06/Whats-New-in-the-iOS-27-Photos-App-Feature.jpg",
-          "published_at": "2026-06-11T21:04:57Z",
-          "key_points": [
-            "Photos app improvements",
-            "New AI features added",
-            "Enhanced performance overall"
-          ],
-          "impact": "Users can expect a smoother photo management experience.",
-          "id": "55dd466392c493cd590d6c75b5222f2c"
-        },
-        {
-          "title": "Waymo Launches First National Ads Amid Competition",
-          "description": "Waymo is set to launch its first national advertising campaign to promote its driverless car service during the World Cup.",
-          "category": "Geopolitics",
-          "source": "The Wall Street Journal",
-          "url": "https://www.wsj.com/cmo-today/waymo-readies-first-national-ads-as-rivals-and-critics-proliferate-dcc1fbdb",
-          "image": "https://images.wsj.net/im-61537961/social",
-          "published_at": "2026-06-11T17:00:00Z",
-          "key_points": [
-            "Waymo launching national ads",
-            "Promoting driverless technology",
-            "Targeting World Cup audience"
-          ],
-          "impact": "This campaign aims to boost public perception.",
-          "id": "b4bae1490a9546884808a17c4049ee90"
-        },
-        {
-          "title": "Star Fox Designer Amazed by New Graphics",
-          "description": "The designer of Star Fox expressed emotional reactions to the stunning graphics in the upcoming Nintendo Switch 2 remake.",
-          "category": "Gaming",
-          "source": "Nintendo Everything",
-          "url": "https://nintendoeverything.com/star-fox-designer-choked-up-by-graphics-in-new-nintendo-switch-2-remake/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Star-Fox-update.jpg",
-          "published_at": "2026-06-11T16:56:55Z",
-          "key_points": [
-            "Designer impressed by graphics",
-            "New visuals for Star Fox",
-            "Excitement for upcoming release"
-          ],
-          "impact": "High expectations for the game's visual quality.",
-          "id": "afafef003aa1b67d918a2e06d97e61df"
-        },
-        {
-          "title": "Ocarina of Time Remake Revives Fan Hopes",
-          "description": "Fans reminisce about a 2011 tech demo as the Ocarina of Time remake promises to fulfill long-held dreams for Zelda enthusiasts.",
-          "category": "Gaming",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-could-fulfill-the-zelda-dream-killed-years-ago/",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/nintendoswitch2_thelegendofzelda_ocarinaoftime_screenshot.png?w=1600&h=900&fit=crop",
-          "published_at": "2026-06-11T16:41:44Z",
-          "key_points": [
-            "Fans excited for remake",
-            "Revives nostalgic memories",
-            "Tech demo sparked interest"
-          ],
-          "impact": "This remake could reignite Zelda fandom.",
-          "id": "e743b0bcc2ec2c44b53c60f83e0991f0"
-        },
-        {
-          "title": "Deezer Launches Tool to Identify AI Music",
-          "description": "Deezer has introduced a new tool that identifies AI-generated music across various streaming platforms, addressing growing concerns in the industry.",
-          "category": "Software",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
-          "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2180853826.jpg?resize=1200,800",
-          "published_at": "2026-06-11T16:36:20Z",
-          "key_points": [
-            "Deezer identifies AI music",
-            "Tool scans multiple platforms",
-            "Addresses industry concerns"
-          ],
-          "impact": "This tool could reshape music streaming standards.",
-          "id": "d008a461e5817c493730745ee82bf1a6"
-        },
-        {
-          "title": "Rhythm Heaven Groove Previews Released",
-          "description": "Previews for Rhythm Heaven Groove have surfaced, generating excitement and speculation about the upcoming game.",
-          "category": "Gaming",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/06/round-up-the-previews-are-in-for-rhythm-heaven-groove",
-          "image": "https://images.nintendolife.com/716e301164435/large.jpg",
-          "published_at": "2026-06-11T16:15:00Z",
-          "key_points": [
-            "Previews for Rhythm Heaven Groove",
-            "Excitement builds for release",
-            "Gameplay details revealed"
-          ],
-          "impact": "Anticipation is high for this title.",
-          "id": "4dad6fc51bb1d5616752b70f02715c5a"
-        },
-        {
-          "title": "Top JRPGs to Play Before Final Fantasy 7 Revelation",
-          "description": "With Final Fantasy 7 Revelation on the horizon, here are three must-play JRPGs to enjoy in the meantime.",
-          "category": "Gaming",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/best-jrpgs-like-ff7-revelation/",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/digimonstorytimestranger_header.jpg?w=1600&h=900&fit=crop",
-          "published_at": "2026-06-11T16:00:21Z",
-          "key_points": [
-            "Three JRPGs recommended",
-            "Perfect for waiting period",
-            "Exciting gameplay experiences"
-          ],
-          "impact": "These games will keep fans engaged.",
-          "id": "a3aeecd404e8fe43f2511e680eb7fa40"
-        },
-        {
-          "title": "RGG Studio Discusses Tupac's Game Inclusion",
-          "description": "Masayoshi Yokoyama from RGG Studio addresses the inclusion of Tupac in their upcoming game, emphasizing respect for his legacy.",
-          "category": "Gaming",
-          "source": "Game Informer",
-          "url": "https://gameinformer.com/2026/06/11/rgg-studio-head-talks-tupacs-controversial-stranger-than-heaven-inclusion",
-          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/10/dc363005/strangerthanheaven01.jpg.webp",
-          "published_at": "2026-06-11T15:42:41Z",
-          "key_points": [
-            "Tupac's legacy respected",
-            "RGG Studio discusses inclusion",
-            "Controversial game elements addressed"
-          ],
-          "impact": "This inclusion could spark significant discussions.",
-          "id": "c0a5497d1bfbfe57b64c1b9cc155f8b8"
-        },
-        {
-          "title": "Rimpact's New Mass Damper for Gravel Bikes",
-          "description": "Rimpact introduces a bolt-on tuned mass damper designed to reduce fatigue for gravel bike riders, enhancing comfort without replacing suspension forks.",
-          "category": "Hardware",
-          "source": "Outside Magazine",
-          "url": "https://velo.outsideonline.com/gravel/rimpact-bolt-on-mass-damper-gravel-bikes-promises-reduce-fatigue-first-look/#article",
-          "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/06/rimpact-tmd-for-gravel.jpg",
-          "published_at": "2026-06-11T15:30:11Z",
-          "key_points": [
-            "New mass damper for gravel bikes",
-            "Reduces rider fatigue",
-            "Enhances comfort without suspension"
-          ],
-          "impact": "This innovation could improve gravel biking experiences.",
-          "id": "25d381ee488cdd77f405efd4bac8fb8b"
         }
       ]
     }
