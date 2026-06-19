@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-19T04:11:06.110059+00:00",
+      "fetched_at": "2026-06-19T04:11:06.110059+00:00",
+      "label": "Jun 19, 2026 — 04:11 AM UTC",
+      "articles": [
+        {
+          "title": "Persona 6 Description Revealed - Kotaku",
+          "description": "The official Persona 6 description hints at familiar themes of occult and student life in Japan. Fans can expect classic series elements.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/official-persona-6-description-is-exactly-what-youd-expect-2000707692",
+          "image": "https://kotaku.com/app/uploads/2026/06/persona-5-1200x675.jpg",
+          "published_at": "2026-06-17T21:06:05Z",
+          "key_points": [
+            "Familiar occult themes",
+            "Student life setting",
+            "Classic series elements"
+          ],
+          "impact": "Persona 6 continues the franchise's beloved themes.",
+          "id": "3be1d54434a350e2e91e2a48247d3a73"
+        },
+        {
+          "title": "iPadOS 27 Unveiled - MacRumors",
+          "description": "iPadOS 27 introduces a smarter Siri and new Apple Intelligence features, enhancing user experience with iPad-specific improvements.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/17/ipados-27-hands-on/",
+          "image": "https://images.macrumors.com/t/RFneHHgP8MkQP96D5BzWRqh4t5Q=/2500x/article-new/2026/06/iPadOS-27-New-Features-Thumb.jpg",
+          "published_at": "2026-06-17T20:51:39Z",
+          "key_points": [
+            "Smarter Siri integration",
+            "New Apple Intelligence features",
+            "iPad-specific improvements"
+          ],
+          "impact": "iPadOS 27 enhances productivity and usability.",
+          "id": "b4c3aaf0998228c091de8877617ee943"
+        },
+        {
+          "title": "Xbox Ports Classic Call of Duty Games - Windows Central",
+          "description": "Xbox's Treyarch is bringing Black Ops and Black Ops 2 to PlayStation, expanding access to classic titles.",
+          "category": "Gaming",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/gaming/call-of-duty/xbox-is-porting-two-classic-call-of-duty-games-to-playstation-and-theyre-coming-very-very-soon",
+          "image": "https://cdn.mos.cms.futurecdn.net/vgDVVeSYsMJSfVBpWsUJkc-1067-80.jpg",
+          "published_at": "2026-06-17T20:14:11Z",
+          "key_points": [
+            "Classic games on PlayStation",
+            "Black Ops series revival",
+            "Expanded gaming access"
+          ],
+          "impact": "Bringing classic titles to new audiences.",
+          "id": "a8d96900c8dfd5625b4f210276b42fd1"
+        },
+        {
+          "title": "Sony Launches Lytia 910 Sensor - GSMArena.com",
+          "description": "Sony's Lytia 910 sensor features 100dB dynamic range, enabling HDR photography and 4K video recording in one shot.",
+          "category": "Hardware",
+          "source": "GSMArena.com",
+          "url": "https://www.gsmarena.com/sony_unveils_the_lytia_910_its_first_lofic_sensor_and_it_boasts_100db_dynamic_range-news-73318.php",
+          "image": "https://fdn.gsmarena.com/imgroot/news/26/06/sony-lytia-910-lofic-sensor/-952x498w6/gsmarena_000.jpg",
+          "published_at": "2026-06-17T19:48:02Z",
+          "key_points": [
+            "100dB dynamic range",
+            "HDR photography capabilities",
+            "4K video recording"
+          ],
+          "impact": "Advances in imaging technology for professionals.",
+          "id": "4816c7747136717ba2381a20ffdf2f78"
+        },
+        {
+          "title": "Anthropic Updates Claude Design - VentureBeat",
+          "description": "Claude Design receives a major overhaul, enhancing design-to-code workflows with new features and reduced token usage.",
+          "category": "Software",
+          "source": "VentureBeat",
+          "url": "https://venturebeat.com/technology/anthropic-ships-major-claude-design-overhaul-with-design-system-imports-code-round-trips-and-a-fix-for-its-token-burning-problem",
+          "image": "https://images.ctfassets.net/jdtwqhzvc2n1/A7rh9k4f5l3OFsViB4gjc/8c1c2679504faa38007e3e334377755f/image__1___1_.png?w=800&q=75",
+          "published_at": "2026-06-17T19:00:00Z",
+          "key_points": [
+            "Design-to-code enhancements",
+            "Lower token usage",
+            "New enterprise app exports"
+          ],
+          "impact": "Strengthens Claude as a design platform.",
+          "id": "12aca1231575c7a546dfe164997158ce"
+        },
+        {
+          "title": "Google Introduces Gemini Smart Speaker - TechCrunch",
+          "description": "Google's new Home Speaker utilizes Gemini AI for a more conversational experience, moving beyond rigid commands.",
+          "category": "Hardware",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Google-Home-Speaker-Berry.jpeg?resize=1200,899",
+          "published_at": "2026-06-17T16:30:09Z",
+          "key_points": [
+            "Conversational AI interactions",
+            "$99.99 price point",
+            "Reinventing smart speakers"
+          ],
+          "impact": "Gemini aims to redefine smart speaker usability.",
+          "id": "d9843e598aa8e1c64347542b5f78bac1"
+        },
+        {
+          "title": "Unreal Engine 6 Integrates AI - Video Games Chronicle",
+          "description": "Epic's Unreal Engine 6 will incorporate AI models to streamline game development and reduce repetitive tasks.",
+          "category": "Gaming",
+          "source": "Video Games Chronicle",
+          "url": "https://www.videogameschronicle.com/news/epic-reveals-unreal-engine-6-is-integrating-ai-models-so-developers-can-reduce-tedious-work/",
+          "image": "https://www.videogameschronicle.com/files/2026/06/Screenshot-2026-06-17-165123.jpg",
+          "published_at": "2026-06-17T16:02:29Z",
+          "key_points": [
+            "AI integration in development",
+            "Faster content creation",
+            "Maintains creative control"
+          ],
+          "impact": "AI will transform game development processes.",
+          "id": "cab83a2fbe9e626499051e7760c56c86"
+        },
+        {
+          "title": "Dispatch Developer Addresses Censorship - IGN",
+          "description": "AdHoc Studio releases a patch for Dispatch, unlocking more nudity options on Switch after player backlash over censorship.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/dispatch-developer-addresses-controversial-switch-censorship-with-new-patch-though-some-hard-requirements-from-nintendo-remain",
+          "image": "https://assets-prd.ignimgs.com/2026/06/15/hr-violations-pack-toxic-chaotic-1781529596174.png?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-17T16:00:00Z",
+          "key_points": [
+            "Patch unlocks nudity options",
+            "Player backlash addressed",
+            "Nintendo requirements remain"
+          ],
+          "impact": "Developer responds to community concerns.",
+          "id": "94e14b10254a72d092d28e7c379e902a"
+        },
+        {
+          "title": "OnePlus Launches 15R with More RAM - GSMArena.com",
+          "description": "OnePlus defies RAM price trends by offering the 15R with increased memory at a competitive price.",
+          "category": "Hardware",
+          "source": "GSMArena.com",
+          "url": "https://www.gsmarena.com/oneplus_defies_ram_crisis_offers_the_15r_with_more_memory-news-73316.php",
+          "image": "https://fdn.gsmarena.com/imgroot/news/26/06/oneplus-15r-more-ram/-952x498w6/gsmarena_000.jpg",
+          "published_at": "2026-06-17T15:58:01Z",
+          "key_points": [
+            "More RAM at competitive price",
+            "Defies RAM price trends",
+            "Continues innovation in smartphones"
+          ],
+          "impact": "OnePlus challenges market trends with new device.",
+          "id": "bbe002c5b184aaa12233d0355652c621"
+        },
+        {
+          "title": "SanDisk's New PS5 SSD Priced High - The Verge",
+          "description": "SanDisk's 8TB Optimus GX PRO SSD for PS5 is priced at nearly $3,000, offering extensive game storage.",
+          "category": "Hardware",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/951527/sandisk-optimus-gx-pro-850p-nvme-ssd-8tb-ps5-playstation-sony",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/sandisk1.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+          "published_at": "2026-06-17T15:34:29Z",
+          "key_points": [
+            "8TB storage capacity",
+            "High price point",
+            "Officially licensed accessory"
+          ],
+          "impact": "Premium pricing for extensive PS5 storage.",
+          "id": "a0fd4863c271d1f3557a6743eb24ad6e"
+        },
+        {
+          "title": "iOS 27 Boosts iPhone Speed - 9to5Mac",
+          "description": "iOS 27 enhances iPhone performance with over 40 improvements, alongside new AI features and Siri enhancements.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/17/ios-27-makes-your-iphone-faster-in-40-ways-heres-the-full-list/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-17T15:33:00Z",
+          "key_points": [
+            "40+ performance improvements",
+            "New AI features",
+            "Enhanced Siri capabilities"
+          ],
+          "impact": "iOS 27 significantly boosts iPhone speed.",
+          "id": "688d1cfc919669c3532a9fb1a05e8fcf"
+        },
+        {
+          "title": "Frigibax Community Day Announced - Pokémon GO Hub",
+          "description": "Pokémon GO's Frigibax Community Day will feature the evolution of Arctibax into Baxcalibur, highlighting a new Charged Attack.",
+          "category": "Gaming",
+          "source": "Pokemon GO Hub",
+          "url": "https://pokemongohub.net/post/meta/frigibax-community-day-pve-analysis-is-baxcalibur-with-glaive-rush-worth-building/",
+          "image": "https://pokemongohub.net/wp-content/uploads/2023/09/baxcalibur-frigibax-artibax.jpg",
+          "published_at": "2026-06-17T14:14:41Z",
+          "key_points": [
+            "Community Day on June 20",
+            "New Charged Attack",
+            "Spotlight on Baxcalibur"
+          ],
+          "impact": "Exciting new features for Pokémon GO players.",
+          "id": "f31991a7c6e43bd0e573029749ad94a8"
+        },
+        {
+          "title": "Rockstar Games Announces New Heist - Rockstar Games",
+          "description": "Rockstar reveals a new heist at the Kortz Center, promising thrilling gameplay and high-stakes action.",
+          "category": "Gaming",
+          "source": "Rockstargames.com",
+          "url": "https://www.rockstargames.com/newswire/article/517k8ak75ao327/the-next-big-score?utm_source=twitter&amp;amp;utm_medium=o_social&amp;amp;utm_campaign=gtao_announcement_kch-20260617",
+          "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/517k8ak75ao327/bd8dd92adc077fa7ee13dcddc2d6a93cfb684599.jpg",
+          "published_at": "2026-06-17T13:57:37Z",
+          "key_points": [
+            "New heist at Kortz Center",
+            "High-stakes gameplay",
+            "Exciting new content"
+          ],
+          "impact": "New heist adds thrilling gameplay to GTA.",
+          "id": "d841446746c96a2c328044cf059d0b1e"
+        },
+        {
+          "title": "New Ranked Battles Season in Pokémon Champions - Pokemon.com",
+          "description": "A new regulation set and Ranked Battles season have begun in Pokémon Champions, enhancing competitive gameplay.",
+          "category": "Gaming",
+          "source": "Pokemon.com",
+          "url": "https://www.pokemon.com/us/pokemon-news/regulation-set-m-b-kicks-off-a-new-ranked-battles-season-and-battle-pass-in-pokemon-champions",
+          "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/attend-events/_tiles/2026/vgc/regulation-set/m-b/pokemon-champions-169-en.png",
+          "published_at": "2026-06-17T13:04:12Z",
+          "key_points": [
+            "New regulation set introduced",
+            "Ranked Battles season starts",
+            "Battle Pass available"
+          ],
+          "impact": "Enhances competitive play in Pokémon Champions.",
+          "id": "056862d55b2d88948443368889d3fa19"
+        },
+        {
+          "title": "Samsung Galaxy XR Launches in the UK - Samsung",
+          "description": "Samsung's Galaxy XR, its first extended reality device, is available for pre-order, launching on July 8.",
+          "category": "Hardware",
+          "source": "Samsung.com",
+          "url": "https://news.samsung.com/uk/samsung-galaxy-xr-arrives-in-the-uk",
+          "image": "https://img.global.news.samsung.com/uk/wp-content/uploads/2026/06/5075302-Samsung-MX-GalaxyXR-Lifestyle-KV_Try-on_07-1920x1080px-v2.jpg",
+          "published_at": "2026-06-17T12:16:26Z",
+          "key_points": [
+            "First extended reality device",
+            "Pre-orders available now",
+            "Launch on July 8"
+          ],
+          "impact": "Samsung enters the XR market with Galaxy XR.",
+          "id": "42f390fe4406820e1b40ef7b7ab6bc44"
+        }
+      ]
+    },
+    {
       "id": "2026-06-18T22:55:23.167955+00:00",
       "fetched_at": "2026-06-18T22:55:23.167955+00:00",
       "label": "Jun 18, 2026 — 10:55 PM UTC",
@@ -6936,29 +7183,6 @@
           ],
           "impact": "Windows 11 update enhances user experience.",
           "id": "6e8d8e53a7c23502b955b75fdfc34f8a"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-12T20:09:20.144781+00:00",
-      "fetched_at": "2026-06-12T20:09:20.144781+00:00",
-      "label": "Jun 12, 2026 — 08:09 PM UTC",
-      "articles": [
-        {
-          "title": "Windows BitLocker 0-Day Vulnerability Exposed",
-          "description": "Microsoft revealed a critical BitLocker vulnerability, CVE-2026-50507, allowing attackers to bypass security. This flaw was disclosed during the June Patch Tuesday release.",
-          "category": "Security",
-          "source": "Cybersecuritynews.com",
-          "url": "https://cybersecuritynews.com/windows-bitlocker-0-day-bypass-vulnerability/",
-          "image": "http://cybersecuritynews.com/wp-content/uploads/2026/06/Windows-BitLocker-0-Day-Vulnerability-Allow-Attackers-to-bypass-security-feature.webp",
-          "published_at": "2026-06-10T06:13:23Z",
-          "key_points": [
-            "CVE-2026-50507 identified",
-            "Allows unauthorized access",
-            "Disclosed on June Patch Tuesday"
-          ],
-          "impact": "This vulnerability poses significant security risks to users.",
-          "id": "abd2956b779f25d74b096591a18cfb84"
         }
       ]
     }
