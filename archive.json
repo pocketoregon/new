@@ -1,6 +1,221 @@
 {
   "batches": [
     {
+      "id": "2026-06-19T22:02:46.202745+00:00",
+      "fetched_at": "2026-06-19T22:02:46.202745+00:00",
+      "label": "Jun 19, 2026 — 10:03 PM UTC",
+      "articles": [
+        {
+          "title": "GTA VI Pre-Order Date and Cover Art Revealed",
+          "description": "Rockstar Games announces Grand Theft Auto VI's pre-order date and reveals its cover art. Fans can expect classic GTA aesthetics.",
+          "category": "Gaming",
+          "source": "Gameinformer.com",
+          "url": "https://gameinformer.com/2026/06/18/grand-theft-auto-vi-pre-order-date-and-cover-art-revealed",
+          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/05/06/fc1a574c/vice_city_04.jpg.webp",
+          "published_at": "2026-06-18T13:42:43Z",
+          "key_points": [
+            "Pre-order date announced",
+            "Classic GTA cover art",
+            "Promotional video released"
+          ],
+          "impact": "GTA VI hype builds with pre-order announcement.",
+          "id": "5090b4515d504896cbff82ef2010e6a5"
+        },
+        {
+          "title": "The Grinch 2: Saving Christmas Announced",
+          "description": "Outright Games and Casual Brothers unveil The Grinch 2: Saving Christmas for multiple platforms. The adventure game sequel promises festive fun.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/the-grinch-2-saving-christmas-announced-for-ps5-xbox-series-ps4-switch-and-pc",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/The-Grinch-2-Saving-Christmas_2026_06-18-26_006.jpg",
+          "published_at": "2026-06-18T13:18:09Z",
+          "key_points": [
+            "New Grinch game announced",
+            "Available on multiple platforms",
+            "Developed with Dr. Seuss Enterprises"
+          ],
+          "impact": "Fans can look forward to a festive adventure.",
+          "id": "0b424490e27c974ec967af35abb4273b"
+        },
+        {
+          "title": "Adobe Integrates AI Assistant into Creative Apps",
+          "description": "Adobe enhances its Firefly AI assistant, adding it to Premiere, Illustrator, and InDesign. New features include brand kits and product video creation.",
+          "category": "Software",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Firefly-Creative-AI-Assistant-16x9-1.jpeg?resize=1200,526",
+          "published_at": "2026-06-18T13:00:00Z",
+          "key_points": [
+            "AI assistant now in major apps",
+            "New creative features added",
+            "Focus on brand and video creation"
+          ],
+          "impact": "Adobe boosts productivity with AI enhancements.",
+          "id": "74d3ec5eae79ca24d700c10ba2930fd6"
+        },
+        {
+          "title": "YouTube Tests New Android UI Design",
+          "description": "YouTube is experimenting with a redesigned player UI on Android, changing button layouts and removing text. Users may need to adjust.",
+          "category": "Gaming",
+          "source": "Android Authority",
+          "url": "https://www.androidauthority.com/youtube-ui-redesign-test-again-3678953/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/youtube-logo-google-pixel-10a-2-scaled.jpg",
+          "published_at": "2026-06-18T12:29:39Z",
+          "key_points": [
+            "New button layout tested",
+            "Text removed from buttons",
+            "User experience may change"
+          ],
+          "impact": "YouTube's redesign could confuse regular users.",
+          "id": "77f8c4662ecfa6653c3c31f7a8cdec9c"
+        },
+        {
+          "title": "Concerns Arise Over Epic's AI Use in Games",
+          "description": "Poncle expresses worries about its Vampire Survivors collaboration with Fortnite after Epic's generative AI asset designs. The industry watches closely.",
+          "category": "Gaming",
+          "source": "Eurogamer.net",
+          "url": "https://www.eurogamer.net/fortnite-gen-ai-vampire-survivors-collaboration-reviewed-epic-poncle",
+          "image": "https://assetsio.gnwcdn.com/artwork-for-Vampire-Survivors-on-the-left-showing-a-male-with-yellow-eyes-looking-intently-towards-the-camera-next-to-an-image-of-Peeley-from-Fortnite-on-the-right.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-18T12:13:13Z",
+          "key_points": [
+            "Poncle reconsiders collaboration",
+            "Concerns over AI asset design",
+            "Epic's AI use under scrutiny"
+          ],
+          "impact": "Industry reactions highlight AI's controversial role.",
+          "id": "d68ba3e075b1400e9044570b8a7e78a2"
+        },
+        {
+          "title": "Pokémon News Weekly Roundup Released",
+          "description": "The first volume of Pokémon News Weekly Roundup covers Champions Free Gifts and PokémonXP reveals. Stay updated on non-GO Pokémon news.",
+          "category": "Gaming",
+          "source": "Pokemon GO Hub",
+          "url": "https://pokemongohub.net/post/news/pokemon-news-weekly-round-up-vol-1/",
+          "image": "https://pokemongohub.net/wp-content/uploads/2026/06/pokemonxp-169.png",
+          "published_at": "2026-06-18T11:58:29Z",
+          "key_points": [
+            "Weekly Pokémon news roundup",
+            "Focus on non-GO updates",
+            "Champions Free Gifts announced"
+          ],
+          "impact": "Fans stay informed on Pokémon developments.",
+          "id": "47ebb38fefd29186b5cba7e36db3675f"
+        },
+        {
+          "title": "New Google Home Speaker Criticized by Users",
+          "description": "Google's new Home Speaker replaces Nest Audio but lacks clear improvements, frustrating existing users. The design overhaul raises concerns.",
+          "category": "Hardware",
+          "source": "Android Authority",
+          "url": "https://www.androidauthority.com/google-home-speaker-bad-nest-audio-upgrade-3678211/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/google_home_speaker_berry.jpg",
+          "published_at": "2026-06-18T11:00:35Z",
+          "key_points": [
+            "New speaker replaces Nest Audio",
+            "Users express dissatisfaction",
+            "Design overhaul criticized"
+          ],
+          "impact": "Google faces backlash over speaker upgrade.",
+          "id": "bd872782b45de8af893e072d765ce6a7"
+        },
+        {
+          "title": "EA Sports FC 26 Joins Xbox Game Pass",
+          "description": "EA Sports FC 26 is now available on Xbox Game Pass Ultimate, coinciding with the FIFA World Cup. Football fans rejoice with this timely addition.",
+          "category": "Gaming",
+          "source": "TrueAchievements",
+          "url": "https://www.trueachievements.com/news/ea-sports-fc-26-xbox-game-pass",
+          "image": "https://www.trueachievements.com/imgs/176156/fc-26-xbox-game-pass.jpg",
+          "published_at": "2026-06-18T09:54:48Z",
+          "key_points": [
+            "EA Sports FC 26 added",
+            "Perfect timing with World Cup",
+            "Available on Game Pass Ultimate"
+          ],
+          "impact": "Football fans gain access to new game.",
+          "id": "621351372803a629320e1417e2b40e61"
+        },
+        {
+          "title": "Prime Day Gaming Deals Announced",
+          "description": "Prime Day offers up to 54% off on games, consoles, and accessories across platforms. Great savings for gamers are now available.",
+          "category": "Gaming",
+          "source": "Tom's Guide",
+          "url": "https://www.tomsguide.com/gaming/prime-day-gaming-deals-take-up-to-54-percent-off-nintendo-switch-ps5-gaming-pcs-and-more-23-deals-you-cant-miss",
+          "image": "https://cdn.mos.cms.futurecdn.net/uUH4CEAWez99vp4ea8QK8Q-2560-80.jpg",
+          "published_at": "2026-06-18T09:41:27Z",
+          "key_points": [
+            "Prime Day discounts announced",
+            "Up to 54% off",
+            "Deals on multiple platforms"
+          ],
+          "impact": "Gamers can save big this Prime Day.",
+          "id": "4a8edfac54a7eefc849f073cf161c32f"
+        },
+        {
+          "title": "GTA 6 Gameplay Leak Surfaces",
+          "description": "Gameplay leaks for Grand Theft Auto VI emerge ahead of the anticipated trailer. Fans are eager for more details as release approaches.",
+          "category": "Gaming",
+          "source": "Screen Rant",
+          "url": "https://screenrant.com/gta-6-gameplay-leak-june-2026/",
+          "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/gta-6-key-art-1.jpg?w=1600&h=900&fit=crop",
+          "published_at": "2026-06-18T09:31:37Z",
+          "key_points": [
+            "Gameplay leaks reported",
+            "Anticipation builds for trailer",
+            "Release date seems confirmed"
+          ],
+          "impact": "Leaks heighten excitement for GTA VI.",
+          "id": "2d0e51b612b662a47886a880a2e358f4"
+        },
+        {
+          "title": "Gabe Newell Reportedly Buys Florida Estate",
+          "description": "Valve's Gabe Newell is reported to have purchased a luxury estate in Florida, raising speculation about his future plans. Seattle-area billionaires are relocating.",
+          "category": "Geopolitics",
+          "source": "GeekWire",
+          "url": "https://www.geekwire.com/2026/loss-of-another-seattle-area-billionaire-valves-gabe-newell-is-reported-buyer-of-florida-estate/",
+          "image": "https://cdn.geekwire.com/wp-content/uploads/2026/06/gabe-newell.jpg",
+          "published_at": "2026-06-18T02:44:51Z",
+          "key_points": [
+            "Gabe Newell buys Florida estate",
+            "Speculation on relocation",
+            "Seattle billionaires moving away"
+          ],
+          "impact": "Newell's move reflects regional trends.",
+          "id": "b32bcd36f506e49d892c7344005dbce2"
+        },
+        {
+          "title": "Apple Unveils New Developer AI Tools",
+          "description": "Apple showcases its latest AI tools for developers in a 90-minute presentation at WWDC. Impressive demos highlight new capabilities.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/17/apple-showcases-its-new-developer-ai-tools-in-impressive-90-minute-presentation/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/wwdc26-sj-theater-ai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-17T21:28:00Z",
+          "key_points": [
+            "New AI tools showcased",
+            "90-minute presentation",
+            "Demos of developer capabilities"
+          ],
+          "impact": "Apple enhances developer experience with AI.",
+          "id": "34b19bbc3af646e95b0734e3f6fc9513"
+        },
+        {
+          "title": "Google Releases Major June Pixel Update",
+          "description": "Google's June security patch for Pixel devices addresses numerous lingering issues. Users can expect improved performance and stability.",
+          "category": "Software",
+          "source": "Android Central",
+          "url": "https://www.androidcentral.com/phones/google-pixel/googles-extensive-june-security-update-fixes-tons-of-lingering-pixel-problems",
+          "image": "https://cdn.mos.cms.futurecdn.net/8E7n8GwffFMP3nGd4HU9kW-2560-80.jpg",
+          "published_at": "2026-06-17T19:53:03Z",
+          "key_points": [
+            "June patch released",
+            "Fixes lingering Pixel issues",
+            "Improved device performance"
+          ],
+          "impact": "Users benefit from significant software improvements.",
+          "id": "06a82302458a3c3b5b8b2243ff36b1de"
+        }
+      ]
+    },
+    {
       "id": "2026-06-19T19:48:18.587070+00:00",
       "fetched_at": "2026-06-19T19:48:18.587070+00:00",
       "label": "Jun 19, 2026 — 07:48 PM UTC",
@@ -6936,253 +7151,6 @@
           ],
           "impact": "Community resources face permanent loss.",
           "id": "53d20cd517425a8d535cbf67cdfcb43a"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-13T19:23:53.059686+00:00",
-      "fetched_at": "2026-06-13T19:23:53.059686+00:00",
-      "label": "Jun 13, 2026 — 07:24 PM UTC",
-      "articles": [
-        {
-          "title": "Pixel Watch Bands Now Available for $5",
-          "description": "Google's official Pixel Watch bands are currently priced as low as $5. This offers an affordable option for users looking to customize their devices.",
-          "category": "Hardware",
-          "source": "9to5google.com",
-          "url": "http://9to5google.com/2026/06/12/googles-official-pixel-watch-bands-are-as-low-as-5-right-now/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Pixel-Watch-4-45mm-design-and-details-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-12T17:43:00Z",
-          "key_points": [
-            "Affordable customization options",
-            "Great for Pixel Watch users",
-            "Limited time offer"
-          ],
-          "impact": "This price drop enhances accessibility for users.",
-          "id": "331055ee60ee51e5cd06681c1d1d6466"
-        },
-        {
-          "title": "Stellar Blade Coming to Nintendo Switch 2",
-          "description": "Stellar Blade will launch on the Nintendo Switch 2 in 2026, as confirmed by developer ShiftUp. Fans are also curious about a potential Bloodrain port.",
-          "category": "Gaming",
-          "source": "Nintendoeverything.com",
-          "url": "https://nintendoeverything.com/stellar-blade-dev-on-bringing-the-game-to-nintendo-switch-2-asked-about-bringing-over-stellar-blade-bloodrain/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Stellar-Blade-Bloodrain-Switch-2.jpg",
-          "published_at": "2026-06-12T16:57:02Z",
-          "key_points": [
-            "Switch 2 port confirmed",
-            "Bloodrain inquiry addressed",
-            "Developer ShiftUp responds"
-          ],
-          "impact": "This announcement excites fans of the franchise.",
-          "id": "4555b5c171ebb4c465bdb73244812171"
-        },
-        {
-          "title": "Hands-On with the Trump Phone",
-          "description": "The Trump phone is a midrange Android device, distinct from luxury models like the gold iPhone. It offers basic features for its target audience.",
-          "category": "Hardware",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/948464/trump-phone-t1-hands-on",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268588_I_held_trump_phone_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-06-12T16:05:00Z",
-          "key_points": [
-            "Midrange Android device",
-            "Distinct from luxury phones",
-            "Basic features offered"
-          ],
-          "impact": "The phone targets a specific market segment.",
-          "id": "0015e00b78358557a73d9f05de2a508a"
-        },
-        {
-          "title": "Exclusive Cutscene from Assassin's Creed Black Flag",
-          "description": "An exclusive cutscene from the remake of Assassin's Creed Black Flag has been released. Fans can enjoy this nostalgic moment with a hot chocolate.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-exclusive-edward-and-caroline-cutscene-ign-first",
-          "image": "https://assets-prd.ignimgs.com/2026/06/11/ignfirst-acbfr-cutscene-blogroll-1781210219348.jpg?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-12T16:00:00Z",
-          "key_points": [
-            "Exclusive cutscene released",
-            "Remake of a classic game",
-            "Nostalgic experience for fans"
-          ],
-          "impact": "This enhances excitement for the upcoming remake.",
-          "id": "8448cf62eb332e11bfd134018b4280ca"
-        },
-        {
-          "title": "Nintendo Fans React to Switch Sports Resort",
-          "description": "Nintendo fans express outrage over perceived 'colonization' in Switch Sports Resort. The backlash highlights cultural sensitivities among gamers.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/fans-hate-on-switch-sports-resorts-new-sportsmates-for-colonizing-wuhu-islands-sacred-mii-territory-2000704934",
-          "image": "https://kotaku.com/app/uploads/2026/06/resort-1200x675.jpg",
-          "published_at": "2026-06-12T15:02:25Z",
-          "key_points": [
-            "Fans criticize cultural representation",
-            "Outrage over game content",
-            "Discussion on sensitivity issues"
-          ],
-          "impact": "This controversy sparks broader cultural discussions.",
-          "id": "2586ac33eabfe17c650af0ffce42072d"
-        },
-        {
-          "title": "iOS 27 Introduces Landscape Mode for More Apps",
-          "description": "iOS 27 adds landscape mode to several Apple apps, enhancing usability for iPhone users. This update prepares for the upcoming 'iPhone Ultra'.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/12/ios-27-landscape-mode-apps/",
-          "image": "https://images.macrumors.com/t/COswt9dApKmqyYm1-5PxbhsVb0k=/2302x/article-new/2026/06/iOS-27-Adds-Landscape-Mode-to-Many-Apple-Apps-Ahead-of-iPhone-Ultra-Feature.jpg",
-          "published_at": "2026-06-12T13:55:04Z",
-          "key_points": [
-            "Landscape mode for more apps",
-            "Enhances user experience",
-            "Prepares for iPhone Ultra"
-          ],
-          "impact": "This update improves functionality for users.",
-          "id": "5a677f4f69c622030f4aca34ba7009ba"
-        },
-        {
-          "title": "NVIDIA Lists RTX PRO 6000 Blackwell GPU",
-          "description": "NVIDIA has listed the RTX PRO 6000 Blackwell GPU at $13,250, though it is currently out of stock. This high-end card targets professional users.",
-          "category": "Hardware",
-          "source": "Videocardz.com",
-          "url": "https://videocardz.com/newz/nvidia-now-lists-rtx-pro-6000-blackwell-96gb-gpu-at-13250",
-          "image": "https://cdn.videocardz.com/1/2025/11/RTX-PRO-6000-ORANGE.jpg",
-          "published_at": "2026-06-12T13:38:47Z",
-          "key_points": [
-            "High-end GPU priced at $13,250",
-            "Targeted at professionals",
-            "Currently out of stock"
-          ],
-          "impact": "This pricing reflects the premium market segment.",
-          "id": "3fbc22183a7b276cf84253f560f308c0"
-        },
-        {
-          "title": "Kingdom Hearts 4 Features Unplayable Game Characters",
-          "description": "Kingdom Hearts 4's latest trailer includes characters from the now-unplayable Kingdom Hearts Union X Dark Road. This move raises eyebrows among fans.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/kingdom-hearts-4-new-trailer-characters-union-x-dark-road-2000705991",
-          "image": "https://kotaku.com/app/uploads/2026/06/image-67-1200x675.jpg",
-          "published_at": "2026-06-12T13:38:17Z",
-          "key_points": [
-            "New trailer features unplayable characters",
-            "Fan reactions mixed",
-            "Spin-off connections highlighted"
-          ],
-          "impact": "This decision intrigues and confuses fans.",
-          "id": "71786d50618b19fb2bb8c563d55bd6c2"
-        },
-        {
-          "title": "Xbox's New Startup Animation and Features",
-          "description": "Xbox has rolled out a new startup animation along with four additional features. Users are excited about these updates.",
-          "category": "Gaming",
-          "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/news/2026/06/xboxs-new-startup-animation-is-now-live-for-everyone-plus-four-other-new-features",
-          "image": "https://images.purexbox.com/d44b4cb349776/large.jpg",
-          "published_at": "2026-06-12T13:30:00Z",
-          "key_points": [
-            "New startup animation launched",
-            "Four additional features added",
-            "User excitement noted"
-          ],
-          "impact": "These updates enhance the Xbox user experience.",
-          "id": "2ce57a4c3eecae1c1d605799660e57a3"
-        },
-        {
-          "title": "RPG Maker Forum Users Archive Resources",
-          "description": "RPG Maker forum users are racing to archive valuable resources before the forum shuts down in December. This transition threatens years of community contributions.",
-          "category": "Gaming",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/rpg-maker-forum-shutting-down",
-          "image": "https://assetsio.gnwcdn.com/rpg-maker-mv.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-12T13:29:36Z",
-          "key_points": [
-            "Forum shutting down in December",
-            "Users archiving valuable resources",
-            "Community contributions at risk"
-          ],
-          "impact": "This closure impacts the RPG Maker community significantly.",
-          "id": "47c6cca2ce79d9ca4e47394670cc1b49"
-        },
-        {
-          "title": "New Pokémon Merch for Pets",
-          "description": "Pokémon has launched a new merchandise line for pets, expanding its brand into the pet market. This includes toys and accessories for animal lovers.",
-          "category": "Gaming",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/06/gotta-fetch-em-all-your-pet-will-love-pokemons-latest-merch-line",
-          "image": "https://images.nintendolife.com/071d5d1653c8d/large.jpg",
-          "published_at": "2026-06-12T13:15:00Z",
-          "key_points": [
-            "New Pokémon pet merchandise launched",
-            "Includes toys and accessories",
-            "Expands brand reach"
-          ],
-          "impact": "This move taps into the pet-loving market.",
-          "id": "306d0df98a186661229d58d08eba3dab"
-        },
-        {
-          "title": "Xbox's Buy One, Get Two Free Sale",
-          "description": "Xbox has launched a 'Buy One, Get Two Free' sale featuring over 30 indie games. This promotion encourages gamers to explore new titles.",
-          "category": "Gaming",
-          "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/features/30plus-of-the-best-games-in-xboxs-latest-buy-one-get-two-free-sale",
-          "image": "https://images.purexbox.com/7146e2e1b9678/large.jpg",
-          "published_at": "2026-06-12T12:07:50Z",
-          "key_points": [
-            "Indie games featured in sale",
-            "Buy one, get two free",
-            "Encourages exploration of titles"
-          ],
-          "impact": "This sale boosts indie game visibility.",
-          "id": "5ba6ace8268b0d717c417ba46ea117cb"
-        },
-        {
-          "title": "AMD Denies Researcher Bounty After Delay",
-          "description": "AMD has denied a $10,000 bounty to a researcher after a lengthy delay in patching a security flaw. This has sparked criticism regarding their response.",
-          "category": "Security",
-          "source": "TechSpot",
-          "url": "https://www.techspot.com/news/112746-amd-changes-rules-denies-researcher-10000-bounty-after.html",
-          "image": "https://www.techspot.com/images2/news/bigimage/2026/06/2026-06-12-image-9.jpg",
-          "published_at": "2026-06-12T12:03:00Z",
-          "key_points": [
-            "AMD denies bounty to researcher",
-            "Criticism over response time",
-            "Security flaw patched after delay"
-          ],
-          "impact": "This incident raises concerns about AMD's practices.",
-          "id": "d3dc826bea9e734ac2ca0544a281d61b"
-        },
-        {
-          "title": "Xbox Predicts Storage Cost Surge by 2027",
-          "description": "An internal Xbox memo predicts a fivefold increase in storage and memory costs by holiday 2027. This reflects ongoing industry challenges.",
-          "category": "Business",
-          "source": "Digitalfoundry.net",
-          "url": "https://www.digitalfoundry.net/news/2026/06/xbox-memo-predicts-over-5x-increase-in-storage-and-memory-costs-by-holiday-2027",
-          "image": "https://images.digitalfoundry.net/bb17f4eb06b7a/large.jpg",
-          "published_at": "2026-06-12T10:51:00Z",
-          "key_points": [
-            "Predicted cost increase by 2027",
-            "Industry-wide components crisis",
-            "Internal memo reveals concerns"
-          ],
-          "impact": "This forecast highlights future industry challenges.",
-          "id": "50b9d50e78d58d8bdefdc462f81b6a20"
-        },
-        {
-          "title": "Nintendo's Legal Battle Over Palworld",
-          "description": "Nintendo attempted to block Palworld but now faces a minimal payout of $30,000. The outcome reflects challenges in IP enforcement.",
-          "category": "Geopolitics",
-          "source": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTlJDQ01lRzBUcmxMVzhfWjFnbG1nQVptMm0tUUZqTDNDNDBlUzBOLVhGNWhLQjB2RnFfYmk3MzVYZmJ5Q1c1T2p1cXNjME5IcGZzSy10TVRYZEdFZlFSaEFlZ0l0cjk1ajRHYU9xNHJBVmxMcUVkUEh6VTZuUXVBcEdvOWdGTWk5YWJwcEdqWEo0RDN5YUZ3WDF0cGlMM0RvakYxdnR0alBvMGFNaFpsRXE3TzdrYkpaWGNRcWlsRXFFTXdHVU50UWZ3?oc=5",
-          "image": "",
-          "published_at": "2026-06-12T10:28:48Z",
-          "key_points": [
-            "Nintendo's legal attempt fails",
-            "Minimal payout of $30,000",
-            "Challenges in IP enforcement"
-          ],
-          "impact": "This case highlights difficulties in copyright protection.",
-          "id": "933ff71517c8f86add3a7b1f88b32988"
         }
       ]
     }

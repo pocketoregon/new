@@ -1,247 +1,215 @@
 {
   "date": "2026-06-19",
-  "generated_at": "2026-06-19T19:48:18.587070+00:00",
+  "generated_at": "2026-06-19T22:02:46.202745+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Meccha Chameleon: Steam's Viral Sensation",
-      "description": "Meccha Chameleon is taking Steam by storm, blending creativity and gameplay. Players are flocking to this unique title, making it a viral hit.",
+      "title": "GTA VI Pre-Order Date and Cover Art Revealed",
+      "description": "Rockstar Games announces Grand Theft Auto VI's pre-order date and reveals its cover art. Fans can expect classic GTA aesthetics.",
       "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/meccha-chameleon-steam-download-horse-clips-northernlion-2000708169",
-      "image": "https://kotaku.com/app/uploads/2026/06/Screen-Shot-2026-06-18-at-2.41.59-PM-1200x675.jpg",
-      "published_at": "2026-06-18T19:22:45Z",
+      "source": "Gameinformer.com",
+      "url": "https://gameinformer.com/2026/06/18/grand-theft-auto-vi-pre-order-date-and-cover-art-revealed",
+      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/05/06/fc1a574c/vice_city_04.jpg.webp",
+      "published_at": "2026-06-18T13:42:43Z",
       "key_points": [
-        "Creative gameplay mechanics",
-        "Viral social media presence",
-        "Unique player experiences"
+        "Pre-order date announced",
+        "Classic GTA cover art",
+        "Promotional video released"
       ],
-      "impact": "Meccha Chameleon is redefining viral gaming.",
-      "id": "9d44dc80e606c7f51440eab418d3f8a6"
+      "impact": "GTA VI hype builds with pre-order announcement.",
+      "id": "5090b4515d504896cbff82ef2010e6a5"
     },
     {
-      "title": "White House Uses GTA 6 Meme for Distraction",
-      "description": "The White House posted a parody GTA 6 cover featuring Trump, aiming to divert attention from current issues. The move has sparked mixed reactions online.",
+      "title": "The Grinch 2: Saving Christmas Announced",
+      "description": "Outright Games and Casual Brothers unveil The Grinch 2: Saving Christmas for multiple platforms. The adventure game sequel promises festive fun.",
       "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/white-house-uses-gta-6-meme-to-distract-from-reflecting-pool-turning-the-color-of-mountain-dew-2000708154",
-      "image": "https://kotaku.com/app/uploads/2026/06/magatrumpgta6cover-1200x675.jpg",
-      "published_at": "2026-06-18T18:25:53Z",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/the-grinch-2-saving-christmas-announced-for-ps5-xbox-series-ps4-switch-and-pc",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/The-Grinch-2-Saving-Christmas_2026_06-18-26_006.jpg",
+      "published_at": "2026-06-18T13:18:09Z",
       "key_points": [
-        "GTA 6 cover parody",
-        "Political distraction tactic",
-        "Mixed public reactions"
+        "New Grinch game announced",
+        "Available on multiple platforms",
+        "Developed with Dr. Seuss Enterprises"
       ],
-      "impact": "The meme highlights political communication strategies.",
-      "id": "9416b425b0bd6accfa09733f24b31414"
+      "impact": "Fans can look forward to a festive adventure.",
+      "id": "0b424490e27c974ec967af35abb4273b"
     },
     {
-      "title": "Google Health 5.02 Update Brings New Features",
-      "description": "Google Health's latest update, version 5.02, enhances the app with new features like hourly activity tracking and nap reminders. The update is rolling out for both iOS and Android.",
+      "title": "Adobe Integrates AI Assistant into Creative Apps",
+      "description": "Adobe enhances its Firefly AI assistant, adding it to Premiere, Illustrator, and InDesign. New features include brand kits and product video creation.",
       "category": "Software",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/06/18/google-health-5-02-release-notes/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/google-health-logo-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-18T16:28:00Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Firefly-Creative-AI-Assistant-16x9-1.jpeg?resize=1200,526",
+      "published_at": "2026-06-18T13:00:00Z",
       "key_points": [
-        "New hourly activity feature",
-        "Nap reminders added",
-        "Available on iOS and Android"
+        "AI assistant now in major apps",
+        "New creative features added",
+        "Focus on brand and video creation"
       ],
-      "impact": "Google Health continues to improve user experience.",
-      "id": "2f7f08f9fef531ad9262af72c4183934"
+      "impact": "Adobe boosts productivity with AI enhancements.",
+      "id": "74d3ec5eae79ca24d700c10ba2930fd6"
     },
     {
-      "title": "Borderlands Bounty Pack 3 Introduces New Content",
-      "description": "Bounty Pack 3 for Borderlands 4 features a new raid and introduces Loveless as the next Vault Hunter. Players can expect new loot and challenges.",
+      "title": "YouTube Tests New Android UI Design",
+      "description": "YouTube is experimenting with a redesigned player UI on Android, changing button layouts and removing text. Users may need to adjust.",
       "category": "Gaming",
-      "source": "2k.com",
-      "url": "https://borderlands.2k.com/borderlands-4/news/bounty-pack-3-takedown-at-hadron-abyss/",
-      "image": "https://assets.2k.com/1a6ngf98576c/4zXpfbA9xO397sI262TrDm/6bbefd7d76850e74bcfda880dd76cf10/BL4_KA.png",
-      "published_at": "2026-06-18T16:24:17Z",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/youtube-ui-redesign-test-again-3678953/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/youtube-logo-google-pixel-10a-2-scaled.jpg",
+      "published_at": "2026-06-18T12:29:39Z",
       "key_points": [
-        "New raid in Bounty Pack 3",
-        "Loveless joins as Vault Hunter",
-        "Exciting new loot available"
+        "New button layout tested",
+        "Text removed from buttons",
+        "User experience may change"
       ],
-      "impact": "Borderlands expands its universe with fresh content.",
-      "id": "c7a8c533755d7b61bb5af42eb09c0ed9"
+      "impact": "YouTube's redesign could confuse regular users.",
+      "id": "77f8c4662ecfa6653c3c31f7a8cdec9c"
     },
     {
-      "title": "God of War Laufey Lacks Unique Identity",
-      "description": "IGN critiques God of War Laufey for its similarities to Kratos' Norse saga. The shift in perspective to Faye doesn't fully establish its own identity.",
+      "title": "Concerns Arise Over Epic's AI Use in Games",
+      "description": "Poncle expresses worries about its Vampire Survivors collaboration with Fortnite after Epic's generative AI asset designs. The industry watches closely.",
       "category": "Gaming",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/god-of-war-laufey-feels-too-similar-to-kratos-norse-saga",
-      "image": "https://assets-prd.ignimgs.com/2026/06/18/gow-laufey-kratos-blogroll-1781776561763.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-18T16:15:00Z",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/fortnite-gen-ai-vampire-survivors-collaboration-reviewed-epic-poncle",
+      "image": "https://assetsio.gnwcdn.com/artwork-for-Vampire-Survivors-on-the-left-showing-a-male-with-yellow-eyes-looking-intently-towards-the-camera-next-to-an-image-of-Peeley-from-Fortnite-on-the-right.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-18T12:13:13Z",
       "key_points": [
-        "Similarities to previous saga",
-        "Faye's perspective explored",
-        "Identity issues noted"
+        "Poncle reconsiders collaboration",
+        "Concerns over AI asset design",
+        "Epic's AI use under scrutiny"
       ],
-      "impact": "Critique raises questions about game innovation.",
-      "id": "9224ea2ade6b3683ecee7051b6637641"
+      "impact": "Industry reactions highlight AI's controversial role.",
+      "id": "d68ba3e075b1400e9044570b8a7e78a2"
     },
     {
-      "title": "Tethergeist: A Unique Puzzle Platformer",
-      "description": "Tethergeist offers a fresh take on the puzzle platformer genre, introducing innovative mechanics and engaging gameplay. It's a must-try for fans of the genre.",
+      "title": "Pokémon News Weekly Roundup Released",
+      "description": "The first volume of Pokémon News Weekly Roundup covers Champions Free Gifts and PokémonXP reveals. Stay updated on non-GO Pokémon news.",
       "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/celeste-like-puzzle-platformer-tethergeist-indie-2000708091",
-      "image": "https://kotaku.com/app/uploads/2026/06/tethergeist-1200x675.jpg",
-      "published_at": "2026-06-18T15:49:25Z",
+      "source": "Pokemon GO Hub",
+      "url": "https://pokemongohub.net/post/news/pokemon-news-weekly-round-up-vol-1/",
+      "image": "https://pokemongohub.net/wp-content/uploads/2026/06/pokemonxp-169.png",
+      "published_at": "2026-06-18T11:58:29Z",
       "key_points": [
-        "Innovative gameplay mechanics",
-        "Engaging puzzle challenges",
-        "Fresh genre perspective"
+        "Weekly Pokémon news roundup",
+        "Focus on non-GO updates",
+        "Champions Free Gifts announced"
       ],
-      "impact": "Tethergeist revitalizes the puzzle platformer genre.",
-      "id": "f012adc6fa75d72c65c852fa2ccbd8a7"
+      "impact": "Fans stay informed on Pokémon developments.",
+      "id": "47ebb38fefd29186b5cba7e36db3675f"
     },
     {
-      "title": "Free Play Days Offers New Xbox Games",
-      "description": "Free Play Days returns with a selection of free Xbox games for subscribers, including Two Point Museum and PGA Tour 2K25. Enjoy gaming without cost this weekend.",
+      "title": "New Google Home Speaker Criticized by Users",
+      "description": "Google's new Home Speaker replaces Nest Audio but lacks clear improvements, frustrating existing users. The design overhaul raises concerns.",
+      "category": "Hardware",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/google-home-speaker-bad-nest-audio-upgrade-3678211/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/google_home_speaker_berry.jpg",
+      "published_at": "2026-06-18T11:00:35Z",
+      "key_points": [
+        "New speaker replaces Nest Audio",
+        "Users express dissatisfaction",
+        "Design overhaul criticized"
+      ],
+      "impact": "Google faces backlash over speaker upgrade.",
+      "id": "bd872782b45de8af893e072d765ce6a7"
+    },
+    {
+      "title": "EA Sports FC 26 Joins Xbox Game Pass",
+      "description": "EA Sports FC 26 is now available on Xbox Game Pass Ultimate, coinciding with the FIFA World Cup. Football fans rejoice with this timely addition.",
       "category": "Gaming",
       "source": "TrueAchievements",
-      "url": "https://www.trueachievements.com/news/free-play-days-two-point-museum-asseto-corsa-pga-tour-2k25",
-      "image": "https://www.trueachievements.com/imgs/176155/free-play-days-returns-with-more-free-xbox-games-including-two-point-museum.jpg",
-      "published_at": "2026-06-18T15:10:06Z",
+      "url": "https://www.trueachievements.com/news/ea-sports-fc-26-xbox-game-pass",
+      "image": "https://www.trueachievements.com/imgs/176156/fc-26-xbox-game-pass.jpg",
+      "published_at": "2026-06-18T09:54:48Z",
       "key_points": [
-        "Free games for Xbox subscribers",
-        "Includes popular titles",
-        "Available this weekend only"
+        "EA Sports FC 26 added",
+        "Perfect timing with World Cup",
+        "Available on Game Pass Ultimate"
       ],
-      "impact": "Free Play Days enhances Xbox gaming experience.",
-      "id": "9a25c659f7895e25e66afdf49cd3067c"
+      "impact": "Football fans gain access to new game.",
+      "id": "621351372803a629320e1417e2b40e61"
     },
     {
-      "title": "iPhone 18 Pro Camera Bump to Increase",
-      "description": "Leaks suggest the iPhone 18 Pro will feature a larger camera bump with thicker lenses. This change aims to improve photography capabilities.",
-      "category": "Hardware",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/18/iphone-18-pro-is-getting-larger-camera-bump-per-leaks-heres-why/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-dark-blue-camera-plateau.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-18T15:09:00Z",
-      "key_points": [
-        "Larger camera bump expected",
-        "Thicker lenses for better photos",
-        "Design remains similar to predecessors"
-      ],
-      "impact": "iPhone 18 Pro aims for enhanced photography.",
-      "id": "18c00aa3d3c83ea293300b2d634b843c"
-    },
-    {
-      "title": "Ultra-Black Car Paint Absorbs 99.9% Light",
-      "description": "Researchers have developed an ultra-black car paint that absorbs 99.9% of visible light, creating a striking visual effect. This innovation could revolutionize automotive design.",
-      "category": "Science",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/scientists-made-a-car-paint-so-black-it-looks-like-a-hole-in-reality-2000773588",
-      "image": "https://gizmodo.com/app/uploads/2026/06/Nipsea-Carbon-Black-Carbon-Nanotube-Paint-1200x675.jpg",
-      "published_at": "2026-06-18T15:00:07Z",
-      "key_points": [
-        "Absorbs 99.9% of light",
-        "Revolutionary automotive design",
-        "Inspired by Vantablack"
-      ],
-      "impact": "This paint could transform car aesthetics.",
-      "id": "a83996cd8abb5889b53bbf8774a3b838"
-    },
-    {
-      "title": "Warhammer Community Showcases New Miniatures",
-      "description": "The Warhammer community showcases new Orks and Space Marines miniatures, highlighting the creativity of community painters. Fans can see impressive new designs.",
+      "title": "Prime Day Gaming Deals Announced",
+      "description": "Prime Day offers up to 54% off on games, consoles, and accessories across platforms. Great savings for gamers are now available.",
       "category": "Gaming",
-      "source": "Warhammer Community",
-      "url": "https://www.warhammer-community.com/articles/gksheuhx/warriors-of-armageddon-painted-by-the-warhammer-community",
-      "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/40k_inflarmageddon-jun18-1-feature-kuuxtxkhvd.jpg",
-      "published_at": "2026-06-18T14:55:51Z",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/gaming/prime-day-gaming-deals-take-up-to-54-percent-off-nintendo-switch-ps5-gaming-pcs-and-more-23-deals-you-cant-miss",
+      "image": "https://cdn.mos.cms.futurecdn.net/uUH4CEAWez99vp4ea8QK8Q-2560-80.jpg",
+      "published_at": "2026-06-18T09:41:27Z",
       "key_points": [
-        "New miniatures showcased",
-        "Community painter highlights",
-        "Creative designs featured"
+        "Prime Day discounts announced",
+        "Up to 54% off",
+        "Deals on multiple platforms"
       ],
-      "impact": "Warhammer community fosters artistic expression.",
-      "id": "15a48d1e722f2cc37ecd8c62f14b9f51"
+      "impact": "Gamers can save big this Prime Day.",
+      "id": "4a8edfac54a7eefc849f073cf161c32f"
     },
     {
-      "title": "Google Calendar Expands Color Options",
-      "description": "Google Calendar now offers 200 custom color options for events, enhancing personalization. This update addresses previous limitations and improves user experience.",
+      "title": "GTA 6 Gameplay Leak Surfaces",
+      "description": "Gameplay leaks for Grand Theft Auto VI emerge ahead of the anticipated trailer. Fans are eager for more details as release approaches.",
+      "category": "Gaming",
+      "source": "Screen Rant",
+      "url": "https://screenrant.com/gta-6-gameplay-leak-june-2026/",
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/gta-6-key-art-1.jpg?w=1600&h=900&fit=crop",
+      "published_at": "2026-06-18T09:31:37Z",
+      "key_points": [
+        "Gameplay leaks reported",
+        "Anticipation builds for trailer",
+        "Release date seems confirmed"
+      ],
+      "impact": "Leaks heighten excitement for GTA VI.",
+      "id": "2d0e51b612b662a47886a880a2e358f4"
+    },
+    {
+      "title": "Gabe Newell Reportedly Buys Florida Estate",
+      "description": "Valve's Gabe Newell is reported to have purchased a luxury estate in Florida, raising speculation about his future plans. Seattle-area billionaires are relocating.",
+      "category": "Geopolitics",
+      "source": "GeekWire",
+      "url": "https://www.geekwire.com/2026/loss-of-another-seattle-area-billionaire-valves-gabe-newell-is-reported-buyer-of-florida-estate/",
+      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/06/gabe-newell.jpg",
+      "published_at": "2026-06-18T02:44:51Z",
+      "key_points": [
+        "Gabe Newell buys Florida estate",
+        "Speculation on relocation",
+        "Seattle billionaires moving away"
+      ],
+      "impact": "Newell's move reflects regional trends.",
+      "id": "b32bcd36f506e49d892c7344005dbce2"
+    },
+    {
+      "title": "Apple Unveils New Developer AI Tools",
+      "description": "Apple showcases its latest AI tools for developers in a 90-minute presentation at WWDC. Impressive demos highlight new capabilities.",
       "category": "Software",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/952123/google-calendar-event-color-options-expansion",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Google-Calendar-event-color-expansion-lede.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published_at": "2026-06-18T14:32:16Z",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/17/apple-showcases-its-new-developer-ai-tools-in-impressive-90-minute-presentation/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/wwdc26-sj-theater-ai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-17T21:28:00Z",
       "key_points": [
-        "200 color options available",
-        "Enhanced event personalization",
-        "Improved user experience"
+        "New AI tools showcased",
+        "90-minute presentation",
+        "Demos of developer capabilities"
       ],
-      "impact": "Google Calendar enhances customization features.",
-      "id": "df74a1d44ca9fb6d9eeb9afbe6adfc34"
+      "impact": "Apple enhances developer experience with AI.",
+      "id": "34b19bbc3af646e95b0734e3f6fc9513"
     },
     {
-      "title": "Xbox Game Pass Adds Two Day One Releases",
-      "description": "Xbox Game Pass announces two new 'day one' releases for July 2026, expanding its game library. This addition promises exciting new content for subscribers.",
-      "category": "Gaming",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/06/two-more-day-one-releases-announced-for-xbox-and-pc-game-pass-in-july-2026",
-      "image": "https://images.purexbox.com/dcd5ae0f8ba9b/large.jpg",
-      "published_at": "2026-06-18T14:31:40Z",
+      "title": "Google Releases Major June Pixel Update",
+      "description": "Google's June security patch for Pixel devices addresses numerous lingering issues. Users can expect improved performance and stability.",
+      "category": "Software",
+      "source": "Android Central",
+      "url": "https://www.androidcentral.com/phones/google-pixel/googles-extensive-june-security-update-fixes-tons-of-lingering-pixel-problems",
+      "image": "https://cdn.mos.cms.futurecdn.net/8E7n8GwffFMP3nGd4HU9kW-2560-80.jpg",
+      "published_at": "2026-06-17T19:53:03Z",
       "key_points": [
-        "Two new day one releases",
-        "Expanding game library",
-        "Exciting content for subscribers"
+        "June patch released",
+        "Fixes lingering Pixel issues",
+        "Improved device performance"
       ],
-      "impact": "Xbox Game Pass continues to grow its offerings.",
-      "id": "837d87fd80f37faa1c4efabbb363000c"
-    },
-    {
-      "title": "Digimon Story: Time Stranger Update Announced",
-      "description": "A free update for Digimon Story: Time Stranger launches on July 9, adding new features like the Terriermon Assistant and graphics mode options. Available on multiple platforms.",
-      "category": "Gaming",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/digimon-story-time-stranger-free-update-launches-july-9-adds-terriermon-assistant-graphics-mode-options-more",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Digimon-Story-Time-Stranger-Update_06-18-26_Top.jpg",
-      "published_at": "2026-06-18T14:28:06Z",
-      "key_points": [
-        "Free update on July 9",
-        "New features added",
-        "Available on multiple platforms"
-      ],
-      "impact": "Digimon Story enhances gameplay with updates.",
-      "id": "fe96ff5ff1471efc01b4e04d7879570d"
-    },
-    {
-      "title": "My Hero Academia: All’s Justice Release Dates Announced",
-      "description": "My Hero Academia: All’s Justice will launch on Switch 2 on September 3 in Japan and September 4 worldwide. Fans eagerly await this new title.",
-      "category": "Gaming",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/my-hero-academia-alls-justice-coming-to-switch-2-on-september-3-in-japan-september-4-worldwide",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/MHA-Switch-2-Announce_06-18-26.jpg",
-      "published_at": "2026-06-18T14:05:35Z",
-      "key_points": [
-        "Launch dates confirmed",
-        "Switch 2 exclusive",
-        "Worldwide release planned"
-      ],
-      "impact": "My Hero Academia fans have new game excitement.",
-      "id": "b20cffe3e220080ad954009e31f3f1f6"
-    },
-    {
-      "title": "No Law: A Living Cybergrunge Open World",
-      "description": "No Law promises an immersive open world filled with NPCs and interactive buildings. Developer Neon Giant aims to create a vibrant cyberpunk experience.",
-      "category": "Gaming",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/no-laws-dense-cybergrunge-city-might-just-be-the-most-alive-open-world-ever-created",
-      "image": "https://assets-prd.ignimgs.com/2026/06/18/nolaw-unreal-fest-screenshots-1-22-1-1781781769580.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-18T14:00:54Z",
-      "key_points": [
-        "Immersive cyberpunk experience",
-        "Packed with NPCs",
-        "Interactive environments promised"
-      ],
-      "impact": "No Law aims to redefine open world gaming.",
-      "id": "f1eb0bf392c63d772e53fc7a48bb1005"
+      "impact": "Users benefit from significant software improvements.",
+      "id": "06a82302458a3c3b5b8b2243ff36b1de"
     }
   ]
 }
