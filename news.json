@@ -1,247 +1,247 @@
 {
   "date": "2026-06-19",
-  "generated_at": "2026-06-19T04:11:06.110059+00:00",
+  "generated_at": "2026-06-19T10:24:15.366042+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Persona 6 Description Revealed - Kotaku",
-      "description": "The official Persona 6 description hints at familiar themes of occult and student life in Japan. Fans can expect classic series elements.",
-      "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/official-persona-6-description-is-exactly-what-youd-expect-2000707692",
-      "image": "https://kotaku.com/app/uploads/2026/06/persona-5-1200x675.jpg",
-      "published_at": "2026-06-17T21:06:05Z",
-      "key_points": [
-        "Familiar occult themes",
-        "Student life setting",
-        "Classic series elements"
-      ],
-      "impact": "Persona 6 continues the franchise's beloved themes.",
-      "id": "3be1d54434a350e2e91e2a48247d3a73"
-    },
-    {
-      "title": "iPadOS 27 Unveiled - MacRumors",
-      "description": "iPadOS 27 introduces a smarter Siri and new Apple Intelligence features, enhancing user experience with iPad-specific improvements.",
-      "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/17/ipados-27-hands-on/",
-      "image": "https://images.macrumors.com/t/RFneHHgP8MkQP96D5BzWRqh4t5Q=/2500x/article-new/2026/06/iPadOS-27-New-Features-Thumb.jpg",
-      "published_at": "2026-06-17T20:51:39Z",
-      "key_points": [
-        "Smarter Siri integration",
-        "New Apple Intelligence features",
-        "iPad-specific improvements"
-      ],
-      "impact": "iPadOS 27 enhances productivity and usability.",
-      "id": "b4c3aaf0998228c091de8877617ee943"
-    },
-    {
-      "title": "Xbox Ports Classic Call of Duty Games - Windows Central",
-      "description": "Xbox's Treyarch is bringing Black Ops and Black Ops 2 to PlayStation, expanding access to classic titles.",
-      "category": "Gaming",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/gaming/call-of-duty/xbox-is-porting-two-classic-call-of-duty-games-to-playstation-and-theyre-coming-very-very-soon",
-      "image": "https://cdn.mos.cms.futurecdn.net/vgDVVeSYsMJSfVBpWsUJkc-1067-80.jpg",
-      "published_at": "2026-06-17T20:14:11Z",
-      "key_points": [
-        "Classic games on PlayStation",
-        "Black Ops series revival",
-        "Expanded gaming access"
-      ],
-      "impact": "Bringing classic titles to new audiences.",
-      "id": "a8d96900c8dfd5625b4f210276b42fd1"
-    },
-    {
-      "title": "Sony Launches Lytia 910 Sensor - GSMArena.com",
-      "description": "Sony's Lytia 910 sensor features 100dB dynamic range, enabling HDR photography and 4K video recording in one shot.",
-      "category": "Hardware",
-      "source": "GSMArena.com",
-      "url": "https://www.gsmarena.com/sony_unveils_the_lytia_910_its_first_lofic_sensor_and_it_boasts_100db_dynamic_range-news-73318.php",
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/sony-lytia-910-lofic-sensor/-952x498w6/gsmarena_000.jpg",
-      "published_at": "2026-06-17T19:48:02Z",
-      "key_points": [
-        "100dB dynamic range",
-        "HDR photography capabilities",
-        "4K video recording"
-      ],
-      "impact": "Advances in imaging technology for professionals.",
-      "id": "4816c7747136717ba2381a20ffdf2f78"
-    },
-    {
-      "title": "Anthropic Updates Claude Design - VentureBeat",
-      "description": "Claude Design receives a major overhaul, enhancing design-to-code workflows with new features and reduced token usage.",
-      "category": "Software",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/anthropic-ships-major-claude-design-overhaul-with-design-system-imports-code-round-trips-and-a-fix-for-its-token-burning-problem",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/A7rh9k4f5l3OFsViB4gjc/8c1c2679504faa38007e3e334377755f/image__1___1_.png?w=800&q=75",
-      "published_at": "2026-06-17T19:00:00Z",
-      "key_points": [
-        "Design-to-code enhancements",
-        "Lower token usage",
-        "New enterprise app exports"
-      ],
-      "impact": "Strengthens Claude as a design platform.",
-      "id": "12aca1231575c7a546dfe164997158ce"
-    },
-    {
-      "title": "Google Introduces Gemini Smart Speaker - TechCrunch",
-      "description": "Google's new Home Speaker utilizes Gemini AI for a more conversational experience, moving beyond rigid commands.",
-      "category": "Hardware",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Google-Home-Speaker-Berry.jpeg?resize=1200,899",
-      "published_at": "2026-06-17T16:30:09Z",
-      "key_points": [
-        "Conversational AI interactions",
-        "$99.99 price point",
-        "Reinventing smart speakers"
-      ],
-      "impact": "Gemini aims to redefine smart speaker usability.",
-      "id": "d9843e598aa8e1c64347542b5f78bac1"
-    },
-    {
-      "title": "Unreal Engine 6 Integrates AI - Video Games Chronicle",
-      "description": "Epic's Unreal Engine 6 will incorporate AI models to streamline game development and reduce repetitive tasks.",
-      "category": "Gaming",
-      "source": "Video Games Chronicle",
-      "url": "https://www.videogameschronicle.com/news/epic-reveals-unreal-engine-6-is-integrating-ai-models-so-developers-can-reduce-tedious-work/",
-      "image": "https://www.videogameschronicle.com/files/2026/06/Screenshot-2026-06-17-165123.jpg",
-      "published_at": "2026-06-17T16:02:29Z",
-      "key_points": [
-        "AI integration in development",
-        "Faster content creation",
-        "Maintains creative control"
-      ],
-      "impact": "AI will transform game development processes.",
-      "id": "cab83a2fbe9e626499051e7760c56c86"
-    },
-    {
-      "title": "Dispatch Developer Addresses Censorship - IGN",
-      "description": "AdHoc Studio releases a patch for Dispatch, unlocking more nudity options on Switch after player backlash over censorship.",
-      "category": "Gaming",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/dispatch-developer-addresses-controversial-switch-censorship-with-new-patch-though-some-hard-requirements-from-nintendo-remain",
-      "image": "https://assets-prd.ignimgs.com/2026/06/15/hr-violations-pack-toxic-chaotic-1781529596174.png?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-17T16:00:00Z",
-      "key_points": [
-        "Patch unlocks nudity options",
-        "Player backlash addressed",
-        "Nintendo requirements remain"
-      ],
-      "impact": "Developer responds to community concerns.",
-      "id": "94e14b10254a72d092d28e7c379e902a"
-    },
-    {
-      "title": "OnePlus Launches 15R with More RAM - GSMArena.com",
-      "description": "OnePlus defies RAM price trends by offering the 15R with increased memory at a competitive price.",
-      "category": "Hardware",
-      "source": "GSMArena.com",
-      "url": "https://www.gsmarena.com/oneplus_defies_ram_crisis_offers_the_15r_with_more_memory-news-73316.php",
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/oneplus-15r-more-ram/-952x498w6/gsmarena_000.jpg",
-      "published_at": "2026-06-17T15:58:01Z",
-      "key_points": [
-        "More RAM at competitive price",
-        "Defies RAM price trends",
-        "Continues innovation in smartphones"
-      ],
-      "impact": "OnePlus challenges market trends with new device.",
-      "id": "bbe002c5b184aaa12233d0355652c621"
-    },
-    {
-      "title": "SanDisk's New PS5 SSD Priced High - The Verge",
-      "description": "SanDisk's 8TB Optimus GX PRO SSD for PS5 is priced at nearly $3,000, offering extensive game storage.",
-      "category": "Hardware",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/951527/sandisk-optimus-gx-pro-850p-nvme-ssd-8tb-ps5-playstation-sony",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/sandisk1.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-      "published_at": "2026-06-17T15:34:29Z",
-      "key_points": [
-        "8TB storage capacity",
-        "High price point",
-        "Officially licensed accessory"
-      ],
-      "impact": "Premium pricing for extensive PS5 storage.",
-      "id": "a0fd4863c271d1f3557a6743eb24ad6e"
-    },
-    {
-      "title": "iOS 27 Boosts iPhone Speed - 9to5Mac",
-      "description": "iOS 27 enhances iPhone performance with over 40 improvements, alongside new AI features and Siri enhancements.",
-      "category": "Software",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/17/ios-27-makes-your-iphone-faster-in-40-ways-heres-the-full-list/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-17T15:33:00Z",
-      "key_points": [
-        "40+ performance improvements",
-        "New AI features",
-        "Enhanced Siri capabilities"
-      ],
-      "impact": "iOS 27 significantly boosts iPhone speed.",
-      "id": "688d1cfc919669c3532a9fb1a05e8fcf"
-    },
-    {
-      "title": "Frigibax Community Day Announced - Pokémon GO Hub",
-      "description": "Pokémon GO's Frigibax Community Day will feature the evolution of Arctibax into Baxcalibur, highlighting a new Charged Attack.",
-      "category": "Gaming",
-      "source": "Pokemon GO Hub",
-      "url": "https://pokemongohub.net/post/meta/frigibax-community-day-pve-analysis-is-baxcalibur-with-glaive-rush-worth-building/",
-      "image": "https://pokemongohub.net/wp-content/uploads/2023/09/baxcalibur-frigibax-artibax.jpg",
-      "published_at": "2026-06-17T14:14:41Z",
-      "key_points": [
-        "Community Day on June 20",
-        "New Charged Attack",
-        "Spotlight on Baxcalibur"
-      ],
-      "impact": "Exciting new features for Pokémon GO players.",
-      "id": "f31991a7c6e43bd0e573029749ad94a8"
-    },
-    {
-      "title": "Rockstar Games Announces New Heist - Rockstar Games",
-      "description": "Rockstar reveals a new heist at the Kortz Center, promising thrilling gameplay and high-stakes action.",
-      "category": "Gaming",
-      "source": "Rockstargames.com",
-      "url": "https://www.rockstargames.com/newswire/article/517k8ak75ao327/the-next-big-score?utm_source=twitter&amp;amp;utm_medium=o_social&amp;amp;utm_campaign=gtao_announcement_kch-20260617",
-      "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/517k8ak75ao327/bd8dd92adc077fa7ee13dcddc2d6a93cfb684599.jpg",
-      "published_at": "2026-06-17T13:57:37Z",
-      "key_points": [
-        "New heist at Kortz Center",
-        "High-stakes gameplay",
-        "Exciting new content"
-      ],
-      "impact": "New heist adds thrilling gameplay to GTA.",
-      "id": "d841446746c96a2c328044cf059d0b1e"
-    },
-    {
-      "title": "New Ranked Battles Season in Pokémon Champions - Pokemon.com",
-      "description": "A new regulation set and Ranked Battles season have begun in Pokémon Champions, enhancing competitive gameplay.",
+      "title": "Wish Upon a Jirachi in Pokémon Pokopia",
+      "description": "Join the Wish Upon a Jirachi event from June 23 to July 8, 2026, and help make Pokémon dreams come true. Befriend Jirachi and enjoy the festivities!",
       "category": "Gaming",
       "source": "Pokemon.com",
-      "url": "https://www.pokemon.com/us/pokemon-news/regulation-set-m-b-kicks-off-a-new-ranked-battles-season-and-battle-pass-in-pokemon-champions",
-      "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/attend-events/_tiles/2026/vgc/regulation-set/m-b/pokemon-champions-169-en.png",
-      "published_at": "2026-06-17T13:04:12Z",
+      "url": "https://www.pokemon.com/us/pokemon-news/wish-upon-a-jirachi-in-pokemon-pokopia",
+      "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-pokopia/2026/06/18/pokemon-pokopia-169.png",
+      "published_at": "2026-06-18T05:07:31Z",
       "key_points": [
-        "New regulation set introduced",
-        "Ranked Battles season starts",
-        "Battle Pass available"
+        "Event runs June 23 to July 8",
+        "Befriend Jirachi",
+        "Make Pokémon dreams come true"
       ],
-      "impact": "Enhances competitive play in Pokémon Champions.",
-      "id": "056862d55b2d88948443368889d3fa19"
+      "impact": "Pokémon fans can enjoy a special event.",
+      "id": "adc6ec214bf2d71485f0d0ec8a1bb7d9"
     },
     {
-      "title": "Samsung Galaxy XR Launches in the UK - Samsung",
-      "description": "Samsung's Galaxy XR, its first extended reality device, is available for pre-order, launching on July 8.",
-      "category": "Hardware",
-      "source": "Samsung.com",
-      "url": "https://news.samsung.com/uk/samsung-galaxy-xr-arrives-in-the-uk",
-      "image": "https://img.global.news.samsung.com/uk/wp-content/uploads/2026/06/5075302-Samsung-MX-GalaxyXR-Lifestyle-KV_Try-on_07-1920x1080px-v2.jpg",
-      "published_at": "2026-06-17T12:16:26Z",
+      "title": "Round Up: The Reviews Are In For The Adventures Of Elliot: The Millenium Tales",
+      "description": "Critics have shared their reviews for Square Enix's new HD-2D title, The Adventures of Elliot: The Millennium Tales. Check out the highlights and feedback from various sources.",
+      "category": "Gaming",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/06/round-up-the-reviews-are-in-for-the-adventures-of-elliot-the-millenium-tales",
+      "image": "https://images.nintendolife.com/30afcfe4765e4/large.jpg",
+      "published_at": "2026-06-18T01:55:00Z",
       "key_points": [
-        "First extended reality device",
-        "Pre-orders available now",
-        "Launch on July 8"
+        "Critics share their reviews",
+        "Square Enix's new title",
+        "HD-2D graphics praised"
       ],
-      "impact": "Samsung enters the XR market with Galaxy XR.",
-      "id": "42f390fe4406820e1b40ef7b7ab6bc44"
+      "impact": "The game receives mixed reviews from critics.",
+      "id": "41f304b2dd530d9218decd4b4ede8160"
+    },
+    {
+      "title": "How to turn off AI in your Google Docs",
+      "description": "Learn how to disable the intrusive 'write with Gemini' pop-ups in Google Docs. Follow these simple steps to regain control over your writing experience.",
+      "category": "Software",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-182884083.jpg?resize=1200,800",
+      "published_at": "2026-06-18T01:23:51Z",
+      "key_points": [
+        "Disable AI pop-ups",
+        "Regain writing control",
+        "Simple steps provided"
+      ],
+      "impact": "Users can customize their Google Docs experience.",
+      "id": "e304a2af2a1bdfb5c5054cd187702fc1"
+    },
+    {
+      "title": "Yakuza Creator's Gang of Dragon PS5 Game Really Does Seem Dead",
+      "description": "Evidence suggests that the Yakuza creator's new game, Gang of Dragon, may be canceled. Fans are left wondering about the future of this anticipated title.",
+      "category": "Gaming",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/06/yakuza-creators-gang-of-dragon-ps5-game-really-does-seem-dead",
+      "image": "https://images.pushsquare.com/2b77b5ad5fcd6/large.jpg",
+      "published_at": "2026-06-18T01:00:00Z",
+      "key_points": [
+        "Game likely canceled",
+        "Yakuza creator involved",
+        "No official confirmation"
+      ],
+      "impact": "Fans may not see this game released.",
+      "id": "9bc78ad071c61fb6eb750899167fccae"
+    },
+    {
+      "title": "Everything you need to know from State of Unreal 2026",
+      "description": "Unreal Engine 6 and 5.8 were unveiled at the State of Unreal keynote. Key highlights include significant updates and a $1 billion payout to UEFN developers.",
+      "category": "Software",
+      "source": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/everything-you-need-to-know-from-state-of-unreal-2026-unreal-engine-6-unreal-engine-58-and-1bn-paid-to-fortnite-devs",
+      "image": "https://assetsio.gnwcdn.com/Unreal-Engine-5.8%3Dunreal-engine-5.8-1920x1080.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-18T00:12:49Z",
+      "key_points": [
+        "Unreal Engine 6 unveiled",
+        "$1 billion for UEFN devs",
+        "Updates on Unreal Engine 5.8"
+      ],
+      "impact": "Developers gain access to powerful new tools.",
+      "id": "5e777eb2b56834769313d7b474ff8663"
+    },
+    {
+      "title": "Street Fighter 6 DLC character Yasmine launches August 3",
+      "description": "Capcom announced that Yasmine, a new character for Street Fighter 6, will be available on August 3. Get ready for exciting new gameplay options!",
+      "category": "Gaming",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/street-fighter-6-dlc-character-yasmine-launches-august-3",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Street-Fighter-6_2026_06-17-26_006.jpg",
+      "published_at": "2026-06-17T23:11:25Z",
+      "key_points": [
+        "New character Yasmine announced",
+        "Launch date August 3",
+        "Exciting gameplay options"
+      ],
+      "impact": "Fans eagerly await Yasmine's arrival.",
+      "id": "87e27d886b2c43485e60391f299469d7"
+    },
+    {
+      "title": "Pixel Screenshots no longer exclusively uses on-device AI",
+      "description": "Pixel Screenshots now utilizes cloud processing alongside on-device AI. This update enhances performance and capabilities for users.",
+      "category": "Software",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/06/17/pixel-screenshots-cloud-ai/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/Pixel-Screenshots-app-icon.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-17T22:10:00Z",
+      "key_points": [
+        "Cloud processing added",
+        "Improves performance",
+        "Enhances user experience"
+      ],
+      "impact": "Users benefit from improved screenshot capabilities.",
+      "id": "bcca189cbabb2c006eee5e38868a7c81"
+    },
+    {
+      "title": "ALS Patient Gains Ability to Speak Using Experimental Brain-Computer Interface",
+      "description": "A groundbreaking brain-computer interface developed at UC Davis allows an ALS patient to communicate and work full-time. This innovation offers hope for many.",
+      "category": "Science",
+      "source": "Yahoo Entertainment",
+      "url": "https://www.yahoo.com/entertainment/videos/als-patient-47-gains-ability-201404314.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/58c12b24d8bf962467a693f04533b8cacbfc4c49354e389d80eff99b89893b54/lightyear_networkapi/resizefill_w720_h406;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fvideo.people.time.com%2F28e8b6333ae137b15fc68c90981ecd82",
+      "published_at": "2026-06-17T20:14:04Z",
+      "key_points": [
+        "Brain-computer interface breakthrough",
+        "Patient can now communicate",
+        "Hope for ALS patients"
+      ],
+      "impact": "This technology transforms lives for ALS patients.",
+      "id": "1f493260825bddc5e187518a44eeeebe"
+    },
+    {
+      "title": "Is the Trump T1 Just an HTC Phone Painted Gold?",
+      "description": "CNET's review suggests the Trump phone is a rebranded HTC U24 Pro. The findings raise questions about its originality and value.",
+      "category": "Software",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/mobile/trump-phone-htc-u24-pro-painted-gold/",
+      "image": "https://www.cnet.com/a/img/resize/ee439f1c7821beb539f6055e28f7ad91554147a1/hub/2026/05/26/20fbfd9e-b502-4a38-96d4-38284a97951b/20260524-145548.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "published_at": "2026-06-17T19:48:00Z",
+      "key_points": [
+        "Trump phone review released",
+        "Similar to HTC U24 Pro",
+        "Questions about originality"
+      ],
+      "impact": "Consumers may reconsider purchasing this phone.",
+      "id": "f0fac1dd83174bd06269588e077a27c6"
+    },
+    {
+      "title": "OnePlus just launched an unexpected upgrade to its best flagship killer phone",
+      "description": "OnePlus has unveiled an unexpected upgrade to its flagship killer phone, enhancing performance and features. Details on the new model are now available.",
+      "category": "Hardware",
+      "source": "PhoneArena",
+      "url": "https://www.phonearena.com/news/oneplus-just-launched-an-unexpected-upgrade-to-its-best-flagship-killer-phone_id181188",
+      "image": "",
+      "published_at": "2026-06-17T19:13:50Z",
+      "key_points": [
+        "Unexpected flagship upgrade",
+        "Enhanced performance",
+        "New features revealed"
+      ],
+      "impact": "OnePlus strengthens its competitive edge.",
+      "id": "1dbac59ad2474af3799baf0f8cfbc9a1"
+    },
+    {
+      "title": "Apple’s new software drops support for these 16 products",
+      "description": "Apple's latest software update drops support for 16 products, including older iPads and Macs. Users should check compatibility before upgrading.",
+      "category": "Software",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/17/apples-new-software-drops-support-for-these-16-products/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-icon-fi.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-17T17:44:00Z",
+      "key_points": [
+        "16 products no longer supported",
+        "Check compatibility before upgrading",
+        "Includes older iPads and Macs"
+      ],
+      "impact": "Users may need to upgrade their devices.",
+      "id": "b148ae9420c8f3e96b2f355e93f1953b"
+    },
+    {
+      "title": "Epic Games CEO Tim Sweeney calls for Team Open to address game industry’s challenges",
+      "description": "Tim Sweeney urges the gaming industry to unite and tackle challenges posed by competitors like Roblox. His call for collaboration aims to strengthen the sector.",
+      "category": "Gaming",
+      "source": "GamesBeat",
+      "url": "https://gamesbeat.com/epic-games-ceo-tim-sweeney-calls-for-team-open-to-address-game-industrys-challenges/",
+      "image": "https://gamesbeat.com/wp-content/uploads/2026/06/tim-sweeney.jpg",
+      "published_at": "2026-06-17T16:46:06Z",
+      "key_points": [
+        "Sweeney calls for industry unity",
+        "Address challenges together",
+        "Focus on competition with Roblox"
+      ],
+      "impact": "Collaboration could reshape the gaming landscape.",
+      "id": "0f0115b33ebf45d6f8c5638caad5ebc0"
+    },
+    {
+      "title": "Rockstar Announces Free PS5 And Xbox Series X/S Upgrade For Grand Theft Auto V",
+      "description": "Rockstar Games will offer free upgrades for GTA V owners on last-gen consoles to current-gen versions. This move excites fans awaiting GTA VI.",
+      "category": "Gaming",
+      "source": "Game Informer",
+      "url": "https://gameinformer.com/2026/06/17/rockstar-announces-free-ps5-and-xbox-series-xs-upgrade-for-grand-theft-auto-v",
+      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/17/5e3fbfb7/gta-v-ehnanched-trevor.jpg.webp",
+      "published_at": "2026-06-17T16:41:34Z",
+      "key_points": [
+        "Free upgrades for GTA V",
+        "Last-gen to current-gen",
+        "Excitement for GTA VI builds"
+      ],
+      "impact": "Fans can enjoy enhanced gameplay for free.",
+      "id": "d114205622793e1b01f7016e690fff67"
+    },
+    {
+      "title": "Dispatch just got a Nintendo Switch 2 and Switch update to reduce censorship",
+      "description": "AdHoc Studio released a new update for Dispatch on Nintendo Switch 2, addressing censorship issues. The patch is now available for download.",
+      "category": "Gaming",
+      "source": "Nintendo Everything",
+      "url": "https://nintendoeverything.com/dispatch-switch-2-switch-censorship-update-hr-violations/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Dispatch-Switch-2-Switch-censorship-update.jpg",
+      "published_at": "2026-06-17T16:01:20Z",
+      "key_points": [
+        "New update for Dispatch",
+        "Censorship issues addressed",
+        "Patch available for download"
+      ],
+      "impact": "Players can enjoy a more open experience.",
+      "id": "c072d6cb991060c79a3ec59de78c319b"
+    },
+    {
+      "title": "The chaos continues",
+      "description": "Minecraft kicks off summer with community challenges, multiplayer experiences, and a Marketplace Summer Sale. Join the fun and explore new features!",
+      "category": "Gaming",
+      "source": "Minecraft",
+      "url": "https://www.minecraft.net/en-us/article/the-chaos-continues",
+      "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/MCV_SummerDrop2026_Launch_Screenshots_Hero_1170x500.jpg",
+      "published_at": "2026-06-17T15:06:28Z",
+      "key_points": [
+        "Summer fun begins",
+        "Community challenges announced",
+        "Marketplace Summer Sale ongoing"
+      ],
+      "impact": "Players can engage in exciting summer activities.",
+      "id": "c4360461006feebc5c7902baab5b96b0"
     }
   ]
 }

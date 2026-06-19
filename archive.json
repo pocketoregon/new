@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-19T10:24:15.366042+00:00",
+      "fetched_at": "2026-06-19T10:24:15.366042+00:00",
+      "label": "Jun 19, 2026 — 10:24 AM UTC",
+      "articles": [
+        {
+          "title": "Wish Upon a Jirachi in Pokémon Pokopia",
+          "description": "Join the Wish Upon a Jirachi event from June 23 to July 8, 2026, and help make Pokémon dreams come true. Befriend Jirachi and enjoy the festivities!",
+          "category": "Gaming",
+          "source": "Pokemon.com",
+          "url": "https://www.pokemon.com/us/pokemon-news/wish-upon-a-jirachi-in-pokemon-pokopia",
+          "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-pokopia/2026/06/18/pokemon-pokopia-169.png",
+          "published_at": "2026-06-18T05:07:31Z",
+          "key_points": [
+            "Event runs June 23 to July 8",
+            "Befriend Jirachi",
+            "Make Pokémon dreams come true"
+          ],
+          "impact": "Pokémon fans can enjoy a special event.",
+          "id": "adc6ec214bf2d71485f0d0ec8a1bb7d9"
+        },
+        {
+          "title": "Round Up: The Reviews Are In For The Adventures Of Elliot: The Millenium Tales",
+          "description": "Critics have shared their reviews for Square Enix's new HD-2D title, The Adventures of Elliot: The Millennium Tales. Check out the highlights and feedback from various sources.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/round-up-the-reviews-are-in-for-the-adventures-of-elliot-the-millenium-tales",
+          "image": "https://images.nintendolife.com/30afcfe4765e4/large.jpg",
+          "published_at": "2026-06-18T01:55:00Z",
+          "key_points": [
+            "Critics share their reviews",
+            "Square Enix's new title",
+            "HD-2D graphics praised"
+          ],
+          "impact": "The game receives mixed reviews from critics.",
+          "id": "41f304b2dd530d9218decd4b4ede8160"
+        },
+        {
+          "title": "How to turn off AI in your Google Docs",
+          "description": "Learn how to disable the intrusive 'write with Gemini' pop-ups in Google Docs. Follow these simple steps to regain control over your writing experience.",
+          "category": "Software",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-182884083.jpg?resize=1200,800",
+          "published_at": "2026-06-18T01:23:51Z",
+          "key_points": [
+            "Disable AI pop-ups",
+            "Regain writing control",
+            "Simple steps provided"
+          ],
+          "impact": "Users can customize their Google Docs experience.",
+          "id": "e304a2af2a1bdfb5c5054cd187702fc1"
+        },
+        {
+          "title": "Yakuza Creator's Gang of Dragon PS5 Game Really Does Seem Dead",
+          "description": "Evidence suggests that the Yakuza creator's new game, Gang of Dragon, may be canceled. Fans are left wondering about the future of this anticipated title.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/yakuza-creators-gang-of-dragon-ps5-game-really-does-seem-dead",
+          "image": "https://images.pushsquare.com/2b77b5ad5fcd6/large.jpg",
+          "published_at": "2026-06-18T01:00:00Z",
+          "key_points": [
+            "Game likely canceled",
+            "Yakuza creator involved",
+            "No official confirmation"
+          ],
+          "impact": "Fans may not see this game released.",
+          "id": "9bc78ad071c61fb6eb750899167fccae"
+        },
+        {
+          "title": "Everything you need to know from State of Unreal 2026",
+          "description": "Unreal Engine 6 and 5.8 were unveiled at the State of Unreal keynote. Key highlights include significant updates and a $1 billion payout to UEFN developers.",
+          "category": "Software",
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/everything-you-need-to-know-from-state-of-unreal-2026-unreal-engine-6-unreal-engine-58-and-1bn-paid-to-fortnite-devs",
+          "image": "https://assetsio.gnwcdn.com/Unreal-Engine-5.8%3Dunreal-engine-5.8-1920x1080.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-18T00:12:49Z",
+          "key_points": [
+            "Unreal Engine 6 unveiled",
+            "$1 billion for UEFN devs",
+            "Updates on Unreal Engine 5.8"
+          ],
+          "impact": "Developers gain access to powerful new tools.",
+          "id": "5e777eb2b56834769313d7b474ff8663"
+        },
+        {
+          "title": "Street Fighter 6 DLC character Yasmine launches August 3",
+          "description": "Capcom announced that Yasmine, a new character for Street Fighter 6, will be available on August 3. Get ready for exciting new gameplay options!",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/street-fighter-6-dlc-character-yasmine-launches-august-3",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Street-Fighter-6_2026_06-17-26_006.jpg",
+          "published_at": "2026-06-17T23:11:25Z",
+          "key_points": [
+            "New character Yasmine announced",
+            "Launch date August 3",
+            "Exciting gameplay options"
+          ],
+          "impact": "Fans eagerly await Yasmine's arrival.",
+          "id": "87e27d886b2c43485e60391f299469d7"
+        },
+        {
+          "title": "Pixel Screenshots no longer exclusively uses on-device AI",
+          "description": "Pixel Screenshots now utilizes cloud processing alongside on-device AI. This update enhances performance and capabilities for users.",
+          "category": "Software",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/17/pixel-screenshots-cloud-ai/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/Pixel-Screenshots-app-icon.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-17T22:10:00Z",
+          "key_points": [
+            "Cloud processing added",
+            "Improves performance",
+            "Enhances user experience"
+          ],
+          "impact": "Users benefit from improved screenshot capabilities.",
+          "id": "bcca189cbabb2c006eee5e38868a7c81"
+        },
+        {
+          "title": "ALS Patient Gains Ability to Speak Using Experimental Brain-Computer Interface",
+          "description": "A groundbreaking brain-computer interface developed at UC Davis allows an ALS patient to communicate and work full-time. This innovation offers hope for many.",
+          "category": "Science",
+          "source": "Yahoo Entertainment",
+          "url": "https://www.yahoo.com/entertainment/videos/als-patient-47-gains-ability-201404314.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/58c12b24d8bf962467a693f04533b8cacbfc4c49354e389d80eff99b89893b54/lightyear_networkapi/resizefill_w720_h406;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fvideo.people.time.com%2F28e8b6333ae137b15fc68c90981ecd82",
+          "published_at": "2026-06-17T20:14:04Z",
+          "key_points": [
+            "Brain-computer interface breakthrough",
+            "Patient can now communicate",
+            "Hope for ALS patients"
+          ],
+          "impact": "This technology transforms lives for ALS patients.",
+          "id": "1f493260825bddc5e187518a44eeeebe"
+        },
+        {
+          "title": "Is the Trump T1 Just an HTC Phone Painted Gold?",
+          "description": "CNET's review suggests the Trump phone is a rebranded HTC U24 Pro. The findings raise questions about its originality and value.",
+          "category": "Software",
+          "source": "CNET",
+          "url": "https://www.cnet.com/tech/mobile/trump-phone-htc-u24-pro-painted-gold/",
+          "image": "https://www.cnet.com/a/img/resize/ee439f1c7821beb539f6055e28f7ad91554147a1/hub/2026/05/26/20fbfd9e-b502-4a38-96d4-38284a97951b/20260524-145548.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "published_at": "2026-06-17T19:48:00Z",
+          "key_points": [
+            "Trump phone review released",
+            "Similar to HTC U24 Pro",
+            "Questions about originality"
+          ],
+          "impact": "Consumers may reconsider purchasing this phone.",
+          "id": "f0fac1dd83174bd06269588e077a27c6"
+        },
+        {
+          "title": "OnePlus just launched an unexpected upgrade to its best flagship killer phone",
+          "description": "OnePlus has unveiled an unexpected upgrade to its flagship killer phone, enhancing performance and features. Details on the new model are now available.",
+          "category": "Hardware",
+          "source": "PhoneArena",
+          "url": "https://www.phonearena.com/news/oneplus-just-launched-an-unexpected-upgrade-to-its-best-flagship-killer-phone_id181188",
+          "image": "",
+          "published_at": "2026-06-17T19:13:50Z",
+          "key_points": [
+            "Unexpected flagship upgrade",
+            "Enhanced performance",
+            "New features revealed"
+          ],
+          "impact": "OnePlus strengthens its competitive edge.",
+          "id": "1dbac59ad2474af3799baf0f8cfbc9a1"
+        },
+        {
+          "title": "Apple’s new software drops support for these 16 products",
+          "description": "Apple's latest software update drops support for 16 products, including older iPads and Macs. Users should check compatibility before upgrading.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/17/apples-new-software-drops-support-for-these-16-products/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-icon-fi.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-17T17:44:00Z",
+          "key_points": [
+            "16 products no longer supported",
+            "Check compatibility before upgrading",
+            "Includes older iPads and Macs"
+          ],
+          "impact": "Users may need to upgrade their devices.",
+          "id": "b148ae9420c8f3e96b2f355e93f1953b"
+        },
+        {
+          "title": "Epic Games CEO Tim Sweeney calls for Team Open to address game industry’s challenges",
+          "description": "Tim Sweeney urges the gaming industry to unite and tackle challenges posed by competitors like Roblox. His call for collaboration aims to strengthen the sector.",
+          "category": "Gaming",
+          "source": "GamesBeat",
+          "url": "https://gamesbeat.com/epic-games-ceo-tim-sweeney-calls-for-team-open-to-address-game-industrys-challenges/",
+          "image": "https://gamesbeat.com/wp-content/uploads/2026/06/tim-sweeney.jpg",
+          "published_at": "2026-06-17T16:46:06Z",
+          "key_points": [
+            "Sweeney calls for industry unity",
+            "Address challenges together",
+            "Focus on competition with Roblox"
+          ],
+          "impact": "Collaboration could reshape the gaming landscape.",
+          "id": "0f0115b33ebf45d6f8c5638caad5ebc0"
+        },
+        {
+          "title": "Rockstar Announces Free PS5 And Xbox Series X/S Upgrade For Grand Theft Auto V",
+          "description": "Rockstar Games will offer free upgrades for GTA V owners on last-gen consoles to current-gen versions. This move excites fans awaiting GTA VI.",
+          "category": "Gaming",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/2026/06/17/rockstar-announces-free-ps5-and-xbox-series-xs-upgrade-for-grand-theft-auto-v",
+          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/17/5e3fbfb7/gta-v-ehnanched-trevor.jpg.webp",
+          "published_at": "2026-06-17T16:41:34Z",
+          "key_points": [
+            "Free upgrades for GTA V",
+            "Last-gen to current-gen",
+            "Excitement for GTA VI builds"
+          ],
+          "impact": "Fans can enjoy enhanced gameplay for free.",
+          "id": "d114205622793e1b01f7016e690fff67"
+        },
+        {
+          "title": "Dispatch just got a Nintendo Switch 2 and Switch update to reduce censorship",
+          "description": "AdHoc Studio released a new update for Dispatch on Nintendo Switch 2, addressing censorship issues. The patch is now available for download.",
+          "category": "Gaming",
+          "source": "Nintendo Everything",
+          "url": "https://nintendoeverything.com/dispatch-switch-2-switch-censorship-update-hr-violations/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Dispatch-Switch-2-Switch-censorship-update.jpg",
+          "published_at": "2026-06-17T16:01:20Z",
+          "key_points": [
+            "New update for Dispatch",
+            "Censorship issues addressed",
+            "Patch available for download"
+          ],
+          "impact": "Players can enjoy a more open experience.",
+          "id": "c072d6cb991060c79a3ec59de78c319b"
+        },
+        {
+          "title": "The chaos continues",
+          "description": "Minecraft kicks off summer with community challenges, multiplayer experiences, and a Marketplace Summer Sale. Join the fun and explore new features!",
+          "category": "Gaming",
+          "source": "Minecraft",
+          "url": "https://www.minecraft.net/en-us/article/the-chaos-continues",
+          "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/MCV_SummerDrop2026_Launch_Screenshots_Hero_1170x500.jpg",
+          "published_at": "2026-06-17T15:06:28Z",
+          "key_points": [
+            "Summer fun begins",
+            "Community challenges announced",
+            "Marketplace Summer Sale ongoing"
+          ],
+          "impact": "Players can engage in exciting summer activities.",
+          "id": "c4360461006feebc5c7902baab5b96b0"
+        }
+      ]
+    },
+    {
       "id": "2026-06-19T04:11:06.110059+00:00",
       "fetched_at": "2026-06-19T04:11:06.110059+00:00",
       "label": "Jun 19, 2026 — 04:11 AM UTC",
@@ -6936,253 +7183,6 @@
           ],
           "impact": "This innovation could improve gravel biking experiences.",
           "id": "25d381ee488cdd77f405efd4bac8fb8b"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-13T11:16:41.633083+00:00",
-      "fetched_at": "2026-06-13T11:16:41.633083+00:00",
-      "label": "Jun 13, 2026 — 11:17 AM UTC",
-      "articles": [
-        {
-          "title": "Apple Unveils Third-Gen Foundation Models",
-          "description": "Apple introduced its third generation of Foundation Models at WWDC26, featuring local and cloud-based AI capabilities. Here's a breakdown of their functionalities.",
-          "category": "AI",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/11/apples-new-foundation-models-explained-on-device-ai-cloud-ai-and-everything-in-between/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-foundation-models-2026.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-12T02:27:00Z",
-          "key_points": [
-            "New AI models launched",
-            "Local and cloud options",
-            "Detailed functionality breakdown"
-          ],
-          "impact": "Apple's AI advancements enhance user experience.",
-          "id": "26165e594fbd9483cd1574f19260e5e5"
-        },
-        {
-          "title": "iOS 27 Introduces New Health Features",
-          "description": "iOS 27 beta reveals new health and fitness features, despite the cancellation of an AI health service. Users can expect improved health tracking capabilities.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/guide/ios-27-health-app/",
-          "image": "https://images.macrumors.com/t/UCeGcUpfGc84SXVWBT9k79vbx4E=/2048x/article-new/2023/04/apple-health-app.jpg",
-          "published_at": "2026-06-11T23:35:38Z",
-          "key_points": [
-            "New health tracking features",
-            "AI service scrapped",
-            "Enhanced fitness capabilities"
-          ],
-          "impact": "iOS 27 boosts health app functionality.",
-          "id": "5ffe1f6cee35cebe8f888a11c4f9646f"
-        },
-        {
-          "title": "Amazon Echo Hub Gets Major Update",
-          "description": "Amazon's Echo Hub now features a customizable home screen, Alexa Plus video summaries, and Ring AI video search capabilities. Users can personalize their smart display experience.",
-          "category": "Hardware",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/amazon-echo-hub-redesign-wide.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-          "published_at": "2026-06-11T22:06:32Z",
-          "key_points": [
-            "Customizable home screen",
-            "Alexa Plus features",
-            "Enhanced video search"
-          ],
-          "impact": "Echo Hub update improves user customization.",
-          "id": "65add8215d6cb0c8d31133a80d5d50d9"
-        },
-        {
-          "title": "Niantic Confirms No Data Sharing with Drone Company",
-          "description": "Niantic Spatial clarifies that it no longer shares Pokémon Go data with the drone company following its acquisition by Scopely. Data privacy remains a priority.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/pokemon-go-niantic-spatial-drone-ai-map-training-gps-2000705669",
-          "image": "https://kotaku.com/app/uploads/2023/04/0e360c870e6b0950a14426b6a080997a-1200x675.jpg",
-          "published_at": "2026-06-11T21:26:30Z",
-          "key_points": [
-            "No data sharing confirmed",
-            "Privacy remains a priority",
-            "Acquisition impacts data policies"
-          ],
-          "impact": "Niantic reinforces commitment to user privacy.",
-          "id": "3e5f64d935923aecc7e9f7dad962fd3a"
-        },
-        {
-          "title": "WhatsApp Expands Multi-Account Support on iOS",
-          "description": "WhatsApp is rolling out multi-account support on iOS, fulfilling a highly requested feature. Users can now manage multiple accounts seamlessly.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/11/whatsapp-rolling-out-multi-account-support-more-widely-on-ios/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-11T21:12:00Z",
-          "key_points": [
-            "Multi-account feature launched",
-            "Highly requested by users",
-            "Seamless account management"
-          ],
-          "impact": "WhatsApp enhances user flexibility with accounts.",
-          "id": "f403a22cfc8e230370c51b851f712139"
-        },
-        {
-          "title": "iPhone Ultra Set to Launch This Fall",
-          "description": "Apple's first foldable iPhone, rumored to be called iPhone Ultra, is expected to launch this fall with six new features. Anticipation builds for this innovative device.",
-          "category": "Hardware",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/11/iphone-ultra-is-coming-six-new-features-in-apples-top-tier-model/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-11T20:49:00Z",
-          "key_points": [
-            "First foldable iPhone",
-            "Launch expected this fall",
-            "Six new features anticipated"
-          ],
-          "impact": "iPhone Ultra promises innovative design and features.",
-          "id": "91e0cccaac3dc6f6053f5e717519a6ca"
-        },
-        {
-          "title": "Trump Phone Revealed as HTC Clone",
-          "description": "Teardown of the Trump Mobile T1 reveals it is nearly identical to the HTC U24 Pro, with minor modifications. The phone's origins raise questions about its uniqueness.",
-          "category": "Business",
-          "source": "Yahoo Entertainment",
-          "url": "https://tech.yahoo.com/phones/article/trump-phone-teardown-confirms-its-nearly-identical-to-an-existing-htc-phone-204012315.html",
-          "image": "https://s.yimg.com/lo/mysterio/api/149a3b54986a111913cad9acdab23b07b5e253977a7df8799a7438f1ec5f610e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Ftrump-mobile-t1-phone_6131.jpg",
-          "published_at": "2026-06-11T20:40:12Z",
-          "key_points": [
-            "Trump phone teardown reveals clone",
-            "Identical to HTC U24 Pro",
-            "Minor tweaks noted"
-          ],
-          "impact": "Trump phone's uniqueness questioned after teardown.",
-          "id": "5c6a0e05f7f5d4bd005a2d752cf00616"
-        },
-        {
-          "title": "Telegram Revives Wear OS App After Five Years",
-          "description": "Telegram has reintroduced its Wear OS app, allowing Android smartwatch users to access chats and voice messages. This marks a significant return after five years.",
-          "category": "Software",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/06/11/telegram-wear-os-app-returns/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/telegram-wear-os-app-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-11T20:25:00Z",
-          "key_points": [
-            "Wear OS app returns",
-            "Access chats and voice messages",
-            "Five years absence"
-          ],
-          "impact": "Telegram enhances smartwatch functionality with app.",
-          "id": "de62cdb05363d5b78cf0642dbdd04361"
-        },
-        {
-          "title": "Xbox Considers In-Game Ads for Affordability",
-          "description": "Xbox's chief strategist suggests in-game ads could help keep products affordable and fund development teams. This proposal aims to balance user experience and costs.",
-          "category": "Gaming",
-          "source": "Windows Central",
-          "url": "https://www.windowscentral.com/gaming/xbox/oh-boy-xboxs-chief-strategist-is-floating-the-idea-of-in-game-ads",
-          "image": "https://cdn.mos.cms.futurecdn.net/xsrgVHEkxpsCxmdDvUsqrj-1523-80.jpg",
-          "published_at": "2026-06-11T18:31:55Z",
-          "key_points": [
-            "In-game ads proposed",
-            "Aim to keep products affordable",
-            "Support development funding"
-          ],
-          "impact": "Xbox explores ads to maintain affordability.",
-          "id": "ba5eb7ff0706fbe9334436bc192cb9a2"
-        },
-        {
-          "title": "Halo: Campaign Evolved Pre-Release Comparison",
-          "description": "A comparison of Halo: Campaign Evolved on Xbox Series X and Ally X shows notable differences based on early footage. Fans eagerly await the game's release.",
-          "category": "Gaming",
-          "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/news/2026/06/halo-campaign-evolved-comparison-shows-difference-between-xbox-series-x-and-ally-x",
-          "image": "https://images.purexbox.com/06de523bfd186/large.jpg",
-          "published_at": "2026-06-11T18:30:00Z",
-          "key_points": [
-            "Pre-release footage comparison",
-            "Differences noted between consoles",
-            "Fans excited for release"
-          ],
-          "impact": "Halo: Campaign Evolved generates pre-launch buzz.",
-          "id": "e8913ca93a77cdc6f5058f9b11da9645"
-        },
-        {
-          "title": "Chatbots' Repeated Stories About Elias Thorne",
-          "description": "Chatbots frequently reference a character named Elias Thorne, raising questions about their creativity. A new study explores this phenomenon.",
-          "category": "AI",
-          "source": "Gizmodo.com",
-          "url": "https://gizmodo.com/why-do-chatbots-keep-telling-stories-about-someone-named-elias-thorne-2000770629",
-          "image": "https://gizmodo.com/app/uploads/2023/08/e520de63962eac1bfbe941db24122a1a.jpg",
-          "published_at": "2026-06-11T18:20:05Z",
-          "key_points": [
-            "Chatbots lack creativity",
-            "Elias Thorne frequently mentioned",
-            "Study explores chatbot behavior"
-          ],
-          "impact": "Chatbots' storytelling raises creativity concerns.",
-          "id": "64d07598df0d994f7568f93f9be49cce"
-        },
-        {
-          "title": "Mina The Hollower's Unique Game Finale Explained",
-          "description": "Developers of Mina The Hollower discuss a Chrono Trigger-style twist in the game's finale, enhancing player experience. The game features seven main dungeons.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/mina-the-hollower-ending-devs-chrono-trigger-style-grand-finale-2000705580",
-          "image": "https://kotaku.com/app/uploads/2025/10/minathehollower-1200x675.jpg",
-          "published_at": "2026-06-11T18:13:13Z",
-          "key_points": [
-            "Unique game finale twist",
-            "Chrono Trigger inspiration",
-            "Seven main dungeons"
-          ],
-          "impact": "Mina The Hollower offers innovative gameplay experience.",
-          "id": "5715f85b3362bc92b18e8c1ddd6dd3a8"
-        },
-        {
-          "title": "New GreatXML Exploit Bypasses Windows BitLocker",
-          "description": "A new exploit named GreatXML can bypass Windows BitLocker, exposing encrypted data. This vulnerability raises security concerns for users.",
-          "category": "Security",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqKyNLbT9WYm7m6ZsvIgv0mNbGJCrgEjUUXLbRZV9mmQUVi7jT9IiwlXh2kYKiMOrsCnJ-ZaoAK9GnL9jy6RHJELISIGFuLSZgsSYuclWFcPmItYL04pTVeA7cl_jy8L6RU4CVPypa6u24OH8hCwPL1g1tEVRczTV1YjZ5KUFGZc6DVw8Pdo_CFGXRTS-d/s1600/windows-bitlocker.jpg",
-          "published_at": "2026-06-11T17:43:00Z",
-          "key_points": [
-            "GreatXML exploit discovered",
-            "Bypasses BitLocker security",
-            "Exposes encrypted data"
-          ],
-          "impact": "New exploit poses serious security risks.",
-          "id": "d6dfe9a733b5347827f7fd40c745a868"
-        },
-        {
-          "title": "DJI Sues Insta360 Over Patent Violations",
-          "description": "DJI has filed lawsuits against Insta360 for allegedly violating multiple patents related to its Osmo Pocket products. The legal battle centers on design and functionality.",
-          "category": "Business",
-          "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/06/11/dji-is-suing-insta360-for-violating-multiple-osmo-pocket-patents/",
-          "image": "https://petapixel.com/assets/uploads/2026/06/DJI-Is-Suing-Insta360-for-Violating-Multiple-Osmo-Pocket-Patents.jpg",
-          "published_at": "2026-06-11T17:27:53Z",
-          "key_points": [
-            "DJI files patent lawsuits",
-            "Insta360 accused of violations",
-            "Focus on Osmo Pocket products"
-          ],
-          "impact": "DJI's legal action highlights patent enforcement.",
-          "id": "f4d93e559977882fe40a1c748c6d7968"
-        },
-        {
-          "title": "Windows 11 Low Latency Profile CPU Boost Available",
-          "description": "Microsoft has released a cumulative update for Windows 11, enhancing CPU performance for the Start Menu. Users can expect improved responsiveness.",
-          "category": "Software",
-          "source": "VideoCardz.com",
-          "url": "https://videocardz.com/newz/microsoft-windows-11-low-latency-profile-cpu-boost-for-start-menu-is-now-available",
-          "image": "https://cdn.videocardz.com/1/2026/06/WINDOWS-11-START-MENU-BOOST-HERO.jpg",
-          "published_at": "2026-06-11T17:13:47Z",
-          "key_points": [
-            "Windows 11 update released",
-            "Boosts CPU performance",
-            "Improves Start Menu responsiveness"
-          ],
-          "impact": "Windows 11 update enhances user experience.",
-          "id": "6e8d8e53a7c23502b955b75fdfc34f8a"
         }
       ]
     }
