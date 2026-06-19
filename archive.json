@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-19T19:48:18.587070+00:00",
+      "fetched_at": "2026-06-19T19:48:18.587070+00:00",
+      "label": "Jun 19, 2026 — 07:48 PM UTC",
+      "articles": [
+        {
+          "title": "Meccha Chameleon: Steam's Viral Sensation",
+          "description": "Meccha Chameleon is taking Steam by storm, blending creativity and gameplay. Players are flocking to this unique title, making it a viral hit.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/meccha-chameleon-steam-download-horse-clips-northernlion-2000708169",
+          "image": "https://kotaku.com/app/uploads/2026/06/Screen-Shot-2026-06-18-at-2.41.59-PM-1200x675.jpg",
+          "published_at": "2026-06-18T19:22:45Z",
+          "key_points": [
+            "Creative gameplay mechanics",
+            "Viral social media presence",
+            "Unique player experiences"
+          ],
+          "impact": "Meccha Chameleon is redefining viral gaming.",
+          "id": "9d44dc80e606c7f51440eab418d3f8a6"
+        },
+        {
+          "title": "White House Uses GTA 6 Meme for Distraction",
+          "description": "The White House posted a parody GTA 6 cover featuring Trump, aiming to divert attention from current issues. The move has sparked mixed reactions online.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/white-house-uses-gta-6-meme-to-distract-from-reflecting-pool-turning-the-color-of-mountain-dew-2000708154",
+          "image": "https://kotaku.com/app/uploads/2026/06/magatrumpgta6cover-1200x675.jpg",
+          "published_at": "2026-06-18T18:25:53Z",
+          "key_points": [
+            "GTA 6 cover parody",
+            "Political distraction tactic",
+            "Mixed public reactions"
+          ],
+          "impact": "The meme highlights political communication strategies.",
+          "id": "9416b425b0bd6accfa09733f24b31414"
+        },
+        {
+          "title": "Google Health 5.02 Update Brings New Features",
+          "description": "Google Health's latest update, version 5.02, enhances the app with new features like hourly activity tracking and nap reminders. The update is rolling out for both iOS and Android.",
+          "category": "Software",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/18/google-health-5-02-release-notes/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/google-health-logo-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-18T16:28:00Z",
+          "key_points": [
+            "New hourly activity feature",
+            "Nap reminders added",
+            "Available on iOS and Android"
+          ],
+          "impact": "Google Health continues to improve user experience.",
+          "id": "2f7f08f9fef531ad9262af72c4183934"
+        },
+        {
+          "title": "Borderlands Bounty Pack 3 Introduces New Content",
+          "description": "Bounty Pack 3 for Borderlands 4 features a new raid and introduces Loveless as the next Vault Hunter. Players can expect new loot and challenges.",
+          "category": "Gaming",
+          "source": "2k.com",
+          "url": "https://borderlands.2k.com/borderlands-4/news/bounty-pack-3-takedown-at-hadron-abyss/",
+          "image": "https://assets.2k.com/1a6ngf98576c/4zXpfbA9xO397sI262TrDm/6bbefd7d76850e74bcfda880dd76cf10/BL4_KA.png",
+          "published_at": "2026-06-18T16:24:17Z",
+          "key_points": [
+            "New raid in Bounty Pack 3",
+            "Loveless joins as Vault Hunter",
+            "Exciting new loot available"
+          ],
+          "impact": "Borderlands expands its universe with fresh content.",
+          "id": "c7a8c533755d7b61bb5af42eb09c0ed9"
+        },
+        {
+          "title": "God of War Laufey Lacks Unique Identity",
+          "description": "IGN critiques God of War Laufey for its similarities to Kratos' Norse saga. The shift in perspective to Faye doesn't fully establish its own identity.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/god-of-war-laufey-feels-too-similar-to-kratos-norse-saga",
+          "image": "https://assets-prd.ignimgs.com/2026/06/18/gow-laufey-kratos-blogroll-1781776561763.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-18T16:15:00Z",
+          "key_points": [
+            "Similarities to previous saga",
+            "Faye's perspective explored",
+            "Identity issues noted"
+          ],
+          "impact": "Critique raises questions about game innovation.",
+          "id": "9224ea2ade6b3683ecee7051b6637641"
+        },
+        {
+          "title": "Tethergeist: A Unique Puzzle Platformer",
+          "description": "Tethergeist offers a fresh take on the puzzle platformer genre, introducing innovative mechanics and engaging gameplay. It's a must-try for fans of the genre.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/celeste-like-puzzle-platformer-tethergeist-indie-2000708091",
+          "image": "https://kotaku.com/app/uploads/2026/06/tethergeist-1200x675.jpg",
+          "published_at": "2026-06-18T15:49:25Z",
+          "key_points": [
+            "Innovative gameplay mechanics",
+            "Engaging puzzle challenges",
+            "Fresh genre perspective"
+          ],
+          "impact": "Tethergeist revitalizes the puzzle platformer genre.",
+          "id": "f012adc6fa75d72c65c852fa2ccbd8a7"
+        },
+        {
+          "title": "Free Play Days Offers New Xbox Games",
+          "description": "Free Play Days returns with a selection of free Xbox games for subscribers, including Two Point Museum and PGA Tour 2K25. Enjoy gaming without cost this weekend.",
+          "category": "Gaming",
+          "source": "TrueAchievements",
+          "url": "https://www.trueachievements.com/news/free-play-days-two-point-museum-asseto-corsa-pga-tour-2k25",
+          "image": "https://www.trueachievements.com/imgs/176155/free-play-days-returns-with-more-free-xbox-games-including-two-point-museum.jpg",
+          "published_at": "2026-06-18T15:10:06Z",
+          "key_points": [
+            "Free games for Xbox subscribers",
+            "Includes popular titles",
+            "Available this weekend only"
+          ],
+          "impact": "Free Play Days enhances Xbox gaming experience.",
+          "id": "9a25c659f7895e25e66afdf49cd3067c"
+        },
+        {
+          "title": "iPhone 18 Pro Camera Bump to Increase",
+          "description": "Leaks suggest the iPhone 18 Pro will feature a larger camera bump with thicker lenses. This change aims to improve photography capabilities.",
+          "category": "Hardware",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/18/iphone-18-pro-is-getting-larger-camera-bump-per-leaks-heres-why/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-dark-blue-camera-plateau.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-18T15:09:00Z",
+          "key_points": [
+            "Larger camera bump expected",
+            "Thicker lenses for better photos",
+            "Design remains similar to predecessors"
+          ],
+          "impact": "iPhone 18 Pro aims for enhanced photography.",
+          "id": "18c00aa3d3c83ea293300b2d634b843c"
+        },
+        {
+          "title": "Ultra-Black Car Paint Absorbs 99.9% Light",
+          "description": "Researchers have developed an ultra-black car paint that absorbs 99.9% of visible light, creating a striking visual effect. This innovation could revolutionize automotive design.",
+          "category": "Science",
+          "source": "Gizmodo.com",
+          "url": "https://gizmodo.com/scientists-made-a-car-paint-so-black-it-looks-like-a-hole-in-reality-2000773588",
+          "image": "https://gizmodo.com/app/uploads/2026/06/Nipsea-Carbon-Black-Carbon-Nanotube-Paint-1200x675.jpg",
+          "published_at": "2026-06-18T15:00:07Z",
+          "key_points": [
+            "Absorbs 99.9% of light",
+            "Revolutionary automotive design",
+            "Inspired by Vantablack"
+          ],
+          "impact": "This paint could transform car aesthetics.",
+          "id": "a83996cd8abb5889b53bbf8774a3b838"
+        },
+        {
+          "title": "Warhammer Community Showcases New Miniatures",
+          "description": "The Warhammer community showcases new Orks and Space Marines miniatures, highlighting the creativity of community painters. Fans can see impressive new designs.",
+          "category": "Gaming",
+          "source": "Warhammer Community",
+          "url": "https://www.warhammer-community.com/articles/gksheuhx/warriors-of-armageddon-painted-by-the-warhammer-community",
+          "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/40k_inflarmageddon-jun18-1-feature-kuuxtxkhvd.jpg",
+          "published_at": "2026-06-18T14:55:51Z",
+          "key_points": [
+            "New miniatures showcased",
+            "Community painter highlights",
+            "Creative designs featured"
+          ],
+          "impact": "Warhammer community fosters artistic expression.",
+          "id": "15a48d1e722f2cc37ecd8c62f14b9f51"
+        },
+        {
+          "title": "Google Calendar Expands Color Options",
+          "description": "Google Calendar now offers 200 custom color options for events, enhancing personalization. This update addresses previous limitations and improves user experience.",
+          "category": "Software",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/952123/google-calendar-event-color-options-expansion",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Google-Calendar-event-color-expansion-lede.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-18T14:32:16Z",
+          "key_points": [
+            "200 color options available",
+            "Enhanced event personalization",
+            "Improved user experience"
+          ],
+          "impact": "Google Calendar enhances customization features.",
+          "id": "df74a1d44ca9fb6d9eeb9afbe6adfc34"
+        },
+        {
+          "title": "Xbox Game Pass Adds Two Day One Releases",
+          "description": "Xbox Game Pass announces two new 'day one' releases for July 2026, expanding its game library. This addition promises exciting new content for subscribers.",
+          "category": "Gaming",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/06/two-more-day-one-releases-announced-for-xbox-and-pc-game-pass-in-july-2026",
+          "image": "https://images.purexbox.com/dcd5ae0f8ba9b/large.jpg",
+          "published_at": "2026-06-18T14:31:40Z",
+          "key_points": [
+            "Two new day one releases",
+            "Expanding game library",
+            "Exciting content for subscribers"
+          ],
+          "impact": "Xbox Game Pass continues to grow its offerings.",
+          "id": "837d87fd80f37faa1c4efabbb363000c"
+        },
+        {
+          "title": "Digimon Story: Time Stranger Update Announced",
+          "description": "A free update for Digimon Story: Time Stranger launches on July 9, adding new features like the Terriermon Assistant and graphics mode options. Available on multiple platforms.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/digimon-story-time-stranger-free-update-launches-july-9-adds-terriermon-assistant-graphics-mode-options-more",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Digimon-Story-Time-Stranger-Update_06-18-26_Top.jpg",
+          "published_at": "2026-06-18T14:28:06Z",
+          "key_points": [
+            "Free update on July 9",
+            "New features added",
+            "Available on multiple platforms"
+          ],
+          "impact": "Digimon Story enhances gameplay with updates.",
+          "id": "fe96ff5ff1471efc01b4e04d7879570d"
+        },
+        {
+          "title": "My Hero Academia: All’s Justice Release Dates Announced",
+          "description": "My Hero Academia: All’s Justice will launch on Switch 2 on September 3 in Japan and September 4 worldwide. Fans eagerly await this new title.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/my-hero-academia-alls-justice-coming-to-switch-2-on-september-3-in-japan-september-4-worldwide",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/MHA-Switch-2-Announce_06-18-26.jpg",
+          "published_at": "2026-06-18T14:05:35Z",
+          "key_points": [
+            "Launch dates confirmed",
+            "Switch 2 exclusive",
+            "Worldwide release planned"
+          ],
+          "impact": "My Hero Academia fans have new game excitement.",
+          "id": "b20cffe3e220080ad954009e31f3f1f6"
+        },
+        {
+          "title": "No Law: A Living Cybergrunge Open World",
+          "description": "No Law promises an immersive open world filled with NPCs and interactive buildings. Developer Neon Giant aims to create a vibrant cyberpunk experience.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/no-laws-dense-cybergrunge-city-might-just-be-the-most-alive-open-world-ever-created",
+          "image": "https://assets-prd.ignimgs.com/2026/06/18/nolaw-unreal-fest-screenshots-1-22-1-1781781769580.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-18T14:00:54Z",
+          "key_points": [
+            "Immersive cyberpunk experience",
+            "Packed with NPCs",
+            "Interactive environments promised"
+          ],
+          "impact": "No Law aims to redefine open world gaming.",
+          "id": "f1eb0bf392c63d772e53fc7a48bb1005"
+        }
+      ]
+    },
+    {
       "id": "2026-06-19T15:16:24.104023+00:00",
       "fetched_at": "2026-06-19T15:16:24.104023+00:00",
       "label": "Jun 19, 2026 — 03:16 PM UTC",
@@ -6936,253 +7183,6 @@
           ],
           "impact": "This case highlights difficulties in copyright protection.",
           "id": "933ff71517c8f86add3a7b1f88b32988"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-13T16:13:10.273960+00:00",
-      "fetched_at": "2026-06-13T16:13:10.273960+00:00",
-      "label": "Jun 13, 2026 — 04:13 PM UTC",
-      "articles": [
-        {
-          "title": "Elliot Producer Defends Fairy's Dialogue - Kotaku",
-          "description": "The producer of The Adventures of Elliot addresses fan concerns about the fairy's dialogue, suggesting bias in feedback. They aim to balance character interaction with gameplay.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/the-adventures-of-elliot-devs-surprised-fans-think-fairy-talks-too-much-2000704876",
-          "image": "https://kotaku.com/app/uploads/2026/06/elliotsummer.jpg",
-          "published_at": "2026-06-12T14:00:16Z",
-          "key_points": [
-            "Producer addresses dialogue concerns",
-            "Fans surprised by fairy's chatter",
-            "Balancing character and gameplay"
-          ],
-          "impact": "Dialogue choices may affect player experience.",
-          "id": "85aa930e007060d24864ae95c2c9ac03"
-        },
-        {
-          "title": "Siri AI Limited to New Apple Devices - 9to5Mac",
-          "description": "Apple announces that the new Siri AI features will only be available on select newer devices, including iPhones and Macs. A complete compatibility list is provided.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/12/siri-ai-is-coming-to-newer-apple-devices-only-heres-the-full-list/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-12T13:49:00Z",
-          "key_points": [
-            "New Siri features announced",
-            "Limited to newer devices",
-            "Full compatibility list shared"
-          ],
-          "impact": "Older devices miss out on Siri upgrades.",
-          "id": "401a4750d92529c5f6205f6184beec95"
-        },
-        {
-          "title": "The Walking Dead: Streets of Survival Announced - Gematsu",
-          "description": "Trailmark Games and Odaclick Game Studio unveil The Walking Dead: Streets of Survival, a new side-scrolling beat 'em up for multiple platforms including PS5 and Xbox Series.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/side-scrolling-beat-em-up-game-the-walking-dead-streets-of-survival-announced-for-ps5-xbox-series-switch-2-switch-and-pc",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/TWD-SoS-Ann_06-12-26.jpg",
-          "published_at": "2026-06-12T13:43:21Z",
-          "key_points": [
-            "New game set in Walking Dead universe",
-            "Side-scrolling beat 'em up style",
-            "Available on multiple platforms"
-          ],
-          "impact": "Fans excited for new Walking Dead game.",
-          "id": "67bf67c73da842fc9b9c020e6ef51e3b"
-        },
-        {
-          "title": "NVIDIA Lists RTX PRO 6000 Blackwell GPU - VideoCardz.com",
-          "description": "NVIDIA has officially listed the RTX PRO 6000 Blackwell GPU with a price tag of $13,250, targeting high-end professional users.",
-          "category": "Hardware",
-          "source": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORGlmZDIySEo4QTVhWFFmb3dWaGVYZEtBV09jcnVtNkxGUHJ2ZkdscXV1YUJKVE1VZXI3alZXSTF4OXZUMjQ4OW5QMHFWQVQ1a1JGZ19kaGo5M3JJb3BITmlpdm9yLUVUSWgxU1ZuVi1hMHotcjJVN0FDSmdMZlFsV2FCSmJIc0xHWWx3WHhn?oc=5",
-          "image": "",
-          "published_at": "2026-06-12T13:38:47Z",
-          "key_points": [
-            "RTX PRO 6000 Blackwell listed",
-            "Price set at $13,250",
-            "Targeted at professionals"
-          ],
-          "impact": "High price reflects premium performance.",
-          "id": "16723b18370b5e3401682f8d21d16ea6"
-        },
-        {
-          "title": "Fire Emblem: Fortune’s Weave Includes Dungeons - Nintendo Everything",
-          "description": "Nintendo confirms that dungeons will be featured in Fire Emblem: Fortune’s Weave, revealed during the latest Nintendo Direct.",
-          "category": "Gaming",
-          "source": "Nintendoeverything.com",
-          "url": "https://nintendoeverything.com/nintendo-confirms-dungeons-for-fire-emblem-fortunes-weave/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Fire-Emblem-Fortunes-Weave-dungeons.jpg",
-          "published_at": "2026-06-12T13:31:56Z",
-          "key_points": [
-            "Dungeons confirmed for Fire Emblem",
-            "Revealed in Nintendo Direct",
-            "Fans eager for new gameplay"
-          ],
-          "impact": "Dungeons enhance gameplay depth in Fire Emblem.",
-          "id": "217c85c978fad8316f5722b40d2117c6"
-        },
-        {
-          "title": "Xenoblade Chronicles Graphics Compared - Nintendo Life",
-          "description": "A video compares graphics of Xenoblade Chronicles across Wii, 3DS, Switch, and Switch 2, showcasing minimal differences in gameplay experience.",
-          "category": "Gaming",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/06/video-xenoblade-chronicles-compared-across-wii-3ds-switch-and-switch-2",
-          "image": "https://images.nintendolife.com/4b6c26407354e/large.jpg",
-          "published_at": "2026-06-12T12:30:00Z",
-          "key_points": [
-            "Graphics comparison across platforms",
-            "Minimal differences noted",
-            "Gameplay experience remains similar"
-          ],
-          "impact": "Players enjoy consistent experience across versions.",
-          "id": "4092595cfc2789caa20778c1971802db"
-        },
-        {
-          "title": "Minecraft 26.2 Release Candidate 2 Available - Minecraft",
-          "description": "Minecraft has released its second candidate for version 26.2, addressing critical bugs from the previous release.",
-          "category": "Software",
-          "source": "Minecraft.net",
-          "url": "https://www.minecraft.net/en-us/article/minecraft-26-2-release-candidate-2",
-          "image": "https://www.minecraft.net/content/dam/minecraftnet/article-asset/2026/minecraft-26-2-release-candidate-2/new-article-hero-image.jpg",
-          "published_at": "2026-06-12T12:02:28Z",
-          "key_points": [
-            "Second release candidate launched",
-            "Fixes critical bugs",
-            "Players encouraged to test"
-          ],
-          "impact": "Bug fixes improve overall gameplay experience.",
-          "id": "d9e71a79b9cafe33bcb7c41c90c6c9ad"
-        },
-        {
-          "title": "watchOS 27 Enhances Apple Watch Performance - MacRumors",
-          "description": "Apple's watchOS 27 introduces seven performance improvements for Apple Watch, enhancing user experience and functionality.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/12/watchos-27-improves-apple-watch-performance/",
-          "image": "https://images.macrumors.com/t/NIcNaQpWpjJf34InyyrlQHbkafI=/1600x/article-new/2026/06/watchos-27.jpg",
-          "published_at": "2026-06-12T11:37:29Z",
-          "key_points": [
-            "Seven performance improvements",
-            "Enhances user experience",
-            "Focus on functionality"
-          ],
-          "impact": "Users benefit from improved Apple Watch performance.",
-          "id": "7acff4554ce80bac4330d2079f8af45a"
-        },
-        {
-          "title": "Portable Light Offers Versatile Uses - The Verge",
-          "description": "The BougeRV T1 is a multifunctional portable light, ideal for camping, work, and travel, illuminating over 1,000 square feet.",
-          "category": "Hardware",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/942932/portable-light-camping-work-travel",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268530_SUMMER_UPGRADE_WEEK__CAMPING_LIGHT_ADemidova.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-06-12T11:30:00Z",
-          "key_points": [
-            "Versatile portable light",
-            "Illuminates large areas",
-            "Functions as power bank"
-          ],
-          "impact": "Ideal for various outdoor and indoor activities.",
-          "id": "a31d37a9ae86c63b4230f12ab5be6ad4"
-        },
-        {
-          "title": "Pokémon Go Data Used for Military Drones - Ars Technica",
-          "description": "Pokémon Go data has been repurposed for AI training in military drones, raising ethical concerns about data usage.",
-          "category": "Geopolitics",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2262175351-1152x648.jpg",
-          "published_at": "2026-06-12T11:15:41Z",
-          "key_points": [
-            "Pokémon Go data repurposed",
-            "Used for military drone AI",
-            "Ethical concerns raised"
-          ],
-          "impact": "Data usage sparks debate on ethics.",
-          "id": "8417fa4ba0336fab822b9bab35ffa6eb"
-        },
-        {
-          "title": "Forza Horizon 6 Fixes Save File Bug - PC Guide",
-          "description": "Developers of Forza Horizon 6 address a save file deletion bug, rolling out a fix for PC users ahead of an Xbox patch.",
-          "category": "Gaming",
-          "source": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTXF5THpSQ2lKSUlZQlREdmY4R1BVd2dQRVhzaUVydFdvOW9qcGNwNFF0RExYZmhVc2FlNDR3MUtzVUh6UFZDQkpNcVU1a2FxNWVwcTh3am5aV2xXNGVVX1p4dDNPX2wwMEE4YWxtaFJuTEdwWDVVN3ZyNy1sQWZrYlZaeFEtaTFmblhldUFEa3MtWVRCaHJTLURuNGlwQWVTWk0wSndRRGxJMkNwSU9OY0ZpWmJTaXZsWV9LbXFtQjNRT3FhWWtCTS1HdVo?oc=5",
-          "image": "",
-          "published_at": "2026-06-12T09:55:20Z",
-          "key_points": [
-            "Save file bug addressed",
-            "Fix rolled out for PC",
-            "Xbox patch coming soon"
-          ],
-          "impact": "Players can resume gameplay without issues.",
-          "id": "952df2ef7a409c4b9b77f7d12b2784c3"
-        },
-        {
-          "title": "Crimson Desert Becomes Pet Simulator - IGN",
-          "description": "Crimson Desert's latest patch enhances its pet simulation features, solidifying its identity as a pet simulator.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/crimson-deserts-journey-to-becoming-an-actual-pet-simulator-is-pretty-much-complete-with-latest-patch",
-          "image": "https://assets-prd.ignimgs.com/2026/06/12/ss-ab4e6544853a3ecb4e1e714b0fa706c50144fbbb-1920x1080-1781257685351.jpg?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-12T09:50:55Z",
-          "key_points": [
-            "Latest patch enhances pet features",
-            "Game solidifies pet simulator identity",
-            "Developer focuses on pet mechanics"
-          ],
-          "impact": "Players enjoy deeper pet simulation experience.",
-          "id": "6e8f4ccfbc9001591d17a920790b30ad"
-        },
-        {
-          "title": "FromSoftware Rejects Safe Sequels Demand - Wccftech",
-          "description": "FromSoftware's developers refuse investor demands for safer sequels, committing to delivering unique and valuable gaming experiences.",
-          "category": "Gaming",
-          "source": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQVBBVWFKXzBXYUN5SUJIcl9kcFVmcWZFR08zUHNHZS1rOF94d294OVdEQ1plTnlBdmt0VnBnY3VTQksyUnNoNGp5VHBteDZncEFYUmdWTGIzVVhFYXNSbzRzRVh0Rk5vREZudlRDLXVXWkRmZzQwVXNOdzJ0X3JOZ0o4aUhwdUhuZndGdjFkZ1R5QdIBlwFBVV95cUxQNFBvN3VFc2hWcUFvRkpMRXg4andTMUFMQmhaX3FvNEl2ZXNIaVlWLV80LTdYNWM1LTZLZGtSYVRwZHRfM3pQZGZCODJkT28zb0xCanFISE9XRHBrQUpaUV82bkV3ZHhUZzE1aXBFUUw0ekdCRTRlTVRxdEZMbk9ESEtpcURXM0Z5NVh4Ty16OUxlNXZ6NmhV?oc=5",
-          "image": "",
-          "published_at": "2026-06-12T09:47:00Z",
-          "key_points": [
-            "FromSoftware rejects safe sequels",
-            "Commits to unique gaming experiences",
-            "Investors' demands dismissed"
-          ],
-          "impact": "Developers prioritize creativity over safety.",
-          "id": "67aaf6ed6ca31ec1c55ed26158675b46"
-        },
-        {
-          "title": "Star Fox 64 Remake Impresses Art Director - Nintendo Life",
-          "description": "The art director of the Star Fox 64 remake expresses emotional pride over the visuals, highlighting significant improvements from the original.",
-          "category": "Gaming",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/06/star-fox-64-art-director-says-remakes-visuals-bring-tears-to-my-eyes",
-          "image": "https://images.nintendolife.com/d14791c7536d6/large.jpg",
-          "published_at": "2026-06-12T09:15:00Z",
-          "key_points": [
-            "Art director praises remake visuals",
-            "Significant improvements noted",
-            "Emotional response to new graphics"
-          ],
-          "impact": "Remake visuals exceed original expectations.",
-          "id": "8f703656a2e6798c057ee500a88e7822"
-        },
-        {
-          "title": "Nintendo Updates Palworld Lawsuit Details - Nintendo Everything",
-          "description": "Nintendo and The Pokémon Company limit their lawsuit against Palworld to older game versions, focusing on current iterations only.",
-          "category": "Geopolitics",
-          "source": "Nintendoeverything.com",
-          "url": "https://nintendoeverything.com/nintendo-and-the-pokemon-company-update-palworld-lawsuit-limited-to-older-versions-only/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Palworld-lawsuit-update-June-2026.jpg",
-          "published_at": "2026-06-12T00:31:55Z",
-          "key_points": [
-            "Lawsuit limited to older versions",
-            "Focus on current game iterations",
-            "Nintendo updates legal strategy"
-          ],
-          "impact": "Legal battle narrows focus on specific versions.",
-          "id": "852f4a4267a23288caf5d99f968495f7"
         }
       ]
     }
