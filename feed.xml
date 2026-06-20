@@ -5,134 +5,80 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Jun 2026 11:17:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 14:00:26 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>13 Retro Games Revived for PS5</title>
-      <description>A wave of retro games is being revived for PS5, led by QUByte. Expect compilations and collections to hit the platform soon.</description>
-      <link>https://www.pushsquare.com/news/2026/06/these-13-retro-games-are-all-getting-revived-for-the-ps5</link>
-      <guid isPermaLink="true">https://www.pushsquare.com/news/2026/06/these-13-retro-games-are-all-getting-revived-for-the-ps5</guid>
-      <pubDate>2026-06-19T00:30:00Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.pushsquare.com/news/2026/06/these-13-retro-games-are-all-getting-revived-for-the-ps5">Push Square</source>
-    </item>
-    <item>
-      <title>Gemini Live Gains Memory Access</title>
-      <description>Google's Gemini Live now integrates Memory access, enhancing chat experiences. This follows a recent redesign and new voice features.</description>
-      <link>http://9to5google.com/2026/06/18/gemini-live-memory/</link>
-      <guid isPermaLink="true">http://9to5google.com/2026/06/18/gemini-live-memory/</guid>
-      <pubDate>2026-06-18T21:50:00Z</pubDate>
-      <category>Software</category>
-      <source url="http://9to5google.com/2026/06/18/gemini-live-memory/">9to5google.com</source>
-    </item>
-    <item>
-      <title>Shinobi: Art of Vengeance on Switch 2</title>
-      <description>SEGA announces Shinobi: Art of Vengeance for Nintendo Switch 2, launching September 24, 2026. This version includes new features.</description>
-      <link>https://nintendoeverything.com/shinobi-art-of-vengeance-coming-to-nintendo-switch-2/</link>
-      <guid isPermaLink="true">https://nintendoeverything.com/shinobi-art-of-vengeance-coming-to-nintendo-switch-2/</guid>
-      <pubDate>2026-06-18T21:32:01Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://nintendoeverything.com/shinobi-art-of-vengeance-coming-to-nintendo-switch-2/">Nintendoeverything.com</source>
-    </item>
-    <item>
-      <title>iOS 27 to Feature Standalone Siri App</title>
-      <description>Apple's iOS 27 will launch a standalone Siri app, enhancing its functionality. Users can expect significant upgrades with the update.</description>
-      <link>https://www.slashgear.com/2195858/ios-27-iphone-update-siri-standalone-app/</link>
-      <guid isPermaLink="true">https://www.slashgear.com/2195858/ios-27-iphone-update-siri-standalone-app/</guid>
-      <pubDate>2026-06-18T16:45:00Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.slashgear.com/2195858/ios-27-iphone-update-siri-standalone-app/">SlashGear</source>
-    </item>
-    <item>
-      <title>Best Early Prime Day TV Deals</title>
-      <description>CNN highlights the top six early Prime Day TV deals, tested by experts. Great discounts available ahead of Amazon's summer sale.</description>
-      <link>https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-tv-deals-2026-06-18</link>
-      <guid isPermaLink="true">https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-tv-deals-2026-06-18</guid>
-      <pubDate>2026-06-18T16:07:00Z</pubDate>
+      <title>Seafood Restaurant Closes After 42 Years</title>
+      <description>Cock of the Walk, a beloved seafood restaurant, has served its last dish after 42 years. The closure marks the end of an era for local diners.</description>
+      <link>https://www.the-sun.com/money/16538263/beloved-seafood-restaurant-serves-last-dish-closing-doors/</link>
+      <guid isPermaLink="true">https://www.the-sun.com/money/16538263/beloved-seafood-restaurant-serves-last-dish-closing-doors/</guid>
+      <pubDate>2026-06-19T09:26:06Z</pubDate>
       <category>Business</category>
-      <source url="https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-tv-deals-2026-06-18">CNN</source>
+      <source url="https://www.the-sun.com/money/16538263/beloved-seafood-restaurant-serves-last-dish-closing-doors/">The-sun.com</source>
     </item>
     <item>
-      <title>GTA 6 Pre-Orders Start June 25</title>
-      <description>Rockstar Games announces that Grand Theft Auto 6 pre-orders will begin on June 25, 2026, alongside the reveal of cover art.</description>
-      <link>https://www.digitalfoundry.net/news/2026/06/grand-theft-auto-6-pre-orders-begin-june-25th-cover-art-revealed</link>
-      <guid isPermaLink="true">https://www.digitalfoundry.net/news/2026/06/grand-theft-auto-6-pre-orders-begin-june-25th-cover-art-revealed</guid>
-      <pubDate>2026-06-18T15:31:06Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.digitalfoundry.net/news/2026/06/grand-theft-auto-6-pre-orders-begin-june-25th-cover-art-revealed">Digitalfoundry.net</source>
-    </item>
-    <item>
-      <title>Easier WhatsApp Backup Management</title>
-      <description>Google Play services update simplifies WhatsApp backup management directly in device settings. Users can now manage backups more efficiently.</description>
-      <link>https://www.androidauthority.com/whatsapp-chat-backups-3679027/</link>
-      <guid isPermaLink="true">https://www.androidauthority.com/whatsapp-chat-backups-3679027/</guid>
-      <pubDate>2026-06-18T15:22:51Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.androidauthority.com/whatsapp-chat-backups-3679027/">Android Authority</source>
-    </item>
-    <item>
-      <title>Google AI Misrepresents SCP Fiction</title>
-      <description>Google's AI Overviews mistakenly presents SCP horror fiction entities as real. This raises concerns about AI accuracy in information dissemination.</description>
-      <link>https://futurism.com/artificial-intelligence/google-ai-overview-scp-horror-fiction-real</link>
-      <guid isPermaLink="true">https://futurism.com/artificial-intelligence/google-ai-overview-scp-horror-fiction-real</guid>
-      <pubDate>2026-06-18T15:01:28Z</pubDate>
-      <category>Science</category>
-      <source url="https://futurism.com/artificial-intelligence/google-ai-overview-scp-horror-fiction-real">Futurism</source>
-    </item>
-    <item>
-      <title>Sennheiser Launches Open Wireless Earbuds</title>
-      <description>Sennheiser enters the open-ear audio market with the Accentum Clip. These clip-on wireless earbuds offer unique advantages.</description>
-      <link>https://gizmodo.com/sennheiser-joins-the-open-wireless-earbud-craze-2000773609</link>
-      <guid isPermaLink="true">https://gizmodo.com/sennheiser-joins-the-open-wireless-earbud-craze-2000773609</guid>
-      <pubDate>2026-06-18T14:57:11Z</pubDate>
-      <category>Hardware</category>
-      <source url="https://gizmodo.com/sennheiser-joins-the-open-wireless-earbud-craze-2000773609">Gizmodo.com</source>
-    </item>
-    <item>
-      <title>Insta360 Luna Ultra Review</title>
-      <description>Insta360's Luna Ultra aims to compete in the vlogging market, challenging DJI's dominance. The camera has notable strengths and weaknesses.</description>
-      <link>https://petapixel.com/2026/06/18/insta360-luna-ultra-review-an-excellent-vlogging-camera-with-a-few-caveats/</link>
-      <guid isPermaLink="true">https://petapixel.com/2026/06/18/insta360-luna-ultra-review-an-excellent-vlogging-camera-with-a-few-caveats/</guid>
-      <pubDate>2026-06-18T14:01:12Z</pubDate>
-      <category>Hardware</category>
-      <source url="https://petapixel.com/2026/06/18/insta360-luna-ultra-review-an-excellent-vlogging-camera-with-a-few-caveats/">PetaPixel</source>
-    </item>
-    <item>
-      <title>Snap's AR Glasses Development Costs</title>
-      <description>Analysts estimate Snap's new AR glasses cost significantly to develop, impacting stock performance. The glasses are priced at $2,195.</description>
-      <link>https://finance.yahoo.com/markets/article/snaps-2195-ar-glasses-may-have-cost-an-insane-amount-to-develop-analyst-estimates-134930607.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/markets/article/snaps-2195-ar-glasses-may-have-cost-an-insane-amount-to-develop-analyst-estimates-134930607.html</guid>
-      <pubDate>2026-06-18T13:49:30Z</pubDate>
+      <title>AI Makes Nintendo and Sony Products Luxury Items</title>
+      <description>Rising demand and limited production are turning Nintendo and Sony products into luxury goods. Component shortages are driving up prices significantly.</description>
+      <link>https://www.ft.com/content/c1d00925-39b9-43ac-88c7-abe13d1d3f84?syn-25a6b1a6\u003d1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/c1d00925-39b9-43ac-88c7-abe13d1d3f84?syn-25a6b1a6\u003d1</guid>
+      <pubDate>2026-06-19T04:00:25Z</pubDate>
       <category>Business</category>
-      <source url="https://finance.yahoo.com/markets/article/snaps-2195-ar-glasses-may-have-cost-an-insane-amount-to-develop-analyst-estimates-134930607.html">Yahoo Entertainment</source>
+      <source url="https://www.ft.com/content/c1d00925-39b9-43ac-88c7-abe13d1d3f84?syn-25a6b1a6\u003d1">Financial Times</source>
     </item>
     <item>
-      <title>DragonForce Hackers Exploit Microsoft Teams</title>
-      <description>DragonForce hackers used Backdoor.Turn to conceal command-and-control traffic via Microsoft Teams during a recent attack.</description>
-      <link>https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html</link>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html</guid>
-      <pubDate>2026-06-18T13:30:00Z</pubDate>
-      <category>Security</category>
-      <source url="https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html">Internet</source>
-    </item>
-    <item>
-      <title>Free PS5 RPGs Available Now</title>
-      <description>The PS Store offers two free RPGs, Mistfall Hunter and Once Human, available to all players without a PS Plus subscription.</description>
-      <link>https://www.playstationlifestyle.net/2026/06/18/free-ps5-rpgs-ps-store-once-human-mistfall-hunter/</link>
-      <guid isPermaLink="true">https://www.playstationlifestyle.net/2026/06/18/free-ps5-rpgs-ps-store-once-human-mistfall-hunter/</guid>
-      <pubDate>2026-06-18T12:29:09Z</pubDate>
+      <title>Asus Launches New Gaming Laptop with Mini LED Display</title>
+      <description>Asus has unveiled the ROG Strix Scar 18 2026, featuring a 1,600 nit Mini LED display and powerful GPU. This ultra-premium gaming laptop is now available globally.</description>
+      <link>https://www.notebookcheck.net/Asus-releases-new-gaming-laptop-globally-with-1-600-nit-Mini-LED-display-and-175-W-GPU.1324861.0.html</link>
+      <guid isPermaLink="true">https://www.notebookcheck.net/Asus-releases-new-gaming-laptop-globally-with-1-600-nit-Mini-LED-display-and-175-W-GPU.1324861.0.html</guid>
+      <pubDate>2026-06-19T02:38:00Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.playstationlifestyle.net/2026/06/18/free-ps5-rpgs-ps-store-once-human-mistfall-hunter/">PlayStation LifeStyle</source>
+      <source url="https://www.notebookcheck.net/Asus-releases-new-gaming-laptop-globally-with-1-600-nit-Mini-LED-display-and-175-W-GPU.1324861.0.html">Notebookcheck.net</source>
     </item>
     <item>
-      <title>Breakthrough in Holographic Imaging</title>
-      <description>A new 3D imaging system overcomes challenges in holographic technology, marking significant progress in the field.</description>
-      <link>https://thedebrief.org/holographic-breakthrough-this-new-futuristic-3d-imaging-system-overcomes-a-longstanding-problem-for-holographic-tech/</link>
-      <guid isPermaLink="true">https://thedebrief.org/holographic-breakthrough-this-new-futuristic-3d-imaging-system-overcomes-a-longstanding-problem-for-holographic-tech/</guid>
-      <pubDate>2026-06-18T12:18:42Z</pubDate>
+      <title>Google Health App Restores Popular Fitbit Features</title>
+      <description>Google Health 5.02 reintroduces sought-after Fitbit features, enhancing user experience. The update includes over a dozen changes, particularly for Android users.</description>
+      <link>https://www.androidpolice.com/google-health-502-finally-brings-back-fitbit-features-users-have-been-asking-for/</link>
+      <guid isPermaLink="true">https://www.androidpolice.com/google-health-502-finally-brings-back-fitbit-features-users-have-been-asking-for/</guid>
+      <pubDate>2026-06-18T21:19:45Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.androidpolice.com/google-health-502-finally-brings-back-fitbit-features-users-have-been-asking-for/">Android Police</source>
+    </item>
+    <item>
+      <title>Street Fighter 6 Season 4 Update and Demo Announced</title>
+      <description>Capcom confirms the balance update date for Street Fighter 6 Season 4, alongside a demo for Yasmine at Evo 2026. Changes aim to enhance gameplay.</description>
+      <link>https://www.eventhubs.com/news/2026/jun/18/street-fighter-season-4-update/</link>
+      <guid isPermaLink="true">https://www.eventhubs.com/news/2026/jun/18/street-fighter-season-4-update/</guid>
+      <pubDate>2026-06-18T20:26:13Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.eventhubs.com/news/2026/jun/18/street-fighter-season-4-update/">EventHubs</source>
+    </item>
+    <item>
+      <title>Google Announces Android Verification Timeline</title>
+      <description>Google reveals a timeline for rolling out Android developer verification, with significant changes expected in September. A new service will launch this month.</description>
+      <link>https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/</link>
+      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/</guid>
+      <pubDate>2026-06-18T19:53:33Z</pubDate>
+      <category>Software</category>
+      <source url="https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/">Ars Technica</source>
+    </item>
+    <item>
+      <title>New Ultrablack Coating Revolutionizes Automotive Paint</title>
+      <description>A groundbreaking ultrablack coating combines carbon black and nanotubes for automotive applications. This innovation offers unprecedented light absorption.</description>
+      <link>https://cen.acs.org/materials/nanomaterials/ultrablack-carbon-automotive-coating/104/web/2026/06</link>
+      <guid isPermaLink="true">https://cen.acs.org/materials/nanomaterials/ultrablack-carbon-automotive-coating/104/web/2026/06</guid>
+      <pubDate>2026-06-18T15:12:33Z</pubDate>
       <category>Science</category>
-      <source url="https://thedebrief.org/holographic-breakthrough-this-new-futuristic-3d-imaging-system-overcomes-a-longstanding-problem-for-holographic-tech/">The Debrief</source>
+      <source url="https://cen.acs.org/materials/nanomaterials/ultrablack-carbon-automotive-coating/104/web/2026/06">C&amp;EN</source>
+    </item>
+    <item>
+      <title>New Pokémon TCG Expansion Features Mega Evolution</title>
+      <description>The upcoming Pokémon TCG expansion, Mega Evolution—Pitch Black, previews five new cards. The release is set for July 1, promising exciting gameplay.</description>
+      <link>https://www.pokemon.com/us/pokemon-news/discover-more-cards-from-the-pokemon-tcg-mega-evolution-pitch-black-expansion</link>
+      <guid isPermaLink="true">https://www.pokemon.com/us/pokemon-news/discover-more-cards-from-the-pokemon-tcg-mega-evolution-pitch-black-expansion</guid>
+      <pubDate>2026-06-18T15:07:35Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.pokemon.com/us/pokemon-news/discover-more-cards-from-the-pokemon-tcg-mega-evolution-pitch-black-expansion">Pokemon.com</source>
     </item>
   </channel>
 </rss>

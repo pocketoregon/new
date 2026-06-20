@@ -1,6 +1,141 @@
 {
   "batches": [
     {
+      "id": "2026-06-20T14:00:11.041328+00:00",
+      "fetched_at": "2026-06-20T14:00:11.041328+00:00",
+      "label": "Jun 20, 2026 — 02:00 PM UTC",
+      "articles": [
+        {
+          "title": "Seafood Restaurant Closes After 42 Years",
+          "description": "Cock of the Walk, a beloved seafood restaurant, has served its last dish after 42 years. The closure marks the end of an era for local diners.",
+          "category": "Business",
+          "source": "The-sun.com",
+          "url": "https://www.the-sun.com/money/16538263/beloved-seafood-restaurant-serves-last-dish-closing-doors/",
+          "image": "https://www.the-sun.com/wp-content/uploads/sites/6/2026/06/newspress-collage-nhvxz8tnh-1781860871842.jpg?quality=90&strip=all&1781846486&w=1920&h=1080&crop=1",
+          "published_at": "2026-06-19T09:26:06Z",
+          "key_points": [
+            "Restaurant served final dish",
+            "42 years of service",
+            "Local favorite closes doors"
+          ],
+          "impact": "The closure leaves a significant gap in the community.",
+          "id": "25a309066a3f22b0aee8a0e3d224e171"
+        },
+        {
+          "title": "AI Makes Nintendo and Sony Products Luxury Items",
+          "description": "Rising demand and limited production are turning Nintendo and Sony products into luxury goods. Component shortages are driving up prices significantly.",
+          "category": "Business",
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/c1d00925-39b9-43ac-88c7-abe13d1d3f84?syn-25a6b1a6\\u003d1",
+          "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc5491c9a-0a3e-4ad0-be8a-10a4c1e7cb6e.jpg?source=next-barrier-page",
+          "published_at": "2026-06-19T04:00:25Z",
+          "key_points": [
+            "Component shortages drive prices",
+            "Luxury status for gaming consoles",
+            "High demand outstrips supply"
+          ],
+          "impact": "Consumers face higher prices for gaming products.",
+          "id": "2d84871f97222f39747fc52e401bdd1c"
+        },
+        {
+          "title": "Asus Launches New Gaming Laptop with Mini LED Display",
+          "description": "Asus has unveiled the ROG Strix Scar 18 2026, featuring a 1,600 nit Mini LED display and powerful GPU. This ultra-premium gaming laptop is now available globally.",
+          "category": "Gaming",
+          "source": "Notebookcheck.net",
+          "url": "https://www.notebookcheck.net/Asus-releases-new-gaming-laptop-globally-with-1-600-nit-Mini-LED-display-and-175-W-GPU.1324861.0.html",
+          "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/rog-strix-scar-18-2026-release-global-kv.jpg",
+          "published_at": "2026-06-19T02:38:00Z",
+          "key_points": [
+            "New gaming laptop launched",
+            "1,600 nit Mini LED display",
+            "Powerful 175 W GPU"
+          ],
+          "impact": "Gamers gain access to cutting-edge technology.",
+          "id": "8b1c05ce48ee708faef046be7a37be2d"
+        },
+        {
+          "title": "Google Health App Restores Popular Fitbit Features",
+          "description": "Google Health 5.02 reintroduces sought-after Fitbit features, enhancing user experience. The update includes over a dozen changes, particularly for Android users.",
+          "category": "Software",
+          "source": "Android Police",
+          "url": "https://www.androidpolice.com/google-health-502-finally-brings-back-fitbit-features-users-have-been-asking-for/",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/06/google-health-app.png?w=1600&h=900&fit=crop",
+          "published_at": "2026-06-18T21:19:45Z",
+          "key_points": [
+            "Fitbit features return",
+            "Over a dozen updates",
+            "Enhanced user experience"
+          ],
+          "impact": "Users benefit from improved health tracking.",
+          "id": "3d27aa3214fa205d2d887db99014e414"
+        },
+        {
+          "title": "Street Fighter 6 Season 4 Update and Demo Announced",
+          "description": "Capcom confirms the balance update date for Street Fighter 6 Season 4, alongside a demo for Yasmine at Evo 2026. Changes aim to enhance gameplay.",
+          "category": "Gaming",
+          "source": "EventHubs",
+          "url": "https://www.eventhubs.com/news/2026/jun/18/street-fighter-season-4-update/",
+          "image": "https://media.eventhubs.com/images/2026/06/18-street-fighter-season-4-updatet.webp",
+          "published_at": "2026-06-18T20:26:13Z",
+          "key_points": [
+            "Season 4 balance update confirmed",
+            "Yasmine demo at Evo 2026",
+            "Gameplay enhancements expected"
+          ],
+          "impact": "Players anticipate exciting new gameplay changes.",
+          "id": "f155feb7cb123210459176666febf608"
+        },
+        {
+          "title": "Google Announces Android Verification Timeline",
+          "description": "Google reveals a timeline for rolling out Android developer verification, with significant changes expected in September. A new service will launch this month.",
+          "category": "Software",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
+          "published_at": "2026-06-18T19:53:33Z",
+          "key_points": [
+            "Android verification rollout confirmed",
+            "New service launching this month",
+            "Major changes in September"
+          ],
+          "impact": "Developers prepare for upcoming verification requirements.",
+          "id": "36f8cc76364f6ca709f27f4e64c968d2"
+        },
+        {
+          "title": "New Ultrablack Coating Revolutionizes Automotive Paint",
+          "description": "A groundbreaking ultrablack coating combines carbon black and nanotubes for automotive applications. This innovation offers unprecedented light absorption.",
+          "category": "Science",
+          "source": "C&EN",
+          "url": "https://cen.acs.org/materials/nanomaterials/ultrablack-carbon-automotive-coating/104/web/2026/06",
+          "image": "https://s7d1.scene7.com/is/image/CENODS/News-Blackest-black-paint---509552:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp",
+          "published_at": "2026-06-18T15:12:33Z",
+          "key_points": [
+            "New ultrablack automotive coating",
+            "Combines carbon black and nanotubes",
+            "Innovative light absorption technology"
+          ],
+          "impact": "This coating could transform automotive design.",
+          "id": "c51b24e3beac7ad75505fbcef2e519d0"
+        },
+        {
+          "title": "New Pokémon TCG Expansion Features Mega Evolution",
+          "description": "The upcoming Pokémon TCG expansion, Mega Evolution—Pitch Black, previews five new cards. The release is set for July 1, promising exciting gameplay.",
+          "category": "Gaming",
+          "source": "Pokemon.com",
+          "url": "https://www.pokemon.com/us/pokemon-news/discover-more-cards-from-the-pokemon-tcg-mega-evolution-pitch-black-expansion",
+          "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/_tiles/me/me05/preview-cards/me05-preview-cards-1-169-en.png",
+          "published_at": "2026-06-18T15:07:35Z",
+          "key_points": [
+            "New TCG expansion announced",
+            "Features Mega Evolution Pokémon",
+            "Release date set for July 1"
+          ],
+          "impact": "Fans eagerly await new cards and gameplay.",
+          "id": "5f210593ef1c02418f743b61e961dc35"
+        }
+      ]
+    },
+    {
       "id": "2026-06-20T11:17:23.501989+00:00",
       "fetched_at": "2026-06-20T11:17:23.501989+00:00",
       "label": "Jun 20, 2026 — 11:17 AM UTC",
@@ -6936,189 +7071,6 @@
           ],
           "impact": "This property attracts interest from collectors.",
           "id": "90a9db886f9b35e134197ed5bd9801bf"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-14T14:00:22.397555+00:00",
-      "fetched_at": "2026-06-14T14:00:22.397555+00:00",
-      "label": "Jun 14, 2026 — 02:00 PM UTC",
-      "articles": [
-        {
-          "title": "Xbox Games Showcase 2026: Share Your Favorites!",
-          "description": "What were your favorite announcements from the Xbox Games Showcase 2026? Share your thoughts on titles like Gears of War: E-Day and Clockwork Revolution.",
-          "category": "Gaming",
-          "source": "TrueAchievements",
-          "url": "https://www.trueachievements.com/poll/62717/poll-xbox-games-showcase-2026",
-          "image": "https://www.trueachievements.com/imgs/175974/poll-xbox-games-showcase-2026.jpg",
-          "published_at": "2026-06-13T08:03:59Z",
-          "key_points": [
-            "Gears of War: E-Day announced",
-            "Clockwork Revolution revealed",
-            "Community poll open now"
-          ],
-          "impact": "Fans are eager to discuss their favorites.",
-          "id": "e6e72a6e74cfbd59b7f2f4339f21aa50"
-        },
-        {
-          "title": "Massive Bandai Namco Sale on Nintendo Switch 2",
-          "description": "Bandai Namco's eShop sale features major discounts on titles like Tales of Berseria and Xillia Remastered, with many games at their lowest prices ever.",
-          "category": "Gaming",
-          "source": "Nintendoeverything.com",
-          "url": "https://nintendoeverything.com/bandai-namco-sale-switch-2-switch-tales-berseria-xillia-once-upon-a-katamari/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Bandai-Namco-Switch-2-Switch-sale-Tales-of-Berseria-Xillia-Katamari.jpg",
-          "published_at": "2026-06-13T04:52:02Z",
-          "key_points": [
-            "Big discounts on popular titles",
-            "Lowest prices ever",
-            "Sale includes Switch 2 games"
-          ],
-          "impact": "Gamers can save significantly on purchases.",
-          "id": "a3edfb5b678e8283c40cda435463f805"
-        },
-        {
-          "title": "T-Mobile Users Enjoy Better Service Than Competitors",
-          "description": "T-Mobile users currently experience superior service compared to AT&T and Verizon, but this advantage may not last long.",
-          "category": "Business",
-          "source": "PhoneArena",
-          "url": "https://www.phonearena.com/news/at-t-t-mobile-verizon-5g_id181067",
-          "image": "",
-          "published_at": "2026-06-12T21:51:29Z",
-          "key_points": [
-            "T-Mobile leads in user satisfaction",
-            "AT&T and Verizon lag behind",
-            "Service quality may change soon"
-          ],
-          "impact": "T-Mobile's edge could diminish quickly.",
-          "id": "ae5ec22e9b5e2f1f0bc2b241fd5841ad"
-        },
-        {
-          "title": "Activist Investors Push For FromSoftware Self-Publishing",
-          "description": "Activist investors are urging FromSoftware to self-publish, claiming current publisher deals are unfavorable for the company.",
-          "category": "Business",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/activist-investors-elden-ring-developer-fromsoftware-2000706037",
-          "image": "https://kotaku.com/app/uploads/2025/04/eacc0e56ca6aeb681cff8909d4cf7b40-1200x675.jpg",
-          "published_at": "2026-06-12T20:12:33Z",
-          "key_points": [
-            "Investors demand self-publishing",
-            "Current deals deemed unfavorable",
-            "Focus on FromSoftware's future"
-          ],
-          "impact": "This could reshape FromSoftware's strategy.",
-          "id": "a4985f1ab6184bfc7ad3421195e7c690"
-        },
-        {
-          "title": "Microsoft Updates Key Windows 11 Apps",
-          "description": "Microsoft has rolled out significant updates for Windows 11's built-in apps, enhancing features for Paint, Clock, and Calculator.",
-          "category": "Software",
-          "source": "Neowin",
-          "url": "https://www.neowin.net/news/microsoft-releases-major-feature-updates-for-stock-windows-11-apps/",
-          "image": "https://cdn.neowin.com/news/images/uploaded/2026/06/1781290082_windows_11_apps_story.webp",
-          "published_at": "2026-06-12T19:00:00Z",
-          "key_points": [
-            "Major updates for Windows apps",
-            "New features for Paint and Clock",
-            "Improved user experience"
-          ],
-          "impact": "Users benefit from enhanced app functionality.",
-          "id": "b302c880f7cf532ec80df8a07060a3cc"
-        },
-        {
-          "title": "Persona 6 Officially Announced by Atlus",
-          "description": "Atlus has confirmed Persona 6, revealing details and speculation about its release timeline after years of anticipation.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/everything-we-know-about-persona-6",
-          "image": "https://assets-prd.ignimgs.com/2026/06/07/4k-xbox-games-showcase-2026-gears-of-war-e-day-direct-01-48-12-1780855196475.png?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-12T18:10:07Z",
-          "key_points": [
-            "Persona 6 officially confirmed",
-            "Details on release timeline",
-            "Anticipation builds among fans"
-          ],
-          "impact": "Fans are excited for the new installment.",
-          "id": "73192c2b5fe2483fb5d9bf2518128e9b"
-        },
-        {
-          "title": "Early Prime Day Garmin Watch Deals Available",
-          "description": "Amazon has launched early Prime Day deals on Garmin watches, offering discounts up to 50% on popular models like Fenix and Venu.",
-          "category": "Business",
-          "source": "Android Central",
-          "url": "https://www.androidcentral.com/wearables/garmin/early-prime-day-garmin-deals-2026",
-          "image": "https://cdn.mos.cms.futurecdn.net/WyW7xtNLf2SBT6XKwm5STR-2560-80.jpg",
-          "published_at": "2026-06-12T17:38:59Z",
-          "key_points": [
-            "Up to 50% off Garmin watches",
-            "Early Prime Day discounts",
-            "Popular models included"
-          ],
-          "impact": "Shoppers can save big on fitness tech.",
-          "id": "4487485eed0dea31c92b3983a28b6c98"
-        },
-        {
-          "title": "New Xenomorph Image Revealed for Alien: Isolation 2",
-          "description": "Creative Assembly has shared a new image of the Xenomorph, Stompy, from Alien: Isolation 2, showcasing its design.",
-          "category": "Gaming",
-          "source": "Avpgalaxy.net",
-          "url": "https://www.avpgalaxy.net/2026/06/12/creative-assembly-reintroduces-stompy-with-new-alien-isolation-2-xenomorph-picture/",
-          "image": "https://www.avpgalaxy.net/wordpress/wp-content/uploads/2026/06/HKnzDruWEAAYd6n.jpg",
-          "published_at": "2026-06-12T17:20:10Z",
-          "key_points": [
-            "New Xenomorph design revealed",
-            "Stompy returns in sequel",
-            "Fans excited for Alien: Isolation 2"
-          ],
-          "impact": "Anticipation for the game continues to grow.",
-          "id": "0cebb3c0611ab10e459f48c1b0d0c0d7"
-        },
-        {
-          "title": "Grow a Garden 2: Complete Plants and Seeds Guide",
-          "description": "Discover the full list of plants and seeds available in Grow a Garden 2, including how to acquire them.",
-          "category": "Gaming",
-          "source": "Beebom",
-          "url": "https://beebom.com/grow-a-garden-2-plants-and-seeds/",
-          "image": "https://static.beebom.com/wp-content/uploads/2026/06/Grow-a-Garden-2-seeds-and-plants.jpg",
-          "published_at": "2026-06-12T16:53:17Z",
-          "key_points": [
-            "Complete plants and seeds list",
-            "Learn acquisition methods",
-            "Enhance your gardening strategy"
-          ],
-          "impact": "Players can optimize their gardening experience.",
-          "id": "6ce7995907b7ca7bfd2951435f719dd1"
-        },
-        {
-          "title": "Insta360 Countersues DJI Over Patent Violations",
-          "description": "Insta360 has filed a countersuit against DJI, claiming five patent violations related to gimbal and 360-degree camera technology.",
-          "category": "Business",
-          "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/06/12/insta360-countersues-dji-asserting-five-patent-violations/",
-          "image": "https://petapixel.com/assets/uploads/2026/06/Insta360-Intends-to-Prove-the-Luna-Is-an-Original-Idea-Not-Based-on-DJIs-Patents.jpg",
-          "published_at": "2026-06-12T14:33:34Z",
-          "key_points": [
-            "Insta360 countersues DJI",
-            "Claims five patent violations",
-            "Focus on camera technology"
-          ],
-          "impact": "Legal battle could impact both companies.",
-          "id": "1693f949460e9737e0ebb03676f6701c"
-        },
-        {
-          "title": "Valor Mortis Delayed Ahead of Release",
-          "description": "Valor Mortis has been delayed to avoid competition with major releases in September, following its initial announcement at the Xbox Games Showcase.",
-          "category": "Gaming",
-          "source": "TrueAchievements",
-          "url": "https://www.trueachievements.com/news/valor-mortis-delayed",
-          "image": "https://www.trueachievements.com/imgs/176051/valor-mortis-delayed.jpg",
-          "published_at": "2026-06-12T12:45:43Z",
-          "key_points": [
-            "Valor Mortis release delayed",
-            "Avoiding September competition",
-            "New release date pending"
-          ],
-          "impact": "Fans await the new release timeline.",
-          "id": "1af28ab4333125151d8f0b89d499e26a"
         }
       ]
     }

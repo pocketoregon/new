@@ -1,231 +1,135 @@
 {
   "date": "2026-06-20",
-  "generated_at": "2026-06-20T11:17:23.501989+00:00",
+  "generated_at": "2026-06-20T14:00:11.041328+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "13 Retro Games Revived for PS5",
-      "description": "A wave of retro games is being revived for PS5, led by QUByte. Expect compilations and collections to hit the platform soon.",
-      "category": "Gaming",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/06/these-13-retro-games-are-all-getting-revived-for-the-ps5",
-      "image": "https://images.pushsquare.com/9212e031b63eb/large.jpg",
-      "published_at": "2026-06-19T00:30:00Z",
-      "key_points": [
-        "Retro games revival trend",
-        "QUByte leads the charge",
-        "New compilations coming soon"
-      ],
-      "impact": "Reviving classics boosts PS5's game library.",
-      "id": "9bd4257f144ddb228ed159ff3014b8f1"
-    },
-    {
-      "title": "Gemini Live Gains Memory Access",
-      "description": "Google's Gemini Live now integrates Memory access, enhancing chat experiences. This follows a recent redesign and new voice features.",
-      "category": "Software",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/06/18/gemini-live-memory/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-live-pop-up-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-18T21:50:00Z",
-      "key_points": [
-        "Gemini Live updated",
-        "Memory access added",
-        "Enhanced chat features"
-      ],
-      "impact": "Improved chat functionality enhances user experience.",
-      "id": "0b3a3d740c9516b0186c5e291529da0e"
-    },
-    {
-      "title": "Shinobi: Art of Vengeance on Switch 2",
-      "description": "SEGA announces Shinobi: Art of Vengeance for Nintendo Switch 2, launching September 24, 2026. This version includes new features.",
-      "category": "Gaming",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/shinobi-art-of-vengeance-coming-to-nintendo-switch-2/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Shinobi-Art-of-Vengeance-Switch-2.jpg",
-      "published_at": "2026-06-18T21:32:01Z",
-      "key_points": [
-        "Shinobi returns on Switch 2",
-        "Launch date: September 24",
-        "New features included"
-      ],
-      "impact": "Revival of Shinobi expands Switch 2's library.",
-      "id": "b62703c42026c4738f77583d12b60569"
-    },
-    {
-      "title": "iOS 27 to Feature Standalone Siri App",
-      "description": "Apple's iOS 27 will launch a standalone Siri app, enhancing its functionality. Users can expect significant upgrades with the update.",
-      "category": "Software",
-      "source": "SlashGear",
-      "url": "https://www.slashgear.com/2195858/ios-27-iphone-update-siri-standalone-app/",
-      "image": "https://www.slashgear.com/img/gallery/ios-27-is-making-a-key-iphone-feature-its-own-standalone-app/l-intro-1781643746.jpg",
-      "published_at": "2026-06-18T16:45:00Z",
-      "key_points": [
-        "iOS 27 introduces Siri app",
-        "Enhanced functionality expected",
-        "Major upgrade for users"
-      ],
-      "impact": "Standalone Siri app improves user interaction.",
-      "id": "7360785cc86a4fd2e219abaa5c3d1cab"
-    },
-    {
-      "title": "Best Early Prime Day TV Deals",
-      "description": "CNN highlights the top six early Prime Day TV deals, tested by experts. Great discounts available ahead of Amazon's summer sale.",
+      "title": "Seafood Restaurant Closes After 42 Years",
+      "description": "Cock of the Walk, a beloved seafood restaurant, has served its last dish after 42 years. The closure marks the end of an era for local diners.",
       "category": "Business",
-      "source": "CNN",
-      "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-tv-deals-2026-06-18",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/lead-samsung-the-frame-tv-pro-cnnu-11.jpg?c=16x9&q=w_800,c_fill",
-      "published_at": "2026-06-18T16:07:00Z",
+      "source": "The-sun.com",
+      "url": "https://www.the-sun.com/money/16538263/beloved-seafood-restaurant-serves-last-dish-closing-doors/",
+      "image": "https://www.the-sun.com/wp-content/uploads/sites/6/2026/06/newspress-collage-nhvxz8tnh-1781860871842.jpg?quality=90&strip=all&1781846486&w=1920&h=1080&crop=1",
+      "published_at": "2026-06-19T09:26:06Z",
       "key_points": [
-        "Top six TV deals listed",
-        "Expert-tested recommendations",
-        "Early Prime Day discounts"
+        "Restaurant served final dish",
+        "42 years of service",
+        "Local favorite closes doors"
       ],
-      "impact": "Early deals attract savvy shoppers.",
-      "id": "5915dee53d5ea7188c600b5af842dbf4"
+      "impact": "The closure leaves a significant gap in the community.",
+      "id": "25a309066a3f22b0aee8a0e3d224e171"
     },
     {
-      "title": "GTA 6 Pre-Orders Start June 25",
-      "description": "Rockstar Games announces that Grand Theft Auto 6 pre-orders will begin on June 25, 2026, alongside the reveal of cover art.",
-      "category": "Gaming",
-      "source": "Digitalfoundry.net",
-      "url": "https://www.digitalfoundry.net/news/2026/06/grand-theft-auto-6-pre-orders-begin-june-25th-cover-art-revealed",
-      "image": "https://images.digitalfoundry.net/af6dc907ef33a/large.jpg",
-      "published_at": "2026-06-18T15:31:06Z",
-      "key_points": [
-        "GTA 6 pre-orders June 25",
-        "Cover art revealed",
-        "Excitement builds for release"
-      ],
-      "impact": "GTA 6 pre-orders generate massive anticipation.",
-      "id": "869a5214f285924512de2ef669c9d332"
-    },
-    {
-      "title": "Easier WhatsApp Backup Management",
-      "description": "Google Play services update simplifies WhatsApp backup management directly in device settings. Users can now manage backups more efficiently.",
-      "category": "Software",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/whatsapp-chat-backups-3679027/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2023/05/WhatsApp-logo-on-smartphone-next-to-other-devices-Stock-photo-5.jpg",
-      "published_at": "2026-06-18T15:22:51Z",
-      "key_points": [
-        "WhatsApp backup management simplified",
-        "Direct access in settings",
-        "Improved user experience"
-      ],
-      "impact": "Streamlined backup process enhances user convenience.",
-      "id": "e9cee3e7cafb85f4240b1ad0dd77804a"
-    },
-    {
-      "title": "Google AI Misrepresents SCP Fiction",
-      "description": "Google's AI Overviews mistakenly presents SCP horror fiction entities as real. This raises concerns about AI accuracy in information dissemination.",
-      "category": "Science",
-      "source": "Futurism",
-      "url": "https://futurism.com/artificial-intelligence/google-ai-overview-scp-horror-fiction-real",
-      "image": "https://futurism.com/wp-content/uploads/2026/06/google-ai-overview-scp-horror-fiction-real.jpg?w=1200",
-      "published_at": "2026-06-18T15:01:28Z",
-      "key_points": [
-        "AI misrepresents fictional entities",
-        "SCP Foundation confusion",
-        "Concerns over AI accuracy"
-      ],
-      "impact": "AI's credibility is questioned due to inaccuracies.",
-      "id": "96b7cff35a11dfbb3336b3693d125492"
-    },
-    {
-      "title": "Sennheiser Launches Open Wireless Earbuds",
-      "description": "Sennheiser enters the open-ear audio market with the Accentum Clip. These clip-on wireless earbuds offer unique advantages.",
-      "category": "Hardware",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/sennheiser-joins-the-open-wireless-earbud-craze-2000773609",
-      "image": "https://gizmodo.com/app/uploads/2026/06/accentum-clip-1200x675.jpg",
-      "published_at": "2026-06-18T14:57:11Z",
-      "key_points": [
-        "Sennheiser's new earbuds launched",
-        "Open-ear design advantages",
-        "Clip-on style introduced"
-      ],
-      "impact": "Sennheiser diversifies its audio product line.",
-      "id": "6715dd14032ec3a350cb222a6fad27b2"
-    },
-    {
-      "title": "Insta360 Luna Ultra Review",
-      "description": "Insta360's Luna Ultra aims to compete in the vlogging market, challenging DJI's dominance. The camera has notable strengths and weaknesses.",
-      "category": "Hardware",
-      "source": "PetaPixel",
-      "url": "https://petapixel.com/2026/06/18/insta360-luna-ultra-review-an-excellent-vlogging-camera-with-a-few-caveats/",
-      "image": "https://petapixel.com/assets/uploads/2026/06/Insta360-Luna-Ultra-Review-An-Excellent-Vlogging-Camera-with-a-Few-Caveats.jpg",
-      "published_at": "2026-06-18T14:01:12Z",
-      "key_points": [
-        "Insta360 targets vlogging market",
-        "Luna Ultra reviewed",
-        "Strengths and weaknesses noted"
-      ],
-      "impact": "New competition may disrupt vlogging market.",
-      "id": "07139c1b07a597e0ece9c2d8ae4ded78"
-    },
-    {
-      "title": "Snap's AR Glasses Development Costs",
-      "description": "Analysts estimate Snap's new AR glasses cost significantly to develop, impacting stock performance. The glasses are priced at $2,195.",
+      "title": "AI Makes Nintendo and Sony Products Luxury Items",
+      "description": "Rising demand and limited production are turning Nintendo and Sony products into luxury goods. Component shortages are driving up prices significantly.",
       "category": "Business",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/markets/article/snaps-2195-ar-glasses-may-have-cost-an-insane-amount-to-develop-analyst-estimates-134930607.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/55571268528E69815033EFF702F2E57767C92E49A0440EA5C0B6ECA50EF5ECBE/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Ff709c1a0-57a0-4411-a6a9-b18932abc67c_d5acaab8ea40c0a777aef45aa679817b9bb2874b73faa87e74559ed35d2feb9c.jpg",
-      "published_at": "2026-06-18T13:49:30Z",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c1d00925-39b9-43ac-88c7-abe13d1d3f84?syn-25a6b1a6\\u003d1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc5491c9a-0a3e-4ad0-be8a-10a4c1e7cb6e.jpg?source=next-barrier-page",
+      "published_at": "2026-06-19T04:00:25Z",
       "key_points": [
-        "Snap's AR glasses cost high",
-        "Stock performance affected",
-        "$2,195 price tag"
+        "Component shortages drive prices",
+        "Luxury status for gaming consoles",
+        "High demand outstrips supply"
       ],
-      "impact": "High development costs challenge Snap's market position.",
-      "id": "9218ec742468b976c0f22584f7d6a016"
+      "impact": "Consumers face higher prices for gaming products.",
+      "id": "2d84871f97222f39747fc52e401bdd1c"
     },
     {
-      "title": "DragonForce Hackers Exploit Microsoft Teams",
-      "description": "DragonForce hackers used Backdoor.Turn to conceal command-and-control traffic via Microsoft Teams during a recent attack.",
-      "category": "Security",
-      "source": "Internet",
-      "url": "https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidEg1Q-FcDTwCPci3OMxGy0TghiI1dbWJoaJVc88gpGgO2ia6bgne18KfS3A9qAzBnMX2rGY9H78ewtofXQO22RRpzHxWXmvQJvRZ1nsvwj37aZBtLOXXltzd1KkNRKhu2N5LpIro5Fi0BBkftPqP_IO6B3HCKx5WPtFXZKA1bfbP3xV71CpEqpT7H6RPN/s1600/teams.jpg",
-      "published_at": "2026-06-18T13:30:00Z",
-      "key_points": [
-        "DragonForce hackers active",
-        "Used Microsoft Teams for concealment",
-        "Backdoor.Turn exploited"
-      ],
-      "impact": "Cybersecurity threats evolve with new tactics.",
-      "id": "ab5147cbbee3319cc6860d7bbf9c046e"
-    },
-    {
-      "title": "Free PS5 RPGs Available Now",
-      "description": "The PS Store offers two free RPGs, Mistfall Hunter and Once Human, available to all players without a PS Plus subscription.",
+      "title": "Asus Launches New Gaming Laptop with Mini LED Display",
+      "description": "Asus has unveiled the ROG Strix Scar 18 2026, featuring a 1,600 nit Mini LED display and powerful GPU. This ultra-premium gaming laptop is now available globally.",
       "category": "Gaming",
-      "source": "PlayStation LifeStyle",
-      "url": "https://www.playstationlifestyle.net/2026/06/18/free-ps5-rpgs-ps-store-once-human-mistfall-hunter/",
-      "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/06/ps5-rpgs-mistfall-hunter-once-human.jpg?resize=1200,630",
-      "published_at": "2026-06-18T12:29:09Z",
+      "source": "Notebookcheck.net",
+      "url": "https://www.notebookcheck.net/Asus-releases-new-gaming-laptop-globally-with-1-600-nit-Mini-LED-display-and-175-W-GPU.1324861.0.html",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/rog-strix-scar-18-2026-release-global-kv.jpg",
+      "published_at": "2026-06-19T02:38:00Z",
       "key_points": [
-        "Two free PS5 RPGs released",
-        "No PS Plus required",
-        "High player ratings"
+        "New gaming laptop launched",
+        "1,600 nit Mini LED display",
+        "Powerful 175 W GPU"
       ],
-      "impact": "Free games boost PS5 player engagement.",
-      "id": "ec092a21a855a5bd7f07f023533aa9c4"
+      "impact": "Gamers gain access to cutting-edge technology.",
+      "id": "8b1c05ce48ee708faef046be7a37be2d"
     },
     {
-      "title": "Breakthrough in Holographic Imaging",
-      "description": "A new 3D imaging system overcomes challenges in holographic technology, marking significant progress in the field.",
-      "category": "Science",
-      "source": "The Debrief",
-      "url": "https://thedebrief.org/holographic-breakthrough-this-new-futuristic-3d-imaging-system-overcomes-a-longstanding-problem-for-holographic-tech/",
-      "image": "https://thedebrief.b-cdn.net/wp-content/uploads/2026/06/3D-image.jpg",
-      "published_at": "2026-06-18T12:18:42Z",
+      "title": "Google Health App Restores Popular Fitbit Features",
+      "description": "Google Health 5.02 reintroduces sought-after Fitbit features, enhancing user experience. The update includes over a dozen changes, particularly for Android users.",
+      "category": "Software",
+      "source": "Android Police",
+      "url": "https://www.androidpolice.com/google-health-502-finally-brings-back-fitbit-features-users-have-been-asking-for/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/06/google-health-app.png?w=1600&h=900&fit=crop",
+      "published_at": "2026-06-18T21:19:45Z",
       "key_points": [
-        "New 3D imaging system developed",
-        "Overcomes holographic challenges",
-        "Significant technological advancement"
+        "Fitbit features return",
+        "Over a dozen updates",
+        "Enhanced user experience"
       ],
-      "impact": "Advancements in holography could revolutionize imaging.",
-      "id": "0a12c83ef4b156635d6de6b69ca57945"
+      "impact": "Users benefit from improved health tracking.",
+      "id": "3d27aa3214fa205d2d887db99014e414"
+    },
+    {
+      "title": "Street Fighter 6 Season 4 Update and Demo Announced",
+      "description": "Capcom confirms the balance update date for Street Fighter 6 Season 4, alongside a demo for Yasmine at Evo 2026. Changes aim to enhance gameplay.",
+      "category": "Gaming",
+      "source": "EventHubs",
+      "url": "https://www.eventhubs.com/news/2026/jun/18/street-fighter-season-4-update/",
+      "image": "https://media.eventhubs.com/images/2026/06/18-street-fighter-season-4-updatet.webp",
+      "published_at": "2026-06-18T20:26:13Z",
+      "key_points": [
+        "Season 4 balance update confirmed",
+        "Yasmine demo at Evo 2026",
+        "Gameplay enhancements expected"
+      ],
+      "impact": "Players anticipate exciting new gameplay changes.",
+      "id": "f155feb7cb123210459176666febf608"
+    },
+    {
+      "title": "Google Announces Android Verification Timeline",
+      "description": "Google reveals a timeline for rolling out Android developer verification, with significant changes expected in September. A new service will launch this month.",
+      "category": "Software",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
+      "published_at": "2026-06-18T19:53:33Z",
+      "key_points": [
+        "Android verification rollout confirmed",
+        "New service launching this month",
+        "Major changes in September"
+      ],
+      "impact": "Developers prepare for upcoming verification requirements.",
+      "id": "36f8cc76364f6ca709f27f4e64c968d2"
+    },
+    {
+      "title": "New Ultrablack Coating Revolutionizes Automotive Paint",
+      "description": "A groundbreaking ultrablack coating combines carbon black and nanotubes for automotive applications. This innovation offers unprecedented light absorption.",
+      "category": "Science",
+      "source": "C&EN",
+      "url": "https://cen.acs.org/materials/nanomaterials/ultrablack-carbon-automotive-coating/104/web/2026/06",
+      "image": "https://s7d1.scene7.com/is/image/CENODS/News-Blackest-black-paint---509552:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp",
+      "published_at": "2026-06-18T15:12:33Z",
+      "key_points": [
+        "New ultrablack automotive coating",
+        "Combines carbon black and nanotubes",
+        "Innovative light absorption technology"
+      ],
+      "impact": "This coating could transform automotive design.",
+      "id": "c51b24e3beac7ad75505fbcef2e519d0"
+    },
+    {
+      "title": "New Pokémon TCG Expansion Features Mega Evolution",
+      "description": "The upcoming Pokémon TCG expansion, Mega Evolution—Pitch Black, previews five new cards. The release is set for July 1, promising exciting gameplay.",
+      "category": "Gaming",
+      "source": "Pokemon.com",
+      "url": "https://www.pokemon.com/us/pokemon-news/discover-more-cards-from-the-pokemon-tcg-mega-evolution-pitch-black-expansion",
+      "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/_tiles/me/me05/preview-cards/me05-preview-cards-1-169-en.png",
+      "published_at": "2026-06-18T15:07:35Z",
+      "key_points": [
+        "New TCG expansion announced",
+        "Features Mega Evolution Pokémon",
+        "Release date set for July 1"
+      ],
+      "impact": "Fans eagerly await new cards and gameplay.",
+      "id": "5f210593ef1c02418f743b61e961dc35"
     }
   ]
 }
