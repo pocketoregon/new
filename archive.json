@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-20T03:33:28.935769+00:00",
+      "fetched_at": "2026-06-20T03:33:28.935769+00:00",
+      "label": "Jun 20, 2026 — 03:33 AM UTC",
+      "articles": [
+        {
+          "title": "GTPLAYER Gaming Chair Now Under $160 for Prime Day",
+          "description": "The GTPLAYER Big and Tall Gaming Chair is now available for less than $160 ahead of Amazon Prime Day. Grab this deal while it lasts!",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/gtplayer-big-and-tall-gaming-chair-deal-amazon-fathers-day-sale",
+          "image": "",
+          "published_at": "2026-06-18T23:43:20Z",
+          "key_points": [
+            "Great deal for gamers",
+            "Perfect for tall users",
+            "Limited time offer"
+          ],
+          "impact": "This chair offers comfort at a great price.",
+          "id": "93fafd088287ac143efd0f65b902c205"
+        },
+        {
+          "title": "Sony Shifts Focus from PC to AI in PlayStation Strategy",
+          "description": "Sony's latest annual report reveals a strategic pivot from PC to AI for its PlayStation division. The headcount has increased for the first time since 2023.",
+          "category": "Gaming",
+          "source": "Gamefile.news",
+          "url": "https://www.gamefile.news/p/sony-annual-report-fine-print",
+          "image": "https://substackcdn.com/image/fetch/$s_!iitl!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F88639b3f-980e-40de-b848-8fa3b4e2be88_1956x1252.png",
+          "published_at": "2026-06-18T23:43:17Z",
+          "key_points": [
+            "Focus shifts to AI",
+            "Increased workforce",
+            "Annual report insights"
+          ],
+          "impact": "Sony's strategy reflects changing gaming trends.",
+          "id": "7f5812a38f04742fc7abb46634a98a4b"
+        },
+        {
+          "title": "Glover and Street Racer Collection Get Free PS1 Updates",
+          "description": "QUByte announces free updates for Glover and Street Racer Collection on Nintendo Switch, adding their PS1 versions in 2027. Nostalgia meets modern gaming!",
+          "category": "Gaming",
+          "source": "Nintendoeverything.com",
+          "url": "https://nintendoeverything.com/glover-street-racer-collection-getting-free-nintendo-switch-updates-to-add-ps1-version/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Glover-free-PS1-update.jpg",
+          "published_at": "2026-06-18T20:46:31Z",
+          "key_points": [
+            "Free updates announced",
+            "PS1 versions added",
+            "Coming in 2027"
+          ],
+          "impact": "Players can enjoy classic games on Switch.",
+          "id": "63e0892dcce3f7dfc4b1d045a9ed9b01"
+        },
+        {
+          "title": "Game Boy Camera Now Usable with Your Phone",
+          "description": "A new app allows users to connect the Game Boy Camera to smartphones, enabling easy sharing of pixelated images. Nostalgic fun meets modern convenience!",
+          "category": "Gaming",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/952173/epilogue-gb-operator-game-boy-camera-ios-android-app-iphone",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gbcamera1.jpg?quality=90&strip=all&crop=0%2C10.722122048185%2C100%2C78.55575590363&w=1200",
+          "published_at": "2026-06-18T20:22:46Z",
+          "key_points": [
+            "Connect Game Boy Camera",
+            "Share pixelated images",
+            "New mobile app available"
+          ],
+          "impact": "This app revives retro gaming for smartphones.",
+          "id": "4320faf8a7b1682541c2ea38973f5c85"
+        },
+        {
+          "title": "MSI Claw Gaming Handheld Priced at $1,800",
+          "description": "The MSI Claw 8 EX AI Plus gaming handheld launches at $1,800, raising concerns about affordability in gaming. Gamers brace for tough choices ahead.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/company-reveals-new-pc-gaming-handheld-is-1800-and-says-it-will-be-a-tough-year-for-gamers-2000708162",
+          "image": "https://kotaku.com/app/uploads/2026/06/msi-claw.jpg",
+          "published_at": "2026-06-18T20:22:29Z",
+          "key_points": [
+            "High price tag",
+            "Concerns over affordability",
+            "Gaming exec comments"
+          ],
+          "impact": "This price may deter many potential buyers.",
+          "id": "13f4758109b0986d272d4a132489085a"
+        },
+        {
+          "title": "Ubisoft+ Premium Free Trial for Xbox & PC",
+          "description": "Ubisoft is offering a five-day free trial of Ubisoft+ Premium for Xbox and PC users. Don't forget to cancel if you don't want to continue!",
+          "category": "Gaming",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/06/ubisoftplus-premium-is-free-across-xbox-and-pc-for-the-next-five-days",
+          "image": "https://images.purexbox.com/187b90384a3be/large.jpg",
+          "published_at": "2026-06-18T20:06:35Z",
+          "key_points": [
+            "Free trial available",
+            "Xbox and PC users",
+            "Remember to cancel"
+          ],
+          "impact": "This trial could boost Ubisoft's user base.",
+          "id": "a8789226526ee79cdc5633f387a31145"
+        },
+        {
+          "title": "Apple's 2027 Product Launches Set to Impress",
+          "description": "Apple is gearing up for a historic 2027 with over 15 new products expected to launch. Anticipation builds for what's next!",
+          "category": "Business",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/18/next-year-to-be-apples-biggest-product-year-ever-heres-whats-coming/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/04/Tim-Cook-opens-Apple-BKC.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-18T18:33:00Z",
+          "key_points": [
+            "15+ new products",
+            "Historic launches ahead",
+            "Anticipation builds"
+          ],
+          "impact": "Apple's innovation continues to excite consumers.",
+          "id": "f5589c88bec6ed1261ab60f269279855"
+        },
+        {
+          "title": "Android Developer Verification Launching in September",
+          "description": "Google announces the upcoming launch of Android developer verification, set for September. The new service will auto-install for developers.",
+          "category": "Software",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/18/android-developer-verification-progress-timeline/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/android-the-bot-figure-1_d4cf83.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-18T17:35:00Z",
+          "key_points": [
+            "Verification launching in September",
+            "Auto-install feature",
+            "Developer registration progress"
+          ],
+          "impact": "This will enhance security for Android developers.",
+          "id": "0f862cbaf48141b35d9d0e7c62525236"
+        },
+        {
+          "title": "Marathon Faces Loot Economy Issues",
+          "description": "Bungie's Marathon is struggling with an overabundance of loot, prompting a need for economic recalibration. Players voice concerns about balance.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/marathon-players-earned-77-days-worth-of-loot-in-just-one-week-i-think-this-season-is-cooked-2000708129",
+          "image": "https://kotaku.com/app/uploads/2026/06/Vandal_Vignette_02_1920x1080-1200x675.jpg",
+          "published_at": "2026-06-18T17:01:00Z",
+          "key_points": [
+            "Loot economy issues",
+            "Bungie seeks balance",
+            "Player concerns raised"
+          ],
+          "impact": "This could affect player engagement negatively.",
+          "id": "085d68372688842ac99f432dc2092193"
+        },
+        {
+          "title": "Android 17 Update Causes Widget Issues for Pixel Users",
+          "description": "The Android 17 update has reportedly deleted homescreen widgets for some Google Pixel users, causing frustration among users.",
+          "category": "Software",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/18/google-pixel-android-17-update-widgets/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/gemini-widget.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-18T16:40:00Z",
+          "key_points": [
+            "Widgets deleted for some users",
+            "Frustration among Pixel owners",
+            "Android 17 update issues"
+          ],
+          "impact": "This could lead to user dissatisfaction.",
+          "id": "072327aa4139ef544d8d23d6f67624ee"
+        },
+        {
+          "title": "Steam Next Fest June 2026: Top Demos to Try",
+          "description": "Steam Next Fest showcases standout demos for gamers to explore. Discover the best new games available for download now!",
+          "category": "Gaming",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/steam-next-fest-june-2026-25-of-the-best-demos-you-can-play-right-now/",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Next-Fest-main.jpg",
+          "published_at": "2026-06-18T16:29:32Z",
+          "key_points": [
+            "Top demos available",
+            "Explore new games",
+            "Steam Next Fest highlights"
+          ],
+          "impact": "Gamers have exciting new titles to try.",
+          "id": "c2ea4c9f48854510478e3fc43ce3bf54"
+        },
+        {
+          "title": "Pixel Owners Share Impressions of Android 17",
+          "description": "Pixel users are sharing their experiences with the newly released Android 17 update. Feedback highlights both positive and negative aspects.",
+          "category": "Software",
+          "source": "Droid Life",
+          "url": "https://www.droid-life.com/2026/06/18/android-17-first-impressions/",
+          "image": "https://www.droid-life.com/wp-content/uploads/2026/06/Android-17-update-release-date-1-1200x628.jpg",
+          "published_at": "2026-06-18T16:13:04Z",
+          "key_points": [
+            "User feedback on Android 17",
+            "Positive and negative impressions",
+            "Pixel community engagement"
+          ],
+          "impact": "User experiences shape future updates.",
+          "id": "678c34f49190d66775cba8ebed7197ec"
+        },
+        {
+          "title": "Leaked iPhone Ultra Renders Hint at Foldable Design",
+          "description": "Rumored iPhone Ultra may feature a foldable design and launch in September, with a price tag over $2000. Apple eyes competition with Samsung.",
+          "category": "Geopolitics",
+          "source": "Android Authority",
+          "url": "https://www.androidauthority.com/apple-iphone-ultra-foldable-3678973/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/iPhone-Ultra-in-two-colors.jpg",
+          "published_at": "2026-06-18T15:48:05Z",
+          "key_points": [
+            "Foldable design rumored",
+            "Launch expected in September",
+            "Price over $2000"
+          ],
+          "impact": "Apple's innovation could reshape the market.",
+          "id": "51989fee4aa434d7565af4daab58ae5e"
+        },
+        {
+          "title": "New GTA 6 Gameplay Footage Showcases Vice City",
+          "description": "Rockstar Games reveals new gameplay footage of GTA 6, highlighting stunning details of Vice City. Fans eagerly await more information.",
+          "category": "Gaming",
+          "source": "RockstarINTEL",
+          "url": "https://rockstarintel.com/new-gta-6-gameplay-footage-reveals-stunning-vice-city-details/",
+          "image": "https://rockstarintel.com/wp-content/uploads/2025/05/Jason_and_Lucia_02_landscape-scaled.jpg",
+          "published_at": "2026-06-18T15:13:41Z",
+          "key_points": [
+            "New gameplay footage released",
+            "Vice City details revealed",
+            "Fans excited for GTA 6"
+          ],
+          "impact": "Anticipation for GTA 6 continues to grow.",
+          "id": "fafa2b32fad834dae6af42f76eb1dafc"
+        },
+        {
+          "title": "Bang & Olufsen Launches Exclusive Turntable System",
+          "description": "Bang & Olufsen unveils a limited edition turntable system, with only 100 units produced. A stylish addition for audiophiles!",
+          "category": "Business",
+          "source": "What Hi-Fi? US",
+          "url": "https://www.whathifi.com/hi-fi/turntables/bang-and-olufsens-limited-edition-turntable-system-is-sleek-stylish-and-very-exclusive",
+          "image": "https://cdn.mos.cms.futurecdn.net/vmxtnKkPRNKXCVQ2kvoib4-2560-80.jpg",
+          "published_at": "2026-06-18T15:09:22Z",
+          "key_points": [
+            "Limited edition turntable",
+            "Only 100 units available",
+            "Stylish design for audiophiles"
+          ],
+          "impact": "This exclusive product targets high-end consumers.",
+          "id": "707be23cb86226c380a91d87301d3572"
+        }
+      ]
+    },
+    {
       "id": "2026-06-19T22:02:46.202745+00:00",
       "fetched_at": "2026-06-19T22:02:46.202745+00:00",
       "label": "Jun 19, 2026 — 10:03 PM UTC",
@@ -6904,253 +7151,6 @@
           ],
           "impact": "Consumers can save significantly on Apple products.",
           "id": "3206f724c2f857846b04ea7efa22b53c"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-13T22:02:43.946082+00:00",
-      "fetched_at": "2026-06-13T22:02:43.946082+00:00",
-      "label": "Jun 13, 2026 — 10:03 PM UTC",
-      "articles": [
-        {
-          "title": "GameStop Employees Panic Over Pro Membership Changes",
-          "description": "GameStop's Pro Membership is set to worsen, causing unrest among employees. The shift to digital has left staff concerned about the future.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/one-of-the-only-good-things-left-about-gamestop-is-about-to-get-worse-2000706035",
-          "image": "https://kotaku.com/app/uploads/2026/06/gamestop-1200x675.jpg",
-          "published_at": "2026-06-12T19:15:56Z",
-          "key_points": [
-            "Pro Membership changes alarm staff",
-            "Shift to digital impacts sales",
-            "Employee morale at risk"
-          ],
-          "impact": "GameStop's future may be jeopardized.",
-          "id": "cdd29b13b6a79e77c2b5a25a585be61c"
-        },
-        {
-          "title": "Top 32 Multiplayer Games on Nintendo's eShop Sale",
-          "description": "Nintendo's latest eShop sale features 32 multiplayer games rated 9/10 or higher. Perfect for gamers looking to play with friends.",
-          "category": "Gaming",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/32-games-you-should-check-out-in-nintendos-multiplayer-eshop-sale-europe",
-          "image": "https://images.nintendolife.com/6801085a9a922/large.jpg",
-          "published_at": "2026-06-12T18:03:25Z",
-          "key_points": [
-            "32 games rated 9/10 or higher",
-            "Focus on multiplayer experiences",
-            "Limited-time sale offers"
-          ],
-          "impact": "Great deals for multiplayer gaming enthusiasts.",
-          "id": "4c2a00310db2f1e8545a435674e26085"
-        },
-        {
-          "title": "Huawei's HarmonyOS Optimized for Minimal RAM Usage",
-          "description": "Huawei claims HarmonyOS can run on just 64KB of RAM for a year on a single battery. This optimization showcases the platform's efficiency.",
-          "category": "Software",
-          "source": "Wccftech",
-          "url": "https://wccftech.com/huawei-executive-says-harmonyos-can-be-optimized-to-run-on-64kb-ram/",
-          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/HarmonyOS-2.jpg",
-          "published_at": "2026-06-12T16:07:00Z",
-          "key_points": [
-            "HarmonyOS efficiency highlighted",
-            "Runs on minimal RAM",
-            "Single battery lasts a year"
-          ],
-          "impact": "Potentially revolutionizes low-power devices.",
-          "id": "60da11a569aa611c684c1a4b3b2e5a85"
-        },
-        {
-          "title": "LEGO Retiring Sets: June 2026 Update",
-          "description": "The LEGO Retiring Soon list has been updated, with major sets selling out faster than anticipated. Collectors should act quickly.",
-          "category": "Gaming",
-          "source": "The Brick Fan",
-          "url": "https://www.thebrickfan.com/lego-retiring-soon-list-june-2026-update/",
-          "image": "https://www.thebrickfan.com/wp-content/uploads/2024/03/LEGO-Ideas-Dungeons-Dragons-Red-Dragons-Tale-21348-Cover.jpg",
-          "published_at": "2026-06-12T14:33:07Z",
-          "key_points": [
-            "Major sets sold out quickly",
-            "Updated retiring list released",
-            "Collectors urged to buy now"
-          ],
-          "impact": "LEGO enthusiasts face urgency to purchase.",
-          "id": "37ba49342d98804754542f7031afd875"
-        },
-        {
-          "title": "New Warhammer 40,000 Event Companions Available",
-          "description": "Warhammer 40,000 introduces new event rules and terrain layouts for tournaments. Players can now enjoy enhanced gameplay experiences.",
-          "category": "Gaming",
-          "source": "Warhammer Community",
-          "url": "https://www.warhammer-community.com/articles/lszdpzmc/new40k-download-the-new-event-companions-today",
-          "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/40k_tournamentcompanion-jun12-1-feature-3k0fswx3hi.jpg",
-          "published_at": "2026-06-12T13:58:02Z",
-          "key_points": [
-            "New event rules introduced",
-            "Terrain layouts for tournaments",
-            "Enhanced gameplay experiences"
-          ],
-          "impact": "Improves competitive play in Warhammer 40K.",
-          "id": "262c69cb9754ce1ff8bad3b87055a8d1"
-        },
-        {
-          "title": "Forza Horizon 6 Save Bug Fix Released",
-          "description": "A fix for the save-erasing bug in Forza Horizon 6 is rolling out today, allowing players to safely return to the game.",
-          "category": "Gaming",
-          "source": "TrueAchievements",
-          "url": "https://www.trueachievements.com/news/forza-horizon-6-save-bug-fix",
-          "image": "https://www.trueachievements.com/imgs/176053/forza-horizon-6-save-bug-fix.jpg",
-          "published_at": "2026-06-12T13:15:43Z",
-          "key_points": [
-            "Save bug fix rolling out",
-            "Players can return safely",
-            "Playground Games addresses issues"
-          ],
-          "impact": "Restores player confidence in the game.",
-          "id": "24c91fb74a262a16ad539b36baa92be6"
-        },
-        {
-          "title": "Crimson Desert Patch Adds New Features",
-          "description": "The latest patch for Crimson Desert introduces a petting zoo and restores lost rare items. Players can enjoy new content and improvements.",
-          "category": "Gaming",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/paultassi/2026/06/12/new-crimson-desert-patch-adds-a-petting-zoo-lost-rare-item-return/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/69c6841e85f3f3f7b83007ef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "published_at": "2026-06-12T12:57:43Z",
-          "key_points": [
-            "New petting zoo feature",
-            "Restores lost rare items",
-            "Regular updates keep game fresh"
-          ],
-          "impact": "Enhances player engagement in Crimson Desert.",
-          "id": "8a2111a85382f7815a95e60eab734b02"
-        },
-        {
-          "title": "Vibe Coding Declared Outdated by Karpathy",
-          "description": "Andrej Karpathy has moved on from vibe coding, signaling a shift in engineering trends. This change may impact founders and developers.",
-          "category": "Software",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/jodiecook/2026/06/12/is-vibe-coding-already-dead-even-karpathy-is-moving-on/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a2b06275c456e87cdb5e3e6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "published_at": "2026-06-12T12:00:00Z",
-          "key_points": [
-            "Karpathy moves on from vibe coding",
-            "Shift in engineering trends",
-            "Impact on founders and developers"
-          ],
-          "impact": "Signals a new direction in coding practices.",
-          "id": "0326131088fbd78240702a5cacae4fcf"
-        },
-        {
-          "title": "Galaxy Phones Get Long-Awaited Network Speed Meter",
-          "description": "Samsung's One UI 9 introduces a network speed meter for Galaxy phones, allowing users to monitor real-time speeds easily.",
-          "category": "Software",
-          "source": "Android Central",
-          "url": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-phones-are-finally-getting-a-feature-android-users-have-wanted-for-years",
-          "image": "https://cdn.mos.cms.futurecdn.net/7yDjB7Dppc8HUjCyREPkr5-2560-80.jpg",
-          "published_at": "2026-06-12T10:57:44Z",
-          "key_points": [
-            "Network speed meter added",
-            "Real-time speed monitoring",
-            "One UI 9 update released"
-          ],
-          "impact": "Enhances user experience on Galaxy devices.",
-          "id": "2fde45f48a96299b43f7de019dedc38e"
-        },
-        {
-          "title": "FromSoftware Rejects Investor Pressure for Safer Sequels",
-          "description": "FromSoftware's director Miyazaki refuses to compromise on creative freedom despite investor demands for safer game sequels.",
-          "category": "Gaming",
-          "source": "Wccftech",
-          "url": "https://wccftech.com/elden-ring-bloodborne-developer-fromsoftware-rejects-safer-sequels/",
-          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/Elden-Ring-FromSoftware-Miyazaki-Investors-Pressure.jpg",
-          "published_at": "2026-06-12T09:47:00Z",
-          "key_points": [
-            "Miyazaki defends creative freedom",
-            "Rejects investor demands",
-            "Commitment to unique game experiences"
-          ],
-          "impact": "Ensures continued innovation in gaming.",
-          "id": "99173b6b6734ae6da3c80a69893892e8"
-        },
-        {
-          "title": "Strava Enhances Hiking Tools with New Features",
-          "description": "Strava has upgraded its hiking tools, adding better maps and route planning features, including enhancements for Apple Watch users.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/11/strava-expands-hiking-tools-with-better-maps-route-planning-and-trail-navigation/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/strava-hike.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-12T00:02:00Z",
-          "key_points": [
-            "New hiking maps introduced",
-            "Improved route planning tools",
-            "Apple Watch app enhancements"
-          ],
-          "impact": "Boosts outdoor activity engagement.",
-          "id": "dacd5fbb7bb8690ca2f86fa87a3ac753"
-        },
-        {
-          "title": "Starfield Patch Addresses Major Crashing Issue",
-          "description": "A new patch for Starfield aims to fix significant crashing issues on PS5, two months post-launch. Players can expect improved stability.",
-          "category": "Gaming",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/06/starfield-patch-promises-to-fix-its-biggest-crashing-issue-on-ps5-two-months-after-launch",
-          "image": "https://images.pushsquare.com/c5dc9d094a12b/large.jpg",
-          "published_at": "2026-06-11T23:45:00Z",
-          "key_points": [
-            "Patch fixes crashing issues",
-            "Improves PS5 game stability",
-            "Two months after launch"
-          ],
-          "impact": "Enhances gameplay experience for players.",
-          "id": "1ff8bec645c5e57693deba101476aacd"
-        },
-        {
-          "title": "Waze Introduces Traffic Lights in Navigation",
-          "description": "Waze is rolling out traffic light visibility in navigation, enhancing route awareness for users. The feature is gradually becoming available.",
-          "category": "Software",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/06/11/waze-now-shows-traffic-lights-on-your-route-but-its-rolling-out-slowly/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/waze-logo-2024.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-11T20:55:00Z",
-          "key_points": [
-            "Traffic lights visible in navigation",
-            "Gradual rollout of feature",
-            "Improves route awareness"
-          ],
-          "impact": "Enhances navigation experience for users.",
-          "id": "f2cd3ccdd35f411c474392349d2bbad5"
-        },
-        {
-          "title": "Final Fantasy 7 Director Critiques Streaming Impact",
-          "description": "Final Fantasy 7 Revelation's director believes streaming is causing a crisis for RPGs, affecting how fans engage with games.",
-          "category": "Gaming",
-          "source": "Nintendo Everything",
-          "url": "https://nintendoeverything.com/final-fantasy-7-revelation-director-feels-streamers-are-causing-a-bit-of-a-crisis-for-rpgs/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Final-Fantasy-RPGs-crisis.jpg",
-          "published_at": "2026-06-11T20:01:55Z",
-          "key_points": [
-            "Streaming impacts RPG engagement",
-            "Director expresses concerns",
-            "Crisis for RPGs noted"
-          ],
-          "impact": "Highlights challenges facing the RPG genre.",
-          "id": "951cf0f8b09fcb3154ad0a1f2bd70f82"
-        },
-        {
-          "title": "RPG Maker to Delete 14 Years of Community Content",
-          "description": "RPG Maker's forums will close, erasing 14 years of community content without backup. Fans have limited time to save resources.",
-          "category": "Gaming",
-          "source": "Dexerto",
-          "url": "https://www.dexerto.com/gaming/rpg-maker-is-deleting-14-years-of-community-content-and-fans-have-days-to-save-them-3374972/",
-          "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/11/RPG-maker-forums-closing.jpg",
-          "published_at": "2026-06-11T19:45:08Z",
-          "key_points": [
-            "Forums closing in December",
-            "14 years of content lost",
-            "Fans urged to save resources"
-          ],
-          "impact": "Community resources face permanent loss.",
-          "id": "53d20cd517425a8d535cbf67cdfcb43a"
         }
       ]
     }
