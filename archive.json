@@ -1,6 +1,205 @@
 {
   "batches": [
     {
+      "id": "2026-06-20T08:54:05.296973+00:00",
+      "fetched_at": "2026-06-20T08:54:05.296973+00:00",
+      "label": "Jun 20, 2026 — 08:54 AM UTC",
+      "articles": [
+        {
+          "title": "Pokémon Pokopia Updated To Version 1.1.1",
+          "description": "Pokémon Pokopia for Switch 2 has been updated to Version 1.1.1, fixing several minor issues. Players can enjoy a smoother gaming experience with these improvements.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/pokemon-pokopia-updated-to-version-1-1-1-here-are-the-patch-notes",
+          "image": "https://images.nintendolife.com/3d5761e01587f/large.jpg",
+          "published_at": "2026-06-19T03:59:19Z",
+          "key_points": [
+            "Minor fixes implemented",
+            "Improved gameplay experience",
+            "Update available now"
+          ],
+          "impact": "Players will benefit from a smoother experience.",
+          "id": "87496f67052b01a8095a2a07b9a04eb4"
+        },
+        {
+          "title": "Persona 4 Revival 19 Minute Broadcast Released",
+          "description": "Atlus has released a 19-minute broadcast showcasing the Persona 4 Revival remake, featuring new gameplay footage and updates. Fans can look forward to exciting enhancements.",
+          "category": "Gaming",
+          "source": "Persona Central",
+          "url": "https://personacentral.com/p4r-broadcast-1/",
+          "image": "https://personacentral.com/wp-content/uploads/2026/06/revival.jpg",
+          "published_at": "2026-06-18T23:33:30Z",
+          "key_points": [
+            "New gameplay footage revealed",
+            "Broadcast lasts 19 minutes",
+            "Exciting updates shared"
+          ],
+          "impact": "Fans are eager for the upcoming remake.",
+          "id": "09026ad4a080e3ca4c86e174a00fdfb9"
+        },
+        {
+          "title": "SHINOBI: Art of Vengeance Coming to Switch 2",
+          "description": "SHINOBI: Art of Vengeance will launch on Switch 2 on September 24, with pre-orders now available via the Nintendo eShop. Players can anticipate an exciting new adventure.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/shinobi-art-of-vengeance-coming-to-switch-2-on-september-24",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/SHINOBI-Switch-2_06-18-26.jpg",
+          "published_at": "2026-06-18T21:30:23Z",
+          "key_points": [
+            "Launch date set for September 24",
+            "Pre-orders available now",
+            "Exciting new adventure awaits"
+          ],
+          "impact": "Gamers are excited for the upcoming release.",
+          "id": "c49b98e76584c97d3d821d79874ced75"
+        },
+        {
+          "title": "Game Informer's Favorite Steam Next Fest Demos",
+          "description": "Steam Next Fest returns with Game Informer's top demo picks for Summer 2026. Editors highlight standout games worth trying during the event.",
+          "category": "Gaming",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/2026/06/18/game-informers-favorite-steam-next-fest-demos-summer-2026-edition",
+          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/18/c62caac4/duskfade-screenshot-2.jpg.webp",
+          "published_at": "2026-06-18T20:38:10Z",
+          "key_points": [
+            "Steam Next Fest highlights",
+            "Editors' top demo picks",
+            "Exciting games to try"
+          ],
+          "impact": "Players can discover new favorites this summer.",
+          "id": "37b37b97d5bedbe7093a4d8a89cd15a6"
+        },
+        {
+          "title": "Assassin’s Creed Black Flag Resynced Remake Insights",
+          "description": "IGN previews Assassin's Creed Black Flag Resynced, showcasing remixed missions and new gameplay features. The remake promises to enhance the original experience significantly.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-heres-what-the-remake-looks-and-plays-like-compared-to-the-original-ign-first",
+          "image": "https://assets-prd.ignimgs.com/2026/06/18/ignfirst-acbfr-handson-blogroll-1781801327522.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-18T18:45:41Z",
+          "key_points": [
+            "New gameplay features introduced",
+            "Remixed missions enhance experience",
+            "Significant improvements expected"
+          ],
+          "impact": "Fans are eager for this ambitious remake.",
+          "id": "120e1a0d28b9b600ae125f79be69e6cf"
+        },
+        {
+          "title": "Open World Shooter No Law Shows Potential",
+          "description": "No Law, an open-world cyberpunk shooter, showcases its potential at Unreal Fest 2026. Developer Neon Giant emphasizes density over scale for immersive gameplay.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/density-over-scale-open-world-cyberpunk-shooter-no-law-has-serious-potential-on-ps5",
+          "image": "https://images.pushsquare.com/87786db0439f6/large.jpg",
+          "published_at": "2026-06-18T15:00:00Z",
+          "key_points": [
+            "Focus on density over scale",
+            "Impressive gameplay showcased",
+            "Developer highlights potential"
+          ],
+          "impact": "Gamers are excited for this unique approach.",
+          "id": "4d372a05fc73662be17636235569ae12"
+        },
+        {
+          "title": "Forza Horizon 6 Festival Playlist Series 2 Summer Live",
+          "description": "Forza Horizon 6's second Festival Playlist Series 2 is now live, featuring new races and challenges. Players can unlock seven new cars this summer.",
+          "category": "Gaming",
+          "source": "TrueAchievements",
+          "url": "https://www.trueachievements.com/news/forza-horizon-6-festival-playlist-series-2-summer",
+          "image": "https://www.trueachievements.com/imgs/176173/forza-horizon-6-festival-playlist-series-2-summer-now-live-with-7-cars-to-unlock.jpg",
+          "published_at": "2026-06-18T14:34:55Z",
+          "key_points": [
+            "New races and challenges available",
+            "Unlock seven new cars",
+            "Festival Playlist Series 2 live"
+          ],
+          "impact": "Players can enjoy fresh content this summer.",
+          "id": "7056fa36b04666a4d0ab5819928869e2"
+        },
+        {
+          "title": "Photoshop and Premiere Introduce AI Assistants",
+          "description": "Adobe rolls out AI assistants for Photoshop and Premiere, enhancing user experience with prompt-based editing. This marks a significant step in Creative Cloud's evolution.",
+          "category": "Software",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Photoshop-AI-assistant-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-18T13:00:00Z",
+          "key_points": [
+            "AI assistants launched",
+            "Prompt-based editing features",
+            "Enhancing Creative Cloud apps"
+          ],
+          "impact": "Users will benefit from improved editing tools.",
+          "id": "c4a5a14ca477793eb86e675d082dfb4c"
+        },
+        {
+          "title": "The Drawer Problem: Keeping Old Electronics",
+          "description": "Many people struggle to part with old electronics, often storing them away. Better recycling and reselling information could help change this behavior.",
+          "category": "Business",
+          "source": "The Conversation",
+          "url": "https://theconversation.com/the-drawer-problem-why-so-many-of-us-cant-let-go-of-our-old-electronics-and-what-we-can-do-about-it-284710",
+          "image": "https://images.theconversation.com/files/741977/original/file-20260615-57-5pw3jo.jpg?ixlib=rb-4.1.0&rect=0%2C484%2C5800%2C2900&q=45&auto=format&w=1356&h=668&fit=crop",
+          "published_at": "2026-06-18T12:32:47Z",
+          "key_points": [
+            "People hoard old devices",
+            "Recycling information needed",
+            "Reselling options could help"
+          ],
+          "impact": "Awareness could reduce electronic waste.",
+          "id": "a2ad86ca2850c25da9f0901c47a5c1fe"
+        },
+        {
+          "title": "GTA Online Fine Art Collector Program Rewards",
+          "description": "GTA Online introduces the Fine Art Collector program, offering special rewards including up to GTA$1,500,000 in bonus cash. The program runs until July 13.",
+          "category": "Gaming",
+          "source": "Rockstar Games",
+          "url": "https://www.rockstargames.com/newswire/article/4k157o2o8k7o7o/earn-special-rewards-in-gta-online-with-the-fine-art-collector-program?utm_source=ig&utm_medium=social&utm_content=link_in_bio",
+          "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/4k157o2o8k7o7o/3f3aad75b26a79d0339aa43ce43cfdfb4e1da53e.jpg",
+          "published_at": "2026-06-18T12:05:34Z",
+          "key_points": [
+            "Earn up to GTA$1,500,000",
+            "New Fine Art Collector program",
+            "Rewards available until July 13"
+          ],
+          "impact": "Players can earn significant in-game rewards.",
+          "id": "e7e94ab6da79e93788144678f2dee611"
+        },
+        {
+          "title": "Final Fantasy 7 Revelation Director's Emotional Journey",
+          "description": "Director Naoki Hamaguchi reveals he has completed Final Fantasy 7 Revelation 40 times, crying each time at a pivotal scene. This moment is deemed essential to the story.",
+          "category": "Gaming",
+          "source": "Video Games Chronicle",
+          "url": "https://www.videogameschronicle.com/news/final-fantasy-7-revelation-director-says-hes-finished-it-40-times-and-cried-every-time-at-one-point/",
+          "image": "https://www.videogameschronicle.com/files/2026/06/final-fantasy-7-revelation.jpg",
+          "published_at": "2026-06-18T11:58:48Z",
+          "key_points": [
+            "Director cried 40 times",
+            "Pivotal scene revealed",
+            "Essential to the story"
+          ],
+          "impact": "Fans are intrigued by the emotional depth.",
+          "id": "bb1bbbc46f53925332eaa3b404cd4384"
+        },
+        {
+          "title": "iOS 27 Speed Improvements Overview",
+          "description": "iOS 27 introduces various speed improvements that, while minor individually, collectively enhance performance. Users can expect a smoother experience across devices.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/18/ios-27-speed-improvements-wont-matter-individually-but-will-collectively/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27-guide.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-18T11:01:00Z",
+          "key_points": [
+            "Minor speed improvements noted",
+            "Collective enhancements expected",
+            "Smoother performance across devices"
+          ],
+          "impact": "Users will enjoy an overall improved experience.",
+          "id": "0ce869fa5a4aa589085b5298c79391dd"
+        }
+      ]
+    },
+    {
       "id": "2026-06-20T03:33:28.935769+00:00",
       "fetched_at": "2026-06-20T03:33:28.935769+00:00",
       "label": "Jun 20, 2026 — 03:33 AM UTC",
@@ -6936,221 +7135,6 @@
           ],
           "impact": "This could influence buyer decisions in the market.",
           "id": "8b9dd1269ac43c72c6d809ea8570f897"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-14T03:57:14.743974+00:00",
-      "fetched_at": "2026-06-14T03:57:14.743974+00:00",
-      "label": "Jun 14, 2026 — 03:57 AM UTC",
-      "articles": [
-        {
-          "title": "Support Marathon to Save Bungie, Says Ex-Manager",
-          "description": "Bungie's former community manager insists player counts shouldn't be compared between Destiny 2 and Marathon. He claims Bungie's issues predate Marathon's arrival.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/the-only-way-to-keep-bungie-alive-is-to-support-marathon-ex-destiny-community-manager-says",
-          "image": "https://assets-prd.ignimgs.com/2026/06/12/destiny-2-so-far-together-00-05-03-1781279525139.png?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-12T21:59:38Z",
-          "key_points": [
-            "Bungie's issues predate Marathon",
-            "Player counts shouldn't be compared",
-            "Community manager speaks out"
-          ],
-          "impact": "Bungie's future hinges on player support for Marathon.",
-          "id": "fde90931eb8624345ac1d080885ba3fc"
-        },
-        {
-          "title": "Poll Reveals Mixed Feelings on Street Fighter 6 Season 4",
-          "description": "Street Fighter 6's Season 4 plans were unveiled, surprising many fans. Community feedback is being gathered on the new direction and character additions.",
-          "category": "Gaming",
-          "source": "EventHubs",
-          "url": "https://www.eventhubs.com/news/2026/jun/12/street-fighter-season-4-poll/",
-          "image": "https://media.eventhubs.com/images/2026/06/10-season-pollt.webp",
-          "published_at": "2026-06-12T21:44:50Z",
-          "key_points": [
-            "Season 4 plans officially revealed",
-            "Fans express mixed reactions",
-            "Poll gauges community interest"
-          ],
-          "impact": "Community feedback will shape future updates.",
-          "id": "1a3e2b6899f3c749e46c7081994d1f06"
-        },
-        {
-          "title": "Zelda: Ocarina of Time Remake Tops Summer Game Fest",
-          "description": "The remake of Zelda: Ocarina of Time was among the most popular titles at Summer Game Fest 2026. Fans are excited about its upcoming release.",
-          "category": "Gaming",
-          "source": "Nintendoeverything.com",
-          "url": "https://nintendoeverything.com/zelda-ocarina-of-time-nintendo-switch-2-remake-was-one-of-the-most-popular-titles-of-summer-game-fest-2026-according-to-data/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Zelda-Ocarina-of-Time-remake-popularity-scaled.jpg",
-          "published_at": "2026-06-12T21:12:02Z",
-          "key_points": [
-            "Ocarina of Time remake popular",
-            "Top title at Summer Game Fest",
-            "Fans eagerly await release"
-          ],
-          "impact": "The remake boosts anticipation for Nintendo's lineup.",
-          "id": "83ef9308289fc9d358ff5b6ae59b39a5"
-        },
-        {
-          "title": "AMD Denies Bug Bounty After Security Flaw Fix",
-          "description": "AMD failed to pay a $10,000 bounty for a critical security flaw in its auto-updater, which took 124 days to fix. This has raised concerns about their security practices.",
-          "category": "Security",
-          "source": "Gadgetreview.com",
-          "url": "https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix",
-          "image": "https://www.gadgetreview.com/wp-content/uploads/Depositphotos_820200656_S.jpg",
-          "published_at": "2026-06-12T17:17:12Z",
-          "key_points": [
-            "AMD refused $10,000 bounty",
-            "124-day fix for vulnerability",
-            "Concerns over security practices"
-          ],
-          "impact": "AMD's actions may damage its reputation.",
-          "id": "4f4df4baeabdbba9b65c7eeef58fa103"
-        },
-        {
-          "title": "Waze Expands Traffic Lights Feature to More Users",
-          "description": "Waze continues to roll out its traffic lights feature, enhancing navigation for users. This feature was first tested last December.",
-          "category": "Software",
-          "source": "GSMArena.com",
-          "url": "https://www.gsmarena.com/waze_traffic_lights_feature_gradual_rollout-news-73251.php",
-          "image": "https://fdn.gsmarena.com/imgroot/news/26/06/waze-traffic-lights-gradual-rollout/-952x498w6/gsmarena_001.jpg",
-          "published_at": "2026-06-12T14:37:02Z",
-          "key_points": [
-            "Traffic lights feature expanding",
-            "First tested last December",
-            "Improves user navigation experience"
-          ],
-          "impact": "Waze enhances user experience with new features.",
-          "id": "68d8abb3d39f2bfa17c629ee559c55bf"
-        },
-        {
-          "title": "Record Discounts on AirPods and Switch 2 Sales",
-          "description": "AirPods models see record low prices this week, including AirPods Pro 3 and Max 2. A rare discount on Switch 2 is also available.",
-          "category": "Business",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/12/best-apple-deals-of-the-week-6-12-26/",
-          "image": "https://images.macrumors.com/t/s-l7mxPVgrIW4A1bILoKGXOrUI8=/2500x/article-new/2025/02/Best-Apple-Deals-Feature-0007-1.jpg",
-          "published_at": "2026-06-12T14:33:10Z",
-          "key_points": [
-            "AirPods hit record low prices",
-            "Rare Switch 2 discount available",
-            "Tracking great tech deals"
-          ],
-          "impact": "Consumers benefit from significant tech discounts.",
-          "id": "d584053d590a3ed12a7660de6bdb97aa"
-        },
-        {
-          "title": "Final Fantasy 7 Director Calls Streamers a Crisis",
-          "description": "The director of Final Fantasy 7 expresses concern that watching streamers may deter players from engaging with RPGs. He emphasizes the need for more player choice.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/final-fantasy-7-revelation-director-calls-watching-streamers-a-crisis-for-rpgs-that-dont-offer-enough-choice-2000705983",
-          "image": "https://kotaku.com/app/uploads/2024/06/2151211a080fe399309cca70ff1df3af-1200x675.jpg",
-          "published_at": "2026-06-12T13:13:58Z",
-          "key_points": [
-            "Streamers may deter game players",
-            "Need for more player choice",
-            "Director voices industry concerns"
-          ],
-          "impact": "The industry must adapt to streaming trends.",
-          "id": "d7c85aadb1f271191132bc087175a10c"
-        },
-        {
-          "title": "Crimson Desert Developer Discusses Game Changes",
-          "description": "Crimson Desert's developer shares insights on story changes and the meaning of 'DLC'. The game has sold over 6 million copies since launch.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://nordic.ign.com/crimson-desert/108758/crimson-desert-dev-explains-how-its-changing-the-games-story-what-dlc-means-and-why-anything-goes",
-          "image": "https://sm.ign.com/t/ign_nordic/news/c/crimson-de/crimson-desert-dev-explains-how-its-changing-the-games-story_dj13.1200.jpg",
-          "published_at": "2026-06-12T12:36:20Z",
-          "key_points": [
-            "Developer discusses story changes",
-            "Game sold over 6 million copies",
-            "Artistic liberty emphasized"
-          ],
-          "impact": "Crimson Desert's success may influence future games.",
-          "id": "ebdec44b1eb6c5390f552f4b26df7e7a"
-        },
-        {
-          "title": "Nintendo's Legal Battle Over Palworld Nears End",
-          "description": "Nintendo's attempt to block Palworld is likely to yield minimal results, with a potential payout of only $30,000. The case appears to be wrapping up.",
-          "category": "Geopolitics",
-          "source": "Windows Central",
-          "url": "https://www.windowscentral.com/gaming/nintendo-wanted-to-block-palworld-now-it-faces-a-0-percent-chance-and-a-measly-usd30k-payout",
-          "image": "https://cdn.mos.cms.futurecdn.net/M7vy9oMJNZvW49C4LnUyvb-1920-80.jpg",
-          "published_at": "2026-06-12T10:28:48Z",
-          "key_points": [
-            "Nintendo's legal case nearing conclusion",
-            "Potential payout of $30,000",
-            "Minimal chance of blocking Palworld"
-          ],
-          "impact": "Nintendo's legal strategy faces significant setbacks.",
-          "id": "8619fde7d487ab13663dc148db0476a4"
-        },
-        {
-          "title": "New Surveillance Tech Enhances Tracking Capabilities",
-          "description": "New surveillance technology allows tracking beyond license plates using smartphone data and RFID chips. This raises privacy concerns.",
-          "category": "Security",
-          "source": "Jalopnik",
-          "url": "https://www.jalopnik.com/2191765/new-surveillance-tech-pairs-your-license-plate-phone-bluetooth-devices/",
-          "image": "https://www.jalopnik.com/img/gallery/new-surveillance-tech-just-dropped-thatll-help-cops-track-more-than-just-your-license-plate/l-intro-1781120302.jpg",
-          "published_at": "2026-06-12T04:25:00Z",
-          "key_points": [
-            "New tech tracks beyond license plates",
-            "Uses smartphone and RFID data",
-            "Raises privacy concerns"
-          ],
-          "impact": "Increased surveillance may threaten personal privacy.",
-          "id": "9250b9372a35a69453082cf310c2857e"
-        },
-        {
-          "title": "Xenoblade Chronicles Graphics Comparison Across Platforms",
-          "description": "A new video compares Xenoblade Chronicles graphics on Wii, 3DS, Switch, and Switch 2. Fans can see the visual improvements across systems.",
-          "category": "Gaming",
-          "source": "GoNintendo",
-          "url": "https://gonintendo.com/contents/61826-xenoblade-chronicles-wii-vs-3ds-vs-switch-vs-switch-2-graphics-comparison",
-          "image": "https://gonintendo.com/attachments/image/82101/file/medium-d4270d5fe21754c4016420b312ab41c5.png",
-          "published_at": "2026-06-11T23:29:08Z",
-          "key_points": [
-            "Graphics compared across multiple systems",
-            "Visual improvements highlighted",
-            "Fans excited for Switch 2"
-          ],
-          "impact": "Visual upgrades enhance player experience.",
-          "id": "ed1d09880486dc49fb877b62470a0af3"
-        },
-        {
-          "title": "Gran Turismo 7 Launches New Weekly Challenges",
-          "description": "Gran Turismo 7 introduces new weekly challenges starting June 12. Players can participate in five events and earn rewards.",
-          "category": "Gaming",
-          "source": "GTPlanet",
-          "url": "https://www.gtplanet.net/gran-turismo-7-weekly-challenges-when-life-gives-you-le-mans-20260611/",
-          "image": "https://www.gtplanet.net/wp-content/uploads/2026/06/le-mans-gt7.webp",
-          "published_at": "2026-06-11T20:20:41Z",
-          "key_points": [
-            "New challenges launch June 12",
-            "Five events available for players",
-            "Earn rewards through participation"
-          ],
-          "impact": "Weekly challenges keep players engaged.",
-          "id": "c573054459162294615f801772b177d4"
-        },
-        {
-          "title": "Early Prime Day Apple Deals Offer Major Discounts",
-          "description": "Ahead of Prime Day, Apple products are seeing discounts up to $300. Retailers are offering some of the lowest prices on new releases.",
-          "category": "Business",
-          "source": "AppleInsider",
-          "url": "https://appleinsider.com/articles/26/06/11/early-prime-day-apple-deals-start-at-just-1499-save-up-to-300",
-          "image": "https://photos5.appleinsider.com/gallery/67926-143201-early-prime-day-apple-deals-2026-xl.jpg",
-          "published_at": "2026-06-11T19:07:00Z",
-          "key_points": [
-            "Apple deals up to $300 off",
-            "Lowest prices on new releases",
-            "Prime Day approaches with discounts"
-          ],
-          "impact": "Consumers can save significantly on Apple products.",
-          "id": "3206f724c2f857846b04ea7efa22b53c"
         }
       ]
     }

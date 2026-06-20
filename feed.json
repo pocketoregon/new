@@ -1,245 +1,197 @@
 {
-  "generated_at": "2026-06-20T03:33:28.935769+00:00",
+  "generated_at": "2026-06-20T08:54:05.296973+00:00",
   "articles": [
     {
-      "title": "GTPLAYER Gaming Chair Now Under $160 for Prime Day",
-      "description": "The GTPLAYER Big and Tall Gaming Chair is now available for less than $160 ahead of Amazon Prime Day. Grab this deal while it lasts!",
+      "title": "Pokémon Pokopia Updated To Version 1.1.1",
+      "description": "Pokémon Pokopia for Switch 2 has been updated to Version 1.1.1, fixing several minor issues. Players can enjoy a smoother gaming experience with these improvements.",
+      "category": "Gaming",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/06/pokemon-pokopia-updated-to-version-1-1-1-here-are-the-patch-notes",
+      "image": "https://images.nintendolife.com/3d5761e01587f/large.jpg",
+      "published_at": "2026-06-19T03:59:19Z",
+      "key_points": [
+        "Minor fixes implemented",
+        "Improved gameplay experience",
+        "Update available now"
+      ],
+      "impact": "Players will benefit from a smoother experience.",
+      "id": "87496f67052b01a8095a2a07b9a04eb4"
+    },
+    {
+      "title": "Persona 4 Revival 19 Minute Broadcast Released",
+      "description": "Atlus has released a 19-minute broadcast showcasing the Persona 4 Revival remake, featuring new gameplay footage and updates. Fans can look forward to exciting enhancements.",
+      "category": "Gaming",
+      "source": "Persona Central",
+      "url": "https://personacentral.com/p4r-broadcast-1/",
+      "image": "https://personacentral.com/wp-content/uploads/2026/06/revival.jpg",
+      "published_at": "2026-06-18T23:33:30Z",
+      "key_points": [
+        "New gameplay footage revealed",
+        "Broadcast lasts 19 minutes",
+        "Exciting updates shared"
+      ],
+      "impact": "Fans are eager for the upcoming remake.",
+      "id": "09026ad4a080e3ca4c86e174a00fdfb9"
+    },
+    {
+      "title": "SHINOBI: Art of Vengeance Coming to Switch 2",
+      "description": "SHINOBI: Art of Vengeance will launch on Switch 2 on September 24, with pre-orders now available via the Nintendo eShop. Players can anticipate an exciting new adventure.",
+      "category": "Gaming",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/shinobi-art-of-vengeance-coming-to-switch-2-on-september-24",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/SHINOBI-Switch-2_06-18-26.jpg",
+      "published_at": "2026-06-18T21:30:23Z",
+      "key_points": [
+        "Launch date set for September 24",
+        "Pre-orders available now",
+        "Exciting new adventure awaits"
+      ],
+      "impact": "Gamers are excited for the upcoming release.",
+      "id": "c49b98e76584c97d3d821d79874ced75"
+    },
+    {
+      "title": "Game Informer's Favorite Steam Next Fest Demos",
+      "description": "Steam Next Fest returns with Game Informer's top demo picks for Summer 2026. Editors highlight standout games worth trying during the event.",
+      "category": "Gaming",
+      "source": "Game Informer",
+      "url": "https://gameinformer.com/2026/06/18/game-informers-favorite-steam-next-fest-demos-summer-2026-edition",
+      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/18/c62caac4/duskfade-screenshot-2.jpg.webp",
+      "published_at": "2026-06-18T20:38:10Z",
+      "key_points": [
+        "Steam Next Fest highlights",
+        "Editors' top demo picks",
+        "Exciting games to try"
+      ],
+      "impact": "Players can discover new favorites this summer.",
+      "id": "37b37b97d5bedbe7093a4d8a89cd15a6"
+    },
+    {
+      "title": "Assassin’s Creed Black Flag Resynced Remake Insights",
+      "description": "IGN previews Assassin's Creed Black Flag Resynced, showcasing remixed missions and new gameplay features. The remake promises to enhance the original experience significantly.",
       "category": "Gaming",
       "source": "IGN",
-      "url": "https://www.ign.com/articles/gtplayer-big-and-tall-gaming-chair-deal-amazon-fathers-day-sale",
-      "image": "",
-      "published_at": "2026-06-18T23:43:20Z",
+      "url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-heres-what-the-remake-looks-and-plays-like-compared-to-the-original-ign-first",
+      "image": "https://assets-prd.ignimgs.com/2026/06/18/ignfirst-acbfr-handson-blogroll-1781801327522.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-18T18:45:41Z",
       "key_points": [
-        "Great deal for gamers",
-        "Perfect for tall users",
-        "Limited time offer"
+        "New gameplay features introduced",
+        "Remixed missions enhance experience",
+        "Significant improvements expected"
       ],
-      "impact": "This chair offers comfort at a great price.",
-      "id": "93fafd088287ac143efd0f65b902c205"
+      "impact": "Fans are eager for this ambitious remake.",
+      "id": "120e1a0d28b9b600ae125f79be69e6cf"
     },
     {
-      "title": "Sony Shifts Focus from PC to AI in PlayStation Strategy",
-      "description": "Sony's latest annual report reveals a strategic pivot from PC to AI for its PlayStation division. The headcount has increased for the first time since 2023.",
+      "title": "Open World Shooter No Law Shows Potential",
+      "description": "No Law, an open-world cyberpunk shooter, showcases its potential at Unreal Fest 2026. Developer Neon Giant emphasizes density over scale for immersive gameplay.",
       "category": "Gaming",
-      "source": "Gamefile.news",
-      "url": "https://www.gamefile.news/p/sony-annual-report-fine-print",
-      "image": "https://substackcdn.com/image/fetch/$s_!iitl!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F88639b3f-980e-40de-b848-8fa3b4e2be88_1956x1252.png",
-      "published_at": "2026-06-18T23:43:17Z",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/06/density-over-scale-open-world-cyberpunk-shooter-no-law-has-serious-potential-on-ps5",
+      "image": "https://images.pushsquare.com/87786db0439f6/large.jpg",
+      "published_at": "2026-06-18T15:00:00Z",
       "key_points": [
-        "Focus shifts to AI",
-        "Increased workforce",
-        "Annual report insights"
+        "Focus on density over scale",
+        "Impressive gameplay showcased",
+        "Developer highlights potential"
       ],
-      "impact": "Sony's strategy reflects changing gaming trends.",
-      "id": "7f5812a38f04742fc7abb46634a98a4b"
+      "impact": "Gamers are excited for this unique approach.",
+      "id": "4d372a05fc73662be17636235569ae12"
     },
     {
-      "title": "Glover and Street Racer Collection Get Free PS1 Updates",
-      "description": "QUByte announces free updates for Glover and Street Racer Collection on Nintendo Switch, adding their PS1 versions in 2027. Nostalgia meets modern gaming!",
+      "title": "Forza Horizon 6 Festival Playlist Series 2 Summer Live",
+      "description": "Forza Horizon 6's second Festival Playlist Series 2 is now live, featuring new races and challenges. Players can unlock seven new cars this summer.",
       "category": "Gaming",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/glover-street-racer-collection-getting-free-nintendo-switch-updates-to-add-ps1-version/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Glover-free-PS1-update.jpg",
-      "published_at": "2026-06-18T20:46:31Z",
+      "source": "TrueAchievements",
+      "url": "https://www.trueachievements.com/news/forza-horizon-6-festival-playlist-series-2-summer",
+      "image": "https://www.trueachievements.com/imgs/176173/forza-horizon-6-festival-playlist-series-2-summer-now-live-with-7-cars-to-unlock.jpg",
+      "published_at": "2026-06-18T14:34:55Z",
       "key_points": [
-        "Free updates announced",
-        "PS1 versions added",
-        "Coming in 2027"
+        "New races and challenges available",
+        "Unlock seven new cars",
+        "Festival Playlist Series 2 live"
       ],
-      "impact": "Players can enjoy classic games on Switch.",
-      "id": "63e0892dcce3f7dfc4b1d045a9ed9b01"
+      "impact": "Players can enjoy fresh content this summer.",
+      "id": "7056fa36b04666a4d0ab5819928869e2"
     },
     {
-      "title": "Game Boy Camera Now Usable with Your Phone",
-      "description": "A new app allows users to connect the Game Boy Camera to smartphones, enabling easy sharing of pixelated images. Nostalgic fun meets modern convenience!",
-      "category": "Gaming",
+      "title": "Photoshop and Premiere Introduce AI Assistants",
+      "description": "Adobe rolls out AI assistants for Photoshop and Premiere, enhancing user experience with prompt-based editing. This marks a significant step in Creative Cloud's evolution.",
+      "category": "Software",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/952173/epilogue-gb-operator-game-boy-camera-ios-android-app-iphone",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gbcamera1.jpg?quality=90&strip=all&crop=0%2C10.722122048185%2C100%2C78.55575590363&w=1200",
-      "published_at": "2026-06-18T20:22:46Z",
+      "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Photoshop-AI-assistant-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-06-18T13:00:00Z",
       "key_points": [
-        "Connect Game Boy Camera",
-        "Share pixelated images",
-        "New mobile app available"
+        "AI assistants launched",
+        "Prompt-based editing features",
+        "Enhancing Creative Cloud apps"
       ],
-      "impact": "This app revives retro gaming for smartphones.",
-      "id": "4320faf8a7b1682541c2ea38973f5c85"
+      "impact": "Users will benefit from improved editing tools.",
+      "id": "c4a5a14ca477793eb86e675d082dfb4c"
     },
     {
-      "title": "MSI Claw Gaming Handheld Priced at $1,800",
-      "description": "The MSI Claw 8 EX AI Plus gaming handheld launches at $1,800, raising concerns about affordability in gaming. Gamers brace for tough choices ahead.",
-      "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/company-reveals-new-pc-gaming-handheld-is-1800-and-says-it-will-be-a-tough-year-for-gamers-2000708162",
-      "image": "https://kotaku.com/app/uploads/2026/06/msi-claw.jpg",
-      "published_at": "2026-06-18T20:22:29Z",
-      "key_points": [
-        "High price tag",
-        "Concerns over affordability",
-        "Gaming exec comments"
-      ],
-      "impact": "This price may deter many potential buyers.",
-      "id": "13f4758109b0986d272d4a132489085a"
-    },
-    {
-      "title": "Ubisoft+ Premium Free Trial for Xbox & PC",
-      "description": "Ubisoft is offering a five-day free trial of Ubisoft+ Premium for Xbox and PC users. Don't forget to cancel if you don't want to continue!",
-      "category": "Gaming",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/06/ubisoftplus-premium-is-free-across-xbox-and-pc-for-the-next-five-days",
-      "image": "https://images.purexbox.com/187b90384a3be/large.jpg",
-      "published_at": "2026-06-18T20:06:35Z",
-      "key_points": [
-        "Free trial available",
-        "Xbox and PC users",
-        "Remember to cancel"
-      ],
-      "impact": "This trial could boost Ubisoft's user base.",
-      "id": "a8789226526ee79cdc5633f387a31145"
-    },
-    {
-      "title": "Apple's 2027 Product Launches Set to Impress",
-      "description": "Apple is gearing up for a historic 2027 with over 15 new products expected to launch. Anticipation builds for what's next!",
+      "title": "The Drawer Problem: Keeping Old Electronics",
+      "description": "Many people struggle to part with old electronics, often storing them away. Better recycling and reselling information could help change this behavior.",
       "category": "Business",
+      "source": "The Conversation",
+      "url": "https://theconversation.com/the-drawer-problem-why-so-many-of-us-cant-let-go-of-our-old-electronics-and-what-we-can-do-about-it-284710",
+      "image": "https://images.theconversation.com/files/741977/original/file-20260615-57-5pw3jo.jpg?ixlib=rb-4.1.0&rect=0%2C484%2C5800%2C2900&q=45&auto=format&w=1356&h=668&fit=crop",
+      "published_at": "2026-06-18T12:32:47Z",
+      "key_points": [
+        "People hoard old devices",
+        "Recycling information needed",
+        "Reselling options could help"
+      ],
+      "impact": "Awareness could reduce electronic waste.",
+      "id": "a2ad86ca2850c25da9f0901c47a5c1fe"
+    },
+    {
+      "title": "GTA Online Fine Art Collector Program Rewards",
+      "description": "GTA Online introduces the Fine Art Collector program, offering special rewards including up to GTA$1,500,000 in bonus cash. The program runs until July 13.",
+      "category": "Gaming",
+      "source": "Rockstar Games",
+      "url": "https://www.rockstargames.com/newswire/article/4k157o2o8k7o7o/earn-special-rewards-in-gta-online-with-the-fine-art-collector-program?utm_source=ig&utm_medium=social&utm_content=link_in_bio",
+      "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/4k157o2o8k7o7o/3f3aad75b26a79d0339aa43ce43cfdfb4e1da53e.jpg",
+      "published_at": "2026-06-18T12:05:34Z",
+      "key_points": [
+        "Earn up to GTA$1,500,000",
+        "New Fine Art Collector program",
+        "Rewards available until July 13"
+      ],
+      "impact": "Players can earn significant in-game rewards.",
+      "id": "e7e94ab6da79e93788144678f2dee611"
+    },
+    {
+      "title": "Final Fantasy 7 Revelation Director's Emotional Journey",
+      "description": "Director Naoki Hamaguchi reveals he has completed Final Fantasy 7 Revelation 40 times, crying each time at a pivotal scene. This moment is deemed essential to the story.",
+      "category": "Gaming",
+      "source": "Video Games Chronicle",
+      "url": "https://www.videogameschronicle.com/news/final-fantasy-7-revelation-director-says-hes-finished-it-40-times-and-cried-every-time-at-one-point/",
+      "image": "https://www.videogameschronicle.com/files/2026/06/final-fantasy-7-revelation.jpg",
+      "published_at": "2026-06-18T11:58:48Z",
+      "key_points": [
+        "Director cried 40 times",
+        "Pivotal scene revealed",
+        "Essential to the story"
+      ],
+      "impact": "Fans are intrigued by the emotional depth.",
+      "id": "bb1bbbc46f53925332eaa3b404cd4384"
+    },
+    {
+      "title": "iOS 27 Speed Improvements Overview",
+      "description": "iOS 27 introduces various speed improvements that, while minor individually, collectively enhance performance. Users can expect a smoother experience across devices.",
+      "category": "Software",
       "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/18/next-year-to-be-apples-biggest-product-year-ever-heres-whats-coming/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/04/Tim-Cook-opens-Apple-BKC.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-18T18:33:00Z",
+      "url": "https://9to5mac.com/2026/06/18/ios-27-speed-improvements-wont-matter-individually-but-will-collectively/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27-guide.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-18T11:01:00Z",
       "key_points": [
-        "15+ new products",
-        "Historic launches ahead",
-        "Anticipation builds"
+        "Minor speed improvements noted",
+        "Collective enhancements expected",
+        "Smoother performance across devices"
       ],
-      "impact": "Apple's innovation continues to excite consumers.",
-      "id": "f5589c88bec6ed1261ab60f269279855"
-    },
-    {
-      "title": "Android Developer Verification Launching in September",
-      "description": "Google announces the upcoming launch of Android developer verification, set for September. The new service will auto-install for developers.",
-      "category": "Software",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/06/18/android-developer-verification-progress-timeline/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/android-the-bot-figure-1_d4cf83.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-18T17:35:00Z",
-      "key_points": [
-        "Verification launching in September",
-        "Auto-install feature",
-        "Developer registration progress"
-      ],
-      "impact": "This will enhance security for Android developers.",
-      "id": "0f862cbaf48141b35d9d0e7c62525236"
-    },
-    {
-      "title": "Marathon Faces Loot Economy Issues",
-      "description": "Bungie's Marathon is struggling with an overabundance of loot, prompting a need for economic recalibration. Players voice concerns about balance.",
-      "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/marathon-players-earned-77-days-worth-of-loot-in-just-one-week-i-think-this-season-is-cooked-2000708129",
-      "image": "https://kotaku.com/app/uploads/2026/06/Vandal_Vignette_02_1920x1080-1200x675.jpg",
-      "published_at": "2026-06-18T17:01:00Z",
-      "key_points": [
-        "Loot economy issues",
-        "Bungie seeks balance",
-        "Player concerns raised"
-      ],
-      "impact": "This could affect player engagement negatively.",
-      "id": "085d68372688842ac99f432dc2092193"
-    },
-    {
-      "title": "Android 17 Update Causes Widget Issues for Pixel Users",
-      "description": "The Android 17 update has reportedly deleted homescreen widgets for some Google Pixel users, causing frustration among users.",
-      "category": "Software",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/06/18/google-pixel-android-17-update-widgets/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/gemini-widget.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-18T16:40:00Z",
-      "key_points": [
-        "Widgets deleted for some users",
-        "Frustration among Pixel owners",
-        "Android 17 update issues"
-      ],
-      "impact": "This could lead to user dissatisfaction.",
-      "id": "072327aa4139ef544d8d23d6f67624ee"
-    },
-    {
-      "title": "Steam Next Fest June 2026: Top Demos to Try",
-      "description": "Steam Next Fest showcases standout demos for gamers to explore. Discover the best new games available for download now!",
-      "category": "Gaming",
-      "source": "GameSpot",
-      "url": "https://www.gamespot.com/articles/steam-next-fest-june-2026-25-of-the-best-demos-you-can-play-right-now/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Next-Fest-main.jpg",
-      "published_at": "2026-06-18T16:29:32Z",
-      "key_points": [
-        "Top demos available",
-        "Explore new games",
-        "Steam Next Fest highlights"
-      ],
-      "impact": "Gamers have exciting new titles to try.",
-      "id": "c2ea4c9f48854510478e3fc43ce3bf54"
-    },
-    {
-      "title": "Pixel Owners Share Impressions of Android 17",
-      "description": "Pixel users are sharing their experiences with the newly released Android 17 update. Feedback highlights both positive and negative aspects.",
-      "category": "Software",
-      "source": "Droid Life",
-      "url": "https://www.droid-life.com/2026/06/18/android-17-first-impressions/",
-      "image": "https://www.droid-life.com/wp-content/uploads/2026/06/Android-17-update-release-date-1-1200x628.jpg",
-      "published_at": "2026-06-18T16:13:04Z",
-      "key_points": [
-        "User feedback on Android 17",
-        "Positive and negative impressions",
-        "Pixel community engagement"
-      ],
-      "impact": "User experiences shape future updates.",
-      "id": "678c34f49190d66775cba8ebed7197ec"
-    },
-    {
-      "title": "Leaked iPhone Ultra Renders Hint at Foldable Design",
-      "description": "Rumored iPhone Ultra may feature a foldable design and launch in September, with a price tag over $2000. Apple eyes competition with Samsung.",
-      "category": "Geopolitics",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/apple-iphone-ultra-foldable-3678973/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/iPhone-Ultra-in-two-colors.jpg",
-      "published_at": "2026-06-18T15:48:05Z",
-      "key_points": [
-        "Foldable design rumored",
-        "Launch expected in September",
-        "Price over $2000"
-      ],
-      "impact": "Apple's innovation could reshape the market.",
-      "id": "51989fee4aa434d7565af4daab58ae5e"
-    },
-    {
-      "title": "New GTA 6 Gameplay Footage Showcases Vice City",
-      "description": "Rockstar Games reveals new gameplay footage of GTA 6, highlighting stunning details of Vice City. Fans eagerly await more information.",
-      "category": "Gaming",
-      "source": "RockstarINTEL",
-      "url": "https://rockstarintel.com/new-gta-6-gameplay-footage-reveals-stunning-vice-city-details/",
-      "image": "https://rockstarintel.com/wp-content/uploads/2025/05/Jason_and_Lucia_02_landscape-scaled.jpg",
-      "published_at": "2026-06-18T15:13:41Z",
-      "key_points": [
-        "New gameplay footage released",
-        "Vice City details revealed",
-        "Fans excited for GTA 6"
-      ],
-      "impact": "Anticipation for GTA 6 continues to grow.",
-      "id": "fafa2b32fad834dae6af42f76eb1dafc"
-    },
-    {
-      "title": "Bang & Olufsen Launches Exclusive Turntable System",
-      "description": "Bang & Olufsen unveils a limited edition turntable system, with only 100 units produced. A stylish addition for audiophiles!",
-      "category": "Business",
-      "source": "What Hi-Fi? US",
-      "url": "https://www.whathifi.com/hi-fi/turntables/bang-and-olufsens-limited-edition-turntable-system-is-sleek-stylish-and-very-exclusive",
-      "image": "https://cdn.mos.cms.futurecdn.net/vmxtnKkPRNKXCVQ2kvoib4-2560-80.jpg",
-      "published_at": "2026-06-18T15:09:22Z",
-      "key_points": [
-        "Limited edition turntable",
-        "Only 100 units available",
-        "Stylish design for audiophiles"
-      ],
-      "impact": "This exclusive product targets high-end consumers.",
-      "id": "707be23cb86226c380a91d87301d3572"
+      "impact": "Users will enjoy an overall improved experience.",
+      "id": "0ce869fa5a4aa589085b5298c79391dd"
     }
   ]
 }
