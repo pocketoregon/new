@@ -1,135 +1,183 @@
 {
   "date": "2026-06-20",
-  "generated_at": "2026-06-20T14:00:11.041328+00:00",
+  "generated_at": "2026-06-20T16:16:23.457655+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Seafood Restaurant Closes After 42 Years",
-      "description": "Cock of the Walk, a beloved seafood restaurant, has served its last dish after 42 years. The closure marks the end of an era for local diners.",
-      "category": "Business",
-      "source": "The-sun.com",
-      "url": "https://www.the-sun.com/money/16538263/beloved-seafood-restaurant-serves-last-dish-closing-doors/",
-      "image": "https://www.the-sun.com/wp-content/uploads/sites/6/2026/06/newspress-collage-nhvxz8tnh-1781860871842.jpg?quality=90&strip=all&1781846486&w=1920&h=1080&crop=1",
-      "published_at": "2026-06-19T09:26:06Z",
-      "key_points": [
-        "Restaurant served final dish",
-        "42 years of service",
-        "Local favorite closes doors"
-      ],
-      "impact": "The closure leaves a significant gap in the community.",
-      "id": "25a309066a3f22b0aee8a0e3d224e171"
-    },
-    {
-      "title": "AI Makes Nintendo and Sony Products Luxury Items",
-      "description": "Rising demand and limited production are turning Nintendo and Sony products into luxury goods. Component shortages are driving up prices significantly.",
-      "category": "Business",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/c1d00925-39b9-43ac-88c7-abe13d1d3f84?syn-25a6b1a6\\u003d1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc5491c9a-0a3e-4ad0-be8a-10a4c1e7cb6e.jpg?source=next-barrier-page",
-      "published_at": "2026-06-19T04:00:25Z",
-      "key_points": [
-        "Component shortages drive prices",
-        "Luxury status for gaming consoles",
-        "High demand outstrips supply"
-      ],
-      "impact": "Consumers face higher prices for gaming products.",
-      "id": "2d84871f97222f39747fc52e401bdd1c"
-    },
-    {
-      "title": "Asus Launches New Gaming Laptop with Mini LED Display",
-      "description": "Asus has unveiled the ROG Strix Scar 18 2026, featuring a 1,600 nit Mini LED display and powerful GPU. This ultra-premium gaming laptop is now available globally.",
+      "title": "Sony’s ‘Destiny 2’ Obliteration Has Almost No Precedent In The Industry",
+      "description": "Destiny 2 is ending with no support. Sony's unprecedented move shocks fans and the gaming industry.",
       "category": "Gaming",
-      "source": "Notebookcheck.net",
-      "url": "https://www.notebookcheck.net/Asus-releases-new-gaming-laptop-globally-with-1-600-nit-Mini-LED-display-and-175-W-GPU.1324861.0.html",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/rog-strix-scar-18-2026-release-global-kv.jpg",
-      "published_at": "2026-06-19T02:38:00Z",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/06/19/sonys-destiny-2-obliteration-has-almost-no-precedent-in-the-industry/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a354ba9a1b6e046f3ea3ae8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published_at": "2026-06-19T14:08:01Z",
       "key_points": [
-        "New gaming laptop launched",
-        "1,600 nit Mini LED display",
-        "Powerful 175 W GPU"
+        "Destiny 2 support ends",
+        "Sony's move is unprecedented",
+        "Fans are shocked"
       ],
-      "impact": "Gamers gain access to cutting-edge technology.",
-      "id": "8b1c05ce48ee708faef046be7a37be2d"
+      "impact": "This decision could reshape industry support norms.",
+      "id": "85a0998ca70a37f9f9fff0fe9ee57681"
     },
     {
-      "title": "Google Health App Restores Popular Fitbit Features",
-      "description": "Google Health 5.02 reintroduces sought-after Fitbit features, enhancing user experience. The update includes over a dozen changes, particularly for Android users.",
+      "title": "Apple Explains Why watchOS 27 Drops Support for So Many Models",
+      "description": "Apple reveals five Watch models won't support watchOS 27. Users miss out on new Siri AI features.",
       "category": "Software",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/google-health-502-finally-brings-back-fitbit-features-users-have-been-asking-for/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/06/google-health-app.png?w=1600&h=900&fit=crop",
-      "published_at": "2026-06-18T21:19:45Z",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/19/apple-explains-why-watchos-27-drops-support/",
+      "image": "https://images.macrumors.com/t/aPD2ABdSDg44hQ2JHV0RsR2dhe0=/1600x/article-new/2022/09/Apple-Watch-Ultra-Orange-Alpine-Loop-Action-button-220907_big.jpg.large_.jpg",
+      "published_at": "2026-06-19T13:07:11Z",
       "key_points": [
-        "Fitbit features return",
-        "Over a dozen updates",
-        "Enhanced user experience"
+        "Five models lose support",
+        "New Siri features excluded",
+        "Apple clarifies reasons"
       ],
-      "impact": "Users benefit from improved health tracking.",
-      "id": "3d27aa3214fa205d2d887db99014e414"
+      "impact": "Users must upgrade to access new features.",
+      "id": "29e79e6b91abe0ea86362adf66bdfeda"
     },
     {
-      "title": "Street Fighter 6 Season 4 Update and Demo Announced",
-      "description": "Capcom confirms the balance update date for Street Fighter 6 Season 4, alongside a demo for Yasmine at Evo 2026. Changes aim to enhance gameplay.",
+      "title": "Kaleidescape’s high-end movie player is too legit",
+      "description": "The Strato E offers Blu-ray quality without discs, but at a premium price. It's a luxury streaming solution.",
+      "category": "Hardware",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/951718/kaleidescape-strato-e-review",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268526_Kaleidescape_JHiggins_0009.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-06-19T12:00:00Z",
+      "key_points": [
+        "Blu-ray quality streaming",
+        "Disc-free convenience",
+        "High-end price point"
+      ],
+      "impact": "This device targets luxury home cinema enthusiasts.",
+      "id": "b68d27bfb8ccb1ad79ba4905376c1e16"
+    },
+    {
+      "title": "Activision Confirms Call of Duty: Black Ops Ports to PS5/PS4 Are Not Remasters",
+      "description": "Activision clarifies that Black Ops ports for PS5/PS4 are not remasters. Fans question 120Hz support.",
       "category": "Gaming",
-      "source": "EventHubs",
-      "url": "https://www.eventhubs.com/news/2026/jun/18/street-fighter-season-4-update/",
-      "image": "https://media.eventhubs.com/images/2026/06/18-street-fighter-season-4-updatet.webp",
-      "published_at": "2026-06-18T20:26:13Z",
+      "source": "Digital Foundry",
+      "url": "https://www.digitalfoundry.net/news/2026/06/19/activision-confirms-call-of-duty-black-ops-ports-to-ps5ps4-are-not-remasters",
+      "image": "https://images.digitalfoundry.net/513d7bdd36da5/large.jpg",
+      "published_at": "2026-06-19T12:00:00Z",
       "key_points": [
-        "Season 4 balance update confirmed",
-        "Yasmine demo at Evo 2026",
-        "Gameplay enhancements expected"
+        "No remasters for Black Ops",
+        "Fans concerned about performance",
+        "Activision clarifies ports status"
       ],
-      "impact": "Players anticipate exciting new gameplay changes.",
-      "id": "f155feb7cb123210459176666febf608"
+      "impact": "This may affect player expectations for performance.",
+      "id": "1feace6d7cb401e26de67447f2a1a456"
     },
     {
-      "title": "Google Announces Android Verification Timeline",
-      "description": "Google reveals a timeline for rolling out Android developer verification, with significant changes expected in September. A new service will launch this month.",
-      "category": "Software",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
-      "published_at": "2026-06-18T19:53:33Z",
-      "key_points": [
-        "Android verification rollout confirmed",
-        "New service launching this month",
-        "Major changes in September"
-      ],
-      "impact": "Developers prepare for upcoming verification requirements.",
-      "id": "36f8cc76364f6ca709f27f4e64c968d2"
-    },
-    {
-      "title": "New Ultrablack Coating Revolutionizes Automotive Paint",
-      "description": "A groundbreaking ultrablack coating combines carbon black and nanotubes for automotive applications. This innovation offers unprecedented light absorption.",
-      "category": "Science",
-      "source": "C&EN",
-      "url": "https://cen.acs.org/materials/nanomaterials/ultrablack-carbon-automotive-coating/104/web/2026/06",
-      "image": "https://s7d1.scene7.com/is/image/CENODS/News-Blackest-black-paint---509552:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp",
-      "published_at": "2026-06-18T15:12:33Z",
-      "key_points": [
-        "New ultrablack automotive coating",
-        "Combines carbon black and nanotubes",
-        "Innovative light absorption technology"
-      ],
-      "impact": "This coating could transform automotive design.",
-      "id": "c51b24e3beac7ad75505fbcef2e519d0"
-    },
-    {
-      "title": "New Pokémon TCG Expansion Features Mega Evolution",
-      "description": "The upcoming Pokémon TCG expansion, Mega Evolution—Pitch Black, previews five new cards. The release is set for July 1, promising exciting gameplay.",
+      "title": "These 32 Pictures Will Instantly Make You Smile",
+      "description": "A collection of 32 uplifting images guaranteed to brighten your day. Perfect for a quick mood boost.",
       "category": "Gaming",
-      "source": "Pokemon.com",
-      "url": "https://www.pokemon.com/us/pokemon-news/discover-more-cards-from-the-pokemon-tcg-mega-evolution-pitch-black-expansion",
-      "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/_tiles/me/me05/preview-cards/me05-preview-cards-1-169-en.png",
-      "published_at": "2026-06-18T15:07:35Z",
+      "source": "Buzzfeed",
+      "url": "https://www.buzzfeed.com/daves4/funny-picture-collection-june-19-2026",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/19/11/thumb/LScP8yp9N.jpg?crop=2490:1660;5,0&resize=1250:830",
+      "published_at": "2026-06-19T11:47:14Z",
       "key_points": [
-        "New TCG expansion announced",
-        "Features Mega Evolution Pokémon",
-        "Release date set for July 1"
+        "32 uplifting images",
+        "Guaranteed to make you smile",
+        "Perfect for a quick mood boost"
       ],
-      "impact": "Fans eagerly await new cards and gameplay.",
-      "id": "5f210593ef1c02418f743b61e961dc35"
+      "impact": "These images provide a quick emotional lift.",
+      "id": "6ddd44303fd80841e09d5c83ef72a17c"
+    },
+    {
+      "title": "Digimon Story Time Stranger Free Update Releasing Alongside Switch Versions",
+      "description": "A free update for Digimon Story Time Stranger arrives with its Switch release next month. Exciting new content is on the way.",
+      "category": "Gaming",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/06/digimon-story-time-stranger-free-update-releasing-alongside-switch-versions",
+      "image": "https://images.nintendolife.com/5ac9a117581ec/large.jpg",
+      "published_at": "2026-06-19T02:55:00Z",
+      "key_points": [
+        "Free update announced",
+        "Switch versions launching soon",
+        "New content for all platforms"
+      ],
+      "impact": "This update enhances the gaming experience for fans.",
+      "id": "23ca83d58e686794fa2404a6b57b6163"
+    },
+    {
+      "title": "Valve is so behind on Steam Controller orders that some won’t ship until 2027",
+      "description": "Valve's Steam Controller orders are delayed, with some not shipping until 2027. Customers face long wait times.",
+      "category": "Gaming",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0027.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-06-18T20:26:47Z",
+      "key_points": [
+        "Shipping delays until 2027",
+        "Long wait for customers",
+        "Valve updates reservation estimates"
+      ],
+      "impact": "This could frustrate eager customers awaiting controllers.",
+      "id": "28a66471b766aa8e21e58906f276c93d"
+    },
+    {
+      "title": "Snap’s Specs look good on nobody",
+      "description": "Snap's new AR glasses receive mixed reviews on design. The Vergecast discusses their appeal and other tech news.",
+      "category": "Gaming",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/podcast/952126/snap-specs-ar-glasses-vergecast",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_061826_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-06-18T19:15:03Z",
+      "key_points": [
+        "Snap's AR glasses criticized",
+        "Mixed design reviews",
+        "Tech news discussed on Vergecast"
+      ],
+      "impact": "Design flaws may hinder market acceptance.",
+      "id": "f1adc4e4843f1c8eed6af6f77895ed70"
+    },
+    {
+      "title": "Are Counterfeit, Scam SD Memory Cards Really a Problem?",
+      "description": "A video claims counterfeit SD cards are widespread. Experts debate the prevalence and risks of fake memory cards.",
+      "category": "Security",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/06/18/are-counterfeit-scam-sd-memory-cards-really-a-problem/",
+      "image": "https://petapixel.com/assets/uploads/2026/06/Are-Counterfeit-Scam-SD-Memory-Cards-Really-a-Problem.jpg",
+      "published_at": "2026-06-18T16:28:47Z",
+      "key_points": [
+        "Counterfeit SD cards are common",
+        "Experts discuss risks",
+        "Awareness is crucial for users"
+      ],
+      "impact": "Consumers need to be vigilant against fakes.",
+      "id": "1368f1215832bb9d5a9fc1c733d6ae22"
+    },
+    {
+      "title": "Grand Theft Auto VI Preorders to Begin June 25",
+      "description": "Preorders for Grand Theft Auto VI will start on June 25. Fans eagerly await the next installment in the franchise.",
+      "category": "Gaming",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/media/grand-theft-auto-vi-preorders-to-begin-june-25-fbbe9cf0",
+      "image": "",
+      "published_at": "2026-06-18T14:43:00Z",
+      "key_points": [
+        "GTA VI preorders start June 25",
+        "Fans excited for new installment",
+        "Franchise continues to grow"
+      ],
+      "impact": "This could lead to record-breaking sales.",
+      "id": "141f46bd24ece8921f012b221c77ed32"
+    },
+    {
+      "title": "Union Update: It’s Blooming Cities Pack release day!",
+      "description": "The latest Cosmetic DLC for Anno is now available. Players can enhance their islands with new decorative options.",
+      "category": "Gaming",
+      "source": "Anno Union",
+      "url": "https://www.anno-union.com/union-update-its-blooming-cities-pack-release-day/",
+      "image": "https://www.anno-union.com/wp/wp-content/uploads/2026/06/ANNO_CDLC02_release_day_header.jpg",
+      "published_at": "2026-06-18T14:01:52Z",
+      "key_points": [
+        "New Cosmetic DLC released",
+        "Enhance islands with decorations",
+        "Players can enjoy fresh content"
+      ],
+      "impact": "This update enriches the gaming experience.",
+      "id": "bde08bd6eb7d919e62e3a3529966271c"
     }
   ]
 }

@@ -1,6 +1,189 @@
 {
   "batches": [
     {
+      "id": "2026-06-20T16:16:23.457655+00:00",
+      "fetched_at": "2026-06-20T16:16:23.457655+00:00",
+      "label": "Jun 20, 2026 — 04:16 PM UTC",
+      "articles": [
+        {
+          "title": "Sony’s ‘Destiny 2’ Obliteration Has Almost No Precedent In The Industry",
+          "description": "Destiny 2 is ending with no support. Sony's unprecedented move shocks fans and the gaming industry.",
+          "category": "Gaming",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/06/19/sonys-destiny-2-obliteration-has-almost-no-precedent-in-the-industry/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a354ba9a1b6e046f3ea3ae8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-19T14:08:01Z",
+          "key_points": [
+            "Destiny 2 support ends",
+            "Sony's move is unprecedented",
+            "Fans are shocked"
+          ],
+          "impact": "This decision could reshape industry support norms.",
+          "id": "85a0998ca70a37f9f9fff0fe9ee57681"
+        },
+        {
+          "title": "Apple Explains Why watchOS 27 Drops Support for So Many Models",
+          "description": "Apple reveals five Watch models won't support watchOS 27. Users miss out on new Siri AI features.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/19/apple-explains-why-watchos-27-drops-support/",
+          "image": "https://images.macrumors.com/t/aPD2ABdSDg44hQ2JHV0RsR2dhe0=/1600x/article-new/2022/09/Apple-Watch-Ultra-Orange-Alpine-Loop-Action-button-220907_big.jpg.large_.jpg",
+          "published_at": "2026-06-19T13:07:11Z",
+          "key_points": [
+            "Five models lose support",
+            "New Siri features excluded",
+            "Apple clarifies reasons"
+          ],
+          "impact": "Users must upgrade to access new features.",
+          "id": "29e79e6b91abe0ea86362adf66bdfeda"
+        },
+        {
+          "title": "Kaleidescape’s high-end movie player is too legit",
+          "description": "The Strato E offers Blu-ray quality without discs, but at a premium price. It's a luxury streaming solution.",
+          "category": "Hardware",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/951718/kaleidescape-strato-e-review",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268526_Kaleidescape_JHiggins_0009.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-19T12:00:00Z",
+          "key_points": [
+            "Blu-ray quality streaming",
+            "Disc-free convenience",
+            "High-end price point"
+          ],
+          "impact": "This device targets luxury home cinema enthusiasts.",
+          "id": "b68d27bfb8ccb1ad79ba4905376c1e16"
+        },
+        {
+          "title": "Activision Confirms Call of Duty: Black Ops Ports to PS5/PS4 Are Not Remasters",
+          "description": "Activision clarifies that Black Ops ports for PS5/PS4 are not remasters. Fans question 120Hz support.",
+          "category": "Gaming",
+          "source": "Digital Foundry",
+          "url": "https://www.digitalfoundry.net/news/2026/06/19/activision-confirms-call-of-duty-black-ops-ports-to-ps5ps4-are-not-remasters",
+          "image": "https://images.digitalfoundry.net/513d7bdd36da5/large.jpg",
+          "published_at": "2026-06-19T12:00:00Z",
+          "key_points": [
+            "No remasters for Black Ops",
+            "Fans concerned about performance",
+            "Activision clarifies ports status"
+          ],
+          "impact": "This may affect player expectations for performance.",
+          "id": "1feace6d7cb401e26de67447f2a1a456"
+        },
+        {
+          "title": "These 32 Pictures Will Instantly Make You Smile",
+          "description": "A collection of 32 uplifting images guaranteed to brighten your day. Perfect for a quick mood boost.",
+          "category": "Gaming",
+          "source": "Buzzfeed",
+          "url": "https://www.buzzfeed.com/daves4/funny-picture-collection-june-19-2026",
+          "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/19/11/thumb/LScP8yp9N.jpg?crop=2490:1660;5,0&resize=1250:830",
+          "published_at": "2026-06-19T11:47:14Z",
+          "key_points": [
+            "32 uplifting images",
+            "Guaranteed to make you smile",
+            "Perfect for a quick mood boost"
+          ],
+          "impact": "These images provide a quick emotional lift.",
+          "id": "6ddd44303fd80841e09d5c83ef72a17c"
+        },
+        {
+          "title": "Digimon Story Time Stranger Free Update Releasing Alongside Switch Versions",
+          "description": "A free update for Digimon Story Time Stranger arrives with its Switch release next month. Exciting new content is on the way.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/digimon-story-time-stranger-free-update-releasing-alongside-switch-versions",
+          "image": "https://images.nintendolife.com/5ac9a117581ec/large.jpg",
+          "published_at": "2026-06-19T02:55:00Z",
+          "key_points": [
+            "Free update announced",
+            "Switch versions launching soon",
+            "New content for all platforms"
+          ],
+          "impact": "This update enhances the gaming experience for fans.",
+          "id": "23ca83d58e686794fa2404a6b57b6163"
+        },
+        {
+          "title": "Valve is so behind on Steam Controller orders that some won’t ship until 2027",
+          "description": "Valve's Steam Controller orders are delayed, with some not shipping until 2027. Customers face long wait times.",
+          "category": "Gaming",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0027.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-18T20:26:47Z",
+          "key_points": [
+            "Shipping delays until 2027",
+            "Long wait for customers",
+            "Valve updates reservation estimates"
+          ],
+          "impact": "This could frustrate eager customers awaiting controllers.",
+          "id": "28a66471b766aa8e21e58906f276c93d"
+        },
+        {
+          "title": "Snap’s Specs look good on nobody",
+          "description": "Snap's new AR glasses receive mixed reviews on design. The Vergecast discusses their appeal and other tech news.",
+          "category": "Gaming",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/podcast/952126/snap-specs-ar-glasses-vergecast",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_061826_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-18T19:15:03Z",
+          "key_points": [
+            "Snap's AR glasses criticized",
+            "Mixed design reviews",
+            "Tech news discussed on Vergecast"
+          ],
+          "impact": "Design flaws may hinder market acceptance.",
+          "id": "f1adc4e4843f1c8eed6af6f77895ed70"
+        },
+        {
+          "title": "Are Counterfeit, Scam SD Memory Cards Really a Problem?",
+          "description": "A video claims counterfeit SD cards are widespread. Experts debate the prevalence and risks of fake memory cards.",
+          "category": "Security",
+          "source": "PetaPixel",
+          "url": "https://petapixel.com/2026/06/18/are-counterfeit-scam-sd-memory-cards-really-a-problem/",
+          "image": "https://petapixel.com/assets/uploads/2026/06/Are-Counterfeit-Scam-SD-Memory-Cards-Really-a-Problem.jpg",
+          "published_at": "2026-06-18T16:28:47Z",
+          "key_points": [
+            "Counterfeit SD cards are common",
+            "Experts discuss risks",
+            "Awareness is crucial for users"
+          ],
+          "impact": "Consumers need to be vigilant against fakes.",
+          "id": "1368f1215832bb9d5a9fc1c733d6ae22"
+        },
+        {
+          "title": "Grand Theft Auto VI Preorders to Begin June 25",
+          "description": "Preorders for Grand Theft Auto VI will start on June 25. Fans eagerly await the next installment in the franchise.",
+          "category": "Gaming",
+          "source": "The Wall Street Journal",
+          "url": "https://www.wsj.com/business/media/grand-theft-auto-vi-preorders-to-begin-june-25-fbbe9cf0",
+          "image": "",
+          "published_at": "2026-06-18T14:43:00Z",
+          "key_points": [
+            "GTA VI preorders start June 25",
+            "Fans excited for new installment",
+            "Franchise continues to grow"
+          ],
+          "impact": "This could lead to record-breaking sales.",
+          "id": "141f46bd24ece8921f012b221c77ed32"
+        },
+        {
+          "title": "Union Update: It’s Blooming Cities Pack release day!",
+          "description": "The latest Cosmetic DLC for Anno is now available. Players can enhance their islands with new decorative options.",
+          "category": "Gaming",
+          "source": "Anno Union",
+          "url": "https://www.anno-union.com/union-update-its-blooming-cities-pack-release-day/",
+          "image": "https://www.anno-union.com/wp/wp-content/uploads/2026/06/ANNO_CDLC02_release_day_header.jpg",
+          "published_at": "2026-06-18T14:01:52Z",
+          "key_points": [
+            "New Cosmetic DLC released",
+            "Enhance islands with decorations",
+            "Players can enjoy fresh content"
+          ],
+          "impact": "This update enriches the gaming experience.",
+          "id": "bde08bd6eb7d919e62e3a3529966271c"
+        }
+      ]
+    },
+    {
       "id": "2026-06-20T14:00:11.041328+00:00",
       "fetched_at": "2026-06-20T14:00:11.041328+00:00",
       "label": "Jun 20, 2026 — 02:00 PM UTC",
@@ -6824,253 +7007,6 @@
           ],
           "impact": "The portrayal has sparked significant debate.",
           "id": "b9b2a47637e009bf5b455387372d94a8"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-14T19:25:07.543220+00:00",
-      "fetched_at": "2026-06-14T19:25:07.543220+00:00",
-      "label": "Jun 14, 2026 — 07:25 PM UTC",
-      "articles": [
-        {
-          "title": "iPhone 18 Pro Launch Expected in September",
-          "description": "Apple's WWDC 2026 hints at a September release for the iPhone 18 Pro and its variants, following last year's pattern.",
-          "category": "Business",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/davidphelan/2026/06/13/apple-iphone-18-pro-release-date-september-2026/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/695d93b89d51c957214caa7d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "published_at": "2026-06-13T17:11:43Z",
-          "key_points": [
-            "September launch anticipated",
-            "WWDC hints at features",
-            "Foldable iPhone rumored"
-          ],
-          "impact": "Apple's new iPhone could boost sales significantly.",
-          "id": "6c4012ca2d5b02ee117fd943bb19c74c"
-        },
-        {
-          "title": "6 Expert Tips to Boost Your Patience",
-          "description": "Experts share six effective strategies to help you cultivate patience in today's fast-paced world.",
-          "category": "Business",
-          "source": "The Washington Post",
-          "url": "https://www.washingtonpost.com/wellness/2026/06/13/6-ways-be-more-patient-according-experts/",
-          "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/BQDCPQDTS7XSNB33EFAFOUCSEA.jpg&w=1440",
-          "published_at": "2026-06-13T16:40:42Z",
-          "key_points": [
-            "Practice mindfulness techniques",
-            "Set realistic expectations",
-            "Take deep breaths often"
-          ],
-          "impact": "Improving patience can enhance overall well-being.",
-          "id": "ec753877a394e3720ceb8dff289fdd65"
-        },
-        {
-          "title": "Super Mario Bros. Auctioned for $3 Million",
-          "description": "A rare copy of Super Mario Bros. sold for a staggering $3 million, setting a new auction record for video games.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/copy-of-super-mario-bros-sells-for-3-million-in-auction-2000706228",
-          "image": "https://kotaku.com/app/uploads/2026/06/mariogold-1200x675.jpg",
-          "published_at": "2026-06-13T15:17:51Z",
-          "key_points": [
-            "Record-breaking auction price",
-            "Rare sticker seal copy",
-            "Collector frenzy continues"
-          ],
-          "impact": "This sale highlights the growing value of retro games.",
-          "id": "2ab97375024f5ad6d17587ac9ce04b69"
-        },
-        {
-          "title": "First Impressions of Siri AI on Mac",
-          "description": "Testing Apple's new Siri AI on macOS 27 reveals improvements but also noticeable limitations compared to iPhone.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/061326_Siri_AI_MacBook_Pro_macOS_27_Golden_Gate_beta_ADiBenedetto_0003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-06-13T15:00:00Z",
-          "key_points": [
-            "Siri shows notable improvements",
-            "Limitations more apparent on Mac",
-            "User experience varies significantly"
-          ],
-          "impact": "Siri's upgrade aims to enhance user engagement.",
-          "id": "32a09a489ecbe77b5d9dbe457d92e481"
-        },
-        {
-          "title": "MacBook Pro vs. Air: Longevity Comparison",
-          "description": "Both MacBook Pro and Air have similar lifespans, influenced by user care and hardware specifications.",
-          "category": "Hardware",
-          "source": "BGR",
-          "url": "https://www.bgr.com/2190542/macbook-pro-or-air-which-apple-laptop-lasts-longer/",
-          "image": "https://www.bgr.com/img/gallery/macbook-pro-or-macbook-air-which-apple-laptop-lasts-longer/l-intro-1781020857.jpg",
-          "published_at": "2026-06-13T14:47:00Z",
-          "key_points": [
-            "Similar lifespan for both models",
-            "User care impacts longevity",
-            "Silicon choice matters"
-          ],
-          "impact": "Choosing the right model can extend usability.",
-          "id": "3c1093d0a3301aa7da93e6499443e06b"
-        },
-        {
-          "title": "Fitbit Air Beats Pixel Watch for Me",
-          "description": "Switching from Pixel Watch to Fitbit Air has simplified my life, despite some utility trade-offs.",
-          "category": "Hardware",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/06/13/the-fitbit-air-made-me-ditch-my-pixel-watch-and-i-couldnt-be-happier/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Fitbit-Air-in-Fog-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-13T14:30:00Z",
-          "key_points": [
-            "Fitbit Air offers simplicity",
-            "Less frequent charging needed",
-            "Utility trade-offs accepted"
-          ],
-          "impact": "The switch improved my daily routine significantly.",
-          "id": "601bd373d8bd6d613019c9308f805b16"
-        },
-        {
-          "title": "Living with Strangers: A Surprising Choice",
-          "description": "After college, living with strangers proved easier than expected, changing my perspective on roommate dynamics.",
-          "category": "Business",
-          "source": "Business Insider",
-          "url": "https://www.businessinsider.com/living-with-strangers-instead-of-friends-after-college-worth-it-2026-6#article",
-          "image": "https://i.insider.com/6a2716410421ca48aa59fe57?width=1200&format=jpeg",
-          "published_at": "2026-06-13T14:19:07Z",
-          "key_points": [
-            "Easier than living with friends",
-            "Strangers can be more compatible",
-            "New roommate dynamics explored"
-          ],
-          "impact": "Living with strangers can be surprisingly beneficial.",
-          "id": "a2b8dd8c8399db836371a610877d76fc"
-        },
-        {
-          "title": "Destiny 2's Ending: A Silver Lining",
-          "description": "Despite the end of Destiny 2, the game's final update has brought a surge of player engagement and excitement.",
-          "category": "Gaming",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/paultassi/2026/06/13/the-only-good-thing-about-destiny-2-ending/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a2d58e553ba9450176da20a/0x0.jpg?format=jpg&crop=2562,1440,x437,y0,safe&height=900&width=1600&fit=bounds",
-          "published_at": "2026-06-13T13:24:54Z",
-          "key_points": [
-            "Final update impresses players",
-            "High concurrent player counts",
-            "Community engagement remains strong"
-          ],
-          "impact": "The ending has revitalized player interest.",
-          "id": "05095cc2fc39fa91cb228ae38c94396b"
-        },
-        {
-          "title": "Siri's Major AI Update Launches",
-          "description": "Apple's significant Siri AI update is now live, marking a pivotal moment for the assistant's capabilities.",
-          "category": "Software",
-          "source": "CNN",
-          "url": "https://www.cnn.com/2026/06/13/tech/apple-siri-ai-update",
-          "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap25002711885098.jpg?c=16x9&q=w_800,c_fill",
-          "published_at": "2026-06-13T10:30:09Z",
-          "key_points": [
-            "Major AI upgrade announced",
-            "New features expected",
-            "User experience improvements anticipated"
-          ],
-          "impact": "This update aims to enhance Siri's competitiveness.",
-          "id": "2b27df7d0b5afd53e3c4d66751776cb3"
-        },
-        {
-          "title": "Has All Earth's Water Been Peeed Out?",
-          "description": "Exploring the intriguing question of whether all water on Earth has been recycled through living beings.",
-          "category": "Science",
-          "source": "Live Science",
-          "url": "https://www.livescience.com/planet-earth/has-all-the-water-on-earth-been-peed-before",
-          "image": "https://cdn.mos.cms.futurecdn.net/EEoEgf5ZTNwfj6W7hQo36C-1920-80.jpg",
-          "published_at": "2026-06-13T09:00:00Z",
-          "key_points": [
-            "Water recycling concept explored",
-            "Interesting ecological implications",
-            "Curiosity about Earth's water cycle"
-          ],
-          "impact": "Understanding water's journey is fascinating.",
-          "id": "889c02ffeb99f7c49f0844f588b17e10"
-        },
-        {
-          "title": "June 2026 Nintendo Direct Highlights",
-          "description": "The latest Nintendo Direct showcased exciting announcements for Switch and Switch 2, rated by fans.",
-          "category": "Gaming",
-          "source": "Nintendo Everything",
-          "url": "https://nintendoeverything.com/june-2026-nintendo-direct-rating/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Direct-June-2026-Ratings.jpg",
-          "published_at": "2026-06-13T04:02:02Z",
-          "key_points": [
-            "Packed with game announcements",
-            "First Direct since September",
-            "Fan ratings assessed"
-          ],
-          "impact": "Fans are excited for upcoming Nintendo titles.",
-          "id": "5d4fd88a814bc4cd4384f83614e52a30"
-        },
-        {
-          "title": "Property Rights: Tree Cutting Dilemma",
-          "description": "Exploring the complexities of property rights regarding tree removal and local government regulations.",
-          "category": "Policy",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/06/12/nx-s1-5856509/property-rights-zoning-laws-trees-portland-oregon",
-          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/1400/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7e%2Ff8%2F1fd6a0a44a58893e961246905497%2F0fa2980c-4427-414f-b312-8f74a89c64db.png",
-          "published_at": "2026-06-12T22:00:00Z",
-          "key_points": [
-            "Tree removal regulations discussed",
-            "Permits often required",
-            "Local laws vary significantly"
-          ],
-          "impact": "Understanding property rights is crucial for homeowners.",
-          "id": "b61fb3a02927315b443de4e824b7082a"
-        },
-        {
-          "title": "PowerA's New Controller for Flight Simulator",
-          "description": "PowerA unveils a specialized controller for Microsoft Flight Simulator 2024, compatible with Xbox.",
-          "category": "Gaming",
-          "source": "Windows Central",
-          "url": "https://www.windowscentral.com/gaming/xbox/powera-now-wants-in-on-microsoft-flight-simulator-2024-with-a-specialist-new-controller-and-itll-work-on-xbox-too",
-          "image": "https://cdn.mos.cms.futurecdn.net/kWMigJ6x6iuvggp7wABKqV-1244-80.jpg",
-          "published_at": "2026-06-12T21:34:49Z",
-          "key_points": [
-            "Specialized controller revealed",
-            "Designed for flight simulation",
-            "Compatible with Xbox consoles"
-          ],
-          "impact": "This controller enhances the flight simulation experience.",
-          "id": "6b6caf8441e872ded86471c1d448a89f"
-        },
-        {
-          "title": "Google AI Mode Introduces Search Agents",
-          "description": "Google's new AI Mode features Search agents that track information for users, enhancing search capabilities.",
-          "category": "Software",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/06/12/google-information-agents/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/google-ai-mode-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-12T21:30:00Z",
-          "key_points": [
-            "Search agents now rolling out",
-            "AI Mode enhances user experience",
-            "Background tracking capabilities introduced"
-          ],
-          "impact": "This innovation aims to streamline information retrieval.",
-          "id": "4e19c647fd614ce4c86d10d5bfd7d5fb"
-        },
-        {
-          "title": "Historic Home of Casablanca Director for Sale",
-          "description": "A 1920s home once owned by Casablanca's director is hitting the market for nearly $6 million.",
-          "category": "Business",
-          "source": "Mansion Global",
-          "url": "https://www.mansionglobal.com/articles/1920s-home-once-owned-by-the-director-of-casablancaand-later-gene-hackmanto-hit-the-market-2746a020",
-          "image": "https://images.mansionglobal.com/im-09773687/social",
-          "published_at": "2026-06-12T21:03:00Z",
-          "key_points": [
-            "Historic home listed for sale",
-            "Formerly owned by Gene Hackman",
-            "Asking price nearly $6 million"
-          ],
-          "impact": "This property attracts interest from collectors.",
-          "id": "90a9db886f9b35e134197ed5bd9801bf"
         }
       ]
     }
