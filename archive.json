@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-20T19:24:23.879799+00:00",
+      "fetched_at": "2026-06-20T19:24:23.879799+00:00",
+      "label": "Jun 20, 2026 — 07:24 PM UTC",
+      "articles": [
+        {
+          "title": "PS Plus Library Titles Leaving in July 2026",
+          "description": "Sony's PlayStation Plus is removing several titles, including Risk of Rain 2 and Tropico 6. Players have limited time to enjoy these games before they disappear.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/heres-whats-leaving-the-ps-plus-library-in-july-2026",
+          "image": "https://assets-prd.ignimgs.com/2023/10/11/pspremiumthumb-1697040053191.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-19T15:46:19Z",
+          "key_points": [
+            "Risk of Rain 2 leaving soon",
+            "Tropico 6 also departing",
+            "Limited time to play"
+          ],
+          "impact": "Players must act quickly to enjoy these games.",
+          "id": "c6bceb2f9b8d4baf5deb3a4d06103041"
+        },
+        {
+          "title": "Apple's Siri Upgrade: Consistency Across Devices",
+          "description": "Apple announces a significant Siri upgrade, ensuring the same experience across all devices. This change aims to enhance user interaction with the assistant.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/19/apple-just-said-the-thing-about-siri-that-weve-long-wanted-to-hear/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-19T15:01:00Z",
+          "key_points": [
+            "Siri experience unified",
+            "Same Siri on all devices",
+            "Major AI overhaul"
+          ],
+          "impact": "This upgrade aims to improve user satisfaction.",
+          "id": "9e81a84ea5ec899212f9b6a8a42fa7b8"
+        },
+        {
+          "title": "Atonemo's NTS Radio Player Enhances Hi-Fi Experience",
+          "description": "Atonemo and NTS Radio launch a player that integrates internet radio with streaming services for high-fidelity audio. This innovation targets audiophiles seeking quality sound.",
+          "category": "Hardware",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Atonemo_NTS_radioplayer_Product-41.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-19T14:53:53Z",
+          "key_points": [
+            "Integrates internet radio",
+            "Supports streaming services",
+            "Targets audiophiles"
+          ],
+          "impact": "This player enhances the listening experience significantly.",
+          "id": "b37a973fdc84b6ce094a24d6ccab44fa"
+        },
+        {
+          "title": "Take-Two's Ex-AI Chief Critiques Generative AI Hype",
+          "description": "The former AI head at Take-Two warns that generative AI hype could negatively impact traditional AI's future use. He advocates for a balanced view of AI technologies.",
+          "category": "Business",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/take-two-former-ai-head-generative-ai-hype-poisoning-the-well",
+          "image": "https://assetsio.gnwcdn.com/GTA-6's-Jason-aims-a-gun-with-a-bandana-scarf-covering-his-lower-face-and-yellow-rimmed-sunglasses-over-his-eyes.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-19T14:30:28Z",
+          "key_points": [
+            "Generative AI hype criticized",
+            "Traditional AI at risk",
+            "Balanced AI view needed"
+          ],
+          "impact": "Concerns raised about AI's future acceptance.",
+          "id": "cf9ecfa4c37644d886878e31d83ba7d3"
+        },
+        {
+          "title": "watchOS 27 Drops Support for Older Apple Watches",
+          "description": "Apple's watchOS 27 will no longer support five older Apple Watch models, focusing on newer devices. This decision reflects the company's shift towards updated technology.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/19/watchos-27-drops-support-for-five-apple-watch-models-heres-why/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/watchos-27-new-app-grid-home-screen.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-19T13:34:00Z",
+          "key_points": [
+            "Five models unsupported",
+            "Focus on newer devices",
+            "Shift in technology strategy"
+          ],
+          "impact": "Older devices will no longer receive updates.",
+          "id": "3b2203f7ceadaad9d4e25eb228553d78"
+        },
+        {
+          "title": "Crimson Desert's Latest Update Patch Notes Released",
+          "description": "Crimson Desert has launched a new update, introducing various enhancements and features to engage players. The update aims to revitalize interest in the game.",
+          "category": "Gaming",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/06/19/here-are-the-patch-notes-from-crimson-deserts-latest-big-update/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a35432ec31e3a1ab523190a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-19T13:26:59Z",
+          "key_points": [
+            "New features added",
+            "Engagement boost for players",
+            "Patch notes available now"
+          ],
+          "impact": "The update aims to attract returning players.",
+          "id": "83ef5509060906a10e045dd3f8fdbd20"
+        },
+        {
+          "title": "Epic Games Launcher to Undergo Major Overhaul",
+          "description": "Epic Games confirms a complete rebuild of its launcher, promising significant speed improvements. Users can expect a more efficient experience in the future.",
+          "category": "Software",
+          "source": "PC Guide",
+          "url": "https://www.pcguide.com/news/clunky-epic-games-launcher-is-getting-a-ground-up-rebuild-that-promises-to-be-at-least-5x-faster/",
+          "image": "https://www.pcguide.com/wp-content/uploads/2026/06/Epic-Games-Storefront-Redesign.jpg",
+          "published_at": "2026-06-19T13:01:40Z",
+          "key_points": [
+            "Launcher rebuild confirmed",
+            "Promised 5x speed increase",
+            "User experience improvements"
+          ],
+          "impact": "This overhaul aims to enhance user satisfaction.",
+          "id": "1a379571d4db3e2f5948d290f5141233"
+        },
+        {
+          "title": "Game Pass Needs Big Hits, Says Moon Studios Boss",
+          "description": "Moon Studios' Thomas Mahler claims Xbox Game Pass could have succeeded with more standout titles. He highlights the need for quality content to drive subscriptions.",
+          "category": "Gaming",
+          "source": "Wccftech",
+          "url": "https://wccftech.com/game-pass-couldve-worked-xbox-big-hit-needed/",
+          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/Starfield-Game-Pass-HD-1920x960.jpeg",
+          "published_at": "2026-06-19T13:00:00Z",
+          "key_points": [
+            "Game Pass potential discussed",
+            "Need for standout titles",
+            "Quality content is crucial"
+          ],
+          "impact": "Lack of hits has hindered Game Pass success.",
+          "id": "422ff164d78bc9e3a63dad4db1aac221"
+        },
+        {
+          "title": "Top 20 Video Games of 2026 So Far Revealed",
+          "description": "Despite industry challenges, 2026 has produced strong game contenders for the year. The list includes both established franchises and new IPs.",
+          "category": "Gaming",
+          "source": "Rolling Stone",
+          "url": "http://www.rollingstone.com/culture/rs-gaming-lists/best-video-games-2026-1235575544/",
+          "image": "https://www.rollingstone.com/wp-content/uploads/2026/06/VIDEO-GAMES-SO-FAR-2026.jpg?w=1600&h=900&crop=1",
+          "published_at": "2026-06-19T13:00:00Z",
+          "key_points": [
+            "Strong contenders listed",
+            "Includes new and old franchises",
+            "2026 gaming highlights"
+          ],
+          "impact": "The list showcases resilience in gaming.",
+          "id": "65a08d8c22decb1e653e7b2f71c4d53b"
+        },
+        {
+          "title": "EA Sports UFC 6: Must-Try Fighters for Realism",
+          "description": "EA Sports UFC 6 highlights key fighters to enhance gameplay experience. Players are encouraged to explore standout characters for a more authentic feel.",
+          "category": "Gaming",
+          "source": "Bloody Elbow",
+          "url": "https://bloodyelbow.com/2026/06/19/ea-sports-ufc-6-seven-fighters-you-have-to-try-out-to-get-the-full-as-real-as-it-gets-experience/",
+          "image": "https://bloodyelbow.com/wp-content/uploads/1/2026/06/Severino-Zhumagulov-3-scaled.jpg",
+          "published_at": "2026-06-19T12:00:00Z",
+          "key_points": [
+            "Key fighters highlighted",
+            "Enhances gameplay realism",
+            "Explore standout characters"
+          ],
+          "impact": "Players can enjoy a more authentic experience.",
+          "id": "9de1e077ccf83d22ffdf47b9242f971f"
+        },
+        {
+          "title": "Pragmata Update Now Available with New Features",
+          "description": "Capcom releases a new update for Pragmata, introducing exciting features and improvements. Players can now enjoy enhanced gameplay with the latest patch.",
+          "category": "Gaming",
+          "source": "Nintendo Everything",
+          "url": "https://nintendoeverything.com/pragmata-update-out-now-patch-notes/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Pragmata-update.jpg",
+          "published_at": "2026-06-19T11:01:32Z",
+          "key_points": [
+            "New update released",
+            "Exciting features added",
+            "Gameplay improvements included"
+          ],
+          "impact": "The update enhances overall player experience.",
+          "id": "89f5f883170a058c89a0e1c93b9d0e39"
+        },
+        {
+          "title": "Glaive Rush Mega Baxcalibur Community Day Announced",
+          "description": "Pokémon GO's Community Day aims to elevate several Pokémon's relevance in competitive play. This event is expected to boost their performance in PvP and PvE.",
+          "category": "Gaming",
+          "source": "Pokémon GO Hub",
+          "url": "https://pokemongohub.net/post/meta/glaive-rush-mega-baxcalibur-greatest-community-day-for-raids/",
+          "image": "https://pokemongohub.net/wp-content/uploads/2026/06/baxcalibur-pokemon-go.png",
+          "published_at": "2026-06-19T10:10:58Z",
+          "key_points": [
+            "Community Day announced",
+            "Boosts Pokémon relevance",
+            "Enhances competitive play"
+          ],
+          "impact": "This event could reshape competitive dynamics.",
+          "id": "c809959a594d9bc624342f29f4e982ca"
+        },
+        {
+          "title": "PlayStation Adjusts PC Strategy Amid Revenue Concerns",
+          "description": "PlayStation alters its first-party PC strategy due to disappointing revenue. Live-service titles will continue to be prioritized on the platform.",
+          "category": "Business",
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/report-playstation-changed-first-party-single-player-pc-strategy-due-to-lack-of-revenue",
+          "image": "https://assetsio.gnwcdn.com/last-of-us-part-1_NvQ8Ei0.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-19T09:19:54Z",
+          "key_points": [
+            "PC strategy adjusted",
+            "Focus on live-service titles",
+            "Revenue concerns addressed"
+          ],
+          "impact": "This shift reflects changing market dynamics.",
+          "id": "1700add1b35a77302dfa89ea4aade328"
+        },
+        {
+          "title": "Doom Composer Bobby Prince Passes Away at 81",
+          "description": "Bobby Prince, renowned for his iconic Doom soundtrack, has died at 81. His contributions to gaming music were recognized with preservation in the Library of Congress.",
+          "category": "Gaming",
+          "source": "Video Games Chronicle",
+          "url": "https://www.videogameschronicle.com/news/bobby-prince-the-composer-of-dooms-iconic-soundtrack-has-died-at-81/",
+          "image": "https://www.videogameschronicle.com/files/2026/06/doom-composer.jpg",
+          "published_at": "2026-06-19T09:09:34Z",
+          "key_points": [
+            "Doom soundtrack composer dies",
+            "Recognized by Library of Congress",
+            "Legacy in gaming music"
+          ],
+          "impact": "His music left a lasting impact on gaming.",
+          "id": "7d4a362886ab19fee9f05f29fc4155a2"
+        },
+        {
+          "title": "Google Fixes Pixel Widgets Issue in Android 17",
+          "description": "Android 17 users report disappearing home screen widgets, but Google is working on a fix. The issue appears limited to devices with work profiles.",
+          "category": "Software",
+          "source": "Android Central",
+          "url": "https://www.androidcentral.com/apps-software/android-os/android-17-is-making-pixel-widgets-vanish-but-google-already-has-a-fix-in-the-works",
+          "image": "https://cdn.mos.cms.futurecdn.net/57qH5Wqatu2zEmQTFDqLnD-2560-80.jpg",
+          "published_at": "2026-06-19T07:10:00Z",
+          "key_points": [
+            "Widgets disappearing issue",
+            "Google developing a fix",
+            "Limited to work profile devices"
+          ],
+          "impact": "A fix will restore widget functionality soon.",
+          "id": "8dbf7a79498785b08692ba2ef678be5a"
+        }
+      ]
+    },
+    {
       "id": "2026-06-20T16:16:23.457655+00:00",
       "fetched_at": "2026-06-20T16:16:23.457655+00:00",
       "label": "Jun 20, 2026 — 04:16 PM UTC",
@@ -6776,237 +7023,6 @@
           ],
           "impact": "AI-driven projects challenge traditional game development.",
           "id": "d1ac92fd4ace4df9ad84581c4efd62bf"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-14T22:07:45.918898+00:00",
-      "fetched_at": "2026-06-14T22:07:45.918898+00:00",
-      "label": "Jun 14, 2026 — 10:08 PM UTC",
-      "articles": [
-        {
-          "title": "Gears of War: E-Day PC Requirements Unveiled",
-          "description": "Microsoft has announced the official PC requirements for Gears of War: E-Day, launching on October 6. Gamers can prepare their systems accordingly.",
-          "category": "Gaming",
-          "source": "DSOGaming",
-          "url": "https://www.dsogaming.com/news/official-pc-requirements-for-gears-of-war-e-day-revealed/",
-          "image": "https://www.dsogaming.com/wp-content/uploads/2026/06/Gears-of-War-E-Day-feature-3.jpg",
-          "published_at": "2026-06-13T14:40:51Z",
-          "key_points": [
-            "PC specs revealed",
-            "Launch date set",
-            "Powered by Unreal Engine"
-          ],
-          "impact": "Gamers can optimize their PCs for the game.",
-          "id": "4f25e4e7497d7be3bc80db6a8015c7c9"
-        },
-        {
-          "title": "Onimusha: Way of the Sword Preview",
-          "description": "Capcom's Onimusha: Way of the Sword features a solid 30fps mode and high frame-rate options. The game revives the classic series with modern enhancements.",
-          "category": "Gaming",
-          "source": "Digitalfoundry.net",
-          "url": "https://www.digitalfoundry.net/previews/onimusha-way-of-the-sword-offers-a-rock-solid-30fps-mode-and-a-great-high-frame-rate-experience-too",
-          "image": "https://images.digitalfoundry.net/0568eeb371c54/large.jpg",
-          "published_at": "2026-06-13T14:00:00Z",
-          "key_points": [
-            "Solid 30fps mode",
-            "High frame-rate options",
-            "Revives classic series"
-          ],
-          "impact": "Fans can expect a polished gaming experience.",
-          "id": "33bc8d44fcdd3bbe849a3686a0ba787f"
-        },
-        {
-          "title": "Samsung Galaxy S26 Ultra Performance Boosts",
-          "description": "The Galaxy S26 Ultra features significant performance upgrades, enhancing speed and multitasking capabilities. Users will notice smoother operation in demanding tasks.",
-          "category": "Hardware",
-          "source": "SamMobile",
-          "url": "https://www.sammobile.com/news/5-performance-upgrades-that-make-galaxy-s26-ultra-faster/",
-          "image": "https://www.sammobile.com/wp-content/uploads/2026/05/Wuthering-Waves-Galaxy-S26-Ultra-gaming-1200x675.png",
-          "published_at": "2026-06-13T13:16:00Z",
-          "key_points": [
-            "Significant performance upgrades",
-            "Faster response times",
-            "Improved multitasking capabilities"
-          ],
-          "impact": "Users will enjoy a faster smartphone experience.",
-          "id": "f7905285036f115933dfe3146788da1c"
-        },
-        {
-          "title": "iOS 27 Enhances Apple Pay Experience",
-          "description": "iOS 27 introduces a redesigned Apple Pay checkout, simplifying card switching and displaying payment details more clearly. Users can navigate payments more efficiently.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/13/ios-27-makes-it-easier-to-switch-between-apple-pay-cards/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-pay-ios-27.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-13T13:14:00Z",
-          "key_points": [
-            "Easier card switching",
-            "New card picker",
-            "More payment details visible"
-          ],
-          "impact": "Users will find payments more convenient.",
-          "id": "dda21c12d7b12f10b8e367623dcf1cbf"
-        },
-        {
-          "title": "GentleOS: A Lightweight OS for Old PCs",
-          "description": "GentleOS is designed for older PCs, providing a simple and efficient operating system. It aims to breathe new life into outdated hardware.",
-          "category": "Software",
-          "source": "Hackaday",
-          "url": "https://hackaday.com/2026/06/13/gentleos-a-simple-os-for-your-old-pc/",
-          "image": "https://hackaday.com/wp-content/uploads/2026/06/gentleos-featured.jpg",
-          "published_at": "2026-06-13T08:00:00Z",
-          "key_points": [
-            "Lightweight OS",
-            "Revives old hardware",
-            "User-friendly interface"
-          ],
-          "impact": "Old PCs can be repurposed effectively.",
-          "id": "d9ec091654f15c346867e1ef04cf1f37"
-        },
-        {
-          "title": "Bose QuietComfort Ultra Headphones on Sale",
-          "description": "Bose QuietComfort Ultra Bluetooth Headphones (2nd Gen) are now 16% off on Amazon, featuring advanced noise cancellation and comfort. A great deal for audiophiles.",
-          "category": "Hardware",
-          "source": "Notebookcheck",
-          "url": "https://www.notebookcheck.net/Bose-QuietComfort-Ultra-Bluetooth-Headphones-2nd-Gen-drops-to-lowest-price-on-Amazon.1320921.0.html",
-          "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Bose-QuietComfort-Ultra-Bluetooth-Headphones-2nd-Gen-drops-to-lowest-price-on-Amazon.jpg",
-          "published_at": "2026-06-12T20:22:00Z",
-          "key_points": [
-            "16% discount",
-            "Advanced noise cancellation",
-            "Available in five colors"
-          ],
-          "impact": "Great savings for high-quality headphones.",
-          "id": "e23a34db9d2b4e90134f08104aac1102"
-        },
-        {
-          "title": "Best Sun Protective Clothing for Summer",
-          "description": "Experts recommend the best UPF clothing for outdoor activities this summer. Stay protected from harmful UV rays while enjoying the sun.",
-          "category": "Science",
-          "source": "CNN",
-          "url": "https://www.cnn.com/cnn-underscored/outdoors/best-sun-protection-upf-clothing",
-          "image": "https://media.cnn.com/api/v1/images/stellar/prod/kai-best-upf-clothes-cnnu-4.jpg?c=16x9&q=w_800,c_fill",
-          "published_at": "2026-06-12T20:00:00Z",
-          "key_points": [
-            "Best UPF clothing",
-            "Expert recommendations",
-            "Stay safe outdoors"
-          ],
-          "impact": "Stay protected while enjoying outdoor activities.",
-          "id": "ebd0663c06c47a31e1e0fb5aa2ba01f8"
-        },
-        {
-          "title": "Nintendo Faces Legal Setback Against Palworld",
-          "description": "Nintendo reportedly has little chance of winning its lawsuit against the makers of Palworld, concluding a two-year legal battle. The game remains unaffected.",
-          "category": "Gaming",
-          "source": "Wccftech",
-          "url": "https://wccftech.com/nintendo-losing-palworld-lawsuit/",
-          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/pokemon-palworld-HD-scaled-1-1920x1008.jpg",
-          "published_at": "2026-06-12T19:59:00Z",
-          "key_points": [
-            "Nintendo's lawsuit setback",
-            "Two-year legal battle",
-            "Palworld remains online"
-          ],
-          "impact": "Nintendo's legal efforts have failed.",
-          "id": "705b0885619915b49d48024086d59546"
-        },
-        {
-          "title": "Elden Ring Tarnished Edition Size Revealed",
-          "description": "The Elden Ring Tarnished Edition for Nintendo Switch 2 is listed at 41GB. Fans await its release with anticipation.",
-          "category": "Gaming",
-          "source": "My Nintendo News",
-          "url": "https://mynintendonews.com/2026/06/12/elden-ring-tarnished-edition-on-switch-2-listed-as-41gb/",
-          "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2026/06/elden_ring_tarnished_edition.jpeg?fit=1920%2C1080&ssl=1",
-          "published_at": "2026-06-12T18:21:16Z",
-          "key_points": [
-            "41GB file size",
-            "Switch 2 edition",
-            "Fans eagerly await release"
-          ],
-          "impact": "Anticipation builds for the game's launch.",
-          "id": "b2d06979ad3391db0fa2e565709ceee9"
-        },
-        {
-          "title": "China-Linked Hackers Exploit Linux for Years",
-          "description": "A China-linked hacking group has backdoored Linux login software, maintaining stealthy access since 2016. This poses significant security risks.",
-          "category": "Security",
-          "source": "The Hacker News",
-          "url": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxJqmKAQv_I_7JkmQwoIVSx2BkRPUEb9TTNOd2RkNqTg3tcLyZszN8KiXfUUeIBSPSoxjzMAn2inE6TL791l5B_CbQaHqG708c2tgN-kSUmz_fTuewdcrWHS8u-xdWKIr6fEhx2W7_JDszsJ1oXO9v47JxU81490QKz0ZRL2OOFoljevoD8f6OMozfMZU/s1600/linux-backdoor.jpg",
-          "published_at": "2026-06-12T18:17:00Z",
-          "key_points": [
-            "Backdoored Linux software",
-            "Stealthy access since 2016",
-            "Significant security risks"
-          ],
-          "impact": "This breach raises major security concerns.",
-          "id": "8a77ae01fe4f3132eee7710ecba05c6e"
-        },
-        {
-          "title": "Call of Duty: MW4 Early Access Details",
-          "description": "Xbox and Activision announce early access for Call of Duty: Modern Warfare 4's campaign for pre-orders, starting October 16. Gamers can get a head start.",
-          "category": "Gaming",
-          "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/news/2026/06/xbox-and-activision-reveal-campaign-early-access-details-for-call-of-duty-mw4",
-          "image": "https://images.purexbox.com/5e0a9a36a4d05/large.jpg",
-          "published_at": "2026-06-12T17:31:00Z",
-          "key_points": [
-            "Campaign early access announced",
-            "Starts October 16",
-            "Pre-order benefits"
-          ],
-          "impact": "Gamers can enjoy early gameplay access.",
-          "id": "417095346608f7c538ee7eaed0100e63"
-        },
-        {
-          "title": "Bungie's Near Closure Before Sony Acquisition",
-          "description": "A former Destiny 2 developer reveals Bungie was close to shutting down before Sony's acquisition. The merger was crucial for the studio's survival.",
-          "category": "Gaming",
-          "source": "Windows Central",
-          "url": "https://www.windowscentral.com/gaming/former-destiny-2-dev-says-if-sony-didnt-buy-bungie-the-studio-would-have-been-very-close-to-shutting-its-doors",
-          "image": "https://cdn.mos.cms.futurecdn.net/G2yDFdtEpPV4d8x8kxFJoh-1920-80.jpg",
-          "published_at": "2026-06-12T16:14:45Z",
-          "key_points": [
-            "Bungie nearly closed",
-            "Sony's acquisition saved studio",
-            "Emergency acquisition"
-          ],
-          "impact": "Bungie's future was uncertain without Sony.",
-          "id": "7de432f86ab1a4eebeb156cf3314177f"
-        },
-        {
-          "title": "Xbox CEO Warns of Rising Hardware Costs",
-          "description": "Xbox CEO warns that increasing memory and storage costs may lead to higher console prices. Ad-based Xbox Cloud Gaming could be a solution.",
-          "category": "Business",
-          "source": "Gizmodo.com",
-          "url": "https://gizmodo.com/xbox-ceo-is-preparing-gamers-for-when-hardware-is-a-luxury-2000771138",
-          "image": "https://gizmodo.com/app/uploads/2025/11/X-Box-Green-Feature-Vignette-2-1200x675.jpg",
-          "published_at": "2026-06-12T16:05:15Z",
-          "key_points": [
-            "Rising hardware costs",
-            "Ad-based gaming solution",
-            "Future console prices uncertain"
-          ],
-          "impact": "Gamers may face higher costs ahead.",
-          "id": "4e3d73893696d966df2900c408b901c6"
-        },
-        {
-          "title": "Controversial Tupac Character in Stranger Than Heaven",
-          "description": "Developers of Stranger Than Heaven clarify their portrayal of Tupac, depicting him 30 years after his death. The decision has sparked mixed reactions.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/i-hate-what-stranger-than-heaven-is-doing-with-tupac-but-at-least-theyre-being-honest-about-it-2000705998",
-          "image": "https://kotaku.com/app/uploads/2026/06/image-1-1.jpg",
-          "published_at": "2026-06-12T15:57:19Z",
-          "key_points": [
-            "Tupac's character explained",
-            "30 years after his death",
-            "Mixed reactions from fans"
-          ],
-          "impact": "The portrayal has sparked significant debate.",
-          "id": "b9b2a47637e009bf5b455387372d94a8"
         }
       ]
     }

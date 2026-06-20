@@ -5,107 +5,143 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Jun 2026 16:16:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 19:24:48 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Sony’s ‘Destiny 2’ Obliteration Has Almost No Precedent In The Industry</title>
-      <description>Destiny 2 is ending with no support. Sony's unprecedented move shocks fans and the gaming industry.</description>
-      <link>https://www.forbes.com/sites/paultassi/2026/06/19/sonys-destiny-2-obliteration-has-almost-no-precedent-in-the-industry/</link>
-      <guid isPermaLink="true">https://www.forbes.com/sites/paultassi/2026/06/19/sonys-destiny-2-obliteration-has-almost-no-precedent-in-the-industry/</guid>
-      <pubDate>2026-06-19T14:08:01Z</pubDate>
+      <title>PS Plus Library Titles Leaving in July 2026</title>
+      <description>Sony's PlayStation Plus is removing several titles, including Risk of Rain 2 and Tropico 6. Players have limited time to enjoy these games before they disappear.</description>
+      <link>https://www.ign.com/articles/heres-whats-leaving-the-ps-plus-library-in-july-2026</link>
+      <guid isPermaLink="true">https://www.ign.com/articles/heres-whats-leaving-the-ps-plus-library-in-july-2026</guid>
+      <pubDate>2026-06-19T15:46:19Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.forbes.com/sites/paultassi/2026/06/19/sonys-destiny-2-obliteration-has-almost-no-precedent-in-the-industry/">Forbes</source>
+      <source url="https://www.ign.com/articles/heres-whats-leaving-the-ps-plus-library-in-july-2026">IGN</source>
     </item>
     <item>
-      <title>Apple Explains Why watchOS 27 Drops Support for So Many Models</title>
-      <description>Apple reveals five Watch models won't support watchOS 27. Users miss out on new Siri AI features.</description>
-      <link>https://www.macrumors.com/2026/06/19/apple-explains-why-watchos-27-drops-support/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/06/19/apple-explains-why-watchos-27-drops-support/</guid>
-      <pubDate>2026-06-19T13:07:11Z</pubDate>
+      <title>Apple's Siri Upgrade: Consistency Across Devices</title>
+      <description>Apple announces a significant Siri upgrade, ensuring the same experience across all devices. This change aims to enhance user interaction with the assistant.</description>
+      <link>https://9to5mac.com/2026/06/19/apple-just-said-the-thing-about-siri-that-weve-long-wanted-to-hear/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/19/apple-just-said-the-thing-about-siri-that-weve-long-wanted-to-hear/</guid>
+      <pubDate>2026-06-19T15:01:00Z</pubDate>
       <category>Software</category>
-      <source url="https://www.macrumors.com/2026/06/19/apple-explains-why-watchos-27-drops-support/">MacRumors</source>
+      <source url="https://9to5mac.com/2026/06/19/apple-just-said-the-thing-about-siri-that-weve-long-wanted-to-hear/">9to5Mac</source>
     </item>
     <item>
-      <title>Kaleidescape’s high-end movie player is too legit</title>
-      <description>The Strato E offers Blu-ray quality without discs, but at a premium price. It's a luxury streaming solution.</description>
-      <link>https://www.theverge.com/tech/951718/kaleidescape-strato-e-review</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/951718/kaleidescape-strato-e-review</guid>
-      <pubDate>2026-06-19T12:00:00Z</pubDate>
+      <title>Atonemo's NTS Radio Player Enhances Hi-Fi Experience</title>
+      <description>Atonemo and NTS Radio launch a player that integrates internet radio with streaming services for high-fidelity audio. This innovation targets audiophiles seeking quality sound.</description>
+      <link>https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming</link>
+      <guid isPermaLink="true">https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming</guid>
+      <pubDate>2026-06-19T14:53:53Z</pubDate>
       <category>Hardware</category>
-      <source url="https://www.theverge.com/tech/951718/kaleidescape-strato-e-review">The Verge</source>
+      <source url="https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming">The Verge</source>
     </item>
     <item>
-      <title>Activision Confirms Call of Duty: Black Ops Ports to PS5/PS4 Are Not Remasters</title>
-      <description>Activision clarifies that Black Ops ports for PS5/PS4 are not remasters. Fans question 120Hz support.</description>
-      <link>https://www.digitalfoundry.net/news/2026/06/19/activision-confirms-call-of-duty-black-ops-ports-to-ps5ps4-are-not-remasters</link>
-      <guid isPermaLink="true">https://www.digitalfoundry.net/news/2026/06/19/activision-confirms-call-of-duty-black-ops-ports-to-ps5ps4-are-not-remasters</guid>
+      <title>Take-Two's Ex-AI Chief Critiques Generative AI Hype</title>
+      <description>The former AI head at Take-Two warns that generative AI hype could negatively impact traditional AI's future use. He advocates for a balanced view of AI technologies.</description>
+      <link>https://www.eurogamer.net/take-two-former-ai-head-generative-ai-hype-poisoning-the-well</link>
+      <guid isPermaLink="true">https://www.eurogamer.net/take-two-former-ai-head-generative-ai-hype-poisoning-the-well</guid>
+      <pubDate>2026-06-19T14:30:28Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.eurogamer.net/take-two-former-ai-head-generative-ai-hype-poisoning-the-well">Eurogamer</source>
+    </item>
+    <item>
+      <title>watchOS 27 Drops Support for Older Apple Watches</title>
+      <description>Apple's watchOS 27 will no longer support five older Apple Watch models, focusing on newer devices. This decision reflects the company's shift towards updated technology.</description>
+      <link>https://9to5mac.com/2026/06/19/watchos-27-drops-support-for-five-apple-watch-models-heres-why/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/19/watchos-27-drops-support-for-five-apple-watch-models-heres-why/</guid>
+      <pubDate>2026-06-19T13:34:00Z</pubDate>
+      <category>Software</category>
+      <source url="https://9to5mac.com/2026/06/19/watchos-27-drops-support-for-five-apple-watch-models-heres-why/">9to5Mac</source>
+    </item>
+    <item>
+      <title>Crimson Desert's Latest Update Patch Notes Released</title>
+      <description>Crimson Desert has launched a new update, introducing various enhancements and features to engage players. The update aims to revitalize interest in the game.</description>
+      <link>https://www.forbes.com/sites/paultassi/2026/06/19/here-are-the-patch-notes-from-crimson-deserts-latest-big-update/</link>
+      <guid isPermaLink="true">https://www.forbes.com/sites/paultassi/2026/06/19/here-are-the-patch-notes-from-crimson-deserts-latest-big-update/</guid>
+      <pubDate>2026-06-19T13:26:59Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.forbes.com/sites/paultassi/2026/06/19/here-are-the-patch-notes-from-crimson-deserts-latest-big-update/">Forbes</source>
+    </item>
+    <item>
+      <title>Epic Games Launcher to Undergo Major Overhaul</title>
+      <description>Epic Games confirms a complete rebuild of its launcher, promising significant speed improvements. Users can expect a more efficient experience in the future.</description>
+      <link>https://www.pcguide.com/news/clunky-epic-games-launcher-is-getting-a-ground-up-rebuild-that-promises-to-be-at-least-5x-faster/</link>
+      <guid isPermaLink="true">https://www.pcguide.com/news/clunky-epic-games-launcher-is-getting-a-ground-up-rebuild-that-promises-to-be-at-least-5x-faster/</guid>
+      <pubDate>2026-06-19T13:01:40Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.pcguide.com/news/clunky-epic-games-launcher-is-getting-a-ground-up-rebuild-that-promises-to-be-at-least-5x-faster/">PC Guide</source>
+    </item>
+    <item>
+      <title>Game Pass Needs Big Hits, Says Moon Studios Boss</title>
+      <description>Moon Studios' Thomas Mahler claims Xbox Game Pass could have succeeded with more standout titles. He highlights the need for quality content to drive subscriptions.</description>
+      <link>https://wccftech.com/game-pass-couldve-worked-xbox-big-hit-needed/</link>
+      <guid isPermaLink="true">https://wccftech.com/game-pass-couldve-worked-xbox-big-hit-needed/</guid>
+      <pubDate>2026-06-19T13:00:00Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://wccftech.com/game-pass-couldve-worked-xbox-big-hit-needed/">Wccftech</source>
+    </item>
+    <item>
+      <title>Top 20 Video Games of 2026 So Far Revealed</title>
+      <description>Despite industry challenges, 2026 has produced strong game contenders for the year. The list includes both established franchises and new IPs.</description>
+      <link>http://www.rollingstone.com/culture/rs-gaming-lists/best-video-games-2026-1235575544/</link>
+      <guid isPermaLink="true">http://www.rollingstone.com/culture/rs-gaming-lists/best-video-games-2026-1235575544/</guid>
+      <pubDate>2026-06-19T13:00:00Z</pubDate>
+      <category>Gaming</category>
+      <source url="http://www.rollingstone.com/culture/rs-gaming-lists/best-video-games-2026-1235575544/">Rolling Stone</source>
+    </item>
+    <item>
+      <title>EA Sports UFC 6: Must-Try Fighters for Realism</title>
+      <description>EA Sports UFC 6 highlights key fighters to enhance gameplay experience. Players are encouraged to explore standout characters for a more authentic feel.</description>
+      <link>https://bloodyelbow.com/2026/06/19/ea-sports-ufc-6-seven-fighters-you-have-to-try-out-to-get-the-full-as-real-as-it-gets-experience/</link>
+      <guid isPermaLink="true">https://bloodyelbow.com/2026/06/19/ea-sports-ufc-6-seven-fighters-you-have-to-try-out-to-get-the-full-as-real-as-it-gets-experience/</guid>
       <pubDate>2026-06-19T12:00:00Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.digitalfoundry.net/news/2026/06/19/activision-confirms-call-of-duty-black-ops-ports-to-ps5ps4-are-not-remasters">Digital Foundry</source>
+      <source url="https://bloodyelbow.com/2026/06/19/ea-sports-ufc-6-seven-fighters-you-have-to-try-out-to-get-the-full-as-real-as-it-gets-experience/">Bloody Elbow</source>
     </item>
     <item>
-      <title>These 32 Pictures Will Instantly Make You Smile</title>
-      <description>A collection of 32 uplifting images guaranteed to brighten your day. Perfect for a quick mood boost.</description>
-      <link>https://www.buzzfeed.com/daves4/funny-picture-collection-june-19-2026</link>
-      <guid isPermaLink="true">https://www.buzzfeed.com/daves4/funny-picture-collection-june-19-2026</guid>
-      <pubDate>2026-06-19T11:47:14Z</pubDate>
+      <title>Pragmata Update Now Available with New Features</title>
+      <description>Capcom releases a new update for Pragmata, introducing exciting features and improvements. Players can now enjoy enhanced gameplay with the latest patch.</description>
+      <link>https://nintendoeverything.com/pragmata-update-out-now-patch-notes/</link>
+      <guid isPermaLink="true">https://nintendoeverything.com/pragmata-update-out-now-patch-notes/</guid>
+      <pubDate>2026-06-19T11:01:32Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.buzzfeed.com/daves4/funny-picture-collection-june-19-2026">Buzzfeed</source>
+      <source url="https://nintendoeverything.com/pragmata-update-out-now-patch-notes/">Nintendo Everything</source>
     </item>
     <item>
-      <title>Digimon Story Time Stranger Free Update Releasing Alongside Switch Versions</title>
-      <description>A free update for Digimon Story Time Stranger arrives with its Switch release next month. Exciting new content is on the way.</description>
-      <link>https://www.nintendolife.com/news/2026/06/digimon-story-time-stranger-free-update-releasing-alongside-switch-versions</link>
-      <guid isPermaLink="true">https://www.nintendolife.com/news/2026/06/digimon-story-time-stranger-free-update-releasing-alongside-switch-versions</guid>
-      <pubDate>2026-06-19T02:55:00Z</pubDate>
+      <title>Glaive Rush Mega Baxcalibur Community Day Announced</title>
+      <description>Pokémon GO's Community Day aims to elevate several Pokémon's relevance in competitive play. This event is expected to boost their performance in PvP and PvE.</description>
+      <link>https://pokemongohub.net/post/meta/glaive-rush-mega-baxcalibur-greatest-community-day-for-raids/</link>
+      <guid isPermaLink="true">https://pokemongohub.net/post/meta/glaive-rush-mega-baxcalibur-greatest-community-day-for-raids/</guid>
+      <pubDate>2026-06-19T10:10:58Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.nintendolife.com/news/2026/06/digimon-story-time-stranger-free-update-releasing-alongside-switch-versions">Nintendo Life</source>
+      <source url="https://pokemongohub.net/post/meta/glaive-rush-mega-baxcalibur-greatest-community-day-for-raids/">Pokémon GO Hub</source>
     </item>
     <item>
-      <title>Valve is so behind on Steam Controller orders that some won’t ship until 2027</title>
-      <description>Valve's Steam Controller orders are delayed, with some not shipping until 2027. Customers face long wait times.</description>
-      <link>https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date</link>
-      <guid isPermaLink="true">https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date</guid>
-      <pubDate>2026-06-18T20:26:47Z</pubDate>
+      <title>PlayStation Adjusts PC Strategy Amid Revenue Concerns</title>
+      <description>PlayStation alters its first-party PC strategy due to disappointing revenue. Live-service titles will continue to be prioritized on the platform.</description>
+      <link>https://www.gamesindustry.biz/report-playstation-changed-first-party-single-player-pc-strategy-due-to-lack-of-revenue</link>
+      <guid isPermaLink="true">https://www.gamesindustry.biz/report-playstation-changed-first-party-single-player-pc-strategy-due-to-lack-of-revenue</guid>
+      <pubDate>2026-06-19T09:19:54Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.gamesindustry.biz/report-playstation-changed-first-party-single-player-pc-strategy-due-to-lack-of-revenue">GamesIndustry.biz</source>
+    </item>
+    <item>
+      <title>Doom Composer Bobby Prince Passes Away at 81</title>
+      <description>Bobby Prince, renowned for his iconic Doom soundtrack, has died at 81. His contributions to gaming music were recognized with preservation in the Library of Congress.</description>
+      <link>https://www.videogameschronicle.com/news/bobby-prince-the-composer-of-dooms-iconic-soundtrack-has-died-at-81/</link>
+      <guid isPermaLink="true">https://www.videogameschronicle.com/news/bobby-prince-the-composer-of-dooms-iconic-soundtrack-has-died-at-81/</guid>
+      <pubDate>2026-06-19T09:09:34Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date">The Verge</source>
+      <source url="https://www.videogameschronicle.com/news/bobby-prince-the-composer-of-dooms-iconic-soundtrack-has-died-at-81/">Video Games Chronicle</source>
     </item>
     <item>
-      <title>Snap’s Specs look good on nobody</title>
-      <description>Snap's new AR glasses receive mixed reviews on design. The Vergecast discusses their appeal and other tech news.</description>
-      <link>https://www.theverge.com/podcast/952126/snap-specs-ar-glasses-vergecast</link>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/952126/snap-specs-ar-glasses-vergecast</guid>
-      <pubDate>2026-06-18T19:15:03Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.theverge.com/podcast/952126/snap-specs-ar-glasses-vergecast">The Verge</source>
-    </item>
-    <item>
-      <title>Are Counterfeit, Scam SD Memory Cards Really a Problem?</title>
-      <description>A video claims counterfeit SD cards are widespread. Experts debate the prevalence and risks of fake memory cards.</description>
-      <link>https://petapixel.com/2026/06/18/are-counterfeit-scam-sd-memory-cards-really-a-problem/</link>
-      <guid isPermaLink="true">https://petapixel.com/2026/06/18/are-counterfeit-scam-sd-memory-cards-really-a-problem/</guid>
-      <pubDate>2026-06-18T16:28:47Z</pubDate>
-      <category>Security</category>
-      <source url="https://petapixel.com/2026/06/18/are-counterfeit-scam-sd-memory-cards-really-a-problem/">PetaPixel</source>
-    </item>
-    <item>
-      <title>Grand Theft Auto VI Preorders to Begin June 25</title>
-      <description>Preorders for Grand Theft Auto VI will start on June 25. Fans eagerly await the next installment in the franchise.</description>
-      <link>https://www.wsj.com/business/media/grand-theft-auto-vi-preorders-to-begin-june-25-fbbe9cf0</link>
-      <guid isPermaLink="true">https://www.wsj.com/business/media/grand-theft-auto-vi-preorders-to-begin-june-25-fbbe9cf0</guid>
-      <pubDate>2026-06-18T14:43:00Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.wsj.com/business/media/grand-theft-auto-vi-preorders-to-begin-june-25-fbbe9cf0">The Wall Street Journal</source>
-    </item>
-    <item>
-      <title>Union Update: It’s Blooming Cities Pack release day!</title>
-      <description>The latest Cosmetic DLC for Anno is now available. Players can enhance their islands with new decorative options.</description>
-      <link>https://www.anno-union.com/union-update-its-blooming-cities-pack-release-day/</link>
-      <guid isPermaLink="true">https://www.anno-union.com/union-update-its-blooming-cities-pack-release-day/</guid>
-      <pubDate>2026-06-18T14:01:52Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.anno-union.com/union-update-its-blooming-cities-pack-release-day/">Anno Union</source>
+      <title>Google Fixes Pixel Widgets Issue in Android 17</title>
+      <description>Android 17 users report disappearing home screen widgets, but Google is working on a fix. The issue appears limited to devices with work profiles.</description>
+      <link>https://www.androidcentral.com/apps-software/android-os/android-17-is-making-pixel-widgets-vanish-but-google-already-has-a-fix-in-the-works</link>
+      <guid isPermaLink="true">https://www.androidcentral.com/apps-software/android-os/android-17-is-making-pixel-widgets-vanish-but-google-already-has-a-fix-in-the-works</guid>
+      <pubDate>2026-06-19T07:10:00Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.androidcentral.com/apps-software/android-os/android-17-is-making-pixel-widgets-vanish-but-google-already-has-a-fix-in-the-works">Android Central</source>
     </item>
   </channel>
 </rss>
