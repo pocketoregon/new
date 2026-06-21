@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-21T22:13:53.278645+00:00",
+      "fetched_at": "2026-06-21T22:13:53.278645+00:00",
+      "label": "Jun 21, 2026 — 10:14 PM UTC",
+      "articles": [
+        {
+          "title": "Richard Garriott Aims to Reclaim Ultima from EA",
+          "description": "Richard Garriott plans to regain control of the Ultima RPG series he sold to EA in the 90s using legal strategies. His approach is unconventional and intriguing.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/richard-garriott-wants-to-take-ultima-back-from-ea-using-some-legal-quirks-2000708685",
+          "image": "https://kotaku.com/app/uploads/2026/06/richardgariott.jpg",
+          "published_at": "2026-06-20T20:38:06Z",
+          "key_points": [
+            "Garriott seeks legal loopholes",
+            "Wants Ultima back from EA",
+            "Plans to avoid costs"
+          ],
+          "impact": "Garriott's move could reshape gaming rights.",
+          "id": "af07d3b89b1a46037ccd32a03c7e86fa"
+        },
+        {
+          "title": "NVIDIA DLSS Now Available in NVK Vulkan Driver",
+          "description": "NVIDIA's DLSS support has been integrated into the open-source NVK Vulkan driver for Linux, enhancing gaming performance. This update is part of Mesa 26.2-devel.",
+          "category": "Software",
+          "source": "Videocardz.com",
+          "url": "https://videocardz.com/newz/nvidia-dlss-support-lands-in-open-source-nvk-vulkan-driver-for-linux",
+          "image": "https://cdn.videocardz.com/1/2026/06/NVIDIA-DLSS-LINUX-NVK-MESA-HERO.webp",
+          "published_at": "2026-06-20T20:21:37Z",
+          "key_points": [
+            "DLSS boosts Linux gaming",
+            "Integrated into NVK driver",
+            "Part of Mesa 26.2-devel"
+          ],
+          "impact": "This enhances gaming experiences on Linux.",
+          "id": "651c6d3781ae0d54d9246a4730c98ab6"
+        },
+        {
+          "title": "Ubisoft Co-Founder Claude Guillemot Dies in Crash",
+          "description": "Claude Guillemot, co-founder of Ubisoft, tragically died in a plane crash in France. An investigation is currently underway.",
+          "category": "Geopolitics",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/claude-guillemot-dies-age-69-ubisoft-assassins-creed/",
+          "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/06/20/96417935-5e50-442a-a8de-fe342f1649a9/thumbnail/1200x630/4fd99476dfce599cbd0be2db74fbaa61/gettyimages-1246763230.jpg",
+          "published_at": "2026-06-20T19:49:48Z",
+          "key_points": [
+            "Guillemot was 69 years old",
+            "Investigation ongoing",
+            "Co-founded Ubisoft"
+          ],
+          "impact": "His death is a significant loss for gaming.",
+          "id": "56e7d495009a687237a1e78ab57a4107"
+        },
+        {
+          "title": "Microsoft to End Office 2021 Support This Year",
+          "description": "Microsoft will cease support for Office 2021 later this year, prompting users to consider alternatives. Details on transition options are forthcoming.",
+          "category": "Software",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/microsoft-ending-office-2021-support",
+          "image": "https://helios-i.mashable.com/imagery/articles/07dLYgQR044mliwS7T91Dvd/hero-image.fill.size_1200x675.v1781977555.jpg",
+          "published_at": "2026-06-20T17:52:49Z",
+          "key_points": [
+            "Office 2021 support ending",
+            "Users need alternatives",
+            "Transition details coming soon"
+          ],
+          "impact": "Users must prepare for software changes.",
+          "id": "ec969da6f225e9f41b4d302ab6b66105"
+        },
+        {
+          "title": "Unfixable Security Flaw Found in Seven iPhone Models",
+          "description": "A cybersecurity firm has identified an unfixable security flaw affecting seven iPhone models, posing risks to users. Hackers could exploit this vulnerability.",
+          "category": "Security",
+          "source": "New York Post",
+          "url": "https://nypost.com/2026/06/20/tech/unfixable-security-flaw-affects-seven-iphone-models/",
+          "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/newspress-collage-qjz6mlrz2-1781976622812.jpg?quality=75&strip=all&1781962259&w=1200",
+          "published_at": "2026-06-20T17:39:00Z",
+          "key_points": [
+            "Flaw affects seven iPhone models",
+            "No fix available",
+            "Hackers can exploit vulnerability"
+          ],
+          "impact": "Users should be cautious with affected devices.",
+          "id": "c4dd0e5020cdb4045e4de9efbc00f6df"
+        },
+        {
+          "title": "Details on WOTC's Cancelled Horror Game Revealed",
+          "description": "Exclusive insights into Wizards of the Coast's cancelled horror game 'Project Sundown' and its implications for the studio's future have emerged.",
+          "category": "Gaming",
+          "source": "MP1st",
+          "url": "https://mp1st.com/news/report-details-for-project-sundown-skeleton-key-wotcs-cancelled-horror-game",
+          "image": "https://mp1st.com/wp-content/uploads/2026/06/SKstdo-600x338.png",
+          "published_at": "2026-06-20T16:23:27Z",
+          "key_points": [
+            "Project Sundown cancelled",
+            "Details revealed",
+            "Impact on studio's future"
+          ],
+          "impact": "This cancellation affects WOTC's game lineup.",
+          "id": "914211b6599c79f22336e044c72739a9"
+        },
+        {
+          "title": "Top 10 PS5 Games of 2026 So Far",
+          "description": "Discover the best PS5 games of 2026 as voted by players. The list showcases the standout titles halfway through the year.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/the-10-best-ps5-games-of-2026-so-far",
+          "image": "https://images.pushsquare.com/0a451374beff4/large.jpg",
+          "published_at": "2026-06-20T16:00:00Z",
+          "key_points": [
+            "Best PS5 games ranked",
+            "Voted by players",
+            "Mid-year highlights"
+          ],
+          "impact": "Highlights gaming trends for 2026.",
+          "id": "604c4b8b178f6e85bcc4b19f019a43d7"
+        },
+        {
+          "title": "Prime Day Tech Deals: Up to 55% Off",
+          "description": "Amazon's Prime Day offers significant discounts on tech products, including Apple and Samsung devices. Deals run from June 23 to June 26.",
+          "category": "Business",
+          "source": "Yahoo Entertainment",
+          "url": "https://tech.yahoo.com/deals/breaking-news/article/the-best-prime-day-tech-deals-are-here-shop-apple-beats-samsung-and-more-for-up-to-55-percent-off-050536810.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/4f3dab48692f56956ac69d483dd8e05eb12053046b9885e926512d3048b843f0/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Famazon-prime-tech_7267.png",
+          "published_at": "2026-06-20T12:25:00Z",
+          "key_points": [
+            "Prime Day discounts available",
+            "Up to 55% off",
+            "Deals on major brands"
+          ],
+          "impact": "Shoppers can save significantly on tech.",
+          "id": "160699b3d7950bcd40f3e558a74b43d5"
+        },
+        {
+          "title": "Xbox Founder Warns of Resurgent Industry Fears",
+          "description": "Laura Fryer, an original Xbox founder, expresses concerns about rising hardware costs and AI's impact on the gaming industry. Old anxieties resurface.",
+          "category": "Gaming",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/gaming/xbox/xbox-founder-laura-fryer-speaks-on-fears",
+          "image": "https://cdn.mos.cms.futurecdn.net/v5FEhAepUiPqfhNMSLKfzA-1920-80.jpg",
+          "published_at": "2026-06-20T10:42:03Z",
+          "key_points": [
+            "Fryer highlights industry fears",
+            "Rising hardware costs",
+            "AI's impact on gaming"
+          ],
+          "impact": "Concerns may affect future gaming strategies.",
+          "id": "0be6ade5d87fc2fc1857eec2b9e2d295"
+        },
+        {
+          "title": "Xbox Series S Aids Switch 2 Development",
+          "description": "Digital Foundry suggests that the Xbox Series S has facilitated development for the upcoming Nintendo Switch 2, easing the process for developers.",
+          "category": "Gaming",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/gaming/xbox/it-helped-xbox-series-s-helped-make-life-easier-for-switch-2-developers",
+          "image": "https://cdn.mos.cms.futurecdn.net/kXprdXgC58F28f6qcUMjUd-1920-80.png",
+          "published_at": "2026-06-20T10:31:20Z",
+          "key_points": [
+            "Xbox Series S aids developers",
+            "Facilitates Switch 2 creation",
+            "Digital Foundry analysis"
+          ],
+          "impact": "This could enhance Switch 2's performance.",
+          "id": "55c8fe85f4d7f362c543964fb7134801"
+        },
+        {
+          "title": "Commodore's New Flip Phone Appeals to Gen Z",
+          "description": "The Commodore Callback flip phone offers essential features without social media, targeting Gen Z's desire for distraction-free communication.",
+          "category": "Business",
+          "source": "BGR",
+          "url": "https://www.bgr.com/2198236/commodore-flip-phone-callback/",
+          "image": "https://www.bgr.com/img/gallery/gen-z-is-going-to-love-commodores-new-minimalist-flip-phone/l-intro-1781903673.jpg",
+          "published_at": "2026-06-20T10:17:00Z",
+          "key_points": [
+            "Minimalist design",
+            "No social media distractions",
+            "Targets Gen Z market"
+          ],
+          "impact": "This phone could redefine mobile simplicity.",
+          "id": "e75a03a625531cca6c1415ed91ffe7aa"
+        },
+        {
+          "title": "Siri AI Offers Enhanced San Francisco Tour",
+          "description": "A hands-on experience with the new Siri AI reveals its conversational abilities and helpfulness in navigating San Francisco. Users find it more engaging.",
+          "category": "Software",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+          "image": "https://media.wired.com/photos/6a33443c27f7de3a00911dff/191:100/w_1280,c_limit/Gear_TestingSiriAI-v1.jpg",
+          "published_at": "2026-06-20T10:00:00Z",
+          "key_points": [
+            "Siri AI is conversational",
+            "Helpful navigation tool",
+            "Engaging user experience"
+          ],
+          "impact": "Siri's improvements enhance user interaction.",
+          "id": "977190f7106ddb65eb0f079bd1f54d05"
+        },
+        {
+          "title": "Bentley Shocks Mat Armstrong with Service Verdict",
+          "description": "YouTuber Mat Armstrong received a surprising verdict during a service appointment for his rebuilt Bentley Continental GT, leaving him stunned.",
+          "category": "Business",
+          "source": "Supercarblondie.com",
+          "url": "https://supercarblondie.com/bentley-continental-gt-mat-armstrong-service/",
+          "image": "https://supercarblondie.com/cdn-cgi/image/width=1200,height=675,quality=80,format=webp,fit=cover/wp-content/uploads/Mat-Armstrong-Bentley-Continental-featured.webp",
+          "published_at": "2026-06-20T09:49:00Z",
+          "key_points": [
+            "Armstrong's Bentley serviced",
+            "Surprising verdict given",
+            "Luxury car maintenance issues"
+          ],
+          "impact": "This highlights challenges in luxury car care.",
+          "id": "bbd9a5357325a8c4c7778831691ad7e4"
+        },
+        {
+          "title": "Five Affordable Alternatives to Google Pixel 10 Pro",
+          "description": "Explore five budget-friendly Android phones that rival the Google Pixel 10 Pro in key features, offering solid competition without the high price.",
+          "category": "Business",
+          "source": "BGR",
+          "url": "https://www.bgr.com/2194441/google-pixel-10-pro-cheaper-android-phones-alternatives/",
+          "image": "https://www.bgr.com/img/gallery/5-cheaper-android-phones-you-should-try-instead-of-the-google-pixel-10-pro/l-intro-1781542798.jpg",
+          "published_at": "2026-06-20T09:47:00Z",
+          "key_points": [
+            "Affordable Android alternatives",
+            "Compete with Pixel 10 Pro",
+            "Solid features offered"
+          ],
+          "impact": "Consumers gain more budget-friendly options.",
+          "id": "dfdc6b4cac9aede1856adbfa742ec828"
+        },
+        {
+          "title": "Lifetime Access to AI Tools for Just $55",
+          "description": "Get lifetime access to Claude, Gemini, and Gemini AI tools for an unprecedented low price of $55. This offer is a significant deal for users.",
+          "category": "Software",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/june-20-chatplayground-ai-unlimited-plan-lifetime-subscriptions",
+          "image": "https://helios-i.mashable.com/imagery/articles/03mgPIvyvB9dcMjBy0Ra24T/hero-image.fill.size_1200x675.v1781605886.jpg",
+          "published_at": "2026-06-20T09:00:00Z",
+          "key_points": [
+            "Lifetime access for $55",
+            "Includes multiple AI tools",
+            "Unprecedented low price"
+          ],
+          "impact": "This deal makes AI tools more accessible.",
+          "id": "447859b3c2f4d93dcfe59d14cab85caf"
+        }
+      ]
+    },
+    {
       "id": "2026-06-21T19:27:57.400237+00:00",
       "fetched_at": "2026-06-21T19:27:57.400237+00:00",
       "label": "Jun 21, 2026 — 07:28 PM UTC",
@@ -6600,253 +6847,6 @@
           ],
           "impact": "This could attract more customers to Xbox.",
           "id": "6110167f074be94c460dfbdf8b02d958"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-16T16:49:40.430343+00:00",
-      "fetched_at": "2026-06-16T16:49:40.430343+00:00",
-      "label": "Jun 16, 2026 — 04:50 PM UTC",
-      "articles": [
-        {
-          "title": "Microsoft 365 Copilot Vulnerability Enables Data Theft",
-          "description": "A new vulnerability in Microsoft 365 Copilot allows attackers to steal sensitive data via a crafted URL. This poses significant risks for enterprise users.",
-          "category": "Security",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/",
-          "image": "https://www.bleepstatic.com/content/hl-images/2026/06/15/Copilot.jpg",
-          "published_at": "2026-06-15T15:51:42Z",
-          "key_points": [
-            "Vulnerability named SearchLeak",
-            "Targets mailbox and OneDrive",
-            "Exploitable via crafted URL"
-          ],
-          "impact": "Enterprises must urgently address this vulnerability.",
-          "id": "203a335c132fdae377795a9a19877522"
-        },
-        {
-          "title": "Record Sale for Pristine Super Mario Bros. Cartridge",
-          "description": "A pristine copy of Super Mario Bros. has sold for millions, breaking sales records due to its rarity and condition. Collectors are eager for such finds.",
-          "category": "Gaming",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/super-mario-bros-nes-record-2026-sale-why-rare-price-psa-grade/",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/mario-artwork-from-the-original-super-mario-bros-nes-box-art.jpg?w=1600&h=900&fit=crop",
-          "published_at": "2026-06-15T15:36:12Z",
-          "key_points": [
-            "Pristine condition drives price",
-            "Record-breaking sale",
-            "Rare collectible market thrives"
-          ],
-          "impact": "This sale highlights the value of collectibles.",
-          "id": "2b32b73b9dc8f6dc8bc3e3ffe57c5c5e"
-        },
-        {
-          "title": "Final Fantasy 7 Revelation Revives Airship Gameplay",
-          "description": "Final Fantasy 7 Revelation reintroduces the iconic Highwind airship, allowing players to pilot it once again. Fans are excited for this nostalgic feature.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/final-fantasy-7-revelation-is-bringing-back-the-airship-dream",
-          "image": "https://assets-prd.ignimgs.com/2026/06/15/ff7-airship-blogroll-1781517922269.jpg?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-15T15:30:00Z",
-          "key_points": [
-            "Highwind airship returns",
-            "Nostalgic gameplay feature",
-            "Fans eagerly anticipate release"
-          ],
-          "impact": "Players can relive classic airship adventures.",
-          "id": "248a5f131ee8c2629a16c1ab43f4bb3f"
-        },
-        {
-          "title": "Nintendo Direct Breaks Viewership Records",
-          "description": "Nintendo's latest Direct was the most-watched showcase of 2026, peaking at 3.7 million viewers. The Zelda: Ocarina of Time remake trailer led the views.",
-          "category": "Gaming",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/nintendo-direct-june-2026-zelda-ocarina-of-time",
-          "image": "https://assetsio.gnwcdn.com/Link-sleeps-in-the-teaser-of-Zelda-Ocarina-of-Time's-Switch-2-remake.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-15T15:23:57Z",
-          "key_points": [
-            "Most-watched Summer Game Fest",
-            "3.7 million peak viewers",
-            "Zelda remake trailer tops views"
-          ],
-          "impact": "Nintendo continues to captivate gaming audiences.",
-          "id": "d679e472c142551b9a5fdee188d2a45e"
-        },
-        {
-          "title": "New Crossword Puzzle Released by Defector",
-          "description": "Defector's latest crossword puzzle, crafted by Patrick Maher, is now available. It promises to challenge and entertain puzzle enthusiasts.",
-          "category": "Gaming",
-          "source": "Defector.com",
-          "url": "https://defector.com/the-crossword-june-15-i-need-some-space",
-          "image": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/06/GettyImages-2271101627.jpg",
-          "published_at": "2026-06-15T15:03:00Z",
-          "key_points": [
-            "New crossword puzzle released",
-            "Constructed by Patrick Maher",
-            "Engaging challenge for enthusiasts"
-          ],
-          "impact": "Puzzles provide a fun mental challenge.",
-          "id": "c36603c08d590da81f7454d09879ed12"
-        },
-        {
-          "title": "Apple and Tesla Collaborate on CarPlay Integration",
-          "description": "Apple and Tesla are reportedly enhancing CarPlay support for Tesla vehicles. This collaboration could improve user experience in electric cars.",
-          "category": "Business",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/15/this-carplay-change-may-be-the-missing-link-for-tesla-support/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/tesla-carplay-mockup-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-15T14:47:00Z",
-          "key_points": [
-            "Apple and Tesla partnership",
-            "Enhancing CarPlay support",
-            "Improved user experience expected"
-          ],
-          "impact": "This could revolutionize in-car technology.",
-          "id": "f81312d2eab03063b03b0d3fc411397b"
-        },
-        {
-          "title": "Google Chrome Update Ends Popular Ad Blockers",
-          "description": "Google Chrome's upcoming update will eliminate many popular ad blockers due to changes in extension policies. Users may face increased ads.",
-          "category": "Software",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/05/chrome-logo-sign-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-15T14:45:00Z",
-          "key_points": [
-            "Chrome update impacts ad blockers",
-            "Manifest V3 changes",
-            "Users may see more ads"
-          ],
-          "impact": "Users will face a less ad-free browsing experience.",
-          "id": "c7c9018580a4124939c4707e04bfb92b"
-        },
-        {
-          "title": "Discount on Popular Qi2 Power Bank for Readers",
-          "description": "The Baseus AM52 Qi2.2 power bank is now available at a discounted price of $42.99 for Verge readers. It's compatible with MagSafe devices.",
-          "category": "Business",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/gadgets/949766/baseus-am52-usbc-power-bank-magsafe-deal-sale",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268545_Best_MagSafe_battery_CFaulkner_0011.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-06-15T14:39:24Z",
-          "key_points": [
-            "Baseus AM52 discounted",
-            "Compatible with MagSafe",
-            "Limited-time offer for readers"
-          ],
-          "impact": "Great savings on a popular power bank.",
-          "id": "56ba4ae7b2862aad5efb604038067fdb"
-        },
-        {
-          "title": "EA Launches New Advertising Platform",
-          "description": "Electronic Arts has introduced EA Advertising, allowing brands to advertise directly within gameplay. This innovation aims to enhance brand engagement.",
-          "category": "Business",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/15/electronic-arts-launches-a-new-way-to-advertise-directly-into-gameplay.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108206035-17592647502025-09-30t203737z_2031180478_rc2k2habsg4n_rtrmadp_0_electronic-arts-m-a.jpeg?v=1759264896&w=1920&h=1080",
-          "published_at": "2026-06-15T14:32:12Z",
-          "key_points": [
-            "EA Advertising launched",
-            "Brands can advertise in-game",
-            "Enhances brand engagement"
-          ],
-          "impact": "This could transform in-game advertising.",
-          "id": "a51a5576ca5210de9914fb4425f10579"
-        },
-        {
-          "title": "Nintendo Deletes Hidden Info on Zelda Remake",
-          "description": "Nintendo has removed hidden information about the Zelda: Ocarina of Time remake from its site, leaving fans speculating about the game.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/hidden-info-zelda-ocarina-of-time-remake-nintendo-deleted-store-html-info-switch-2-2000706626",
-          "image": "https://kotaku.com/app/uploads/2026/06/The-Legend-of-Zelda-Ocarina-of-Time-3D-64-1362715422-1200x675.jpg",
-          "published_at": "2026-06-15T14:28:47Z",
-          "key_points": [
-            "Nintendo deletes hidden info",
-            "Fans left speculating",
-            "Ocarina of Time remake anticipated"
-          ],
-          "impact": "Fans are eager for more details.",
-          "id": "8f1bb7c6ea4535f29a08cc689e15da71"
-        },
-        {
-          "title": "Uncertainty Surrounds Trump Mobile's T1 Phone",
-          "description": "A year after its announcement, the Trump Mobile T1 Phone's production status remains unclear, leaving potential buyers in doubt.",
-          "category": "Policy",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/policy/949093/trump-mobile-t1-phone-one-year-anniversary",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268568_Trump_phone_1_year_AKRALES3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-06-15T14:15:00Z",
-          "key_points": [
-            "T1 Phone production unclear",
-            "Buyers still waiting",
-            "One year since announcement"
-          ],
-          "impact": "Uncertainty raises concerns among potential buyers.",
-          "id": "039d6b053ad014f5cd048f294fbf1a59"
-        },
-        {
-          "title": "Craig Duncan Steps Down as Xbox Game Studios Head",
-          "description": "Craig Duncan has resigned from his position as head of Xbox Game Studios after 18 months. His departure raises questions about future leadership.",
-          "category": "Business",
-          "source": "Thegamebusiness.com",
-          "url": "https://www.thegamebusiness.com/p/xbox-game-studios-boss-craig-duncan",
-          "image": "https://substackcdn.com/image/fetch/$s_!8dLq!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2be2480-1836-4ce0-8cd0-903c3991f2cb_856x484.png",
-          "published_at": "2026-06-15T14:08:42Z",
-          "key_points": [
-            "Craig Duncan resigns",
-            "Leadership transition at Xbox",
-            "Future direction uncertain"
-          ],
-          "impact": "Leadership changes may impact Xbox's strategy.",
-          "id": "1ba4693c6f20b2371adc974291dd8e21"
-        },
-        {
-          "title": "SN Operator Review: Backup Solution for SNES Games",
-          "description": "The Epilogue SN Operator is a device for backing up SNES games and saves, offering collectors a reliable preservation method. It's priced at $60.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/epilogue-sn-operator-review",
-          "image": "https://assets-prd.ignimgs.com/2026/06/12/snoperator-1-1781306560953.jpg?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-15T14:00:00Z",
-          "key_points": [
-            "Backup solution for SNES",
-            "Priced at $60",
-            "Preserves physical game library"
-          ],
-          "impact": "Collectors can safeguard their game memories.",
-          "id": "a9303c37dc51ef13e7cef41b9d0ff5ae"
-        },
-        {
-          "title": "iPhone 18 Pro Rumored Camera Upgrades",
-          "description": "Rumors suggest the iPhone 18 Pro will feature significant camera upgrades, enhancing photography capabilities. Three main features are anticipated.",
-          "category": "Hardware",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/15/iphone-18-pro-three-new-camera-upgrades-are-coming/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-blue-camera-array.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-15T13:52:00Z",
-          "key_points": [
-            "iPhone 18 Pro camera upgrades",
-            "Three main features rumored",
-            "Enhances photography capabilities"
-          ],
-          "impact": "Anticipated upgrades excite photography enthusiasts.",
-          "id": "ff002de2597aa0379d3a7c3b08e17afd"
-        },
-        {
-          "title": "iPhone 18 Pro Casing Similar to Predecessor",
-          "description": "The iPhone 18 Pro is expected to use the same aluminum alloy casing as its predecessor, maintaining a mix of pros and cons from previous models.",
-          "category": "Hardware",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/15/iphone-18-pro-casing-likely-to-experience-same-pros-cons-as-its-predecessor/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-18-pro-colors.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-15T13:48:00Z",
-          "key_points": [
-            "iPhone 18 Pro casing details",
-            "Same alloy as predecessor",
-            "Pros and cons remain"
-          ],
-          "impact": "Design continuity may affect user experience.",
-          "id": "adc3eac0db0c6cb38dbcc9a198a86216"
         }
       ]
     }

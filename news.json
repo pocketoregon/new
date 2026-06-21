@@ -1,247 +1,247 @@
 {
   "date": "2026-06-21",
-  "generated_at": "2026-06-21T19:27:57.400237+00:00",
+  "generated_at": "2026-06-21T22:13:53.278645+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Apple’s Prime Day Deals: MacBooks, iPads, AirPods",
-      "description": "Apple's Prime Day sale features discounts on popular products like MacBooks and AirPods. Don't miss out on these limited-time offers.",
-      "category": "Business",
-      "source": "CNET",
-      "url": "https://www.cnet.com/deals/best-prime-day-apple-deals-2026-06-20/",
-      "image": "https://www.cnet.com/a/img/resize/aa4526b6148f63969eee249810edf5256787edfd/hub/2026/06/09/d3ece905-03a5-492e-a6bb-c7590f32b299/apple-devices-on-a-purple-background.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "published_at": "2026-06-20T18:36:06Z",
-      "key_points": [
-        "Prime Day discounts available now",
-        "Deals on MacBooks and iPads",
-        "Limited-time offers on AirPods"
-      ],
-      "impact": "Apple's sales boost could enhance market share.",
-      "id": "1572f28de7f432f3edefdec18d766ad1"
-    },
-    {
-      "title": "Galaxy Watch 9 and Ultra 2 Leaks Ahead of Launch",
-      "description": "New leaks reveal features of the Galaxy Watch 9 and Ultra 2 ahead of Samsung's July event. Expect significant updates and changes.",
-      "category": "Hardware",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/06/20/samsung-galaxy-watch-9-changes-leak/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-watch-ultra-2025-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-20T16:40:00Z",
-      "key_points": [
-        "Galaxy Watch 9 features leaked",
-        "Ultra 2 updates revealed",
-        "No Classic model this time"
-      ],
-      "impact": "Samsung aims to enhance smartwatch appeal.",
-      "id": "acd6908089b9e7075704c57a6bb44509"
-    },
-    {
-      "title": "Ubisoft Founder Killed in Plane Crash",
-      "description": "Claude Guillemot, a founder of Ubisoft, died in a plane crash in western France. The gaming community mourns his loss.",
-      "category": "Geopolitics",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/founder-assassins-creed-maker-ubisoft-killed-plane-crash-134056376",
-      "image": "https://i.abcnewsfe.com/a/39daa459-f024-4790-a846-fcf282e8d4c2/claude-guillemot-gty-jt-2505_1781975455681_hpMain_16x9.jpg?w=1600",
-      "published_at": "2026-06-20T16:12:07Z",
-      "key_points": [
-        "Ubisoft founder dies tragically",
-        "Plane crash in western France",
-        "Gaming industry mourns loss"
-      ],
-      "impact": "His death impacts the gaming community deeply.",
-      "id": "1accf9969b9640c8d944db51ea89da4f"
-    },
-    {
-      "title": "Xbox Players Face Challenges to Play Halo Together",
-      "description": "PlayStation and Xbox players encounter hurdles to play Halo: Campaign Evolved together. Cross-platform play remains complicated.",
-      "category": "Gaming",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/06/20/xbox-forces-ps5-players-to-jump-through-hoops-to-play-halo-campaign-evolved/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a36b07341067dc362d55a8e/0x0.jpg?format=jpg&crop=904,508,x152,y101,safe&height=900&width=1600&fit=bounds",
-      "published_at": "2026-06-20T15:26:29Z",
-      "key_points": [
-        "Cross-play challenges persist",
-        "Players face complicated access",
-        "Halo: Campaign Evolved hurdles"
-      ],
-      "impact": "Cross-platform play remains a significant issue.",
-      "id": "85a21b03957af542e5c818e5d51e9e89"
-    },
-    {
-      "title": "Key Features of iOS 27 You Should Know",
-      "description": "iOS 27 introduces several noteworthy features, enhancing user experience despite not being flashy. Key upgrades are worth exploring.",
-      "category": "Software",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/image-2026-04-08T195520.664.jpg",
-      "published_at": "2026-06-20T15:00:00Z",
-      "key_points": [
-        "New features enhance user experience",
-        "Focus on everyday app upgrades",
-        "Notable Siri AI improvements"
-      ],
-      "impact": "iOS 27 aims to improve overall usability.",
-      "id": "b3c99415eb5d21bd4b1a3a9abfafe7c9"
-    },
-    {
-      "title": "Apple Launches Five New Apps",
-      "description": "Apple unveiled five new apps last week, enhancing its software ecosystem. Four were announced at WWDC 2026, with one in beta.",
-      "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/20/apple-unveiled-these-five-new-apps/",
-      "image": "https://images.macrumors.com/t/hkHwk6kjRla1UrqMchHTC84DoFY=/2500x/article-new/2023/10/Apple-Logo-Spotlight-Blue.jpg",
-      "published_at": "2026-06-20T15:00:00Z",
-      "key_points": [
-        "Five new apps launched",
-        "Four revealed at WWDC",
-        "One in beta for developers"
-      ],
-      "impact": "New apps expand Apple's software offerings.",
-      "id": "f60f838f1dc8a72fe9fbb0793dca8fd4"
-    },
-    {
-      "title": "Linux Kernel Drops strncpy API After Six Years",
-      "description": "Linux 7.2 has officially removed the deprecated strncpy API after extensive work. This marks a significant update for developers.",
-      "category": "Software",
-      "source": "Phoronix",
-      "url": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
-      "image": "https://www.phoronix.net/image.php?id=2026&image=strncpy",
-      "published_at": "2026-06-20T14:22:00Z",
-      "key_points": [
-        "strncpy API removed",
-        "Significant kernel update",
-        "Six years of development effort"
-      ],
-      "impact": "Linux kernel modernization continues with this change.",
-      "id": "c722b3ccf6524402cd1bc849664cc187"
-    },
-    {
-      "title": "Three Apple Stores Permanently Closing Today",
-      "description": "Apple is closing three retail stores in the U.S. today, including a unionized location. This follows previous announcements.",
-      "category": "Business",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/20/three-apple-stores-closing-today/",
-      "image": "https://images.macrumors.com/t/fIP-NHOTBAREpNB9d4R4X7qgf-c=/2500x/article-new/2026/01/Apple-Store-App-Liquid-Glass-Feature.jpg",
-      "published_at": "2026-06-20T14:14:49Z",
-      "key_points": [
-        "Three stores closing today",
-        "Includes unionized location",
-        "Part of retail strategy shift"
-      ],
-      "impact": "Apple's retail strategy undergoes significant changes.",
-      "id": "570a27db218c52979cf6d25df71111e1"
-    },
-    {
-      "title": "Steam Next Fest Features Unique Cannon Game",
-      "description": "A standout demo from Steam Next Fest involves loading a cannon, showcasing creativity despite an overall disappointing event.",
+      "title": "Richard Garriott Aims to Reclaim Ultima from EA",
+      "description": "Richard Garriott plans to regain control of the Ultima RPG series he sold to EA in the 90s using legal strategies. His approach is unconventional and intriguing.",
       "category": "Gaming",
       "source": "Kotaku",
-      "url": "https://kotaku.com/iron-nest-is-a-game-in-which-you-spend-30-minutes-loading-a-big-cannon-and-somehow-its-awesome-2000708523",
-      "image": "https://kotaku.com/app/uploads/2026/06/Iron-Nest-Heavy-Turret-Simulator-official-artwork-from-Steam-store-page-Nick-Nieuwoudt-and-Dominik-Latos-1200x675.jpg",
-      "published_at": "2026-06-20T14:00:52Z",
+      "url": "https://kotaku.com/richard-garriott-wants-to-take-ultima-back-from-ea-using-some-legal-quirks-2000708685",
+      "image": "https://kotaku.com/app/uploads/2026/06/richardgariott.jpg",
+      "published_at": "2026-06-20T20:38:06Z",
       "key_points": [
-        "Unique cannon-loading game",
-        "Best demo of Next Fest",
-        "Event overall disappointing"
+        "Garriott seeks legal loopholes",
+        "Wants Ultima back from EA",
+        "Plans to avoid costs"
       ],
-      "impact": "Creative demos can shine amid mediocrity.",
-      "id": "a9ffae8dff08216f064a6a245d0b89df"
+      "impact": "Garriott's move could reshape gaming rights.",
+      "id": "af07d3b89b1a46037ccd32a03c7e86fa"
     },
     {
-      "title": "Only Four Useful Android Auto Apps for Road Trips",
-      "description": "After testing ten Android Auto apps, only four proved genuinely useful for road trips. Many apps cluttered the interface.",
+      "title": "NVIDIA DLSS Now Available in NVK Vulkan Driver",
+      "description": "NVIDIA's DLSS support has been integrated into the open-source NVK Vulkan driver for Linux, enhancing gaming performance. This update is part of Mesa 26.2-devel.",
       "category": "Software",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/installed-ten-android-auto-apps-for-long-road-trip-but-only-four-were-useful/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/09/blue-suv-driving-on-a-coastal-road-with-a-large-android-auto-logo-overlayed-on-the-image.png?w=1600&h=900&fit=crop",
-      "published_at": "2026-06-20T13:30:10Z",
+      "source": "Videocardz.com",
+      "url": "https://videocardz.com/newz/nvidia-dlss-support-lands-in-open-source-nvk-vulkan-driver-for-linux",
+      "image": "https://cdn.videocardz.com/1/2026/06/NVIDIA-DLSS-LINUX-NVK-MESA-HERO.webp",
+      "published_at": "2026-06-20T20:21:37Z",
       "key_points": [
-        "Only four apps were useful",
-        "Ten apps tested overall",
-        "Cluttered interface issue"
+        "DLSS boosts Linux gaming",
+        "Integrated into NVK driver",
+        "Part of Mesa 26.2-devel"
       ],
-      "impact": "Streamlining apps enhances driving experience.",
-      "id": "d694dc8c74e7ba2162fadec6882c198a"
+      "impact": "This enhances gaming experiences on Linux.",
+      "id": "651c6d3781ae0d54d9246a4730c98ab6"
     },
     {
-      "title": "Sony Plans to Boost PS Plus Profits",
-      "description": "Sony aims to improve PS Plus profitability by enhancing its service offerings. The gaming division achieved record profits last fiscal year.",
-      "category": "Business",
+      "title": "Ubisoft Co-Founder Claude Guillemot Dies in Crash",
+      "description": "Claude Guillemot, co-founder of Ubisoft, tragically died in a plane crash in France. An investigation is currently underway.",
+      "category": "Geopolitics",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/claude-guillemot-dies-age-69-ubisoft-assassins-creed/",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/06/20/96417935-5e50-442a-a8de-fe342f1649a9/thumbnail/1200x630/4fd99476dfce599cbd0be2db74fbaa61/gettyimages-1246763230.jpg",
+      "published_at": "2026-06-20T19:49:48Z",
+      "key_points": [
+        "Guillemot was 69 years old",
+        "Investigation ongoing",
+        "Co-founded Ubisoft"
+      ],
+      "impact": "His death is a significant loss for gaming.",
+      "id": "56e7d495009a687237a1e78ab57a4107"
+    },
+    {
+      "title": "Microsoft to End Office 2021 Support This Year",
+      "description": "Microsoft will cease support for Office 2021 later this year, prompting users to consider alternatives. Details on transition options are forthcoming.",
+      "category": "Software",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/microsoft-ending-office-2021-support",
+      "image": "https://helios-i.mashable.com/imagery/articles/07dLYgQR044mliwS7T91Dvd/hero-image.fill.size_1200x675.v1781977555.jpg",
+      "published_at": "2026-06-20T17:52:49Z",
+      "key_points": [
+        "Office 2021 support ending",
+        "Users need alternatives",
+        "Transition details coming soon"
+      ],
+      "impact": "Users must prepare for software changes.",
+      "id": "ec969da6f225e9f41b4d302ab6b66105"
+    },
+    {
+      "title": "Unfixable Security Flaw Found in Seven iPhone Models",
+      "description": "A cybersecurity firm has identified an unfixable security flaw affecting seven iPhone models, posing risks to users. Hackers could exploit this vulnerability.",
+      "category": "Security",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/20/tech/unfixable-security-flaw-affects-seven-iphone-models/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/newspress-collage-qjz6mlrz2-1781976622812.jpg?quality=75&strip=all&1781962259&w=1200",
+      "published_at": "2026-06-20T17:39:00Z",
+      "key_points": [
+        "Flaw affects seven iPhone models",
+        "No fix available",
+        "Hackers can exploit vulnerability"
+      ],
+      "impact": "Users should be cautious with affected devices.",
+      "id": "c4dd0e5020cdb4045e4de9efbc00f6df"
+    },
+    {
+      "title": "Details on WOTC's Cancelled Horror Game Revealed",
+      "description": "Exclusive insights into Wizards of the Coast's cancelled horror game 'Project Sundown' and its implications for the studio's future have emerged.",
+      "category": "Gaming",
+      "source": "MP1st",
+      "url": "https://mp1st.com/news/report-details-for-project-sundown-skeleton-key-wotcs-cancelled-horror-game",
+      "image": "https://mp1st.com/wp-content/uploads/2026/06/SKstdo-600x338.png",
+      "published_at": "2026-06-20T16:23:27Z",
+      "key_points": [
+        "Project Sundown cancelled",
+        "Details revealed",
+        "Impact on studio's future"
+      ],
+      "impact": "This cancellation affects WOTC's game lineup.",
+      "id": "914211b6599c79f22336e044c72739a9"
+    },
+    {
+      "title": "Top 10 PS5 Games of 2026 So Far",
+      "description": "Discover the best PS5 games of 2026 as voted by players. The list showcases the standout titles halfway through the year.",
+      "category": "Gaming",
       "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/06/sony-aims-to-drive-ps-plus-profits-by-improving-service-proposition",
-      "image": "https://images.pushsquare.com/78ae4fdeab038/large.jpg",
-      "published_at": "2026-06-20T13:30:00Z",
+      "url": "https://www.pushsquare.com/features/the-10-best-ps5-games-of-2026-so-far",
+      "image": "https://images.pushsquare.com/0a451374beff4/large.jpg",
+      "published_at": "2026-06-20T16:00:00Z",
       "key_points": [
-        "Sony targets PS Plus profitability",
-        "Record profits last fiscal year",
-        "Service improvements planned"
+        "Best PS5 games ranked",
+        "Voted by players",
+        "Mid-year highlights"
       ],
-      "impact": "Sony seeks to strengthen its gaming revenue.",
-      "id": "e6e594dc273da6cb89123def3ebd865c"
+      "impact": "Highlights gaming trends for 2026.",
+      "id": "604c4b8b178f6e85bcc4b19f019a43d7"
     },
     {
-      "title": "Doom Composer Bobby Prince Passes Away at 81",
-      "description": "Bobby Prince, renowned for his iconic Doom soundtrack, has died at age 81. His contributions to gaming music are celebrated.",
+      "title": "Prime Day Tech Deals: Up to 55% Off",
+      "description": "Amazon's Prime Day offers significant discounts on tech products, including Apple and Samsung devices. Deals run from June 23 to June 26.",
+      "category": "Business",
+      "source": "Yahoo Entertainment",
+      "url": "https://tech.yahoo.com/deals/breaking-news/article/the-best-prime-day-tech-deals-are-here-shop-apple-beats-samsung-and-more-for-up-to-55-percent-off-050536810.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/4f3dab48692f56956ac69d483dd8e05eb12053046b9885e926512d3048b843f0/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Famazon-prime-tech_7267.png",
+      "published_at": "2026-06-20T12:25:00Z",
+      "key_points": [
+        "Prime Day discounts available",
+        "Up to 55% off",
+        "Deals on major brands"
+      ],
+      "impact": "Shoppers can save significantly on tech.",
+      "id": "160699b3d7950bcd40f3e558a74b43d5"
+    },
+    {
+      "title": "Xbox Founder Warns of Resurgent Industry Fears",
+      "description": "Laura Fryer, an original Xbox founder, expresses concerns about rising hardware costs and AI's impact on the gaming industry. Old anxieties resurface.",
       "category": "Gaming",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/doom-composer-bobby-prince-dies",
-      "image": "https://assetsio.gnwcdn.com/Screenshot-2026-06-20-at-14.08.02.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-20T13:11:55Z",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/gaming/xbox/xbox-founder-laura-fryer-speaks-on-fears",
+      "image": "https://cdn.mos.cms.futurecdn.net/v5FEhAepUiPqfhNMSLKfzA-1920-80.jpg",
+      "published_at": "2026-06-20T10:42:03Z",
       "key_points": [
-        "Bobby Prince passes away",
-        "Famous for Doom soundtrack",
-        "Legacy in gaming music"
+        "Fryer highlights industry fears",
+        "Rising hardware costs",
+        "AI's impact on gaming"
       ],
-      "impact": "His music left a lasting impact on gaming.",
-      "id": "0d8f5b98fc2e8c164d1dea6cbb9e9902"
+      "impact": "Concerns may affect future gaming strategies.",
+      "id": "0be6ade5d87fc2fc1857eec2b9e2d295"
     },
     {
-      "title": "Switching to Roku's New Home Screen",
-      "description": "Roku introduces a new home screen for its devices, allowing users to switch ahead of the automatic rollout. This update enhances user experience.",
-      "category": "Software",
-      "source": "Cord Cutters News, LLC",
-      "url": "https://cordcuttersnews.com/how-to-switch-to-the-new-roku-home-screen-on-roku-tvs-roku-players/",
-      "image": "https://cordcuttersnews.com/wp-content/uploads/2026/04/image-2026-04-08T195520.664.jpg",
-      "published_at": "2026-06-20T11:28:48Z",
-      "key_points": [
-        "New Roku home screen available",
-        "Users can switch early",
-        "Significant interface overhaul"
-      ],
-      "impact": "Roku enhances user interface with new design.",
-      "id": "c98201c991e8c45ca4974d2d8314a503"
-    },
-    {
-      "title": "Android 17 Causes 5G Issues for Pixel Users",
-      "description": "Pixel users report losing 5G connectivity after updating to Android 17. Ongoing issues are causing frustration among users.",
-      "category": "Software",
-      "source": "Android Central",
-      "url": "https://www.androidcentral.com/apps-software/android-os/android-17-woes-continue-with-pixel-users-losing-5g-connectivity",
-      "image": "https://cdn.mos.cms.futurecdn.net/cHX2cGbPBDofn8NftH7t4C-2048-80.jpg",
-      "published_at": "2026-06-20T11:17:00Z",
-      "key_points": [
-        "Pixel users report 5G issues",
-        "Problems after Android 17 update",
-        "Connectivity frustrations continue"
-      ],
-      "impact": "Android updates can disrupt user connectivity.",
-      "id": "bc2749e3ac849d8551404e498abdf0b9"
-    },
-    {
-      "title": "Gears of War: E-Day Boosts Franchise Popularity",
-      "description": "Gears of War: E-Day's summer release has doubled the franchise's audience, thanks to its recent Xbox exclusivity.",
+      "title": "Xbox Series S Aids Switch 2 Development",
+      "description": "Digital Foundry suggests that the Xbox Series S has facilitated development for the upcoming Nintendo Switch 2, easing the process for developers.",
       "category": "Gaming",
-      "source": "TrueAchievements",
-      "url": "https://www.trueachievements.com/news/gears-of-war-e-day-reveal-player-count-boost",
-      "image": "https://www.trueachievements.com/imgs/176143/gears-of-war-eday.jpg",
-      "published_at": "2026-06-20T11:00:36Z",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/gaming/xbox/it-helped-xbox-series-s-helped-make-life-easier-for-switch-2-developers",
+      "image": "https://cdn.mos.cms.futurecdn.net/kXprdXgC58F28f6qcUMjUd-1920-80.png",
+      "published_at": "2026-06-20T10:31:20Z",
       "key_points": [
-        "E-Day boosts player count",
-        "Franchise popularity doubles",
-        "Xbox exclusivity benefits"
+        "Xbox Series S aids developers",
+        "Facilitates Switch 2 creation",
+        "Digital Foundry analysis"
       ],
-      "impact": "Increased audience reflects franchise revival.",
-      "id": "076f61c1a099d4bae1f1d20fb3e2fe88"
+      "impact": "This could enhance Switch 2's performance.",
+      "id": "55c8fe85f4d7f362c543964fb7134801"
+    },
+    {
+      "title": "Commodore's New Flip Phone Appeals to Gen Z",
+      "description": "The Commodore Callback flip phone offers essential features without social media, targeting Gen Z's desire for distraction-free communication.",
+      "category": "Business",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2198236/commodore-flip-phone-callback/",
+      "image": "https://www.bgr.com/img/gallery/gen-z-is-going-to-love-commodores-new-minimalist-flip-phone/l-intro-1781903673.jpg",
+      "published_at": "2026-06-20T10:17:00Z",
+      "key_points": [
+        "Minimalist design",
+        "No social media distractions",
+        "Targets Gen Z market"
+      ],
+      "impact": "This phone could redefine mobile simplicity.",
+      "id": "e75a03a625531cca6c1415ed91ffe7aa"
+    },
+    {
+      "title": "Siri AI Offers Enhanced San Francisco Tour",
+      "description": "A hands-on experience with the new Siri AI reveals its conversational abilities and helpfulness in navigating San Francisco. Users find it more engaging.",
+      "category": "Software",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+      "image": "https://media.wired.com/photos/6a33443c27f7de3a00911dff/191:100/w_1280,c_limit/Gear_TestingSiriAI-v1.jpg",
+      "published_at": "2026-06-20T10:00:00Z",
+      "key_points": [
+        "Siri AI is conversational",
+        "Helpful navigation tool",
+        "Engaging user experience"
+      ],
+      "impact": "Siri's improvements enhance user interaction.",
+      "id": "977190f7106ddb65eb0f079bd1f54d05"
+    },
+    {
+      "title": "Bentley Shocks Mat Armstrong with Service Verdict",
+      "description": "YouTuber Mat Armstrong received a surprising verdict during a service appointment for his rebuilt Bentley Continental GT, leaving him stunned.",
+      "category": "Business",
+      "source": "Supercarblondie.com",
+      "url": "https://supercarblondie.com/bentley-continental-gt-mat-armstrong-service/",
+      "image": "https://supercarblondie.com/cdn-cgi/image/width=1200,height=675,quality=80,format=webp,fit=cover/wp-content/uploads/Mat-Armstrong-Bentley-Continental-featured.webp",
+      "published_at": "2026-06-20T09:49:00Z",
+      "key_points": [
+        "Armstrong's Bentley serviced",
+        "Surprising verdict given",
+        "Luxury car maintenance issues"
+      ],
+      "impact": "This highlights challenges in luxury car care.",
+      "id": "bbd9a5357325a8c4c7778831691ad7e4"
+    },
+    {
+      "title": "Five Affordable Alternatives to Google Pixel 10 Pro",
+      "description": "Explore five budget-friendly Android phones that rival the Google Pixel 10 Pro in key features, offering solid competition without the high price.",
+      "category": "Business",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2194441/google-pixel-10-pro-cheaper-android-phones-alternatives/",
+      "image": "https://www.bgr.com/img/gallery/5-cheaper-android-phones-you-should-try-instead-of-the-google-pixel-10-pro/l-intro-1781542798.jpg",
+      "published_at": "2026-06-20T09:47:00Z",
+      "key_points": [
+        "Affordable Android alternatives",
+        "Compete with Pixel 10 Pro",
+        "Solid features offered"
+      ],
+      "impact": "Consumers gain more budget-friendly options.",
+      "id": "dfdc6b4cac9aede1856adbfa742ec828"
+    },
+    {
+      "title": "Lifetime Access to AI Tools for Just $55",
+      "description": "Get lifetime access to Claude, Gemini, and Gemini AI tools for an unprecedented low price of $55. This offer is a significant deal for users.",
+      "category": "Software",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/june-20-chatplayground-ai-unlimited-plan-lifetime-subscriptions",
+      "image": "https://helios-i.mashable.com/imagery/articles/03mgPIvyvB9dcMjBy0Ra24T/hero-image.fill.size_1200x675.v1781605886.jpg",
+      "published_at": "2026-06-20T09:00:00Z",
+      "key_points": [
+        "Lifetime access for $55",
+        "Includes multiple AI tools",
+        "Unprecedented low price"
+      ],
+      "impact": "This deal makes AI tools more accessible.",
+      "id": "447859b3c2f4d93dcfe59d14cab85caf"
     }
   ]
 }
