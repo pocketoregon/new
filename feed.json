@@ -1,229 +1,245 @@
 {
-  "generated_at": "2026-06-21T09:48:26.099191+00:00",
+  "generated_at": "2026-06-21T14:08:24.989722+00:00",
   "articles": [
     {
-      "title": "Apple’s Early Prime Day Sale Is Live!",
-      "description": "Grab early Prime Day deals on Apple products like MacBooks and AirPods at Amazon now. Don't miss these limited-time offers!",
-      "category": "Business",
-      "source": "CNET",
-      "url": "https://www.cnet.com/deals/best-prime-day-apple-deals-2026-06-19/",
-      "image": "https://www.cnet.com/a/img/resize/aa4526b6148f63969eee249810edf5256787edfd/hub/2026/06/09/d3ece905-03a5-492e-a6bb-c7590f32b299/apple-devices-on-a-purple-background.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "published_at": "2026-06-20T07:42:23Z",
-      "key_points": [
-        "Early deals on Apple products",
-        "Limited-time offers",
-        "Shop now at Amazon"
-      ],
-      "impact": "Apple's sale boosts early Prime Day excitement.",
-      "id": "8f3581840465c6df8fb6dbc3e1ca0749"
-    },
-    {
-      "title": "Windows 11 26H2 Set for Fall 2026 Release",
-      "description": "Microsoft confirms Windows 11 26H2 will be a minor update, focusing on stability rather than major features. Supported PCs have been detailed.",
-      "category": "Software",
-      "source": "WindowsLatest",
-      "url": "https://www.windowslatest.com/2026/06/20/microsoft-confirms-windows-11-26h2-for-fall-2026-release-reveals-supported-pcs-and-other-details/",
-      "image": "https://www.windowslatest.com/wp-content/uploads/2026/06/Windows-11-26H2.jpg",
-      "published_at": "2026-06-19T20:35:26Z",
-      "key_points": [
-        "Minor update for Windows 11",
-        "Focus on stability",
-        "Supported PCs listed"
-      ],
-      "impact": "Windows updates aim for greater predictability.",
-      "id": "f8f51adea9e2a3b1dd66bacb3a87a58a"
-    },
-    {
-      "title": "Ubisoft Offers 149 Free Games",
-      "description": "Ubisoft has made 149 games available for free for PC and Xbox users for a limited time. Don't miss this opportunity!",
+      "title": "Control Resonant: A Creepypasta Action-RPG",
+      "description": "Remedy Entertainment enhances its creepypasta universe with a new action-RPG. Expect refined gameplay and immersive storytelling.",
       "category": "Gaming",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/control-resonant-hands-on-giving-one-of-the-most-consistently-surprising-developers-the-benefit-of-the-doubt-2000708654",
+      "image": "https://kotaku.com/app/uploads/2026/06/control-5.jpg",
+      "published_at": "2026-06-20T13:00:08Z",
+      "key_points": [
+        "Refined creepypasta world-building",
+        "Conventional action-RPG mechanics",
+        "Immersive storytelling experience"
+      ],
+      "impact": "This game could redefine the action-RPG genre.",
+      "id": "f2219645fd7618f9506a6c2a2041a29a"
+    },
+    {
+      "title": "Halo: Campaign Evolved Requires Xbox Account on PS5",
+      "description": "PS5 players must create an Xbox account and gamertag to access Halo: Campaign Evolved. PS Plus is also required for split-screen co-op.",
+      "category": "Gaming",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/halo-campaign-evolved-ps5-xbox-account-gamertag-psplus",
+      "image": "https://assetsio.gnwcdn.com/halo-campaign-evolved-reveal-screen-3.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-20T12:51:01Z",
+      "key_points": [
+        "Xbox account needed for PS5",
+        "Gamertag required for gameplay",
+        "PS Plus for split-screen co-op"
+      ],
+      "impact": "This could limit accessibility for PS5 players.",
+      "id": "2fae46c21906b256df75f036528a389a"
+    },
+    {
+      "title": "Ubisoft Co-Founder Dies in Plane Crash",
+      "description": "Claude Guillemot, co-founder of Ubisoft, tragically died in a plane crash in France. His legacy in gaming is profound.",
+      "category": "Geopolitics",
+      "source": "Insider Gaming",
+      "url": "https://insider-gaming.com/ubisoft-co-founder-claude-guillemot-killed-plane/",
+      "image": "https://insider-gaming.com/wp-content/uploads/2026/05/ubisoft-ai.jpg",
+      "published_at": "2026-06-20T12:07:58Z",
+      "key_points": [
+        "Claude Guillemot killed in crash",
+        "Co-founded Ubisoft in 1986",
+        "Significant impact on gaming industry"
+      ],
+      "impact": "His death marks a significant loss for gaming.",
+      "id": "bc43699dd7f6fe4d476aa28c7bd5a514"
+    },
+    {
+      "title": "Pixel Battery Life Poll After Android 17 Update",
+      "description": "Users are polling to see if battery life improved after updating to Android 17. Feedback is crucial for future updates.",
+      "category": "Software",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/06/20/has-your-pixel-battery-life-improved-after-updating-to-android-17-poll/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/Pixel-10a-battery-level-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-20T12:00:00Z",
+      "key_points": [
+        "Polling Pixel users' battery life",
+        "Feedback on Android 17 update",
+        "User experience is vital"
+      ],
+      "impact": "User feedback will guide future updates.",
+      "id": "fbef5df0db725c17433e400027d043c1"
+    },
+    {
+      "title": "SwitchBot’s Standing Circulator Fan Review",
+      "description": "SwitchBot’s fan is quiet, battery-operated, and versatile, transforming from desktop to standing fan easily. It also features a nightlight.",
+      "category": "Hardware",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/IMG_1636.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+      "published_at": "2026-06-20T07:00:00Z",
+      "key_points": [
+        "Quiet and battery-powered",
+        "Transforms easily between modes",
+        "Includes a nightlight feature"
+      ],
+      "impact": "This fan offers great versatility for users.",
+      "id": "051aca216267cd68f8ba0e56f66f0c94"
+    },
+    {
+      "title": "PlayStation Eyes Acquisition of Xbox Studio",
+      "description": "PlayStation may pursue acquiring an Xbox and Bethesda studio amid reports of Xbox's restructuring. This could shift industry dynamics.",
+      "category": "Business",
       "source": "ComicBook.com",
-      "url": "http://comicbook.com/gaming/news/ubisoft-games-free-download/",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/02/u-b-i-s-o-f-t.png?resize=2000,1125",
-      "published_at": "2026-06-19T20:18:16Z",
+      "url": "http://comicbook.com/gaming/news/playstation-sony-bethesda-xbox-machinegames-studio/",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/09/p-l-a-y-s-t-a-t-i-o-n.png?resize=2000,1125",
+      "published_at": "2026-06-20T02:03:29Z",
       "key_points": [
-        "149 games available for free",
-        "Limited time offer",
-        "PC and Xbox only"
+        "PlayStation may acquire Xbox studio",
+        "Xbox restructuring underway",
+        "Potential industry shift ahead"
       ],
-      "impact": "Ubisoft's promotion boosts player engagement.",
-      "id": "67e24a528a3dc9e34817a2d5f7c8278e"
+      "impact": "This acquisition could reshape gaming competition.",
+      "id": "74d5c3668694f44c93d63a7b6ff2c118"
     },
     {
-      "title": "GTA 6 Trailer Reveals New Details",
-      "description": "The latest Grand Theft Auto 6 trailer showcases cover art and music, hinting at its pre-order date. Fans are excited!",
+      "title": "Pokémon Go Frigibax Community Day Announced",
+      "description": "Frigibax will be featured in June's Community Day for Pokémon Go, offering chances to catch shiny variants and perfect IVs.",
       "category": "Gaming",
-      "source": "Digitalfoundry.net",
-      "url": "https://www.digitalfoundry.net/features/gta-6-and-the-mystery-of-the-missing-ferris-wheel-reflection",
-      "image": "https://images.digitalfoundry.net/ca5b25150cc8d/large.jpg",
-      "published_at": "2026-06-19T17:06:00Z",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/pokemon-go-frigibax-community-day",
+      "image": "https://assetsio.gnwcdn.com/Pokemon-Go-Frigibax-CDay-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-19T23:01:00Z",
       "key_points": [
-        "New GTA 6 trailer released",
-        "Features 80s music",
-        "Pre-order date hinted"
+        "Frigibax featured in Community Day",
+        "Chance for shiny and perfect IVs",
+        "Exciting event for Pokémon fans"
       ],
-      "impact": "GTA 6 hype continues to build.",
-      "id": "666717f3c604504f1bbe64457e2ffd52"
+      "impact": "This event boosts player engagement significantly.",
+      "id": "5361a24309553b28a554bbbab6d49e2c"
     },
     {
-      "title": "The Grinch Sequel Coming in September 2026",
-      "description": "A sequel to The Grinch: Christmas Adventures will launch in September 2026 on Xbox, following its predecessor's success.",
+      "title": "Concept Art for Marathon Revealed",
+      "description": "Explore the stunning concept art behind Bungie's upcoming game, Marathon. The visuals promise an exciting gaming experience.",
       "category": "Gaming",
-      "source": "TrueAchievements",
-      "url": "https://www.trueachievements.com/news/the-grinch-2-saving-christmas-release-date",
-      "image": "https://www.trueachievements.com/imgs/176217/the-grinch-2-release-date.jpg",
-      "published_at": "2026-06-19T15:45:08Z",
+      "source": "Aftermath.site",
+      "url": "https://aftermath.site/marathon-bungie-concept-art/",
+      "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/06/destop.jpg",
+      "published_at": "2026-06-19T22:48:45Z",
       "key_points": [
-        "Grinch sequel announced",
-        "Releasing September 2026",
-        "Xbox exclusive"
+        "Stunning concept art revealed",
+        "Bungie's upcoming game",
+        "Exciting visuals for gamers"
       ],
-      "impact": "Fans anticipate the Grinch's return.",
-      "id": "88558185bd8e608b53609f73974e9d29"
+      "impact": "This art builds anticipation for the game.",
+      "id": "b6d890ec29f14d317fcbfd3ca0256074"
     },
     {
-      "title": "iPhone 18 Pro Features Leaked",
-      "description": "Rumored features for the iPhone 18 Pro include significant upgrades, set to launch this fall. Excitement builds!",
-      "category": "Business",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/19/iphone-18-pro-six-new-features-are-coming-this-fall/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-silver-centered.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-19T14:19:00Z",
-      "key_points": [
-        "Six new features rumored",
-        "iPhone 18 Pro launching",
-        "Fall release expected"
-      ],
-      "impact": "Anticipation for iPhone 18 Pro grows.",
-      "id": "5d3c1cfd5728ba96b1b7a96c1f39a59f"
-    },
-    {
-      "title": "Final Fantasy VII Remake Trilogy Finale Trailer Released",
-      "description": "SQUARE ENIX has unveiled the trailer for 'FINAL FANTASY VII REVELATION,' the final chapter of the remake trilogy, set for spring release.",
-      "category": "Gaming",
-      "source": "InvenGlobal",
-      "url": "https://www.invenglobal.com/articles/final-fantasy-vii-remake-trilogy-finale-revelation-trailer-released",
-      "image": "https://static.invenglobal.com/upload/image/2026/06/19/r1781878337569271.jpeg",
-      "published_at": "2026-06-19T14:10:10Z",
-      "key_points": [
-        "Final installment trailer released",
-        "Spring release planned",
-        "Fans eagerly await conclusion"
-      ],
-      "impact": "Final Fantasy VII saga reaches its climax.",
-      "id": "97c80df6a8b43516f0647cdd5431e4f0"
-    },
-    {
-      "title": "Pokémon GO Fest 2026 Countdown Begins",
-      "description": "Pokémon GO Fest 2026: Global kicks off with Road of Legends, featuring Legendary raids and event bonuses from July 6-10, 2026.",
-      "category": "Gaming",
-      "source": "Pokemon GO Hub",
-      "url": "https://pokemongohub.net/post/event/go-fest-2026-road-of-legends/",
-      "image": "https://pokemongohub.net/wp-content/uploads/2026/06/PGO-MCS_GOFest_2026_GOPass_v3-16x9-1.jpg",
-      "published_at": "2026-06-19T13:36:59Z",
-      "key_points": [
-        "GO Fest 2026 starts July 6",
-        "Legendary raids featured",
-        "Event bonuses available"
-      ],
-      "impact": "Excitement builds for Pokémon GO Fest.",
-      "id": "fd54b826335557f69364f3a499a107c2"
-    },
-    {
-      "title": "Minecraft Chaos Sparks Community Challenge Launched",
-      "description": "Join the Chaos Sparks Community Challenge in Minecraft to earn rewards by creating chaos with your team. Get involved now!",
-      "category": "Gaming",
-      "source": "Minecraft.net",
-      "url": "https://www.minecraft.net/en-us/article/community-challenge-chaos-sparks",
-      "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/Minecraft_ChaosCubed_CommunityChallenge1_dotNET_1170x500.jpg",
-      "published_at": "2026-06-19T12:51:46Z",
-      "key_points": [
-        "Chaos Sparks challenge launched",
-        "Earn special rewards",
-        "Team-based gameplay encouraged"
-      ],
-      "impact": "Community engagement in Minecraft increases.",
-      "id": "d82431ba1f695de349100dc92c89c043"
-    },
-    {
-      "title": "ROG Xbox Ally X20 Launches Soon",
-      "description": "ASUS reveals the ROG Xbox Ally X20, featuring upgrades and a high price tag. Expect premium gaming performance.",
-      "category": "Hardware",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/06/rog-xbox-ally-x20-marks-the-opportunity-of-a-lifetime-but-expect-a-high-price",
-      "image": "https://images.purexbox.com/aad445e70ad5e/large.jpg",
-      "published_at": "2026-06-19T12:30:00Z",
-      "key_points": [
-        "ROG Xbox Ally X20 announced",
-        "Upgraded features included",
-        "High price expected"
-      ],
-      "impact": "Premium gaming device targets enthusiasts.",
-      "id": "8a940ee2830e23e45bc1a54f484b72e0"
-    },
-    {
-      "title": "Legionnaires’ Disease Outbreak Insights 50 Years Later",
-      "description": "Scientists now understand the cause of the 1976 Legionnaires’ disease outbreak in Philadelphia, linked to Legionella pneumophila bacteria.",
-      "category": "Science",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/legionnaires-disease-outbreak-in-philadelphia-in-1976-was-mysterious-and-deadly-50-years-later-scientists-know-the-cause-but-outbreaks-continue-284150",
-      "image": "https://images.theconversation.com/files/741410/original/file-20260611-57-g4hd9i.jpg?ixlib=rb-4.1.0&rect=0%2C369%2C4557%2C2278&q=45&auto=format&w=1356&h=668&fit=crop",
-      "published_at": "2026-06-19T12:10:52Z",
-      "key_points": [
-        "Legionella pneumophila identified",
-        "Outbreak details revisited",
-        "Ongoing risks highlighted"
-      ],
-      "impact": "Understanding of Legionnaires’ disease improves.",
-      "id": "3236f0414274d9b284e4ef5398248ea0"
-    },
-    {
-      "title": "Microsoft's New Windows Bug Exposed",
-      "description": "A recent Windows update reveals internal file names during file deletions, causing confusion among users. Microsoft is addressing the issue.",
+      "title": "Microsoft Office for Mac Sale Alert",
+      "description": "Microsoft Office for Mac is available for a one-time fee of $40, offering significant savings for users.",
       "category": "Software",
-      "source": "The Register",
-      "url": "https://www.theregister.com/personal-tech/2026/06/19/microsofts-latest-windows-bug-belongs-in-the-recycle-bin/5258779",
-      "image": "https://image.theregister.com/5258862.jpg?imageId=5258862&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "published_at": "2026-06-19T12:06:04Z",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/june-19-microsoft-office-home-business-for-mac-2021",
+      "image": "https://helios-i.mashable.com/imagery/articles/02KCdFZeG9MlAMKPTxvF5cX/hero-image.fill.size_1200x675.v1781532028.jpg",
+      "published_at": "2026-06-19T22:00:00Z",
       "key_points": [
-        "Windows bug reveals file names",
-        "User confusion reported",
-        "Microsoft working on fix"
+        "Office for Mac on sale",
+        "One-time fee of $40",
+        "No ongoing subscription costs"
       ],
-      "impact": "User experience affected by cosmetic bug.",
-      "id": "8f39d907dc0319fe36f8051b94b2b3b5"
+      "impact": "This sale makes Office more accessible.",
+      "id": "3763710ae7af7ec2a8ca5b8ce11697c3"
     },
     {
-      "title": "Valve's Steam Machine Details Leaked",
-      "description": "Leaked information reveals Valve's upcoming Steam Machine features a custom AMD CPU and GPU, priced at $799, ahead of its announcement.",
-      "category": "Hardware",
-      "source": "Geeky Gadgets",
-      "url": "https://www.geeky-gadgets.com/?p=496219",
-      "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/steam-machine-leak.jpg",
-      "published_at": "2026-06-19T11:50:31Z",
+      "title": "Pixel Users Report Touchscreen Bugs After Update",
+      "description": "Pixel users are experiencing touchscreen issues following the Android 17 update. Users are advised to delay updating.",
+      "category": "Software",
+      "source": "Android Police",
+      "url": "https://www.androidpolice.com/android-17-touchscreen-bug/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/02/android-17-hero.jpg?w=1200&h=675&fit=crop",
+      "published_at": "2026-06-19T20:49:27Z",
       "key_points": [
-        "Steam Machine features leaked",
-        "Custom AMD hardware included",
-        "$799 starting price"
+        "Touchscreen bugs reported",
+        "Delay updating advised",
+        "Common issue with new software"
       ],
-      "impact": "Valve's new console generates buzz.",
-      "id": "f3d074a8d5b2047d72e05da4678ee241"
+      "impact": "This could frustrate Pixel users significantly.",
+      "id": "4e4abc491006fbfbf6bf37f889d09c08"
     },
     {
-      "title": "Sea of Thieves Custom Seas Update Released",
-      "description": "Season 20 of Sea of Thieves introduces Custom Seas, allowing players to create unique experiences in the game. Dive in now!",
+      "title": "Fumito Ueda Discusses New Game Gen Atlas",
+      "description": "Fumito Ueda reveals details about Gen Atlas, a giant robot adventure game developed with Epic Games. Anticipation is building.",
       "category": "Gaming",
-      "source": "TrueAchievements",
-      "url": "https://www.trueachievements.com/news/sea-of-thieves-custom-seas",
-      "image": "https://www.trueachievements.com/imgs/176190/sea-of-thieves-custom-seas.jpg",
-      "published_at": "2026-06-19T11:25:08Z",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/gen-atlas-fumito-ueda-gen-design-interview-preview/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/project_robot_260601_4k_screenshot_trailer009_01.jpg?w=1600&h=900&fit=crop",
+      "published_at": "2026-06-19T20:30:22Z",
       "key_points": [
-        "Custom Seas update launched",
-        "Create unique experiences",
-        "Season 20 kicks off"
+        "Details on Gen Atlas revealed",
+        "Collaboration with Epic Games",
+        "Exciting giant robot adventure"
       ],
-      "impact": "Player creativity in Sea of Thieves expands.",
-      "id": "4e55fff2506ee02dfd28514c68e81a74"
+      "impact": "This game promises to be a unique experience.",
+      "id": "02a68cfecd6535abd6747afa41c37a04"
+    },
+    {
+      "title": "2027 Video Game Release Schedule Updated",
+      "description": "Game Informer updates its list of announced video game release dates for 2027. Stay informed on upcoming titles.",
+      "category": "Gaming",
+      "source": "Game Informer",
+      "url": "https://gameinformer.com/2027",
+      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/15/c3d8caab/ffviirevelation2027.jpg.webp",
+      "published_at": "2026-06-19T19:43:31Z",
+      "key_points": [
+        "Updated release schedule for 2027",
+        "Comprehensive list of titles",
+        "Stay informed on gaming releases"
+      ],
+      "impact": "This helps gamers plan for future purchases.",
+      "id": "1a8ff6e326bbc20a1f447b573e8662bd"
+    },
+    {
+      "title": "Google Services Update for Samsung Phones",
+      "description": "Important Google apps on Samsung phones require manual updates. Users should check for the latest versions.",
+      "category": "Software",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/samsung-phones-google-app-updates-3679566/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2022/03/Samsung-Galaxy-S20-Ultra-Updating-Android-Updates-Generic-scaled.jpg",
+      "published_at": "2026-06-19T19:20:48Z",
+      "key_points": [
+        "Manual updates needed for Google apps",
+        "Important updates for Samsung users",
+        "Check for latest versions"
+      ],
+      "impact": "This ensures optimal performance of apps.",
+      "id": "bce303b3af3e20ae01401b4f401c43b2"
+    },
+    {
+      "title": "Apple’s M6 Chip Launching This Fall",
+      "description": "Apple's next-generation M6 chip is set to launch this fall, with new products expected to feature it. Anticipation is high.",
+      "category": "Hardware",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/19/apples-m6-chip-launches-this-fall-with-these-new-products-rumored/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/m6_regular.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-19T18:48:00Z",
+      "key_points": [
+        "M6 chip launching this fall",
+        "New products expected",
+        "High anticipation among users"
+      ],
+      "impact": "This could enhance Apple's product performance.",
+      "id": "cd68e86ae0e525219c481fd41ce30541"
+    },
+    {
+      "title": "MacRumors Show: iOS 27 and watchOS 27 Insights",
+      "description": "The latest episode of The MacRumors Show dives into iOS 27 and watchOS 27 updates from WWDC 2026. Key features are discussed.",
+      "category": "Software",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/19/the-macrumors-show-hands-on-with-ios-27/",
+      "image": "https://images.macrumors.com/t/9XRYLmjtF-pw7zMHXB7Y1YypOxs=/2500x/article-new/2026/06/TMRS-198-Platform-Discussion-Thumb.jpg",
+      "published_at": "2026-06-19T16:17:27Z",
+      "key_points": [
+        "Insights on iOS 27 features",
+        "Discussion on watchOS 27 cuts",
+        "Recap of WWDC 2026"
+      ],
+      "impact": "This informs users about upcoming software changes.",
+      "id": "5b84b4e133344109271273461ceaa10b"
     }
   ]
 }
