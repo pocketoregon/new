@@ -5,53 +5,143 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jun 2026 16:45:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 19:28:21 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Sea of Thieves Unleashes Custom Seas for Players</title>
-      <description>Sea of Thieves: Season 20 introduces Custom Seas, allowing players to create private sandbox experiences. Enjoy ultimate control with new creative tools.</description>
-      <link>https://news.xbox.com/en-us/2026/06/19/sea-of-thieves-custom-seas-update-details/</link>
-      <guid isPermaLink="true">https://news.xbox.com/en-us/2026/06/19/sea-of-thieves-custom-seas-update-details/</guid>
-      <pubDate>2026-06-19T16:02:29Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://news.xbox.com/en-us/2026/06/19/sea-of-thieves-custom-seas-update-details/">Xbox.com</source>
-    </item>
-    <item>
-      <title>Early Prime Day Desktop Deals Unveiled</title>
-      <description>Prime Day approaches with significant discounts on desktops, including gaming PCs and all-in-ones. Get ready for great deals on essential tech.</description>
-      <link>https://www.pcmag.com/news/best-early-amazon-prime-day-sale-desktop-pc-deals-2026-june-20</link>
-      <guid isPermaLink="true">https://www.pcmag.com/news/best-early-amazon-prime-day-sale-desktop-pc-deals-2026-june-20</guid>
-      <pubDate>2026-06-19T15:37:15Z</pubDate>
+      <title>Apple’s Prime Day Deals: MacBooks, iPads, AirPods</title>
+      <description>Apple's Prime Day sale features discounts on popular products like MacBooks and AirPods. Don't miss out on these limited-time offers.</description>
+      <link>https://www.cnet.com/deals/best-prime-day-apple-deals-2026-06-20/</link>
+      <guid isPermaLink="true">https://www.cnet.com/deals/best-prime-day-apple-deals-2026-06-20/</guid>
+      <pubDate>2026-06-20T18:36:06Z</pubDate>
       <category>Business</category>
-      <source url="https://www.pcmag.com/news/best-early-amazon-prime-day-sale-desktop-pc-deals-2026-june-20">PCMag.com</source>
+      <source url="https://www.cnet.com/deals/best-prime-day-apple-deals-2026-06-20/">CNET</source>
     </item>
     <item>
-      <title>Two Point Museum Welcomes DAVE THE DIVER</title>
-      <description>The latest update for Two Point Museum introduces DAVE THE DIVER, enhancing the gaming experience with new content. Dive into the Digiverse now.</description>
-      <link>https://www.gematsu.com/2026/06/two-point-museum-x-dave-the-diver-collaboration-update-now-available</link>
-      <guid isPermaLink="true">https://www.gematsu.com/2026/06/two-point-museum-x-dave-the-diver-collaboration-update-now-available</guid>
-      <pubDate>2026-06-19T15:23:07Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.gematsu.com/2026/06/two-point-museum-x-dave-the-diver-collaboration-update-now-available">Gematsu</source>
+      <title>Galaxy Watch 9 and Ultra 2 Leaks Ahead of Launch</title>
+      <description>New leaks reveal features of the Galaxy Watch 9 and Ultra 2 ahead of Samsung's July event. Expect significant updates and changes.</description>
+      <link>http://9to5google.com/2026/06/20/samsung-galaxy-watch-9-changes-leak/</link>
+      <guid isPermaLink="true">http://9to5google.com/2026/06/20/samsung-galaxy-watch-9-changes-leak/</guid>
+      <pubDate>2026-06-20T16:40:00Z</pubDate>
+      <category>Hardware</category>
+      <source url="http://9to5google.com/2026/06/20/samsung-galaxy-watch-9-changes-leak/">9to5google.com</source>
     </item>
     <item>
-      <title>Three-Armed Robot Revolutionizes Fish Preparation</title>
-      <description>A new three-armed robot can expertly slice and serve fish, overcoming challenges of handling slippery materials. This innovation could transform kitchen tasks.</description>
-      <link>https://techxplore.com/news/2026-06-armed-sashimi-bot-slice-fish.html</link>
-      <guid isPermaLink="true">https://techxplore.com/news/2026-06-armed-sashimi-bot-slice-fish.html</guid>
-      <pubDate>2026-06-19T14:20:03Z</pubDate>
-      <category>Science</category>
-      <source url="https://techxplore.com/news/2026-06-armed-sashimi-bot-slice-fish.html">Tech Xplore</source>
-    </item>
-    <item>
-      <title>Sony Shifts Focus to Exclusive PlayStation Titles</title>
-      <description>Sony's latest business strategy document reveals a shift away from PC releases, emphasizing exclusivity for PlayStation's single-player games. Major changes ahead.</description>
-      <link>https://www.ign.com/articles/sony-ditches-mention-of-pc-releases-from-business-strategy-document-as-playstations-single-player-games-now-expected-to-be-fully-exclusive</link>
-      <guid isPermaLink="true">https://www.ign.com/articles/sony-ditches-mention-of-pc-releases-from-business-strategy-document-as-playstations-single-player-games-now-expected-to-be-fully-exclusive</guid>
-      <pubDate>2026-06-19T13:42:38Z</pubDate>
+      <title>Ubisoft Founder Killed in Plane Crash</title>
+      <description>Claude Guillemot, a founder of Ubisoft, died in a plane crash in western France. The gaming community mourns his loss.</description>
+      <link>https://abcnews.com/International/wireStory/founder-assassins-creed-maker-ubisoft-killed-plane-crash-134056376</link>
+      <guid isPermaLink="true">https://abcnews.com/International/wireStory/founder-assassins-creed-maker-ubisoft-killed-plane-crash-134056376</guid>
+      <pubDate>2026-06-20T16:12:07Z</pubDate>
       <category>Geopolitics</category>
-      <source url="https://www.ign.com/articles/sony-ditches-mention-of-pc-releases-from-business-strategy-document-as-playstations-single-player-games-now-expected-to-be-fully-exclusive">IGN</source>
+      <source url="https://abcnews.com/International/wireStory/founder-assassins-creed-maker-ubisoft-killed-plane-crash-134056376">Abcnews.com</source>
+    </item>
+    <item>
+      <title>Xbox Players Face Challenges to Play Halo Together</title>
+      <description>PlayStation and Xbox players encounter hurdles to play Halo: Campaign Evolved together. Cross-platform play remains complicated.</description>
+      <link>https://www.forbes.com/sites/paultassi/2026/06/20/xbox-forces-ps5-players-to-jump-through-hoops-to-play-halo-campaign-evolved/</link>
+      <guid isPermaLink="true">https://www.forbes.com/sites/paultassi/2026/06/20/xbox-forces-ps5-players-to-jump-through-hoops-to-play-halo-campaign-evolved/</guid>
+      <pubDate>2026-06-20T15:26:29Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.forbes.com/sites/paultassi/2026/06/20/xbox-forces-ps5-players-to-jump-through-hoops-to-play-halo-campaign-evolved/">Forbes</source>
+    </item>
+    <item>
+      <title>Key Features of iOS 27 You Should Know</title>
+      <description>iOS 27 introduces several noteworthy features, enhancing user experience despite not being flashy. Key upgrades are worth exploring.</description>
+      <link>https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/</guid>
+      <pubDate>2026-06-20T15:00:00Z</pubDate>
+      <category>Software</category>
+      <source url="https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Apple Launches Five New Apps</title>
+      <description>Apple unveiled five new apps last week, enhancing its software ecosystem. Four were announced at WWDC 2026, with one in beta.</description>
+      <link>https://www.macrumors.com/2026/06/20/apple-unveiled-these-five-new-apps/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/06/20/apple-unveiled-these-five-new-apps/</guid>
+      <pubDate>2026-06-20T15:00:00Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.macrumors.com/2026/06/20/apple-unveiled-these-five-new-apps/">MacRumors</source>
+    </item>
+    <item>
+      <title>Linux Kernel Drops strncpy API After Six Years</title>
+      <description>Linux 7.2 has officially removed the deprecated strncpy API after extensive work. This marks a significant update for developers.</description>
+      <link>https://www.phoronix.com/news/Linux-7.2-Drops-strncpy</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.2-Drops-strncpy</guid>
+      <pubDate>2026-06-20T14:22:00Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.phoronix.com/news/Linux-7.2-Drops-strncpy">Phoronix</source>
+    </item>
+    <item>
+      <title>Three Apple Stores Permanently Closing Today</title>
+      <description>Apple is closing three retail stores in the U.S. today, including a unionized location. This follows previous announcements.</description>
+      <link>https://www.macrumors.com/2026/06/20/three-apple-stores-closing-today/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/06/20/three-apple-stores-closing-today/</guid>
+      <pubDate>2026-06-20T14:14:49Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.macrumors.com/2026/06/20/three-apple-stores-closing-today/">MacRumors</source>
+    </item>
+    <item>
+      <title>Steam Next Fest Features Unique Cannon Game</title>
+      <description>A standout demo from Steam Next Fest involves loading a cannon, showcasing creativity despite an overall disappointing event.</description>
+      <link>https://kotaku.com/iron-nest-is-a-game-in-which-you-spend-30-minutes-loading-a-big-cannon-and-somehow-its-awesome-2000708523</link>
+      <guid isPermaLink="true">https://kotaku.com/iron-nest-is-a-game-in-which-you-spend-30-minutes-loading-a-big-cannon-and-somehow-its-awesome-2000708523</guid>
+      <pubDate>2026-06-20T14:00:52Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://kotaku.com/iron-nest-is-a-game-in-which-you-spend-30-minutes-loading-a-big-cannon-and-somehow-its-awesome-2000708523">Kotaku</source>
+    </item>
+    <item>
+      <title>Only Four Useful Android Auto Apps for Road Trips</title>
+      <description>After testing ten Android Auto apps, only four proved genuinely useful for road trips. Many apps cluttered the interface.</description>
+      <link>https://www.androidpolice.com/installed-ten-android-auto-apps-for-long-road-trip-but-only-four-were-useful/</link>
+      <guid isPermaLink="true">https://www.androidpolice.com/installed-ten-android-auto-apps-for-long-road-trip-but-only-four-were-useful/</guid>
+      <pubDate>2026-06-20T13:30:10Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.androidpolice.com/installed-ten-android-auto-apps-for-long-road-trip-but-only-four-were-useful/">Android Police</source>
+    </item>
+    <item>
+      <title>Sony Plans to Boost PS Plus Profits</title>
+      <description>Sony aims to improve PS Plus profitability by enhancing its service offerings. The gaming division achieved record profits last fiscal year.</description>
+      <link>https://www.pushsquare.com/news/2026/06/sony-aims-to-drive-ps-plus-profits-by-improving-service-proposition</link>
+      <guid isPermaLink="true">https://www.pushsquare.com/news/2026/06/sony-aims-to-drive-ps-plus-profits-by-improving-service-proposition</guid>
+      <pubDate>2026-06-20T13:30:00Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.pushsquare.com/news/2026/06/sony-aims-to-drive-ps-plus-profits-by-improving-service-proposition">Push Square</source>
+    </item>
+    <item>
+      <title>Doom Composer Bobby Prince Passes Away at 81</title>
+      <description>Bobby Prince, renowned for his iconic Doom soundtrack, has died at age 81. His contributions to gaming music are celebrated.</description>
+      <link>https://www.eurogamer.net/doom-composer-bobby-prince-dies</link>
+      <guid isPermaLink="true">https://www.eurogamer.net/doom-composer-bobby-prince-dies</guid>
+      <pubDate>2026-06-20T13:11:55Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.eurogamer.net/doom-composer-bobby-prince-dies">Eurogamer</source>
+    </item>
+    <item>
+      <title>Switching to Roku's New Home Screen</title>
+      <description>Roku introduces a new home screen for its devices, allowing users to switch ahead of the automatic rollout. This update enhances user experience.</description>
+      <link>https://cordcuttersnews.com/how-to-switch-to-the-new-roku-home-screen-on-roku-tvs-roku-players/</link>
+      <guid isPermaLink="true">https://cordcuttersnews.com/how-to-switch-to-the-new-roku-home-screen-on-roku-tvs-roku-players/</guid>
+      <pubDate>2026-06-20T11:28:48Z</pubDate>
+      <category>Software</category>
+      <source url="https://cordcuttersnews.com/how-to-switch-to-the-new-roku-home-screen-on-roku-tvs-roku-players/">Cord Cutters News, LLC</source>
+    </item>
+    <item>
+      <title>Android 17 Causes 5G Issues for Pixel Users</title>
+      <description>Pixel users report losing 5G connectivity after updating to Android 17. Ongoing issues are causing frustration among users.</description>
+      <link>https://www.androidcentral.com/apps-software/android-os/android-17-woes-continue-with-pixel-users-losing-5g-connectivity</link>
+      <guid isPermaLink="true">https://www.androidcentral.com/apps-software/android-os/android-17-woes-continue-with-pixel-users-losing-5g-connectivity</guid>
+      <pubDate>2026-06-20T11:17:00Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.androidcentral.com/apps-software/android-os/android-17-woes-continue-with-pixel-users-losing-5g-connectivity">Android Central</source>
+    </item>
+    <item>
+      <title>Gears of War: E-Day Boosts Franchise Popularity</title>
+      <description>Gears of War: E-Day's summer release has doubled the franchise's audience, thanks to its recent Xbox exclusivity.</description>
+      <link>https://www.trueachievements.com/news/gears-of-war-e-day-reveal-player-count-boost</link>
+      <guid isPermaLink="true">https://www.trueachievements.com/news/gears-of-war-e-day-reveal-player-count-boost</guid>
+      <pubDate>2026-06-20T11:00:36Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.trueachievements.com/news/gears-of-war-e-day-reveal-player-count-boost">TrueAchievements</source>
     </item>
   </channel>
 </rss>

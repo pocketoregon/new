@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-21T19:27:57.400237+00:00",
+      "fetched_at": "2026-06-21T19:27:57.400237+00:00",
+      "label": "Jun 21, 2026 — 07:28 PM UTC",
+      "articles": [
+        {
+          "title": "Apple’s Prime Day Deals: MacBooks, iPads, AirPods",
+          "description": "Apple's Prime Day sale features discounts on popular products like MacBooks and AirPods. Don't miss out on these limited-time offers.",
+          "category": "Business",
+          "source": "CNET",
+          "url": "https://www.cnet.com/deals/best-prime-day-apple-deals-2026-06-20/",
+          "image": "https://www.cnet.com/a/img/resize/aa4526b6148f63969eee249810edf5256787edfd/hub/2026/06/09/d3ece905-03a5-492e-a6bb-c7590f32b299/apple-devices-on-a-purple-background.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "published_at": "2026-06-20T18:36:06Z",
+          "key_points": [
+            "Prime Day discounts available now",
+            "Deals on MacBooks and iPads",
+            "Limited-time offers on AirPods"
+          ],
+          "impact": "Apple's sales boost could enhance market share.",
+          "id": "1572f28de7f432f3edefdec18d766ad1"
+        },
+        {
+          "title": "Galaxy Watch 9 and Ultra 2 Leaks Ahead of Launch",
+          "description": "New leaks reveal features of the Galaxy Watch 9 and Ultra 2 ahead of Samsung's July event. Expect significant updates and changes.",
+          "category": "Hardware",
+          "source": "9to5google.com",
+          "url": "http://9to5google.com/2026/06/20/samsung-galaxy-watch-9-changes-leak/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-watch-ultra-2025-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-20T16:40:00Z",
+          "key_points": [
+            "Galaxy Watch 9 features leaked",
+            "Ultra 2 updates revealed",
+            "No Classic model this time"
+          ],
+          "impact": "Samsung aims to enhance smartwatch appeal.",
+          "id": "acd6908089b9e7075704c57a6bb44509"
+        },
+        {
+          "title": "Ubisoft Founder Killed in Plane Crash",
+          "description": "Claude Guillemot, a founder of Ubisoft, died in a plane crash in western France. The gaming community mourns his loss.",
+          "category": "Geopolitics",
+          "source": "Abcnews.com",
+          "url": "https://abcnews.com/International/wireStory/founder-assassins-creed-maker-ubisoft-killed-plane-crash-134056376",
+          "image": "https://i.abcnewsfe.com/a/39daa459-f024-4790-a846-fcf282e8d4c2/claude-guillemot-gty-jt-2505_1781975455681_hpMain_16x9.jpg?w=1600",
+          "published_at": "2026-06-20T16:12:07Z",
+          "key_points": [
+            "Ubisoft founder dies tragically",
+            "Plane crash in western France",
+            "Gaming industry mourns loss"
+          ],
+          "impact": "His death impacts the gaming community deeply.",
+          "id": "1accf9969b9640c8d944db51ea89da4f"
+        },
+        {
+          "title": "Xbox Players Face Challenges to Play Halo Together",
+          "description": "PlayStation and Xbox players encounter hurdles to play Halo: Campaign Evolved together. Cross-platform play remains complicated.",
+          "category": "Gaming",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/06/20/xbox-forces-ps5-players-to-jump-through-hoops-to-play-halo-campaign-evolved/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a36b07341067dc362d55a8e/0x0.jpg?format=jpg&crop=904,508,x152,y101,safe&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-20T15:26:29Z",
+          "key_points": [
+            "Cross-play challenges persist",
+            "Players face complicated access",
+            "Halo: Campaign Evolved hurdles"
+          ],
+          "impact": "Cross-platform play remains a significant issue.",
+          "id": "85a21b03957af542e5c818e5d51e9e89"
+        },
+        {
+          "title": "Key Features of iOS 27 You Should Know",
+          "description": "iOS 27 introduces several noteworthy features, enhancing user experience despite not being flashy. Key upgrades are worth exploring.",
+          "category": "Software",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/image-2026-04-08T195520.664.jpg",
+          "published_at": "2026-06-20T15:00:00Z",
+          "key_points": [
+            "New features enhance user experience",
+            "Focus on everyday app upgrades",
+            "Notable Siri AI improvements"
+          ],
+          "impact": "iOS 27 aims to improve overall usability.",
+          "id": "b3c99415eb5d21bd4b1a3a9abfafe7c9"
+        },
+        {
+          "title": "Apple Launches Five New Apps",
+          "description": "Apple unveiled five new apps last week, enhancing its software ecosystem. Four were announced at WWDC 2026, with one in beta.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/20/apple-unveiled-these-five-new-apps/",
+          "image": "https://images.macrumors.com/t/hkHwk6kjRla1UrqMchHTC84DoFY=/2500x/article-new/2023/10/Apple-Logo-Spotlight-Blue.jpg",
+          "published_at": "2026-06-20T15:00:00Z",
+          "key_points": [
+            "Five new apps launched",
+            "Four revealed at WWDC",
+            "One in beta for developers"
+          ],
+          "impact": "New apps expand Apple's software offerings.",
+          "id": "f60f838f1dc8a72fe9fbb0793dca8fd4"
+        },
+        {
+          "title": "Linux Kernel Drops strncpy API After Six Years",
+          "description": "Linux 7.2 has officially removed the deprecated strncpy API after extensive work. This marks a significant update for developers.",
+          "category": "Software",
+          "source": "Phoronix",
+          "url": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
+          "image": "https://www.phoronix.net/image.php?id=2026&image=strncpy",
+          "published_at": "2026-06-20T14:22:00Z",
+          "key_points": [
+            "strncpy API removed",
+            "Significant kernel update",
+            "Six years of development effort"
+          ],
+          "impact": "Linux kernel modernization continues with this change.",
+          "id": "c722b3ccf6524402cd1bc849664cc187"
+        },
+        {
+          "title": "Three Apple Stores Permanently Closing Today",
+          "description": "Apple is closing three retail stores in the U.S. today, including a unionized location. This follows previous announcements.",
+          "category": "Business",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/20/three-apple-stores-closing-today/",
+          "image": "https://images.macrumors.com/t/fIP-NHOTBAREpNB9d4R4X7qgf-c=/2500x/article-new/2026/01/Apple-Store-App-Liquid-Glass-Feature.jpg",
+          "published_at": "2026-06-20T14:14:49Z",
+          "key_points": [
+            "Three stores closing today",
+            "Includes unionized location",
+            "Part of retail strategy shift"
+          ],
+          "impact": "Apple's retail strategy undergoes significant changes.",
+          "id": "570a27db218c52979cf6d25df71111e1"
+        },
+        {
+          "title": "Steam Next Fest Features Unique Cannon Game",
+          "description": "A standout demo from Steam Next Fest involves loading a cannon, showcasing creativity despite an overall disappointing event.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/iron-nest-is-a-game-in-which-you-spend-30-minutes-loading-a-big-cannon-and-somehow-its-awesome-2000708523",
+          "image": "https://kotaku.com/app/uploads/2026/06/Iron-Nest-Heavy-Turret-Simulator-official-artwork-from-Steam-store-page-Nick-Nieuwoudt-and-Dominik-Latos-1200x675.jpg",
+          "published_at": "2026-06-20T14:00:52Z",
+          "key_points": [
+            "Unique cannon-loading game",
+            "Best demo of Next Fest",
+            "Event overall disappointing"
+          ],
+          "impact": "Creative demos can shine amid mediocrity.",
+          "id": "a9ffae8dff08216f064a6a245d0b89df"
+        },
+        {
+          "title": "Only Four Useful Android Auto Apps for Road Trips",
+          "description": "After testing ten Android Auto apps, only four proved genuinely useful for road trips. Many apps cluttered the interface.",
+          "category": "Software",
+          "source": "Android Police",
+          "url": "https://www.androidpolice.com/installed-ten-android-auto-apps-for-long-road-trip-but-only-four-were-useful/",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/09/blue-suv-driving-on-a-coastal-road-with-a-large-android-auto-logo-overlayed-on-the-image.png?w=1600&h=900&fit=crop",
+          "published_at": "2026-06-20T13:30:10Z",
+          "key_points": [
+            "Only four apps were useful",
+            "Ten apps tested overall",
+            "Cluttered interface issue"
+          ],
+          "impact": "Streamlining apps enhances driving experience.",
+          "id": "d694dc8c74e7ba2162fadec6882c198a"
+        },
+        {
+          "title": "Sony Plans to Boost PS Plus Profits",
+          "description": "Sony aims to improve PS Plus profitability by enhancing its service offerings. The gaming division achieved record profits last fiscal year.",
+          "category": "Business",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/sony-aims-to-drive-ps-plus-profits-by-improving-service-proposition",
+          "image": "https://images.pushsquare.com/78ae4fdeab038/large.jpg",
+          "published_at": "2026-06-20T13:30:00Z",
+          "key_points": [
+            "Sony targets PS Plus profitability",
+            "Record profits last fiscal year",
+            "Service improvements planned"
+          ],
+          "impact": "Sony seeks to strengthen its gaming revenue.",
+          "id": "e6e594dc273da6cb89123def3ebd865c"
+        },
+        {
+          "title": "Doom Composer Bobby Prince Passes Away at 81",
+          "description": "Bobby Prince, renowned for his iconic Doom soundtrack, has died at age 81. His contributions to gaming music are celebrated.",
+          "category": "Gaming",
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/doom-composer-bobby-prince-dies",
+          "image": "https://assetsio.gnwcdn.com/Screenshot-2026-06-20-at-14.08.02.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-20T13:11:55Z",
+          "key_points": [
+            "Bobby Prince passes away",
+            "Famous for Doom soundtrack",
+            "Legacy in gaming music"
+          ],
+          "impact": "His music left a lasting impact on gaming.",
+          "id": "0d8f5b98fc2e8c164d1dea6cbb9e9902"
+        },
+        {
+          "title": "Switching to Roku's New Home Screen",
+          "description": "Roku introduces a new home screen for its devices, allowing users to switch ahead of the automatic rollout. This update enhances user experience.",
+          "category": "Software",
+          "source": "Cord Cutters News, LLC",
+          "url": "https://cordcuttersnews.com/how-to-switch-to-the-new-roku-home-screen-on-roku-tvs-roku-players/",
+          "image": "https://cordcuttersnews.com/wp-content/uploads/2026/04/image-2026-04-08T195520.664.jpg",
+          "published_at": "2026-06-20T11:28:48Z",
+          "key_points": [
+            "New Roku home screen available",
+            "Users can switch early",
+            "Significant interface overhaul"
+          ],
+          "impact": "Roku enhances user interface with new design.",
+          "id": "c98201c991e8c45ca4974d2d8314a503"
+        },
+        {
+          "title": "Android 17 Causes 5G Issues for Pixel Users",
+          "description": "Pixel users report losing 5G connectivity after updating to Android 17. Ongoing issues are causing frustration among users.",
+          "category": "Software",
+          "source": "Android Central",
+          "url": "https://www.androidcentral.com/apps-software/android-os/android-17-woes-continue-with-pixel-users-losing-5g-connectivity",
+          "image": "https://cdn.mos.cms.futurecdn.net/cHX2cGbPBDofn8NftH7t4C-2048-80.jpg",
+          "published_at": "2026-06-20T11:17:00Z",
+          "key_points": [
+            "Pixel users report 5G issues",
+            "Problems after Android 17 update",
+            "Connectivity frustrations continue"
+          ],
+          "impact": "Android updates can disrupt user connectivity.",
+          "id": "bc2749e3ac849d8551404e498abdf0b9"
+        },
+        {
+          "title": "Gears of War: E-Day Boosts Franchise Popularity",
+          "description": "Gears of War: E-Day's summer release has doubled the franchise's audience, thanks to its recent Xbox exclusivity.",
+          "category": "Gaming",
+          "source": "TrueAchievements",
+          "url": "https://www.trueachievements.com/news/gears-of-war-e-day-reveal-player-count-boost",
+          "image": "https://www.trueachievements.com/imgs/176143/gears-of-war-eday.jpg",
+          "published_at": "2026-06-20T11:00:36Z",
+          "key_points": [
+            "E-Day boosts player count",
+            "Franchise popularity doubles",
+            "Xbox exclusivity benefits"
+          ],
+          "impact": "Increased audience reflects franchise revival.",
+          "id": "076f61c1a099d4bae1f1d20fb3e2fe88"
+        }
+      ]
+    },
+    {
       "id": "2026-06-21T16:44:52.051115+00:00",
       "fetched_at": "2026-06-21T16:44:52.051115+00:00",
       "label": "Jun 21, 2026 — 04:45 PM UTC",
@@ -6600,253 +6847,6 @@
           ],
           "impact": "Design continuity may affect user experience.",
           "id": "adc3eac0db0c6cb38dbcc9a198a86216"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-16T11:08:38.279701+00:00",
-      "fetched_at": "2026-06-16T11:08:38.279701+00:00",
-      "label": "Jun 16, 2026 — 11:10 AM UTC",
-      "articles": [
-        {
-          "title": "PH1 Barrel: 30 Years of Craft Beer Innovation",
-          "description": "The legendary PH1 barrel has inspired brewers across America for 30 years, fostering innovation and connection in craft beer culture.",
-          "category": "Business",
-          "source": "The Washington Post",
-          "url": "https://www.washingtonpost.com/food/2026/06/15/how-ph1-barrel-became-legend-america-craft-beer-scene/",
-          "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XN7HSHJ26ZUYDT5Y3ZTAYWPFLU.JPG&w=1440",
-          "published_at": "2026-06-15T12:33:59Z",
-          "key_points": [
-            "PH1 barrel inspires brewers",
-            "30 years of travel",
-            "Craft beer innovation"
-          ],
-          "impact": "The PH1 barrel continues to shape craft beer.",
-          "id": "33e4779dc46772a6b72c5b72f705bff7"
-        },
-        {
-          "title": "New Warhammer 40,000 Updates Announced",
-          "description": "Exciting updates and new features are coming for the latest edition of Warhammer 40,000, enhancing gameplay and community engagement.",
-          "category": "Gaming",
-          "source": "Warhammer Community",
-          "url": "https://www.warhammer-community.com/articles/8wi6x7nq/new40k-points-apps-and-updates-incoming",
-          "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/40k_pointsapp-jun15-1-feature-pmwhdp4vpd.jpg",
-          "published_at": "2026-06-15T11:55:34Z",
-          "key_points": [
-            "New edition updates",
-            "Enhanced gameplay features",
-            "Community engagement"
-          ],
-          "impact": "Warhammer 40,000 evolves with new updates.",
-          "id": "eb5169fc7b1f1ff8243af18b2a50d672"
-        },
-        {
-          "title": "Essential Travel Gear from a Gadget Veteran",
-          "description": "A seasoned gadget blogger shares must-have travel gear, including bags, chargers, and entertainment essentials for tech-savvy travelers.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/gadgets/947310/gadget-veteran-travel-gear",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268530_SUMMER_UPGRADE_WEEK__CAMPING_GEAR_ADemidova.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-06-15T11:30:00Z",
-          "key_points": [
-            "Travel gear essentials",
-            "Bags and chargers",
-            "Entertainment tips"
-          ],
-          "impact": "Travel smarter with expert gadget advice.",
-          "id": "3e8a96b347994ed1972de45aa2645069"
-        },
-        {
-          "title": "Super Mario Bros. Copy Sells for $3 Million",
-          "description": "A pristine copy of Super Mario Bros. has shattered auction records, selling for $3 million, highlighting the game's enduring legacy.",
-          "category": "Gaming",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/super-mario-bros-3-million-auction",
-          "image": "https://assetsio.gnwcdn.com/super-mario-bros-nes.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-15T11:20:38Z",
-          "key_points": [
-            "Record-breaking auction",
-            "$3 million sale",
-            "Pristine game condition"
-          ],
-          "impact": "Super Mario Bros. continues to captivate collectors.",
-          "id": "57ba2727184545c32210543776eb0112"
-        },
-        {
-          "title": "iOS 27 Developer Beta Shows Promising Stability",
-          "description": "The first developer beta of iOS 27 demonstrates unexpected stability, encouraging early adopters to explore new features without major issues.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/15/the-stability-of-the-first-ios-27-developer-beta-tells-its-own-story/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/The-stability-of-the-first-iOS-27-developer-beta-tells-its-own-story.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-15T11:20:00Z",
-          "key_points": [
-            "iOS 27 beta stability",
-            "Encourages early adoption",
-            "New features explored"
-          ],
-          "impact": "iOS 27 beta impresses with stability.",
-          "id": "74fe56ef760a9dd083e091e3a8042413"
-        },
-        {
-          "title": "Honor Magic V6: Foldable Phone Innovations",
-          "description": "Honor's Magic V6 introduces significant advancements in foldable technology, with a focus on battery life and user experience.",
-          "category": "Hardware",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/948919/honor-magic-v6-foldable-review",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/honor-magic-v6-review-7.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-          "published_at": "2026-06-15T11:00:00Z",
-          "key_points": [
-            "Foldable phone advancements",
-            "Improved battery life",
-            "User experience focus"
-          ],
-          "impact": "Honor Magic V6 sets new foldable standards.",
-          "id": "499fca3ac1c0ff77f6e2ac2661274e6e"
-        },
-        {
-          "title": "Halo: Campaign Evolved Surges in PS5 Pre-Orders",
-          "description": "Halo: Campaign Evolved's multiplatform release strategy is driving significant pre-order interest on PlayStation 5, signaling a major shift.",
-          "category": "Gaming",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/halo-campaign-evolved-ps5-pre-orders",
-          "image": "https://assetsio.gnwcdn.com/Halo_CE_PS-Store.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-15T09:30:48Z",
-          "key_points": [
-            "Multiplatform release strategy",
-            "PS5 pre-orders surge",
-            "Major franchise shift"
-          ],
-          "impact": "Halo's multiplatform move reshapes gaming landscape.",
-          "id": "265905846fccc40d8f468367375d4707"
-        },
-        {
-          "title": "Shimano Revamps Deore Group with New Features",
-          "description": "Shimano introduces innovative cable-actuated derailleurs and brakes in its Deore group, enhancing performance for mountain biking enthusiasts.",
-          "category": "Hardware",
-          "source": "Pinkbike",
-          "url": "https://www.pinkbike.com/news/shimano-reinvents-deore-group-with-new-brakes-and-cable-actuated-drivetrain.html",
-          "image": "https://ep1.pinkbike.org/p4pb29850750/p4pb29850750.jpg",
-          "published_at": "2026-06-15T07:00:00Z",
-          "key_points": [
-            "New cable-actuated derailleurs",
-            "Enhanced braking performance",
-            "Targeted for mountain biking"
-          ],
-          "impact": "Shimano's Deore group sets new performance standards.",
-          "id": "4e33e5a83d8276db217cf0f0f715f7db"
-        },
-        {
-          "title": "Bovensiepen Unveils Elegant BMW M5 Touring",
-          "description": "Bovensiepen, in collaboration with designer Frank Stephenson, presents a refined version of the BMW M5 Touring, emphasizing elegance.",
-          "category": "Business",
-          "source": "Motor1",
-          "url": "https://www.motor1.com/news/798680/bovensiepen-bmw-m5-touring/",
-          "image": "https://cdn.motor1.com/images/mgl/9m8Rzv/s1/bovensiepen-05-gt.jpg",
-          "published_at": "2026-06-15T06:26:00Z",
-          "key_points": [
-            "Elegant BMW M5 Touring",
-            "Collaboration with Frank Stephenson",
-            "Refined design approach"
-          ],
-          "impact": "Bovensiepen redefines BMW elegance.",
-          "id": "383cec27b4ae6b844986c5045e33de22"
-        },
-        {
-          "title": "Modern Warfare 4 Offers Early Access for Pre-Orders",
-          "description": "Pre-ordering Modern Warfare 4 grants players early access to the campaign, starting a week before the official release.",
-          "category": "Gaming",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/06/campaign-early-access-now-included-in-modern-warfare-4-ps5-pre-orders",
-          "image": "https://images.pushsquare.com/e7c25e51b5362/large.jpg",
-          "published_at": "2026-06-15T01:00:00Z",
-          "key_points": [
-            "Early access for pre-orders",
-            "Campaign starts October 16",
-            "Exclusive player benefits"
-          ],
-          "impact": "Pre-ordering enhances player engagement.",
-          "id": "46f2e391fa4451c3beb71ff1830c8a50"
-        },
-        {
-          "title": "Forza Horizon 6: A New Era for Driving Games",
-          "description": "Set in Japan, Forza Horizon 6 promises to elevate open-world driving experiences with its most ambitious setting yet.",
-          "category": "Gaming",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/forza-horizon-6-signals-a-new-peak-for-open-world-driving-games/",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Xbox-Sponsored-Article-1-Feature-Image-2.jpg",
-          "published_at": "2026-06-14T23:30:00Z",
-          "key_points": [
-            "Set in Japan",
-            "Ambitious open-world design",
-            "Elevated driving experience"
-          ],
-          "impact": "Forza Horizon 6 redefines driving games.",
-          "id": "c7c18f567f6c5cb6f71ce73262af7218"
-        },
-        {
-          "title": "Digimon Story: Time Stranger Comparison Video Released",
-          "description": "A new comparison video showcases the differences between Digimon Story: Time Stranger on Nintendo Switch 2, Switch, and PS5.",
-          "category": "Gaming",
-          "source": "Nintendo Everything",
-          "url": "https://nintendoeverything.com/video-digimon-story-time-stranger-nintendo-switch-2-vs-switch-vs-ps5-comparison/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Digimon-Story-Time-Stranger-Switch-2-Switch-PS5-comparison.jpg",
-          "published_at": "2026-06-14T22:20:06Z",
-          "key_points": [
-            "Comparison video released",
-            "Switch 2 vs. PS5",
-            "Digimon gameplay differences"
-          ],
-          "impact": "Digimon comparison highlights platform variations.",
-          "id": "14432636a3bc22664d31f4bb91c118f9"
-        },
-        {
-          "title": "M-VAVE FM-1: Affordable FM Synthesizer Launched",
-          "description": "The M-VAVE FM-1 is a budget-friendly, battery-powered FM synthesizer featuring a multi-FX engine, appealing to music enthusiasts.",
-          "category": "Hardware",
-          "source": "Synthanatomy",
-          "url": "https://synthanatomy.com/2026/06/m-vave-fm-1-a-budget-friendly-dx-7-style-desktop-fm-polysynth.html",
-          "image": "https://synthanatomy.com/wp-content/uploads/2026/06/M-vave-FM-1-synth.jpg",
-          "published_at": "2026-06-14T20:22:41Z",
-          "key_points": [
-            "Budget-friendly FM synthesizer",
-            "Battery-powered design",
-            "Built-in multi-FX engine"
-          ],
-          "impact": "M-VAVE FM-1 makes synthesis accessible.",
-          "id": "09e46cdd9629b5a0644b745a886fd6d3"
-        },
-        {
-          "title": "Top Laptops to Watch After Computex 2026",
-          "description": "Discover the most exciting laptops unveiled at Computex 2026, featuring powerful RTX graphics and innovative AI capabilities.",
-          "category": "Hardware",
-          "source": "Digital Trends",
-          "url": "https://www.digitaltrends.com/computing/best-laptops-coming-in-2026-after-computex/",
-          "image": "https://www.digitaltrends.com/tachyon/2026/06/ASUS-ROG-Strix-Scar-18-Computex-2026-Other.jpg?resize=1200%2C630",
-          "published_at": "2026-06-14T20:08:37Z",
-          "key_points": [
-            "Exciting laptop announcements",
-            "RTX graphics powerhouses",
-            "Innovative AI features"
-          ],
-          "impact": "Computex 2026 showcases future laptop innovations.",
-          "id": "013a2cdafd654b149ff2821e37dc4f0b"
-        },
-        {
-          "title": "Stranger Than Heaven Revamps Yakuza Combat System",
-          "description": "Stranger Than Heaven introduces a new stamina-based combat system, replacing traditional Heat Moves with innovative shoulder button mechanics.",
-          "category": "Gaming",
-          "source": "Wccftech",
-          "url": "https://wccftech.com/stranger-than-heaven-combat-shoulder-buttons-stamina-counterattacks/",
-          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/8790abc5-b82e-48f5-97ae-da40d341a723-HD-1920x1080.jpeg",
-          "published_at": "2026-06-14T19:00:00Z",
-          "key_points": [
-            "New combat system introduced",
-            "Stamina-based mechanics",
-            "Shoulder button focus"
-          ],
-          "impact": "Stranger Than Heaven innovates Yakuza gameplay.",
-          "id": "e5600b743eb011984ffe4be290103ca6"
         }
       ]
     }
