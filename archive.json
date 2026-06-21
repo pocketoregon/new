@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-21T04:05:16.463242+00:00",
+      "fetched_at": "2026-06-21T04:05:16.463242+00:00",
+      "label": "Jun 21, 2026 — 04:05 AM UTC",
+      "articles": [
+        {
+          "title": "Nex Playground Console Launches in UK Tomorrow",
+          "description": "The Nex Playground console costs £269 and launches on June 22 in the UK. It's designed to encourage kids to be active.",
+          "category": "Gaming",
+          "source": "BBC News",
+          "url": "https://www.bbc.com/news/articles/czx50rrz7zro",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0bab/live/82f041c0-6bcc-11f1-a94c-73f00a91c697.jpg",
+          "published_at": "2026-06-20T01:10:51Z",
+          "key_points": [
+            "Costs £269 in the UK",
+            "Launches June 22",
+            "Encourages physical activity"
+          ],
+          "impact": "The Nex Playground aims to promote active play.",
+          "id": "560c3a56d7dab7dbd0ef5d6e45010e39"
+        },
+        {
+          "title": "Nothing Cancels CMF Phone Release Due to RAM Prices",
+          "description": "Nothing has canceled the CMF Phone 2 Pro release this year due to rising RAM costs. The company couldn't produce it at a viable price.",
+          "category": "Business",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/nothing-cmf-phone-2-pro-01.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+          "published_at": "2026-06-19T21:28:39Z",
+          "key_points": [
+            "CMF Phone 2 Pro canceled",
+            "Rising RAM prices",
+            "No viable production cost"
+          ],
+          "impact": "Nothing's cancellation reflects ongoing supply chain issues.",
+          "id": "426e1218f4cfb70705bc90c9c7e6c5e0"
+        },
+        {
+          "title": "Google Discontinues Nest Mini and Nest Audio Speakers",
+          "description": "Google has streamlined its speaker offerings, now selling only one model. The Nest Mini and Nest Audio are officially discontinued.",
+          "category": "Business",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/google-nest-mini-audio-discontinued",
+          "image": "https://helios-i.mashable.com/imagery/articles/0362lFXts2BHr2VYg2ppO1P/hero-image.fill.size_1200x675.v1781807066.jpg",
+          "published_at": "2026-06-19T21:25:10Z",
+          "key_points": [
+            "Only one speaker model now",
+            "Nest Mini discontinued",
+            "Nest Audio phased out"
+          ],
+          "impact": "Google simplifies its audio product lineup.",
+          "id": "b500be578656cccba9828e2f0f116362"
+        },
+        {
+          "title": "Apple Drops Support for Many Watches in watchOS 27",
+          "description": "Apple's watchOS 27 will discontinue support for numerous older models, focusing on newer devices for better performance.",
+          "category": "Software",
+          "source": "GSMArena.com",
+          "url": "https://www.gsmarena.com/heres_why_apple_is_already_dropping_support_for_so_many_watches_in_watchos_27-news-73362.php",
+          "image": "https://fdn.gsmarena.com/imgroot/news/26/06/watch-os-27-support-cutoff-explained/-952x498w6/gsmarena_000.jpg",
+          "published_at": "2026-06-19T21:00:02Z",
+          "key_points": [
+            "Older models lose support",
+            "Focus on performance",
+            "Announced at WWDC"
+          ],
+          "impact": "Apple prioritizes performance with new software.",
+          "id": "5661f341d6692109c6c2482a1545beee"
+        },
+        {
+          "title": "Unpatchable 'usbliter8' Exploit Targets Apple A12 and A13",
+          "description": "The usbliter8 exploit poses a significant security risk by targeting Apple A12 and A13 chips, creating an unpatchable vulnerability.",
+          "category": "Security",
+          "source": "Internet",
+          "url": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIM725Ni41-PBwM_6zXNdsydP1eZO7oSsWIlAqpwdOu9dOcZM6ZI1iaqwSsL3yZKT4lbFRM-eZVq3ARKDbLRnid1pJ0Us3XX135nD0tV71gb1lnADzig_vE9c6CAiJdlJ-Wco11InBKUyGX9V5nRFn9qZxuxeJKCzsCV4tQTfFIgU3F05Wnp2VfsxyTPs/s1600/apple-chip.jpg",
+          "published_at": "2026-06-19T18:37:00Z",
+          "key_points": [
+            "Targets A12 and A13 chips",
+            "Unpatchable vulnerability",
+            "Exploits USB DFU mode"
+          ],
+          "impact": "This exploit raises serious security concerns for Apple users.",
+          "id": "e7b27af79906373961790705d467275b"
+        },
+        {
+          "title": "Microsoft Confirms Windows 11 26H2 Release",
+          "description": "Microsoft has confirmed the upcoming Windows 11 26H2 release, urging IT admins to prepare for the rollout.",
+          "category": "Software",
+          "source": "Neowin",
+          "url": "https://www.neowin.net/news/microsoft-confirms-windows-11-26h2-urges-it-admins-to-prepare-for-release/",
+          "image": "https://cdn.neowin.com/news/images/uploaded/2024/05/1715026896_windows_11_story.jpg",
+          "published_at": "2026-06-19T18:23:00Z",
+          "key_points": [
+            "Windows 11 26H2 confirmed",
+            "IT admins urged to prepare",
+            "Fast enablement-package rollout"
+          ],
+          "impact": "IT admins need to gear up for the update.",
+          "id": "12e762fd4d0d9a08a512c0c069fd2441"
+        },
+        {
+          "title": "Snap's Premium AR Glasses Lead to Stock Decline",
+          "description": "Snap's launch of expensive AR glasses has resulted in a stock slump amid inflation and competition concerns.",
+          "category": "Business",
+          "source": "Seeking Alpha",
+          "url": "https://seekingalpha.com/news/4605204-snap-gets-a-reality-check-as-premium-ar-glasses-drive-stock-slump",
+          "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1368483131/image_1368483131.jpg?io=getty-c-w630",
+          "published_at": "2026-06-19T16:35:01Z",
+          "key_points": [
+            "Snap launches costly AR glasses",
+            "Stock declines post-launch",
+            "Inflation and competition concerns"
+          ],
+          "impact": "Snap faces challenges in the competitive AR market.",
+          "id": "fce973acf9e2ea2d8e1b89de96bf4e7a"
+        },
+        {
+          "title": "Alogic Launches Touchscreen Monitors for Macs",
+          "description": "Alogic has introduced new touchscreen monitors and portable displays compatible with Macs, enhancing user interaction.",
+          "category": "Hardware",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/19/alogic-touchscreen-monitors-portable-displays/",
+          "image": "https://images.macrumors.com/t/5H8DROu6S-K2P_4TcvGJSsVq2V4=/1600x/article-new/2026/06/alogic-aspekt-touch-27-hero.jpg",
+          "published_at": "2026-06-19T16:12:47Z",
+          "key_points": [
+            "New touchscreen monitors launched",
+            "Supports Mac functionality",
+            "Includes stylus features"
+          ],
+          "impact": "Alogic enhances Mac user experience with new displays.",
+          "id": "97cef18c6eb5a0c7a9a465e3bf22241b"
+        },
+        {
+          "title": "Sailboat Crew Faces Challenge 300 Miles from Shore",
+          "description": "Two Massachusetts sailors confront a crisis during the Newport Bermuda Race after their boat strikes a submerged object.",
+          "category": "Geopolitics",
+          "source": "The Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/06/19/sports/alliance-sailboat-newport-bermuda-race/",
+          "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/YDP3ESPOKHKCO55WSIHB4EA3QM.jpg?auth=9c02cfe8dc03a722318edd9a880a1e1a785f6efbbf7ca02ae164642312c1d66b&width=1440",
+          "published_at": "2026-06-19T15:59:00Z",
+          "key_points": [
+            "Sailboat strikes submerged object",
+            "Crew faces critical situation",
+            "Newport Bermuda Race challenge"
+          ],
+          "impact": "The race highlights the dangers of sailing.",
+          "id": "f7512648412d7ef1992b3dc392d7c21c"
+        },
+        {
+          "title": "Commodore Defends $500 Dumbphone Amid Criticism",
+          "description": "Commodore defends its $500 dumbphone, claiming no one could sell it for less, despite mixed reactions from consumers.",
+          "category": "Business",
+          "source": "Timeextension.com",
+          "url": "https://www.timeextension.com/news/2026/06/this-isnt-your-grannys-flip-phone-commodore-defends-its-usd500-dumbphone",
+          "image": "https://images.timeextension.com/78060d660af5f/large.jpg",
+          "published_at": "2026-06-19T15:30:00Z",
+          "key_points": [
+            "$500 dumbphone criticized",
+            "Commodore defends pricing",
+            "Claims no cheaper alternatives"
+          ],
+          "impact": "Commodore faces backlash over pricing strategy.",
+          "id": "25fba74e1d73c75331852364905af31f"
+        },
+        {
+          "title": "Halo Studios Reveals Six Hours of Campaign Footage",
+          "description": "Halo Studios has unveiled six hours of footage showcasing the main menu of Campaign Evolved, generating excitement among fans.",
+          "category": "Gaming",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/06/halo-studios-unveils-six-hours-of-footage-from-campaign-evolveds-main-menu",
+          "image": "https://images.purexbox.com/95c2616fe4e22/large.jpg",
+          "published_at": "2026-06-19T15:30:00Z",
+          "key_points": [
+            "Six hours of campaign footage",
+            "Excitement among fans",
+            "Showcases main menu"
+          ],
+          "impact": "Fans eagerly anticipate the new Halo experience.",
+          "id": "72de8d4b025d0abc8b4f7c6d0b1a919b"
+        },
+        {
+          "title": "Early Prime Day Deals on Apple Devices Now Live",
+          "description": "Amazon's Prime Day event runs from June 23-26, featuring early deals on Apple devices and accessories.",
+          "category": "Business",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/19/early-prime-day-deals-apple-2026/",
+          "image": "https://images.macrumors.com/t/qxPlCt_WEnmyUWVCBusikb4frHE=/2500x/article-new/2026/06/airpods-max-2-summer.jpeg",
+          "published_at": "2026-06-19T14:46:06Z",
+          "key_points": [
+            "Prime Day runs June 23-26",
+            "Early Apple deals available",
+            "Longer event duration"
+          ],
+          "impact": "Shoppers can save on Apple products.",
+          "id": "608340ed56f6aea66ecb18af5828ccea"
+        },
+        {
+          "title": "Google Launches Controversial AI Training Feature",
+          "description": "Google's new search feature raises privacy concerns, prompting users to consider disabling it for safety.",
+          "category": "Software",
+          "source": "HuffPost",
+          "url": "https://www.huffpost.com/entry/google-search-setting-privacy-ai_l_6a2c4630e4b0ba7a1fed2872",
+          "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/18/21/thumb/EKDSz2hrD.jpg?crop=1250:654;0,86%26downsize=1250:*",
+          "published_at": "2026-06-19T14:29:35Z",
+          "key_points": [
+            "New AI feature launched",
+            "Privacy concerns raised",
+            "Users advised to disable"
+          ],
+          "impact": "Google's feature sparks privacy debates.",
+          "id": "fca754429742305d7c9d95060c116229"
+        },
+        {
+          "title": "Upcoming Xbox Games for June 22-26 Announced",
+          "description": "Xbox reveals new game releases including DEAD OR ALIVE 6 and Age of Empires Mobile for the week of June 22-26.",
+          "category": "Gaming",
+          "source": "Xbox.com",
+          "url": "https://news.xbox.com/en-us/2026/06/19/next-week-on-xbox-new-games-for-june-22-to-26/",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/nwox-hero-b33ddfe24e03736ef3d7.jpg",
+          "published_at": "2026-06-19T14:02:29Z",
+          "key_points": [
+            "New games announced",
+            "Includes DEAD OR ALIVE 6",
+            "Releases from June 22-26"
+          ],
+          "impact": "Gamers can look forward to exciting releases.",
+          "id": "0f73629ecce2111f2785033123550259"
+        },
+        {
+          "title": "iPhone Ultra Leak Reveals Design and Features",
+          "description": "A new leak shows the iPhone Ultra's design and an anticipated iOS feature, exciting fans ahead of its release.",
+          "category": "Business",
+          "source": "Digital Trends",
+          "url": "https://www.digitaltrends.com/phones/the-latest-iphone-ultra-leak-leaves-little-to-the-imagination-and-includes-a-much-awaited-ios-feature/",
+          "image": "https://www.digitaltrends.com/tachyon/2026/06/iPhone-Ultra-in-two-colors.jpg?resize=1200%2C630",
+          "published_at": "2026-06-19T13:28:56Z",
+          "key_points": [
+            "iPhone Ultra design leaked",
+            "Includes awaited iOS feature",
+            "Fans excited for release"
+          ],
+          "impact": "The leak builds anticipation for the iPhone Ultra.",
+          "id": "5ba9bdeb5756108521ff6d76afd5f188"
+        }
+      ]
+    },
+    {
       "id": "2026-06-20T22:05:10.157308+00:00",
       "fetched_at": "2026-06-20T22:05:10.157308+00:00",
       "label": "Jun 20, 2026 — 10:05 PM UTC",
@@ -6776,253 +7023,6 @@
           ],
           "impact": "Smart home setups can benefit from audits.",
           "id": "03997a5dd167a427bf7aa78ea7a19c8c"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-15T12:11:12.858637+00:00",
-      "fetched_at": "2026-06-15T12:11:12.858637+00:00",
-      "label": "Jun 15, 2026 — 12:12 PM UTC",
-      "articles": [
-        {
-          "title": "Discover Samsung's Hidden Phone Features",
-          "description": "Samsung phones have hidden features like a compass and ruler that many users overlook. Explore these tools to enhance your smartphone experience.",
-          "category": "Software",
-          "source": "Android Authority",
-          "url": "https://www.androidauthority.com/hidden-features-samsung-phone-3672514/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2025/06/samsung-connectivity-labs-nearby-wifi-info-scaled.jpg",
-          "published_at": "2026-06-14T10:01:26Z",
-          "key_points": [
-            "Hidden tools enhance user experience",
-            "Explore One UI features",
-            "Maximize smartphone functionality"
-          ],
-          "impact": "Users can unlock new capabilities on Samsung devices.",
-          "id": "651ff147339b8b6e0e7e9860ac51db9b"
-        },
-        {
-          "title": "Intel's Core 200 Processors Set for 2027 Launch",
-          "description": "Intel's upcoming Core 200 processors, known as Raptor Lake Next, are confirmed for a 2027 release. These will be compatible with the LGA-1700 socket.",
-          "category": "Hardware",
-          "source": "Videocardz.com",
-          "url": "https://videocardz.com/newz/intel-to-launch-core-200-raptor-lake-next-in-2027-for-lga-1700-socket",
-          "image": "https://cdn.videocardz.com/1/2026/06/INTEL-CORE-200-RAPTOR-LAKE-NEXT-HERO.jpg",
-          "published_at": "2026-06-14T07:23:47Z",
-          "key_points": [
-            "Core 200 processors coming in 2027",
-            "Compatible with LGA-1700 socket",
-            "Raptor Lake Next confirmed"
-          ],
-          "impact": "Intel aims to enhance its processor lineup.",
-          "id": "34210eb4b6f36ffb2d8b290bd45c03ac"
-        },
-        {
-          "title": "Rayman Legends Returns with New Content",
-          "description": "Ubisoft revives Rayman Legends with a remake featuring new content and gameplay. Fans can expect a fresh take on the beloved classic.",
-          "category": "Gaming",
-          "source": "Nintendoeverything.com",
-          "url": "https://nintendoeverything.com/rayman-legends-retold-interview/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Rayman-Legends-Retold-interview.jpg",
-          "published_at": "2026-06-14T04:56:41Z",
-          "key_points": [
-            "Rayman Legends remake announced",
-            "New content and gameplay features",
-            "Thirteen years since original release"
-          ],
-          "impact": "Fans can enjoy a modernized Rayman experience.",
-          "id": "33601a1ff5f6c7f7ae19d2b77ef34102"
-        },
-        {
-          "title": "Samsung's Foldable Lineup Size Comparison Leaked",
-          "description": "Leaked images reveal size comparisons for Samsung's Galaxy Z Flip 8 and Z Fold 8 models. The designs show notable changes in dimensions.",
-          "category": "Hardware",
-          "source": "Notebookcheck.net",
-          "url": "https://www.notebookcheck.net/Side-by-side-size-comparison-of-Samsung-s-upcoming-foldable-lineup-leaked.1321370.0.html",
-          "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsungs-2025-foldable-lineup.png",
-          "published_at": "2026-06-14T01:30:00Z",
-          "key_points": [
-            "New foldable designs revealed",
-            "Galaxy Z Flip 8 and Z Fold 8",
-            "Wider, shorter Fold 8 design"
-          ],
-          "impact": "Samsung's foldable lineup shows significant evolution.",
-          "id": "fe3294d3782182e9efbd3225d7934d73"
-        },
-        {
-          "title": "Mega Man Star Force Update Coming Soon",
-          "description": "A new update for Mega Man Star Force: Legacy Collection will be released next week, addressing bugs and enhancing functionality.",
-          "category": "Gaming",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/06/mega-man-star-force-legacy-collection-is-getting-a-new-update-early-next-week",
-          "image": "https://images.nintendolife.com/3a286644eb84c/large.jpg",
-          "published_at": "2026-06-14T01:06:46Z",
-          "key_points": [
-            "Update fixes bugs",
-            "Improves game functionality",
-            "Release scheduled for next week"
-          ],
-          "impact": "Players can expect a smoother gaming experience.",
-          "id": "cc39111da5c1fd62a32570ae6a939909"
-        },
-        {
-          "title": "AirPods Pro 3 Price Drop Ahead of Prime Day",
-          "description": "Apple's AirPods Pro 3 are now available at their lowest price ever, coinciding with new features in iOS 27. Don't miss this deal.",
-          "category": "Hardware",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/13/airpods-pro-3-drop-to-their-best-price-ever-as-apple-announces-new-ios-27-features/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/airpods-pro-3-siri-icon.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-13T22:08:00Z",
-          "key_points": [
-            "AirPods Pro 3 at lowest price",
-            "New iOS 27 features announced",
-            "Best Prime Day deal available"
-          ],
-          "impact": "Consumers can save significantly on AirPods Pro 3.",
-          "id": "86b51ae78064b637b04b3ead1118955f"
-        },
-        {
-          "title": "Apple's iPhone Ultra Pricing Strategy Explained",
-          "description": "Apple's iPhone Ultra is set at $1,999, positioning it as a luxury foldable smartphone to maintain profit margins across the lineup.",
-          "category": "Business",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/ewanspence/2026/06/13/iphone-18-pro-ultra-pricing-strategy-apple-intelligence/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6933456f4efbd204f83bd179/0x0.jpg?format=jpg&crop=3223,1814,x756,y379,safe&height=900&width=1600&fit=bounds",
-          "published_at": "2026-06-13T21:10:34Z",
-          "key_points": [
-            "iPhone Ultra priced at $1,999",
-            "Luxury smartphone strategy",
-            "Protects margins across iPhone range"
-          ],
-          "impact": "Apple aims to balance luxury and affordability.",
-          "id": "f24f21941d2719e82d8fc6ae18f8d7f5"
-        },
-        {
-          "title": "Microsoft Releases New Windows 11 Updates",
-          "description": "Microsoft has launched new dynamic updates for Windows 11 and Windows 10, enhancing setup and recovery features across versions.",
-          "category": "Software",
-          "source": "Neowin",
-          "url": "https://www.neowin.net/news/microsoft-released-windows-11-kb5094149--kb5095971--kb5094156-setup-recovery-updates/",
-          "image": "https://cdn.neowin.com/news/images/uploaded/2026/06/1781375214_windows_11_update_neowin_1_story.webp",
-          "published_at": "2026-06-13T19:14:00Z",
-          "key_points": [
-            "New updates for Windows 11",
-            "Enhances setup and recovery",
-            "Dynamic updates released"
-          ],
-          "impact": "Users benefit from improved Windows performance.",
-          "id": "b209250549312aece550fd3921d6ce65"
-        },
-        {
-          "title": "Little Nightmares 3 DLC Now Available",
-          "description": "The Backstage DLC for Little Nightmares 3 has launched, adding new content to the game following its announcement at Summer Game Fest.",
-          "category": "Gaming",
-          "source": "Eurogamer.net",
-          "url": "https://www.eurogamer.net/little-nightmares-3-backstage-dlc",
-          "image": "https://assetsio.gnwcdn.com/Little_Nightmares_III_The_Backstage_Screenshot_1.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-13T17:45:51Z",
-          "key_points": [
-            "Little Nightmares 3 DLC released",
-            "New content available now",
-            "Announced at Summer Game Fest"
-          ],
-          "impact": "Players can explore new adventures in-game.",
-          "id": "10418004405b881f33397a81f29995d5"
-        },
-        {
-          "title": "Supercomputer Reveals Pion Structure",
-          "description": "Researchers used a supercomputer to uncover the internal structure of a pion, enhancing understanding of subatomic particles.",
-          "category": "Science",
-          "source": "Phys.Org",
-          "url": "https://phys.org/news/2026-06-supercomputer-illuminates-subatomic-particle.html",
-          "image": "https://scx2.b-cdn.net/gfx/news/2026/researchers-use-superc.jpg",
-          "published_at": "2026-06-13T17:00:02Z",
-          "key_points": [
-            "Supercomputer reveals pion structure",
-            "Advances particle physics research",
-            "Findings published in scientific journal"
-          ],
-          "impact": "New insights into fundamental particles achieved.",
-          "id": "78edde8ef2fb076765e4b75088c48791"
-        },
-        {
-          "title": "ChromeOS to Skip Odd Number Releases",
-          "description": "ChromeOS will now skip odd-numbered releases to align better with Chrome updates, marking a significant change in versioning strategy.",
-          "category": "Software",
-          "source": "Chrome Unboxed",
-          "url": "https://chromeunboxed.com/chromeos-releases-will-soon-skip-odd-numbers-to-keep-up-with-chrome-updates/",
-          "image": "https://chromeunboxed.com/wp-content/uploads/2026/06/ChromeOSversionNumbersSkipOdds.webp",
-          "published_at": "2026-06-13T16:48:15Z",
-          "key_points": [
-            "ChromeOS skips odd-numbered releases",
-            "Aligns with Chrome versioning",
-            "Major structural change announced"
-          ],
-          "impact": "Streamlined updates for ChromeOS users.",
-          "id": "d9a622e517bc6e47a795e38dc2d69d16"
-        },
-        {
-          "title": "Microsoft Paid $20 Million for One Letter",
-          "description": "Microsoft's $20 million settlement over the name 'Lindows' highlights the complexities of tech branding and trademark disputes.",
-          "category": "Business",
-          "source": "XDA Developers",
-          "url": "https://www.xda-developers.com/microsoft-paid-20-million-one-letter/",
-          "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/lindows-os-featured.jpg?w=1600&h=900&fit=crop",
-          "published_at": "2026-06-13T16:30:22Z",
-          "key_points": [
-            "Microsoft's $20 million settlement",
-            "Trademark dispute over 'Lindows'",
-            "Branding complexities in tech"
-          ],
-          "impact": "Highlights challenges in tech branding disputes.",
-          "id": "48cc5318a8e8714e1d513d4ecb2f942b"
-        },
-        {
-          "title": "Ranking Major Streaming Device Brands",
-          "description": "Nvidia, Apple, and Roku top the rankings of streaming device brands, while Google and Amazon have their own strengths.",
-          "category": "Business",
-          "source": "SlashGear",
-          "url": "https://www.slashgear.com/2191988/every-major-streaming-device-brand-ranked-worst-to-best/",
-          "image": "https://www.slashgear.com/img/gallery/every-major-streaming-device-brand-ranked-worst-to-best/l-intro-1781164791.jpg",
-          "published_at": "2026-06-13T15:15:00Z",
-          "key_points": [
-            "Nvidia and Apple lead rankings",
-            "Roku known for reliability",
-            "Google and Amazon strengths noted"
-          ],
-          "impact": "Consumers can choose from top-rated brands.",
-          "id": "557c829dee2c50ff6296ac2775ef6d3e"
-        },
-        {
-          "title": "Fitbit Air Review: A Promising Fitness Tracker",
-          "description": "The Fitbit Air, a screenless fitness tracker with AI features, impresses with its innovative design and functionality.",
-          "category": "Hardware",
-          "source": "Android Police",
-          "url": "https://www.androidpolice.com/fitbit-air-review/",
-          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/fitbit-air-wrist-1.JPG?w=1600&h=900&fit=crop",
-          "published_at": "2026-06-13T15:00:14Z",
-          "key_points": [
-            "Screenless design with AI coach",
-            "Innovative fitness tracking",
-            "Affordable pricing"
-          ],
-          "impact": "A new contender in the fitness tracker market.",
-          "id": "e205177396eeb21b8fe1ae29e5907612"
-        },
-        {
-          "title": "Navigating Age Gaps in Relationships",
-          "description": "Confronting the realities of an age gap in relationships can lead to difficult reflections on the future and time together.",
-          "category": "Policy",
-          "source": "Business Insider",
-          "url": "https://www.businessinsider.com/grief-math-future-with-older-partner-age-gap-relationship-2026-6#article",
-          "image": "https://i.insider.com/6a2c035d24b35440ad29c27d4?width=1200&format=jpeg",
-          "published_at": "2026-06-13T14:54:00Z",
-          "key_points": [
-            "Age gap raises future concerns",
-            "Navigating relationship dynamics",
-            "Emotional reflections on time"
-          ],
-          "impact": "Highlights challenges in age-gap relationships.",
-          "id": "2cc740535efd603809378bb9e3c52bb3"
         }
       ]
     }

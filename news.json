@@ -1,247 +1,247 @@
 {
-  "date": "2026-06-20",
-  "generated_at": "2026-06-20T22:05:10.157308+00:00",
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T04:05:16.463242+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Aura’s e-ink frame redefines digital photos",
-      "description": "Aura's new e-ink photo frame looks stunningly non-digital, refreshing the classic gift idea. It offers a unique way to display family memories.",
-      "category": "Hardware",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/Aura-Ink-Graphite-Lifestyle-Wallmount-Horizontal.png?resize=1200,670",
-      "published_at": "2026-06-19T21:00:34Z",
-      "key_points": [
-        "Stunning e-ink display",
-        "Refreshes classic gift",
-        "Unique family memories"
-      ],
-      "impact": "Aura's frame elevates digital photo displays.",
-      "id": "2c2b2e8f147a8da91383b301db76321a"
-    },
-    {
-      "title": "Hue’s wired modules integrate non-smart lights",
-      "description": "Philips Hue introduces wired wall modules to connect non-smart lights, enhancing its ecosystem. Currently, these modules are only available in Europe.",
-      "category": "Hardware",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/philips-hue-wandschalter-modul.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "published_at": "2026-06-19T17:24:45Z",
-      "key_points": [
-        "Integrates non-smart lights",
-        "Available only in Europe",
-        "Enhances Hue ecosystem"
-      ],
-      "impact": "Hue expands its ecosystem with new modules.",
-      "id": "38d73143caf9f5c1b0d1d9ad0d15d320"
-    },
-    {
-      "title": "Top gaming deals ahead of Prime Day",
-      "description": "Discover the best gaming deals before Prime Day, featuring discounts on Asus laptops and Samsung monitors. Stock is limited, so act fast.",
+      "title": "Nex Playground Console Launches in UK Tomorrow",
+      "description": "The Nex Playground console costs £269 and launches on June 22 in the UK. It's designed to encourage kids to be active.",
       "category": "Gaming",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/best-early-prime-day-gaming-deals-2026",
-      "image": "https://helios-i.mashable.com/imagery/articles/00hXD5G5HnEbKyMlx2uiXFA/hero-image.fill.size_1200x675.v1781878179.jpg",
-      "published_at": "2026-06-19T16:42:01Z",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czx50rrz7zro",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0bab/live/82f041c0-6bcc-11f1-a94c-73f00a91c697.jpg",
+      "published_at": "2026-06-20T01:10:51Z",
       "key_points": [
-        "Best gaming deals listed",
-        "Limited stock available",
-        "Act before Prime Day"
+        "Costs £269 in the UK",
+        "Launches June 22",
+        "Encourages physical activity"
       ],
-      "impact": "Grab these deals before they sell out.",
-      "id": "605712b9a63d7e85bc25d785e2852ccb"
+      "impact": "The Nex Playground aims to promote active play.",
+      "id": "560c3a56d7dab7dbd0ef5d6e45010e39"
     },
     {
-      "title": "Pragmata update adds cute new suit",
-      "description": "Capcom's Pragmata receives a new update featuring an adorable suit for Hugh. This small update brings fresh excitement to the game.",
-      "category": "Gaming",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/06/pragmatas-latest-update-includes-an-adorable-new-suit-here-are-the-full-patch-notes",
-      "image": "https://images.nintendolife.com/2b635b0053af9/large.jpg",
-      "published_at": "2026-06-19T16:30:00Z",
-      "key_points": [
-        "New suit for Hugh",
-        "Small but exciting update",
-        "Capcom's latest addition"
-      ],
-      "impact": "Pragmata's update enhances player experience.",
-      "id": "ed18d837b8cac2c975a05afc9c3bd3bd"
-    },
-    {
-      "title": "No Law prioritizes density in cyberpunk world",
-      "description": "No Law aims for a dense, immersive cyberpunk world rather than sheer size. The game promises a rich experience for players.",
-      "category": "Gaming",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/06/no-law-aims-for-quality-over-quantity-with-its-cyberpunk-open-world-on-xbox-series-xs",
-      "image": "https://images.purexbox.com/c805352aae93f/large.jpg",
-      "published_at": "2026-06-19T16:15:00Z",
-      "key_points": [
-        "Focus on density over size",
-        "Immersive cyberpunk experience",
-        "Quality gameplay emphasized"
-      ],
-      "impact": "No Law sets a new standard for open worlds.",
-      "id": "7ea61df0669f9a3b448991c37035736c"
-    },
-    {
-      "title": "Qualcomm mimics Samsung's thermal tech",
-      "description": "Qualcomm adopts Samsung's Exynos 2600 thermal technology for its Snapdragon 8 Elite Gen 6 Pro, but implementation issues arise.",
-      "category": "Hardware",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/qualcomm-is-copying-samsung-exynos-2600s-heat-path-block-for-snapdragon-8-elite-gen-6-pro-but-has-botched-the-implementation/",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/Snapdragon-8-Elite-Gen-6-and-Snapdragon-8-Elite-Gen-6-Pro.jpg",
-      "published_at": "2026-06-19T14:57:00Z",
-      "key_points": [
-        "Qualcomm copies Samsung tech",
-        "Implementation issues noted",
-        "Focus on thermal efficiency"
-      ],
-      "impact": "Qualcomm's imitation raises performance concerns.",
-      "id": "88bed00121affd1b3b9ff15c6c1b4910"
-    },
-    {
-      "title": "Joanna Stern reviews new Siri AI",
-      "description": "Joanna Stern shares her week-long experience with iOS 27's new Siri AI, highlighting its strengths and weaknesses.",
-      "category": "Software",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/19/joanna-stern-spent-one-week-with-new-siri-ai-and-its-very-good/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/joanna-stern-siri-ai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-19T13:50:00Z",
-      "key_points": [
-        "Siri AI shows improvements",
-        "Strengths and weaknesses noted",
-        "Joanna's week-long test"
-      ],
-      "impact": "Siri AI demonstrates significant advancements.",
-      "id": "50ac675f853396def2bb1727ff01d937"
-    },
-    {
-      "title": "Trump Mobile PR firm withdraws support",
-      "description": "T1 Phone's PR firm ceases assistance for Trump Mobile, leaving the company to manage its own press relations.",
+      "title": "Nothing Cancels CMF Phone Release Due to RAM Prices",
+      "description": "Nothing has canceled the CMF Phone 2 Pro release this year due to rising RAM costs. The company couldn't produce it at a viable price.",
       "category": "Business",
       "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/952274/t1-phone-pr-firm-not-assisting-trump-mobile-any-further",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-mobile-t1-phone-redesign-website-2026.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published_at": "2026-06-19T13:00:00Z",
+      "url": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/nothing-cmf-phone-2-pro-01.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+      "published_at": "2026-06-19T21:28:39Z",
       "key_points": [
-        "PR firm stops assisting",
-        "Trump Mobile handles press",
-        "Company faces new challenges"
+        "CMF Phone 2 Pro canceled",
+        "Rising RAM prices",
+        "No viable production cost"
       ],
-      "impact": "Trump Mobile must navigate PR independently.",
-      "id": "a51a657e603d61c26f30b1a23872f806"
+      "impact": "Nothing's cancellation reflects ongoing supply chain issues.",
+      "id": "426e1218f4cfb70705bc90c9c7e6c5e0"
     },
     {
-      "title": "Pragmata's team includes 'Diana Police'",
-      "description": "Capcom's Pragmata development featured a group called the 'Diana Police' to authentically capture character innocence.",
-      "category": "Gaming",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/capcom-pragmata-diana-police",
-      "image": "https://assetsio.gnwcdn.com/1000049170.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-19T11:41:04Z",
+      "title": "Google Discontinues Nest Mini and Nest Audio Speakers",
+      "description": "Google has streamlined its speaker offerings, now selling only one model. The Nest Mini and Nest Audio are officially discontinued.",
+      "category": "Business",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/google-nest-mini-audio-discontinued",
+      "image": "https://helios-i.mashable.com/imagery/articles/0362lFXts2BHr2VYg2ppO1P/hero-image.fill.size_1200x675.v1781807066.jpg",
+      "published_at": "2026-06-19T21:25:10Z",
       "key_points": [
-        "Unique development team",
-        "Focus on character authenticity",
-        "Creative approach to design"
+        "Only one speaker model now",
+        "Nest Mini discontinued",
+        "Nest Audio phased out"
       ],
-      "impact": "Pragmata's development showcases innovative methods.",
-      "id": "50c10cc82387a8589848674b8e83ae2c"
+      "impact": "Google simplifies its audio product lineup.",
+      "id": "b500be578656cccba9828e2f0f116362"
     },
     {
-      "title": "Microsoft's Patch Tuesday update issues",
-      "description": "Microsoft's latest update reveals a bug in the Recycle Bin, causing display issues for users. The company acknowledges the problem.",
+      "title": "Apple Drops Support for Many Watches in watchOS 27",
+      "description": "Apple's watchOS 27 will discontinue support for numerous older models, focusing on newer devices for better performance.",
       "category": "Software",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-confirms-recycle-bin-glitch-all-supported-windows",
-      "image": "https://cdn.mos.cms.futurecdn.net/gHkQFojfmGLdh9UHdv9J9Y-1920-80.png",
-      "published_at": "2026-06-19T09:29:32Z",
+      "source": "GSMArena.com",
+      "url": "https://www.gsmarena.com/heres_why_apple_is_already_dropping_support_for_so_many_watches_in_watchos_27-news-73362.php",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/watch-os-27-support-cutoff-explained/-952x498w6/gsmarena_000.jpg",
+      "published_at": "2026-06-19T21:00:02Z",
       "key_points": [
-        "Recycle Bin bug acknowledged",
-        "Display issues reported",
-        "Patch Tuesday update flaws"
+        "Older models lose support",
+        "Focus on performance",
+        "Announced at WWDC"
       ],
-      "impact": "Microsoft's update creates user frustrations.",
-      "id": "db290707fbed9e19e34b4b830e10ff7e"
+      "impact": "Apple prioritizes performance with new software.",
+      "id": "5661f341d6692109c6c2482a1545beee"
     },
     {
-      "title": "Snap's smart glasses launch at $2,195",
-      "description": "Snap unveils new augmented reality glasses priced at $2,195, sparking discussions about the future of wearable tech.",
+      "title": "Unpatchable 'usbliter8' Exploit Targets Apple A12 and A13",
+      "description": "The usbliter8 exploit poses a significant security risk by targeting Apple A12 and A13 chips, creating an unpatchable vulnerability.",
+      "category": "Security",
+      "source": "Internet",
+      "url": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIM725Ni41-PBwM_6zXNdsydP1eZO7oSsWIlAqpwdOu9dOcZM6ZI1iaqwSsL3yZKT4lbFRM-eZVq3ARKDbLRnid1pJ0Us3XX135nD0tV71gb1lnADzig_vE9c6CAiJdlJ-Wco11InBKUyGX9V5nRFn9qZxuxeJKCzsCV4tQTfFIgU3F05Wnp2VfsxyTPs/s1600/apple-chip.jpg",
+      "published_at": "2026-06-19T18:37:00Z",
+      "key_points": [
+        "Targets A12 and A13 chips",
+        "Unpatchable vulnerability",
+        "Exploits USB DFU mode"
+      ],
+      "impact": "This exploit raises serious security concerns for Apple users.",
+      "id": "e7b27af79906373961790705d467275b"
+    },
+    {
+      "title": "Microsoft Confirms Windows 11 26H2 Release",
+      "description": "Microsoft has confirmed the upcoming Windows 11 26H2 release, urging IT admins to prepare for the rollout.",
+      "category": "Software",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/microsoft-confirms-windows-11-26h2-urges-it-admins-to-prepare-for-release/",
+      "image": "https://cdn.neowin.com/news/images/uploaded/2024/05/1715026896_windows_11_story.jpg",
+      "published_at": "2026-06-19T18:23:00Z",
+      "key_points": [
+        "Windows 11 26H2 confirmed",
+        "IT admins urged to prepare",
+        "Fast enablement-package rollout"
+      ],
+      "impact": "IT admins need to gear up for the update.",
+      "id": "12e762fd4d0d9a08a512c0c069fd2441"
+    },
+    {
+      "title": "Snap's Premium AR Glasses Lead to Stock Decline",
+      "description": "Snap's launch of expensive AR glasses has resulted in a stock slump amid inflation and competition concerns.",
+      "category": "Business",
+      "source": "Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4605204-snap-gets-a-reality-check-as-premium-ar-glasses-drive-stock-slump",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1368483131/image_1368483131.jpg?io=getty-c-w630",
+      "published_at": "2026-06-19T16:35:01Z",
+      "key_points": [
+        "Snap launches costly AR glasses",
+        "Stock declines post-launch",
+        "Inflation and competition concerns"
+      ],
+      "impact": "Snap faces challenges in the competitive AR market.",
+      "id": "fce973acf9e2ea2d8e1b89de96bf4e7a"
+    },
+    {
+      "title": "Alogic Launches Touchscreen Monitors for Macs",
+      "description": "Alogic has introduced new touchscreen monitors and portable displays compatible with Macs, enhancing user interaction.",
       "category": "Hardware",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/19/nx-s1-5863068/snap-specs-ar-glasses-2195-smartphones",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3125x1758+0+399/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F55%2F80%2F0e72b53f403b8d9dbdbc0823f5d0%2Fgettyimages-2281916553.jpg",
-      "published_at": "2026-06-19T08:44:44Z",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/19/alogic-touchscreen-monitors-portable-displays/",
+      "image": "https://images.macrumors.com/t/5H8DROu6S-K2P_4TcvGJSsVq2V4=/1600x/article-new/2026/06/alogic-aspekt-touch-27-hero.jpg",
+      "published_at": "2026-06-19T16:12:47Z",
       "key_points": [
-        "AR glasses priced at $2,195",
-        "Snap bets on wearables",
-        "Future of tech discussed"
+        "New touchscreen monitors launched",
+        "Supports Mac functionality",
+        "Includes stylus features"
       ],
-      "impact": "Snap's glasses could redefine wearable tech.",
-      "id": "206c146bda6cba1d7f08bfa3c3764f76"
+      "impact": "Alogic enhances Mac user experience with new displays.",
+      "id": "97cef18c6eb5a0c7a9a465e3bf22241b"
     },
     {
-      "title": "Valve's Steam Controller demand surges",
-      "description": "Valve reports high demand for the Steam Controller, leading to updated reservation timelines extending to 2027.",
+      "title": "Sailboat Crew Faces Challenge 300 Miles from Shore",
+      "description": "Two Massachusetts sailors confront a crisis during the Newport Bermuda Race after their boat strikes a submerged object.",
+      "category": "Geopolitics",
+      "source": "The Boston Globe",
+      "url": "https://www.bostonglobe.com/2026/06/19/sports/alliance-sailboat-newport-bermuda-race/",
+      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/YDP3ESPOKHKCO55WSIHB4EA3QM.jpg?auth=9c02cfe8dc03a722318edd9a880a1e1a785f6efbbf7ca02ae164642312c1d66b&width=1440",
+      "published_at": "2026-06-19T15:59:00Z",
+      "key_points": [
+        "Sailboat strikes submerged object",
+        "Crew faces critical situation",
+        "Newport Bermuda Race challenge"
+      ],
+      "impact": "The race highlights the dangers of sailing.",
+      "id": "f7512648412d7ef1992b3dc392d7c21c"
+    },
+    {
+      "title": "Commodore Defends $500 Dumbphone Amid Criticism",
+      "description": "Commodore defends its $500 dumbphone, claiming no one could sell it for less, despite mixed reactions from consumers.",
+      "category": "Business",
+      "source": "Timeextension.com",
+      "url": "https://www.timeextension.com/news/2026/06/this-isnt-your-grannys-flip-phone-commodore-defends-its-usd500-dumbphone",
+      "image": "https://images.timeextension.com/78060d660af5f/large.jpg",
+      "published_at": "2026-06-19T15:30:00Z",
+      "key_points": [
+        "$500 dumbphone criticized",
+        "Commodore defends pricing",
+        "Claims no cheaper alternatives"
+      ],
+      "impact": "Commodore faces backlash over pricing strategy.",
+      "id": "25fba74e1d73c75331852364905af31f"
+    },
+    {
+      "title": "Halo Studios Reveals Six Hours of Campaign Footage",
+      "description": "Halo Studios has unveiled six hours of footage showcasing the main menu of Campaign Evolved, generating excitement among fans.",
       "category": "Gaming",
-      "source": "Videocardz.com",
-      "url": "https://videocardz.com/newz/valve-says-steam-controller-demand-exceeded-expectations-new-reservations-slip-to-2027",
-      "image": "https://cdn.videocardz.com/1/2026/05/STEAM-CONTROLLER-2026-HERO.jpg",
-      "published_at": "2026-06-19T07:28:11Z",
+      "source": "Pure Xbox",
+      "url": "https://www.purexbox.com/news/2026/06/halo-studios-unveils-six-hours-of-footage-from-campaign-evolveds-main-menu",
+      "image": "https://images.purexbox.com/95c2616fe4e22/large.jpg",
+      "published_at": "2026-06-19T15:30:00Z",
       "key_points": [
-        "High demand for Steam Controller",
-        "Reservations extended to 2027",
-        "Valve updates order estimates"
+        "Six hours of campaign footage",
+        "Excitement among fans",
+        "Showcases main menu"
       ],
-      "impact": "Valve's controller demand exceeds expectations.",
-      "id": "4e2af5274c6b24c712cb24561b2c968d"
+      "impact": "Fans eagerly anticipate the new Halo experience.",
+      "id": "72de8d4b025d0abc8b4f7c6d0b1a919b"
     },
     {
-      "title": "Brain-computer interface restores speech",
-      "description": "A brain-computer interface has successfully restored fluent speech to an ALS patient, marking a significant breakthrough in communication technology.",
-      "category": "Science",
-      "source": "Space Daily",
-      "url": "https://spacedaily.com/d-a-brain-computer-interface-has-for-the-first-time-restored-fluent-everyday-speech-to-a-person-who-had-lost-it-a-man-with-als-who-had-not-spoken-aloud-in-years-until-a-small-implant-from-th/",
-      "image": "https://spacedaily.com/wp-content/uploads/2026/06/Posts-1600840-2026-06-19T122102.715.png",
-      "published_at": "2026-06-19T06:45:08Z",
+      "title": "Early Prime Day Deals on Apple Devices Now Live",
+      "description": "Amazon's Prime Day event runs from June 23-26, featuring early deals on Apple devices and accessories.",
+      "category": "Business",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/19/early-prime-day-deals-apple-2026/",
+      "image": "https://images.macrumors.com/t/qxPlCt_WEnmyUWVCBusikb4frHE=/2500x/article-new/2026/06/airpods-max-2-summer.jpeg",
+      "published_at": "2026-06-19T14:46:06Z",
       "key_points": [
-        "Restores speech to ALS patient",
-        "Breakthrough in communication",
-        "Brain-computer interface success"
+        "Prime Day runs June 23-26",
+        "Early Apple deals available",
+        "Longer event duration"
       ],
-      "impact": "This technology transforms lives for ALS patients.",
-      "id": "6cdd1784b538dcaa6f1d5257dd29dfe4"
+      "impact": "Shoppers can save on Apple products.",
+      "id": "608340ed56f6aea66ecb18af5828ccea"
     },
     {
-      "title": "GTA 5 PS4 to PS5 upgrade available",
-      "description": "GTA 5 players can now upgrade their PS4 version to PS5 for free, enhancing their gaming experience with improved graphics.",
+      "title": "Google Launches Controversial AI Training Feature",
+      "description": "Google's new search feature raises privacy concerns, prompting users to consider disabling it for safety.",
+      "category": "Software",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/google-search-setting-privacy-ai_l_6a2c4630e4b0ba7a1fed2872",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/18/21/thumb/EKDSz2hrD.jpg?crop=1250:654;0,86%26downsize=1250:*",
+      "published_at": "2026-06-19T14:29:35Z",
+      "key_points": [
+        "New AI feature launched",
+        "Privacy concerns raised",
+        "Users advised to disable"
+      ],
+      "impact": "Google's feature sparks privacy debates.",
+      "id": "fca754429742305d7c9d95060c116229"
+    },
+    {
+      "title": "Upcoming Xbox Games for June 22-26 Announced",
+      "description": "Xbox reveals new game releases including DEAD OR ALIVE 6 and Age of Empires Mobile for the week of June 22-26.",
       "category": "Gaming",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/06/gta-5s-free-ps4-to-ps5-upgrade-available-for-all-players-now",
-      "image": "https://images.pushsquare.com/1160eb312f7be/large.jpg",
-      "published_at": "2026-06-18T18:45:00Z",
+      "source": "Xbox.com",
+      "url": "https://news.xbox.com/en-us/2026/06/19/next-week-on-xbox-new-games-for-june-22-to-26/",
+      "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/nwox-hero-b33ddfe24e03736ef3d7.jpg",
+      "published_at": "2026-06-19T14:02:29Z",
       "key_points": [
-        "Free PS4 to PS5 upgrade",
-        "Available for all players",
-        "Enhances gaming experience"
+        "New games announced",
+        "Includes DEAD OR ALIVE 6",
+        "Releases from June 22-26"
       ],
-      "impact": "GTA 5 upgrade boosts player engagement.",
-      "id": "889dbb17b2a4d825a9fee65e98e294b0"
+      "impact": "Gamers can look forward to exciting releases.",
+      "id": "0f73629ecce2111f2785033123550259"
     },
     {
-      "title": "007 First Light PC review highlights flaws",
-      "description": "007 First Light receives a solid PC port review, but some significant omissions are noted, impacting overall gameplay experience.",
-      "category": "Gaming",
-      "source": "Digital Foundry",
-      "url": "https://www.digitalfoundry.net/reviews/007-first-light-pc-review-and-optimised-settings-guide",
-      "image": "https://images.digitalfoundry.net/4d93b30419961/large.jpg",
-      "published_at": "2026-06-18T16:27:12Z",
+      "title": "iPhone Ultra Leak Reveals Design and Features",
+      "description": "A new leak shows the iPhone Ultra's design and an anticipated iOS feature, exciting fans ahead of its release.",
+      "category": "Business",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/phones/the-latest-iphone-ultra-leak-leaves-little-to-the-imagination-and-includes-a-much-awaited-ios-feature/",
+      "image": "https://www.digitaltrends.com/tachyon/2026/06/iPhone-Ultra-in-two-colors.jpg?resize=1200%2C630",
+      "published_at": "2026-06-19T13:28:56Z",
       "key_points": [
-        "Solid PC port review",
-        "Significant omissions noted",
-        "Optimized settings guide provided"
+        "iPhone Ultra design leaked",
+        "Includes awaited iOS feature",
+        "Fans excited for release"
       ],
-      "impact": "007 First Light's port has room for improvement.",
-      "id": "48935d668a12e0b2003700cbe33ea340"
+      "impact": "The leak builds anticipation for the iPhone Ultra.",
+      "id": "5ba9bdeb5756108521ff6d76afd5f188"
     }
   ]
 }
