@@ -1,6 +1,237 @@
 {
   "batches": [
     {
+      "id": "2026-06-21T09:48:26.099191+00:00",
+      "fetched_at": "2026-06-21T09:48:26.099191+00:00",
+      "label": "Jun 21, 2026 — 09:48 AM UTC",
+      "articles": [
+        {
+          "title": "Apple’s Early Prime Day Sale Is Live!",
+          "description": "Grab early Prime Day deals on Apple products like MacBooks and AirPods at Amazon now. Don't miss these limited-time offers!",
+          "category": "Business",
+          "source": "CNET",
+          "url": "https://www.cnet.com/deals/best-prime-day-apple-deals-2026-06-19/",
+          "image": "https://www.cnet.com/a/img/resize/aa4526b6148f63969eee249810edf5256787edfd/hub/2026/06/09/d3ece905-03a5-492e-a6bb-c7590f32b299/apple-devices-on-a-purple-background.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "published_at": "2026-06-20T07:42:23Z",
+          "key_points": [
+            "Early deals on Apple products",
+            "Limited-time offers",
+            "Shop now at Amazon"
+          ],
+          "impact": "Apple's sale boosts early Prime Day excitement.",
+          "id": "8f3581840465c6df8fb6dbc3e1ca0749"
+        },
+        {
+          "title": "Windows 11 26H2 Set for Fall 2026 Release",
+          "description": "Microsoft confirms Windows 11 26H2 will be a minor update, focusing on stability rather than major features. Supported PCs have been detailed.",
+          "category": "Software",
+          "source": "WindowsLatest",
+          "url": "https://www.windowslatest.com/2026/06/20/microsoft-confirms-windows-11-26h2-for-fall-2026-release-reveals-supported-pcs-and-other-details/",
+          "image": "https://www.windowslatest.com/wp-content/uploads/2026/06/Windows-11-26H2.jpg",
+          "published_at": "2026-06-19T20:35:26Z",
+          "key_points": [
+            "Minor update for Windows 11",
+            "Focus on stability",
+            "Supported PCs listed"
+          ],
+          "impact": "Windows updates aim for greater predictability.",
+          "id": "f8f51adea9e2a3b1dd66bacb3a87a58a"
+        },
+        {
+          "title": "Ubisoft Offers 149 Free Games",
+          "description": "Ubisoft has made 149 games available for free for PC and Xbox users for a limited time. Don't miss this opportunity!",
+          "category": "Gaming",
+          "source": "ComicBook.com",
+          "url": "http://comicbook.com/gaming/news/ubisoft-games-free-download/",
+          "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/02/u-b-i-s-o-f-t.png?resize=2000,1125",
+          "published_at": "2026-06-19T20:18:16Z",
+          "key_points": [
+            "149 games available for free",
+            "Limited time offer",
+            "PC and Xbox only"
+          ],
+          "impact": "Ubisoft's promotion boosts player engagement.",
+          "id": "67e24a528a3dc9e34817a2d5f7c8278e"
+        },
+        {
+          "title": "GTA 6 Trailer Reveals New Details",
+          "description": "The latest Grand Theft Auto 6 trailer showcases cover art and music, hinting at its pre-order date. Fans are excited!",
+          "category": "Gaming",
+          "source": "Digitalfoundry.net",
+          "url": "https://www.digitalfoundry.net/features/gta-6-and-the-mystery-of-the-missing-ferris-wheel-reflection",
+          "image": "https://images.digitalfoundry.net/ca5b25150cc8d/large.jpg",
+          "published_at": "2026-06-19T17:06:00Z",
+          "key_points": [
+            "New GTA 6 trailer released",
+            "Features 80s music",
+            "Pre-order date hinted"
+          ],
+          "impact": "GTA 6 hype continues to build.",
+          "id": "666717f3c604504f1bbe64457e2ffd52"
+        },
+        {
+          "title": "The Grinch Sequel Coming in September 2026",
+          "description": "A sequel to The Grinch: Christmas Adventures will launch in September 2026 on Xbox, following its predecessor's success.",
+          "category": "Gaming",
+          "source": "TrueAchievements",
+          "url": "https://www.trueachievements.com/news/the-grinch-2-saving-christmas-release-date",
+          "image": "https://www.trueachievements.com/imgs/176217/the-grinch-2-release-date.jpg",
+          "published_at": "2026-06-19T15:45:08Z",
+          "key_points": [
+            "Grinch sequel announced",
+            "Releasing September 2026",
+            "Xbox exclusive"
+          ],
+          "impact": "Fans anticipate the Grinch's return.",
+          "id": "88558185bd8e608b53609f73974e9d29"
+        },
+        {
+          "title": "iPhone 18 Pro Features Leaked",
+          "description": "Rumored features for the iPhone 18 Pro include significant upgrades, set to launch this fall. Excitement builds!",
+          "category": "Business",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/19/iphone-18-pro-six-new-features-are-coming-this-fall/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-silver-centered.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-19T14:19:00Z",
+          "key_points": [
+            "Six new features rumored",
+            "iPhone 18 Pro launching",
+            "Fall release expected"
+          ],
+          "impact": "Anticipation for iPhone 18 Pro grows.",
+          "id": "5d3c1cfd5728ba96b1b7a96c1f39a59f"
+        },
+        {
+          "title": "Final Fantasy VII Remake Trilogy Finale Trailer Released",
+          "description": "SQUARE ENIX has unveiled the trailer for 'FINAL FANTASY VII REVELATION,' the final chapter of the remake trilogy, set for spring release.",
+          "category": "Gaming",
+          "source": "InvenGlobal",
+          "url": "https://www.invenglobal.com/articles/final-fantasy-vii-remake-trilogy-finale-revelation-trailer-released",
+          "image": "https://static.invenglobal.com/upload/image/2026/06/19/r1781878337569271.jpeg",
+          "published_at": "2026-06-19T14:10:10Z",
+          "key_points": [
+            "Final installment trailer released",
+            "Spring release planned",
+            "Fans eagerly await conclusion"
+          ],
+          "impact": "Final Fantasy VII saga reaches its climax.",
+          "id": "97c80df6a8b43516f0647cdd5431e4f0"
+        },
+        {
+          "title": "Pokémon GO Fest 2026 Countdown Begins",
+          "description": "Pokémon GO Fest 2026: Global kicks off with Road of Legends, featuring Legendary raids and event bonuses from July 6-10, 2026.",
+          "category": "Gaming",
+          "source": "Pokemon GO Hub",
+          "url": "https://pokemongohub.net/post/event/go-fest-2026-road-of-legends/",
+          "image": "https://pokemongohub.net/wp-content/uploads/2026/06/PGO-MCS_GOFest_2026_GOPass_v3-16x9-1.jpg",
+          "published_at": "2026-06-19T13:36:59Z",
+          "key_points": [
+            "GO Fest 2026 starts July 6",
+            "Legendary raids featured",
+            "Event bonuses available"
+          ],
+          "impact": "Excitement builds for Pokémon GO Fest.",
+          "id": "fd54b826335557f69364f3a499a107c2"
+        },
+        {
+          "title": "Minecraft Chaos Sparks Community Challenge Launched",
+          "description": "Join the Chaos Sparks Community Challenge in Minecraft to earn rewards by creating chaos with your team. Get involved now!",
+          "category": "Gaming",
+          "source": "Minecraft.net",
+          "url": "https://www.minecraft.net/en-us/article/community-challenge-chaos-sparks",
+          "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/Minecraft_ChaosCubed_CommunityChallenge1_dotNET_1170x500.jpg",
+          "published_at": "2026-06-19T12:51:46Z",
+          "key_points": [
+            "Chaos Sparks challenge launched",
+            "Earn special rewards",
+            "Team-based gameplay encouraged"
+          ],
+          "impact": "Community engagement in Minecraft increases.",
+          "id": "d82431ba1f695de349100dc92c89c043"
+        },
+        {
+          "title": "ROG Xbox Ally X20 Launches Soon",
+          "description": "ASUS reveals the ROG Xbox Ally X20, featuring upgrades and a high price tag. Expect premium gaming performance.",
+          "category": "Hardware",
+          "source": "Pure Xbox",
+          "url": "https://www.purexbox.com/news/2026/06/rog-xbox-ally-x20-marks-the-opportunity-of-a-lifetime-but-expect-a-high-price",
+          "image": "https://images.purexbox.com/aad445e70ad5e/large.jpg",
+          "published_at": "2026-06-19T12:30:00Z",
+          "key_points": [
+            "ROG Xbox Ally X20 announced",
+            "Upgraded features included",
+            "High price expected"
+          ],
+          "impact": "Premium gaming device targets enthusiasts.",
+          "id": "8a940ee2830e23e45bc1a54f484b72e0"
+        },
+        {
+          "title": "Legionnaires’ Disease Outbreak Insights 50 Years Later",
+          "description": "Scientists now understand the cause of the 1976 Legionnaires’ disease outbreak in Philadelphia, linked to Legionella pneumophila bacteria.",
+          "category": "Science",
+          "source": "The Conversation Africa",
+          "url": "https://theconversation.com/legionnaires-disease-outbreak-in-philadelphia-in-1976-was-mysterious-and-deadly-50-years-later-scientists-know-the-cause-but-outbreaks-continue-284150",
+          "image": "https://images.theconversation.com/files/741410/original/file-20260611-57-g4hd9i.jpg?ixlib=rb-4.1.0&rect=0%2C369%2C4557%2C2278&q=45&auto=format&w=1356&h=668&fit=crop",
+          "published_at": "2026-06-19T12:10:52Z",
+          "key_points": [
+            "Legionella pneumophila identified",
+            "Outbreak details revisited",
+            "Ongoing risks highlighted"
+          ],
+          "impact": "Understanding of Legionnaires’ disease improves.",
+          "id": "3236f0414274d9b284e4ef5398248ea0"
+        },
+        {
+          "title": "Microsoft's New Windows Bug Exposed",
+          "description": "A recent Windows update reveals internal file names during file deletions, causing confusion among users. Microsoft is addressing the issue.",
+          "category": "Software",
+          "source": "The Register",
+          "url": "https://www.theregister.com/personal-tech/2026/06/19/microsofts-latest-windows-bug-belongs-in-the-recycle-bin/5258779",
+          "image": "https://image.theregister.com/5258862.jpg?imageId=5258862&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+          "published_at": "2026-06-19T12:06:04Z",
+          "key_points": [
+            "Windows bug reveals file names",
+            "User confusion reported",
+            "Microsoft working on fix"
+          ],
+          "impact": "User experience affected by cosmetic bug.",
+          "id": "8f39d907dc0319fe36f8051b94b2b3b5"
+        },
+        {
+          "title": "Valve's Steam Machine Details Leaked",
+          "description": "Leaked information reveals Valve's upcoming Steam Machine features a custom AMD CPU and GPU, priced at $799, ahead of its announcement.",
+          "category": "Hardware",
+          "source": "Geeky Gadgets",
+          "url": "https://www.geeky-gadgets.com/?p=496219",
+          "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/steam-machine-leak.jpg",
+          "published_at": "2026-06-19T11:50:31Z",
+          "key_points": [
+            "Steam Machine features leaked",
+            "Custom AMD hardware included",
+            "$799 starting price"
+          ],
+          "impact": "Valve's new console generates buzz.",
+          "id": "f3d074a8d5b2047d72e05da4678ee241"
+        },
+        {
+          "title": "Sea of Thieves Custom Seas Update Released",
+          "description": "Season 20 of Sea of Thieves introduces Custom Seas, allowing players to create unique experiences in the game. Dive in now!",
+          "category": "Gaming",
+          "source": "TrueAchievements",
+          "url": "https://www.trueachievements.com/news/sea-of-thieves-custom-seas",
+          "image": "https://www.trueachievements.com/imgs/176190/sea-of-thieves-custom-seas.jpg",
+          "published_at": "2026-06-19T11:25:08Z",
+          "key_points": [
+            "Custom Seas update launched",
+            "Create unique experiences",
+            "Season 20 kicks off"
+          ],
+          "impact": "Player creativity in Sea of Thieves expands.",
+          "id": "4e55fff2506ee02dfd28514c68e81a74"
+        }
+      ]
+    },
+    {
       "id": "2026-06-21T04:05:16.463242+00:00",
       "fetched_at": "2026-06-21T04:05:16.463242+00:00",
       "label": "Jun 21, 2026 — 04:05 AM UTC",
@@ -6776,253 +7007,6 @@
           ],
           "impact": "Empowers users to resolve device issues.",
           "id": "b75f1b93494fbe6bc58bf3f600699214"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-15T19:03:00.922798+00:00",
-      "fetched_at": "2026-06-15T19:03:00.922798+00:00",
-      "label": "Jun 15, 2026 — 07:03 PM UTC",
-      "articles": [
-        {
-          "title": "Galaxy Z Fold 8 Ultra: Excitement or Disappointment?",
-          "description": "Samsung's upcoming foldable may have potential, but concerns linger about its execution. The excitement is tempered by skepticism.",
-          "category": "Hardware",
-          "source": "9to5google.com",
-          "url": "http://9to5google.com/2026/06/14/galaxy-z-fold-8-ultra-problems/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-35.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-14T16:00:00Z",
-          "key_points": [
-            "Potential for innovation",
-            "Concerns about execution",
-            "Excitement tempered by skepticism"
-          ],
-          "impact": "Samsung's foldable phone faces mixed expectations.",
-          "id": "69be899d95a4258039d4f31635627fce"
-        },
-        {
-          "title": "Zelda: Ocarina of Time Remake Boasts Stunning Visuals",
-          "description": "Nintendo reveals details about the Switch 2 remake of Zelda: Ocarina of Time, highlighting its visuals and gameplay enhancements.",
-          "category": "Gaming",
-          "source": "Nintendoeverything.com",
-          "url": "https://nintendoeverything.com/nintendo-says-zelda-ocarina-of-time-switch-2-remake-has-stunning-visuals-updated-designs-and-timeless-gameplay/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Zelda-Ocarina-of-Time-remake-information.png",
-          "published_at": "2026-06-14T14:45:00Z",
-          "key_points": [
-            "Stunning visuals confirmed",
-            "Updated designs revealed",
-            "Timeless gameplay intact"
-          ],
-          "impact": "The remake aims to enhance a classic experience.",
-          "id": "97fd158de19922f3dc599e990f2ab830"
-        },
-        {
-          "title": "Apple's iOS 27 Features: Three Unannounced Surprises",
-          "description": "Apple hints at three unannounced features for iOS 27, following its WWDC 2026 keynote showcasing major updates.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/14/three-major-unannounced-ios-27-features-coming-soon/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-three-iphones-fi.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-14T14:41:00Z",
-          "key_points": [
-            "Three features remain unannounced",
-            "WWDC showcased major updates",
-            "Siri AI improvements highlighted"
-          ],
-          "impact": "Apple keeps users guessing about iOS 27.",
-          "id": "a21f55cd6a6226d5450dc4b7014b4f42"
-        },
-        {
-          "title": "Apple's Siri: A Step Towards AI Recovery",
-          "description": "Apple's new Siri AI shows promise, helping the company recover from its AI challenges as it prepares for new devices.",
-          "category": "Software",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-06-14/siri-ai-hands-on-review-ios-27-macos-27-details-iphone-fold-touch-macbook",
-          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwn7_Q7X5W7g/v0/1200x800.jpg",
-          "published_at": "2026-06-14T14:00:01Z",
-          "key_points": [
-            "Siri shows improved performance",
-            "Prepares for foldable devices",
-            "AI crisis easing for Apple"
-          ],
-          "impact": "Apple's AI strategy is showing signs of recovery.",
-          "id": "418ecc7338cb2bbfb861c0e6c541f143"
-        },
-        {
-          "title": "New Sonos Play: The Ultimate Desk Speaker",
-          "description": "The new Sonos Play is a versatile speaker, perfect for both desk and kitchen use, enhancing audio experiences at home.",
-          "category": "Hardware",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Sonos-Play-With-Wireless-Charging-Base-Black.jpg?resize=1200,800",
-          "published_at": "2026-06-14T14:00:00Z",
-          "key_points": [
-            "Versatile for home use",
-            "Compact design",
-            "Great audio quality"
-          ],
-          "impact": "Sonos Play redefines home audio convenience.",
-          "id": "9d54f6571b7daa68ca05294a8cb720d8"
-        },
-        {
-          "title": "GeIL Launches AQUARIUS Diamond RGB DDR5-6000 Kit",
-          "description": "GeIL introduces its AQUARIUS Diamond RGB DDR5-6000 memory kit in China, targeting AMD platforms with high performance.",
-          "category": "Hardware",
-          "source": "Videocardz.com",
-          "url": "https://videocardz.com/newz/geil-aquarius-diamond-rgb-ddr5-6000-32gb-kit-launches-for-354-in-china",
-          "image": "https://cdn.videocardz.com/1/2026/06/GEIL-AQUARIUS-DDR5-MEMORY-DIAMOND-STYLE-HERO.jpg",
-          "published_at": "2026-06-14T13:38:47Z",
-          "key_points": [
-            "DDR5-6000 for AMD",
-            "32GB kit available",
-            "RGB design included"
-          ],
-          "impact": "GeIL targets gamers with new memory kit.",
-          "id": "1d87a3d7cdbbdc102f63b72aef2db582"
-        },
-        {
-          "title": "Ingrid Joins Street Fighter 6: Tier List Insights",
-          "description": "Ingrid's addition to Street Fighter 6 sparks discussions about her tier placement as Season 4 content approaches.",
-          "category": "Gaming",
-          "source": "EventHubs",
-          "url": "https://www.eventhubs.com/news/2026/jun/14/momochi-zeta-ingrid-placement-sf6/",
-          "image": "https://media.eventhubs.com/images/2026/06/13_ingrid-position-bnrt.webp",
-          "published_at": "2026-06-14T13:02:55Z",
-          "key_points": [
-            "Ingrid is 30th fighter",
-            "Season 4 content announced",
-            "Tier list discussions ongoing"
-          ],
-          "impact": "Ingrid's arrival reshapes competitive dynamics.",
-          "id": "2a7722ca91217a3a8bca26ea4cdafda5"
-        },
-        {
-          "title": "PS5 Controller Features Now Work on PC",
-          "description": "PS5 controller's best features are now functional over Bluetooth on PC, enhancing gaming experiences for users.",
-          "category": "Gaming",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/06/ps5-controllers-best-features-are-finally-working-over-bluetooth-on-pc",
-          "image": "https://images.pushsquare.com/b2df80dbac948/large.jpg",
-          "published_at": "2026-06-14T13:00:00Z",
-          "key_points": [
-            "PS5 features enabled on PC",
-            "Bluetooth connectivity improved",
-            "Enhanced gaming experience"
-          ],
-          "impact": "PC gamers benefit from PS5 controller features.",
-          "id": "52f919d630865cb1ad0214dc8caa0c9f"
-        },
-        {
-          "title": "Apple iPhone 18 Pro Launch Expected in September",
-          "description": "Hints from WWDC 2026 suggest a September launch for the iPhone 18 Pro and its variants, following last year's pattern.",
-          "category": "Hardware",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/davidphelan/2026/06/14/apple-iphone-18-pro-release-date-september-2026/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/695d93b89d51c957214caa7d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "published_at": "2026-06-14T12:50:00Z",
-          "key_points": [
-            "September launch anticipated",
-            "Follows last year's schedule",
-            "iPhone 18 Pro details emerging"
-          ],
-          "impact": "Apple's launch strategy remains consistent.",
-          "id": "f06abb9ef52f59ca6cfbfa6394bb8114"
-        },
-        {
-          "title": "Unlock Hidden Android Automation Features",
-          "description": "Many Android users overlook powerful automation features in their settings. Here are the best ones to enhance your experience.",
-          "category": "Software",
-          "source": "Android Police",
-          "url": "https://www.androidpolice.com/android-automation-features-already-on-your-phone-that-most-people-do-not-know-exist/",
-          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/android-automation-toggles.jpeg?w=1600&h=900&fit=crop",
-          "published_at": "2026-06-14T12:15:11Z",
-          "key_points": [
-            "Automation features often overlooked",
-            "Enhance Android experience",
-            "Simple settings adjustments"
-          ],
-          "impact": "Unlocking features can improve user experience.",
-          "id": "5cdc27d66d03977a64d266393c53ae34"
-        },
-        {
-          "title": "Warhammer Community Previews Upcoming Releases",
-          "description": "Warhammer Community shares a preview of upcoming pre-orders, generating excitement among fans for new editions.",
-          "category": "Gaming",
-          "source": "Warhammer-community.com",
-          "url": "https://www.warhammer-community.com/articles/s7gr9dmd/sunday-preview-dawn-of-the-new-edition",
-          "image": "https://assets.warhammer-community.com/sundaypreview-jun07-1-feature-tdyld0rp59.jpg",
-          "published_at": "2026-06-14T12:06:10Z",
-          "key_points": [
-            "Upcoming pre-orders previewed",
-            "New edition excitement builds",
-            "Fans eagerly await releases"
-          ],
-          "impact": "Anticipation grows for new Warhammer content.",
-          "id": "143533de2366247cd27584137510eaf7"
-        },
-        {
-          "title": "Top Android Auto Apps for Your Dashboard",
-          "description": "After testing many apps, only six made the cut for my Android Auto dashboard, proving essential for driving.",
-          "category": "Software",
-          "source": "Android Police",
-          "url": "https://www.androidpolice.com/deleted-most-android-auto-apps-only-six-permanent-spot-on-dashboard/",
-          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/06/android-auto-dashboard-showing-google-maps-with-essential-apps-like-smart-audiobook-player-spotify-whatsapp-weather-radar-and-fuelio.png?w=1600&h=900&fit=crop",
-          "published_at": "2026-06-14T12:00:10Z",
-          "key_points": [
-            "Only six apps remain essential",
-            "Streamlined dashboard experience",
-            "Focus on functionality"
-          ],
-          "impact": "Optimizing apps enhances driving convenience.",
-          "id": "d5433648028fedbb279476f03c9c985a"
-        },
-        {
-          "title": "Intel Raptor Lake Next CPUs: New Options Ahead",
-          "description": "Intel's upcoming Raptor Lake Next CPUs will offer budget-friendly options for gamers, compatible with existing LGA 1700 sockets.",
-          "category": "Hardware",
-          "source": "Wccftech",
-          "url": "https://wccftech.com/intel-raptor-lake-next-desktop-cpus-core-7-core-5-core-3-up-to-20-cores-lga-1700-socket/",
-          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/Intel-Raptor-Lake-Next-1.jpg",
-          "published_at": "2026-06-14T11:25:00Z",
-          "key_points": [
-            "New CPUs for budget gamers",
-            "Compatible with LGA 1700",
-            "Up to 20 cores available"
-          ],
-          "impact": "Intel expands options for budget-conscious gamers.",
-          "id": "2caa93dd0c7a28cb3347f087b8c89fe0"
-        },
-        {
-          "title": "SAMA Launches Affordable Sound-Damping PC Case",
-          "description": "SAMA's Black Hole Turbo case, priced at $44, features sound-damping panels and supports various motherboard sizes.",
-          "category": "Hardware",
-          "source": "Videocardz.com",
-          "url": "https://videocardz.com/newz/sama-launches-black-hole-turbo-case-with-sound-damping-panels-for-around-44",
-          "image": "https://cdn.videocardz.com/1/2026/06/SEGOTEP-NOISE-SILENCING-PC-CASE.jpg",
-          "published_at": "2026-06-14T11:18:47Z",
-          "key_points": [
-            "Affordable sound-damping case",
-            "Supports multiple motherboard sizes",
-            "Available in China"
-          ],
-          "impact": "SAMA offers budget-friendly PC case solutions.",
-          "id": "7dc446bdf78068b5b3d8a16672e67882"
-        },
-        {
-          "title": "Claude Audits Home Assistant Setup for Improvement",
-          "description": "Using Claude to audit my Home Assistant setup revealed significant areas for improvement in my smart home configuration.",
-          "category": "Software",
-          "source": "Android Authority",
-          "url": "https://www.androidauthority.com/using-claude-fix-home-assistant-smart-home-3674998/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Home-Assistant-dashboard-scaled.jpg",
-          "published_at": "2026-06-14T10:51:39Z",
-          "key_points": [
-            "Claude provided valuable insights",
-            "Improved smart home setup",
-            "Audit revealed configuration issues"
-          ],
-          "impact": "Smart home setups can benefit from audits.",
-          "id": "03997a5dd167a427bf7aa78ea7a19c8c"
         }
       ]
     }

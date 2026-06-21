@@ -1,245 +1,229 @@
 {
-  "generated_at": "2026-06-21T04:05:16.463242+00:00",
+  "generated_at": "2026-06-21T09:48:26.099191+00:00",
   "articles": [
     {
-      "title": "Nex Playground Console Launches in UK Tomorrow",
-      "description": "The Nex Playground console costs £269 and launches on June 22 in the UK. It's designed to encourage kids to be active.",
+      "title": "Apple’s Early Prime Day Sale Is Live!",
+      "description": "Grab early Prime Day deals on Apple products like MacBooks and AirPods at Amazon now. Don't miss these limited-time offers!",
+      "category": "Business",
+      "source": "CNET",
+      "url": "https://www.cnet.com/deals/best-prime-day-apple-deals-2026-06-19/",
+      "image": "https://www.cnet.com/a/img/resize/aa4526b6148f63969eee249810edf5256787edfd/hub/2026/06/09/d3ece905-03a5-492e-a6bb-c7590f32b299/apple-devices-on-a-purple-background.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "published_at": "2026-06-20T07:42:23Z",
+      "key_points": [
+        "Early deals on Apple products",
+        "Limited-time offers",
+        "Shop now at Amazon"
+      ],
+      "impact": "Apple's sale boosts early Prime Day excitement.",
+      "id": "8f3581840465c6df8fb6dbc3e1ca0749"
+    },
+    {
+      "title": "Windows 11 26H2 Set for Fall 2026 Release",
+      "description": "Microsoft confirms Windows 11 26H2 will be a minor update, focusing on stability rather than major features. Supported PCs have been detailed.",
+      "category": "Software",
+      "source": "WindowsLatest",
+      "url": "https://www.windowslatest.com/2026/06/20/microsoft-confirms-windows-11-26h2-for-fall-2026-release-reveals-supported-pcs-and-other-details/",
+      "image": "https://www.windowslatest.com/wp-content/uploads/2026/06/Windows-11-26H2.jpg",
+      "published_at": "2026-06-19T20:35:26Z",
+      "key_points": [
+        "Minor update for Windows 11",
+        "Focus on stability",
+        "Supported PCs listed"
+      ],
+      "impact": "Windows updates aim for greater predictability.",
+      "id": "f8f51adea9e2a3b1dd66bacb3a87a58a"
+    },
+    {
+      "title": "Ubisoft Offers 149 Free Games",
+      "description": "Ubisoft has made 149 games available for free for PC and Xbox users for a limited time. Don't miss this opportunity!",
       "category": "Gaming",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czx50rrz7zro",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0bab/live/82f041c0-6bcc-11f1-a94c-73f00a91c697.jpg",
-      "published_at": "2026-06-20T01:10:51Z",
+      "source": "ComicBook.com",
+      "url": "http://comicbook.com/gaming/news/ubisoft-games-free-download/",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/02/u-b-i-s-o-f-t.png?resize=2000,1125",
+      "published_at": "2026-06-19T20:18:16Z",
       "key_points": [
-        "Costs £269 in the UK",
-        "Launches June 22",
-        "Encourages physical activity"
+        "149 games available for free",
+        "Limited time offer",
+        "PC and Xbox only"
       ],
-      "impact": "The Nex Playground aims to promote active play.",
-      "id": "560c3a56d7dab7dbd0ef5d6e45010e39"
+      "impact": "Ubisoft's promotion boosts player engagement.",
+      "id": "67e24a528a3dc9e34817a2d5f7c8278e"
     },
     {
-      "title": "Nothing Cancels CMF Phone Release Due to RAM Prices",
-      "description": "Nothing has canceled the CMF Phone 2 Pro release this year due to rising RAM costs. The company couldn't produce it at a viable price.",
+      "title": "GTA 6 Trailer Reveals New Details",
+      "description": "The latest Grand Theft Auto 6 trailer showcases cover art and music, hinting at its pre-order date. Fans are excited!",
+      "category": "Gaming",
+      "source": "Digitalfoundry.net",
+      "url": "https://www.digitalfoundry.net/features/gta-6-and-the-mystery-of-the-missing-ferris-wheel-reflection",
+      "image": "https://images.digitalfoundry.net/ca5b25150cc8d/large.jpg",
+      "published_at": "2026-06-19T17:06:00Z",
+      "key_points": [
+        "New GTA 6 trailer released",
+        "Features 80s music",
+        "Pre-order date hinted"
+      ],
+      "impact": "GTA 6 hype continues to build.",
+      "id": "666717f3c604504f1bbe64457e2ffd52"
+    },
+    {
+      "title": "The Grinch Sequel Coming in September 2026",
+      "description": "A sequel to The Grinch: Christmas Adventures will launch in September 2026 on Xbox, following its predecessor's success.",
+      "category": "Gaming",
+      "source": "TrueAchievements",
+      "url": "https://www.trueachievements.com/news/the-grinch-2-saving-christmas-release-date",
+      "image": "https://www.trueachievements.com/imgs/176217/the-grinch-2-release-date.jpg",
+      "published_at": "2026-06-19T15:45:08Z",
+      "key_points": [
+        "Grinch sequel announced",
+        "Releasing September 2026",
+        "Xbox exclusive"
+      ],
+      "impact": "Fans anticipate the Grinch's return.",
+      "id": "88558185bd8e608b53609f73974e9d29"
+    },
+    {
+      "title": "iPhone 18 Pro Features Leaked",
+      "description": "Rumored features for the iPhone 18 Pro include significant upgrades, set to launch this fall. Excitement builds!",
       "category": "Business",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/nothing-cmf-phone-2-pro-01.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-      "published_at": "2026-06-19T21:28:39Z",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/19/iphone-18-pro-six-new-features-are-coming-this-fall/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-silver-centered.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-19T14:19:00Z",
       "key_points": [
-        "CMF Phone 2 Pro canceled",
-        "Rising RAM prices",
-        "No viable production cost"
+        "Six new features rumored",
+        "iPhone 18 Pro launching",
+        "Fall release expected"
       ],
-      "impact": "Nothing's cancellation reflects ongoing supply chain issues.",
-      "id": "426e1218f4cfb70705bc90c9c7e6c5e0"
+      "impact": "Anticipation for iPhone 18 Pro grows.",
+      "id": "5d3c1cfd5728ba96b1b7a96c1f39a59f"
     },
     {
-      "title": "Google Discontinues Nest Mini and Nest Audio Speakers",
-      "description": "Google has streamlined its speaker offerings, now selling only one model. The Nest Mini and Nest Audio are officially discontinued.",
-      "category": "Business",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/google-nest-mini-audio-discontinued",
-      "image": "https://helios-i.mashable.com/imagery/articles/0362lFXts2BHr2VYg2ppO1P/hero-image.fill.size_1200x675.v1781807066.jpg",
-      "published_at": "2026-06-19T21:25:10Z",
+      "title": "Final Fantasy VII Remake Trilogy Finale Trailer Released",
+      "description": "SQUARE ENIX has unveiled the trailer for 'FINAL FANTASY VII REVELATION,' the final chapter of the remake trilogy, set for spring release.",
+      "category": "Gaming",
+      "source": "InvenGlobal",
+      "url": "https://www.invenglobal.com/articles/final-fantasy-vii-remake-trilogy-finale-revelation-trailer-released",
+      "image": "https://static.invenglobal.com/upload/image/2026/06/19/r1781878337569271.jpeg",
+      "published_at": "2026-06-19T14:10:10Z",
       "key_points": [
-        "Only one speaker model now",
-        "Nest Mini discontinued",
-        "Nest Audio phased out"
+        "Final installment trailer released",
+        "Spring release planned",
+        "Fans eagerly await conclusion"
       ],
-      "impact": "Google simplifies its audio product lineup.",
-      "id": "b500be578656cccba9828e2f0f116362"
+      "impact": "Final Fantasy VII saga reaches its climax.",
+      "id": "97c80df6a8b43516f0647cdd5431e4f0"
     },
     {
-      "title": "Apple Drops Support for Many Watches in watchOS 27",
-      "description": "Apple's watchOS 27 will discontinue support for numerous older models, focusing on newer devices for better performance.",
-      "category": "Software",
-      "source": "GSMArena.com",
-      "url": "https://www.gsmarena.com/heres_why_apple_is_already_dropping_support_for_so_many_watches_in_watchos_27-news-73362.php",
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/watch-os-27-support-cutoff-explained/-952x498w6/gsmarena_000.jpg",
-      "published_at": "2026-06-19T21:00:02Z",
+      "title": "Pokémon GO Fest 2026 Countdown Begins",
+      "description": "Pokémon GO Fest 2026: Global kicks off with Road of Legends, featuring Legendary raids and event bonuses from July 6-10, 2026.",
+      "category": "Gaming",
+      "source": "Pokemon GO Hub",
+      "url": "https://pokemongohub.net/post/event/go-fest-2026-road-of-legends/",
+      "image": "https://pokemongohub.net/wp-content/uploads/2026/06/PGO-MCS_GOFest_2026_GOPass_v3-16x9-1.jpg",
+      "published_at": "2026-06-19T13:36:59Z",
       "key_points": [
-        "Older models lose support",
-        "Focus on performance",
-        "Announced at WWDC"
+        "GO Fest 2026 starts July 6",
+        "Legendary raids featured",
+        "Event bonuses available"
       ],
-      "impact": "Apple prioritizes performance with new software.",
-      "id": "5661f341d6692109c6c2482a1545beee"
+      "impact": "Excitement builds for Pokémon GO Fest.",
+      "id": "fd54b826335557f69364f3a499a107c2"
     },
     {
-      "title": "Unpatchable 'usbliter8' Exploit Targets Apple A12 and A13",
-      "description": "The usbliter8 exploit poses a significant security risk by targeting Apple A12 and A13 chips, creating an unpatchable vulnerability.",
-      "category": "Security",
-      "source": "Internet",
-      "url": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIM725Ni41-PBwM_6zXNdsydP1eZO7oSsWIlAqpwdOu9dOcZM6ZI1iaqwSsL3yZKT4lbFRM-eZVq3ARKDbLRnid1pJ0Us3XX135nD0tV71gb1lnADzig_vE9c6CAiJdlJ-Wco11InBKUyGX9V5nRFn9qZxuxeJKCzsCV4tQTfFIgU3F05Wnp2VfsxyTPs/s1600/apple-chip.jpg",
-      "published_at": "2026-06-19T18:37:00Z",
+      "title": "Minecraft Chaos Sparks Community Challenge Launched",
+      "description": "Join the Chaos Sparks Community Challenge in Minecraft to earn rewards by creating chaos with your team. Get involved now!",
+      "category": "Gaming",
+      "source": "Minecraft.net",
+      "url": "https://www.minecraft.net/en-us/article/community-challenge-chaos-sparks",
+      "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/Minecraft_ChaosCubed_CommunityChallenge1_dotNET_1170x500.jpg",
+      "published_at": "2026-06-19T12:51:46Z",
       "key_points": [
-        "Targets A12 and A13 chips",
-        "Unpatchable vulnerability",
-        "Exploits USB DFU mode"
+        "Chaos Sparks challenge launched",
+        "Earn special rewards",
+        "Team-based gameplay encouraged"
       ],
-      "impact": "This exploit raises serious security concerns for Apple users.",
-      "id": "e7b27af79906373961790705d467275b"
+      "impact": "Community engagement in Minecraft increases.",
+      "id": "d82431ba1f695de349100dc92c89c043"
     },
     {
-      "title": "Microsoft Confirms Windows 11 26H2 Release",
-      "description": "Microsoft has confirmed the upcoming Windows 11 26H2 release, urging IT admins to prepare for the rollout.",
-      "category": "Software",
-      "source": "Neowin",
-      "url": "https://www.neowin.net/news/microsoft-confirms-windows-11-26h2-urges-it-admins-to-prepare-for-release/",
-      "image": "https://cdn.neowin.com/news/images/uploaded/2024/05/1715026896_windows_11_story.jpg",
-      "published_at": "2026-06-19T18:23:00Z",
-      "key_points": [
-        "Windows 11 26H2 confirmed",
-        "IT admins urged to prepare",
-        "Fast enablement-package rollout"
-      ],
-      "impact": "IT admins need to gear up for the update.",
-      "id": "12e762fd4d0d9a08a512c0c069fd2441"
-    },
-    {
-      "title": "Snap's Premium AR Glasses Lead to Stock Decline",
-      "description": "Snap's launch of expensive AR glasses has resulted in a stock slump amid inflation and competition concerns.",
-      "category": "Business",
-      "source": "Seeking Alpha",
-      "url": "https://seekingalpha.com/news/4605204-snap-gets-a-reality-check-as-premium-ar-glasses-drive-stock-slump",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1368483131/image_1368483131.jpg?io=getty-c-w630",
-      "published_at": "2026-06-19T16:35:01Z",
-      "key_points": [
-        "Snap launches costly AR glasses",
-        "Stock declines post-launch",
-        "Inflation and competition concerns"
-      ],
-      "impact": "Snap faces challenges in the competitive AR market.",
-      "id": "fce973acf9e2ea2d8e1b89de96bf4e7a"
-    },
-    {
-      "title": "Alogic Launches Touchscreen Monitors for Macs",
-      "description": "Alogic has introduced new touchscreen monitors and portable displays compatible with Macs, enhancing user interaction.",
+      "title": "ROG Xbox Ally X20 Launches Soon",
+      "description": "ASUS reveals the ROG Xbox Ally X20, featuring upgrades and a high price tag. Expect premium gaming performance.",
       "category": "Hardware",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/19/alogic-touchscreen-monitors-portable-displays/",
-      "image": "https://images.macrumors.com/t/5H8DROu6S-K2P_4TcvGJSsVq2V4=/1600x/article-new/2026/06/alogic-aspekt-touch-27-hero.jpg",
-      "published_at": "2026-06-19T16:12:47Z",
-      "key_points": [
-        "New touchscreen monitors launched",
-        "Supports Mac functionality",
-        "Includes stylus features"
-      ],
-      "impact": "Alogic enhances Mac user experience with new displays.",
-      "id": "97cef18c6eb5a0c7a9a465e3bf22241b"
-    },
-    {
-      "title": "Sailboat Crew Faces Challenge 300 Miles from Shore",
-      "description": "Two Massachusetts sailors confront a crisis during the Newport Bermuda Race after their boat strikes a submerged object.",
-      "category": "Geopolitics",
-      "source": "The Boston Globe",
-      "url": "https://www.bostonglobe.com/2026/06/19/sports/alliance-sailboat-newport-bermuda-race/",
-      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/YDP3ESPOKHKCO55WSIHB4EA3QM.jpg?auth=9c02cfe8dc03a722318edd9a880a1e1a785f6efbbf7ca02ae164642312c1d66b&width=1440",
-      "published_at": "2026-06-19T15:59:00Z",
-      "key_points": [
-        "Sailboat strikes submerged object",
-        "Crew faces critical situation",
-        "Newport Bermuda Race challenge"
-      ],
-      "impact": "The race highlights the dangers of sailing.",
-      "id": "f7512648412d7ef1992b3dc392d7c21c"
-    },
-    {
-      "title": "Commodore Defends $500 Dumbphone Amid Criticism",
-      "description": "Commodore defends its $500 dumbphone, claiming no one could sell it for less, despite mixed reactions from consumers.",
-      "category": "Business",
-      "source": "Timeextension.com",
-      "url": "https://www.timeextension.com/news/2026/06/this-isnt-your-grannys-flip-phone-commodore-defends-its-usd500-dumbphone",
-      "image": "https://images.timeextension.com/78060d660af5f/large.jpg",
-      "published_at": "2026-06-19T15:30:00Z",
-      "key_points": [
-        "$500 dumbphone criticized",
-        "Commodore defends pricing",
-        "Claims no cheaper alternatives"
-      ],
-      "impact": "Commodore faces backlash over pricing strategy.",
-      "id": "25fba74e1d73c75331852364905af31f"
-    },
-    {
-      "title": "Halo Studios Reveals Six Hours of Campaign Footage",
-      "description": "Halo Studios has unveiled six hours of footage showcasing the main menu of Campaign Evolved, generating excitement among fans.",
-      "category": "Gaming",
       "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/06/halo-studios-unveils-six-hours-of-footage-from-campaign-evolveds-main-menu",
-      "image": "https://images.purexbox.com/95c2616fe4e22/large.jpg",
-      "published_at": "2026-06-19T15:30:00Z",
+      "url": "https://www.purexbox.com/news/2026/06/rog-xbox-ally-x20-marks-the-opportunity-of-a-lifetime-but-expect-a-high-price",
+      "image": "https://images.purexbox.com/aad445e70ad5e/large.jpg",
+      "published_at": "2026-06-19T12:30:00Z",
       "key_points": [
-        "Six hours of campaign footage",
-        "Excitement among fans",
-        "Showcases main menu"
+        "ROG Xbox Ally X20 announced",
+        "Upgraded features included",
+        "High price expected"
       ],
-      "impact": "Fans eagerly anticipate the new Halo experience.",
-      "id": "72de8d4b025d0abc8b4f7c6d0b1a919b"
+      "impact": "Premium gaming device targets enthusiasts.",
+      "id": "8a940ee2830e23e45bc1a54f484b72e0"
     },
     {
-      "title": "Early Prime Day Deals on Apple Devices Now Live",
-      "description": "Amazon's Prime Day event runs from June 23-26, featuring early deals on Apple devices and accessories.",
-      "category": "Business",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/19/early-prime-day-deals-apple-2026/",
-      "image": "https://images.macrumors.com/t/qxPlCt_WEnmyUWVCBusikb4frHE=/2500x/article-new/2026/06/airpods-max-2-summer.jpeg",
-      "published_at": "2026-06-19T14:46:06Z",
+      "title": "Legionnaires’ Disease Outbreak Insights 50 Years Later",
+      "description": "Scientists now understand the cause of the 1976 Legionnaires’ disease outbreak in Philadelphia, linked to Legionella pneumophila bacteria.",
+      "category": "Science",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/legionnaires-disease-outbreak-in-philadelphia-in-1976-was-mysterious-and-deadly-50-years-later-scientists-know-the-cause-but-outbreaks-continue-284150",
+      "image": "https://images.theconversation.com/files/741410/original/file-20260611-57-g4hd9i.jpg?ixlib=rb-4.1.0&rect=0%2C369%2C4557%2C2278&q=45&auto=format&w=1356&h=668&fit=crop",
+      "published_at": "2026-06-19T12:10:52Z",
       "key_points": [
-        "Prime Day runs June 23-26",
-        "Early Apple deals available",
-        "Longer event duration"
+        "Legionella pneumophila identified",
+        "Outbreak details revisited",
+        "Ongoing risks highlighted"
       ],
-      "impact": "Shoppers can save on Apple products.",
-      "id": "608340ed56f6aea66ecb18af5828ccea"
+      "impact": "Understanding of Legionnaires’ disease improves.",
+      "id": "3236f0414274d9b284e4ef5398248ea0"
     },
     {
-      "title": "Google Launches Controversial AI Training Feature",
-      "description": "Google's new search feature raises privacy concerns, prompting users to consider disabling it for safety.",
+      "title": "Microsoft's New Windows Bug Exposed",
+      "description": "A recent Windows update reveals internal file names during file deletions, causing confusion among users. Microsoft is addressing the issue.",
       "category": "Software",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/google-search-setting-privacy-ai_l_6a2c4630e4b0ba7a1fed2872",
-      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/18/21/thumb/EKDSz2hrD.jpg?crop=1250:654;0,86%26downsize=1250:*",
-      "published_at": "2026-06-19T14:29:35Z",
+      "source": "The Register",
+      "url": "https://www.theregister.com/personal-tech/2026/06/19/microsofts-latest-windows-bug-belongs-in-the-recycle-bin/5258779",
+      "image": "https://image.theregister.com/5258862.jpg?imageId=5258862&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "published_at": "2026-06-19T12:06:04Z",
       "key_points": [
-        "New AI feature launched",
-        "Privacy concerns raised",
-        "Users advised to disable"
+        "Windows bug reveals file names",
+        "User confusion reported",
+        "Microsoft working on fix"
       ],
-      "impact": "Google's feature sparks privacy debates.",
-      "id": "fca754429742305d7c9d95060c116229"
+      "impact": "User experience affected by cosmetic bug.",
+      "id": "8f39d907dc0319fe36f8051b94b2b3b5"
     },
     {
-      "title": "Upcoming Xbox Games for June 22-26 Announced",
-      "description": "Xbox reveals new game releases including DEAD OR ALIVE 6 and Age of Empires Mobile for the week of June 22-26.",
+      "title": "Valve's Steam Machine Details Leaked",
+      "description": "Leaked information reveals Valve's upcoming Steam Machine features a custom AMD CPU and GPU, priced at $799, ahead of its announcement.",
+      "category": "Hardware",
+      "source": "Geeky Gadgets",
+      "url": "https://www.geeky-gadgets.com/?p=496219",
+      "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/steam-machine-leak.jpg",
+      "published_at": "2026-06-19T11:50:31Z",
+      "key_points": [
+        "Steam Machine features leaked",
+        "Custom AMD hardware included",
+        "$799 starting price"
+      ],
+      "impact": "Valve's new console generates buzz.",
+      "id": "f3d074a8d5b2047d72e05da4678ee241"
+    },
+    {
+      "title": "Sea of Thieves Custom Seas Update Released",
+      "description": "Season 20 of Sea of Thieves introduces Custom Seas, allowing players to create unique experiences in the game. Dive in now!",
       "category": "Gaming",
-      "source": "Xbox.com",
-      "url": "https://news.xbox.com/en-us/2026/06/19/next-week-on-xbox-new-games-for-june-22-to-26/",
-      "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/nwox-hero-b33ddfe24e03736ef3d7.jpg",
-      "published_at": "2026-06-19T14:02:29Z",
+      "source": "TrueAchievements",
+      "url": "https://www.trueachievements.com/news/sea-of-thieves-custom-seas",
+      "image": "https://www.trueachievements.com/imgs/176190/sea-of-thieves-custom-seas.jpg",
+      "published_at": "2026-06-19T11:25:08Z",
       "key_points": [
-        "New games announced",
-        "Includes DEAD OR ALIVE 6",
-        "Releases from June 22-26"
+        "Custom Seas update launched",
+        "Create unique experiences",
+        "Season 20 kicks off"
       ],
-      "impact": "Gamers can look forward to exciting releases.",
-      "id": "0f73629ecce2111f2785033123550259"
-    },
-    {
-      "title": "iPhone Ultra Leak Reveals Design and Features",
-      "description": "A new leak shows the iPhone Ultra's design and an anticipated iOS feature, exciting fans ahead of its release.",
-      "category": "Business",
-      "source": "Digital Trends",
-      "url": "https://www.digitaltrends.com/phones/the-latest-iphone-ultra-leak-leaves-little-to-the-imagination-and-includes-a-much-awaited-ios-feature/",
-      "image": "https://www.digitaltrends.com/tachyon/2026/06/iPhone-Ultra-in-two-colors.jpg?resize=1200%2C630",
-      "published_at": "2026-06-19T13:28:56Z",
-      "key_points": [
-        "iPhone Ultra design leaked",
-        "Includes awaited iOS feature",
-        "Fans excited for release"
-      ],
-      "impact": "The leak builds anticipation for the iPhone Ultra.",
-      "id": "5ba9bdeb5756108521ff6d76afd5f188"
+      "impact": "Player creativity in Sea of Thieves expands.",
+      "id": "4e55fff2506ee02dfd28514c68e81a74"
     }
   ]
 }
