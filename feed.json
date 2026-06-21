@@ -1,245 +1,85 @@
 {
-  "generated_at": "2026-06-21T14:08:24.989722+00:00",
+  "generated_at": "2026-06-21T16:44:52.051115+00:00",
   "articles": [
     {
-      "title": "Control Resonant: A Creepypasta Action-RPG",
-      "description": "Remedy Entertainment enhances its creepypasta universe with a new action-RPG. Expect refined gameplay and immersive storytelling.",
+      "title": "Sea of Thieves Unleashes Custom Seas for Players",
+      "description": "Sea of Thieves: Season 20 introduces Custom Seas, allowing players to create private sandbox experiences. Enjoy ultimate control with new creative tools.",
       "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/control-resonant-hands-on-giving-one-of-the-most-consistently-surprising-developers-the-benefit-of-the-doubt-2000708654",
-      "image": "https://kotaku.com/app/uploads/2026/06/control-5.jpg",
-      "published_at": "2026-06-20T13:00:08Z",
+      "source": "Xbox.com",
+      "url": "https://news.xbox.com/en-us/2026/06/19/sea-of-thieves-custom-seas-update-details/",
+      "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/CustomSeas_UnBranded_S20_KeyArt_1080-d888660df6a9cdc6b594.jpg",
+      "published_at": "2026-06-19T16:02:29Z",
       "key_points": [
-        "Refined creepypasta world-building",
-        "Conventional action-RPG mechanics",
-        "Immersive storytelling experience"
+        "Custom Seas feature launched",
+        "Players gain creative control",
+        "Private sandbox experiences available"
       ],
-      "impact": "This game could redefine the action-RPG genre.",
-      "id": "f2219645fd7618f9506a6c2a2041a29a"
+      "impact": "This update enhances player engagement and creativity.",
+      "id": "166c6e3eaa57cac98c301338c8e626ed"
     },
     {
-      "title": "Halo: Campaign Evolved Requires Xbox Account on PS5",
-      "description": "PS5 players must create an Xbox account and gamertag to access Halo: Campaign Evolved. PS Plus is also required for split-screen co-op.",
-      "category": "Gaming",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/halo-campaign-evolved-ps5-xbox-account-gamertag-psplus",
-      "image": "https://assetsio.gnwcdn.com/halo-campaign-evolved-reveal-screen-3.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-20T12:51:01Z",
-      "key_points": [
-        "Xbox account needed for PS5",
-        "Gamertag required for gameplay",
-        "PS Plus for split-screen co-op"
-      ],
-      "impact": "This could limit accessibility for PS5 players.",
-      "id": "2fae46c21906b256df75f036528a389a"
-    },
-    {
-      "title": "Ubisoft Co-Founder Dies in Plane Crash",
-      "description": "Claude Guillemot, co-founder of Ubisoft, tragically died in a plane crash in France. His legacy in gaming is profound.",
-      "category": "Geopolitics",
-      "source": "Insider Gaming",
-      "url": "https://insider-gaming.com/ubisoft-co-founder-claude-guillemot-killed-plane/",
-      "image": "https://insider-gaming.com/wp-content/uploads/2026/05/ubisoft-ai.jpg",
-      "published_at": "2026-06-20T12:07:58Z",
-      "key_points": [
-        "Claude Guillemot killed in crash",
-        "Co-founded Ubisoft in 1986",
-        "Significant impact on gaming industry"
-      ],
-      "impact": "His death marks a significant loss for gaming.",
-      "id": "bc43699dd7f6fe4d476aa28c7bd5a514"
-    },
-    {
-      "title": "Pixel Battery Life Poll After Android 17 Update",
-      "description": "Users are polling to see if battery life improved after updating to Android 17. Feedback is crucial for future updates.",
-      "category": "Software",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/06/20/has-your-pixel-battery-life-improved-after-updating-to-android-17-poll/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/Pixel-10a-battery-level-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-20T12:00:00Z",
-      "key_points": [
-        "Polling Pixel users' battery life",
-        "Feedback on Android 17 update",
-        "User experience is vital"
-      ],
-      "impact": "User feedback will guide future updates.",
-      "id": "fbef5df0db725c17433e400027d043c1"
-    },
-    {
-      "title": "SwitchBot’s Standing Circulator Fan Review",
-      "description": "SwitchBot’s fan is quiet, battery-operated, and versatile, transforming from desktop to standing fan easily. It also features a nightlight.",
-      "category": "Hardware",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/IMG_1636.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-      "published_at": "2026-06-20T07:00:00Z",
-      "key_points": [
-        "Quiet and battery-powered",
-        "Transforms easily between modes",
-        "Includes a nightlight feature"
-      ],
-      "impact": "This fan offers great versatility for users.",
-      "id": "051aca216267cd68f8ba0e56f66f0c94"
-    },
-    {
-      "title": "PlayStation Eyes Acquisition of Xbox Studio",
-      "description": "PlayStation may pursue acquiring an Xbox and Bethesda studio amid reports of Xbox's restructuring. This could shift industry dynamics.",
+      "title": "Early Prime Day Desktop Deals Unveiled",
+      "description": "Prime Day approaches with significant discounts on desktops, including gaming PCs and all-in-ones. Get ready for great deals on essential tech.",
       "category": "Business",
-      "source": "ComicBook.com",
-      "url": "http://comicbook.com/gaming/news/playstation-sony-bethesda-xbox-machinegames-studio/",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/09/p-l-a-y-s-t-a-t-i-o-n.png?resize=2000,1125",
-      "published_at": "2026-06-20T02:03:29Z",
+      "source": "PCMag.com",
+      "url": "https://www.pcmag.com/news/best-early-amazon-prime-day-sale-desktop-pc-deals-2026-june-20",
+      "image": "https://i.pcmag.com/imagery/articles/06LYfrthu3nmFiNjXMwW0U7-1.fit_lim.size_1200x630.v1781882856.png",
+      "published_at": "2026-06-19T15:37:15Z",
       "key_points": [
-        "PlayStation may acquire Xbox studio",
-        "Xbox restructuring underway",
-        "Potential industry shift ahead"
+        "Prime Day discounts announced",
+        "Deals on gaming PCs",
+        "Savings on office desktops"
       ],
-      "impact": "This acquisition could reshape gaming competition.",
-      "id": "74d5c3668694f44c93d63a7b6ff2c118"
+      "impact": "Consumers can save significantly on tech purchases.",
+      "id": "edc3aebc5a17d36cc87b4605a808c637"
     },
     {
-      "title": "Pokémon Go Frigibax Community Day Announced",
-      "description": "Frigibax will be featured in June's Community Day for Pokémon Go, offering chances to catch shiny variants and perfect IVs.",
+      "title": "Two Point Museum Welcomes DAVE THE DIVER",
+      "description": "The latest update for Two Point Museum introduces DAVE THE DIVER, enhancing the gaming experience with new content. Dive into the Digiverse now.",
       "category": "Gaming",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/pokemon-go-frigibax-community-day",
-      "image": "https://assetsio.gnwcdn.com/Pokemon-Go-Frigibax-CDay-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-19T23:01:00Z",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/two-point-museum-x-dave-the-diver-collaboration-update-now-available",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Two-Point-Museum-Update_06-19-26.jpg",
+      "published_at": "2026-06-19T15:23:07Z",
       "key_points": [
-        "Frigibax featured in Community Day",
-        "Chance for shiny and perfect IVs",
-        "Exciting event for Pokémon fans"
+        "New collaboration update released",
+        "DAVE THE DIVER joins the game",
+        "Explore the Digiverse now"
       ],
-      "impact": "This event boosts player engagement significantly.",
-      "id": "5361a24309553b28a554bbbab6d49e2c"
+      "impact": "This update enriches gameplay and player engagement.",
+      "id": "c14ce27b6fcc49d141b8e0760205ad0c"
     },
     {
-      "title": "Concept Art for Marathon Revealed",
-      "description": "Explore the stunning concept art behind Bungie's upcoming game, Marathon. The visuals promise an exciting gaming experience.",
-      "category": "Gaming",
-      "source": "Aftermath.site",
-      "url": "https://aftermath.site/marathon-bungie-concept-art/",
-      "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/06/destop.jpg",
-      "published_at": "2026-06-19T22:48:45Z",
+      "title": "Three-Armed Robot Revolutionizes Fish Preparation",
+      "description": "A new three-armed robot can expertly slice and serve fish, overcoming challenges of handling slippery materials. This innovation could transform kitchen tasks.",
+      "category": "Science",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-06-armed-sashimi-bot-slice-fish.html",
+      "image": "https://scx2.b-cdn.net/gfx/news/2026/a-three-armed-robot-le.jpg",
+      "published_at": "2026-06-19T14:20:03Z",
       "key_points": [
-        "Stunning concept art revealed",
-        "Bungie's upcoming game",
-        "Exciting visuals for gamers"
+        "Three-armed robot introduced",
+        "Handles slippery fish efficiently",
+        "Potential kitchen game-changer"
       ],
-      "impact": "This art builds anticipation for the game.",
-      "id": "b6d890ec29f14d317fcbfd3ca0256074"
+      "impact": "This technology could enhance culinary efficiency.",
+      "id": "6d68c556dd1d3f15723f20f6d3f3202d"
     },
     {
-      "title": "Microsoft Office for Mac Sale Alert",
-      "description": "Microsoft Office for Mac is available for a one-time fee of $40, offering significant savings for users.",
-      "category": "Software",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/june-19-microsoft-office-home-business-for-mac-2021",
-      "image": "https://helios-i.mashable.com/imagery/articles/02KCdFZeG9MlAMKPTxvF5cX/hero-image.fill.size_1200x675.v1781532028.jpg",
-      "published_at": "2026-06-19T22:00:00Z",
+      "title": "Sony Shifts Focus to Exclusive PlayStation Titles",
+      "description": "Sony's latest business strategy document reveals a shift away from PC releases, emphasizing exclusivity for PlayStation's single-player games. Major changes ahead.",
+      "category": "Geopolitics",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/sony-ditches-mention-of-pc-releases-from-business-strategy-document-as-playstations-single-player-games-now-expected-to-be-fully-exclusive",
+      "image": "https://assets-prd.ignimgs.com/2026/02/24/wolverinethumb-1771953161030.png?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-19T13:42:38Z",
       "key_points": [
-        "Office for Mac on sale",
-        "One-time fee of $40",
-        "No ongoing subscription costs"
+        "Sony drops PC release mentions",
+        "Focus on exclusive titles",
+        "Shift in multiplatform strategy"
       ],
-      "impact": "This sale makes Office more accessible.",
-      "id": "3763710ae7af7ec2a8ca5b8ce11697c3"
-    },
-    {
-      "title": "Pixel Users Report Touchscreen Bugs After Update",
-      "description": "Pixel users are experiencing touchscreen issues following the Android 17 update. Users are advised to delay updating.",
-      "category": "Software",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/android-17-touchscreen-bug/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/02/android-17-hero.jpg?w=1200&h=675&fit=crop",
-      "published_at": "2026-06-19T20:49:27Z",
-      "key_points": [
-        "Touchscreen bugs reported",
-        "Delay updating advised",
-        "Common issue with new software"
-      ],
-      "impact": "This could frustrate Pixel users significantly.",
-      "id": "4e4abc491006fbfbf6bf37f889d09c08"
-    },
-    {
-      "title": "Fumito Ueda Discusses New Game Gen Atlas",
-      "description": "Fumito Ueda reveals details about Gen Atlas, a giant robot adventure game developed with Epic Games. Anticipation is building.",
-      "category": "Gaming",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/gen-atlas-fumito-ueda-gen-design-interview-preview/",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/project_robot_260601_4k_screenshot_trailer009_01.jpg?w=1600&h=900&fit=crop",
-      "published_at": "2026-06-19T20:30:22Z",
-      "key_points": [
-        "Details on Gen Atlas revealed",
-        "Collaboration with Epic Games",
-        "Exciting giant robot adventure"
-      ],
-      "impact": "This game promises to be a unique experience.",
-      "id": "02a68cfecd6535abd6747afa41c37a04"
-    },
-    {
-      "title": "2027 Video Game Release Schedule Updated",
-      "description": "Game Informer updates its list of announced video game release dates for 2027. Stay informed on upcoming titles.",
-      "category": "Gaming",
-      "source": "Game Informer",
-      "url": "https://gameinformer.com/2027",
-      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/15/c3d8caab/ffviirevelation2027.jpg.webp",
-      "published_at": "2026-06-19T19:43:31Z",
-      "key_points": [
-        "Updated release schedule for 2027",
-        "Comprehensive list of titles",
-        "Stay informed on gaming releases"
-      ],
-      "impact": "This helps gamers plan for future purchases.",
-      "id": "1a8ff6e326bbc20a1f447b573e8662bd"
-    },
-    {
-      "title": "Google Services Update for Samsung Phones",
-      "description": "Important Google apps on Samsung phones require manual updates. Users should check for the latest versions.",
-      "category": "Software",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/samsung-phones-google-app-updates-3679566/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2022/03/Samsung-Galaxy-S20-Ultra-Updating-Android-Updates-Generic-scaled.jpg",
-      "published_at": "2026-06-19T19:20:48Z",
-      "key_points": [
-        "Manual updates needed for Google apps",
-        "Important updates for Samsung users",
-        "Check for latest versions"
-      ],
-      "impact": "This ensures optimal performance of apps.",
-      "id": "bce303b3af3e20ae01401b4f401c43b2"
-    },
-    {
-      "title": "Apple’s M6 Chip Launching This Fall",
-      "description": "Apple's next-generation M6 chip is set to launch this fall, with new products expected to feature it. Anticipation is high.",
-      "category": "Hardware",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/19/apples-m6-chip-launches-this-fall-with-these-new-products-rumored/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/m6_regular.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-19T18:48:00Z",
-      "key_points": [
-        "M6 chip launching this fall",
-        "New products expected",
-        "High anticipation among users"
-      ],
-      "impact": "This could enhance Apple's product performance.",
-      "id": "cd68e86ae0e525219c481fd41ce30541"
-    },
-    {
-      "title": "MacRumors Show: iOS 27 and watchOS 27 Insights",
-      "description": "The latest episode of The MacRumors Show dives into iOS 27 and watchOS 27 updates from WWDC 2026. Key features are discussed.",
-      "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/19/the-macrumors-show-hands-on-with-ios-27/",
-      "image": "https://images.macrumors.com/t/9XRYLmjtF-pw7zMHXB7Y1YypOxs=/2500x/article-new/2026/06/TMRS-198-Platform-Discussion-Thumb.jpg",
-      "published_at": "2026-06-19T16:17:27Z",
-      "key_points": [
-        "Insights on iOS 27 features",
-        "Discussion on watchOS 27 cuts",
-        "Recap of WWDC 2026"
-      ],
-      "impact": "This informs users about upcoming software changes.",
-      "id": "5b84b4e133344109271273461ceaa10b"
+      "impact": "This could reshape PlayStation's market strategy.",
+      "id": "95d83c1f61b372c9e13d5ca65d3ef584"
     }
   ]
 }

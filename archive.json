@@ -1,6 +1,93 @@
 {
   "batches": [
     {
+      "id": "2026-06-21T16:44:52.051115+00:00",
+      "fetched_at": "2026-06-21T16:44:52.051115+00:00",
+      "label": "Jun 21, 2026 — 04:45 PM UTC",
+      "articles": [
+        {
+          "title": "Sea of Thieves Unleashes Custom Seas for Players",
+          "description": "Sea of Thieves: Season 20 introduces Custom Seas, allowing players to create private sandbox experiences. Enjoy ultimate control with new creative tools.",
+          "category": "Gaming",
+          "source": "Xbox.com",
+          "url": "https://news.xbox.com/en-us/2026/06/19/sea-of-thieves-custom-seas-update-details/",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/CustomSeas_UnBranded_S20_KeyArt_1080-d888660df6a9cdc6b594.jpg",
+          "published_at": "2026-06-19T16:02:29Z",
+          "key_points": [
+            "Custom Seas feature launched",
+            "Players gain creative control",
+            "Private sandbox experiences available"
+          ],
+          "impact": "This update enhances player engagement and creativity.",
+          "id": "166c6e3eaa57cac98c301338c8e626ed"
+        },
+        {
+          "title": "Early Prime Day Desktop Deals Unveiled",
+          "description": "Prime Day approaches with significant discounts on desktops, including gaming PCs and all-in-ones. Get ready for great deals on essential tech.",
+          "category": "Business",
+          "source": "PCMag.com",
+          "url": "https://www.pcmag.com/news/best-early-amazon-prime-day-sale-desktop-pc-deals-2026-june-20",
+          "image": "https://i.pcmag.com/imagery/articles/06LYfrthu3nmFiNjXMwW0U7-1.fit_lim.size_1200x630.v1781882856.png",
+          "published_at": "2026-06-19T15:37:15Z",
+          "key_points": [
+            "Prime Day discounts announced",
+            "Deals on gaming PCs",
+            "Savings on office desktops"
+          ],
+          "impact": "Consumers can save significantly on tech purchases.",
+          "id": "edc3aebc5a17d36cc87b4605a808c637"
+        },
+        {
+          "title": "Two Point Museum Welcomes DAVE THE DIVER",
+          "description": "The latest update for Two Point Museum introduces DAVE THE DIVER, enhancing the gaming experience with new content. Dive into the Digiverse now.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/two-point-museum-x-dave-the-diver-collaboration-update-now-available",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Two-Point-Museum-Update_06-19-26.jpg",
+          "published_at": "2026-06-19T15:23:07Z",
+          "key_points": [
+            "New collaboration update released",
+            "DAVE THE DIVER joins the game",
+            "Explore the Digiverse now"
+          ],
+          "impact": "This update enriches gameplay and player engagement.",
+          "id": "c14ce27b6fcc49d141b8e0760205ad0c"
+        },
+        {
+          "title": "Three-Armed Robot Revolutionizes Fish Preparation",
+          "description": "A new three-armed robot can expertly slice and serve fish, overcoming challenges of handling slippery materials. This innovation could transform kitchen tasks.",
+          "category": "Science",
+          "source": "Tech Xplore",
+          "url": "https://techxplore.com/news/2026-06-armed-sashimi-bot-slice-fish.html",
+          "image": "https://scx2.b-cdn.net/gfx/news/2026/a-three-armed-robot-le.jpg",
+          "published_at": "2026-06-19T14:20:03Z",
+          "key_points": [
+            "Three-armed robot introduced",
+            "Handles slippery fish efficiently",
+            "Potential kitchen game-changer"
+          ],
+          "impact": "This technology could enhance culinary efficiency.",
+          "id": "6d68c556dd1d3f15723f20f6d3f3202d"
+        },
+        {
+          "title": "Sony Shifts Focus to Exclusive PlayStation Titles",
+          "description": "Sony's latest business strategy document reveals a shift away from PC releases, emphasizing exclusivity for PlayStation's single-player games. Major changes ahead.",
+          "category": "Geopolitics",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/sony-ditches-mention-of-pc-releases-from-business-strategy-document-as-playstations-single-player-games-now-expected-to-be-fully-exclusive",
+          "image": "https://assets-prd.ignimgs.com/2026/02/24/wolverinethumb-1771953161030.png?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-19T13:42:38Z",
+          "key_points": [
+            "Sony drops PC release mentions",
+            "Focus on exclusive titles",
+            "Shift in multiplatform strategy"
+          ],
+          "impact": "This could reshape PlayStation's market strategy.",
+          "id": "95d83c1f61b372c9e13d5ca65d3ef584"
+        }
+      ]
+    },
+    {
       "id": "2026-06-21T14:08:24.989722+00:00",
       "fetched_at": "2026-06-21T14:08:24.989722+00:00",
       "label": "Jun 21, 2026 — 02:08 PM UTC",
@@ -6760,253 +6847,6 @@
           ],
           "impact": "Stranger Than Heaven innovates Yakuza gameplay.",
           "id": "e5600b743eb011984ffe4be290103ca6"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-16T03:59:04.321393+00:00",
-      "fetched_at": "2026-06-16T03:59:04.321393+00:00",
-      "label": "Jun 16, 2026 — 03:59 AM UTC",
-      "articles": [
-        {
-          "title": "DOKAPON 3-2-1: Super Collection! Launching on PC",
-          "description": "DOKAPON 3-2-1: Super Collection! arrives on PC via Steam on June 29, exclusively in Japanese. The bundle features three RPG adventures.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/dokapon-3-2-1-super-collection-coming-to-pc-on-june-29",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/DOKAPON-3-2-1-PC_06-14-26.jpg",
-          "published_at": "2026-06-15T02:35:11Z",
-          "key_points": [
-            "Launch on June 29",
-            "Only Japanese language",
-            "Three RPG adventures included"
-          ],
-          "impact": "This collection expands DOKAPON's reach to PC gamers.",
-          "id": "c791bbf5cd609c3de6db55ef77af5e15"
-        },
-        {
-          "title": "Highlights from Dead by Daylight's 10th Anniversary Broadcast",
-          "description": "Behaviour Interactive celebrated Dead by Daylight's 10th anniversary with a broadcast showcasing exciting updates and features. Key highlights were shared live.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/dead-by-daylight-10th-anniversary-broadcast-everything-announced",
-          "image": "https://assets-prd.ignimgs.com/2026/06/15/deadbydaylight-10thanniversary-blogroll-1-1781490776149.jpg?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-15T02:31:00Z",
-          "key_points": [
-            "10th anniversary celebration",
-            "New features announced",
-            "Live updates shared"
-          ],
-          "impact": "The broadcast energized the Dead by Daylight community.",
-          "id": "d901d5cc8dd85d10394c680afa651e41"
-        },
-        {
-          "title": "1993 GMC Typhoon Produces 682 HP, Outshines Durango Hellcat",
-          "description": "A modified 1993 GMC Typhoon now boasts 682 horsepower, potentially outperforming the Durango Hellcat. Nitrous boosts its power significantly.",
-          "category": "Business",
-          "source": "Jalopnik",
-          "url": "https://www.jalopnik.com/2193372/1993-gmc-typhoon-682-hp-for-sale/",
-          "image": "https://www.jalopnik.com/img/gallery/1993-gmc-typhoon-making-682-hp-at-the-wheels-says-durango-hellcat-who/l-intro-1781290817.jpg",
-          "published_at": "2026-06-14T22:25:00Z",
-          "key_points": [
-            "682 horsepower achieved",
-            "Nitrous modification",
-            "Beats Durango Hellcat"
-          ],
-          "impact": "This Typhoon sets a new performance benchmark.",
-          "id": "331603810d624320fa22b53a5961650a"
-        },
-        {
-          "title": "T-Mobile Users Upset Over Data Selling Discovery",
-          "description": "T-Mobile faces backlash after revelations about selling user data through its T-Life app. Customer trust is at an all-time low.",
-          "category": "Security",
-          "source": "PhoneArena",
-          "url": "https://www.phonearena.com/news/t-mobile-t-life-app-selling-user-data_id181081",
-          "image": "",
-          "published_at": "2026-06-14T20:55:39Z",
-          "key_points": [
-            "User data selling scandal",
-            "Trust issues arise",
-            "T-Mobile faces backlash"
-          ],
-          "impact": "Customer trust in T-Mobile has significantly declined.",
-          "id": "23999f2ba1a792f7aabc8ff237324ace"
-        },
-        {
-          "title": "Google Teases Upcoming Pixel Drop Features",
-          "description": "Google's next Pixel Drop will introduce Screen Reactions and Gemini Omni features, as revealed in early ads. Exciting updates are on the way.",
-          "category": "Software",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/06/14/google-ads-tease-next-pixel-drop-with-screen-reactions-and-gemini-omni-video/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/pixel-drop-amazon-videos-1.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-14T20:55:00Z",
-          "key_points": [
-            "Next Pixel Drop announced",
-            "New features teased",
-            "Screen Reactions included"
-          ],
-          "impact": "These updates enhance the Pixel user experience.",
-          "id": "c929c47cf8ee605e658e062e3ae0e246"
-        },
-        {
-          "title": "Signal Developers Aim to Encrypt Popular Apps",
-          "description": "Signal veterans are developing open-source software to encrypt apps like Slack and Google Docs, enhancing privacy and security.",
-          "category": "Security",
-          "source": "Gizmodo.com",
-          "url": "https://gizmodo.com/signal-veterans-want-to-encrypt-slack-google-docs-and-basically-every-other-app-2000771623",
-          "image": "https://gizmodo.com/app/uploads/2026/03/Crypto-Hack-1200x675.jpg",
-          "published_at": "2026-06-14T19:54:15Z",
-          "key_points": [
-            "Encrypting popular apps",
-            "Open-source software development",
-            "Focus on privacy"
-          ],
-          "impact": "This initiative could revolutionize app security.",
-          "id": "19ce1d42d0aa4c31bf8bf9f697d339c2"
-        },
-        {
-          "title": "SMIC's N+3 Node vs Intel's 18A Process",
-          "description": "SMIC's N+3 process is now shipping in Huawei's Kirin 9030, raising questions about its metal pitch compared to Intel's 18A.",
-          "category": "Hardware",
-          "source": "SemiAnalysis",
-          "url": "https://newsletter.semianalysis.com/p/steel-smic-n3-teardown",
-          "image": "https://substackcdn.com/image/fetch/$s_!b3Qg!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff327da24-3300-4bca-b81a-49d68043b1be_2752x1536.png",
-          "published_at": "2026-06-14T19:14:21Z",
-          "key_points": [
-            "SMIC N+3 process shipping",
-            "Comparison with Intel 18A",
-            "Focus on metal pitch"
-          ],
-          "impact": "This could shift semiconductor industry dynamics.",
-          "id": "1187606bf9ec4354c6fdeb1dd35df320"
-        },
-        {
-          "title": "Exploring Alternatives to Google Play Store",
-          "description": "An Android user shares their experience switching from Google Play to alternative app stores, discovering better options.",
-          "category": "Software",
-          "source": "Android Police",
-          "url": "https://www.androidpolice.com/found-better-google-play-alternative/",
-          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/02/android-mascot-peering-through-a-magnifying-glass-behind-a-large-colorful-3d-google-play-store-logo.png?w=1600&h=900&fit=crop",
-          "published_at": "2026-06-14T19:01:14Z",
-          "key_points": [
-            "Switched from Google Play",
-            "Found better alternatives",
-            "Improved app discovery"
-          ],
-          "impact": "This shift could influence app store dynamics.",
-          "id": "24771c08d8b8a97ce97075007b28a182"
-        },
-        {
-          "title": "Unlock Hidden Performance Boosts in Windows 11",
-          "description": "Microsoft hides several performance-enhancing settings in Windows 11 that users can enable for better system performance and heat management.",
-          "category": "Software",
-          "source": "Neowin",
-          "url": "https://www.neowin.net/guides/microsoft-hides-these-secret-windows-11-performance-boost-settings-available-on-every-pc/",
-          "image": "https://cdn.neowin.com/news/images/uploaded/2023/08/1691046087_windows_11_story.jpg",
-          "published_at": "2026-06-14T18:00:00Z",
-          "key_points": [
-            "Hidden performance settings",
-            "Enhance system performance",
-            "Manage heat effectively"
-          ],
-          "impact": "Users can significantly boost their Windows 11 experience.",
-          "id": "577170f3e9c3c208fbb8aaca394e1fd9"
-        },
-        {
-          "title": "Yserver: A Rusty Alternative to Xserver",
-          "description": "Yserver emerges as a Rust-based alternative to Xserver, catering to users seeking options beyond Wayland as a display manager.",
-          "category": "Software",
-          "source": "Hackaday",
-          "url": "https://hackaday.com/2026/06/14/why-not-yserver-its-xserver-but-rust-y/",
-          "image": "https://hackaday.com/wp-content/uploads/2026/06/yserver-compiz-screenshot.png",
-          "published_at": "2026-06-14T17:00:00Z",
-          "key_points": [
-            "Rust-based display manager",
-            "Alternative to Xserver",
-            "Focus on user options"
-          ],
-          "impact": "Yserver could diversify display management choices.",
-          "id": "f3e4df21cc8030d1316d95610a1103ba"
-        },
-        {
-          "title": "Apple's AI System for Siri Remains Unannounced",
-          "description": "Apple's iOS 27 beta hints at a third-party AI system for Siri, but it was not mentioned during WWDC, raising questions about its future.",
-          "category": "Software",
-          "source": "The Next Web",
-          "url": "https://thenextweb.com/news/apple-siri-extensions-third-party-ai-missing-wwdc/",
-          "image": "https://media.thenextweb.com/2026/06/apple-siri-extensions-third-party-ai-missing-wwdc.avif",
-          "published_at": "2026-06-14T16:10:00Z",
-          "key_points": [
-            "Third-party AI support",
-            "Not announced at WWDC",
-            "iOS 27 beta hints"
-          ],
-          "impact": "This could enhance Siri's functionality significantly.",
-          "id": "e3a914a10969e4ba47b4ec08fb21d0f0"
-        },
-        {
-          "title": "Android Routines Revolutionize Morning Alarms",
-          "description": "Android Routines replaces traditional alarms, providing a smoother wake-up experience for users, enhancing morning routines.",
-          "category": "Software",
-          "source": "Android Police",
-          "url": "https://www.androidpolice.com/let-android-routines-take-over-morning-never-going-back-to-phones-alarm-app/",
-          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/11/the-android-mascot-sleeping-in-a-bed-while-a-large-ringing-alarm-clock-beside-it.png?w=1600&h=900&fit=crop",
-          "published_at": "2026-06-14T15:15:13Z",
-          "key_points": [
-            "Replaces traditional alarms",
-            "Enhances morning routines",
-            "Smoother wake-up experience"
-          ],
-          "impact": "Users are likely to embrace this feature.",
-          "id": "f731e91da5c1b1108f51484b07feef46"
-        },
-        {
-          "title": "Xbox Games Showcase 2026 Predictions Reviewed",
-          "description": "Pure Xbox reviews its predictions for the Xbox Games Showcase 2026, revealing mixed results and lessons learned.",
-          "category": "Gaming",
-          "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/features/roundup-the-results-from-our-xbox-games-showcase-2026-predictions",
-          "image": "https://images.purexbox.com/4b404f4e83788/large.jpg",
-          "published_at": "2026-06-14T15:04:18Z",
-          "key_points": [
-            "Predictions reviewed",
-            "Mixed results",
-            "Lessons learned"
-          ],
-          "impact": "This analysis helps refine future predictions.",
-          "id": "2b4cd24c914df5373ea7dc99a20698a3"
-        },
-        {
-          "title": "Evidence of iPhone Fold and Touchscreen MacBook in iOS 27",
-          "description": "iOS 27 and macOS 27 reveal signs of a folding iPhone and touchscreen MacBook Pro, hinting at Apple's upcoming hardware innovations.",
-          "category": "Business",
-          "source": "AppleInsider",
-          "url": "https://appleinsider.com/articles/26/06/14/iphone-fold-touchscreen-macbook-evidence-mounts-in-ios-27-macos-27",
-          "image": "https://photos5.appleinsider.com/gallery/67943-143238-66570-139613-000-lead-iPhone-Fold-xl-xl.jpg",
-          "published_at": "2026-06-14T14:54:00Z",
-          "key_points": [
-            "Folding iPhone evidence",
-            "Touchscreen MacBook hints",
-            "iOS 27 reveals"
-          ],
-          "impact": "These innovations could reshape Apple's product lineup.",
-          "id": "a955b5431a07a145c38c3324bf4e7818"
-        },
-        {
-          "title": "Fix for Android Auto Disconnection Issues Released",
-          "description": "A recent update addresses Android Auto disconnection problems for Samsung and Pixel users, improving both wired and wireless connections.",
-          "category": "Software",
-          "source": "XDA Developers",
-          "url": "https://www.xda-developers.com/if-your-android-auto-keeps-disconnecting-googles-latest-update-might-help/",
-          "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/android-auto-header.jpg?w=1600&h=900&fit=crop",
-          "published_at": "2026-06-14T14:27:26Z",
-          "key_points": [
-            "Update improves connections",
-            "Fixes disconnection issues",
-            "Targets Samsung and Pixel users"
-          ],
-          "impact": "This update enhances user experience with Android Auto.",
-          "id": "8d39b7d2ddb17cc6dd9d6190736de825"
         }
       ]
     }
