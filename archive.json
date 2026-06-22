@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-22T16:57:00.623328+00:00",
+      "fetched_at": "2026-06-22T16:57:00.623328+00:00",
+      "label": "Jun 22, 2026 — 04:57 PM UTC",
+      "articles": [
+        {
+          "title": "Goodbye Nest Mini: Google Home Speaker Launches",
+          "description": "Google Home Speaker is set to launch, marking the end of the Nest Mini era. This transition hints at a new direction for Google's smart speaker lineup.",
+          "category": "Hardware",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/21/nest-mini-google-home-speaker-replacement-new-era/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2021/01/Google-Assistant-and-Nest-Mini-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-21T15:00:00Z",
+          "key_points": [
+            "Google Home Speaker launches soon",
+            "Nest Mini is discontinued",
+            "New era for Google speakers"
+          ],
+          "impact": "This shift may redefine smart speaker offerings.",
+          "id": "4209f3c54ca64773c26cd602ea9c446e"
+        },
+        {
+          "title": "Swiffer Secrets: How to Use It Right",
+          "description": "Using a Swiffer correctly can transform your cleaning routine. With the right technique, mopping becomes quick and efficient, leaving floors spotless in minutes.",
+          "category": "Business",
+          "source": "The Spruce",
+          "url": "https://www.thespruce.com/my-swiffer-sweeper-mops-perfectly-11985284",
+          "image": "https://www.thespruce.com/thmb/Ohg7ICfSkMVFjXdau4hsAE7ifOY=/4022x0/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_1573copy-86ba77f6cd20475e9dc07a2865e7bfc6.jpg",
+          "published_at": "2026-06-21T14:17:00Z",
+          "key_points": [
+            "Swiffer usage tips revealed",
+            "Mopping made easy",
+            "Clean floors in 15 minutes"
+          ],
+          "impact": "Proper use enhances cleaning efficiency significantly.",
+          "id": "79ff102f7506ed3c72bc0523f98f76fb"
+        },
+        {
+          "title": "Nintendo Games Sale: Lowest Prices on Amazon",
+          "description": "A new sale on Amazon offers significant discounts on Nintendo Switch games, including record-low prices for popular titles like Zelda: Tears of the Kingdom.",
+          "category": "Gaming",
+          "source": "Nintendo Everything",
+          "url": "https://nintendoeverything.com/new-nintendo-games-sale-live-on-amazon-multiple-switch-1-and-2-games-at-lowest-prices-ever/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Nintendo-games-sale-Amazon-June-2026.jpg",
+          "published_at": "2026-06-21T13:43:18Z",
+          "key_points": [
+            "Nintendo games sale live now",
+            "Lowest prices ever",
+            "Includes Zelda discounts"
+          ],
+          "impact": "This sale boosts accessibility for gamers.",
+          "id": "12f1baf410d2a455cf588ff189cc6fcd"
+        },
+        {
+          "title": "Square Enix's Retro RPG Strategy Shines",
+          "description": "Square Enix has successfully created a brand for retro-style RPGs, establishing a unique aesthetic that resonates with fans and drives sales.",
+          "category": "Gaming",
+          "source": "Polygon.com",
+          "url": "https://www.polygon.com/patch-notes-hd-2d-adventures-of-elliot/",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24437848/P20_EN_3.jpg?w=1600&h=900&fit=crop",
+          "published_at": "2026-06-21T13:04:19Z",
+          "key_points": [
+            "Square Enix's RPG brand success",
+            "Unique retro aesthetic",
+            "Strong fan engagement"
+          ],
+          "impact": "This strategy enhances their market presence.",
+          "id": "77f893e8cd16e00d48dd0ca0ffb8701c"
+        },
+        {
+          "title": "Sony's PS5 Strategy: Fewer Units, Lower Prices",
+          "description": "Sony may address hardware pricing issues by reducing PS5 production. This approach aims to stabilize costs amid rising hardware expenses.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/sony-may-mitigate-hardware-pricing-nightmare-by-simply-selling-fewer-ps5s",
+          "image": "https://images.pushsquare.com/f7c905cba77de/large.jpg",
+          "published_at": "2026-06-21T13:00:00Z",
+          "key_points": [
+            "Sony may cut PS5 production",
+            "Addressing pricing challenges",
+            "Focus on hardware costs"
+          ],
+          "impact": "This could stabilize Sony's financial outlook.",
+          "id": "b8f1342fd39c1bfca7fd907160090fbc"
+        },
+        {
+          "title": "Unlock Hidden Android Features for Better Use",
+          "description": "Many useful Android features are hidden within menus. Discovering these can significantly enhance user experience and productivity.",
+          "category": "Software",
+          "source": "Android Authority",
+          "url": "https://www.androidauthority.com/buried-android-features-you-need-try-3676379/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/OPPO-Find-X9-Ultra-Quick-Settings-close-up.jpg",
+          "published_at": "2026-06-21T12:04:04Z",
+          "key_points": [
+            "Discover hidden Android features",
+            "Enhance user experience",
+            "Boost productivity easily"
+          ],
+          "impact": "Uncovering features improves overall device usability.",
+          "id": "b1b6cb7599f188c00d4602faace83a11"
+        },
+        {
+          "title": "Android 17 Faces Touchscreen Issues on Pixels",
+          "description": "Users report touchscreen problems after updating to Android 17, including unresponsive areas and scrolling issues on Pixel devices.",
+          "category": "Software",
+          "source": "Android Central",
+          "url": "https://www.androidcentral.com/apps-software/android-os/android-17-is-off-to-a-rough-start-with-new-pixel-touchscreen-complaints",
+          "image": "https://cdn.mos.cms.futurecdn.net/WTzhQBYYLX7VAdVuoKwzWD-2560-80.jpg",
+          "published_at": "2026-06-21T11:44:55Z",
+          "key_points": [
+            "Android 17 causes touchscreen issues",
+            "Pixel users affected",
+            "Complaints about responsiveness"
+          ],
+          "impact": "This may lead to user dissatisfaction with updates.",
+          "id": "ae55799fe2d4e458343a4c93ba0e29af"
+        },
+        {
+          "title": "New Xbox Handheld Logo Surfaces Online",
+          "description": "Microsoft introduces a new Xbox Handheld logo on game pages, hinting at a potential handheld gaming device in development.",
+          "category": "Gaming",
+          "source": "VideoCardz.com",
+          "url": "https://videocardz.com/newz/xbox-handheld-logo-appears-on-official-microsoft-game-pages",
+          "image": "https://cdn.videocardz.com/1/2026/06/XBOX-HANDHELD-ROG-XBOX-ALLY-HERO.webp",
+          "published_at": "2026-06-21T11:24:48Z",
+          "key_points": [
+            "Xbox Handheld logo appears",
+            "Hints at new device",
+            "Official game page updates"
+          ],
+          "impact": "This could signal a new gaming trend.",
+          "id": "fecfbd2fd0cf52b278f31361832a5a2a"
+        },
+        {
+          "title": "Google's Gemini Improves Linux Boot Times",
+          "description": "Google's Gemini technology helps reduce boot times on modern ASUS laptops, addressing performance issues for users with high-end specs.",
+          "category": "Software",
+          "source": "Phoronix",
+          "url": "https://www.phoronix.com/news/Gemini-ASUS-Laptop-Boot-Time",
+          "image": "https://www.phoronix.net/image.php?id=2026&image=asus_amd_gpio",
+          "published_at": "2026-06-21T10:43:00Z",
+          "key_points": [
+            "Gemini improves boot times",
+            "Fixes ASUS laptop issues",
+            "Enhances Linux performance"
+          ],
+          "impact": "This advancement boosts user satisfaction with devices.",
+          "id": "e2ac2f680a4ff1c6c7078864b1d3c27d"
+        },
+        {
+          "title": "Best NAS Devices for Home Backup Solutions",
+          "description": "Network-attached storage (NAS) devices offer efficient backup and sharing solutions for home users. Here are the top picks after thorough testing.",
+          "category": "Hardware",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/best-nas-devices/",
+          "image": "https://media.wired.com/photos/6a17d5a46c30c214d6076c82/191:100/w_1280,c_limit/Best%20NAS%20Storage%20top%20art%20052026%20SOURCE%20Amazon.jpg",
+          "published_at": "2026-06-21T10:30:00Z",
+          "key_points": [
+            "Top NAS devices reviewed",
+            "Ideal for home backups",
+            "Enhances file sharing capabilities"
+          ],
+          "impact": "NAS devices simplify data management at home.",
+          "id": "94b1bbc0ac3b544ab46776f94dfd862f"
+        },
+        {
+          "title": "GTA 6 Pricing Leaks Ahead of Pre-Orders",
+          "description": "Leaked SKUs suggest GTA 6 will be priced at €90 for the base edition and €119.99 for the premium version, just before pre-orders begin.",
+          "category": "Gaming",
+          "source": "Wccftech",
+          "url": "https://wccftech.com/gta-6-price-leak-fnac-90-euros-premium-edition/",
+          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/gta-6-cover-1920x1080.jpg",
+          "published_at": "2026-06-21T10:15:00Z",
+          "key_points": [
+            "GTA 6 pricing leaks",
+            "Base and premium editions",
+            "Pre-orders opening soon"
+          ],
+          "impact": "Pricing may influence pre-order decisions.",
+          "id": "18f300d048866e9548dfde6769b19b2f"
+        },
+        {
+          "title": "Avoid Cloud Storage Limits with Google Photos",
+          "description": "Changing a specific setting in Google Photos can prevent hitting cloud storage limits, enhancing user experience significantly.",
+          "category": "Software",
+          "source": "Android Police",
+          "url": "https://www.androidpolice.com/stopped-hitting-cloud-storage-limits-by-changing-google-photos-option/",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/03/google-photos-icon-hero-jpg.jpg?w=1600&h=900&fit=crop",
+          "published_at": "2026-06-21T10:00:19Z",
+          "key_points": [
+            "Change settings to avoid limits",
+            "Enhance Google Photos usage",
+            "Maximize free storage effectively"
+          ],
+          "impact": "This adjustment improves cloud storage management.",
+          "id": "a966bc66214dcde56d328053e312e32d"
+        },
+        {
+          "title": "Buying Used iPhones: A Smart Choice",
+          "description": "With rising prices, purchasing used iPhones is increasingly sensible. They offer longevity and cost savings, making them a viable option for consumers.",
+          "category": "Business",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/buying-a-used-iphone-makes-more-sense-than-ever/",
+          "image": "https://media.wired.com/photos/6a3322aebc63986040a4a6ba/191:100/w_1280,c_limit/GettyImages-2210156582.jpg",
+          "published_at": "2026-06-21T10:00:00Z",
+          "key_points": [
+            "Used iPhones save money",
+            "Environmentally friendly choice",
+            "Long-lasting devices"
+          ],
+          "impact": "This trend supports sustainable consumer habits.",
+          "id": "3c721809d3858189cdb6e1e7fb76e2b0"
+        },
+        {
+          "title": "Microsoft Office Set for Life Offer",
+          "description": "Get lifetime access to Microsoft Office for just $89.97, a cost-effective alternative to Microsoft 365 subscriptions.",
+          "category": "Software",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/june-21-microsoft-office-2024-home-business-for-mac-or-pc",
+          "image": "https://helios-i.mashable.com/imagery/articles/05VWA7457ai32PsLf0KRYl7/hero-image.fill.size_1200x675.v1781716757.jpg",
+          "published_at": "2026-06-21T09:00:00Z",
+          "key_points": [
+            "Lifetime Office access for $89.97",
+            "Ditch Microsoft 365 subscriptions",
+            "Cost-effective software solution"
+          ],
+          "impact": "This offer enhances software accessibility.",
+          "id": "c56d58bacb0c44d0c2b9e202f51be021"
+        },
+        {
+          "title": "My Hero Academia: All's Justice Coming to Switch 2",
+          "description": "Bandai Namco announces the release of My Hero Academia: All's Justice for Switch 2, set to launch this September, expanding the game's reach.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/bandai-namco-is-bringing-my-hero-academia-alls-justice-to-switch-2",
+          "image": "https://images.nintendolife.com/e14c6f5e196ef/large.jpg",
+          "published_at": "2026-06-21T08:00:00Z",
+          "key_points": [
+            "My Hero Academia game for Switch 2",
+            "Launches in September",
+            "Expands gaming options"
+          ],
+          "impact": "This release boosts Nintendo's game library.",
+          "id": "096ccf1558e1c597c6baababeffbe564"
+        }
+      ]
+    },
+    {
       "id": "2026-06-22T11:51:37.752060+00:00",
       "fetched_at": "2026-06-22T11:51:37.752060+00:00",
       "label": "Jun 22, 2026 — 11:52 AM UTC",
@@ -6568,253 +6815,6 @@
           ],
           "impact": "This project promotes innovative recycling solutions.",
           "id": "6584e95057398b28f48d35e996658171"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-17T04:00:20.970285+00:00",
-      "fetched_at": "2026-06-17T04:00:20.970285+00:00",
-      "label": "Jun 17, 2026 — 04:01 AM UTC",
-      "articles": [
-        {
-          "title": "Shimano DEORE M7200/M6200: Affordable Performance",
-          "description": "Shimano's new DEORE M7200 and M6200 components offer reliable shifting and a 10-51T cassette at various price points. The updated brake system enhances performance for cyclists.",
-          "category": "Hardware",
-          "source": "Bikepacking.com",
-          "url": "https://bikepacking.com/news/new-shimano-deore-drivetrain/",
-          "image": "https://bikepacking.com/wp-content/uploads/2026/06/shimano-deore-2026_1.jpg",
-          "published_at": "2026-06-16T02:47:39Z",
-          "key_points": [
-            "Affordable wide-range drivetrain",
-            "New brake system introduced",
-            "Mechanically actuated shifting"
-          ],
-          "impact": "Shimano enhances cycling experience with budget-friendly options.",
-          "id": "e2dd74f0777b1fb92c753fed2f65bbfb"
-        },
-        {
-          "title": "Nintendo Switch 2 Update 22.5.0 Released",
-          "description": "Nintendo has launched the Switch 2 and Switch update 22.5.0, featuring stability improvements and new features. Full patch notes detail the enhancements.",
-          "category": "Gaming",
-          "source": "Nintendoeverything.com",
-          "url": "https://nintendoeverything.com/nintendo-switch-2-and-switch-update-22-5-0-out-now-patch-notes/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Switch-2-Switch-update-22.5.0.jpg",
-          "published_at": "2026-06-16T01:20:53Z",
-          "key_points": [
-            "New firmware for Switch systems",
-            "Includes stability improvements",
-            "Patch notes available online"
-          ],
-          "impact": "Nintendo continues to enhance user experience with updates.",
-          "id": "d8d9f522660743a4b4a461c6c480e47d"
-        },
-        {
-          "title": "Helium-3 Mining Plans for the Moon",
-          "description": "Helium-3, a valuable resource, is being targeted for extraction from the moon by companies like Interlune. The demand for this isotope is expected to rise significantly.",
-          "category": "Geopolitics",
-          "source": "BBC News",
-          "url": "https://www.bbc.com/news/articles/ce8jmg2e4kro",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fa72/live/b6a9ba10-688d-11f1-b1db-af71d47507d6.jpg",
-          "published_at": "2026-06-16T00:11:13Z",
-          "key_points": [
-            "Helium-3 demand increasing",
-            "Companies planning lunar mining",
-            "Interlune leading the effort"
-          ],
-          "impact": "Lunar mining could reshape energy resources.",
-          "id": "1fbe57ec8d13de08e75fa0c77a7e992a"
-        },
-        {
-          "title": "EA Sports UFC 6: A Mixed Review",
-          "description": "EA Sports UFC 6 impresses with gameplay but diverges from real-life combat sports. The game offers thrilling experiences but lacks realism in some aspects.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/ea-sports-ufc-6-review",
-          "image": "https://assets-prd.ignimgs.com/2026/06/15/ufc-6-blogroll-1781567390691.jpg?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-16T00:00:00Z",
-          "key_points": [
-            "Exciting gameplay experience",
-            "Less focus on realism",
-            "Engaging combat mechanics"
-          ],
-          "impact": "EA Sports UFC 6 offers thrilling yet unrealistic gameplay.",
-          "id": "0b9781b6c7bc3c11285580a9b67c7650"
-        },
-        {
-          "title": "Xbox May Close Compulsion Games Studio",
-          "description": "Xbox is reportedly considering shutting down Compulsion Games, known for We Happy Few, along with other studios like Double Fine and Ninja Theory facing risks.",
-          "category": "Gaming",
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/xbox-is-reportedly-considering-closing-south-of-midnight-studio-compulsion-games-with-double-fine-and-ninja-theory-also-allegedly-at-risk",
-          "image": "https://assetsio.gnwcdn.com/ss_176b21b4e07b7d2cadec6317c3cbcb13bea0a1d9.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-15T21:00:01Z",
-          "key_points": [
-            "Compulsion Games at risk",
-            "Double Fine and Ninja Theory threatened",
-            "Xbox restructuring plans"
-          ],
-          "impact": "Potential studio closures could impact Xbox's game lineup.",
-          "id": "cbf6db8229193ebc5dd94aaa0434335c"
-        },
-        {
-          "title": "Gemini Users Face Call Issues on Android",
-          "description": "Some Gemini users are experiencing call failures on Android and Android Auto due to a bug. The issue affects a significant number of users.",
-          "category": "Software",
-          "source": "9to5google.com",
-          "url": "http://9to5google.com/2026/06/15/gemini-suddenly-cant-make-calls-on-android-and-android-auto-for-some/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-overlay-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-15T20:55:00Z",
-          "key_points": [
-            "Gemini call feature malfunctioning",
-            "Widespread user complaints",
-            "Bug affecting Android Auto"
-          ],
-          "impact": "Call issues disrupt Gemini user experience on Android.",
-          "id": "ea9514f7664f52e70b9a34da73e2c6cb"
-        },
-        {
-          "title": "Galaxy Z Fold 8 Ultra Leaks Confirm Design",
-          "description": "Recent leaks reveal the Galaxy Z Fold 8 Ultra maintains a familiar design, aligning with Samsung's new naming strategy for foldables. Internal FCC documents support these findings.",
-          "category": "Hardware",
-          "source": "9to5google.com",
-          "url": "http://9to5google.com/2026/06/15/galaxy-z-fold-8-ultra-fcc-leak/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Galaxy-Z-Fold-7-screen-and-design-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-15T19:37:00Z",
-          "key_points": [
-            "Galaxy Z Fold 8 Ultra leaks",
-            "Design similar to previous models",
-            "New naming strategy confirmed"
-          ],
-          "impact": "Samsung's foldable design remains consistent with updates.",
-          "id": "efb5f67f2c9d60254577c2c92f43908b"
-        },
-        {
-          "title": "Amazon Smart Thermostat Sale: $58",
-          "description": "Amazon's Smart Thermostat is now available for $57.99, its lowest price this year. The device learns routines and helps monitor energy usage effectively.",
-          "category": "Hardware",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/gadgets/950043/amazon-smart-thermostat-early-prime-day-deal-sale",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23019741/jtuohy_211116_4885_0013.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-06-15T19:33:28Z",
-          "key_points": [
-            "Smart Thermostat discounted to $58",
-            "Learns user routines",
-            "Monitors energy consumption"
-          ],
-          "impact": "Amazon offers significant savings on smart home tech.",
-          "id": "7c4d3ef2645d87e79e2e38b68485a2bf"
-        },
-        {
-          "title": "Gran Turismo 7: New Daily Races Live",
-          "description": "Gran Turismo 7 introduces new Daily Races, featuring three fresh events available until next Monday. Players can enjoy diverse racing experiences this week.",
-          "category": "Gaming",
-          "source": "GTPlanet",
-          "url": "https://www.gtplanet.net/gran-turismo-7-daily-races-payday-on-the-expressway-20260615/",
-          "image": "https://www.gtplanet.net/wp-content/uploads/2026/06/gr3-tokyo-expressway-gt7.jpg",
-          "published_at": "2026-06-15T19:27:22Z",
-          "key_points": [
-            "New Daily Races launched",
-            "Events available until Monday",
-            "Diverse racing experiences offered"
-          ],
-          "impact": "Gran Turismo 7 keeps players engaged with fresh content.",
-          "id": "0ca7d28651e3511d9b6b6726eff5d3ad"
-        },
-        {
-          "title": "Treyarch Studio Head Mark Gordon Steps Down",
-          "description": "Mark Gordon, Treyarch's studio head, has announced his departure after 22 years. His contributions to the studio have been significant over the years.",
-          "category": "Gaming",
-          "source": "Insider-gaming.com",
-          "url": "https://insider-gaming.com/mark-gordon-treyarch-stepping-down/",
-          "image": "https://insider-gaming.com/wp-content/uploads/2026/06/treyarch-mark-gordon.jpg",
-          "published_at": "2026-06-15T18:54:29Z",
-          "key_points": [
-            "Mark Gordon resigns after 22 years",
-            "Significant contributions acknowledged",
-            "Treyarch faces leadership change"
-          ],
-          "impact": "Treyarch enters a new era post-Gordon.",
-          "id": "693b36a1b0a6c47b511956c527c93f66"
-        },
-        {
-          "title": "Samsung Galaxy Book 6 Edge: $2,100 Price Tag",
-          "description": "Samsung's Galaxy Book 6 Edge, powered by Snapdragon X2 Elite, is priced at $2,100 with only 16GB of RAM. The high cost raises concerns among potential buyers.",
-          "category": "Hardware",
-          "source": "9to5google.com",
-          "url": "http://9to5google.com/2026/06/15/samsung-galaxy-book-6-edge-with-snapdragon-x2-elite-is-2100-only-16gb-of-ram/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/galaxy-book-6-edge-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-15T17:45:00Z",
-          "key_points": [
-            "Galaxy Book 6 Edge launched",
-            "High price for limited RAM",
-            "Powered by Snapdragon X2 Elite"
-          ],
-          "impact": "Samsung's pricing strategy raises eyebrows among consumers.",
-          "id": "ced4420bb7a22efc3395cb4d19529b4c"
-        },
-        {
-          "title": "Blizzard Sues Private WoW Server Project",
-          "description": "Blizzard has initiated a lawsuit against Project Ascension, a private World of Warcraft server, for copyright infringement. The server reportedly has over a million players.",
-          "category": "Gaming",
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/blizzard-sues-private-world-of-warcraft-server-for-large-scale-egregious-and-ongoing-infringement-of-blizzards-intellectual-property",
-          "image": "https://assetsio.gnwcdn.com/art_intro_2_full.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-15T17:38:02Z",
-          "key_points": [
-            "Blizzard files copyright lawsuit",
-            "Targeting Project Ascension",
-            "Over a million players involved"
-          ],
-          "impact": "Legal action could impact private gaming communities.",
-          "id": "c6f188f2fed5f2b293de6c2ac2b9d32b"
-        },
-        {
-          "title": "Brooks England Unveils B17 Utmost After 100 Years",
-          "description": "Brooks England introduces the B17 Utmost, a modern update to its classic B17 saddle after over a century of production. The original B17 remains available.",
-          "category": "Hardware",
-          "source": "Bikerumor.com",
-          "url": "https://bikerumor.com/after-100-years-brooks-england-changes-the-legendary-b17-meet-the-b17-utmost/",
-          "image": "https://bikerumor.com/wp-content/uploads/2026/06/Brooks-Englad-B17-Utmost-hero-e1781296271438.jpeg",
-          "published_at": "2026-06-15T16:52:02Z",
-          "key_points": [
-            "New B17 Utmost introduced",
-            "Classic B17 still available",
-            "100 years of production celebrated"
-          ],
-          "impact": "Brooks England modernizes a classic saddle design.",
-          "id": "f91317fcbb44200424c826d8c9697c60"
-        },
-        {
-          "title": "Bovensiepen 05 GT: A Classy BMW M5 Touring",
-          "description": "The Bovensiepen 05 GT enhances the BMW M5 Touring with refined aesthetics and elegance. This design promises a more tasteful appearance for the iconic vehicle.",
-          "category": "Hardware",
-          "source": "Theautopian.com",
-          "url": "https://www.theautopian.com/the-designer-of-the-new-mini-figured-out-how-to-make-the-bmw-m5-touring-look-way-way-way-more-tasteful/",
-          "image": "https://images-stag.jazelc.com/uploads/theautopian-m2en/Bovensiepen_05_GT_04-TS5.jpg",
-          "published_at": "2026-06-15T15:59:35Z",
-          "key_points": [
-            "Bovensiepen 05 GT unveiled",
-            "Enhances BMW M5 Touring design",
-            "Focus on elegance and class"
-          ],
-          "impact": "New design elevates the BMW M5 Touring's appeal.",
-          "id": "c897cd1ada35b522eacd4f42e837d441"
-        },
-        {
-          "title": "MSI Claw 8 EX AI+ Launches at $1,699",
-          "description": "MSI's Claw 8 EX AI+ handheld gaming device is priced at $1,699, nearly double the previous Claw 8's price. This marks a significant increase in handheld gaming costs.",
-          "category": "Gaming",
-          "source": "Wccftech",
-          "url": "https://wccftech.com/msi-claw-8-ex-ai-lands-at-1699/",
-          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/MSi-Claw-8-EX-AI-featured.jpg",
-          "published_at": "2026-06-15T12:54:00Z",
-          "key_points": [
-            "Claw 8 EX AI+ priced at $1,699",
-            "Significant price increase noted",
-            "New gaming handheld launched"
-          ],
-          "impact": "MSI's pricing strategy raises concerns for gamers.",
-          "id": "ffb576ea92697c8bbe1ed34c231eb8b6"
         }
       ]
     }
