@@ -1,6 +1,221 @@
 {
   "batches": [
     {
+      "id": "2026-06-22T04:05:49.081243+00:00",
+      "fetched_at": "2026-06-22T04:05:49.081243+00:00",
+      "label": "Jun 22, 2026 — 04:06 AM UTC",
+      "articles": [
+        {
+          "title": "Sony Halts PC Ports Due to Low Revenue",
+          "description": "Sony will stop porting PS5 games to PC as they reportedly aren't profitable. This marks a significant shift in their strategy.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/hermen-hulst-allegedly-said-sonys-pc-ports-didnt-make-enough-money",
+          "image": "https://images.pushsquare.com/2e1c53aaee468/large.jpg",
+          "published_at": "2026-06-21T00:00:00Z",
+          "key_points": [
+            "Sony shifts focus back to consoles",
+            "PC ports underperforming",
+            "Strategic change in gaming approach"
+          ],
+          "impact": "This could affect PC gaming market dynamics.",
+          "id": "1f69ee4fafc0990cee652d591ce404eb"
+        },
+        {
+          "title": "Ubisoft Co-Founder Claude Guillemot Dies in Crash",
+          "description": "Claude Guillemot, co-founder of Ubisoft, died in a plane crash in France. He was 69 years old.",
+          "category": "Geopolitics",
+          "source": "Fox Business",
+          "url": "https://www.foxbusiness.com/technology/ubisoft-co-founder-claude-guillemot-killed-plane-crash-claimed-2-lives",
+          "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/claude-guillemot-1.png?ve=1&tl=1",
+          "published_at": "2026-06-20T22:28:00Z",
+          "key_points": [
+            "Guillemot co-founded Ubisoft",
+            "Tragic plane crash incident",
+            "Impact on gaming industry leadership"
+          ],
+          "impact": "His death leaves a significant void in gaming.",
+          "id": "d2fa748f0ecdd6484c8468dacb1b48e2"
+        },
+        {
+          "title": "Nintendo Switch Sports Resort Features 100 Pin Bowling",
+          "description": "Nintendo Switch Sports Resort will include 100 Pin Bowling, a nostalgic feature from Wii Sports Resort. The announcement was made via their Japanese website.",
+          "category": "Gaming",
+          "source": "Nintendoeverything.com",
+          "url": "https://nintendoeverything.com/?p=917008",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Switch-Sports-Resort-100-Pin-Bowling.jpg",
+          "published_at": "2026-06-20T22:06:41Z",
+          "key_points": [
+            "100 Pin Bowling confirmed",
+            "Nostalgic feature returns",
+            "Exciting addition for gamers"
+          ],
+          "impact": "This enhances the appeal of the new game.",
+          "id": "f0e2c5e6ac6bb8f33224ee509be00b26"
+        },
+        {
+          "title": "Diablo 4 May Launch on Nintendo Switch 2",
+          "description": "New evidence suggests Diablo 4 could be coming to Nintendo Switch 2, following a recent rating in Taiwan.",
+          "category": "Gaming",
+          "source": "Nintendoeverything.com",
+          "url": "https://nintendoeverything.com/new-evidence-emerges-of-diablo-4-coming-to-nintendo-switch-2/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Diablo-4-Switch-2-rating.webp",
+          "published_at": "2026-06-20T20:31:49Z",
+          "key_points": [
+            "Diablo 4 rated for Switch 2",
+            "Potential new platform release",
+            "Exciting news for Nintendo fans"
+          ],
+          "impact": "This could boost Switch 2's game library.",
+          "id": "0753e53f3cfbaeff7fb3aab9289e8e0c"
+        },
+        {
+          "title": "Welch's Launches New Four Berry Spread",
+          "description": "Welch's has introduced a new Four Berry Spread, featuring blackberries, blueberries, strawberries, and raspberries, enhancing PB&J options.",
+          "category": "Business",
+          "source": "Allrecipes.com",
+          "url": "https://www.allrecipes.com/welchs-four-berry-spread-12000093",
+          "image": "https://www.allrecipes.com/thmb/yza4tzoYDS6Q_uXVyGVPmgvNfic=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ar-welchs-new-gummy-ar-welchs-2x1-5909d444351b464c839fddb51be14de9.jpg",
+          "published_at": "2026-06-20T20:00:00Z",
+          "key_points": [
+            "New spread for PB&J lovers",
+            "Features four berry flavors",
+            "Welch's innovation in spreads"
+          ],
+          "impact": "This could attract new customers to Welch's.",
+          "id": "5dc32a07a0c0eccb958c613b804844c6"
+        },
+        {
+          "title": "In the Weights: Your AI Vanity Search Tool",
+          "description": "In the Weights offers a new AI-driven vanity search experience, aiming to enhance personal online visibility.",
+          "category": "Software",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+          "image": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1278815846.jpg?resize=1200,800",
+          "published_at": "2026-06-20T19:41:11Z",
+          "key_points": [
+            "AI-driven search tool",
+            "Enhances personal visibility",
+            "Innovative online experience"
+          ],
+          "impact": "This could change how users search online.",
+          "id": "5cab6cb8b0ba0b727faa86a0094cb29e"
+        },
+        {
+          "title": "Starlink Satellites Expand Beyond Internet Services",
+          "description": "Starlink is now involved in more than just internet provision, contributing to various initiatives, especially during wildfires in Canada.",
+          "category": "Geopolitics",
+          "source": "SlashGear",
+          "url": "https://www.slashgear.com/2196272/startlink-satellites-doing-more-than-just-providing-internet/",
+          "image": "https://www.slashgear.com/img/gallery/starlink-satellites-are-doing-a-lot-more-than-just-providing-internet/l-intro-1781695755.jpg",
+          "published_at": "2026-06-20T17:45:00Z",
+          "key_points": [
+            "Starlink aids in disaster response",
+            "Beyond internet services",
+            "Innovative satellite applications"
+          ],
+          "impact": "This enhances Starlink's role in emergencies.",
+          "id": "70cdb672e4819f1ff42b69bcf8315174"
+        },
+        {
+          "title": "Apple Fixes Security Flaw in Beats Studio Buds",
+          "description": "Apple has addressed a security vulnerability in Beats Studio Buds that could allow unauthorized listening to conversations.",
+          "category": "Security",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/apple-fixes-beats-studio-buds-flaw",
+          "image": "https://helios-i.mashable.com/imagery/articles/02wDtYvEp1oSzsFd80GJMdF/hero-image.fill.size_1200x675.v1781976363.jpg",
+          "published_at": "2026-06-20T17:27:12Z",
+          "key_points": [
+            "Security flaw fixed",
+            "Protects user privacy",
+            "Important software update"
+          ],
+          "impact": "This enhances user trust in Apple products.",
+          "id": "22f39d7c0d5e13de3e5ea7473cdd2aab"
+        },
+        {
+          "title": "Pragmata's Diana Character Developed by Women Team",
+          "description": "A team called the 'Diana Police' was formed to ensure the character Diana feels authentically childlike in Pragmata.",
+          "category": "Gaming",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/to-make-pragmatas-diana-feel-naturally-childlike-a-small-group-of-women-dubbed-the-diana-police-was-set-up-to-keep-things-in-check",
+          "image": "https://assetsio.gnwcdn.com/pragmata-diana_DG69U8X.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-20T16:10:55Z",
+          "key_points": [
+            "Diana character authenticity",
+            "Women-led development team",
+            "Focus on childlike traits"
+          ],
+          "impact": "This promotes diversity in game development.",
+          "id": "931f864a378f7c914a1e6a19e308bd36"
+        },
+        {
+          "title": "Age of Empires Veteran Earnest Yuen Retires",
+          "description": "After 31 years, Earnest Yuen, a key figure in Age of Empires, retires, leaving a legacy in the gaming industry.",
+          "category": "Gaming",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/gaming/xbox/age-of-empires-veteran-earnest-yuen-retires",
+          "image": "https://cdn.mos.cms.futurecdn.net/sPkigxHSWSAssAp5yxeryV-1920-80.jpg",
+          "published_at": "2026-06-20T13:47:51Z",
+          "key_points": [
+            "Yuen retires after 31 years",
+            "Contributed to Age of Empires",
+            "Legacy in gaming industry"
+          ],
+          "impact": "His retirement marks the end of an era.",
+          "id": "ad773382ff34efdfbb2a25532529c244"
+        },
+        {
+          "title": "Xbox Faces Potential Game Cancellations",
+          "description": "Xbox is undergoing a reset, with multiple studios at risk of closure, leading to potential game cancellations.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/what-xbox-games-are-being-cancelled",
+          "image": "https://assets-prd.ignimgs.com/2026/06/19/xbox-risk-blog-1781861448913.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-20T12:00:00Z",
+          "key_points": [
+            "Xbox studios facing closures",
+            "Potential game cancellations",
+            "Industry-wide reset underway"
+          ],
+          "impact": "This could reshape Xbox's gaming portfolio.",
+          "id": "3b2ecffd6d6ee2279b4032b8cc2d04b6"
+        },
+        {
+          "title": "Weekend PC Game Deals: Cyberpunk 2077 and More",
+          "description": "This weekend's PC game deals feature Cyberpunk 2077 and various demos during Steam's festival, offering great savings.",
+          "category": "Gaming",
+          "source": "Neowin",
+          "url": "https://www.neowin.net/news/weekend-pc-game-deals-cyberpunk-2077-split-fiction-sonic-racing-and-more/",
+          "image": "https://cdn.neowin.com/news/images/uploaded/2026/02/1770978165_lib2_story.webp",
+          "published_at": "2026-06-20T09:30:00Z",
+          "key_points": [
+            "Great deals on PC games",
+            "Includes popular titles",
+            "Steam festival demos available"
+          ],
+          "impact": "This boosts engagement in the gaming community.",
+          "id": "fde54a1adc7bf1fc4bd46abe5719045c"
+        },
+        {
+          "title": "Star Fox Soft Toy Line Launches in Europe",
+          "description": "Nintendo has launched a new line of Star Fox soft toys in Europe, coinciding with the franchise's upcoming return.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/star-fox-soft-toy-line-now-available-on-the-nintendo-store-europe",
+          "image": "https://images.nintendolife.com/77e1f34d7b1d9/large.jpg",
+          "published_at": "2026-06-20T06:00:00Z",
+          "key_points": [
+            "Star Fox toys now available",
+            "Launch coincides with franchise return",
+            "Appealing for collectors and fans"
+          ],
+          "impact": "This enhances merchandise offerings for fans.",
+          "id": "6b088f86a3a4f832722e2572252cfce8"
+        }
+      ]
+    },
+    {
       "id": "2026-06-21T22:13:53.278645+00:00",
       "fetched_at": "2026-06-21T22:13:53.278645+00:00",
       "label": "Jun 21, 2026 — 10:14 PM UTC",
@@ -6600,253 +6815,6 @@
           ],
           "impact": "This find excites classic car enthusiasts.",
           "id": "0918b52c398dc321df6b4ee0ac9d3ff4"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-16T20:49:31.607588+00:00",
-      "fetched_at": "2026-06-16T20:49:31.607588+00:00",
-      "label": "Jun 16, 2026 — 08:50 PM UTC",
-      "articles": [
-        {
-          "title": "Xbox Studios Face Potential Closures",
-          "description": "Microsoft's Xbox studios, including Compulsion Games, may spin off to avoid closures. Negotiations are ongoing for independence.",
-          "category": "Gaming",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-15/studios-in-microsoft-s-xbox-division-brace-for-closures",
-          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieKu6AwmmgjQ/v0/1200x799.jpg",
-          "published_at": "2026-06-15T20:15:04Z",
-          "key_points": [
-            "Studios negotiating independence",
-            "Potential closures looming",
-            "Compulsion Games involved"
-          ],
-          "impact": "This could reshape Xbox's development landscape.",
-          "id": "321b274501fd2d5418ddf102bb0e0fd8"
-        },
-        {
-          "title": "Apple Reveals Siri Overhaul Delays",
-          "description": "Apple's Siri overhaul for iOS 27 took longer than expected due to extensive improvements. Mike Rockwell explains the challenges faced.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/15/apple-explains-why-siris-major-ios-27-overhaul-took-so-long/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-15T19:19:00Z",
-          "key_points": [
-            "Siri upgrade significantly delayed",
-            "Extensive improvements made",
-            "Mike Rockwell provides insights"
-          ],
-          "impact": "Siri's new features aim to enhance user experience.",
-          "id": "68bf2791994637de1bbde5686dba9d24"
-        },
-        {
-          "title": "Steam Next Fest Overrun by AI Games",
-          "description": "Steam Next Fest is criticized for being flooded with AI-generated games, disappointing many gamers. The event's charm seems diminished.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/exploring-steam-next-fest-with-an-ai-blocking-extension-is-very-depressing-2000706695",
-          "image": "https://kotaku.com/app/uploads/2026/06/steamnexfest-1200x675.jpg",
-          "published_at": "2026-06-15T19:14:00Z",
-          "key_points": [
-            "AI games dominate Steam Next Fest",
-            "Gamers express disappointment",
-            "Event charm diminished"
-          ],
-          "impact": "This trend may alter future gaming events.",
-          "id": "10edc77853184eb68e7ecf7ec64ae91c"
-        },
-        {
-          "title": "Google Chrome Tightens Ad Blocker Policies",
-          "description": "Google Chrome will remove loopholes allowing older ad blockers to function, impacting user experience. Updates are expected this summer.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24418648/STK114_Google_Chrome_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-06-15T18:06:18Z",
-          "key_points": [
-            "Chrome removes ad blocker loopholes",
-            "Updates coming this summer",
-            "User experience impacted"
-          ],
-          "impact": "This may frustrate users relying on ad blockers.",
-          "id": "9c6a905412b5634b987dafa045a86c02"
-        },
-        {
-          "title": "AMD Removes Memory Crypto from CPUs",
-          "description": "AMD's decision to strip memory crypto from consumer CPUs has sparked user backlash, suggesting a covert strategy.",
-          "category": "Security",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_7105-1152x648-1769617334.jpeg",
-          "published_at": "2026-06-15T17:55:46Z",
-          "key_points": [
-            "AMD strips memory crypto",
-            "User backlash ensues",
-            "Covert strategy suspected"
-          ],
-          "impact": "This could affect consumer trust in AMD.",
-          "id": "67377d6541c6a4e9e379c8491ff1966f"
-        },
-        {
-          "title": "No iPhone 18 Release This Year",
-          "description": "Apple's iPhone 18 will not launch in 2026, with a new release expected in early 2027, according to supply chain sources.",
-          "category": "Business",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/15/no-iphone-18-this-year-apple-supplier-confirms/",
-          "image": "https://images.macrumors.com/t/Y1Sp3NsfWCwKbQL0mUSrnViR6tY=/2000x/article-new/2025/09/iphone-17-models.jpg",
-          "published_at": "2026-06-15T17:51:57Z",
-          "key_points": [
-            "iPhone 18 delayed to 2027",
-            "Supply chain confirms rumors",
-            "No release this year"
-          ],
-          "impact": "This may impact Apple's market strategy.",
-          "id": "6f90eca4aa7522de8b0e32c85f24952a"
-        },
-        {
-          "title": "MTG Arena Updates Announced",
-          "description": "Magic: The Gathering Arena announces new events and updates, including an early-access event for Marvel Super Heroes.",
-          "category": "Gaming",
-          "source": "Wizards.com",
-          "url": "https://magic.wizards.com/en/news/mtg-arena/announcements-june-15-2026",
-          "image": "https://images.ctfassets.net/s5n2t79q9icq/1qqHUJ9cKYenQosEqhXIPD/968f0dfadd6c9b3841beb7a93058e210/en_articles_archive_magic-digital_mtg-arena-announcements-september-14-2022-meta-image.jpeg",
-          "published_at": "2026-06-15T17:12:44Z",
-          "key_points": [
-            "New MTG Arena events announced",
-            "Marvel Super Heroes early-access",
-            "Exciting updates for players"
-          ],
-          "impact": "This will engage the MTG community further.",
-          "id": "2cf5f8b79e2763700cdee9e49d2d57db"
-        },
-        {
-          "title": "Vikings Used Islamic Coins for Pennies",
-          "description": "A study reveals Vikings melted Islamic silver coins to create their early pennies, highlighting cultural exchanges.",
-          "category": "Geopolitics",
-          "source": "Live Science",
-          "url": "https://www.livescience.com/archaeology/vikings/melted-in-a-pot-somewhere-vikings-used-islamic-silver-coins-to-make-their-early-pennies-study-finds",
-          "image": "https://cdn.mos.cms.futurecdn.net/4ixkCueWXjLJhv7fffaU74-1920-80.jpg",
-          "published_at": "2026-06-15T17:07:07Z",
-          "key_points": [
-            "Vikings melted Islamic coins",
-            "Cultural exchange highlighted",
-            "New study findings revealed"
-          ],
-          "impact": "This sheds light on Viking trade practices.",
-          "id": "0f599d55d9c0666dcfdf2b4b2e0e76bb"
-        },
-        {
-          "title": "Assassin's Creed Shadows Update Released",
-          "description": "The 1.1.11 update for Assassin's Creed Shadows introduces a new story quest and improvements for Nintendo Switch 2.",
-          "category": "Gaming",
-          "source": "Nintendoeverything.com",
-          "url": "https://nintendoeverything.com/assassins-creed-shadows-1-1-11-update-announced-patch-notes-new-story-quest-nintendo-switch-2-handheld-gpu-improvements-more/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Assassins-Creed-Shadows-1.1.11-update.jpg",
-          "published_at": "2026-06-15T16:20:21Z",
-          "key_points": [
-            "New story quest added",
-            "Switch 2 improvements included",
-            "Final content drop announced"
-          ],
-          "impact": "This enhances gameplay for Assassin's Creed fans.",
-          "id": "08ce61e22e4988bb9cad0d47cb926e31"
-        },
-        {
-          "title": "SiN Remaster Gameplay Trailer Released",
-          "description": "Nightdive's remaster of SiN is back with a gameplay trailer and a Steam demo, reviving interest in the classic FPS.",
-          "category": "Gaming",
-          "source": "Eurogamer.net",
-          "url": "https://www.eurogamer.net/sin-reloaded-gameplay-trailer-steam-demo",
-          "image": "https://assetsio.gnwcdn.com/Sin-Reloaded-shootout.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-15T16:10:05Z",
-          "key_points": [
-            "SiN remaster gameplay trailer released",
-            "Steam demo available now",
-            "Classic FPS revival announced"
-          ],
-          "impact": "This could attract nostalgic gamers back.",
-          "id": "fb03bedd31ed44ac534c689e1dd325fd"
-        },
-        {
-          "title": "Apple Watch Ultra Won't Get Updates",
-          "description": "Apple's first Watch Ultra will not receive the upcoming watchOS 27 update, leaving many features unsupported.",
-          "category": "Hardware",
-          "source": "Gizmodo.com",
-          "url": "https://gizmodo.com/apple-is-leaving-its-first-apple-watch-ultra-in-the-dust-2000771952",
-          "image": "https://gizmodo.com/app/uploads/2026/06/Apple-Watch-Ultra-2022--1200x675.jpg",
-          "published_at": "2026-06-15T16:07:38Z",
-          "key_points": [
-            "Apple Watch Ultra left behind",
-            "No watchOS 27 update",
-            "Features unsupported"
-          ],
-          "impact": "This may frustrate existing Apple Watch users.",
-          "id": "d70b0e6bcfcea5deefd18f0e623c1684"
-        },
-        {
-          "title": "Mistfall Hunter Open Beta Now Live",
-          "description": "The free open beta for Mistfall Hunter is now available on PS5, offering a gothic action RPG experience for players.",
-          "category": "Gaming",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/06/if-youre-itching-for-a-gothic-action-rpg-mistfall-hunters-free-open-beta-is-now-live-on-ps5",
-          "image": "https://images.pushsquare.com/6eaa2dfa2a110/large.jpg",
-          "published_at": "2026-06-15T15:30:00Z",
-          "key_points": [
-            "Mistfall Hunter beta launched",
-            "Available for PS5 players",
-            "Gothic action RPG experience"
-          ],
-          "impact": "This could attract new players to the genre.",
-          "id": "5f5174cb66a917cee9c0da6d500e22f5"
-        },
-        {
-          "title": "Adobe Creative Cloud Updates Released",
-          "description": "Adobe introduces major updates for Creative Cloud, enhancing tools like Lightroom and Photoshop with AI features.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/15/adobe-rolls-out-major-creative-cloud-updates-for-lightroom-premiere-photoshop-more/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/adobe-after-effects.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-15T15:00:00Z",
-          "key_points": [
-            "Major Creative Cloud updates released",
-            "AI tools introduced",
-            "Workflow improvements included"
-          ],
-          "impact": "This enhances productivity for creative professionals.",
-          "id": "55c95421bd3f5ca04c08ae0e2f7f207e"
-        },
-        {
-          "title": "AMD Discusses FSR 4.1 Upscaling",
-          "description": "AMD promises quality parity between RDNA 3 and RDNA 4 with its FSR 4.1 upscaling technology, discussed at Computex 2026.",
-          "category": "Hardware",
-          "source": "Techpowerup.com",
-          "url": "https://www.techpowerup.com/349972/amd-explains-fsr-4-1-upscaling-for-rdna-3-promises-quality-parity-with-rdna-4",
-          "image": "https://www.techpowerup.com/img/AlY0IbsI14yNalZC.jpg",
-          "published_at": "2026-06-15T14:55:02Z",
-          "key_points": [
-            "AMD discusses FSR 4.1 upscaling",
-            "Quality parity promised",
-            "Insights shared at Computex"
-          ],
-          "impact": "This could enhance gaming performance significantly.",
-          "id": "1e323aa2fbc8500adb540949876022fc"
-        },
-        {
-          "title": "Xbox May Introduce Buy Now, Pay Later",
-          "description": "Xbox's website code hints at potential Buy Now, Pay Later options via PayPal and Klarna, enhancing payment flexibility.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/xbox-series-x-klarna-paypal-pay-later-financing-microsoft-2000706625",
-          "image": "https://kotaku.com/app/uploads/2026/06/xbox-pay-later.jpg",
-          "published_at": "2026-06-15T14:50:17Z",
-          "key_points": [
-            "Buy Now, Pay Later options coming",
-            "PayPal and Klarna mentioned",
-            "Enhanced payment flexibility expected"
-          ],
-          "impact": "This could attract more customers to Xbox.",
-          "id": "6110167f074be94c460dfbdf8b02d958"
         }
       ]
     }

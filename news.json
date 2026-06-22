@@ -1,247 +1,215 @@
 {
-  "date": "2026-06-21",
-  "generated_at": "2026-06-21T22:13:53.278645+00:00",
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T04:05:49.081243+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Richard Garriott Aims to Reclaim Ultima from EA",
-      "description": "Richard Garriott plans to regain control of the Ultima RPG series he sold to EA in the 90s using legal strategies. His approach is unconventional and intriguing.",
+      "title": "Sony Halts PC Ports Due to Low Revenue",
+      "description": "Sony will stop porting PS5 games to PC as they reportedly aren't profitable. This marks a significant shift in their strategy.",
       "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/richard-garriott-wants-to-take-ultima-back-from-ea-using-some-legal-quirks-2000708685",
-      "image": "https://kotaku.com/app/uploads/2026/06/richardgariott.jpg",
-      "published_at": "2026-06-20T20:38:06Z",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/06/hermen-hulst-allegedly-said-sonys-pc-ports-didnt-make-enough-money",
+      "image": "https://images.pushsquare.com/2e1c53aaee468/large.jpg",
+      "published_at": "2026-06-21T00:00:00Z",
       "key_points": [
-        "Garriott seeks legal loopholes",
-        "Wants Ultima back from EA",
-        "Plans to avoid costs"
+        "Sony shifts focus back to consoles",
+        "PC ports underperforming",
+        "Strategic change in gaming approach"
       ],
-      "impact": "Garriott's move could reshape gaming rights.",
-      "id": "af07d3b89b1a46037ccd32a03c7e86fa"
-    },
-    {
-      "title": "NVIDIA DLSS Now Available in NVK Vulkan Driver",
-      "description": "NVIDIA's DLSS support has been integrated into the open-source NVK Vulkan driver for Linux, enhancing gaming performance. This update is part of Mesa 26.2-devel.",
-      "category": "Software",
-      "source": "Videocardz.com",
-      "url": "https://videocardz.com/newz/nvidia-dlss-support-lands-in-open-source-nvk-vulkan-driver-for-linux",
-      "image": "https://cdn.videocardz.com/1/2026/06/NVIDIA-DLSS-LINUX-NVK-MESA-HERO.webp",
-      "published_at": "2026-06-20T20:21:37Z",
-      "key_points": [
-        "DLSS boosts Linux gaming",
-        "Integrated into NVK driver",
-        "Part of Mesa 26.2-devel"
-      ],
-      "impact": "This enhances gaming experiences on Linux.",
-      "id": "651c6d3781ae0d54d9246a4730c98ab6"
+      "impact": "This could affect PC gaming market dynamics.",
+      "id": "1f69ee4fafc0990cee652d591ce404eb"
     },
     {
       "title": "Ubisoft Co-Founder Claude Guillemot Dies in Crash",
-      "description": "Claude Guillemot, co-founder of Ubisoft, tragically died in a plane crash in France. An investigation is currently underway.",
+      "description": "Claude Guillemot, co-founder of Ubisoft, died in a plane crash in France. He was 69 years old.",
       "category": "Geopolitics",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/claude-guillemot-dies-age-69-ubisoft-assassins-creed/",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/06/20/96417935-5e50-442a-a8de-fe342f1649a9/thumbnail/1200x630/4fd99476dfce599cbd0be2db74fbaa61/gettyimages-1246763230.jpg",
-      "published_at": "2026-06-20T19:49:48Z",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/technology/ubisoft-co-founder-claude-guillemot-killed-plane-crash-claimed-2-lives",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/claude-guillemot-1.png?ve=1&tl=1",
+      "published_at": "2026-06-20T22:28:00Z",
       "key_points": [
-        "Guillemot was 69 years old",
-        "Investigation ongoing",
-        "Co-founded Ubisoft"
+        "Guillemot co-founded Ubisoft",
+        "Tragic plane crash incident",
+        "Impact on gaming industry leadership"
       ],
-      "impact": "His death is a significant loss for gaming.",
-      "id": "56e7d495009a687237a1e78ab57a4107"
+      "impact": "His death leaves a significant void in gaming.",
+      "id": "d2fa748f0ecdd6484c8468dacb1b48e2"
     },
     {
-      "title": "Microsoft to End Office 2021 Support This Year",
-      "description": "Microsoft will cease support for Office 2021 later this year, prompting users to consider alternatives. Details on transition options are forthcoming.",
+      "title": "Nintendo Switch Sports Resort Features 100 Pin Bowling",
+      "description": "Nintendo Switch Sports Resort will include 100 Pin Bowling, a nostalgic feature from Wii Sports Resort. The announcement was made via their Japanese website.",
+      "category": "Gaming",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/?p=917008",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Switch-Sports-Resort-100-Pin-Bowling.jpg",
+      "published_at": "2026-06-20T22:06:41Z",
+      "key_points": [
+        "100 Pin Bowling confirmed",
+        "Nostalgic feature returns",
+        "Exciting addition for gamers"
+      ],
+      "impact": "This enhances the appeal of the new game.",
+      "id": "f0e2c5e6ac6bb8f33224ee509be00b26"
+    },
+    {
+      "title": "Diablo 4 May Launch on Nintendo Switch 2",
+      "description": "New evidence suggests Diablo 4 could be coming to Nintendo Switch 2, following a recent rating in Taiwan.",
+      "category": "Gaming",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/new-evidence-emerges-of-diablo-4-coming-to-nintendo-switch-2/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Diablo-4-Switch-2-rating.webp",
+      "published_at": "2026-06-20T20:31:49Z",
+      "key_points": [
+        "Diablo 4 rated for Switch 2",
+        "Potential new platform release",
+        "Exciting news for Nintendo fans"
+      ],
+      "impact": "This could boost Switch 2's game library.",
+      "id": "0753e53f3cfbaeff7fb3aab9289e8e0c"
+    },
+    {
+      "title": "Welch's Launches New Four Berry Spread",
+      "description": "Welch's has introduced a new Four Berry Spread, featuring blackberries, blueberries, strawberries, and raspberries, enhancing PB&J options.",
+      "category": "Business",
+      "source": "Allrecipes.com",
+      "url": "https://www.allrecipes.com/welchs-four-berry-spread-12000093",
+      "image": "https://www.allrecipes.com/thmb/yza4tzoYDS6Q_uXVyGVPmgvNfic=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ar-welchs-new-gummy-ar-welchs-2x1-5909d444351b464c839fddb51be14de9.jpg",
+      "published_at": "2026-06-20T20:00:00Z",
+      "key_points": [
+        "New spread for PB&J lovers",
+        "Features four berry flavors",
+        "Welch's innovation in spreads"
+      ],
+      "impact": "This could attract new customers to Welch's.",
+      "id": "5dc32a07a0c0eccb958c613b804844c6"
+    },
+    {
+      "title": "In the Weights: Your AI Vanity Search Tool",
+      "description": "In the Weights offers a new AI-driven vanity search experience, aiming to enhance personal online visibility.",
       "category": "Software",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/microsoft-ending-office-2021-support",
-      "image": "https://helios-i.mashable.com/imagery/articles/07dLYgQR044mliwS7T91Dvd/hero-image.fill.size_1200x675.v1781977555.jpg",
-      "published_at": "2026-06-20T17:52:49Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1278815846.jpg?resize=1200,800",
+      "published_at": "2026-06-20T19:41:11Z",
       "key_points": [
-        "Office 2021 support ending",
-        "Users need alternatives",
-        "Transition details coming soon"
+        "AI-driven search tool",
+        "Enhances personal visibility",
+        "Innovative online experience"
       ],
-      "impact": "Users must prepare for software changes.",
-      "id": "ec969da6f225e9f41b4d302ab6b66105"
+      "impact": "This could change how users search online.",
+      "id": "5cab6cb8b0ba0b727faa86a0094cb29e"
     },
     {
-      "title": "Unfixable Security Flaw Found in Seven iPhone Models",
-      "description": "A cybersecurity firm has identified an unfixable security flaw affecting seven iPhone models, posing risks to users. Hackers could exploit this vulnerability.",
+      "title": "Starlink Satellites Expand Beyond Internet Services",
+      "description": "Starlink is now involved in more than just internet provision, contributing to various initiatives, especially during wildfires in Canada.",
+      "category": "Geopolitics",
+      "source": "SlashGear",
+      "url": "https://www.slashgear.com/2196272/startlink-satellites-doing-more-than-just-providing-internet/",
+      "image": "https://www.slashgear.com/img/gallery/starlink-satellites-are-doing-a-lot-more-than-just-providing-internet/l-intro-1781695755.jpg",
+      "published_at": "2026-06-20T17:45:00Z",
+      "key_points": [
+        "Starlink aids in disaster response",
+        "Beyond internet services",
+        "Innovative satellite applications"
+      ],
+      "impact": "This enhances Starlink's role in emergencies.",
+      "id": "70cdb672e4819f1ff42b69bcf8315174"
+    },
+    {
+      "title": "Apple Fixes Security Flaw in Beats Studio Buds",
+      "description": "Apple has addressed a security vulnerability in Beats Studio Buds that could allow unauthorized listening to conversations.",
       "category": "Security",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/06/20/tech/unfixable-security-flaw-affects-seven-iphone-models/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/newspress-collage-qjz6mlrz2-1781976622812.jpg?quality=75&strip=all&1781962259&w=1200",
-      "published_at": "2026-06-20T17:39:00Z",
-      "key_points": [
-        "Flaw affects seven iPhone models",
-        "No fix available",
-        "Hackers can exploit vulnerability"
-      ],
-      "impact": "Users should be cautious with affected devices.",
-      "id": "c4dd0e5020cdb4045e4de9efbc00f6df"
-    },
-    {
-      "title": "Details on WOTC's Cancelled Horror Game Revealed",
-      "description": "Exclusive insights into Wizards of the Coast's cancelled horror game 'Project Sundown' and its implications for the studio's future have emerged.",
-      "category": "Gaming",
-      "source": "MP1st",
-      "url": "https://mp1st.com/news/report-details-for-project-sundown-skeleton-key-wotcs-cancelled-horror-game",
-      "image": "https://mp1st.com/wp-content/uploads/2026/06/SKstdo-600x338.png",
-      "published_at": "2026-06-20T16:23:27Z",
-      "key_points": [
-        "Project Sundown cancelled",
-        "Details revealed",
-        "Impact on studio's future"
-      ],
-      "impact": "This cancellation affects WOTC's game lineup.",
-      "id": "914211b6599c79f22336e044c72739a9"
-    },
-    {
-      "title": "Top 10 PS5 Games of 2026 So Far",
-      "description": "Discover the best PS5 games of 2026 as voted by players. The list showcases the standout titles halfway through the year.",
-      "category": "Gaming",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/features/the-10-best-ps5-games-of-2026-so-far",
-      "image": "https://images.pushsquare.com/0a451374beff4/large.jpg",
-      "published_at": "2026-06-20T16:00:00Z",
-      "key_points": [
-        "Best PS5 games ranked",
-        "Voted by players",
-        "Mid-year highlights"
-      ],
-      "impact": "Highlights gaming trends for 2026.",
-      "id": "604c4b8b178f6e85bcc4b19f019a43d7"
-    },
-    {
-      "title": "Prime Day Tech Deals: Up to 55% Off",
-      "description": "Amazon's Prime Day offers significant discounts on tech products, including Apple and Samsung devices. Deals run from June 23 to June 26.",
-      "category": "Business",
-      "source": "Yahoo Entertainment",
-      "url": "https://tech.yahoo.com/deals/breaking-news/article/the-best-prime-day-tech-deals-are-here-shop-apple-beats-samsung-and-more-for-up-to-55-percent-off-050536810.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/4f3dab48692f56956ac69d483dd8e05eb12053046b9885e926512d3048b843f0/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Famazon-prime-tech_7267.png",
-      "published_at": "2026-06-20T12:25:00Z",
-      "key_points": [
-        "Prime Day discounts available",
-        "Up to 55% off",
-        "Deals on major brands"
-      ],
-      "impact": "Shoppers can save significantly on tech.",
-      "id": "160699b3d7950bcd40f3e558a74b43d5"
-    },
-    {
-      "title": "Xbox Founder Warns of Resurgent Industry Fears",
-      "description": "Laura Fryer, an original Xbox founder, expresses concerns about rising hardware costs and AI's impact on the gaming industry. Old anxieties resurface.",
-      "category": "Gaming",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/gaming/xbox/xbox-founder-laura-fryer-speaks-on-fears",
-      "image": "https://cdn.mos.cms.futurecdn.net/v5FEhAepUiPqfhNMSLKfzA-1920-80.jpg",
-      "published_at": "2026-06-20T10:42:03Z",
-      "key_points": [
-        "Fryer highlights industry fears",
-        "Rising hardware costs",
-        "AI's impact on gaming"
-      ],
-      "impact": "Concerns may affect future gaming strategies.",
-      "id": "0be6ade5d87fc2fc1857eec2b9e2d295"
-    },
-    {
-      "title": "Xbox Series S Aids Switch 2 Development",
-      "description": "Digital Foundry suggests that the Xbox Series S has facilitated development for the upcoming Nintendo Switch 2, easing the process for developers.",
-      "category": "Gaming",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/gaming/xbox/it-helped-xbox-series-s-helped-make-life-easier-for-switch-2-developers",
-      "image": "https://cdn.mos.cms.futurecdn.net/kXprdXgC58F28f6qcUMjUd-1920-80.png",
-      "published_at": "2026-06-20T10:31:20Z",
-      "key_points": [
-        "Xbox Series S aids developers",
-        "Facilitates Switch 2 creation",
-        "Digital Foundry analysis"
-      ],
-      "impact": "This could enhance Switch 2's performance.",
-      "id": "55c8fe85f4d7f362c543964fb7134801"
-    },
-    {
-      "title": "Commodore's New Flip Phone Appeals to Gen Z",
-      "description": "The Commodore Callback flip phone offers essential features without social media, targeting Gen Z's desire for distraction-free communication.",
-      "category": "Business",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2198236/commodore-flip-phone-callback/",
-      "image": "https://www.bgr.com/img/gallery/gen-z-is-going-to-love-commodores-new-minimalist-flip-phone/l-intro-1781903673.jpg",
-      "published_at": "2026-06-20T10:17:00Z",
-      "key_points": [
-        "Minimalist design",
-        "No social media distractions",
-        "Targets Gen Z market"
-      ],
-      "impact": "This phone could redefine mobile simplicity.",
-      "id": "e75a03a625531cca6c1415ed91ffe7aa"
-    },
-    {
-      "title": "Siri AI Offers Enhanced San Francisco Tour",
-      "description": "A hands-on experience with the new Siri AI reveals its conversational abilities and helpfulness in navigating San Francisco. Users find it more engaging.",
-      "category": "Software",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
-      "image": "https://media.wired.com/photos/6a33443c27f7de3a00911dff/191:100/w_1280,c_limit/Gear_TestingSiriAI-v1.jpg",
-      "published_at": "2026-06-20T10:00:00Z",
-      "key_points": [
-        "Siri AI is conversational",
-        "Helpful navigation tool",
-        "Engaging user experience"
-      ],
-      "impact": "Siri's improvements enhance user interaction.",
-      "id": "977190f7106ddb65eb0f079bd1f54d05"
-    },
-    {
-      "title": "Bentley Shocks Mat Armstrong with Service Verdict",
-      "description": "YouTuber Mat Armstrong received a surprising verdict during a service appointment for his rebuilt Bentley Continental GT, leaving him stunned.",
-      "category": "Business",
-      "source": "Supercarblondie.com",
-      "url": "https://supercarblondie.com/bentley-continental-gt-mat-armstrong-service/",
-      "image": "https://supercarblondie.com/cdn-cgi/image/width=1200,height=675,quality=80,format=webp,fit=cover/wp-content/uploads/Mat-Armstrong-Bentley-Continental-featured.webp",
-      "published_at": "2026-06-20T09:49:00Z",
-      "key_points": [
-        "Armstrong's Bentley serviced",
-        "Surprising verdict given",
-        "Luxury car maintenance issues"
-      ],
-      "impact": "This highlights challenges in luxury car care.",
-      "id": "bbd9a5357325a8c4c7778831691ad7e4"
-    },
-    {
-      "title": "Five Affordable Alternatives to Google Pixel 10 Pro",
-      "description": "Explore five budget-friendly Android phones that rival the Google Pixel 10 Pro in key features, offering solid competition without the high price.",
-      "category": "Business",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2194441/google-pixel-10-pro-cheaper-android-phones-alternatives/",
-      "image": "https://www.bgr.com/img/gallery/5-cheaper-android-phones-you-should-try-instead-of-the-google-pixel-10-pro/l-intro-1781542798.jpg",
-      "published_at": "2026-06-20T09:47:00Z",
-      "key_points": [
-        "Affordable Android alternatives",
-        "Compete with Pixel 10 Pro",
-        "Solid features offered"
-      ],
-      "impact": "Consumers gain more budget-friendly options.",
-      "id": "dfdc6b4cac9aede1856adbfa742ec828"
-    },
-    {
-      "title": "Lifetime Access to AI Tools for Just $55",
-      "description": "Get lifetime access to Claude, Gemini, and Gemini AI tools for an unprecedented low price of $55. This offer is a significant deal for users.",
-      "category": "Software",
       "source": "Mashable",
-      "url": "https://mashable.com/tech/june-20-chatplayground-ai-unlimited-plan-lifetime-subscriptions",
-      "image": "https://helios-i.mashable.com/imagery/articles/03mgPIvyvB9dcMjBy0Ra24T/hero-image.fill.size_1200x675.v1781605886.jpg",
-      "published_at": "2026-06-20T09:00:00Z",
+      "url": "https://mashable.com/tech/apple-fixes-beats-studio-buds-flaw",
+      "image": "https://helios-i.mashable.com/imagery/articles/02wDtYvEp1oSzsFd80GJMdF/hero-image.fill.size_1200x675.v1781976363.jpg",
+      "published_at": "2026-06-20T17:27:12Z",
       "key_points": [
-        "Lifetime access for $55",
-        "Includes multiple AI tools",
-        "Unprecedented low price"
+        "Security flaw fixed",
+        "Protects user privacy",
+        "Important software update"
       ],
-      "impact": "This deal makes AI tools more accessible.",
-      "id": "447859b3c2f4d93dcfe59d14cab85caf"
+      "impact": "This enhances user trust in Apple products.",
+      "id": "22f39d7c0d5e13de3e5ea7473cdd2aab"
+    },
+    {
+      "title": "Pragmata's Diana Character Developed by Women Team",
+      "description": "A team called the 'Diana Police' was formed to ensure the character Diana feels authentically childlike in Pragmata.",
+      "category": "Gaming",
+      "source": "Rock Paper Shotgun",
+      "url": "https://www.rockpapershotgun.com/to-make-pragmatas-diana-feel-naturally-childlike-a-small-group-of-women-dubbed-the-diana-police-was-set-up-to-keep-things-in-check",
+      "image": "https://assetsio.gnwcdn.com/pragmata-diana_DG69U8X.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-20T16:10:55Z",
+      "key_points": [
+        "Diana character authenticity",
+        "Women-led development team",
+        "Focus on childlike traits"
+      ],
+      "impact": "This promotes diversity in game development.",
+      "id": "931f864a378f7c914a1e6a19e308bd36"
+    },
+    {
+      "title": "Age of Empires Veteran Earnest Yuen Retires",
+      "description": "After 31 years, Earnest Yuen, a key figure in Age of Empires, retires, leaving a legacy in the gaming industry.",
+      "category": "Gaming",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/gaming/xbox/age-of-empires-veteran-earnest-yuen-retires",
+      "image": "https://cdn.mos.cms.futurecdn.net/sPkigxHSWSAssAp5yxeryV-1920-80.jpg",
+      "published_at": "2026-06-20T13:47:51Z",
+      "key_points": [
+        "Yuen retires after 31 years",
+        "Contributed to Age of Empires",
+        "Legacy in gaming industry"
+      ],
+      "impact": "His retirement marks the end of an era.",
+      "id": "ad773382ff34efdfbb2a25532529c244"
+    },
+    {
+      "title": "Xbox Faces Potential Game Cancellations",
+      "description": "Xbox is undergoing a reset, with multiple studios at risk of closure, leading to potential game cancellations.",
+      "category": "Gaming",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/what-xbox-games-are-being-cancelled",
+      "image": "https://assets-prd.ignimgs.com/2026/06/19/xbox-risk-blog-1781861448913.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-20T12:00:00Z",
+      "key_points": [
+        "Xbox studios facing closures",
+        "Potential game cancellations",
+        "Industry-wide reset underway"
+      ],
+      "impact": "This could reshape Xbox's gaming portfolio.",
+      "id": "3b2ecffd6d6ee2279b4032b8cc2d04b6"
+    },
+    {
+      "title": "Weekend PC Game Deals: Cyberpunk 2077 and More",
+      "description": "This weekend's PC game deals feature Cyberpunk 2077 and various demos during Steam's festival, offering great savings.",
+      "category": "Gaming",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/weekend-pc-game-deals-cyberpunk-2077-split-fiction-sonic-racing-and-more/",
+      "image": "https://cdn.neowin.com/news/images/uploaded/2026/02/1770978165_lib2_story.webp",
+      "published_at": "2026-06-20T09:30:00Z",
+      "key_points": [
+        "Great deals on PC games",
+        "Includes popular titles",
+        "Steam festival demos available"
+      ],
+      "impact": "This boosts engagement in the gaming community.",
+      "id": "fde54a1adc7bf1fc4bd46abe5719045c"
+    },
+    {
+      "title": "Star Fox Soft Toy Line Launches in Europe",
+      "description": "Nintendo has launched a new line of Star Fox soft toys in Europe, coinciding with the franchise's upcoming return.",
+      "category": "Gaming",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/06/star-fox-soft-toy-line-now-available-on-the-nintendo-store-europe",
+      "image": "https://images.nintendolife.com/77e1f34d7b1d9/large.jpg",
+      "published_at": "2026-06-20T06:00:00Z",
+      "key_points": [
+        "Star Fox toys now available",
+        "Launch coincides with franchise return",
+        "Appealing for collectors and fans"
+      ],
+      "impact": "This enhances merchandise offerings for fans.",
+      "id": "6b088f86a3a4f832722e2572252cfce8"
     }
   ]
 }

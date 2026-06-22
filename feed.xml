@@ -5,143 +5,125 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jun 2026 22:14:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 04:06:10 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Richard Garriott Aims to Reclaim Ultima from EA</title>
-      <description>Richard Garriott plans to regain control of the Ultima RPG series he sold to EA in the 90s using legal strategies. His approach is unconventional and intriguing.</description>
-      <link>https://kotaku.com/richard-garriott-wants-to-take-ultima-back-from-ea-using-some-legal-quirks-2000708685</link>
-      <guid isPermaLink="true">https://kotaku.com/richard-garriott-wants-to-take-ultima-back-from-ea-using-some-legal-quirks-2000708685</guid>
-      <pubDate>2026-06-20T20:38:06Z</pubDate>
+      <title>Sony Halts PC Ports Due to Low Revenue</title>
+      <description>Sony will stop porting PS5 games to PC as they reportedly aren't profitable. This marks a significant shift in their strategy.</description>
+      <link>https://www.pushsquare.com/news/2026/06/hermen-hulst-allegedly-said-sonys-pc-ports-didnt-make-enough-money</link>
+      <guid isPermaLink="true">https://www.pushsquare.com/news/2026/06/hermen-hulst-allegedly-said-sonys-pc-ports-didnt-make-enough-money</guid>
+      <pubDate>2026-06-21T00:00:00Z</pubDate>
       <category>Gaming</category>
-      <source url="https://kotaku.com/richard-garriott-wants-to-take-ultima-back-from-ea-using-some-legal-quirks-2000708685">Kotaku</source>
-    </item>
-    <item>
-      <title>NVIDIA DLSS Now Available in NVK Vulkan Driver</title>
-      <description>NVIDIA's DLSS support has been integrated into the open-source NVK Vulkan driver for Linux, enhancing gaming performance. This update is part of Mesa 26.2-devel.</description>
-      <link>https://videocardz.com/newz/nvidia-dlss-support-lands-in-open-source-nvk-vulkan-driver-for-linux</link>
-      <guid isPermaLink="true">https://videocardz.com/newz/nvidia-dlss-support-lands-in-open-source-nvk-vulkan-driver-for-linux</guid>
-      <pubDate>2026-06-20T20:21:37Z</pubDate>
-      <category>Software</category>
-      <source url="https://videocardz.com/newz/nvidia-dlss-support-lands-in-open-source-nvk-vulkan-driver-for-linux">Videocardz.com</source>
+      <source url="https://www.pushsquare.com/news/2026/06/hermen-hulst-allegedly-said-sonys-pc-ports-didnt-make-enough-money">Push Square</source>
     </item>
     <item>
       <title>Ubisoft Co-Founder Claude Guillemot Dies in Crash</title>
-      <description>Claude Guillemot, co-founder of Ubisoft, tragically died in a plane crash in France. An investigation is currently underway.</description>
-      <link>https://www.cbsnews.com/news/claude-guillemot-dies-age-69-ubisoft-assassins-creed/</link>
-      <guid isPermaLink="true">https://www.cbsnews.com/news/claude-guillemot-dies-age-69-ubisoft-assassins-creed/</guid>
-      <pubDate>2026-06-20T19:49:48Z</pubDate>
+      <description>Claude Guillemot, co-founder of Ubisoft, died in a plane crash in France. He was 69 years old.</description>
+      <link>https://www.foxbusiness.com/technology/ubisoft-co-founder-claude-guillemot-killed-plane-crash-claimed-2-lives</link>
+      <guid isPermaLink="true">https://www.foxbusiness.com/technology/ubisoft-co-founder-claude-guillemot-killed-plane-crash-claimed-2-lives</guid>
+      <pubDate>2026-06-20T22:28:00Z</pubDate>
       <category>Geopolitics</category>
-      <source url="https://www.cbsnews.com/news/claude-guillemot-dies-age-69-ubisoft-assassins-creed/">CBS News</source>
+      <source url="https://www.foxbusiness.com/technology/ubisoft-co-founder-claude-guillemot-killed-plane-crash-claimed-2-lives">Fox Business</source>
     </item>
     <item>
-      <title>Microsoft to End Office 2021 Support This Year</title>
-      <description>Microsoft will cease support for Office 2021 later this year, prompting users to consider alternatives. Details on transition options are forthcoming.</description>
-      <link>https://mashable.com/tech/microsoft-ending-office-2021-support</link>
-      <guid isPermaLink="true">https://mashable.com/tech/microsoft-ending-office-2021-support</guid>
-      <pubDate>2026-06-20T17:52:49Z</pubDate>
+      <title>Nintendo Switch Sports Resort Features 100 Pin Bowling</title>
+      <description>Nintendo Switch Sports Resort will include 100 Pin Bowling, a nostalgic feature from Wii Sports Resort. The announcement was made via their Japanese website.</description>
+      <link>https://nintendoeverything.com/?p=917008</link>
+      <guid isPermaLink="true">https://nintendoeverything.com/?p=917008</guid>
+      <pubDate>2026-06-20T22:06:41Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://nintendoeverything.com/?p=917008">Nintendoeverything.com</source>
+    </item>
+    <item>
+      <title>Diablo 4 May Launch on Nintendo Switch 2</title>
+      <description>New evidence suggests Diablo 4 could be coming to Nintendo Switch 2, following a recent rating in Taiwan.</description>
+      <link>https://nintendoeverything.com/new-evidence-emerges-of-diablo-4-coming-to-nintendo-switch-2/</link>
+      <guid isPermaLink="true">https://nintendoeverything.com/new-evidence-emerges-of-diablo-4-coming-to-nintendo-switch-2/</guid>
+      <pubDate>2026-06-20T20:31:49Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://nintendoeverything.com/new-evidence-emerges-of-diablo-4-coming-to-nintendo-switch-2/">Nintendoeverything.com</source>
+    </item>
+    <item>
+      <title>Welch's Launches New Four Berry Spread</title>
+      <description>Welch's has introduced a new Four Berry Spread, featuring blackberries, blueberries, strawberries, and raspberries, enhancing PB&amp;J options.</description>
+      <link>https://www.allrecipes.com/welchs-four-berry-spread-12000093</link>
+      <guid isPermaLink="true">https://www.allrecipes.com/welchs-four-berry-spread-12000093</guid>
+      <pubDate>2026-06-20T20:00:00Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.allrecipes.com/welchs-four-berry-spread-12000093">Allrecipes.com</source>
+    </item>
+    <item>
+      <title>In the Weights: Your AI Vanity Search Tool</title>
+      <description>In the Weights offers a new AI-driven vanity search experience, aiming to enhance personal online visibility.</description>
+      <link>https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/</guid>
+      <pubDate>2026-06-20T19:41:11Z</pubDate>
       <category>Software</category>
-      <source url="https://mashable.com/tech/microsoft-ending-office-2021-support">Mashable</source>
+      <source url="https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/">TechCrunch</source>
     </item>
     <item>
-      <title>Unfixable Security Flaw Found in Seven iPhone Models</title>
-      <description>A cybersecurity firm has identified an unfixable security flaw affecting seven iPhone models, posing risks to users. Hackers could exploit this vulnerability.</description>
-      <link>https://nypost.com/2026/06/20/tech/unfixable-security-flaw-affects-seven-iphone-models/</link>
-      <guid isPermaLink="true">https://nypost.com/2026/06/20/tech/unfixable-security-flaw-affects-seven-iphone-models/</guid>
-      <pubDate>2026-06-20T17:39:00Z</pubDate>
+      <title>Starlink Satellites Expand Beyond Internet Services</title>
+      <description>Starlink is now involved in more than just internet provision, contributing to various initiatives, especially during wildfires in Canada.</description>
+      <link>https://www.slashgear.com/2196272/startlink-satellites-doing-more-than-just-providing-internet/</link>
+      <guid isPermaLink="true">https://www.slashgear.com/2196272/startlink-satellites-doing-more-than-just-providing-internet/</guid>
+      <pubDate>2026-06-20T17:45:00Z</pubDate>
+      <category>Geopolitics</category>
+      <source url="https://www.slashgear.com/2196272/startlink-satellites-doing-more-than-just-providing-internet/">SlashGear</source>
+    </item>
+    <item>
+      <title>Apple Fixes Security Flaw in Beats Studio Buds</title>
+      <description>Apple has addressed a security vulnerability in Beats Studio Buds that could allow unauthorized listening to conversations.</description>
+      <link>https://mashable.com/tech/apple-fixes-beats-studio-buds-flaw</link>
+      <guid isPermaLink="true">https://mashable.com/tech/apple-fixes-beats-studio-buds-flaw</guid>
+      <pubDate>2026-06-20T17:27:12Z</pubDate>
       <category>Security</category>
-      <source url="https://nypost.com/2026/06/20/tech/unfixable-security-flaw-affects-seven-iphone-models/">New York Post</source>
+      <source url="https://mashable.com/tech/apple-fixes-beats-studio-buds-flaw">Mashable</source>
     </item>
     <item>
-      <title>Details on WOTC's Cancelled Horror Game Revealed</title>
-      <description>Exclusive insights into Wizards of the Coast's cancelled horror game 'Project Sundown' and its implications for the studio's future have emerged.</description>
-      <link>https://mp1st.com/news/report-details-for-project-sundown-skeleton-key-wotcs-cancelled-horror-game</link>
-      <guid isPermaLink="true">https://mp1st.com/news/report-details-for-project-sundown-skeleton-key-wotcs-cancelled-horror-game</guid>
-      <pubDate>2026-06-20T16:23:27Z</pubDate>
+      <title>Pragmata's Diana Character Developed by Women Team</title>
+      <description>A team called the 'Diana Police' was formed to ensure the character Diana feels authentically childlike in Pragmata.</description>
+      <link>https://www.rockpapershotgun.com/to-make-pragmatas-diana-feel-naturally-childlike-a-small-group-of-women-dubbed-the-diana-police-was-set-up-to-keep-things-in-check</link>
+      <guid isPermaLink="true">https://www.rockpapershotgun.com/to-make-pragmatas-diana-feel-naturally-childlike-a-small-group-of-women-dubbed-the-diana-police-was-set-up-to-keep-things-in-check</guid>
+      <pubDate>2026-06-20T16:10:55Z</pubDate>
       <category>Gaming</category>
-      <source url="https://mp1st.com/news/report-details-for-project-sundown-skeleton-key-wotcs-cancelled-horror-game">MP1st</source>
+      <source url="https://www.rockpapershotgun.com/to-make-pragmatas-diana-feel-naturally-childlike-a-small-group-of-women-dubbed-the-diana-police-was-set-up-to-keep-things-in-check">Rock Paper Shotgun</source>
     </item>
     <item>
-      <title>Top 10 PS5 Games of 2026 So Far</title>
-      <description>Discover the best PS5 games of 2026 as voted by players. The list showcases the standout titles halfway through the year.</description>
-      <link>https://www.pushsquare.com/features/the-10-best-ps5-games-of-2026-so-far</link>
-      <guid isPermaLink="true">https://www.pushsquare.com/features/the-10-best-ps5-games-of-2026-so-far</guid>
-      <pubDate>2026-06-20T16:00:00Z</pubDate>
+      <title>Age of Empires Veteran Earnest Yuen Retires</title>
+      <description>After 31 years, Earnest Yuen, a key figure in Age of Empires, retires, leaving a legacy in the gaming industry.</description>
+      <link>https://www.windowscentral.com/gaming/xbox/age-of-empires-veteran-earnest-yuen-retires</link>
+      <guid isPermaLink="true">https://www.windowscentral.com/gaming/xbox/age-of-empires-veteran-earnest-yuen-retires</guid>
+      <pubDate>2026-06-20T13:47:51Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.pushsquare.com/features/the-10-best-ps5-games-of-2026-so-far">Push Square</source>
+      <source url="https://www.windowscentral.com/gaming/xbox/age-of-empires-veteran-earnest-yuen-retires">Windows Central</source>
     </item>
     <item>
-      <title>Prime Day Tech Deals: Up to 55% Off</title>
-      <description>Amazon's Prime Day offers significant discounts on tech products, including Apple and Samsung devices. Deals run from June 23 to June 26.</description>
-      <link>https://tech.yahoo.com/deals/breaking-news/article/the-best-prime-day-tech-deals-are-here-shop-apple-beats-samsung-and-more-for-up-to-55-percent-off-050536810.html</link>
-      <guid isPermaLink="true">https://tech.yahoo.com/deals/breaking-news/article/the-best-prime-day-tech-deals-are-here-shop-apple-beats-samsung-and-more-for-up-to-55-percent-off-050536810.html</guid>
-      <pubDate>2026-06-20T12:25:00Z</pubDate>
-      <category>Business</category>
-      <source url="https://tech.yahoo.com/deals/breaking-news/article/the-best-prime-day-tech-deals-are-here-shop-apple-beats-samsung-and-more-for-up-to-55-percent-off-050536810.html">Yahoo Entertainment</source>
-    </item>
-    <item>
-      <title>Xbox Founder Warns of Resurgent Industry Fears</title>
-      <description>Laura Fryer, an original Xbox founder, expresses concerns about rising hardware costs and AI's impact on the gaming industry. Old anxieties resurface.</description>
-      <link>https://www.windowscentral.com/gaming/xbox/xbox-founder-laura-fryer-speaks-on-fears</link>
-      <guid isPermaLink="true">https://www.windowscentral.com/gaming/xbox/xbox-founder-laura-fryer-speaks-on-fears</guid>
-      <pubDate>2026-06-20T10:42:03Z</pubDate>
+      <title>Xbox Faces Potential Game Cancellations</title>
+      <description>Xbox is undergoing a reset, with multiple studios at risk of closure, leading to potential game cancellations.</description>
+      <link>https://www.ign.com/articles/what-xbox-games-are-being-cancelled</link>
+      <guid isPermaLink="true">https://www.ign.com/articles/what-xbox-games-are-being-cancelled</guid>
+      <pubDate>2026-06-20T12:00:00Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.windowscentral.com/gaming/xbox/xbox-founder-laura-fryer-speaks-on-fears">Windows Central</source>
+      <source url="https://www.ign.com/articles/what-xbox-games-are-being-cancelled">IGN</source>
     </item>
     <item>
-      <title>Xbox Series S Aids Switch 2 Development</title>
-      <description>Digital Foundry suggests that the Xbox Series S has facilitated development for the upcoming Nintendo Switch 2, easing the process for developers.</description>
-      <link>https://www.windowscentral.com/gaming/xbox/it-helped-xbox-series-s-helped-make-life-easier-for-switch-2-developers</link>
-      <guid isPermaLink="true">https://www.windowscentral.com/gaming/xbox/it-helped-xbox-series-s-helped-make-life-easier-for-switch-2-developers</guid>
-      <pubDate>2026-06-20T10:31:20Z</pubDate>
+      <title>Weekend PC Game Deals: Cyberpunk 2077 and More</title>
+      <description>This weekend's PC game deals feature Cyberpunk 2077 and various demos during Steam's festival, offering great savings.</description>
+      <link>https://www.neowin.net/news/weekend-pc-game-deals-cyberpunk-2077-split-fiction-sonic-racing-and-more/</link>
+      <guid isPermaLink="true">https://www.neowin.net/news/weekend-pc-game-deals-cyberpunk-2077-split-fiction-sonic-racing-and-more/</guid>
+      <pubDate>2026-06-20T09:30:00Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.windowscentral.com/gaming/xbox/it-helped-xbox-series-s-helped-make-life-easier-for-switch-2-developers">Windows Central</source>
+      <source url="https://www.neowin.net/news/weekend-pc-game-deals-cyberpunk-2077-split-fiction-sonic-racing-and-more/">Neowin</source>
     </item>
     <item>
-      <title>Commodore's New Flip Phone Appeals to Gen Z</title>
-      <description>The Commodore Callback flip phone offers essential features without social media, targeting Gen Z's desire for distraction-free communication.</description>
-      <link>https://www.bgr.com/2198236/commodore-flip-phone-callback/</link>
-      <guid isPermaLink="true">https://www.bgr.com/2198236/commodore-flip-phone-callback/</guid>
-      <pubDate>2026-06-20T10:17:00Z</pubDate>
-      <category>Business</category>
-      <source url="https://www.bgr.com/2198236/commodore-flip-phone-callback/">BGR</source>
-    </item>
-    <item>
-      <title>Siri AI Offers Enhanced San Francisco Tour</title>
-      <description>A hands-on experience with the new Siri AI reveals its conversational abilities and helpfulness in navigating San Francisco. Users find it more engaging.</description>
-      <link>https://www.wired.com/story/siri-ai-hands-on-iphone/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/siri-ai-hands-on-iphone/</guid>
-      <pubDate>2026-06-20T10:00:00Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.wired.com/story/siri-ai-hands-on-iphone/">Wired</source>
-    </item>
-    <item>
-      <title>Bentley Shocks Mat Armstrong with Service Verdict</title>
-      <description>YouTuber Mat Armstrong received a surprising verdict during a service appointment for his rebuilt Bentley Continental GT, leaving him stunned.</description>
-      <link>https://supercarblondie.com/bentley-continental-gt-mat-armstrong-service/</link>
-      <guid isPermaLink="true">https://supercarblondie.com/bentley-continental-gt-mat-armstrong-service/</guid>
-      <pubDate>2026-06-20T09:49:00Z</pubDate>
-      <category>Business</category>
-      <source url="https://supercarblondie.com/bentley-continental-gt-mat-armstrong-service/">Supercarblondie.com</source>
-    </item>
-    <item>
-      <title>Five Affordable Alternatives to Google Pixel 10 Pro</title>
-      <description>Explore five budget-friendly Android phones that rival the Google Pixel 10 Pro in key features, offering solid competition without the high price.</description>
-      <link>https://www.bgr.com/2194441/google-pixel-10-pro-cheaper-android-phones-alternatives/</link>
-      <guid isPermaLink="true">https://www.bgr.com/2194441/google-pixel-10-pro-cheaper-android-phones-alternatives/</guid>
-      <pubDate>2026-06-20T09:47:00Z</pubDate>
-      <category>Business</category>
-      <source url="https://www.bgr.com/2194441/google-pixel-10-pro-cheaper-android-phones-alternatives/">BGR</source>
-    </item>
-    <item>
-      <title>Lifetime Access to AI Tools for Just $55</title>
-      <description>Get lifetime access to Claude, Gemini, and Gemini AI tools for an unprecedented low price of $55. This offer is a significant deal for users.</description>
-      <link>https://mashable.com/tech/june-20-chatplayground-ai-unlimited-plan-lifetime-subscriptions</link>
-      <guid isPermaLink="true">https://mashable.com/tech/june-20-chatplayground-ai-unlimited-plan-lifetime-subscriptions</guid>
-      <pubDate>2026-06-20T09:00:00Z</pubDate>
-      <category>Software</category>
-      <source url="https://mashable.com/tech/june-20-chatplayground-ai-unlimited-plan-lifetime-subscriptions">Mashable</source>
+      <title>Star Fox Soft Toy Line Launches in Europe</title>
+      <description>Nintendo has launched a new line of Star Fox soft toys in Europe, coinciding with the franchise's upcoming return.</description>
+      <link>https://www.nintendolife.com/news/2026/06/star-fox-soft-toy-line-now-available-on-the-nintendo-store-europe</link>
+      <guid isPermaLink="true">https://www.nintendolife.com/news/2026/06/star-fox-soft-toy-line-now-available-on-the-nintendo-store-europe</guid>
+      <pubDate>2026-06-20T06:00:00Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.nintendolife.com/news/2026/06/star-fox-soft-toy-line-now-available-on-the-nintendo-store-europe">Nintendo Life</source>
     </item>
   </channel>
 </rss>
