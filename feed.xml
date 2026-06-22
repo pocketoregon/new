@@ -5,143 +5,80 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2026 20:47:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 22:46:45 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>77" Samsung 4K OLED TV for $1,098!</title>
-      <description>Grab a massive 77" Samsung 4K OLED Smart TV for just $1,098 during Amazon Prime Day. Don't miss this limited-time offer!</description>
-      <link>https://www.ign.com/articles/best-samsung-oled-tv-deal-amazon-prime-day</link>
-      <guid isPermaLink="true">https://www.ign.com/articles/best-samsung-oled-tv-deal-amazon-prime-day</guid>
-      <pubDate>2026-06-21T19:05:00Z</pubDate>
+      <title>AMD Ryzen 9 9900X CPU Fails with New BIOS</title>
+      <description>A Ryzen 9 9900X user reports a CPU failure on the MSI MAG X870E motherboard after updating to an early 2026 BIOS. The system displayed a Code 00 error.</description>
+      <link>https://videocardz.com/newz/amd-ryzen-9-9900x-owner-reports-cpu-failure-with-package-bump-while-using-early-2026-bios</link>
+      <guid isPermaLink="true">https://videocardz.com/newz/amd-ryzen-9-9900x-owner-reports-cpu-failure-with-package-bump-while-using-early-2026-bios</guid>
+      <pubDate>2026-06-21T12:43:12Z</pubDate>
       <category>Hardware</category>
-      <source url="https://www.ign.com/articles/best-samsung-oled-tv-deal-amazon-prime-day">IGN</source>
+      <source url="https://videocardz.com/newz/amd-ryzen-9-9900x-owner-reports-cpu-failure-with-package-bump-while-using-early-2026-bios">Videocardz.com</source>
     </item>
     <item>
-      <title>Prime Day Apple Deals on MacBooks and More</title>
-      <description>Save big on Apple products like MacBooks, iPads, and AirPods during Prime Day. Discounts are rare, so act fast!</description>
-      <link>https://www.cnet.com/deals/best-prime-day-apple-deals-2026-06-21/</link>
-      <guid isPermaLink="true">https://www.cnet.com/deals/best-prime-day-apple-deals-2026-06-21/</guid>
-      <pubDate>2026-06-21T18:13:17Z</pubDate>
-      <category>Business</category>
-      <source url="https://www.cnet.com/deals/best-prime-day-apple-deals-2026-06-21/">CNET</source>
-    </item>
-    <item>
-      <title>Favicon Project Turns Website into Art</title>
-      <description>A new project creatively uses favicons to embed hidden data, showcasing a unique blend of art and technology. Explore this innovative approach!</description>
-      <link>https://hackaday.com/2026/06/21/when-a-favicon-becomes-the-entire-website/</link>
-      <guid isPermaLink="true">https://hackaday.com/2026/06/21/when-a-favicon-becomes-the-entire-website/</guid>
-      <pubDate>2026-06-21T17:00:00Z</pubDate>
+      <title>Reviving a Dead Android Tablet with a Launcher</title>
+      <description>An old Galaxy Tab S7+ was revived using a unique third-party launcher, showcasing its potential despite being forgotten. The new launcher breathed life into the device.</description>
+      <link>https://www.androidpolice.com/resurrected-a-dead-android-tablet-with-unique-third-party-launcher/</link>
+      <guid isPermaLink="true">https://www.androidpolice.com/resurrected-a-dead-android-tablet-with-unique-third-party-launcher/</guid>
+      <pubDate>2026-06-21T12:30:10Z</pubDate>
       <category>Software</category>
-      <source url="https://hackaday.com/2026/06/21/when-a-favicon-becomes-the-entire-website/">Hackaday</source>
+      <source url="https://www.androidpolice.com/resurrected-a-dead-android-tablet-with-unique-third-party-launcher/">Android Police</source>
     </item>
     <item>
-      <title>Upcoming Warhammer Releases Previewed</title>
-      <description>Get a sneak peek at next week's Warhammer 40,000 and Horus Heresy releases. Exciting new content is on the horizon!</description>
-      <link>https://www.warhammer-community.com/articles/ezb6qskh/sunday-preview-battleforces-mkiv-space-marines-and-a-hero-of-the-imperium</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/articles/ezb6qskh/sunday-preview-battleforces-mkiv-space-marines-and-a-hero-of-the-imperium</guid>
-      <pubDate>2026-06-21T16:55:45Z</pubDate>
+      <title>Ori Director Critiques Xbox Game Pass Strategy</title>
+      <description>The CEO of Moon Studios claims Xbox's Game Pass could have thrived if Microsoft had focused on quality content instead of quantity. He criticizes the current game offerings.</description>
+      <link>https://www.videogameschronicle.com/news/ori-director-says-game-pass-couldve-worked-if-xbox-didnt-slop-out-mediocre-content-like-a-factory/</link>
+      <guid isPermaLink="true">https://www.videogameschronicle.com/news/ori-director-says-game-pass-couldve-worked-if-xbox-didnt-slop-out-mediocre-content-like-a-factory/</guid>
+      <pubDate>2026-06-21T12:16:58Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.warhammer-community.com/articles/ezb6qskh/sunday-preview-battleforces-mkiv-space-marines-and-a-hero-of-the-imperium">Warhammer-community.com</source>
+      <source url="https://www.videogameschronicle.com/news/ori-director-says-game-pass-couldve-worked-if-xbox-didnt-slop-out-mediocre-content-like-a-factory/">Video Games Chronicle</source>
     </item>
     <item>
-      <title>NVIDIA's Blackwell-Next in Linux Kernel</title>
-      <description>NVIDIA is preparing Linux support for its upcoming Blackwell-Next hardware, indicating future advancements in GPU technology. Stay informed!</description>
-      <link>https://videocardz.com/newz/nvidia-blackwell-next-name-spotted-in-linux-kernel-patch</link>
-      <guid isPermaLink="true">https://videocardz.com/newz/nvidia-blackwell-next-name-spotted-in-linux-kernel-patch</guid>
-      <pubDate>2026-06-21T16:33:13Z</pubDate>
-      <category>Hardware</category>
-      <source url="https://videocardz.com/newz/nvidia-blackwell-next-name-spotted-in-linux-kernel-patch">Videocardz.com</source>
+      <title>Exploring Star Trek's Moneyless Economy</title>
+      <description>Star Trek's Federation operates without money, reflecting a post-capitalist society. The article explains the economic principles behind this unique system.</description>
+      <link>https://www.slashfilm.com/2192157/why-no-money-star-trek-federation-economics-explained/</link>
+      <guid isPermaLink="true">https://www.slashfilm.com/2192157/why-no-money-star-trek-federation-economics-explained/</guid>
+      <pubDate>2026-06-21T11:00:00Z</pubDate>
+      <category>Geopolitics</category>
+      <source url="https://www.slashfilm.com/2192157/why-no-money-star-trek-federation-economics-explained/">/FILM</source>
     </item>
     <item>
-      <title>High-Demand Vintage Audio Gear</title>
-      <description>Vintage audio gear like Marantz receivers and JBL speakers are in high demand, fetching impressive resale prices in 2026. Collectors take note!</description>
-      <link>https://www.bgr.com/2189316/vintage-pieces-of-audio-gear-in-high-demand-today/</link>
-      <guid isPermaLink="true">https://www.bgr.com/2189316/vintage-pieces-of-audio-gear-in-high-demand-today/</guid>
-      <pubDate>2026-06-21T15:17:00Z</pubDate>
-      <category>Business</category>
-      <source url="https://www.bgr.com/2189316/vintage-pieces-of-audio-gear-in-high-demand-today/">BGR</source>
-    </item>
-    <item>
-      <title>Valve's Dota 2 Variable Mocks Dataminers</title>
-      <description>Valve introduces a new Dota 2 variable that humorously targets dataminers searching for Half-Life 3 clues. A clever move!</description>
-      <link>https://videocardz.com/newz/valve-mocks-half-life-3-dataminers-with-new-dota-2-whyareyouguysreadingourvariablenames-variable</link>
-      <guid isPermaLink="true">https://videocardz.com/newz/valve-mocks-half-life-3-dataminers-with-new-dota-2-whyareyouguysreadingourvariablenames-variable</guid>
-      <pubDate>2026-06-21T14:48:12Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://videocardz.com/newz/valve-mocks-half-life-3-dataminers-with-new-dota-2-whyareyouguysreadingourvariablenames-variable">Videocardz.com</source>
-    </item>
-    <item>
-      <title>Apple's Upcoming Product Lineup Revealed</title>
-      <description>Apple plans to release 20 new products over the next year, following its recent WWDC announcements. Exciting times ahead!</description>
-      <link>https://www.macrumors.com/2026/06/21/20-rumored-apple-products-in-2026-and-2027/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/06/21/20-rumored-apple-products-in-2026-and-2027/</guid>
-      <pubDate>2026-06-21T14:42:50Z</pubDate>
-      <category>Business</category>
-      <source url="https://www.macrumors.com/2026/06/21/20-rumored-apple-products-in-2026-and-2027/">MacRumors</source>
-    </item>
-    <item>
-      <title>iOS 27 Brings New AI Features</title>
-      <description>iOS 27 will introduce practical AI features beyond Siri, enhancing user experience significantly. Get ready for smarter devices!</description>
-      <link>https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/</guid>
-      <pubDate>2026-06-21T14:40:28Z</pubDate>
+      <title>Samsung Galaxy Smart View Features to Explore</title>
+      <description>Samsung's Smart View allows users to cast specific apps and utilize voice assistants for a seamless experience. Discover two cool features to enhance your viewing.</description>
+      <link>https://www.bgr.com/2195283/cool-features-samsung-galaxy-smart-view/</link>
+      <guid isPermaLink="true">https://www.bgr.com/2195283/cool-features-samsung-galaxy-smart-view/</guid>
+      <pubDate>2026-06-21T10:17:00Z</pubDate>
       <category>Software</category>
-      <source url="https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/">TechCrunch</source>
+      <source url="https://www.bgr.com/2195283/cool-features-samsung-galaxy-smart-view/">BGR</source>
     </item>
     <item>
-      <title>Corvette's Convertible History Explained</title>
-      <description>The Corvette was only available as a coupe from 1975 to 1986, with another gap from 1997 to 1998. Learn more about its history!</description>
-      <link>https://www.jalopnik.com/2195106/corvette-didnt-always-come-as-convertible/</link>
-      <guid isPermaLink="true">https://www.jalopnik.com/2195106/corvette-didnt-always-come-as-convertible/</guid>
-      <pubDate>2026-06-21T14:25:00Z</pubDate>
-      <category>Business</category>
-      <source url="https://www.jalopnik.com/2195106/corvette-didnt-always-come-as-convertible/">Jalopnik</source>
-    </item>
-    <item>
-      <title>'Pragmata' Sparks Paternal Instincts</title>
-      <description>The viral game 'Pragmata' is making players feel a strong desire to become dads, tapping into deep emotional themes. Discover its impact!</description>
-      <link>https://www.usatoday.com/story/life/health-wellness/2026/06/21/pragmata-men-dads/90597328007/</link>
-      <guid isPermaLink="true">https://www.usatoday.com/story/life/health-wellness/2026/06/21/pragmata-men-dads/90597328007/</guid>
-      <pubDate>2026-06-21T14:04:00Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.usatoday.com/story/life/health-wellness/2026/06/21/pragmata-men-dads/90597328007/">USA Today</source>
-    </item>
-    <item>
-      <title>Strange Photography Product Launches</title>
-      <description>The photography community faces bizarre product launches, raising eyebrows and questions about industry trends. What's happening?</description>
-      <link>https://petapixel.com/2026/06/21/this-is-all-so-weird-and-frankly-stupid/</link>
-      <guid isPermaLink="true">https://petapixel.com/2026/06/21/this-is-all-so-weird-and-frankly-stupid/</guid>
-      <pubDate>2026-06-21T14:01:45Z</pubDate>
-      <category>Business</category>
-      <source url="https://petapixel.com/2026/06/21/this-is-all-so-weird-and-frankly-stupid/">PetaPixel</source>
-    </item>
-    <item>
-      <title>Intel Core 3 304 Nears Apple A18 Pro</title>
-      <description>Intel's Core 3 304 scores closely to Apple's A18 Pro in PassMark tests, indicating competitive performance in entry-level CPUs. Check it out!</description>
-      <link>https://videocardz.com/newz/intel-core-3-304-gets-close-to-macbook-neos-apple-a18-pro-in-passmark</link>
-      <guid isPermaLink="true">https://videocardz.com/newz/intel-core-3-304-gets-close-to-macbook-neos-apple-a18-pro-in-passmark</guid>
-      <pubDate>2026-06-21T13:48:12Z</pubDate>
+      <title>Apple's $2,000 Foldable iPhone Launching Soon</title>
+      <description>Apple is set to release its foldable iPhone Ultra Fold this fall, priced at $2,000. The device aims to redefine the smartphone experience with innovative design.</description>
+      <link>https://www.geeky-gadgets.com/apple-iphone-ultra-fold-release/</link>
+      <guid isPermaLink="true">https://www.geeky-gadgets.com/apple-iphone-ultra-fold-release/</guid>
+      <pubDate>2026-06-21T07:31:08Z</pubDate>
       <category>Hardware</category>
-      <source url="https://videocardz.com/newz/intel-core-3-304-gets-close-to-macbook-neos-apple-a18-pro-in-passmark">Videocardz.com</source>
+      <source url="https://www.geeky-gadgets.com/apple-iphone-ultra-fold-release/">Geeky Gadgets</source>
     </item>
     <item>
-      <title>Best Early Prime Day Lego Deals</title>
-      <description>Discover the best early Prime Day deals on Lego sets, including Star Wars and F1 cars. Perfect for builders and collectors!</description>
-      <link>https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-lego-deals-2026-06-21</link>
-      <guid isPermaLink="true">https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-lego-deals-2026-06-21</guid>
-      <pubDate>2026-06-21T13:00:00Z</pubDate>
+      <title>Best Video Games of 2026 So Far</title>
+      <description>Here are the top six video games of 2026, showcasing early contenders for Game of the Year across multiple platforms. The list includes standout titles for PS5, Switch 2, PC, and Xbox.</description>
+      <link>https://www.tomsguide.com/gaming/6-best-video-games-of-2026-so-far-on-ps5-nintendo-switch-2-pc-and-xbox</link>
+      <guid isPermaLink="true">https://www.tomsguide.com/gaming/6-best-video-games-of-2026-so-far-on-ps5-nintendo-switch-2-pc-and-xbox</guid>
+      <pubDate>2026-06-21T07:15:00Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-lego-deals-2026-06-21">CNN</source>
+      <source url="https://www.tomsguide.com/gaming/6-best-video-games-of-2026-so-far-on-ps5-nintendo-switch-2-pc-and-xbox">Tom's Guide</source>
     </item>
     <item>
-      <title>Xbox Simplifies Unreal Engine Development</title>
-      <description>Xbox unveils new plugins for Unreal Engine 5.8, aiming to streamline development processes and enhance Project Helix. Exciting advancements ahead!</description>
-      <link>https://www.windowscentral.com/gaming/xbox/our-goal-is-simple-xbox-is-making-unreal-engine-development-much-easier</link>
-      <guid isPermaLink="true">https://www.windowscentral.com/gaming/xbox/our-goal-is-simple-xbox-is-making-unreal-engine-development-much-easier</guid>
-      <pubDate>2026-06-21T12:59:18Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.windowscentral.com/gaming/xbox/our-goal-is-simple-xbox-is-making-unreal-engine-development-much-easier">Windows Central</source>
+      <title>Kia K4 vs. Honda Civic: Which to Buy?</title>
+      <description>After a week of driving both the Kia K4 and Honda Civic, the review compares their features and performance. The analysis may sway buyers away from SUVs.</description>
+      <link>https://www.tomsguide.com/vehicle-tech/i-drove-the-kia-k4-hatchback-and-honda-civic-hatchback-for-a-week-heres-the-one-id-buy</link>
+      <guid isPermaLink="true">https://www.tomsguide.com/vehicle-tech/i-drove-the-kia-k4-hatchback-and-honda-civic-hatchback-for-a-week-heres-the-one-id-buy</guid>
+      <pubDate>2026-06-21T06:30:00Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.tomsguide.com/vehicle-tech/i-drove-the-kia-k4-hatchback-and-honda-civic-hatchback-for-a-week-heres-the-one-id-buy">Tom's Guide</source>
     </item>
   </channel>
 </rss>
