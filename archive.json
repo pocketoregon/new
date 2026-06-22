@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-22T20:46:34.377510+00:00",
+      "fetched_at": "2026-06-22T20:46:34.377510+00:00",
+      "label": "Jun 22, 2026 — 08:47 PM UTC",
+      "articles": [
+        {
+          "title": "77\" Samsung 4K OLED TV for $1,098!",
+          "description": "Grab a massive 77\" Samsung 4K OLED Smart TV for just $1,098 during Amazon Prime Day. Don't miss this limited-time offer!",
+          "category": "Hardware",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/best-samsung-oled-tv-deal-amazon-prime-day",
+          "image": "",
+          "published_at": "2026-06-21T19:05:00Z",
+          "key_points": [
+            "77\" OLED TV on sale",
+            "Limited-time Amazon deal",
+            "Prime Day savings"
+          ],
+          "impact": "This deal offers significant savings on premium tech.",
+          "id": "cbad54ad85d3233e5ca23c183d3560bd"
+        },
+        {
+          "title": "Prime Day Apple Deals on MacBooks and More",
+          "description": "Save big on Apple products like MacBooks, iPads, and AirPods during Prime Day. Discounts are rare, so act fast!",
+          "category": "Business",
+          "source": "CNET",
+          "url": "https://www.cnet.com/deals/best-prime-day-apple-deals-2026-06-21/",
+          "image": "https://www.cnet.com/a/img/resize/aa4526b6148f63969eee249810edf5256787edfd/hub/2026/06/09/d3ece905-03a5-492e-a6bb-c7590f32b299/apple-devices-on-a-purple-background.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "published_at": "2026-06-21T18:13:17Z",
+          "key_points": [
+            "Big discounts on Apple devices",
+            "Rare price cuts",
+            "Shop before stocks run out"
+          ],
+          "impact": "Apple's discounts attract significant consumer interest.",
+          "id": "49ef61730a85059fc8f606747870d6f5"
+        },
+        {
+          "title": "Favicon Project Turns Website into Art",
+          "description": "A new project creatively uses favicons to embed hidden data, showcasing a unique blend of art and technology. Explore this innovative approach!",
+          "category": "Software",
+          "source": "Hackaday",
+          "url": "https://hackaday.com/2026/06/21/when-a-favicon-becomes-the-entire-website/",
+          "image": "https://hackaday.com/wp-content/uploads/2026/06/Wikipedia_favicon_in_Firefox_on_KDE.png",
+          "published_at": "2026-06-21T17:00:00Z",
+          "key_points": [
+            "Creative favicon project",
+            "Hidden data exploration",
+            "Art meets technology"
+          ],
+          "impact": "This project highlights innovative web design possibilities.",
+          "id": "864bb4e4219614fb18b8759e83e89e0e"
+        },
+        {
+          "title": "Upcoming Warhammer Releases Previewed",
+          "description": "Get a sneak peek at next week's Warhammer 40,000 and Horus Heresy releases. Exciting new content is on the horizon!",
+          "category": "Gaming",
+          "source": "Warhammer-community.com",
+          "url": "https://www.warhammer-community.com/articles/ezb6qskh/sunday-preview-battleforces-mkiv-space-marines-and-a-hero-of-the-imperium",
+          "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/sundaypreview-jun21-1-feature-gdtgcopgf1.jpg",
+          "published_at": "2026-06-21T16:55:45Z",
+          "key_points": [
+            "New Warhammer releases",
+            "Exciting content preview",
+            "Stay tuned for updates"
+          ],
+          "impact": "Fans eagerly await new Warhammer content.",
+          "id": "941f165c4c4bafcaf52254d09019391f"
+        },
+        {
+          "title": "NVIDIA's Blackwell-Next in Linux Kernel",
+          "description": "NVIDIA is preparing Linux support for its upcoming Blackwell-Next hardware, indicating future advancements in GPU technology. Stay informed!",
+          "category": "Hardware",
+          "source": "Videocardz.com",
+          "url": "https://videocardz.com/newz/nvidia-blackwell-next-name-spotted-in-linux-kernel-patch",
+          "image": "https://cdn.videocardz.com/1/2026/06/NVIDIA-BLACKWELL-NEXT-RUBIN-HERO.webp",
+          "published_at": "2026-06-21T16:33:13Z",
+          "key_points": [
+            "NVIDIA Blackwell-Next spotted",
+            "Linux kernel patch",
+            "Future GPU advancements"
+          ],
+          "impact": "This development signals progress in GPU technology.",
+          "id": "7a82ace489db0c5f514ddd98be5acbd4"
+        },
+        {
+          "title": "High-Demand Vintage Audio Gear",
+          "description": "Vintage audio gear like Marantz receivers and JBL speakers are in high demand, fetching impressive resale prices in 2026. Collectors take note!",
+          "category": "Business",
+          "source": "BGR",
+          "url": "https://www.bgr.com/2189316/vintage-pieces-of-audio-gear-in-high-demand-today/",
+          "image": "https://www.bgr.com/img/gallery/4-vintage-pieces-of-audio-gear-that-are-in-high-demand-today/l-intro-1780921896.jpg",
+          "published_at": "2026-06-21T15:17:00Z",
+          "key_points": [
+            "Vintage audio gear trending",
+            "High resale prices",
+            "Collector's market booming"
+          ],
+          "impact": "The vintage audio market continues to thrive.",
+          "id": "9cff1df8c177c70c5e0c4074ade99492"
+        },
+        {
+          "title": "Valve's Dota 2 Variable Mocks Dataminers",
+          "description": "Valve introduces a new Dota 2 variable that humorously targets dataminers searching for Half-Life 3 clues. A clever move!",
+          "category": "Gaming",
+          "source": "Videocardz.com",
+          "url": "https://videocardz.com/newz/valve-mocks-half-life-3-dataminers-with-new-dota-2-whyareyouguysreadingourvariablenames-variable",
+          "image": "https://cdn.videocardz.com/1/2026/06/HALF-LIFE-STEAM-MACHINE-LEAK-HERO.webp",
+          "published_at": "2026-06-21T14:48:12Z",
+          "key_points": [
+            "Valve's clever Dota 2 update",
+            "Targets dataminers humorously",
+            "Half-Life 3 references"
+          ],
+          "impact": "Valve's humor engages the gaming community.",
+          "id": "30272e5e1566eb83b2cc8d0c07c77b4c"
+        },
+        {
+          "title": "Apple's Upcoming Product Lineup Revealed",
+          "description": "Apple plans to release 20 new products over the next year, following its recent WWDC announcements. Exciting times ahead!",
+          "category": "Business",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/21/20-rumored-apple-products-in-2026-and-2027/",
+          "image": "https://images.macrumors.com/t/bk2N_fO8Kkb58OMudH1Nzd1LgGI=/2048x/article-new/2026/01/Apple-Event-Logo.jpeg",
+          "published_at": "2026-06-21T14:42:50Z",
+          "key_points": [
+            "20 new Apple products coming",
+            "Post-WWDC excitement",
+            "Innovations on the horizon"
+          ],
+          "impact": "Apple's product roadmap generates consumer anticipation.",
+          "id": "2153704643fd83721753e1078fe62e17"
+        },
+        {
+          "title": "iOS 27 Brings New AI Features",
+          "description": "iOS 27 will introduce practical AI features beyond Siri, enhancing user experience significantly. Get ready for smarter devices!",
+          "category": "Software",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/tim-cook-iphone-GettyImages-2234563479.jpg?w=1024",
+          "published_at": "2026-06-21T14:40:28Z",
+          "key_points": [
+            "New AI features in iOS 27",
+            "Beyond Siri enhancements",
+            "Smarter user experience"
+          ],
+          "impact": "iOS 27 aims to elevate user interaction.",
+          "id": "b893e7b70421ec96f52c3865084a2fae"
+        },
+        {
+          "title": "Corvette's Convertible History Explained",
+          "description": "The Corvette was only available as a coupe from 1975 to 1986, with another gap from 1997 to 1998. Learn more about its history!",
+          "category": "Business",
+          "source": "Jalopnik",
+          "url": "https://www.jalopnik.com/2195106/corvette-didnt-always-come-as-convertible/",
+          "image": "https://www.jalopnik.com/img/gallery/if-you-want-a-convertible-corvette-from-these-years-tough-luck/l-intro-1781189271.jpg",
+          "published_at": "2026-06-21T14:25:00Z",
+          "key_points": [
+            "Corvette coupe-only years",
+            "Convertible gaps explained",
+            "Sports car history"
+          ],
+          "impact": "Understanding Corvette's history enriches appreciation.",
+          "id": "4867c7306678acdb580615b4ab828bd3"
+        },
+        {
+          "title": "'Pragmata' Sparks Paternal Instincts",
+          "description": "The viral game 'Pragmata' is making players feel a strong desire to become dads, tapping into deep emotional themes. Discover its impact!",
+          "category": "Gaming",
+          "source": "USA Today",
+          "url": "https://www.usatoday.com/story/life/health-wellness/2026/06/21/pragmata-men-dads/90597328007/",
+          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/18/USAT/90609131007-pragmata-ss-04.png?crop=3840,2160,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+          "published_at": "2026-06-21T14:04:00Z",
+          "key_points": [
+            "'Pragmata' goes viral",
+            "Awakens paternal instincts",
+            "Emotional gaming experience"
+          ],
+          "impact": "The game resonates deeply with players.",
+          "id": "f2a489d0c04168a43c5abb12b990e48a"
+        },
+        {
+          "title": "Strange Photography Product Launches",
+          "description": "The photography community faces bizarre product launches, raising eyebrows and questions about industry trends. What's happening?",
+          "category": "Business",
+          "source": "PetaPixel",
+          "url": "https://petapixel.com/2026/06/21/this-is-all-so-weird-and-frankly-stupid/",
+          "image": "https://petapixel.com/assets/uploads/2026/06/This-Is-All-So-Weird-and-Frankly-Stupid.jpg",
+          "published_at": "2026-06-21T14:01:45Z",
+          "key_points": [
+            "Bizarre photography launches",
+            "Industry trends questioned",
+            "Community reactions"
+          ],
+          "impact": "Unusual launches spark debate in photography.",
+          "id": "822760ac6bf3642b6e768560a3366377"
+        },
+        {
+          "title": "Intel Core 3 304 Nears Apple A18 Pro",
+          "description": "Intel's Core 3 304 scores closely to Apple's A18 Pro in PassMark tests, indicating competitive performance in entry-level CPUs. Check it out!",
+          "category": "Hardware",
+          "source": "Videocardz.com",
+          "url": "https://videocardz.com/newz/intel-core-3-304-gets-close-to-macbook-neos-apple-a18-pro-in-passmark",
+          "image": "https://cdn.videocardz.com/1/2026/03/WILDCAT-LAKE-CORE-3-304-HERO.jpg",
+          "published_at": "2026-06-21T13:48:12Z",
+          "key_points": [
+            "Intel Core 3 304 performance",
+            "Close to Apple A18 Pro",
+            "Entry-level CPU competition"
+          ],
+          "impact": "Intel's performance challenges Apple's dominance.",
+          "id": "98eca54fb8d249ca12ebfda5b11872bd"
+        },
+        {
+          "title": "Best Early Prime Day Lego Deals",
+          "description": "Discover the best early Prime Day deals on Lego sets, including Star Wars and F1 cars. Perfect for builders and collectors!",
+          "category": "Gaming",
+          "source": "CNN",
+          "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-lego-deals-2026-06-21",
+          "image": "https://media.cnn.com/api/v1/images/stellar/prod/lego-prime-day-deals-2026.jpg?c=16x9&q=w_800,c_fill",
+          "published_at": "2026-06-21T13:00:00Z",
+          "key_points": [
+            "Early Prime Day Lego deals",
+            "Star Wars and F1 sets",
+            "Perfect for collectors"
+          ],
+          "impact": "Lego deals attract enthusiastic builders.",
+          "id": "ed675d47188cdf5524256b041581c4ca"
+        },
+        {
+          "title": "Xbox Simplifies Unreal Engine Development",
+          "description": "Xbox unveils new plugins for Unreal Engine 5.8, aiming to streamline development processes and enhance Project Helix. Exciting advancements ahead!",
+          "category": "Gaming",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/gaming/xbox/our-goal-is-simple-xbox-is-making-unreal-engine-development-much-easier",
+          "image": "https://cdn.mos.cms.futurecdn.net/LCfymb8mtgnEh5sFWuuaBb-2000-80.jpg",
+          "published_at": "2026-06-21T12:59:18Z",
+          "key_points": [
+            "New Unreal Engine plugins",
+            "Streamlined development",
+            "Project Helix advancements"
+          ],
+          "impact": "Xbox's efforts enhance game development efficiency.",
+          "id": "91e1f1f203ca77666b2919167b838291"
+        }
+      ]
+    },
+    {
       "id": "2026-06-22T16:57:00.623328+00:00",
       "fetched_at": "2026-06-22T16:57:00.623328+00:00",
       "label": "Jun 22, 2026 — 04:57 PM UTC",
@@ -6664,157 +6911,6 @@
           ],
           "impact": "Noctua sets a new standard in cooling.",
           "id": "7f678cb1eaa8ab1aa25c3c8a9de108ba"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-17T10:53:15.538935+00:00",
-      "fetched_at": "2026-06-17T10:53:15.538935+00:00",
-      "label": "Jun 17, 2026 — 10:53 AM UTC",
-      "articles": [
-        {
-          "title": "Apple Unifies Email Domains for Privacy Features",
-          "description": "Apple will soon implement a shared domain for private email addresses from Sign in with Apple and iCloud+ Hide My Email. This aims to enhance user privacy and streamline services.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/15/sign-in-with-apple-and-hide-my-email-are-getting-a-new-shared-email-domain/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/icloud-icon-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-16T01:16:00Z",
-          "key_points": [
-            "New shared email domain",
-            "Enhances user privacy",
-            "Streamlines Apple services"
-          ],
-          "impact": "This change simplifies email management for users.",
-          "id": "99c24c96d428bf242d25232917d064b4"
-        },
-        {
-          "title": "Siri Transformed: iOS 27's AI Overhaul",
-          "description": "iOS 27 introduces a complete redesign of Siri, now featuring advanced AI capabilities. Apple enhances functionality and user experience with this significant update.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/guide/ios-27-siri/",
-          "image": "https://images.macrumors.com/t/5VqGjtmjIjCfOM8Sv0v-nzPfg54=/1600x/article-new/2026/03/ios-27-siri-animation.jpg",
-          "published_at": "2026-06-15T23:17:00Z",
-          "key_points": [
-            "Siri gets AI upgrade",
-            "Enhanced user experience",
-            "New features added"
-          ],
-          "impact": "This overhaul positions Siri as a smarter assistant.",
-          "id": "6248c167445c11d5e81736c401498a44"
-        },
-        {
-          "title": "Google Earth Launches Flight Simulator in Browsers",
-          "description": "Google Earth now offers a flight simulator accessible directly in browsers, eliminating the need for downloads. Users can explore the globe virtually with ease.",
-          "category": "Gaming",
-          "source": "CNET",
-          "url": "https://www.cnet.com/tech/gaming/google-earths-flight-simulator-is-now-on-browsers-heres-how-to-play/",
-          "image": "https://www.cnet.com/a/img/resize/c1b067050d2938f1ebed4b343b11a3c643d512bb/hub/2026/06/15/0521f4f8-f423-41dd-8f0c-b86234255cca/google-earth-flight-simulator-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "published_at": "2026-06-15T22:10:00Z",
-          "key_points": [
-            "Flight simulator now browser-based",
-            "No downloads required",
-            "Explore the globe virtually"
-          ],
-          "impact": "This feature enhances accessibility for users.",
-          "id": "4853669098a9eab6da020f2d89554f0b"
-        },
-        {
-          "title": "Microsoft Partners for Flexible Xbox Payments",
-          "description": "Microsoft plans to allow Xbox customers to split purchases into interest-free installments through Klarna and PayPal. This aims to ease financial burdens amid rising costs.",
-          "category": "Gaming",
-          "source": "Windows Central",
-          "url": "https://www.windowscentral.com/gaming/xbox/microsoft-is-gearing-up-to-let-you-spread-the-cost-of-xbox-purchases-partnering-with-klarna-and-paypal",
-          "image": "https://cdn.mos.cms.futurecdn.net/S4igP54s4TcqiMHiMn7jtd-1024-80.jpg",
-          "published_at": "2026-06-15T17:20:35Z",
-          "key_points": [
-            "Flexible payment options",
-            "Interest-free installments",
-            "Supports customers financially"
-          ],
-          "impact": "This initiative helps customers manage expenses.",
-          "id": "af2017c9cf53c5ecaab54e21ea53723f"
-        },
-        {
-          "title": "Final Fantasy Franchise Sale on Steam",
-          "description": "Steam is hosting a massive sale on the Final Fantasy franchise, including FF7 Remake and Rebirth. Gamers can enjoy hundreds of hours of RPG content at discounted prices.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/all-of-final-fantasy-is-on-sale-on-steam-including-ff7-remake-and-rebirth-2000706667",
-          "image": "https://kotaku.com/app/uploads/2026/06/ff7-salessteam-1200x675.jpg",
-          "published_at": "2026-06-15T16:44:30Z",
-          "key_points": [
-            "Massive sale on Steam",
-            "Includes FF7 Remake",
-            "Hundreds of hours of gameplay"
-          ],
-          "impact": "This sale boosts accessibility to classic games.",
-          "id": "41900b58fbf7424aa7fa7b717bd6d195"
-        },
-        {
-          "title": "Sony Aims for God of War Laufey Release in 2027",
-          "description": "Sony expresses hopes to launch PS5's God of War Laufey in early 2027, though plans may change. Development continues amid fan anticipation.",
-          "category": "Gaming",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/06/sony-hopes-to-launch-ps5s-god-of-war-laufey-in-the-first-half-of-2027",
-          "image": "https://images.pushsquare.com/d85d84829248d/large.jpg",
-          "published_at": "2026-06-15T13:00:00Z",
-          "key_points": [
-            "Expected release in 2027",
-            "Development ongoing",
-            "Plans may change"
-          ],
-          "impact": "Fans eagerly await this anticipated title.",
-          "id": "70b602ba473400aecde990d89c921c5c"
-        },
-        {
-          "title": "Bungie Near Shutdown Before Sony Acquisition",
-          "description": "A former Bungie employee reveals the studio was close to shutting down before Sony's acquisition. The future of Destiny 2 was uncertain during this period.",
-          "category": "Gaming",
-          "source": "Eurogamer.net",
-          "url": "https://www.eurogamer.net/bungie-close-to-shutting-down-before-sony-acquisition-its-claimed",
-          "image": "https://assetsio.gnwcdn.com/d2-header-end.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-15T12:29:31Z",
-          "key_points": [
-            "Bungie faced shutdown risk",
-            "Sony acquisition saved studio",
-            "Destiny 2's future uncertain"
-          ],
-          "impact": "This acquisition changed Bungie's trajectory.",
-          "id": "f6bab16f5d2e7bceab7c5830c9bffecf"
-        },
-        {
-          "title": "Mistfall Hunter Free on Xbox for a Week",
-          "description": "Mistfall Hunter is available for free on Xbox for one week ahead of its Game Pass release in July. Players can try the new PvPvE extraction ARPG now.",
-          "category": "Gaming",
-          "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/news/2026/06/excited-for-mistfall-hunter-its-free-to-play-on-xbox-for-the-next-week",
-          "image": "https://images.purexbox.com/edbb69497d5d7/large.jpg",
-          "published_at": "2026-06-15T12:15:00Z",
-          "key_points": [
-            "Free trial on Xbox",
-            "Available for one week",
-            "Game Pass release in July"
-          ],
-          "impact": "This trial encourages player engagement.",
-          "id": "c0d6bbdd6cc29289f905b2b708c6084a"
-        },
-        {
-          "title": "Old Pixel Phones Repurposed as Data Centers",
-          "description": "Researchers are converting old Pixel phones into a data center, outperforming some traditional server hardware. This project addresses electronic waste and sustainability.",
-          "category": "Science",
-          "source": "TechSpot",
-          "url": "https://www.techspot.com/news/112762-researchers-turning-old-pixel-phones-data-center-they.html",
-          "image": "https://www.techspot.com/images2/news/bigimage/2026/06/2026-06-14-image-11.jpg",
-          "published_at": "2026-06-15T11:49:00Z",
-          "key_points": [
-            "Old phones as data centers",
-            "Outperform some servers",
-            "Focus on sustainability"
-          ],
-          "impact": "This project promotes innovative recycling solutions.",
-          "id": "6584e95057398b28f48d35e996658171"
         }
       ]
     }
