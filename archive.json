@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-22T11:51:37.752060+00:00",
+      "fetched_at": "2026-06-22T11:51:37.752060+00:00",
+      "label": "Jun 22, 2026 — 11:52 AM UTC",
+      "articles": [
+        {
+          "title": "Prime Day TV Deals to Watch For",
+          "description": "Prime Day TV deals start June 23. Experts highlight the best OLED, QLED, and budget models to consider and what to avoid.",
+          "category": "Business",
+          "source": "Business Insider",
+          "url": "https://www.businessinsider.com/guides/deals/prime-day-tv-deals-to-wait-for-2026-6#article",
+          "image": "https://i.insider.com/6a3453cbf4bed3c6152cbe28?width=1200&format=jpeg",
+          "published_at": "2026-06-21T11:31:13Z",
+          "key_points": [
+            "Prime Day starts June 23",
+            "Focus on OLED and QLED",
+            "Avoid certain budget models"
+          ],
+          "impact": "Shoppers can save significantly on TVs.",
+          "id": "cea8235d17fc135126b1073df8e51ecc"
+        },
+        {
+          "title": "Common Issues with Inline-6 Engines",
+          "description": "Inline-six engines face issues like camshaft flex, uneven air/fuel distribution, and timing chain failures. Understanding these can help buyers make informed choices.",
+          "category": "Hardware",
+          "source": "SlashGear",
+          "url": "https://www.slashgear.com/2196802/common-problems-with-inline-6-engines/",
+          "image": "https://www.slashgear.com/img/gallery/4-common-problems-with-inline-6-engines/l-intro-1781726626.jpg",
+          "published_at": "2026-06-21T09:45:00Z",
+          "key_points": [
+            "Timing chain problems prevalent",
+            "Uneven air/fuel distribution",
+            "Higher camshaft flex issues"
+          ],
+          "impact": "Awareness can prevent costly repairs.",
+          "id": "1ae493d18dda442d2a7e967e8365ba49"
+        },
+        {
+          "title": "Davenport Sweeps MLRA at Salina",
+          "description": "Davenport secures another MLRA sweep at Salina, showcasing dominance in Dirt Late Model racing. The event highlights the competitive spirit of the sport.",
+          "category": "Gaming",
+          "source": "Dirtondirt.com",
+          "url": "https://www.dirtondirt.com/racewire_9782.html",
+          "image": "",
+          "published_at": "2026-06-21T05:01:49Z",
+          "key_points": [
+            "Davenport wins MLRA sweep",
+            "Showcases racing dominance",
+            "Highlights competitive spirit"
+          ],
+          "impact": "Davenport's performance solidifies his reputation.",
+          "id": "b9c8359fe9b1d475517dd90ec6e9e009"
+        },
+        {
+          "title": "Ferrari's Iconic Designs Through the Years",
+          "description": "Explore 80 years of Ferrari designs, from classic to modern. The blend of style and innovation defines the brand's legacy.",
+          "category": "Business",
+          "source": "SlashGear",
+          "url": "https://www.slashgear.com/2194893/coolest-ferrari-designs-of-all-time/",
+          "image": "https://www.slashgear.com/img/gallery/16-of-the-coolest-ferrari-designs-of-all-time/l-intro-1781560099.jpg",
+          "published_at": "2026-06-21T02:30:00Z",
+          "key_points": [
+            "80 years of Ferrari designs",
+            "Blend of style and innovation",
+            "Iconic models highlighted"
+          ],
+          "impact": "Ferrari's legacy continues to inspire designers.",
+          "id": "672a8da67c4e4381361d1a3db98de286"
+        },
+        {
+          "title": "Inside a 10Gbit SFP+ Network Adapter",
+          "description": "A detailed autopsy reveals insights into a 10Gbit SFP+ network adapter. The analysis highlights the evolution of consumer networking technology.",
+          "category": "Hardware",
+          "source": "Hackaday",
+          "url": "https://hackaday.com/2026/06/20/autopsy-of-a-freshly-cooked-10gbit-sfp-network-adapter/",
+          "image": "https://hackaday.com/wp-content/uploads/2026/06/10gbit_sfp_adapter_pcb_back_this_does_not_compute_youtube.jpg",
+          "published_at": "2026-06-21T02:00:00Z",
+          "key_points": [
+            "10Gbit networking technology",
+            "Consumer gear evolution",
+            "Detailed technical analysis"
+          ],
+          "impact": "Insights can guide future tech developments.",
+          "id": "93bc3d3993a396d1bfbe1cb3d33a9efc"
+        },
+        {
+          "title": "Morristown Bochurim Honor Menahel",
+          "description": "Students surprise their menahel with a complete Hebrew ArtScroll Shas during an awards ceremony, showing appreciation for his dedication.",
+          "category": "Business",
+          "source": "Anash.org - Good News",
+          "url": "https://anash.org/morristown-bochurim-surprise-menahel-at-award-ceremony/",
+          "image": "https://files.anash.org/uploads/2026/06/RCA-Pictures-70.jpg",
+          "published_at": "2026-06-21T01:41:01Z",
+          "key_points": [
+            "Students honor their menahel",
+            "Gift of Hebrew ArtScroll Shas",
+            "Celebration of dedication"
+          ],
+          "impact": "Strengthens community bonds and appreciation.",
+          "id": "251bc281d13a5d82e59336ba90826a21"
+        },
+        {
+          "title": "Honda S2000's Manual Gearbox Engineering",
+          "description": "The Honda S2000's manual gearbox is celebrated for its precise engineering, offering a unique driving experience that enthusiasts cherish.",
+          "category": "Hardware",
+          "source": "Jalopnik",
+          "url": "https://www.jalopnik.com/2194725/manual-honda-s2000-f20c-six-speed-engineering/",
+          "image": "https://www.jalopnik.com/img/gallery/the-engineering-that-made-the-honda-s2000s-manual-gearbox-a-cult-object/l-intro-1781549399.jpg",
+          "published_at": "2026-06-20T23:25:00Z",
+          "key_points": [
+            "Precise manual gearbox engineering",
+            "Unique driving experience",
+            "Beloved by car enthusiasts"
+          ],
+          "impact": "Highlights the importance of engineering in driving.",
+          "id": "b7fd90677f2addf689e2b1281cb10457"
+        },
+        {
+          "title": "Minisforum's New MS-03 Mini-PC",
+          "description": "Minisforum showcases the MS-03 mini-PC at Computex 2026, featuring Intel's Panther Lake platform. It's designed to enhance performance and efficiency.",
+          "category": "Hardware",
+          "source": "Servethehome.com",
+          "url": "https://www.servethehome.com/minisforums-upcoming-ms-03-sff-pc-brings-more-of-a-good-thing/",
+          "image": "https://www.servethehome.com/wp-content/uploads/2026/06/Minisforum-MS-03-Front.jpg",
+          "published_at": "2026-06-20T20:04:44Z",
+          "key_points": [
+            "New MS-03 mini-PC unveiled",
+            "Features Intel Panther Lake",
+            "Enhanced performance and efficiency"
+          ],
+          "impact": "Promises to elevate mini-PC capabilities.",
+          "id": "9cd040d46777ed0f3f6f22a57dd93dd5"
+        },
+        {
+          "title": "Samsung Galaxy Phones Get Free Upgrade",
+          "description": "Samsung is rolling out One UI 9 to more Galaxy devices, offering users the latest Android 17 features and improvements.",
+          "category": "Software",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/jaymcgregor/2026/06/20/samsung-one-ui-9-release-galaxy-s26-galaxy-s25-update/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6596d0433df56a1747652271/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-20T19:05:43Z",
+          "key_points": [
+            "One UI 9 rollout begins",
+            "Free Android 17 upgrade",
+            "More devices included"
+          ],
+          "impact": "Enhances user experience across devices.",
+          "id": "a166a27b033f00bf89162f3e241a537c"
+        },
+        {
+          "title": "Gigabyte Supports Ryzen 9 PRO 9965X3D",
+          "description": "Gigabyte confirms support for AMD's Ryzen 9 PRO 9965X3D on its X870 AORUS TACHYON ICE motherboard, expanding CPU compatibility.",
+          "category": "Hardware",
+          "source": "Videocardz.com",
+          "url": "https://videocardz.com/newz/gigabyte-confirms-ryzen-9-pro-9965x3d-support-on-consumer-x870-motherboard",
+          "image": "https://cdn.videocardz.com/1/2026/06/AMD-RYZEN-9965X3D-HERO.webp",
+          "published_at": "2026-06-20T18:28:12Z",
+          "key_points": [
+            "Ryzen 9 PRO support confirmed",
+            "Compatible with X870 motherboard",
+            "Expands CPU options for users"
+          ],
+          "impact": "Enhances performance potential for gamers.",
+          "id": "5b495558895d13fe24bc02549273d3b0"
+        },
+        {
+          "title": "Witcher 4 Should Learn from Witcher 2",
+          "description": "The Witcher 4 needs to focus on impactful decisions, drawing inspiration from The Witcher 2's narrative choices for a richer gameplay experience.",
+          "category": "Gaming",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/witcher-4-choices-consequences-witcher-2/",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/the-witcher-2-consequences-3.jpg?w=1600&h=900&fit=crop",
+          "published_at": "2026-06-20T17:30:21Z",
+          "key_points": [
+            "Focus on impactful decisions",
+            "Inspiration from Witcher 2",
+            "Enhance gameplay experience"
+          ],
+          "impact": "Could redefine narrative depth in gaming.",
+          "id": "fb8e95534b40be209988e6a07b1a5eb1"
+        },
+        {
+          "title": "Nothing Cancels CMF Phone Pro 2",
+          "description": "Rising RAM costs lead to the cancellation of the CMF Phone Pro 2, highlighting challenges in tech production.",
+          "category": "Business",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/nothing-cancels-new-cmf-phone-ram-costs",
+          "image": "https://helios-i.mashable.com/imagery/articles/04Y6WRRRiDOxZbGSn00OyWD/hero-image.fill.size_1200x675.v1781974642.jpg",
+          "published_at": "2026-06-20T17:02:12Z",
+          "key_points": [
+            "CMF Phone Pro 2 canceled",
+            "Rising RAM costs cited",
+            "Challenges in tech production"
+          ],
+          "impact": "Reflects ongoing issues in tech manufacturing.",
+          "id": "90d617ffe835370035f7ca5760678b48"
+        },
+        {
+          "title": "X-Files Museum's Top Discoveries",
+          "description": "Explore 10 fascinating discoveries from the X-Files museum, showcasing props and memorabilia from the iconic series.",
+          "category": "Gaming",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/x-files-museum-secrets-clues-discoveries/",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/vs-hulu-thex-files-s3e17pusher-11-21.jpg?w=1200&h=675&fit=crop",
+          "published_at": "2026-06-20T17:00:19Z",
+          "key_points": [
+            "10 fascinating X-Files discoveries",
+            "Showcases iconic props",
+            "Museum dedicated to the series"
+          ],
+          "impact": "Celebrates the legacy of a beloved show.",
+          "id": "23859c848e6ae6e136b43830c5a39c89"
+        },
+        {
+          "title": "New GTA 6 Screenshot Released",
+          "description": "Rockstar Games unveils a new screenshot of Grand Theft Auto 6, fueling excitement among fans eagerly awaiting the game.",
+          "category": "Gaming",
+          "source": "GameRant",
+          "url": "https://gamerant.com/gta-6-screenshot-vice-city/",
+          "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/06/gta-6-box-art.jpg?w=1600&h=900&fit=crop",
+          "published_at": "2026-06-20T16:44:00Z",
+          "key_points": [
+            "New GTA 6 screenshot released",
+            "Fans eagerly await the game",
+            "Excitement builds for launch"
+          ],
+          "impact": "Increases anticipation for GTA 6's release.",
+          "id": "1c6a514473e09f0b199096ec05ea42c2"
+        },
+        {
+          "title": "Top-Rated 65-Inch TV Under $1,000",
+          "description": "Consumer Reports names the best 65-inch TV under $1,000 for 2026, guiding buyers towards quality options without breaking the bank.",
+          "category": "Business",
+          "source": "House Digest",
+          "url": "https://www.housedigest.com/2196035/consumer-reports-names-top-rated-65-inch-tv-under-1000-in-2026/",
+          "image": "https://www.housedigest.com/img/gallery/not-lg-not-sony-consumer-reports-names-their-top-rated-65-inch-tv-for-under-1000-in-2026/l-intro-1781687285.jpg",
+          "published_at": "2026-06-20T16:30:00Z",
+          "key_points": [
+            "Best 65-inch TV under $1,000",
+            "Consumer Reports recommendation",
+            "Quality options for buyers"
+          ],
+          "impact": "Helps consumers make informed purchasing decisions.",
+          "id": "2657248422e9d68b3b5b597c7ae9ab6a"
+        }
+      ]
+    },
+    {
       "id": "2026-06-22T04:05:49.081243+00:00",
       "fetched_at": "2026-06-22T04:05:49.081243+00:00",
       "label": "Jun 22, 2026 — 04:06 AM UTC",
@@ -6568,253 +6815,6 @@
           ],
           "impact": "MSI's pricing strategy raises concerns for gamers.",
           "id": "ffb576ea92697c8bbe1ed34c231eb8b6"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-16T22:52:41.863102+00:00",
-      "fetched_at": "2026-06-16T22:52:41.863102+00:00",
-      "label": "Jun 16, 2026 — 10:53 PM UTC",
-      "articles": [
-        {
-          "title": "Xbox Shuts Down Ninja Theory Studio",
-          "description": "Xbox is closing Ninja Theory, the studio behind Hellblade. Staff were informed during a call on Monday.",
-          "category": "Gaming",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/hellblade-ii-senuas-sacrifice.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-          "published_at": "2026-06-15T21:13:35Z",
-          "key_points": [
-            "Ninja Theory closure confirmed",
-            "Staff informed via call",
-            "Xbox studios at risk"
-          ],
-          "impact": "This closure impacts Xbox's game development landscape.",
-          "id": "8842c6f99adcbc85814252edb1e0b84c"
-        },
-        {
-          "title": "Treyarch Studio Head Retires After 22 Years",
-          "description": "Mark Gordon, Treyarch's studio head since 2016, is retiring after 22 years with the studio. His departure marks a significant change for the Call of Duty franchise.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/call-of-duty-studio-treyarch-loses-studio-head-mark-gordon-2000706712",
-          "image": "https://kotaku.com/app/uploads/2026/04/Call-of-Duty-Black-Ops-3-official-artwork-Activision-1200x675.jpg",
-          "published_at": "2026-06-15T19:40:10Z",
-          "key_points": [
-            "Mark Gordon retires",
-            "22 years at Treyarch",
-            "Significant franchise change"
-          ],
-          "impact": "Treyarch faces leadership transition amid franchise evolution.",
-          "id": "b2efda53afc9ca69a69b86a77e424aaa"
-        },
-        {
-          "title": "FBI Warns of Kali365 Security Threat",
-          "description": "The FBI alerts users of Teams, Outlook, and OneDrive about Kali365, a hacking platform bypassing multifactor authentication. Users are urged to stay vigilant.",
-          "category": "Security",
-          "source": "NewsNation",
-          "url": "https://www.newsnationnow.com/business/tech/kali365-security-warning-teams-outlook-onedrive/",
-          "image": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/06/microsoft_beijing_05242023_AP23144795455950-1.jpg?w=1280",
-          "published_at": "2026-06-15T18:38:40Z",
-          "key_points": [
-            "Kali365 targets Microsoft 365",
-            "Bypasses multifactor authentication",
-            "Users urged to stay vigilant"
-          ],
-          "impact": "Increased security awareness is crucial for users.",
-          "id": "dbd17f4874dcd70d515c0c616ceb7690"
-        },
-        {
-          "title": "Final Fantasy Resonance Inspired by Classic Titles",
-          "description": "Final Fantasy Resonance's creators discuss its inspiration from Final Fantasy V and VI, adapting Brave Exvius for a new RPG experience. The game promises a nostalgic return to turn-based combat.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/final-fantasy-resonance-interview-the-first-hd-2d-ff-was-conceptualized-6-7-years-ago-and-inspired-by-final-fantasy-v",
-          "image": "https://assets-prd.ignimgs.com/2026/06/10/ffthumb-1781113181781.png?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-15T18:16:04Z",
-          "key_points": [
-            "Inspired by FF V and VI",
-            "Adapts Brave Exvius story",
-            "Returns to turn-based combat"
-          ],
-          "impact": "Fans anticipate a nostalgic RPG experience.",
-          "id": "8e63034536940b20a3715b3763194175"
-        },
-        {
-          "title": "Xbox Shutters South of Midnight Studio",
-          "description": "Reports indicate Xbox has closed the South of Midnight studio, adding to concerns about several first-party developers facing closure. Double Fine and Ninja Theory are also mentioned.",
-          "category": "Gaming",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/06/several-xbox-studios-at-risk-of-closure-in-talks-to-become-independent",
-          "image": "https://images.pushsquare.com/0232958e5b409/large.jpg",
-          "published_at": "2026-06-15T17:30:00Z",
-          "key_points": [
-            "South of Midnight studio closed",
-            "Concerns over Xbox studios",
-            "Double Fine and Ninja Theory mentioned"
-          ],
-          "impact": "The closure raises questions about Xbox's future.",
-          "id": "b3faa9dfe920fe2cfab172a338c28c94"
-        },
-        {
-          "title": "Civilization 7 Update Addresses Player Feedback",
-          "description": "Civilization 7's lengthy revitalization continues with a major update addressing player concerns after its troubled launch. New features are set to enhance gameplay.",
-          "category": "Gaming",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/civilization-7-new-update-hotseat-multiplayer",
-          "image": "https://assetsio.gnwcdn.com/civ-7-machiavelli.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-15T17:10:29Z",
-          "key_points": [
-            "Major update arrives next week",
-            "Addresses player concerns",
-            "Revitalization continues"
-          ],
-          "impact": "Players can expect improved gameplay experiences.",
-          "id": "7f6f4eb06a473094f7716422af9dd76e"
-        },
-        {
-          "title": "Steam Next Fest Features New PC VR Demos",
-          "description": "Steam Next Fest kicks off today, showcasing a variety of new PC VR demos available for players. The event runs until June 22.",
-          "category": "Gaming",
-          "source": "UploadVR",
-          "url": "https://www.uploadvr.com/steam-next-fest-june-2026-here-are-the-featured-pc-vr-demos/",
-          "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/06/english.jpg",
-          "published_at": "2026-06-15T17:09:07Z",
-          "key_points": [
-            "Steam Next Fest starts today",
-            "New PC VR demos available",
-            "Event runs until June 22"
-          ],
-          "impact": "Players can explore exciting new VR experiences.",
-          "id": "c7c35146fbc9589d7ec6e981cf76c738"
-        },
-        {
-          "title": "Intel Mac Era Comes to a Close",
-          "description": "Reflecting on 20 years of Intel Macs, Apple’s transition marks the end of an era. The shift highlights the evolution of Apple's hardware strategy.",
-          "category": "Business",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Steve-Jobs-announces-Intel-processor-GettyImages-53028118-1152x648-1781292898.jpg",
-          "published_at": "2026-06-15T16:32:14Z",
-          "key_points": [
-            "Intel Mac era ends",
-            "Apple's hardware strategy evolves",
-            "Reflecting on 20 years"
-          ],
-          "impact": "Apple's transition signifies major hardware shifts.",
-          "id": "572172e39a4c2c0b92953013bddd846d"
-        },
-        {
-          "title": "Galaxy Z Fold 8 Features Stronger Display",
-          "description": "The Galaxy Z Fold 8 'Wide' will reportedly have a stronger inner display than the 'Ultra', thanks to improved glass technology. This enhances durability and performance.",
-          "category": "Hardware",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/06/15/galaxy-z-fold-8-wide-reportedly-has-a-stronger-inner-display-than-the-ultra/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/galaxy-z-fold-8-wide-leak-renders-onl-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-15T14:25:00Z",
-          "key_points": [
-            "Z Fold 8 has stronger display",
-            "Improved glass technology",
-            "Enhances durability and performance"
-          ],
-          "impact": "Samsung's innovation boosts device resilience.",
-          "id": "e4fa26c311bb439bd6773a41415ef06b"
-        },
-        {
-          "title": "Xbox Project Helix May Launch Without Controller",
-          "description": "Rumors suggest Xbox Project Helix could launch without a controller as Microsoft aims to cut costs. This could redefine user interaction with the platform.",
-          "category": "Gaming",
-          "source": "MP1st",
-          "url": "https://mp1st.com/news/rumor-xbox-project-helix-could-launch-without-a-controller",
-          "image": "https://mp1st.com/wp-content/uploads/2026/06/Project-Helix.jpg",
-          "published_at": "2026-06-15T14:22:36Z",
-          "key_points": [
-            "Project Helix may lack controller",
-            "Microsoft aims to reduce costs",
-            "User interaction could change"
-          ],
-          "impact": "This shift could redefine gaming experiences.",
-          "id": "b75d13b9abef2f825baa7bc992ad9f62"
-        },
-        {
-          "title": "Galaxy S25 Update Introduces Notification Highlights",
-          "description": "Samsung's Galaxy S25 series receives a software update, adding Notification Highlights alongside the June security patch. The update expands to more regions soon.",
-          "category": "Hardware",
-          "source": "SamMobile",
-          "url": "https://www.sammobile.com/news/galaxy-s25-gets-notification-highlights-new-update/",
-          "image": "https://www.sammobile.com/wp-content/uploads/2025/08/Galaxy-S25-Plus-2-1200x674.jpg",
-          "published_at": "2026-06-15T13:59:00Z",
-          "key_points": [
-            "Galaxy S25 update released",
-            "Introduces Notification Highlights",
-            "Expanding to more regions"
-          ],
-          "impact": "Users gain enhanced notification management.",
-          "id": "a86b879022d7319c83b7670e91f8a66a"
-        },
-        {
-          "title": "Destiny 2 Sees Surge in Player Engagement",
-          "description": "Destiny 2's latest update has significantly boosted player counts and earnings, marking its healthiest period in years. The game continues to evolve positively.",
-          "category": "Gaming",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/paultassi/2026/06/15/destiny-2-is-now-the-healthiest-its-been-in-years/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a2ffe396d9e596d1199add7/0x0.jpg?format=jpg&crop=2562,1440,x437,y0,safe&height=900&width=1600&fit=bounds",
-          "published_at": "2026-06-15T13:36:02Z",
-          "key_points": [
-            "Destiny 2 update boosts engagement",
-            "Healthiest player count in years",
-            "Earnings rise significantly"
-          ],
-          "impact": "The game is thriving with renewed interest.",
-          "id": "584796fb9a9d452798bb9aca7cf2d4a5"
-        },
-        {
-          "title": "Fable Developer Discusses Game Delay",
-          "description": "The Fable developer shares insights on the pros and cons of delaying the game to February 2027. Initial disappointment was expressed but potential benefits are highlighted.",
-          "category": "Gaming",
-          "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/news/2026/06/fable-developer-highlights-the-pros-and-cons-of-delaying-to-february-2027",
-          "image": "https://images.purexbox.com/1e4a073de82fe/large.jpg",
-          "published_at": "2026-06-15T13:34:09Z",
-          "key_points": [
-            "Fable delayed to February 2027",
-            "Developer discusses pros and cons",
-            "Initial disappointment expressed"
-          ],
-          "impact": "Delay may enhance game quality and experience.",
-          "id": "c63d545f162764212b0307f06d370033"
-        },
-        {
-          "title": "Caltech Launches Massive Deep Space Telescope",
-          "description": "Caltech unveils plans for the Deep Synoptic Array, a groundbreaking radio telescope that will be 100 times faster than existing models. This project aims to revolutionize deep space exploration.",
-          "category": "Science",
-          "source": "Gizmodo",
-          "url": "https://gizmodo.com/the-mother-of-all-deep-space-radio-telescopes-is-going-up-in-the-nevada-desert-2000771731",
-          "image": "https://gizmodo.com/app/uploads/2026/06/Caltech-DSA-Test-Owens-Valley-1200x675.jpg",
-          "published_at": "2026-06-15T13:25:40Z",
-          "key_points": [
-            "Caltech's new radio telescope",
-            "100 times faster than predecessors",
-            "Revolutionizes deep space exploration"
-          ],
-          "impact": "This telescope could transform astronomical research.",
-          "id": "69136e6abb224e1b7bfd01cdf402eb1a"
-        },
-        {
-          "title": "Rare Ford Capri Emerges After 30 Years",
-          "description": "A rare Ford Capri, stored since the 1990s, is finally revealed after three decades. This model is one of only 1,038 produced, making it a unique find.",
-          "category": "Business",
-          "source": "autoevolution",
-          "url": "https://www.autoevolution.com/news/rare-ford-garaged-since-the-1990s-is-finally-out-in-broad-daylight-after-30-years-271525.html",
-          "image": "https://s1.cdn.autoevolution.com/images/news/rare-ford-garaged-since-the-1990s-is-finally-out-in-broad-daylight-after-30-years-271525_1.jpg",
-          "published_at": "2026-06-15T13:21:35Z",
-          "key_points": [
-            "Rare Ford Capri revealed",
-            "Stored since the 1990s",
-            "Only 1,038 units produced"
-          ],
-          "impact": "This find excites classic car enthusiasts.",
-          "id": "0918b52c398dc321df6b4ee0ac9d3ff4"
         }
       ]
     }
