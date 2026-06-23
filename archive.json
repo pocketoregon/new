@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-23T03:27:29.086453+00:00",
+      "fetched_at": "2026-06-23T03:27:29.086453+00:00",
+      "label": "Jun 23, 2026 — 03:27 AM UTC",
+      "articles": [
+        {
+          "title": "Blue Reflection Quartet Trailer Drops, Pre-Orders Open",
+          "description": "Koei Tecmo and Gust unveil the second trailer for Blue Reflection Quartet, with digital pre-orders now available.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/blue-reflection-quartet-second-trailer-pre-orders-now-available",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Blue-Reflection-Quartet-PV_06-21-26.jpg",
+          "published_at": "2026-06-22T02:10:22Z",
+          "key_points": [
+            "Second trailer released",
+            "Digital pre-orders available",
+            "Heroic RPG collection"
+          ],
+          "impact": "Fans can now secure their copies early.",
+          "id": "46425e6fdb794c93cc92ab27da7fba95"
+        },
+        {
+          "title": "Stop These 5 Mario Kart Habits Now",
+          "description": "Avoid common mistakes in Mario Kart World to improve your racing skills and enhance your gameplay experience.",
+          "category": "Gaming",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/mario-kart-habits-players-should-stop-doing-immediately/",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/07/mario-kart-world-switch-2-launch-game.jpg?w=1600&h=900&fit=crop",
+          "published_at": "2026-06-22T01:00:00Z",
+          "key_points": [
+            "Focus on power-ups",
+            "Collect more coins",
+            "Avoid common pitfalls"
+          ],
+          "impact": "Improved strategies can lead to better race outcomes.",
+          "id": "0eb390744031de48ae43a339cd0b533b"
+        },
+        {
+          "title": "Prime Day Lego Deals: Save Big on Sets",
+          "description": "Discover amazing discounts on popular Lego sets during Amazon's Prime Day, perfect for fans of all ages.",
+          "category": "Business",
+          "source": "CNET",
+          "url": "https://www.cnet.com/deals/best-amazon-prime-day-lego-deals-26-06-21/",
+          "image": "https://www.cnet.com/a/img/resize/9dabed004f2c650e46cfbcab21e76f009e58574f/hub/2026/06/16/a5173415-32bb-41bc-91f3-1db183cc740f/lego-deals-promo-image.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "published_at": "2026-06-22T00:42:43Z",
+          "key_points": [
+            "Huge discounts available",
+            "Sets for all interests",
+            "Limited time offers"
+          ],
+          "impact": "Great savings on Lego sets for enthusiasts.",
+          "id": "819e1ad5bfd34de8937c8be256568561"
+        },
+        {
+          "title": "Submarine Discovers Mystery, Then Vanishes",
+          "description": "The Ran submarine found strange readings under Antarctica's ice shelf before disappearing without a trace.",
+          "category": "Science",
+          "source": "SlashGear",
+          "url": "https://www.slashgear.com/2197172/ran-submarine-dotson-ice-shelf-discovery-disappearance/",
+          "image": "https://www.slashgear.com/img/gallery/a-submarine-found-something-strange-on-the-ocean-floor-then-it-disappeared/l-intro-1781791073.jpg",
+          "published_at": "2026-06-21T22:45:00Z",
+          "key_points": [
+            "Submarine found strange readings",
+            "Disappeared mysteriously",
+            "Antarctic exploration continues"
+          ],
+          "impact": "The disappearance raises concerns about safety.",
+          "id": "425ac7bd8c8cf80996e67352044fc9fd"
+        },
+        {
+          "title": "Lifetime 100TB Encrypted Cloud Storage Deal",
+          "description": "Secure a lifetime subscription for 100TB of encrypted cloud storage during Deal Days.",
+          "category": "Business",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/june-21-internxt-cloud-storage-lifetime-subscription-100tb",
+          "image": "https://helios-i.mashable.com/imagery/articles/00XFQv5gZnGhqKcMkAe7l2d/hero-image.fill.size_1200x675.v1781719836.jpg",
+          "published_at": "2026-06-21T22:00:00Z",
+          "key_points": [
+            "100TB storage for life",
+            "Encrypted for security",
+            "One-time payment only"
+          ],
+          "impact": "Massive storage solution for users.",
+          "id": "89bd14a305a1f8cb51301f88cc4e2235"
+        },
+        {
+          "title": "Xbox Co-Founder Voices Supply Chain Concerns",
+          "description": "Laura Fryer expresses worries about Microsoft's ability to manage long-term supply chain issues affecting Xbox.",
+          "category": "Business",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/founding-xbox-member-says-her-early-skepticisms-are-coming-true-25-years-later-2000708811",
+          "image": "https://kotaku.com/app/uploads/2026/06/origxbox.jpg",
+          "published_at": "2026-06-21T20:03:37Z",
+          "key_points": [
+            "Concerns over supply chain",
+            "Long-term discipline needed",
+            "Xbox's future at stake"
+          ],
+          "impact": "Supply chain issues could hinder Xbox growth.",
+          "id": "3dacecaa9f24f62da770919e071dd61a"
+        },
+        {
+          "title": "Call of Duty Ports Raise Price Concerns",
+          "description": "PlayStation fans worry after Microsoft lists Call of Duty: Black Ops 1 and 2 at $40 without DLC.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/call-of-duty-black-ops-1-and-2-listings-have-fans-fearing-pricey-playstation-ports",
+          "image": "https://assets-prd.ignimgs.com/2026/06/21/call-of-duty-black-ops-1782070244037.png?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-21T20:01:39Z",
+          "key_points": [
+            "Price set at $40",
+            "No DLC included",
+            "Fans express concerns"
+          ],
+          "impact": "Pricing may affect player interest.",
+          "id": "ef28b8a0e13233fc3b72b1d9ee81c563"
+        },
+        {
+          "title": "Samsung Galaxy Z Fold 8 Launch Confirmed",
+          "description": "Samsung's Galaxy Z Fold 8 and other devices receive regulatory approval, confirming their upcoming launch.",
+          "category": "Hardware",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/jaymcgregor/2026/06/21/samsung-galaxy-z-fold-8-release-date-fcc-specifications-leak/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/69c3e4a6eaa9bb67caac1f5d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-21T19:41:49Z",
+          "key_points": [
+            "Galaxy Z Fold 8 confirmed",
+            "Launch date approaching",
+            "Regulatory approval received"
+          ],
+          "impact": "Excitement builds for Samsung's new devices.",
+          "id": "4c463aee18b72bcf9cf3d9457d8b5a53"
+        },
+        {
+          "title": "Super Yooka-Laylee Kart Preview Released",
+          "description": "Ex-Rare developers aim to revive Diddy Kong Racing spirit in Super Yooka-Laylee Kart with customizable race types.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/super-yooka-laylee-kart-preview-ex-rare-devs-take-aim-at-reviving-the-spirit-of-diddy-kong-racing",
+          "image": "https://assets-prd.ignimgs.com/2026/06/19/sylk-screenshot-002-1781831168852.png?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-21T19:00:00Z",
+          "key_points": [
+            "Custom race types available",
+            "Inspired by Diddy Kong Racing",
+            "Developed by ex-Rare team"
+          ],
+          "impact": "A nostalgic kart racer for fans.",
+          "id": "45f4eae43760e8e128241ffef5950e85"
+        },
+        {
+          "title": "Clean Up Your Pixel Home Screen",
+          "description": "A new Android 17 feature allows Pixel users to hide app names on their home screens for a cleaner look.",
+          "category": "Software",
+          "source": "Android Central",
+          "url": "https://www.androidcentral.com/apps-software/android-os/i-made-my-pixel-home-screen-cleaner-android-17-app-names",
+          "image": "https://cdn.mos.cms.futurecdn.net/AJDDLaAuGv8Qw82WfaV8xZ-2560-80.jpg",
+          "published_at": "2026-06-21T18:44:38Z",
+          "key_points": [
+            "Hide app names easily",
+            "Cleaner home screen",
+            "New Android feature"
+          ],
+          "impact": "Enhances user interface customization.",
+          "id": "a934ef16695ec340e9610e4aed3f0a9a"
+        },
+        {
+          "title": "Ubisoft Co-Founder Dies in Plane Crash",
+          "description": "Claude Guillemot, co-founder of Ubisoft, tragically passed away at 69 in a plane crash.",
+          "category": "Geopolitics",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-1246763045.jpg?w=1024",
+          "published_at": "2026-06-21T18:34:31Z",
+          "key_points": [
+            "Claude Guillemot dies",
+            "Co-founder of Ubisoft",
+            "Tragic plane crash"
+          ],
+          "impact": "The gaming industry mourns a pioneer.",
+          "id": "5522d44a8046e0afb5bc4b7acc6a8b35"
+        },
+        {
+          "title": "Copyright Rule Could Revive Ultima Series",
+          "description": "A 35-year-old copyright rule may allow Ultima's creator to develop a new game without EA's interference.",
+          "category": "Business",
+          "source": "TechSpot",
+          "url": "https://www.techspot.com/news/112843-35-year-old-copyright-rule-could-ultima-creator.html",
+          "image": "https://www.techspot.com/images2/news/bigimage/2026/06/2026-06-21-image-2.jpg",
+          "published_at": "2026-06-21T15:22:58Z",
+          "key_points": [
+            "Copyright rule may help",
+            "Ultima creator's new game",
+            "EA's influence questioned"
+          ],
+          "impact": "Potential revival of a classic franchise.",
+          "id": "eb430412e15ec4a0d2278e2e2ebbe179"
+        },
+        {
+          "title": "Top 10 Walmart Gadgets Under $50",
+          "description": "Explore high-quality tech gadgets available for under $50 at Walmart, including cameras and speakers.",
+          "category": "Business",
+          "source": "BGR",
+          "url": "https://www.bgr.com/2193983/walmart-gadgets-under-50-actually-worth-buying/",
+          "image": "https://www.bgr.com/img/gallery/10-walmart-gadgets-under-50-that-are-actually-worth-buying/l-intro-1781125419.jpg",
+          "published_at": "2026-06-21T14:02:00Z",
+          "key_points": [
+            "Affordable gadgets listed",
+            "High quality options",
+            "Great for tech enthusiasts"
+          ],
+          "impact": "Budget-friendly tech finds for shoppers.",
+          "id": "ab8f33dd59882075cdc95e9678a40e5b"
+        },
+        {
+          "title": "New Valorant Map Summit Introduced",
+          "description": "Valorant's new map, Summit, features innovative mechanics like dropping walls that block routes during gameplay.",
+          "category": "Gaming",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/mikestubbs/2026/06/21/new-valorant-map-summit-features-dropping-walls-that-block-routes/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a37eafdf5525b6f7382d4f1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-21T13:49:07Z",
+          "key_points": [
+            "New map Summit revealed",
+            "Features dropping walls",
+            "Innovative gameplay mechanics"
+          ],
+          "impact": "Exciting changes for Valorant players.",
+          "id": "aaaba2504a9eb1ae999870e93df7be57"
+        },
+        {
+          "title": "Roku TVs to Get Major Home Screen Update",
+          "description": "Roku TVs will soon feature standardized home screen interfaces, replacing previous custom designs from manufacturers.",
+          "category": "Business",
+          "source": "Cord Cutters News, LLC",
+          "url": "https://cordcuttersnews.com/a-big-change-is-coming-to-roku-tvs/",
+          "image": "https://cordcuttersnews.com/wp-content/uploads/2026/06/image-2026-06-21T091237.234.jpg",
+          "published_at": "2026-06-21T13:14:40Z",
+          "key_points": [
+            "Standardized interfaces coming",
+            "Custom designs replaced",
+            "Major update for Roku TVs"
+          ],
+          "impact": "Improves user experience across devices.",
+          "id": "3fc9b7c609515eba923a6c3d8ba7be3a"
+        }
+      ]
+    },
+    {
       "id": "2026-06-22T22:46:31.966870+00:00",
       "fetched_at": "2026-06-22T22:46:31.966870+00:00",
       "label": "Jun 22, 2026 — 10:46 PM UTC",
@@ -6552,253 +6799,6 @@
           ],
           "impact": "GTA 6 could redefine gaming sales benchmarks.",
           "id": "7ab20f42826291883525afcab0323969"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-17T20:10:56.162072+00:00",
-      "fetched_at": "2026-06-17T20:10:56.162072+00:00",
-      "label": "Jun 17, 2026 — 08:11 PM UTC",
-      "articles": [
-        {
-          "title": "Google Unveils Wear OS 7 for Pixel Watch",
-          "description": "Google launches Wear OS 7 alongside Android 17 for Pixel Watch. The update enhances smartwatch functionality for users.",
-          "category": "Software",
-          "source": "9to5google.com",
-          "url": "http://9to5google.com/2026/06/16/wear-os-7-pixel-watch/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Wear-OS-7-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-16T18:02:00Z",
-          "key_points": [
-            "Wear OS 7 now available",
-            "Enhances Pixel Watch features",
-            "Launch coincides with Android 17"
-          ],
-          "impact": "This update improves user experience on Pixel devices.",
-          "id": "fa9ad79b257965c6ec602b51adc771a3"
-        },
-        {
-          "title": "Android 17 Launches for Pixel Devices",
-          "description": "Google officially launches Android 17 for Pixel devices, coinciding with the June 2026 Pixel Feature Drop.",
-          "category": "Software",
-          "source": "9to5google.com",
-          "url": "http://9to5google.com/2026/06/16/google-android-17-pixel-launch/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-16T18:00:00Z",
-          "key_points": [
-            "Android 17 now available",
-            "Includes major updates",
-            "Part of June Pixel Drop"
-          ],
-          "impact": "Users can now enjoy new features on their devices.",
-          "id": "9b876ea8803899a6535dc819dcdbd40b"
-        },
-        {
-          "title": "Viral Video on Flamin' Hot Cheetos Ingredients",
-          "description": "A humorous video shows the ingredients of Flamin' Hot Cheetos, sparking viral interest.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/i-would-like-to-drink-the-forbidden-cheeto-tube-2000707150",
-          "image": "https://kotaku.com/app/uploads/2026/06/cheetotube-1200x675.jpg",
-          "published_at": "2026-06-16T17:55:48Z",
-          "key_points": [
-            "Viral video on Cheetos",
-            "Ingredients revealed humorously",
-            "Not to be taken seriously"
-          ],
-          "impact": "The video humorously engages Cheetos fans online.",
-          "id": "c435a2f748062adc53a66c7d84a35398"
-        },
-        {
-          "title": "Apple Releases iOS 26.6 Beta 2 for iPhone",
-          "description": "Apple has released the second public beta of iOS 26.6, while focusing on iOS 27 development.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/16/apple-releases-ios-26-6-beta-2-for-iphone-heres-what-to-expect/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iOS-26.6-b2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-16T17:18:00Z",
-          "key_points": [
-            "iOS 26.6 beta 2 released",
-            "Focus shifts to iOS 27",
-            "Public beta now available"
-          ],
-          "impact": "Users can test new features ahead of full release.",
-          "id": "7dc9cf675b38798dbc370da26c5ca2e9"
-        },
-        {
-          "title": "Persona 4 Revival English Voice Cast Announced",
-          "description": "ATLUS reveals an all-new English voice cast for Persona 4 Revival, differing from the Japanese version.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/persona-4-revival-english-voice-cast-announced",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/P4R-Cast_06-16-26.jpg",
-          "published_at": "2026-06-16T17:16:04Z",
-          "key_points": [
-            "New English voice cast",
-            "Different from Japanese version",
-            "Exciting updates for fans"
-          ],
-          "impact": "Fans anticipate fresh performances in the game.",
-          "id": "81c959f2f3c0cb4ab047a4646cffaf9b"
-        },
-        {
-          "title": "Snap Launches AR Glasses Specs at $2,195",
-          "description": "Snap unveils its long-awaited AR glasses, Specs, priced at $2,195, available for preorder now.",
-          "category": "Hardware",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/06/SPECS27_52_Front_View81.png?resize=1200,675",
-          "published_at": "2026-06-16T17:00:00Z",
-          "key_points": [
-            "Specs AR glasses launched",
-            "Priced at $2,195",
-            "Available for preorder now"
-          ],
-          "impact": "Snap aims to capture the AR market with Specs.",
-          "id": "147a41ba12b8b6c706b17df94e3ac43c"
-        },
-        {
-          "title": "Google Xreal Aura XR Glasses Available for Preorder",
-          "description": "Google's Xreal Aura XR glasses can now be reserved for $99, with a full launch expected this fall.",
-          "category": "Hardware",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/gadgets/950597/xreal-google-aura-xr-glasses-deposit-scheme",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Xreal-Google-Aura-XR-glasses.jpg?quality=90&strip=all&crop=0,14.033409967608,100,71.933180064785",
-          "published_at": "2026-06-16T17:00:00Z",
-          "key_points": [
-            "Xreal Aura glasses preorder",
-            "Launch expected this fall",
-            "Reserve for $99"
-          ],
-          "impact": "Google expands its hardware offerings with XR glasses.",
-          "id": "d08c3ff3bc82c5a03d88db18c9d3167d"
-        },
-        {
-          "title": "Saros Dev Inspired by FromSoftware's Success",
-          "description": "Housemarque aims to create challenging games like Returnal, focusing on tough gameplay mechanics.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/saros-housemarque-returnal-new-content-dlc-fromsoftware-2000707113",
-          "image": "https://kotaku.com/app/uploads/2026/05/bafkreig4oxwkkgy2ozoruyrmqfeefge7hxamf3qd77vgy5jjoodbkhgtha-1200x675.jpg",
-          "published_at": "2026-06-16T16:41:15Z",
-          "key_points": [
-            "Housemarque's new game Saros",
-            "Focus on challenging gameplay",
-            "Inspired by FromSoftware"
-          ],
-          "impact": "Saros aims to attract hardcore gamers.",
-          "id": "721355a30db8e74248bfc33359770f7c"
-        },
-        {
-          "title": "Halo: Campaign Evolved Cover Reveal",
-          "description": "Game Informer reveals the cover for Halo: Campaign Evolved, revisiting the franchise's origins.",
-          "category": "Gaming",
-          "source": "Gameinformer.com",
-          "url": "https://gameinformer.com/cover-reveal/2026/06/16/cover-reveal-halo-campaign-evolved",
-          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/09/bf029444/halo02.jpg.webp",
-          "published_at": "2026-06-16T16:04:31Z",
-          "key_points": [
-            "Halo: Campaign Evolved cover revealed",
-            "Returns to franchise roots",
-            "Exciting for long-time fans"
-          ],
-          "impact": "Fans eagerly await this nostalgic return.",
-          "id": "f727cfa2adc1fc89591d5b80880659b0"
-        },
-        {
-          "title": "Apple Plans Camera AirPods for 2027",
-          "description": "Apple is set to launch camera-equipped AirPods in late 2027, enhancing its AI device lineup.",
-          "category": "Business",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-16/apple-plans-camera-airpods-iphone-foldable-2-20th-anniversary-iphone-in-2027",
-          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqgE81WV9tWk/v1/-1x-1.webp",
-          "published_at": "2026-06-16T16:01:41Z",
-          "key_points": [
-            "Camera AirPods planned for 2027",
-            "Enhances AI device offerings",
-            "Part of new product lineup"
-          ],
-          "impact": "Apple aims to innovate in the audio market.",
-          "id": "85510788efa1954a7a028f6a8aeeef94"
-        },
-        {
-          "title": "Final Fantasy VII Revelation Insights",
-          "description": "Final Fantasy VII Revelation concludes the remake saga, introducing new elements and characters.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/airships-fresh-fits-and-queens-blood-7-things-we-learned-about-final-fantasy-vii-revelation-2000707110",
-          "image": "https://kotaku.com/app/uploads/2026/06/FFVII_Revelation_June_Screenshots_15-e1780874730693-1200x675.jpg",
-          "published_at": "2026-06-16T16:00:25Z",
-          "key_points": [
-            "Final chapter of FFVII saga",
-            "New characters introduced",
-            "Concludes ambitious remake"
-          ],
-          "impact": "Fans are excited for the series finale.",
-          "id": "a6bf43f71d09d3a4d77ac36d9ad0c9d2"
-        },
-        {
-          "title": "iPhone 17 Lacks iOS 27 Features",
-          "description": "iPhone 17 will miss out on top features of iOS 27, requiring more powerful devices for access.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/16/iphone-17-wont-get-ios-27s-top-tier-features-heres-why/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/iphone-17-blue-display.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-16T15:42:00Z",
-          "key_points": [
-            "iPhone 17 misses iOS 27 features",
-            "Requires more powerful devices",
-            "Limited access for users"
-          ],
-          "impact": "Users may feel disappointed with device limitations.",
-          "id": "b56a3c3687f132207d017c4b69580379"
-        },
-        {
-          "title": "Controversial Painting Returns to PDX",
-          "description": "A controversial painting is back on display at Portland International Airport, sparking discussions.",
-          "category": "Geopolitics",
-          "source": "OregonLive",
-          "url": "https://www.oregonlive.com/travel/2026/06/one-of-portlands-most-controversial-paintings-is-back-at-pdx.html",
-          "image": "",
-          "published_at": "2026-06-16T15:15:00Z",
-          "key_points": [
-            "Controversial painting returns",
-            "Displayed at PDX airport",
-            "Sparks public discussions"
-          ],
-          "impact": "The painting reignites local debates on art.",
-          "id": "751e26d76f5bc4ce86b4065bfb60d0cc"
-        },
-        {
-          "title": "2XKO x Chipotle Collaboration Returns",
-          "description": "2XKO and Chipotle team up again, offering fresh rewards and events for fans.",
-          "category": "Gaming",
-          "source": "Riotgames.com",
-          "url": "https://2xko.riotgames.com/en-us/news/game-updates/2xko-x-chipotle-is-back/",
-          "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e29a45033b379426abc0a35320c725888cb802e3-1920x1080.jpg?accountingTag=2XKO?w=1200&h=630&fm=webp&fit=crop&crop=center",
-          "published_at": "2026-06-16T15:00:00Z",
-          "key_points": [
-            "2XKO and Chipotle collaboration",
-            "Fresh rewards available",
-            "Event runs until June 28"
-          ],
-          "impact": "Fans can enjoy new rewards and events.",
-          "id": "f322533b470c7655ece954da06c1c040"
-        },
-        {
-          "title": "PS5 Security Issue: Unowned Games Displayed",
-          "description": "A new security concern arises as PS5 accounts show games users do not own.",
-          "category": "Security",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/06/another-sony-security-concern-ps5-games-people-dont-own-are-appearing-on-their-profiles",
-          "image": "https://images.pushsquare.com/5551de42b2f7f/large.jpg",
-          "published_at": "2026-06-16T15:00:00Z",
-          "key_points": [
-            "PS5 shows unowned games",
-            "Security concern raised",
-            "Users report strange activity"
-          ],
-          "impact": "Sony faces scrutiny over account security issues.",
-          "id": "12d15f093287e844b99f508332068473"
         }
       ]
     }
