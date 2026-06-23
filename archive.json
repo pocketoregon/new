@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-23T14:45:25.448632+00:00",
+      "fetched_at": "2026-06-23T14:45:25.448632+00:00",
+      "label": "Jun 23, 2026 — 02:45 PM UTC",
+      "articles": [
+        {
+          "title": "Prime Day SSD Deals Start at $50",
+          "description": "Discover budget-friendly SSDs during Prime Day. Upgrade your storage without breaking the bank.",
+          "category": "Hardware",
+          "source": "CNET",
+          "url": "https://www.cnet.com/deals/best-prime-day-ssd-deals-2026-06-22/",
+          "image": "https://www.cnet.com/a/img/resize/d11e6b80d6ef9cb84f4a9ec9e6e6e14595333e96/hub/2026/06/12/99ccfa2e-c0c7-458d-862d-e63a39565a2d/best-ssd-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "published_at": "2026-06-22T12:28:46Z",
+          "key_points": [
+            "Budget SSDs available now",
+            "Fast upgrades on sale",
+            "Prime Day discounts"
+          ],
+          "impact": "Affordable SSDs enhance storage options.",
+          "id": "5b9b67fd8c48f9bc626e232ce394a9f6"
+        },
+        {
+          "title": "Prime Day: 40+ Apple, Sony, Bose Deals Live",
+          "description": "Prime Day kicks off with major discounts on top brands. Grab the best tech deals before they sell out.",
+          "category": "Hardware",
+          "source": "CNET",
+          "url": "https://www.cnet.com/deals/best-amazon-prime-day-headphone-earbud-deals-2026-06-22/",
+          "image": "https://www.cnet.com/a/img/resize/d04649385f4abb3c7b0a71c46d3ed471a5a3f604/hub/2026/06/15/052a7632-506a-4416-8059-466ad7e61502/prime-day-headphone-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "published_at": "2026-06-22T12:21:15Z",
+          "key_points": [
+            "Massive tech discounts",
+            "Shop before Prime Day",
+            "Best brands on sale"
+          ],
+          "impact": "Prime Day offers significant savings on tech.",
+          "id": "bdab42b3798015bffd2f19127b711a0e"
+        },
+        {
+          "title": "Bizarre Game Costs $1,000 on Steam",
+          "description": "A new game titled 'Congratulations On Your Purchase' is priced at $1,000 on Steam, raising eyebrows.",
+          "category": "Gaming",
+          "source": "Insider-gaming.com",
+          "url": "https://insider-gaming.com/congratulations-on-your-purchase-costs-1000-on-steam-seriously/",
+          "image": "https://insider-gaming.com/wp-content/uploads/2026/06/Congratulations-On-Your-Purchase-Costs-1000-on-Steam-Seriously-news.jpg",
+          "published_at": "2026-06-22T11:42:51Z",
+          "key_points": [
+            "Game priced at $1,000",
+            "Unusual pricing strategy",
+            "Sparking online discussions"
+          ],
+          "impact": "The game's price challenges conventional gaming norms.",
+          "id": "c433f448e9144550edecc093342635bd"
+        },
+        {
+          "title": "GTA 6 'Vampire' Ferris Wheel Sparks Curiosity",
+          "description": "A new GTA 6 video reveals a mysterious 'Vampire' Ferris wheel, intriguing fans and experts alike.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/gta-6-vampire-ferris-wheel-sparks-tech-expert-investigation",
+          "image": "https://assets-prd.ignimgs.com/2026/06/22/ferris-wheel-1782128011373.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-22T11:40:12Z",
+          "key_points": [
+            "GTA 6 pre-orders start soon",
+            "Mysterious Ferris wheel revealed",
+            "Fans and experts intrigued"
+          ],
+          "impact": "The reveal heightens anticipation for GTA 6.",
+          "id": "e348429e8905fd895ab410ee68000355"
+        },
+        {
+          "title": "Nintendo Unveils Movie-Inspired Star Fox Poster",
+          "description": "Nintendo promotes the upcoming Star Fox remake with a striking new poster, building excitement.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/icymi-nintendo-releases-an-awesome-movie-inspired-star-fox-poster",
+          "image": "https://images.nintendolife.com/ea7203e6d10ba/large.jpg",
+          "published_at": "2026-06-22T11:30:00Z",
+          "key_points": [
+            "Star Fox remake on the way",
+            "New poster released",
+            "Excitement builds for launch"
+          ],
+          "impact": "The poster enhances hype for Star Fox.",
+          "id": "6dc4e3da1a2fd93e44a9f5b2c9d6f70d"
+        },
+        {
+          "title": "Beware of Vibe-Coding Security Risks",
+          "description": "Vibe-coded apps may pose significant security threats. Developers should be cautious before proceeding.",
+          "category": "Security",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268570_vibe_coding_security_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-22T11:00:00Z",
+          "key_points": [
+            "Vibe-coding may compromise security",
+            "Developers should be cautious",
+            "Potential risks highlighted"
+          ],
+          "impact": "Awareness of security risks is crucial for developers.",
+          "id": "d9132501a8f5492bf7f0179f3f2b7534"
+        },
+        {
+          "title": "Valve Leaks FSR 4.1 for AMD GPUs",
+          "description": "Valve has released an early version of FSR 4.1 for RDNA 3 and 3.5 GPUs via Proton Experimental.",
+          "category": "Hardware",
+          "source": "Videocardz.com",
+          "url": "https://videocardz.com/newz/valve-leaks-fsr-4-1-for-rdna-3-and-rdna-3-5-gpus-through-proton-experimental",
+          "image": "https://cdn.videocardz.com/1/2026/06/AMD-FSR-4.1-INT-JUNE-2026-RDNA3-RDNA3.5-HERO.webp",
+          "published_at": "2026-06-22T10:23:09Z",
+          "key_points": [
+            "FSR 4.1 leaked by Valve",
+            "Compatible with RDNA 3 GPUs",
+            "Early build available now"
+          ],
+          "impact": "FSR 4.1 enhances performance for AMD users.",
+          "id": "6dfea79aa02cc828fc465260c5a3c3be"
+        },
+        {
+          "title": "Call of Duty: Black Ops Ports Priced at $40",
+          "description": "Upcoming PS5 ports of Black Ops may cost $40 each, lacking DLC content, raising concerns among fans.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/the-call-of-duty-black-ops-ps5-ports-might-be-usd40-each-without-any-dlc",
+          "image": "https://images.pushsquare.com/78dbc8356d2a0/large.jpg",
+          "published_at": "2026-06-22T10:15:00Z",
+          "key_points": [
+            "Ports priced at $40 each",
+            "No DLC included",
+            "Fans express disappointment"
+          ],
+          "impact": "Pricing strategy may alienate loyal fans.",
+          "id": "b5eec361abe91dfaa3c4c9922ae9dcf1"
+        },
+        {
+          "title": "Ex-Google Engineer Pursues AI Startup",
+          "description": "A former Google engineer shares her journey from a secure job to launching an AI startup with her podcast cohost.",
+          "category": "Startups",
+          "source": "Business Insider",
+          "url": "https://www.businessinsider.com/google-software-engineer-podcaster-quit-ai-tech-startup-job-market-2026-6#article",
+          "image": "https://i.insider.com/6a32b585564c774507cd377a?width=1200&format=jpeg",
+          "published_at": "2026-06-22T10:13:11Z",
+          "key_points": [
+            "Left Google for AI startup",
+            "Pursuing passion over security",
+            "Inspiring career shift"
+          ],
+          "impact": "Her story encourages others to take risks.",
+          "id": "af31c2311e26cb7f3e8ee182f05ca312"
+        },
+        {
+          "title": "Android 17 Adds High-Res Audio Support",
+          "description": "Android 17 introduces native LHDC audio support for Pixel devices, enhancing wireless audio quality.",
+          "category": "Software",
+          "source": "Android Authority",
+          "url": "https://www.androidauthority.com/android-17-lhdc-audio-support-3679757/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2023/03/Bluetooth-audio-codec-selection-OnePlus-11-aptX-AAC-LDAC-SBC-LHDC.jpg",
+          "published_at": "2026-06-22T09:56:06Z",
+          "key_points": [
+            "LHDC support added",
+            "Improves audio quality",
+            "Compatible with Pixel devices"
+          ],
+          "impact": "High-res audio enhances user experience.",
+          "id": "aadc851e75596153f8cc69cb03f2f141"
+        },
+        {
+          "title": "Zelda: Tears of the Kingdom Discounted",
+          "description": "The Legend of Zelda: Tears of the Kingdom is now available at a significant discount for Prime Day.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/zelda-tears-of-the-kingdom-amazon-prime-day-2026",
+          "image": "https://assets-prd.ignimgs.com/2026/06/15/tears-of-the-kingdom-prime-day-deal-ign-1781532152124.png?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-22T09:28:41Z",
+          "key_points": [
+            "Zelda game discounted",
+            "Available for Switch 2",
+            "Prime Day deal"
+          ],
+          "impact": "Discounts boost sales during Prime Day.",
+          "id": "3c4ca2a665cd7627c3af07419240ae5d"
+        },
+        {
+          "title": "Multiplayer for Last of Us Part 2 Mod Released",
+          "description": "A modder has created a multiplayer version of The Last of Us Part 2, showcasing PvP gameplay.",
+          "category": "Gaming",
+          "source": "Eurogamer.net",
+          "url": "https://www.eurogamer.net/the-last-of-us-2-multiplayer-mod",
+          "image": "https://assetsio.gnwcdn.com/The-Last-of-Us-Part-2-Abby-Anderson.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-22T09:11:16Z",
+          "key_points": [
+            "Multiplayer mod released",
+            "PvP gameplay showcased",
+            "Not from Sony"
+          ],
+          "impact": "The mod expands gameplay options for fans.",
+          "id": "5f50066c2b0eb4626f6ffc38d67d644e"
+        },
+        {
+          "title": "Fallout Franchise Set for August 2026 Return",
+          "description": "The Fallout franchise is gearing up for a major comeback with new releases planned for August 2026.",
+          "category": "Gaming",
+          "source": "Screen Rant",
+          "url": "https://screenrant.com/fallout-returns-august-2026-new-merch/",
+          "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/06/fallout-4-screenshot-of-suited-character-in-boston.jpg?w=1600&h=900&fit=crop",
+          "published_at": "2026-06-21T22:00:20Z",
+          "key_points": [
+            "Fallout returns in August",
+            "Franchise popularity surges",
+            "New releases planned"
+          ],
+          "impact": "The franchise revival excites long-time fans.",
+          "id": "9c4532b06098594631e924393069a41f"
+        },
+        {
+          "title": "Nintendo Maintenance Schedule Released",
+          "description": "Nintendo outlines maintenance for Switch 2 and Switch, detailing expected downtime.",
+          "category": "Gaming",
+          "source": "Nintendoeverything.com",
+          "url": "https://nintendoeverything.com/nintendo-maintenance-schedule-june-21-2026/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Switch-2-Switch-maintenance-1.jpg",
+          "published_at": "2026-06-21T16:01:33Z",
+          "key_points": [
+            "Maintenance schedule announced",
+            "Downtime for Switch 2",
+            "Focus on system updates"
+          ],
+          "impact": "Scheduled maintenance ensures system reliability.",
+          "id": "9d13bed45e6975e459e12a85ef9f2aff"
+        },
+        {
+          "title": "Best TVs for Streaming and Gaming Revealed",
+          "description": "Experts tested and selected the top four TVs for an optimal streaming and gaming experience.",
+          "category": "Hardware",
+          "source": "CNN",
+          "url": "https://www.cnn.com/cnn-underscored/reviews/best-tvs",
+          "image": "https://media.cnn.com/api/v1/images/stellar/prod/best-tested-13.jpg?c=16x9&q=w_800,c_fill",
+          "published_at": "2026-06-21T15:06:00Z",
+          "key_points": [
+            "Top TVs for gaming",
+            "Expert recommendations",
+            "Enhance viewing experience"
+          ],
+          "impact": "Choosing the right TV elevates entertainment.",
+          "id": "707ef9d4fdafacb2b0202fd6731a7302"
+        }
+      ]
+    },
+    {
       "id": "2026-06-23T09:36:36.076847+00:00",
       "fetched_at": "2026-06-23T09:36:36.076847+00:00",
       "label": "Jun 23, 2026 — 09:36 AM UTC",
@@ -6472,253 +6719,6 @@
           ],
           "impact": "Great savings on popular budget earbuds.",
           "id": "93b641ef884a2018c3b30f0c31d9b21d"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-18T03:51:13.536955+00:00",
-      "fetched_at": "2026-06-18T03:51:13.536955+00:00",
-      "label": "Jun 18, 2026 — 03:51 AM UTC",
-      "articles": [
-        {
-          "title": "Final Fantasy Tactics Update 1.5.0 Launches Today",
-          "description": "The 1.5.0 update for Final Fantasy Tactics: The Ivalice Chronicles is now available, introducing new features and improvements. Check out the full patch notes for details.",
-          "category": "Gaming",
-          "source": "Nintendoeverything.com",
-          "url": "https://nintendoeverything.com/final-fantasy-tactics-the-ivalice-chronicles-1-5-0-update-out-today-new-game-and-more/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Final-Fantasy-Tactics-The-Ivalice-Chronicles-1.5.0-update.jpg",
-          "published_at": "2026-06-17T02:13:59Z",
-          "key_points": [
-            "New Game+ feature added",
-            "Full patch notes available",
-            "Update live on Switch"
-          ],
-          "impact": "This update enhances gameplay experience significantly.",
-          "id": "fcc461fc6ffe7291d47e4aad06ddcf7c"
-        },
-        {
-          "title": "Switch Online Offers Free Month for 12-Month Memberships",
-          "description": "Nintendo is providing a limited-time offer of a free bonus month for new 12-month memberships to Switch Online + Expansion Pack in the US. Don't miss out on this deal!",
-          "category": "Gaming",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/06/psa-switch-online-plus-expansion-pack-limited-time-offer-adds-free-bonus-month-for-12-month-memberships-us",
-          "image": "https://images.nintendolife.com/633f0e6708d49/large.jpg",
-          "published_at": "2026-06-16T23:55:00Z",
-          "key_points": [
-            "Free month promotion",
-            "Limited-time offer",
-            "Available for US users"
-          ],
-          "impact": "This offer boosts membership appeal significantly.",
-          "id": "dd33206aa6fdb8f8d1202dd0a79765ff"
-        },
-        {
-          "title": "SanDisk Launches 8TB PS5 SSD Priced at $3800",
-          "description": "SanDisk has unveiled its new 8TB Optimus GX PRO SSD for PS5, priced at a staggering $3800. This high-capacity drive aims to enhance gaming storage solutions.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/sandisk-ps5-ssd-8tb-heatsink-optimus-gx-pro-2000707175",
-          "image": "https://kotaku.com/app/uploads/2026/06/SANDISK-Optimus-GX-PRO-850X-NVMe-SSD-official-image-from-trailer-1200x675.jpg",
-          "published_at": "2026-06-16T20:52:13Z",
-          "key_points": [
-            "8TB storage capacity",
-            "High price point",
-            "Optimized for PS5"
-          ],
-          "impact": "This SSD sets a new storage benchmark.",
-          "id": "48ac6d1640ca8054aa6f3f1ec1d22dbe"
-        },
-        {
-          "title": "Android 17 Update Rolling Out to Pixel Devices",
-          "description": "The Android 17 update is now being rolled out to Pixel phones and watches, bringing various enhancements. Users can expect improvements but no major changes.",
-          "category": "Software",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/06/android-17-starts-hitting-pixel-phones-and-watches-today/",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-1152x648.jpg",
-          "published_at": "2026-06-16T18:00:08Z",
-          "key_points": [
-            "Android 17 update released",
-            "Available for Pixel devices",
-            "Minor enhancements included"
-          ],
-          "impact": "This update improves user experience subtly.",
-          "id": "8ab8523c271d0428355954b0e092c5b0"
-        },
-        {
-          "title": "Sony Faces Security Issues with PS5 Game Profiles",
-          "description": "PS5 users report unauthorized games appearing on their profiles, prompting Sony to address security concerns. The company is working on a fix.",
-          "category": "Security",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/06/ps5s-recently-played-section-wiped-as-sony-contends-with-another-security-concern",
-          "image": "https://images.pushsquare.com/5551de42b2f7f/large.jpg",
-          "published_at": "2026-06-16T15:00:00Z",
-          "key_points": [
-            "Unauthorized games appearing",
-            "Sony addressing security issues",
-            "User profiles affected"
-          ],
-          "impact": "This raises significant concerns about user security.",
-          "id": "67ec58d2c174c0b0cfa4d363bc27be48"
-        },
-        {
-          "title": "Steam Machine CPU Benchmark Results Underwhelm",
-          "description": "Recent Geekbench 6 CPU benchmarks for the Steam Machine show mediocre performance compared to current handhelds. Concerns about its competitiveness arise.",
-          "category": "Gaming",
-          "source": "Windows Central",
-          "url": "https://www.windowscentral.com/gaming/pc-gaming/steam-machine-geekbench-cpu-gaming-handheld-comparison",
-          "image": "https://cdn.mos.cms.futurecdn.net/6i5kqYW5gcaazt3LSNEVY4-2560-80.jpg",
-          "published_at": "2026-06-16T14:48:58Z",
-          "key_points": [
-            "Mediocre benchmark results",
-            "Comparison with handhelds",
-            "Concerns about competitiveness"
-          ],
-          "impact": "This may affect Steam Machine's market viability.",
-          "id": "778118419c9cce430d9c5d5ca1c74074"
-        },
-        {
-          "title": "Xbox May Shut Down South of Midnight & Hellblade Studios",
-          "description": "Reports suggest Xbox is considering shutting down Compulsion Games and Ninja Theory. These studios are negotiating to remain operational amid challenges.",
-          "category": "Gaming",
-          "source": "80.lv",
-          "url": "https://80.lv/articles/xbox-is-reportedly-planning-to-shut-down-south-of-midnight-hellblade-studios",
-          "image": "https://cdn.80.lv/api/upload/meta/48813/images/6a31416639c2e/contain_1200x630.jpg",
-          "published_at": "2026-06-16T12:32:24Z",
-          "key_points": [
-            "Possible studio shutdowns",
-            "Negotiations ongoing",
-            "Impact on game development"
-          ],
-          "impact": "This could disrupt future game releases.",
-          "id": "c1a6833f0901e22d846bb2e8215c4e45"
-        },
-        {
-          "title": "Samsung S95H OLED TV Review: Good, Not Great",
-          "description": "The Samsung S95H OLED TV excels in gaming but falls short in color performance. It offers solid features but lacks the expected 'Ultra' quality.",
-          "category": "Hardware",
-          "source": "CNET",
-          "url": "https://www.cnet.com/tech/home-entertainment/samsung-s95h-oled-tv-review/",
-          "image": "https://www.cnet.com/a/img/resize/1a5c1554d11684e1482eee6bf402a3bd7c8f1e5a/hub/2026/04/01/d6a97a0d-f620-428a-9a0e-32380a47901d/samsung-s95h-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "published_at": "2026-06-16T12:07:00Z",
-          "key_points": [
-            "Great for gaming",
-            "Color performance lacking",
-            "Not the 'Ultra' expected"
-          ],
-          "impact": "This TV may disappoint high-end users.",
-          "id": "ff01d71fea1180757a06cad3a112312f"
-        },
-        {
-          "title": "Gmail's AI Summaries Now Available Globally",
-          "description": "Gmail's AI email summaries are now accessible to all users worldwide, enhancing email management without requiring a paid plan. Users can opt-out if desired.",
-          "category": "Software",
-          "source": "Android Authority",
-          "url": "https://www.androidauthority.com/google-gmail-ai-summaries-global-turn-off-3677798/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2021/12/Gmail-on-smartphone-and-tablet-stock-photo-7.jpg",
-          "published_at": "2026-06-16T10:43:23Z",
-          "key_points": [
-            "AI summaries launched globally",
-            "No paid plan needed",
-            "Opt-out option available"
-          ],
-          "impact": "This feature improves email efficiency for users.",
-          "id": "fdb7772576aba1e3bb5ca78674472e76"
-        },
-        {
-          "title": "Commodore Launches Digital Detox Phone",
-          "description": "The Commodore Callback 8020 is a retro-style flip phone designed for digital detox, featuring T9 texting and limited app access. It blocks social media apps.",
-          "category": "Software",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/commodore-callback-8020-is-a-digital-detox-phone-that-isnt-dumb/",
-          "image": "https://media.wired.com/photos/6a2ff4cfd01a0a55006b45fd/191:100/w_1280,c_limit/Commodore%20Callback%208020%20-%20ProtoPET%20005.jpg",
-          "published_at": "2026-06-16T09:00:00Z",
-          "key_points": [
-            "Retro design",
-            "Blocks social media",
-            "Supports essential apps"
-          ],
-          "impact": "This phone caters to digital detox trends.",
-          "id": "bac82cc4389afc99bd2efa7bf25b2bb1"
-        },
-        {
-          "title": "Assassin's Creed Shadows Final Update Released",
-          "description": "Ubisoft announces the final update for Assassin's Creed Shadows, including improvements for Switch 2. This marks the end of support for the game.",
-          "category": "Gaming",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/06/assassins-creed-shadows-update-1-1-11-out-this-week-includes-switch-2-handheld-improvements",
-          "image": "https://images.nintendolife.com/1ea3a21910cd4/large.jpg",
-          "published_at": "2026-06-16T05:43:28Z",
-          "key_points": [
-            "Final content update",
-            "Switch 2 improvements",
-            "End of support announced"
-          ],
-          "impact": "This concludes the game's development cycle.",
-          "id": "b6b7090b751429623a6918c06a1d289a"
-        },
-        {
-          "title": "Apple iPhone 18 Pro Likely Launching September 2026",
-          "description": "Apple's schedule hints at a September 2026 launch for the iPhone 18 Pro and its variants. Anticipation builds for new features and designs.",
-          "category": "Business",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/davidphelan/2026/06/15/apple-iphone-18-pro-release-date-september-2026/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/695d93b89d51c957214caa7d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "published_at": "2026-06-15T21:00:00Z",
-          "key_points": [
-            "September launch expected",
-            "New features anticipated",
-            "iPhone 18 Pro details emerging"
-          ],
-          "impact": "This could reshape Apple's product lineup.",
-          "id": "e4eb7e27a229bc5ee26f0cc84fd51239"
-        },
-        {
-          "title": "Galaxy Book6 Edge Launches with AI Performance",
-          "description": "Samsung's Galaxy Book6 Edge is now available, featuring next-gen AI performance and premium portability for productivity. It's designed for modern users.",
-          "category": "Hardware",
-          "source": "Samsung",
-          "url": "https://news.samsung.com/us/galaxy-book6-edge-available-next-generation-ai-performance-premium-portability",
-          "image": "https://img.us.news.samsung.com/us/wp-content/uploads/2026/06/15093115/Book6-Edge_16_US_004_L-Side_RGB-1200x630.jpg",
-          "published_at": "2026-06-15T16:00:49Z",
-          "key_points": [
-            "AI-enhanced performance",
-            "Portable design",
-            "Available now"
-          ],
-          "impact": "This device targets productivity-focused consumers.",
-          "id": "aa7155263cbb7894e6cfeffaeadcb7ea"
-        },
-        {
-          "title": "Benefits of Sunlight Explored in New Book",
-          "description": "The book 'In Defense of Sunlight' discusses the health benefits of sunlight exposure and how to safely enjoy it. It challenges common misconceptions about sun exposure.",
-          "category": "Science",
-          "source": "Men's Health",
-          "url": "https://www.menshealth.com/health/a71563030/health-benefits-sunlight-in-defense-of-sunlight-book/",
-          "image": "https://hips.hearstapps.com/hmg-prod/images/036afc9e-c9b9-4418-9197-98d8a55265ec.jpg?crop=1xw:0.796xh;0xw,0.129xh&resize=1200:*",
-          "published_at": "2026-06-15T14:00:00Z",
-          "key_points": [
-            "Explores sunlight health benefits",
-            "Challenges misconceptions",
-            "Promotes safe exposure"
-          ],
-          "impact": "This book encourages a balanced view on sunlight.",
-          "id": "6e7d26f35c751011225c88c774595173"
-        },
-        {
-          "title": "Google Search Introduces Paid Information Agents",
-          "description": "Google is launching Information agents in AI Mode for a fee, enhancing search capabilities for users willing to pay. This feature was announced at Google I/O.",
-          "category": "Software",
-          "source": "Search Engine Roundtable",
-          "url": "https://www.seroundtable.com/google-search-information-agents-41502.html",
-          "image": "https://images.seroundtable.com/google-robot-agent-computer-tasks-EeI3Vi4h.jpg",
-          "published_at": "2026-06-15T11:51:00Z",
-          "key_points": [
-            "Paid search feature introduced",
-            "Enhances user experience",
-            "Announced at Google I/O"
-          ],
-          "impact": "This could change how users interact with search.",
-          "id": "8107dd38279b6edb2ae9e4579d54d12f"
         }
       ]
     }

@@ -1,167 +1,247 @@
 {
   "date": "2026-06-23",
-  "generated_at": "2026-06-23T09:36:36.076847+00:00",
+  "generated_at": "2026-06-23T14:45:25.448632+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Honkai: Nexus Anima ‘Evolution Test’ starts July 9",
-      "description": "miHoYo announces the ‘Evolution Test’ for Honkai: Nexus Anima, launching July 9 on PC, iOS, and Android. No end date has been specified yet.",
-      "category": "Gaming",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/honkai-nexus-anima-evolution-test-begins-july-9",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Honkai-Nexus-Anima_2026_06-22-26_001.jpg",
-      "published_at": "2026-06-22T04:24:18Z",
+      "title": "Prime Day SSD Deals Start at $50",
+      "description": "Discover budget-friendly SSDs during Prime Day. Upgrade your storage without breaking the bank.",
+      "category": "Hardware",
+      "source": "CNET",
+      "url": "https://www.cnet.com/deals/best-prime-day-ssd-deals-2026-06-22/",
+      "image": "https://www.cnet.com/a/img/resize/d11e6b80d6ef9cb84f4a9ec9e6e6e14595333e96/hub/2026/06/12/99ccfa2e-c0c7-458d-862d-e63a39565a2d/best-ssd-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "published_at": "2026-06-22T12:28:46Z",
       "key_points": [
-        "Evolution Test starts July 9",
-        "Available on multiple platforms",
-        "No end date announced"
+        "Budget SSDs available now",
+        "Fast upgrades on sale",
+        "Prime Day discounts"
       ],
-      "impact": "This test will engage players ahead of launch.",
-      "id": "d4bd8d5232dd4cece5f6ddf689084ae7"
+      "impact": "Affordable SSDs enhance storage options.",
+      "id": "5b9b67fd8c48f9bc626e232ce394a9f6"
     },
     {
-      "title": "Rose & Camellia Collection adds Online Battle Mode",
-      "description": "The online battle mode update for Rose & Camellia Collection launched on June 22, enhancing gameplay with competitive features. Players can now battle online.",
-      "category": "Gaming",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/rose-camellia-collection-online-battle-mode-update-launches-june-22",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Rose-Camelia-Update_06-21-26.jpg",
-      "published_at": "2026-06-22T01:34:19Z",
+      "title": "Prime Day: 40+ Apple, Sony, Bose Deals Live",
+      "description": "Prime Day kicks off with major discounts on top brands. Grab the best tech deals before they sell out.",
+      "category": "Hardware",
+      "source": "CNET",
+      "url": "https://www.cnet.com/deals/best-amazon-prime-day-headphone-earbud-deals-2026-06-22/",
+      "image": "https://www.cnet.com/a/img/resize/d04649385f4abb3c7b0a71c46d3ed471a5a3f604/hub/2026/06/15/052a7632-506a-4416-8059-466ad7e61502/prime-day-headphone-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "published_at": "2026-06-22T12:21:15Z",
       "key_points": [
-        "Online mode launched June 22",
-        "Competitive gameplay features",
-        "Publisher: PLAYISM, Developer: Nigoro"
+        "Massive tech discounts",
+        "Shop before Prime Day",
+        "Best brands on sale"
       ],
-      "impact": "This update boosts player engagement significantly.",
-      "id": "605974a8c89a46c61ae3d9e7d68879bd"
+      "impact": "Prime Day offers significant savings on tech.",
+      "id": "bdab42b3798015bffd2f19127b711a0e"
     },
     {
-      "title": "This Week’s Japanese Game Releases: Star Fox, Villion: Code",
-      "description": "Star Fox for Switch 2 and Villion: Code for multiple platforms highlight this week's Japanese game releases. Exciting titles are set to launch soon.",
+      "title": "Bizarre Game Costs $1,000 on Steam",
+      "description": "A new game titled 'Congratulations On Your Purchase' is priced at $1,000 on Steam, raising eyebrows.",
       "category": "Gaming",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/this-weeks-japanese-game-releases-star-fox-villion-code-more",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Weekly-Japanese-Game-Releases_06-21-26.jpg",
-      "published_at": "2026-06-21T23:59:38Z",
+      "source": "Insider-gaming.com",
+      "url": "https://insider-gaming.com/congratulations-on-your-purchase-costs-1000-on-steam-seriously/",
+      "image": "https://insider-gaming.com/wp-content/uploads/2026/06/Congratulations-On-Your-Purchase-Costs-1000-on-Steam-Seriously-news.jpg",
+      "published_at": "2026-06-22T11:42:51Z",
       "key_points": [
-        "Star Fox for Switch 2",
-        "Villion: Code launches soon",
-        "Multiple platforms supported"
+        "Game priced at $1,000",
+        "Unusual pricing strategy",
+        "Sparking online discussions"
       ],
-      "impact": "These releases will attract significant player interest.",
-      "id": "1429d1e5d80709ca616e5334b8f232ac"
+      "impact": "The game's price challenges conventional gaming norms.",
+      "id": "c433f448e9144550edecc093342635bd"
     },
     {
-      "title": "Zelda: Tears Of The Kingdom DLC for 40th Anniversary",
-      "description": "Nintendo announces new DLC for The Legend of Zelda: Tears of the Kingdom, celebrating the franchise's 40th anniversary. Fans can expect exciting new content.",
+      "title": "GTA 6 'Vampire' Ferris Wheel Sparks Curiosity",
+      "description": "A new GTA 6 video reveals a mysterious 'Vampire' Ferris wheel, intriguing fans and experts alike.",
+      "category": "Gaming",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/gta-6-vampire-ferris-wheel-sparks-tech-expert-investigation",
+      "image": "https://assets-prd.ignimgs.com/2026/06/22/ferris-wheel-1782128011373.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-22T11:40:12Z",
+      "key_points": [
+        "GTA 6 pre-orders start soon",
+        "Mysterious Ferris wheel revealed",
+        "Fans and experts intrigued"
+      ],
+      "impact": "The reveal heightens anticipation for GTA 6.",
+      "id": "e348429e8905fd895ab410ee68000355"
+    },
+    {
+      "title": "Nintendo Unveils Movie-Inspired Star Fox Poster",
+      "description": "Nintendo promotes the upcoming Star Fox remake with a striking new poster, building excitement.",
+      "category": "Gaming",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/06/icymi-nintendo-releases-an-awesome-movie-inspired-star-fox-poster",
+      "image": "https://images.nintendolife.com/ea7203e6d10ba/large.jpg",
+      "published_at": "2026-06-22T11:30:00Z",
+      "key_points": [
+        "Star Fox remake on the way",
+        "New poster released",
+        "Excitement builds for launch"
+      ],
+      "impact": "The poster enhances hype for Star Fox.",
+      "id": "6dc4e3da1a2fd93e44a9f5b2c9d6f70d"
+    },
+    {
+      "title": "Beware of Vibe-Coding Security Risks",
+      "description": "Vibe-coded apps may pose significant security threats. Developers should be cautious before proceeding.",
+      "category": "Security",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268570_vibe_coding_security_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-06-22T11:00:00Z",
+      "key_points": [
+        "Vibe-coding may compromise security",
+        "Developers should be cautious",
+        "Potential risks highlighted"
+      ],
+      "impact": "Awareness of security risks is crucial for developers.",
+      "id": "d9132501a8f5492bf7f0179f3f2b7534"
+    },
+    {
+      "title": "Valve Leaks FSR 4.1 for AMD GPUs",
+      "description": "Valve has released an early version of FSR 4.1 for RDNA 3 and 3.5 GPUs via Proton Experimental.",
+      "category": "Hardware",
+      "source": "Videocardz.com",
+      "url": "https://videocardz.com/newz/valve-leaks-fsr-4-1-for-rdna-3-and-rdna-3-5-gpus-through-proton-experimental",
+      "image": "https://cdn.videocardz.com/1/2026/06/AMD-FSR-4.1-INT-JUNE-2026-RDNA3-RDNA3.5-HERO.webp",
+      "published_at": "2026-06-22T10:23:09Z",
+      "key_points": [
+        "FSR 4.1 leaked by Valve",
+        "Compatible with RDNA 3 GPUs",
+        "Early build available now"
+      ],
+      "impact": "FSR 4.1 enhances performance for AMD users.",
+      "id": "6dfea79aa02cc828fc465260c5a3c3be"
+    },
+    {
+      "title": "Call of Duty: Black Ops Ports Priced at $40",
+      "description": "Upcoming PS5 ports of Black Ops may cost $40 each, lacking DLC content, raising concerns among fans.",
+      "category": "Gaming",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/06/the-call-of-duty-black-ops-ps5-ports-might-be-usd40-each-without-any-dlc",
+      "image": "https://images.pushsquare.com/78dbc8356d2a0/large.jpg",
+      "published_at": "2026-06-22T10:15:00Z",
+      "key_points": [
+        "Ports priced at $40 each",
+        "No DLC included",
+        "Fans express disappointment"
+      ],
+      "impact": "Pricing strategy may alienate loyal fans.",
+      "id": "b5eec361abe91dfaa3c4c9922ae9dcf1"
+    },
+    {
+      "title": "Ex-Google Engineer Pursues AI Startup",
+      "description": "A former Google engineer shares her journey from a secure job to launching an AI startup with her podcast cohost.",
+      "category": "Startups",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/google-software-engineer-podcaster-quit-ai-tech-startup-job-market-2026-6#article",
+      "image": "https://i.insider.com/6a32b585564c774507cd377a?width=1200&format=jpeg",
+      "published_at": "2026-06-22T10:13:11Z",
+      "key_points": [
+        "Left Google for AI startup",
+        "Pursuing passion over security",
+        "Inspiring career shift"
+      ],
+      "impact": "Her story encourages others to take risks.",
+      "id": "af31c2311e26cb7f3e8ee182f05ca312"
+    },
+    {
+      "title": "Android 17 Adds High-Res Audio Support",
+      "description": "Android 17 introduces native LHDC audio support for Pixel devices, enhancing wireless audio quality.",
+      "category": "Software",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/android-17-lhdc-audio-support-3679757/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2023/03/Bluetooth-audio-codec-selection-OnePlus-11-aptX-AAC-LDAC-SBC-LHDC.jpg",
+      "published_at": "2026-06-22T09:56:06Z",
+      "key_points": [
+        "LHDC support added",
+        "Improves audio quality",
+        "Compatible with Pixel devices"
+      ],
+      "impact": "High-res audio enhances user experience.",
+      "id": "aadc851e75596153f8cc69cb03f2f141"
+    },
+    {
+      "title": "Zelda: Tears of the Kingdom Discounted",
+      "description": "The Legend of Zelda: Tears of the Kingdom is now available at a significant discount for Prime Day.",
+      "category": "Gaming",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/zelda-tears-of-the-kingdom-amazon-prime-day-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/06/15/tears-of-the-kingdom-prime-day-deal-ign-1781532152124.png?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-22T09:28:41Z",
+      "key_points": [
+        "Zelda game discounted",
+        "Available for Switch 2",
+        "Prime Day deal"
+      ],
+      "impact": "Discounts boost sales during Prime Day.",
+      "id": "3c4ca2a665cd7627c3af07419240ae5d"
+    },
+    {
+      "title": "Multiplayer for Last of Us Part 2 Mod Released",
+      "description": "A modder has created a multiplayer version of The Last of Us Part 2, showcasing PvP gameplay.",
+      "category": "Gaming",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/the-last-of-us-2-multiplayer-mod",
+      "image": "https://assetsio.gnwcdn.com/The-Last-of-Us-Part-2-Abby-Anderson.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-22T09:11:16Z",
+      "key_points": [
+        "Multiplayer mod released",
+        "PvP gameplay showcased",
+        "Not from Sony"
+      ],
+      "impact": "The mod expands gameplay options for fans.",
+      "id": "5f50066c2b0eb4626f6ffc38d67d644e"
+    },
+    {
+      "title": "Fallout Franchise Set for August 2026 Return",
+      "description": "The Fallout franchise is gearing up for a major comeback with new releases planned for August 2026.",
       "category": "Gaming",
       "source": "Screen Rant",
-      "url": "https://screenrant.com/zelda-tears-of-the-kingdom-2026-dlc-confirmed/",
-      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/link-smiling-totk.jpg?w=1600&h=900&fit=crop",
-      "published_at": "2026-06-21T22:30:19Z",
+      "url": "https://screenrant.com/fallout-returns-august-2026-new-merch/",
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/06/fallout-4-screenshot-of-suited-character-in-boston.jpg?w=1600&h=900&fit=crop",
+      "published_at": "2026-06-21T22:00:20Z",
       "key_points": [
-        "New DLC announced",
-        "Celebrates 40th anniversary",
-        "Exciting content for fans"
+        "Fallout returns in August",
+        "Franchise popularity surges",
+        "New releases planned"
       ],
-      "impact": "This DLC will enhance the game's legacy.",
-      "id": "2326a9ea4239fc04691b0d905ace52eb"
+      "impact": "The franchise revival excites long-time fans.",
+      "id": "9c4532b06098594631e924393069a41f"
     },
     {
-      "title": "iPhone Air 2 may face hardware downgrade",
-      "description": "Rumors suggest the iPhone Air 2 could undergo a hardware downgrade, potentially jeopardizing Apple's flagship design future. Concerns arise over performance.",
-      "category": "Business",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/iphone-air-2-one-hardware-downgrade-spell-doom-for-sleek-flagships/",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/iPhone-Air-2-4.jpg",
-      "published_at": "2026-06-21T20:55:00Z",
-      "key_points": [
-        "Rumored hardware downgrade",
-        "Concerns for flagship design",
-        "Impact on performance expected"
-      ],
-      "impact": "This could affect Apple's market position significantly.",
-      "id": "114b3f5b7e84bc3446fb1b8e6fdc73cc"
-    },
-    {
-      "title": "Insomniac’s Wolverine actor joins GTA 6 cast",
-      "description": "The voice actor for Sabretooth in Marvel's Wolverine is confirmed to be part of the Grand Theft Auto 6 cast, adding star power to the game.",
+      "title": "Nintendo Maintenance Schedule Released",
+      "description": "Nintendo outlines maintenance for Switch 2 and Switch, detailing expected downtime.",
       "category": "Gaming",
-      "source": "MP1st",
-      "url": "https://mp1st.com/news/insomniacs-wolverine-sabretooth-actor-part-gta-6-cast",
-      "image": "https://mp1st.com/wp-content/uploads/2026/06/wolverine-gta-600x338.png",
-      "published_at": "2026-06-21T19:34:01Z",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/nintendo-maintenance-schedule-june-21-2026/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Switch-2-Switch-maintenance-1.jpg",
+      "published_at": "2026-06-21T16:01:33Z",
       "key_points": [
-        "Wolverine actor joins GTA 6",
-        "Adds star power to cast",
-        "Excitement builds for release"
+        "Maintenance schedule announced",
+        "Downtime for Switch 2",
+        "Focus on system updates"
       ],
-      "impact": "This casting choice heightens anticipation for GTA 6.",
-      "id": "240559d78296a4cf0751b8560fe5fcd9"
+      "impact": "Scheduled maintenance ensures system reliability.",
+      "id": "9d13bed45e6975e459e12a85ef9f2aff"
     },
     {
-      "title": "Apple’s design focus may shift under Ternus",
-      "description": "New reports indicate that Apple’s incoming CEO John Ternus aims to revive bold design elements reminiscent of earlier products. A significant shift is anticipated.",
-      "category": "Business",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/the-john-ternus-era-at-apple-will-reportedly-revive-apples-focus-on-bold-design-2000774986",
-      "image": "https://gizmodo.com/app/uploads/2026/04/ipod-3rd-generation-1200x675.jpg",
-      "published_at": "2026-06-21T18:47:34Z",
+      "title": "Best TVs for Streaming and Gaming Revealed",
+      "description": "Experts tested and selected the top four TVs for an optimal streaming and gaming experience.",
+      "category": "Hardware",
+      "source": "CNN",
+      "url": "https://www.cnn.com/cnn-underscored/reviews/best-tvs",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/best-tested-13.jpg?c=16x9&q=w_800,c_fill",
+      "published_at": "2026-06-21T15:06:00Z",
       "key_points": [
-        "Ternus to revive bold design",
-        "Shift from previous design trends",
-        "Potential for innovative products"
+        "Top TVs for gaming",
+        "Expert recommendations",
+        "Enhance viewing experience"
       ],
-      "impact": "This could redefine Apple's product aesthetics.",
-      "id": "ba72f2fb5c63b9aa4f5b2e9dd817d4ae"
-    },
-    {
-      "title": "AirPods Pro 3 hit record low price",
-      "description": "AirPods Pro 3 are now available for $169, a record low ahead of Prime Day. This price drop offers significant savings for consumers.",
-      "category": "Business",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/21/airpods-pro-3-record-low-169/",
-      "image": "https://images.macrumors.com/t/abAQ4U5Ck5avU2zapaEXVfrJ_x4=/2000x/article-new/2025/09/airpods-pro-3-tips.jpg",
-      "published_at": "2026-06-21T15:32:39Z",
-      "key_points": [
-        "AirPods Pro 3 at $169",
-        "Record low price ahead of Prime Day",
-        "Significant savings for buyers"
-      ],
-      "impact": "This price drop will boost sales significantly.",
-      "id": "9c7d34b915bb33e7ac3fed588cbb24ce"
-    },
-    {
-      "title": "How to Improve Your Grip Strength",
-      "description": "Experts share tips on enhancing grip strength, crucial for gym performance and daily activities. Improving grip can lead to better overall fitness.",
-      "category": "Science",
-      "source": "GQ Magazine",
-      "url": "https://www.gq.com/story/how-to-improve-your-grip-strength-3",
-      "image": "https://media.gq.com/photos/69443c3cfdbb2ead6d70a72d/16:9/w_1280,c_limit/grip%20strength.jpg",
-      "published_at": "2026-06-21T13:03:32Z",
-      "key_points": [
-        "Grip strength enhances performance",
-        "Tips from fitness experts",
-        "Important for daily activities"
-      ],
-      "impact": "Improved grip strength can boost overall fitness.",
-      "id": "6a4a2a781c9c6e3eb581348cf9e751ba"
-    },
-    {
-      "title": "Exploring Blue Prince’s Spiral of Stars",
-      "description": "A deep dive into the narrative of Blue Prince, exploring its complex themes and character arcs. Spoilers included for a comprehensive understanding.",
-      "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/i-am-looking-for-my-father-in-blue-princes-spiral-of-stars-2000708221",
-      "image": "https://kotaku.com/app/uploads/2026/06/1000008368-1-1200x675.jpg",
-      "published_at": "2026-06-21T13:00:13Z",
-      "key_points": [
-        "In-depth narrative exploration",
-        "Spoilers included",
-        "Complex character arcs discussed"
-      ],
-      "impact": "This analysis enriches the gaming experience.",
-      "id": "ef73e833388f1f9a30d0403a0c92b8d6"
+      "impact": "Choosing the right TV elevates entertainment.",
+      "id": "707ef9d4fdafacb2b0202fd6731a7302"
     }
   ]
 }
