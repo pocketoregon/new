@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-23T22:11:36.884142+00:00",
+      "fetched_at": "2026-06-23T22:11:36.884142+00:00",
+      "label": "Jun 23, 2026 — 10:12 PM UTC",
+      "articles": [
+        {
+          "title": "Bluetooth Controller Breaks 007 First Light",
+          "description": "Using a Bluetooth controller on PC disrupts gameplay in 007 First Light. This issue highlights compatibility challenges.",
+          "category": "Gaming",
+          "source": "Aftermath.site",
+          "url": "https://aftermath.site/xbox-controller-bluetooth-007-first-light/",
+          "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/06/bonds.jpg",
+          "published_at": "2026-06-22T20:13:12Z",
+          "key_points": [
+            "Bluetooth causes game issues",
+            "Compatibility remains a challenge",
+            "User experience affected"
+          ],
+          "impact": "This raises concerns about gaming hardware compatibility.",
+          "id": "98a0b3ac3cd2a476c68c0b60650d2819"
+        },
+        {
+          "title": "Walmart Cuts PlayStation Earbuds Price by 50%",
+          "description": "Walmart offers a 50% discount on PlayStation PULSE Explore earbuds, making them available for under $100.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/playstation-pulse-explore-planar-magnetic-wireless-gaming-earbuds-deal",
+          "image": "https://assets-prd.ignimgs.com/2026/06/22/playstationpulseexplore-1782155851947.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-22T19:35:00Z",
+          "key_points": [
+            "50% off PlayStation earbuds",
+            "Best price for PS5 accessories",
+            "Limited time offer"
+          ],
+          "impact": "This deal enhances accessibility for gamers.",
+          "id": "f53b19a2d64516ff6f2690e8324b461d"
+        },
+        {
+          "title": "AMD Reinstates Memory Encryption in CPUs",
+          "description": "AMD responds to user backlash by reinstating memory encryption in consumer CPUs, addressing concerns over costlier chip options.",
+          "category": "Security",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-1152x648-1753386930.jpg",
+          "published_at": "2026-06-22T19:16:52Z",
+          "key_points": [
+            "Memory encryption restored",
+            "User feedback influenced decision",
+            "Cost concerns addressed"
+          ],
+          "impact": "This reinstatement boosts consumer trust in AMD.",
+          "id": "0bbae9c5d7414996f7f4367671b34ac1"
+        },
+        {
+          "title": "iOS 27 Simplifies Apple TV Software Updates",
+          "description": "iOS 27 introduces user-friendly updates for Apple TV software, enhancing overall user experience with Siri and Apple Intelligence improvements.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/22/ios-27-makes-it-easier-to-update-your-apple-tv-software/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-tv-4k-homekit.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-22T19:15:00Z",
+          "key_points": [
+            "Easier Apple TV updates",
+            "Siri improvements included",
+            "User experience enhanced"
+          ],
+          "impact": "This update streamlines Apple TV management.",
+          "id": "6231407105651a828d7f55368abce5af"
+        },
+        {
+          "title": "Prime Day Offers Major Discounts on Apple Products",
+          "description": "Amazon Prime Day 2026 features significant discounts on AirPods, Apple Watch, and more, lasting until June 26.",
+          "category": "Business",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/22/prime-day-2026-best-apple-deals/",
+          "image": "https://images.macrumors.com/t/Yl77cA5OtduqJ4K1yYZ1JQh7gVs=/2500x/article-new/2026/06/airpods-pro-3-prime-day.jpeg",
+          "published_at": "2026-06-22T19:11:06Z",
+          "key_points": [
+            "Prime Day discounts available",
+            "Deals on Apple products",
+            "Limited time offers"
+          ],
+          "impact": "This boosts sales for Apple products.",
+          "id": "8741fdd0816d8945822a406ed35b2b16"
+        },
+        {
+          "title": "Valve's Steam Machine Launches June 29",
+          "description": "Valve's Steam Machine will ship on June 29 for $1,049, utilizing a randomized purchase queue for fairness.",
+          "category": "Gaming",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gaming/2026/06/valves-steam-machine-ships-june-29-for-1049-but-you-probably-wont-be-able-to-buy-one-yet/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/valve-steam-machine-desktop-1152x648.jpeg",
+          "published_at": "2026-06-22T19:02:45Z",
+          "key_points": [
+            "Steam Machine launches soon",
+            "Randomized purchase queue",
+            "Price set at $1,049"
+          ],
+          "impact": "This aims to improve purchase fairness.",
+          "id": "03df3d260c93faa4cd324501b5ed5d91"
+        },
+        {
+          "title": "SEGA Reports Disappointing Sales for Sonic and Shinobi",
+          "description": "SEGA's financial report reveals Sonic Racing: CrossWorlds and Shinobi: Art of Vengeance sales fell short of expectations.",
+          "category": "Gaming",
+          "source": "Nintendo Everything",
+          "url": "https://nintendoeverything.com/sega-says-sonic-racing-crossworlds-and-shinobi-art-of-vengeance-sales-havent-met-its-expectations/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Sonic-Racing-Shinobi-sales-disappointment.jpg",
+          "published_at": "2026-06-22T18:10:23Z",
+          "key_points": [
+            "Sales below expectations",
+            "Financial report highlights issues",
+            "SEGA reassesses strategies"
+          ],
+          "impact": "This may prompt changes in SEGA's approach.",
+          "id": "08c4e96e2af211f4ccc3ac2d022845c5"
+        },
+        {
+          "title": "Facebook Marketplace Couch Sale Turns into Scam",
+          "description": "A man selling his couch on Facebook Marketplace gets scammed after Zelle flags the payment as suspicious.",
+          "category": "Business",
+          "source": "The Big Lead",
+          "url": "https://www.thebiglead.com/man-scammed-couch-facebook-zelle/",
+          "image": "https://www.thebiglead.com/wp-content/uploads/2026/06/Man-sells-his-couch-on-Facebook-marketplace.-.jpg",
+          "published_at": "2026-06-22T18:00:37Z",
+          "key_points": [
+            "Couch sale leads to scam",
+            "Zelle flags suspicious payment",
+            "Buyer experiences regret"
+          ],
+          "impact": "This highlights risks in online transactions.",
+          "id": "362572a12e67799453537a990c1e0312"
+        },
+        {
+          "title": "Apple Watch SE 3 Priced at $199 for Prime Day",
+          "description": "The Apple Watch SE 3 is now available for $199 during Prime Day, offering great value with watchOS 27 support.",
+          "category": "Business",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/953458/apple-watch-se-3-prime-day-deal-sale",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257944_Applewatch_SE_AKrales_0104.jpg?quality=90&strip=all&crop=0%2C32.547993019197%2C100%2C34.904013961606&w=1200",
+          "published_at": "2026-06-22T18:00:00Z",
+          "key_points": [
+            "Apple Watch SE 3 discounted",
+            "Great value for Prime Day",
+            "Supports latest watchOS"
+          ],
+          "impact": "This deal increases accessibility for consumers.",
+          "id": "7c856553d22d27d92f39c212536324f6"
+        },
+        {
+          "title": "Windows 11 26H2 Update Coming Soon",
+          "description": "Microsoft announces Windows 11 version 26H2 will be available soon, with an easy upgrade process for existing users.",
+          "category": "Software",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
+          "image": "https://www.bleepstatic.com/content/hl-images/2023/02/13/0_Windows_11.jpg",
+          "published_at": "2026-06-22T17:41:31Z",
+          "key_points": [
+            "Windows 11 26H2 update announced",
+            "Easy upgrade for users",
+            "New features expected"
+          ],
+          "impact": "This update enhances user experience significantly.",
+          "id": "a2e4e7e63e56dc2353158ae3ba6c2351"
+        },
+        {
+          "title": "Devil May Cry 5 Switch 2 vs. PS4 Comparison",
+          "description": "A video comparison shows Devil May Cry 5 on Nintendo Switch 2 can reach 120 FPS, similar to PS4 performance.",
+          "category": "Gaming",
+          "source": "Nintendo Everything",
+          "url": "https://nintendoeverything.com/video-devil-may-cry-5-nintendo-switch-2-vs-ps4-comparison-can-hit-120-fps-on-nintendos-console/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Devil-May-Cry-5-Switch-2-vs.-PS4-comparison.jpg",
+          "published_at": "2026-06-22T17:25:23Z",
+          "key_points": [
+            "Switch 2 hits 120 FPS",
+            "Comparison with PS4",
+            "Performance similarities noted"
+          ],
+          "impact": "This showcases Switch 2's gaming capabilities.",
+          "id": "d6f7c2a7d656f1164244f0d344602e2d"
+        },
+        {
+          "title": "AMD Launches FSR 4.1 for Older GPUs",
+          "description": "AMD introduces FSR Upscaling 4.1 for Radeon RX 7000-series GPUs, enhancing performance for older graphics cards.",
+          "category": "Software",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/953664/amd-fsr-4-1-upscaling-rx-7000-series-gpus-rdna-3",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ss_3a0de67fdb133b4b21c53cc23a813b766f0c612c.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+          "published_at": "2026-06-22T16:37:57Z",
+          "key_points": [
+            "FSR 4.1 launched",
+            "Enhances older graphics cards",
+            "Support for RDNA 3 APUs coming"
+          ],
+          "impact": "This improves gaming performance for older systems.",
+          "id": "6bcc9c78d9b0f2e068189b72c3ed31e4"
+        },
+        {
+          "title": "RedMagic Unveils Gaming Tablet with Water Cooling",
+          "description": "RedMagic announces its next gaming tablet featuring water cooling, set to launch this month.",
+          "category": "Gaming",
+          "source": "GSMArena.com",
+          "url": "https://www.gsmarena.com/redmagic_shows_its_next_gaming_tablet_with_water_cooling_reveals_its_launch_date-news-73378.php",
+          "image": "https://fdn.gsmarena.com/imgroot/news/26/06/redmagic-tablet-5-pro-design-launch-date/-952x498w6/gsmarena_000.jpg",
+          "published_at": "2026-06-22T15:00:03Z",
+          "key_points": [
+            "New gaming tablet revealed",
+            "Features water cooling",
+            "Launch date announced"
+          ],
+          "impact": "This innovation enhances gaming performance.",
+          "id": "6145a9d9a24c425024a4faefe7fc59f3"
+        },
+        {
+          "title": "Apple AirTags Discounted for Prime Day",
+          "description": "Second-generation AirTags are now available for $90 during Prime Day, marking a significant discount.",
+          "category": "Business",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/951987/apple-airtag-second-gen-prime-day-deal-sale-2026",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268280_AirTags_2_AKrales_0003.webp?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+          "published_at": "2026-06-22T15:00:00Z",
+          "key_points": [
+            "AirTags discounted to $90",
+            "First major price drop",
+            "Available during Prime Day"
+          ],
+          "impact": "This increases consumer interest in AirTags.",
+          "id": "7b2debfe217abe47bacbb6cec0f3cd1d"
+        },
+        {
+          "title": "Moving Closer to Family Can Bring Regrets",
+          "description": "Feliz Hebert shares her experience moving to Connecticut for family, only to return to Cape Cod due to loneliness.",
+          "category": "Geopolitics",
+          "source": "Business Insider",
+          "url": "https://www.businessinsider.com/moved-closer-kids-grandkids-regrets-moved-back-2026-6#article",
+          "image": "https://i.insider.com/6a318a4c73f469f2923c673e?width=1200&format=jpeg",
+          "published_at": "2026-06-22T13:43:09Z",
+          "key_points": [
+            "Family move led to loneliness",
+            "Regrets about relocation",
+            "Returned to Cape Cod"
+          ],
+          "impact": "This highlights emotional challenges of relocation.",
+          "id": "81fb437d6d932769a203e18376b85f54"
+        }
+      ]
+    },
+    {
       "id": "2026-06-23T20:02:17.945631+00:00",
       "fetched_at": "2026-06-23T20:02:17.945631+00:00",
       "label": "Jun 23, 2026 — 08:02 PM UTC",
@@ -6488,237 +6735,6 @@
           ],
           "impact": "This could retain some player interest.",
           "id": "fb295274d07e9fe02586cc25032c1b32"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-18T20:24:31.381270+00:00",
-      "fetched_at": "2026-06-18T20:24:31.381270+00:00",
-      "label": "Jun 18, 2026 — 08:24 PM UTC",
-      "articles": [
-        {
-          "title": "Vampire Survivors Fortnite Crossover Might Not Happen Due To GenAI",
-          "description": "Poncle is hesitant about Epic's generative AI plans for Fortnite. The future of their collaboration remains uncertain.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/vampire-survivors-studio-reviewing-future-fortnite-collab-after-epics-genai-annoumcents-2000707634",
-          "image": "https://kotaku.com/app/uploads/2026/04/vcrawlers-1200x675.jpg",
-          "published_at": "2026-06-17T17:49:46Z",
-          "key_points": [
-            "Poncle doubts Epic's GenAI plans",
-            "Collaboration future uncertain",
-            "Epic pushes generative AI"
-          ],
-          "impact": "This could affect future game collaborations.",
-          "id": "c9ee1321b884bf0ea7252819a4ac32ba"
-        },
-        {
-          "title": "Android 17 just dropped for Pixel phones and Watch all at once - the biggest update of the year",
-          "description": "Google's Android 17 update is now available for Pixel devices and the Pixel Watch, marking a significant upgrade.",
-          "category": "Software",
-          "source": "PhoneArena",
-          "url": "https://www.phonearena.com/news/google-just-dropped-its-biggest-update-of-the-year-and-it-hits-android-17-pixel-and-watch-all-at-once_id181143",
-          "image": "",
-          "published_at": "2026-06-17T15:05:06Z",
-          "key_points": [
-            "Android 17 released today",
-            "Major update for Pixel devices",
-            "Includes new features and improvements"
-          ],
-          "impact": "This enhances user experience across devices.",
-          "id": "a5e2f06ce9657c8a8b329fd6dc14ab9e"
-        },
-        {
-          "title": "The Next Big Score",
-          "description": "Rockstar Games announces a new heist at the Kortz Center, promising thrilling gameplay and high-stakes action.",
-          "category": "Gaming",
-          "source": "Rockstargames.com",
-          "url": "https://www.rockstargames.com/newswire/article/517k8ak75ao327/the-next-big-score",
-          "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/517k8ak75ao327/bd8dd92adc077fa7ee13dcddc2d6a93cfb684599.jpg",
-          "published_at": "2026-06-17T13:57:37Z",
-          "key_points": [
-            "New heist at Kortz Center",
-            "Exciting gameplay promised",
-            "High-stakes action awaits"
-          ],
-          "impact": "This will attract more players to the game.",
-          "id": "9795ce556ff65a40881c6d5f2e0f92d5"
-        },
-        {
-          "title": "Samsung Galaxy Z Fold 8 Ultra: The Foldable We’ve Been Waiting For",
-          "description": "Samsung's Galaxy Z Fold 8 Ultra is confirmed, featuring innovative designs and improved functionality.",
-          "category": "Hardware",
-          "source": "Geeky Gadgets",
-          "url": "https://www.geeky-gadgets.com/samsung-galaxy-z-fold-8-ultra-8/",
-          "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/fold-8-ultra-design-1.jpg",
-          "published_at": "2026-06-17T07:02:55Z",
-          "key_points": [
-            "Galaxy Z Fold 8 Ultra confirmed",
-            "Innovative foldable design",
-            "Improved functionality expected"
-          ],
-          "impact": "This could redefine the foldable smartphone market.",
-          "id": "2860ce070ca3f145222d6b61ee62e6be"
-        },
-        {
-          "title": "Apple Stock Rises on AI AirPods and Foldable iPhone Report",
-          "description": "Apple shares increase as reports reveal advancements in AI AirPods and a new foldable iPhone model.",
-          "category": "Business",
-          "source": "Yahoo Entertainment",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-rises-ai-airpods-191952020.html",
-          "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-          "published_at": "2026-06-16T19:19:52Z",
-          "key_points": [
-            "Apple stock rises 1%",
-            "New AI AirPods in development",
-            "Foldable iPhone model reported"
-          ],
-          "impact": "Investors are optimistic about Apple's future.",
-          "id": "cc003efd641715b399662c30baffa5d0"
-        },
-        {
-          "title": "Apple Releases New Firmware for AirPods Pro 2, AirPods Pro 3 and Beats Studio Buds",
-          "description": "Apple updates firmware for AirPods Pro 2 and 3, enhancing performance and features.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/16/airpods-pro-firmware-8b41/",
-          "image": "https://images.macrumors.com/t/sLY2rnsZ8CO7pw9y-a1_y0wXDE8=/2322x/article-new/2021/11/AirPods-Pro-Firmware-Feature.jpg",
-          "published_at": "2026-06-16T18:19:01Z",
-          "key_points": [
-            "New firmware for AirPods released",
-            "Improves performance and features",
-            "Version number updated to 8B41"
-          ],
-          "impact": "Users will benefit from enhanced audio quality.",
-          "id": "06098cc614419eb9140498f8c38461b4"
-        },
-        {
-          "title": "Wear OS 7 drops today with Live Updates, Gemini, and more",
-          "description": "Google launches Wear OS 7, introducing live updates and new features for smartwatch users.",
-          "category": "Software",
-          "source": "Android Headlines",
-          "url": "https://www.androidheadlines.com/2026/06/wear-os-7-drops-today-with-live-updates-gemini-and-more.html",
-          "image": "https://www.androidheadlines.com/wp-content/uploads/2025/10/AH-Google-Pixel-Watch-4-scaled.jpg",
-          "published_at": "2026-06-16T18:00:40Z",
-          "key_points": [
-            "Wear OS 7 officially launched",
-            "Includes live updates feature",
-            "New functionalities added"
-          ],
-          "impact": "This enhances smartwatch usability significantly.",
-          "id": "315f28bbfb2124f24f45ab69e286bfe9"
-        },
-        {
-          "title": "These are the best iPadOS 27 features you should try [Video]",
-          "description": "iPadOS 27 introduces impressive new features that enhance user experience and functionality.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/16/these-are-the-best-ipados-27-features-you-should-try-video/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ipados27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-16T17:09:00Z",
-          "key_points": [
-            "iPadOS 27 features unveiled",
-            "Enhances user experience",
-            "Five key upgrades highlighted"
-          ],
-          "impact": "Users will enjoy a more efficient workflow.",
-          "id": "44b37f7129e89ec64e00531e3791be30"
-        },
-        {
-          "title": "Walt Disney World to Offer iOS 27's Upgraded Apple Wallet Key Feature",
-          "description": "iOS 27 enhances Apple Wallet with digital keys for Disney resorts, improving guest experience.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/16/disney-world-ios-27-apple-wallet/",
-          "image": "https://images.macrumors.com/t/4cWBU14420TsfW7CW78ftNO7Ydo=/1600x/article-new/2026/06/Disney-MagicMobile-Feature.jpg",
-          "published_at": "2026-06-16T16:02:24Z",
-          "key_points": [
-            "iOS 27 enhances Apple Wallet",
-            "Digital keys for Disney resorts",
-            "Improves guest experience"
-          ],
-          "impact": "This simplifies access for Disney visitors.",
-          "id": "add8a3616f684621f573df81dc159c7e"
-        },
-        {
-          "title": "Nearly a decade later, the original Switch finally has an eShop that isn't painfully slow, thanks to a new system update",
-          "description": "Nintendo updates the original Switch's eShop, significantly improving speed and user experience.",
-          "category": "Gaming",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/nintendo-switch-eshop-update",
-          "image": "https://assetsio.gnwcdn.com/Nintendo-eShop-official-image-Switch-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-16T15:59:43Z",
-          "key_points": [
-            "Original Switch eShop updated",
-            "Improved speed and performance",
-            "Enhances user experience"
-          ],
-          "impact": "Users will enjoy a smoother shopping experience.",
-          "id": "704de169cfe9be54c1a2ed424b697080"
-        },
-        {
-          "title": "Google Is Now Sending Broken Galaxy S22 Ultra As Replacements For Defective Pixel Units, As One Customer Found Out The Hard Way",
-          "description": "A customer received a broken Galaxy S22 Ultra as a replacement for a defective Pixel, highlighting Google's error.",
-          "category": "Software",
-          "source": "Wccftech",
-          "url": "https://wccftech.com/pixel-owner-received-broken-galaxy-s22-ultra-as-replacement-for-defective-unit/",
-          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/Pixel-9-Pro-XL-rotated.jpeg",
-          "published_at": "2026-06-16T15:54:00Z",
-          "key_points": [
-            "Google sends broken replacement",
-            "Customer experiences major blunder",
-            "Pixel replacement mishap reported"
-          ],
-          "impact": "This raises concerns about Google's customer service.",
-          "id": "4ca7af1a4d8dcf3814f6e9d4ac787670"
-        },
-        {
-          "title": "Minecraft Java Edition 26.2",
-          "description": "Minecraft Java Edition 26.2 introduces technical changes and improvements for players.",
-          "category": "Gaming",
-          "source": "Minecraft.net",
-          "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2",
-          "image": "https://www.minecraft.net/content/dam/minecraftnet/article-asset/2026/minecraft-26-2/new-article-hero-image.jpg",
-          "published_at": "2026-06-16T15:13:03Z",
-          "key_points": [
-            "Minecraft Java Edition 26.2 released",
-            "Technical changes introduced",
-            "Improves game performance"
-          ],
-          "impact": "Players will experience smoother gameplay.",
-          "id": "91417967a5379b15d1da60de113209a7"
-        },
-        {
-          "title": "Upcoming Xbox Exclusives Are Being Sent Out To Die, Analyst Says; Xbox Pushes Back",
-          "description": "Analysts claim Xbox exclusives are poorly timed, but Xbox's strategy team defends their release schedule.",
-          "category": "Gaming",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/upcoming-xbox-exclusives-are-being-sent-out-to-die-analyst-says-xbox-pushes-back/",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Xboxlogo_cde787.jpg",
-          "published_at": "2026-06-16T15:10:29Z",
-          "key_points": [
-            "Analyst criticizes Xbox release strategy",
-            "Xbox defends upcoming titles",
-            "Concerns over exclusive game timing"
-          ],
-          "impact": "This could affect Xbox's market position.",
-          "id": "f4d17dee45a3728d01e76c663c81b9b1"
-        },
-        {
-          "title": "Beyerdynamic's new IEM for musicians might also be ideal for your commute",
-          "description": "The DT 30 IE is designed for musicians but also suits commuters, offering portability and quality sound.",
-          "category": "Hardware",
-          "source": "Creative Bloq",
-          "url": "https://www.creativebloq.com/tech/headphones-earbuds/beyerdynamics-new-iem-for-musicians-might-also-be-ideal-for-your-commute",
-          "image": "https://cdn.mos.cms.futurecdn.net/UwBrib8aSM9iinxKX5XNrj-1920-80.jpg",
-          "published_at": "2026-06-16T14:24:06Z",
-          "key_points": [
-            "DT 30 IE designed for musicians",
-            "Ideal for commuting",
-            "Portable and quality sound"
-          ],
-          "impact": "This appeals to both musicians and commuters.",
-          "id": "452aa907a368723f12b2c0404a039004"
         }
       ]
     }
