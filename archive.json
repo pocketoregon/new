@@ -1,6 +1,173 @@
 {
   "batches": [
     {
+      "id": "2026-06-23T09:36:36.076847+00:00",
+      "fetched_at": "2026-06-23T09:36:36.076847+00:00",
+      "label": "Jun 23, 2026 — 09:36 AM UTC",
+      "articles": [
+        {
+          "title": "Honkai: Nexus Anima ‘Evolution Test’ starts July 9",
+          "description": "miHoYo announces the ‘Evolution Test’ for Honkai: Nexus Anima, launching July 9 on PC, iOS, and Android. No end date has been specified yet.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/honkai-nexus-anima-evolution-test-begins-july-9",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Honkai-Nexus-Anima_2026_06-22-26_001.jpg",
+          "published_at": "2026-06-22T04:24:18Z",
+          "key_points": [
+            "Evolution Test starts July 9",
+            "Available on multiple platforms",
+            "No end date announced"
+          ],
+          "impact": "This test will engage players ahead of launch.",
+          "id": "d4bd8d5232dd4cece5f6ddf689084ae7"
+        },
+        {
+          "title": "Rose & Camellia Collection adds Online Battle Mode",
+          "description": "The online battle mode update for Rose & Camellia Collection launched on June 22, enhancing gameplay with competitive features. Players can now battle online.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/rose-camellia-collection-online-battle-mode-update-launches-june-22",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Rose-Camelia-Update_06-21-26.jpg",
+          "published_at": "2026-06-22T01:34:19Z",
+          "key_points": [
+            "Online mode launched June 22",
+            "Competitive gameplay features",
+            "Publisher: PLAYISM, Developer: Nigoro"
+          ],
+          "impact": "This update boosts player engagement significantly.",
+          "id": "605974a8c89a46c61ae3d9e7d68879bd"
+        },
+        {
+          "title": "This Week’s Japanese Game Releases: Star Fox, Villion: Code",
+          "description": "Star Fox for Switch 2 and Villion: Code for multiple platforms highlight this week's Japanese game releases. Exciting titles are set to launch soon.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/this-weeks-japanese-game-releases-star-fox-villion-code-more",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Weekly-Japanese-Game-Releases_06-21-26.jpg",
+          "published_at": "2026-06-21T23:59:38Z",
+          "key_points": [
+            "Star Fox for Switch 2",
+            "Villion: Code launches soon",
+            "Multiple platforms supported"
+          ],
+          "impact": "These releases will attract significant player interest.",
+          "id": "1429d1e5d80709ca616e5334b8f232ac"
+        },
+        {
+          "title": "Zelda: Tears Of The Kingdom DLC for 40th Anniversary",
+          "description": "Nintendo announces new DLC for The Legend of Zelda: Tears of the Kingdom, celebrating the franchise's 40th anniversary. Fans can expect exciting new content.",
+          "category": "Gaming",
+          "source": "Screen Rant",
+          "url": "https://screenrant.com/zelda-tears-of-the-kingdom-2026-dlc-confirmed/",
+          "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/link-smiling-totk.jpg?w=1600&h=900&fit=crop",
+          "published_at": "2026-06-21T22:30:19Z",
+          "key_points": [
+            "New DLC announced",
+            "Celebrates 40th anniversary",
+            "Exciting content for fans"
+          ],
+          "impact": "This DLC will enhance the game's legacy.",
+          "id": "2326a9ea4239fc04691b0d905ace52eb"
+        },
+        {
+          "title": "iPhone Air 2 may face hardware downgrade",
+          "description": "Rumors suggest the iPhone Air 2 could undergo a hardware downgrade, potentially jeopardizing Apple's flagship design future. Concerns arise over performance.",
+          "category": "Business",
+          "source": "Wccftech",
+          "url": "https://wccftech.com/iphone-air-2-one-hardware-downgrade-spell-doom-for-sleek-flagships/",
+          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/iPhone-Air-2-4.jpg",
+          "published_at": "2026-06-21T20:55:00Z",
+          "key_points": [
+            "Rumored hardware downgrade",
+            "Concerns for flagship design",
+            "Impact on performance expected"
+          ],
+          "impact": "This could affect Apple's market position significantly.",
+          "id": "114b3f5b7e84bc3446fb1b8e6fdc73cc"
+        },
+        {
+          "title": "Insomniac’s Wolverine actor joins GTA 6 cast",
+          "description": "The voice actor for Sabretooth in Marvel's Wolverine is confirmed to be part of the Grand Theft Auto 6 cast, adding star power to the game.",
+          "category": "Gaming",
+          "source": "MP1st",
+          "url": "https://mp1st.com/news/insomniacs-wolverine-sabretooth-actor-part-gta-6-cast",
+          "image": "https://mp1st.com/wp-content/uploads/2026/06/wolverine-gta-600x338.png",
+          "published_at": "2026-06-21T19:34:01Z",
+          "key_points": [
+            "Wolverine actor joins GTA 6",
+            "Adds star power to cast",
+            "Excitement builds for release"
+          ],
+          "impact": "This casting choice heightens anticipation for GTA 6.",
+          "id": "240559d78296a4cf0751b8560fe5fcd9"
+        },
+        {
+          "title": "Apple’s design focus may shift under Ternus",
+          "description": "New reports indicate that Apple’s incoming CEO John Ternus aims to revive bold design elements reminiscent of earlier products. A significant shift is anticipated.",
+          "category": "Business",
+          "source": "Gizmodo",
+          "url": "https://gizmodo.com/the-john-ternus-era-at-apple-will-reportedly-revive-apples-focus-on-bold-design-2000774986",
+          "image": "https://gizmodo.com/app/uploads/2026/04/ipod-3rd-generation-1200x675.jpg",
+          "published_at": "2026-06-21T18:47:34Z",
+          "key_points": [
+            "Ternus to revive bold design",
+            "Shift from previous design trends",
+            "Potential for innovative products"
+          ],
+          "impact": "This could redefine Apple's product aesthetics.",
+          "id": "ba72f2fb5c63b9aa4f5b2e9dd817d4ae"
+        },
+        {
+          "title": "AirPods Pro 3 hit record low price",
+          "description": "AirPods Pro 3 are now available for $169, a record low ahead of Prime Day. This price drop offers significant savings for consumers.",
+          "category": "Business",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/21/airpods-pro-3-record-low-169/",
+          "image": "https://images.macrumors.com/t/abAQ4U5Ck5avU2zapaEXVfrJ_x4=/2000x/article-new/2025/09/airpods-pro-3-tips.jpg",
+          "published_at": "2026-06-21T15:32:39Z",
+          "key_points": [
+            "AirPods Pro 3 at $169",
+            "Record low price ahead of Prime Day",
+            "Significant savings for buyers"
+          ],
+          "impact": "This price drop will boost sales significantly.",
+          "id": "9c7d34b915bb33e7ac3fed588cbb24ce"
+        },
+        {
+          "title": "How to Improve Your Grip Strength",
+          "description": "Experts share tips on enhancing grip strength, crucial for gym performance and daily activities. Improving grip can lead to better overall fitness.",
+          "category": "Science",
+          "source": "GQ Magazine",
+          "url": "https://www.gq.com/story/how-to-improve-your-grip-strength-3",
+          "image": "https://media.gq.com/photos/69443c3cfdbb2ead6d70a72d/16:9/w_1280,c_limit/grip%20strength.jpg",
+          "published_at": "2026-06-21T13:03:32Z",
+          "key_points": [
+            "Grip strength enhances performance",
+            "Tips from fitness experts",
+            "Important for daily activities"
+          ],
+          "impact": "Improved grip strength can boost overall fitness.",
+          "id": "6a4a2a781c9c6e3eb581348cf9e751ba"
+        },
+        {
+          "title": "Exploring Blue Prince’s Spiral of Stars",
+          "description": "A deep dive into the narrative of Blue Prince, exploring its complex themes and character arcs. Spoilers included for a comprehensive understanding.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/i-am-looking-for-my-father-in-blue-princes-spiral-of-stars-2000708221",
+          "image": "https://kotaku.com/app/uploads/2026/06/1000008368-1-1200x675.jpg",
+          "published_at": "2026-06-21T13:00:13Z",
+          "key_points": [
+            "In-depth narrative exploration",
+            "Spoilers included",
+            "Complex character arcs discussed"
+          ],
+          "impact": "This analysis enriches the gaming experience.",
+          "id": "ef73e833388f1f9a30d0403a0c92b8d6"
+        }
+      ]
+    },
+    {
       "id": "2026-06-23T03:27:29.086453+00:00",
       "fetched_at": "2026-06-23T03:27:29.086453+00:00",
       "label": "Jun 23, 2026 — 03:27 AM UTC",
@@ -6552,253 +6719,6 @@
           ],
           "impact": "This could change how users interact with search.",
           "id": "8107dd38279b6edb2ae9e4579d54d12f"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-17T22:44:23.713653+00:00",
-      "fetched_at": "2026-06-17T22:44:23.713653+00:00",
-      "label": "Jun 17, 2026 — 10:45 PM UTC",
-      "articles": [
-        {
-          "title": "The James Bond of First Light Is Hot In A Grown Up Way",
-          "description": "The latest character in First Light is captivatingly attractive, drawing significant attention. His appeal is undeniably distracting for players.",
-          "category": "Gaming",
-          "source": "Aftermath.site",
-          "url": "https://aftermath.site/the-james-bond-of-first-light-is-hot-in-a-grown-up-way/",
-          "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/06/bond-2-1.png",
-          "published_at": "2026-06-16T18:56:48Z",
-          "key_points": [
-            "Character is very attractive",
-            "Draws significant attention",
-            "Appeal is distracting"
-          ],
-          "impact": "This character enhances player engagement significantly.",
-          "id": "5194596155508b48963dd7688c7e7491"
-        },
-        {
-          "title": "Apple just released new AirPods Pro 3 firmware, more",
-          "description": "Apple has rolled out new firmware updates for AirPods Pro 3 and 2. Users can easily install the latest enhancements now.",
-          "category": "Hardware",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/16/apple-just-released-new-airpods-pro-3-firmware-more/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/airpods-pro-3-upside-down.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-16T18:25:00Z",
-          "key_points": [
-            "New firmware for AirPods Pro",
-            "Installation instructions available",
-            "Enhancements improve user experience"
-          ],
-          "impact": "Users will benefit from improved AirPods functionality.",
-          "id": "519e7e91777101d49aaacdf425d4fbaa"
-        },
-        {
-          "title": "Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end",
-          "description": "Qualcomm is developing over 40 AI wearable devices, including innovative jewelry and earbuds. This marks a significant shift in their product strategy.",
-          "category": "Hardware",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/",
-          "image": "https://techcrunch.com/wp-content/uploads/2024/09/qualcomm-layoff-san-diego.jpg?resize=1200,800",
-          "published_at": "2026-06-16T18:22:24Z",
-          "key_points": [
-            "Over 40 AI wearables in development",
-            "Includes jewelry and earbuds",
-            "Shift from smartphone focus"
-          ],
-          "impact": "Qualcomm aims to redefine wearable technology.",
-          "id": "1a433075c8e4e466545a825975550b70"
-        },
-        {
-          "title": "Android 17 arrives on Pixel phones today",
-          "description": "Pixel phones are the first to receive Android 17 along with new features. Other devices will follow later this year.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/950651/android-17-release-pixel-drop-google-bubble-screen-reaction",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/android-17.jpg?quality=90&strip=all&crop=0%2C10.751709622572%2C100%2C78.496580754855&w=1200",
-          "published_at": "2026-06-16T18:00:00Z",
-          "key_points": [
-            "Android 17 launches on Pixel first",
-            "New features included",
-            "Other devices to follow later"
-          ],
-          "impact": "Pixel users gain early access to Android 17.",
-          "id": "8ea5e5f85343f2a8e97719a9d9e4d0e3"
-        },
-        {
-          "title": "Google launches Wear OS 7 with Live Updates and a battery life boost",
-          "description": "Wear OS 7 introduces Live Updates for deliveries and sports scores. This update enhances user experience significantly.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/gadgets/950671/wear-os-7-pixel-watches-launch",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/google-wearos-7-launch-live-updates.png?quality=90&strip=all&crop=0%2C3.5645047073983%2C100%2C92.870990585203&w=1200",
-          "published_at": "2026-06-16T18:00:00Z",
-          "key_points": [
-            "Wear OS 7 launched today",
-            "Includes Live Updates feature",
-            "Battery life improvements included"
-          ],
-          "impact": "Wear OS 7 enhances smartwatch functionality.",
-          "id": "21df60475971849e41192ffbad45350d"
-        },
-        {
-          "title": "Destiny 2 Devs Bid Farewell To The Game They Spent A Decade Making",
-          "description": "Bungie developers reflect on their decade-long journey with Destiny 2, highlighting both challenges and rewarding experiences.",
-          "category": "Gaming",
-          "source": "Aftermath.site",
-          "url": "https://aftermath.site/destiny-2-developers-favorite-parts-bungie-ends-support/",
-          "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/06/destiny.jpg",
-          "published_at": "2026-06-16T17:12:14Z",
-          "key_points": [
-            "Developers reflect on decade-long journey",
-            "Challenges faced during development",
-            "Community engagement highlighted"
-          ],
-          "impact": "Bungie's legacy in gaming is significant.",
-          "id": "6d095ce5c939c0813396b3386ca758b1"
-        },
-        {
-          "title": "Weeks After Launching Luna Abyss, Its Entire Development Team At Kwalee Labs Has Been Laid Off",
-          "description": "Kwalee Labs has laid off its entire team shortly after the launch of Luna Abyss. This follows a generally positive reception of the game.",
-          "category": "Gaming",
-          "source": "Game Informer",
-          "url": "https://gameinformer.com/2026/06/16/weeks-after-launching-luna-abyss-its-entire-development-team-at-kwalee-labs-has-been",
-          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/16/23052e3a/LunaAbyss_Screenshot_Boss.jpg.webp",
-          "published_at": "2026-06-16T17:04:57Z",
-          "key_points": [
-            "Entire team laid off post-launch",
-            "Luna Abyss received positive reviews",
-            "Industry challenges highlighted"
-          ],
-          "impact": "Layoffs reflect ongoing industry volatility.",
-          "id": "a427e89e601ceaed66b7042e9a4b4355"
-        },
-        {
-          "title": "Snap unveils $2,195 AR glasses as CEO Evan Spiegel bets on post-smartphone future",
-          "description": "Snap has launched AR glasses aimed at consumers, priced at $2,195. This move signals a shift towards augmented reality experiences.",
-          "category": "Hardware",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/16/snap-unveils-2195-specs-ar-glasses-spiegel-bets-on-post-smartphone.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108322746-1781639526820-108322746-1781636449036-Spiegel1.jpg?v=1781639537&w=1920&h=1080",
-          "published_at": "2026-06-16T16:50:01Z",
-          "key_points": [
-            "Snap launches consumer AR glasses",
-            "Priced at $2,195",
-            "Focus on post-smartphone technology"
-          ],
-          "impact": "Snap aims to lead in AR consumer market.",
-          "id": "ece11b9bd750f4f0dc5671bdf9e44607"
-        },
-        {
-          "title": "The Steam Machine Is Likely in Testers’ Hands, as 2 Fresh SteamOS Benchmarks Leak",
-          "description": "Steam Machine Fremont benchmarks suggest an upcoming Summer launch for Valve's new console. Testers are already using the system.",
-          "category": "Gaming",
-          "source": "Wccftech",
-          "url": "https://wccftech.com/steam-machine-benchmarks/",
-          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/Steam-Machine-CPU-Benchmarks-1920x1071.jpg",
-          "published_at": "2026-06-16T15:06:00Z",
-          "key_points": [
-            "Steam Machine benchmarks leaked",
-            "Imminent Summer launch expected",
-            "Testers already using the console"
-          ],
-          "impact": "Valve's new console is highly anticipated.",
-          "id": "b7c81ede9ee1e7f9df3a554e6338c378"
-        },
-        {
-          "title": "Microsoft denies killing Xbox exclusives — but the trust delta is real",
-          "description": "Microsoft has refuted rumors about abandoning Xbox exclusives. The company emphasizes its commitment to exclusive game development.",
-          "category": "Gaming",
-          "source": "Windows Central",
-          "url": "https://www.windowscentral.com/gaming/xbox/the-rumors-are-false-no-microsoft-isnt-already-looking-to-reverse-course-on-xbox-exclusives",
-          "image": "https://cdn.mos.cms.futurecdn.net/MEbMT9AYtPMXiKeWbNPYem-1167-80.jpg",
-          "published_at": "2026-06-16T14:31:30Z",
-          "key_points": [
-            "Microsoft denies exclusives rumors",
-            "Commitment to Xbox games reaffirmed",
-            "Trust issues among gamers noted"
-          ],
-          "impact": "Microsoft aims to restore gamer confidence.",
-          "id": "dc79f6111d858335de6a5eb014e89c46"
-        },
-        {
-          "title": "Microsoft's new Surface Laptop and Surface Pro upgrade to Snapdragon X2 and start at $1,499",
-          "description": "Microsoft unveils new Surface Laptop and Surface Pro models featuring Snapdragon X2. Prices start at $1,499, showcasing significant upgrades.",
-          "category": "Hardware",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/06/16/microsofts-new-surface-laptop-and-surface-pro-upgrade-to-snapdragon-x2-and-start-at-1499/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/microsoft-surface-laptop-pro-2026.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-16T13:35:00Z",
-          "key_points": [
-            "New Surface models launched",
-            "Upgraded to Snapdragon X2",
-            "Starting price is $1,499"
-          ],
-          "impact": "Microsoft enhances its Surface lineup significantly.",
-          "id": "bcea6a00b92f163f51db2da189656418"
-        },
-        {
-          "title": "Schlage’s UWB-enabled smart lock launches this month",
-          "description": "Schlage's new Sense Pro smart lock will be available starting June 29 for $399. It features advanced unlocking technology.",
-          "category": "Hardware",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/950564/schlage-sense-pro-uwb-aliro-deadlock-price-availability",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ENTRYWAY_BE889_SEP622_DAV_COL_EXT_IU_01-1.jpg?quality=90&strip=all&crop=0%2C11.874755925629%2C100%2C76.250488148741&w=1200",
-          "published_at": "2026-06-16T13:00:00Z",
-          "key_points": [
-            "Schlage Sense Pro launches June 29",
-            "Priced at $399",
-            "Features advanced unlocking technology"
-          ],
-          "impact": "Smart lock technology advances with Schlage.",
-          "id": "d65949ef4bc4846eb07177139c922273"
-        },
-        {
-          "title": "The preening prince of perfection",
-          "description": "Sigvald's new Army of Renown for Warhammer Age of Sigmar allows players to dominate the battlefield with style. This adds depth to gameplay.",
-          "category": "Gaming",
-          "source": "Warhammer Community",
-          "url": "https://www.warhammer-community.com/articles/6edn7i2q/the-preening-prince-of-perfection",
-          "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/aos_hosrules2-jun16-1-feature-ci9sms1dpr.jpg",
-          "published_at": "2026-06-16T12:55:40Z",
-          "key_points": [
-            "New Army of Renown introduced",
-            "Enhances gameplay strategy",
-            "Players can dominate battles"
-          ],
-          "impact": "Warhammer gameplay becomes more dynamic.",
-          "id": "1a9b7d572c46c130590fdf75bbf98047"
-        },
-        {
-          "title": "More Sanitation Workers Are Getting Pricked by Used Needles",
-          "description": "Sanitation workers are increasingly encountering used needles during their duties. This raises concerns about disposal practices among users.",
-          "category": "Policy",
-          "source": "Curbed",
-          "url": "http://www.curbed.com/article/sanitation-workers-stuck-needles-ozempic-glp-1-peptides.html",
-          "image": "https://pyxis.nymag.com/v1/imgs/ab2/503/44285eacdbb8ed81fd9bc144a4e1afffae-dsny-needles.1x.rsocial.w1200.jpg",
-          "published_at": "2026-06-16T11:00:28Z",
-          "key_points": [
-            "Increase in needle pricks reported",
-            "Concerns over disposal practices",
-            "Sanitation workers' safety at risk"
-          ],
-          "impact": "Worker safety issues need urgent attention.",
-          "id": "63767991f68ed7ce3f95f97c01c48fc0"
-        },
-        {
-          "title": "GTA 6 May Shatter All Sales Records with 45+ Million Units Sold on Launch Day, According to Piper Sandler",
-          "description": "Piper Sandler predicts GTA 6 could sell over 45 million copies on launch day, potentially breaking industry sales records.",
-          "category": "Gaming",
-          "source": "Wccftech",
-          "url": "https://wccftech.com/gta-6-45m-day-one-launch-sales/",
-          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/gta-vi-jason-HD-1920x1095.jpeg",
-          "published_at": "2026-06-16T10:30:00Z",
-          "key_points": [
-            "GTA 6 expected to break records",
-            "45 million units predicted sold",
-            "Industry anticipates massive sales"
-          ],
-          "impact": "GTA 6 could redefine gaming sales benchmarks.",
-          "id": "7ab20f42826291883525afcab0323969"
         }
       ]
     }

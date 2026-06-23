@@ -1,245 +1,165 @@
 {
-  "generated_at": "2026-06-23T03:27:29.086453+00:00",
+  "generated_at": "2026-06-23T09:36:36.076847+00:00",
   "articles": [
     {
-      "title": "Blue Reflection Quartet Trailer Drops, Pre-Orders Open",
-      "description": "Koei Tecmo and Gust unveil the second trailer for Blue Reflection Quartet, with digital pre-orders now available.",
+      "title": "Honkai: Nexus Anima ‘Evolution Test’ starts July 9",
+      "description": "miHoYo announces the ‘Evolution Test’ for Honkai: Nexus Anima, launching July 9 on PC, iOS, and Android. No end date has been specified yet.",
       "category": "Gaming",
       "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/blue-reflection-quartet-second-trailer-pre-orders-now-available",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Blue-Reflection-Quartet-PV_06-21-26.jpg",
-      "published_at": "2026-06-22T02:10:22Z",
+      "url": "https://www.gematsu.com/2026/06/honkai-nexus-anima-evolution-test-begins-july-9",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Honkai-Nexus-Anima_2026_06-22-26_001.jpg",
+      "published_at": "2026-06-22T04:24:18Z",
       "key_points": [
-        "Second trailer released",
-        "Digital pre-orders available",
-        "Heroic RPG collection"
+        "Evolution Test starts July 9",
+        "Available on multiple platforms",
+        "No end date announced"
       ],
-      "impact": "Fans can now secure their copies early.",
-      "id": "46425e6fdb794c93cc92ab27da7fba95"
+      "impact": "This test will engage players ahead of launch.",
+      "id": "d4bd8d5232dd4cece5f6ddf689084ae7"
     },
     {
-      "title": "Stop These 5 Mario Kart Habits Now",
-      "description": "Avoid common mistakes in Mario Kart World to improve your racing skills and enhance your gameplay experience.",
+      "title": "Rose & Camellia Collection adds Online Battle Mode",
+      "description": "The online battle mode update for Rose & Camellia Collection launched on June 22, enhancing gameplay with competitive features. Players can now battle online.",
       "category": "Gaming",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/mario-kart-habits-players-should-stop-doing-immediately/",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/07/mario-kart-world-switch-2-launch-game.jpg?w=1600&h=900&fit=crop",
-      "published_at": "2026-06-22T01:00:00Z",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/rose-camellia-collection-online-battle-mode-update-launches-june-22",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Rose-Camelia-Update_06-21-26.jpg",
+      "published_at": "2026-06-22T01:34:19Z",
       "key_points": [
-        "Focus on power-ups",
-        "Collect more coins",
-        "Avoid common pitfalls"
+        "Online mode launched June 22",
+        "Competitive gameplay features",
+        "Publisher: PLAYISM, Developer: Nigoro"
       ],
-      "impact": "Improved strategies can lead to better race outcomes.",
-      "id": "0eb390744031de48ae43a339cd0b533b"
+      "impact": "This update boosts player engagement significantly.",
+      "id": "605974a8c89a46c61ae3d9e7d68879bd"
     },
     {
-      "title": "Prime Day Lego Deals: Save Big on Sets",
-      "description": "Discover amazing discounts on popular Lego sets during Amazon's Prime Day, perfect for fans of all ages.",
+      "title": "This Week’s Japanese Game Releases: Star Fox, Villion: Code",
+      "description": "Star Fox for Switch 2 and Villion: Code for multiple platforms highlight this week's Japanese game releases. Exciting titles are set to launch soon.",
+      "category": "Gaming",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/this-weeks-japanese-game-releases-star-fox-villion-code-more",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Weekly-Japanese-Game-Releases_06-21-26.jpg",
+      "published_at": "2026-06-21T23:59:38Z",
+      "key_points": [
+        "Star Fox for Switch 2",
+        "Villion: Code launches soon",
+        "Multiple platforms supported"
+      ],
+      "impact": "These releases will attract significant player interest.",
+      "id": "1429d1e5d80709ca616e5334b8f232ac"
+    },
+    {
+      "title": "Zelda: Tears Of The Kingdom DLC for 40th Anniversary",
+      "description": "Nintendo announces new DLC for The Legend of Zelda: Tears of the Kingdom, celebrating the franchise's 40th anniversary. Fans can expect exciting new content.",
+      "category": "Gaming",
+      "source": "Screen Rant",
+      "url": "https://screenrant.com/zelda-tears-of-the-kingdom-2026-dlc-confirmed/",
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/link-smiling-totk.jpg?w=1600&h=900&fit=crop",
+      "published_at": "2026-06-21T22:30:19Z",
+      "key_points": [
+        "New DLC announced",
+        "Celebrates 40th anniversary",
+        "Exciting content for fans"
+      ],
+      "impact": "This DLC will enhance the game's legacy.",
+      "id": "2326a9ea4239fc04691b0d905ace52eb"
+    },
+    {
+      "title": "iPhone Air 2 may face hardware downgrade",
+      "description": "Rumors suggest the iPhone Air 2 could undergo a hardware downgrade, potentially jeopardizing Apple's flagship design future. Concerns arise over performance.",
       "category": "Business",
-      "source": "CNET",
-      "url": "https://www.cnet.com/deals/best-amazon-prime-day-lego-deals-26-06-21/",
-      "image": "https://www.cnet.com/a/img/resize/9dabed004f2c650e46cfbcab21e76f009e58574f/hub/2026/06/16/a5173415-32bb-41bc-91f3-1db183cc740f/lego-deals-promo-image.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "published_at": "2026-06-22T00:42:43Z",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/iphone-air-2-one-hardware-downgrade-spell-doom-for-sleek-flagships/",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/iPhone-Air-2-4.jpg",
+      "published_at": "2026-06-21T20:55:00Z",
       "key_points": [
-        "Huge discounts available",
-        "Sets for all interests",
-        "Limited time offers"
+        "Rumored hardware downgrade",
+        "Concerns for flagship design",
+        "Impact on performance expected"
       ],
-      "impact": "Great savings on Lego sets for enthusiasts.",
-      "id": "819e1ad5bfd34de8937c8be256568561"
+      "impact": "This could affect Apple's market position significantly.",
+      "id": "114b3f5b7e84bc3446fb1b8e6fdc73cc"
     },
     {
-      "title": "Submarine Discovers Mystery, Then Vanishes",
-      "description": "The Ran submarine found strange readings under Antarctica's ice shelf before disappearing without a trace.",
+      "title": "Insomniac’s Wolverine actor joins GTA 6 cast",
+      "description": "The voice actor for Sabretooth in Marvel's Wolverine is confirmed to be part of the Grand Theft Auto 6 cast, adding star power to the game.",
+      "category": "Gaming",
+      "source": "MP1st",
+      "url": "https://mp1st.com/news/insomniacs-wolverine-sabretooth-actor-part-gta-6-cast",
+      "image": "https://mp1st.com/wp-content/uploads/2026/06/wolverine-gta-600x338.png",
+      "published_at": "2026-06-21T19:34:01Z",
+      "key_points": [
+        "Wolverine actor joins GTA 6",
+        "Adds star power to cast",
+        "Excitement builds for release"
+      ],
+      "impact": "This casting choice heightens anticipation for GTA 6.",
+      "id": "240559d78296a4cf0751b8560fe5fcd9"
+    },
+    {
+      "title": "Apple’s design focus may shift under Ternus",
+      "description": "New reports indicate that Apple’s incoming CEO John Ternus aims to revive bold design elements reminiscent of earlier products. A significant shift is anticipated.",
+      "category": "Business",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/the-john-ternus-era-at-apple-will-reportedly-revive-apples-focus-on-bold-design-2000774986",
+      "image": "https://gizmodo.com/app/uploads/2026/04/ipod-3rd-generation-1200x675.jpg",
+      "published_at": "2026-06-21T18:47:34Z",
+      "key_points": [
+        "Ternus to revive bold design",
+        "Shift from previous design trends",
+        "Potential for innovative products"
+      ],
+      "impact": "This could redefine Apple's product aesthetics.",
+      "id": "ba72f2fb5c63b9aa4f5b2e9dd817d4ae"
+    },
+    {
+      "title": "AirPods Pro 3 hit record low price",
+      "description": "AirPods Pro 3 are now available for $169, a record low ahead of Prime Day. This price drop offers significant savings for consumers.",
+      "category": "Business",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/21/airpods-pro-3-record-low-169/",
+      "image": "https://images.macrumors.com/t/abAQ4U5Ck5avU2zapaEXVfrJ_x4=/2000x/article-new/2025/09/airpods-pro-3-tips.jpg",
+      "published_at": "2026-06-21T15:32:39Z",
+      "key_points": [
+        "AirPods Pro 3 at $169",
+        "Record low price ahead of Prime Day",
+        "Significant savings for buyers"
+      ],
+      "impact": "This price drop will boost sales significantly.",
+      "id": "9c7d34b915bb33e7ac3fed588cbb24ce"
+    },
+    {
+      "title": "How to Improve Your Grip Strength",
+      "description": "Experts share tips on enhancing grip strength, crucial for gym performance and daily activities. Improving grip can lead to better overall fitness.",
       "category": "Science",
-      "source": "SlashGear",
-      "url": "https://www.slashgear.com/2197172/ran-submarine-dotson-ice-shelf-discovery-disappearance/",
-      "image": "https://www.slashgear.com/img/gallery/a-submarine-found-something-strange-on-the-ocean-floor-then-it-disappeared/l-intro-1781791073.jpg",
-      "published_at": "2026-06-21T22:45:00Z",
+      "source": "GQ Magazine",
+      "url": "https://www.gq.com/story/how-to-improve-your-grip-strength-3",
+      "image": "https://media.gq.com/photos/69443c3cfdbb2ead6d70a72d/16:9/w_1280,c_limit/grip%20strength.jpg",
+      "published_at": "2026-06-21T13:03:32Z",
       "key_points": [
-        "Submarine found strange readings",
-        "Disappeared mysteriously",
-        "Antarctic exploration continues"
+        "Grip strength enhances performance",
+        "Tips from fitness experts",
+        "Important for daily activities"
       ],
-      "impact": "The disappearance raises concerns about safety.",
-      "id": "425ac7bd8c8cf80996e67352044fc9fd"
+      "impact": "Improved grip strength can boost overall fitness.",
+      "id": "6a4a2a781c9c6e3eb581348cf9e751ba"
     },
     {
-      "title": "Lifetime 100TB Encrypted Cloud Storage Deal",
-      "description": "Secure a lifetime subscription for 100TB of encrypted cloud storage during Deal Days.",
-      "category": "Business",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/june-21-internxt-cloud-storage-lifetime-subscription-100tb",
-      "image": "https://helios-i.mashable.com/imagery/articles/00XFQv5gZnGhqKcMkAe7l2d/hero-image.fill.size_1200x675.v1781719836.jpg",
-      "published_at": "2026-06-21T22:00:00Z",
-      "key_points": [
-        "100TB storage for life",
-        "Encrypted for security",
-        "One-time payment only"
-      ],
-      "impact": "Massive storage solution for users.",
-      "id": "89bd14a305a1f8cb51301f88cc4e2235"
-    },
-    {
-      "title": "Xbox Co-Founder Voices Supply Chain Concerns",
-      "description": "Laura Fryer expresses worries about Microsoft's ability to manage long-term supply chain issues affecting Xbox.",
-      "category": "Business",
+      "title": "Exploring Blue Prince’s Spiral of Stars",
+      "description": "A deep dive into the narrative of Blue Prince, exploring its complex themes and character arcs. Spoilers included for a comprehensive understanding.",
+      "category": "Gaming",
       "source": "Kotaku",
-      "url": "https://kotaku.com/founding-xbox-member-says-her-early-skepticisms-are-coming-true-25-years-later-2000708811",
-      "image": "https://kotaku.com/app/uploads/2026/06/origxbox.jpg",
-      "published_at": "2026-06-21T20:03:37Z",
+      "url": "https://kotaku.com/i-am-looking-for-my-father-in-blue-princes-spiral-of-stars-2000708221",
+      "image": "https://kotaku.com/app/uploads/2026/06/1000008368-1-1200x675.jpg",
+      "published_at": "2026-06-21T13:00:13Z",
       "key_points": [
-        "Concerns over supply chain",
-        "Long-term discipline needed",
-        "Xbox's future at stake"
+        "In-depth narrative exploration",
+        "Spoilers included",
+        "Complex character arcs discussed"
       ],
-      "impact": "Supply chain issues could hinder Xbox growth.",
-      "id": "3dacecaa9f24f62da770919e071dd61a"
-    },
-    {
-      "title": "Call of Duty Ports Raise Price Concerns",
-      "description": "PlayStation fans worry after Microsoft lists Call of Duty: Black Ops 1 and 2 at $40 without DLC.",
-      "category": "Gaming",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/call-of-duty-black-ops-1-and-2-listings-have-fans-fearing-pricey-playstation-ports",
-      "image": "https://assets-prd.ignimgs.com/2026/06/21/call-of-duty-black-ops-1782070244037.png?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-21T20:01:39Z",
-      "key_points": [
-        "Price set at $40",
-        "No DLC included",
-        "Fans express concerns"
-      ],
-      "impact": "Pricing may affect player interest.",
-      "id": "ef28b8a0e13233fc3b72b1d9ee81c563"
-    },
-    {
-      "title": "Samsung Galaxy Z Fold 8 Launch Confirmed",
-      "description": "Samsung's Galaxy Z Fold 8 and other devices receive regulatory approval, confirming their upcoming launch.",
-      "category": "Hardware",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/jaymcgregor/2026/06/21/samsung-galaxy-z-fold-8-release-date-fcc-specifications-leak/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/69c3e4a6eaa9bb67caac1f5d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published_at": "2026-06-21T19:41:49Z",
-      "key_points": [
-        "Galaxy Z Fold 8 confirmed",
-        "Launch date approaching",
-        "Regulatory approval received"
-      ],
-      "impact": "Excitement builds for Samsung's new devices.",
-      "id": "4c463aee18b72bcf9cf3d9457d8b5a53"
-    },
-    {
-      "title": "Super Yooka-Laylee Kart Preview Released",
-      "description": "Ex-Rare developers aim to revive Diddy Kong Racing spirit in Super Yooka-Laylee Kart with customizable race types.",
-      "category": "Gaming",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/super-yooka-laylee-kart-preview-ex-rare-devs-take-aim-at-reviving-the-spirit-of-diddy-kong-racing",
-      "image": "https://assets-prd.ignimgs.com/2026/06/19/sylk-screenshot-002-1781831168852.png?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-21T19:00:00Z",
-      "key_points": [
-        "Custom race types available",
-        "Inspired by Diddy Kong Racing",
-        "Developed by ex-Rare team"
-      ],
-      "impact": "A nostalgic kart racer for fans.",
-      "id": "45f4eae43760e8e128241ffef5950e85"
-    },
-    {
-      "title": "Clean Up Your Pixel Home Screen",
-      "description": "A new Android 17 feature allows Pixel users to hide app names on their home screens for a cleaner look.",
-      "category": "Software",
-      "source": "Android Central",
-      "url": "https://www.androidcentral.com/apps-software/android-os/i-made-my-pixel-home-screen-cleaner-android-17-app-names",
-      "image": "https://cdn.mos.cms.futurecdn.net/AJDDLaAuGv8Qw82WfaV8xZ-2560-80.jpg",
-      "published_at": "2026-06-21T18:44:38Z",
-      "key_points": [
-        "Hide app names easily",
-        "Cleaner home screen",
-        "New Android feature"
-      ],
-      "impact": "Enhances user interface customization.",
-      "id": "a934ef16695ec340e9610e4aed3f0a9a"
-    },
-    {
-      "title": "Ubisoft Co-Founder Dies in Plane Crash",
-      "description": "Claude Guillemot, co-founder of Ubisoft, tragically passed away at 69 in a plane crash.",
-      "category": "Geopolitics",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-1246763045.jpg?w=1024",
-      "published_at": "2026-06-21T18:34:31Z",
-      "key_points": [
-        "Claude Guillemot dies",
-        "Co-founder of Ubisoft",
-        "Tragic plane crash"
-      ],
-      "impact": "The gaming industry mourns a pioneer.",
-      "id": "5522d44a8046e0afb5bc4b7acc6a8b35"
-    },
-    {
-      "title": "Copyright Rule Could Revive Ultima Series",
-      "description": "A 35-year-old copyright rule may allow Ultima's creator to develop a new game without EA's interference.",
-      "category": "Business",
-      "source": "TechSpot",
-      "url": "https://www.techspot.com/news/112843-35-year-old-copyright-rule-could-ultima-creator.html",
-      "image": "https://www.techspot.com/images2/news/bigimage/2026/06/2026-06-21-image-2.jpg",
-      "published_at": "2026-06-21T15:22:58Z",
-      "key_points": [
-        "Copyright rule may help",
-        "Ultima creator's new game",
-        "EA's influence questioned"
-      ],
-      "impact": "Potential revival of a classic franchise.",
-      "id": "eb430412e15ec4a0d2278e2e2ebbe179"
-    },
-    {
-      "title": "Top 10 Walmart Gadgets Under $50",
-      "description": "Explore high-quality tech gadgets available for under $50 at Walmart, including cameras and speakers.",
-      "category": "Business",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2193983/walmart-gadgets-under-50-actually-worth-buying/",
-      "image": "https://www.bgr.com/img/gallery/10-walmart-gadgets-under-50-that-are-actually-worth-buying/l-intro-1781125419.jpg",
-      "published_at": "2026-06-21T14:02:00Z",
-      "key_points": [
-        "Affordable gadgets listed",
-        "High quality options",
-        "Great for tech enthusiasts"
-      ],
-      "impact": "Budget-friendly tech finds for shoppers.",
-      "id": "ab8f33dd59882075cdc95e9678a40e5b"
-    },
-    {
-      "title": "New Valorant Map Summit Introduced",
-      "description": "Valorant's new map, Summit, features innovative mechanics like dropping walls that block routes during gameplay.",
-      "category": "Gaming",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/mikestubbs/2026/06/21/new-valorant-map-summit-features-dropping-walls-that-block-routes/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a37eafdf5525b6f7382d4f1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published_at": "2026-06-21T13:49:07Z",
-      "key_points": [
-        "New map Summit revealed",
-        "Features dropping walls",
-        "Innovative gameplay mechanics"
-      ],
-      "impact": "Exciting changes for Valorant players.",
-      "id": "aaaba2504a9eb1ae999870e93df7be57"
-    },
-    {
-      "title": "Roku TVs to Get Major Home Screen Update",
-      "description": "Roku TVs will soon feature standardized home screen interfaces, replacing previous custom designs from manufacturers.",
-      "category": "Business",
-      "source": "Cord Cutters News, LLC",
-      "url": "https://cordcuttersnews.com/a-big-change-is-coming-to-roku-tvs/",
-      "image": "https://cordcuttersnews.com/wp-content/uploads/2026/06/image-2026-06-21T091237.234.jpg",
-      "published_at": "2026-06-21T13:14:40Z",
-      "key_points": [
-        "Standardized interfaces coming",
-        "Custom designs replaced",
-        "Major update for Roku TVs"
-      ],
-      "impact": "Improves user experience across devices.",
-      "id": "3fc9b7c609515eba923a6c3d8ba7be3a"
+      "impact": "This analysis enriches the gaming experience.",
+      "id": "ef73e833388f1f9a30d0403a0c92b8d6"
     }
   ]
 }
