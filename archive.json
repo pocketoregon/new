@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-23T20:02:17.945631+00:00",
+      "fetched_at": "2026-06-23T20:02:17.945631+00:00",
+      "label": "Jun 23, 2026 — 08:02 PM UTC",
+      "articles": [
+        {
+          "title": "Sega Updates Sales Figures for Key Titles",
+          "description": "Sega's 2026 management meeting revealed updated sales for Metaphor: ReFantazio, Persona 3 Reload, and more. The presentation highlights the performance of current and upcoming projects.",
+          "category": "Gaming",
+          "source": "Personacentral.com",
+          "url": "https://personacentral.com/atlus-sales-2026/",
+          "image": "https://personacentral.com/wp-content/uploads/2026/06/p5r-sales-update.jpg",
+          "published_at": "2026-06-22T17:20:58Z",
+          "key_points": [
+            "Sales updates shared at meeting",
+            "Focus on major titles",
+            "Future projects discussed"
+          ],
+          "impact": "Sega's sales insights could influence future game development.",
+          "id": "eea29725de270b556f60deefc38abd98"
+        },
+        {
+          "title": "Apple Launches iOS 27 Beta 2 for Developers",
+          "description": "Apple has released the second beta of iOS 27 for developers, continuing its summer testing cycle. This update follows the first beta released after WWDC 2026.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/22/ios-27-beta-2-now-available-as-apple-tests-major-siri-ai-upgrade/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-b2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-22T17:08:00Z",
+          "key_points": [
+            "Second beta now available",
+            "Focus on Siri AI upgrade",
+            "Continues summer testing cycle"
+          ],
+          "impact": "Developers can now test new features in iOS 27.",
+          "id": "71abc353a018d5801e1ac383ccdfbae3"
+        },
+        {
+          "title": "Valve Enables Custom Steam Machines with SteamOS",
+          "description": "Valve is expanding SteamOS compatibility to more desktop hardware, allowing users to build their own Steam Machines. This includes support for Nvidia graphics cards.",
+          "category": "Gaming",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268581_Steam_Machine_SHollister_0016.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-22T17:05:00Z",
+          "key_points": [
+            "SteamOS supports more hardware",
+            "Custom Steam Machines possible",
+            "Collaboration with Nvidia"
+          ],
+          "impact": "Users can now create personalized gaming setups.",
+          "id": "8932d077c3abeca52c63867d7b37fbcf"
+        },
+        {
+          "title": "GTA 6 Price Leak Turns Out to Be False",
+          "description": "A rumored high price for GTA 6 caused fan outrage, but it has been debunked. The leak was based on incorrect information from a European retailer.",
+          "category": "Gaming",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/paultassi/2026/06/22/fans-recoil-at-gta-6-price-leak-which-turns-out-to-be-false-for-now/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6957ec0ecc8738a11f4cac0a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-22T16:30:56Z",
+          "key_points": [
+            "GTA 6 preorder rumors sparked outrage",
+            "Price leak debunked",
+            "Fans relieved by false alarm"
+          ],
+          "impact": "Fans can breathe easy about GTA 6 pricing.",
+          "id": "6b8aedfb01fe3a4764868bd0314595e1"
+        },
+        {
+          "title": "Ford Thunderbird's Infamous Oil Filter Location",
+          "description": "The Ford Thunderbird Super Coupe features a notoriously difficult oil filter placement, causing frustration among mechanics. This design choice has drawn criticism over the years.",
+          "category": "Business",
+          "source": "Jalopnik",
+          "url": "https://www.jalopnik.com/2195772/worst-oil-filter-location/",
+          "image": "https://www.jalopnik.com/img/gallery/this-may-be-the-most-infuriatingly-located-oil-filter-in-automotive-history/l-intro-1781638574.jpg",
+          "published_at": "2026-06-22T16:25:00Z",
+          "key_points": [
+            "Thunderbird's oil filter placement criticized",
+            "Mechanics face design challenges",
+            "Historical automotive design flaws"
+          ],
+          "impact": "Poor design impacts maintenance efficiency.",
+          "id": "c52a6c7b6fa4e3fcbb060e97267fd9d0"
+        },
+        {
+          "title": "Nintendo Switch 2 Deal Ahead of Price Hike",
+          "description": "Woot is offering the Nintendo Switch 2 for $399, available to new customers. This deal comes before a scheduled price increase in September.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/nintendo-switch-2-deal-woot-price-hike",
+          "image": "https://assets-prd.ignimgs.com/2026/05/08/best-switch-2-deal-before-september-price-hike-ign-2026-1778239120054.png?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-22T15:59:03Z",
+          "key_points": [
+            "Nintendo Switch 2 discounted",
+            "Limited-time offer from Woot",
+            "Price hike coming in September"
+          ],
+          "impact": "Consumers can save before the price increase.",
+          "id": "5cf534dad6cc04ff3d79e8f442a5fa1e"
+        },
+        {
+          "title": "Google's Pixel to Feature 'Audio Memory'",
+          "description": "Google is developing 'Audio Memory' for Pixel phones, which will track important conversations throughout the day. This feature aims to enhance user experience.",
+          "category": "Software",
+          "source": "9to5google.com",
+          "url": "http://9to5google.com/2026/06/22/google-pixel-audio-memory/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Google-G-logo-on-Pixel-10-Pro-XL.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-22T15:54:00Z",
+          "key_points": [
+            "New feature for Pixel phones",
+            "Tracks important conversations",
+            "Enhances daily user experience"
+          ],
+          "impact": "Audio Memory could revolutionize note-taking.",
+          "id": "ab8832ef90cf1ddf8e5de28111fe3b99"
+        },
+        {
+          "title": "God of War Laufey's Long-Term Development Plans",
+          "description": "God of War Laufey has been part of Santa Monica Studio's plans since 2018, according to an interview with voice actor Deborah Ann Woll. The character's inclusion was intentional from the start.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/god-of-war-laufey-part-of-ps5-devs-plans-from-the-start-pitched-in-2018",
+          "image": "https://images.pushsquare.com/b9dfc054e90d5/large.jpg",
+          "published_at": "2026-06-22T13:45:00Z",
+          "key_points": [
+            "Laufey planned since 2018",
+            "Intentional character development",
+            "Insights from voice actor"
+          ],
+          "impact": "Long-term planning enhances narrative depth.",
+          "id": "83204f30846ef08034eef03b8f2d53c9"
+        },
+        {
+          "title": "Google Photos to Introduce AI Editing Tool",
+          "description": "Google Photos is reportedly working on a new AI-powered editing feature called 'Moods' that will transform how users edit their photos. Early signs were found in the latest app version.",
+          "category": "Software",
+          "source": "Android Authority",
+          "url": "https://www.androidauthority.com/google-photos-moods-ai-feature-apk-teardown-3679813/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Google-Photos-app-icon-on-the-Pixel-10a.jpg",
+          "published_at": "2026-06-22T12:50:11Z",
+          "key_points": [
+            "New AI editing tool in development",
+            "Feature called 'Moods'",
+            "Enhances photo editing capabilities"
+          ],
+          "impact": "AI could redefine photo editing experiences.",
+          "id": "7fe76f134777b55227be8ec11acc7be1"
+        },
+        {
+          "title": "Halo: Campaign Evolved Sparks Fan Debate",
+          "description": "A new video of Halo: Campaign Evolved's main menu has ignited discussions among fans regarding the level of detail in the Halo ring. Opinions vary widely on the design choices.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/halo-campaign-evolved-main-menu-video-sparks-fan-debate-over-ring-detail",
+          "image": "https://assets-prd.ignimgs.com/2026/06/22/halo-1782131688655.png?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-22T12:48:41Z",
+          "key_points": [
+            "Halo ring detail sparks debate",
+            "Fans divided on design choices",
+            "Main menu video released"
+          ],
+          "impact": "Fan feedback may influence future designs.",
+          "id": "aac3107607b94c520d88a8c89430e5b4"
+        },
+        {
+          "title": "Kingdom Hearts Collection Boxart Updated",
+          "description": "Square Enix has replaced the boxart for Kingdom Hearts Collection [1-3] following accusations of AI usage in the original design. The new artwork is gradually appearing at retailers.",
+          "category": "Gaming",
+          "source": "Nintendoeverything.com",
+          "url": "https://nintendoeverything.com/kingdom-hearts-collection-1-3-nintendo-switch-2-boxart-replaced-following-ai-usage-accusations/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Kingdom-Hearts-boxart-replaced.jpg",
+          "published_at": "2026-06-22T12:35:23Z",
+          "key_points": [
+            "Boxart updated after AI accusations",
+            "New design appearing at retailers",
+            "Square Enix responds to concerns"
+          ],
+          "impact": "Square Enix aims to maintain brand integrity.",
+          "id": "1cd725841fbe8e6b813ba317169edab9"
+        },
+        {
+          "title": "Protecting Seniors from Scam Texts",
+          "description": "Learn effective strategies to shield elderly parents from scam texts, including using iPhone Screen Time limits and carrier tools. These measures can prevent financial exploitation.",
+          "category": "Security",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/science/stop-scam-texts-targeting-aging-parents",
+          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/Scam-Texts-Photo-1.jpeg",
+          "published_at": "2026-06-22T12:24:14Z",
+          "key_points": [
+            "Strategies to prevent scam texts",
+            "Use Screen Time limits",
+            "Protect elderly from financial harm"
+          ],
+          "impact": "Effective measures can safeguard vulnerable seniors.",
+          "id": "df9e519bc7f3a720ef6f49750c4feb7a"
+        },
+        {
+          "title": "Apple Watch Series 11 Deals for Prime Day",
+          "description": "Apple Watch Series 11 and Ultra 3 are available at new low prices during early Prime Day deals. Discounts start from $199, following the unveiling of watchOS 27.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/22/apple-watch-best-prime-day-deals/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/apple-watch-ultra-3-wayfinder-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-22T12:18:00Z",
+          "key_points": [
+            "Apple Watch discounts for Prime Day",
+            "Prices start at $199",
+            "New features with watchOS 27"
+          ],
+          "impact": "Consumers can take advantage of significant savings.",
+          "id": "56c0247a27c561fe710ded9d70346592"
+        },
+        {
+          "title": "Unreal Engine Veteran Departs Epic Games",
+          "description": "Sjoerd De Jong, a veteran of Unreal Engine, has left Epic Games, citing industry changes. He emphasizes the need to adapt to a pivotal moment in gaming.",
+          "category": "Business",
+          "source": "Video Games Chronicle",
+          "url": "https://www.videogameschronicle.com/news/this-era-has-come-to-a-close-unreal-engine-veteran-leaves-epic-games-says-the-industry-is-at-a-pivotal-point/",
+          "image": "https://www.videogameschronicle.com/files/2023/10/unreal-engine.jpg",
+          "published_at": "2026-06-22T12:15:55Z",
+          "key_points": [
+            "Unreal Engine veteran departs",
+            "Industry at a pivotal point",
+            "Need for adaptation emphasized"
+          ],
+          "impact": "His departure signals significant industry shifts.",
+          "id": "8bf1551e4091f9cfc67e039e4095b69b"
+        },
+        {
+          "title": "Hyrox: The New Dating Scene",
+          "description": "Hyrox is emerging as a trendy venue for blind dates, combining fitness and social interaction. This trend emphasizes lifestyle compatibility among participants.",
+          "category": "Business",
+          "source": "Business Insider",
+          "url": "https://www.businessinsider.com/i-went-on-a-blind-date-at-hyrox-fun-sweaty-2026-6#article",
+          "image": "https://i.insider.com/6a34886c0e60dfb3f373f785?width=1200&format=jpeg",
+          "published_at": "2026-06-22T12:13:01Z",
+          "key_points": [
+            "Hyrox as a dating venue",
+            "Focus on lifestyle compatibility",
+            "Fitness meets social interaction"
+          ],
+          "impact": "This trend reshapes modern dating experiences.",
+          "id": "4f90924d203db4986587b1549e00ca96"
+        }
+      ]
+    },
+    {
       "id": "2026-06-23T17:16:42.580139+00:00",
       "fetched_at": "2026-06-23T17:16:42.580139+00:00",
       "label": "Jun 23, 2026 — 05:17 PM UTC",
@@ -6472,253 +6719,6 @@
           ],
           "impact": "This appeals to both musicians and commuters.",
           "id": "452aa907a368723f12b2c0404a039004"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-18T15:20:37.707470+00:00",
-      "fetched_at": "2026-06-18T15:20:37.707470+00:00",
-      "label": "Jun 18, 2026 — 03:21 PM UTC",
-      "articles": [
-        {
-          "title": "Pokémon Champions Launches On Mobile Today",
-          "description": "Pokémon Champions debuts on mobile today, with a new update for the Switch version. The update enhances gameplay and expands the roster.",
-          "category": "Gaming",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/06/pokemon-champions-launches-on-mobile-today-alongside-a-new-game-update",
-          "image": "https://images.nintendolife.com/eb91d0d144ea7/large.jpg",
-          "published_at": "2026-06-17T04:30:00Z",
-          "key_points": [
-            "Mobile launch today",
-            "Switch update released",
-            "Expanded roster available"
-          ],
-          "impact": "This launch boosts Pokémon's mobile presence.",
-          "id": "3e56a64503059dfc089f5b120797ab0b"
-        },
-        {
-          "title": "Grok Imagine Video 1.5 Released",
-          "description": "Grok Imagine Video 1.5 is now available, offering improved quality and speed on the Imagine API and mobile apps. This update enhances image-to-video capabilities.",
-          "category": "Software",
-          "source": "X.ai",
-          "url": "https://x.ai/news/grok-imagine-video-1-5",
-          "image": "https://x.ai/images/news/grok-imagine-video-1-5-og.png",
-          "published_at": "2026-06-17T02:55:32Z",
-          "key_points": [
-            "Improved video quality",
-            "Faster processing speeds",
-            "Available on all platforms"
-          ],
-          "impact": "This update enhances user experience significantly.",
-          "id": "7fffe5c660d37b5fabe29cd88dcc6a0d"
-        },
-        {
-          "title": "Housemarque Teases Smaller PS5 Game",
-          "description": "Housemarque hints its next PS5 game may be smaller than Saros, exploring new opportunities post-acquisition. The studio embraces its PlayStation identity.",
-          "category": "Gaming",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/06/housemarque-hints-its-next-ps5-game-could-be-smaller-than-saros",
-          "image": "https://images.pushsquare.com/865e7c87d25c9/large.jpg",
-          "published_at": "2026-06-16T23:30:00Z",
-          "key_points": [
-            "Next game may be smaller",
-            "Exploring new opportunities",
-            "Embracing PlayStation identity"
-          ],
-          "impact": "This could redefine Housemarque's game development strategy.",
-          "id": "5fe77cd137cb808c7c4e6fdfc25bc614"
-        },
-        {
-          "title": "Apple's Hide My Email Feature Changes",
-          "description": "Apple plans to modify its Hide My Email feature, potentially reducing its effectiveness for users. The change involves moving generated email addresses to a new domain.",
-          "category": "Policy",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
-          "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-477672484.jpg?resize=1200,800",
-          "published_at": "2026-06-16T22:09:32Z",
-          "key_points": [
-            "Privacy feature changes coming",
-            "New domain for email addresses",
-            "Potential effectiveness reduction"
-          ],
-          "impact": "This may compromise user privacy significantly.",
-          "id": "7ec29f4cdedcf6619c63eb632075ca8b"
-        },
-        {
-          "title": "Trump Phone Revealed as HTC Reskin",
-          "description": "The Trump Mobile T1 is confirmed as a reskinned HTC U24, built in China, contradicting 'Made in America' claims. iFixit's teardown reveals the truth.",
-          "category": "Business",
-          "source": "TechSpot",
-          "url": "https://www.techspot.com/news/112785-made-america-trump-phone-reskinned-htc-u24-built.html",
-          "image": "https://www.techspot.com/images2/news/bigimage/2026/06/2026-06-16-image-34.jpg",
-          "published_at": "2026-06-16T21:37:43Z",
-          "key_points": [
-            "Trump phone is HTC U24",
-            "Built in China",
-            "Contradicts 'Made in America' claims"
-          ],
-          "impact": "This revelation undermines the product's marketing.",
-          "id": "aec2b34b9e7ccc6b974939061f74f1c8"
-        },
-        {
-          "title": "Rumors of Bungie Layoffs Surface",
-          "description": "Reports suggest PlayStation may lay off at least 50% of Bungie staff this summer, raising concerns about the studio's future. The news comes from a French journalist.",
-          "category": "Business",
-          "source": "Vgchartz.com",
-          "url": "https://www.vgchartz.com/article/468232/rumor-playstation-to-lay-off-at-least-50-of-bungie-staff-this-summer/",
-          "image": "https://www.vgchartz.com/articles_media/images/rumor-bungie-to-lay-off-at-least-50-of-staff-this-summer-028649_condensed.jpg",
-          "published_at": "2026-06-16T21:24:47Z",
-          "key_points": [
-            "50% Bungie layoffs rumored",
-            "Concerns about studio future",
-            "Reported by French journalist"
-          ],
-          "impact": "This could significantly impact Bungie's operations.",
-          "id": "a9d6880d5985e746ed93df5712dda332"
-        },
-        {
-          "title": "Luna Abyss Developers Laid Off Post-Launch",
-          "description": "Kwalee Labs has laid off its entire team, including the CEO, just weeks after launching Luna Abyss. The decision raises eyebrows in the gaming community.",
-          "category": "Gaming",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/luna-abyss-developers-laid-off-just-weeks-after-launch/",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Luna-Abyss.jpg",
-          "published_at": "2026-06-16T20:55:56Z",
-          "key_points": [
-            "Entire team laid off",
-            "CEO also terminated",
-            "Weeks after game launch"
-          ],
-          "impact": "This raises concerns about industry stability.",
-          "id": "cac978ca2a62e96293fa14d608b5b457"
-        },
-        {
-          "title": "Final Fantasy VII Revelation Title Explained",
-          "description": "The title for the final entry in the Final Fantasy VII Remake trilogy has been revealed as 'Revelation', surprising fans. Only a few knew before the announcement.",
-          "category": "Gaming",
-          "source": "Game Informer",
-          "url": "https://gameinformer.com/sgf-2026/2026/06/16/why-its-called-final-fantasy-vii-revelation-instead-of-resolve-or-other",
-          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/16/88c192a6/cloud.jpg.webp",
-          "published_at": "2026-06-16T20:45:09Z",
-          "key_points": [
-            "Final title revealed",
-            "Surprised fan community",
-            "Few knew before announcement"
-          ],
-          "impact": "This title change excites the fanbase.",
-          "id": "89f34522a4c5c2845197941e06a6c6e6"
-        },
-        {
-          "title": "Epic Games Admits AI Use in Fortnite",
-          "description": "Epic Games acknowledges its use of generative AI in Fortnite after player criticism. A video showcases the AI tools used in game development.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/epic-games-generative-ai-fortnite-mistakes-2000707180",
-          "image": "https://kotaku.com/app/uploads/2026/06/A-Look-At-Epics-Art-Concepting-Process-2-40-screenshot-1200x675.jpg",
-          "published_at": "2026-06-16T20:36:29Z",
-          "key_points": [
-            "Generative AI use confirmed",
-            "Video showcases AI tools",
-            "Response to player criticism"
-          ],
-          "impact": "This transparency may rebuild player trust.",
-          "id": "dbebc6e4027428e9458c54ec5e031ea1"
-        },
-        {
-          "title": "Snap Launches AR Glasses Amid Stock Drop",
-          "description": "Snap Inc. unveils its new AR glasses, 'Specs', priced at $2,195, amidst skepticism from retailers. The high price raises concerns about market acceptance.",
-          "category": "Business",
-          "source": "Stocktwits.com",
-          "url": "https://stocktwits.com/news-articles/markets/equity/snap-stock-drops-snap-launches-ar-smart-glasses-but-retail-is-skeptical-on-over-2-000-price-tag/cZKW6FjR74V",
-          "image": "https://news.stocktwits-cdn.com/large_Snap_jpg_11a44b44a0.webp",
-          "published_at": "2026-06-16T19:49:00Z",
-          "key_points": [
-            "AR glasses launched",
-            "Priced at $2,195",
-            "Retail skepticism remains"
-          ],
-          "impact": "High price may hinder sales success.",
-          "id": "8839522c9c2ecd842d55a51087edaf22"
-        },
-        {
-          "title": "Steam Workshop Malware Threat",
-          "description": "Malware is being spread through Steam Workshop, with infected wallpaper packages posing risks to users. This exploitation raises security concerns.",
-          "category": "Security",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/",
-          "image": "https://www.bleepingcomputer.com/content/hl-images/2025/09/19/Steam-red.jpg",
-          "published_at": "2026-06-16T18:27:55Z",
-          "key_points": [
-            "Malware spread via wallpapers",
-            "Steam Workshop exploited",
-            "User security at risk"
-          ],
-          "impact": "This poses a significant threat to users.",
-          "id": "0a7be160d4a2f962d738419999a97aa5"
-        },
-        {
-          "title": "New Co-Op Dark Fantasy RPG Announced",
-          "description": "Mistfall Hunter combines Soulslike combat with co-op RPG elements, offering an engaging experience reminiscent of Elden Ring. Players face challenging encounters and loot collection.",
-          "category": "Gaming",
-          "source": "80.lv",
-          "url": "https://80.lv/articles/this-new-co-op-dark-fantasy-rpg-is-like-elden-ring-meets-arc-raiders",
-          "image": "https://cdn.80.lv/api/upload/meta/48821/images/6a318c956e0e4/contain_1200x630.jpg",
-          "published_at": "2026-06-16T17:53:30Z",
-          "key_points": [
-            "Co-op RPG gameplay",
-            "Soulslike combat mechanics",
-            "Epic adventure awaits"
-          ],
-          "impact": "This could attract fans of the genre.",
-          "id": "b57b18550ad571a42d347b015c8c8bb0"
-        },
-        {
-          "title": "Siri AI Hints at iPhone 18 Pro Changes",
-          "description": "Siri AI in iOS 27 beta hints at design changes for the upcoming iPhone 18 Pro. The revelation has sparked interest among Apple enthusiasts.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/16/siri-ai-hints-at-new-iphone-18-pro-design-change/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai-27-dark.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-16T17:32:00Z",
-          "key_points": [
-            "Siri hints at design change",
-            "iPhone 18 Pro rumors",
-            "Available in iOS 27 beta"
-          ],
-          "impact": "This could influence consumer expectations.",
-          "id": "7092c0198f72108bb80cf5d728038721"
-        },
-        {
-          "title": "Apple's Future iPhones to Use 1.4nm Chips",
-          "description": "Apple plans to use 1.4-nanometer chips in its 2028 iPhone models, transitioning from 2-nanometer technology. This advancement promises improved performance.",
-          "category": "Hardware",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/16/2028-iphones-a22-pro-chips/",
-          "image": "https://images.macrumors.com/t/ERXbALqGfy0lkvWipEq15WE1xic=/1600x/article-new/2023/11/apple-silicon-1-feature.jpg",
-          "published_at": "2026-06-16T17:03:42Z",
-          "key_points": [
-            "1.4nm chips for 2028 iPhones",
-            "Transition from 2nm technology",
-            "Improved performance expected"
-          ],
-          "impact": "This advancement could enhance device capabilities.",
-          "id": "2b414d42a660a2d241caebaae8d565f8"
-        },
-        {
-          "title": "Halo Campaign Evolved Supports PS5 Pro",
-          "description": "Halo: Campaign Evolved is now fully optimized for PS5 Pro, as Microsoft invests heavily in rival console support. This move surprises many in the gaming community.",
-          "category": "Gaming",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/06/halo-campaign-evolved-goes-all-in-on-ps5-pro-support-as-xbox-bets-big-on-rival-console",
-          "image": "https://images.pushsquare.com/b74f97990bfa4/large.jpg",
-          "published_at": "2026-06-16T17:00:00Z",
-          "key_points": [
-            "Halo supports PS5 Pro",
-            "Microsoft invests in rival console",
-            "Surprising gaming community"
-          ],
-          "impact": "This could shift competitive dynamics in gaming.",
-          "id": "f3545f2bc4871c045202f2aee278c025"
         }
       ]
     }
