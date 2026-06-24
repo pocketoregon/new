@@ -5,35 +5,143 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2026 17:03:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 19:44:34 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>iOS 27 Beta 2 Adds Inline Replies to RCS Chats</title>
-      <description>Apple's iOS 27 Beta 2 introduces inline replies for RCS chats with Android users, enhancing messaging functionality. Users can now reply directly to specific messages.</description>
-      <link>https://www.macrumors.com/2026/06/22/ios-27-beta-2-inline-replies-rcs/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/06/22/ios-27-beta-2-inline-replies-rcs/</guid>
-      <pubDate>2026-06-22T19:06:13Z</pubDate>
+      <title>Affordable Tech Finds Under $25 for Prime Day</title>
+      <description>Discover budget-friendly tech accessories for Prime Day. These picks combine quality and affordability, perfect for savvy shoppers.</description>
+      <link>https://www.theverge.com/gadgets/951852/prime-day-deals-cheap-stuff-under-25-sale</link>
+      <guid isPermaLink="true">https://www.theverge.com/gadgets/951852/prime-day-deals-cheap-stuff-under-25-sale</guid>
+      <pubDate>2026-06-23T19:00:00Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.theverge.com/gadgets/951852/prime-day-deals-cheap-stuff-under-25-sale">The Verge</source>
+    </item>
+    <item>
+      <title>Exciting Features of the Upcoming iPhone 18 Pro</title>
+      <description>The iPhone 18 Pro is generating buzz with three rumored features that have tech enthusiasts excited ahead of its release.</description>
+      <link>https://9to5mac.com/2026/06/23/iphone-18-pro-three-new-features-that-already-have-me-excited/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/23/iphone-18-pro-three-new-features-that-already-have-me-excited/</guid>
+      <pubDate>2026-06-23T18:45:00Z</pubDate>
       <category>Software</category>
-      <source url="https://www.macrumors.com/2026/06/22/ios-27-beta-2-inline-replies-rcs/">MacRumors</source>
+      <source url="https://9to5mac.com/2026/06/23/iphone-18-pro-three-new-features-that-already-have-me-excited/">9to5Mac</source>
     </item>
     <item>
-      <title>The Hammerhead Karoo Hits Best Price of the Year</title>
-      <description>The Hammerhead Karoo cycling computer is now available at its lowest price this year during Amazon Prime Day. It features an impressive touchscreen for navigation.</description>
-      <link>https://www.cyclingnews.com/cycling-tech-components/a-smartphone-like-user-experience-the-hammerhead-karoo-has-just-hit-its-best-price-of-the-year-in-this-amazon-prime-day-deal/</link>
-      <guid isPermaLink="true">https://www.cyclingnews.com/cycling-tech-components/a-smartphone-like-user-experience-the-hammerhead-karoo-has-just-hit-its-best-price-of-the-year-in-this-amazon-prime-day-deal/</guid>
-      <pubDate>2026-06-22T16:56:10Z</pubDate>
-      <category>Hardware</category>
-      <source url="https://www.cyclingnews.com/cycling-tech-components/a-smartphone-like-user-experience-the-hammerhead-karoo-has-just-hit-its-best-price-of-the-year-in-this-amazon-prime-day-deal/">Cyclingnews.com</source>
+      <title>Prime Day 2026: Best Lego Deals Revealed</title>
+      <description>Amazon offers unbeatable prices on Lego sets, surpassing Lego's own website during Prime Day sales.</description>
+      <link>https://mashable.com/life/best-prime-day-lego-deals-2026</link>
+      <guid isPermaLink="true">https://mashable.com/life/best-prime-day-lego-deals-2026</guid>
+      <pubDate>2026-06-23T18:13:27Z</pubDate>
+      <category>Business</category>
+      <source url="https://mashable.com/life/best-prime-day-lego-deals-2026">Mashable</source>
     </item>
     <item>
-      <title>Clip-On Frames for Smart Glasses Are Here</title>
-      <description>Smart glasses are becoming mainstream, prompting new accessories like clip-on frames from Lorika for Meta's Ray-Ban smart glasses. This innovation enhances personalization options.</description>
-      <link>https://www.wired.com/story/lorika-ontop-cases-for-smart-glasses-now/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/lorika-ontop-cases-for-smart-glasses-now/</guid>
-      <pubDate>2026-06-22T16:41:00Z</pubDate>
+      <title>Google TV Streamer Update Enhances Functionality</title>
+      <description>The latest update for Google TV Streamer introduces new features, including support for Google Home Speakers.</description>
+      <link>http://9to5google.com/2026/06/23/google-tv-streamer-home-speaker/</link>
+      <guid isPermaLink="true">http://9to5google.com/2026/06/23/google-tv-streamer-home-speaker/</guid>
+      <pubDate>2026-06-23T17:50:00Z</pubDate>
+      <category>Software</category>
+      <source url="http://9to5google.com/2026/06/23/google-tv-streamer-home-speaker/">9to5Google</source>
+    </item>
+    <item>
+      <title>Sonic Frontiers Launches on Nintendo Switch 2</title>
+      <description>Sonic Frontiers: Definitive Edition features quality and performance modes, with save transfers from Switch 1 confirmed.</description>
+      <link>https://nintendoeverything.com/sonic-frontiers-on-nintendo-switch-2-has-quality-and-performance-modes-switch-1-save-transfers-no-upgrade-path/</link>
+      <guid isPermaLink="true">https://nintendoeverything.com/sonic-frontiers-on-nintendo-switch-2-has-quality-and-performance-modes-switch-1-save-transfers-no-upgrade-path/</guid>
+      <pubDate>2026-06-23T17:30:27Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.wired.com/story/lorika-ontop-cases-for-smart-glasses-now/">Wired</source>
+      <source url="https://nintendoeverything.com/sonic-frontiers-on-nintendo-switch-2-has-quality-and-performance-modes-switch-1-save-transfers-no-upgrade-path/">Nintendoeverything.com</source>
+    </item>
+    <item>
+      <title>Massive Discounts on Hisense TVs for Prime Day</title>
+      <description>Hisense offers up to $2,000 off on MiniLED TVs during Prime Day, with sizes ranging from 55 to 100 inches.</description>
+      <link>https://www.usatoday.com/story/shopping/deals/prime-day/2026/06/23/hisense-prime-day-tv-deals/90653061007/</link>
+      <guid isPermaLink="true">https://www.usatoday.com/story/shopping/deals/prime-day/2026/06/23/hisense-prime-day-tv-deals/90653061007/</guid>
+      <pubDate>2026-06-23T17:30:00Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.usatoday.com/story/shopping/deals/prime-day/2026/06/23/hisense-prime-day-tv-deals/90653061007/">USA Today</source>
+    </item>
+    <item>
+      <title>Diablo IV's Season of Death Awakening Launches</title>
+      <description>The new season introduces challenges against Death Cults and offers a free Warlock Trial for players.</description>
+      <link>https://news.blizzard.com/en-us/article/24268702/hunt-the-death-cult-in-season-of-death-awakening</link>
+      <guid isPermaLink="true">https://news.blizzard.com/en-us/article/24268702/hunt-the-death-cult-in-season-of-death-awakening</guid>
+      <pubDate>2026-06-23T17:00:00Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://news.blizzard.com/en-us/article/24268702/hunt-the-death-cult-in-season-of-death-awakening">Blizzard News</source>
+    </item>
+    <item>
+      <title>Sony Delists Shovelware from PlayStation Store</title>
+      <description>Sony removes nearly 1,000 low-effort titles from the PlayStation Store, targeting shovelware publishers.</description>
+      <link>https://www.trueachievements.com/news/afil-games-delisted-playstation-store</link>
+      <guid isPermaLink="true">https://www.trueachievements.com/news/afil-games-delisted-playstation-store</guid>
+      <pubDate>2026-06-23T16:27:44Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.trueachievements.com/news/afil-games-delisted-playstation-store">TrueAchievements</source>
+    </item>
+    <item>
+      <title>Samsung Galaxy Watch 9 Leaked Ahead of Launch</title>
+      <description>Details of the Galaxy Watch 9 emerge ahead of Samsung's Unpacked event, showcasing new features and designs.</description>
+      <link>https://www.androidheadlines.com/samsung-galaxy-watch-9.html</link>
+      <guid isPermaLink="true">https://www.androidheadlines.com/samsung-galaxy-watch-9.html</guid>
+      <pubDate>2026-06-23T15:04:12Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.androidheadlines.com/samsung-galaxy-watch-9.html">Android Headlines</source>
+    </item>
+    <item>
+      <title>Prime Day Gaming PC and Laptop Deals Unveiled</title>
+      <description>Amazon's Prime Day features significant discounts on gaming PCs and laptops from top brands like Asus and HP.</description>
+      <link>https://www.pcmag.com/news/best-amazon-prime-day-gaming-laptop-desktop-deals-2026</link>
+      <guid isPermaLink="true">https://www.pcmag.com/news/best-amazon-prime-day-gaming-laptop-desktop-deals-2026</guid>
+      <pubDate>2026-06-23T14:09:14Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.pcmag.com/news/best-amazon-prime-day-gaming-laptop-desktop-deals-2026">PCMag</source>
+    </item>
+    <item>
+      <title>Sony's New PS Plus Experiment Faces Backlash</title>
+      <description>Sony's latest PS Plus changes are unpopular among users, sparking criticism and disappointment.</description>
+      <link>https://www.pushsquare.com/news/2026/06/absolutely-terrible-idea-nobody-likes-sonys-new-ps-plus-experiment</link>
+      <guid isPermaLink="true">https://www.pushsquare.com/news/2026/06/absolutely-terrible-idea-nobody-likes-sonys-new-ps-plus-experiment</guid>
+      <pubDate>2026-06-23T14:00:00Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.pushsquare.com/news/2026/06/absolutely-terrible-idea-nobody-likes-sonys-new-ps-plus-experiment">Push Square</source>
+    </item>
+    <item>
+      <title>Meta Develops Affordable AI Smart Glasses</title>
+      <description>Meta announces plans for in-house designed AI smart glasses, aiming to compete in the wearable tech market.</description>
+      <link>https://www.cnn.com/2026/06/23/tech/meta-glasses-price</link>
+      <guid isPermaLink="true">https://www.cnn.com/2026/06/23/tech/meta-glasses-price</guid>
+      <pubDate>2026-06-23T13:00:25Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.cnn.com/2026/06/23/tech/meta-glasses-price">CNN</source>
+    </item>
+    <item>
+      <title>MSI Claw 8 EX AI Plus vs. Steam Deck</title>
+      <description>The MSI Claw 8 EX AI Plus outperforms the Steam Deck in gaming but faces software issues in initial impressions.</description>
+      <link>https://www.theverge.com/games/952637/msi-claw-8-ex-ai-plus-intel-g3-extreme-steam-deck-hands-on</link>
+      <guid isPermaLink="true">https://www.theverge.com/games/952637/msi-claw-8-ex-ai-plus-intel-g3-extreme-steam-deck-hands-on</guid>
+      <pubDate>2026-06-23T13:00:00Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.theverge.com/games/952637/msi-claw-8-ex-ai-plus-intel-g3-extreme-steam-deck-hands-on">The Verge</source>
+    </item>
+    <item>
+      <title>Kindle Paperwhite at Best Price for Prime Day</title>
+      <description>The Kindle Paperwhite is now available for $124.99 during Prime Day, offering waterproof design and long battery life.</description>
+      <link>https://www.theverge.com/gadgets/952555/kindle-paperwhite-amazon-deal-sale</link>
+      <guid isPermaLink="true">https://www.theverge.com/gadgets/952555/kindle-paperwhite-amazon-deal-sale</guid>
+      <pubDate>2026-06-23T13:00:00Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.theverge.com/gadgets/952555/kindle-paperwhite-amazon-deal-sale">The Verge</source>
+    </item>
+    <item>
+      <title>Warhammer Studio Unveils New Super-Heavy Tanks</title>
+      <description>Warhammer Studio introduces new super-heavy tanks for Age of Darkness, inviting fans to choose their favorites.</description>
+      <link>https://www.warhammer-community.com/articles/jomldqhy/warhammer-studio-goes-super-heavy-for-an-age-of-darkness-tank-war</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/articles/jomldqhy/warhammer-studio-goes-super-heavy-for-an-age-of-darkness-tank-war</guid>
+      <pubDate>2026-06-23T12:59:45Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.warhammer-community.com/articles/jomldqhy/warhammer-studio-goes-super-heavy-for-an-age-of-darkness-tank-war">Warhammer Community</source>
     </item>
   </channel>
 </rss>

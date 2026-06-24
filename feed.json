@@ -1,53 +1,245 @@
 {
-  "generated_at": "2026-06-24T17:03:47.598379+00:00",
+  "generated_at": "2026-06-24T19:44:12.276491+00:00",
   "articles": [
     {
-      "title": "iOS 27 Beta 2 Adds Inline Replies to RCS Chats",
-      "description": "Apple's iOS 27 Beta 2 introduces inline replies for RCS chats with Android users, enhancing messaging functionality. Users can now reply directly to specific messages.",
+      "title": "Affordable Tech Finds Under $25 for Prime Day",
+      "description": "Discover budget-friendly tech accessories for Prime Day. These picks combine quality and affordability, perfect for savvy shoppers.",
+      "category": "Business",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/951852/prime-day-deals-cheap-stuff-under-25-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/02-l.jpg?quality=90&strip=all&crop=0%2C8.1151832460733%2C100%2C83.769633507853&w=1200",
+      "published_at": "2026-06-23T19:00:00Z",
+      "key_points": [
+        "Budget-friendly tech accessories",
+        "Great for Prime Day",
+        "Quality without breaking bank"
+      ],
+      "impact": "Affordable tech options enhance shopping experience.",
+      "id": "8d5bae33fbe8443484e3c6ad1ec178f1"
+    },
+    {
+      "title": "Exciting Features of the Upcoming iPhone 18 Pro",
+      "description": "The iPhone 18 Pro is generating buzz with three rumored features that have tech enthusiasts excited ahead of its release.",
       "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/22/ios-27-beta-2-inline-replies-rcs/",
-      "image": "https://images.macrumors.com/t/YCfKC7CdSR7A9d-4aYe9jfsjkew=/2500x/article-new/2025/03/RCS-Feature-1.jpg",
-      "published_at": "2026-06-22T19:06:13Z",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/23/iphone-18-pro-three-new-features-that-already-have-me-excited/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-23T18:45:00Z",
       "key_points": [
-        "Inline replies for RCS chats",
-        "Supports Android messaging",
-        "Enhances user experience"
+        "Three new exciting features",
+        "Anticipation builds for release",
+        "Tech enthusiasts eager"
       ],
-      "impact": "This update improves cross-platform messaging efficiency.",
-      "id": "3f0f0eb983f0071358dda21504c44e10"
+      "impact": "New features could redefine user experience.",
+      "id": "372726731d232c177059f31bf1498edf"
     },
     {
-      "title": "The Hammerhead Karoo Hits Best Price of the Year",
-      "description": "The Hammerhead Karoo cycling computer is now available at its lowest price this year during Amazon Prime Day. It features an impressive touchscreen for navigation.",
-      "category": "Hardware",
-      "source": "Cyclingnews.com",
-      "url": "https://www.cyclingnews.com/cycling-tech-components/a-smartphone-like-user-experience-the-hammerhead-karoo-has-just-hit-its-best-price-of-the-year-in-this-amazon-prime-day-deal/",
-      "image": "https://cdn.mos.cms.futurecdn.net/QogkYhzGhXJ2Ahjo6fpQK7-2048-80.jpg",
-      "published_at": "2026-06-22T16:56:10Z",
+      "title": "Prime Day 2026: Best Lego Deals Revealed",
+      "description": "Amazon offers unbeatable prices on Lego sets, surpassing Lego's own website during Prime Day sales.",
+      "category": "Business",
+      "source": "Mashable",
+      "url": "https://mashable.com/life/best-prime-day-lego-deals-2026",
+      "image": "https://helios-i.mashable.com/imagery/articles/00t6zW80Nr4wIwQ9O4gGMXg/hero-image.fill.size_1200x675.v1782199145.jpg",
+      "published_at": "2026-06-23T18:13:27Z",
       "key_points": [
-        "Best price of the year",
-        "Brilliant touchscreen",
-        "Top cycling navigation choice"
+        "Unbeatable Lego prices",
+        "Prime Day exclusive deals",
+        "Shop before they sell out"
       ],
-      "impact": "Cyclists can save significantly on this device.",
-      "id": "227c295a60ac301e667f0f9f48ba5b3a"
+      "impact": "Prime Day boosts Lego sales significantly.",
+      "id": "2281a2139104d7175907ffefb77b47c5"
     },
     {
-      "title": "Clip-On Frames for Smart Glasses Are Here",
-      "description": "Smart glasses are becoming mainstream, prompting new accessories like clip-on frames from Lorika for Meta's Ray-Ban smart glasses. This innovation enhances personalization options.",
+      "title": "Google TV Streamer Update Enhances Functionality",
+      "description": "The latest update for Google TV Streamer introduces new features, including support for Google Home Speakers.",
+      "category": "Software",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/06/23/google-tv-streamer-home-speaker/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/Google-TV-Streamer-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-23T17:50:00Z",
+      "key_points": [
+        "New Google Home support",
+        "Enhanced streaming experience",
+        "Improved user interface"
+      ],
+      "impact": "Update improves overall user satisfaction.",
+      "id": "862c313e84dbfb9ce3e12f3ad5397990"
+    },
+    {
+      "title": "Sonic Frontiers Launches on Nintendo Switch 2",
+      "description": "Sonic Frontiers: Definitive Edition features quality and performance modes, with save transfers from Switch 1 confirmed.",
       "category": "Gaming",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/lorika-ontop-cases-for-smart-glasses-now/",
-      "image": "https://media.wired.com/photos/6a394e10f4897b0621c672c6/191:100/w_1280,c_limit/POST_LORIKA.jpg",
-      "published_at": "2026-06-22T16:41:00Z",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/sonic-frontiers-on-nintendo-switch-2-has-quality-and-performance-modes-switch-1-save-transfers-no-upgrade-path/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Sonic-Frontiers-Switch-2-modes-save-transfers.jpg",
+      "published_at": "2026-06-23T17:30:27Z",
       "key_points": [
-        "New clip-on frames available",
-        "Enhances smart glasses style",
-        "Lorika's innovative accessories"
+        "Quality and performance modes",
+        "Save transfers from Switch 1",
+        "No upgrade path available"
       ],
-      "impact": "This trend boosts the smart glasses market appeal.",
-      "id": "b7d2d61e8b23b87f4937ccd7bbc9c4e1"
+      "impact": "Launch enhances gaming experience on Switch 2.",
+      "id": "003b8968ccd08041cae33264b35402f0"
+    },
+    {
+      "title": "Massive Discounts on Hisense TVs for Prime Day",
+      "description": "Hisense offers up to $2,000 off on MiniLED TVs during Prime Day, with sizes ranging from 55 to 100 inches.",
+      "category": "Business",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/shopping/deals/prime-day/2026/06/23/hisense-prime-day-tv-deals/90653061007/",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/23/USAT/90655184007-hisensehero.png?crop=1999,1124,x0,y0&width=1999&height=1124&format=pjpg&auto=webp",
+      "published_at": "2026-06-23T17:30:00Z",
+      "key_points": [
+        "Up to $2,000 off TVs",
+        "Massive screen sizes available",
+        "Limited time Prime Day offer"
+      ],
+      "impact": "Significant savings attract TV buyers.",
+      "id": "d839e2c4730f8215a17b1e5d237cd57c"
+    },
+    {
+      "title": "Diablo IV's Season of Death Awakening Launches",
+      "description": "The new season introduces challenges against Death Cults and offers a free Warlock Trial for players.",
+      "category": "Gaming",
+      "source": "Blizzard News",
+      "url": "https://news.blizzard.com/en-us/article/24268702/hunt-the-death-cult-in-season-of-death-awakening",
+      "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/3h/3HCGUITVOMJP1781827191737.png",
+      "published_at": "2026-06-23T17:00:00Z",
+      "key_points": [
+        "New threats from Death Cults",
+        "Free Warlock Trial available",
+        "Season of Death Awakening begins"
+      ],
+      "impact": "New season revitalizes player engagement.",
+      "id": "8e2442ad1dcc7a921233952d2de09e52"
+    },
+    {
+      "title": "Sony Delists Shovelware from PlayStation Store",
+      "description": "Sony removes nearly 1,000 low-effort titles from the PlayStation Store, targeting shovelware publishers.",
+      "category": "Gaming",
+      "source": "TrueAchievements",
+      "url": "https://www.trueachievements.com/news/afil-games-delisted-playstation-store",
+      "image": "https://www.trueachievements.com/imgs/176266/afil-games-kicked-off-playstation.jpg",
+      "published_at": "2026-06-23T16:27:44Z",
+      "key_points": [
+        "1,000 titles removed",
+        "Targeting low-effort games",
+        "Improving store quality"
+      ],
+      "impact": "Action enhances PlayStation Store's reputation.",
+      "id": "30c046522f47c58ab52da60e1a246db5"
+    },
+    {
+      "title": "Samsung Galaxy Watch 9 Leaked Ahead of Launch",
+      "description": "Details of the Galaxy Watch 9 emerge ahead of Samsung's Unpacked event, showcasing new features and designs.",
+      "category": "Software",
+      "source": "Android Headlines",
+      "url": "https://www.androidheadlines.com/samsung-galaxy-watch-9.html",
+      "image": "https://www.androidheadlines.com/wp-content/uploads/2026/06/samsung-galaxy-watch-9-exclusive-AH.jpg",
+      "published_at": "2026-06-23T15:04:12Z",
+      "key_points": [
+        "Galaxy Watch 9 details leaked",
+        "New features anticipated",
+        "Unpacked event approaching"
+      ],
+      "impact": "Leaked details build anticipation for launch.",
+      "id": "925c9ef49f634ede762f9231119ddf9e"
+    },
+    {
+      "title": "Prime Day Gaming PC and Laptop Deals Unveiled",
+      "description": "Amazon's Prime Day features significant discounts on gaming PCs and laptops from top brands like Asus and HP.",
+      "category": "Gaming",
+      "source": "PCMag",
+      "url": "https://www.pcmag.com/news/best-amazon-prime-day-gaming-laptop-desktop-deals-2026",
+      "image": "https://i.pcmag.com/imagery/articles/037VSxieD5BzPt9kgVtlDHU-1.fit_lim.size_1200x630.v1782164838.png",
+      "published_at": "2026-06-23T14:09:14Z",
+      "key_points": [
+        "Significant discounts on gaming gear",
+        "Top brands featured",
+        "Prime Day exclusive offers"
+      ],
+      "impact": "Deals attract gamers looking to upgrade.",
+      "id": "229d65714520cb45fd9d191bfd69140d"
+    },
+    {
+      "title": "Sony's New PS Plus Experiment Faces Backlash",
+      "description": "Sony's latest PS Plus changes are unpopular among users, sparking criticism and disappointment.",
+      "category": "Gaming",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/06/absolutely-terrible-idea-nobody-likes-sonys-new-ps-plus-experiment",
+      "image": "https://images.pushsquare.com/6b5324eac0ce8/large.jpg",
+      "published_at": "2026-06-23T14:00:00Z",
+      "key_points": [
+        "PS Plus changes criticized",
+        "User backlash grows",
+        "Experiment deemed unpopular"
+      ],
+      "impact": "Negative feedback could prompt policy reevaluation.",
+      "id": "677d4b9a30540e3e079f7350c0b07b4b"
+    },
+    {
+      "title": "Meta Develops Affordable AI Smart Glasses",
+      "description": "Meta announces plans for in-house designed AI smart glasses, aiming to compete in the wearable tech market.",
+      "category": "Business",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/06/23/tech/meta-glasses-price",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-img-0270.jpg?c=16x9&q=w_800,c_fill",
+      "published_at": "2026-06-23T13:00:25Z",
+      "key_points": [
+        "New AI smart glasses announced",
+        "Focus on affordability",
+        "Competing in wearable tech"
+      ],
+      "impact": "New glasses could reshape wearable market.",
+      "id": "34c53104e2e0a6a70b2e49a86fb93387"
+    },
+    {
+      "title": "MSI Claw 8 EX AI Plus vs. Steam Deck",
+      "description": "The MSI Claw 8 EX AI Plus outperforms the Steam Deck in gaming but faces software issues in initial impressions.",
+      "category": "Gaming",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/952637/msi-claw-8-ex-ai-plus-intel-g3-extreme-steam-deck-hands-on",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/verge-msi-claw-ex-sean-hollister-1-7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-06-23T13:00:00Z",
+      "key_points": [
+        "Claw outperforms Steam Deck",
+        "Software issues persist",
+        "Initial impressions mixed"
+      ],
+      "impact": "Performance raises competition in handheld gaming.",
+      "id": "625bdd76ca6fd76762391079047aead5"
+    },
+    {
+      "title": "Kindle Paperwhite at Best Price for Prime Day",
+      "description": "The Kindle Paperwhite is now available for $124.99 during Prime Day, offering waterproof design and long battery life.",
+      "category": "Business",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/952555/kindle-paperwhite-amazon-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Kindle-Paperwhite-2024-lifestyle.jpg?quality=90&strip=all&crop=0%2C10.135009434714%2C100%2C79.729981130571&w=1200",
+      "published_at": "2026-06-23T13:00:00Z",
+      "key_points": [
+        "Kindle Paperwhite discounted",
+        "Waterproof and long-lasting",
+        "Best price for Prime Day"
+      ],
+      "impact": "Discounts boost Kindle sales during Prime Day.",
+      "id": "b234aa33b2441918de16f519787c0e5a"
+    },
+    {
+      "title": "Warhammer Studio Unveils New Super-Heavy Tanks",
+      "description": "Warhammer Studio introduces new super-heavy tanks for Age of Darkness, inviting fans to choose their favorites.",
+      "category": "Gaming",
+      "source": "Warhammer Community",
+      "url": "https://www.warhammer-community.com/articles/jomldqhy/warhammer-studio-goes-super-heavy-for-an-age-of-darkness-tank-war",
+      "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/thh_superheavysds-jun23-1-feature-7l7q5badoj.jpg",
+      "published_at": "2026-06-23T12:59:45Z",
+      "key_points": [
+        "New super-heavy tanks revealed",
+        "Fans invited to choose favorites",
+        "Exciting additions to Warhammer"
+      ],
+      "impact": "New tanks enhance Warhammer gameplay experience.",
+      "id": "1f3a2dfb5e0671e62869573c8e4a4ff3"
     }
   ]
 }

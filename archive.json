@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-24T19:44:12.276491+00:00",
+      "fetched_at": "2026-06-24T19:44:12.276491+00:00",
+      "label": "Jun 24, 2026 — 07:44 PM UTC",
+      "articles": [
+        {
+          "title": "Affordable Tech Finds Under $25 for Prime Day",
+          "description": "Discover budget-friendly tech accessories for Prime Day. These picks combine quality and affordability, perfect for savvy shoppers.",
+          "category": "Business",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/951852/prime-day-deals-cheap-stuff-under-25-sale",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/02-l.jpg?quality=90&strip=all&crop=0%2C8.1151832460733%2C100%2C83.769633507853&w=1200",
+          "published_at": "2026-06-23T19:00:00Z",
+          "key_points": [
+            "Budget-friendly tech accessories",
+            "Great for Prime Day",
+            "Quality without breaking bank"
+          ],
+          "impact": "Affordable tech options enhance shopping experience.",
+          "id": "8d5bae33fbe8443484e3c6ad1ec178f1"
+        },
+        {
+          "title": "Exciting Features of the Upcoming iPhone 18 Pro",
+          "description": "The iPhone 18 Pro is generating buzz with three rumored features that have tech enthusiasts excited ahead of its release.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/23/iphone-18-pro-three-new-features-that-already-have-me-excited/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-23T18:45:00Z",
+          "key_points": [
+            "Three new exciting features",
+            "Anticipation builds for release",
+            "Tech enthusiasts eager"
+          ],
+          "impact": "New features could redefine user experience.",
+          "id": "372726731d232c177059f31bf1498edf"
+        },
+        {
+          "title": "Prime Day 2026: Best Lego Deals Revealed",
+          "description": "Amazon offers unbeatable prices on Lego sets, surpassing Lego's own website during Prime Day sales.",
+          "category": "Business",
+          "source": "Mashable",
+          "url": "https://mashable.com/life/best-prime-day-lego-deals-2026",
+          "image": "https://helios-i.mashable.com/imagery/articles/00t6zW80Nr4wIwQ9O4gGMXg/hero-image.fill.size_1200x675.v1782199145.jpg",
+          "published_at": "2026-06-23T18:13:27Z",
+          "key_points": [
+            "Unbeatable Lego prices",
+            "Prime Day exclusive deals",
+            "Shop before they sell out"
+          ],
+          "impact": "Prime Day boosts Lego sales significantly.",
+          "id": "2281a2139104d7175907ffefb77b47c5"
+        },
+        {
+          "title": "Google TV Streamer Update Enhances Functionality",
+          "description": "The latest update for Google TV Streamer introduces new features, including support for Google Home Speakers.",
+          "category": "Software",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/23/google-tv-streamer-home-speaker/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/Google-TV-Streamer-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-23T17:50:00Z",
+          "key_points": [
+            "New Google Home support",
+            "Enhanced streaming experience",
+            "Improved user interface"
+          ],
+          "impact": "Update improves overall user satisfaction.",
+          "id": "862c313e84dbfb9ce3e12f3ad5397990"
+        },
+        {
+          "title": "Sonic Frontiers Launches on Nintendo Switch 2",
+          "description": "Sonic Frontiers: Definitive Edition features quality and performance modes, with save transfers from Switch 1 confirmed.",
+          "category": "Gaming",
+          "source": "Nintendoeverything.com",
+          "url": "https://nintendoeverything.com/sonic-frontiers-on-nintendo-switch-2-has-quality-and-performance-modes-switch-1-save-transfers-no-upgrade-path/",
+          "image": "https://nintendoeverything.com/wp-content/uploads/Sonic-Frontiers-Switch-2-modes-save-transfers.jpg",
+          "published_at": "2026-06-23T17:30:27Z",
+          "key_points": [
+            "Quality and performance modes",
+            "Save transfers from Switch 1",
+            "No upgrade path available"
+          ],
+          "impact": "Launch enhances gaming experience on Switch 2.",
+          "id": "003b8968ccd08041cae33264b35402f0"
+        },
+        {
+          "title": "Massive Discounts on Hisense TVs for Prime Day",
+          "description": "Hisense offers up to $2,000 off on MiniLED TVs during Prime Day, with sizes ranging from 55 to 100 inches.",
+          "category": "Business",
+          "source": "USA Today",
+          "url": "https://www.usatoday.com/story/shopping/deals/prime-day/2026/06/23/hisense-prime-day-tv-deals/90653061007/",
+          "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/23/USAT/90655184007-hisensehero.png?crop=1999,1124,x0,y0&width=1999&height=1124&format=pjpg&auto=webp",
+          "published_at": "2026-06-23T17:30:00Z",
+          "key_points": [
+            "Up to $2,000 off TVs",
+            "Massive screen sizes available",
+            "Limited time Prime Day offer"
+          ],
+          "impact": "Significant savings attract TV buyers.",
+          "id": "d839e2c4730f8215a17b1e5d237cd57c"
+        },
+        {
+          "title": "Diablo IV's Season of Death Awakening Launches",
+          "description": "The new season introduces challenges against Death Cults and offers a free Warlock Trial for players.",
+          "category": "Gaming",
+          "source": "Blizzard News",
+          "url": "https://news.blizzard.com/en-us/article/24268702/hunt-the-death-cult-in-season-of-death-awakening",
+          "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/3h/3HCGUITVOMJP1781827191737.png",
+          "published_at": "2026-06-23T17:00:00Z",
+          "key_points": [
+            "New threats from Death Cults",
+            "Free Warlock Trial available",
+            "Season of Death Awakening begins"
+          ],
+          "impact": "New season revitalizes player engagement.",
+          "id": "8e2442ad1dcc7a921233952d2de09e52"
+        },
+        {
+          "title": "Sony Delists Shovelware from PlayStation Store",
+          "description": "Sony removes nearly 1,000 low-effort titles from the PlayStation Store, targeting shovelware publishers.",
+          "category": "Gaming",
+          "source": "TrueAchievements",
+          "url": "https://www.trueachievements.com/news/afil-games-delisted-playstation-store",
+          "image": "https://www.trueachievements.com/imgs/176266/afil-games-kicked-off-playstation.jpg",
+          "published_at": "2026-06-23T16:27:44Z",
+          "key_points": [
+            "1,000 titles removed",
+            "Targeting low-effort games",
+            "Improving store quality"
+          ],
+          "impact": "Action enhances PlayStation Store's reputation.",
+          "id": "30c046522f47c58ab52da60e1a246db5"
+        },
+        {
+          "title": "Samsung Galaxy Watch 9 Leaked Ahead of Launch",
+          "description": "Details of the Galaxy Watch 9 emerge ahead of Samsung's Unpacked event, showcasing new features and designs.",
+          "category": "Software",
+          "source": "Android Headlines",
+          "url": "https://www.androidheadlines.com/samsung-galaxy-watch-9.html",
+          "image": "https://www.androidheadlines.com/wp-content/uploads/2026/06/samsung-galaxy-watch-9-exclusive-AH.jpg",
+          "published_at": "2026-06-23T15:04:12Z",
+          "key_points": [
+            "Galaxy Watch 9 details leaked",
+            "New features anticipated",
+            "Unpacked event approaching"
+          ],
+          "impact": "Leaked details build anticipation for launch.",
+          "id": "925c9ef49f634ede762f9231119ddf9e"
+        },
+        {
+          "title": "Prime Day Gaming PC and Laptop Deals Unveiled",
+          "description": "Amazon's Prime Day features significant discounts on gaming PCs and laptops from top brands like Asus and HP.",
+          "category": "Gaming",
+          "source": "PCMag",
+          "url": "https://www.pcmag.com/news/best-amazon-prime-day-gaming-laptop-desktop-deals-2026",
+          "image": "https://i.pcmag.com/imagery/articles/037VSxieD5BzPt9kgVtlDHU-1.fit_lim.size_1200x630.v1782164838.png",
+          "published_at": "2026-06-23T14:09:14Z",
+          "key_points": [
+            "Significant discounts on gaming gear",
+            "Top brands featured",
+            "Prime Day exclusive offers"
+          ],
+          "impact": "Deals attract gamers looking to upgrade.",
+          "id": "229d65714520cb45fd9d191bfd69140d"
+        },
+        {
+          "title": "Sony's New PS Plus Experiment Faces Backlash",
+          "description": "Sony's latest PS Plus changes are unpopular among users, sparking criticism and disappointment.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/absolutely-terrible-idea-nobody-likes-sonys-new-ps-plus-experiment",
+          "image": "https://images.pushsquare.com/6b5324eac0ce8/large.jpg",
+          "published_at": "2026-06-23T14:00:00Z",
+          "key_points": [
+            "PS Plus changes criticized",
+            "User backlash grows",
+            "Experiment deemed unpopular"
+          ],
+          "impact": "Negative feedback could prompt policy reevaluation.",
+          "id": "677d4b9a30540e3e079f7350c0b07b4b"
+        },
+        {
+          "title": "Meta Develops Affordable AI Smart Glasses",
+          "description": "Meta announces plans for in-house designed AI smart glasses, aiming to compete in the wearable tech market.",
+          "category": "Business",
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/06/23/tech/meta-glasses-price",
+          "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-img-0270.jpg?c=16x9&q=w_800,c_fill",
+          "published_at": "2026-06-23T13:00:25Z",
+          "key_points": [
+            "New AI smart glasses announced",
+            "Focus on affordability",
+            "Competing in wearable tech"
+          ],
+          "impact": "New glasses could reshape wearable market.",
+          "id": "34c53104e2e0a6a70b2e49a86fb93387"
+        },
+        {
+          "title": "MSI Claw 8 EX AI Plus vs. Steam Deck",
+          "description": "The MSI Claw 8 EX AI Plus outperforms the Steam Deck in gaming but faces software issues in initial impressions.",
+          "category": "Gaming",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/952637/msi-claw-8-ex-ai-plus-intel-g3-extreme-steam-deck-hands-on",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/verge-msi-claw-ex-sean-hollister-1-7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-23T13:00:00Z",
+          "key_points": [
+            "Claw outperforms Steam Deck",
+            "Software issues persist",
+            "Initial impressions mixed"
+          ],
+          "impact": "Performance raises competition in handheld gaming.",
+          "id": "625bdd76ca6fd76762391079047aead5"
+        },
+        {
+          "title": "Kindle Paperwhite at Best Price for Prime Day",
+          "description": "The Kindle Paperwhite is now available for $124.99 during Prime Day, offering waterproof design and long battery life.",
+          "category": "Business",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/952555/kindle-paperwhite-amazon-deal-sale",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Kindle-Paperwhite-2024-lifestyle.jpg?quality=90&strip=all&crop=0%2C10.135009434714%2C100%2C79.729981130571&w=1200",
+          "published_at": "2026-06-23T13:00:00Z",
+          "key_points": [
+            "Kindle Paperwhite discounted",
+            "Waterproof and long-lasting",
+            "Best price for Prime Day"
+          ],
+          "impact": "Discounts boost Kindle sales during Prime Day.",
+          "id": "b234aa33b2441918de16f519787c0e5a"
+        },
+        {
+          "title": "Warhammer Studio Unveils New Super-Heavy Tanks",
+          "description": "Warhammer Studio introduces new super-heavy tanks for Age of Darkness, inviting fans to choose their favorites.",
+          "category": "Gaming",
+          "source": "Warhammer Community",
+          "url": "https://www.warhammer-community.com/articles/jomldqhy/warhammer-studio-goes-super-heavy-for-an-age-of-darkness-tank-war",
+          "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/thh_superheavysds-jun23-1-feature-7l7q5badoj.jpg",
+          "published_at": "2026-06-23T12:59:45Z",
+          "key_points": [
+            "New super-heavy tanks revealed",
+            "Fans invited to choose favorites",
+            "Exciting additions to Warhammer"
+          ],
+          "impact": "New tanks enhance Warhammer gameplay experience.",
+          "id": "1f3a2dfb5e0671e62869573c8e4a4ff3"
+        }
+      ]
+    },
+    {
       "id": "2026-06-24T17:03:47.598379+00:00",
       "fetched_at": "2026-06-24T17:03:47.598379+00:00",
       "label": "Jun 24, 2026 — 05:03 PM UTC",
@@ -6296,253 +6543,6 @@
           ],
           "impact": "Users benefit from significant software improvements.",
           "id": "06a82302458a3c3b5b8b2243ff36b1de"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-19T19:48:18.587070+00:00",
-      "fetched_at": "2026-06-19T19:48:18.587070+00:00",
-      "label": "Jun 19, 2026 — 07:48 PM UTC",
-      "articles": [
-        {
-          "title": "Meccha Chameleon: Steam's Viral Sensation",
-          "description": "Meccha Chameleon is taking Steam by storm, blending creativity and gameplay. Players are flocking to this unique title, making it a viral hit.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/meccha-chameleon-steam-download-horse-clips-northernlion-2000708169",
-          "image": "https://kotaku.com/app/uploads/2026/06/Screen-Shot-2026-06-18-at-2.41.59-PM-1200x675.jpg",
-          "published_at": "2026-06-18T19:22:45Z",
-          "key_points": [
-            "Creative gameplay mechanics",
-            "Viral social media presence",
-            "Unique player experiences"
-          ],
-          "impact": "Meccha Chameleon is redefining viral gaming.",
-          "id": "9d44dc80e606c7f51440eab418d3f8a6"
-        },
-        {
-          "title": "White House Uses GTA 6 Meme for Distraction",
-          "description": "The White House posted a parody GTA 6 cover featuring Trump, aiming to divert attention from current issues. The move has sparked mixed reactions online.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/white-house-uses-gta-6-meme-to-distract-from-reflecting-pool-turning-the-color-of-mountain-dew-2000708154",
-          "image": "https://kotaku.com/app/uploads/2026/06/magatrumpgta6cover-1200x675.jpg",
-          "published_at": "2026-06-18T18:25:53Z",
-          "key_points": [
-            "GTA 6 cover parody",
-            "Political distraction tactic",
-            "Mixed public reactions"
-          ],
-          "impact": "The meme highlights political communication strategies.",
-          "id": "9416b425b0bd6accfa09733f24b31414"
-        },
-        {
-          "title": "Google Health 5.02 Update Brings New Features",
-          "description": "Google Health's latest update, version 5.02, enhances the app with new features like hourly activity tracking and nap reminders. The update is rolling out for both iOS and Android.",
-          "category": "Software",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/06/18/google-health-5-02-release-notes/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/google-health-logo-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-18T16:28:00Z",
-          "key_points": [
-            "New hourly activity feature",
-            "Nap reminders added",
-            "Available on iOS and Android"
-          ],
-          "impact": "Google Health continues to improve user experience.",
-          "id": "2f7f08f9fef531ad9262af72c4183934"
-        },
-        {
-          "title": "Borderlands Bounty Pack 3 Introduces New Content",
-          "description": "Bounty Pack 3 for Borderlands 4 features a new raid and introduces Loveless as the next Vault Hunter. Players can expect new loot and challenges.",
-          "category": "Gaming",
-          "source": "2k.com",
-          "url": "https://borderlands.2k.com/borderlands-4/news/bounty-pack-3-takedown-at-hadron-abyss/",
-          "image": "https://assets.2k.com/1a6ngf98576c/4zXpfbA9xO397sI262TrDm/6bbefd7d76850e74bcfda880dd76cf10/BL4_KA.png",
-          "published_at": "2026-06-18T16:24:17Z",
-          "key_points": [
-            "New raid in Bounty Pack 3",
-            "Loveless joins as Vault Hunter",
-            "Exciting new loot available"
-          ],
-          "impact": "Borderlands expands its universe with fresh content.",
-          "id": "c7a8c533755d7b61bb5af42eb09c0ed9"
-        },
-        {
-          "title": "God of War Laufey Lacks Unique Identity",
-          "description": "IGN critiques God of War Laufey for its similarities to Kratos' Norse saga. The shift in perspective to Faye doesn't fully establish its own identity.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/god-of-war-laufey-feels-too-similar-to-kratos-norse-saga",
-          "image": "https://assets-prd.ignimgs.com/2026/06/18/gow-laufey-kratos-blogroll-1781776561763.jpg?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-18T16:15:00Z",
-          "key_points": [
-            "Similarities to previous saga",
-            "Faye's perspective explored",
-            "Identity issues noted"
-          ],
-          "impact": "Critique raises questions about game innovation.",
-          "id": "9224ea2ade6b3683ecee7051b6637641"
-        },
-        {
-          "title": "Tethergeist: A Unique Puzzle Platformer",
-          "description": "Tethergeist offers a fresh take on the puzzle platformer genre, introducing innovative mechanics and engaging gameplay. It's a must-try for fans of the genre.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/celeste-like-puzzle-platformer-tethergeist-indie-2000708091",
-          "image": "https://kotaku.com/app/uploads/2026/06/tethergeist-1200x675.jpg",
-          "published_at": "2026-06-18T15:49:25Z",
-          "key_points": [
-            "Innovative gameplay mechanics",
-            "Engaging puzzle challenges",
-            "Fresh genre perspective"
-          ],
-          "impact": "Tethergeist revitalizes the puzzle platformer genre.",
-          "id": "f012adc6fa75d72c65c852fa2ccbd8a7"
-        },
-        {
-          "title": "Free Play Days Offers New Xbox Games",
-          "description": "Free Play Days returns with a selection of free Xbox games for subscribers, including Two Point Museum and PGA Tour 2K25. Enjoy gaming without cost this weekend.",
-          "category": "Gaming",
-          "source": "TrueAchievements",
-          "url": "https://www.trueachievements.com/news/free-play-days-two-point-museum-asseto-corsa-pga-tour-2k25",
-          "image": "https://www.trueachievements.com/imgs/176155/free-play-days-returns-with-more-free-xbox-games-including-two-point-museum.jpg",
-          "published_at": "2026-06-18T15:10:06Z",
-          "key_points": [
-            "Free games for Xbox subscribers",
-            "Includes popular titles",
-            "Available this weekend only"
-          ],
-          "impact": "Free Play Days enhances Xbox gaming experience.",
-          "id": "9a25c659f7895e25e66afdf49cd3067c"
-        },
-        {
-          "title": "iPhone 18 Pro Camera Bump to Increase",
-          "description": "Leaks suggest the iPhone 18 Pro will feature a larger camera bump with thicker lenses. This change aims to improve photography capabilities.",
-          "category": "Hardware",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/18/iphone-18-pro-is-getting-larger-camera-bump-per-leaks-heres-why/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-dark-blue-camera-plateau.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-18T15:09:00Z",
-          "key_points": [
-            "Larger camera bump expected",
-            "Thicker lenses for better photos",
-            "Design remains similar to predecessors"
-          ],
-          "impact": "iPhone 18 Pro aims for enhanced photography.",
-          "id": "18c00aa3d3c83ea293300b2d634b843c"
-        },
-        {
-          "title": "Ultra-Black Car Paint Absorbs 99.9% Light",
-          "description": "Researchers have developed an ultra-black car paint that absorbs 99.9% of visible light, creating a striking visual effect. This innovation could revolutionize automotive design.",
-          "category": "Science",
-          "source": "Gizmodo.com",
-          "url": "https://gizmodo.com/scientists-made-a-car-paint-so-black-it-looks-like-a-hole-in-reality-2000773588",
-          "image": "https://gizmodo.com/app/uploads/2026/06/Nipsea-Carbon-Black-Carbon-Nanotube-Paint-1200x675.jpg",
-          "published_at": "2026-06-18T15:00:07Z",
-          "key_points": [
-            "Absorbs 99.9% of light",
-            "Revolutionary automotive design",
-            "Inspired by Vantablack"
-          ],
-          "impact": "This paint could transform car aesthetics.",
-          "id": "a83996cd8abb5889b53bbf8774a3b838"
-        },
-        {
-          "title": "Warhammer Community Showcases New Miniatures",
-          "description": "The Warhammer community showcases new Orks and Space Marines miniatures, highlighting the creativity of community painters. Fans can see impressive new designs.",
-          "category": "Gaming",
-          "source": "Warhammer Community",
-          "url": "https://www.warhammer-community.com/articles/gksheuhx/warriors-of-armageddon-painted-by-the-warhammer-community",
-          "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/40k_inflarmageddon-jun18-1-feature-kuuxtxkhvd.jpg",
-          "published_at": "2026-06-18T14:55:51Z",
-          "key_points": [
-            "New miniatures showcased",
-            "Community painter highlights",
-            "Creative designs featured"
-          ],
-          "impact": "Warhammer community fosters artistic expression.",
-          "id": "15a48d1e722f2cc37ecd8c62f14b9f51"
-        },
-        {
-          "title": "Google Calendar Expands Color Options",
-          "description": "Google Calendar now offers 200 custom color options for events, enhancing personalization. This update addresses previous limitations and improves user experience.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/952123/google-calendar-event-color-options-expansion",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Google-Calendar-event-color-expansion-lede.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-06-18T14:32:16Z",
-          "key_points": [
-            "200 color options available",
-            "Enhanced event personalization",
-            "Improved user experience"
-          ],
-          "impact": "Google Calendar enhances customization features.",
-          "id": "df74a1d44ca9fb6d9eeb9afbe6adfc34"
-        },
-        {
-          "title": "Xbox Game Pass Adds Two Day One Releases",
-          "description": "Xbox Game Pass announces two new 'day one' releases for July 2026, expanding its game library. This addition promises exciting new content for subscribers.",
-          "category": "Gaming",
-          "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/news/2026/06/two-more-day-one-releases-announced-for-xbox-and-pc-game-pass-in-july-2026",
-          "image": "https://images.purexbox.com/dcd5ae0f8ba9b/large.jpg",
-          "published_at": "2026-06-18T14:31:40Z",
-          "key_points": [
-            "Two new day one releases",
-            "Expanding game library",
-            "Exciting content for subscribers"
-          ],
-          "impact": "Xbox Game Pass continues to grow its offerings.",
-          "id": "837d87fd80f37faa1c4efabbb363000c"
-        },
-        {
-          "title": "Digimon Story: Time Stranger Update Announced",
-          "description": "A free update for Digimon Story: Time Stranger launches on July 9, adding new features like the Terriermon Assistant and graphics mode options. Available on multiple platforms.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/digimon-story-time-stranger-free-update-launches-july-9-adds-terriermon-assistant-graphics-mode-options-more",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Digimon-Story-Time-Stranger-Update_06-18-26_Top.jpg",
-          "published_at": "2026-06-18T14:28:06Z",
-          "key_points": [
-            "Free update on July 9",
-            "New features added",
-            "Available on multiple platforms"
-          ],
-          "impact": "Digimon Story enhances gameplay with updates.",
-          "id": "fe96ff5ff1471efc01b4e04d7879570d"
-        },
-        {
-          "title": "My Hero Academia: All’s Justice Release Dates Announced",
-          "description": "My Hero Academia: All’s Justice will launch on Switch 2 on September 3 in Japan and September 4 worldwide. Fans eagerly await this new title.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/my-hero-academia-alls-justice-coming-to-switch-2-on-september-3-in-japan-september-4-worldwide",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/MHA-Switch-2-Announce_06-18-26.jpg",
-          "published_at": "2026-06-18T14:05:35Z",
-          "key_points": [
-            "Launch dates confirmed",
-            "Switch 2 exclusive",
-            "Worldwide release planned"
-          ],
-          "impact": "My Hero Academia fans have new game excitement.",
-          "id": "b20cffe3e220080ad954009e31f3f1f6"
-        },
-        {
-          "title": "No Law: A Living Cybergrunge Open World",
-          "description": "No Law promises an immersive open world filled with NPCs and interactive buildings. Developer Neon Giant aims to create a vibrant cyberpunk experience.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/no-laws-dense-cybergrunge-city-might-just-be-the-most-alive-open-world-ever-created",
-          "image": "https://assets-prd.ignimgs.com/2026/06/18/nolaw-unreal-fest-screenshots-1-22-1-1781781769580.jpg?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-18T14:00:54Z",
-          "key_points": [
-            "Immersive cyberpunk experience",
-            "Packed with NPCs",
-            "Interactive environments promised"
-          ],
-          "impact": "No Law aims to redefine open world gaming.",
-          "id": "f1eb0bf392c63d772e53fc7a48bb1005"
         }
       ]
     }
