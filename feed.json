@@ -1,245 +1,245 @@
 {
-  "generated_at": "2026-06-23T22:11:36.884142+00:00",
+  "generated_at": "2026-06-24T03:29:01.386934+00:00",
   "articles": [
     {
-      "title": "Bluetooth Controller Breaks 007 First Light",
-      "description": "Using a Bluetooth controller on PC disrupts gameplay in 007 First Light. This issue highlights compatibility challenges.",
+      "title": "Capcom Spotlight Announced For This Week, Here's A Teaser Trailer",
+      "description": "Capcom's upcoming Spotlight will showcase 30 minutes of news and updates. Fans can expect exciting announcements for various platforms.",
       "category": "Gaming",
-      "source": "Aftermath.site",
-      "url": "https://aftermath.site/xbox-controller-bluetooth-007-first-light/",
-      "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/06/bonds.jpg",
-      "published_at": "2026-06-22T20:13:12Z",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/06/capcom-spotlight-announced-for-this-week-heres-a-teaser-trailer",
+      "image": "https://images.nintendolife.com/3540981b58db2/large.jpg",
+      "published_at": "2026-06-23T02:00:00Z",
       "key_points": [
-        "Bluetooth causes game issues",
-        "Compatibility remains a challenge",
-        "User experience affected"
+        "30-minute news showcase",
+        "Exciting game announcements",
+        "Multiple platforms involved"
       ],
-      "impact": "This raises concerns about gaming hardware compatibility.",
-      "id": "98a0b3ac3cd2a476c68c0b60650d2819"
+      "impact": "Capcom continues to engage its fanbase effectively.",
+      "id": "d66d724584bf223d792922cecb6242cd"
     },
     {
-      "title": "Walmart Cuts PlayStation Earbuds Price by 50%",
-      "description": "Walmart offers a 50% discount on PlayStation PULSE Explore earbuds, making them available for under $100.",
+      "title": "Target Just Launched New LEGO Super Mario Deals and Amazon Is Matching For Prime Day 2026",
+      "description": "Target and Amazon are offering early LEGO Super Mario deals ahead of Prime Day. Discounts are available on various sets until June 26.",
       "category": "Gaming",
       "source": "IGN",
-      "url": "https://www.ign.com/articles/playstation-pulse-explore-planar-magnetic-wireless-gaming-earbuds-deal",
-      "image": "https://assets-prd.ignimgs.com/2026/06/22/playstationpulseexplore-1782155851947.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-22T19:35:00Z",
+      "url": "https://www.ign.com/articles/lego-super-mario-set-deals-prime-day-2026",
+      "image": "https://assets-prd.ignimgs.com/2025/09/02/legomarioyoshi-1756833656382.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-23T01:37:00Z",
       "key_points": [
-        "50% off PlayStation earbuds",
-        "Best price for PS5 accessories",
-        "Limited time offer"
+        "LEGO Super Mario discounts",
+        "Prime Day starts tomorrow",
+        "Target and Amazon competing"
       ],
-      "impact": "This deal enhances accessibility for gamers.",
-      "id": "f53b19a2d64516ff6f2690e8324b461d"
+      "impact": "Shoppers can save significantly on LEGO sets.",
+      "id": "5734d121409c1292fa5845496f699324"
     },
     {
-      "title": "AMD Reinstates Memory Encryption in CPUs",
-      "description": "AMD responds to user backlash by reinstating memory encryption in consumer CPUs, addressing concerns over costlier chip options.",
-      "category": "Security",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-1152x648-1753386930.jpg",
-      "published_at": "2026-06-22T19:16:52Z",
+      "title": "Prime Day deals are officially live: Shop the best tech sales from Apple, Sony, Bose, Anker and others for up to 54% off right now",
+      "description": "Amazon Prime Day has launched with discounts on tech products from major brands. Members can save up to 54% on various items.",
+      "category": "Business",
+      "source": "Yahoo Entertainment",
+      "url": "https://tech.yahoo.com/deals/breaking-news/live/prime-day-deals-are-officially-live-shop-the-best-tech-sales-from-apple-sony-bose-anker-and-others-for-up-to-54-off-right-now-184252541.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/699a35d87ef550c6a887231a3713b8b24903f318d05f93894f944e10a7d22a6e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fexample-5_9078.jpg",
+      "published_at": "2026-06-23T00:30:00Z",
       "key_points": [
-        "Memory encryption restored",
-        "User feedback influenced decision",
-        "Cost concerns addressed"
+        "Prime Day discounts live now",
+        "Up to 54% off tech",
+        "Wide range of brands included"
       ],
-      "impact": "This reinstatement boosts consumer trust in AMD.",
-      "id": "0bbae9c5d7414996f7f4367671b34ac1"
+      "impact": "Consumers can take advantage of significant savings.",
+      "id": "d9c2a97e6a7c2e29f2a0fa602ff81bf6"
     },
     {
-      "title": "iOS 27 Simplifies Apple TV Software Updates",
-      "description": "iOS 27 introduces user-friendly updates for Apple TV software, enhancing overall user experience with Siri and Apple Intelligence improvements.",
+      "title": "The 4 PSI Rule For Tires: What Is It, And Is It Reliable?",
+      "description": "The 4 PSI rule helps estimate tire inflation but varies in reliability based on conditions. Understanding its limitations is crucial for drivers.",
+      "category": "Science",
+      "source": "Jalopnik",
+      "url": "https://www.jalopnik.com/2199207/is-4-psi-tire-rule-reliable/",
+      "image": "https://www.jalopnik.com/img/gallery/the-4-psi-rule-for-tires-what-is-it-and-is-it-reliable/l-intro-1782152919.jpg",
+      "published_at": "2026-06-22T22:25:00Z",
+      "key_points": [
+        "4 PSI rule explained",
+        "Reliability varies by conditions",
+        "Important for tire maintenance"
+      ],
+      "impact": "Drivers should be cautious using this rule.",
+      "id": "983053a1ddc3a7f86f98509cd6de643e"
+    },
+    {
+      "title": "Kojima Says Only Xbox And Phil Spencer Understood OD, His New Horror Game",
+      "description": "Hideo Kojima reveals that only Xbox and Phil Spencer grasped the concept of his horror game, OD. Other companies showed little interest.",
+      "category": "Gaming",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/only-xbox-was-interested-in-kojimas-horror-game-other-companies-didnt-understand-the-concept-2000709107",
+      "image": "https://kotaku.com/app/uploads/2026/06/od1-960x539-1.jpg",
+      "published_at": "2026-06-22T21:18:53Z",
+      "key_points": [
+        "Kojima's horror game OD",
+        "Xbox's unique understanding",
+        "Other companies uninterested"
+      ],
+      "impact": "Kojima's vision finds a home with Xbox.",
+      "id": "4fbbbd29cca4e0debdfda41c7142b620"
+    },
+    {
+      "title": "Every Pontiac Firebird Generation Ranked By Top Speed",
+      "description": "A ranking of all Pontiac Firebird generations based on verified top speed data. Discover which models performed best.",
+      "category": "Science",
+      "source": "Jalopnik",
+      "url": "https://www.jalopnik.com/2198015/every-pontiac-firebird-generation-ranked-top-speed/",
+      "image": "https://www.jalopnik.com/img/gallery/every-pontiac-firebird-generation-ranked-top-speed/l-intro-1782156001.jpg",
+      "published_at": "2026-06-22T20:45:00Z",
+      "key_points": [
+        "Pontiac Firebird generations ranked",
+        "Top speed data analyzed",
+        "Performance insights provided"
+      ],
+      "impact": "Car enthusiasts gain valuable performance knowledge.",
+      "id": "3df85b1ac571754305571ca8ef96150d"
+    },
+    {
+      "title": "Sega plans shift to influencers after Sonic and Shinobi sales disappoint, despite strong reviews",
+      "description": "Sega will pivot to influencer marketing after disappointing sales of Sonic and Shinobi games. Two new flagship titles are also on the way.",
+      "category": "Gaming",
+      "source": "Video Games Chronicle",
+      "url": "https://www.videogameschronicle.com/news/sega-plans-shift-to-influencers-after-sonic-racing-and-shinobi-sales-disappoint/",
+      "image": "https://www.videogameschronicle.com/files/2026/06/IMG_9490-2560x1920.jpeg",
+      "published_at": "2026-06-22T20:10:53Z",
+      "key_points": [
+        "Sega shifts marketing strategy",
+        "Influencer focus for future games",
+        "New flagship titles coming soon"
+      ],
+      "impact": "Sega aims to revitalize its marketing approach.",
+      "id": "5e42d1c26de7a90a1252982a044b7a13"
+    },
+    {
+      "title": "Final Fantasy VII Revelation Director Says Queer Romances Make The World Feel More Real",
+      "description": "Director Naoki Hamaguchi emphasizes that queer relationships enhance realism in Final Fantasy VII's remake trilogy. Diversity enriches the narrative.",
+      "category": "Gaming",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/final-fantasy-7-ff7-remake-revelation-queer-gay-characters-director-hamaguchi-2000709062",
+      "image": "https://kotaku.com/app/uploads/2026/06/Final-Fantasy-7-Revelation-Key-Art-Square-Enix-971x675.jpg",
+      "published_at": "2026-06-22T20:03:46Z",
+      "key_points": [
+        "Queer romances enhance realism",
+        "Diversity in storytelling",
+        "Director's vision for inclusivity"
+      ],
+      "impact": "The game reflects a more inclusive world.",
+      "id": "2b95edc091c43fed1039dc1f7b254250"
+    },
+    {
+      "title": "Chinese spaceplane releases object into orbit, according to commercial space surveillance",
+      "description": "A Chinese spaceplane has reportedly released an object into orbit during its fourth mission, according to surveillance data. Details remain limited.",
+      "category": "Geopolitics",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/chinese-spaceplane-releases-object-into-orbit-according-to-commercial-space-surveillance/",
+      "image": "https://spacenews.com/wp-content/uploads/2025/11/Shenzhou22-launch-CZ2F-JSLC-25nov2025-CASC.jpg",
+      "published_at": "2026-06-22T17:42:59Z",
+      "key_points": [
+        "Chinese spaceplane's fourth mission",
+        "Object released into orbit",
+        "Surveillance data confirms event"
+      ],
+      "impact": "China's space capabilities continue to advance.",
+      "id": "be5f8c5cd749bbcd3edbebabc8aa43d1"
+    },
+    {
+      "title": "Valve is working with AMD to bring FSR 4 to the Steam Machine",
+      "description": "Valve collaborates with AMD to enhance the Steam Machine's graphics with FSR 4 technology. This aims to improve game rendering quality.",
+      "category": "Gaming",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/952210/valve-steam-machine-fsr4-amd-upscaler",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0014.jpg?quality=90&strip=all&crop=0%2C10.805700988947%2C100%2C78.388598022106&w=1200",
+      "published_at": "2026-06-22T17:10:00Z",
+      "key_points": [
+        "Valve partners with AMD",
+        "FSR 4 for Steam Machine",
+        "Graphics enhancement planned"
+      ],
+      "impact": "Steam Machine graphics are set to improve.",
+      "id": "4c49355193e283a05082d703f1ccb54f"
+    },
+    {
+      "title": "Apple Seeds iOS 27 and iPadOS 27 Second Betas to Developers",
+      "description": "Apple has released the second betas of iOS 27 and iPadOS 27 for developers. This follows the initial beta release two weeks ago.",
       "category": "Software",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/22/ios-27-makes-it-easier-to-update-your-apple-tv-software/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-tv-4k-homekit.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-22T19:15:00Z",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/22/apple-seeds-ios-27-beta-2/",
+      "image": "https://images.macrumors.com/t/PeEXCl2WWdKyHqei1lMVhyyE0_Y=/2500x/article-new/2026/06/iOS-27-Feature-Dark.jpg",
+      "published_at": "2026-06-22T17:08:57Z",
       "key_points": [
-        "Easier Apple TV updates",
-        "Siri improvements included",
-        "User experience enhanced"
+        "Second betas for developers",
+        "iOS 27 and iPadOS 27",
+        "Initial beta released earlier"
       ],
-      "impact": "This update streamlines Apple TV management.",
-      "id": "6231407105651a828d7f55368abce5af"
+      "impact": "Developers can now test new features.",
+      "id": "17b412d430b1cc431aa12b83af4d497d"
     },
     {
-      "title": "Prime Day Offers Major Discounts on Apple Products",
-      "description": "Amazon Prime Day 2026 features significant discounts on AirPods, Apple Watch, and more, lasting until June 26.",
+      "title": "Here’s how you can reserve a Steam Machine",
+      "description": "Valve has introduced a reservation system for the Steam Machine, allowing users to sign up from June 22 to June 25.",
+      "category": "Gaming",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/952191/valve-steam-machine-reservation-preorder-process",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0061.jpg?quality=90&strip=all&crop=0%2C10.820244328098%2C100%2C78.359511343805&w=1200",
+      "published_at": "2026-06-22T17:07:01Z",
+      "key_points": [
+        "Steam Machine reservation system",
+        "Sign-up window open",
+        "Lottery for configurations"
+      ],
+      "impact": "Users can secure their Steam Machine early.",
+      "id": "1c219df46cdce3ccb36262ec0da49619"
+    },
+    {
+      "title": "Nintendo Is Running a Brand New Sale On Switch Games, Save $20 on These Select Titles",
+      "description": "Amazon is offering a $20 discount on select Nintendo Switch games ahead of Prime Day. Popular titles are included in the sale.",
+      "category": "Gaming",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/nintendo-is-running-a-brand-new-sale-on-switch-games-save-20-on-these-select-titles",
+      "image": "https://assets-prd.ignimgs.com/2026/06/22/amazon-switch-game-sale-1782141042981.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-22T16:23:00Z",
+      "key_points": [
+        "$20 off select Switch games",
+        "Amazon's early Prime Day sale",
+        "Popular titles included"
+      ],
+      "impact": "Switch owners can save on top games.",
+      "id": "9fb60e8b4507416214b057221810f1ca"
+    },
+    {
+      "title": "The Elder Scrolls Online Prepares to Set Sail for Adventure with High Seas of Tamriel, Its Most Ambitious Experiment in Years",
+      "description": "The Elder Scrolls Online is launching the High Seas of Tamriel event, marking a significant update in its seasonal approach to content.",
+      "category": "Gaming",
+      "source": "Xbox.com",
+      "url": "https://news.xbox.com/en-us/2026/06/22/the-elder-scrolls-online-prepares-set-sail-for-adventure-high-seas-of-tamriel/",
+      "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/assets_2026_03_1774291698_ESO2026_UpcomingFeatures_HighSeasOfTamriel_4k-706edeb38039d93b0ee7.jpg",
+      "published_at": "2026-06-22T16:02:31Z",
+      "key_points": [
+        "High Seas of Tamriel event",
+        "New seasonal content approach",
+        "Exciting updates planned"
+      ],
+      "impact": "Players can look forward to new adventures.",
+      "id": "4926c4f5b1baf8d9cd233cd35d2a04ee"
+    },
+    {
+      "title": "Apple Approves Production of OLED Panels for Foldable iPhone",
+      "description": "Apple has authorized Samsung Display to begin production of OLED panels for its upcoming foldable iPhone, signaling progress in development.",
       "category": "Business",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/22/prime-day-2026-best-apple-deals/",
-      "image": "https://images.macrumors.com/t/Yl77cA5OtduqJ4K1yYZ1JQh7gVs=/2500x/article-new/2026/06/airpods-pro-3-prime-day.jpeg",
-      "published_at": "2026-06-22T19:11:06Z",
+      "url": "https://www.macrumors.com/2026/06/22/production-of-panels-for-foldable-iphone-approved/",
+      "image": "https://images.macrumors.com/t/a63wTdKOm6Q4Sycz8dpdmeLDYSo=/2250x/article-new/2025/03/Foldable-iPhone-2023-Feature-Iridescent-1.jpg",
+      "published_at": "2026-06-22T15:00:17Z",
       "key_points": [
-        "Prime Day discounts available",
-        "Deals on Apple products",
-        "Limited time offers"
+        "Production of OLED panels approved",
+        "Foldable iPhone development progresses",
+        "Samsung Display involved"
       ],
-      "impact": "This boosts sales for Apple products.",
-      "id": "8741fdd0816d8945822a406ed35b2b16"
-    },
-    {
-      "title": "Valve's Steam Machine Launches June 29",
-      "description": "Valve's Steam Machine will ship on June 29 for $1,049, utilizing a randomized purchase queue for fairness.",
-      "category": "Gaming",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/06/valves-steam-machine-ships-june-29-for-1049-but-you-probably-wont-be-able-to-buy-one-yet/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/valve-steam-machine-desktop-1152x648.jpeg",
-      "published_at": "2026-06-22T19:02:45Z",
-      "key_points": [
-        "Steam Machine launches soon",
-        "Randomized purchase queue",
-        "Price set at $1,049"
-      ],
-      "impact": "This aims to improve purchase fairness.",
-      "id": "03df3d260c93faa4cd324501b5ed5d91"
-    },
-    {
-      "title": "SEGA Reports Disappointing Sales for Sonic and Shinobi",
-      "description": "SEGA's financial report reveals Sonic Racing: CrossWorlds and Shinobi: Art of Vengeance sales fell short of expectations.",
-      "category": "Gaming",
-      "source": "Nintendo Everything",
-      "url": "https://nintendoeverything.com/sega-says-sonic-racing-crossworlds-and-shinobi-art-of-vengeance-sales-havent-met-its-expectations/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Sonic-Racing-Shinobi-sales-disappointment.jpg",
-      "published_at": "2026-06-22T18:10:23Z",
-      "key_points": [
-        "Sales below expectations",
-        "Financial report highlights issues",
-        "SEGA reassesses strategies"
-      ],
-      "impact": "This may prompt changes in SEGA's approach.",
-      "id": "08c4e96e2af211f4ccc3ac2d022845c5"
-    },
-    {
-      "title": "Facebook Marketplace Couch Sale Turns into Scam",
-      "description": "A man selling his couch on Facebook Marketplace gets scammed after Zelle flags the payment as suspicious.",
-      "category": "Business",
-      "source": "The Big Lead",
-      "url": "https://www.thebiglead.com/man-scammed-couch-facebook-zelle/",
-      "image": "https://www.thebiglead.com/wp-content/uploads/2026/06/Man-sells-his-couch-on-Facebook-marketplace.-.jpg",
-      "published_at": "2026-06-22T18:00:37Z",
-      "key_points": [
-        "Couch sale leads to scam",
-        "Zelle flags suspicious payment",
-        "Buyer experiences regret"
-      ],
-      "impact": "This highlights risks in online transactions.",
-      "id": "362572a12e67799453537a990c1e0312"
-    },
-    {
-      "title": "Apple Watch SE 3 Priced at $199 for Prime Day",
-      "description": "The Apple Watch SE 3 is now available for $199 during Prime Day, offering great value with watchOS 27 support.",
-      "category": "Business",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/953458/apple-watch-se-3-prime-day-deal-sale",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257944_Applewatch_SE_AKrales_0104.jpg?quality=90&strip=all&crop=0%2C32.547993019197%2C100%2C34.904013961606&w=1200",
-      "published_at": "2026-06-22T18:00:00Z",
-      "key_points": [
-        "Apple Watch SE 3 discounted",
-        "Great value for Prime Day",
-        "Supports latest watchOS"
-      ],
-      "impact": "This deal increases accessibility for consumers.",
-      "id": "7c856553d22d27d92f39c212536324f6"
-    },
-    {
-      "title": "Windows 11 26H2 Update Coming Soon",
-      "description": "Microsoft announces Windows 11 version 26H2 will be available soon, with an easy upgrade process for existing users.",
-      "category": "Software",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
-      "image": "https://www.bleepstatic.com/content/hl-images/2023/02/13/0_Windows_11.jpg",
-      "published_at": "2026-06-22T17:41:31Z",
-      "key_points": [
-        "Windows 11 26H2 update announced",
-        "Easy upgrade for users",
-        "New features expected"
-      ],
-      "impact": "This update enhances user experience significantly.",
-      "id": "a2e4e7e63e56dc2353158ae3ba6c2351"
-    },
-    {
-      "title": "Devil May Cry 5 Switch 2 vs. PS4 Comparison",
-      "description": "A video comparison shows Devil May Cry 5 on Nintendo Switch 2 can reach 120 FPS, similar to PS4 performance.",
-      "category": "Gaming",
-      "source": "Nintendo Everything",
-      "url": "https://nintendoeverything.com/video-devil-may-cry-5-nintendo-switch-2-vs-ps4-comparison-can-hit-120-fps-on-nintendos-console/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Devil-May-Cry-5-Switch-2-vs.-PS4-comparison.jpg",
-      "published_at": "2026-06-22T17:25:23Z",
-      "key_points": [
-        "Switch 2 hits 120 FPS",
-        "Comparison with PS4",
-        "Performance similarities noted"
-      ],
-      "impact": "This showcases Switch 2's gaming capabilities.",
-      "id": "d6f7c2a7d656f1164244f0d344602e2d"
-    },
-    {
-      "title": "AMD Launches FSR 4.1 for Older GPUs",
-      "description": "AMD introduces FSR Upscaling 4.1 for Radeon RX 7000-series GPUs, enhancing performance for older graphics cards.",
-      "category": "Software",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/953664/amd-fsr-4-1-upscaling-rx-7000-series-gpus-rdna-3",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ss_3a0de67fdb133b4b21c53cc23a813b766f0c612c.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "published_at": "2026-06-22T16:37:57Z",
-      "key_points": [
-        "FSR 4.1 launched",
-        "Enhances older graphics cards",
-        "Support for RDNA 3 APUs coming"
-      ],
-      "impact": "This improves gaming performance for older systems.",
-      "id": "6bcc9c78d9b0f2e068189b72c3ed31e4"
-    },
-    {
-      "title": "RedMagic Unveils Gaming Tablet with Water Cooling",
-      "description": "RedMagic announces its next gaming tablet featuring water cooling, set to launch this month.",
-      "category": "Gaming",
-      "source": "GSMArena.com",
-      "url": "https://www.gsmarena.com/redmagic_shows_its_next_gaming_tablet_with_water_cooling_reveals_its_launch_date-news-73378.php",
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/redmagic-tablet-5-pro-design-launch-date/-952x498w6/gsmarena_000.jpg",
-      "published_at": "2026-06-22T15:00:03Z",
-      "key_points": [
-        "New gaming tablet revealed",
-        "Features water cooling",
-        "Launch date announced"
-      ],
-      "impact": "This innovation enhances gaming performance.",
-      "id": "6145a9d9a24c425024a4faefe7fc59f3"
-    },
-    {
-      "title": "Apple AirTags Discounted for Prime Day",
-      "description": "Second-generation AirTags are now available for $90 during Prime Day, marking a significant discount.",
-      "category": "Business",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/951987/apple-airtag-second-gen-prime-day-deal-sale-2026",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268280_AirTags_2_AKrales_0003.webp?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-      "published_at": "2026-06-22T15:00:00Z",
-      "key_points": [
-        "AirTags discounted to $90",
-        "First major price drop",
-        "Available during Prime Day"
-      ],
-      "impact": "This increases consumer interest in AirTags.",
-      "id": "7b2debfe217abe47bacbb6cec0f3cd1d"
-    },
-    {
-      "title": "Moving Closer to Family Can Bring Regrets",
-      "description": "Feliz Hebert shares her experience moving to Connecticut for family, only to return to Cape Cod due to loneliness.",
-      "category": "Geopolitics",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/moved-closer-kids-grandkids-regrets-moved-back-2026-6#article",
-      "image": "https://i.insider.com/6a318a4c73f469f2923c673e?width=1200&format=jpeg",
-      "published_at": "2026-06-22T13:43:09Z",
-      "key_points": [
-        "Family move led to loneliness",
-        "Regrets about relocation",
-        "Returned to Cape Cod"
-      ],
-      "impact": "This highlights emotional challenges of relocation.",
-      "id": "81fb437d6d932769a203e18376b85f54"
+      "impact": "Apple moves closer to launching its foldable iPhone.",
+      "id": "140dc2eb7f9db727dfa4169ca89a363b"
     }
   ]
 }

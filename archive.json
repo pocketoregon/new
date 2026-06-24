@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-24T03:29:01.386934+00:00",
+      "fetched_at": "2026-06-24T03:29:01.386934+00:00",
+      "label": "Jun 24, 2026 — 03:29 AM UTC",
+      "articles": [
+        {
+          "title": "Capcom Spotlight Announced For This Week, Here's A Teaser Trailer",
+          "description": "Capcom's upcoming Spotlight will showcase 30 minutes of news and updates. Fans can expect exciting announcements for various platforms.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/capcom-spotlight-announced-for-this-week-heres-a-teaser-trailer",
+          "image": "https://images.nintendolife.com/3540981b58db2/large.jpg",
+          "published_at": "2026-06-23T02:00:00Z",
+          "key_points": [
+            "30-minute news showcase",
+            "Exciting game announcements",
+            "Multiple platforms involved"
+          ],
+          "impact": "Capcom continues to engage its fanbase effectively.",
+          "id": "d66d724584bf223d792922cecb6242cd"
+        },
+        {
+          "title": "Target Just Launched New LEGO Super Mario Deals and Amazon Is Matching For Prime Day 2026",
+          "description": "Target and Amazon are offering early LEGO Super Mario deals ahead of Prime Day. Discounts are available on various sets until June 26.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/lego-super-mario-set-deals-prime-day-2026",
+          "image": "https://assets-prd.ignimgs.com/2025/09/02/legomarioyoshi-1756833656382.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-23T01:37:00Z",
+          "key_points": [
+            "LEGO Super Mario discounts",
+            "Prime Day starts tomorrow",
+            "Target and Amazon competing"
+          ],
+          "impact": "Shoppers can save significantly on LEGO sets.",
+          "id": "5734d121409c1292fa5845496f699324"
+        },
+        {
+          "title": "Prime Day deals are officially live: Shop the best tech sales from Apple, Sony, Bose, Anker and others for up to 54% off right now",
+          "description": "Amazon Prime Day has launched with discounts on tech products from major brands. Members can save up to 54% on various items.",
+          "category": "Business",
+          "source": "Yahoo Entertainment",
+          "url": "https://tech.yahoo.com/deals/breaking-news/live/prime-day-deals-are-officially-live-shop-the-best-tech-sales-from-apple-sony-bose-anker-and-others-for-up-to-54-off-right-now-184252541.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/699a35d87ef550c6a887231a3713b8b24903f318d05f93894f944e10a7d22a6e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fexample-5_9078.jpg",
+          "published_at": "2026-06-23T00:30:00Z",
+          "key_points": [
+            "Prime Day discounts live now",
+            "Up to 54% off tech",
+            "Wide range of brands included"
+          ],
+          "impact": "Consumers can take advantage of significant savings.",
+          "id": "d9c2a97e6a7c2e29f2a0fa602ff81bf6"
+        },
+        {
+          "title": "The 4 PSI Rule For Tires: What Is It, And Is It Reliable?",
+          "description": "The 4 PSI rule helps estimate tire inflation but varies in reliability based on conditions. Understanding its limitations is crucial for drivers.",
+          "category": "Science",
+          "source": "Jalopnik",
+          "url": "https://www.jalopnik.com/2199207/is-4-psi-tire-rule-reliable/",
+          "image": "https://www.jalopnik.com/img/gallery/the-4-psi-rule-for-tires-what-is-it-and-is-it-reliable/l-intro-1782152919.jpg",
+          "published_at": "2026-06-22T22:25:00Z",
+          "key_points": [
+            "4 PSI rule explained",
+            "Reliability varies by conditions",
+            "Important for tire maintenance"
+          ],
+          "impact": "Drivers should be cautious using this rule.",
+          "id": "983053a1ddc3a7f86f98509cd6de643e"
+        },
+        {
+          "title": "Kojima Says Only Xbox And Phil Spencer Understood OD, His New Horror Game",
+          "description": "Hideo Kojima reveals that only Xbox and Phil Spencer grasped the concept of his horror game, OD. Other companies showed little interest.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/only-xbox-was-interested-in-kojimas-horror-game-other-companies-didnt-understand-the-concept-2000709107",
+          "image": "https://kotaku.com/app/uploads/2026/06/od1-960x539-1.jpg",
+          "published_at": "2026-06-22T21:18:53Z",
+          "key_points": [
+            "Kojima's horror game OD",
+            "Xbox's unique understanding",
+            "Other companies uninterested"
+          ],
+          "impact": "Kojima's vision finds a home with Xbox.",
+          "id": "4fbbbd29cca4e0debdfda41c7142b620"
+        },
+        {
+          "title": "Every Pontiac Firebird Generation Ranked By Top Speed",
+          "description": "A ranking of all Pontiac Firebird generations based on verified top speed data. Discover which models performed best.",
+          "category": "Science",
+          "source": "Jalopnik",
+          "url": "https://www.jalopnik.com/2198015/every-pontiac-firebird-generation-ranked-top-speed/",
+          "image": "https://www.jalopnik.com/img/gallery/every-pontiac-firebird-generation-ranked-top-speed/l-intro-1782156001.jpg",
+          "published_at": "2026-06-22T20:45:00Z",
+          "key_points": [
+            "Pontiac Firebird generations ranked",
+            "Top speed data analyzed",
+            "Performance insights provided"
+          ],
+          "impact": "Car enthusiasts gain valuable performance knowledge.",
+          "id": "3df85b1ac571754305571ca8ef96150d"
+        },
+        {
+          "title": "Sega plans shift to influencers after Sonic and Shinobi sales disappoint, despite strong reviews",
+          "description": "Sega will pivot to influencer marketing after disappointing sales of Sonic and Shinobi games. Two new flagship titles are also on the way.",
+          "category": "Gaming",
+          "source": "Video Games Chronicle",
+          "url": "https://www.videogameschronicle.com/news/sega-plans-shift-to-influencers-after-sonic-racing-and-shinobi-sales-disappoint/",
+          "image": "https://www.videogameschronicle.com/files/2026/06/IMG_9490-2560x1920.jpeg",
+          "published_at": "2026-06-22T20:10:53Z",
+          "key_points": [
+            "Sega shifts marketing strategy",
+            "Influencer focus for future games",
+            "New flagship titles coming soon"
+          ],
+          "impact": "Sega aims to revitalize its marketing approach.",
+          "id": "5e42d1c26de7a90a1252982a044b7a13"
+        },
+        {
+          "title": "Final Fantasy VII Revelation Director Says Queer Romances Make The World Feel More Real",
+          "description": "Director Naoki Hamaguchi emphasizes that queer relationships enhance realism in Final Fantasy VII's remake trilogy. Diversity enriches the narrative.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/final-fantasy-7-ff7-remake-revelation-queer-gay-characters-director-hamaguchi-2000709062",
+          "image": "https://kotaku.com/app/uploads/2026/06/Final-Fantasy-7-Revelation-Key-Art-Square-Enix-971x675.jpg",
+          "published_at": "2026-06-22T20:03:46Z",
+          "key_points": [
+            "Queer romances enhance realism",
+            "Diversity in storytelling",
+            "Director's vision for inclusivity"
+          ],
+          "impact": "The game reflects a more inclusive world.",
+          "id": "2b95edc091c43fed1039dc1f7b254250"
+        },
+        {
+          "title": "Chinese spaceplane releases object into orbit, according to commercial space surveillance",
+          "description": "A Chinese spaceplane has reportedly released an object into orbit during its fourth mission, according to surveillance data. Details remain limited.",
+          "category": "Geopolitics",
+          "source": "SpaceNews",
+          "url": "https://spacenews.com/chinese-spaceplane-releases-object-into-orbit-according-to-commercial-space-surveillance/",
+          "image": "https://spacenews.com/wp-content/uploads/2025/11/Shenzhou22-launch-CZ2F-JSLC-25nov2025-CASC.jpg",
+          "published_at": "2026-06-22T17:42:59Z",
+          "key_points": [
+            "Chinese spaceplane's fourth mission",
+            "Object released into orbit",
+            "Surveillance data confirms event"
+          ],
+          "impact": "China's space capabilities continue to advance.",
+          "id": "be5f8c5cd749bbcd3edbebabc8aa43d1"
+        },
+        {
+          "title": "Valve is working with AMD to bring FSR 4 to the Steam Machine",
+          "description": "Valve collaborates with AMD to enhance the Steam Machine's graphics with FSR 4 technology. This aims to improve game rendering quality.",
+          "category": "Gaming",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/952210/valve-steam-machine-fsr4-amd-upscaler",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0014.jpg?quality=90&strip=all&crop=0%2C10.805700988947%2C100%2C78.388598022106&w=1200",
+          "published_at": "2026-06-22T17:10:00Z",
+          "key_points": [
+            "Valve partners with AMD",
+            "FSR 4 for Steam Machine",
+            "Graphics enhancement planned"
+          ],
+          "impact": "Steam Machine graphics are set to improve.",
+          "id": "4c49355193e283a05082d703f1ccb54f"
+        },
+        {
+          "title": "Apple Seeds iOS 27 and iPadOS 27 Second Betas to Developers",
+          "description": "Apple has released the second betas of iOS 27 and iPadOS 27 for developers. This follows the initial beta release two weeks ago.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/22/apple-seeds-ios-27-beta-2/",
+          "image": "https://images.macrumors.com/t/PeEXCl2WWdKyHqei1lMVhyyE0_Y=/2500x/article-new/2026/06/iOS-27-Feature-Dark.jpg",
+          "published_at": "2026-06-22T17:08:57Z",
+          "key_points": [
+            "Second betas for developers",
+            "iOS 27 and iPadOS 27",
+            "Initial beta released earlier"
+          ],
+          "impact": "Developers can now test new features.",
+          "id": "17b412d430b1cc431aa12b83af4d497d"
+        },
+        {
+          "title": "Here’s how you can reserve a Steam Machine",
+          "description": "Valve has introduced a reservation system for the Steam Machine, allowing users to sign up from June 22 to June 25.",
+          "category": "Gaming",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/952191/valve-steam-machine-reservation-preorder-process",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0061.jpg?quality=90&strip=all&crop=0%2C10.820244328098%2C100%2C78.359511343805&w=1200",
+          "published_at": "2026-06-22T17:07:01Z",
+          "key_points": [
+            "Steam Machine reservation system",
+            "Sign-up window open",
+            "Lottery for configurations"
+          ],
+          "impact": "Users can secure their Steam Machine early.",
+          "id": "1c219df46cdce3ccb36262ec0da49619"
+        },
+        {
+          "title": "Nintendo Is Running a Brand New Sale On Switch Games, Save $20 on These Select Titles",
+          "description": "Amazon is offering a $20 discount on select Nintendo Switch games ahead of Prime Day. Popular titles are included in the sale.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/nintendo-is-running-a-brand-new-sale-on-switch-games-save-20-on-these-select-titles",
+          "image": "https://assets-prd.ignimgs.com/2026/06/22/amazon-switch-game-sale-1782141042981.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-22T16:23:00Z",
+          "key_points": [
+            "$20 off select Switch games",
+            "Amazon's early Prime Day sale",
+            "Popular titles included"
+          ],
+          "impact": "Switch owners can save on top games.",
+          "id": "9fb60e8b4507416214b057221810f1ca"
+        },
+        {
+          "title": "The Elder Scrolls Online Prepares to Set Sail for Adventure with High Seas of Tamriel, Its Most Ambitious Experiment in Years",
+          "description": "The Elder Scrolls Online is launching the High Seas of Tamriel event, marking a significant update in its seasonal approach to content.",
+          "category": "Gaming",
+          "source": "Xbox.com",
+          "url": "https://news.xbox.com/en-us/2026/06/22/the-elder-scrolls-online-prepares-set-sail-for-adventure-high-seas-of-tamriel/",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/assets_2026_03_1774291698_ESO2026_UpcomingFeatures_HighSeasOfTamriel_4k-706edeb38039d93b0ee7.jpg",
+          "published_at": "2026-06-22T16:02:31Z",
+          "key_points": [
+            "High Seas of Tamriel event",
+            "New seasonal content approach",
+            "Exciting updates planned"
+          ],
+          "impact": "Players can look forward to new adventures.",
+          "id": "4926c4f5b1baf8d9cd233cd35d2a04ee"
+        },
+        {
+          "title": "Apple Approves Production of OLED Panels for Foldable iPhone",
+          "description": "Apple has authorized Samsung Display to begin production of OLED panels for its upcoming foldable iPhone, signaling progress in development.",
+          "category": "Business",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/22/production-of-panels-for-foldable-iphone-approved/",
+          "image": "https://images.macrumors.com/t/a63wTdKOm6Q4Sycz8dpdmeLDYSo=/2250x/article-new/2025/03/Foldable-iPhone-2023-Feature-Iridescent-1.jpg",
+          "published_at": "2026-06-22T15:00:17Z",
+          "key_points": [
+            "Production of OLED panels approved",
+            "Foldable iPhone development progresses",
+            "Samsung Display involved"
+          ],
+          "impact": "Apple moves closer to launching its foldable iPhone.",
+          "id": "140dc2eb7f9db727dfa4169ca89a363b"
+        }
+      ]
+    },
+    {
       "id": "2026-06-23T22:11:36.884142+00:00",
       "fetched_at": "2026-06-23T22:11:36.884142+00:00",
       "label": "Jun 23, 2026 — 10:12 PM UTC",
@@ -6488,253 +6735,6 @@
           ],
           "impact": "Samsung enters the XR market with Galaxy XR.",
           "id": "42f390fe4406820e1b40ef7b7ab6bc44"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-18T22:55:23.167955+00:00",
-      "fetched_at": "2026-06-18T22:55:23.167955+00:00",
-      "label": "Jun 18, 2026 — 10:55 PM UTC",
-      "articles": [
-        {
-          "title": "Microsoft Begins Layoffs at Zenimax",
-          "description": "Redundancies have started at Zenimax, affecting studios like Bethesda and Arkane. Microsoft is restructuring its gaming division.",
-          "category": "Gaming",
-          "source": "TheSixthAxis",
-          "url": "https://www.thesixthaxis.com/2026/06/17/report-redundancies-at-microsoft-owned-zenimax-have-begun/",
-          "image": "https://www.thesixthaxis.com/wp-content/uploads/2019/10/FalloutLegacy-Hero500.jpg",
-          "published_at": "2026-06-17T20:56:02Z",
-          "key_points": [
-            "Layoffs at Zenimax confirmed",
-            "Affects major game studios",
-            "Microsoft restructuring gaming division"
-          ],
-          "impact": "This could impact future game releases.",
-          "id": "b8267a74b7014fccb6c30c20451eae0f"
-        },
-        {
-          "title": "Marvel Rivals Launches Free-to-Play Shooter",
-          "description": "Marvel Rivals invites players to ignite the battle in its new team-based shooter. The game is now available for free.",
-          "category": "Gaming",
-          "source": "Marvelrivals.com",
-          "url": "https://www.marvelrivals.com/20260617/41525_1304600.html",
-          "image": "https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg",
-          "published_at": "2026-06-17T20:47:52Z",
-          "key_points": [
-            "Free-to-play shooter launched",
-            "Team-based gameplay",
-            "No server downtime for patch"
-          ],
-          "impact": "This could attract a large player base.",
-          "id": "d34943ad7565a159026d35a51d647c76"
-        },
-        {
-          "title": "Snap's AR Glasses Launch Causes Stock Drop",
-          "description": "Snap's new AR glasses launch has negatively impacted its stock performance. The company faces ongoing financial challenges.",
-          "category": "Business",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2281915461.jpg?resize=1200,800",
-          "published_at": "2026-06-17T20:24:28Z",
-          "key_points": [
-            "AR glasses launch disappointing",
-            "Stock dropped 30% this year",
-            "Financial struggles continue"
-          ],
-          "impact": "Investors are concerned about Snap's future.",
-          "id": "358e207ac3c718c864b49194f949d6f6"
-        },
-        {
-          "title": "PS5 Ports for Call of Duty: Black Ops Confirmed",
-          "description": "Treyarch confirms PS5 ports for Call of Duty: Black Ops and Black Ops 2, set to launch in July.",
-          "category": "Gaming",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/06/call-of-duty-black-ops-1-and-2-ps5-ports-now-official-launching-in-july",
-          "image": "https://images.pushsquare.com/8a4b3a3640b3a/large.jpg",
-          "published_at": "2026-06-17T20:00:00Z",
-          "key_points": [
-            "PS5 ports confirmed",
-            "Launching in July",
-            "Developed by Iron Galaxy"
-          ],
-          "impact": "This will boost interest in classic titles.",
-          "id": "e4ede06243b0cf32d844204970fdfa16"
-        },
-        {
-          "title": "Apple's Second-Gen iPhone Air Coming in 2027",
-          "description": "Apple is preparing a second-generation iPhone Air for spring 2027 to enhance its appeal. Prototypes are currently in development.",
-          "category": "Business",
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-17/apple-prepares-second-generation-iphone-air-for-spring-2027",
-          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4oYuYc_kzSg/v1/1200x800.jpg",
-          "published_at": "2026-06-17T19:57:38Z",
-          "key_points": [
-            "Second-gen iPhone Air planned",
-            "Launch expected in spring 2027",
-            "Prototypes are in development"
-          ],
-          "impact": "This could revitalize Apple's smartphone lineup.",
-          "id": "6cc507359a568aeaaf9b0ba1dd07e4ea"
-        },
-        {
-          "title": "Google Photos Expands AI Editing Feature",
-          "description": "Google Photos is rolling out its AI-powered 'Edit with Ask Photos' feature to five new countries, enhancing user experience.",
-          "category": "Software",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/06/17/google-photos-edit-ask-photos-expansion/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/edit-with-ask-photos.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-17T19:40:00Z",
-          "key_points": [
-            "AI editing feature expanded",
-            "Now available in five countries",
-            "Enhances user photo editing"
-          ],
-          "impact": "This improves accessibility for global users.",
-          "id": "fddd0d4564258fbcee6dee9f6c9fe765"
-        },
-        {
-          "title": "Mega Staraptor Dominates Pokémon Champions",
-          "description": "The latest update in Pokémon Champions makes Mega Staraptor a formidable opponent. Players are excited about its new abilities.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/pokemon-champions-mega-staraptor-contrary-close-combat-2000707669",
-          "image": "https://kotaku.com/app/uploads/2026/06/homerchokebart-1200x675.jpg",
-          "published_at": "2026-06-17T19:32:20Z",
-          "key_points": [
-            "Mega Staraptor update released",
-            "New abilities enhance gameplay",
-            "Players excited about changes"
-          ],
-          "impact": "This could shift competitive strategies.",
-          "id": "32505ef8adb811f01408492f9105330f"
-        },
-        {
-          "title": "Motorola Razr 70 Ultra Review Highlights",
-          "description": "The Motorola Razr 70 Ultra features a familiar design but increases battery capacity to 5,000 mAh. It's now under review.",
-          "category": "Hardware",
-          "source": "GSMArena.com",
-          "url": "https://www.gsmarena.com/motorola_razr_70_ultra_razr_ultra_2026_in_for_review-news-73282.php",
-          "image": "https://fdn.gsmarena.com/imgroot/news/26/06/motorola-razr-70-ultra-ifr/-952x498w6/gsmarena_000.jpg",
-          "published_at": "2026-06-17T18:31:02Z",
-          "key_points": [
-            "Battery capacity increased",
-            "Design similar to predecessor",
-            "Undergoing review process"
-          ],
-          "impact": "This may attract loyal Razr fans.",
-          "id": "d5e5153c465d22fe2c85f7b5bf301c16"
-        },
-        {
-          "title": "Yakuza Creator's Game Loses Director Amid Funding Issues",
-          "description": "Daisuke Sato, formerly of Nagoshi Studio, reports losing the director of his new game due to funding cuts from NetEase.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/yakuza-creators-new-game-lost-director-2000707635",
-          "image": "https://kotaku.com/app/uploads/2026/03/gangofdragon.jpg",
-          "published_at": "2026-06-17T18:28:19Z",
-          "key_points": [
-            "Director lost amid funding cuts",
-            "Nagoshi Studio facing challenges",
-            "Game development uncertain"
-          ],
-          "impact": "This raises concerns about project viability.",
-          "id": "bc993cbafb1d3f995cc638d817779f9a"
-        },
-        {
-          "title": "Xbox's Strategy Criticized by Former Sony Boss",
-          "description": "Shawn Layden critiques Xbox's recent decisions, suggesting a fundamental misunderstanding of the gaming industry.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/former-sony-gaming-boss-shawn-layden-xbox-basic-misunderstanding-industry-2000707632",
-          "image": "https://kotaku.com/app/uploads/2019/09/wawgyqt4bdzu3vfidw4i.jpg",
-          "published_at": "2026-06-17T18:08:38Z",
-          "key_points": [
-            "Layden critiques Xbox strategy",
-            "Misunderstanding of gaming industry",
-            "Concerns for Xbox's future"
-          ],
-          "impact": "This could affect Xbox's market position.",
-          "id": "e62270aad573b4f8201632c4316557ec"
-        },
-        {
-          "title": "Unreal Engine 5 Update Boosts Nintendo Switch 2",
-          "description": "Epic Games announces a major Unreal Engine 5 update, enhancing performance on Nintendo Switch 2 significantly.",
-          "category": "Gaming",
-          "source": "Video Games Chronicle",
-          "url": "https://www.videogameschronicle.com/news/epic-introduces-major-unreal-engine-5-update-that-runs-twice-as-fast-on-nintendo-switch-2/",
-          "image": "https://www.videogameschronicle.com/files/2026/06/Screenshot-2026-06-17-172233.jpg",
-          "published_at": "2026-06-17T16:29:19Z",
-          "key_points": [
-            "Unreal Engine 5 update released",
-            "Performance boost for Switch 2",
-            "Improved lighting features"
-          ],
-          "impact": "This enhances game development possibilities.",
-          "id": "266b73c8c04dac2ca828a1954323c329"
-        },
-        {
-          "title": "Upcoming Xbox Layoffs Expected to Be Severe",
-          "description": "Reports indicate significant layoffs at Xbox, affecting multiple studios. Details are still emerging.",
-          "category": "Business",
-          "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/news/2026/06/its-going-to-be-pretty-brutal-jason-schreier-reveals-more-on-upcoming-xbox-layoffs",
-          "image": "https://images.purexbox.com/e012ba5040bbf/large.jpg",
-          "published_at": "2026-06-17T16:10:00Z",
-          "key_points": [
-            "Severe layoffs expected at Xbox",
-            "Multiple studios affected",
-            "Details still emerging"
-          ],
-          "impact": "This could impact Xbox's development teams.",
-          "id": "81c66ba9c4ca50dff8055f9a932fad8b"
-        },
-        {
-          "title": "Google Home Speaker Finally Available for Preorder",
-          "description": "The $100 Google Home Speaker, powered by Gemini, is now available for preorder after a long wait.",
-          "category": "Hardware",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Google-Home-Speaker-Jade-copy-1152x648.jpg",
-          "published_at": "2026-06-17T15:57:14Z",
-          "key_points": [
-            "Google Home Speaker available for preorder",
-            "Powered by Gemini technology",
-            "Launch set for June 25"
-          ],
-          "impact": "This could boost Google's smart home market.",
-          "id": "e517d277b36d35212ccf401cf07c49c1"
-        },
-        {
-          "title": "Valve Steam Machine Shows Impressive Performance",
-          "description": "New benchmarks reveal Valve's Steam Machine performs comparably to a Ryzen 5 5600X, indicating strong potential if priced right.",
-          "category": "Hardware",
-          "source": "Wccftech",
-          "url": "https://wccftech.com/valve-steam-machine-benchmarks-2x-uplift-over-steam-deck-comparable-to-ryzen-5-5600x-at-30w/",
-          "image": "https://cdn.wccftech.com/wp-content/uploads/2025/11/Steam_Machine_Closeup-HD-1920x987.jpeg",
-          "published_at": "2026-06-17T15:30:00Z",
-          "key_points": [
-            "Steam Machine benchmarks released",
-            "Performance comparable to Ryzen 5",
-            "Potential if priced competitively"
-          ],
-          "impact": "This could reshape Valve's hardware strategy.",
-          "id": "945c9e44f1712fc975176c1575533d81"
-        },
-        {
-          "title": "Destiny 2 Introduces Endless Grind for Collectors",
-          "description": "Despite its decline, Destiny 2 offers players a new reason to engage with the game through collectible grinding.",
-          "category": "Gaming",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/paultassi/2026/06/17/a-dead-destiny-2-now-has-something-players-can-grind-for-forever/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a32a51b0bf452559a0c349f/0x0.jpg?format=jpg&crop=2562,1440,x437,y0,safe&height=900&width=1600&fit=bounds",
-          "published_at": "2026-06-17T13:50:33Z",
-          "key_points": [
-            "Destiny 2 offers new grind",
-            "Focus on collectible items",
-            "Game still engaging for players"
-          ],
-          "impact": "This could retain some player interest.",
-          "id": "fb295274d07e9fe02586cc25032c1b32"
         }
       ]
     }
