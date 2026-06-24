@@ -1,6 +1,61 @@
 {
   "batches": [
     {
+      "id": "2026-06-24T17:03:47.598379+00:00",
+      "fetched_at": "2026-06-24T17:03:47.598379+00:00",
+      "label": "Jun 24, 2026 — 05:03 PM UTC",
+      "articles": [
+        {
+          "title": "iOS 27 Beta 2 Adds Inline Replies to RCS Chats",
+          "description": "Apple's iOS 27 Beta 2 introduces inline replies for RCS chats with Android users, enhancing messaging functionality. Users can now reply directly to specific messages.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/22/ios-27-beta-2-inline-replies-rcs/",
+          "image": "https://images.macrumors.com/t/YCfKC7CdSR7A9d-4aYe9jfsjkew=/2500x/article-new/2025/03/RCS-Feature-1.jpg",
+          "published_at": "2026-06-22T19:06:13Z",
+          "key_points": [
+            "Inline replies for RCS chats",
+            "Supports Android messaging",
+            "Enhances user experience"
+          ],
+          "impact": "This update improves cross-platform messaging efficiency.",
+          "id": "3f0f0eb983f0071358dda21504c44e10"
+        },
+        {
+          "title": "The Hammerhead Karoo Hits Best Price of the Year",
+          "description": "The Hammerhead Karoo cycling computer is now available at its lowest price this year during Amazon Prime Day. It features an impressive touchscreen for navigation.",
+          "category": "Hardware",
+          "source": "Cyclingnews.com",
+          "url": "https://www.cyclingnews.com/cycling-tech-components/a-smartphone-like-user-experience-the-hammerhead-karoo-has-just-hit-its-best-price-of-the-year-in-this-amazon-prime-day-deal/",
+          "image": "https://cdn.mos.cms.futurecdn.net/QogkYhzGhXJ2Ahjo6fpQK7-2048-80.jpg",
+          "published_at": "2026-06-22T16:56:10Z",
+          "key_points": [
+            "Best price of the year",
+            "Brilliant touchscreen",
+            "Top cycling navigation choice"
+          ],
+          "impact": "Cyclists can save significantly on this device.",
+          "id": "227c295a60ac301e667f0f9f48ba5b3a"
+        },
+        {
+          "title": "Clip-On Frames for Smart Glasses Are Here",
+          "description": "Smart glasses are becoming mainstream, prompting new accessories like clip-on frames from Lorika for Meta's Ray-Ban smart glasses. This innovation enhances personalization options.",
+          "category": "Gaming",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/lorika-ontop-cases-for-smart-glasses-now/",
+          "image": "https://media.wired.com/photos/6a394e10f4897b0621c672c6/191:100/w_1280,c_limit/POST_LORIKA.jpg",
+          "published_at": "2026-06-22T16:41:00Z",
+          "key_points": [
+            "New clip-on frames available",
+            "Enhances smart glasses style",
+            "Lorika's innovative accessories"
+          ],
+          "impact": "This trend boosts the smart glasses market appeal.",
+          "id": "b7d2d61e8b23b87f4937ccd7bbc9c4e1"
+        }
+      ]
+    },
+    {
       "id": "2026-06-24T14:26:59.658173+00:00",
       "fetched_at": "2026-06-24T14:26:59.658173+00:00",
       "label": "Jun 24, 2026 — 02:27 PM UTC",
@@ -6488,253 +6543,6 @@
           ],
           "impact": "No Law aims to redefine open world gaming.",
           "id": "f1eb0bf392c63d772e53fc7a48bb1005"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-19T15:16:24.104023+00:00",
-      "fetched_at": "2026-06-19T15:16:24.104023+00:00",
-      "label": "Jun 19, 2026 — 03:16 PM UTC",
-      "articles": [
-        {
-          "title": "Hedonites of Slaanesh Battle Traits Unveiled",
-          "description": "Discover new battle traits for the Hedonites of Slaanesh in Warhammer Age of Sigmar. Enhance your gameplay with these exciting updates.",
-          "category": "Gaming",
-          "source": "Warhammer-community.com",
-          "url": "https://www.warhammer-community.com/articles/75cyi2wg/succumb-to-temptation",
-          "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/aos_hosrules-jun15-1-feature-nvsn7fh4iw.jpg",
-          "published_at": "2026-06-18T14:25:41Z",
-          "key_points": [
-            "New traits enhance gameplay",
-            "Focus on Hedonites of Slaanesh",
-            "Exciting updates for players"
-          ],
-          "impact": "Players can expect fresh strategies in gameplay.",
-          "id": "474c196c7d091b5fabb8f2d360b2d3de"
-        },
-        {
-          "title": "Gabe Newell Buys $70.8M Florida Mansion",
-          "description": "Valve founder Gabe Newell purchases a luxurious $70.8 million mansion in Florida, featuring a private dock and ocean access tunnel.",
-          "category": "Business",
-          "source": "The Seattle Times",
-          "url": "https://www.seattletimes.com/business/real-estate/gabe-newell-founder-of-bellevues-valve-buys-70-8m-florida-mansion/",
-          "image": "https://images.seattletimes.com/wp-content/uploads/2026/06/06172026_tzr_tzr_154347.jpg?d=1200x630",
-          "published_at": "2026-06-18T14:20:47Z",
-          "key_points": [
-            "Gabe Newell's new mansion",
-            "Features private dock",
-            "Cost $70.8 million"
-          ],
-          "impact": "Newell's purchase highlights his wealth and influence.",
-          "id": "883c37b1e8afe0a2544fbf38286eeb21"
-        },
-        {
-          "title": "GTA VI Cover Art and Pre-Order Date Revealed",
-          "description": "The official cover art for Grand Theft Auto VI has been unveiled, along with its pre-order date, exciting fans ahead of release.",
-          "category": "Gaming",
-          "source": "Bleacher Report",
-          "url": "https://bleacherreport.com/articles/25442069-grand-theft-auto-vi-cover-and-pre-order-date-revealed-new-viral-video-months-release",
-          "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-06/2212422820_large_cropped.jpg?w=3800&h=2000",
-          "published_at": "2026-06-18T14:03:45Z",
-          "key_points": [
-            "GTA VI cover art revealed",
-            "Pre-order date announced",
-            "Fans excited for release"
-          ],
-          "impact": "Anticipation for GTA VI continues to grow.",
-          "id": "c2aa0003a4f12f43d5b241738dab9d78"
-        },
-        {
-          "title": "Sony Did Not End Destiny 2 for Revenge",
-          "description": "Reports clarify that Sony's closure of Destiny 2 was not a revenge act against Bungie, dispelling fan theories.",
-          "category": "Gaming",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/paultassi/2026/06/18/no-sony-did-not-end-destiny-2-to-get-revenge-on-bungie/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a11a663649790fc925b0e42/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "published_at": "2026-06-18T13:56:36Z",
-          "key_points": [
-            "Sony's closure not revenge",
-            "Clarifies fan misconceptions",
-            "Destiny 2's end explained"
-          ],
-          "impact": "Fans can now understand the closure's context.",
-          "id": "067e2afec246b8b7cacdb57a6bc8a4d7"
-        },
-        {
-          "title": "Android 17 Update: Pixel Performance Poll",
-          "description": "Users are asked if their Pixel devices run smoother after updating to Android 17, gauging performance improvements.",
-          "category": "Software",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/06/18/is-your-pixel-running-smoother-after-updating-to-android-17-poll/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-18T12:00:00Z",
-          "key_points": [
-            "Poll on Android 17 performance",
-            "User feedback sought",
-            "Pixel device improvements"
-          ],
-          "impact": "User experiences will inform future updates.",
-          "id": "bf9118947347de6a64ed70fb18f6dfe4"
-        },
-        {
-          "title": "Ghost in the Shell Keyboard Review",
-          "description": "Iqunix’s EV63 Ghost in the Shell Edition keyboard combines anime aesthetics with high-performance gaming features.",
-          "category": "Gaming",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/951371/iqunix-ev63-ghost-in-the-shell-edition-anime-gaming-mechanical-keyboard-review",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268602_Iqunix_EV63_Ghost_in_the_Shell_mechanical_keyboards_ADiBenedetto_0004.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-06-18T12:00:00Z",
-          "key_points": [
-            "Anime-inspired design",
-            "High-performance features",
-            "Great tactile feedback"
-          ],
-          "impact": "A must-have for anime and gaming fans.",
-          "id": "7aa8e3798fa05a518389240eff552237"
-        },
-        {
-          "title": "GTA Online: Fine Art Collector Program",
-          "description": "Join the Fine Art Collector program in GTA Online to earn special rewards, including up to GTA$1,500,000 in bonus cash.",
-          "category": "Gaming",
-          "source": "Rockstar Games",
-          "url": "https://www.rockstargames.com/newswire/article/4k157o2o8k7o7o/earn-special-rewards-in-gta-online-with-the-fine-art-collector-program",
-          "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/4k157o2o8k7o7o/3f3aad75b26a79d0339aa43ce43cfdfb4e1da53e.jpg",
-          "published_at": "2026-06-18T11:55:53Z",
-          "key_points": [
-            "Earn GTA$1,500,000",
-            "Join Fine Art Collector program",
-            "Special rewards available"
-          ],
-          "impact": "Players can boost their earnings in-game.",
-          "id": "2c91d08e8787d791ce8f021857a89b09"
-        },
-        {
-          "title": "Xbox Studio Layoffs Expected Amid Struggles",
-          "description": "A report indicates significant layoffs at Xbox studios, leading to potential job losses and studio closures due to internal pressures.",
-          "category": "Business",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/amid-concern-over-xbox-studio-bloodbath-new-report-says-developers-are-being-punished-today-for-following-orders",
-          "image": "https://assets-prd.ignimgs.com/2026/05/07/xbox-1778178511851.jpg?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-18T11:47:07Z",
-          "key_points": [
-            "Significant layoffs expected",
-            "Developers facing internal pressures",
-            "Potential studio closures"
-          ],
-          "impact": "The gaming industry faces uncertainty with layoffs.",
-          "id": "fbf895a215a8b6c779a82f513d071633"
-        },
-        {
-          "title": "Commodore Launches Linux-Powered Flip Phone",
-          "description": "Commodore introduces a new Linux-powered flip phone, reviving nostalgia for the brand's classic products.",
-          "category": "Hardware",
-          "source": "Hackaday",
-          "url": "https://hackaday.com/2026/06/18/commodore-unveils-linux-powered-flip-phone/",
-          "image": "https://hackaday.com/wp-content/uploads/2026/06/CommodorePhoneFeat.jpg",
-          "published_at": "2026-06-18T11:00:00Z",
-          "key_points": [
-            "Linux-powered flip phone",
-            "Nostalgic brand revival",
-            "New tech innovation"
-          ],
-          "impact": "Commodore aims to capture retro tech enthusiasts.",
-          "id": "2b59dc478b63b3efdb9bdc1d57442aff"
-        },
-        {
-          "title": "Treyarch Confuses Xbox Fans with Black Ops Reveal",
-          "description": "Treyarch announces Black Ops 1 and 2 for PS5, leaving Xbox fans puzzled about the game's availability on their platform.",
-          "category": "Gaming",
-          "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/news/2026/06/treyarch-confuses-xbox-fans-with-black-ops-1-and-2-reveal-for-ps5",
-          "image": "https://images.purexbox.com/8ab8ad78b4b47/large.jpg",
-          "published_at": "2026-06-18T10:00:00Z",
-          "key_points": [
-            "Black Ops for PS5 announced",
-            "Xbox fans confused",
-            "No clear Xbox release date"
-          ],
-          "impact": "Fans await clarity on game availability.",
-          "id": "c0c224da3814605325fbcc45e40d9915"
-        },
-        {
-          "title": "12 Reasons to Wait for iPhone 18 Pro",
-          "description": "Anticipation builds for the iPhone 18 Pro, with several enhancements expected in Apple's next flagship smartphone.",
-          "category": "Business",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/18/12-reasons-wait-iphone-18-pro/",
-          "image": "https://images.macrumors.com/t/GEiBu2iaA9GrrmRRMXVC3ULLfZo=/2500x/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
-          "published_at": "2026-06-18T09:17:44Z",
-          "key_points": [
-            "iPhone 18 Pro enhancements",
-            "Launch in three months",
-            "Reasons to wait"
-          ],
-          "impact": "Consumers are encouraged to hold off on purchases.",
-          "id": "929eea04af08867287653a6d1fa9ec43"
-        },
-        {
-          "title": "Granblue Fantasy: Relink Demo Available Now",
-          "description": "A demo for Granblue Fantasy: Relink – Endless Ragnarok is now available on multiple platforms, allowing players to experience the game early.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/granblue-fantasy-relink-endless-ragnarok-demo-now-available",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/GBF-Demo_06-17-26.jpg",
-          "published_at": "2026-06-18T03:11:56Z",
-          "key_points": [
-            "Demo available for multiple platforms",
-            "Experience Endless Ragnarok early",
-            "Exciting gameplay preview"
-          ],
-          "impact": "Players can try the game before release.",
-          "id": "87fe2d33a8d748f83c966a21ecf75048"
-        },
-        {
-          "title": "Gemini Overlay Uses Bubbles for Multitasking",
-          "description": "The Gemini overlay on Android now utilizes Bubbles for better multitasking and conversation tracking, enhancing user experience.",
-          "category": "Software",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/06/17/gemini-overlay-bubble-android/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-overlay-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-18T02:16:00Z",
-          "key_points": [
-            "Gemini overlay updated",
-            "Bubbles for multitasking",
-            "Improved conversation tracking"
-          ],
-          "impact": "Enhanced multitasking capabilities for users.",
-          "id": "4f6fe3412e9e320ed324fa8c57c53e11"
-        },
-        {
-          "title": "OtherSide Entertainment Lays Off 17 Staff",
-          "description": "Following the cancellation of a game, OtherSide Entertainment has laid off 17 employees, impacting the studio's future projects.",
-          "category": "Business",
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/otherside-entertainment-lays-off-17-staff-following-game-cancellation",
-          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltb38da172cac2072/6a32cc00283d295aa334d50d/thick_as_thieves.jpg?disable=upscale&width=1200&height=630&fit=crop",
-          "published_at": "2026-06-17T21:09:33Z",
-          "key_points": [
-            "17 staff laid off",
-            "Game cancellation impact",
-            "Studio's future uncertain"
-          ],
-          "impact": "The studio faces challenges after layoffs.",
-          "id": "54ae811a5ae30b2ff2771ff650dbe477"
-        },
-        {
-          "title": "Google Calendar Expands Event Color Options",
-          "description": "Google Calendar now offers expanded color options and a color picker, addressing a major design flaw for better event management.",
-          "category": "Software",
-          "source": "Android Police",
-          "url": "https://www.androidpolice.com/google-calendar-fixes-its-biggest-design-flaw-with-expanded-event-color-options/",
-          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/12/illustration-of-a-google-calendar-schedule-grid-featuring-colorful-time-blocks-and-the-app-logo.png?w=1600&h=900&fit=crop",
-          "published_at": "2026-06-17T19:42:30Z",
-          "key_points": [
-            "Expanded color options added",
-            "New color picker feature",
-            "Improved event management"
-          ],
-          "impact": "Users can now organize events more effectively.",
-          "id": "90b300cb05f97337f7e3935f59eaf5cd"
         }
       ]
     }

@@ -1,245 +1,53 @@
 {
-  "generated_at": "2026-06-24T14:26:59.658173+00:00",
+  "generated_at": "2026-06-24T17:03:47.598379+00:00",
   "articles": [
     {
-      "title": "Prime Day Tablet Deals Are Live: 25+ Offers to Grab Right Now",
-      "description": "Massive discounts on iPads and Samsung Galaxy Tabs are available now. Don't miss out on these Prime Day tablet deals!",
-      "category": "Business",
-      "source": "CNET",
-      "url": "https://www.cnet.com/deals/best-prime-day-tablet-deals-2026-06-23/",
-      "image": "https://www.cnet.com/a/img/resize/4d7dfe41cc32a01e57a2a9eb7ff37dc4ed250151/hub/2026/06/18/1fcb6b7b-06ab-4ee7-8a0a-f2f589c55ae0/prime-day-tablet-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "published_at": "2026-06-23T14:08:29Z",
-      "key_points": [
-        "Massive iPad discounts",
-        "Samsung Galaxy Tab deals",
-        "Limited time offers"
-      ],
-      "impact": "Prime Day offers significant savings on tablets.",
-      "id": "b54d486213107db089623717ad2b6d07"
-    },
-    {
-      "title": "Warhammer 40,000 Devs Announce And Roll Back Launcher In 24 Hours",
-      "description": "Owlcat Games quickly retracted its new PC launcher announcement after backlash. The decision sparked nearly 2000 comments without any likes.",
-      "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/owlcat-games-launcher-steam-warhammer-40k-rogue-trader-2000709500",
-      "image": "https://kotaku.com/app/uploads/2026/06/roguetrader-1200x675.jpg",
-      "published_at": "2026-06-23T13:15:50Z",
-      "key_points": [
-        "Launcher announced and retracted",
-        "2000 comments, no likes",
-        "Community backlash noted"
-      ],
-      "impact": "Owlcat Games faces backlash over launcher decision.",
-      "id": "34f5b2a5c11015c74b2be3c257053048"
-    },
-    {
-      "title": "Prime Day Brings Seriously Deep Dell Deals With 33% Off Top Desktops, Laptops, and More",
-      "description": "Dell and Alienware are offering steep discounts on desktops and laptops for Prime Day. Don't miss these limited-time deals!",
-      "category": "Business",
-      "source": "PCMag",
-      "url": "https://www.pcmag.com/news/best-amazon-prime-day-sale-dell-deals-sales-laptops-desktops-monitors-2026",
-      "image": "https://i.pcmag.com/imagery/articles/04imUpi6AJsezrEFVRzHG5g-12.fit_lim.size_1200x630.v1782217995.png",
-      "published_at": "2026-06-23T13:13:15Z",
-      "key_points": [
-        "33% off Dell products",
-        "Alienware discounts available",
-        "Limited-time Prime Day offers"
-      ],
-      "impact": "Dell offers significant savings during Prime Day.",
-      "id": "3c2ee27b4bf7dc4b8ed03711acb7db1f"
-    },
-    {
-      "title": "Meta launches cheaper smart glasses without Ray-Ban",
-      "description": "Meta introduces $299 smart glasses featuring updated AI and customizable designs. Privacy improvements are also on the way.",
-      "category": "Business",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/MetaGlasses_1.jpg?quality=90&strip=all&crop=8.55%2C24.971192772515%2C82.25546875%2C66.205436991061&w=1200",
-      "published_at": "2026-06-23T13:00:00Z",
-      "key_points": [
-        "New smart glasses at $299",
-        "Updated AI features",
-        "Privacy improvements coming"
-      ],
-      "impact": "Meta's smart glasses offer affordability and features.",
-      "id": "e8192cad21f53bd05699a126eef2a9d4"
-    },
-    {
-      "title": "Here’s how your phone is running after updating to Android 17",
-      "description": "Most users report stable performance after updating to Android 17. Minimal bugs have been noted in the latest update.",
+      "title": "iOS 27 Beta 2 Adds Inline Replies to RCS Chats",
+      "description": "Apple's iOS 27 Beta 2 introduces inline replies for RCS chats with Android users, enhancing messaging functionality. Users can now reply directly to specific messages.",
       "category": "Software",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/06/23/heres-how-your-phone-is-running-after-updating-to-android-17/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-23T13:00:00Z",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/22/ios-27-beta-2-inline-replies-rcs/",
+      "image": "https://images.macrumors.com/t/YCfKC7CdSR7A9d-4aYe9jfsjkew=/2500x/article-new/2025/03/RCS-Feature-1.jpg",
+      "published_at": "2026-06-22T19:06:13Z",
       "key_points": [
-        "Stable performance reported",
-        "Minimal bugs found",
-        "User satisfaction high"
+        "Inline replies for RCS chats",
+        "Supports Android messaging",
+        "Enhances user experience"
       ],
-      "impact": "Android 17 update shows positive user feedback.",
-      "id": "d83b879b714f7a7a465980303e641f19"
+      "impact": "This update improves cross-platform messaging efficiency.",
+      "id": "3f0f0eb983f0071358dda21504c44e10"
     },
     {
-      "title": "The 30 Best Nintendo Prime Day Deals — Hand-Picked by Our Deals Experts",
-      "description": "Experts have curated the best Nintendo Switch 2 deals for Prime Day 2026. Great bundles and accessories are available now.",
-      "category": "Gaming",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/best-nintendo-switch-2-prime-day-deals-2026",
-      "image": "https://assets-prd.ignimgs.com/2026/06/23/best-switch-deals-prime-day-2026-2-1782204225923.png?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-23T12:43:24Z",
-      "key_points": [
-        "Best Nintendo Switch deals",
-        "Curated by experts",
-        "Limited-time offers available"
-      ],
-      "impact": "Nintendo fans can find great Prime Day deals.",
-      "id": "c2fef25a852e3e5db7798bdb9d982857"
-    },
-    {
-      "title": "Exclusive | Rare $18.5M NYC townhouse finds a cash buyer in 3 weeks",
-      "description": "A rare NYC townhouse sold for $18.5 million in just three weeks. The all-cash deal highlights the competitive real estate market.",
-      "category": "Business",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/06/23/real-estate/rare-18-5m-nyc-townhouse-finds-a-cash-buyer-in-3-weeks/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/131833893.jpg?quality=75&strip=all&w=1200",
-      "published_at": "2026-06-23T11:05:00Z",
-      "key_points": [
-        "$18.5M townhouse sold",
-        "Buyer found in 3 weeks",
-        "All-cash transaction"
-      ],
-      "impact": "Fast sale reflects NYC's competitive real estate market.",
-      "id": "7c7b334beea3cf174f730ceb607d71f1"
-    },
-    {
-      "title": "Minecraft 26.3 Snapshot 1",
-      "description": "Minecraft's new forest biome is now in testing. Players can explore an abandoned camp and discover hidden loot.",
-      "category": "Gaming",
-      "source": "Minecraft.net",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-1",
-      "image": "https://www.minecraft.net/content/dam/minecraftnet/article-asset/2026/minecraft-26-3-snapshot-1/new-article-hero-image.jpg",
-      "published_at": "2026-06-23T10:57:57Z",
-      "key_points": [
-        "New forest biome testing",
-        "Explore abandoned camp",
-        "Discover hidden loot"
-      ],
-      "impact": "Minecraft introduces exciting new gameplay elements.",
-      "id": "e0e7fc284f520b7bc973b3f4faddeaa7"
-    },
-    {
-      "title": "What Owners Say Is The Biggest Problem With Foldable Phones",
-      "description": "Foldable phone users cite hinge durability and battery life as major concerns. The unique aspect ratio also poses challenges.",
+      "title": "The Hammerhead Karoo Hits Best Price of the Year",
+      "description": "The Hammerhead Karoo cycling computer is now available at its lowest price this year during Amazon Prime Day. It features an impressive touchscreen for navigation.",
       "category": "Hardware",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2196864/what-do-owners-say-problem-foldable-phones/",
-      "image": "https://www.bgr.com/img/gallery/what-owners-say-is-the-biggest-problem-with-foldable-phones/l-intro-1781730488.jpg",
-      "published_at": "2026-06-23T09:47:00Z",
+      "source": "Cyclingnews.com",
+      "url": "https://www.cyclingnews.com/cycling-tech-components/a-smartphone-like-user-experience-the-hammerhead-karoo-has-just-hit-its-best-price-of-the-year-in-this-amazon-prime-day-deal/",
+      "image": "https://cdn.mos.cms.futurecdn.net/QogkYhzGhXJ2Ahjo6fpQK7-2048-80.jpg",
+      "published_at": "2026-06-22T16:56:10Z",
       "key_points": [
-        "Durability issues with hinges",
-        "Battery life concerns",
-        "Aspect ratio challenges noted"
+        "Best price of the year",
+        "Brilliant touchscreen",
+        "Top cycling navigation choice"
       ],
-      "impact": "Foldable phones face significant user challenges.",
-      "id": "92795b9fb693331c00c3c488a9dd28f6"
+      "impact": "Cyclists can save significantly on this device.",
+      "id": "227c295a60ac301e667f0f9f48ba5b3a"
     },
     {
-      "title": "Continental releases Tour de France tyres including exclusive 'transparent' Aero 111",
-      "description": "Continental launches a limited edition tyre set for the Tour de France. The set includes an exclusive Aero 111 front tyre.",
-      "category": "Business",
-      "source": "BikeRadar",
-      "url": "https://www.bikeradar.com/news/continental-2026-tour-de-france-tyres",
-      "image": "https://www.bikeradar.com/resources/content/32337f2f-7841-4ef6-a233-d1f001580530/4d6141bb-3bdb-4f78-8bba-087f0655d5e4/1369f3a4-411c-4e24-95ee-bba03b03c207/2f545e8c-8453-1987-7516-80b53bb2e4be.png?preview=false&platform=WEB&deviceId=6d1ce265-5da2-49af-b9f7-a2df79745033&w=1200",
-      "published_at": "2026-06-23T07:00:00Z",
-      "key_points": [
-        "New Tour de France tyres",
-        "Includes exclusive Aero 111",
-        "Designed for performance"
-      ],
-      "impact": "Continental enhances cycling performance with new tyres.",
-      "id": "8cfbc791b0925ea7d5f838864dfbb919"
-    },
-    {
-      "title": "The Google Pixel 10 Pro Drops to Its Lowest Price Ever for Amazon Prime Day, But Stock Is Limited",
-      "description": "The Google Pixel 10 Pro is now available for $799 during Prime Day. Stock is limited, so act fast!",
-      "category": "Business",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/amazons-google-pixel-10-pro-sale-is-the-best-phone-deal-of-prime-day-2026",
-      "image": "https://assets-prd.ignimgs.com/2025/08/28/blogroll-1756422272508.JPG?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-23T06:48:00Z",
-      "key_points": [
-        "Pixel 10 Pro at $799",
-        "Lowest price ever",
-        "Limited stock available"
-      ],
-      "impact": "Prime Day offers unbeatable price on Pixel 10 Pro.",
-      "id": "9d8bdf704fa28c716add1b6b56ed2031"
-    },
-    {
-      "title": "Marvel's Wolverine Actor Confirms Role in GTA 6",
-      "description": "Actors confirm roles in Grand Theft Auto VI, including Marvel's Wolverine star. Excitement builds for the upcoming game.",
+      "title": "Clip-On Frames for Smart Glasses Are Here",
+      "description": "Smart glasses are becoming mainstream, prompting new accessories like clip-on frames from Lorika for Meta's Ray-Ban smart glasses. This innovation enhances personalization options.",
       "category": "Gaming",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/marvels-wolverine-actor-confirms-role-in-gta-6",
-      "image": "https://assets-prd.ignimgs.com/2026/06/18/official-cover-art-landscape-12-uu2irr-2-a-1781799433001.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-23T01:39:00Z",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/lorika-ontop-cases-for-smart-glasses-now/",
+      "image": "https://media.wired.com/photos/6a394e10f4897b0621c672c6/191:100/w_1280,c_limit/POST_LORIKA.jpg",
+      "published_at": "2026-06-22T16:41:00Z",
       "key_points": [
-        "Actors confirm GTA 6 roles",
-        "Marvel's Wolverine star involved",
-        "Anticipation for game builds"
+        "New clip-on frames available",
+        "Enhances smart glasses style",
+        "Lorika's innovative accessories"
       ],
-      "impact": "GTA 6 casting news generates excitement among fans.",
-      "id": "a37984b94cef98183ed347c4c5089d27"
-    },
-    {
-      "title": "Judge agrees to set aside default entered against Jon Prosser in Apple lawsuit",
-      "description": "Jon Prosser receives a chance to respond to Apple's lawsuit regarding iOS 26 leaks. The legal battle continues.",
-      "category": "Policy",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/22/judge-agrees-to-set-aside-default-entered-against-jon-prosser-in-apple-lawsuit/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/joe-prosser.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-22T21:41:00Z",
-      "key_points": [
-        "Jon Prosser gets new chance",
-        "Apple lawsuit continues",
-        "iOS 26 leak controversy"
-      ],
-      "impact": "Prosser's case against Apple gains new momentum.",
-      "id": "ce81fea0517c55fbc6ff68d4c8feed71"
-    },
-    {
-      "title": "New supply chain report claims the iPhone Ultra will be unveiled as scheduled",
-      "description": "Despite previous delay reports, the iPhone Ultra is expected to launch on time. Supply chain sources confirm the schedule.",
-      "category": "Business",
-      "source": "GSMArena.com",
-      "url": "https://www.gsmarena.com/new_supply_chain_report_claims_the_iphone_ultra_will_be_unveiled_as_scheduled-news-73387.php",
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/iphone-ultra-coming-in-september/-952x498w6/gsmarena_000.jpg",
-      "published_at": "2026-06-22T21:30:01Z",
-      "key_points": [
-        "iPhone Ultra launch on schedule",
-        "Supply chain confirms timing",
-        "Previous delay rumors dismissed"
-      ],
-      "impact": "iPhone Ultra's launch remains on track.",
-      "id": "64907b29800d6fda439d07eb0c4ef186"
-    },
-    {
-      "title": "Prime Day 2026 LIVE: all the top TV, soundbar and projector deals handpicked by our home cinema experts",
-      "description": "Experts are curating the best Prime Day AV deals in real-time. Stay updated on the latest offers for TVs and sound systems.",
-      "category": "Business",
-      "source": "What Hi-Fi? US",
-      "url": "https://www.whathifi.com/tv-home-cinema/live/prime-day-2026-live-all-the-top-tv-soundbar-and-projector-deals-handpicked-by-our-home-cinema-experts",
-      "image": "https://cdn.mos.cms.futurecdn.net/zVEEREXGtySZjVxToH7N66-1920-80.jpg",
-      "published_at": "2026-06-22T19:44:42Z",
-      "key_points": [
-        "Real-time AV deal updates",
-        "Expert handpicked selections",
-        "Best Prime Day offers"
-      ],
-      "impact": "Stay informed on top AV deals this Prime Day.",
-      "id": "42c643285822800b152348b4dfcfd927"
+      "impact": "This trend boosts the smart glasses market appeal.",
+      "id": "b7d2d61e8b23b87f4937ccd7bbc9c4e1"
     }
   ]
 }
