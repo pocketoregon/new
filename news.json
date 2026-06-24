@@ -1,247 +1,247 @@
 {
   "date": "2026-06-24",
-  "generated_at": "2026-06-24T09:26:55.306201+00:00",
+  "generated_at": "2026-06-24T14:26:59.658173+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Prime Day Lego Deals You Can't Miss",
-      "description": "Discover top Lego deals for Prime Day, including Star Wars sets and F1 cars. Perfect for avid builders looking for discounts.",
-      "category": "Gaming",
-      "source": "CNN",
-      "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-lego-deals-2026-06-23",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/lego-prime-day-deals-2026.jpg?c=16x9&q=w_800,c_fill",
-      "published_at": "2026-06-23T07:16:00Z",
-      "key_points": [
-        "Best Lego Star Wars deals",
-        "Discounts on brick-built plants",
-        "F1 car sets available"
-      ],
-      "impact": "These deals enhance the Prime Day shopping experience.",
-      "id": "041a6ac64d06d5a17a63f80edc212ddd"
-    },
-    {
-      "title": "Early Prime Day Deals You Shouldn't Miss",
-      "description": "Amazon's early Prime Day offers include devices, Kindle bundles, and headphones. Shop now for significant savings before the main event.",
+      "title": "Prime Day Tablet Deals Are Live: 25+ Offers to Grab Right Now",
+      "description": "Massive discounts on iPads and Samsung Galaxy Tabs are available now. Don't miss out on these Prime Day tablet deals!",
       "category": "Business",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/best-amazon-prime-day-deals-2026",
-      "image": "https://helios-i.mashable.com/imagery/articles/05762kyUFuzcUAp6v7JIcEC/hero-image.fill.size_1200x675.v1782198016.jpg",
-      "published_at": "2026-06-23T07:15:40Z",
+      "source": "CNET",
+      "url": "https://www.cnet.com/deals/best-prime-day-tablet-deals-2026-06-23/",
+      "image": "https://www.cnet.com/a/img/resize/4d7dfe41cc32a01e57a2a9eb7ff37dc4ed250151/hub/2026/06/18/1fcb6b7b-06ab-4ee7-8a0a-f2f589c55ae0/prime-day-tablet-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "published_at": "2026-06-23T14:08:29Z",
       "key_points": [
-        "Early deals on Amazon devices",
-        "Kindle bundles available",
-        "Discounted headphones"
+        "Massive iPad discounts",
+        "Samsung Galaxy Tab deals",
+        "Limited time offers"
       ],
-      "impact": "These early deals set the stage for Prime Day.",
-      "id": "5229971fccc967d04b91d4a7534ef774"
+      "impact": "Prime Day offers significant savings on tablets.",
+      "id": "b54d486213107db089623717ad2b6d07"
     },
     {
-      "title": "New Features in iOS 27 Beta 2",
-      "description": "Apple's iOS 27 Beta 2 introduces several new features and updates. Users can expect enhanced functionality ahead of the official release.",
-      "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/guide/ios-27-features/",
-      "image": "https://images.macrumors.com/t/PeEXCl2WWdKyHqei1lMVhyyE0_Y=/2500x/article-new/2026/06/iOS-27-Feature-Dark.jpg",
-      "published_at": "2026-06-22T23:02:49Z",
-      "key_points": [
-        "New features added",
-        "Multiple updates included",
-        "Preparing for official release"
-      ],
-      "impact": "iOS 27 Beta 2 enhances user experience significantly.",
-      "id": "4466d5e14484bb8179f493602e875efd"
-    },
-    {
-      "title": "Samsung Launches Fastest UFS 5.0 Storage",
-      "description": "Samsung unveils the fastest Universal Flash Storage 5.0 solution, enhancing on-device AI applications. This innovation promises improved efficiency.",
-      "category": "Hardware",
-      "source": "Samsung",
-      "url": "https://news.samsung.com/global/samsung-unveils-industrys-fastest-ufs-5-0-solution-for-next-gen-on-device-ai-applications",
-      "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/06/22173757/Samsung-Semiconductors-UFS-5.0-solution_Thumb932.jpg",
-      "published_at": "2026-06-22T23:00:00Z",
-      "key_points": [
-        "Fastest UFS 5.0 solution",
-        "Enhances AI applications",
-        "Improved efficiency promised"
-      ],
-      "impact": "This storage solution sets a new industry standard.",
-      "id": "0e801c72e8cae66369cc36673c860a36"
-    },
-    {
-      "title": "SEGA Reports Sales for Key Titles",
-      "description": "SEGA shares lifetime sales figures for Persona, Metaphor, and Like a Dragon. The report highlights strong performance over the past year.",
-      "category": "Gaming",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/06/sega-shares-lifetime-sales-update-for-persona-metaphor-and-like-a-dragon",
-      "image": "https://images.pushsquare.com/1ce804d8e9e81/large.jpg",
-      "published_at": "2026-06-22T23:00:00Z",
-      "key_points": [
-        "Sales figures revealed",
-        "Strong performance noted",
-        "Key titles highlighted"
-      ],
-      "impact": "SEGA's titles continue to perform well in the market.",
-      "id": "2d01a593ef2da26dd0fc29caf4061c4b"
-    },
-    {
-      "title": "Kojima Teases New Horror Game Screenshot",
-      "description": "Hideo Kojima shares a new screenshot from his upcoming horror game OD, evoking memories of his previous work. Fans are intrigued by the familiar atmosphere.",
+      "title": "Warhammer 40,000 Devs Announce And Roll Back Launcher In 24 Hours",
+      "description": "Owlcat Games quickly retracted its new PC launcher announcement after backlash. The decision sparked nearly 2000 comments without any likes.",
       "category": "Gaming",
       "source": "Kotaku",
-      "url": "https://kotaku.com/hideo-kojima-shares-new-screenshot-od-looks-like-pt-2000709099",
-      "image": "https://kotaku.com/app/uploads/2023/12/989758634cca554a29d0aeb9774a213b-1200x675.jpg",
-      "published_at": "2026-06-22T21:44:02Z",
+      "url": "https://kotaku.com/owlcat-games-launcher-steam-warhammer-40k-rogue-trader-2000709500",
+      "image": "https://kotaku.com/app/uploads/2026/06/roguetrader-1200x675.jpg",
+      "published_at": "2026-06-23T13:15:50Z",
       "key_points": [
-        "New screenshot shared",
-        "Familiar atmosphere noted",
-        "Fans excited for release"
+        "Launcher announced and retracted",
+        "2000 comments, no likes",
+        "Community backlash noted"
       ],
-      "impact": "Kojima's teaser heightens anticipation for the game.",
-      "id": "204a489ebf5c6738ee69eadf085d75cb"
+      "impact": "Owlcat Games faces backlash over launcher decision.",
+      "id": "34f5b2a5c11015c74b2be3c257053048"
     },
     {
-      "title": "EA Cuts Staff in Latest Layoffs",
-      "description": "Electronic Arts is reportedly laying off staff in recruitment, customer support, and IT. This marks another round of job cuts for the company.",
+      "title": "Prime Day Brings Seriously Deep Dell Deals With 33% Off Top Desktops, Laptops, and More",
+      "description": "Dell and Alienware are offering steep discounts on desktops and laptops for Prime Day. Don't miss these limited-time deals!",
       "category": "Business",
-      "source": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/ea-is-reportedly-laying-off-recruitment-customer-support-safety-and-it-staff",
-      "image": "https://assetsio.gnwcdn.com/30931-ea-logo-wallpaper-442625200.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-22T21:29:34Z",
+      "source": "PCMag",
+      "url": "https://www.pcmag.com/news/best-amazon-prime-day-sale-dell-deals-sales-laptops-desktops-monitors-2026",
+      "image": "https://i.pcmag.com/imagery/articles/04imUpi6AJsezrEFVRzHG5g-12.fit_lim.size_1200x630.v1782217995.png",
+      "published_at": "2026-06-23T13:13:15Z",
       "key_points": [
-        "Layoffs in multiple departments",
-        "Focus on recruitment cuts",
-        "Customer support staff affected"
+        "33% off Dell products",
+        "Alienware discounts available",
+        "Limited-time Prime Day offers"
       ],
-      "impact": "EA's layoffs reflect ongoing industry challenges.",
-      "id": "9282c10ed235c780abd9a6e4cb361b50"
+      "impact": "Dell offers significant savings during Prime Day.",
+      "id": "3c2ee27b4bf7dc4b8ed03711acb7db1f"
     },
     {
-      "title": "StarCraft II Patch 5.0.16 Released",
-      "description": "The new StarCraft II patch includes map pool updates, balance changes, and quality of life improvements. Players can expect enhanced strategic variety.",
-      "category": "Gaming",
-      "source": "Blizzard News",
-      "url": "https://news.blizzard.com/en-us/article/24259080/starcraft-ii-5-0-16-patch-notes",
-      "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/kd/KD50BBXYHMBR1554829677265.jpg",
-      "published_at": "2026-06-22T18:55:00Z",
-      "key_points": [
-        "New map pool introduced",
-        "Balance changes applied",
-        "Quality of life improvements"
-      ],
-      "impact": "Patch enhances gameplay experience for StarCraft II.",
-      "id": "f7b6f629b59c878539356e748c904a1f"
-    },
-    {
-      "title": "Nicolas Cage Joins Call of Duty",
-      "description": "Players can now play as Nicolas Cage in Call of Duty: Black Ops 7. This addition kicks off the game's Summer of Action event.",
-      "category": "Gaming",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/its-finally-happened-you-can-play-as-nicolas-cage-in-call-of-duty",
-      "image": "https://assets-prd.ignimgs.com/2026/06/22/codthumb-1782145493170.png?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-22T17:44:46Z",
-      "key_points": [
-        "Nicolas Cage playable character",
-        "Launches Summer of Action",
-        "Exciting new gameplay feature"
-      ],
-      "impact": "Cage's addition boosts player engagement in the game.",
-      "id": "6c35639cb550768d99f35c8501c9f9da"
-    },
-    {
-      "title": "Valve Reveals Steam Machine Pricing",
-      "description": "Valve announces pricing for its Steam Machines, ranging from $1,049 to $1,428. Reservations for these models are now open.",
-      "category": "Hardware",
-      "source": "Game Informer",
-      "url": "https://gameinformer.com/2026/06/22/valves-steam-machine-costs-between-1049-and-1428-the-option-to-sign-up-for-potential",
-      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/22/b50bbc16/steammachine.jpg.webp",
-      "published_at": "2026-06-22T17:38:23Z",
-      "key_points": [
-        "Steam Machine prices announced",
-        "Models range from $1,049",
-        "Reservations open now"
-      ],
-      "impact": "Valve's pricing strategy attracts early interest.",
-      "id": "2ccc4cd488189ea171cb2097d1a202e4"
-    },
-    {
-      "title": "Ubisoft Co-Founder Dies in Plane Crash",
-      "description": "Claude Guillemot, co-founder of Ubisoft, tragically died in a plane crash in France. The gaming community mourns his loss.",
-      "category": "Gaming",
-      "source": "Game Informer",
-      "url": "https://gameinformer.com/2026/06/22/ubisoft-co-founder-claude-guillemot-died-in-a-plane-crash-saturday",
-      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/22/688e9802/Ubisoft_4.jpg.webp",
-      "published_at": "2026-06-22T16:53:20Z",
-      "key_points": [
-        "Claude Guillemot passes away",
-        "Plane crash in France",
-        "Community mourns his loss"
-      ],
-      "impact": "His legacy will be remembered in gaming.",
-      "id": "860b6a69005918ba274cbd18f153aa9a"
-    },
-    {
-      "title": "Acer and ASUS Resume Shipments in Germany",
-      "description": "Acer and ASUS have resumed PC shipments in Germany after resolving a patent dispute with Nokia. This ends months of restrictions.",
+      "title": "Meta launches cheaper smart glasses without Ray-Ban",
+      "description": "Meta introduces $299 smart glasses featuring updated AI and customizable designs. Privacy improvements are also on the way.",
       "category": "Business",
-      "source": "VideoCardz.com",
-      "url": "https://videocardz.com/newz/acer-and-asus-resume-pc-shipments-in-germany-after-nokia-hevc-patent-dispute",
-      "image": "https://cdn.videocardz.com/1/2026/06/ACER-ASUS-HEVC-GERMANY-HERO.webp",
-      "published_at": "2026-06-22T16:43:15Z",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/MetaGlasses_1.jpg?quality=90&strip=all&crop=8.55%2C24.971192772515%2C82.25546875%2C66.205436991061&w=1200",
+      "published_at": "2026-06-23T13:00:00Z",
       "key_points": [
-        "Shipments resume after dispute",
-        "Acer and ASUS affected",
-        "End of restrictions noted"
+        "New smart glasses at $299",
+        "Updated AI features",
+        "Privacy improvements coming"
       ],
-      "impact": "This resumption boosts the PC market in Germany.",
-      "id": "72dea27edabf2e2a7cf92f1ae47b9ea4"
+      "impact": "Meta's smart glasses offer affordability and features.",
+      "id": "e8192cad21f53bd05699a126eef2a9d4"
     },
     {
-      "title": "Best Buy Launches Anti-Prime Day Sale",
-      "description": "Best Buy offers up to 50% off on smartphones and laptops in its Tech Fest sale, competing directly with Amazon's Prime Day.",
-      "category": "Business",
-      "source": "Android Central",
-      "url": "https://www.androidcentral.com/phones/best-buy-tech-fest-anti-prime-day-deals-2026",
-      "image": "https://cdn.mos.cms.futurecdn.net/ofaEMEtqR9rufrNTUTTJoh-1152-80.jpg",
-      "published_at": "2026-06-22T16:40:56Z",
-      "key_points": [
-        "Up to 50% off deals",
-        "Competing with Amazon's sale",
-        "Tech Fest event launched"
-      ],
-      "impact": "Best Buy's sale attracts savvy shoppers.",
-      "id": "770ee936421dab94740b6de02d095b57"
-    },
-    {
-      "title": "Pixel Users Report Touch Issues After Update",
-      "description": "Some Google Pixel users experience touch input issues following the Android 17 update. The bug affects scrolling functionality.",
+      "title": "Here’s how your phone is running after updating to Android 17",
+      "description": "Most users report stable performance after updating to Android 17. Minimal bugs have been noted in the latest update.",
       "category": "Software",
       "source": "9to5Google",
-      "url": "http://9to5google.com/2026/06/22/android-17-causes-google-pixel-scrolling-bug/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/Pixel-10a-app-switcher.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-22T15:49:00Z",
+      "url": "http://9to5google.com/2026/06/23/heres-how-your-phone-is-running-after-updating-to-android-17/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-23T13:00:00Z",
       "key_points": [
-        "Touch issues reported",
-        "Scrolling functionality affected",
-        "Android 17 update concerns"
+        "Stable performance reported",
+        "Minimal bugs found",
+        "User satisfaction high"
       ],
-      "impact": "This bug impacts user experience negatively.",
-      "id": "0d6b77115bd3dfec678b79c9cfbd3be9"
+      "impact": "Android 17 update shows positive user feedback.",
+      "id": "d83b879b714f7a7a465980303e641f19"
     },
     {
-      "title": "AMD Releases FSR 4.1 for Radeon GPUs",
-      "description": "AMD officially launches FSR 4.1 for Radeon RX 7000 series GPUs, confirming support for RDNA 3 APUs. This update enhances gaming performance.",
-      "category": "Hardware",
-      "source": "VideoCardz.com",
-      "url": "https://videocardz.com/newz/amd-officially-releases-fsr-4-1-for-radeon-rx-7000-series-gpus-support-for-rdna-3-apus-confirmed-too",
-      "image": "https://cdn.videocardz.com/1/2026/06/AMD-FSR4-RX-7000-SUPPORT-3.webp",
-      "published_at": "2026-06-22T14:23:12Z",
+      "title": "The 30 Best Nintendo Prime Day Deals — Hand-Picked by Our Deals Experts",
+      "description": "Experts have curated the best Nintendo Switch 2 deals for Prime Day 2026. Great bundles and accessories are available now.",
+      "category": "Gaming",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/best-nintendo-switch-2-prime-day-deals-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/06/23/best-switch-deals-prime-day-2026-2-1782204225923.png?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-23T12:43:24Z",
       "key_points": [
-        "FSR 4.1 launched",
-        "Supports RX 7000 series",
-        "Enhances gaming performance"
+        "Best Nintendo Switch deals",
+        "Curated by experts",
+        "Limited-time offers available"
       ],
-      "impact": "This update boosts AMD's competitive edge.",
-      "id": "e9ac0c165ed13d2fa9ef95eacdd4a927"
+      "impact": "Nintendo fans can find great Prime Day deals.",
+      "id": "c2fef25a852e3e5db7798bdb9d982857"
+    },
+    {
+      "title": "Exclusive | Rare $18.5M NYC townhouse finds a cash buyer in 3 weeks",
+      "description": "A rare NYC townhouse sold for $18.5 million in just three weeks. The all-cash deal highlights the competitive real estate market.",
+      "category": "Business",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/23/real-estate/rare-18-5m-nyc-townhouse-finds-a-cash-buyer-in-3-weeks/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/131833893.jpg?quality=75&strip=all&w=1200",
+      "published_at": "2026-06-23T11:05:00Z",
+      "key_points": [
+        "$18.5M townhouse sold",
+        "Buyer found in 3 weeks",
+        "All-cash transaction"
+      ],
+      "impact": "Fast sale reflects NYC's competitive real estate market.",
+      "id": "7c7b334beea3cf174f730ceb607d71f1"
+    },
+    {
+      "title": "Minecraft 26.3 Snapshot 1",
+      "description": "Minecraft's new forest biome is now in testing. Players can explore an abandoned camp and discover hidden loot.",
+      "category": "Gaming",
+      "source": "Minecraft.net",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-1",
+      "image": "https://www.minecraft.net/content/dam/minecraftnet/article-asset/2026/minecraft-26-3-snapshot-1/new-article-hero-image.jpg",
+      "published_at": "2026-06-23T10:57:57Z",
+      "key_points": [
+        "New forest biome testing",
+        "Explore abandoned camp",
+        "Discover hidden loot"
+      ],
+      "impact": "Minecraft introduces exciting new gameplay elements.",
+      "id": "e0e7fc284f520b7bc973b3f4faddeaa7"
+    },
+    {
+      "title": "What Owners Say Is The Biggest Problem With Foldable Phones",
+      "description": "Foldable phone users cite hinge durability and battery life as major concerns. The unique aspect ratio also poses challenges.",
+      "category": "Hardware",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2196864/what-do-owners-say-problem-foldable-phones/",
+      "image": "https://www.bgr.com/img/gallery/what-owners-say-is-the-biggest-problem-with-foldable-phones/l-intro-1781730488.jpg",
+      "published_at": "2026-06-23T09:47:00Z",
+      "key_points": [
+        "Durability issues with hinges",
+        "Battery life concerns",
+        "Aspect ratio challenges noted"
+      ],
+      "impact": "Foldable phones face significant user challenges.",
+      "id": "92795b9fb693331c00c3c488a9dd28f6"
+    },
+    {
+      "title": "Continental releases Tour de France tyres including exclusive 'transparent' Aero 111",
+      "description": "Continental launches a limited edition tyre set for the Tour de France. The set includes an exclusive Aero 111 front tyre.",
+      "category": "Business",
+      "source": "BikeRadar",
+      "url": "https://www.bikeradar.com/news/continental-2026-tour-de-france-tyres",
+      "image": "https://www.bikeradar.com/resources/content/32337f2f-7841-4ef6-a233-d1f001580530/4d6141bb-3bdb-4f78-8bba-087f0655d5e4/1369f3a4-411c-4e24-95ee-bba03b03c207/2f545e8c-8453-1987-7516-80b53bb2e4be.png?preview=false&platform=WEB&deviceId=6d1ce265-5da2-49af-b9f7-a2df79745033&w=1200",
+      "published_at": "2026-06-23T07:00:00Z",
+      "key_points": [
+        "New Tour de France tyres",
+        "Includes exclusive Aero 111",
+        "Designed for performance"
+      ],
+      "impact": "Continental enhances cycling performance with new tyres.",
+      "id": "8cfbc791b0925ea7d5f838864dfbb919"
+    },
+    {
+      "title": "The Google Pixel 10 Pro Drops to Its Lowest Price Ever for Amazon Prime Day, But Stock Is Limited",
+      "description": "The Google Pixel 10 Pro is now available for $799 during Prime Day. Stock is limited, so act fast!",
+      "category": "Business",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/amazons-google-pixel-10-pro-sale-is-the-best-phone-deal-of-prime-day-2026",
+      "image": "https://assets-prd.ignimgs.com/2025/08/28/blogroll-1756422272508.JPG?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-23T06:48:00Z",
+      "key_points": [
+        "Pixel 10 Pro at $799",
+        "Lowest price ever",
+        "Limited stock available"
+      ],
+      "impact": "Prime Day offers unbeatable price on Pixel 10 Pro.",
+      "id": "9d8bdf704fa28c716add1b6b56ed2031"
+    },
+    {
+      "title": "Marvel's Wolverine Actor Confirms Role in GTA 6",
+      "description": "Actors confirm roles in Grand Theft Auto VI, including Marvel's Wolverine star. Excitement builds for the upcoming game.",
+      "category": "Gaming",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/marvels-wolverine-actor-confirms-role-in-gta-6",
+      "image": "https://assets-prd.ignimgs.com/2026/06/18/official-cover-art-landscape-12-uu2irr-2-a-1781799433001.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-23T01:39:00Z",
+      "key_points": [
+        "Actors confirm GTA 6 roles",
+        "Marvel's Wolverine star involved",
+        "Anticipation for game builds"
+      ],
+      "impact": "GTA 6 casting news generates excitement among fans.",
+      "id": "a37984b94cef98183ed347c4c5089d27"
+    },
+    {
+      "title": "Judge agrees to set aside default entered against Jon Prosser in Apple lawsuit",
+      "description": "Jon Prosser receives a chance to respond to Apple's lawsuit regarding iOS 26 leaks. The legal battle continues.",
+      "category": "Policy",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/22/judge-agrees-to-set-aside-default-entered-against-jon-prosser-in-apple-lawsuit/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/joe-prosser.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-22T21:41:00Z",
+      "key_points": [
+        "Jon Prosser gets new chance",
+        "Apple lawsuit continues",
+        "iOS 26 leak controversy"
+      ],
+      "impact": "Prosser's case against Apple gains new momentum.",
+      "id": "ce81fea0517c55fbc6ff68d4c8feed71"
+    },
+    {
+      "title": "New supply chain report claims the iPhone Ultra will be unveiled as scheduled",
+      "description": "Despite previous delay reports, the iPhone Ultra is expected to launch on time. Supply chain sources confirm the schedule.",
+      "category": "Business",
+      "source": "GSMArena.com",
+      "url": "https://www.gsmarena.com/new_supply_chain_report_claims_the_iphone_ultra_will_be_unveiled_as_scheduled-news-73387.php",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/iphone-ultra-coming-in-september/-952x498w6/gsmarena_000.jpg",
+      "published_at": "2026-06-22T21:30:01Z",
+      "key_points": [
+        "iPhone Ultra launch on schedule",
+        "Supply chain confirms timing",
+        "Previous delay rumors dismissed"
+      ],
+      "impact": "iPhone Ultra's launch remains on track.",
+      "id": "64907b29800d6fda439d07eb0c4ef186"
+    },
+    {
+      "title": "Prime Day 2026 LIVE: all the top TV, soundbar and projector deals handpicked by our home cinema experts",
+      "description": "Experts are curating the best Prime Day AV deals in real-time. Stay updated on the latest offers for TVs and sound systems.",
+      "category": "Business",
+      "source": "What Hi-Fi? US",
+      "url": "https://www.whathifi.com/tv-home-cinema/live/prime-day-2026-live-all-the-top-tv-soundbar-and-projector-deals-handpicked-by-our-home-cinema-experts",
+      "image": "https://cdn.mos.cms.futurecdn.net/zVEEREXGtySZjVxToH7N66-1920-80.jpg",
+      "published_at": "2026-06-22T19:44:42Z",
+      "key_points": [
+        "Real-time AV deal updates",
+        "Expert handpicked selections",
+        "Best Prime Day offers"
+      ],
+      "impact": "Stay informed on top AV deals this Prime Day.",
+      "id": "42c643285822800b152348b4dfcfd927"
     }
   ]
 }
