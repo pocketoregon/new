@@ -5,143 +5,107 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2026 19:44:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 22:16:28 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Affordable Tech Finds Under $25 for Prime Day</title>
-      <description>Discover budget-friendly tech accessories for Prime Day. These picks combine quality and affordability, perfect for savvy shoppers.</description>
-      <link>https://www.theverge.com/gadgets/951852/prime-day-deals-cheap-stuff-under-25-sale</link>
-      <guid isPermaLink="true">https://www.theverge.com/gadgets/951852/prime-day-deals-cheap-stuff-under-25-sale</guid>
-      <pubDate>2026-06-23T19:00:00Z</pubDate>
+      <title>Prime Day Smartphone Deals: Up to 44% Off</title>
+      <description>Prime Day offers significant discounts on smartphones from Samsung, Google, and Motorola. Editor-approved deals are now live.</description>
+      <link>https://www.pcmag.com/news/best-amazon-prime-day-sale-smartphone-deals-2026</link>
+      <guid isPermaLink="true">https://www.pcmag.com/news/best-amazon-prime-day-sale-smartphone-deals-2026</guid>
+      <pubDate>2026-06-23T12:53:35Z</pubDate>
       <category>Business</category>
-      <source url="https://www.theverge.com/gadgets/951852/prime-day-deals-cheap-stuff-under-25-sale">The Verge</source>
+      <source url="https://www.pcmag.com/news/best-amazon-prime-day-sale-smartphone-deals-2026">PCMag.com</source>
     </item>
     <item>
-      <title>Exciting Features of the Upcoming iPhone 18 Pro</title>
-      <description>The iPhone 18 Pro is generating buzz with three rumored features that have tech enthusiasts excited ahead of its release.</description>
-      <link>https://9to5mac.com/2026/06/23/iphone-18-pro-three-new-features-that-already-have-me-excited/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/23/iphone-18-pro-three-new-features-that-already-have-me-excited/</guid>
-      <pubDate>2026-06-23T18:45:00Z</pubDate>
+      <title>Best Prime Day Deals: Pixel 10, Galaxy Gear</title>
+      <description>Amazon Prime Day features extensive discounts across various tech products, including Pixel 10 and Galaxy gear. New all-time lows are being tracked.</description>
+      <link>http://9to5google.com/2026/06/23/best-prime-day-deals-pixel-galaxy/</link>
+      <guid isPermaLink="true">http://9to5google.com/2026/06/23/best-prime-day-deals-pixel-galaxy/</guid>
+      <pubDate>2026-06-23T12:51:00Z</pubDate>
+      <category>Business</category>
+      <source url="http://9to5google.com/2026/06/23/best-prime-day-deals-pixel-galaxy/">9to5google.com</source>
+    </item>
+    <item>
+      <title>Google Faces Challenges in AI Era</title>
+      <description>Google's strong market position is being tested as AI technologies evolve. The company must adapt to maintain its dominance.</description>
+      <link>https://www.cnbc.com/2026/06/23/googles-online-dominance-is-showing-signs-of-cracking-in-ai-era.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/06/23/googles-online-dominance-is-showing-signs-of-cracking-in-ai-era.html</guid>
+      <pubDate>2026-06-23T12:00:01Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.cnbc.com/2026/06/23/googles-online-dominance-is-showing-signs-of-cracking-in-ai-era.html">CNBC</source>
+    </item>
+    <item>
+      <title>Steam Machine Price Revealed: Analysts React</title>
+      <description>Valve's Steam Machine console starts at $1,049, sparking mixed reactions from analysts regarding its market viability.</description>
+      <link>https://www.gamesindustry.biz/this-is-going-to-be-a-niche-device-analysts-react-to-the-1000-steam-machine-price-reveal</link>
+      <guid isPermaLink="true">https://www.gamesindustry.biz/this-is-going-to-be-a-niche-device-analysts-react-to-the-1000-steam-machine-price-reveal</guid>
+      <pubDate>2026-06-23T11:01:40Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.gamesindustry.biz/this-is-going-to-be-a-niche-device-analysts-react-to-the-1000-steam-machine-price-reveal">GamesIndustry.biz</source>
+    </item>
+    <item>
+      <title>PS5 Slim Disc Edition for $499 on Prime Day</title>
+      <description>Amazon offers a 'Like New' PS5 Slim Disc Edition for just $499.61 during Prime Day, likely to sell out quickly.</description>
+      <link>https://www.ign.com/articles/playstation-5-disc-edition-console-deal-amazon-prime-day-sale</link>
+      <guid isPermaLink="true">https://www.ign.com/articles/playstation-5-disc-edition-console-deal-amazon-prime-day-sale</guid>
+      <pubDate>2026-06-23T10:31:48Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.ign.com/articles/playstation-5-disc-edition-console-deal-amazon-prime-day-sale">IGN</source>
+    </item>
+    <item>
+      <title>T-Mobile 5G Test Reveals Simple Fix</title>
+      <description>T-Mobile identifies a straightforward solution to enhance its 5G network performance during high-demand situations.</description>
+      <link>https://www.tmonews.com/2026/06/new-t-mobile-5g-test-shows-a-simple-fix-for-a-common-slowdown/</link>
+      <guid isPermaLink="true">https://www.tmonews.com/2026/06/new-t-mobile-5g-test-shows-a-simple-fix-for-a-common-slowdown/</guid>
+      <pubDate>2026-06-23T05:40:58Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.tmonews.com/2026/06/new-t-mobile-5g-test-shows-a-simple-fix-for-a-common-slowdown/">TmoNews</source>
+    </item>
+    <item>
+      <title>Apple's iPhone Ultra to Feature Dual OLEDs</title>
+      <description>Apple plans to use Samsung's advanced M16 OLED for the iPhone Ultra's outer screen, while retaining the older M14 for the inner display.</description>
+      <link>https://wccftech.com/apple-will-equip-the-outer-panel-of-the-iphone-ultra-with-samsungs-cutting-edge-natively-10-bit-m16-oled-while-retaining-the-older-m14-oled-for-the-inner-screen/</link>
+      <guid isPermaLink="true">https://wccftech.com/apple-will-equip-the-outer-panel-of-the-iphone-ultra-with-samsungs-cutting-edge-natively-10-bit-m16-oled-while-retaining-the-older-m14-oled-for-the-inner-screen/</guid>
+      <pubDate>2026-06-22T23:32:00Z</pubDate>
+      <category>Business</category>
+      <source url="https://wccftech.com/apple-will-equip-the-outer-panel-of-the-iphone-ultra-with-samsungs-cutting-edge-natively-10-bit-m16-oled-while-retaining-the-older-m14-oled-for-the-inner-screen/">Wccftech</source>
+    </item>
+    <item>
+      <title>Ubisoft Co-Founder Dies in Plane Crash</title>
+      <description>Claude Guillemot, co-founder of Ubisoft, tragically died in a plane crash on June 19, according to reports.</description>
+      <link>https://www.gamespot.com/articles/ubisoft-co-founder-dies-in-plane-crash/</link>
+      <guid isPermaLink="true">https://www.gamespot.com/articles/ubisoft-co-founder-dies-in-plane-crash/</guid>
+      <pubDate>2026-06-22T20:43:54Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.gamespot.com/articles/ubisoft-co-founder-dies-in-plane-crash/">GameSpot</source>
+    </item>
+    <item>
+      <title>iOS 27 to Enhance RCS Messaging Features</title>
+      <description>The upcoming iOS 27 update will introduce inline replies and photo reactions for RCS messaging between Android and iPhone users.</description>
+      <link>http://9to5google.com/2026/06/22/ios-27-android-replies/</link>
+      <guid isPermaLink="true">http://9to5google.com/2026/06/22/ios-27-android-replies/</guid>
+      <pubDate>2026-06-22T20:32:00Z</pubDate>
       <category>Software</category>
-      <source url="https://9to5mac.com/2026/06/23/iphone-18-pro-three-new-features-that-already-have-me-excited/">9to5Mac</source>
+      <source url="http://9to5google.com/2026/06/22/ios-27-android-replies/">9to5google.com</source>
     </item>
     <item>
-      <title>Prime Day 2026: Best Lego Deals Revealed</title>
-      <description>Amazon offers unbeatable prices on Lego sets, surpassing Lego's own website during Prime Day sales.</description>
-      <link>https://mashable.com/life/best-prime-day-lego-deals-2026</link>
-      <guid isPermaLink="true">https://mashable.com/life/best-prime-day-lego-deals-2026</guid>
-      <pubDate>2026-06-23T18:13:27Z</pubDate>
-      <category>Business</category>
-      <source url="https://mashable.com/life/best-prime-day-lego-deals-2026">Mashable</source>
-    </item>
-    <item>
-      <title>Google TV Streamer Update Enhances Functionality</title>
-      <description>The latest update for Google TV Streamer introduces new features, including support for Google Home Speakers.</description>
-      <link>http://9to5google.com/2026/06/23/google-tv-streamer-home-speaker/</link>
-      <guid isPermaLink="true">http://9to5google.com/2026/06/23/google-tv-streamer-home-speaker/</guid>
-      <pubDate>2026-06-23T17:50:00Z</pubDate>
-      <category>Software</category>
-      <source url="http://9to5google.com/2026/06/23/google-tv-streamer-home-speaker/">9to5Google</source>
-    </item>
-    <item>
-      <title>Sonic Frontiers Launches on Nintendo Switch 2</title>
-      <description>Sonic Frontiers: Definitive Edition features quality and performance modes, with save transfers from Switch 1 confirmed.</description>
-      <link>https://nintendoeverything.com/sonic-frontiers-on-nintendo-switch-2-has-quality-and-performance-modes-switch-1-save-transfers-no-upgrade-path/</link>
-      <guid isPermaLink="true">https://nintendoeverything.com/sonic-frontiers-on-nintendo-switch-2-has-quality-and-performance-modes-switch-1-save-transfers-no-upgrade-path/</guid>
-      <pubDate>2026-06-23T17:30:27Z</pubDate>
+      <title>Sonic the Hedgehog 35th Birthday Live Stream</title>
+      <description>SEGA will celebrate Sonic the Hedgehog's 35th birthday with a live stream event on June 23, available on YouTube and Twitch.</description>
+      <link>https://www.gematsu.com/2026/06/sonic-the-hedgehog-35th-birthday-live-stream-set-for-june-23</link>
+      <guid isPermaLink="true">https://www.gematsu.com/2026/06/sonic-the-hedgehog-35th-birthday-live-stream-set-for-june-23</guid>
+      <pubDate>2026-06-22T19:18:55Z</pubDate>
       <category>Gaming</category>
-      <source url="https://nintendoeverything.com/sonic-frontiers-on-nintendo-switch-2-has-quality-and-performance-modes-switch-1-save-transfers-no-upgrade-path/">Nintendoeverything.com</source>
+      <source url="https://www.gematsu.com/2026/06/sonic-the-hedgehog-35th-birthday-live-stream-set-for-june-23">Gematsu</source>
     </item>
     <item>
-      <title>Massive Discounts on Hisense TVs for Prime Day</title>
-      <description>Hisense offers up to $2,000 off on MiniLED TVs during Prime Day, with sizes ranging from 55 to 100 inches.</description>
-      <link>https://www.usatoday.com/story/shopping/deals/prime-day/2026/06/23/hisense-prime-day-tv-deals/90653061007/</link>
-      <guid isPermaLink="true">https://www.usatoday.com/story/shopping/deals/prime-day/2026/06/23/hisense-prime-day-tv-deals/90653061007/</guid>
-      <pubDate>2026-06-23T17:30:00Z</pubDate>
-      <category>Business</category>
-      <source url="https://www.usatoday.com/story/shopping/deals/prime-day/2026/06/23/hisense-prime-day-tv-deals/90653061007/">USA Today</source>
-    </item>
-    <item>
-      <title>Diablo IV's Season of Death Awakening Launches</title>
-      <description>The new season introduces challenges against Death Cults and offers a free Warlock Trial for players.</description>
-      <link>https://news.blizzard.com/en-us/article/24268702/hunt-the-death-cult-in-season-of-death-awakening</link>
-      <guid isPermaLink="true">https://news.blizzard.com/en-us/article/24268702/hunt-the-death-cult-in-season-of-death-awakening</guid>
-      <pubDate>2026-06-23T17:00:00Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://news.blizzard.com/en-us/article/24268702/hunt-the-death-cult-in-season-of-death-awakening">Blizzard News</source>
-    </item>
-    <item>
-      <title>Sony Delists Shovelware from PlayStation Store</title>
-      <description>Sony removes nearly 1,000 low-effort titles from the PlayStation Store, targeting shovelware publishers.</description>
-      <link>https://www.trueachievements.com/news/afil-games-delisted-playstation-store</link>
-      <guid isPermaLink="true">https://www.trueachievements.com/news/afil-games-delisted-playstation-store</guid>
-      <pubDate>2026-06-23T16:27:44Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.trueachievements.com/news/afil-games-delisted-playstation-store">TrueAchievements</source>
-    </item>
-    <item>
-      <title>Samsung Galaxy Watch 9 Leaked Ahead of Launch</title>
-      <description>Details of the Galaxy Watch 9 emerge ahead of Samsung's Unpacked event, showcasing new features and designs.</description>
-      <link>https://www.androidheadlines.com/samsung-galaxy-watch-9.html</link>
-      <guid isPermaLink="true">https://www.androidheadlines.com/samsung-galaxy-watch-9.html</guid>
-      <pubDate>2026-06-23T15:04:12Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.androidheadlines.com/samsung-galaxy-watch-9.html">Android Headlines</source>
-    </item>
-    <item>
-      <title>Prime Day Gaming PC and Laptop Deals Unveiled</title>
-      <description>Amazon's Prime Day features significant discounts on gaming PCs and laptops from top brands like Asus and HP.</description>
-      <link>https://www.pcmag.com/news/best-amazon-prime-day-gaming-laptop-desktop-deals-2026</link>
-      <guid isPermaLink="true">https://www.pcmag.com/news/best-amazon-prime-day-gaming-laptop-desktop-deals-2026</guid>
-      <pubDate>2026-06-23T14:09:14Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.pcmag.com/news/best-amazon-prime-day-gaming-laptop-desktop-deals-2026">PCMag</source>
-    </item>
-    <item>
-      <title>Sony's New PS Plus Experiment Faces Backlash</title>
-      <description>Sony's latest PS Plus changes are unpopular among users, sparking criticism and disappointment.</description>
-      <link>https://www.pushsquare.com/news/2026/06/absolutely-terrible-idea-nobody-likes-sonys-new-ps-plus-experiment</link>
-      <guid isPermaLink="true">https://www.pushsquare.com/news/2026/06/absolutely-terrible-idea-nobody-likes-sonys-new-ps-plus-experiment</guid>
-      <pubDate>2026-06-23T14:00:00Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.pushsquare.com/news/2026/06/absolutely-terrible-idea-nobody-likes-sonys-new-ps-plus-experiment">Push Square</source>
-    </item>
-    <item>
-      <title>Meta Develops Affordable AI Smart Glasses</title>
-      <description>Meta announces plans for in-house designed AI smart glasses, aiming to compete in the wearable tech market.</description>
-      <link>https://www.cnn.com/2026/06/23/tech/meta-glasses-price</link>
-      <guid isPermaLink="true">https://www.cnn.com/2026/06/23/tech/meta-glasses-price</guid>
-      <pubDate>2026-06-23T13:00:25Z</pubDate>
-      <category>Business</category>
-      <source url="https://www.cnn.com/2026/06/23/tech/meta-glasses-price">CNN</source>
-    </item>
-    <item>
-      <title>MSI Claw 8 EX AI Plus vs. Steam Deck</title>
-      <description>The MSI Claw 8 EX AI Plus outperforms the Steam Deck in gaming but faces software issues in initial impressions.</description>
-      <link>https://www.theverge.com/games/952637/msi-claw-8-ex-ai-plus-intel-g3-extreme-steam-deck-hands-on</link>
-      <guid isPermaLink="true">https://www.theverge.com/games/952637/msi-claw-8-ex-ai-plus-intel-g3-extreme-steam-deck-hands-on</guid>
-      <pubDate>2026-06-23T13:00:00Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.theverge.com/games/952637/msi-claw-8-ex-ai-plus-intel-g3-extreme-steam-deck-hands-on">The Verge</source>
-    </item>
-    <item>
-      <title>Kindle Paperwhite at Best Price for Prime Day</title>
-      <description>The Kindle Paperwhite is now available for $124.99 during Prime Day, offering waterproof design and long battery life.</description>
-      <link>https://www.theverge.com/gadgets/952555/kindle-paperwhite-amazon-deal-sale</link>
-      <guid isPermaLink="true">https://www.theverge.com/gadgets/952555/kindle-paperwhite-amazon-deal-sale</guid>
-      <pubDate>2026-06-23T13:00:00Z</pubDate>
-      <category>Business</category>
-      <source url="https://www.theverge.com/gadgets/952555/kindle-paperwhite-amazon-deal-sale">The Verge</source>
-    </item>
-    <item>
-      <title>Warhammer Studio Unveils New Super-Heavy Tanks</title>
-      <description>Warhammer Studio introduces new super-heavy tanks for Age of Darkness, inviting fans to choose their favorites.</description>
-      <link>https://www.warhammer-community.com/articles/jomldqhy/warhammer-studio-goes-super-heavy-for-an-age-of-darkness-tank-war</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/articles/jomldqhy/warhammer-studio-goes-super-heavy-for-an-age-of-darkness-tank-war</guid>
-      <pubDate>2026-06-23T12:59:45Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.warhammer-community.com/articles/jomldqhy/warhammer-studio-goes-super-heavy-for-an-age-of-darkness-tank-war">Warhammer Community</source>
+      <title>Unpatchable Flaw in Apple Chips Discovered</title>
+      <description>A new vulnerability in Apple chips could allow hackers to jailbreak older iPhones, according to cybersecurity experts.</description>
+      <link>https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/</guid>
+      <pubDate>2026-06-22T18:50:24Z</pubDate>
+      <category>Security</category>
+      <source url="https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/">TechCrunch</source>
     </item>
   </channel>
 </rss>

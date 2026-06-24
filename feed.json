@@ -1,245 +1,181 @@
 {
-  "generated_at": "2026-06-24T19:44:12.276491+00:00",
+  "generated_at": "2026-06-24T22:15:56.118606+00:00",
   "articles": [
     {
-      "title": "Affordable Tech Finds Under $25 for Prime Day",
-      "description": "Discover budget-friendly tech accessories for Prime Day. These picks combine quality and affordability, perfect for savvy shoppers.",
+      "title": "Prime Day Smartphone Deals: Up to 44% Off",
+      "description": "Prime Day offers significant discounts on smartphones from Samsung, Google, and Motorola. Editor-approved deals are now live.",
       "category": "Business",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/951852/prime-day-deals-cheap-stuff-under-25-sale",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/02-l.jpg?quality=90&strip=all&crop=0%2C8.1151832460733%2C100%2C83.769633507853&w=1200",
-      "published_at": "2026-06-23T19:00:00Z",
+      "source": "PCMag.com",
+      "url": "https://www.pcmag.com/news/best-amazon-prime-day-sale-smartphone-deals-2026",
+      "image": "https://i.pcmag.com/imagery/articles/06GzplHhjkAkCH5F1loX79A-1.fit_lim.size_1200x630.v1782234242.png",
+      "published_at": "2026-06-23T12:53:35Z",
       "key_points": [
-        "Budget-friendly tech accessories",
-        "Great for Prime Day",
-        "Quality without breaking bank"
+        "Samsung and Google discounts",
+        "Motorola deals available",
+        "Editor-approved selections"
       ],
-      "impact": "Affordable tech options enhance shopping experience.",
-      "id": "8d5bae33fbe8443484e3c6ad1ec178f1"
+      "impact": "Consumers can save significantly on smartphones.",
+      "id": "28909801d8959ebfdd378501310f18a8"
     },
     {
-      "title": "Exciting Features of the Upcoming iPhone 18 Pro",
-      "description": "The iPhone 18 Pro is generating buzz with three rumored features that have tech enthusiasts excited ahead of its release.",
+      "title": "Best Prime Day Deals: Pixel 10, Galaxy Gear",
+      "description": "Amazon Prime Day features extensive discounts across various tech products, including Pixel 10 and Galaxy gear. New all-time lows are being tracked.",
+      "category": "Business",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/06/23/best-prime-day-deals-pixel-galaxy/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Amazon-Prime-Day_green-2026.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-23T12:51:00Z",
+      "key_points": [
+        "Extensive tech discounts",
+        "Pixel 10 at $400 off",
+        "New all-time low prices"
+      ],
+      "impact": "Shoppers can find unbeatable tech deals.",
+      "id": "247ef63317a6e94dcdb6f0375907efda"
+    },
+    {
+      "title": "Google Faces Challenges in AI Era",
+      "description": "Google's strong market position is being tested as AI technologies evolve. The company must adapt to maintain its dominance.",
+      "category": "Business",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/23/googles-online-dominance-is-showing-signs-of-cracking-in-ai-era.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108148304-1747772852638-gettyimages-2215581169-AFP_47H43YX.jpeg?v=1769475976&w=1920&h=1080",
+      "published_at": "2026-06-23T12:00:01Z",
+      "key_points": [
+        "Google's market strength questioned",
+        "AI era complicates strategy",
+        "Adaptation is crucial for survival"
+      ],
+      "impact": "Google must innovate to retain market share.",
+      "id": "fc39670b0534c4f73f5fedd42244bb35"
+    },
+    {
+      "title": "Steam Machine Price Revealed: Analysts React",
+      "description": "Valve's Steam Machine console starts at $1,049, sparking mixed reactions from analysts regarding its market viability.",
+      "category": "Gaming",
+      "source": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/this-is-going-to-be-a-niche-device-analysts-react-to-the-1000-steam-machine-price-reveal",
+      "image": "https://assetsio.gnwcdn.com/Steam-Machine-(2).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-23T11:01:40Z",
+      "key_points": [
+        "Steam Machine starts at $1,049",
+        "Analysts predict niche market",
+        "Concerns over pricing strategy"
+      ],
+      "impact": "High price may limit consumer interest.",
+      "id": "86e617e00cc1eb4c07eaeda9cb87e3a7"
+    },
+    {
+      "title": "PS5 Slim Disc Edition for $499 on Prime Day",
+      "description": "Amazon offers a 'Like New' PS5 Slim Disc Edition for just $499.61 during Prime Day, likely to sell out quickly.",
+      "category": "Gaming",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/playstation-5-disc-edition-console-deal-amazon-prime-day-sale",
+      "image": "https://assets-prd.ignimgs.com/2026/06/23/ps5slimspiderman-1782206529355.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-23T10:31:48Z",
+      "key_points": [
+        "PS5 Slim at $499",
+        "Limited stock expected",
+        "Prime Day exclusive deal"
+      ],
+      "impact": "Deal may attract many gamers.",
+      "id": "717fd03b3e40b0c69a755fdaa6cd2bae"
+    },
+    {
+      "title": "T-Mobile 5G Test Reveals Simple Fix",
+      "description": "T-Mobile identifies a straightforward solution to enhance its 5G network performance during high-demand situations.",
+      "category": "Business",
+      "source": "TmoNews",
+      "url": "https://www.tmonews.com/2026/06/new-t-mobile-5g-test-shows-a-simple-fix-for-a-common-slowdown/",
+      "image": "https://www.tmonews.com/wp-content/uploads/2024/11/t-mobile-210x131.jpg",
+      "published_at": "2026-06-23T05:40:58Z",
+      "key_points": [
+        "T-Mobile improves 5G performance",
+        "Simple solution identified",
+        "Enhances user experience"
+      ],
+      "impact": "Network reliability may significantly improve.",
+      "id": "460ed25ad091516ee976b7c0faeff1bd"
+    },
+    {
+      "title": "Apple's iPhone Ultra to Feature Dual OLEDs",
+      "description": "Apple plans to use Samsung's advanced M16 OLED for the iPhone Ultra's outer screen, while retaining the older M14 for the inner display.",
+      "category": "Business",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/apple-will-equip-the-outer-panel-of-the-iphone-ultra-with-samsungs-cutting-edge-natively-10-bit-m16-oled-while-retaining-the-older-m14-oled-for-the-inner-screen/",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/Apple-iPhone-Ultra-iPhone-Fold-1-1920x1081.jpg",
+      "published_at": "2026-06-22T23:32:00Z",
+      "key_points": [
+        "iPhone Ultra features dual OLEDs",
+        "M16 for outer, M14 for inner",
+        "Innovative display strategy"
+      ],
+      "impact": "Apple aims for enhanced display quality.",
+      "id": "68853286ba6c7b1461016afc053d8c41"
+    },
+    {
+      "title": "Ubisoft Co-Founder Dies in Plane Crash",
+      "description": "Claude Guillemot, co-founder of Ubisoft, tragically died in a plane crash on June 19, according to reports.",
+      "category": "Gaming",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/ubisoft-co-founder-dies-in-plane-crash/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-8.36.33-AM.png",
+      "published_at": "2026-06-22T20:43:54Z",
+      "key_points": [
+        "Ubisoft co-founder passes away",
+        "Plane crash incident reported",
+        "Tributes pour in from industry"
+      ],
+      "impact": "The gaming community mourns a pioneer.",
+      "id": "f61ea5c1f7bff30c381d35b17ec7598e"
+    },
+    {
+      "title": "iOS 27 to Enhance RCS Messaging Features",
+      "description": "The upcoming iOS 27 update will introduce inline replies and photo reactions for RCS messaging between Android and iPhone users.",
       "category": "Software",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/23/iphone-18-pro-three-new-features-that-already-have-me-excited/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-23T18:45:00Z",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/06/22/ios-27-android-replies/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/Galaxy-S26-Ultra-and-iPhone-17-Pro-Max-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-22T20:32:00Z",
       "key_points": [
-        "Three new exciting features",
-        "Anticipation builds for release",
-        "Tech enthusiasts eager"
+        "iOS 27 introduces inline replies",
+        "Photo reactions added",
+        "Improves Android-iPhone messaging"
       ],
-      "impact": "New features could redefine user experience.",
-      "id": "372726731d232c177059f31bf1498edf"
+      "impact": "Messaging experience will be significantly enhanced.",
+      "id": "4f06c4cff93b81a5ccb7df785c1f35e7"
     },
     {
-      "title": "Prime Day 2026: Best Lego Deals Revealed",
-      "description": "Amazon offers unbeatable prices on Lego sets, surpassing Lego's own website during Prime Day sales.",
-      "category": "Business",
-      "source": "Mashable",
-      "url": "https://mashable.com/life/best-prime-day-lego-deals-2026",
-      "image": "https://helios-i.mashable.com/imagery/articles/00t6zW80Nr4wIwQ9O4gGMXg/hero-image.fill.size_1200x675.v1782199145.jpg",
-      "published_at": "2026-06-23T18:13:27Z",
-      "key_points": [
-        "Unbeatable Lego prices",
-        "Prime Day exclusive deals",
-        "Shop before they sell out"
-      ],
-      "impact": "Prime Day boosts Lego sales significantly.",
-      "id": "2281a2139104d7175907ffefb77b47c5"
-    },
-    {
-      "title": "Google TV Streamer Update Enhances Functionality",
-      "description": "The latest update for Google TV Streamer introduces new features, including support for Google Home Speakers.",
-      "category": "Software",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/06/23/google-tv-streamer-home-speaker/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/Google-TV-Streamer-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-23T17:50:00Z",
-      "key_points": [
-        "New Google Home support",
-        "Enhanced streaming experience",
-        "Improved user interface"
-      ],
-      "impact": "Update improves overall user satisfaction.",
-      "id": "862c313e84dbfb9ce3e12f3ad5397990"
-    },
-    {
-      "title": "Sonic Frontiers Launches on Nintendo Switch 2",
-      "description": "Sonic Frontiers: Definitive Edition features quality and performance modes, with save transfers from Switch 1 confirmed.",
+      "title": "Sonic the Hedgehog 35th Birthday Live Stream",
+      "description": "SEGA will celebrate Sonic the Hedgehog's 35th birthday with a live stream event on June 23, available on YouTube and Twitch.",
       "category": "Gaming",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/sonic-frontiers-on-nintendo-switch-2-has-quality-and-performance-modes-switch-1-save-transfers-no-upgrade-path/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Sonic-Frontiers-Switch-2-modes-save-transfers.jpg",
-      "published_at": "2026-06-23T17:30:27Z",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/sonic-the-hedgehog-35th-birthday-live-stream-set-for-june-23",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Sonic-Birthday_06-22-26.jpg",
+      "published_at": "2026-06-22T19:18:55Z",
       "key_points": [
-        "Quality and performance modes",
-        "Save transfers from Switch 1",
-        "No upgrade path available"
+        "Sonic's 35th birthday celebration",
+        "Live stream on June 23",
+        "Available on YouTube and Twitch"
       ],
-      "impact": "Launch enhances gaming experience on Switch 2.",
-      "id": "003b8968ccd08041cae33264b35402f0"
+      "impact": "Fans can join the celebration online.",
+      "id": "3ee338ca42acff81635d476a3958f553"
     },
     {
-      "title": "Massive Discounts on Hisense TVs for Prime Day",
-      "description": "Hisense offers up to $2,000 off on MiniLED TVs during Prime Day, with sizes ranging from 55 to 100 inches.",
-      "category": "Business",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/shopping/deals/prime-day/2026/06/23/hisense-prime-day-tv-deals/90653061007/",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/23/USAT/90655184007-hisensehero.png?crop=1999,1124,x0,y0&width=1999&height=1124&format=pjpg&auto=webp",
-      "published_at": "2026-06-23T17:30:00Z",
+      "title": "Unpatchable Flaw in Apple Chips Discovered",
+      "description": "A new vulnerability in Apple chips could allow hackers to jailbreak older iPhones, according to cybersecurity experts.",
+      "category": "Security",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
+      "published_at": "2026-06-22T18:50:24Z",
       "key_points": [
-        "Up to $2,000 off TVs",
-        "Massive screen sizes available",
-        "Limited time Prime Day offer"
+        "New flaw in Apple chips",
+        "Potential for iPhone jailbreak",
+        "Cybersecurity concerns raised"
       ],
-      "impact": "Significant savings attract TV buyers.",
-      "id": "d839e2c4730f8215a17b1e5d237cd57c"
-    },
-    {
-      "title": "Diablo IV's Season of Death Awakening Launches",
-      "description": "The new season introduces challenges against Death Cults and offers a free Warlock Trial for players.",
-      "category": "Gaming",
-      "source": "Blizzard News",
-      "url": "https://news.blizzard.com/en-us/article/24268702/hunt-the-death-cult-in-season-of-death-awakening",
-      "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/3h/3HCGUITVOMJP1781827191737.png",
-      "published_at": "2026-06-23T17:00:00Z",
-      "key_points": [
-        "New threats from Death Cults",
-        "Free Warlock Trial available",
-        "Season of Death Awakening begins"
-      ],
-      "impact": "New season revitalizes player engagement.",
-      "id": "8e2442ad1dcc7a921233952d2de09e52"
-    },
-    {
-      "title": "Sony Delists Shovelware from PlayStation Store",
-      "description": "Sony removes nearly 1,000 low-effort titles from the PlayStation Store, targeting shovelware publishers.",
-      "category": "Gaming",
-      "source": "TrueAchievements",
-      "url": "https://www.trueachievements.com/news/afil-games-delisted-playstation-store",
-      "image": "https://www.trueachievements.com/imgs/176266/afil-games-kicked-off-playstation.jpg",
-      "published_at": "2026-06-23T16:27:44Z",
-      "key_points": [
-        "1,000 titles removed",
-        "Targeting low-effort games",
-        "Improving store quality"
-      ],
-      "impact": "Action enhances PlayStation Store's reputation.",
-      "id": "30c046522f47c58ab52da60e1a246db5"
-    },
-    {
-      "title": "Samsung Galaxy Watch 9 Leaked Ahead of Launch",
-      "description": "Details of the Galaxy Watch 9 emerge ahead of Samsung's Unpacked event, showcasing new features and designs.",
-      "category": "Software",
-      "source": "Android Headlines",
-      "url": "https://www.androidheadlines.com/samsung-galaxy-watch-9.html",
-      "image": "https://www.androidheadlines.com/wp-content/uploads/2026/06/samsung-galaxy-watch-9-exclusive-AH.jpg",
-      "published_at": "2026-06-23T15:04:12Z",
-      "key_points": [
-        "Galaxy Watch 9 details leaked",
-        "New features anticipated",
-        "Unpacked event approaching"
-      ],
-      "impact": "Leaked details build anticipation for launch.",
-      "id": "925c9ef49f634ede762f9231119ddf9e"
-    },
-    {
-      "title": "Prime Day Gaming PC and Laptop Deals Unveiled",
-      "description": "Amazon's Prime Day features significant discounts on gaming PCs and laptops from top brands like Asus and HP.",
-      "category": "Gaming",
-      "source": "PCMag",
-      "url": "https://www.pcmag.com/news/best-amazon-prime-day-gaming-laptop-desktop-deals-2026",
-      "image": "https://i.pcmag.com/imagery/articles/037VSxieD5BzPt9kgVtlDHU-1.fit_lim.size_1200x630.v1782164838.png",
-      "published_at": "2026-06-23T14:09:14Z",
-      "key_points": [
-        "Significant discounts on gaming gear",
-        "Top brands featured",
-        "Prime Day exclusive offers"
-      ],
-      "impact": "Deals attract gamers looking to upgrade.",
-      "id": "229d65714520cb45fd9d191bfd69140d"
-    },
-    {
-      "title": "Sony's New PS Plus Experiment Faces Backlash",
-      "description": "Sony's latest PS Plus changes are unpopular among users, sparking criticism and disappointment.",
-      "category": "Gaming",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/06/absolutely-terrible-idea-nobody-likes-sonys-new-ps-plus-experiment",
-      "image": "https://images.pushsquare.com/6b5324eac0ce8/large.jpg",
-      "published_at": "2026-06-23T14:00:00Z",
-      "key_points": [
-        "PS Plus changes criticized",
-        "User backlash grows",
-        "Experiment deemed unpopular"
-      ],
-      "impact": "Negative feedback could prompt policy reevaluation.",
-      "id": "677d4b9a30540e3e079f7350c0b07b4b"
-    },
-    {
-      "title": "Meta Develops Affordable AI Smart Glasses",
-      "description": "Meta announces plans for in-house designed AI smart glasses, aiming to compete in the wearable tech market.",
-      "category": "Business",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/06/23/tech/meta-glasses-price",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-img-0270.jpg?c=16x9&q=w_800,c_fill",
-      "published_at": "2026-06-23T13:00:25Z",
-      "key_points": [
-        "New AI smart glasses announced",
-        "Focus on affordability",
-        "Competing in wearable tech"
-      ],
-      "impact": "New glasses could reshape wearable market.",
-      "id": "34c53104e2e0a6a70b2e49a86fb93387"
-    },
-    {
-      "title": "MSI Claw 8 EX AI Plus vs. Steam Deck",
-      "description": "The MSI Claw 8 EX AI Plus outperforms the Steam Deck in gaming but faces software issues in initial impressions.",
-      "category": "Gaming",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/952637/msi-claw-8-ex-ai-plus-intel-g3-extreme-steam-deck-hands-on",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/verge-msi-claw-ex-sean-hollister-1-7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published_at": "2026-06-23T13:00:00Z",
-      "key_points": [
-        "Claw outperforms Steam Deck",
-        "Software issues persist",
-        "Initial impressions mixed"
-      ],
-      "impact": "Performance raises competition in handheld gaming.",
-      "id": "625bdd76ca6fd76762391079047aead5"
-    },
-    {
-      "title": "Kindle Paperwhite at Best Price for Prime Day",
-      "description": "The Kindle Paperwhite is now available for $124.99 during Prime Day, offering waterproof design and long battery life.",
-      "category": "Business",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/952555/kindle-paperwhite-amazon-deal-sale",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Kindle-Paperwhite-2024-lifestyle.jpg?quality=90&strip=all&crop=0%2C10.135009434714%2C100%2C79.729981130571&w=1200",
-      "published_at": "2026-06-23T13:00:00Z",
-      "key_points": [
-        "Kindle Paperwhite discounted",
-        "Waterproof and long-lasting",
-        "Best price for Prime Day"
-      ],
-      "impact": "Discounts boost Kindle sales during Prime Day.",
-      "id": "b234aa33b2441918de16f519787c0e5a"
-    },
-    {
-      "title": "Warhammer Studio Unveils New Super-Heavy Tanks",
-      "description": "Warhammer Studio introduces new super-heavy tanks for Age of Darkness, inviting fans to choose their favorites.",
-      "category": "Gaming",
-      "source": "Warhammer Community",
-      "url": "https://www.warhammer-community.com/articles/jomldqhy/warhammer-studio-goes-super-heavy-for-an-age-of-darkness-tank-war",
-      "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/thh_superheavysds-jun23-1-feature-7l7q5badoj.jpg",
-      "published_at": "2026-06-23T12:59:45Z",
-      "key_points": [
-        "New super-heavy tanks revealed",
-        "Fans invited to choose favorites",
-        "Exciting additions to Warhammer"
-      ],
-      "impact": "New tanks enhance Warhammer gameplay experience.",
-      "id": "1f3a2dfb5e0671e62869573c8e4a4ff3"
+      "impact": "Security risks for older iPhones increase.",
+      "id": "b075fdd3e2064f179b4ebea0f2ffb556"
     }
   ]
 }

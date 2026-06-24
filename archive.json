@@ -1,6 +1,189 @@
 {
   "batches": [
     {
+      "id": "2026-06-24T22:15:56.118606+00:00",
+      "fetched_at": "2026-06-24T22:15:56.118606+00:00",
+      "label": "Jun 24, 2026 — 10:16 PM UTC",
+      "articles": [
+        {
+          "title": "Prime Day Smartphone Deals: Up to 44% Off",
+          "description": "Prime Day offers significant discounts on smartphones from Samsung, Google, and Motorola. Editor-approved deals are now live.",
+          "category": "Business",
+          "source": "PCMag.com",
+          "url": "https://www.pcmag.com/news/best-amazon-prime-day-sale-smartphone-deals-2026",
+          "image": "https://i.pcmag.com/imagery/articles/06GzplHhjkAkCH5F1loX79A-1.fit_lim.size_1200x630.v1782234242.png",
+          "published_at": "2026-06-23T12:53:35Z",
+          "key_points": [
+            "Samsung and Google discounts",
+            "Motorola deals available",
+            "Editor-approved selections"
+          ],
+          "impact": "Consumers can save significantly on smartphones.",
+          "id": "28909801d8959ebfdd378501310f18a8"
+        },
+        {
+          "title": "Best Prime Day Deals: Pixel 10, Galaxy Gear",
+          "description": "Amazon Prime Day features extensive discounts across various tech products, including Pixel 10 and Galaxy gear. New all-time lows are being tracked.",
+          "category": "Business",
+          "source": "9to5google.com",
+          "url": "http://9to5google.com/2026/06/23/best-prime-day-deals-pixel-galaxy/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Amazon-Prime-Day_green-2026.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-23T12:51:00Z",
+          "key_points": [
+            "Extensive tech discounts",
+            "Pixel 10 at $400 off",
+            "New all-time low prices"
+          ],
+          "impact": "Shoppers can find unbeatable tech deals.",
+          "id": "247ef63317a6e94dcdb6f0375907efda"
+        },
+        {
+          "title": "Google Faces Challenges in AI Era",
+          "description": "Google's strong market position is being tested as AI technologies evolve. The company must adapt to maintain its dominance.",
+          "category": "Business",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/23/googles-online-dominance-is-showing-signs-of-cracking-in-ai-era.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108148304-1747772852638-gettyimages-2215581169-AFP_47H43YX.jpeg?v=1769475976&w=1920&h=1080",
+          "published_at": "2026-06-23T12:00:01Z",
+          "key_points": [
+            "Google's market strength questioned",
+            "AI era complicates strategy",
+            "Adaptation is crucial for survival"
+          ],
+          "impact": "Google must innovate to retain market share.",
+          "id": "fc39670b0534c4f73f5fedd42244bb35"
+        },
+        {
+          "title": "Steam Machine Price Revealed: Analysts React",
+          "description": "Valve's Steam Machine console starts at $1,049, sparking mixed reactions from analysts regarding its market viability.",
+          "category": "Gaming",
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/this-is-going-to-be-a-niche-device-analysts-react-to-the-1000-steam-machine-price-reveal",
+          "image": "https://assetsio.gnwcdn.com/Steam-Machine-(2).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-23T11:01:40Z",
+          "key_points": [
+            "Steam Machine starts at $1,049",
+            "Analysts predict niche market",
+            "Concerns over pricing strategy"
+          ],
+          "impact": "High price may limit consumer interest.",
+          "id": "86e617e00cc1eb4c07eaeda9cb87e3a7"
+        },
+        {
+          "title": "PS5 Slim Disc Edition for $499 on Prime Day",
+          "description": "Amazon offers a 'Like New' PS5 Slim Disc Edition for just $499.61 during Prime Day, likely to sell out quickly.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/playstation-5-disc-edition-console-deal-amazon-prime-day-sale",
+          "image": "https://assets-prd.ignimgs.com/2026/06/23/ps5slimspiderman-1782206529355.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-23T10:31:48Z",
+          "key_points": [
+            "PS5 Slim at $499",
+            "Limited stock expected",
+            "Prime Day exclusive deal"
+          ],
+          "impact": "Deal may attract many gamers.",
+          "id": "717fd03b3e40b0c69a755fdaa6cd2bae"
+        },
+        {
+          "title": "T-Mobile 5G Test Reveals Simple Fix",
+          "description": "T-Mobile identifies a straightforward solution to enhance its 5G network performance during high-demand situations.",
+          "category": "Business",
+          "source": "TmoNews",
+          "url": "https://www.tmonews.com/2026/06/new-t-mobile-5g-test-shows-a-simple-fix-for-a-common-slowdown/",
+          "image": "https://www.tmonews.com/wp-content/uploads/2024/11/t-mobile-210x131.jpg",
+          "published_at": "2026-06-23T05:40:58Z",
+          "key_points": [
+            "T-Mobile improves 5G performance",
+            "Simple solution identified",
+            "Enhances user experience"
+          ],
+          "impact": "Network reliability may significantly improve.",
+          "id": "460ed25ad091516ee976b7c0faeff1bd"
+        },
+        {
+          "title": "Apple's iPhone Ultra to Feature Dual OLEDs",
+          "description": "Apple plans to use Samsung's advanced M16 OLED for the iPhone Ultra's outer screen, while retaining the older M14 for the inner display.",
+          "category": "Business",
+          "source": "Wccftech",
+          "url": "https://wccftech.com/apple-will-equip-the-outer-panel-of-the-iphone-ultra-with-samsungs-cutting-edge-natively-10-bit-m16-oled-while-retaining-the-older-m14-oled-for-the-inner-screen/",
+          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/Apple-iPhone-Ultra-iPhone-Fold-1-1920x1081.jpg",
+          "published_at": "2026-06-22T23:32:00Z",
+          "key_points": [
+            "iPhone Ultra features dual OLEDs",
+            "M16 for outer, M14 for inner",
+            "Innovative display strategy"
+          ],
+          "impact": "Apple aims for enhanced display quality.",
+          "id": "68853286ba6c7b1461016afc053d8c41"
+        },
+        {
+          "title": "Ubisoft Co-Founder Dies in Plane Crash",
+          "description": "Claude Guillemot, co-founder of Ubisoft, tragically died in a plane crash on June 19, according to reports.",
+          "category": "Gaming",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/ubisoft-co-founder-dies-in-plane-crash/",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-8.36.33-AM.png",
+          "published_at": "2026-06-22T20:43:54Z",
+          "key_points": [
+            "Ubisoft co-founder passes away",
+            "Plane crash incident reported",
+            "Tributes pour in from industry"
+          ],
+          "impact": "The gaming community mourns a pioneer.",
+          "id": "f61ea5c1f7bff30c381d35b17ec7598e"
+        },
+        {
+          "title": "iOS 27 to Enhance RCS Messaging Features",
+          "description": "The upcoming iOS 27 update will introduce inline replies and photo reactions for RCS messaging between Android and iPhone users.",
+          "category": "Software",
+          "source": "9to5google.com",
+          "url": "http://9to5google.com/2026/06/22/ios-27-android-replies/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/Galaxy-S26-Ultra-and-iPhone-17-Pro-Max-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-22T20:32:00Z",
+          "key_points": [
+            "iOS 27 introduces inline replies",
+            "Photo reactions added",
+            "Improves Android-iPhone messaging"
+          ],
+          "impact": "Messaging experience will be significantly enhanced.",
+          "id": "4f06c4cff93b81a5ccb7df785c1f35e7"
+        },
+        {
+          "title": "Sonic the Hedgehog 35th Birthday Live Stream",
+          "description": "SEGA will celebrate Sonic the Hedgehog's 35th birthday with a live stream event on June 23, available on YouTube and Twitch.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/sonic-the-hedgehog-35th-birthday-live-stream-set-for-june-23",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Sonic-Birthday_06-22-26.jpg",
+          "published_at": "2026-06-22T19:18:55Z",
+          "key_points": [
+            "Sonic's 35th birthday celebration",
+            "Live stream on June 23",
+            "Available on YouTube and Twitch"
+          ],
+          "impact": "Fans can join the celebration online.",
+          "id": "3ee338ca42acff81635d476a3958f553"
+        },
+        {
+          "title": "Unpatchable Flaw in Apple Chips Discovered",
+          "description": "A new vulnerability in Apple chips could allow hackers to jailbreak older iPhones, according to cybersecurity experts.",
+          "category": "Security",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
+          "published_at": "2026-06-22T18:50:24Z",
+          "key_points": [
+            "New flaw in Apple chips",
+            "Potential for iPhone jailbreak",
+            "Cybersecurity concerns raised"
+          ],
+          "impact": "Security risks for older iPhones increase.",
+          "id": "b075fdd3e2064f179b4ebea0f2ffb556"
+        }
+      ]
+    },
+    {
       "id": "2026-06-24T19:44:12.276491+00:00",
       "fetched_at": "2026-06-24T19:44:12.276491+00:00",
       "label": "Jun 24, 2026 — 07:44 PM UTC",
@@ -6328,221 +6511,6 @@
           ],
           "impact": "This exclusive product targets high-end consumers.",
           "id": "707be23cb86226c380a91d87301d3572"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-19T22:02:46.202745+00:00",
-      "fetched_at": "2026-06-19T22:02:46.202745+00:00",
-      "label": "Jun 19, 2026 — 10:03 PM UTC",
-      "articles": [
-        {
-          "title": "GTA VI Pre-Order Date and Cover Art Revealed",
-          "description": "Rockstar Games announces Grand Theft Auto VI's pre-order date and reveals its cover art. Fans can expect classic GTA aesthetics.",
-          "category": "Gaming",
-          "source": "Gameinformer.com",
-          "url": "https://gameinformer.com/2026/06/18/grand-theft-auto-vi-pre-order-date-and-cover-art-revealed",
-          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/05/06/fc1a574c/vice_city_04.jpg.webp",
-          "published_at": "2026-06-18T13:42:43Z",
-          "key_points": [
-            "Pre-order date announced",
-            "Classic GTA cover art",
-            "Promotional video released"
-          ],
-          "impact": "GTA VI hype builds with pre-order announcement.",
-          "id": "5090b4515d504896cbff82ef2010e6a5"
-        },
-        {
-          "title": "The Grinch 2: Saving Christmas Announced",
-          "description": "Outright Games and Casual Brothers unveil The Grinch 2: Saving Christmas for multiple platforms. The adventure game sequel promises festive fun.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/the-grinch-2-saving-christmas-announced-for-ps5-xbox-series-ps4-switch-and-pc",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/The-Grinch-2-Saving-Christmas_2026_06-18-26_006.jpg",
-          "published_at": "2026-06-18T13:18:09Z",
-          "key_points": [
-            "New Grinch game announced",
-            "Available on multiple platforms",
-            "Developed with Dr. Seuss Enterprises"
-          ],
-          "impact": "Fans can look forward to a festive adventure.",
-          "id": "0b424490e27c974ec967af35abb4273b"
-        },
-        {
-          "title": "Adobe Integrates AI Assistant into Creative Apps",
-          "description": "Adobe enhances its Firefly AI assistant, adding it to Premiere, Illustrator, and InDesign. New features include brand kits and product video creation.",
-          "category": "Software",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Firefly-Creative-AI-Assistant-16x9-1.jpeg?resize=1200,526",
-          "published_at": "2026-06-18T13:00:00Z",
-          "key_points": [
-            "AI assistant now in major apps",
-            "New creative features added",
-            "Focus on brand and video creation"
-          ],
-          "impact": "Adobe boosts productivity with AI enhancements.",
-          "id": "74d3ec5eae79ca24d700c10ba2930fd6"
-        },
-        {
-          "title": "YouTube Tests New Android UI Design",
-          "description": "YouTube is experimenting with a redesigned player UI on Android, changing button layouts and removing text. Users may need to adjust.",
-          "category": "Gaming",
-          "source": "Android Authority",
-          "url": "https://www.androidauthority.com/youtube-ui-redesign-test-again-3678953/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/youtube-logo-google-pixel-10a-2-scaled.jpg",
-          "published_at": "2026-06-18T12:29:39Z",
-          "key_points": [
-            "New button layout tested",
-            "Text removed from buttons",
-            "User experience may change"
-          ],
-          "impact": "YouTube's redesign could confuse regular users.",
-          "id": "77f8c4662ecfa6653c3c31f7a8cdec9c"
-        },
-        {
-          "title": "Concerns Arise Over Epic's AI Use in Games",
-          "description": "Poncle expresses worries about its Vampire Survivors collaboration with Fortnite after Epic's generative AI asset designs. The industry watches closely.",
-          "category": "Gaming",
-          "source": "Eurogamer.net",
-          "url": "https://www.eurogamer.net/fortnite-gen-ai-vampire-survivors-collaboration-reviewed-epic-poncle",
-          "image": "https://assetsio.gnwcdn.com/artwork-for-Vampire-Survivors-on-the-left-showing-a-male-with-yellow-eyes-looking-intently-towards-the-camera-next-to-an-image-of-Peeley-from-Fortnite-on-the-right.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-18T12:13:13Z",
-          "key_points": [
-            "Poncle reconsiders collaboration",
-            "Concerns over AI asset design",
-            "Epic's AI use under scrutiny"
-          ],
-          "impact": "Industry reactions highlight AI's controversial role.",
-          "id": "d68ba3e075b1400e9044570b8a7e78a2"
-        },
-        {
-          "title": "Pokémon News Weekly Roundup Released",
-          "description": "The first volume of Pokémon News Weekly Roundup covers Champions Free Gifts and PokémonXP reveals. Stay updated on non-GO Pokémon news.",
-          "category": "Gaming",
-          "source": "Pokemon GO Hub",
-          "url": "https://pokemongohub.net/post/news/pokemon-news-weekly-round-up-vol-1/",
-          "image": "https://pokemongohub.net/wp-content/uploads/2026/06/pokemonxp-169.png",
-          "published_at": "2026-06-18T11:58:29Z",
-          "key_points": [
-            "Weekly Pokémon news roundup",
-            "Focus on non-GO updates",
-            "Champions Free Gifts announced"
-          ],
-          "impact": "Fans stay informed on Pokémon developments.",
-          "id": "47ebb38fefd29186b5cba7e36db3675f"
-        },
-        {
-          "title": "New Google Home Speaker Criticized by Users",
-          "description": "Google's new Home Speaker replaces Nest Audio but lacks clear improvements, frustrating existing users. The design overhaul raises concerns.",
-          "category": "Hardware",
-          "source": "Android Authority",
-          "url": "https://www.androidauthority.com/google-home-speaker-bad-nest-audio-upgrade-3678211/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/google_home_speaker_berry.jpg",
-          "published_at": "2026-06-18T11:00:35Z",
-          "key_points": [
-            "New speaker replaces Nest Audio",
-            "Users express dissatisfaction",
-            "Design overhaul criticized"
-          ],
-          "impact": "Google faces backlash over speaker upgrade.",
-          "id": "bd872782b45de8af893e072d765ce6a7"
-        },
-        {
-          "title": "EA Sports FC 26 Joins Xbox Game Pass",
-          "description": "EA Sports FC 26 is now available on Xbox Game Pass Ultimate, coinciding with the FIFA World Cup. Football fans rejoice with this timely addition.",
-          "category": "Gaming",
-          "source": "TrueAchievements",
-          "url": "https://www.trueachievements.com/news/ea-sports-fc-26-xbox-game-pass",
-          "image": "https://www.trueachievements.com/imgs/176156/fc-26-xbox-game-pass.jpg",
-          "published_at": "2026-06-18T09:54:48Z",
-          "key_points": [
-            "EA Sports FC 26 added",
-            "Perfect timing with World Cup",
-            "Available on Game Pass Ultimate"
-          ],
-          "impact": "Football fans gain access to new game.",
-          "id": "621351372803a629320e1417e2b40e61"
-        },
-        {
-          "title": "Prime Day Gaming Deals Announced",
-          "description": "Prime Day offers up to 54% off on games, consoles, and accessories across platforms. Great savings for gamers are now available.",
-          "category": "Gaming",
-          "source": "Tom's Guide",
-          "url": "https://www.tomsguide.com/gaming/prime-day-gaming-deals-take-up-to-54-percent-off-nintendo-switch-ps5-gaming-pcs-and-more-23-deals-you-cant-miss",
-          "image": "https://cdn.mos.cms.futurecdn.net/uUH4CEAWez99vp4ea8QK8Q-2560-80.jpg",
-          "published_at": "2026-06-18T09:41:27Z",
-          "key_points": [
-            "Prime Day discounts announced",
-            "Up to 54% off",
-            "Deals on multiple platforms"
-          ],
-          "impact": "Gamers can save big this Prime Day.",
-          "id": "4a8edfac54a7eefc849f073cf161c32f"
-        },
-        {
-          "title": "GTA 6 Gameplay Leak Surfaces",
-          "description": "Gameplay leaks for Grand Theft Auto VI emerge ahead of the anticipated trailer. Fans are eager for more details as release approaches.",
-          "category": "Gaming",
-          "source": "Screen Rant",
-          "url": "https://screenrant.com/gta-6-gameplay-leak-june-2026/",
-          "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/gta-6-key-art-1.jpg?w=1600&h=900&fit=crop",
-          "published_at": "2026-06-18T09:31:37Z",
-          "key_points": [
-            "Gameplay leaks reported",
-            "Anticipation builds for trailer",
-            "Release date seems confirmed"
-          ],
-          "impact": "Leaks heighten excitement for GTA VI.",
-          "id": "2d0e51b612b662a47886a880a2e358f4"
-        },
-        {
-          "title": "Gabe Newell Reportedly Buys Florida Estate",
-          "description": "Valve's Gabe Newell is reported to have purchased a luxury estate in Florida, raising speculation about his future plans. Seattle-area billionaires are relocating.",
-          "category": "Geopolitics",
-          "source": "GeekWire",
-          "url": "https://www.geekwire.com/2026/loss-of-another-seattle-area-billionaire-valves-gabe-newell-is-reported-buyer-of-florida-estate/",
-          "image": "https://cdn.geekwire.com/wp-content/uploads/2026/06/gabe-newell.jpg",
-          "published_at": "2026-06-18T02:44:51Z",
-          "key_points": [
-            "Gabe Newell buys Florida estate",
-            "Speculation on relocation",
-            "Seattle billionaires moving away"
-          ],
-          "impact": "Newell's move reflects regional trends.",
-          "id": "b32bcd36f506e49d892c7344005dbce2"
-        },
-        {
-          "title": "Apple Unveils New Developer AI Tools",
-          "description": "Apple showcases its latest AI tools for developers in a 90-minute presentation at WWDC. Impressive demos highlight new capabilities.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/17/apple-showcases-its-new-developer-ai-tools-in-impressive-90-minute-presentation/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/wwdc26-sj-theater-ai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-17T21:28:00Z",
-          "key_points": [
-            "New AI tools showcased",
-            "90-minute presentation",
-            "Demos of developer capabilities"
-          ],
-          "impact": "Apple enhances developer experience with AI.",
-          "id": "34b19bbc3af646e95b0734e3f6fc9513"
-        },
-        {
-          "title": "Google Releases Major June Pixel Update",
-          "description": "Google's June security patch for Pixel devices addresses numerous lingering issues. Users can expect improved performance and stability.",
-          "category": "Software",
-          "source": "Android Central",
-          "url": "https://www.androidcentral.com/phones/google-pixel/googles-extensive-june-security-update-fixes-tons-of-lingering-pixel-problems",
-          "image": "https://cdn.mos.cms.futurecdn.net/8E7n8GwffFMP3nGd4HU9kW-2560-80.jpg",
-          "published_at": "2026-06-17T19:53:03Z",
-          "key_points": [
-            "June patch released",
-            "Fixes lingering Pixel issues",
-            "Improved device performance"
-          ],
-          "impact": "Users benefit from significant software improvements.",
-          "id": "06a82302458a3c3b5b8b2243ff36b1de"
         }
       ]
     }
