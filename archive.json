@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-24T09:26:55.306201+00:00",
+      "fetched_at": "2026-06-24T09:26:55.306201+00:00",
+      "label": "Jun 24, 2026 — 09:27 AM UTC",
+      "articles": [
+        {
+          "title": "Prime Day Lego Deals You Can't Miss",
+          "description": "Discover top Lego deals for Prime Day, including Star Wars sets and F1 cars. Perfect for avid builders looking for discounts.",
+          "category": "Gaming",
+          "source": "CNN",
+          "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-lego-deals-2026-06-23",
+          "image": "https://media.cnn.com/api/v1/images/stellar/prod/lego-prime-day-deals-2026.jpg?c=16x9&q=w_800,c_fill",
+          "published_at": "2026-06-23T07:16:00Z",
+          "key_points": [
+            "Best Lego Star Wars deals",
+            "Discounts on brick-built plants",
+            "F1 car sets available"
+          ],
+          "impact": "These deals enhance the Prime Day shopping experience.",
+          "id": "041a6ac64d06d5a17a63f80edc212ddd"
+        },
+        {
+          "title": "Early Prime Day Deals You Shouldn't Miss",
+          "description": "Amazon's early Prime Day offers include devices, Kindle bundles, and headphones. Shop now for significant savings before the main event.",
+          "category": "Business",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/best-amazon-prime-day-deals-2026",
+          "image": "https://helios-i.mashable.com/imagery/articles/05762kyUFuzcUAp6v7JIcEC/hero-image.fill.size_1200x675.v1782198016.jpg",
+          "published_at": "2026-06-23T07:15:40Z",
+          "key_points": [
+            "Early deals on Amazon devices",
+            "Kindle bundles available",
+            "Discounted headphones"
+          ],
+          "impact": "These early deals set the stage for Prime Day.",
+          "id": "5229971fccc967d04b91d4a7534ef774"
+        },
+        {
+          "title": "New Features in iOS 27 Beta 2",
+          "description": "Apple's iOS 27 Beta 2 introduces several new features and updates. Users can expect enhanced functionality ahead of the official release.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/guide/ios-27-features/",
+          "image": "https://images.macrumors.com/t/PeEXCl2WWdKyHqei1lMVhyyE0_Y=/2500x/article-new/2026/06/iOS-27-Feature-Dark.jpg",
+          "published_at": "2026-06-22T23:02:49Z",
+          "key_points": [
+            "New features added",
+            "Multiple updates included",
+            "Preparing for official release"
+          ],
+          "impact": "iOS 27 Beta 2 enhances user experience significantly.",
+          "id": "4466d5e14484bb8179f493602e875efd"
+        },
+        {
+          "title": "Samsung Launches Fastest UFS 5.0 Storage",
+          "description": "Samsung unveils the fastest Universal Flash Storage 5.0 solution, enhancing on-device AI applications. This innovation promises improved efficiency.",
+          "category": "Hardware",
+          "source": "Samsung",
+          "url": "https://news.samsung.com/global/samsung-unveils-industrys-fastest-ufs-5-0-solution-for-next-gen-on-device-ai-applications",
+          "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/06/22173757/Samsung-Semiconductors-UFS-5.0-solution_Thumb932.jpg",
+          "published_at": "2026-06-22T23:00:00Z",
+          "key_points": [
+            "Fastest UFS 5.0 solution",
+            "Enhances AI applications",
+            "Improved efficiency promised"
+          ],
+          "impact": "This storage solution sets a new industry standard.",
+          "id": "0e801c72e8cae66369cc36673c860a36"
+        },
+        {
+          "title": "SEGA Reports Sales for Key Titles",
+          "description": "SEGA shares lifetime sales figures for Persona, Metaphor, and Like a Dragon. The report highlights strong performance over the past year.",
+          "category": "Gaming",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/06/sega-shares-lifetime-sales-update-for-persona-metaphor-and-like-a-dragon",
+          "image": "https://images.pushsquare.com/1ce804d8e9e81/large.jpg",
+          "published_at": "2026-06-22T23:00:00Z",
+          "key_points": [
+            "Sales figures revealed",
+            "Strong performance noted",
+            "Key titles highlighted"
+          ],
+          "impact": "SEGA's titles continue to perform well in the market.",
+          "id": "2d01a593ef2da26dd0fc29caf4061c4b"
+        },
+        {
+          "title": "Kojima Teases New Horror Game Screenshot",
+          "description": "Hideo Kojima shares a new screenshot from his upcoming horror game OD, evoking memories of his previous work. Fans are intrigued by the familiar atmosphere.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/hideo-kojima-shares-new-screenshot-od-looks-like-pt-2000709099",
+          "image": "https://kotaku.com/app/uploads/2023/12/989758634cca554a29d0aeb9774a213b-1200x675.jpg",
+          "published_at": "2026-06-22T21:44:02Z",
+          "key_points": [
+            "New screenshot shared",
+            "Familiar atmosphere noted",
+            "Fans excited for release"
+          ],
+          "impact": "Kojima's teaser heightens anticipation for the game.",
+          "id": "204a489ebf5c6738ee69eadf085d75cb"
+        },
+        {
+          "title": "EA Cuts Staff in Latest Layoffs",
+          "description": "Electronic Arts is reportedly laying off staff in recruitment, customer support, and IT. This marks another round of job cuts for the company.",
+          "category": "Business",
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/ea-is-reportedly-laying-off-recruitment-customer-support-safety-and-it-staff",
+          "image": "https://assetsio.gnwcdn.com/30931-ea-logo-wallpaper-442625200.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-22T21:29:34Z",
+          "key_points": [
+            "Layoffs in multiple departments",
+            "Focus on recruitment cuts",
+            "Customer support staff affected"
+          ],
+          "impact": "EA's layoffs reflect ongoing industry challenges.",
+          "id": "9282c10ed235c780abd9a6e4cb361b50"
+        },
+        {
+          "title": "StarCraft II Patch 5.0.16 Released",
+          "description": "The new StarCraft II patch includes map pool updates, balance changes, and quality of life improvements. Players can expect enhanced strategic variety.",
+          "category": "Gaming",
+          "source": "Blizzard News",
+          "url": "https://news.blizzard.com/en-us/article/24259080/starcraft-ii-5-0-16-patch-notes",
+          "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/kd/KD50BBXYHMBR1554829677265.jpg",
+          "published_at": "2026-06-22T18:55:00Z",
+          "key_points": [
+            "New map pool introduced",
+            "Balance changes applied",
+            "Quality of life improvements"
+          ],
+          "impact": "Patch enhances gameplay experience for StarCraft II.",
+          "id": "f7b6f629b59c878539356e748c904a1f"
+        },
+        {
+          "title": "Nicolas Cage Joins Call of Duty",
+          "description": "Players can now play as Nicolas Cage in Call of Duty: Black Ops 7. This addition kicks off the game's Summer of Action event.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/its-finally-happened-you-can-play-as-nicolas-cage-in-call-of-duty",
+          "image": "https://assets-prd.ignimgs.com/2026/06/22/codthumb-1782145493170.png?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-22T17:44:46Z",
+          "key_points": [
+            "Nicolas Cage playable character",
+            "Launches Summer of Action",
+            "Exciting new gameplay feature"
+          ],
+          "impact": "Cage's addition boosts player engagement in the game.",
+          "id": "6c35639cb550768d99f35c8501c9f9da"
+        },
+        {
+          "title": "Valve Reveals Steam Machine Pricing",
+          "description": "Valve announces pricing for its Steam Machines, ranging from $1,049 to $1,428. Reservations for these models are now open.",
+          "category": "Hardware",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/2026/06/22/valves-steam-machine-costs-between-1049-and-1428-the-option-to-sign-up-for-potential",
+          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/22/b50bbc16/steammachine.jpg.webp",
+          "published_at": "2026-06-22T17:38:23Z",
+          "key_points": [
+            "Steam Machine prices announced",
+            "Models range from $1,049",
+            "Reservations open now"
+          ],
+          "impact": "Valve's pricing strategy attracts early interest.",
+          "id": "2ccc4cd488189ea171cb2097d1a202e4"
+        },
+        {
+          "title": "Ubisoft Co-Founder Dies in Plane Crash",
+          "description": "Claude Guillemot, co-founder of Ubisoft, tragically died in a plane crash in France. The gaming community mourns his loss.",
+          "category": "Gaming",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/2026/06/22/ubisoft-co-founder-claude-guillemot-died-in-a-plane-crash-saturday",
+          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/22/688e9802/Ubisoft_4.jpg.webp",
+          "published_at": "2026-06-22T16:53:20Z",
+          "key_points": [
+            "Claude Guillemot passes away",
+            "Plane crash in France",
+            "Community mourns his loss"
+          ],
+          "impact": "His legacy will be remembered in gaming.",
+          "id": "860b6a69005918ba274cbd18f153aa9a"
+        },
+        {
+          "title": "Acer and ASUS Resume Shipments in Germany",
+          "description": "Acer and ASUS have resumed PC shipments in Germany after resolving a patent dispute with Nokia. This ends months of restrictions.",
+          "category": "Business",
+          "source": "VideoCardz.com",
+          "url": "https://videocardz.com/newz/acer-and-asus-resume-pc-shipments-in-germany-after-nokia-hevc-patent-dispute",
+          "image": "https://cdn.videocardz.com/1/2026/06/ACER-ASUS-HEVC-GERMANY-HERO.webp",
+          "published_at": "2026-06-22T16:43:15Z",
+          "key_points": [
+            "Shipments resume after dispute",
+            "Acer and ASUS affected",
+            "End of restrictions noted"
+          ],
+          "impact": "This resumption boosts the PC market in Germany.",
+          "id": "72dea27edabf2e2a7cf92f1ae47b9ea4"
+        },
+        {
+          "title": "Best Buy Launches Anti-Prime Day Sale",
+          "description": "Best Buy offers up to 50% off on smartphones and laptops in its Tech Fest sale, competing directly with Amazon's Prime Day.",
+          "category": "Business",
+          "source": "Android Central",
+          "url": "https://www.androidcentral.com/phones/best-buy-tech-fest-anti-prime-day-deals-2026",
+          "image": "https://cdn.mos.cms.futurecdn.net/ofaEMEtqR9rufrNTUTTJoh-1152-80.jpg",
+          "published_at": "2026-06-22T16:40:56Z",
+          "key_points": [
+            "Up to 50% off deals",
+            "Competing with Amazon's sale",
+            "Tech Fest event launched"
+          ],
+          "impact": "Best Buy's sale attracts savvy shoppers.",
+          "id": "770ee936421dab94740b6de02d095b57"
+        },
+        {
+          "title": "Pixel Users Report Touch Issues After Update",
+          "description": "Some Google Pixel users experience touch input issues following the Android 17 update. The bug affects scrolling functionality.",
+          "category": "Software",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/22/android-17-causes-google-pixel-scrolling-bug/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/Pixel-10a-app-switcher.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-22T15:49:00Z",
+          "key_points": [
+            "Touch issues reported",
+            "Scrolling functionality affected",
+            "Android 17 update concerns"
+          ],
+          "impact": "This bug impacts user experience negatively.",
+          "id": "0d6b77115bd3dfec678b79c9cfbd3be9"
+        },
+        {
+          "title": "AMD Releases FSR 4.1 for Radeon GPUs",
+          "description": "AMD officially launches FSR 4.1 for Radeon RX 7000 series GPUs, confirming support for RDNA 3 APUs. This update enhances gaming performance.",
+          "category": "Hardware",
+          "source": "VideoCardz.com",
+          "url": "https://videocardz.com/newz/amd-officially-releases-fsr-4-1-for-radeon-rx-7000-series-gpus-support-for-rdna-3-apus-confirmed-too",
+          "image": "https://cdn.videocardz.com/1/2026/06/AMD-FSR4-RX-7000-SUPPORT-3.webp",
+          "published_at": "2026-06-22T14:23:12Z",
+          "key_points": [
+            "FSR 4.1 launched",
+            "Supports RX 7000 series",
+            "Enhances gaming performance"
+          ],
+          "impact": "This update boosts AMD's competitive edge.",
+          "id": "e9ac0c165ed13d2fa9ef95eacdd4a927"
+        }
+      ]
+    },
+    {
       "id": "2026-06-24T03:29:01.386934+00:00",
       "fetched_at": "2026-06-24T03:29:01.386934+00:00",
       "label": "Jun 24, 2026 — 03:29 AM UTC",
@@ -6488,253 +6735,6 @@
           ],
           "impact": "Players can engage in exciting summer activities.",
           "id": "c4360461006feebc5c7902baab5b96b0"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-19T04:11:06.110059+00:00",
-      "fetched_at": "2026-06-19T04:11:06.110059+00:00",
-      "label": "Jun 19, 2026 — 04:11 AM UTC",
-      "articles": [
-        {
-          "title": "Persona 6 Description Revealed - Kotaku",
-          "description": "The official Persona 6 description hints at familiar themes of occult and student life in Japan. Fans can expect classic series elements.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/official-persona-6-description-is-exactly-what-youd-expect-2000707692",
-          "image": "https://kotaku.com/app/uploads/2026/06/persona-5-1200x675.jpg",
-          "published_at": "2026-06-17T21:06:05Z",
-          "key_points": [
-            "Familiar occult themes",
-            "Student life setting",
-            "Classic series elements"
-          ],
-          "impact": "Persona 6 continues the franchise's beloved themes.",
-          "id": "3be1d54434a350e2e91e2a48247d3a73"
-        },
-        {
-          "title": "iPadOS 27 Unveiled - MacRumors",
-          "description": "iPadOS 27 introduces a smarter Siri and new Apple Intelligence features, enhancing user experience with iPad-specific improvements.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/17/ipados-27-hands-on/",
-          "image": "https://images.macrumors.com/t/RFneHHgP8MkQP96D5BzWRqh4t5Q=/2500x/article-new/2026/06/iPadOS-27-New-Features-Thumb.jpg",
-          "published_at": "2026-06-17T20:51:39Z",
-          "key_points": [
-            "Smarter Siri integration",
-            "New Apple Intelligence features",
-            "iPad-specific improvements"
-          ],
-          "impact": "iPadOS 27 enhances productivity and usability.",
-          "id": "b4c3aaf0998228c091de8877617ee943"
-        },
-        {
-          "title": "Xbox Ports Classic Call of Duty Games - Windows Central",
-          "description": "Xbox's Treyarch is bringing Black Ops and Black Ops 2 to PlayStation, expanding access to classic titles.",
-          "category": "Gaming",
-          "source": "Windows Central",
-          "url": "https://www.windowscentral.com/gaming/call-of-duty/xbox-is-porting-two-classic-call-of-duty-games-to-playstation-and-theyre-coming-very-very-soon",
-          "image": "https://cdn.mos.cms.futurecdn.net/vgDVVeSYsMJSfVBpWsUJkc-1067-80.jpg",
-          "published_at": "2026-06-17T20:14:11Z",
-          "key_points": [
-            "Classic games on PlayStation",
-            "Black Ops series revival",
-            "Expanded gaming access"
-          ],
-          "impact": "Bringing classic titles to new audiences.",
-          "id": "a8d96900c8dfd5625b4f210276b42fd1"
-        },
-        {
-          "title": "Sony Launches Lytia 910 Sensor - GSMArena.com",
-          "description": "Sony's Lytia 910 sensor features 100dB dynamic range, enabling HDR photography and 4K video recording in one shot.",
-          "category": "Hardware",
-          "source": "GSMArena.com",
-          "url": "https://www.gsmarena.com/sony_unveils_the_lytia_910_its_first_lofic_sensor_and_it_boasts_100db_dynamic_range-news-73318.php",
-          "image": "https://fdn.gsmarena.com/imgroot/news/26/06/sony-lytia-910-lofic-sensor/-952x498w6/gsmarena_000.jpg",
-          "published_at": "2026-06-17T19:48:02Z",
-          "key_points": [
-            "100dB dynamic range",
-            "HDR photography capabilities",
-            "4K video recording"
-          ],
-          "impact": "Advances in imaging technology for professionals.",
-          "id": "4816c7747136717ba2381a20ffdf2f78"
-        },
-        {
-          "title": "Anthropic Updates Claude Design - VentureBeat",
-          "description": "Claude Design receives a major overhaul, enhancing design-to-code workflows with new features and reduced token usage.",
-          "category": "Software",
-          "source": "VentureBeat",
-          "url": "https://venturebeat.com/technology/anthropic-ships-major-claude-design-overhaul-with-design-system-imports-code-round-trips-and-a-fix-for-its-token-burning-problem",
-          "image": "https://images.ctfassets.net/jdtwqhzvc2n1/A7rh9k4f5l3OFsViB4gjc/8c1c2679504faa38007e3e334377755f/image__1___1_.png?w=800&q=75",
-          "published_at": "2026-06-17T19:00:00Z",
-          "key_points": [
-            "Design-to-code enhancements",
-            "Lower token usage",
-            "New enterprise app exports"
-          ],
-          "impact": "Strengthens Claude as a design platform.",
-          "id": "12aca1231575c7a546dfe164997158ce"
-        },
-        {
-          "title": "Google Introduces Gemini Smart Speaker - TechCrunch",
-          "description": "Google's new Home Speaker utilizes Gemini AI for a more conversational experience, moving beyond rigid commands.",
-          "category": "Hardware",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Google-Home-Speaker-Berry.jpeg?resize=1200,899",
-          "published_at": "2026-06-17T16:30:09Z",
-          "key_points": [
-            "Conversational AI interactions",
-            "$99.99 price point",
-            "Reinventing smart speakers"
-          ],
-          "impact": "Gemini aims to redefine smart speaker usability.",
-          "id": "d9843e598aa8e1c64347542b5f78bac1"
-        },
-        {
-          "title": "Unreal Engine 6 Integrates AI - Video Games Chronicle",
-          "description": "Epic's Unreal Engine 6 will incorporate AI models to streamline game development and reduce repetitive tasks.",
-          "category": "Gaming",
-          "source": "Video Games Chronicle",
-          "url": "https://www.videogameschronicle.com/news/epic-reveals-unreal-engine-6-is-integrating-ai-models-so-developers-can-reduce-tedious-work/",
-          "image": "https://www.videogameschronicle.com/files/2026/06/Screenshot-2026-06-17-165123.jpg",
-          "published_at": "2026-06-17T16:02:29Z",
-          "key_points": [
-            "AI integration in development",
-            "Faster content creation",
-            "Maintains creative control"
-          ],
-          "impact": "AI will transform game development processes.",
-          "id": "cab83a2fbe9e626499051e7760c56c86"
-        },
-        {
-          "title": "Dispatch Developer Addresses Censorship - IGN",
-          "description": "AdHoc Studio releases a patch for Dispatch, unlocking more nudity options on Switch after player backlash over censorship.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/dispatch-developer-addresses-controversial-switch-censorship-with-new-patch-though-some-hard-requirements-from-nintendo-remain",
-          "image": "https://assets-prd.ignimgs.com/2026/06/15/hr-violations-pack-toxic-chaotic-1781529596174.png?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-17T16:00:00Z",
-          "key_points": [
-            "Patch unlocks nudity options",
-            "Player backlash addressed",
-            "Nintendo requirements remain"
-          ],
-          "impact": "Developer responds to community concerns.",
-          "id": "94e14b10254a72d092d28e7c379e902a"
-        },
-        {
-          "title": "OnePlus Launches 15R with More RAM - GSMArena.com",
-          "description": "OnePlus defies RAM price trends by offering the 15R with increased memory at a competitive price.",
-          "category": "Hardware",
-          "source": "GSMArena.com",
-          "url": "https://www.gsmarena.com/oneplus_defies_ram_crisis_offers_the_15r_with_more_memory-news-73316.php",
-          "image": "https://fdn.gsmarena.com/imgroot/news/26/06/oneplus-15r-more-ram/-952x498w6/gsmarena_000.jpg",
-          "published_at": "2026-06-17T15:58:01Z",
-          "key_points": [
-            "More RAM at competitive price",
-            "Defies RAM price trends",
-            "Continues innovation in smartphones"
-          ],
-          "impact": "OnePlus challenges market trends with new device.",
-          "id": "bbe002c5b184aaa12233d0355652c621"
-        },
-        {
-          "title": "SanDisk's New PS5 SSD Priced High - The Verge",
-          "description": "SanDisk's 8TB Optimus GX PRO SSD for PS5 is priced at nearly $3,000, offering extensive game storage.",
-          "category": "Hardware",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/951527/sandisk-optimus-gx-pro-850p-nvme-ssd-8tb-ps5-playstation-sony",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/sandisk1.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-          "published_at": "2026-06-17T15:34:29Z",
-          "key_points": [
-            "8TB storage capacity",
-            "High price point",
-            "Officially licensed accessory"
-          ],
-          "impact": "Premium pricing for extensive PS5 storage.",
-          "id": "a0fd4863c271d1f3557a6743eb24ad6e"
-        },
-        {
-          "title": "iOS 27 Boosts iPhone Speed - 9to5Mac",
-          "description": "iOS 27 enhances iPhone performance with over 40 improvements, alongside new AI features and Siri enhancements.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/17/ios-27-makes-your-iphone-faster-in-40-ways-heres-the-full-list/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-17T15:33:00Z",
-          "key_points": [
-            "40+ performance improvements",
-            "New AI features",
-            "Enhanced Siri capabilities"
-          ],
-          "impact": "iOS 27 significantly boosts iPhone speed.",
-          "id": "688d1cfc919669c3532a9fb1a05e8fcf"
-        },
-        {
-          "title": "Frigibax Community Day Announced - Pokémon GO Hub",
-          "description": "Pokémon GO's Frigibax Community Day will feature the evolution of Arctibax into Baxcalibur, highlighting a new Charged Attack.",
-          "category": "Gaming",
-          "source": "Pokemon GO Hub",
-          "url": "https://pokemongohub.net/post/meta/frigibax-community-day-pve-analysis-is-baxcalibur-with-glaive-rush-worth-building/",
-          "image": "https://pokemongohub.net/wp-content/uploads/2023/09/baxcalibur-frigibax-artibax.jpg",
-          "published_at": "2026-06-17T14:14:41Z",
-          "key_points": [
-            "Community Day on June 20",
-            "New Charged Attack",
-            "Spotlight on Baxcalibur"
-          ],
-          "impact": "Exciting new features for Pokémon GO players.",
-          "id": "f31991a7c6e43bd0e573029749ad94a8"
-        },
-        {
-          "title": "Rockstar Games Announces New Heist - Rockstar Games",
-          "description": "Rockstar reveals a new heist at the Kortz Center, promising thrilling gameplay and high-stakes action.",
-          "category": "Gaming",
-          "source": "Rockstargames.com",
-          "url": "https://www.rockstargames.com/newswire/article/517k8ak75ao327/the-next-big-score?utm_source=twitter&amp;amp;utm_medium=o_social&amp;amp;utm_campaign=gtao_announcement_kch-20260617",
-          "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/517k8ak75ao327/bd8dd92adc077fa7ee13dcddc2d6a93cfb684599.jpg",
-          "published_at": "2026-06-17T13:57:37Z",
-          "key_points": [
-            "New heist at Kortz Center",
-            "High-stakes gameplay",
-            "Exciting new content"
-          ],
-          "impact": "New heist adds thrilling gameplay to GTA.",
-          "id": "d841446746c96a2c328044cf059d0b1e"
-        },
-        {
-          "title": "New Ranked Battles Season in Pokémon Champions - Pokemon.com",
-          "description": "A new regulation set and Ranked Battles season have begun in Pokémon Champions, enhancing competitive gameplay.",
-          "category": "Gaming",
-          "source": "Pokemon.com",
-          "url": "https://www.pokemon.com/us/pokemon-news/regulation-set-m-b-kicks-off-a-new-ranked-battles-season-and-battle-pass-in-pokemon-champions",
-          "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/attend-events/_tiles/2026/vgc/regulation-set/m-b/pokemon-champions-169-en.png",
-          "published_at": "2026-06-17T13:04:12Z",
-          "key_points": [
-            "New regulation set introduced",
-            "Ranked Battles season starts",
-            "Battle Pass available"
-          ],
-          "impact": "Enhances competitive play in Pokémon Champions.",
-          "id": "056862d55b2d88948443368889d3fa19"
-        },
-        {
-          "title": "Samsung Galaxy XR Launches in the UK - Samsung",
-          "description": "Samsung's Galaxy XR, its first extended reality device, is available for pre-order, launching on July 8.",
-          "category": "Hardware",
-          "source": "Samsung.com",
-          "url": "https://news.samsung.com/uk/samsung-galaxy-xr-arrives-in-the-uk",
-          "image": "https://img.global.news.samsung.com/uk/wp-content/uploads/2026/06/5075302-Samsung-MX-GalaxyXR-Lifestyle-KV_Try-on_07-1920x1080px-v2.jpg",
-          "published_at": "2026-06-17T12:16:26Z",
-          "key_points": [
-            "First extended reality device",
-            "Pre-orders available now",
-            "Launch on July 8"
-          ],
-          "impact": "Samsung enters the XR market with Galaxy XR.",
-          "id": "42f390fe4406820e1b40ef7b7ab6bc44"
         }
       ]
     }

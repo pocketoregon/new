@@ -1,247 +1,247 @@
 {
   "date": "2026-06-24",
-  "generated_at": "2026-06-24T03:29:01.386934+00:00",
+  "generated_at": "2026-06-24T09:26:55.306201+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Capcom Spotlight Announced For This Week, Here's A Teaser Trailer",
-      "description": "Capcom's upcoming Spotlight will showcase 30 minutes of news and updates. Fans can expect exciting announcements for various platforms.",
+      "title": "Prime Day Lego Deals You Can't Miss",
+      "description": "Discover top Lego deals for Prime Day, including Star Wars sets and F1 cars. Perfect for avid builders looking for discounts.",
       "category": "Gaming",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/06/capcom-spotlight-announced-for-this-week-heres-a-teaser-trailer",
-      "image": "https://images.nintendolife.com/3540981b58db2/large.jpg",
-      "published_at": "2026-06-23T02:00:00Z",
+      "source": "CNN",
+      "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-lego-deals-2026-06-23",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/lego-prime-day-deals-2026.jpg?c=16x9&q=w_800,c_fill",
+      "published_at": "2026-06-23T07:16:00Z",
       "key_points": [
-        "30-minute news showcase",
-        "Exciting game announcements",
-        "Multiple platforms involved"
+        "Best Lego Star Wars deals",
+        "Discounts on brick-built plants",
+        "F1 car sets available"
       ],
-      "impact": "Capcom continues to engage its fanbase effectively.",
-      "id": "d66d724584bf223d792922cecb6242cd"
+      "impact": "These deals enhance the Prime Day shopping experience.",
+      "id": "041a6ac64d06d5a17a63f80edc212ddd"
     },
     {
-      "title": "Target Just Launched New LEGO Super Mario Deals and Amazon Is Matching For Prime Day 2026",
-      "description": "Target and Amazon are offering early LEGO Super Mario deals ahead of Prime Day. Discounts are available on various sets until June 26.",
-      "category": "Gaming",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/lego-super-mario-set-deals-prime-day-2026",
-      "image": "https://assets-prd.ignimgs.com/2025/09/02/legomarioyoshi-1756833656382.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-23T01:37:00Z",
-      "key_points": [
-        "LEGO Super Mario discounts",
-        "Prime Day starts tomorrow",
-        "Target and Amazon competing"
-      ],
-      "impact": "Shoppers can save significantly on LEGO sets.",
-      "id": "5734d121409c1292fa5845496f699324"
-    },
-    {
-      "title": "Prime Day deals are officially live: Shop the best tech sales from Apple, Sony, Bose, Anker and others for up to 54% off right now",
-      "description": "Amazon Prime Day has launched with discounts on tech products from major brands. Members can save up to 54% on various items.",
+      "title": "Early Prime Day Deals You Shouldn't Miss",
+      "description": "Amazon's early Prime Day offers include devices, Kindle bundles, and headphones. Shop now for significant savings before the main event.",
       "category": "Business",
-      "source": "Yahoo Entertainment",
-      "url": "https://tech.yahoo.com/deals/breaking-news/live/prime-day-deals-are-officially-live-shop-the-best-tech-sales-from-apple-sony-bose-anker-and-others-for-up-to-54-off-right-now-184252541.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/699a35d87ef550c6a887231a3713b8b24903f318d05f93894f944e10a7d22a6e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fexample-5_9078.jpg",
-      "published_at": "2026-06-23T00:30:00Z",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/best-amazon-prime-day-deals-2026",
+      "image": "https://helios-i.mashable.com/imagery/articles/05762kyUFuzcUAp6v7JIcEC/hero-image.fill.size_1200x675.v1782198016.jpg",
+      "published_at": "2026-06-23T07:15:40Z",
       "key_points": [
-        "Prime Day discounts live now",
-        "Up to 54% off tech",
-        "Wide range of brands included"
+        "Early deals on Amazon devices",
+        "Kindle bundles available",
+        "Discounted headphones"
       ],
-      "impact": "Consumers can take advantage of significant savings.",
-      "id": "d9c2a97e6a7c2e29f2a0fa602ff81bf6"
+      "impact": "These early deals set the stage for Prime Day.",
+      "id": "5229971fccc967d04b91d4a7534ef774"
     },
     {
-      "title": "The 4 PSI Rule For Tires: What Is It, And Is It Reliable?",
-      "description": "The 4 PSI rule helps estimate tire inflation but varies in reliability based on conditions. Understanding its limitations is crucial for drivers.",
-      "category": "Science",
-      "source": "Jalopnik",
-      "url": "https://www.jalopnik.com/2199207/is-4-psi-tire-rule-reliable/",
-      "image": "https://www.jalopnik.com/img/gallery/the-4-psi-rule-for-tires-what-is-it-and-is-it-reliable/l-intro-1782152919.jpg",
-      "published_at": "2026-06-22T22:25:00Z",
-      "key_points": [
-        "4 PSI rule explained",
-        "Reliability varies by conditions",
-        "Important for tire maintenance"
-      ],
-      "impact": "Drivers should be cautious using this rule.",
-      "id": "983053a1ddc3a7f86f98509cd6de643e"
-    },
-    {
-      "title": "Kojima Says Only Xbox And Phil Spencer Understood OD, His New Horror Game",
-      "description": "Hideo Kojima reveals that only Xbox and Phil Spencer grasped the concept of his horror game, OD. Other companies showed little interest.",
-      "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/only-xbox-was-interested-in-kojimas-horror-game-other-companies-didnt-understand-the-concept-2000709107",
-      "image": "https://kotaku.com/app/uploads/2026/06/od1-960x539-1.jpg",
-      "published_at": "2026-06-22T21:18:53Z",
-      "key_points": [
-        "Kojima's horror game OD",
-        "Xbox's unique understanding",
-        "Other companies uninterested"
-      ],
-      "impact": "Kojima's vision finds a home with Xbox.",
-      "id": "4fbbbd29cca4e0debdfda41c7142b620"
-    },
-    {
-      "title": "Every Pontiac Firebird Generation Ranked By Top Speed",
-      "description": "A ranking of all Pontiac Firebird generations based on verified top speed data. Discover which models performed best.",
-      "category": "Science",
-      "source": "Jalopnik",
-      "url": "https://www.jalopnik.com/2198015/every-pontiac-firebird-generation-ranked-top-speed/",
-      "image": "https://www.jalopnik.com/img/gallery/every-pontiac-firebird-generation-ranked-top-speed/l-intro-1782156001.jpg",
-      "published_at": "2026-06-22T20:45:00Z",
-      "key_points": [
-        "Pontiac Firebird generations ranked",
-        "Top speed data analyzed",
-        "Performance insights provided"
-      ],
-      "impact": "Car enthusiasts gain valuable performance knowledge.",
-      "id": "3df85b1ac571754305571ca8ef96150d"
-    },
-    {
-      "title": "Sega plans shift to influencers after Sonic and Shinobi sales disappoint, despite strong reviews",
-      "description": "Sega will pivot to influencer marketing after disappointing sales of Sonic and Shinobi games. Two new flagship titles are also on the way.",
-      "category": "Gaming",
-      "source": "Video Games Chronicle",
-      "url": "https://www.videogameschronicle.com/news/sega-plans-shift-to-influencers-after-sonic-racing-and-shinobi-sales-disappoint/",
-      "image": "https://www.videogameschronicle.com/files/2026/06/IMG_9490-2560x1920.jpeg",
-      "published_at": "2026-06-22T20:10:53Z",
-      "key_points": [
-        "Sega shifts marketing strategy",
-        "Influencer focus for future games",
-        "New flagship titles coming soon"
-      ],
-      "impact": "Sega aims to revitalize its marketing approach.",
-      "id": "5e42d1c26de7a90a1252982a044b7a13"
-    },
-    {
-      "title": "Final Fantasy VII Revelation Director Says Queer Romances Make The World Feel More Real",
-      "description": "Director Naoki Hamaguchi emphasizes that queer relationships enhance realism in Final Fantasy VII's remake trilogy. Diversity enriches the narrative.",
-      "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/final-fantasy-7-ff7-remake-revelation-queer-gay-characters-director-hamaguchi-2000709062",
-      "image": "https://kotaku.com/app/uploads/2026/06/Final-Fantasy-7-Revelation-Key-Art-Square-Enix-971x675.jpg",
-      "published_at": "2026-06-22T20:03:46Z",
-      "key_points": [
-        "Queer romances enhance realism",
-        "Diversity in storytelling",
-        "Director's vision for inclusivity"
-      ],
-      "impact": "The game reflects a more inclusive world.",
-      "id": "2b95edc091c43fed1039dc1f7b254250"
-    },
-    {
-      "title": "Chinese spaceplane releases object into orbit, according to commercial space surveillance",
-      "description": "A Chinese spaceplane has reportedly released an object into orbit during its fourth mission, according to surveillance data. Details remain limited.",
-      "category": "Geopolitics",
-      "source": "SpaceNews",
-      "url": "https://spacenews.com/chinese-spaceplane-releases-object-into-orbit-according-to-commercial-space-surveillance/",
-      "image": "https://spacenews.com/wp-content/uploads/2025/11/Shenzhou22-launch-CZ2F-JSLC-25nov2025-CASC.jpg",
-      "published_at": "2026-06-22T17:42:59Z",
-      "key_points": [
-        "Chinese spaceplane's fourth mission",
-        "Object released into orbit",
-        "Surveillance data confirms event"
-      ],
-      "impact": "China's space capabilities continue to advance.",
-      "id": "be5f8c5cd749bbcd3edbebabc8aa43d1"
-    },
-    {
-      "title": "Valve is working with AMD to bring FSR 4 to the Steam Machine",
-      "description": "Valve collaborates with AMD to enhance the Steam Machine's graphics with FSR 4 technology. This aims to improve game rendering quality.",
-      "category": "Gaming",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/952210/valve-steam-machine-fsr4-amd-upscaler",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0014.jpg?quality=90&strip=all&crop=0%2C10.805700988947%2C100%2C78.388598022106&w=1200",
-      "published_at": "2026-06-22T17:10:00Z",
-      "key_points": [
-        "Valve partners with AMD",
-        "FSR 4 for Steam Machine",
-        "Graphics enhancement planned"
-      ],
-      "impact": "Steam Machine graphics are set to improve.",
-      "id": "4c49355193e283a05082d703f1ccb54f"
-    },
-    {
-      "title": "Apple Seeds iOS 27 and iPadOS 27 Second Betas to Developers",
-      "description": "Apple has released the second betas of iOS 27 and iPadOS 27 for developers. This follows the initial beta release two weeks ago.",
+      "title": "New Features in iOS 27 Beta 2",
+      "description": "Apple's iOS 27 Beta 2 introduces several new features and updates. Users can expect enhanced functionality ahead of the official release.",
       "category": "Software",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/22/apple-seeds-ios-27-beta-2/",
+      "url": "https://www.macrumors.com/guide/ios-27-features/",
       "image": "https://images.macrumors.com/t/PeEXCl2WWdKyHqei1lMVhyyE0_Y=/2500x/article-new/2026/06/iOS-27-Feature-Dark.jpg",
-      "published_at": "2026-06-22T17:08:57Z",
+      "published_at": "2026-06-22T23:02:49Z",
       "key_points": [
-        "Second betas for developers",
-        "iOS 27 and iPadOS 27",
-        "Initial beta released earlier"
+        "New features added",
+        "Multiple updates included",
+        "Preparing for official release"
       ],
-      "impact": "Developers can now test new features.",
-      "id": "17b412d430b1cc431aa12b83af4d497d"
+      "impact": "iOS 27 Beta 2 enhances user experience significantly.",
+      "id": "4466d5e14484bb8179f493602e875efd"
     },
     {
-      "title": "Here’s how you can reserve a Steam Machine",
-      "description": "Valve has introduced a reservation system for the Steam Machine, allowing users to sign up from June 22 to June 25.",
+      "title": "Samsung Launches Fastest UFS 5.0 Storage",
+      "description": "Samsung unveils the fastest Universal Flash Storage 5.0 solution, enhancing on-device AI applications. This innovation promises improved efficiency.",
+      "category": "Hardware",
+      "source": "Samsung",
+      "url": "https://news.samsung.com/global/samsung-unveils-industrys-fastest-ufs-5-0-solution-for-next-gen-on-device-ai-applications",
+      "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/06/22173757/Samsung-Semiconductors-UFS-5.0-solution_Thumb932.jpg",
+      "published_at": "2026-06-22T23:00:00Z",
+      "key_points": [
+        "Fastest UFS 5.0 solution",
+        "Enhances AI applications",
+        "Improved efficiency promised"
+      ],
+      "impact": "This storage solution sets a new industry standard.",
+      "id": "0e801c72e8cae66369cc36673c860a36"
+    },
+    {
+      "title": "SEGA Reports Sales for Key Titles",
+      "description": "SEGA shares lifetime sales figures for Persona, Metaphor, and Like a Dragon. The report highlights strong performance over the past year.",
       "category": "Gaming",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/952191/valve-steam-machine-reservation-preorder-process",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0061.jpg?quality=90&strip=all&crop=0%2C10.820244328098%2C100%2C78.359511343805&w=1200",
-      "published_at": "2026-06-22T17:07:01Z",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/06/sega-shares-lifetime-sales-update-for-persona-metaphor-and-like-a-dragon",
+      "image": "https://images.pushsquare.com/1ce804d8e9e81/large.jpg",
+      "published_at": "2026-06-22T23:00:00Z",
       "key_points": [
-        "Steam Machine reservation system",
-        "Sign-up window open",
-        "Lottery for configurations"
+        "Sales figures revealed",
+        "Strong performance noted",
+        "Key titles highlighted"
       ],
-      "impact": "Users can secure their Steam Machine early.",
-      "id": "1c219df46cdce3ccb36262ec0da49619"
+      "impact": "SEGA's titles continue to perform well in the market.",
+      "id": "2d01a593ef2da26dd0fc29caf4061c4b"
     },
     {
-      "title": "Nintendo Is Running a Brand New Sale On Switch Games, Save $20 on These Select Titles",
-      "description": "Amazon is offering a $20 discount on select Nintendo Switch games ahead of Prime Day. Popular titles are included in the sale.",
+      "title": "Kojima Teases New Horror Game Screenshot",
+      "description": "Hideo Kojima shares a new screenshot from his upcoming horror game OD, evoking memories of his previous work. Fans are intrigued by the familiar atmosphere.",
+      "category": "Gaming",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/hideo-kojima-shares-new-screenshot-od-looks-like-pt-2000709099",
+      "image": "https://kotaku.com/app/uploads/2023/12/989758634cca554a29d0aeb9774a213b-1200x675.jpg",
+      "published_at": "2026-06-22T21:44:02Z",
+      "key_points": [
+        "New screenshot shared",
+        "Familiar atmosphere noted",
+        "Fans excited for release"
+      ],
+      "impact": "Kojima's teaser heightens anticipation for the game.",
+      "id": "204a489ebf5c6738ee69eadf085d75cb"
+    },
+    {
+      "title": "EA Cuts Staff in Latest Layoffs",
+      "description": "Electronic Arts is reportedly laying off staff in recruitment, customer support, and IT. This marks another round of job cuts for the company.",
+      "category": "Business",
+      "source": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/ea-is-reportedly-laying-off-recruitment-customer-support-safety-and-it-staff",
+      "image": "https://assetsio.gnwcdn.com/30931-ea-logo-wallpaper-442625200.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-22T21:29:34Z",
+      "key_points": [
+        "Layoffs in multiple departments",
+        "Focus on recruitment cuts",
+        "Customer support staff affected"
+      ],
+      "impact": "EA's layoffs reflect ongoing industry challenges.",
+      "id": "9282c10ed235c780abd9a6e4cb361b50"
+    },
+    {
+      "title": "StarCraft II Patch 5.0.16 Released",
+      "description": "The new StarCraft II patch includes map pool updates, balance changes, and quality of life improvements. Players can expect enhanced strategic variety.",
+      "category": "Gaming",
+      "source": "Blizzard News",
+      "url": "https://news.blizzard.com/en-us/article/24259080/starcraft-ii-5-0-16-patch-notes",
+      "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/kd/KD50BBXYHMBR1554829677265.jpg",
+      "published_at": "2026-06-22T18:55:00Z",
+      "key_points": [
+        "New map pool introduced",
+        "Balance changes applied",
+        "Quality of life improvements"
+      ],
+      "impact": "Patch enhances gameplay experience for StarCraft II.",
+      "id": "f7b6f629b59c878539356e748c904a1f"
+    },
+    {
+      "title": "Nicolas Cage Joins Call of Duty",
+      "description": "Players can now play as Nicolas Cage in Call of Duty: Black Ops 7. This addition kicks off the game's Summer of Action event.",
       "category": "Gaming",
       "source": "IGN",
-      "url": "https://www.ign.com/articles/nintendo-is-running-a-brand-new-sale-on-switch-games-save-20-on-these-select-titles",
-      "image": "https://assets-prd.ignimgs.com/2026/06/22/amazon-switch-game-sale-1782141042981.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-22T16:23:00Z",
+      "url": "https://www.ign.com/articles/its-finally-happened-you-can-play-as-nicolas-cage-in-call-of-duty",
+      "image": "https://assets-prd.ignimgs.com/2026/06/22/codthumb-1782145493170.png?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-22T17:44:46Z",
       "key_points": [
-        "$20 off select Switch games",
-        "Amazon's early Prime Day sale",
-        "Popular titles included"
+        "Nicolas Cage playable character",
+        "Launches Summer of Action",
+        "Exciting new gameplay feature"
       ],
-      "impact": "Switch owners can save on top games.",
-      "id": "9fb60e8b4507416214b057221810f1ca"
+      "impact": "Cage's addition boosts player engagement in the game.",
+      "id": "6c35639cb550768d99f35c8501c9f9da"
     },
     {
-      "title": "The Elder Scrolls Online Prepares to Set Sail for Adventure with High Seas of Tamriel, Its Most Ambitious Experiment in Years",
-      "description": "The Elder Scrolls Online is launching the High Seas of Tamriel event, marking a significant update in its seasonal approach to content.",
+      "title": "Valve Reveals Steam Machine Pricing",
+      "description": "Valve announces pricing for its Steam Machines, ranging from $1,049 to $1,428. Reservations for these models are now open.",
+      "category": "Hardware",
+      "source": "Game Informer",
+      "url": "https://gameinformer.com/2026/06/22/valves-steam-machine-costs-between-1049-and-1428-the-option-to-sign-up-for-potential",
+      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/22/b50bbc16/steammachine.jpg.webp",
+      "published_at": "2026-06-22T17:38:23Z",
+      "key_points": [
+        "Steam Machine prices announced",
+        "Models range from $1,049",
+        "Reservations open now"
+      ],
+      "impact": "Valve's pricing strategy attracts early interest.",
+      "id": "2ccc4cd488189ea171cb2097d1a202e4"
+    },
+    {
+      "title": "Ubisoft Co-Founder Dies in Plane Crash",
+      "description": "Claude Guillemot, co-founder of Ubisoft, tragically died in a plane crash in France. The gaming community mourns his loss.",
       "category": "Gaming",
-      "source": "Xbox.com",
-      "url": "https://news.xbox.com/en-us/2026/06/22/the-elder-scrolls-online-prepares-set-sail-for-adventure-high-seas-of-tamriel/",
-      "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/assets_2026_03_1774291698_ESO2026_UpcomingFeatures_HighSeasOfTamriel_4k-706edeb38039d93b0ee7.jpg",
-      "published_at": "2026-06-22T16:02:31Z",
+      "source": "Game Informer",
+      "url": "https://gameinformer.com/2026/06/22/ubisoft-co-founder-claude-guillemot-died-in-a-plane-crash-saturday",
+      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/22/688e9802/Ubisoft_4.jpg.webp",
+      "published_at": "2026-06-22T16:53:20Z",
       "key_points": [
-        "High Seas of Tamriel event",
-        "New seasonal content approach",
-        "Exciting updates planned"
+        "Claude Guillemot passes away",
+        "Plane crash in France",
+        "Community mourns his loss"
       ],
-      "impact": "Players can look forward to new adventures.",
-      "id": "4926c4f5b1baf8d9cd233cd35d2a04ee"
+      "impact": "His legacy will be remembered in gaming.",
+      "id": "860b6a69005918ba274cbd18f153aa9a"
     },
     {
-      "title": "Apple Approves Production of OLED Panels for Foldable iPhone",
-      "description": "Apple has authorized Samsung Display to begin production of OLED panels for its upcoming foldable iPhone, signaling progress in development.",
+      "title": "Acer and ASUS Resume Shipments in Germany",
+      "description": "Acer and ASUS have resumed PC shipments in Germany after resolving a patent dispute with Nokia. This ends months of restrictions.",
       "category": "Business",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/22/production-of-panels-for-foldable-iphone-approved/",
-      "image": "https://images.macrumors.com/t/a63wTdKOm6Q4Sycz8dpdmeLDYSo=/2250x/article-new/2025/03/Foldable-iPhone-2023-Feature-Iridescent-1.jpg",
-      "published_at": "2026-06-22T15:00:17Z",
+      "source": "VideoCardz.com",
+      "url": "https://videocardz.com/newz/acer-and-asus-resume-pc-shipments-in-germany-after-nokia-hevc-patent-dispute",
+      "image": "https://cdn.videocardz.com/1/2026/06/ACER-ASUS-HEVC-GERMANY-HERO.webp",
+      "published_at": "2026-06-22T16:43:15Z",
       "key_points": [
-        "Production of OLED panels approved",
-        "Foldable iPhone development progresses",
-        "Samsung Display involved"
+        "Shipments resume after dispute",
+        "Acer and ASUS affected",
+        "End of restrictions noted"
       ],
-      "impact": "Apple moves closer to launching its foldable iPhone.",
-      "id": "140dc2eb7f9db727dfa4169ca89a363b"
+      "impact": "This resumption boosts the PC market in Germany.",
+      "id": "72dea27edabf2e2a7cf92f1ae47b9ea4"
+    },
+    {
+      "title": "Best Buy Launches Anti-Prime Day Sale",
+      "description": "Best Buy offers up to 50% off on smartphones and laptops in its Tech Fest sale, competing directly with Amazon's Prime Day.",
+      "category": "Business",
+      "source": "Android Central",
+      "url": "https://www.androidcentral.com/phones/best-buy-tech-fest-anti-prime-day-deals-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/ofaEMEtqR9rufrNTUTTJoh-1152-80.jpg",
+      "published_at": "2026-06-22T16:40:56Z",
+      "key_points": [
+        "Up to 50% off deals",
+        "Competing with Amazon's sale",
+        "Tech Fest event launched"
+      ],
+      "impact": "Best Buy's sale attracts savvy shoppers.",
+      "id": "770ee936421dab94740b6de02d095b57"
+    },
+    {
+      "title": "Pixel Users Report Touch Issues After Update",
+      "description": "Some Google Pixel users experience touch input issues following the Android 17 update. The bug affects scrolling functionality.",
+      "category": "Software",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/06/22/android-17-causes-google-pixel-scrolling-bug/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/Pixel-10a-app-switcher.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-22T15:49:00Z",
+      "key_points": [
+        "Touch issues reported",
+        "Scrolling functionality affected",
+        "Android 17 update concerns"
+      ],
+      "impact": "This bug impacts user experience negatively.",
+      "id": "0d6b77115bd3dfec678b79c9cfbd3be9"
+    },
+    {
+      "title": "AMD Releases FSR 4.1 for Radeon GPUs",
+      "description": "AMD officially launches FSR 4.1 for Radeon RX 7000 series GPUs, confirming support for RDNA 3 APUs. This update enhances gaming performance.",
+      "category": "Hardware",
+      "source": "VideoCardz.com",
+      "url": "https://videocardz.com/newz/amd-officially-releases-fsr-4-1-for-radeon-rx-7000-series-gpus-support-for-rdna-3-apus-confirmed-too",
+      "image": "https://cdn.videocardz.com/1/2026/06/AMD-FSR4-RX-7000-SUPPORT-3.webp",
+      "published_at": "2026-06-22T14:23:12Z",
+      "key_points": [
+        "FSR 4.1 launched",
+        "Supports RX 7000 series",
+        "Enhances gaming performance"
+      ],
+      "impact": "This update boosts AMD's competitive edge.",
+      "id": "e9ac0c165ed13d2fa9ef95eacdd4a927"
     }
   ]
 }
