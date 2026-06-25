@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-25T14:30:32.738015+00:00",
+      "fetched_at": "2026-06-25T14:30:32.738015+00:00",
+      "label": "Jun 25, 2026 — 02:31 PM UTC",
+      "articles": [
+        {
+          "title": "Prime Day Deals: Best Tech Discounts Live Now!",
+          "description": "Amazon's Prime Day offers major discounts on tech products, including headphones, TVs, and accessories. Don't miss out on these limited-time deals!",
+          "category": "Business",
+          "source": "Yahoo Entertainment",
+          "url": "https://tech.yahoo.com/deals/breaking-news/live/prime-day-deals-are-live-shop-todays-best-tech-sales-from-apple-sony-bose-anker-and-others-184252541.html",
+          "image": "https://s.yimg.com/lo/mysterio/api/699a35d87ef550c6a887231a3713b8b24903f318d05f93894f944e10a7d22a6e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fexample-5_9078.jpg",
+          "published_at": "2026-06-24T12:30:30Z",
+          "key_points": [
+            "Massive discounts on tech",
+            "Limited-time offers",
+            "Shop now for best deals"
+          ],
+          "impact": "Prime Day boosts tech sales significantly.",
+          "id": "b92cdc2b4fe50eec1fa87f9b83936018"
+        },
+        {
+          "title": "Grand Seiko Unveils Evolution 9 Collection Updates",
+          "description": "Grand Seiko introduces nine new references in the Evolution 9 collection, featuring tapered bracelets and micro-adjustment clasps. A blend of major and subtle design tweaks enhances the lineup.",
+          "category": "Business",
+          "source": "HODINKEE",
+          "url": "https://www.hodinkee.com/articles/grand-seiko-updates-the-core-evolution-9-collection-with-tapered-bracelets-and-micro-adjustment-clas",
+          "image": "https://hodinkee.imgix.net/uploads/images/49f0c6e4-0532-4eda-825c-10109beb999f/20260618_GrandSeiko_016.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
+          "published_at": "2026-06-24T07:30:37Z",
+          "key_points": [
+            "Nine new watch references",
+            "Tapered bracelets added",
+            "Micro-adjustment clasps included"
+          ],
+          "impact": "Grand Seiko enhances luxury watch appeal.",
+          "id": "bf7727defe9cfdd4b908e4e49301c9e9"
+        },
+        {
+          "title": "Monster Fantasy: Cozy RPG Announced for PC",
+          "description": "Jotoyo announces Monster Fantasy, an action RPG with cozy life simulation elements, set to launch on PC via Steam. Release date and Kickstarter details are forthcoming.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/monster-fantasy-announced-for-pc-action-rpg-with-cozy-life-simulation-elements",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Monster-Fantasy-Ann_06-24-26.jpg",
+          "published_at": "2026-06-24T05:22:40Z",
+          "key_points": [
+            "Action RPG with cozy elements",
+            "Coming to PC via Steam",
+            "Kickstarter campaign planned"
+          ],
+          "impact": "New RPG adds unique life simulation features.",
+          "id": "4d1933205611202c4c2b6902462c58bd"
+        },
+        {
+          "title": "RayNeo Air 4 Pro AR Glasses Hit Prime Day Low",
+          "description": "The RayNeo Air 4 Pro AR glasses are now available at a new low price for Prime Day, offering a portable solution for gaming on a big screen. Grab them while they last!",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/the-rayneo-air-4-pro-ar-glasses-drop-to-a-new-low-price-for-prime-day-2026",
+          "image": "https://assets-prd.ignimgs.com/2026/06/24/untitled-design-1782261827492.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-24T03:21:00Z",
+          "key_points": [
+            "AR glasses on sale",
+            "Portable gaming solution",
+            "Limited-time Prime Day offer"
+          ],
+          "impact": "Prime Day discounts boost AR glasses sales.",
+          "id": "87c9c61ad9b8f15b46f687d249108a84"
+        },
+        {
+          "title": "Early Google Home Speaker Review: Fixed Power Cable",
+          "description": "An early buyer shares first impressions of the Google Home Speaker, highlighting a fixed power cable as a major downside. Shipping begins soon for the device.",
+          "category": "Hardware",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/23/google-home-speaker-early-purchase-impressions/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/google-home-speaker-early-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-24T03:15:00Z",
+          "key_points": [
+            "Fixed power cable issue",
+            "Early impressions shared",
+            "Shipping starts soon"
+          ],
+          "impact": "Early reviews highlight design flaws.",
+          "id": "4f2e565d58407622ee9accf252ad57e7"
+        },
+        {
+          "title": "Android 17 QPR1 Beta 5 Now Available for Testing",
+          "description": "Android 17 QPR1 Beta 5 is now available for Pixel phone testers, introducing new features and fixing previous bugs. Pixel 6 and 6 Pro support has returned.",
+          "category": "Software",
+          "source": "Android Authority",
+          "url": "https://www.androidauthority.com/android-17-qpr1-beta-5-3680687/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/android-17-logo-green-background-outside-2-scaled.jpg",
+          "published_at": "2026-06-23T21:34:52Z",
+          "key_points": [
+            "Beta 5 released for testing",
+            "New features included",
+            "Pixel 6 support restored"
+          ],
+          "impact": "Beta testing enhances Android user experience.",
+          "id": "47b37204746830cf2dea38e82f1d7eda"
+        },
+        {
+          "title": "Marathon's New PvE Mode: Vault Breaker",
+          "description": "Bungie reveals Vault Breaker, a new PvE mode for Marathon that deviates from traditional extraction gameplay. This experimental mode aims to revitalize player engagement.",
+          "category": "Gaming",
+          "source": "Insider Gaming",
+          "url": "https://insider-gaming.com/marathon-pve-mode-not-really-extraction/",
+          "image": "https://insider-gaming.com/wp-content/uploads/2026/06/marathon-pve-scaled.jpg",
+          "published_at": "2026-06-23T21:01:36Z",
+          "key_points": [
+            "New PvE mode announced",
+            "Not traditional extraction",
+            "Aims to boost engagement"
+          ],
+          "impact": "Innovative mode seeks to attract players.",
+          "id": "0a1cb14f08f918559806c6a51f97747c"
+        },
+        {
+          "title": "Windows 11 Update Introduces Point-in-Time Restore",
+          "description": "Microsoft's KB5095093 update for Windows 11 introduces a new Point-in-Time restore feature along with various bug fixes. This update enhances system recovery options.",
+          "category": "Software",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/",
+          "image": "https://www.bleepstatic.com/content/hl-images/2024/07/18/Windows-11.jpg",
+          "published_at": "2026-06-23T20:22:21Z",
+          "key_points": [
+            "New restore feature added",
+            "Multiple bug fixes included",
+            "Enhances system recovery"
+          ],
+          "impact": "Update improves Windows 11 functionality.",
+          "id": "517d2a4bda7f06e897dee6b1be18b916"
+        },
+        {
+          "title": "Best Prime Day SSD and HDD Deals Revealed",
+          "description": "Prime Day brings significant discounts on SSDs and HDDs from top brands like Samsung and Seagate. It's the perfect time to upgrade your storage solutions.",
+          "category": "Business",
+          "source": "PCMag",
+          "url": "https://www.pcmag.com/news/best-amazon-prime-day-sale-ssd-deals-2026",
+          "image": "https://i.pcmag.com/imagery/articles/02VX0Jls3q98Bstw6pLy8jt-1.fit_lim.size_1200x630.v1782176850.png",
+          "published_at": "2026-06-23T20:15:45Z",
+          "key_points": [
+            "Deep discounts on storage",
+            "Top brands featured",
+            "Upgrade your storage now"
+          ],
+          "impact": "Prime Day drives storage sales surge.",
+          "id": "23c6f13e159dbb8b42c379685f95b8fa"
+        },
+        {
+          "title": "Hyundai's Next EVs: Innovative Features Ahead",
+          "description": "Hyundai is developing new features for its upcoming 'N' electric vehicles, building on its innovative virtual gear shift technology. Expect exciting advancements soon.",
+          "category": "Business",
+          "source": "Electrek",
+          "url": "http://electrek.co/2026/06/23/hyundai-few-tricks-next-n-evs/",
+          "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/06/Hyundai-N-EVs-features.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-23T18:20:00Z",
+          "key_points": [
+            "New features for upcoming EVs",
+            "Building on virtual gear shift",
+            "Innovations in electric driving"
+          ],
+          "impact": "Hyundai leads in EV innovation.",
+          "id": "51df3c6ab986eff2eabd529a843c906b"
+        },
+        {
+          "title": "Konami Sues Over Metal Gear Solid 2 Source Code Leak",
+          "description": "Konami is taking legal action to identify the source of a major leak involving the Metal Gear Solid 2 source code. The company aims to protect its intellectual property.",
+          "category": "Gaming",
+          "source": "Aftermath",
+          "url": "https://aftermath.site/konami-metal-gear-solid-2-lawsuit/",
+          "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/06/Screenshot-2026-06-23-115600.png",
+          "published_at": "2026-06-23T16:26:06Z",
+          "key_points": [
+            "Konami files lawsuit",
+            "Source code leak investigation",
+            "Protecting intellectual property"
+          ],
+          "impact": "Legal action aims to safeguard game assets.",
+          "id": "e86fdb712aae806e9a728374a24152d5"
+        },
+        {
+          "title": "Anker Prime Day Sale: Up to 50% Off",
+          "description": "Anker's Prime Day sale features discounts of up to 50% on chargers, power banks, and more. Grab these deals while they last for essential tech accessories.",
+          "category": "Business",
+          "source": "9to5Toys",
+          "url": "http://9to5toys.com/2026/06/23/anker-2026-prime-day-sale-kicks-off/",
+          "image": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/06/Anker-Prime-Day-2026.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-23T16:18:00Z",
+          "key_points": [
+            "Up to 50% off chargers",
+            "Wide range of discounts",
+            "Limited-time Prime Day sale"
+          ],
+          "impact": "Anker's sale boosts accessory sales.",
+          "id": "84e978db76c5f02463e9737f73741470"
+        },
+        {
+          "title": "Microsoft Researcher Uses Goats to Illustrate LLM Absurdity",
+          "description": "A Microsoft researcher humorously demonstrates the absurdities of large language models using goats in 'Age of Empires II'. The quirky approach highlights AI limitations.",
+          "category": "Science",
+          "source": "Gizmodo",
+          "url": "https://gizmodo.com/frustrated-microsoft-researcher-uses-goats-in-age-of-empires-ii-to-demo-the-absurdity-of-llms-2000775564",
+          "image": "https://gizmodo.com/app/uploads/2026/06/aoe2-goat-1200x675.png",
+          "published_at": "2026-06-23T15:45:35Z",
+          "key_points": [
+            "Goats used for AI demo",
+            "Humorous take on LLMs",
+            "Highlights AI limitations"
+          ],
+          "impact": "Creative methods reveal AI's quirks.",
+          "id": "415dc831eb3acab08cabfa95186b24e3"
+        },
+        {
+          "title": "Fitbit Air: Smarter AI Health Coach Introduced",
+          "description": "The $99 Google Fitbit Air features an AI-powered health coach, aiming to improve user fitness tracking. It's a promising step in wearable technology.",
+          "category": "Hardware",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268538_Fitbit_Air_AKrales_0012.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-23T15:00:00Z",
+          "key_points": [
+            "AI-powered health coach",
+            "Affordable fitness tracker",
+            "Promising wearable technology"
+          ],
+          "impact": "Fitbit Air enhances health tracking capabilities.",
+          "id": "521723b5cf98a5ab4f28142c2311f5cc"
+        },
+        {
+          "title": "Galaxy Z Fold 8 Ultra: Unique Color Leaks",
+          "description": "Leaks reveal unique color options for the Galaxy Z Fold 8 Ultra, sparking interest in Samsung's upcoming foldable device. More details are anticipated soon.",
+          "category": "Hardware",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/23/galaxy-z-fold-8-colors-leak/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-11.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-23T14:56:00Z",
+          "key_points": [
+            "Unique colors leaked",
+            "Galaxy Z Fold 8 details",
+            "Anticipation builds for launch"
+          ],
+          "impact": "Color options enhance device appeal.",
+          "id": "733b8155f5641c1ddbb39c28573c8951"
+        }
+      ]
+    },
+    {
       "id": "2026-06-25T09:19:18.589857+00:00",
       "fetched_at": "2026-06-25T09:19:18.589857+00:00",
       "label": "Jun 25, 2026 — 09:19 AM UTC",
@@ -6328,237 +6575,6 @@
           ],
           "impact": "Fans eagerly await new cards and gameplay.",
           "id": "5f210593ef1c02418f743b61e961dc35"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-20T11:17:23.501989+00:00",
-      "fetched_at": "2026-06-20T11:17:23.501989+00:00",
-      "label": "Jun 20, 2026 — 11:17 AM UTC",
-      "articles": [
-        {
-          "title": "13 Retro Games Revived for PS5",
-          "description": "A wave of retro games is being revived for PS5, led by QUByte. Expect compilations and collections to hit the platform soon.",
-          "category": "Gaming",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/06/these-13-retro-games-are-all-getting-revived-for-the-ps5",
-          "image": "https://images.pushsquare.com/9212e031b63eb/large.jpg",
-          "published_at": "2026-06-19T00:30:00Z",
-          "key_points": [
-            "Retro games revival trend",
-            "QUByte leads the charge",
-            "New compilations coming soon"
-          ],
-          "impact": "Reviving classics boosts PS5's game library.",
-          "id": "9bd4257f144ddb228ed159ff3014b8f1"
-        },
-        {
-          "title": "Gemini Live Gains Memory Access",
-          "description": "Google's Gemini Live now integrates Memory access, enhancing chat experiences. This follows a recent redesign and new voice features.",
-          "category": "Software",
-          "source": "9to5google.com",
-          "url": "http://9to5google.com/2026/06/18/gemini-live-memory/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-live-pop-up-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-18T21:50:00Z",
-          "key_points": [
-            "Gemini Live updated",
-            "Memory access added",
-            "Enhanced chat features"
-          ],
-          "impact": "Improved chat functionality enhances user experience.",
-          "id": "0b3a3d740c9516b0186c5e291529da0e"
-        },
-        {
-          "title": "Shinobi: Art of Vengeance on Switch 2",
-          "description": "SEGA announces Shinobi: Art of Vengeance for Nintendo Switch 2, launching September 24, 2026. This version includes new features.",
-          "category": "Gaming",
-          "source": "Nintendoeverything.com",
-          "url": "https://nintendoeverything.com/shinobi-art-of-vengeance-coming-to-nintendo-switch-2/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Shinobi-Art-of-Vengeance-Switch-2.jpg",
-          "published_at": "2026-06-18T21:32:01Z",
-          "key_points": [
-            "Shinobi returns on Switch 2",
-            "Launch date: September 24",
-            "New features included"
-          ],
-          "impact": "Revival of Shinobi expands Switch 2's library.",
-          "id": "b62703c42026c4738f77583d12b60569"
-        },
-        {
-          "title": "iOS 27 to Feature Standalone Siri App",
-          "description": "Apple's iOS 27 will launch a standalone Siri app, enhancing its functionality. Users can expect significant upgrades with the update.",
-          "category": "Software",
-          "source": "SlashGear",
-          "url": "https://www.slashgear.com/2195858/ios-27-iphone-update-siri-standalone-app/",
-          "image": "https://www.slashgear.com/img/gallery/ios-27-is-making-a-key-iphone-feature-its-own-standalone-app/l-intro-1781643746.jpg",
-          "published_at": "2026-06-18T16:45:00Z",
-          "key_points": [
-            "iOS 27 introduces Siri app",
-            "Enhanced functionality expected",
-            "Major upgrade for users"
-          ],
-          "impact": "Standalone Siri app improves user interaction.",
-          "id": "7360785cc86a4fd2e219abaa5c3d1cab"
-        },
-        {
-          "title": "Best Early Prime Day TV Deals",
-          "description": "CNN highlights the top six early Prime Day TV deals, tested by experts. Great discounts available ahead of Amazon's summer sale.",
-          "category": "Business",
-          "source": "CNN",
-          "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-tv-deals-2026-06-18",
-          "image": "https://media.cnn.com/api/v1/images/stellar/prod/lead-samsung-the-frame-tv-pro-cnnu-11.jpg?c=16x9&q=w_800,c_fill",
-          "published_at": "2026-06-18T16:07:00Z",
-          "key_points": [
-            "Top six TV deals listed",
-            "Expert-tested recommendations",
-            "Early Prime Day discounts"
-          ],
-          "impact": "Early deals attract savvy shoppers.",
-          "id": "5915dee53d5ea7188c600b5af842dbf4"
-        },
-        {
-          "title": "GTA 6 Pre-Orders Start June 25",
-          "description": "Rockstar Games announces that Grand Theft Auto 6 pre-orders will begin on June 25, 2026, alongside the reveal of cover art.",
-          "category": "Gaming",
-          "source": "Digitalfoundry.net",
-          "url": "https://www.digitalfoundry.net/news/2026/06/grand-theft-auto-6-pre-orders-begin-june-25th-cover-art-revealed",
-          "image": "https://images.digitalfoundry.net/af6dc907ef33a/large.jpg",
-          "published_at": "2026-06-18T15:31:06Z",
-          "key_points": [
-            "GTA 6 pre-orders June 25",
-            "Cover art revealed",
-            "Excitement builds for release"
-          ],
-          "impact": "GTA 6 pre-orders generate massive anticipation.",
-          "id": "869a5214f285924512de2ef669c9d332"
-        },
-        {
-          "title": "Easier WhatsApp Backup Management",
-          "description": "Google Play services update simplifies WhatsApp backup management directly in device settings. Users can now manage backups more efficiently.",
-          "category": "Software",
-          "source": "Android Authority",
-          "url": "https://www.androidauthority.com/whatsapp-chat-backups-3679027/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2023/05/WhatsApp-logo-on-smartphone-next-to-other-devices-Stock-photo-5.jpg",
-          "published_at": "2026-06-18T15:22:51Z",
-          "key_points": [
-            "WhatsApp backup management simplified",
-            "Direct access in settings",
-            "Improved user experience"
-          ],
-          "impact": "Streamlined backup process enhances user convenience.",
-          "id": "e9cee3e7cafb85f4240b1ad0dd77804a"
-        },
-        {
-          "title": "Google AI Misrepresents SCP Fiction",
-          "description": "Google's AI Overviews mistakenly presents SCP horror fiction entities as real. This raises concerns about AI accuracy in information dissemination.",
-          "category": "Science",
-          "source": "Futurism",
-          "url": "https://futurism.com/artificial-intelligence/google-ai-overview-scp-horror-fiction-real",
-          "image": "https://futurism.com/wp-content/uploads/2026/06/google-ai-overview-scp-horror-fiction-real.jpg?w=1200",
-          "published_at": "2026-06-18T15:01:28Z",
-          "key_points": [
-            "AI misrepresents fictional entities",
-            "SCP Foundation confusion",
-            "Concerns over AI accuracy"
-          ],
-          "impact": "AI's credibility is questioned due to inaccuracies.",
-          "id": "96b7cff35a11dfbb3336b3693d125492"
-        },
-        {
-          "title": "Sennheiser Launches Open Wireless Earbuds",
-          "description": "Sennheiser enters the open-ear audio market with the Accentum Clip. These clip-on wireless earbuds offer unique advantages.",
-          "category": "Hardware",
-          "source": "Gizmodo.com",
-          "url": "https://gizmodo.com/sennheiser-joins-the-open-wireless-earbud-craze-2000773609",
-          "image": "https://gizmodo.com/app/uploads/2026/06/accentum-clip-1200x675.jpg",
-          "published_at": "2026-06-18T14:57:11Z",
-          "key_points": [
-            "Sennheiser's new earbuds launched",
-            "Open-ear design advantages",
-            "Clip-on style introduced"
-          ],
-          "impact": "Sennheiser diversifies its audio product line.",
-          "id": "6715dd14032ec3a350cb222a6fad27b2"
-        },
-        {
-          "title": "Insta360 Luna Ultra Review",
-          "description": "Insta360's Luna Ultra aims to compete in the vlogging market, challenging DJI's dominance. The camera has notable strengths and weaknesses.",
-          "category": "Hardware",
-          "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/06/18/insta360-luna-ultra-review-an-excellent-vlogging-camera-with-a-few-caveats/",
-          "image": "https://petapixel.com/assets/uploads/2026/06/Insta360-Luna-Ultra-Review-An-Excellent-Vlogging-Camera-with-a-Few-Caveats.jpg",
-          "published_at": "2026-06-18T14:01:12Z",
-          "key_points": [
-            "Insta360 targets vlogging market",
-            "Luna Ultra reviewed",
-            "Strengths and weaknesses noted"
-          ],
-          "impact": "New competition may disrupt vlogging market.",
-          "id": "07139c1b07a597e0ece9c2d8ae4ded78"
-        },
-        {
-          "title": "Snap's AR Glasses Development Costs",
-          "description": "Analysts estimate Snap's new AR glasses cost significantly to develop, impacting stock performance. The glasses are priced at $2,195.",
-          "category": "Business",
-          "source": "Yahoo Entertainment",
-          "url": "https://finance.yahoo.com/markets/article/snaps-2195-ar-glasses-may-have-cost-an-insane-amount-to-develop-analyst-estimates-134930607.html",
-          "image": "https://s.yimg.com/lo/mysterio/api/55571268528E69815033EFF702F2E57767C92E49A0440EA5C0B6ECA50EF5ECBE/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Ff709c1a0-57a0-4411-a6a9-b18932abc67c_d5acaab8ea40c0a777aef45aa679817b9bb2874b73faa87e74559ed35d2feb9c.jpg",
-          "published_at": "2026-06-18T13:49:30Z",
-          "key_points": [
-            "Snap's AR glasses cost high",
-            "Stock performance affected",
-            "$2,195 price tag"
-          ],
-          "impact": "High development costs challenge Snap's market position.",
-          "id": "9218ec742468b976c0f22584f7d6a016"
-        },
-        {
-          "title": "DragonForce Hackers Exploit Microsoft Teams",
-          "description": "DragonForce hackers used Backdoor.Turn to conceal command-and-control traffic via Microsoft Teams during a recent attack.",
-          "category": "Security",
-          "source": "Internet",
-          "url": "https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidEg1Q-FcDTwCPci3OMxGy0TghiI1dbWJoaJVc88gpGgO2ia6bgne18KfS3A9qAzBnMX2rGY9H78ewtofXQO22RRpzHxWXmvQJvRZ1nsvwj37aZBtLOXXltzd1KkNRKhu2N5LpIro5Fi0BBkftPqP_IO6B3HCKx5WPtFXZKA1bfbP3xV71CpEqpT7H6RPN/s1600/teams.jpg",
-          "published_at": "2026-06-18T13:30:00Z",
-          "key_points": [
-            "DragonForce hackers active",
-            "Used Microsoft Teams for concealment",
-            "Backdoor.Turn exploited"
-          ],
-          "impact": "Cybersecurity threats evolve with new tactics.",
-          "id": "ab5147cbbee3319cc6860d7bbf9c046e"
-        },
-        {
-          "title": "Free PS5 RPGs Available Now",
-          "description": "The PS Store offers two free RPGs, Mistfall Hunter and Once Human, available to all players without a PS Plus subscription.",
-          "category": "Gaming",
-          "source": "PlayStation LifeStyle",
-          "url": "https://www.playstationlifestyle.net/2026/06/18/free-ps5-rpgs-ps-store-once-human-mistfall-hunter/",
-          "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/06/ps5-rpgs-mistfall-hunter-once-human.jpg?resize=1200,630",
-          "published_at": "2026-06-18T12:29:09Z",
-          "key_points": [
-            "Two free PS5 RPGs released",
-            "No PS Plus required",
-            "High player ratings"
-          ],
-          "impact": "Free games boost PS5 player engagement.",
-          "id": "ec092a21a855a5bd7f07f023533aa9c4"
-        },
-        {
-          "title": "Breakthrough in Holographic Imaging",
-          "description": "A new 3D imaging system overcomes challenges in holographic technology, marking significant progress in the field.",
-          "category": "Science",
-          "source": "The Debrief",
-          "url": "https://thedebrief.org/holographic-breakthrough-this-new-futuristic-3d-imaging-system-overcomes-a-longstanding-problem-for-holographic-tech/",
-          "image": "https://thedebrief.b-cdn.net/wp-content/uploads/2026/06/3D-image.jpg",
-          "published_at": "2026-06-18T12:18:42Z",
-          "key_points": [
-            "New 3D imaging system developed",
-            "Overcomes holographic challenges",
-            "Significant technological advancement"
-          ],
-          "impact": "Advancements in holography could revolutionize imaging.",
-          "id": "0a12c83ef4b156635d6de6b69ca57945"
         }
       ]
     }
