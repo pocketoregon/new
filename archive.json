@@ -1,6 +1,173 @@
 {
   "batches": [
     {
+      "id": "2026-06-25T22:20:18.008136+00:00",
+      "fetched_at": "2026-06-25T22:20:18.008136+00:00",
+      "label": "Jun 25, 2026 — 10:20 PM UTC",
+      "articles": [
+        {
+          "title": "GTA VI Signals Trouble for Physical Games",
+          "description": "GTA VI's physical edition will only include a download code, raising concerns about the future of physical gaming. This trend could impact the entire industry.",
+          "category": "Gaming",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+          "published_at": "2026-06-24T18:42:07Z",
+          "key_points": [
+            "No disc in physical edition",
+            "Concerns for gaming industry",
+            "Shift towards digital sales"
+          ],
+          "impact": "This could redefine physical game sales.",
+          "id": "95066fd9dc0b50726b5dd64e9aabc716"
+        },
+        {
+          "title": "Gemini in Chrome Introduces New Tool",
+          "description": "Gemini in Chrome now features a 'Select from screen' tool, enhancing user prompts. Developers can also utilize Gemini 3.5 Flash for computer applications.",
+          "category": "Software",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/24/gemini-chrome-select-screen/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Gemini-3.5-cover.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-24T17:45:00Z",
+          "key_points": [
+            "New screen selection tool",
+            "Enhanced developer capabilities",
+            "Improved user experience"
+          ],
+          "impact": "This enhances productivity for Chrome users.",
+          "id": "33e6ac614147a94a4ecc3b66bf03a8e6"
+        },
+        {
+          "title": "NSF Expands National Quantum Virtual Lab Teams",
+          "description": "The NSF has selected five new teams to advance experimental quantum technologies, focusing on long-distance quantum information transfer and advanced sensors.",
+          "category": "Science",
+          "source": "National Science Foundation (.gov)",
+          "url": "https://www.nsf.gov/news/nsf-selects-five-additional-teams-national-quantum-virtual",
+          "image": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/NSF_NQVL_hero%202026.png?itok=zBBhkIw8",
+          "published_at": "2026-06-24T14:00:08Z",
+          "key_points": [
+            "Five new teams selected",
+            "Focus on quantum technologies",
+            "Advancing experimental research"
+          ],
+          "impact": "This boosts U.S. leadership in quantum research.",
+          "id": "566f6ab367ed1ded042124d44cff7a9a"
+        },
+        {
+          "title": "Amazon Prime Day 2026: Nintendo Deals",
+          "description": "Day 2 of Amazon Prime Day features significant discounts on Nintendo Switch and accessories, making it a prime shopping opportunity for gamers.",
+          "category": "Gaming",
+          "source": "Nintendo Wire",
+          "url": "https://nintendowire.com/news/2026/06/24/the-best-nintendo-deals-at-amazon-for-prime-day-2026-day-2/",
+          "image": "https://nintendowire.com/wp-content/uploads/2026/06/day-2-prime-day-nintendo-switch-2-deals.jpg",
+          "published_at": "2026-06-24T13:41:17Z",
+          "key_points": [
+            "Huge discounts on Nintendo products",
+            "Prime Day shopping event",
+            "Limited-time offers available"
+          ],
+          "impact": "This attracts more gamers to Amazon.",
+          "id": "77cfb4751a718f31386b18d7dcc6de01"
+        },
+        {
+          "title": "Analysts Predict High Prices for Next-Gen Consoles",
+          "description": "Experts debate whether the Steam Machine's pricing indicates that future consoles like PS6 and Xbox Helix will exceed $1000.",
+          "category": "Gaming",
+          "source": "Video Games Chronicle",
+          "url": "https://www.videogameschronicle.com/news/north-of-a-grand-is-the-floor-analysts-debate-whether-steam-machine-means-ps6-and-xbox-helix-will-cost-1000/",
+          "image": "https://www.videogameschronicle.com/files/2025/11/SM_powerButton.jpg",
+          "published_at": "2026-06-24T13:32:27Z",
+          "key_points": [
+            "Steam Machine pricing concerns",
+            "Next-gen consoles may exceed $1000",
+            "Analysts divided on predictions"
+          ],
+          "impact": "This could reshape console market strategies.",
+          "id": "106e1fd3935a72827f1d36d99c172bd6"
+        },
+        {
+          "title": "Google's New Speaker Lacks Audio Quality",
+          "description": "Google's latest Home Speaker, its first in six years, showcases impressive AI but falls short on audio performance, raising questions about its market viability.",
+          "category": "Hardware",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/features/2026-06-24/google-home-speaker-review-impressive-ai-underwhelming-audio-quality",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i12aUykX7Itk/v2/1200x800.jpg",
+          "published_at": "2026-06-24T13:00:15Z",
+          "key_points": [
+            "New speaker lacks audio quality",
+            "Strong AI integration",
+            "Market viability questioned"
+          ],
+          "impact": "This may affect Google's hardware reputation.",
+          "id": "9b03a7b944b3e05b5c148f9c28198a45"
+        },
+        {
+          "title": "GTA 6 Gameplay Footage Revealed",
+          "description": "New gameplay footage of GTA 6 showcases stunning details of Vice City Beach, alongside pre-order information and over 60 screenshots.",
+          "category": "Gaming",
+          "source": "RockstarINTEL",
+          "url": "https://rockstarintel.com/new-gta-6-gameplay-footage-shows-incredible-vice-city-beach-details/",
+          "image": "https://rockstarintel.com/wp-content/uploads/2026/06/ULTIMATE_EDITION_SQUALO_01-0cim7hj58ypb1.avif",
+          "published_at": "2026-06-24T12:40:53Z",
+          "key_points": [
+            "Stunning Vice City Beach details",
+            "New gameplay footage released",
+            "Pre-order information available"
+          ],
+          "impact": "This heightens anticipation for GTA 6.",
+          "id": "14ebea7c4fdbf1fe7f1dcb99bd3d6e6a"
+        },
+        {
+          "title": "Prime Day 2026: Accessory Discounts",
+          "description": "Prime Day 2026 features significant savings on Anker, Beats, TVs, and other accessories, appealing to tech enthusiasts and shoppers alike.",
+          "category": "Business",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/24/the-best-prime-day-deals-accessories-3/",
+          "image": "https://images.macrumors.com/t/0Nrnn0K8UE4eKaj5jTdipzqx3PE=/2500x/article-new/2026/06/beats-prime-day.jpeg",
+          "published_at": "2026-06-24T12:21:58Z",
+          "key_points": [
+            "Major discounts on accessories",
+            "Tech enthusiasts targeted",
+            "Limited-time offers available"
+          ],
+          "impact": "This boosts sales for participating brands.",
+          "id": "bddccf6dc772852dd76a771c458c45cd"
+        },
+        {
+          "title": "Star Fox Remake: A Mixed Bag",
+          "description": "The Switch 2 Star Fox remake features impressive visuals but suffers from outdated gameplay mechanics, leaving fans divided on its value.",
+          "category": "Gaming",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/06/24/nx-s1-5868629/star-fox-remake-review-switch-2",
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1496x842+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F77%2F2d%2F03977ca341298cc14128e10442df%2F20260623193557-01kvvck5b0vv2760rfjyzdmwxz.jpg",
+          "published_at": "2026-06-24T12:00:00Z",
+          "key_points": [
+            "High-quality visuals",
+            "Outdated gameplay mechanics",
+            "Mixed fan reception"
+          ],
+          "impact": "This may affect future remakes.",
+          "id": "bd92f9d9a43ce38f5bb2227957a0f0b8"
+        },
+        {
+          "title": "Microsoft Launches New Surface Pro Model",
+          "description": "Microsoft has unveiled a smaller Surface Pro with a 12-inch display, featuring a 90 Hz refresh rate and a Snapdragon X Plus chipset at a lower price.",
+          "category": "Hardware",
+          "source": "Notebookcheck",
+          "url": "https://www.notebookcheck.net/Microsoft-releases-smaller-Surface-Pro-with-cheaper-price-and-90-Hz-display.1327594.0.html",
+          "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/surface-pro-12inch-new-release-8gb-RAM-kv.jpg",
+          "published_at": "2026-06-24T01:14:00Z",
+          "key_points": [
+            "New smaller Surface Pro released",
+            "Features 90 Hz display",
+            "Lower price point introduced"
+          ],
+          "impact": "This enhances competition in the tablet market.",
+          "id": "cdc25234d9255206e3e58d7df100aac0"
+        }
+      ]
+    },
+    {
       "id": "2026-06-25T19:58:53.914661+00:00",
       "fetched_at": "2026-06-25T19:58:53.914661+00:00",
       "label": "Jun 25, 2026 — 07:59 PM UTC",
@@ -6360,253 +6527,6 @@
           ],
           "impact": "007 First Light's port has room for improvement.",
           "id": "48935d668a12e0b2003700cbe33ea340"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-20T19:24:23.879799+00:00",
-      "fetched_at": "2026-06-20T19:24:23.879799+00:00",
-      "label": "Jun 20, 2026 — 07:24 PM UTC",
-      "articles": [
-        {
-          "title": "PS Plus Library Titles Leaving in July 2026",
-          "description": "Sony's PlayStation Plus is removing several titles, including Risk of Rain 2 and Tropico 6. Players have limited time to enjoy these games before they disappear.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/heres-whats-leaving-the-ps-plus-library-in-july-2026",
-          "image": "https://assets-prd.ignimgs.com/2023/10/11/pspremiumthumb-1697040053191.jpg?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-19T15:46:19Z",
-          "key_points": [
-            "Risk of Rain 2 leaving soon",
-            "Tropico 6 also departing",
-            "Limited time to play"
-          ],
-          "impact": "Players must act quickly to enjoy these games.",
-          "id": "c6bceb2f9b8d4baf5deb3a4d06103041"
-        },
-        {
-          "title": "Apple's Siri Upgrade: Consistency Across Devices",
-          "description": "Apple announces a significant Siri upgrade, ensuring the same experience across all devices. This change aims to enhance user interaction with the assistant.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/19/apple-just-said-the-thing-about-siri-that-weve-long-wanted-to-hear/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-19T15:01:00Z",
-          "key_points": [
-            "Siri experience unified",
-            "Same Siri on all devices",
-            "Major AI overhaul"
-          ],
-          "impact": "This upgrade aims to improve user satisfaction.",
-          "id": "9e81a84ea5ec899212f9b6a8a42fa7b8"
-        },
-        {
-          "title": "Atonemo's NTS Radio Player Enhances Hi-Fi Experience",
-          "description": "Atonemo and NTS Radio launch a player that integrates internet radio with streaming services for high-fidelity audio. This innovation targets audiophiles seeking quality sound.",
-          "category": "Hardware",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Atonemo_NTS_radioplayer_Product-41.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-06-19T14:53:53Z",
-          "key_points": [
-            "Integrates internet radio",
-            "Supports streaming services",
-            "Targets audiophiles"
-          ],
-          "impact": "This player enhances the listening experience significantly.",
-          "id": "b37a973fdc84b6ce094a24d6ccab44fa"
-        },
-        {
-          "title": "Take-Two's Ex-AI Chief Critiques Generative AI Hype",
-          "description": "The former AI head at Take-Two warns that generative AI hype could negatively impact traditional AI's future use. He advocates for a balanced view of AI technologies.",
-          "category": "Business",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/take-two-former-ai-head-generative-ai-hype-poisoning-the-well",
-          "image": "https://assetsio.gnwcdn.com/GTA-6's-Jason-aims-a-gun-with-a-bandana-scarf-covering-his-lower-face-and-yellow-rimmed-sunglasses-over-his-eyes.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-19T14:30:28Z",
-          "key_points": [
-            "Generative AI hype criticized",
-            "Traditional AI at risk",
-            "Balanced AI view needed"
-          ],
-          "impact": "Concerns raised about AI's future acceptance.",
-          "id": "cf9ecfa4c37644d886878e31d83ba7d3"
-        },
-        {
-          "title": "watchOS 27 Drops Support for Older Apple Watches",
-          "description": "Apple's watchOS 27 will no longer support five older Apple Watch models, focusing on newer devices. This decision reflects the company's shift towards updated technology.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/19/watchos-27-drops-support-for-five-apple-watch-models-heres-why/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/watchos-27-new-app-grid-home-screen.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-19T13:34:00Z",
-          "key_points": [
-            "Five models unsupported",
-            "Focus on newer devices",
-            "Shift in technology strategy"
-          ],
-          "impact": "Older devices will no longer receive updates.",
-          "id": "3b2203f7ceadaad9d4e25eb228553d78"
-        },
-        {
-          "title": "Crimson Desert's Latest Update Patch Notes Released",
-          "description": "Crimson Desert has launched a new update, introducing various enhancements and features to engage players. The update aims to revitalize interest in the game.",
-          "category": "Gaming",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/paultassi/2026/06/19/here-are-the-patch-notes-from-crimson-deserts-latest-big-update/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a35432ec31e3a1ab523190a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "published_at": "2026-06-19T13:26:59Z",
-          "key_points": [
-            "New features added",
-            "Engagement boost for players",
-            "Patch notes available now"
-          ],
-          "impact": "The update aims to attract returning players.",
-          "id": "83ef5509060906a10e045dd3f8fdbd20"
-        },
-        {
-          "title": "Epic Games Launcher to Undergo Major Overhaul",
-          "description": "Epic Games confirms a complete rebuild of its launcher, promising significant speed improvements. Users can expect a more efficient experience in the future.",
-          "category": "Software",
-          "source": "PC Guide",
-          "url": "https://www.pcguide.com/news/clunky-epic-games-launcher-is-getting-a-ground-up-rebuild-that-promises-to-be-at-least-5x-faster/",
-          "image": "https://www.pcguide.com/wp-content/uploads/2026/06/Epic-Games-Storefront-Redesign.jpg",
-          "published_at": "2026-06-19T13:01:40Z",
-          "key_points": [
-            "Launcher rebuild confirmed",
-            "Promised 5x speed increase",
-            "User experience improvements"
-          ],
-          "impact": "This overhaul aims to enhance user satisfaction.",
-          "id": "1a379571d4db3e2f5948d290f5141233"
-        },
-        {
-          "title": "Game Pass Needs Big Hits, Says Moon Studios Boss",
-          "description": "Moon Studios' Thomas Mahler claims Xbox Game Pass could have succeeded with more standout titles. He highlights the need for quality content to drive subscriptions.",
-          "category": "Gaming",
-          "source": "Wccftech",
-          "url": "https://wccftech.com/game-pass-couldve-worked-xbox-big-hit-needed/",
-          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/Starfield-Game-Pass-HD-1920x960.jpeg",
-          "published_at": "2026-06-19T13:00:00Z",
-          "key_points": [
-            "Game Pass potential discussed",
-            "Need for standout titles",
-            "Quality content is crucial"
-          ],
-          "impact": "Lack of hits has hindered Game Pass success.",
-          "id": "422ff164d78bc9e3a63dad4db1aac221"
-        },
-        {
-          "title": "Top 20 Video Games of 2026 So Far Revealed",
-          "description": "Despite industry challenges, 2026 has produced strong game contenders for the year. The list includes both established franchises and new IPs.",
-          "category": "Gaming",
-          "source": "Rolling Stone",
-          "url": "http://www.rollingstone.com/culture/rs-gaming-lists/best-video-games-2026-1235575544/",
-          "image": "https://www.rollingstone.com/wp-content/uploads/2026/06/VIDEO-GAMES-SO-FAR-2026.jpg?w=1600&h=900&crop=1",
-          "published_at": "2026-06-19T13:00:00Z",
-          "key_points": [
-            "Strong contenders listed",
-            "Includes new and old franchises",
-            "2026 gaming highlights"
-          ],
-          "impact": "The list showcases resilience in gaming.",
-          "id": "65a08d8c22decb1e653e7b2f71c4d53b"
-        },
-        {
-          "title": "EA Sports UFC 6: Must-Try Fighters for Realism",
-          "description": "EA Sports UFC 6 highlights key fighters to enhance gameplay experience. Players are encouraged to explore standout characters for a more authentic feel.",
-          "category": "Gaming",
-          "source": "Bloody Elbow",
-          "url": "https://bloodyelbow.com/2026/06/19/ea-sports-ufc-6-seven-fighters-you-have-to-try-out-to-get-the-full-as-real-as-it-gets-experience/",
-          "image": "https://bloodyelbow.com/wp-content/uploads/1/2026/06/Severino-Zhumagulov-3-scaled.jpg",
-          "published_at": "2026-06-19T12:00:00Z",
-          "key_points": [
-            "Key fighters highlighted",
-            "Enhances gameplay realism",
-            "Explore standout characters"
-          ],
-          "impact": "Players can enjoy a more authentic experience.",
-          "id": "9de1e077ccf83d22ffdf47b9242f971f"
-        },
-        {
-          "title": "Pragmata Update Now Available with New Features",
-          "description": "Capcom releases a new update for Pragmata, introducing exciting features and improvements. Players can now enjoy enhanced gameplay with the latest patch.",
-          "category": "Gaming",
-          "source": "Nintendo Everything",
-          "url": "https://nintendoeverything.com/pragmata-update-out-now-patch-notes/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Pragmata-update.jpg",
-          "published_at": "2026-06-19T11:01:32Z",
-          "key_points": [
-            "New update released",
-            "Exciting features added",
-            "Gameplay improvements included"
-          ],
-          "impact": "The update enhances overall player experience.",
-          "id": "89f5f883170a058c89a0e1c93b9d0e39"
-        },
-        {
-          "title": "Glaive Rush Mega Baxcalibur Community Day Announced",
-          "description": "Pokémon GO's Community Day aims to elevate several Pokémon's relevance in competitive play. This event is expected to boost their performance in PvP and PvE.",
-          "category": "Gaming",
-          "source": "Pokémon GO Hub",
-          "url": "https://pokemongohub.net/post/meta/glaive-rush-mega-baxcalibur-greatest-community-day-for-raids/",
-          "image": "https://pokemongohub.net/wp-content/uploads/2026/06/baxcalibur-pokemon-go.png",
-          "published_at": "2026-06-19T10:10:58Z",
-          "key_points": [
-            "Community Day announced",
-            "Boosts Pokémon relevance",
-            "Enhances competitive play"
-          ],
-          "impact": "This event could reshape competitive dynamics.",
-          "id": "c809959a594d9bc624342f29f4e982ca"
-        },
-        {
-          "title": "PlayStation Adjusts PC Strategy Amid Revenue Concerns",
-          "description": "PlayStation alters its first-party PC strategy due to disappointing revenue. Live-service titles will continue to be prioritized on the platform.",
-          "category": "Business",
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/report-playstation-changed-first-party-single-player-pc-strategy-due-to-lack-of-revenue",
-          "image": "https://assetsio.gnwcdn.com/last-of-us-part-1_NvQ8Ei0.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-19T09:19:54Z",
-          "key_points": [
-            "PC strategy adjusted",
-            "Focus on live-service titles",
-            "Revenue concerns addressed"
-          ],
-          "impact": "This shift reflects changing market dynamics.",
-          "id": "1700add1b35a77302dfa89ea4aade328"
-        },
-        {
-          "title": "Doom Composer Bobby Prince Passes Away at 81",
-          "description": "Bobby Prince, renowned for his iconic Doom soundtrack, has died at 81. His contributions to gaming music were recognized with preservation in the Library of Congress.",
-          "category": "Gaming",
-          "source": "Video Games Chronicle",
-          "url": "https://www.videogameschronicle.com/news/bobby-prince-the-composer-of-dooms-iconic-soundtrack-has-died-at-81/",
-          "image": "https://www.videogameschronicle.com/files/2026/06/doom-composer.jpg",
-          "published_at": "2026-06-19T09:09:34Z",
-          "key_points": [
-            "Doom soundtrack composer dies",
-            "Recognized by Library of Congress",
-            "Legacy in gaming music"
-          ],
-          "impact": "His music left a lasting impact on gaming.",
-          "id": "7d4a362886ab19fee9f05f29fc4155a2"
-        },
-        {
-          "title": "Google Fixes Pixel Widgets Issue in Android 17",
-          "description": "Android 17 users report disappearing home screen widgets, but Google is working on a fix. The issue appears limited to devices with work profiles.",
-          "category": "Software",
-          "source": "Android Central",
-          "url": "https://www.androidcentral.com/apps-software/android-os/android-17-is-making-pixel-widgets-vanish-but-google-already-has-a-fix-in-the-works",
-          "image": "https://cdn.mos.cms.futurecdn.net/57qH5Wqatu2zEmQTFDqLnD-2560-80.jpg",
-          "published_at": "2026-06-19T07:10:00Z",
-          "key_points": [
-            "Widgets disappearing issue",
-            "Google developing a fix",
-            "Limited to work profile devices"
-          ],
-          "impact": "A fix will restore widget functionality soon.",
-          "id": "8dbf7a79498785b08692ba2ef678be5a"
         }
       ]
     }

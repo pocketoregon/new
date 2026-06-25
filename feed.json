@@ -1,101 +1,165 @@
 {
-  "generated_at": "2026-06-25T19:58:53.914661+00:00",
+  "generated_at": "2026-06-25T22:20:18.008136+00:00",
   "articles": [
     {
-      "title": "Halo: Campaign Evolved's PC Specs Revealed",
-      "description": "Halo: Campaign Evolved's PC requirements are now available, featuring manageable specs for gamers. Prepare for a nostalgic remake experience with updated gameplay.",
+      "title": "GTA VI Signals Trouble for Physical Games",
+      "description": "GTA VI's physical edition will only include a download code, raising concerns about the future of physical gaming. This trend could impact the entire industry.",
       "category": "Gaming",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/gaming/halo/xbox-announced-halo-campaign-evolveds-pc-system-requirements-and-recommended-specs",
-      "image": "https://cdn.mos.cms.futurecdn.net/nmzTHEi2KNBCGqYSVUyuq6-2560-80.jpg",
-      "published_at": "2026-06-23T20:39:10Z",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "published_at": "2026-06-24T18:42:07Z",
       "key_points": [
-        "Manageable PC requirements",
-        "Nostalgic gameplay experience",
-        "Full remake of Halo"
+        "No disc in physical edition",
+        "Concerns for gaming industry",
+        "Shift towards digital sales"
       ],
-      "impact": "Gamers can prepare for an exciting remake.",
-      "id": "6c88c846d7f413e35c757592facce0b6"
+      "impact": "This could redefine physical game sales.",
+      "id": "95066fd9dc0b50726b5dd64e9aabc716"
     },
     {
-      "title": "Steam Machine's Companion Cube Case: A Mixed Bag",
-      "description": "Dbrand's Companion Cube case for the Steam Machine is both expensive and well-crafted, drawing from a beloved gaming joke. It's a unique blend of nostalgia and quality design.",
-      "category": "Gaming",
-      "source": "Rock Paper Shotgun",
-      "url": "https://www.rockpapershotgun.com/the-steam-machines-companion-cube-case-is-big-expensive-and-based-on-a-19-year-old-joke-so-i-hate-how-well-made-it-is",
-      "image": "https://assetsio.gnwcdn.com/Steam-Machine-Companion-Cube-Dbrand.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-23T19:44:13Z",
-      "key_points": [
-        "Expensive but well-made",
-        "Based on a gaming joke",
-        "Unique design appeal"
-      ],
-      "impact": "The case appeals to both nostalgia and quality.",
-      "id": "2c9e7bb058893f523df28ea5afede057"
-    },
-    {
-      "title": "Samsung Unveils Twice-as-Fast UFS 5.0 Storage",
-      "description": "Samsung's new UFS 5.0 storage promises double the speed of current options, set to enhance future flagship smartphones. This innovation aims to improve mobile performance significantly.",
-      "category": "Hardware",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/06/23/samsung-teases-twice-as-fast-ufs-5-0-storage-for-future-flagship-smartphones/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-23T18:40:00Z",
-      "key_points": [
-        "Twice the speed of current storage",
-        "Future flagship smartphones",
-        "Significant performance boost"
-      ],
-      "impact": "Mobile devices will experience enhanced performance.",
-      "id": "b56b42054b7f4a08b9233f6252322ae6"
-    },
-    {
-      "title": "Kindle Colorsoft Price Drops for Prime Day",
-      "description": "The Kindle Colorsoft is now available at a new low price for Prime Day, making it an attractive option for comic readers. This deal offers significant savings for avid readers.",
-      "category": "Business",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/kindle-colorsoft-deal-amazon-prime-day-2026",
-      "image": "https://assets-prd.ignimgs.com/2025/04/23/81yrk24ayl-ac-sl1500-1745435120574.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-23T17:25:08Z",
-      "key_points": [
-        "New low price for Prime Day",
-        "Great for comic readers",
-        "Significant savings available"
-      ],
-      "impact": "Readers can save big on Kindle Colorsoft.",
-      "id": "a15732e03337301aeadda04fb1387de3"
-    },
-    {
-      "title": "Pixel Users Report Touchscreen Bug on Android 17",
-      "description": "Pixel users are experiencing a new touchscreen bug with Android 17, affecting input during video playback. This issue continues to frustrate users of the latest Android version.",
+      "title": "Gemini in Chrome Introduces New Tool",
+      "description": "Gemini in Chrome now features a 'Select from screen' tool, enhancing user prompts. Developers can also utilize Gemini 3.5 Flash for computer applications.",
       "category": "Software",
       "source": "9to5Google",
-      "url": "http://9to5google.com/2026/06/23/another-touchscreen-bug-appears-in-android-17-on-pixel/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-23T17:10:00Z",
+      "url": "http://9to5google.com/2026/06/24/gemini-chrome-select-screen/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Gemini-3.5-cover.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-24T17:45:00Z",
       "key_points": [
-        "New touchscreen bug reported",
-        "Affects video playback",
-        "Frustrating for Pixel users"
+        "New screen selection tool",
+        "Enhanced developer capabilities",
+        "Improved user experience"
       ],
-      "impact": "Users face ongoing issues with touchscreen functionality.",
-      "id": "037ed4eafb7b1961c8fd9b7b66edd7c8"
+      "impact": "This enhances productivity for Chrome users.",
+      "id": "33e6ac614147a94a4ecc3b66bf03a8e6"
     },
     {
-      "title": "Cam McCaul Joins Revel Bikes Team",
-      "description": "Freeride icon Cam McCaul has signed a long-term partnership with Revel Bikes, enhancing the brand's presence in mountain biking. This collaboration is expected to elevate both parties.",
-      "category": "Startups",
-      "source": "Pinkbike",
-      "url": "https://www.pinkbike.com/news/revel-bikes-welcomes-freeride-icon-cam-mccaul-to-the-team.html",
-      "image": "https://ep1.pinkbike.org/p4pb29905123/p4pb29905123.jpg",
-      "published_at": "2026-06-23T16:00:00Z",
+      "title": "NSF Expands National Quantum Virtual Lab Teams",
+      "description": "The NSF has selected five new teams to advance experimental quantum technologies, focusing on long-distance quantum information transfer and advanced sensors.",
+      "category": "Science",
+      "source": "National Science Foundation (.gov)",
+      "url": "https://www.nsf.gov/news/nsf-selects-five-additional-teams-national-quantum-virtual",
+      "image": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/NSF_NQVL_hero%202026.png?itok=zBBhkIw8",
+      "published_at": "2026-06-24T14:00:08Z",
       "key_points": [
-        "Cam McCaul joins Revel Bikes",
-        "Long-term partnership established",
-        "Boosts brand presence"
+        "Five new teams selected",
+        "Focus on quantum technologies",
+        "Advancing experimental research"
       ],
-      "impact": "Revel Bikes strengthens its position in the market.",
-      "id": "446c6fa896c6f873e0613b7c31931f5a"
+      "impact": "This boosts U.S. leadership in quantum research.",
+      "id": "566f6ab367ed1ded042124d44cff7a9a"
+    },
+    {
+      "title": "Amazon Prime Day 2026: Nintendo Deals",
+      "description": "Day 2 of Amazon Prime Day features significant discounts on Nintendo Switch and accessories, making it a prime shopping opportunity for gamers.",
+      "category": "Gaming",
+      "source": "Nintendo Wire",
+      "url": "https://nintendowire.com/news/2026/06/24/the-best-nintendo-deals-at-amazon-for-prime-day-2026-day-2/",
+      "image": "https://nintendowire.com/wp-content/uploads/2026/06/day-2-prime-day-nintendo-switch-2-deals.jpg",
+      "published_at": "2026-06-24T13:41:17Z",
+      "key_points": [
+        "Huge discounts on Nintendo products",
+        "Prime Day shopping event",
+        "Limited-time offers available"
+      ],
+      "impact": "This attracts more gamers to Amazon.",
+      "id": "77cfb4751a718f31386b18d7dcc6de01"
+    },
+    {
+      "title": "Analysts Predict High Prices for Next-Gen Consoles",
+      "description": "Experts debate whether the Steam Machine's pricing indicates that future consoles like PS6 and Xbox Helix will exceed $1000.",
+      "category": "Gaming",
+      "source": "Video Games Chronicle",
+      "url": "https://www.videogameschronicle.com/news/north-of-a-grand-is-the-floor-analysts-debate-whether-steam-machine-means-ps6-and-xbox-helix-will-cost-1000/",
+      "image": "https://www.videogameschronicle.com/files/2025/11/SM_powerButton.jpg",
+      "published_at": "2026-06-24T13:32:27Z",
+      "key_points": [
+        "Steam Machine pricing concerns",
+        "Next-gen consoles may exceed $1000",
+        "Analysts divided on predictions"
+      ],
+      "impact": "This could reshape console market strategies.",
+      "id": "106e1fd3935a72827f1d36d99c172bd6"
+    },
+    {
+      "title": "Google's New Speaker Lacks Audio Quality",
+      "description": "Google's latest Home Speaker, its first in six years, showcases impressive AI but falls short on audio performance, raising questions about its market viability.",
+      "category": "Hardware",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/features/2026-06-24/google-home-speaker-review-impressive-ai-underwhelming-audio-quality",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i12aUykX7Itk/v2/1200x800.jpg",
+      "published_at": "2026-06-24T13:00:15Z",
+      "key_points": [
+        "New speaker lacks audio quality",
+        "Strong AI integration",
+        "Market viability questioned"
+      ],
+      "impact": "This may affect Google's hardware reputation.",
+      "id": "9b03a7b944b3e05b5c148f9c28198a45"
+    },
+    {
+      "title": "GTA 6 Gameplay Footage Revealed",
+      "description": "New gameplay footage of GTA 6 showcases stunning details of Vice City Beach, alongside pre-order information and over 60 screenshots.",
+      "category": "Gaming",
+      "source": "RockstarINTEL",
+      "url": "https://rockstarintel.com/new-gta-6-gameplay-footage-shows-incredible-vice-city-beach-details/",
+      "image": "https://rockstarintel.com/wp-content/uploads/2026/06/ULTIMATE_EDITION_SQUALO_01-0cim7hj58ypb1.avif",
+      "published_at": "2026-06-24T12:40:53Z",
+      "key_points": [
+        "Stunning Vice City Beach details",
+        "New gameplay footage released",
+        "Pre-order information available"
+      ],
+      "impact": "This heightens anticipation for GTA 6.",
+      "id": "14ebea7c4fdbf1fe7f1dcb99bd3d6e6a"
+    },
+    {
+      "title": "Prime Day 2026: Accessory Discounts",
+      "description": "Prime Day 2026 features significant savings on Anker, Beats, TVs, and other accessories, appealing to tech enthusiasts and shoppers alike.",
+      "category": "Business",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/24/the-best-prime-day-deals-accessories-3/",
+      "image": "https://images.macrumors.com/t/0Nrnn0K8UE4eKaj5jTdipzqx3PE=/2500x/article-new/2026/06/beats-prime-day.jpeg",
+      "published_at": "2026-06-24T12:21:58Z",
+      "key_points": [
+        "Major discounts on accessories",
+        "Tech enthusiasts targeted",
+        "Limited-time offers available"
+      ],
+      "impact": "This boosts sales for participating brands.",
+      "id": "bddccf6dc772852dd76a771c458c45cd"
+    },
+    {
+      "title": "Star Fox Remake: A Mixed Bag",
+      "description": "The Switch 2 Star Fox remake features impressive visuals but suffers from outdated gameplay mechanics, leaving fans divided on its value.",
+      "category": "Gaming",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/24/nx-s1-5868629/star-fox-remake-review-switch-2",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1496x842+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F77%2F2d%2F03977ca341298cc14128e10442df%2F20260623193557-01kvvck5b0vv2760rfjyzdmwxz.jpg",
+      "published_at": "2026-06-24T12:00:00Z",
+      "key_points": [
+        "High-quality visuals",
+        "Outdated gameplay mechanics",
+        "Mixed fan reception"
+      ],
+      "impact": "This may affect future remakes.",
+      "id": "bd92f9d9a43ce38f5bb2227957a0f0b8"
+    },
+    {
+      "title": "Microsoft Launches New Surface Pro Model",
+      "description": "Microsoft has unveiled a smaller Surface Pro with a 12-inch display, featuring a 90 Hz refresh rate and a Snapdragon X Plus chipset at a lower price.",
+      "category": "Hardware",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Microsoft-releases-smaller-Surface-Pro-with-cheaper-price-and-90-Hz-display.1327594.0.html",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/surface-pro-12inch-new-release-8gb-RAM-kv.jpg",
+      "published_at": "2026-06-24T01:14:00Z",
+      "key_points": [
+        "New smaller Surface Pro released",
+        "Features 90 Hz display",
+        "Lower price point introduced"
+      ],
+      "impact": "This enhances competition in the tablet market.",
+      "id": "cdc25234d9255206e3e58d7df100aac0"
     }
   ]
 }
