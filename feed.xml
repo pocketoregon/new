@@ -5,107 +5,143 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2026 22:16:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 03:27:03 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Prime Day Smartphone Deals: Up to 44% Off</title>
-      <description>Prime Day offers significant discounts on smartphones from Samsung, Google, and Motorola. Editor-approved deals are now live.</description>
-      <link>https://www.pcmag.com/news/best-amazon-prime-day-sale-smartphone-deals-2026</link>
-      <guid isPermaLink="true">https://www.pcmag.com/news/best-amazon-prime-day-sale-smartphone-deals-2026</guid>
-      <pubDate>2026-06-23T12:53:35Z</pubDate>
+      <title>Top Amazon Prime Day Portable Charger Deals</title>
+      <description>Discover the best portable charger deals for Prime Day. Stay powered on the go with these top picks.</description>
+      <link>https://www.cnn.com/cnn-underscored/deals/amazon-prime-day-portable-charger-deals-2026-06-23</link>
+      <guid isPermaLink="true">https://www.cnn.com/cnn-underscored/deals/amazon-prime-day-portable-charger-deals-2026-06-23</guid>
+      <pubDate>2026-06-24T00:46:00Z</pubDate>
       <category>Business</category>
-      <source url="https://www.pcmag.com/news/best-amazon-prime-day-sale-smartphone-deals-2026">PCMag.com</source>
+      <source url="https://www.cnn.com/cnn-underscored/deals/amazon-prime-day-portable-charger-deals-2026-06-23">CNN</source>
     </item>
     <item>
-      <title>Best Prime Day Deals: Pixel 10, Galaxy Gear</title>
-      <description>Amazon Prime Day features extensive discounts across various tech products, including Pixel 10 and Galaxy gear. New all-time lows are being tracked.</description>
-      <link>http://9to5google.com/2026/06/23/best-prime-day-deals-pixel-galaxy/</link>
-      <guid isPermaLink="true">http://9to5google.com/2026/06/23/best-prime-day-deals-pixel-galaxy/</guid>
-      <pubDate>2026-06-23T12:51:00Z</pubDate>
-      <category>Business</category>
-      <source url="http://9to5google.com/2026/06/23/best-prime-day-deals-pixel-galaxy/">9to5google.com</source>
-    </item>
-    <item>
-      <title>Google Faces Challenges in AI Era</title>
-      <description>Google's strong market position is being tested as AI technologies evolve. The company must adapt to maintain its dominance.</description>
-      <link>https://www.cnbc.com/2026/06/23/googles-online-dominance-is-showing-signs-of-cracking-in-ai-era.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/06/23/googles-online-dominance-is-showing-signs-of-cracking-in-ai-era.html</guid>
-      <pubDate>2026-06-23T12:00:01Z</pubDate>
-      <category>Business</category>
-      <source url="https://www.cnbc.com/2026/06/23/googles-online-dominance-is-showing-signs-of-cracking-in-ai-era.html">CNBC</source>
-    </item>
-    <item>
-      <title>Steam Machine Price Revealed: Analysts React</title>
-      <description>Valve's Steam Machine console starts at $1,049, sparking mixed reactions from analysts regarding its market viability.</description>
-      <link>https://www.gamesindustry.biz/this-is-going-to-be-a-niche-device-analysts-react-to-the-1000-steam-machine-price-reveal</link>
-      <guid isPermaLink="true">https://www.gamesindustry.biz/this-is-going-to-be-a-niche-device-analysts-react-to-the-1000-steam-machine-price-reveal</guid>
-      <pubDate>2026-06-23T11:01:40Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.gamesindustry.biz/this-is-going-to-be-a-niche-device-analysts-react-to-the-1000-steam-machine-price-reveal">GamesIndustry.biz</source>
-    </item>
-    <item>
-      <title>PS5 Slim Disc Edition for $499 on Prime Day</title>
-      <description>Amazon offers a 'Like New' PS5 Slim Disc Edition for just $499.61 during Prime Day, likely to sell out quickly.</description>
-      <link>https://www.ign.com/articles/playstation-5-disc-edition-console-deal-amazon-prime-day-sale</link>
-      <guid isPermaLink="true">https://www.ign.com/articles/playstation-5-disc-edition-console-deal-amazon-prime-day-sale</guid>
-      <pubDate>2026-06-23T10:31:48Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.ign.com/articles/playstation-5-disc-edition-console-deal-amazon-prime-day-sale">IGN</source>
-    </item>
-    <item>
-      <title>T-Mobile 5G Test Reveals Simple Fix</title>
-      <description>T-Mobile identifies a straightforward solution to enhance its 5G network performance during high-demand situations.</description>
-      <link>https://www.tmonews.com/2026/06/new-t-mobile-5g-test-shows-a-simple-fix-for-a-common-slowdown/</link>
-      <guid isPermaLink="true">https://www.tmonews.com/2026/06/new-t-mobile-5g-test-shows-a-simple-fix-for-a-common-slowdown/</guid>
-      <pubDate>2026-06-23T05:40:58Z</pubDate>
-      <category>Business</category>
-      <source url="https://www.tmonews.com/2026/06/new-t-mobile-5g-test-shows-a-simple-fix-for-a-common-slowdown/">TmoNews</source>
-    </item>
-    <item>
-      <title>Apple's iPhone Ultra to Feature Dual OLEDs</title>
-      <description>Apple plans to use Samsung's advanced M16 OLED for the iPhone Ultra's outer screen, while retaining the older M14 for the inner display.</description>
-      <link>https://wccftech.com/apple-will-equip-the-outer-panel-of-the-iphone-ultra-with-samsungs-cutting-edge-natively-10-bit-m16-oled-while-retaining-the-older-m14-oled-for-the-inner-screen/</link>
-      <guid isPermaLink="true">https://wccftech.com/apple-will-equip-the-outer-panel-of-the-iphone-ultra-with-samsungs-cutting-edge-natively-10-bit-m16-oled-while-retaining-the-older-m14-oled-for-the-inner-screen/</guid>
-      <pubDate>2026-06-22T23:32:00Z</pubDate>
-      <category>Business</category>
-      <source url="https://wccftech.com/apple-will-equip-the-outer-panel-of-the-iphone-ultra-with-samsungs-cutting-edge-natively-10-bit-m16-oled-while-retaining-the-older-m14-oled-for-the-inner-screen/">Wccftech</source>
-    </item>
-    <item>
-      <title>Ubisoft Co-Founder Dies in Plane Crash</title>
-      <description>Claude Guillemot, co-founder of Ubisoft, tragically died in a plane crash on June 19, according to reports.</description>
-      <link>https://www.gamespot.com/articles/ubisoft-co-founder-dies-in-plane-crash/</link>
-      <guid isPermaLink="true">https://www.gamespot.com/articles/ubisoft-co-founder-dies-in-plane-crash/</guid>
-      <pubDate>2026-06-22T20:43:54Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.gamespot.com/articles/ubisoft-co-founder-dies-in-plane-crash/">GameSpot</source>
-    </item>
-    <item>
-      <title>iOS 27 to Enhance RCS Messaging Features</title>
-      <description>The upcoming iOS 27 update will introduce inline replies and photo reactions for RCS messaging between Android and iPhone users.</description>
-      <link>http://9to5google.com/2026/06/22/ios-27-android-replies/</link>
-      <guid isPermaLink="true">http://9to5google.com/2026/06/22/ios-27-android-replies/</guid>
-      <pubDate>2026-06-22T20:32:00Z</pubDate>
+      <title>Google Pixel Phones Improve Wireless Audio Quality</title>
+      <description>Android 17 enhances wireless audio quality for Google Pixel phones. Users can now enjoy better sound with their wireless devices.</description>
+      <link>http://9to5google.com/2026/06/23/google-pixel-wireless-audio-quality-lhdc-android-17-update/</link>
+      <guid isPermaLink="true">http://9to5google.com/2026/06/23/google-pixel-wireless-audio-quality-lhdc-android-17-update/</guid>
+      <pubDate>2026-06-23T20:05:00Z</pubDate>
       <category>Software</category>
-      <source url="http://9to5google.com/2026/06/22/ios-27-android-replies/">9to5google.com</source>
+      <source url="http://9to5google.com/2026/06/23/google-pixel-wireless-audio-quality-lhdc-android-17-update/">9to5google.com</source>
     </item>
     <item>
-      <title>Sonic the Hedgehog 35th Birthday Live Stream</title>
-      <description>SEGA will celebrate Sonic the Hedgehog's 35th birthday with a live stream event on June 23, available on YouTube and Twitch.</description>
-      <link>https://www.gematsu.com/2026/06/sonic-the-hedgehog-35th-birthday-live-stream-set-for-june-23</link>
-      <guid isPermaLink="true">https://www.gematsu.com/2026/06/sonic-the-hedgehog-35th-birthday-live-stream-set-for-june-23</guid>
-      <pubDate>2026-06-22T19:18:55Z</pubDate>
+      <title>Prime Day Deals on Switch 2, PS5, and Xbox Games</title>
+      <description>Prime Day offers great discounts on games for Switch 2, PS5, and Xbox. Grab these deals while they last!</description>
+      <link>https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale</link>
+      <guid isPermaLink="true">https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale</guid>
+      <pubDate>2026-06-23T20:00:00Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.gematsu.com/2026/06/sonic-the-hedgehog-35th-birthday-live-stream-set-for-june-23">Gematsu</source>
+      <source url="https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale">The Verge</source>
     </item>
     <item>
-      <title>Unpatchable Flaw in Apple Chips Discovered</title>
-      <description>A new vulnerability in Apple chips could allow hackers to jailbreak older iPhones, according to cybersecurity experts.</description>
-      <link>https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/</guid>
-      <pubDate>2026-06-22T18:50:24Z</pubDate>
-      <category>Security</category>
-      <source url="https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/">TechCrunch</source>
+      <title>Sega Re-releases Original Sonic Genesis Games</title>
+      <description>Sega is re-releasing Sonic and Sonic 2 on $100 cartridges. Pre-orders are now available for fans.</description>
+      <link>https://www.videogameschronicle.com/news/sega-is-re-releasing-the-original-sonic-genesis-games-on-100-cartridges/</link>
+      <guid isPermaLink="true">https://www.videogameschronicle.com/news/sega-is-re-releasing-the-original-sonic-genesis-games-on-100-cartridges/</guid>
+      <pubDate>2026-06-23T19:54:07Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.videogameschronicle.com/news/sega-is-re-releasing-the-original-sonic-genesis-games-on-100-cartridges/">Video Games Chronicle</source>
+    </item>
+    <item>
+      <title>iOS 27 Wallet App Introduces New Features</title>
+      <description>iOS 27 enhances the Wallet app with seven new features. Apple aims to replace physical wallets with digital solutions.</description>
+      <link>https://www.macrumors.com/guide/ios-27-wallet/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/guide/ios-27-wallet/</guid>
+      <pubDate>2026-06-23T19:32:14Z</pubDate>
+      <category>Software</category>
+      <source url="https://www.macrumors.com/guide/ios-27-wallet/">MacRumors</source>
+    </item>
+    <item>
+      <title>Prime Day Offers Great 4K TV Deals</title>
+      <description>Prime Day features fantastic discounts on 4K TVs from major brands. Save big on high-quality models this sale.</description>
+      <link>https://www.theverge.com/gadgets/952282/best-4k-tv-deals-amazon-prime-day-sale</link>
+      <guid isPermaLink="true">https://www.theverge.com/gadgets/952282/best-4k-tv-deals-amazon-prime-day-sale</guid>
+      <pubDate>2026-06-23T19:30:00Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.theverge.com/gadgets/952282/best-4k-tv-deals-amazon-prime-day-sale">The Verge</source>
+    </item>
+    <item>
+      <title>New Characters for Sonic Racing: CrossWorlds</title>
+      <description>SEGA announces new characters for Sonic Racing: CrossWorlds, including Classic Sonic and Axel. Updates available until September.</description>
+      <link>https://www.gematsu.com/2026/06/sonic-racing-crossworlds-free-character-updates-classic-sonic-axel-and-amigo-announced</link>
+      <guid isPermaLink="true">https://www.gematsu.com/2026/06/sonic-racing-crossworlds-free-character-updates-classic-sonic-axel-and-amigo-announced</guid>
+      <pubDate>2026-06-23T18:32:37Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.gematsu.com/2026/06/sonic-racing-crossworlds-free-character-updates-classic-sonic-axel-and-amigo-announced">Gematsu</source>
+    </item>
+    <item>
+      <title>Steam Machine Pricing Was 30% Cheaper Pre-RAM Crisis</title>
+      <description>Valve's Steam Machine faced pricing challenges due to the DRAM crisis. Pre-crisis prices were significantly lower.</description>
+      <link>https://www.techpowerup.com/350224/pre-rampocalypse-steam-machine-pricing-was-30-cheaper</link>
+      <guid isPermaLink="true">https://www.techpowerup.com/350224/pre-rampocalypse-steam-machine-pricing-was-30-cheaper</guid>
+      <pubDate>2026-06-23T18:06:37Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.techpowerup.com/350224/pre-rampocalypse-steam-machine-pricing-was-30-cheaper">Techpowerup.com</source>
+    </item>
+    <item>
+      <title>Hands-On with RayNeo Air 4 Pro XR Glasses</title>
+      <description>Experience the RayNeo Air 4 Pro XR glasses, compatible with Switch 2. Enjoy a big-screen experience anywhere.</description>
+      <link>https://www.nintendolife.com/news/2026/06/hands-on-rayneo-air-4-pro-be-the-batman-with-these-switch-2-compatible-xr-glasses</link>
+      <guid isPermaLink="true">https://www.nintendolife.com/news/2026/06/hands-on-rayneo-air-4-pro-be-the-batman-with-these-switch-2-compatible-xr-glasses</guid>
+      <pubDate>2026-06-23T18:00:00Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.nintendolife.com/news/2026/06/hands-on-rayneo-air-4-pro-be-the-batman-with-these-switch-2-compatible-xr-glasses">Nintendo Life</source>
+    </item>
+    <item>
+      <title>TFT Patch 17.6 Released</title>
+      <description>Teamfight Tactics introduces patch 17.6 with updates for Pengu’s Party and balance changes. Players can expect new gameplay dynamics.</description>
+      <link>https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-17-6/</link>
+      <guid isPermaLink="true">https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-17-6/</guid>
+      <pubDate>2026-06-23T18:00:00Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-17-6/">Leagueoflegends.com</source>
+    </item>
+    <item>
+      <title>46 Prime Day Fitness Deals to Grab</title>
+      <description>Discover top fitness deals for Prime Day, curated by a wellness expert. Don't miss out on these savings for health gear.</description>
+      <link>https://nypost.com/shopping/best-amazon-prime-day-fitness-wellness-deals-2026/</link>
+      <guid isPermaLink="true">https://nypost.com/shopping/best-amazon-prime-day-fitness-wellness-deals-2026/</guid>
+      <pubDate>2026-06-23T17:34:00Z</pubDate>
+      <category>Business</category>
+      <source url="https://nypost.com/shopping/best-amazon-prime-day-fitness-wellness-deals-2026/">New York Post</source>
+    </item>
+    <item>
+      <title>Oura Ring Sale for Amex Platinum Cardholders</title>
+      <description>Get the Oura Ring for just $44 with the Amex Platinum card. This is the best deal seen since Black Friday.</description>
+      <link>https://upgradedpoints.com/news/oura-ring-sale-amex-platinum-2026/</link>
+      <guid isPermaLink="true">https://upgradedpoints.com/news/oura-ring-sale-amex-platinum-2026/</guid>
+      <pubDate>2026-06-23T16:43:14Z</pubDate>
+      <category>Business</category>
+      <source url="https://upgradedpoints.com/news/oura-ring-sale-amex-platinum-2026/">Upgradedpoints.com</source>
+    </item>
+    <item>
+      <title>Best Desktop PC Discounts for Prime Day</title>
+      <description>Explore significant discounts on desktop PCs from major brands during Prime Day. Ideal for gamers and professionals alike.</description>
+      <link>https://www.pcmag.com/news/best-amazon-prime-day-sale-desktop-pc-deals-2026</link>
+      <guid isPermaLink="true">https://www.pcmag.com/news/best-amazon-prime-day-sale-desktop-pc-deals-2026</guid>
+      <pubDate>2026-06-23T16:43:12Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.pcmag.com/news/best-amazon-prime-day-sale-desktop-pc-deals-2026">PCMag.com</source>
+    </item>
+    <item>
+      <title>MSI Claw 8 EX AI+ Review Released</title>
+      <description>The MSI Claw 8 EX AI+ review embargo lifts, showcasing Intel's Arc G3 Extreme performance. A new contender in handheld gaming.</description>
+      <link>https://videocardz.com/newz/msi-claw-8-ex-ai-review-are-here-intel-arc-g3-extreme-takes-the-lead-in-performance-and-pricing</link>
+      <guid isPermaLink="true">https://videocardz.com/newz/msi-claw-8-ex-ai-review-are-here-intel-arc-g3-extreme-takes-the-lead-in-performance-and-pricing</guid>
+      <pubDate>2026-06-23T16:17:57Z</pubDate>
+      <category>Hardware</category>
+      <source url="https://videocardz.com/newz/msi-claw-8-ex-ai-review-are-here-intel-arc-g3-extreme-takes-the-lead-in-performance-and-pricing">VideoCardz.com</source>
+    </item>
+    <item>
+      <title>iOS 27 Upgrades Make AirPods Max 2 Tempting</title>
+      <description>iOS 27 introduces features that enhance AirPods Max 2, making them more appealing for users of older models.</description>
+      <link>https://9to5mac.com/2026/06/23/airpods-max-2-are-getting-harder-to-resist-with-ios-27-upgrades/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/23/airpods-max-2-are-getting-harder-to-resist-with-ios-27-upgrades/</guid>
+      <pubDate>2026-06-23T15:16:00Z</pubDate>
+      <category>Software</category>
+      <source url="https://9to5mac.com/2026/06/23/airpods-max-2-are-getting-harder-to-resist-with-ios-27-upgrades/">9to5Mac</source>
     </item>
   </channel>
 </rss>

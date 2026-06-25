@@ -1,181 +1,245 @@
 {
-  "generated_at": "2026-06-24T22:15:56.118606+00:00",
+  "generated_at": "2026-06-25T03:26:33.659936+00:00",
   "articles": [
     {
-      "title": "Prime Day Smartphone Deals: Up to 44% Off",
-      "description": "Prime Day offers significant discounts on smartphones from Samsung, Google, and Motorola. Editor-approved deals are now live.",
+      "title": "Top Amazon Prime Day Portable Charger Deals",
+      "description": "Discover the best portable charger deals for Prime Day. Stay powered on the go with these top picks.",
       "category": "Business",
-      "source": "PCMag.com",
-      "url": "https://www.pcmag.com/news/best-amazon-prime-day-sale-smartphone-deals-2026",
-      "image": "https://i.pcmag.com/imagery/articles/06GzplHhjkAkCH5F1loX79A-1.fit_lim.size_1200x630.v1782234242.png",
-      "published_at": "2026-06-23T12:53:35Z",
+      "source": "CNN",
+      "url": "https://www.cnn.com/cnn-underscored/deals/amazon-prime-day-portable-charger-deals-2026-06-23",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/charger-deals-apd-cnnu.jpg?c=16x9&q=w_800,c_fill",
+      "published_at": "2026-06-24T00:46:00Z",
       "key_points": [
-        "Samsung and Google discounts",
-        "Motorola deals available",
-        "Editor-approved selections"
+        "Best portable chargers listed",
+        "Great Prime Day discounts",
+        "Stay charged on the go"
       ],
-      "impact": "Consumers can save significantly on smartphones.",
-      "id": "28909801d8959ebfdd378501310f18a8"
+      "impact": "These deals enhance convenience for users.",
+      "id": "2e09bc327d1a38b04aca4928ef4b831a"
     },
     {
-      "title": "Best Prime Day Deals: Pixel 10, Galaxy Gear",
-      "description": "Amazon Prime Day features extensive discounts across various tech products, including Pixel 10 and Galaxy gear. New all-time lows are being tracked.",
-      "category": "Business",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/06/23/best-prime-day-deals-pixel-galaxy/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Amazon-Prime-Day_green-2026.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-23T12:51:00Z",
-      "key_points": [
-        "Extensive tech discounts",
-        "Pixel 10 at $400 off",
-        "New all-time low prices"
-      ],
-      "impact": "Shoppers can find unbeatable tech deals.",
-      "id": "247ef63317a6e94dcdb6f0375907efda"
-    },
-    {
-      "title": "Google Faces Challenges in AI Era",
-      "description": "Google's strong market position is being tested as AI technologies evolve. The company must adapt to maintain its dominance.",
-      "category": "Business",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/23/googles-online-dominance-is-showing-signs-of-cracking-in-ai-era.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108148304-1747772852638-gettyimages-2215581169-AFP_47H43YX.jpeg?v=1769475976&w=1920&h=1080",
-      "published_at": "2026-06-23T12:00:01Z",
-      "key_points": [
-        "Google's market strength questioned",
-        "AI era complicates strategy",
-        "Adaptation is crucial for survival"
-      ],
-      "impact": "Google must innovate to retain market share.",
-      "id": "fc39670b0534c4f73f5fedd42244bb35"
-    },
-    {
-      "title": "Steam Machine Price Revealed: Analysts React",
-      "description": "Valve's Steam Machine console starts at $1,049, sparking mixed reactions from analysts regarding its market viability.",
-      "category": "Gaming",
-      "source": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/this-is-going-to-be-a-niche-device-analysts-react-to-the-1000-steam-machine-price-reveal",
-      "image": "https://assetsio.gnwcdn.com/Steam-Machine-(2).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-23T11:01:40Z",
-      "key_points": [
-        "Steam Machine starts at $1,049",
-        "Analysts predict niche market",
-        "Concerns over pricing strategy"
-      ],
-      "impact": "High price may limit consumer interest.",
-      "id": "86e617e00cc1eb4c07eaeda9cb87e3a7"
-    },
-    {
-      "title": "PS5 Slim Disc Edition for $499 on Prime Day",
-      "description": "Amazon offers a 'Like New' PS5 Slim Disc Edition for just $499.61 during Prime Day, likely to sell out quickly.",
-      "category": "Gaming",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/playstation-5-disc-edition-console-deal-amazon-prime-day-sale",
-      "image": "https://assets-prd.ignimgs.com/2026/06/23/ps5slimspiderman-1782206529355.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-23T10:31:48Z",
-      "key_points": [
-        "PS5 Slim at $499",
-        "Limited stock expected",
-        "Prime Day exclusive deal"
-      ],
-      "impact": "Deal may attract many gamers.",
-      "id": "717fd03b3e40b0c69a755fdaa6cd2bae"
-    },
-    {
-      "title": "T-Mobile 5G Test Reveals Simple Fix",
-      "description": "T-Mobile identifies a straightforward solution to enhance its 5G network performance during high-demand situations.",
-      "category": "Business",
-      "source": "TmoNews",
-      "url": "https://www.tmonews.com/2026/06/new-t-mobile-5g-test-shows-a-simple-fix-for-a-common-slowdown/",
-      "image": "https://www.tmonews.com/wp-content/uploads/2024/11/t-mobile-210x131.jpg",
-      "published_at": "2026-06-23T05:40:58Z",
-      "key_points": [
-        "T-Mobile improves 5G performance",
-        "Simple solution identified",
-        "Enhances user experience"
-      ],
-      "impact": "Network reliability may significantly improve.",
-      "id": "460ed25ad091516ee976b7c0faeff1bd"
-    },
-    {
-      "title": "Apple's iPhone Ultra to Feature Dual OLEDs",
-      "description": "Apple plans to use Samsung's advanced M16 OLED for the iPhone Ultra's outer screen, while retaining the older M14 for the inner display.",
-      "category": "Business",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/apple-will-equip-the-outer-panel-of-the-iphone-ultra-with-samsungs-cutting-edge-natively-10-bit-m16-oled-while-retaining-the-older-m14-oled-for-the-inner-screen/",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/Apple-iPhone-Ultra-iPhone-Fold-1-1920x1081.jpg",
-      "published_at": "2026-06-22T23:32:00Z",
-      "key_points": [
-        "iPhone Ultra features dual OLEDs",
-        "M16 for outer, M14 for inner",
-        "Innovative display strategy"
-      ],
-      "impact": "Apple aims for enhanced display quality.",
-      "id": "68853286ba6c7b1461016afc053d8c41"
-    },
-    {
-      "title": "Ubisoft Co-Founder Dies in Plane Crash",
-      "description": "Claude Guillemot, co-founder of Ubisoft, tragically died in a plane crash on June 19, according to reports.",
-      "category": "Gaming",
-      "source": "GameSpot",
-      "url": "https://www.gamespot.com/articles/ubisoft-co-founder-dies-in-plane-crash/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-8.36.33-AM.png",
-      "published_at": "2026-06-22T20:43:54Z",
-      "key_points": [
-        "Ubisoft co-founder passes away",
-        "Plane crash incident reported",
-        "Tributes pour in from industry"
-      ],
-      "impact": "The gaming community mourns a pioneer.",
-      "id": "f61ea5c1f7bff30c381d35b17ec7598e"
-    },
-    {
-      "title": "iOS 27 to Enhance RCS Messaging Features",
-      "description": "The upcoming iOS 27 update will introduce inline replies and photo reactions for RCS messaging between Android and iPhone users.",
+      "title": "Google Pixel Phones Improve Wireless Audio Quality",
+      "description": "Android 17 enhances wireless audio quality for Google Pixel phones. Users can now enjoy better sound with their wireless devices.",
       "category": "Software",
       "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/06/22/ios-27-android-replies/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/Galaxy-S26-Ultra-and-iPhone-17-Pro-Max-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-22T20:32:00Z",
+      "url": "http://9to5google.com/2026/06/23/google-pixel-wireless-audio-quality-lhdc-android-17-update/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Pixel-10-blue-in-hand-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-23T20:05:00Z",
       "key_points": [
-        "iOS 27 introduces inline replies",
-        "Photo reactions added",
-        "Improves Android-iPhone messaging"
+        "Improved audio quality",
+        "Supports wireless devices",
+        "Android 17 update"
       ],
-      "impact": "Messaging experience will be significantly enhanced.",
-      "id": "4f06c4cff93b81a5ccb7df785c1f35e7"
+      "impact": "Enhancements boost user audio experience.",
+      "id": "d43276d2429f92dd1e896617185a9a6a"
     },
     {
-      "title": "Sonic the Hedgehog 35th Birthday Live Stream",
-      "description": "SEGA will celebrate Sonic the Hedgehog's 35th birthday with a live stream event on June 23, available on YouTube and Twitch.",
+      "title": "Prime Day Deals on Switch 2, PS5, and Xbox Games",
+      "description": "Prime Day offers great discounts on games for Switch 2, PS5, and Xbox. Grab these deals while they last!",
+      "category": "Gaming",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/HadesUnseenUpdateWallpaper.png?quality=90&strip=all&crop=0%2C9.5315780155298%2C100%2C80.93684396894&w=1200",
+      "published_at": "2026-06-23T20:00:00Z",
+      "key_points": [
+        "Discounts on popular games",
+        "Switch 2 and PS5 deals",
+        "Limited-time offers"
+      ],
+      "impact": "Gamers can save significantly this Prime Day.",
+      "id": "4332ad5a0b4ad5e6e23cf002dec06b5c"
+    },
+    {
+      "title": "Sega Re-releases Original Sonic Genesis Games",
+      "description": "Sega is re-releasing Sonic and Sonic 2 on $100 cartridges. Pre-orders are now available for fans.",
+      "category": "Gaming",
+      "source": "Video Games Chronicle",
+      "url": "https://www.videogameschronicle.com/news/sega-is-re-releasing-the-original-sonic-genesis-games-on-100-cartridges/",
+      "image": "https://www.videogameschronicle.com/files/2026/06/Screenshot-2026-06-23-210800.jpg",
+      "published_at": "2026-06-23T19:54:07Z",
+      "key_points": [
+        "Sonic Genesis games re-released",
+        "$100 anniversary cartridges",
+        "Pre-orders available now"
+      ],
+      "impact": "Nostalgia drives interest in classic games.",
+      "id": "76f7c49859db6b1de2102278ff1a84f6"
+    },
+    {
+      "title": "iOS 27 Wallet App Introduces New Features",
+      "description": "iOS 27 enhances the Wallet app with seven new features. Apple aims to replace physical wallets with digital solutions.",
+      "category": "Software",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/guide/ios-27-wallet/",
+      "image": "https://images.macrumors.com/t/yJreHCFsFXHIt3kpjRhnlNFZPhQ=/2500x/article-new/2026/06/iOS-27-Adds-These-New-Features-to-Your-iPhones-Wallet-Feature.jpg",
+      "published_at": "2026-06-23T19:32:14Z",
+      "key_points": [
+        "Seven new Wallet features",
+        "Digital wallet enhancements",
+        "Apple's push for convenience"
+      ],
+      "impact": "iOS 27 strengthens digital wallet adoption.",
+      "id": "0ada37b9dcc40c11531461e44c5cc03f"
+    },
+    {
+      "title": "Prime Day Offers Great 4K TV Deals",
+      "description": "Prime Day features fantastic discounts on 4K TVs from major brands. Save big on high-quality models this sale.",
+      "category": "Business",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/952282/best-4k-tv-deals-amazon-prime-day-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Sony-XR-A95L.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-06-23T19:30:00Z",
+      "key_points": [
+        "Discounts on 4K TVs",
+        "Major brands included",
+        "Limited-time offers"
+      ],
+      "impact": "Consumers can upgrade their viewing experience.",
+      "id": "6596633c94890064762367382121e106"
+    },
+    {
+      "title": "New Characters for Sonic Racing: CrossWorlds",
+      "description": "SEGA announces new characters for Sonic Racing: CrossWorlds, including Classic Sonic and Axel. Updates available until September.",
       "category": "Gaming",
       "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/sonic-the-hedgehog-35th-birthday-live-stream-set-for-june-23",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Sonic-Birthday_06-22-26.jpg",
-      "published_at": "2026-06-22T19:18:55Z",
+      "url": "https://www.gematsu.com/2026/06/sonic-racing-crossworlds-free-character-updates-classic-sonic-axel-and-amigo-announced",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Sonic-Racing-CrossWorlds-Characters_06-23-26.jpg",
+      "published_at": "2026-06-23T18:32:37Z",
       "key_points": [
-        "Sonic's 35th birthday celebration",
-        "Live stream on June 23",
-        "Available on YouTube and Twitch"
+        "New playable characters announced",
+        "Classic Sonic joins the game",
+        "Updates until September"
       ],
-      "impact": "Fans can join the celebration online.",
-      "id": "3ee338ca42acff81635d476a3958f553"
+      "impact": "Fresh content keeps players engaged.",
+      "id": "c36eb87ab4a49924558daed2f8968d5e"
     },
     {
-      "title": "Unpatchable Flaw in Apple Chips Discovered",
-      "description": "A new vulnerability in Apple chips could allow hackers to jailbreak older iPhones, according to cybersecurity experts.",
-      "category": "Security",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
-      "published_at": "2026-06-22T18:50:24Z",
+      "title": "Steam Machine Pricing Was 30% Cheaper Pre-RAM Crisis",
+      "description": "Valve's Steam Machine faced pricing challenges due to the DRAM crisis. Pre-crisis prices were significantly lower.",
+      "category": "Business",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/350224/pre-rampocalypse-steam-machine-pricing-was-30-cheaper",
+      "image": "https://www.techpowerup.com/img/0uCj6WYG9S41FaEq.jpg",
+      "published_at": "2026-06-23T18:06:37Z",
       "key_points": [
-        "New flaw in Apple chips",
-        "Potential for iPhone jailbreak",
-        "Cybersecurity concerns raised"
+        "Steam Machine pricing issues",
+        "30% higher due to DRAM crisis",
+        "Market challenges for Valve"
       ],
-      "impact": "Security risks for older iPhones increase.",
-      "id": "b075fdd3e2064f179b4ebea0f2ffb556"
+      "impact": "Pricing issues affect consumer adoption.",
+      "id": "3d0fd0f3e4271ed603711bb2f774ac20"
+    },
+    {
+      "title": "Hands-On with RayNeo Air 4 Pro XR Glasses",
+      "description": "Experience the RayNeo Air 4 Pro XR glasses, compatible with Switch 2. Enjoy a big-screen experience anywhere.",
+      "category": "Gaming",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/06/hands-on-rayneo-air-4-pro-be-the-batman-with-these-switch-2-compatible-xr-glasses",
+      "image": "https://images.nintendolife.com/91e0ee7aa5f1a/large.jpg",
+      "published_at": "2026-06-23T18:00:00Z",
+      "key_points": [
+        "XR glasses for Switch 2",
+        "Lightweight and high-resolution",
+        "Portable big-screen experience"
+      ],
+      "impact": "Innovative tech enhances gaming experiences.",
+      "id": "a3a33def1207b085ae1a640910b1642d"
+    },
+    {
+      "title": "TFT Patch 17.6 Released",
+      "description": "Teamfight Tactics introduces patch 17.6 with updates for Pengu’s Party and balance changes. Players can expect new gameplay dynamics.",
+      "category": "Gaming",
+      "source": "Leagueoflegends.com",
+      "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-17-6/",
+      "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1730d25c748248cd83a0aa944726e8341ece7ddd-1920x1080.jpg?accountingTag=TFT?w=1200&h=630&fm=webp&fit=crop&crop=center",
+      "published_at": "2026-06-23T18:00:00Z",
+      "key_points": [
+        "New patch 17.6 released",
+        "Balance changes included",
+        "Updates for Pengu’s Party"
+      ],
+      "impact": "Patch enhances gameplay for players.",
+      "id": "e5c699b8cbbdd406c7f7083d6ef4979b"
+    },
+    {
+      "title": "46 Prime Day Fitness Deals to Grab",
+      "description": "Discover top fitness deals for Prime Day, curated by a wellness expert. Don't miss out on these savings for health gear.",
+      "category": "Business",
+      "source": "New York Post",
+      "url": "https://nypost.com/shopping/best-amazon-prime-day-fitness-wellness-deals-2026/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/prime_c1c080.jpg?quality=75&strip=all&w=1200",
+      "published_at": "2026-06-23T17:34:00Z",
+      "key_points": [
+        "Top fitness deals listed",
+        "Curated by wellness expert",
+        "Prime Day savings available"
+      ],
+      "impact": "Health enthusiasts can save significantly.",
+      "id": "cd68337255d0783819dcc02d2c0b56f6"
+    },
+    {
+      "title": "Oura Ring Sale for Amex Platinum Cardholders",
+      "description": "Get the Oura Ring for just $44 with the Amex Platinum card. This is the best deal seen since Black Friday.",
+      "category": "Business",
+      "source": "Upgradedpoints.com",
+      "url": "https://upgradedpoints.com/news/oura-ring-sale-amex-platinum-2026/",
+      "image": "https://upgradedpoints.com/wp-content/uploads/2026/01/Oura-Ring.jpg",
+      "published_at": "2026-06-23T16:43:14Z",
+      "key_points": [
+        "Oura Ring for $44",
+        "Exclusive Amex Platinum deal",
+        "Limited-time offer"
+      ],
+      "impact": "Exclusive discounts attract health-conscious buyers.",
+      "id": "a2f171cd9b936aa643abf9cb48f15c54"
+    },
+    {
+      "title": "Best Desktop PC Discounts for Prime Day",
+      "description": "Explore significant discounts on desktop PCs from major brands during Prime Day. Ideal for gamers and professionals alike.",
+      "category": "Business",
+      "source": "PCMag.com",
+      "url": "https://www.pcmag.com/news/best-amazon-prime-day-sale-desktop-pc-deals-2026",
+      "image": "https://i.pcmag.com/imagery/articles/07cZqbWDZAnoZmzqy9EOj9s-1.fit_lim.size_1200x630.v1782164796.png",
+      "published_at": "2026-06-23T16:43:12Z",
+      "key_points": [
+        "Discounts on desktop PCs",
+        "Major brands featured",
+        "Ideal for gamers and professionals"
+      ],
+      "impact": "Great savings on essential tech.",
+      "id": "68a079558aa3d04b678946cb284d4ddd"
+    },
+    {
+      "title": "MSI Claw 8 EX AI+ Review Released",
+      "description": "The MSI Claw 8 EX AI+ review embargo lifts, showcasing Intel's Arc G3 Extreme performance. A new contender in handheld gaming.",
+      "category": "Hardware",
+      "source": "VideoCardz.com",
+      "url": "https://videocardz.com/newz/msi-claw-8-ex-ai-review-are-here-intel-arc-g3-extreme-takes-the-lead-in-performance-and-pricing",
+      "image": "https://cdn.videocardz.com/1/2026/06/MSI-CLAW-8-EX-ARC-G3-HERO2.jpg",
+      "published_at": "2026-06-23T16:17:57Z",
+      "key_points": [
+        "MSI Claw 8 EX AI+ reviewed",
+        "Intel Arc G3 Extreme performance",
+        "New handheld gaming contender"
+      ],
+      "impact": "New hardware raises gaming performance standards.",
+      "id": "7cddb066ccca127b6dfc46e3aff55976"
+    },
+    {
+      "title": "iOS 27 Upgrades Make AirPods Max 2 Tempting",
+      "description": "iOS 27 introduces features that enhance AirPods Max 2, making them more appealing for users of older models.",
+      "category": "Software",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/23/airpods-max-2-are-getting-harder-to-resist-with-ios-27-upgrades/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/airpods-max-2-midnight-ios-27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-23T15:16:00Z",
+      "key_points": [
+        "iOS 27 enhances AirPods Max 2",
+        "New features attract users",
+        "Upgrade appeal for older models"
+      ],
+      "impact": "New features boost AirPods Max 2 sales.",
+      "id": "4053a7d689c60c171388cdc9f6362655"
     }
   ]
 }

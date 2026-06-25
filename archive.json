@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-25T03:26:33.659936+00:00",
+      "fetched_at": "2026-06-25T03:26:33.659936+00:00",
+      "label": "Jun 25, 2026 — 03:27 AM UTC",
+      "articles": [
+        {
+          "title": "Top Amazon Prime Day Portable Charger Deals",
+          "description": "Discover the best portable charger deals for Prime Day. Stay powered on the go with these top picks.",
+          "category": "Business",
+          "source": "CNN",
+          "url": "https://www.cnn.com/cnn-underscored/deals/amazon-prime-day-portable-charger-deals-2026-06-23",
+          "image": "https://media.cnn.com/api/v1/images/stellar/prod/charger-deals-apd-cnnu.jpg?c=16x9&q=w_800,c_fill",
+          "published_at": "2026-06-24T00:46:00Z",
+          "key_points": [
+            "Best portable chargers listed",
+            "Great Prime Day discounts",
+            "Stay charged on the go"
+          ],
+          "impact": "These deals enhance convenience for users.",
+          "id": "2e09bc327d1a38b04aca4928ef4b831a"
+        },
+        {
+          "title": "Google Pixel Phones Improve Wireless Audio Quality",
+          "description": "Android 17 enhances wireless audio quality for Google Pixel phones. Users can now enjoy better sound with their wireless devices.",
+          "category": "Software",
+          "source": "9to5google.com",
+          "url": "http://9to5google.com/2026/06/23/google-pixel-wireless-audio-quality-lhdc-android-17-update/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Pixel-10-blue-in-hand-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-23T20:05:00Z",
+          "key_points": [
+            "Improved audio quality",
+            "Supports wireless devices",
+            "Android 17 update"
+          ],
+          "impact": "Enhancements boost user audio experience.",
+          "id": "d43276d2429f92dd1e896617185a9a6a"
+        },
+        {
+          "title": "Prime Day Deals on Switch 2, PS5, and Xbox Games",
+          "description": "Prime Day offers great discounts on games for Switch 2, PS5, and Xbox. Grab these deals while they last!",
+          "category": "Gaming",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/HadesUnseenUpdateWallpaper.png?quality=90&strip=all&crop=0%2C9.5315780155298%2C100%2C80.93684396894&w=1200",
+          "published_at": "2026-06-23T20:00:00Z",
+          "key_points": [
+            "Discounts on popular games",
+            "Switch 2 and PS5 deals",
+            "Limited-time offers"
+          ],
+          "impact": "Gamers can save significantly this Prime Day.",
+          "id": "4332ad5a0b4ad5e6e23cf002dec06b5c"
+        },
+        {
+          "title": "Sega Re-releases Original Sonic Genesis Games",
+          "description": "Sega is re-releasing Sonic and Sonic 2 on $100 cartridges. Pre-orders are now available for fans.",
+          "category": "Gaming",
+          "source": "Video Games Chronicle",
+          "url": "https://www.videogameschronicle.com/news/sega-is-re-releasing-the-original-sonic-genesis-games-on-100-cartridges/",
+          "image": "https://www.videogameschronicle.com/files/2026/06/Screenshot-2026-06-23-210800.jpg",
+          "published_at": "2026-06-23T19:54:07Z",
+          "key_points": [
+            "Sonic Genesis games re-released",
+            "$100 anniversary cartridges",
+            "Pre-orders available now"
+          ],
+          "impact": "Nostalgia drives interest in classic games.",
+          "id": "76f7c49859db6b1de2102278ff1a84f6"
+        },
+        {
+          "title": "iOS 27 Wallet App Introduces New Features",
+          "description": "iOS 27 enhances the Wallet app with seven new features. Apple aims to replace physical wallets with digital solutions.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/guide/ios-27-wallet/",
+          "image": "https://images.macrumors.com/t/yJreHCFsFXHIt3kpjRhnlNFZPhQ=/2500x/article-new/2026/06/iOS-27-Adds-These-New-Features-to-Your-iPhones-Wallet-Feature.jpg",
+          "published_at": "2026-06-23T19:32:14Z",
+          "key_points": [
+            "Seven new Wallet features",
+            "Digital wallet enhancements",
+            "Apple's push for convenience"
+          ],
+          "impact": "iOS 27 strengthens digital wallet adoption.",
+          "id": "0ada37b9dcc40c11531461e44c5cc03f"
+        },
+        {
+          "title": "Prime Day Offers Great 4K TV Deals",
+          "description": "Prime Day features fantastic discounts on 4K TVs from major brands. Save big on high-quality models this sale.",
+          "category": "Business",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/952282/best-4k-tv-deals-amazon-prime-day-sale",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Sony-XR-A95L.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-23T19:30:00Z",
+          "key_points": [
+            "Discounts on 4K TVs",
+            "Major brands included",
+            "Limited-time offers"
+          ],
+          "impact": "Consumers can upgrade their viewing experience.",
+          "id": "6596633c94890064762367382121e106"
+        },
+        {
+          "title": "New Characters for Sonic Racing: CrossWorlds",
+          "description": "SEGA announces new characters for Sonic Racing: CrossWorlds, including Classic Sonic and Axel. Updates available until September.",
+          "category": "Gaming",
+          "source": "Gematsu",
+          "url": "https://www.gematsu.com/2026/06/sonic-racing-crossworlds-free-character-updates-classic-sonic-axel-and-amigo-announced",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Sonic-Racing-CrossWorlds-Characters_06-23-26.jpg",
+          "published_at": "2026-06-23T18:32:37Z",
+          "key_points": [
+            "New playable characters announced",
+            "Classic Sonic joins the game",
+            "Updates until September"
+          ],
+          "impact": "Fresh content keeps players engaged.",
+          "id": "c36eb87ab4a49924558daed2f8968d5e"
+        },
+        {
+          "title": "Steam Machine Pricing Was 30% Cheaper Pre-RAM Crisis",
+          "description": "Valve's Steam Machine faced pricing challenges due to the DRAM crisis. Pre-crisis prices were significantly lower.",
+          "category": "Business",
+          "source": "Techpowerup.com",
+          "url": "https://www.techpowerup.com/350224/pre-rampocalypse-steam-machine-pricing-was-30-cheaper",
+          "image": "https://www.techpowerup.com/img/0uCj6WYG9S41FaEq.jpg",
+          "published_at": "2026-06-23T18:06:37Z",
+          "key_points": [
+            "Steam Machine pricing issues",
+            "30% higher due to DRAM crisis",
+            "Market challenges for Valve"
+          ],
+          "impact": "Pricing issues affect consumer adoption.",
+          "id": "3d0fd0f3e4271ed603711bb2f774ac20"
+        },
+        {
+          "title": "Hands-On with RayNeo Air 4 Pro XR Glasses",
+          "description": "Experience the RayNeo Air 4 Pro XR glasses, compatible with Switch 2. Enjoy a big-screen experience anywhere.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/hands-on-rayneo-air-4-pro-be-the-batman-with-these-switch-2-compatible-xr-glasses",
+          "image": "https://images.nintendolife.com/91e0ee7aa5f1a/large.jpg",
+          "published_at": "2026-06-23T18:00:00Z",
+          "key_points": [
+            "XR glasses for Switch 2",
+            "Lightweight and high-resolution",
+            "Portable big-screen experience"
+          ],
+          "impact": "Innovative tech enhances gaming experiences.",
+          "id": "a3a33def1207b085ae1a640910b1642d"
+        },
+        {
+          "title": "TFT Patch 17.6 Released",
+          "description": "Teamfight Tactics introduces patch 17.6 with updates for Pengu’s Party and balance changes. Players can expect new gameplay dynamics.",
+          "category": "Gaming",
+          "source": "Leagueoflegends.com",
+          "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-17-6/",
+          "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1730d25c748248cd83a0aa944726e8341ece7ddd-1920x1080.jpg?accountingTag=TFT?w=1200&h=630&fm=webp&fit=crop&crop=center",
+          "published_at": "2026-06-23T18:00:00Z",
+          "key_points": [
+            "New patch 17.6 released",
+            "Balance changes included",
+            "Updates for Pengu’s Party"
+          ],
+          "impact": "Patch enhances gameplay for players.",
+          "id": "e5c699b8cbbdd406c7f7083d6ef4979b"
+        },
+        {
+          "title": "46 Prime Day Fitness Deals to Grab",
+          "description": "Discover top fitness deals for Prime Day, curated by a wellness expert. Don't miss out on these savings for health gear.",
+          "category": "Business",
+          "source": "New York Post",
+          "url": "https://nypost.com/shopping/best-amazon-prime-day-fitness-wellness-deals-2026/",
+          "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/prime_c1c080.jpg?quality=75&strip=all&w=1200",
+          "published_at": "2026-06-23T17:34:00Z",
+          "key_points": [
+            "Top fitness deals listed",
+            "Curated by wellness expert",
+            "Prime Day savings available"
+          ],
+          "impact": "Health enthusiasts can save significantly.",
+          "id": "cd68337255d0783819dcc02d2c0b56f6"
+        },
+        {
+          "title": "Oura Ring Sale for Amex Platinum Cardholders",
+          "description": "Get the Oura Ring for just $44 with the Amex Platinum card. This is the best deal seen since Black Friday.",
+          "category": "Business",
+          "source": "Upgradedpoints.com",
+          "url": "https://upgradedpoints.com/news/oura-ring-sale-amex-platinum-2026/",
+          "image": "https://upgradedpoints.com/wp-content/uploads/2026/01/Oura-Ring.jpg",
+          "published_at": "2026-06-23T16:43:14Z",
+          "key_points": [
+            "Oura Ring for $44",
+            "Exclusive Amex Platinum deal",
+            "Limited-time offer"
+          ],
+          "impact": "Exclusive discounts attract health-conscious buyers.",
+          "id": "a2f171cd9b936aa643abf9cb48f15c54"
+        },
+        {
+          "title": "Best Desktop PC Discounts for Prime Day",
+          "description": "Explore significant discounts on desktop PCs from major brands during Prime Day. Ideal for gamers and professionals alike.",
+          "category": "Business",
+          "source": "PCMag.com",
+          "url": "https://www.pcmag.com/news/best-amazon-prime-day-sale-desktop-pc-deals-2026",
+          "image": "https://i.pcmag.com/imagery/articles/07cZqbWDZAnoZmzqy9EOj9s-1.fit_lim.size_1200x630.v1782164796.png",
+          "published_at": "2026-06-23T16:43:12Z",
+          "key_points": [
+            "Discounts on desktop PCs",
+            "Major brands featured",
+            "Ideal for gamers and professionals"
+          ],
+          "impact": "Great savings on essential tech.",
+          "id": "68a079558aa3d04b678946cb284d4ddd"
+        },
+        {
+          "title": "MSI Claw 8 EX AI+ Review Released",
+          "description": "The MSI Claw 8 EX AI+ review embargo lifts, showcasing Intel's Arc G3 Extreme performance. A new contender in handheld gaming.",
+          "category": "Hardware",
+          "source": "VideoCardz.com",
+          "url": "https://videocardz.com/newz/msi-claw-8-ex-ai-review-are-here-intel-arc-g3-extreme-takes-the-lead-in-performance-and-pricing",
+          "image": "https://cdn.videocardz.com/1/2026/06/MSI-CLAW-8-EX-ARC-G3-HERO2.jpg",
+          "published_at": "2026-06-23T16:17:57Z",
+          "key_points": [
+            "MSI Claw 8 EX AI+ reviewed",
+            "Intel Arc G3 Extreme performance",
+            "New handheld gaming contender"
+          ],
+          "impact": "New hardware raises gaming performance standards.",
+          "id": "7cddb066ccca127b6dfc46e3aff55976"
+        },
+        {
+          "title": "iOS 27 Upgrades Make AirPods Max 2 Tempting",
+          "description": "iOS 27 introduces features that enhance AirPods Max 2, making them more appealing for users of older models.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/23/airpods-max-2-are-getting-harder-to-resist-with-ios-27-upgrades/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/airpods-max-2-midnight-ios-27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-23T15:16:00Z",
+          "key_points": [
+            "iOS 27 enhances AirPods Max 2",
+            "New features attract users",
+            "Upgrade appeal for older models"
+          ],
+          "impact": "New features boost AirPods Max 2 sales.",
+          "id": "4053a7d689c60c171388cdc9f6362655"
+        }
+      ]
+    },
+    {
       "id": "2026-06-24T22:15:56.118606+00:00",
       "fetched_at": "2026-06-24T22:15:56.118606+00:00",
       "label": "Jun 24, 2026 — 10:16 PM UTC",
@@ -6264,253 +6511,6 @@
           ],
           "impact": "Users will enjoy an overall improved experience.",
           "id": "0ce869fa5a4aa589085b5298c79391dd"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-20T03:33:28.935769+00:00",
-      "fetched_at": "2026-06-20T03:33:28.935769+00:00",
-      "label": "Jun 20, 2026 — 03:33 AM UTC",
-      "articles": [
-        {
-          "title": "GTPLAYER Gaming Chair Now Under $160 for Prime Day",
-          "description": "The GTPLAYER Big and Tall Gaming Chair is now available for less than $160 ahead of Amazon Prime Day. Grab this deal while it lasts!",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/gtplayer-big-and-tall-gaming-chair-deal-amazon-fathers-day-sale",
-          "image": "",
-          "published_at": "2026-06-18T23:43:20Z",
-          "key_points": [
-            "Great deal for gamers",
-            "Perfect for tall users",
-            "Limited time offer"
-          ],
-          "impact": "This chair offers comfort at a great price.",
-          "id": "93fafd088287ac143efd0f65b902c205"
-        },
-        {
-          "title": "Sony Shifts Focus from PC to AI in PlayStation Strategy",
-          "description": "Sony's latest annual report reveals a strategic pivot from PC to AI for its PlayStation division. The headcount has increased for the first time since 2023.",
-          "category": "Gaming",
-          "source": "Gamefile.news",
-          "url": "https://www.gamefile.news/p/sony-annual-report-fine-print",
-          "image": "https://substackcdn.com/image/fetch/$s_!iitl!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F88639b3f-980e-40de-b848-8fa3b4e2be88_1956x1252.png",
-          "published_at": "2026-06-18T23:43:17Z",
-          "key_points": [
-            "Focus shifts to AI",
-            "Increased workforce",
-            "Annual report insights"
-          ],
-          "impact": "Sony's strategy reflects changing gaming trends.",
-          "id": "7f5812a38f04742fc7abb46634a98a4b"
-        },
-        {
-          "title": "Glover and Street Racer Collection Get Free PS1 Updates",
-          "description": "QUByte announces free updates for Glover and Street Racer Collection on Nintendo Switch, adding their PS1 versions in 2027. Nostalgia meets modern gaming!",
-          "category": "Gaming",
-          "source": "Nintendoeverything.com",
-          "url": "https://nintendoeverything.com/glover-street-racer-collection-getting-free-nintendo-switch-updates-to-add-ps1-version/",
-          "image": "https://nintendoeverything.com/wp-content/uploads/Glover-free-PS1-update.jpg",
-          "published_at": "2026-06-18T20:46:31Z",
-          "key_points": [
-            "Free updates announced",
-            "PS1 versions added",
-            "Coming in 2027"
-          ],
-          "impact": "Players can enjoy classic games on Switch.",
-          "id": "63e0892dcce3f7dfc4b1d045a9ed9b01"
-        },
-        {
-          "title": "Game Boy Camera Now Usable with Your Phone",
-          "description": "A new app allows users to connect the Game Boy Camera to smartphones, enabling easy sharing of pixelated images. Nostalgic fun meets modern convenience!",
-          "category": "Gaming",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/952173/epilogue-gb-operator-game-boy-camera-ios-android-app-iphone",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gbcamera1.jpg?quality=90&strip=all&crop=0%2C10.722122048185%2C100%2C78.55575590363&w=1200",
-          "published_at": "2026-06-18T20:22:46Z",
-          "key_points": [
-            "Connect Game Boy Camera",
-            "Share pixelated images",
-            "New mobile app available"
-          ],
-          "impact": "This app revives retro gaming for smartphones.",
-          "id": "4320faf8a7b1682541c2ea38973f5c85"
-        },
-        {
-          "title": "MSI Claw Gaming Handheld Priced at $1,800",
-          "description": "The MSI Claw 8 EX AI Plus gaming handheld launches at $1,800, raising concerns about affordability in gaming. Gamers brace for tough choices ahead.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/company-reveals-new-pc-gaming-handheld-is-1800-and-says-it-will-be-a-tough-year-for-gamers-2000708162",
-          "image": "https://kotaku.com/app/uploads/2026/06/msi-claw.jpg",
-          "published_at": "2026-06-18T20:22:29Z",
-          "key_points": [
-            "High price tag",
-            "Concerns over affordability",
-            "Gaming exec comments"
-          ],
-          "impact": "This price may deter many potential buyers.",
-          "id": "13f4758109b0986d272d4a132489085a"
-        },
-        {
-          "title": "Ubisoft+ Premium Free Trial for Xbox & PC",
-          "description": "Ubisoft is offering a five-day free trial of Ubisoft+ Premium for Xbox and PC users. Don't forget to cancel if you don't want to continue!",
-          "category": "Gaming",
-          "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/news/2026/06/ubisoftplus-premium-is-free-across-xbox-and-pc-for-the-next-five-days",
-          "image": "https://images.purexbox.com/187b90384a3be/large.jpg",
-          "published_at": "2026-06-18T20:06:35Z",
-          "key_points": [
-            "Free trial available",
-            "Xbox and PC users",
-            "Remember to cancel"
-          ],
-          "impact": "This trial could boost Ubisoft's user base.",
-          "id": "a8789226526ee79cdc5633f387a31145"
-        },
-        {
-          "title": "Apple's 2027 Product Launches Set to Impress",
-          "description": "Apple is gearing up for a historic 2027 with over 15 new products expected to launch. Anticipation builds for what's next!",
-          "category": "Business",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/18/next-year-to-be-apples-biggest-product-year-ever-heres-whats-coming/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/04/Tim-Cook-opens-Apple-BKC.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-18T18:33:00Z",
-          "key_points": [
-            "15+ new products",
-            "Historic launches ahead",
-            "Anticipation builds"
-          ],
-          "impact": "Apple's innovation continues to excite consumers.",
-          "id": "f5589c88bec6ed1261ab60f269279855"
-        },
-        {
-          "title": "Android Developer Verification Launching in September",
-          "description": "Google announces the upcoming launch of Android developer verification, set for September. The new service will auto-install for developers.",
-          "category": "Software",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/06/18/android-developer-verification-progress-timeline/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/android-the-bot-figure-1_d4cf83.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-18T17:35:00Z",
-          "key_points": [
-            "Verification launching in September",
-            "Auto-install feature",
-            "Developer registration progress"
-          ],
-          "impact": "This will enhance security for Android developers.",
-          "id": "0f862cbaf48141b35d9d0e7c62525236"
-        },
-        {
-          "title": "Marathon Faces Loot Economy Issues",
-          "description": "Bungie's Marathon is struggling with an overabundance of loot, prompting a need for economic recalibration. Players voice concerns about balance.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/marathon-players-earned-77-days-worth-of-loot-in-just-one-week-i-think-this-season-is-cooked-2000708129",
-          "image": "https://kotaku.com/app/uploads/2026/06/Vandal_Vignette_02_1920x1080-1200x675.jpg",
-          "published_at": "2026-06-18T17:01:00Z",
-          "key_points": [
-            "Loot economy issues",
-            "Bungie seeks balance",
-            "Player concerns raised"
-          ],
-          "impact": "This could affect player engagement negatively.",
-          "id": "085d68372688842ac99f432dc2092193"
-        },
-        {
-          "title": "Android 17 Update Causes Widget Issues for Pixel Users",
-          "description": "The Android 17 update has reportedly deleted homescreen widgets for some Google Pixel users, causing frustration among users.",
-          "category": "Software",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/06/18/google-pixel-android-17-update-widgets/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/gemini-widget.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-18T16:40:00Z",
-          "key_points": [
-            "Widgets deleted for some users",
-            "Frustration among Pixel owners",
-            "Android 17 update issues"
-          ],
-          "impact": "This could lead to user dissatisfaction.",
-          "id": "072327aa4139ef544d8d23d6f67624ee"
-        },
-        {
-          "title": "Steam Next Fest June 2026: Top Demos to Try",
-          "description": "Steam Next Fest showcases standout demos for gamers to explore. Discover the best new games available for download now!",
-          "category": "Gaming",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/steam-next-fest-june-2026-25-of-the-best-demos-you-can-play-right-now/",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Next-Fest-main.jpg",
-          "published_at": "2026-06-18T16:29:32Z",
-          "key_points": [
-            "Top demos available",
-            "Explore new games",
-            "Steam Next Fest highlights"
-          ],
-          "impact": "Gamers have exciting new titles to try.",
-          "id": "c2ea4c9f48854510478e3fc43ce3bf54"
-        },
-        {
-          "title": "Pixel Owners Share Impressions of Android 17",
-          "description": "Pixel users are sharing their experiences with the newly released Android 17 update. Feedback highlights both positive and negative aspects.",
-          "category": "Software",
-          "source": "Droid Life",
-          "url": "https://www.droid-life.com/2026/06/18/android-17-first-impressions/",
-          "image": "https://www.droid-life.com/wp-content/uploads/2026/06/Android-17-update-release-date-1-1200x628.jpg",
-          "published_at": "2026-06-18T16:13:04Z",
-          "key_points": [
-            "User feedback on Android 17",
-            "Positive and negative impressions",
-            "Pixel community engagement"
-          ],
-          "impact": "User experiences shape future updates.",
-          "id": "678c34f49190d66775cba8ebed7197ec"
-        },
-        {
-          "title": "Leaked iPhone Ultra Renders Hint at Foldable Design",
-          "description": "Rumored iPhone Ultra may feature a foldable design and launch in September, with a price tag over $2000. Apple eyes competition with Samsung.",
-          "category": "Geopolitics",
-          "source": "Android Authority",
-          "url": "https://www.androidauthority.com/apple-iphone-ultra-foldable-3678973/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/iPhone-Ultra-in-two-colors.jpg",
-          "published_at": "2026-06-18T15:48:05Z",
-          "key_points": [
-            "Foldable design rumored",
-            "Launch expected in September",
-            "Price over $2000"
-          ],
-          "impact": "Apple's innovation could reshape the market.",
-          "id": "51989fee4aa434d7565af4daab58ae5e"
-        },
-        {
-          "title": "New GTA 6 Gameplay Footage Showcases Vice City",
-          "description": "Rockstar Games reveals new gameplay footage of GTA 6, highlighting stunning details of Vice City. Fans eagerly await more information.",
-          "category": "Gaming",
-          "source": "RockstarINTEL",
-          "url": "https://rockstarintel.com/new-gta-6-gameplay-footage-reveals-stunning-vice-city-details/",
-          "image": "https://rockstarintel.com/wp-content/uploads/2025/05/Jason_and_Lucia_02_landscape-scaled.jpg",
-          "published_at": "2026-06-18T15:13:41Z",
-          "key_points": [
-            "New gameplay footage released",
-            "Vice City details revealed",
-            "Fans excited for GTA 6"
-          ],
-          "impact": "Anticipation for GTA 6 continues to grow.",
-          "id": "fafa2b32fad834dae6af42f76eb1dafc"
-        },
-        {
-          "title": "Bang & Olufsen Launches Exclusive Turntable System",
-          "description": "Bang & Olufsen unveils a limited edition turntable system, with only 100 units produced. A stylish addition for audiophiles!",
-          "category": "Business",
-          "source": "What Hi-Fi? US",
-          "url": "https://www.whathifi.com/hi-fi/turntables/bang-and-olufsens-limited-edition-turntable-system-is-sleek-stylish-and-very-exclusive",
-          "image": "https://cdn.mos.cms.futurecdn.net/vmxtnKkPRNKXCVQ2kvoib4-2560-80.jpg",
-          "published_at": "2026-06-18T15:09:22Z",
-          "key_points": [
-            "Limited edition turntable",
-            "Only 100 units available",
-            "Stylish design for audiophiles"
-          ],
-          "impact": "This exclusive product targets high-end consumers.",
-          "id": "707be23cb86226c380a91d87301d3572"
         }
       ]
     }
