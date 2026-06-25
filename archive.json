@@ -1,6 +1,253 @@
 {
   "batches": [
     {
+      "id": "2026-06-25T09:19:18.589857+00:00",
+      "fetched_at": "2026-06-25T09:19:18.589857+00:00",
+      "label": "Jun 25, 2026 — 09:19 AM UTC",
+      "articles": [
+        {
+          "title": "Top Prime Day Tech Deals You Can't Miss",
+          "description": "Discover the best tech deals for Prime Day, curated by Mashable's tech editor. Save big on essential gadgets and electronics.",
+          "category": "Business",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/best-amazon-prime-day-tech-deals-2026",
+          "image": "https://helios-i.mashable.com/imagery/articles/06o8s63CExAnBL3PsMcd2PG/hero-image.fill.size_1200x675.v1782285645.jpg",
+          "published_at": "2026-06-24T07:21:24Z",
+          "key_points": [
+            "Best deals on tech gadgets",
+            "Curated by tech editor",
+            "Huge savings available"
+          ],
+          "impact": "Prime Day offers significant savings on tech.",
+          "id": "819cd8ee2a96453950b334d66a7d00d9"
+        },
+        {
+          "title": "Google Home Speaker Unboxing Reveals Design Flaw",
+          "description": "An early unboxing of the Google Home Speaker highlights a concerning design choice. Users praise sound quality but criticize the hardware.",
+          "category": "Hardware",
+          "source": "Android Authority",
+          "url": "https://www.androidauthority.com/google-home-speaker-early-unboxing-3680712/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/google_home_speaker_jade.jpg",
+          "published_at": "2026-06-24T04:41:28Z",
+          "key_points": [
+            "Design flaw confirmed",
+            "Sound quality praised",
+            "Simple setup process"
+          ],
+          "impact": "Google faces backlash over design decisions.",
+          "id": "fa8d6dbcbec45a9ddd95725a9e9b9758"
+        },
+        {
+          "title": "Star Fox Nintendo Switch 2 Reviews Are In",
+          "description": "Reviews for Star Fox on Nintendo Switch 2 are now available, showcasing gameplay and features. Fans are eager for this release.",
+          "category": "Gaming",
+          "source": "Nintendoeverything.com",
+          "url": "https://nintendoeverything.com/star-fox-nintendo-switch-2-reviews-roundup/",
+          "image": "",
+          "published_at": "2026-06-24T03:55:57Z",
+          "key_points": [
+            "Positive gameplay reviews",
+            "Exciting new features",
+            "Fans eagerly await release"
+          ],
+          "impact": "Star Fox reviews boost anticipation for launch.",
+          "id": "6cf453051a3604c860ffd7cb312aeb04"
+        },
+        {
+          "title": "Sega Launches Two Sonic Game Collections for Switch",
+          "description": "Sega celebrates Sonic's 35th anniversary with two new game collections for the Switch, featuring classic and modern titles.",
+          "category": "Gaming",
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/06/sega-announces-two-sonic-game-collections-for-switch",
+          "image": "https://images.nintendolife.com/46cd6b21d14ea/large.jpg",
+          "published_at": "2026-06-23T23:30:00Z",
+          "key_points": [
+            "Two collections announced",
+            "Includes classic titles",
+            "Celebrates Sonic's anniversary"
+          ],
+          "impact": "Sega revives nostalgia with new collections.",
+          "id": "2e49865f19e83f60c899429de5aea89c"
+        },
+        {
+          "title": "Gemini Intelligence Appears in Android 17 Beta",
+          "description": "The latest Android 17 QPR1 Beta introduces Gemini Intelligence branding, alongside bug fixes for Pixel devices.",
+          "category": "Software",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/23/gemini-intelligence-android-17-qpr1-beta-pixel/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-intelligence-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-23T22:23:00Z",
+          "key_points": [
+            "New beta released",
+            "Includes Gemini Intelligence",
+            "Focus on bug fixes"
+          ],
+          "impact": "Google enhances Pixel experience with updates.",
+          "id": "39fba0b493f264a8fd110bbfd66e1747"
+        },
+        {
+          "title": "Best Buy Tech Fest Offers Major Discounts",
+          "description": "Best Buy's Tech Fest event features significant discounts on electronics, including headphones and video games. Don't miss out!",
+          "category": "Business",
+          "source": "PCMag",
+          "url": "https://www.pcmag.com/news/best-buy-tech-fest-2026-electronics-sales-discounts-june-23",
+          "image": "https://i.pcmag.com/imagery/articles/02xwDJcJMxWLfQMFKhNBIVQ-8.fit_lim.size_1200x630.v1782248592.png",
+          "published_at": "2026-06-23T21:09:47Z",
+          "key_points": [
+            "Major discounts available",
+            "Wide range of electronics",
+            "Limited time offers"
+          ],
+          "impact": "Best Buy's event attracts bargain hunters.",
+          "id": "9bbecda23184e91155705df5118de083"
+        },
+        {
+          "title": "DeepMind's Hassabis Claims Google Leads AI Talent",
+          "description": "Despite recent leadership changes, DeepMind's CEO asserts Google continues to attract top AI talent, maintaining its competitive edge.",
+          "category": "Business",
+          "source": "Semafor",
+          "url": "https://www.semafor.com/article/06/23/2026/deepmind-chief-demis-hassabis-says-googles-still-winning-ai-talent",
+          "image": "https://img.semafor.com/7ee33d8919a4fbe1d81844309b45865a396255e2-5900x3933.jpg?rect=0,418,5900,3098&w=1200&h=630&q=75&auto=format",
+          "published_at": "2026-06-23T19:56:00Z",
+          "key_points": [
+            "Google retains AI talent",
+            "Leadership changes noted",
+            "Competitive edge maintained"
+          ],
+          "impact": "Google remains a leader in AI innovation.",
+          "id": "1e3acea689f9325c0fc8d75808041cb9"
+        },
+        {
+          "title": "Douze Dixièmes Shuts Down After Independence",
+          "description": "MIO: Memories in Orbit developer Douze Dixièmes is closing its doors shortly after regaining independence, marking a sad end for the studio.",
+          "category": "Gaming",
+          "source": "Insider Gaming",
+          "url": "https://insider-gaming.com/mio-memories-in-orbit-developer-douze-dixiemes-shutting-down/",
+          "image": "https://insider-gaming.com/wp-content/uploads/2026/01/MIO_Screenshot1-1024x576.png",
+          "published_at": "2026-06-23T17:45:26Z",
+          "key_points": [
+            "Studio shutting down",
+            "Regained independence recently",
+            "Sad news for fans"
+          ],
+          "impact": "Douze Dixièmes' closure impacts the gaming community.",
+          "id": "9025249427f79a8173cabd8c275e93ce"
+        },
+        {
+          "title": "Kylie Jenner Launches AI-Powered Meta Glasses",
+          "description": "Kylie Jenner's new Meta AI sunglasses can take photos and sing. Priced at $399, they aim to blend fashion with technology.",
+          "category": "Business",
+          "source": "The Cut",
+          "url": "http://www.thecut.com/article/kylie-jenner-ai-meta-glasses.html",
+          "image": "https://pyxis.nymag.com/v1/imgs/a9f/335/00790b9aeaf9358333489396b901d0d9ba-GettyImages-1969906488.1x.rsocial.w1200.jpg",
+          "published_at": "2026-06-23T17:44:30Z",
+          "key_points": [
+            "AI-powered sunglasses launched",
+            "Features photo-taking capability",
+            "Sings 'Rise and shine'"
+          ],
+          "impact": "Kylie Jenner merges fashion with tech innovation.",
+          "id": "c3e6b2f6395f79520bca5e63d41da022"
+        },
+        {
+          "title": "Chrome Autofill Enhances Google Wallet Integration",
+          "description": "Google is enhancing Chrome Autofill with deeper Google Wallet integration, streamlining online form filling for users.",
+          "category": "Software",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/23/chrome-autofill-google-wallet-2/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2020/02/Chrome-for-Android-logo-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-23T17:00:00Z",
+          "key_points": [
+            "Deeper Wallet integration",
+            "Streamlined form filling",
+            "Improved user experience"
+          ],
+          "impact": "Google simplifies online transactions for users.",
+          "id": "31f611f299a185bc3bf7b29bf53a41f4"
+        },
+        {
+          "title": "Galaxy Watch 9 Leaks Reveal New Features",
+          "description": "Recent leaks of the Galaxy Watch 9 showcase updated design and features, generating excitement ahead of its release.",
+          "category": "Hardware",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/23/samsung-galaxy-watch-9-leaks-renders-software/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/galaxy-watch-9-ah-onl-11.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-23T15:45:00Z",
+          "key_points": [
+            "New features leaked",
+            "Updated design revealed",
+            "Excitement builds for release"
+          ],
+          "impact": "Galaxy Watch 9 leaks heighten consumer anticipation.",
+          "id": "39466e32dbd7336e045cbb88dabcc8be"
+        },
+        {
+          "title": "Microsoft Launches Affordable Surface Models",
+          "description": "Microsoft introduces new 8GB RAM models of the Surface Pro and Surface Laptop to address rising prices and improve accessibility.",
+          "category": "Hardware",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/hardware/surface/microsoft-knows-its-new-surface-pcs-are-too-expensive-combats-skyrocketing-prices-with-new-8gb-ram-models-that-start-at-usd849",
+          "image": "https://cdn.mos.cms.futurecdn.net/FYprRvFRRUsf6V3ALHzhLa-2560-80.jpg",
+          "published_at": "2026-06-23T13:00:00Z",
+          "key_points": [
+            "New 8GB RAM models",
+            "Prices reduced for accessibility",
+            "Targeting rising component costs"
+          ],
+          "impact": "Microsoft aims to make devices more affordable.",
+          "id": "e17327e33ccb5bf3a7dd85a572ae0e8b"
+        },
+        {
+          "title": "Prime Day Tablet Deals Offer Huge Savings",
+          "description": "Amazon's Prime Day features significant discounts on tablets, including iPads and Samsung Galaxy Tabs. Don't miss these offers!",
+          "category": "Business",
+          "source": "CNET",
+          "url": "https://www.cnet.com/deals/best-prime-day-tablet-deals-2026-06-24/",
+          "image": "https://www.cnet.com/a/img/resize/4d7dfe41cc32a01e57a2a9eb7ff37dc4ed250151/hub/2026/06/18/1fcb6b7b-06ab-4ee7-8a0a-f2f589c55ae0/prime-day-tablet-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "published_at": "2026-06-23T11:54:56Z",
+          "key_points": [
+            "Tablet deals available now",
+            "Significant price cuts",
+            "Wide selection of brands"
+          ],
+          "impact": "Prime Day brings exceptional savings on tablets.",
+          "id": "96a2cf800c85ed2a4e4e2a1e85ce38ac"
+        },
+        {
+          "title": "GTA 6 Pre-Order Pages Go Live Soon",
+          "description": "Retailers are preparing for Grand Theft Auto 6 pre-orders, with pages going live ahead of the official launch on June 25.",
+          "category": "Gaming",
+          "source": "GTA BOOM",
+          "url": "https://www.gtaboom.com/gta-6-retailer-pre-order-pages-are-going-live-before-june-25-0503#article",
+          "image": "https://media.gtaboom.com/variants/1920/media/images/0d/74/gta-6-retailer-pre-order-pages-are-going-live-before-june-25.jpg",
+          "published_at": "2026-06-23T08:22:33Z",
+          "key_points": [
+            "Pre-orders not live yet",
+            "Retailers preparing pages",
+            "Excitement builds for launch"
+          ],
+          "impact": "GTA 6 pre-orders generate significant buzz.",
+          "id": "fdf3e4bec574c538fe772c8aeb0b9bb2"
+        },
+        {
+          "title": "Amazon Slashes Price on Garmin Fenix 8 Pro",
+          "description": "Amazon offers a record low price on the Garmin Fenix 8 Pro, reducing it by $350 ahead of the summer outdoor season.",
+          "category": "Business",
+          "source": "Gizmodo",
+          "url": "https://gizmodo.com/amazon-goes-hard-on-garmin-the-new-fenix-8-pro-drops-to-its-record-low-2000775438",
+          "image": "https://gizmodo.com/app/uploads/2025/11/garmin-fenix-8-watch-1200x675.jpg",
+          "published_at": "2026-06-22T21:40:50Z",
+          "key_points": [
+            "Record low price announced",
+            "$350 discount offered",
+            "Perfect for summer activities"
+          ],
+          "impact": "Amazon's deal boosts Garmin's sales potential.",
+          "id": "4c51d4136fd78a7c0ff5496812f69568"
+        }
+      ]
+    },
+    {
       "id": "2026-06-25T03:26:33.659936+00:00",
       "fetched_at": "2026-06-25T03:26:33.659936+00:00",
       "label": "Jun 25, 2026 — 03:27 AM UTC",
@@ -6312,205 +6559,6 @@
           ],
           "impact": "Advancements in holography could revolutionize imaging.",
           "id": "0a12c83ef4b156635d6de6b69ca57945"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-20T08:54:05.296973+00:00",
-      "fetched_at": "2026-06-20T08:54:05.296973+00:00",
-      "label": "Jun 20, 2026 — 08:54 AM UTC",
-      "articles": [
-        {
-          "title": "Pokémon Pokopia Updated To Version 1.1.1",
-          "description": "Pokémon Pokopia for Switch 2 has been updated to Version 1.1.1, fixing several minor issues. Players can enjoy a smoother gaming experience with these improvements.",
-          "category": "Gaming",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/06/pokemon-pokopia-updated-to-version-1-1-1-here-are-the-patch-notes",
-          "image": "https://images.nintendolife.com/3d5761e01587f/large.jpg",
-          "published_at": "2026-06-19T03:59:19Z",
-          "key_points": [
-            "Minor fixes implemented",
-            "Improved gameplay experience",
-            "Update available now"
-          ],
-          "impact": "Players will benefit from a smoother experience.",
-          "id": "87496f67052b01a8095a2a07b9a04eb4"
-        },
-        {
-          "title": "Persona 4 Revival 19 Minute Broadcast Released",
-          "description": "Atlus has released a 19-minute broadcast showcasing the Persona 4 Revival remake, featuring new gameplay footage and updates. Fans can look forward to exciting enhancements.",
-          "category": "Gaming",
-          "source": "Persona Central",
-          "url": "https://personacentral.com/p4r-broadcast-1/",
-          "image": "https://personacentral.com/wp-content/uploads/2026/06/revival.jpg",
-          "published_at": "2026-06-18T23:33:30Z",
-          "key_points": [
-            "New gameplay footage revealed",
-            "Broadcast lasts 19 minutes",
-            "Exciting updates shared"
-          ],
-          "impact": "Fans are eager for the upcoming remake.",
-          "id": "09026ad4a080e3ca4c86e174a00fdfb9"
-        },
-        {
-          "title": "SHINOBI: Art of Vengeance Coming to Switch 2",
-          "description": "SHINOBI: Art of Vengeance will launch on Switch 2 on September 24, with pre-orders now available via the Nintendo eShop. Players can anticipate an exciting new adventure.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/shinobi-art-of-vengeance-coming-to-switch-2-on-september-24",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/SHINOBI-Switch-2_06-18-26.jpg",
-          "published_at": "2026-06-18T21:30:23Z",
-          "key_points": [
-            "Launch date set for September 24",
-            "Pre-orders available now",
-            "Exciting new adventure awaits"
-          ],
-          "impact": "Gamers are excited for the upcoming release.",
-          "id": "c49b98e76584c97d3d821d79874ced75"
-        },
-        {
-          "title": "Game Informer's Favorite Steam Next Fest Demos",
-          "description": "Steam Next Fest returns with Game Informer's top demo picks for Summer 2026. Editors highlight standout games worth trying during the event.",
-          "category": "Gaming",
-          "source": "Game Informer",
-          "url": "https://gameinformer.com/2026/06/18/game-informers-favorite-steam-next-fest-demos-summer-2026-edition",
-          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/18/c62caac4/duskfade-screenshot-2.jpg.webp",
-          "published_at": "2026-06-18T20:38:10Z",
-          "key_points": [
-            "Steam Next Fest highlights",
-            "Editors' top demo picks",
-            "Exciting games to try"
-          ],
-          "impact": "Players can discover new favorites this summer.",
-          "id": "37b37b97d5bedbe7093a4d8a89cd15a6"
-        },
-        {
-          "title": "Assassin’s Creed Black Flag Resynced Remake Insights",
-          "description": "IGN previews Assassin's Creed Black Flag Resynced, showcasing remixed missions and new gameplay features. The remake promises to enhance the original experience significantly.",
-          "category": "Gaming",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-heres-what-the-remake-looks-and-plays-like-compared-to-the-original-ign-first",
-          "image": "https://assets-prd.ignimgs.com/2026/06/18/ignfirst-acbfr-handson-blogroll-1781801327522.jpg?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-18T18:45:41Z",
-          "key_points": [
-            "New gameplay features introduced",
-            "Remixed missions enhance experience",
-            "Significant improvements expected"
-          ],
-          "impact": "Fans are eager for this ambitious remake.",
-          "id": "120e1a0d28b9b600ae125f79be69e6cf"
-        },
-        {
-          "title": "Open World Shooter No Law Shows Potential",
-          "description": "No Law, an open-world cyberpunk shooter, showcases its potential at Unreal Fest 2026. Developer Neon Giant emphasizes density over scale for immersive gameplay.",
-          "category": "Gaming",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/06/density-over-scale-open-world-cyberpunk-shooter-no-law-has-serious-potential-on-ps5",
-          "image": "https://images.pushsquare.com/87786db0439f6/large.jpg",
-          "published_at": "2026-06-18T15:00:00Z",
-          "key_points": [
-            "Focus on density over scale",
-            "Impressive gameplay showcased",
-            "Developer highlights potential"
-          ],
-          "impact": "Gamers are excited for this unique approach.",
-          "id": "4d372a05fc73662be17636235569ae12"
-        },
-        {
-          "title": "Forza Horizon 6 Festival Playlist Series 2 Summer Live",
-          "description": "Forza Horizon 6's second Festival Playlist Series 2 is now live, featuring new races and challenges. Players can unlock seven new cars this summer.",
-          "category": "Gaming",
-          "source": "TrueAchievements",
-          "url": "https://www.trueachievements.com/news/forza-horizon-6-festival-playlist-series-2-summer",
-          "image": "https://www.trueachievements.com/imgs/176173/forza-horizon-6-festival-playlist-series-2-summer-now-live-with-7-cars-to-unlock.jpg",
-          "published_at": "2026-06-18T14:34:55Z",
-          "key_points": [
-            "New races and challenges available",
-            "Unlock seven new cars",
-            "Festival Playlist Series 2 live"
-          ],
-          "impact": "Players can enjoy fresh content this summer.",
-          "id": "7056fa36b04666a4d0ab5819928869e2"
-        },
-        {
-          "title": "Photoshop and Premiere Introduce AI Assistants",
-          "description": "Adobe rolls out AI assistants for Photoshop and Premiere, enhancing user experience with prompt-based editing. This marks a significant step in Creative Cloud's evolution.",
-          "category": "Software",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Photoshop-AI-assistant-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-06-18T13:00:00Z",
-          "key_points": [
-            "AI assistants launched",
-            "Prompt-based editing features",
-            "Enhancing Creative Cloud apps"
-          ],
-          "impact": "Users will benefit from improved editing tools.",
-          "id": "c4a5a14ca477793eb86e675d082dfb4c"
-        },
-        {
-          "title": "The Drawer Problem: Keeping Old Electronics",
-          "description": "Many people struggle to part with old electronics, often storing them away. Better recycling and reselling information could help change this behavior.",
-          "category": "Business",
-          "source": "The Conversation",
-          "url": "https://theconversation.com/the-drawer-problem-why-so-many-of-us-cant-let-go-of-our-old-electronics-and-what-we-can-do-about-it-284710",
-          "image": "https://images.theconversation.com/files/741977/original/file-20260615-57-5pw3jo.jpg?ixlib=rb-4.1.0&rect=0%2C484%2C5800%2C2900&q=45&auto=format&w=1356&h=668&fit=crop",
-          "published_at": "2026-06-18T12:32:47Z",
-          "key_points": [
-            "People hoard old devices",
-            "Recycling information needed",
-            "Reselling options could help"
-          ],
-          "impact": "Awareness could reduce electronic waste.",
-          "id": "a2ad86ca2850c25da9f0901c47a5c1fe"
-        },
-        {
-          "title": "GTA Online Fine Art Collector Program Rewards",
-          "description": "GTA Online introduces the Fine Art Collector program, offering special rewards including up to GTA$1,500,000 in bonus cash. The program runs until July 13.",
-          "category": "Gaming",
-          "source": "Rockstar Games",
-          "url": "https://www.rockstargames.com/newswire/article/4k157o2o8k7o7o/earn-special-rewards-in-gta-online-with-the-fine-art-collector-program?utm_source=ig&utm_medium=social&utm_content=link_in_bio",
-          "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/4k157o2o8k7o7o/3f3aad75b26a79d0339aa43ce43cfdfb4e1da53e.jpg",
-          "published_at": "2026-06-18T12:05:34Z",
-          "key_points": [
-            "Earn up to GTA$1,500,000",
-            "New Fine Art Collector program",
-            "Rewards available until July 13"
-          ],
-          "impact": "Players can earn significant in-game rewards.",
-          "id": "e7e94ab6da79e93788144678f2dee611"
-        },
-        {
-          "title": "Final Fantasy 7 Revelation Director's Emotional Journey",
-          "description": "Director Naoki Hamaguchi reveals he has completed Final Fantasy 7 Revelation 40 times, crying each time at a pivotal scene. This moment is deemed essential to the story.",
-          "category": "Gaming",
-          "source": "Video Games Chronicle",
-          "url": "https://www.videogameschronicle.com/news/final-fantasy-7-revelation-director-says-hes-finished-it-40-times-and-cried-every-time-at-one-point/",
-          "image": "https://www.videogameschronicle.com/files/2026/06/final-fantasy-7-revelation.jpg",
-          "published_at": "2026-06-18T11:58:48Z",
-          "key_points": [
-            "Director cried 40 times",
-            "Pivotal scene revealed",
-            "Essential to the story"
-          ],
-          "impact": "Fans are intrigued by the emotional depth.",
-          "id": "bb1bbbc46f53925332eaa3b404cd4384"
-        },
-        {
-          "title": "iOS 27 Speed Improvements Overview",
-          "description": "iOS 27 introduces various speed improvements that, while minor individually, collectively enhance performance. Users can expect a smoother experience across devices.",
-          "category": "Software",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/18/ios-27-speed-improvements-wont-matter-individually-but-will-collectively/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27-guide.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-18T11:01:00Z",
-          "key_points": [
-            "Minor speed improvements noted",
-            "Collective enhancements expected",
-            "Smoother performance across devices"
-          ],
-          "impact": "Users will enjoy an overall improved experience.",
-          "id": "0ce869fa5a4aa589085b5298c79391dd"
         }
       ]
     }

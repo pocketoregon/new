@@ -1,247 +1,247 @@
 {
   "date": "2026-06-25",
-  "generated_at": "2026-06-25T03:26:33.659936+00:00",
+  "generated_at": "2026-06-25T09:19:18.589857+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Top Amazon Prime Day Portable Charger Deals",
-      "description": "Discover the best portable charger deals for Prime Day. Stay powered on the go with these top picks.",
+      "title": "Top Prime Day Tech Deals You Can't Miss",
+      "description": "Discover the best tech deals for Prime Day, curated by Mashable's tech editor. Save big on essential gadgets and electronics.",
       "category": "Business",
-      "source": "CNN",
-      "url": "https://www.cnn.com/cnn-underscored/deals/amazon-prime-day-portable-charger-deals-2026-06-23",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/charger-deals-apd-cnnu.jpg?c=16x9&q=w_800,c_fill",
-      "published_at": "2026-06-24T00:46:00Z",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/best-amazon-prime-day-tech-deals-2026",
+      "image": "https://helios-i.mashable.com/imagery/articles/06o8s63CExAnBL3PsMcd2PG/hero-image.fill.size_1200x675.v1782285645.jpg",
+      "published_at": "2026-06-24T07:21:24Z",
       "key_points": [
-        "Best portable chargers listed",
-        "Great Prime Day discounts",
-        "Stay charged on the go"
+        "Best deals on tech gadgets",
+        "Curated by tech editor",
+        "Huge savings available"
       ],
-      "impact": "These deals enhance convenience for users.",
-      "id": "2e09bc327d1a38b04aca4928ef4b831a"
+      "impact": "Prime Day offers significant savings on tech.",
+      "id": "819cd8ee2a96453950b334d66a7d00d9"
     },
     {
-      "title": "Google Pixel Phones Improve Wireless Audio Quality",
-      "description": "Android 17 enhances wireless audio quality for Google Pixel phones. Users can now enjoy better sound with their wireless devices.",
-      "category": "Software",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/06/23/google-pixel-wireless-audio-quality-lhdc-android-17-update/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Pixel-10-blue-in-hand-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-23T20:05:00Z",
+      "title": "Google Home Speaker Unboxing Reveals Design Flaw",
+      "description": "An early unboxing of the Google Home Speaker highlights a concerning design choice. Users praise sound quality but criticize the hardware.",
+      "category": "Hardware",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/google-home-speaker-early-unboxing-3680712/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/google_home_speaker_jade.jpg",
+      "published_at": "2026-06-24T04:41:28Z",
       "key_points": [
-        "Improved audio quality",
-        "Supports wireless devices",
-        "Android 17 update"
+        "Design flaw confirmed",
+        "Sound quality praised",
+        "Simple setup process"
       ],
-      "impact": "Enhancements boost user audio experience.",
-      "id": "d43276d2429f92dd1e896617185a9a6a"
+      "impact": "Google faces backlash over design decisions.",
+      "id": "fa8d6dbcbec45a9ddd95725a9e9b9758"
     },
     {
-      "title": "Prime Day Deals on Switch 2, PS5, and Xbox Games",
-      "description": "Prime Day offers great discounts on games for Switch 2, PS5, and Xbox. Grab these deals while they last!",
+      "title": "Star Fox Nintendo Switch 2 Reviews Are In",
+      "description": "Reviews for Star Fox on Nintendo Switch 2 are now available, showcasing gameplay and features. Fans are eager for this release.",
       "category": "Gaming",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/HadesUnseenUpdateWallpaper.png?quality=90&strip=all&crop=0%2C9.5315780155298%2C100%2C80.93684396894&w=1200",
-      "published_at": "2026-06-23T20:00:00Z",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/star-fox-nintendo-switch-2-reviews-roundup/",
+      "image": "",
+      "published_at": "2026-06-24T03:55:57Z",
       "key_points": [
-        "Discounts on popular games",
-        "Switch 2 and PS5 deals",
-        "Limited-time offers"
+        "Positive gameplay reviews",
+        "Exciting new features",
+        "Fans eagerly await release"
       ],
-      "impact": "Gamers can save significantly this Prime Day.",
-      "id": "4332ad5a0b4ad5e6e23cf002dec06b5c"
+      "impact": "Star Fox reviews boost anticipation for launch.",
+      "id": "6cf453051a3604c860ffd7cb312aeb04"
     },
     {
-      "title": "Sega Re-releases Original Sonic Genesis Games",
-      "description": "Sega is re-releasing Sonic and Sonic 2 on $100 cartridges. Pre-orders are now available for fans.",
-      "category": "Gaming",
-      "source": "Video Games Chronicle",
-      "url": "https://www.videogameschronicle.com/news/sega-is-re-releasing-the-original-sonic-genesis-games-on-100-cartridges/",
-      "image": "https://www.videogameschronicle.com/files/2026/06/Screenshot-2026-06-23-210800.jpg",
-      "published_at": "2026-06-23T19:54:07Z",
-      "key_points": [
-        "Sonic Genesis games re-released",
-        "$100 anniversary cartridges",
-        "Pre-orders available now"
-      ],
-      "impact": "Nostalgia drives interest in classic games.",
-      "id": "76f7c49859db6b1de2102278ff1a84f6"
-    },
-    {
-      "title": "iOS 27 Wallet App Introduces New Features",
-      "description": "iOS 27 enhances the Wallet app with seven new features. Apple aims to replace physical wallets with digital solutions.",
-      "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/guide/ios-27-wallet/",
-      "image": "https://images.macrumors.com/t/yJreHCFsFXHIt3kpjRhnlNFZPhQ=/2500x/article-new/2026/06/iOS-27-Adds-These-New-Features-to-Your-iPhones-Wallet-Feature.jpg",
-      "published_at": "2026-06-23T19:32:14Z",
-      "key_points": [
-        "Seven new Wallet features",
-        "Digital wallet enhancements",
-        "Apple's push for convenience"
-      ],
-      "impact": "iOS 27 strengthens digital wallet adoption.",
-      "id": "0ada37b9dcc40c11531461e44c5cc03f"
-    },
-    {
-      "title": "Prime Day Offers Great 4K TV Deals",
-      "description": "Prime Day features fantastic discounts on 4K TVs from major brands. Save big on high-quality models this sale.",
-      "category": "Business",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/952282/best-4k-tv-deals-amazon-prime-day-sale",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Sony-XR-A95L.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published_at": "2026-06-23T19:30:00Z",
-      "key_points": [
-        "Discounts on 4K TVs",
-        "Major brands included",
-        "Limited-time offers"
-      ],
-      "impact": "Consumers can upgrade their viewing experience.",
-      "id": "6596633c94890064762367382121e106"
-    },
-    {
-      "title": "New Characters for Sonic Racing: CrossWorlds",
-      "description": "SEGA announces new characters for Sonic Racing: CrossWorlds, including Classic Sonic and Axel. Updates available until September.",
-      "category": "Gaming",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/sonic-racing-crossworlds-free-character-updates-classic-sonic-axel-and-amigo-announced",
-      "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Sonic-Racing-CrossWorlds-Characters_06-23-26.jpg",
-      "published_at": "2026-06-23T18:32:37Z",
-      "key_points": [
-        "New playable characters announced",
-        "Classic Sonic joins the game",
-        "Updates until September"
-      ],
-      "impact": "Fresh content keeps players engaged.",
-      "id": "c36eb87ab4a49924558daed2f8968d5e"
-    },
-    {
-      "title": "Steam Machine Pricing Was 30% Cheaper Pre-RAM Crisis",
-      "description": "Valve's Steam Machine faced pricing challenges due to the DRAM crisis. Pre-crisis prices were significantly lower.",
-      "category": "Business",
-      "source": "Techpowerup.com",
-      "url": "https://www.techpowerup.com/350224/pre-rampocalypse-steam-machine-pricing-was-30-cheaper",
-      "image": "https://www.techpowerup.com/img/0uCj6WYG9S41FaEq.jpg",
-      "published_at": "2026-06-23T18:06:37Z",
-      "key_points": [
-        "Steam Machine pricing issues",
-        "30% higher due to DRAM crisis",
-        "Market challenges for Valve"
-      ],
-      "impact": "Pricing issues affect consumer adoption.",
-      "id": "3d0fd0f3e4271ed603711bb2f774ac20"
-    },
-    {
-      "title": "Hands-On with RayNeo Air 4 Pro XR Glasses",
-      "description": "Experience the RayNeo Air 4 Pro XR glasses, compatible with Switch 2. Enjoy a big-screen experience anywhere.",
+      "title": "Sega Launches Two Sonic Game Collections for Switch",
+      "description": "Sega celebrates Sonic's 35th anniversary with two new game collections for the Switch, featuring classic and modern titles.",
       "category": "Gaming",
       "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/06/hands-on-rayneo-air-4-pro-be-the-batman-with-these-switch-2-compatible-xr-glasses",
-      "image": "https://images.nintendolife.com/91e0ee7aa5f1a/large.jpg",
-      "published_at": "2026-06-23T18:00:00Z",
+      "url": "https://www.nintendolife.com/news/2026/06/sega-announces-two-sonic-game-collections-for-switch",
+      "image": "https://images.nintendolife.com/46cd6b21d14ea/large.jpg",
+      "published_at": "2026-06-23T23:30:00Z",
       "key_points": [
-        "XR glasses for Switch 2",
-        "Lightweight and high-resolution",
-        "Portable big-screen experience"
+        "Two collections announced",
+        "Includes classic titles",
+        "Celebrates Sonic's anniversary"
       ],
-      "impact": "Innovative tech enhances gaming experiences.",
-      "id": "a3a33def1207b085ae1a640910b1642d"
+      "impact": "Sega revives nostalgia with new collections.",
+      "id": "2e49865f19e83f60c899429de5aea89c"
     },
     {
-      "title": "TFT Patch 17.6 Released",
-      "description": "Teamfight Tactics introduces patch 17.6 with updates for Pengu’s Party and balance changes. Players can expect new gameplay dynamics.",
-      "category": "Gaming",
-      "source": "Leagueoflegends.com",
-      "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-17-6/",
-      "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/1730d25c748248cd83a0aa944726e8341ece7ddd-1920x1080.jpg?accountingTag=TFT?w=1200&h=630&fm=webp&fit=crop&crop=center",
-      "published_at": "2026-06-23T18:00:00Z",
-      "key_points": [
-        "New patch 17.6 released",
-        "Balance changes included",
-        "Updates for Pengu’s Party"
-      ],
-      "impact": "Patch enhances gameplay for players.",
-      "id": "e5c699b8cbbdd406c7f7083d6ef4979b"
-    },
-    {
-      "title": "46 Prime Day Fitness Deals to Grab",
-      "description": "Discover top fitness deals for Prime Day, curated by a wellness expert. Don't miss out on these savings for health gear.",
-      "category": "Business",
-      "source": "New York Post",
-      "url": "https://nypost.com/shopping/best-amazon-prime-day-fitness-wellness-deals-2026/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/prime_c1c080.jpg?quality=75&strip=all&w=1200",
-      "published_at": "2026-06-23T17:34:00Z",
-      "key_points": [
-        "Top fitness deals listed",
-        "Curated by wellness expert",
-        "Prime Day savings available"
-      ],
-      "impact": "Health enthusiasts can save significantly.",
-      "id": "cd68337255d0783819dcc02d2c0b56f6"
-    },
-    {
-      "title": "Oura Ring Sale for Amex Platinum Cardholders",
-      "description": "Get the Oura Ring for just $44 with the Amex Platinum card. This is the best deal seen since Black Friday.",
-      "category": "Business",
-      "source": "Upgradedpoints.com",
-      "url": "https://upgradedpoints.com/news/oura-ring-sale-amex-platinum-2026/",
-      "image": "https://upgradedpoints.com/wp-content/uploads/2026/01/Oura-Ring.jpg",
-      "published_at": "2026-06-23T16:43:14Z",
-      "key_points": [
-        "Oura Ring for $44",
-        "Exclusive Amex Platinum deal",
-        "Limited-time offer"
-      ],
-      "impact": "Exclusive discounts attract health-conscious buyers.",
-      "id": "a2f171cd9b936aa643abf9cb48f15c54"
-    },
-    {
-      "title": "Best Desktop PC Discounts for Prime Day",
-      "description": "Explore significant discounts on desktop PCs from major brands during Prime Day. Ideal for gamers and professionals alike.",
-      "category": "Business",
-      "source": "PCMag.com",
-      "url": "https://www.pcmag.com/news/best-amazon-prime-day-sale-desktop-pc-deals-2026",
-      "image": "https://i.pcmag.com/imagery/articles/07cZqbWDZAnoZmzqy9EOj9s-1.fit_lim.size_1200x630.v1782164796.png",
-      "published_at": "2026-06-23T16:43:12Z",
-      "key_points": [
-        "Discounts on desktop PCs",
-        "Major brands featured",
-        "Ideal for gamers and professionals"
-      ],
-      "impact": "Great savings on essential tech.",
-      "id": "68a079558aa3d04b678946cb284d4ddd"
-    },
-    {
-      "title": "MSI Claw 8 EX AI+ Review Released",
-      "description": "The MSI Claw 8 EX AI+ review embargo lifts, showcasing Intel's Arc G3 Extreme performance. A new contender in handheld gaming.",
-      "category": "Hardware",
-      "source": "VideoCardz.com",
-      "url": "https://videocardz.com/newz/msi-claw-8-ex-ai-review-are-here-intel-arc-g3-extreme-takes-the-lead-in-performance-and-pricing",
-      "image": "https://cdn.videocardz.com/1/2026/06/MSI-CLAW-8-EX-ARC-G3-HERO2.jpg",
-      "published_at": "2026-06-23T16:17:57Z",
-      "key_points": [
-        "MSI Claw 8 EX AI+ reviewed",
-        "Intel Arc G3 Extreme performance",
-        "New handheld gaming contender"
-      ],
-      "impact": "New hardware raises gaming performance standards.",
-      "id": "7cddb066ccca127b6dfc46e3aff55976"
-    },
-    {
-      "title": "iOS 27 Upgrades Make AirPods Max 2 Tempting",
-      "description": "iOS 27 introduces features that enhance AirPods Max 2, making them more appealing for users of older models.",
+      "title": "Gemini Intelligence Appears in Android 17 Beta",
+      "description": "The latest Android 17 QPR1 Beta introduces Gemini Intelligence branding, alongside bug fixes for Pixel devices.",
       "category": "Software",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/23/airpods-max-2-are-getting-harder-to-resist-with-ios-27-upgrades/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/airpods-max-2-midnight-ios-27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-23T15:16:00Z",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/06/23/gemini-intelligence-android-17-qpr1-beta-pixel/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-intelligence-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-23T22:23:00Z",
       "key_points": [
-        "iOS 27 enhances AirPods Max 2",
-        "New features attract users",
-        "Upgrade appeal for older models"
+        "New beta released",
+        "Includes Gemini Intelligence",
+        "Focus on bug fixes"
       ],
-      "impact": "New features boost AirPods Max 2 sales.",
-      "id": "4053a7d689c60c171388cdc9f6362655"
+      "impact": "Google enhances Pixel experience with updates.",
+      "id": "39fba0b493f264a8fd110bbfd66e1747"
+    },
+    {
+      "title": "Best Buy Tech Fest Offers Major Discounts",
+      "description": "Best Buy's Tech Fest event features significant discounts on electronics, including headphones and video games. Don't miss out!",
+      "category": "Business",
+      "source": "PCMag",
+      "url": "https://www.pcmag.com/news/best-buy-tech-fest-2026-electronics-sales-discounts-june-23",
+      "image": "https://i.pcmag.com/imagery/articles/02xwDJcJMxWLfQMFKhNBIVQ-8.fit_lim.size_1200x630.v1782248592.png",
+      "published_at": "2026-06-23T21:09:47Z",
+      "key_points": [
+        "Major discounts available",
+        "Wide range of electronics",
+        "Limited time offers"
+      ],
+      "impact": "Best Buy's event attracts bargain hunters.",
+      "id": "9bbecda23184e91155705df5118de083"
+    },
+    {
+      "title": "DeepMind's Hassabis Claims Google Leads AI Talent",
+      "description": "Despite recent leadership changes, DeepMind's CEO asserts Google continues to attract top AI talent, maintaining its competitive edge.",
+      "category": "Business",
+      "source": "Semafor",
+      "url": "https://www.semafor.com/article/06/23/2026/deepmind-chief-demis-hassabis-says-googles-still-winning-ai-talent",
+      "image": "https://img.semafor.com/7ee33d8919a4fbe1d81844309b45865a396255e2-5900x3933.jpg?rect=0,418,5900,3098&w=1200&h=630&q=75&auto=format",
+      "published_at": "2026-06-23T19:56:00Z",
+      "key_points": [
+        "Google retains AI talent",
+        "Leadership changes noted",
+        "Competitive edge maintained"
+      ],
+      "impact": "Google remains a leader in AI innovation.",
+      "id": "1e3acea689f9325c0fc8d75808041cb9"
+    },
+    {
+      "title": "Douze Dixièmes Shuts Down After Independence",
+      "description": "MIO: Memories in Orbit developer Douze Dixièmes is closing its doors shortly after regaining independence, marking a sad end for the studio.",
+      "category": "Gaming",
+      "source": "Insider Gaming",
+      "url": "https://insider-gaming.com/mio-memories-in-orbit-developer-douze-dixiemes-shutting-down/",
+      "image": "https://insider-gaming.com/wp-content/uploads/2026/01/MIO_Screenshot1-1024x576.png",
+      "published_at": "2026-06-23T17:45:26Z",
+      "key_points": [
+        "Studio shutting down",
+        "Regained independence recently",
+        "Sad news for fans"
+      ],
+      "impact": "Douze Dixièmes' closure impacts the gaming community.",
+      "id": "9025249427f79a8173cabd8c275e93ce"
+    },
+    {
+      "title": "Kylie Jenner Launches AI-Powered Meta Glasses",
+      "description": "Kylie Jenner's new Meta AI sunglasses can take photos and sing. Priced at $399, they aim to blend fashion with technology.",
+      "category": "Business",
+      "source": "The Cut",
+      "url": "http://www.thecut.com/article/kylie-jenner-ai-meta-glasses.html",
+      "image": "https://pyxis.nymag.com/v1/imgs/a9f/335/00790b9aeaf9358333489396b901d0d9ba-GettyImages-1969906488.1x.rsocial.w1200.jpg",
+      "published_at": "2026-06-23T17:44:30Z",
+      "key_points": [
+        "AI-powered sunglasses launched",
+        "Features photo-taking capability",
+        "Sings 'Rise and shine'"
+      ],
+      "impact": "Kylie Jenner merges fashion with tech innovation.",
+      "id": "c3e6b2f6395f79520bca5e63d41da022"
+    },
+    {
+      "title": "Chrome Autofill Enhances Google Wallet Integration",
+      "description": "Google is enhancing Chrome Autofill with deeper Google Wallet integration, streamlining online form filling for users.",
+      "category": "Software",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/06/23/chrome-autofill-google-wallet-2/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2020/02/Chrome-for-Android-logo-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-23T17:00:00Z",
+      "key_points": [
+        "Deeper Wallet integration",
+        "Streamlined form filling",
+        "Improved user experience"
+      ],
+      "impact": "Google simplifies online transactions for users.",
+      "id": "31f611f299a185bc3bf7b29bf53a41f4"
+    },
+    {
+      "title": "Galaxy Watch 9 Leaks Reveal New Features",
+      "description": "Recent leaks of the Galaxy Watch 9 showcase updated design and features, generating excitement ahead of its release.",
+      "category": "Hardware",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/06/23/samsung-galaxy-watch-9-leaks-renders-software/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/galaxy-watch-9-ah-onl-11.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-23T15:45:00Z",
+      "key_points": [
+        "New features leaked",
+        "Updated design revealed",
+        "Excitement builds for release"
+      ],
+      "impact": "Galaxy Watch 9 leaks heighten consumer anticipation.",
+      "id": "39466e32dbd7336e045cbb88dabcc8be"
+    },
+    {
+      "title": "Microsoft Launches Affordable Surface Models",
+      "description": "Microsoft introduces new 8GB RAM models of the Surface Pro and Surface Laptop to address rising prices and improve accessibility.",
+      "category": "Hardware",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/hardware/surface/microsoft-knows-its-new-surface-pcs-are-too-expensive-combats-skyrocketing-prices-with-new-8gb-ram-models-that-start-at-usd849",
+      "image": "https://cdn.mos.cms.futurecdn.net/FYprRvFRRUsf6V3ALHzhLa-2560-80.jpg",
+      "published_at": "2026-06-23T13:00:00Z",
+      "key_points": [
+        "New 8GB RAM models",
+        "Prices reduced for accessibility",
+        "Targeting rising component costs"
+      ],
+      "impact": "Microsoft aims to make devices more affordable.",
+      "id": "e17327e33ccb5bf3a7dd85a572ae0e8b"
+    },
+    {
+      "title": "Prime Day Tablet Deals Offer Huge Savings",
+      "description": "Amazon's Prime Day features significant discounts on tablets, including iPads and Samsung Galaxy Tabs. Don't miss these offers!",
+      "category": "Business",
+      "source": "CNET",
+      "url": "https://www.cnet.com/deals/best-prime-day-tablet-deals-2026-06-24/",
+      "image": "https://www.cnet.com/a/img/resize/4d7dfe41cc32a01e57a2a9eb7ff37dc4ed250151/hub/2026/06/18/1fcb6b7b-06ab-4ee7-8a0a-f2f589c55ae0/prime-day-tablet-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "published_at": "2026-06-23T11:54:56Z",
+      "key_points": [
+        "Tablet deals available now",
+        "Significant price cuts",
+        "Wide selection of brands"
+      ],
+      "impact": "Prime Day brings exceptional savings on tablets.",
+      "id": "96a2cf800c85ed2a4e4e2a1e85ce38ac"
+    },
+    {
+      "title": "GTA 6 Pre-Order Pages Go Live Soon",
+      "description": "Retailers are preparing for Grand Theft Auto 6 pre-orders, with pages going live ahead of the official launch on June 25.",
+      "category": "Gaming",
+      "source": "GTA BOOM",
+      "url": "https://www.gtaboom.com/gta-6-retailer-pre-order-pages-are-going-live-before-june-25-0503#article",
+      "image": "https://media.gtaboom.com/variants/1920/media/images/0d/74/gta-6-retailer-pre-order-pages-are-going-live-before-june-25.jpg",
+      "published_at": "2026-06-23T08:22:33Z",
+      "key_points": [
+        "Pre-orders not live yet",
+        "Retailers preparing pages",
+        "Excitement builds for launch"
+      ],
+      "impact": "GTA 6 pre-orders generate significant buzz.",
+      "id": "fdf3e4bec574c538fe772c8aeb0b9bb2"
+    },
+    {
+      "title": "Amazon Slashes Price on Garmin Fenix 8 Pro",
+      "description": "Amazon offers a record low price on the Garmin Fenix 8 Pro, reducing it by $350 ahead of the summer outdoor season.",
+      "category": "Business",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/amazon-goes-hard-on-garmin-the-new-fenix-8-pro-drops-to-its-record-low-2000775438",
+      "image": "https://gizmodo.com/app/uploads/2025/11/garmin-fenix-8-watch-1200x675.jpg",
+      "published_at": "2026-06-22T21:40:50Z",
+      "key_points": [
+        "Record low price announced",
+        "$350 discount offered",
+        "Perfect for summer activities"
+      ],
+      "impact": "Amazon's deal boosts Garmin's sales potential.",
+      "id": "4c51d4136fd78a7c0ff5496812f69568"
     }
   ]
 }
