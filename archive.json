@@ -1,6 +1,109 @@
 {
   "batches": [
     {
+      "id": "2026-06-25T19:58:53.914661+00:00",
+      "fetched_at": "2026-06-25T19:58:53.914661+00:00",
+      "label": "Jun 25, 2026 — 07:59 PM UTC",
+      "articles": [
+        {
+          "title": "Halo: Campaign Evolved's PC Specs Revealed",
+          "description": "Halo: Campaign Evolved's PC requirements are now available, featuring manageable specs for gamers. Prepare for a nostalgic remake experience with updated gameplay.",
+          "category": "Gaming",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/gaming/halo/xbox-announced-halo-campaign-evolveds-pc-system-requirements-and-recommended-specs",
+          "image": "https://cdn.mos.cms.futurecdn.net/nmzTHEi2KNBCGqYSVUyuq6-2560-80.jpg",
+          "published_at": "2026-06-23T20:39:10Z",
+          "key_points": [
+            "Manageable PC requirements",
+            "Nostalgic gameplay experience",
+            "Full remake of Halo"
+          ],
+          "impact": "Gamers can prepare for an exciting remake.",
+          "id": "6c88c846d7f413e35c757592facce0b6"
+        },
+        {
+          "title": "Steam Machine's Companion Cube Case: A Mixed Bag",
+          "description": "Dbrand's Companion Cube case for the Steam Machine is both expensive and well-crafted, drawing from a beloved gaming joke. It's a unique blend of nostalgia and quality design.",
+          "category": "Gaming",
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-steam-machines-companion-cube-case-is-big-expensive-and-based-on-a-19-year-old-joke-so-i-hate-how-well-made-it-is",
+          "image": "https://assetsio.gnwcdn.com/Steam-Machine-Companion-Cube-Dbrand.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "published_at": "2026-06-23T19:44:13Z",
+          "key_points": [
+            "Expensive but well-made",
+            "Based on a gaming joke",
+            "Unique design appeal"
+          ],
+          "impact": "The case appeals to both nostalgia and quality.",
+          "id": "2c9e7bb058893f523df28ea5afede057"
+        },
+        {
+          "title": "Samsung Unveils Twice-as-Fast UFS 5.0 Storage",
+          "description": "Samsung's new UFS 5.0 storage promises double the speed of current options, set to enhance future flagship smartphones. This innovation aims to improve mobile performance significantly.",
+          "category": "Hardware",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/23/samsung-teases-twice-as-fast-ufs-5-0-storage-for-future-flagship-smartphones/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-23T18:40:00Z",
+          "key_points": [
+            "Twice the speed of current storage",
+            "Future flagship smartphones",
+            "Significant performance boost"
+          ],
+          "impact": "Mobile devices will experience enhanced performance.",
+          "id": "b56b42054b7f4a08b9233f6252322ae6"
+        },
+        {
+          "title": "Kindle Colorsoft Price Drops for Prime Day",
+          "description": "The Kindle Colorsoft is now available at a new low price for Prime Day, making it an attractive option for comic readers. This deal offers significant savings for avid readers.",
+          "category": "Business",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/kindle-colorsoft-deal-amazon-prime-day-2026",
+          "image": "https://assets-prd.ignimgs.com/2025/04/23/81yrk24ayl-ac-sl1500-1745435120574.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-23T17:25:08Z",
+          "key_points": [
+            "New low price for Prime Day",
+            "Great for comic readers",
+            "Significant savings available"
+          ],
+          "impact": "Readers can save big on Kindle Colorsoft.",
+          "id": "a15732e03337301aeadda04fb1387de3"
+        },
+        {
+          "title": "Pixel Users Report Touchscreen Bug on Android 17",
+          "description": "Pixel users are experiencing a new touchscreen bug with Android 17, affecting input during video playback. This issue continues to frustrate users of the latest Android version.",
+          "category": "Software",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/23/another-touchscreen-bug-appears-in-android-17-on-pixel/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-23T17:10:00Z",
+          "key_points": [
+            "New touchscreen bug reported",
+            "Affects video playback",
+            "Frustrating for Pixel users"
+          ],
+          "impact": "Users face ongoing issues with touchscreen functionality.",
+          "id": "037ed4eafb7b1961c8fd9b7b66edd7c8"
+        },
+        {
+          "title": "Cam McCaul Joins Revel Bikes Team",
+          "description": "Freeride icon Cam McCaul has signed a long-term partnership with Revel Bikes, enhancing the brand's presence in mountain biking. This collaboration is expected to elevate both parties.",
+          "category": "Startups",
+          "source": "Pinkbike",
+          "url": "https://www.pinkbike.com/news/revel-bikes-welcomes-freeride-icon-cam-mccaul-to-the-team.html",
+          "image": "https://ep1.pinkbike.org/p4pb29905123/p4pb29905123.jpg",
+          "published_at": "2026-06-23T16:00:00Z",
+          "key_points": [
+            "Cam McCaul joins Revel Bikes",
+            "Long-term partnership established",
+            "Boosts brand presence"
+          ],
+          "impact": "Revel Bikes strengthens its position in the market.",
+          "id": "446c6fa896c6f873e0613b7c31931f5a"
+        }
+      ]
+    },
+    {
       "id": "2026-06-25T17:11:30.222582+00:00",
       "fetched_at": "2026-06-25T17:11:30.222582+00:00",
       "label": "Jun 25, 2026 — 05:11 PM UTC",
@@ -6504,189 +6607,6 @@
           ],
           "impact": "A fix will restore widget functionality soon.",
           "id": "8dbf7a79498785b08692ba2ef678be5a"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-20T16:16:23.457655+00:00",
-      "fetched_at": "2026-06-20T16:16:23.457655+00:00",
-      "label": "Jun 20, 2026 — 04:16 PM UTC",
-      "articles": [
-        {
-          "title": "Sony’s ‘Destiny 2’ Obliteration Has Almost No Precedent In The Industry",
-          "description": "Destiny 2 is ending with no support. Sony's unprecedented move shocks fans and the gaming industry.",
-          "category": "Gaming",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/paultassi/2026/06/19/sonys-destiny-2-obliteration-has-almost-no-precedent-in-the-industry/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a354ba9a1b6e046f3ea3ae8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "published_at": "2026-06-19T14:08:01Z",
-          "key_points": [
-            "Destiny 2 support ends",
-            "Sony's move is unprecedented",
-            "Fans are shocked"
-          ],
-          "impact": "This decision could reshape industry support norms.",
-          "id": "85a0998ca70a37f9f9fff0fe9ee57681"
-        },
-        {
-          "title": "Apple Explains Why watchOS 27 Drops Support for So Many Models",
-          "description": "Apple reveals five Watch models won't support watchOS 27. Users miss out on new Siri AI features.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/19/apple-explains-why-watchos-27-drops-support/",
-          "image": "https://images.macrumors.com/t/aPD2ABdSDg44hQ2JHV0RsR2dhe0=/1600x/article-new/2022/09/Apple-Watch-Ultra-Orange-Alpine-Loop-Action-button-220907_big.jpg.large_.jpg",
-          "published_at": "2026-06-19T13:07:11Z",
-          "key_points": [
-            "Five models lose support",
-            "New Siri features excluded",
-            "Apple clarifies reasons"
-          ],
-          "impact": "Users must upgrade to access new features.",
-          "id": "29e79e6b91abe0ea86362adf66bdfeda"
-        },
-        {
-          "title": "Kaleidescape’s high-end movie player is too legit",
-          "description": "The Strato E offers Blu-ray quality without discs, but at a premium price. It's a luxury streaming solution.",
-          "category": "Hardware",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/951718/kaleidescape-strato-e-review",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268526_Kaleidescape_JHiggins_0009.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-06-19T12:00:00Z",
-          "key_points": [
-            "Blu-ray quality streaming",
-            "Disc-free convenience",
-            "High-end price point"
-          ],
-          "impact": "This device targets luxury home cinema enthusiasts.",
-          "id": "b68d27bfb8ccb1ad79ba4905376c1e16"
-        },
-        {
-          "title": "Activision Confirms Call of Duty: Black Ops Ports to PS5/PS4 Are Not Remasters",
-          "description": "Activision clarifies that Black Ops ports for PS5/PS4 are not remasters. Fans question 120Hz support.",
-          "category": "Gaming",
-          "source": "Digital Foundry",
-          "url": "https://www.digitalfoundry.net/news/2026/06/19/activision-confirms-call-of-duty-black-ops-ports-to-ps5ps4-are-not-remasters",
-          "image": "https://images.digitalfoundry.net/513d7bdd36da5/large.jpg",
-          "published_at": "2026-06-19T12:00:00Z",
-          "key_points": [
-            "No remasters for Black Ops",
-            "Fans concerned about performance",
-            "Activision clarifies ports status"
-          ],
-          "impact": "This may affect player expectations for performance.",
-          "id": "1feace6d7cb401e26de67447f2a1a456"
-        },
-        {
-          "title": "These 32 Pictures Will Instantly Make You Smile",
-          "description": "A collection of 32 uplifting images guaranteed to brighten your day. Perfect for a quick mood boost.",
-          "category": "Gaming",
-          "source": "Buzzfeed",
-          "url": "https://www.buzzfeed.com/daves4/funny-picture-collection-june-19-2026",
-          "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/19/11/thumb/LScP8yp9N.jpg?crop=2490:1660;5,0&resize=1250:830",
-          "published_at": "2026-06-19T11:47:14Z",
-          "key_points": [
-            "32 uplifting images",
-            "Guaranteed to make you smile",
-            "Perfect for a quick mood boost"
-          ],
-          "impact": "These images provide a quick emotional lift.",
-          "id": "6ddd44303fd80841e09d5c83ef72a17c"
-        },
-        {
-          "title": "Digimon Story Time Stranger Free Update Releasing Alongside Switch Versions",
-          "description": "A free update for Digimon Story Time Stranger arrives with its Switch release next month. Exciting new content is on the way.",
-          "category": "Gaming",
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/06/digimon-story-time-stranger-free-update-releasing-alongside-switch-versions",
-          "image": "https://images.nintendolife.com/5ac9a117581ec/large.jpg",
-          "published_at": "2026-06-19T02:55:00Z",
-          "key_points": [
-            "Free update announced",
-            "Switch versions launching soon",
-            "New content for all platforms"
-          ],
-          "impact": "This update enhances the gaming experience for fans.",
-          "id": "23ca83d58e686794fa2404a6b57b6163"
-        },
-        {
-          "title": "Valve is so behind on Steam Controller orders that some won’t ship until 2027",
-          "description": "Valve's Steam Controller orders are delayed, with some not shipping until 2027. Customers face long wait times.",
-          "category": "Gaming",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0027.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-06-18T20:26:47Z",
-          "key_points": [
-            "Shipping delays until 2027",
-            "Long wait for customers",
-            "Valve updates reservation estimates"
-          ],
-          "impact": "This could frustrate eager customers awaiting controllers.",
-          "id": "28a66471b766aa8e21e58906f276c93d"
-        },
-        {
-          "title": "Snap’s Specs look good on nobody",
-          "description": "Snap's new AR glasses receive mixed reviews on design. The Vergecast discusses their appeal and other tech news.",
-          "category": "Gaming",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/podcast/952126/snap-specs-ar-glasses-vergecast",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_061826_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "published_at": "2026-06-18T19:15:03Z",
-          "key_points": [
-            "Snap's AR glasses criticized",
-            "Mixed design reviews",
-            "Tech news discussed on Vergecast"
-          ],
-          "impact": "Design flaws may hinder market acceptance.",
-          "id": "f1adc4e4843f1c8eed6af6f77895ed70"
-        },
-        {
-          "title": "Are Counterfeit, Scam SD Memory Cards Really a Problem?",
-          "description": "A video claims counterfeit SD cards are widespread. Experts debate the prevalence and risks of fake memory cards.",
-          "category": "Security",
-          "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/06/18/are-counterfeit-scam-sd-memory-cards-really-a-problem/",
-          "image": "https://petapixel.com/assets/uploads/2026/06/Are-Counterfeit-Scam-SD-Memory-Cards-Really-a-Problem.jpg",
-          "published_at": "2026-06-18T16:28:47Z",
-          "key_points": [
-            "Counterfeit SD cards are common",
-            "Experts discuss risks",
-            "Awareness is crucial for users"
-          ],
-          "impact": "Consumers need to be vigilant against fakes.",
-          "id": "1368f1215832bb9d5a9fc1c733d6ae22"
-        },
-        {
-          "title": "Grand Theft Auto VI Preorders to Begin June 25",
-          "description": "Preorders for Grand Theft Auto VI will start on June 25. Fans eagerly await the next installment in the franchise.",
-          "category": "Gaming",
-          "source": "The Wall Street Journal",
-          "url": "https://www.wsj.com/business/media/grand-theft-auto-vi-preorders-to-begin-june-25-fbbe9cf0",
-          "image": "",
-          "published_at": "2026-06-18T14:43:00Z",
-          "key_points": [
-            "GTA VI preorders start June 25",
-            "Fans excited for new installment",
-            "Franchise continues to grow"
-          ],
-          "impact": "This could lead to record-breaking sales.",
-          "id": "141f46bd24ece8921f012b221c77ed32"
-        },
-        {
-          "title": "Union Update: It’s Blooming Cities Pack release day!",
-          "description": "The latest Cosmetic DLC for Anno is now available. Players can enhance their islands with new decorative options.",
-          "category": "Gaming",
-          "source": "Anno Union",
-          "url": "https://www.anno-union.com/union-update-its-blooming-cities-pack-release-day/",
-          "image": "https://www.anno-union.com/wp/wp-content/uploads/2026/06/ANNO_CDLC02_release_day_header.jpg",
-          "published_at": "2026-06-18T14:01:52Z",
-          "key_points": [
-            "New Cosmetic DLC released",
-            "Enhance islands with decorations",
-            "Players can enjoy fresh content"
-          ],
-          "impact": "This update enriches the gaming experience.",
-          "id": "bde08bd6eb7d919e62e3a3529966271c"
         }
       ]
     }

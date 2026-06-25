@@ -1,245 +1,101 @@
 {
-  "generated_at": "2026-06-25T17:11:30.222582+00:00",
+  "generated_at": "2026-06-25T19:58:53.914661+00:00",
   "articles": [
     {
-      "title": "Top Amazon Prime Day Laptop Deals Revealed",
-      "description": "Prime Day offers fantastic laptop deals, tested by experts. Don't miss out on significant savings during this major sale event.",
-      "category": "Business",
-      "source": "CNN",
-      "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-laptop-computer-deals-2026-06-24",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/henry-lenovo-chromebook-duet-11-outro-or-cover.jpg?c=16x9&q=w_800,c_fill",
-      "published_at": "2026-06-24T18:28:09Z",
-      "key_points": [
-        "Great deals on laptops",
-        "Expert-tested recommendations",
-        "Prime Day savings available"
-      ],
-      "impact": "Consumers can save significantly on laptops.",
-      "id": "5c68a10589fb9084b4b641954e4b1316"
-    },
-    {
-      "title": "Facebook Launches AI Companion App for Creators",
-      "description": "Facebook introduces an AI companion app to assist creators in audience growth. Currently in testing with select users, it enhances content creation.",
-      "category": "Software",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/facebook-logo-on-phone.jpg?resize=1200,800",
-      "published_at": "2026-06-24T17:16:24Z",
-      "key_points": [
-        "AI tool for content creators",
-        "Enhances audience engagement",
-        "Currently in testing phase"
-      ],
-      "impact": "Creators gain new tools for audience growth.",
-      "id": "e56119b650d57ff477efc872f8ae54c9"
-    },
-    {
-      "title": "Best Prime Day Phone Deals You Shouldn't Miss",
-      "description": "Prime Day 2026 features incredible discounts on smartphones, including top models like Google Pixel 10 Pro and Samsung Galaxy S26.",
-      "category": "Business",
-      "source": "ZDNet",
-      "url": "https://www.zdnet.com/article/best-amazon-prime-day-phone-deals-2026/",
-      "image": "https://www.zdnet.com/a/img/resize/47461e993bdc184a9bf939f6a59e52818f2b8e64/2026/05/26/b3ff652f-8a2a-4485-a817-2a75f4cb77e9/zdnet-primeday-phones.png?auto=webp&fit=crop&height=675&width=1200",
-      "published_at": "2026-06-24T16:49:00Z",
-      "key_points": [
-        "Huge savings on smartphones",
-        "Includes top brands",
-        "Prime Day event ongoing"
-      ],
-      "impact": "Smartphone shoppers can save hundreds.",
-      "id": "7d651c8dedb0ef9a6392bcd8130f7c8a"
-    },
-    {
-      "title": "GTA 6 Price and Launch Details Revealed",
-      "description": "Rockstar Games announces the $80 price for 'GTA VI', confirming a single-player experience at launch. Pre-orders are now open.",
+      "title": "Halo: Campaign Evolved's PC Specs Revealed",
+      "description": "Halo: Campaign Evolved's PC requirements are now available, featuring manageable specs for gamers. Prepare for a nostalgic remake experience with updated gameplay.",
       "category": "Gaming",
-      "source": "Variety",
-      "url": "https://variety.com/2026/gaming/news/gta-6-price-single-player-pre-orders-1236789407/",
-      "image": "https://variety.com/wp-content/uploads/2026/06/GTA-6.png?w=1000&h=563&crop=1",
-      "published_at": "2026-06-24T15:55:00Z",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/gaming/halo/xbox-announced-halo-campaign-evolveds-pc-system-requirements-and-recommended-specs",
+      "image": "https://cdn.mos.cms.futurecdn.net/nmzTHEi2KNBCGqYSVUyuq6-2560-80.jpg",
+      "published_at": "2026-06-23T20:39:10Z",
       "key_points": [
-        "GTA VI priced at $80",
-        "Single-player launch confirmed",
-        "Pre-orders now available"
+        "Manageable PC requirements",
+        "Nostalgic gameplay experience",
+        "Full remake of Halo"
       ],
-      "impact": "Fans eagerly await the game's release.",
-      "id": "b9851bed0ab0c49a59f0976bf59c38b7"
+      "impact": "Gamers can prepare for an exciting remake.",
+      "id": "6c88c846d7f413e35c757592facce0b6"
     },
     {
-      "title": "Prime Day Discounts on Charging Gear",
-      "description": "Discover great deals on charging accessories during Prime Day, featuring brands like Anker and Belkin. Stock up on essential gear now.",
-      "category": "Business",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/951249/prime-day-chargers-power-banks-deal-sale",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/anker_nano3.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-      "published_at": "2026-06-24T14:00:00Z",
-      "key_points": [
-        "Discounts on charging accessories",
-        "Brands like Anker featured",
-        "Essential gear on sale"
-      ],
-      "impact": "Consumers can enhance their charging setups.",
-      "id": "5fb7c9f2b6db6f86cdb62fa55daa091c"
-    },
-    {
-      "title": "OLED TVs on Sale for Prime Day 2026",
-      "description": "Significant discounts on four OLED TVs during Amazon's Prime Day sales. Ideal for anyone looking to upgrade their home entertainment.",
-      "category": "Business",
-      "source": "bgr.com",
-      "url": "https://www.bgr.com/2200551/best-amazon-prime-day-deals-oled-smart-tv-june/",
-      "image": "https://www.bgr.com/img/gallery/4-oled-tvs-with-deep-discounts-during-amazon-prime-day-2026/l-intro-1782307686.jpg",
-      "published_at": "2026-06-24T13:31:18Z",
-      "key_points": [
-        "Deep discounts on OLED TVs",
-        "Upgrade your home entertainment",
-        "Prime Day sales ongoing"
-      ],
-      "impact": "Home entertainment enthusiasts can save big.",
-      "id": "4e49d16fa1ddc46f753d27aa3d0ae616"
-    },
-    {
-      "title": "iPhone Ultra's Launch Issues Resolved",
-      "description": "Reports indicate that 3D-printed hinge problems for the iPhone Ultra have been fixed, ensuring a September launch is on track.",
-      "category": "Business",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/24/iphone-ultra-3d-printed-hinge-problems-reportedly-solved-ready-for-september-launch/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-24T13:05:00Z",
-      "key_points": [
-        "iPhone Ultra launch on track",
-        "Hinge issues resolved",
-        "September unveiling expected"
-      ],
-      "impact": "Apple fans can anticipate the new model.",
-      "id": "d5db4fd59aac30a7956b5c57f1aa8da4"
-    },
-    {
-      "title": "Google Home Speaker Review: Good Sound, Odd Controls",
-      "description": "The new Google Home Speaker delivers impressive audio quality but has some control quirks. Powered by Gemini, it shows promise.",
-      "category": "Software",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Google-Home-Speaker.jpg?quality=90&strip=all&crop=0%2C10.728785061485%2C100%2C78.54242987703&w=1200",
-      "published_at": "2026-06-24T13:00:00Z",
-      "key_points": [
-        "Impressive audio quality",
-        "Controls may confuse users",
-        "Gemini technology featured"
-      ],
-      "impact": "Google's speaker offers solid sound performance.",
-      "id": "3a7dd2fd1f04868f6195cbd1e8aa99a8"
-    },
-    {
-      "title": "Amazon Prime Day Deals: Tech Accessories Galore",
-      "description": "The 2026 Amazon Prime Day features extensive discounts across various product categories, including tech accessories. Don't miss out on savings.",
-      "category": "Business",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/06/24/best-prime-day-deals-pixel-galaxy/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Amazon-Prime-Day_green-2026.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-24T07:05:00Z",
-      "key_points": [
-        "Extensive Prime Day discounts",
-        "Savings on tech accessories",
-        "Wide product range available"
-      ],
-      "impact": "Shoppers can find great deals on tech.",
-      "id": "b294b91b4485452212e4b74f997f8af5"
-    },
-    {
-      "title": "Grand Seiko's New 37mm Spring Drive Watch",
-      "description": "The Grand Seiko Evolution 9 SLGB015 features a stunning blue Lake Suwa dial and advanced UFA movement. A must-see for watch enthusiasts.",
-      "category": "Business",
-      "source": "Monochrome Watches",
-      "url": "https://monochrome-watches.com/grand-seiko-evolution-9-spring-drive-ufa-lake-suwa-slgb015-steel-micro-adjustment-review-price/",
-      "image": "https://monochrome-watches.com/app/uploads/2026/06/grand-seiko-evolution-9-spring-drive-ufa-lake-suwa-slgb015-steel-1.jpg",
-      "published_at": "2026-06-24T03:01:06Z",
-      "key_points": [
-        "New Grand Seiko model unveiled",
-        "Features blue Lake Suwa dial",
-        "Advanced UFA movement included"
-      ],
-      "impact": "Watch collectors will appreciate this release.",
-      "id": "ad7eea4c952b8407a0c6a11d9d546b57"
-    },
-    {
-      "title": "Google Messages Introduces Custom Chat Themes",
-      "description": "Google Messages now allows users to customize chat themes with wallpaper backgrounds, enhancing personalization options for Android users.",
-      "category": "Software",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/06/23/google-messages-chat-theme-start/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-messages-logo-circle-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-23T23:10:00Z",
-      "key_points": [
-        "Custom chat themes launched",
-        "Personalization for Android users",
-        "New wallpaper options available"
-      ],
-      "impact": "Users can now personalize their messaging experience.",
-      "id": "2cca60adaed9b6ff3ce5c90bf7dd585f"
-    },
-    {
-      "title": "Marathon's New PvE Mode Launch Date Announced",
-      "description": "Marathon confirms the release date for its new PvE mode, Vault Breaker, set to launch alongside Season 3 in September 2026.",
+      "title": "Steam Machine's Companion Cube Case: A Mixed Bag",
+      "description": "Dbrand's Companion Cube case for the Steam Machine is both expensive and well-crafted, drawing from a beloved gaming joke. It's a unique blend of nostalgia and quality design.",
       "category": "Gaming",
+      "source": "Rock Paper Shotgun",
+      "url": "https://www.rockpapershotgun.com/the-steam-machines-companion-cube-case-is-big-expensive-and-based-on-a-19-year-old-joke-so-i-hate-how-well-made-it-is",
+      "image": "https://assetsio.gnwcdn.com/Steam-Machine-Companion-Cube-Dbrand.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-23T19:44:13Z",
+      "key_points": [
+        "Expensive but well-made",
+        "Based on a gaming joke",
+        "Unique design appeal"
+      ],
+      "impact": "The case appeals to both nostalgia and quality.",
+      "id": "2c9e7bb058893f523df28ea5afede057"
+    },
+    {
+      "title": "Samsung Unveils Twice-as-Fast UFS 5.0 Storage",
+      "description": "Samsung's new UFS 5.0 storage promises double the speed of current options, set to enhance future flagship smartphones. This innovation aims to improve mobile performance significantly.",
+      "category": "Hardware",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/06/23/samsung-teases-twice-as-fast-ufs-5-0-storage-for-future-flagship-smartphones/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-23T18:40:00Z",
+      "key_points": [
+        "Twice the speed of current storage",
+        "Future flagship smartphones",
+        "Significant performance boost"
+      ],
+      "impact": "Mobile devices will experience enhanced performance.",
+      "id": "b56b42054b7f4a08b9233f6252322ae6"
+    },
+    {
+      "title": "Kindle Colorsoft Price Drops for Prime Day",
+      "description": "The Kindle Colorsoft is now available at a new low price for Prime Day, making it an attractive option for comic readers. This deal offers significant savings for avid readers.",
+      "category": "Business",
       "source": "IGN",
-      "url": "https://www.ign.com/articles/marathon-confirms-new-pve-mode-release-date-season-3-begins-september-2026",
-      "image": "https://assets-prd.ignimgs.com/2026/05/26/marathonthumb-1779822629000.png?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-23T22:21:47Z",
+      "url": "https://www.ign.com/articles/kindle-colorsoft-deal-amazon-prime-day-2026",
+      "image": "https://assets-prd.ignimgs.com/2025/04/23/81yrk24ayl-ac-sl1500-1745435120574.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-23T17:25:08Z",
       "key_points": [
-        "New PvE mode Vault Breaker",
-        "Season 3 starts September",
-        "Release date confirmed"
+        "New low price for Prime Day",
+        "Great for comic readers",
+        "Significant savings available"
       ],
-      "impact": "Gamers can look forward to new content.",
-      "id": "22daee55b8cc076774d19cc5d24b49b3"
+      "impact": "Readers can save big on Kindle Colorsoft.",
+      "id": "a15732e03337301aeadda04fb1387de3"
     },
     {
-      "title": "Adobe's AI Assistant Enhances Creative Workflow",
-      "description": "Adobe's AI assistant aims to streamline editing tasks for photographers, allowing more time for creative work within Creative Cloud applications.",
+      "title": "Pixel Users Report Touchscreen Bug on Android 17",
+      "description": "Pixel users are experiencing a new touchscreen bug with Android 17, affecting input during video playback. This issue continues to frustrate users of the latest Android version.",
       "category": "Software",
-      "source": "PetaPixel",
-      "url": "https://petapixel.com/2026/06/23/adobes-ai-assistant-wants-to-give-photographers-more-time-for-actual-creative-tasks/",
-      "image": "https://petapixel.com/assets/uploads/2026/06/ai-assistant-featured.jpg",
-      "published_at": "2026-06-23T21:49:00Z",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/06/23/another-touchscreen-bug-appears-in-android-17-on-pixel/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-23T17:10:00Z",
       "key_points": [
-        "AI assistant for creative tasks",
-        "Streamlines editing process",
-        "Available in Creative Cloud"
+        "New touchscreen bug reported",
+        "Affects video playback",
+        "Frustrating for Pixel users"
       ],
-      "impact": "Photographers can focus more on creativity.",
-      "id": "49e1aeca0215eb21c624b8c1b26cdedc"
+      "impact": "Users face ongoing issues with touchscreen functionality.",
+      "id": "037ed4eafb7b1961c8fd9b7b66edd7c8"
     },
     {
-      "title": "Apple Releases Beta Firmware for AirPods",
-      "description": "Apple has released updated beta firmware for various AirPods models, introducing new features ahead of iOS 27.",
-      "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/23/apple-airpods-beta-firmware-2-ios-27/",
-      "image": "https://images.macrumors.com/t/w0al4HvgLYLDB-3EcvyJ63Z-lqw=/2250x/article-new/2021/06/AirPods-Pro-Beta-Firmware-2.jpg",
-      "published_at": "2026-06-23T21:34:53Z",
+      "title": "Cam McCaul Joins Revel Bikes Team",
+      "description": "Freeride icon Cam McCaul has signed a long-term partnership with Revel Bikes, enhancing the brand's presence in mountain biking. This collaboration is expected to elevate both parties.",
+      "category": "Startups",
+      "source": "Pinkbike",
+      "url": "https://www.pinkbike.com/news/revel-bikes-welcomes-freeride-icon-cam-mccaul-to-the-team.html",
+      "image": "https://ep1.pinkbike.org/p4pb29905123/p4pb29905123.jpg",
+      "published_at": "2026-06-23T16:00:00Z",
       "key_points": [
-        "Beta firmware for AirPods released",
-        "New features for developers",
-        "Limited to select models"
+        "Cam McCaul joins Revel Bikes",
+        "Long-term partnership established",
+        "Boosts brand presence"
       ],
-      "impact": "Developers can test upcoming AirPods features.",
-      "id": "c3cc66118b72961e4f723be3d3c25251"
-    },
-    {
-      "title": "Meta's Vision for Smart Glasses Privacy",
-      "description": "Meta's CTO suggests that public opinion will shape privacy expectations for smart glasses, as the company launches new models.",
-      "category": "Geopolitics",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/meta-thinks-social-learning-can-fix-smart-glasses-privacy-problems-2000776162",
-      "image": "https://gizmodo.com/app/uploads/2025/09/ray-ban-meta-gen-2-13-1200x675.jpg",
-      "published_at": "2026-06-23T21:15:23Z",
-      "key_points": [
-        "Privacy shaped by public opinion",
-        "New smart glasses launched",
-        "Meta's bold approach"
-      ],
-      "impact": "Privacy discussions around smart glasses intensify.",
-      "id": "e76109282233aeff9870d9a5d8a4bad6"
+      "impact": "Revel Bikes strengthens its position in the market.",
+      "id": "446c6fa896c6f873e0613b7c31931f5a"
     }
   ]
 }
