@@ -5,107 +5,71 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jun 2026 17:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 19:45:18 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>MacBook Discounts Before Price Hikes</title>
-      <description>Apple's upcoming price hikes on MacBooks prompt significant discounts. Grab these deals before they disappear.</description>
-      <link>https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes</link>
-      <guid isPermaLink="true">https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes</guid>
-      <pubDate>2026-06-25T15:16:28Z</pubDate>
+      <title>Xbox Prices Surge by $100 or More</title>
+      <description>Xbox raises console prices significantly, with Series S starting at $499.99 and Series X at $749.99. Discless versions are even pricier.</description>
+      <link>https://www.theverge.com/games/957042/xbox-price-increase-memory-shortage</link>
+      <guid isPermaLink="true">https://www.theverge.com/games/957042/xbox-price-increase-memory-shortage</guid>
+      <pubDate>2026-06-25T16:49:17Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.theverge.com/games/957042/xbox-price-increase-memory-shortage">The Verge</source>
+    </item>
+    <item>
+      <title>Apple Skips M6 Chips for AI-Focused M7 Line</title>
+      <description>Apple shifts its Mac chip strategy, opting for AI-centric M7 processors instead of high-end M6 chips. This marks a significant change in their approach.</description>
+      <link>https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead</guid>
+      <pubDate>2026-06-25T16:35:34Z</pubDate>
       <category>Business</category>
-      <source url="https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes">The Verge</source>
+      <source url="https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead">Bloomberg</source>
     </item>
     <item>
-      <title>Warhammer: The Old World Miniatures Revealed</title>
-      <description>Classic miniatures like Dragons and Ogres return in the Warhammer universe. Fans can now order these nostalgic pieces.</description>
-      <link>https://www.warhammer-community.com/articles/bfjhjmvu/revealed-warhammer-the-old-world-made-to-order-miniatures</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/articles/bfjhjmvu/revealed-warhammer-the-old-world-made-to-order-miniatures</guid>
-      <pubDate>2026-06-25T11:57:07Z</pubDate>
+      <title>Bungie Faces Layoffs After Destiny 2 Closure</title>
+      <description>Bungie announces layoffs following the final update for Destiny 2, citing unmet expectations for the game. The number of layoffs remains unspecified.</description>
+      <link>https://www.theverge.com/entertainment/956880/bungie-layoffs-destiny-2</link>
+      <guid isPermaLink="true">https://www.theverge.com/entertainment/956880/bungie-layoffs-destiny-2</guid>
+      <pubDate>2026-06-25T14:49:15Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.warhammer-community.com/articles/bfjhjmvu/revealed-warhammer-the-old-world-made-to-order-miniatures">Warhammer Community</source>
+      <source url="https://www.theverge.com/entertainment/956880/bungie-layoffs-destiny-2">The Verge</source>
     </item>
     <item>
-      <title>GTA VI Release Finally Confirmed</title>
-      <description>After years of anticipation, 'Grand Theft Auto VI' is set for release, promising to be a monumental gaming event.</description>
-      <link>https://www.wired.com/story/after-more-than-a-decade-of-waiting-gta-vi-is-finally-around-the-corner/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/after-more-than-a-decade-of-waiting-gta-vi-is-finally-around-the-corner/</guid>
-      <pubDate>2026-06-25T10:30:00Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.wired.com/story/after-more-than-a-decade-of-waiting-gta-vi-is-finally-around-the-corner/">WIRED</source>
-    </item>
-    <item>
-      <title>Porsche Launches New 911 GT4 R</title>
-      <description>Porsche introduces the 911 GT4 R, designed for global GT4 racing, featuring a powerful six-cylinder engine.</description>
-      <link>https://newsroom.porsche.com/en/2026/motorsports/porsche-911-gt4-r-customer-motorsport-42700.html</link>
-      <guid isPermaLink="true">https://newsroom.porsche.com/en/2026/motorsports/porsche-911-gt4-r-customer-motorsport-42700.html</guid>
-      <pubDate>2026-06-25T06:15:24Z</pubDate>
+      <title>Samsung Galaxy A27 5G Launches with New Features</title>
+      <description>Samsung unveils the Galaxy A27 5G, featuring an immersive Infinity-O display and enhanced performance. Aimed at providing intelligent tools for users.</description>
+      <link>https://news.samsung.com/uk/samsung-galaxy-a27-5g-brings-an-immersive-display-and-awesome-intelligence-to-more-users</link>
+      <guid isPermaLink="true">https://news.samsung.com/uk/samsung-galaxy-a27-5g-brings-an-immersive-display-and-awesome-intelligence-to-more-users</guid>
+      <pubDate>2026-06-25T12:03:23Z</pubDate>
       <category>Business</category>
-      <source url="https://newsroom.porsche.com/en/2026/motorsports/porsche-911-gt4-r-customer-motorsport-42700.html">Porsche Newsroom</source>
+      <source url="https://news.samsung.com/uk/samsung-galaxy-a27-5g-brings-an-immersive-display-and-awesome-intelligence-to-more-users">Samsung.com</source>
     </item>
     <item>
-      <title>Microsoft's Quantum Claims Under Scrutiny</title>
-      <description>A new paper challenges Microsoft's Majorana 1 claims, stating no conclusive evidence for a working topological qubit. Microsoft disputes this.</description>
-      <link>https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims</guid>
-      <pubDate>2026-06-24T20:54:57Z</pubDate>
-      <category>Science</category>
-      <source url="https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims">The Verge</source>
-    </item>
-    <item>
-      <title>Steam Machine Sells Out in Japan</title>
-      <description>Despite high pricing, Valve's Steam Machine sells out in Japan, bypassing the usual reservation system.</description>
-      <link>https://www.techpowerup.com/350257/steam-machine-sells-out-in-japan-despite-woeful-pricing</link>
-      <guid isPermaLink="true">https://www.techpowerup.com/350257/steam-machine-sells-out-in-japan-despite-woeful-pricing</guid>
-      <pubDate>2026-06-24T20:01:16Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.techpowerup.com/350257/steam-machine-sells-out-in-japan-despite-woeful-pricing">TechPowerUp</source>
-    </item>
-    <item>
-      <title>Snap's Heavy AR Specs Criticized</title>
-      <description>Snap's new AR Specs glasses receive backlash for being heavy and awkward. Users find them less than appealing.</description>
-      <link>https://www.404media.co/snaps-ai-ar-specs-lol/</link>
-      <guid isPermaLink="true">https://www.404media.co/snaps-ai-ar-specs-lol/</guid>
-      <pubDate>2026-06-24T13:36:57Z</pubDate>
-      <category>Software</category>
-      <source url="https://www.404media.co/snaps-ai-ar-specs-lol/">404 Media</source>
-    </item>
-    <item>
-      <title>Prime Day Deals on Switch 2 Accessories</title>
-      <description>Prime Day offers discounts on various Nintendo Switch 2 accessories, including controllers and cases.</description>
-      <link>https://www.theverge.com/gadgets/951950/prime-day-nintendo-switch-2-accessories-cases-controllers-docks-chargers-deal-sale</link>
-      <guid isPermaLink="true">https://www.theverge.com/gadgets/951950/prime-day-nintendo-switch-2-accessories-cases-controllers-docks-chargers-deal-sale</guid>
-      <pubDate>2026-06-24T13:00:00Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.theverge.com/gadgets/951950/prime-day-nintendo-switch-2-accessories-cases-controllers-docks-chargers-deal-sale">The Verge</source>
-    </item>
-    <item>
-      <title>Galaxy Z Flip 8 Chip Details Leaked</title>
-      <description>Samsung's Galaxy Z Flip 8 reveals Snapdragon 8 Elite Gen 5 chip in FCC filing, confirming key specifications.</description>
-      <link>https://www.androidauthority.com/samsung-galaxy-z-flip-8-fcc-snapdragon-3680839/</link>
-      <guid isPermaLink="true">https://www.androidauthority.com/samsung-galaxy-z-flip-8-fcc-snapdragon-3680839/</guid>
-      <pubDate>2026-06-24T12:39:59Z</pubDate>
+      <title>iPhone Ultra 2 Approved, iPhone Air 3 Not</title>
+      <description>A reliable leaker reveals that Apple has approved the iPhone Ultra 2 but has not greenlit the iPhone Air 3. Anticipation builds for the Ultra model.</description>
+      <link>https://9to5mac.com/2026/06/25/iphone-ultra-2-already-given-go-ahead-iphone-air-3-not-says-leaker/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/25/iphone-ultra-2-already-given-go-ahead-iphone-air-3-not-says-leaker/</guid>
+      <pubDate>2026-06-25T11:14:00Z</pubDate>
       <category>Business</category>
-      <source url="https://www.androidauthority.com/samsung-galaxy-z-flip-8-fcc-snapdragon-3680839/">Android Authority</source>
+      <source url="https://9to5mac.com/2026/06/25/iphone-ultra-2-already-given-go-ahead-iphone-air-3-not-says-leaker/">9to5Mac</source>
     </item>
     <item>
-      <title>Best Prime Day Deals for 2026</title>
-      <description>Amazon Prime Day 2026 features significant discounts across various tech products, including Pixel and Galaxy devices.</description>
-      <link>http://9to5google.com/2026/06/25/best-prime-day-deals-pixel-galaxy/</link>
-      <guid isPermaLink="true">http://9to5google.com/2026/06/25/best-prime-day-deals-pixel-galaxy/</guid>
-      <pubDate>2026-06-24T07:05:00Z</pubDate>
+      <title>Porsche Unveils New 911 GT4 R for Motorsport</title>
+      <description>Porsche introduces the 911 GT4 R, featuring a high-revving engine and targeting the global GT4 racing scene. This model enhances Porsche's customer motorsport program.</description>
+      <link>https://newsroom.porsche.com/en_US/2026/motorsport/porsche-911-gt4-r-customer-motorsport-42713.html</link>
+      <guid isPermaLink="true">https://newsroom.porsche.com/en_US/2026/motorsport/porsche-911-gt4-r-customer-motorsport-42713.html</guid>
+      <pubDate>2026-06-25T06:21:11Z</pubDate>
       <category>Business</category>
-      <source url="http://9to5google.com/2026/06/25/best-prime-day-deals-pixel-galaxy/">9to5Google</source>
+      <source url="https://newsroom.porsche.com/en_US/2026/motorsport/porsche-911-gt4-r-customer-motorsport-42713.html">Porsche.com</source>
     </item>
     <item>
-      <title>Top Prime Day Deals for Gaming Gear</title>
-      <description>Prime Day 2026 highlights the best deals on gaming handhelds, controllers, and accessories, perfect for enthusiasts.</description>
-      <link>https://retrohandhelds.gg/rh-picks-best-prime-day-deals-of-2026/</link>
-      <guid isPermaLink="true">https://retrohandhelds.gg/rh-picks-best-prime-day-deals-of-2026/</guid>
-      <pubDate>2026-06-23T18:05:52Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://retrohandhelds.gg/rh-picks-best-prime-day-deals-of-2026/">Retro Handhelds</source>
+      <title>MacBook Air M3 Now Cheaper Than Windows Laptops</title>
+      <description>The new MacBook Air M3 is now priced lower than many Windows laptops, offering superior battery life and display quality. A significant deal for consumers.</description>
+      <link>https://gizmodo.com/new-macbook-air-m3-is-now-cheaper-than-basic-windows-laptops-amazon-goes-40-off-and-apple-keeps-its-full-warranty-2000776615</link>
+      <guid isPermaLink="true">https://gizmodo.com/new-macbook-air-m3-is-now-cheaper-than-basic-windows-laptops-amazon-goes-40-off-and-apple-keeps-its-full-warranty-2000776615</guid>
+      <pubDate>2026-06-24T14:35:08Z</pubDate>
+      <category>Business</category>
+      <source url="https://gizmodo.com/new-macbook-air-m3-is-now-cheaper-than-basic-windows-laptops-amazon-goes-40-off-and-apple-keeps-its-full-warranty-2000776615">Gizmodo.com</source>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,125 @@
 {
   "batches": [
     {
+      "id": "2026-06-26T19:45:05.118887+00:00",
+      "fetched_at": "2026-06-26T19:45:05.118887+00:00",
+      "label": "Jun 26, 2026 — 07:45 PM UTC",
+      "articles": [
+        {
+          "title": "Xbox Prices Surge by $100 or More",
+          "description": "Xbox raises console prices significantly, with Series S starting at $499.99 and Series X at $749.99. Discless versions are even pricier.",
+          "category": "Gaming",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/957042/xbox-price-increase-memory-shortage",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22012260/vpavic_4275_20201030_0036.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-25T16:49:17Z",
+          "key_points": [
+            "Prices increase across all consoles",
+            "Series X now starts at $749.99",
+            "Discless version costs $799.99"
+          ],
+          "impact": "Consumers face higher costs for Xbox consoles.",
+          "id": "0c9f7ac20ff38cba8f075866276e9bbe"
+        },
+        {
+          "title": "Apple Skips M6 Chips for AI-Focused M7 Line",
+          "description": "Apple shifts its Mac chip strategy, opting for AI-centric M7 processors instead of high-end M6 chips. This marks a significant change in their approach.",
+          "category": "Business",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5yP26iAJkyM/v1/1200x800.jpg",
+          "published_at": "2026-06-25T16:35:34Z",
+          "key_points": [
+            "Apple prioritizes AI in new chips",
+            "M7 line replaces M6 chips",
+            "Major shift in silicon strategy"
+          ],
+          "impact": "Apple's focus on AI may reshape Mac performance.",
+          "id": "e64e7ca22198cc01a7a5560beb2bfde2"
+        },
+        {
+          "title": "Bungie Faces Layoffs After Destiny 2 Closure",
+          "description": "Bungie announces layoffs following the final update for Destiny 2, citing unmet expectations for the game. The number of layoffs remains unspecified.",
+          "category": "Gaming",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/956880/bungie-layoffs-destiny-2",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ss_766aedcb8d2eb8fcb08002919ee10f5ac6c02d79.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+          "published_at": "2026-06-25T14:49:15Z",
+          "key_points": [
+            "Bungie confirms unspecified layoffs",
+            "Destiny 2 update marks closure",
+            "Studio acknowledges unmet expectations"
+          ],
+          "impact": "Layoffs reflect challenges in game development.",
+          "id": "45d7cf9dfb61c9080af3d5dd788af99b"
+        },
+        {
+          "title": "Samsung Galaxy A27 5G Launches with New Features",
+          "description": "Samsung unveils the Galaxy A27 5G, featuring an immersive Infinity-O display and enhanced performance. Aimed at providing intelligent tools for users.",
+          "category": "Business",
+          "source": "Samsung.com",
+          "url": "https://news.samsung.com/uk/samsung-galaxy-a27-5g-brings-an-immersive-display-and-awesome-intelligence-to-more-users",
+          "image": "https://img.global.news.samsung.com/uk/wp-content/uploads/2026/06/A27-thumbnail-e1782388378516.png",
+          "published_at": "2026-06-25T12:03:23Z",
+          "key_points": [
+            "Galaxy A27 features Infinity-O display",
+            "Enhanced performance for users",
+            "Intelligent tools included"
+          ],
+          "impact": "Samsung expands its smartphone offerings with A27.",
+          "id": "9489424be8457a00de45b8bf8b3e1b7e"
+        },
+        {
+          "title": "iPhone Ultra 2 Approved, iPhone Air 3 Not",
+          "description": "A reliable leaker reveals that Apple has approved the iPhone Ultra 2 but has not greenlit the iPhone Air 3. Anticipation builds for the Ultra model.",
+          "category": "Business",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/25/iphone-ultra-2-already-given-go-ahead-iphone-air-3-not-says-leaker/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-fold-ultra-ios-27-leak.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-25T11:14:00Z",
+          "key_points": [
+            "iPhone Ultra 2 gets approval",
+            "iPhone Air 3 not greenlit",
+            "Leaker has reliable track record"
+          ],
+          "impact": "Apple's product lineup continues to evolve.",
+          "id": "0e6dc8768189ac0a3966c4abf2632e35"
+        },
+        {
+          "title": "Porsche Unveils New 911 GT4 R for Motorsport",
+          "description": "Porsche introduces the 911 GT4 R, featuring a high-revving engine and targeting the global GT4 racing scene. This model enhances Porsche's customer motorsport program.",
+          "category": "Business",
+          "source": "Porsche.com",
+          "url": "https://newsroom.porsche.com/en_US/2026/motorsport/porsche-911-gt4-r-customer-motorsport-42713.html",
+          "image": "https://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=335962&w=700&h=467&crop=0&public=1&cs=24de911c9f3d99f9",
+          "published_at": "2026-06-25T06:21:11Z",
+          "key_points": [
+            "New 911 GT4 R launched",
+            "Features high-revving racing engine",
+            "Targets global GT4 motorsport"
+          ],
+          "impact": "Porsche strengthens its motorsport presence.",
+          "id": "48425a26df350c34ccbc3a0b3b0aab0b"
+        },
+        {
+          "title": "MacBook Air M3 Now Cheaper Than Windows Laptops",
+          "description": "The new MacBook Air M3 is now priced lower than many Windows laptops, offering superior battery life and display quality. A significant deal for consumers.",
+          "category": "Business",
+          "source": "Gizmodo.com",
+          "url": "https://gizmodo.com/new-macbook-air-m3-is-now-cheaper-than-basic-windows-laptops-amazon-goes-40-off-and-apple-keeps-its-full-warranty-2000776615",
+          "image": "https://gizmodo.com/app/uploads/2026/05/Apple-2026-MacBook-Air-15-inch-Laptop-with-M5-chip-1200x675.jpg",
+          "published_at": "2026-06-24T14:35:08Z",
+          "key_points": [
+            "MacBook Air M3 cheaper than Windows",
+            "40% off on Amazon",
+            "Full Apple warranty included"
+          ],
+          "impact": "Consumers benefit from competitive pricing.",
+          "id": "f66d93cb295a10c3fa16032eace48484"
+        }
+      ]
+    },
+    {
       "id": "2026-06-26T17:00:01.087722+00:00",
       "fetched_at": "2026-06-26T17:00:01.087722+00:00",
       "label": "Jun 26, 2026 — 05:00 PM UTC",
@@ -5992,93 +6111,6 @@
           ],
           "impact": "Increased audience reflects franchise revival.",
           "id": "076f61c1a099d4bae1f1d20fb3e2fe88"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-21T16:44:52.051115+00:00",
-      "fetched_at": "2026-06-21T16:44:52.051115+00:00",
-      "label": "Jun 21, 2026 — 04:45 PM UTC",
-      "articles": [
-        {
-          "title": "Sea of Thieves Unleashes Custom Seas for Players",
-          "description": "Sea of Thieves: Season 20 introduces Custom Seas, allowing players to create private sandbox experiences. Enjoy ultimate control with new creative tools.",
-          "category": "Gaming",
-          "source": "Xbox.com",
-          "url": "https://news.xbox.com/en-us/2026/06/19/sea-of-thieves-custom-seas-update-details/",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/CustomSeas_UnBranded_S20_KeyArt_1080-d888660df6a9cdc6b594.jpg",
-          "published_at": "2026-06-19T16:02:29Z",
-          "key_points": [
-            "Custom Seas feature launched",
-            "Players gain creative control",
-            "Private sandbox experiences available"
-          ],
-          "impact": "This update enhances player engagement and creativity.",
-          "id": "166c6e3eaa57cac98c301338c8e626ed"
-        },
-        {
-          "title": "Early Prime Day Desktop Deals Unveiled",
-          "description": "Prime Day approaches with significant discounts on desktops, including gaming PCs and all-in-ones. Get ready for great deals on essential tech.",
-          "category": "Business",
-          "source": "PCMag.com",
-          "url": "https://www.pcmag.com/news/best-early-amazon-prime-day-sale-desktop-pc-deals-2026-june-20",
-          "image": "https://i.pcmag.com/imagery/articles/06LYfrthu3nmFiNjXMwW0U7-1.fit_lim.size_1200x630.v1781882856.png",
-          "published_at": "2026-06-19T15:37:15Z",
-          "key_points": [
-            "Prime Day discounts announced",
-            "Deals on gaming PCs",
-            "Savings on office desktops"
-          ],
-          "impact": "Consumers can save significantly on tech purchases.",
-          "id": "edc3aebc5a17d36cc87b4605a808c637"
-        },
-        {
-          "title": "Two Point Museum Welcomes DAVE THE DIVER",
-          "description": "The latest update for Two Point Museum introduces DAVE THE DIVER, enhancing the gaming experience with new content. Dive into the Digiverse now.",
-          "category": "Gaming",
-          "source": "Gematsu",
-          "url": "https://www.gematsu.com/2026/06/two-point-museum-x-dave-the-diver-collaboration-update-now-available",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Two-Point-Museum-Update_06-19-26.jpg",
-          "published_at": "2026-06-19T15:23:07Z",
-          "key_points": [
-            "New collaboration update released",
-            "DAVE THE DIVER joins the game",
-            "Explore the Digiverse now"
-          ],
-          "impact": "This update enriches gameplay and player engagement.",
-          "id": "c14ce27b6fcc49d141b8e0760205ad0c"
-        },
-        {
-          "title": "Three-Armed Robot Revolutionizes Fish Preparation",
-          "description": "A new three-armed robot can expertly slice and serve fish, overcoming challenges of handling slippery materials. This innovation could transform kitchen tasks.",
-          "category": "Science",
-          "source": "Tech Xplore",
-          "url": "https://techxplore.com/news/2026-06-armed-sashimi-bot-slice-fish.html",
-          "image": "https://scx2.b-cdn.net/gfx/news/2026/a-three-armed-robot-le.jpg",
-          "published_at": "2026-06-19T14:20:03Z",
-          "key_points": [
-            "Three-armed robot introduced",
-            "Handles slippery fish efficiently",
-            "Potential kitchen game-changer"
-          ],
-          "impact": "This technology could enhance culinary efficiency.",
-          "id": "6d68c556dd1d3f15723f20f6d3f3202d"
-        },
-        {
-          "title": "Sony Shifts Focus to Exclusive PlayStation Titles",
-          "description": "Sony's latest business strategy document reveals a shift away from PC releases, emphasizing exclusivity for PlayStation's single-player games. Major changes ahead.",
-          "category": "Geopolitics",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/sony-ditches-mention-of-pc-releases-from-business-strategy-document-as-playstations-single-player-games-now-expected-to-be-fully-exclusive",
-          "image": "https://assets-prd.ignimgs.com/2026/02/24/wolverinethumb-1771953161030.png?width=1280&format=jpg&auto=webp&quality=80",
-          "published_at": "2026-06-19T13:42:38Z",
-          "key_points": [
-            "Sony drops PC release mentions",
-            "Focus on exclusive titles",
-            "Shift in multiplatform strategy"
-          ],
-          "impact": "This could reshape PlayStation's market strategy.",
-          "id": "95d83c1f61b372c9e13d5ca65d3ef584"
         }
       ]
     }
