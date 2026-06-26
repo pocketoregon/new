@@ -1,117 +1,197 @@
 {
-  "generated_at": "2026-06-26T19:45:05.118887+00:00",
+  "generated_at": "2026-06-26T22:12:17.693289+00:00",
   "articles": [
     {
-      "title": "Xbox Prices Surge by $100 or More",
-      "description": "Xbox raises console prices significantly, with Series S starting at $499.99 and Series X at $749.99. Discless versions are even pricier.",
+      "title": "Massive Discounts on Laptops This Prime Day",
+      "description": "Prime Day offers up to $970 off MacBooks and Windows PCs. Grab these deals before they end.",
+      "category": "Business",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/best-prime-day-laptop-deals-live-2026",
+      "image": "https://helios-i.mashable.com/imagery/articles/03zWeZDafuStAg34m1XaIRe/hero-image.fill.size_1200x675.v1782376261.png",
+      "published_at": "2026-06-25T20:36:49Z",
+      "key_points": [
+        "Up to $970 off laptops",
+        "Deals on MacBooks and PCs",
+        "Limited time offers"
+      ],
+      "impact": "Consumers can save significantly on laptops.",
+      "id": "8e4beade7e1d3dd5c6b3784a8f753394"
+    },
+    {
+      "title": "Windows 10 Extended Support Extended by Microsoft",
+      "description": "Microsoft extends Windows 10 update program by another year. A quarter of PCs still use this OS.",
+      "category": "Software",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/microsoft-windows-1024x648.jpg",
+      "published_at": "2026-06-25T20:24:09Z",
+      "key_points": [
+        "Windows 10 support extended",
+        "Quarter of PCs still use it",
+        "Users can stay updated longer"
+      ],
+      "impact": "Users benefit from continued support and updates.",
+      "id": "b8c293bad62526cbba8891cd3da36d6a"
+    },
+    {
+      "title": "Prime Day Deals: 120+ Discounts Found",
+      "description": "Amazon's Prime Day features over 120 deals from brands like Apple and Lego. Don't miss out on these savings.",
+      "category": "Business",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/best-amazon-prime-day-deals-2026-live",
+      "image": "https://helios-i.mashable.com/imagery/articles/02pwcR33zGcCoOWyWDYNakl/hero-image.fill.size_1200x675.v1782417797.jpg",
+      "published_at": "2026-06-25T18:35:54Z",
+      "key_points": [
+        "120+ deals available",
+        "Discounts on top brands",
+        "Limited time offers"
+      ],
+      "impact": "Shoppers can save big on popular products.",
+      "id": "0ffbb472dbb0a8081f33871051314374"
+    },
+    {
+      "title": "Microsoft Raises Xbox Prices Amid Component Costs",
+      "description": "Microsoft announces price hikes for Xbox consoles due to rising component costs. Consumers can expect higher prices starting August 1.",
+      "category": "Business",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/25/microsoft-lifts-price-of-xbox-consoles-due-to-soaring-component-costs.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108275781-1773100803624-gettyimages-2230458864-tang-notitle250820_npmhW.jpeg?v=1773259314&w=1920&h=1080",
+      "published_at": "2026-06-25T17:34:13Z",
+      "key_points": [
+        "Xbox prices increasing",
+        "Effective August 1",
+        "Rising component costs"
+      ],
+      "impact": "Gamers will face higher console prices.",
+      "id": "01fad2d1758b115c59baa3c6a860624d"
+    },
+    {
+      "title": "YouTube Shorts Introduces New Features",
+      "description": "YouTube Shorts adds Clear Screen mode and 2x playback speed. Dislike button removed for a cleaner experience.",
+      "category": "Software",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/06/25/youtube-shorts-clear-screen-more/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/youtube-shorts-logo-circle-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-25T17:25:00Z",
+      "key_points": [
+        "New Clear Screen mode",
+        "2x playback speed added",
+        "Dislike button removed"
+      ],
+      "impact": "Shorts experience becomes more user-friendly.",
+      "id": "a3013dfca2571fb8b1fbdb7ba6644c05"
+    },
+    {
+      "title": "AI Chief Aims to Slash AI Power Costs",
+      "description": "Databricks' former AI chief proposes a system to reduce AI's power consumption by 1,000 times. Aiming for a breakthrough in efficiency.",
+      "category": "AI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-25-at-12.15.52-PM.jpg?resize=1200,615",
+      "published_at": "2026-06-25T16:48:11Z",
+      "key_points": [
+        "AI power costs could drop",
+        "1,000x efficiency goal",
+        "Innovative computing architecture"
+      ],
+      "impact": "Potentially transformative for AI energy use.",
+      "id": "ba304cad7d5154a68dfb1a5f7b217427"
+    },
+    {
+      "title": "Star Fox Remake Sparks Player Creativity",
+      "description": "Star Fox remake for Switch 2 encourages players to use VTuber avatars. The game offers a modern twist on a classic.",
       "category": "Gaming",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/957042/xbox-price-increase-memory-shortage",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22012260/vpavic_4275_20201030_0036.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published_at": "2026-06-25T16:49:17Z",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/star-fox-switch-2-nintendo-avatars-fox-falco-slippy-2000710547",
+      "image": "https://kotaku.com/app/uploads/2026/06/image-72.jpg",
+      "published_at": "2026-06-25T16:30:14Z",
       "key_points": [
-        "Prices increase across all consoles",
-        "Series X now starts at $749.99",
-        "Discless version costs $799.99"
+        "Star Fox remake released",
+        "Players use VTuber avatars",
+        "Modernized classic gameplay"
       ],
-      "impact": "Consumers face higher costs for Xbox consoles.",
-      "id": "0c9f7ac20ff38cba8f075866276e9bbe"
+      "impact": "Players engage creatively with the game.",
+      "id": "e1f21300929ab2470b358473c3d0c6a8"
     },
     {
-      "title": "Apple Skips M6 Chips for AI-Focused M7 Line",
-      "description": "Apple shifts its Mac chip strategy, opting for AI-centric M7 processors instead of high-end M6 chips. This marks a significant change in their approach.",
-      "category": "Business",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5yP26iAJkyM/v1/1200x800.jpg",
-      "published_at": "2026-06-25T16:35:34Z",
-      "key_points": [
-        "Apple prioritizes AI in new chips",
-        "M7 line replaces M6 chips",
-        "Major shift in silicon strategy"
-      ],
-      "impact": "Apple's focus on AI may reshape Mac performance.",
-      "id": "e64e7ca22198cc01a7a5560beb2bfde2"
-    },
-    {
-      "title": "Bungie Faces Layoffs After Destiny 2 Closure",
-      "description": "Bungie announces layoffs following the final update for Destiny 2, citing unmet expectations for the game. The number of layoffs remains unspecified.",
-      "category": "Gaming",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/956880/bungie-layoffs-destiny-2",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ss_766aedcb8d2eb8fcb08002919ee10f5ac6c02d79.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "published_at": "2026-06-25T14:49:15Z",
-      "key_points": [
-        "Bungie confirms unspecified layoffs",
-        "Destiny 2 update marks closure",
-        "Studio acknowledges unmet expectations"
-      ],
-      "impact": "Layoffs reflect challenges in game development.",
-      "id": "45d7cf9dfb61c9080af3d5dd788af99b"
-    },
-    {
-      "title": "Samsung Galaxy A27 5G Launches with New Features",
-      "description": "Samsung unveils the Galaxy A27 5G, featuring an immersive Infinity-O display and enhanced performance. Aimed at providing intelligent tools for users.",
-      "category": "Business",
-      "source": "Samsung.com",
-      "url": "https://news.samsung.com/uk/samsung-galaxy-a27-5g-brings-an-immersive-display-and-awesome-intelligence-to-more-users",
-      "image": "https://img.global.news.samsung.com/uk/wp-content/uploads/2026/06/A27-thumbnail-e1782388378516.png",
-      "published_at": "2026-06-25T12:03:23Z",
-      "key_points": [
-        "Galaxy A27 features Infinity-O display",
-        "Enhanced performance for users",
-        "Intelligent tools included"
-      ],
-      "impact": "Samsung expands its smartphone offerings with A27.",
-      "id": "9489424be8457a00de45b8bf8b3e1b7e"
-    },
-    {
-      "title": "iPhone Ultra 2 Approved, iPhone Air 3 Not",
-      "description": "A reliable leaker reveals that Apple has approved the iPhone Ultra 2 but has not greenlit the iPhone Air 3. Anticipation builds for the Ultra model.",
-      "category": "Business",
+      "title": "Notion to Shut Down AI Email Client",
+      "description": "Notion announces the closure of its AI-powered email client, Notion Mail, effective this fall. Users will need to transition to alternatives.",
+      "category": "Software",
       "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/25/iphone-ultra-2-already-given-go-ahead-iphone-air-3-not-says-leaker/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-fold-ultra-ios-27-leak.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-25T11:14:00Z",
+      "url": "https://9to5mac.com/2026/06/25/notion-shutting-down-its-ai-powered-email-client-including-mac-and-ios-apps/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/Notion-Mail-sunset.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-25T16:25:00Z",
       "key_points": [
-        "iPhone Ultra 2 gets approval",
-        "iPhone Air 3 not greenlit",
-        "Leaker has reliable track record"
+        "Notion Mail shutting down",
+        "Closure effective this fall",
+        "Users need alternatives"
       ],
-      "impact": "Apple's product lineup continues to evolve.",
-      "id": "0e6dc8768189ac0a3966c4abf2632e35"
+      "impact": "Users must find new email solutions.",
+      "id": "7d0e3dd868721154b224ae325bf34d31"
     },
     {
-      "title": "Porsche Unveils New 911 GT4 R for Motorsport",
-      "description": "Porsche introduces the 911 GT4 R, featuring a high-revving engine and targeting the global GT4 racing scene. This model enhances Porsche's customer motorsport program.",
-      "category": "Business",
-      "source": "Porsche.com",
-      "url": "https://newsroom.porsche.com/en_US/2026/motorsport/porsche-911-gt4-r-customer-motorsport-42713.html",
-      "image": "https://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=335962&w=700&h=467&crop=0&public=1&cs=24de911c9f3d99f9",
-      "published_at": "2026-06-25T06:21:11Z",
+      "title": "Bungie Lays Off Destiny 2 Development Team",
+      "description": "Bungie announces layoffs affecting most of the Destiny 2 development team. The company faces challenges in the gaming market.",
+      "category": "Gaming",
+      "source": "Game Informer",
+      "url": "https://gameinformer.com/2026/06/25/bungie-is-laying-off-most-of-the-destiny-2-development-team",
+      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/25/46b792e9/destiny%202%20collection.jpg.webp",
+      "published_at": "2026-06-25T16:22:43Z",
       "key_points": [
-        "New 911 GT4 R launched",
-        "Features high-revving racing engine",
-        "Targets global GT4 motorsport"
+        "Most of Destiny 2 team laid off",
+        "Challenges in gaming market",
+        "Impact on future game development"
       ],
-      "impact": "Porsche strengthens its motorsport presence.",
-      "id": "48425a26df350c34ccbc3a0b3b0aab0b"
+      "impact": "Destiny 2's future may be uncertain.",
+      "id": "c7c49331c48d846500fa8d247d5988c1"
     },
     {
-      "title": "MacBook Air M3 Now Cheaper Than Windows Laptops",
-      "description": "The new MacBook Air M3 is now priced lower than many Windows laptops, offering superior battery life and display quality. A significant deal for consumers.",
-      "category": "Business",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/new-macbook-air-m3-is-now-cheaper-than-basic-windows-laptops-amazon-goes-40-off-and-apple-keeps-its-full-warranty-2000776615",
-      "image": "https://gizmodo.com/app/uploads/2026/05/Apple-2026-MacBook-Air-15-inch-Laptop-with-M5-chip-1200x675.jpg",
-      "published_at": "2026-06-24T14:35:08Z",
+      "title": "Galaxy Z Fold 8 Leaks Reveal Key Details",
+      "description": "Leaks about the Galaxy Z Fold 8 reveal pre-order perks and release date. Initial impressions suggest limited upgrades.",
+      "category": "Hardware",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/06/25/galaxy-z-fold-8-release-date-leaks-hands-on-impressions-make-ultra-seem-pointless/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-62.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-25T15:15:00Z",
       "key_points": [
-        "MacBook Air M3 cheaper than Windows",
-        "40% off on Amazon",
-        "Full Apple warranty included"
+        "Galaxy Z Fold 8 leaks",
+        "Pre-order perks revealed",
+        "Limited upgrades expected"
       ],
-      "impact": "Consumers benefit from competitive pricing.",
-      "id": "f66d93cb295a10c3fa16032eace48484"
+      "impact": "Consumers await more details on the device.",
+      "id": "77d4811d324c2c4728a707dfe474d63e"
+    },
+    {
+      "title": "Samsung's New Budget Phone Price Increase",
+      "description": "Samsung's Galaxy A27 launches at $50 more despite downgraded features. New chip but lower camera quality.",
+      "category": "Business",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/956835/samsung-galaxy-a27-5g-launch-price-specs",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/001-product-galaxy-a27-5g-black-front.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-06-25T13:39:04Z",
+      "key_points": [
+        "Galaxy A27 price increased",
+        "Worse features than predecessor",
+        "New chip introduced"
+      ],
+      "impact": "Consumers face higher costs for less value.",
+      "id": "6d85d4863f7ff6fb0a42296335e06137"
+    },
+    {
+      "title": "Google Play Offers Games for Just $0.10",
+      "description": "Google Play's 'Mega Game Sale' discounts popular Android games to only $0.10. Sale runs until July 2.",
+      "category": "Gaming",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/06/24/google-play-mega-game-sale-discounts-these-popular-android-games-to-just-0-10/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/04/Google-Play-Store-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-24T14:20:00Z",
+      "key_points": [
+        "Games discounted to $0.10",
+        "Mega Game Sale live now",
+        "Ends July 2"
+      ],
+      "impact": "Gamers can enjoy significant savings.",
+      "id": "12dbdce788ba099437dfe2e58e0381e2"
     }
   ]
 }

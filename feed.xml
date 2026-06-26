@@ -5,71 +5,116 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jun 2026 19:45:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 22:12:43 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Xbox Prices Surge by $100 or More</title>
-      <description>Xbox raises console prices significantly, with Series S starting at $499.99 and Series X at $749.99. Discless versions are even pricier.</description>
-      <link>https://www.theverge.com/games/957042/xbox-price-increase-memory-shortage</link>
-      <guid isPermaLink="true">https://www.theverge.com/games/957042/xbox-price-increase-memory-shortage</guid>
-      <pubDate>2026-06-25T16:49:17Z</pubDate>
+      <title>Massive Discounts on Laptops This Prime Day</title>
+      <description>Prime Day offers up to $970 off MacBooks and Windows PCs. Grab these deals before they end.</description>
+      <link>https://mashable.com/tech/best-prime-day-laptop-deals-live-2026</link>
+      <guid isPermaLink="true">https://mashable.com/tech/best-prime-day-laptop-deals-live-2026</guid>
+      <pubDate>2026-06-25T20:36:49Z</pubDate>
+      <category>Business</category>
+      <source url="https://mashable.com/tech/best-prime-day-laptop-deals-live-2026">Mashable</source>
+    </item>
+    <item>
+      <title>Windows 10 Extended Support Extended by Microsoft</title>
+      <description>Microsoft extends Windows 10 update program by another year. A quarter of PCs still use this OS.</description>
+      <link>https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/</link>
+      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/</guid>
+      <pubDate>2026-06-25T20:24:09Z</pubDate>
+      <category>Software</category>
+      <source url="https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/">Ars Technica</source>
+    </item>
+    <item>
+      <title>Prime Day Deals: 120+ Discounts Found</title>
+      <description>Amazon's Prime Day features over 120 deals from brands like Apple and Lego. Don't miss out on these savings.</description>
+      <link>https://mashable.com/tech/best-amazon-prime-day-deals-2026-live</link>
+      <guid isPermaLink="true">https://mashable.com/tech/best-amazon-prime-day-deals-2026-live</guid>
+      <pubDate>2026-06-25T18:35:54Z</pubDate>
+      <category>Business</category>
+      <source url="https://mashable.com/tech/best-amazon-prime-day-deals-2026-live">Mashable</source>
+    </item>
+    <item>
+      <title>Microsoft Raises Xbox Prices Amid Component Costs</title>
+      <description>Microsoft announces price hikes for Xbox consoles due to rising component costs. Consumers can expect higher prices starting August 1.</description>
+      <link>https://www.cnbc.com/2026/06/25/microsoft-lifts-price-of-xbox-consoles-due-to-soaring-component-costs.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/06/25/microsoft-lifts-price-of-xbox-consoles-due-to-soaring-component-costs.html</guid>
+      <pubDate>2026-06-25T17:34:13Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.cnbc.com/2026/06/25/microsoft-lifts-price-of-xbox-consoles-due-to-soaring-component-costs.html">CNBC</source>
+    </item>
+    <item>
+      <title>YouTube Shorts Introduces New Features</title>
+      <description>YouTube Shorts adds Clear Screen mode and 2x playback speed. Dislike button removed for a cleaner experience.</description>
+      <link>http://9to5google.com/2026/06/25/youtube-shorts-clear-screen-more/</link>
+      <guid isPermaLink="true">http://9to5google.com/2026/06/25/youtube-shorts-clear-screen-more/</guid>
+      <pubDate>2026-06-25T17:25:00Z</pubDate>
+      <category>Software</category>
+      <source url="http://9to5google.com/2026/06/25/youtube-shorts-clear-screen-more/">9to5Google</source>
+    </item>
+    <item>
+      <title>AI Chief Aims to Slash AI Power Costs</title>
+      <description>Databricks' former AI chief proposes a system to reduce AI's power consumption by 1,000 times. Aiming for a breakthrough in efficiency.</description>
+      <link>https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/</guid>
+      <pubDate>2026-06-25T16:48:11Z</pubDate>
+      <category>AI</category>
+      <source url="https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Star Fox Remake Sparks Player Creativity</title>
+      <description>Star Fox remake for Switch 2 encourages players to use VTuber avatars. The game offers a modern twist on a classic.</description>
+      <link>https://kotaku.com/star-fox-switch-2-nintendo-avatars-fox-falco-slippy-2000710547</link>
+      <guid isPermaLink="true">https://kotaku.com/star-fox-switch-2-nintendo-avatars-fox-falco-slippy-2000710547</guid>
+      <pubDate>2026-06-25T16:30:14Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.theverge.com/games/957042/xbox-price-increase-memory-shortage">The Verge</source>
+      <source url="https://kotaku.com/star-fox-switch-2-nintendo-avatars-fox-falco-slippy-2000710547">Kotaku</source>
     </item>
     <item>
-      <title>Apple Skips M6 Chips for AI-Focused M7 Line</title>
-      <description>Apple shifts its Mac chip strategy, opting for AI-centric M7 processors instead of high-end M6 chips. This marks a significant change in their approach.</description>
-      <link>https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead</guid>
-      <pubDate>2026-06-25T16:35:34Z</pubDate>
-      <category>Business</category>
-      <source url="https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead">Bloomberg</source>
+      <title>Notion to Shut Down AI Email Client</title>
+      <description>Notion announces the closure of its AI-powered email client, Notion Mail, effective this fall. Users will need to transition to alternatives.</description>
+      <link>https://9to5mac.com/2026/06/25/notion-shutting-down-its-ai-powered-email-client-including-mac-and-ios-apps/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/25/notion-shutting-down-its-ai-powered-email-client-including-mac-and-ios-apps/</guid>
+      <pubDate>2026-06-25T16:25:00Z</pubDate>
+      <category>Software</category>
+      <source url="https://9to5mac.com/2026/06/25/notion-shutting-down-its-ai-powered-email-client-including-mac-and-ios-apps/">9to5Mac</source>
     </item>
     <item>
-      <title>Bungie Faces Layoffs After Destiny 2 Closure</title>
-      <description>Bungie announces layoffs following the final update for Destiny 2, citing unmet expectations for the game. The number of layoffs remains unspecified.</description>
-      <link>https://www.theverge.com/entertainment/956880/bungie-layoffs-destiny-2</link>
-      <guid isPermaLink="true">https://www.theverge.com/entertainment/956880/bungie-layoffs-destiny-2</guid>
-      <pubDate>2026-06-25T14:49:15Z</pubDate>
+      <title>Bungie Lays Off Destiny 2 Development Team</title>
+      <description>Bungie announces layoffs affecting most of the Destiny 2 development team. The company faces challenges in the gaming market.</description>
+      <link>https://gameinformer.com/2026/06/25/bungie-is-laying-off-most-of-the-destiny-2-development-team</link>
+      <guid isPermaLink="true">https://gameinformer.com/2026/06/25/bungie-is-laying-off-most-of-the-destiny-2-development-team</guid>
+      <pubDate>2026-06-25T16:22:43Z</pubDate>
       <category>Gaming</category>
-      <source url="https://www.theverge.com/entertainment/956880/bungie-layoffs-destiny-2">The Verge</source>
+      <source url="https://gameinformer.com/2026/06/25/bungie-is-laying-off-most-of-the-destiny-2-development-team">Game Informer</source>
     </item>
     <item>
-      <title>Samsung Galaxy A27 5G Launches with New Features</title>
-      <description>Samsung unveils the Galaxy A27 5G, featuring an immersive Infinity-O display and enhanced performance. Aimed at providing intelligent tools for users.</description>
-      <link>https://news.samsung.com/uk/samsung-galaxy-a27-5g-brings-an-immersive-display-and-awesome-intelligence-to-more-users</link>
-      <guid isPermaLink="true">https://news.samsung.com/uk/samsung-galaxy-a27-5g-brings-an-immersive-display-and-awesome-intelligence-to-more-users</guid>
-      <pubDate>2026-06-25T12:03:23Z</pubDate>
-      <category>Business</category>
-      <source url="https://news.samsung.com/uk/samsung-galaxy-a27-5g-brings-an-immersive-display-and-awesome-intelligence-to-more-users">Samsung.com</source>
+      <title>Galaxy Z Fold 8 Leaks Reveal Key Details</title>
+      <description>Leaks about the Galaxy Z Fold 8 reveal pre-order perks and release date. Initial impressions suggest limited upgrades.</description>
+      <link>http://9to5google.com/2026/06/25/galaxy-z-fold-8-release-date-leaks-hands-on-impressions-make-ultra-seem-pointless/</link>
+      <guid isPermaLink="true">http://9to5google.com/2026/06/25/galaxy-z-fold-8-release-date-leaks-hands-on-impressions-make-ultra-seem-pointless/</guid>
+      <pubDate>2026-06-25T15:15:00Z</pubDate>
+      <category>Hardware</category>
+      <source url="http://9to5google.com/2026/06/25/galaxy-z-fold-8-release-date-leaks-hands-on-impressions-make-ultra-seem-pointless/">9to5Google</source>
     </item>
     <item>
-      <title>iPhone Ultra 2 Approved, iPhone Air 3 Not</title>
-      <description>A reliable leaker reveals that Apple has approved the iPhone Ultra 2 but has not greenlit the iPhone Air 3. Anticipation builds for the Ultra model.</description>
-      <link>https://9to5mac.com/2026/06/25/iphone-ultra-2-already-given-go-ahead-iphone-air-3-not-says-leaker/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/25/iphone-ultra-2-already-given-go-ahead-iphone-air-3-not-says-leaker/</guid>
-      <pubDate>2026-06-25T11:14:00Z</pubDate>
+      <title>Samsung's New Budget Phone Price Increase</title>
+      <description>Samsung's Galaxy A27 launches at $50 more despite downgraded features. New chip but lower camera quality.</description>
+      <link>https://www.theverge.com/tech/956835/samsung-galaxy-a27-5g-launch-price-specs</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/956835/samsung-galaxy-a27-5g-launch-price-specs</guid>
+      <pubDate>2026-06-25T13:39:04Z</pubDate>
       <category>Business</category>
-      <source url="https://9to5mac.com/2026/06/25/iphone-ultra-2-already-given-go-ahead-iphone-air-3-not-says-leaker/">9to5Mac</source>
+      <source url="https://www.theverge.com/tech/956835/samsung-galaxy-a27-5g-launch-price-specs">The Verge</source>
     </item>
     <item>
-      <title>Porsche Unveils New 911 GT4 R for Motorsport</title>
-      <description>Porsche introduces the 911 GT4 R, featuring a high-revving engine and targeting the global GT4 racing scene. This model enhances Porsche's customer motorsport program.</description>
-      <link>https://newsroom.porsche.com/en_US/2026/motorsport/porsche-911-gt4-r-customer-motorsport-42713.html</link>
-      <guid isPermaLink="true">https://newsroom.porsche.com/en_US/2026/motorsport/porsche-911-gt4-r-customer-motorsport-42713.html</guid>
-      <pubDate>2026-06-25T06:21:11Z</pubDate>
-      <category>Business</category>
-      <source url="https://newsroom.porsche.com/en_US/2026/motorsport/porsche-911-gt4-r-customer-motorsport-42713.html">Porsche.com</source>
-    </item>
-    <item>
-      <title>MacBook Air M3 Now Cheaper Than Windows Laptops</title>
-      <description>The new MacBook Air M3 is now priced lower than many Windows laptops, offering superior battery life and display quality. A significant deal for consumers.</description>
-      <link>https://gizmodo.com/new-macbook-air-m3-is-now-cheaper-than-basic-windows-laptops-amazon-goes-40-off-and-apple-keeps-its-full-warranty-2000776615</link>
-      <guid isPermaLink="true">https://gizmodo.com/new-macbook-air-m3-is-now-cheaper-than-basic-windows-laptops-amazon-goes-40-off-and-apple-keeps-its-full-warranty-2000776615</guid>
-      <pubDate>2026-06-24T14:35:08Z</pubDate>
-      <category>Business</category>
-      <source url="https://gizmodo.com/new-macbook-air-m3-is-now-cheaper-than-basic-windows-laptops-amazon-goes-40-off-and-apple-keeps-its-full-warranty-2000776615">Gizmodo.com</source>
+      <title>Google Play Offers Games for Just $0.10</title>
+      <description>Google Play's 'Mega Game Sale' discounts popular Android games to only $0.10. Sale runs until July 2.</description>
+      <link>http://9to5google.com/2026/06/24/google-play-mega-game-sale-discounts-these-popular-android-games-to-just-0-10/</link>
+      <guid isPermaLink="true">http://9to5google.com/2026/06/24/google-play-mega-game-sale-discounts-these-popular-android-games-to-just-0-10/</guid>
+      <pubDate>2026-06-24T14:20:00Z</pubDate>
+      <category>Gaming</category>
+      <source url="http://9to5google.com/2026/06/24/google-play-mega-game-sale-discounts-these-popular-android-games-to-just-0-10/">9to5Google</source>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,205 @@
 {
   "batches": [
     {
+      "id": "2026-06-26T22:12:17.693289+00:00",
+      "fetched_at": "2026-06-26T22:12:17.693289+00:00",
+      "label": "Jun 26, 2026 — 10:12 PM UTC",
+      "articles": [
+        {
+          "title": "Massive Discounts on Laptops This Prime Day",
+          "description": "Prime Day offers up to $970 off MacBooks and Windows PCs. Grab these deals before they end.",
+          "category": "Business",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/best-prime-day-laptop-deals-live-2026",
+          "image": "https://helios-i.mashable.com/imagery/articles/03zWeZDafuStAg34m1XaIRe/hero-image.fill.size_1200x675.v1782376261.png",
+          "published_at": "2026-06-25T20:36:49Z",
+          "key_points": [
+            "Up to $970 off laptops",
+            "Deals on MacBooks and PCs",
+            "Limited time offers"
+          ],
+          "impact": "Consumers can save significantly on laptops.",
+          "id": "8e4beade7e1d3dd5c6b3784a8f753394"
+        },
+        {
+          "title": "Windows 10 Extended Support Extended by Microsoft",
+          "description": "Microsoft extends Windows 10 update program by another year. A quarter of PCs still use this OS.",
+          "category": "Software",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/microsoft-windows-1024x648.jpg",
+          "published_at": "2026-06-25T20:24:09Z",
+          "key_points": [
+            "Windows 10 support extended",
+            "Quarter of PCs still use it",
+            "Users can stay updated longer"
+          ],
+          "impact": "Users benefit from continued support and updates.",
+          "id": "b8c293bad62526cbba8891cd3da36d6a"
+        },
+        {
+          "title": "Prime Day Deals: 120+ Discounts Found",
+          "description": "Amazon's Prime Day features over 120 deals from brands like Apple and Lego. Don't miss out on these savings.",
+          "category": "Business",
+          "source": "Mashable",
+          "url": "https://mashable.com/tech/best-amazon-prime-day-deals-2026-live",
+          "image": "https://helios-i.mashable.com/imagery/articles/02pwcR33zGcCoOWyWDYNakl/hero-image.fill.size_1200x675.v1782417797.jpg",
+          "published_at": "2026-06-25T18:35:54Z",
+          "key_points": [
+            "120+ deals available",
+            "Discounts on top brands",
+            "Limited time offers"
+          ],
+          "impact": "Shoppers can save big on popular products.",
+          "id": "0ffbb472dbb0a8081f33871051314374"
+        },
+        {
+          "title": "Microsoft Raises Xbox Prices Amid Component Costs",
+          "description": "Microsoft announces price hikes for Xbox consoles due to rising component costs. Consumers can expect higher prices starting August 1.",
+          "category": "Business",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/25/microsoft-lifts-price-of-xbox-consoles-due-to-soaring-component-costs.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108275781-1773100803624-gettyimages-2230458864-tang-notitle250820_npmhW.jpeg?v=1773259314&w=1920&h=1080",
+          "published_at": "2026-06-25T17:34:13Z",
+          "key_points": [
+            "Xbox prices increasing",
+            "Effective August 1",
+            "Rising component costs"
+          ],
+          "impact": "Gamers will face higher console prices.",
+          "id": "01fad2d1758b115c59baa3c6a860624d"
+        },
+        {
+          "title": "YouTube Shorts Introduces New Features",
+          "description": "YouTube Shorts adds Clear Screen mode and 2x playback speed. Dislike button removed for a cleaner experience.",
+          "category": "Software",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/25/youtube-shorts-clear-screen-more/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/youtube-shorts-logo-circle-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-25T17:25:00Z",
+          "key_points": [
+            "New Clear Screen mode",
+            "2x playback speed added",
+            "Dislike button removed"
+          ],
+          "impact": "Shorts experience becomes more user-friendly.",
+          "id": "a3013dfca2571fb8b1fbdb7ba6644c05"
+        },
+        {
+          "title": "AI Chief Aims to Slash AI Power Costs",
+          "description": "Databricks' former AI chief proposes a system to reduce AI's power consumption by 1,000 times. Aiming for a breakthrough in efficiency.",
+          "category": "AI",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-25-at-12.15.52-PM.jpg?resize=1200,615",
+          "published_at": "2026-06-25T16:48:11Z",
+          "key_points": [
+            "AI power costs could drop",
+            "1,000x efficiency goal",
+            "Innovative computing architecture"
+          ],
+          "impact": "Potentially transformative for AI energy use.",
+          "id": "ba304cad7d5154a68dfb1a5f7b217427"
+        },
+        {
+          "title": "Star Fox Remake Sparks Player Creativity",
+          "description": "Star Fox remake for Switch 2 encourages players to use VTuber avatars. The game offers a modern twist on a classic.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/star-fox-switch-2-nintendo-avatars-fox-falco-slippy-2000710547",
+          "image": "https://kotaku.com/app/uploads/2026/06/image-72.jpg",
+          "published_at": "2026-06-25T16:30:14Z",
+          "key_points": [
+            "Star Fox remake released",
+            "Players use VTuber avatars",
+            "Modernized classic gameplay"
+          ],
+          "impact": "Players engage creatively with the game.",
+          "id": "e1f21300929ab2470b358473c3d0c6a8"
+        },
+        {
+          "title": "Notion to Shut Down AI Email Client",
+          "description": "Notion announces the closure of its AI-powered email client, Notion Mail, effective this fall. Users will need to transition to alternatives.",
+          "category": "Software",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/06/25/notion-shutting-down-its-ai-powered-email-client-including-mac-and-ios-apps/",
+          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/Notion-Mail-sunset.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-25T16:25:00Z",
+          "key_points": [
+            "Notion Mail shutting down",
+            "Closure effective this fall",
+            "Users need alternatives"
+          ],
+          "impact": "Users must find new email solutions.",
+          "id": "7d0e3dd868721154b224ae325bf34d31"
+        },
+        {
+          "title": "Bungie Lays Off Destiny 2 Development Team",
+          "description": "Bungie announces layoffs affecting most of the Destiny 2 development team. The company faces challenges in the gaming market.",
+          "category": "Gaming",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/2026/06/25/bungie-is-laying-off-most-of-the-destiny-2-development-team",
+          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/25/46b792e9/destiny%202%20collection.jpg.webp",
+          "published_at": "2026-06-25T16:22:43Z",
+          "key_points": [
+            "Most of Destiny 2 team laid off",
+            "Challenges in gaming market",
+            "Impact on future game development"
+          ],
+          "impact": "Destiny 2's future may be uncertain.",
+          "id": "c7c49331c48d846500fa8d247d5988c1"
+        },
+        {
+          "title": "Galaxy Z Fold 8 Leaks Reveal Key Details",
+          "description": "Leaks about the Galaxy Z Fold 8 reveal pre-order perks and release date. Initial impressions suggest limited upgrades.",
+          "category": "Hardware",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/25/galaxy-z-fold-8-release-date-leaks-hands-on-impressions-make-ultra-seem-pointless/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-62.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-25T15:15:00Z",
+          "key_points": [
+            "Galaxy Z Fold 8 leaks",
+            "Pre-order perks revealed",
+            "Limited upgrades expected"
+          ],
+          "impact": "Consumers await more details on the device.",
+          "id": "77d4811d324c2c4728a707dfe474d63e"
+        },
+        {
+          "title": "Samsung's New Budget Phone Price Increase",
+          "description": "Samsung's Galaxy A27 launches at $50 more despite downgraded features. New chip but lower camera quality.",
+          "category": "Business",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/956835/samsung-galaxy-a27-5g-launch-price-specs",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/001-product-galaxy-a27-5g-black-front.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-25T13:39:04Z",
+          "key_points": [
+            "Galaxy A27 price increased",
+            "Worse features than predecessor",
+            "New chip introduced"
+          ],
+          "impact": "Consumers face higher costs for less value.",
+          "id": "6d85d4863f7ff6fb0a42296335e06137"
+        },
+        {
+          "title": "Google Play Offers Games for Just $0.10",
+          "description": "Google Play's 'Mega Game Sale' discounts popular Android games to only $0.10. Sale runs until July 2.",
+          "category": "Gaming",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/24/google-play-mega-game-sale-discounts-these-popular-android-games-to-just-0-10/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/04/Google-Play-Store-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-24T14:20:00Z",
+          "key_points": [
+            "Games discounted to $0.10",
+            "Mega Game Sale live now",
+            "Ends July 2"
+          ],
+          "impact": "Gamers can enjoy significant savings.",
+          "id": "12dbdce788ba099437dfe2e58e0381e2"
+        }
+      ]
+    },
+    {
       "id": "2026-06-26T19:45:05.118887+00:00",
       "fetched_at": "2026-06-26T19:45:05.118887+00:00",
       "label": "Jun 26, 2026 — 07:45 PM UTC",
@@ -5864,253 +6063,6 @@
           ],
           "impact": "This deal makes AI tools more accessible.",
           "id": "447859b3c2f4d93dcfe59d14cab85caf"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-21T19:27:57.400237+00:00",
-      "fetched_at": "2026-06-21T19:27:57.400237+00:00",
-      "label": "Jun 21, 2026 — 07:28 PM UTC",
-      "articles": [
-        {
-          "title": "Apple’s Prime Day Deals: MacBooks, iPads, AirPods",
-          "description": "Apple's Prime Day sale features discounts on popular products like MacBooks and AirPods. Don't miss out on these limited-time offers.",
-          "category": "Business",
-          "source": "CNET",
-          "url": "https://www.cnet.com/deals/best-prime-day-apple-deals-2026-06-20/",
-          "image": "https://www.cnet.com/a/img/resize/aa4526b6148f63969eee249810edf5256787edfd/hub/2026/06/09/d3ece905-03a5-492e-a6bb-c7590f32b299/apple-devices-on-a-purple-background.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "published_at": "2026-06-20T18:36:06Z",
-          "key_points": [
-            "Prime Day discounts available now",
-            "Deals on MacBooks and iPads",
-            "Limited-time offers on AirPods"
-          ],
-          "impact": "Apple's sales boost could enhance market share.",
-          "id": "1572f28de7f432f3edefdec18d766ad1"
-        },
-        {
-          "title": "Galaxy Watch 9 and Ultra 2 Leaks Ahead of Launch",
-          "description": "New leaks reveal features of the Galaxy Watch 9 and Ultra 2 ahead of Samsung's July event. Expect significant updates and changes.",
-          "category": "Hardware",
-          "source": "9to5google.com",
-          "url": "http://9to5google.com/2026/06/20/samsung-galaxy-watch-9-changes-leak/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-watch-ultra-2025-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-20T16:40:00Z",
-          "key_points": [
-            "Galaxy Watch 9 features leaked",
-            "Ultra 2 updates revealed",
-            "No Classic model this time"
-          ],
-          "impact": "Samsung aims to enhance smartwatch appeal.",
-          "id": "acd6908089b9e7075704c57a6bb44509"
-        },
-        {
-          "title": "Ubisoft Founder Killed in Plane Crash",
-          "description": "Claude Guillemot, a founder of Ubisoft, died in a plane crash in western France. The gaming community mourns his loss.",
-          "category": "Geopolitics",
-          "source": "Abcnews.com",
-          "url": "https://abcnews.com/International/wireStory/founder-assassins-creed-maker-ubisoft-killed-plane-crash-134056376",
-          "image": "https://i.abcnewsfe.com/a/39daa459-f024-4790-a846-fcf282e8d4c2/claude-guillemot-gty-jt-2505_1781975455681_hpMain_16x9.jpg?w=1600",
-          "published_at": "2026-06-20T16:12:07Z",
-          "key_points": [
-            "Ubisoft founder dies tragically",
-            "Plane crash in western France",
-            "Gaming industry mourns loss"
-          ],
-          "impact": "His death impacts the gaming community deeply.",
-          "id": "1accf9969b9640c8d944db51ea89da4f"
-        },
-        {
-          "title": "Xbox Players Face Challenges to Play Halo Together",
-          "description": "PlayStation and Xbox players encounter hurdles to play Halo: Campaign Evolved together. Cross-platform play remains complicated.",
-          "category": "Gaming",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/paultassi/2026/06/20/xbox-forces-ps5-players-to-jump-through-hoops-to-play-halo-campaign-evolved/",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a36b07341067dc362d55a8e/0x0.jpg?format=jpg&crop=904,508,x152,y101,safe&height=900&width=1600&fit=bounds",
-          "published_at": "2026-06-20T15:26:29Z",
-          "key_points": [
-            "Cross-play challenges persist",
-            "Players face complicated access",
-            "Halo: Campaign Evolved hurdles"
-          ],
-          "impact": "Cross-platform play remains a significant issue.",
-          "id": "85a21b03957af542e5c818e5d51e9e89"
-        },
-        {
-          "title": "Key Features of iOS 27 You Should Know",
-          "description": "iOS 27 introduces several noteworthy features, enhancing user experience despite not being flashy. Key upgrades are worth exploring.",
-          "category": "Software",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
-          "image": "https://techcrunch.com/wp-content/uploads/2026/04/image-2026-04-08T195520.664.jpg",
-          "published_at": "2026-06-20T15:00:00Z",
-          "key_points": [
-            "New features enhance user experience",
-            "Focus on everyday app upgrades",
-            "Notable Siri AI improvements"
-          ],
-          "impact": "iOS 27 aims to improve overall usability.",
-          "id": "b3c99415eb5d21bd4b1a3a9abfafe7c9"
-        },
-        {
-          "title": "Apple Launches Five New Apps",
-          "description": "Apple unveiled five new apps last week, enhancing its software ecosystem. Four were announced at WWDC 2026, with one in beta.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/20/apple-unveiled-these-five-new-apps/",
-          "image": "https://images.macrumors.com/t/hkHwk6kjRla1UrqMchHTC84DoFY=/2500x/article-new/2023/10/Apple-Logo-Spotlight-Blue.jpg",
-          "published_at": "2026-06-20T15:00:00Z",
-          "key_points": [
-            "Five new apps launched",
-            "Four revealed at WWDC",
-            "One in beta for developers"
-          ],
-          "impact": "New apps expand Apple's software offerings.",
-          "id": "f60f838f1dc8a72fe9fbb0793dca8fd4"
-        },
-        {
-          "title": "Linux Kernel Drops strncpy API After Six Years",
-          "description": "Linux 7.2 has officially removed the deprecated strncpy API after extensive work. This marks a significant update for developers.",
-          "category": "Software",
-          "source": "Phoronix",
-          "url": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
-          "image": "https://www.phoronix.net/image.php?id=2026&image=strncpy",
-          "published_at": "2026-06-20T14:22:00Z",
-          "key_points": [
-            "strncpy API removed",
-            "Significant kernel update",
-            "Six years of development effort"
-          ],
-          "impact": "Linux kernel modernization continues with this change.",
-          "id": "c722b3ccf6524402cd1bc849664cc187"
-        },
-        {
-          "title": "Three Apple Stores Permanently Closing Today",
-          "description": "Apple is closing three retail stores in the U.S. today, including a unionized location. This follows previous announcements.",
-          "category": "Business",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/20/three-apple-stores-closing-today/",
-          "image": "https://images.macrumors.com/t/fIP-NHOTBAREpNB9d4R4X7qgf-c=/2500x/article-new/2026/01/Apple-Store-App-Liquid-Glass-Feature.jpg",
-          "published_at": "2026-06-20T14:14:49Z",
-          "key_points": [
-            "Three stores closing today",
-            "Includes unionized location",
-            "Part of retail strategy shift"
-          ],
-          "impact": "Apple's retail strategy undergoes significant changes.",
-          "id": "570a27db218c52979cf6d25df71111e1"
-        },
-        {
-          "title": "Steam Next Fest Features Unique Cannon Game",
-          "description": "A standout demo from Steam Next Fest involves loading a cannon, showcasing creativity despite an overall disappointing event.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/iron-nest-is-a-game-in-which-you-spend-30-minutes-loading-a-big-cannon-and-somehow-its-awesome-2000708523",
-          "image": "https://kotaku.com/app/uploads/2026/06/Iron-Nest-Heavy-Turret-Simulator-official-artwork-from-Steam-store-page-Nick-Nieuwoudt-and-Dominik-Latos-1200x675.jpg",
-          "published_at": "2026-06-20T14:00:52Z",
-          "key_points": [
-            "Unique cannon-loading game",
-            "Best demo of Next Fest",
-            "Event overall disappointing"
-          ],
-          "impact": "Creative demos can shine amid mediocrity.",
-          "id": "a9ffae8dff08216f064a6a245d0b89df"
-        },
-        {
-          "title": "Only Four Useful Android Auto Apps for Road Trips",
-          "description": "After testing ten Android Auto apps, only four proved genuinely useful for road trips. Many apps cluttered the interface.",
-          "category": "Software",
-          "source": "Android Police",
-          "url": "https://www.androidpolice.com/installed-ten-android-auto-apps-for-long-road-trip-but-only-four-were-useful/",
-          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/09/blue-suv-driving-on-a-coastal-road-with-a-large-android-auto-logo-overlayed-on-the-image.png?w=1600&h=900&fit=crop",
-          "published_at": "2026-06-20T13:30:10Z",
-          "key_points": [
-            "Only four apps were useful",
-            "Ten apps tested overall",
-            "Cluttered interface issue"
-          ],
-          "impact": "Streamlining apps enhances driving experience.",
-          "id": "d694dc8c74e7ba2162fadec6882c198a"
-        },
-        {
-          "title": "Sony Plans to Boost PS Plus Profits",
-          "description": "Sony aims to improve PS Plus profitability by enhancing its service offerings. The gaming division achieved record profits last fiscal year.",
-          "category": "Business",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/06/sony-aims-to-drive-ps-plus-profits-by-improving-service-proposition",
-          "image": "https://images.pushsquare.com/78ae4fdeab038/large.jpg",
-          "published_at": "2026-06-20T13:30:00Z",
-          "key_points": [
-            "Sony targets PS Plus profitability",
-            "Record profits last fiscal year",
-            "Service improvements planned"
-          ],
-          "impact": "Sony seeks to strengthen its gaming revenue.",
-          "id": "e6e594dc273da6cb89123def3ebd865c"
-        },
-        {
-          "title": "Doom Composer Bobby Prince Passes Away at 81",
-          "description": "Bobby Prince, renowned for his iconic Doom soundtrack, has died at age 81. His contributions to gaming music are celebrated.",
-          "category": "Gaming",
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/doom-composer-bobby-prince-dies",
-          "image": "https://assetsio.gnwcdn.com/Screenshot-2026-06-20-at-14.08.02.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-20T13:11:55Z",
-          "key_points": [
-            "Bobby Prince passes away",
-            "Famous for Doom soundtrack",
-            "Legacy in gaming music"
-          ],
-          "impact": "His music left a lasting impact on gaming.",
-          "id": "0d8f5b98fc2e8c164d1dea6cbb9e9902"
-        },
-        {
-          "title": "Switching to Roku's New Home Screen",
-          "description": "Roku introduces a new home screen for its devices, allowing users to switch ahead of the automatic rollout. This update enhances user experience.",
-          "category": "Software",
-          "source": "Cord Cutters News, LLC",
-          "url": "https://cordcuttersnews.com/how-to-switch-to-the-new-roku-home-screen-on-roku-tvs-roku-players/",
-          "image": "https://cordcuttersnews.com/wp-content/uploads/2026/04/image-2026-04-08T195520.664.jpg",
-          "published_at": "2026-06-20T11:28:48Z",
-          "key_points": [
-            "New Roku home screen available",
-            "Users can switch early",
-            "Significant interface overhaul"
-          ],
-          "impact": "Roku enhances user interface with new design.",
-          "id": "c98201c991e8c45ca4974d2d8314a503"
-        },
-        {
-          "title": "Android 17 Causes 5G Issues for Pixel Users",
-          "description": "Pixel users report losing 5G connectivity after updating to Android 17. Ongoing issues are causing frustration among users.",
-          "category": "Software",
-          "source": "Android Central",
-          "url": "https://www.androidcentral.com/apps-software/android-os/android-17-woes-continue-with-pixel-users-losing-5g-connectivity",
-          "image": "https://cdn.mos.cms.futurecdn.net/cHX2cGbPBDofn8NftH7t4C-2048-80.jpg",
-          "published_at": "2026-06-20T11:17:00Z",
-          "key_points": [
-            "Pixel users report 5G issues",
-            "Problems after Android 17 update",
-            "Connectivity frustrations continue"
-          ],
-          "impact": "Android updates can disrupt user connectivity.",
-          "id": "bc2749e3ac849d8551404e498abdf0b9"
-        },
-        {
-          "title": "Gears of War: E-Day Boosts Franchise Popularity",
-          "description": "Gears of War: E-Day's summer release has doubled the franchise's audience, thanks to its recent Xbox exclusivity.",
-          "category": "Gaming",
-          "source": "TrueAchievements",
-          "url": "https://www.trueachievements.com/news/gears-of-war-e-day-reveal-player-count-boost",
-          "image": "https://www.trueachievements.com/imgs/176143/gears-of-war-eday.jpg",
-          "published_at": "2026-06-20T11:00:36Z",
-          "key_points": [
-            "E-Day boosts player count",
-            "Franchise popularity doubles",
-            "Xbox exclusivity benefits"
-          ],
-          "impact": "Increased audience reflects franchise revival.",
-          "id": "076f61c1a099d4bae1f1d20fb3e2fe88"
         }
       ]
     }
