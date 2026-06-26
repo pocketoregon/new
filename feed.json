@@ -1,165 +1,101 @@
 {
-  "generated_at": "2026-06-25T22:20:18.008136+00:00",
+  "generated_at": "2026-06-26T03:34:33.430219+00:00",
   "articles": [
     {
-      "title": "GTA VI Signals Trouble for Physical Games",
-      "description": "GTA VI's physical edition will only include a download code, raising concerns about the future of physical gaming. This trend could impact the entire industry.",
-      "category": "Gaming",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "published_at": "2026-06-24T18:42:07Z",
-      "key_points": [
-        "No disc in physical edition",
-        "Concerns for gaming industry",
-        "Shift towards digital sales"
-      ],
-      "impact": "This could redefine physical game sales.",
-      "id": "95066fd9dc0b50726b5dd64e9aabc716"
-    },
-    {
-      "title": "Gemini in Chrome Introduces New Tool",
-      "description": "Gemini in Chrome now features a 'Select from screen' tool, enhancing user prompts. Developers can also utilize Gemini 3.5 Flash for computer applications.",
+      "title": "Siri AI Refuses URL Summaries in iOS 27 Beta 2",
+      "description": "Siri AI in iOS 27 beta 2 will now clearly refuse requests to summarize URLs, changing its interaction protocol. This aims to enhance user experience and content integrity.",
       "category": "Software",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/06/24/gemini-chrome-select-screen/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Gemini-3.5-cover.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-24T17:45:00Z",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/24/ios-27-beta-2-apple-tells-siri-ai-to-clearly-refuse-requests-to-summarize-urls/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai-27-dark_e0fbb1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-24T21:17:00Z",
       "key_points": [
-        "New screen selection tool",
-        "Enhanced developer capabilities",
-        "Improved user experience"
+        "Siri won't summarize URLs",
+        "New protocol in iOS 27",
+        "Focus on content integrity"
       ],
-      "impact": "This enhances productivity for Chrome users.",
-      "id": "33e6ac614147a94a4ecc3b66bf03a8e6"
+      "impact": "This change may improve user trust in Siri.",
+      "id": "888f013484ddf0f85a3268b8b22cf088"
     },
     {
-      "title": "NSF Expands National Quantum Virtual Lab Teams",
-      "description": "The NSF has selected five new teams to advance experimental quantum technologies, focusing on long-distance quantum information transfer and advanced sensors.",
-      "category": "Science",
-      "source": "National Science Foundation (.gov)",
-      "url": "https://www.nsf.gov/news/nsf-selects-five-additional-teams-national-quantum-virtual",
-      "image": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/NSF_NQVL_hero%202026.png?itok=zBBhkIw8",
-      "published_at": "2026-06-24T14:00:08Z",
-      "key_points": [
-        "Five new teams selected",
-        "Focus on quantum technologies",
-        "Advancing experimental research"
-      ],
-      "impact": "This boosts U.S. leadership in quantum research.",
-      "id": "566f6ab367ed1ded042124d44cff7a9a"
-    },
-    {
-      "title": "Amazon Prime Day 2026: Nintendo Deals",
-      "description": "Day 2 of Amazon Prime Day features significant discounts on Nintendo Switch and accessories, making it a prime shopping opportunity for gamers.",
+      "title": "Star Fox Nintendo Switch 2 Cast Revealed",
+      "description": "The voice cast for Star Fox Nintendo Switch 2 has been announced, featuring new actors for iconic characters like Fox and Falco. Fans can expect fresh performances in this beloved franchise.",
       "category": "Gaming",
-      "source": "Nintendo Wire",
-      "url": "https://nintendowire.com/news/2026/06/24/the-best-nintendo-deals-at-amazon-for-prime-day-2026-day-2/",
-      "image": "https://nintendowire.com/wp-content/uploads/2026/06/day-2-prime-day-nintendo-switch-2-deals.jpg",
-      "published_at": "2026-06-24T13:41:17Z",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/star-fox-nintendo-switch-2-voice-actors-revealed-including-fox-falco-peppy-slippy-and-more/",
+      "image": "https://nintendoeverything.com/wp-content/uploads/Star-Fox-Switch-2-voice-actors.jpg",
+      "published_at": "2026-06-24T20:50:57Z",
       "key_points": [
-        "Huge discounts on Nintendo products",
-        "Prime Day shopping event",
-        "Limited-time offers available"
+        "New voice actors announced",
+        "Includes main characters",
+        "Excitement for franchise revival"
       ],
-      "impact": "This attracts more gamers to Amazon.",
-      "id": "77cfb4751a718f31386b18d7dcc6de01"
+      "impact": "This could rejuvenate interest in Star Fox.",
+      "id": "561189086cc0765aad0fb280d9ec12c0"
     },
     {
-      "title": "Analysts Predict High Prices for Next-Gen Consoles",
-      "description": "Experts debate whether the Steam Machine's pricing indicates that future consoles like PS6 and Xbox Helix will exceed $1000.",
-      "category": "Gaming",
-      "source": "Video Games Chronicle",
-      "url": "https://www.videogameschronicle.com/news/north-of-a-grand-is-the-floor-analysts-debate-whether-steam-machine-means-ps6-and-xbox-helix-will-cost-1000/",
-      "image": "https://www.videogameschronicle.com/files/2025/11/SM_powerButton.jpg",
-      "published_at": "2026-06-24T13:32:27Z",
-      "key_points": [
-        "Steam Machine pricing concerns",
-        "Next-gen consoles may exceed $1000",
-        "Analysts divided on predictions"
-      ],
-      "impact": "This could reshape console market strategies.",
-      "id": "106e1fd3935a72827f1d36d99c172bd6"
-    },
-    {
-      "title": "Google's New Speaker Lacks Audio Quality",
-      "description": "Google's latest Home Speaker, its first in six years, showcases impressive AI but falls short on audio performance, raising questions about its market viability.",
-      "category": "Hardware",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/features/2026-06-24/google-home-speaker-review-impressive-ai-underwhelming-audio-quality",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i12aUykX7Itk/v2/1200x800.jpg",
-      "published_at": "2026-06-24T13:00:15Z",
-      "key_points": [
-        "New speaker lacks audio quality",
-        "Strong AI integration",
-        "Market viability questioned"
-      ],
-      "impact": "This may affect Google's hardware reputation.",
-      "id": "9b03a7b944b3e05b5c148f9c28198a45"
-    },
-    {
-      "title": "GTA 6 Gameplay Footage Revealed",
-      "description": "New gameplay footage of GTA 6 showcases stunning details of Vice City Beach, alongside pre-order information and over 60 screenshots.",
-      "category": "Gaming",
-      "source": "RockstarINTEL",
-      "url": "https://rockstarintel.com/new-gta-6-gameplay-footage-shows-incredible-vice-city-beach-details/",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/06/ULTIMATE_EDITION_SQUALO_01-0cim7hj58ypb1.avif",
-      "published_at": "2026-06-24T12:40:53Z",
-      "key_points": [
-        "Stunning Vice City Beach details",
-        "New gameplay footage released",
-        "Pre-order information available"
-      ],
-      "impact": "This heightens anticipation for GTA 6.",
-      "id": "14ebea7c4fdbf1fe7f1dcb99bd3d6e6a"
-    },
-    {
-      "title": "Prime Day 2026: Accessory Discounts",
-      "description": "Prime Day 2026 features significant savings on Anker, Beats, TVs, and other accessories, appealing to tech enthusiasts and shoppers alike.",
+      "title": "Google Play Store Opens to Alternative Payments",
+      "description": "Google will introduce alternative billing options in the Play Store, reducing commissions for in-app purchases. This move aims to enhance developer revenue and competition.",
       "category": "Business",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/24/the-best-prime-day-deals-accessories-3/",
-      "image": "https://images.macrumors.com/t/0Nrnn0K8UE4eKaj5jTdipzqx3PE=/2500x/article-new/2026/06/beats-prime-day.jpeg",
-      "published_at": "2026-06-24T12:21:58Z",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/MM6_Offer-alt-billing.jpg?quality=90&strip=all&crop=44.6%2C44.973821989529%2C55.4%2C51.564863292612&w=1200",
+      "published_at": "2026-06-24T17:36:44Z",
       "key_points": [
-        "Major discounts on accessories",
-        "Tech enthusiasts targeted",
-        "Limited-time offers available"
+        "Alternative billing options coming",
+        "Lower commissions for developers",
+        "Shift in app store dynamics"
       ],
-      "impact": "This boosts sales for participating brands.",
-      "id": "bddccf6dc772852dd76a771c458c45cd"
+      "impact": "This could reshape app store economics significantly.",
+      "id": "7b10ac8425ed0d523075d9995d27b4e5"
     },
     {
-      "title": "Star Fox Remake: A Mixed Bag",
-      "description": "The Switch 2 Star Fox remake features impressive visuals but suffers from outdated gameplay mechanics, leaving fans divided on its value.",
-      "category": "Gaming",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/24/nx-s1-5868629/star-fox-remake-review-switch-2",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1496x842+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F77%2F2d%2F03977ca341298cc14128e10442df%2F20260623193557-01kvvck5b0vv2760rfjyzdmwxz.jpg",
-      "published_at": "2026-06-24T12:00:00Z",
-      "key_points": [
-        "High-quality visuals",
-        "Outdated gameplay mechanics",
-        "Mixed fan reception"
-      ],
-      "impact": "This may affect future remakes.",
-      "id": "bd92f9d9a43ce38f5bb2227957a0f0b8"
-    },
-    {
-      "title": "Microsoft Launches New Surface Pro Model",
-      "description": "Microsoft has unveiled a smaller Surface Pro with a 12-inch display, featuring a 90 Hz refresh rate and a Snapdragon X Plus chipset at a lower price.",
+      "title": "Galaxy Watch Ultra 2 Design Leaks",
+      "description": "New leaks reveal the design of the Galaxy Watch Ultra 2, showcasing a familiar look. The smartwatch continues Samsung's trend of iterative design updates.",
       "category": "Hardware",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Microsoft-releases-smaller-Surface-Pro-with-cheaper-price-and-90-Hz-display.1327594.0.html",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/surface-pro-12inch-new-release-8gb-RAM-kv.jpg",
-      "published_at": "2026-06-24T01:14:00Z",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/06/24/galaxy-watch-ultra-2-leaks-from-every-angle-and-looks-pretty-familiar-gallery/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/galaxy-watch-ultra-2-ev-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-24T13:25:00Z",
       "key_points": [
-        "New smaller Surface Pro released",
-        "Features 90 Hz display",
-        "Lower price point introduced"
+        "Galaxy Watch Ultra 2 leaks",
+        "Familiar design elements",
+        "Anticipation builds for release"
       ],
-      "impact": "This enhances competition in the tablet market.",
-      "id": "cdc25234d9255206e3e58d7df100aac0"
+      "impact": "This may influence consumer expectations for smartwatches.",
+      "id": "35b7861fd047425e6b4b4ec36f098cab"
+    },
+    {
+      "title": "GTA 6 Priced at $80, No Physical Disc",
+      "description": "GTA 6 will retail for $80, with physical editions providing a digital download code instead of a disc. This reflects changing trends in game distribution.",
+      "category": "Gaming",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjrg52egw1ro",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8a00/live/c7ebc1c0-6f1c-11f1-a375-a3e02c3e348e.jpg",
+      "published_at": "2026-06-24T11:35:14Z",
+      "key_points": [
+        "GTA 6 costs $80",
+        "No physical disc included",
+        "Digital download code provided"
+      ],
+      "impact": "This could set a new pricing standard for games.",
+      "id": "5bd4e0dd4e01f04ab047e76615a95e53"
+    },
+    {
+      "title": "Valve Acknowledges High Costs of Steam Machine",
+      "description": "Valve admits the Steam Machine's price is higher than expected, with uncertainty about future price reductions. This reflects ongoing challenges in the gaming hardware market.",
+      "category": "Business",
+      "source": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/valve-admits-steam-machine-is-more-expensive-than-it-hoped",
+      "image": "https://assetsio.gnwcdn.com/steam-machine.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_at": "2026-06-24T09:48:50Z",
+      "key_points": [
+        "Steam Machine costs higher than expected",
+        "Future price cuts uncertain",
+        "Challenges in gaming hardware market"
+      ],
+      "impact": "This may affect Valve's market competitiveness.",
+      "id": "c2c1f54ebaeef36ca137fec1e2b80150"
     }
   ]
 }

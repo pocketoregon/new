@@ -5,98 +5,62 @@
     <link>https://pocketoregon.github.io/new</link>
     <description>Automated AI-powered tech news briefings updated every 3 hours.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 22:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 03:34:44 +0000</lastBuildDate>
     <atom:link href="https://pocketoregon.github.io/new/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>GTA VI Signals Trouble for Physical Games</title>
-      <description>GTA VI's physical edition will only include a download code, raising concerns about the future of physical gaming. This trend could impact the entire industry.</description>
-      <link>https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games</link>
-      <guid isPermaLink="true">https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games</guid>
-      <pubDate>2026-06-24T18:42:07Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games">The Verge</source>
-    </item>
-    <item>
-      <title>Gemini in Chrome Introduces New Tool</title>
-      <description>Gemini in Chrome now features a 'Select from screen' tool, enhancing user prompts. Developers can also utilize Gemini 3.5 Flash for computer applications.</description>
-      <link>http://9to5google.com/2026/06/24/gemini-chrome-select-screen/</link>
-      <guid isPermaLink="true">http://9to5google.com/2026/06/24/gemini-chrome-select-screen/</guid>
-      <pubDate>2026-06-24T17:45:00Z</pubDate>
+      <title>Siri AI Refuses URL Summaries in iOS 27 Beta 2</title>
+      <description>Siri AI in iOS 27 beta 2 will now clearly refuse requests to summarize URLs, changing its interaction protocol. This aims to enhance user experience and content integrity.</description>
+      <link>https://9to5mac.com/2026/06/24/ios-27-beta-2-apple-tells-siri-ai-to-clearly-refuse-requests-to-summarize-urls/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/24/ios-27-beta-2-apple-tells-siri-ai-to-clearly-refuse-requests-to-summarize-urls/</guid>
+      <pubDate>2026-06-24T21:17:00Z</pubDate>
       <category>Software</category>
-      <source url="http://9to5google.com/2026/06/24/gemini-chrome-select-screen/">9to5Google</source>
+      <source url="https://9to5mac.com/2026/06/24/ios-27-beta-2-apple-tells-siri-ai-to-clearly-refuse-requests-to-summarize-urls/">9to5Mac</source>
     </item>
     <item>
-      <title>NSF Expands National Quantum Virtual Lab Teams</title>
-      <description>The NSF has selected five new teams to advance experimental quantum technologies, focusing on long-distance quantum information transfer and advanced sensors.</description>
-      <link>https://www.nsf.gov/news/nsf-selects-five-additional-teams-national-quantum-virtual</link>
-      <guid isPermaLink="true">https://www.nsf.gov/news/nsf-selects-five-additional-teams-national-quantum-virtual</guid>
-      <pubDate>2026-06-24T14:00:08Z</pubDate>
-      <category>Science</category>
-      <source url="https://www.nsf.gov/news/nsf-selects-five-additional-teams-national-quantum-virtual">National Science Foundation (.gov)</source>
-    </item>
-    <item>
-      <title>Amazon Prime Day 2026: Nintendo Deals</title>
-      <description>Day 2 of Amazon Prime Day features significant discounts on Nintendo Switch and accessories, making it a prime shopping opportunity for gamers.</description>
-      <link>https://nintendowire.com/news/2026/06/24/the-best-nintendo-deals-at-amazon-for-prime-day-2026-day-2/</link>
-      <guid isPermaLink="true">https://nintendowire.com/news/2026/06/24/the-best-nintendo-deals-at-amazon-for-prime-day-2026-day-2/</guid>
-      <pubDate>2026-06-24T13:41:17Z</pubDate>
+      <title>Star Fox Nintendo Switch 2 Cast Revealed</title>
+      <description>The voice cast for Star Fox Nintendo Switch 2 has been announced, featuring new actors for iconic characters like Fox and Falco. Fans can expect fresh performances in this beloved franchise.</description>
+      <link>https://nintendoeverything.com/star-fox-nintendo-switch-2-voice-actors-revealed-including-fox-falco-peppy-slippy-and-more/</link>
+      <guid isPermaLink="true">https://nintendoeverything.com/star-fox-nintendo-switch-2-voice-actors-revealed-including-fox-falco-peppy-slippy-and-more/</guid>
+      <pubDate>2026-06-24T20:50:57Z</pubDate>
       <category>Gaming</category>
-      <source url="https://nintendowire.com/news/2026/06/24/the-best-nintendo-deals-at-amazon-for-prime-day-2026-day-2/">Nintendo Wire</source>
+      <source url="https://nintendoeverything.com/star-fox-nintendo-switch-2-voice-actors-revealed-including-fox-falco-peppy-slippy-and-more/">Nintendoeverything.com</source>
     </item>
     <item>
-      <title>Analysts Predict High Prices for Next-Gen Consoles</title>
-      <description>Experts debate whether the Steam Machine's pricing indicates that future consoles like PS6 and Xbox Helix will exceed $1000.</description>
-      <link>https://www.videogameschronicle.com/news/north-of-a-grand-is-the-floor-analysts-debate-whether-steam-machine-means-ps6-and-xbox-helix-will-cost-1000/</link>
-      <guid isPermaLink="true">https://www.videogameschronicle.com/news/north-of-a-grand-is-the-floor-analysts-debate-whether-steam-machine-means-ps6-and-xbox-helix-will-cost-1000/</guid>
-      <pubDate>2026-06-24T13:32:27Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.videogameschronicle.com/news/north-of-a-grand-is-the-floor-analysts-debate-whether-steam-machine-means-ps6-and-xbox-helix-will-cost-1000/">Video Games Chronicle</source>
-    </item>
-    <item>
-      <title>Google's New Speaker Lacks Audio Quality</title>
-      <description>Google's latest Home Speaker, its first in six years, showcases impressive AI but falls short on audio performance, raising questions about its market viability.</description>
-      <link>https://www.bloomberg.com/news/features/2026-06-24/google-home-speaker-review-impressive-ai-underwhelming-audio-quality</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/features/2026-06-24/google-home-speaker-review-impressive-ai-underwhelming-audio-quality</guid>
-      <pubDate>2026-06-24T13:00:15Z</pubDate>
-      <category>Hardware</category>
-      <source url="https://www.bloomberg.com/news/features/2026-06-24/google-home-speaker-review-impressive-ai-underwhelming-audio-quality">Bloomberg</source>
-    </item>
-    <item>
-      <title>GTA 6 Gameplay Footage Revealed</title>
-      <description>New gameplay footage of GTA 6 showcases stunning details of Vice City Beach, alongside pre-order information and over 60 screenshots.</description>
-      <link>https://rockstarintel.com/new-gta-6-gameplay-footage-shows-incredible-vice-city-beach-details/</link>
-      <guid isPermaLink="true">https://rockstarintel.com/new-gta-6-gameplay-footage-shows-incredible-vice-city-beach-details/</guid>
-      <pubDate>2026-06-24T12:40:53Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://rockstarintel.com/new-gta-6-gameplay-footage-shows-incredible-vice-city-beach-details/">RockstarINTEL</source>
-    </item>
-    <item>
-      <title>Prime Day 2026: Accessory Discounts</title>
-      <description>Prime Day 2026 features significant savings on Anker, Beats, TVs, and other accessories, appealing to tech enthusiasts and shoppers alike.</description>
-      <link>https://www.macrumors.com/2026/06/24/the-best-prime-day-deals-accessories-3/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/06/24/the-best-prime-day-deals-accessories-3/</guid>
-      <pubDate>2026-06-24T12:21:58Z</pubDate>
+      <title>Google Play Store Opens to Alternative Payments</title>
+      <description>Google will introduce alternative billing options in the Play Store, reducing commissions for in-app purchases. This move aims to enhance developer revenue and competition.</description>
+      <link>https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust</guid>
+      <pubDate>2026-06-24T17:36:44Z</pubDate>
       <category>Business</category>
-      <source url="https://www.macrumors.com/2026/06/24/the-best-prime-day-deals-accessories-3/">MacRumors</source>
+      <source url="https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust">The Verge</source>
     </item>
     <item>
-      <title>Star Fox Remake: A Mixed Bag</title>
-      <description>The Switch 2 Star Fox remake features impressive visuals but suffers from outdated gameplay mechanics, leaving fans divided on its value.</description>
-      <link>https://www.npr.org/2026/06/24/nx-s1-5868629/star-fox-remake-review-switch-2</link>
-      <guid isPermaLink="true">https://www.npr.org/2026/06/24/nx-s1-5868629/star-fox-remake-review-switch-2</guid>
-      <pubDate>2026-06-24T12:00:00Z</pubDate>
-      <category>Gaming</category>
-      <source url="https://www.npr.org/2026/06/24/nx-s1-5868629/star-fox-remake-review-switch-2">NPR</source>
-    </item>
-    <item>
-      <title>Microsoft Launches New Surface Pro Model</title>
-      <description>Microsoft has unveiled a smaller Surface Pro with a 12-inch display, featuring a 90 Hz refresh rate and a Snapdragon X Plus chipset at a lower price.</description>
-      <link>https://www.notebookcheck.net/Microsoft-releases-smaller-Surface-Pro-with-cheaper-price-and-90-Hz-display.1327594.0.html</link>
-      <guid isPermaLink="true">https://www.notebookcheck.net/Microsoft-releases-smaller-Surface-Pro-with-cheaper-price-and-90-Hz-display.1327594.0.html</guid>
-      <pubDate>2026-06-24T01:14:00Z</pubDate>
+      <title>Galaxy Watch Ultra 2 Design Leaks</title>
+      <description>New leaks reveal the design of the Galaxy Watch Ultra 2, showcasing a familiar look. The smartwatch continues Samsung's trend of iterative design updates.</description>
+      <link>http://9to5google.com/2026/06/24/galaxy-watch-ultra-2-leaks-from-every-angle-and-looks-pretty-familiar-gallery/</link>
+      <guid isPermaLink="true">http://9to5google.com/2026/06/24/galaxy-watch-ultra-2-leaks-from-every-angle-and-looks-pretty-familiar-gallery/</guid>
+      <pubDate>2026-06-24T13:25:00Z</pubDate>
       <category>Hardware</category>
-      <source url="https://www.notebookcheck.net/Microsoft-releases-smaller-Surface-Pro-with-cheaper-price-and-90-Hz-display.1327594.0.html">Notebookcheck</source>
+      <source url="http://9to5google.com/2026/06/24/galaxy-watch-ultra-2-leaks-from-every-angle-and-looks-pretty-familiar-gallery/">9to5google.com</source>
+    </item>
+    <item>
+      <title>GTA 6 Priced at $80, No Physical Disc</title>
+      <description>GTA 6 will retail for $80, with physical editions providing a digital download code instead of a disc. This reflects changing trends in game distribution.</description>
+      <link>https://www.bbc.com/news/articles/cjrg52egw1ro</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cjrg52egw1ro</guid>
+      <pubDate>2026-06-24T11:35:14Z</pubDate>
+      <category>Gaming</category>
+      <source url="https://www.bbc.com/news/articles/cjrg52egw1ro">BBC News</source>
+    </item>
+    <item>
+      <title>Valve Acknowledges High Costs of Steam Machine</title>
+      <description>Valve admits the Steam Machine's price is higher than expected, with uncertainty about future price reductions. This reflects ongoing challenges in the gaming hardware market.</description>
+      <link>https://www.gamesindustry.biz/valve-admits-steam-machine-is-more-expensive-than-it-hoped</link>
+      <guid isPermaLink="true">https://www.gamesindustry.biz/valve-admits-steam-machine-is-more-expensive-than-it-hoped</guid>
+      <pubDate>2026-06-24T09:48:50Z</pubDate>
+      <category>Business</category>
+      <source url="https://www.gamesindustry.biz/valve-admits-steam-machine-is-more-expensive-than-it-hoped">GamesIndustry.biz</source>
     </item>
   </channel>
 </rss>
