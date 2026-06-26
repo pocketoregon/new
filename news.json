@@ -1,103 +1,135 @@
 {
   "date": "2026-06-26",
-  "generated_at": "2026-06-26T09:23:21.198721+00:00",
+  "generated_at": "2026-06-26T14:22:07.426236+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "GTA 6 Gameplay Details Unveiled",
-      "description": "Rockstar reveals new gameplay features for GTA 6, including fishing and car restoration. Preorders for the Ultimate Edition are set to begin soon.",
-      "category": "Gaming",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/gta-6-special-edition-pre-order-gameplay-details",
-      "image": "https://assets-prd.ignimgs.com/2026/06/24/gta-gameplaydetails-blog-1782312968730.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-24T22:53:42Z",
-      "key_points": [
-        "New gameplay features revealed",
-        "Ultimate Edition preorders soon",
-        "Includes fishing and car restoration"
-      ],
-      "impact": "GTA 6 is set to redefine gaming experiences.",
-      "id": "8d3242a93f15f84bbf2bfa1a0af7c724"
-    },
-    {
-      "title": "GTA VI Price Set at $80",
-      "description": "Grand Theft Auto VI will launch at $80, making it pricier than typical AAA titles. This pricing strategy may set a new standard in the gaming industry.",
-      "category": "Gaming",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/gta6-1152x648.jpg",
-      "published_at": "2026-06-24T22:47:03Z",
-      "key_points": [
-        "GTA VI priced at $80",
-        "Higher than typical AAA games",
-        "Potential industry pricing shift"
-      ],
-      "impact": "GTA VI's price may influence future game pricing.",
-      "id": "60564004eedb252af18c02a84bde8d4b"
-    },
-    {
-      "title": "Prime Day 2026 Tech Deals Highlighted",
-      "description": "Amazon Prime Day runs from June 23-26, featuring select discounts on tech products. Notable deals include laptops and gadgets worth checking out.",
+      "title": "Prime Day 2026: Best Home Cinema Deals",
+      "description": "Discover top savings on OLED TVs, soundbars, and projectors during Prime Day. Our experts provide real-time recommendations for the best deals available.",
       "category": "Business",
-      "source": "TechSpot",
-      "url": "https://www.techspot.com/news/112860-tech-deals-prime-day-2026-our-picks-pc.html",
-      "image": "https://www.techspot.com/images2/news/bigimage/2024/07/2024-07-15-image-53.jpg",
-      "published_at": "2026-06-24T15:07:34Z",
+      "source": "What Hi-Fi? US",
+      "url": "https://www.whathifi.com/tv-home-cinema/live/prime-day-2026-live-our-home-cinema-experts-picks-of-the-best-oled-tv-dolby-atmos-soundbar-projector-deals-and-more",
+      "image": "https://cdn.mos.cms.futurecdn.net/zVEEREXGtySZjVxToH7N66-1920-80.jpg",
+      "published_at": "2026-06-25T07:09:14Z",
       "key_points": [
-        "Prime Day discounts available",
-        "Select tech deals highlighted",
-        "Laptops and gadgets on sale"
+        "OLED TVs on sale",
+        "Best soundbar deals",
+        "Projector discounts available"
       ],
-      "impact": "Prime Day offers valuable tech savings this year.",
-      "id": "7bc67ea7e8a022bb763fb4c712ee8a6a"
+      "impact": "Prime Day offers significant savings on home cinema.",
+      "id": "461d2759c587aecce89e6cb8c5ef50fd"
     },
     {
-      "title": "Microsoft's Quantum Chip Claims Under Scrutiny",
-      "description": "Microsoft's Majorana chip research faces skepticism from experts, challenging the company's claims. The tech giant remains committed to its quantum computing goals.",
-      "category": "Science",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c05y9pl3ejmo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/823e/live/9bf6bfd0-5e9a-11f1-95ff-f5086c3b3d40.jpg",
-      "published_at": "2026-06-24T15:00:34Z",
+      "title": "Samsung Confirms Galaxy S27 Pro Launch",
+      "description": "Samsung officially acknowledges the Galaxy S27 Pro, part of a new series expected next year. This includes successors to the Galaxy S26 lineup and a new model.",
+      "category": "Business",
+      "source": "SamMobile",
+      "url": "https://www.sammobile.com/news/samsung-confirms-the-existence-of-the-galaxy-s27-pro/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/03/Galaxy-S26-Plus-review-3-1200x674.jpg",
+      "published_at": "2026-06-25T06:16:00Z",
       "key_points": [
-        "Microsoft's chip claims questioned",
-        "Experts express skepticism",
-        "Company remains committed to quantum"
+        "Galaxy S27 series confirmed",
+        "Includes new model",
+        "Successors to S26 lineup"
       ],
-      "impact": "Skepticism could impact Microsoft's quantum ambitions.",
-      "id": "7e785aaab0d67f1254d8d396b8e53a1e"
+      "impact": "Samsung's new series boosts its flagship offerings.",
+      "id": "d6c8ceb84837d82274b61e832886bce6"
     },
     {
-      "title": "Foldable iPhone 'Ultra' Production Set",
-      "description": "Apple's foldable iPhone 'Ultra' is slated for mass production starting July, despite reported hinge issues. Anticipation builds for this innovative device.",
-      "category": "Hardware",
+      "title": "Porsche Reveals 911 GT4 R as Cayman Successor",
+      "description": "Porsche introduces the 911 GT4 R, set to replace the 718 Cayman GT4 RS Clubsport in GT4 racing next year. This model is based on the 911 Cup.",
+      "category": "Business",
+      "source": "Sportscar365",
+      "url": "https://sportscar365.com/imsa/impc/porsche-unveils-911-gt4-r-as-718-cayman-replacement/",
+      "image": "https://sportscar365.com/wp-content/uploads/2026/06/DSC_2589-3_klein.jpg",
+      "published_at": "2026-06-25T06:14:44Z",
+      "key_points": [
+        "New GT4 R unveiled",
+        "Replaces Cayman GT4 RS",
+        "Based on 911 Cup model"
+      ],
+      "impact": "Porsche strengthens its GT4 racing lineup.",
+      "id": "f96036d8130fbb6bec06b14c3fab4bd2"
+    },
+    {
+      "title": "Google Play Store Opens to External Billing",
+      "description": "Starting June 30, Google will allow external payment options in the Play Store for users in the US, UK, and Europe. This marks a significant policy change.",
+      "category": "Business",
+      "source": "9to5Google",
+      "url": "http://9to5google.com/2026/06/24/google-play-store-external-billing-june-30/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/google-play-store-external-billing-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-25T01:20:00Z",
+      "key_points": [
+        "External payments allowed",
+        "Effective June 30",
+        "Available in multiple regions"
+      ],
+      "impact": "Google's change enhances payment flexibility for users.",
+      "id": "377409c38617ed4b997f99ee0d89a0e8"
+    },
+    {
+      "title": "iOS 27 Home App Introduces New Features",
+      "description": "Apple's iOS 27 update enhances the Home app with over ten new HomeKit features, improving functionality for Secure Video cameras and more.",
+      "category": "Software",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/24/foldable-iphone-ultra-set-for-production-july/",
-      "image": "https://images.macrumors.com/t/utojh2KSAyPpmL2zSSHd0_hnVQQ=/2500x/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-      "published_at": "2026-06-24T13:56:24Z",
+      "url": "https://www.macrumors.com/guide/ios-27-home/",
+      "image": "https://images.macrumors.com/t/ZWA8SqQp5izAhPYW01JvaLgRUm0=/2500x/article-new/2026/06/iOS-27-10-HomeKit-Features.jpg",
+      "published_at": "2026-06-24T23:15:38Z",
       "key_points": [
-        "Foldable iPhone Ultra production begins",
-        "Hinge issues reported",
-        "Innovative design anticipated"
+        "New HomeKit features",
+        "Improved Secure Video",
+        "Enhanced user experience"
       ],
-      "impact": "The foldable iPhone could reshape smartphone design.",
-      "id": "0c7cf752095a7e161950da4e90da06df"
+      "impact": "iOS 27 boosts smart home capabilities significantly.",
+      "id": "9b4a6d48a16fb1b084dbe3b24dc4157a"
     },
     {
-      "title": "Nothing Launches Mini Phone Inspired by Apple",
-      "description": "Nothing is producing a mini phone reminiscent of Apple's abandoned iPhone Mini. Priced under $320, it aims to capture the compact smartphone market.",
+      "title": "New Site Shames Companies Lacking Passkeys",
+      "description": "A new website highlights that 24% of popular sites still don't support passkeys, the most secure login method. This raises concerns about online security.",
+      "category": "Security",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/24/new-website-names-and-shames-companies-that-still-dont-offer-passkeys-to-users/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/instagram-logo-fingerprint.jpg?resize=1200,801",
+      "published_at": "2026-06-24T21:04:04Z",
+      "key_points": [
+        "24% lack passkey support",
+        "Highlights security gaps",
+        "Calls for better practices"
+      ],
+      "impact": "Increased awareness of security shortcomings online.",
+      "id": "8e0d15c6538218e60667c930485e90da"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold 8 Launch Confirmed",
+      "description": "Samsung's Galaxy Z Fold 8 Ultra and other devices are confirmed for a July Unpacked event, clearing the way for their U.S. launch.",
+      "category": "Business",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/jaymcgregor/2026/06/24/samsung-galaxy-z-fold-8-release-date-fcc-specifications-leak/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/69c3e4a6eaa9bb67caac1f5d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "published_at": "2026-06-24T16:58:00Z",
+      "key_points": [
+        "Galaxy Z Fold 8 confirmed",
+        "July Unpacked event",
+        "New devices launching soon"
+      ],
+      "impact": "Samsung's foldables set to make a strong debut.",
+      "id": "374360e28339e56b045d549a5d940eea"
+    },
+    {
+      "title": "Nothing Launches Mini Phone Under $320",
+      "description": "Nothing is releasing a mini phone, reviving the concept Apple abandoned in 2021. Priced under $320, it aims for compact usability.",
       "category": "Startups",
       "source": "Yanko Design",
       "url": "https://www.yankodesign.com/2026/06/23/nothing-is-making-the-mini-phone-that-apple-abandoned-in-2021-and-it-costs-less-than-320/",
       "image": "https://www.yankodesign.com/images/design_news/2026/06/nothing-is-making-the-mini-phone-that-apple-abandoned-in-2021-and-it-costs-less-than-360/nothing_phone_4b_1.jpeg",
       "published_at": "2026-06-23T20:30:48Z",
       "key_points": [
-        "Nothing's mini phone launched",
-        "Inspired by Apple iPhone Mini",
-        "Affordable price under $320"
+        "Mini phone revival",
+        "Under $320 price",
+        "Compact design focus"
       ],
-      "impact": "This mini phone could attract compact phone enthusiasts.",
-      "id": "18b7754c0ab024a0f9d7516777f7f2c3"
+      "impact": "Nothing's mini phone targets niche market demand.",
+      "id": "cfa7c188db8268833a409ce91b119428"
     }
   ]
 }

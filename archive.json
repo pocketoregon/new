@@ -1,6 +1,141 @@
 {
   "batches": [
     {
+      "id": "2026-06-26T14:22:07.426236+00:00",
+      "fetched_at": "2026-06-26T14:22:07.426236+00:00",
+      "label": "Jun 26, 2026 — 02:22 PM UTC",
+      "articles": [
+        {
+          "title": "Prime Day 2026: Best Home Cinema Deals",
+          "description": "Discover top savings on OLED TVs, soundbars, and projectors during Prime Day. Our experts provide real-time recommendations for the best deals available.",
+          "category": "Business",
+          "source": "What Hi-Fi? US",
+          "url": "https://www.whathifi.com/tv-home-cinema/live/prime-day-2026-live-our-home-cinema-experts-picks-of-the-best-oled-tv-dolby-atmos-soundbar-projector-deals-and-more",
+          "image": "https://cdn.mos.cms.futurecdn.net/zVEEREXGtySZjVxToH7N66-1920-80.jpg",
+          "published_at": "2026-06-25T07:09:14Z",
+          "key_points": [
+            "OLED TVs on sale",
+            "Best soundbar deals",
+            "Projector discounts available"
+          ],
+          "impact": "Prime Day offers significant savings on home cinema.",
+          "id": "461d2759c587aecce89e6cb8c5ef50fd"
+        },
+        {
+          "title": "Samsung Confirms Galaxy S27 Pro Launch",
+          "description": "Samsung officially acknowledges the Galaxy S27 Pro, part of a new series expected next year. This includes successors to the Galaxy S26 lineup and a new model.",
+          "category": "Business",
+          "source": "SamMobile",
+          "url": "https://www.sammobile.com/news/samsung-confirms-the-existence-of-the-galaxy-s27-pro/",
+          "image": "https://www.sammobile.com/wp-content/uploads/2026/03/Galaxy-S26-Plus-review-3-1200x674.jpg",
+          "published_at": "2026-06-25T06:16:00Z",
+          "key_points": [
+            "Galaxy S27 series confirmed",
+            "Includes new model",
+            "Successors to S26 lineup"
+          ],
+          "impact": "Samsung's new series boosts its flagship offerings.",
+          "id": "d6c8ceb84837d82274b61e832886bce6"
+        },
+        {
+          "title": "Porsche Reveals 911 GT4 R as Cayman Successor",
+          "description": "Porsche introduces the 911 GT4 R, set to replace the 718 Cayman GT4 RS Clubsport in GT4 racing next year. This model is based on the 911 Cup.",
+          "category": "Business",
+          "source": "Sportscar365",
+          "url": "https://sportscar365.com/imsa/impc/porsche-unveils-911-gt4-r-as-718-cayman-replacement/",
+          "image": "https://sportscar365.com/wp-content/uploads/2026/06/DSC_2589-3_klein.jpg",
+          "published_at": "2026-06-25T06:14:44Z",
+          "key_points": [
+            "New GT4 R unveiled",
+            "Replaces Cayman GT4 RS",
+            "Based on 911 Cup model"
+          ],
+          "impact": "Porsche strengthens its GT4 racing lineup.",
+          "id": "f96036d8130fbb6bec06b14c3fab4bd2"
+        },
+        {
+          "title": "Google Play Store Opens to External Billing",
+          "description": "Starting June 30, Google will allow external payment options in the Play Store for users in the US, UK, and Europe. This marks a significant policy change.",
+          "category": "Business",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/24/google-play-store-external-billing-june-30/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/google-play-store-external-billing-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-25T01:20:00Z",
+          "key_points": [
+            "External payments allowed",
+            "Effective June 30",
+            "Available in multiple regions"
+          ],
+          "impact": "Google's change enhances payment flexibility for users.",
+          "id": "377409c38617ed4b997f99ee0d89a0e8"
+        },
+        {
+          "title": "iOS 27 Home App Introduces New Features",
+          "description": "Apple's iOS 27 update enhances the Home app with over ten new HomeKit features, improving functionality for Secure Video cameras and more.",
+          "category": "Software",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/guide/ios-27-home/",
+          "image": "https://images.macrumors.com/t/ZWA8SqQp5izAhPYW01JvaLgRUm0=/2500x/article-new/2026/06/iOS-27-10-HomeKit-Features.jpg",
+          "published_at": "2026-06-24T23:15:38Z",
+          "key_points": [
+            "New HomeKit features",
+            "Improved Secure Video",
+            "Enhanced user experience"
+          ],
+          "impact": "iOS 27 boosts smart home capabilities significantly.",
+          "id": "9b4a6d48a16fb1b084dbe3b24dc4157a"
+        },
+        {
+          "title": "New Site Shames Companies Lacking Passkeys",
+          "description": "A new website highlights that 24% of popular sites still don't support passkeys, the most secure login method. This raises concerns about online security.",
+          "category": "Security",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/24/new-website-names-and-shames-companies-that-still-dont-offer-passkeys-to-users/",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/instagram-logo-fingerprint.jpg?resize=1200,801",
+          "published_at": "2026-06-24T21:04:04Z",
+          "key_points": [
+            "24% lack passkey support",
+            "Highlights security gaps",
+            "Calls for better practices"
+          ],
+          "impact": "Increased awareness of security shortcomings online.",
+          "id": "8e0d15c6538218e60667c930485e90da"
+        },
+        {
+          "title": "Samsung Galaxy Z Fold 8 Launch Confirmed",
+          "description": "Samsung's Galaxy Z Fold 8 Ultra and other devices are confirmed for a July Unpacked event, clearing the way for their U.S. launch.",
+          "category": "Business",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/jaymcgregor/2026/06/24/samsung-galaxy-z-fold-8-release-date-fcc-specifications-leak/",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/69c3e4a6eaa9bb67caac1f5d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "published_at": "2026-06-24T16:58:00Z",
+          "key_points": [
+            "Galaxy Z Fold 8 confirmed",
+            "July Unpacked event",
+            "New devices launching soon"
+          ],
+          "impact": "Samsung's foldables set to make a strong debut.",
+          "id": "374360e28339e56b045d549a5d940eea"
+        },
+        {
+          "title": "Nothing Launches Mini Phone Under $320",
+          "description": "Nothing is releasing a mini phone, reviving the concept Apple abandoned in 2021. Priced under $320, it aims for compact usability.",
+          "category": "Startups",
+          "source": "Yanko Design",
+          "url": "https://www.yankodesign.com/2026/06/23/nothing-is-making-the-mini-phone-that-apple-abandoned-in-2021-and-it-costs-less-than-320/",
+          "image": "https://www.yankodesign.com/images/design_news/2026/06/nothing-is-making-the-mini-phone-that-apple-abandoned-in-2021-and-it-costs-less-than-360/nothing_phone_4b_1.jpeg",
+          "published_at": "2026-06-23T20:30:48Z",
+          "key_points": [
+            "Mini phone revival",
+            "Under $320 price",
+            "Compact design focus"
+          ],
+          "impact": "Nothing's mini phone targets niche market demand.",
+          "id": "cfa7c188db8268833a409ce91b119428"
+        }
+      ]
+    },
+    {
       "id": "2026-06-26T09:23:21.198721+00:00",
       "fetched_at": "2026-06-26T09:23:21.198721+00:00",
       "label": "Jun 26, 2026 — 09:23 AM UTC",
@@ -6008,237 +6143,6 @@
           ],
           "impact": "This informs users about upcoming software changes.",
           "id": "5b84b4e133344109271273461ceaa10b"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-21T09:48:26.099191+00:00",
-      "fetched_at": "2026-06-21T09:48:26.099191+00:00",
-      "label": "Jun 21, 2026 — 09:48 AM UTC",
-      "articles": [
-        {
-          "title": "Apple’s Early Prime Day Sale Is Live!",
-          "description": "Grab early Prime Day deals on Apple products like MacBooks and AirPods at Amazon now. Don't miss these limited-time offers!",
-          "category": "Business",
-          "source": "CNET",
-          "url": "https://www.cnet.com/deals/best-prime-day-apple-deals-2026-06-19/",
-          "image": "https://www.cnet.com/a/img/resize/aa4526b6148f63969eee249810edf5256787edfd/hub/2026/06/09/d3ece905-03a5-492e-a6bb-c7590f32b299/apple-devices-on-a-purple-background.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "published_at": "2026-06-20T07:42:23Z",
-          "key_points": [
-            "Early deals on Apple products",
-            "Limited-time offers",
-            "Shop now at Amazon"
-          ],
-          "impact": "Apple's sale boosts early Prime Day excitement.",
-          "id": "8f3581840465c6df8fb6dbc3e1ca0749"
-        },
-        {
-          "title": "Windows 11 26H2 Set for Fall 2026 Release",
-          "description": "Microsoft confirms Windows 11 26H2 will be a minor update, focusing on stability rather than major features. Supported PCs have been detailed.",
-          "category": "Software",
-          "source": "WindowsLatest",
-          "url": "https://www.windowslatest.com/2026/06/20/microsoft-confirms-windows-11-26h2-for-fall-2026-release-reveals-supported-pcs-and-other-details/",
-          "image": "https://www.windowslatest.com/wp-content/uploads/2026/06/Windows-11-26H2.jpg",
-          "published_at": "2026-06-19T20:35:26Z",
-          "key_points": [
-            "Minor update for Windows 11",
-            "Focus on stability",
-            "Supported PCs listed"
-          ],
-          "impact": "Windows updates aim for greater predictability.",
-          "id": "f8f51adea9e2a3b1dd66bacb3a87a58a"
-        },
-        {
-          "title": "Ubisoft Offers 149 Free Games",
-          "description": "Ubisoft has made 149 games available for free for PC and Xbox users for a limited time. Don't miss this opportunity!",
-          "category": "Gaming",
-          "source": "ComicBook.com",
-          "url": "http://comicbook.com/gaming/news/ubisoft-games-free-download/",
-          "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/02/u-b-i-s-o-f-t.png?resize=2000,1125",
-          "published_at": "2026-06-19T20:18:16Z",
-          "key_points": [
-            "149 games available for free",
-            "Limited time offer",
-            "PC and Xbox only"
-          ],
-          "impact": "Ubisoft's promotion boosts player engagement.",
-          "id": "67e24a528a3dc9e34817a2d5f7c8278e"
-        },
-        {
-          "title": "GTA 6 Trailer Reveals New Details",
-          "description": "The latest Grand Theft Auto 6 trailer showcases cover art and music, hinting at its pre-order date. Fans are excited!",
-          "category": "Gaming",
-          "source": "Digitalfoundry.net",
-          "url": "https://www.digitalfoundry.net/features/gta-6-and-the-mystery-of-the-missing-ferris-wheel-reflection",
-          "image": "https://images.digitalfoundry.net/ca5b25150cc8d/large.jpg",
-          "published_at": "2026-06-19T17:06:00Z",
-          "key_points": [
-            "New GTA 6 trailer released",
-            "Features 80s music",
-            "Pre-order date hinted"
-          ],
-          "impact": "GTA 6 hype continues to build.",
-          "id": "666717f3c604504f1bbe64457e2ffd52"
-        },
-        {
-          "title": "The Grinch Sequel Coming in September 2026",
-          "description": "A sequel to The Grinch: Christmas Adventures will launch in September 2026 on Xbox, following its predecessor's success.",
-          "category": "Gaming",
-          "source": "TrueAchievements",
-          "url": "https://www.trueachievements.com/news/the-grinch-2-saving-christmas-release-date",
-          "image": "https://www.trueachievements.com/imgs/176217/the-grinch-2-release-date.jpg",
-          "published_at": "2026-06-19T15:45:08Z",
-          "key_points": [
-            "Grinch sequel announced",
-            "Releasing September 2026",
-            "Xbox exclusive"
-          ],
-          "impact": "Fans anticipate the Grinch's return.",
-          "id": "88558185bd8e608b53609f73974e9d29"
-        },
-        {
-          "title": "iPhone 18 Pro Features Leaked",
-          "description": "Rumored features for the iPhone 18 Pro include significant upgrades, set to launch this fall. Excitement builds!",
-          "category": "Business",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/19/iphone-18-pro-six-new-features-are-coming-this-fall/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-silver-centered.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-19T14:19:00Z",
-          "key_points": [
-            "Six new features rumored",
-            "iPhone 18 Pro launching",
-            "Fall release expected"
-          ],
-          "impact": "Anticipation for iPhone 18 Pro grows.",
-          "id": "5d3c1cfd5728ba96b1b7a96c1f39a59f"
-        },
-        {
-          "title": "Final Fantasy VII Remake Trilogy Finale Trailer Released",
-          "description": "SQUARE ENIX has unveiled the trailer for 'FINAL FANTASY VII REVELATION,' the final chapter of the remake trilogy, set for spring release.",
-          "category": "Gaming",
-          "source": "InvenGlobal",
-          "url": "https://www.invenglobal.com/articles/final-fantasy-vii-remake-trilogy-finale-revelation-trailer-released",
-          "image": "https://static.invenglobal.com/upload/image/2026/06/19/r1781878337569271.jpeg",
-          "published_at": "2026-06-19T14:10:10Z",
-          "key_points": [
-            "Final installment trailer released",
-            "Spring release planned",
-            "Fans eagerly await conclusion"
-          ],
-          "impact": "Final Fantasy VII saga reaches its climax.",
-          "id": "97c80df6a8b43516f0647cdd5431e4f0"
-        },
-        {
-          "title": "Pokémon GO Fest 2026 Countdown Begins",
-          "description": "Pokémon GO Fest 2026: Global kicks off with Road of Legends, featuring Legendary raids and event bonuses from July 6-10, 2026.",
-          "category": "Gaming",
-          "source": "Pokemon GO Hub",
-          "url": "https://pokemongohub.net/post/event/go-fest-2026-road-of-legends/",
-          "image": "https://pokemongohub.net/wp-content/uploads/2026/06/PGO-MCS_GOFest_2026_GOPass_v3-16x9-1.jpg",
-          "published_at": "2026-06-19T13:36:59Z",
-          "key_points": [
-            "GO Fest 2026 starts July 6",
-            "Legendary raids featured",
-            "Event bonuses available"
-          ],
-          "impact": "Excitement builds for Pokémon GO Fest.",
-          "id": "fd54b826335557f69364f3a499a107c2"
-        },
-        {
-          "title": "Minecraft Chaos Sparks Community Challenge Launched",
-          "description": "Join the Chaos Sparks Community Challenge in Minecraft to earn rewards by creating chaos with your team. Get involved now!",
-          "category": "Gaming",
-          "source": "Minecraft.net",
-          "url": "https://www.minecraft.net/en-us/article/community-challenge-chaos-sparks",
-          "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/Minecraft_ChaosCubed_CommunityChallenge1_dotNET_1170x500.jpg",
-          "published_at": "2026-06-19T12:51:46Z",
-          "key_points": [
-            "Chaos Sparks challenge launched",
-            "Earn special rewards",
-            "Team-based gameplay encouraged"
-          ],
-          "impact": "Community engagement in Minecraft increases.",
-          "id": "d82431ba1f695de349100dc92c89c043"
-        },
-        {
-          "title": "ROG Xbox Ally X20 Launches Soon",
-          "description": "ASUS reveals the ROG Xbox Ally X20, featuring upgrades and a high price tag. Expect premium gaming performance.",
-          "category": "Hardware",
-          "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/news/2026/06/rog-xbox-ally-x20-marks-the-opportunity-of-a-lifetime-but-expect-a-high-price",
-          "image": "https://images.purexbox.com/aad445e70ad5e/large.jpg",
-          "published_at": "2026-06-19T12:30:00Z",
-          "key_points": [
-            "ROG Xbox Ally X20 announced",
-            "Upgraded features included",
-            "High price expected"
-          ],
-          "impact": "Premium gaming device targets enthusiasts.",
-          "id": "8a940ee2830e23e45bc1a54f484b72e0"
-        },
-        {
-          "title": "Legionnaires’ Disease Outbreak Insights 50 Years Later",
-          "description": "Scientists now understand the cause of the 1976 Legionnaires’ disease outbreak in Philadelphia, linked to Legionella pneumophila bacteria.",
-          "category": "Science",
-          "source": "The Conversation Africa",
-          "url": "https://theconversation.com/legionnaires-disease-outbreak-in-philadelphia-in-1976-was-mysterious-and-deadly-50-years-later-scientists-know-the-cause-but-outbreaks-continue-284150",
-          "image": "https://images.theconversation.com/files/741410/original/file-20260611-57-g4hd9i.jpg?ixlib=rb-4.1.0&rect=0%2C369%2C4557%2C2278&q=45&auto=format&w=1356&h=668&fit=crop",
-          "published_at": "2026-06-19T12:10:52Z",
-          "key_points": [
-            "Legionella pneumophila identified",
-            "Outbreak details revisited",
-            "Ongoing risks highlighted"
-          ],
-          "impact": "Understanding of Legionnaires’ disease improves.",
-          "id": "3236f0414274d9b284e4ef5398248ea0"
-        },
-        {
-          "title": "Microsoft's New Windows Bug Exposed",
-          "description": "A recent Windows update reveals internal file names during file deletions, causing confusion among users. Microsoft is addressing the issue.",
-          "category": "Software",
-          "source": "The Register",
-          "url": "https://www.theregister.com/personal-tech/2026/06/19/microsofts-latest-windows-bug-belongs-in-the-recycle-bin/5258779",
-          "image": "https://image.theregister.com/5258862.jpg?imageId=5258862&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-          "published_at": "2026-06-19T12:06:04Z",
-          "key_points": [
-            "Windows bug reveals file names",
-            "User confusion reported",
-            "Microsoft working on fix"
-          ],
-          "impact": "User experience affected by cosmetic bug.",
-          "id": "8f39d907dc0319fe36f8051b94b2b3b5"
-        },
-        {
-          "title": "Valve's Steam Machine Details Leaked",
-          "description": "Leaked information reveals Valve's upcoming Steam Machine features a custom AMD CPU and GPU, priced at $799, ahead of its announcement.",
-          "category": "Hardware",
-          "source": "Geeky Gadgets",
-          "url": "https://www.geeky-gadgets.com/?p=496219",
-          "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/steam-machine-leak.jpg",
-          "published_at": "2026-06-19T11:50:31Z",
-          "key_points": [
-            "Steam Machine features leaked",
-            "Custom AMD hardware included",
-            "$799 starting price"
-          ],
-          "impact": "Valve's new console generates buzz.",
-          "id": "f3d074a8d5b2047d72e05da4678ee241"
-        },
-        {
-          "title": "Sea of Thieves Custom Seas Update Released",
-          "description": "Season 20 of Sea of Thieves introduces Custom Seas, allowing players to create unique experiences in the game. Dive in now!",
-          "category": "Gaming",
-          "source": "TrueAchievements",
-          "url": "https://www.trueachievements.com/news/sea-of-thieves-custom-seas",
-          "image": "https://www.trueachievements.com/imgs/176190/sea-of-thieves-custom-seas.jpg",
-          "published_at": "2026-06-19T11:25:08Z",
-          "key_points": [
-            "Custom Seas update launched",
-            "Create unique experiences",
-            "Season 20 kicks off"
-          ],
-          "impact": "Player creativity in Sea of Thieves expands.",
-          "id": "4e55fff2506ee02dfd28514c68e81a74"
         }
       ]
     }
