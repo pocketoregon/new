@@ -1,103 +1,103 @@
 {
   "date": "2026-06-26",
-  "generated_at": "2026-06-26T03:34:33.430219+00:00",
+  "generated_at": "2026-06-26T09:23:21.198721+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Siri AI Refuses URL Summaries in iOS 27 Beta 2",
-      "description": "Siri AI in iOS 27 beta 2 will now clearly refuse requests to summarize URLs, changing its interaction protocol. This aims to enhance user experience and content integrity.",
-      "category": "Software",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/24/ios-27-beta-2-apple-tells-siri-ai-to-clearly-refuse-requests-to-summarize-urls/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai-27-dark_e0fbb1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-24T21:17:00Z",
-      "key_points": [
-        "Siri won't summarize URLs",
-        "New protocol in iOS 27",
-        "Focus on content integrity"
-      ],
-      "impact": "This change may improve user trust in Siri.",
-      "id": "888f013484ddf0f85a3268b8b22cf088"
-    },
-    {
-      "title": "Star Fox Nintendo Switch 2 Cast Revealed",
-      "description": "The voice cast for Star Fox Nintendo Switch 2 has been announced, featuring new actors for iconic characters like Fox and Falco. Fans can expect fresh performances in this beloved franchise.",
+      "title": "GTA 6 Gameplay Details Unveiled",
+      "description": "Rockstar reveals new gameplay features for GTA 6, including fishing and car restoration. Preorders for the Ultimate Edition are set to begin soon.",
       "category": "Gaming",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/star-fox-nintendo-switch-2-voice-actors-revealed-including-fox-falco-peppy-slippy-and-more/",
-      "image": "https://nintendoeverything.com/wp-content/uploads/Star-Fox-Switch-2-voice-actors.jpg",
-      "published_at": "2026-06-24T20:50:57Z",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/gta-6-special-edition-pre-order-gameplay-details",
+      "image": "https://assets-prd.ignimgs.com/2026/06/24/gta-gameplaydetails-blog-1782312968730.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-24T22:53:42Z",
       "key_points": [
-        "New voice actors announced",
-        "Includes main characters",
-        "Excitement for franchise revival"
+        "New gameplay features revealed",
+        "Ultimate Edition preorders soon",
+        "Includes fishing and car restoration"
       ],
-      "impact": "This could rejuvenate interest in Star Fox.",
-      "id": "561189086cc0765aad0fb280d9ec12c0"
+      "impact": "GTA 6 is set to redefine gaming experiences.",
+      "id": "8d3242a93f15f84bbf2bfa1a0af7c724"
     },
     {
-      "title": "Google Play Store Opens to Alternative Payments",
-      "description": "Google will introduce alternative billing options in the Play Store, reducing commissions for in-app purchases. This move aims to enhance developer revenue and competition.",
+      "title": "GTA VI Price Set at $80",
+      "description": "Grand Theft Auto VI will launch at $80, making it pricier than typical AAA titles. This pricing strategy may set a new standard in the gaming industry.",
+      "category": "Gaming",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/gta6-1152x648.jpg",
+      "published_at": "2026-06-24T22:47:03Z",
+      "key_points": [
+        "GTA VI priced at $80",
+        "Higher than typical AAA games",
+        "Potential industry pricing shift"
+      ],
+      "impact": "GTA VI's price may influence future game pricing.",
+      "id": "60564004eedb252af18c02a84bde8d4b"
+    },
+    {
+      "title": "Prime Day 2026 Tech Deals Highlighted",
+      "description": "Amazon Prime Day runs from June 23-26, featuring select discounts on tech products. Notable deals include laptops and gadgets worth checking out.",
       "category": "Business",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/MM6_Offer-alt-billing.jpg?quality=90&strip=all&crop=44.6%2C44.973821989529%2C55.4%2C51.564863292612&w=1200",
-      "published_at": "2026-06-24T17:36:44Z",
+      "source": "TechSpot",
+      "url": "https://www.techspot.com/news/112860-tech-deals-prime-day-2026-our-picks-pc.html",
+      "image": "https://www.techspot.com/images2/news/bigimage/2024/07/2024-07-15-image-53.jpg",
+      "published_at": "2026-06-24T15:07:34Z",
       "key_points": [
-        "Alternative billing options coming",
-        "Lower commissions for developers",
-        "Shift in app store dynamics"
+        "Prime Day discounts available",
+        "Select tech deals highlighted",
+        "Laptops and gadgets on sale"
       ],
-      "impact": "This could reshape app store economics significantly.",
-      "id": "7b10ac8425ed0d523075d9995d27b4e5"
+      "impact": "Prime Day offers valuable tech savings this year.",
+      "id": "7bc67ea7e8a022bb763fb4c712ee8a6a"
     },
     {
-      "title": "Galaxy Watch Ultra 2 Design Leaks",
-      "description": "New leaks reveal the design of the Galaxy Watch Ultra 2, showcasing a familiar look. The smartwatch continues Samsung's trend of iterative design updates.",
+      "title": "Microsoft's Quantum Chip Claims Under Scrutiny",
+      "description": "Microsoft's Majorana chip research faces skepticism from experts, challenging the company's claims. The tech giant remains committed to its quantum computing goals.",
+      "category": "Science",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c05y9pl3ejmo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/823e/live/9bf6bfd0-5e9a-11f1-95ff-f5086c3b3d40.jpg",
+      "published_at": "2026-06-24T15:00:34Z",
+      "key_points": [
+        "Microsoft's chip claims questioned",
+        "Experts express skepticism",
+        "Company remains committed to quantum"
+      ],
+      "impact": "Skepticism could impact Microsoft's quantum ambitions.",
+      "id": "7e785aaab0d67f1254d8d396b8e53a1e"
+    },
+    {
+      "title": "Foldable iPhone 'Ultra' Production Set",
+      "description": "Apple's foldable iPhone 'Ultra' is slated for mass production starting July, despite reported hinge issues. Anticipation builds for this innovative device.",
       "category": "Hardware",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/06/24/galaxy-watch-ultra-2-leaks-from-every-angle-and-looks-pretty-familiar-gallery/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/galaxy-watch-ultra-2-ev-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-24T13:25:00Z",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/24/foldable-iphone-ultra-set-for-production-july/",
+      "image": "https://images.macrumors.com/t/utojh2KSAyPpmL2zSSHd0_hnVQQ=/2500x/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+      "published_at": "2026-06-24T13:56:24Z",
       "key_points": [
-        "Galaxy Watch Ultra 2 leaks",
-        "Familiar design elements",
-        "Anticipation builds for release"
+        "Foldable iPhone Ultra production begins",
+        "Hinge issues reported",
+        "Innovative design anticipated"
       ],
-      "impact": "This may influence consumer expectations for smartwatches.",
-      "id": "35b7861fd047425e6b4b4ec36f098cab"
+      "impact": "The foldable iPhone could reshape smartphone design.",
+      "id": "0c7cf752095a7e161950da4e90da06df"
     },
     {
-      "title": "GTA 6 Priced at $80, No Physical Disc",
-      "description": "GTA 6 will retail for $80, with physical editions providing a digital download code instead of a disc. This reflects changing trends in game distribution.",
-      "category": "Gaming",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cjrg52egw1ro",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8a00/live/c7ebc1c0-6f1c-11f1-a375-a3e02c3e348e.jpg",
-      "published_at": "2026-06-24T11:35:14Z",
+      "title": "Nothing Launches Mini Phone Inspired by Apple",
+      "description": "Nothing is producing a mini phone reminiscent of Apple's abandoned iPhone Mini. Priced under $320, it aims to capture the compact smartphone market.",
+      "category": "Startups",
+      "source": "Yanko Design",
+      "url": "https://www.yankodesign.com/2026/06/23/nothing-is-making-the-mini-phone-that-apple-abandoned-in-2021-and-it-costs-less-than-320/",
+      "image": "https://www.yankodesign.com/images/design_news/2026/06/nothing-is-making-the-mini-phone-that-apple-abandoned-in-2021-and-it-costs-less-than-360/nothing_phone_4b_1.jpeg",
+      "published_at": "2026-06-23T20:30:48Z",
       "key_points": [
-        "GTA 6 costs $80",
-        "No physical disc included",
-        "Digital download code provided"
+        "Nothing's mini phone launched",
+        "Inspired by Apple iPhone Mini",
+        "Affordable price under $320"
       ],
-      "impact": "This could set a new pricing standard for games.",
-      "id": "5bd4e0dd4e01f04ab047e76615a95e53"
-    },
-    {
-      "title": "Valve Acknowledges High Costs of Steam Machine",
-      "description": "Valve admits the Steam Machine's price is higher than expected, with uncertainty about future price reductions. This reflects ongoing challenges in the gaming hardware market.",
-      "category": "Business",
-      "source": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/valve-admits-steam-machine-is-more-expensive-than-it-hoped",
-      "image": "https://assetsio.gnwcdn.com/steam-machine.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "published_at": "2026-06-24T09:48:50Z",
-      "key_points": [
-        "Steam Machine costs higher than expected",
-        "Future price cuts uncertain",
-        "Challenges in gaming hardware market"
-      ],
-      "impact": "This may affect Valve's market competitiveness.",
-      "id": "c2c1f54ebaeef36ca137fec1e2b80150"
+      "impact": "This mini phone could attract compact phone enthusiasts.",
+      "id": "18b7754c0ab024a0f9d7516777f7f2c3"
     }
   ]
 }

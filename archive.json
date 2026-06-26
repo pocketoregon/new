@@ -1,6 +1,109 @@
 {
   "batches": [
     {
+      "id": "2026-06-26T09:23:21.198721+00:00",
+      "fetched_at": "2026-06-26T09:23:21.198721+00:00",
+      "label": "Jun 26, 2026 — 09:23 AM UTC",
+      "articles": [
+        {
+          "title": "GTA 6 Gameplay Details Unveiled",
+          "description": "Rockstar reveals new gameplay features for GTA 6, including fishing and car restoration. Preorders for the Ultimate Edition are set to begin soon.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/gta-6-special-edition-pre-order-gameplay-details",
+          "image": "https://assets-prd.ignimgs.com/2026/06/24/gta-gameplaydetails-blog-1782312968730.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-24T22:53:42Z",
+          "key_points": [
+            "New gameplay features revealed",
+            "Ultimate Edition preorders soon",
+            "Includes fishing and car restoration"
+          ],
+          "impact": "GTA 6 is set to redefine gaming experiences.",
+          "id": "8d3242a93f15f84bbf2bfa1a0af7c724"
+        },
+        {
+          "title": "GTA VI Price Set at $80",
+          "description": "Grand Theft Auto VI will launch at $80, making it pricier than typical AAA titles. This pricing strategy may set a new standard in the gaming industry.",
+          "category": "Gaming",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/gta6-1152x648.jpg",
+          "published_at": "2026-06-24T22:47:03Z",
+          "key_points": [
+            "GTA VI priced at $80",
+            "Higher than typical AAA games",
+            "Potential industry pricing shift"
+          ],
+          "impact": "GTA VI's price may influence future game pricing.",
+          "id": "60564004eedb252af18c02a84bde8d4b"
+        },
+        {
+          "title": "Prime Day 2026 Tech Deals Highlighted",
+          "description": "Amazon Prime Day runs from June 23-26, featuring select discounts on tech products. Notable deals include laptops and gadgets worth checking out.",
+          "category": "Business",
+          "source": "TechSpot",
+          "url": "https://www.techspot.com/news/112860-tech-deals-prime-day-2026-our-picks-pc.html",
+          "image": "https://www.techspot.com/images2/news/bigimage/2024/07/2024-07-15-image-53.jpg",
+          "published_at": "2026-06-24T15:07:34Z",
+          "key_points": [
+            "Prime Day discounts available",
+            "Select tech deals highlighted",
+            "Laptops and gadgets on sale"
+          ],
+          "impact": "Prime Day offers valuable tech savings this year.",
+          "id": "7bc67ea7e8a022bb763fb4c712ee8a6a"
+        },
+        {
+          "title": "Microsoft's Quantum Chip Claims Under Scrutiny",
+          "description": "Microsoft's Majorana chip research faces skepticism from experts, challenging the company's claims. The tech giant remains committed to its quantum computing goals.",
+          "category": "Science",
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c05y9pl3ejmo",
+          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/823e/live/9bf6bfd0-5e9a-11f1-95ff-f5086c3b3d40.jpg",
+          "published_at": "2026-06-24T15:00:34Z",
+          "key_points": [
+            "Microsoft's chip claims questioned",
+            "Experts express skepticism",
+            "Company remains committed to quantum"
+          ],
+          "impact": "Skepticism could impact Microsoft's quantum ambitions.",
+          "id": "7e785aaab0d67f1254d8d396b8e53a1e"
+        },
+        {
+          "title": "Foldable iPhone 'Ultra' Production Set",
+          "description": "Apple's foldable iPhone 'Ultra' is slated for mass production starting July, despite reported hinge issues. Anticipation builds for this innovative device.",
+          "category": "Hardware",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/24/foldable-iphone-ultra-set-for-production-july/",
+          "image": "https://images.macrumors.com/t/utojh2KSAyPpmL2zSSHd0_hnVQQ=/2500x/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+          "published_at": "2026-06-24T13:56:24Z",
+          "key_points": [
+            "Foldable iPhone Ultra production begins",
+            "Hinge issues reported",
+            "Innovative design anticipated"
+          ],
+          "impact": "The foldable iPhone could reshape smartphone design.",
+          "id": "0c7cf752095a7e161950da4e90da06df"
+        },
+        {
+          "title": "Nothing Launches Mini Phone Inspired by Apple",
+          "description": "Nothing is producing a mini phone reminiscent of Apple's abandoned iPhone Mini. Priced under $320, it aims to capture the compact smartphone market.",
+          "category": "Startups",
+          "source": "Yanko Design",
+          "url": "https://www.yankodesign.com/2026/06/23/nothing-is-making-the-mini-phone-that-apple-abandoned-in-2021-and-it-costs-less-than-320/",
+          "image": "https://www.yankodesign.com/images/design_news/2026/06/nothing-is-making-the-mini-phone-that-apple-abandoned-in-2021-and-it-costs-less-than-360/nothing_phone_4b_1.jpeg",
+          "published_at": "2026-06-23T20:30:48Z",
+          "key_points": [
+            "Nothing's mini phone launched",
+            "Inspired by Apple iPhone Mini",
+            "Affordable price under $320"
+          ],
+          "impact": "This mini phone could attract compact phone enthusiasts.",
+          "id": "18b7754c0ab024a0f9d7516777f7f2c3"
+        }
+      ]
+    },
+    {
       "id": "2026-06-26T03:34:33.430219+00:00",
       "fetched_at": "2026-06-26T03:34:33.430219+00:00",
       "label": "Jun 26, 2026 — 03:34 AM UTC",
@@ -6136,253 +6239,6 @@
           ],
           "impact": "Player creativity in Sea of Thieves expands.",
           "id": "4e55fff2506ee02dfd28514c68e81a74"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-21T04:05:16.463242+00:00",
-      "fetched_at": "2026-06-21T04:05:16.463242+00:00",
-      "label": "Jun 21, 2026 — 04:05 AM UTC",
-      "articles": [
-        {
-          "title": "Nex Playground Console Launches in UK Tomorrow",
-          "description": "The Nex Playground console costs £269 and launches on June 22 in the UK. It's designed to encourage kids to be active.",
-          "category": "Gaming",
-          "source": "BBC News",
-          "url": "https://www.bbc.com/news/articles/czx50rrz7zro",
-          "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0bab/live/82f041c0-6bcc-11f1-a94c-73f00a91c697.jpg",
-          "published_at": "2026-06-20T01:10:51Z",
-          "key_points": [
-            "Costs £269 in the UK",
-            "Launches June 22",
-            "Encourages physical activity"
-          ],
-          "impact": "The Nex Playground aims to promote active play.",
-          "id": "560c3a56d7dab7dbd0ef5d6e45010e39"
-        },
-        {
-          "title": "Nothing Cancels CMF Phone Release Due to RAM Prices",
-          "description": "Nothing has canceled the CMF Phone 2 Pro release this year due to rising RAM costs. The company couldn't produce it at a viable price.",
-          "category": "Business",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/nothing-cmf-phone-2-pro-01.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-          "published_at": "2026-06-19T21:28:39Z",
-          "key_points": [
-            "CMF Phone 2 Pro canceled",
-            "Rising RAM prices",
-            "No viable production cost"
-          ],
-          "impact": "Nothing's cancellation reflects ongoing supply chain issues.",
-          "id": "426e1218f4cfb70705bc90c9c7e6c5e0"
-        },
-        {
-          "title": "Google Discontinues Nest Mini and Nest Audio Speakers",
-          "description": "Google has streamlined its speaker offerings, now selling only one model. The Nest Mini and Nest Audio are officially discontinued.",
-          "category": "Business",
-          "source": "Mashable",
-          "url": "https://mashable.com/tech/google-nest-mini-audio-discontinued",
-          "image": "https://helios-i.mashable.com/imagery/articles/0362lFXts2BHr2VYg2ppO1P/hero-image.fill.size_1200x675.v1781807066.jpg",
-          "published_at": "2026-06-19T21:25:10Z",
-          "key_points": [
-            "Only one speaker model now",
-            "Nest Mini discontinued",
-            "Nest Audio phased out"
-          ],
-          "impact": "Google simplifies its audio product lineup.",
-          "id": "b500be578656cccba9828e2f0f116362"
-        },
-        {
-          "title": "Apple Drops Support for Many Watches in watchOS 27",
-          "description": "Apple's watchOS 27 will discontinue support for numerous older models, focusing on newer devices for better performance.",
-          "category": "Software",
-          "source": "GSMArena.com",
-          "url": "https://www.gsmarena.com/heres_why_apple_is_already_dropping_support_for_so_many_watches_in_watchos_27-news-73362.php",
-          "image": "https://fdn.gsmarena.com/imgroot/news/26/06/watch-os-27-support-cutoff-explained/-952x498w6/gsmarena_000.jpg",
-          "published_at": "2026-06-19T21:00:02Z",
-          "key_points": [
-            "Older models lose support",
-            "Focus on performance",
-            "Announced at WWDC"
-          ],
-          "impact": "Apple prioritizes performance with new software.",
-          "id": "5661f341d6692109c6c2482a1545beee"
-        },
-        {
-          "title": "Unpatchable 'usbliter8' Exploit Targets Apple A12 and A13",
-          "description": "The usbliter8 exploit poses a significant security risk by targeting Apple A12 and A13 chips, creating an unpatchable vulnerability.",
-          "category": "Security",
-          "source": "Internet",
-          "url": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIM725Ni41-PBwM_6zXNdsydP1eZO7oSsWIlAqpwdOu9dOcZM6ZI1iaqwSsL3yZKT4lbFRM-eZVq3ARKDbLRnid1pJ0Us3XX135nD0tV71gb1lnADzig_vE9c6CAiJdlJ-Wco11InBKUyGX9V5nRFn9qZxuxeJKCzsCV4tQTfFIgU3F05Wnp2VfsxyTPs/s1600/apple-chip.jpg",
-          "published_at": "2026-06-19T18:37:00Z",
-          "key_points": [
-            "Targets A12 and A13 chips",
-            "Unpatchable vulnerability",
-            "Exploits USB DFU mode"
-          ],
-          "impact": "This exploit raises serious security concerns for Apple users.",
-          "id": "e7b27af79906373961790705d467275b"
-        },
-        {
-          "title": "Microsoft Confirms Windows 11 26H2 Release",
-          "description": "Microsoft has confirmed the upcoming Windows 11 26H2 release, urging IT admins to prepare for the rollout.",
-          "category": "Software",
-          "source": "Neowin",
-          "url": "https://www.neowin.net/news/microsoft-confirms-windows-11-26h2-urges-it-admins-to-prepare-for-release/",
-          "image": "https://cdn.neowin.com/news/images/uploaded/2024/05/1715026896_windows_11_story.jpg",
-          "published_at": "2026-06-19T18:23:00Z",
-          "key_points": [
-            "Windows 11 26H2 confirmed",
-            "IT admins urged to prepare",
-            "Fast enablement-package rollout"
-          ],
-          "impact": "IT admins need to gear up for the update.",
-          "id": "12e762fd4d0d9a08a512c0c069fd2441"
-        },
-        {
-          "title": "Snap's Premium AR Glasses Lead to Stock Decline",
-          "description": "Snap's launch of expensive AR glasses has resulted in a stock slump amid inflation and competition concerns.",
-          "category": "Business",
-          "source": "Seeking Alpha",
-          "url": "https://seekingalpha.com/news/4605204-snap-gets-a-reality-check-as-premium-ar-glasses-drive-stock-slump",
-          "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1368483131/image_1368483131.jpg?io=getty-c-w630",
-          "published_at": "2026-06-19T16:35:01Z",
-          "key_points": [
-            "Snap launches costly AR glasses",
-            "Stock declines post-launch",
-            "Inflation and competition concerns"
-          ],
-          "impact": "Snap faces challenges in the competitive AR market.",
-          "id": "fce973acf9e2ea2d8e1b89de96bf4e7a"
-        },
-        {
-          "title": "Alogic Launches Touchscreen Monitors for Macs",
-          "description": "Alogic has introduced new touchscreen monitors and portable displays compatible with Macs, enhancing user interaction.",
-          "category": "Hardware",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/19/alogic-touchscreen-monitors-portable-displays/",
-          "image": "https://images.macrumors.com/t/5H8DROu6S-K2P_4TcvGJSsVq2V4=/1600x/article-new/2026/06/alogic-aspekt-touch-27-hero.jpg",
-          "published_at": "2026-06-19T16:12:47Z",
-          "key_points": [
-            "New touchscreen monitors launched",
-            "Supports Mac functionality",
-            "Includes stylus features"
-          ],
-          "impact": "Alogic enhances Mac user experience with new displays.",
-          "id": "97cef18c6eb5a0c7a9a465e3bf22241b"
-        },
-        {
-          "title": "Sailboat Crew Faces Challenge 300 Miles from Shore",
-          "description": "Two Massachusetts sailors confront a crisis during the Newport Bermuda Race after their boat strikes a submerged object.",
-          "category": "Geopolitics",
-          "source": "The Boston Globe",
-          "url": "https://www.bostonglobe.com/2026/06/19/sports/alliance-sailboat-newport-bermuda-race/",
-          "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/YDP3ESPOKHKCO55WSIHB4EA3QM.jpg?auth=9c02cfe8dc03a722318edd9a880a1e1a785f6efbbf7ca02ae164642312c1d66b&width=1440",
-          "published_at": "2026-06-19T15:59:00Z",
-          "key_points": [
-            "Sailboat strikes submerged object",
-            "Crew faces critical situation",
-            "Newport Bermuda Race challenge"
-          ],
-          "impact": "The race highlights the dangers of sailing.",
-          "id": "f7512648412d7ef1992b3dc392d7c21c"
-        },
-        {
-          "title": "Commodore Defends $500 Dumbphone Amid Criticism",
-          "description": "Commodore defends its $500 dumbphone, claiming no one could sell it for less, despite mixed reactions from consumers.",
-          "category": "Business",
-          "source": "Timeextension.com",
-          "url": "https://www.timeextension.com/news/2026/06/this-isnt-your-grannys-flip-phone-commodore-defends-its-usd500-dumbphone",
-          "image": "https://images.timeextension.com/78060d660af5f/large.jpg",
-          "published_at": "2026-06-19T15:30:00Z",
-          "key_points": [
-            "$500 dumbphone criticized",
-            "Commodore defends pricing",
-            "Claims no cheaper alternatives"
-          ],
-          "impact": "Commodore faces backlash over pricing strategy.",
-          "id": "25fba74e1d73c75331852364905af31f"
-        },
-        {
-          "title": "Halo Studios Reveals Six Hours of Campaign Footage",
-          "description": "Halo Studios has unveiled six hours of footage showcasing the main menu of Campaign Evolved, generating excitement among fans.",
-          "category": "Gaming",
-          "source": "Pure Xbox",
-          "url": "https://www.purexbox.com/news/2026/06/halo-studios-unveils-six-hours-of-footage-from-campaign-evolveds-main-menu",
-          "image": "https://images.purexbox.com/95c2616fe4e22/large.jpg",
-          "published_at": "2026-06-19T15:30:00Z",
-          "key_points": [
-            "Six hours of campaign footage",
-            "Excitement among fans",
-            "Showcases main menu"
-          ],
-          "impact": "Fans eagerly anticipate the new Halo experience.",
-          "id": "72de8d4b025d0abc8b4f7c6d0b1a919b"
-        },
-        {
-          "title": "Early Prime Day Deals on Apple Devices Now Live",
-          "description": "Amazon's Prime Day event runs from June 23-26, featuring early deals on Apple devices and accessories.",
-          "category": "Business",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/19/early-prime-day-deals-apple-2026/",
-          "image": "https://images.macrumors.com/t/qxPlCt_WEnmyUWVCBusikb4frHE=/2500x/article-new/2026/06/airpods-max-2-summer.jpeg",
-          "published_at": "2026-06-19T14:46:06Z",
-          "key_points": [
-            "Prime Day runs June 23-26",
-            "Early Apple deals available",
-            "Longer event duration"
-          ],
-          "impact": "Shoppers can save on Apple products.",
-          "id": "608340ed56f6aea66ecb18af5828ccea"
-        },
-        {
-          "title": "Google Launches Controversial AI Training Feature",
-          "description": "Google's new search feature raises privacy concerns, prompting users to consider disabling it for safety.",
-          "category": "Software",
-          "source": "HuffPost",
-          "url": "https://www.huffpost.com/entry/google-search-setting-privacy-ai_l_6a2c4630e4b0ba7a1fed2872",
-          "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/18/21/thumb/EKDSz2hrD.jpg?crop=1250:654;0,86%26downsize=1250:*",
-          "published_at": "2026-06-19T14:29:35Z",
-          "key_points": [
-            "New AI feature launched",
-            "Privacy concerns raised",
-            "Users advised to disable"
-          ],
-          "impact": "Google's feature sparks privacy debates.",
-          "id": "fca754429742305d7c9d95060c116229"
-        },
-        {
-          "title": "Upcoming Xbox Games for June 22-26 Announced",
-          "description": "Xbox reveals new game releases including DEAD OR ALIVE 6 and Age of Empires Mobile for the week of June 22-26.",
-          "category": "Gaming",
-          "source": "Xbox.com",
-          "url": "https://news.xbox.com/en-us/2026/06/19/next-week-on-xbox-new-games-for-june-22-to-26/",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/nwox-hero-b33ddfe24e03736ef3d7.jpg",
-          "published_at": "2026-06-19T14:02:29Z",
-          "key_points": [
-            "New games announced",
-            "Includes DEAD OR ALIVE 6",
-            "Releases from June 22-26"
-          ],
-          "impact": "Gamers can look forward to exciting releases.",
-          "id": "0f73629ecce2111f2785033123550259"
-        },
-        {
-          "title": "iPhone Ultra Leak Reveals Design and Features",
-          "description": "A new leak shows the iPhone Ultra's design and an anticipated iOS feature, exciting fans ahead of its release.",
-          "category": "Business",
-          "source": "Digital Trends",
-          "url": "https://www.digitaltrends.com/phones/the-latest-iphone-ultra-leak-leaves-little-to-the-imagination-and-includes-a-much-awaited-ios-feature/",
-          "image": "https://www.digitaltrends.com/tachyon/2026/06/iPhone-Ultra-in-two-colors.jpg?resize=1200%2C630",
-          "published_at": "2026-06-19T13:28:56Z",
-          "key_points": [
-            "iPhone Ultra design leaked",
-            "Includes awaited iOS feature",
-            "Fans excited for release"
-          ],
-          "impact": "The leak builds anticipation for the iPhone Ultra.",
-          "id": "5ba9bdeb5756108521ff6d76afd5f188"
         }
       ]
     }
