@@ -1,135 +1,183 @@
 {
   "date": "2026-06-26",
-  "generated_at": "2026-06-26T14:22:07.426236+00:00",
+  "generated_at": "2026-06-26T17:00:01.087722+00:00",
   "edition": "Tech Briefing",
   "articles": [
     {
-      "title": "Prime Day 2026: Best Home Cinema Deals",
-      "description": "Discover top savings on OLED TVs, soundbars, and projectors during Prime Day. Our experts provide real-time recommendations for the best deals available.",
+      "title": "MacBook Discounts Before Price Hikes",
+      "description": "Apple's upcoming price hikes on MacBooks prompt significant discounts. Grab these deals before they disappear.",
       "category": "Business",
-      "source": "What Hi-Fi? US",
-      "url": "https://www.whathifi.com/tv-home-cinema/live/prime-day-2026-live-our-home-cinema-experts-picks-of-the-best-oled-tv-dolby-atmos-soundbar-projector-deals-and-more",
-      "image": "https://cdn.mos.cms.futurecdn.net/zVEEREXGtySZjVxToH7N66-1920-80.jpg",
-      "published_at": "2026-06-25T07:09:14Z",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-06-25T15:16:28Z",
       "key_points": [
-        "OLED TVs on sale",
-        "Best soundbar deals",
-        "Projector discounts available"
+        "Significant MacBook discounts available",
+        "Price hikes coming soon",
+        "Prime Day deals included"
       ],
-      "impact": "Prime Day offers significant savings on home cinema.",
-      "id": "461d2759c587aecce89e6cb8c5ef50fd"
+      "impact": "Consumers can save before price increases.",
+      "id": "a4adf4a4e25011085b6e2a9fef3a7ede"
     },
     {
-      "title": "Samsung Confirms Galaxy S27 Pro Launch",
-      "description": "Samsung officially acknowledges the Galaxy S27 Pro, part of a new series expected next year. This includes successors to the Galaxy S26 lineup and a new model.",
-      "category": "Business",
-      "source": "SamMobile",
-      "url": "https://www.sammobile.com/news/samsung-confirms-the-existence-of-the-galaxy-s27-pro/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/03/Galaxy-S26-Plus-review-3-1200x674.jpg",
-      "published_at": "2026-06-25T06:16:00Z",
+      "title": "Warhammer: The Old World Miniatures Revealed",
+      "description": "Classic miniatures like Dragons and Ogres return in the Warhammer universe. Fans can now order these nostalgic pieces.",
+      "category": "Gaming",
+      "source": "Warhammer Community",
+      "url": "https://www.warhammer-community.com/articles/bfjhjmvu/revealed-warhammer-the-old-world-made-to-order-miniatures",
+      "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/tow_mto-jun25-1-feature-ksz1uxiqog.jpg",
+      "published_at": "2026-06-25T11:57:07Z",
       "key_points": [
-        "Galaxy S27 series confirmed",
-        "Includes new model",
-        "Successors to S26 lineup"
+        "Classic miniatures available again",
+        "Includes Dragons and Ogres",
+        "Pre-orders now open"
       ],
-      "impact": "Samsung's new series boosts its flagship offerings.",
-      "id": "d6c8ceb84837d82274b61e832886bce6"
+      "impact": "Fans can enhance their collections now.",
+      "id": "a10a7bf567e8b524a97d53a4dae417a4"
     },
     {
-      "title": "Porsche Reveals 911 GT4 R as Cayman Successor",
-      "description": "Porsche introduces the 911 GT4 R, set to replace the 718 Cayman GT4 RS Clubsport in GT4 racing next year. This model is based on the 911 Cup.",
-      "category": "Business",
-      "source": "Sportscar365",
-      "url": "https://sportscar365.com/imsa/impc/porsche-unveils-911-gt4-r-as-718-cayman-replacement/",
-      "image": "https://sportscar365.com/wp-content/uploads/2026/06/DSC_2589-3_klein.jpg",
-      "published_at": "2026-06-25T06:14:44Z",
+      "title": "GTA VI Release Finally Confirmed",
+      "description": "After years of anticipation, 'Grand Theft Auto VI' is set for release, promising to be a monumental gaming event.",
+      "category": "Gaming",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/after-more-than-a-decade-of-waiting-gta-vi-is-finally-around-the-corner/",
+      "image": "https://media.wired.com/photos/6a3c0c452e97bc3be49b91a1/191:100/w_1280,c_limit/Lucia_Caminos_06.jpg",
+      "published_at": "2026-06-25T10:30:00Z",
       "key_points": [
-        "New GT4 R unveiled",
-        "Replaces Cayman GT4 RS",
-        "Based on 911 Cup model"
+        "GTA VI finally confirmed",
+        "Major gaming release ahead",
+        "High expectations from fans"
       ],
-      "impact": "Porsche strengthens its GT4 racing lineup.",
-      "id": "f96036d8130fbb6bec06b14c3fab4bd2"
+      "impact": "Anticipation builds for this historic release.",
+      "id": "8e52427be17d3437f4ad3a61f8600607"
     },
     {
-      "title": "Google Play Store Opens to External Billing",
-      "description": "Starting June 30, Google will allow external payment options in the Play Store for users in the US, UK, and Europe. This marks a significant policy change.",
+      "title": "Porsche Launches New 911 GT4 R",
+      "description": "Porsche introduces the 911 GT4 R, designed for global GT4 racing, featuring a powerful six-cylinder engine.",
+      "category": "Business",
+      "source": "Porsche Newsroom",
+      "url": "https://newsroom.porsche.com/en/2026/motorsports/porsche-911-gt4-r-customer-motorsport-42700.html",
+      "image": "https://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=335962&w=700&h=467&crop=0&public=1&cs=24de911c9f3d99f9",
+      "published_at": "2026-06-25T06:15:24Z",
+      "key_points": [
+        "New 911 GT4 R unveiled",
+        "Designed for global motorsport",
+        "Powered by a 4.0-litre engine"
+      ],
+      "impact": "Porsche strengthens its motorsport lineup.",
+      "id": "f2f6b194da286dba1ac6823dddda9570"
+    },
+    {
+      "title": "Microsoft's Quantum Claims Under Scrutiny",
+      "description": "A new paper challenges Microsoft's Majorana 1 claims, stating no conclusive evidence for a working topological qubit. Microsoft disputes this.",
+      "category": "Science",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Majorana-1-005-4000px.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+      "published_at": "2026-06-24T20:54:57Z",
+      "key_points": [
+        "Microsoft's claims questioned",
+        "No evidence for topological qubit",
+        "Microsoft disagrees with findings"
+      ],
+      "impact": "Scrutiny may affect Microsoft's credibility.",
+      "id": "5220d299ac06e82408194f52ee1e94e8"
+    },
+    {
+      "title": "Steam Machine Sells Out in Japan",
+      "description": "Despite high pricing, Valve's Steam Machine sells out in Japan, bypassing the usual reservation system.",
+      "category": "Gaming",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/350257/steam-machine-sells-out-in-japan-despite-woeful-pricing",
+      "image": "https://www.techpowerup.com/img/bAuHg9IEaxDt3i3Z.jpg",
+      "published_at": "2026-06-24T20:01:16Z",
+      "key_points": [
+        "Steam Machine sells out quickly",
+        "High pricing didn't deter sales",
+        "Available through Asian reseller"
+      ],
+      "impact": "Strong demand for Steam Machine in Japan.",
+      "id": "35c41f1e07c5e54bfad9968e5f72c5f9"
+    },
+    {
+      "title": "Snap's Heavy AR Specs Criticized",
+      "description": "Snap's new AR Specs glasses receive backlash for being heavy and awkward. Users find them less than appealing.",
+      "category": "Software",
+      "source": "404 Media",
+      "url": "https://www.404media.co/snaps-ai-ar-specs-lol/",
+      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/CleanShot-2026-06-24-at-06.24.50@2x.png",
+      "published_at": "2026-06-24T13:36:57Z",
+      "key_points": [
+        "AR Specs criticized for weight",
+        "Users find them awkward",
+        "Design lacks appeal"
+      ],
+      "impact": "User feedback may impact future designs.",
+      "id": "1f54e59015bba5a57ef4b1a72194ca2c"
+    },
+    {
+      "title": "Prime Day Deals on Switch 2 Accessories",
+      "description": "Prime Day offers discounts on various Nintendo Switch 2 accessories, including controllers and cases.",
+      "category": "Gaming",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/951950/prime-day-nintendo-switch-2-accessories-cases-controllers-docks-chargers-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257880_8BitDo_Pro_3_CFaulkner_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-06-24T13:00:00Z",
+      "key_points": [
+        "Discounts on Switch 2 accessories",
+        "Includes cases and controllers",
+        "Great Prime Day offers"
+      ],
+      "impact": "Gamers can save on essential accessories.",
+      "id": "da0406d0f49bbefc1f5398462ed371e6"
+    },
+    {
+      "title": "Galaxy Z Flip 8 Chip Details Leaked",
+      "description": "Samsung's Galaxy Z Flip 8 reveals Snapdragon 8 Elite Gen 5 chip in FCC filing, confirming key specifications.",
+      "category": "Business",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-flip-8-fcc-snapdragon-3680839/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/Samsung-Galaxy-Z-Flip-8-leaked-renders_2.jpg",
+      "published_at": "2026-06-24T12:39:59Z",
+      "key_points": [
+        "Galaxy Z Flip 8 chip confirmed",
+        "Powered by Snapdragon 8 Elite Gen 5",
+        "FCC filing reveals details"
+      ],
+      "impact": "Samsung's new phone specs are now public.",
+      "id": "4cefdcba6d44f824435b140bdd4ce218"
+    },
+    {
+      "title": "Best Prime Day Deals for 2026",
+      "description": "Amazon Prime Day 2026 features significant discounts across various tech products, including Pixel and Galaxy devices.",
       "category": "Business",
       "source": "9to5Google",
-      "url": "http://9to5google.com/2026/06/24/google-play-store-external-billing-june-30/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/google-play-store-external-billing-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-25T01:20:00Z",
+      "url": "http://9to5google.com/2026/06/25/best-prime-day-deals-pixel-galaxy/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Amazon-Prime-Day_green-2026.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "published_at": "2026-06-24T07:05:00Z",
       "key_points": [
-        "External payments allowed",
-        "Effective June 30",
-        "Available in multiple regions"
+        "Prime Day discounts across categories",
+        "Up to $400 off Pixel devices",
+        "Wide range of tech products on sale"
       ],
-      "impact": "Google's change enhances payment flexibility for users.",
-      "id": "377409c38617ed4b997f99ee0d89a0e8"
+      "impact": "Shoppers can find great tech deals.",
+      "id": "4d293bdc5a46be81b143772024ea75e8"
     },
     {
-      "title": "iOS 27 Home App Introduces New Features",
-      "description": "Apple's iOS 27 update enhances the Home app with over ten new HomeKit features, improving functionality for Secure Video cameras and more.",
-      "category": "Software",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/guide/ios-27-home/",
-      "image": "https://images.macrumors.com/t/ZWA8SqQp5izAhPYW01JvaLgRUm0=/2500x/article-new/2026/06/iOS-27-10-HomeKit-Features.jpg",
-      "published_at": "2026-06-24T23:15:38Z",
+      "title": "Top Prime Day Deals for Gaming Gear",
+      "description": "Prime Day 2026 highlights the best deals on gaming handhelds, controllers, and accessories, perfect for enthusiasts.",
+      "category": "Gaming",
+      "source": "Retro Handhelds",
+      "url": "https://retrohandhelds.gg/rh-picks-best-prime-day-deals-of-2026/",
+      "image": "https://rh-handhelds-content.nyc3.cdn.digitaloceanspaces.com/2026/06/Amazon-Prime-Day-Deals-2026-MANGMI-Pocket-Max.jpg",
+      "published_at": "2026-06-23T18:05:52Z",
       "key_points": [
-        "New HomeKit features",
-        "Improved Secure Video",
-        "Enhanced user experience"
+        "Best deals on gaming gear",
+        "Includes handhelds and accessories",
+        "Perfect for gaming enthusiasts"
       ],
-      "impact": "iOS 27 boosts smart home capabilities significantly.",
-      "id": "9b4a6d48a16fb1b084dbe3b24dc4157a"
-    },
-    {
-      "title": "New Site Shames Companies Lacking Passkeys",
-      "description": "A new website highlights that 24% of popular sites still don't support passkeys, the most secure login method. This raises concerns about online security.",
-      "category": "Security",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/24/new-website-names-and-shames-companies-that-still-dont-offer-passkeys-to-users/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/instagram-logo-fingerprint.jpg?resize=1200,801",
-      "published_at": "2026-06-24T21:04:04Z",
-      "key_points": [
-        "24% lack passkey support",
-        "Highlights security gaps",
-        "Calls for better practices"
-      ],
-      "impact": "Increased awareness of security shortcomings online.",
-      "id": "8e0d15c6538218e60667c930485e90da"
-    },
-    {
-      "title": "Samsung Galaxy Z Fold 8 Launch Confirmed",
-      "description": "Samsung's Galaxy Z Fold 8 Ultra and other devices are confirmed for a July Unpacked event, clearing the way for their U.S. launch.",
-      "category": "Business",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/jaymcgregor/2026/06/24/samsung-galaxy-z-fold-8-release-date-fcc-specifications-leak/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/69c3e4a6eaa9bb67caac1f5d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "published_at": "2026-06-24T16:58:00Z",
-      "key_points": [
-        "Galaxy Z Fold 8 confirmed",
-        "July Unpacked event",
-        "New devices launching soon"
-      ],
-      "impact": "Samsung's foldables set to make a strong debut.",
-      "id": "374360e28339e56b045d549a5d940eea"
-    },
-    {
-      "title": "Nothing Launches Mini Phone Under $320",
-      "description": "Nothing is releasing a mini phone, reviving the concept Apple abandoned in 2021. Priced under $320, it aims for compact usability.",
-      "category": "Startups",
-      "source": "Yanko Design",
-      "url": "https://www.yankodesign.com/2026/06/23/nothing-is-making-the-mini-phone-that-apple-abandoned-in-2021-and-it-costs-less-than-320/",
-      "image": "https://www.yankodesign.com/images/design_news/2026/06/nothing-is-making-the-mini-phone-that-apple-abandoned-in-2021-and-it-costs-less-than-360/nothing_phone_4b_1.jpeg",
-      "published_at": "2026-06-23T20:30:48Z",
-      "key_points": [
-        "Mini phone revival",
-        "Under $320 price",
-        "Compact design focus"
-      ],
-      "impact": "Nothing's mini phone targets niche market demand.",
-      "id": "cfa7c188db8268833a409ce91b119428"
+      "impact": "Gamers can score excellent Prime Day bargains.",
+      "id": "0dec03ec3240d491702aaebd374b9742"
     }
   ]
 }

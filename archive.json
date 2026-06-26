@@ -1,6 +1,189 @@
 {
   "batches": [
     {
+      "id": "2026-06-26T17:00:01.087722+00:00",
+      "fetched_at": "2026-06-26T17:00:01.087722+00:00",
+      "label": "Jun 26, 2026 — 05:00 PM UTC",
+      "articles": [
+        {
+          "title": "MacBook Discounts Before Price Hikes",
+          "description": "Apple's upcoming price hikes on MacBooks prompt significant discounts. Grab these deals before they disappear.",
+          "category": "Business",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-25T15:16:28Z",
+          "key_points": [
+            "Significant MacBook discounts available",
+            "Price hikes coming soon",
+            "Prime Day deals included"
+          ],
+          "impact": "Consumers can save before price increases.",
+          "id": "a4adf4a4e25011085b6e2a9fef3a7ede"
+        },
+        {
+          "title": "Warhammer: The Old World Miniatures Revealed",
+          "description": "Classic miniatures like Dragons and Ogres return in the Warhammer universe. Fans can now order these nostalgic pieces.",
+          "category": "Gaming",
+          "source": "Warhammer Community",
+          "url": "https://www.warhammer-community.com/articles/bfjhjmvu/revealed-warhammer-the-old-world-made-to-order-miniatures",
+          "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/tow_mto-jun25-1-feature-ksz1uxiqog.jpg",
+          "published_at": "2026-06-25T11:57:07Z",
+          "key_points": [
+            "Classic miniatures available again",
+            "Includes Dragons and Ogres",
+            "Pre-orders now open"
+          ],
+          "impact": "Fans can enhance their collections now.",
+          "id": "a10a7bf567e8b524a97d53a4dae417a4"
+        },
+        {
+          "title": "GTA VI Release Finally Confirmed",
+          "description": "After years of anticipation, 'Grand Theft Auto VI' is set for release, promising to be a monumental gaming event.",
+          "category": "Gaming",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/after-more-than-a-decade-of-waiting-gta-vi-is-finally-around-the-corner/",
+          "image": "https://media.wired.com/photos/6a3c0c452e97bc3be49b91a1/191:100/w_1280,c_limit/Lucia_Caminos_06.jpg",
+          "published_at": "2026-06-25T10:30:00Z",
+          "key_points": [
+            "GTA VI finally confirmed",
+            "Major gaming release ahead",
+            "High expectations from fans"
+          ],
+          "impact": "Anticipation builds for this historic release.",
+          "id": "8e52427be17d3437f4ad3a61f8600607"
+        },
+        {
+          "title": "Porsche Launches New 911 GT4 R",
+          "description": "Porsche introduces the 911 GT4 R, designed for global GT4 racing, featuring a powerful six-cylinder engine.",
+          "category": "Business",
+          "source": "Porsche Newsroom",
+          "url": "https://newsroom.porsche.com/en/2026/motorsports/porsche-911-gt4-r-customer-motorsport-42700.html",
+          "image": "https://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=335962&w=700&h=467&crop=0&public=1&cs=24de911c9f3d99f9",
+          "published_at": "2026-06-25T06:15:24Z",
+          "key_points": [
+            "New 911 GT4 R unveiled",
+            "Designed for global motorsport",
+            "Powered by a 4.0-litre engine"
+          ],
+          "impact": "Porsche strengthens its motorsport lineup.",
+          "id": "f2f6b194da286dba1ac6823dddda9570"
+        },
+        {
+          "title": "Microsoft's Quantum Claims Under Scrutiny",
+          "description": "A new paper challenges Microsoft's Majorana 1 claims, stating no conclusive evidence for a working topological qubit. Microsoft disputes this.",
+          "category": "Science",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Majorana-1-005-4000px.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+          "published_at": "2026-06-24T20:54:57Z",
+          "key_points": [
+            "Microsoft's claims questioned",
+            "No evidence for topological qubit",
+            "Microsoft disagrees with findings"
+          ],
+          "impact": "Scrutiny may affect Microsoft's credibility.",
+          "id": "5220d299ac06e82408194f52ee1e94e8"
+        },
+        {
+          "title": "Steam Machine Sells Out in Japan",
+          "description": "Despite high pricing, Valve's Steam Machine sells out in Japan, bypassing the usual reservation system.",
+          "category": "Gaming",
+          "source": "TechPowerUp",
+          "url": "https://www.techpowerup.com/350257/steam-machine-sells-out-in-japan-despite-woeful-pricing",
+          "image": "https://www.techpowerup.com/img/bAuHg9IEaxDt3i3Z.jpg",
+          "published_at": "2026-06-24T20:01:16Z",
+          "key_points": [
+            "Steam Machine sells out quickly",
+            "High pricing didn't deter sales",
+            "Available through Asian reseller"
+          ],
+          "impact": "Strong demand for Steam Machine in Japan.",
+          "id": "35c41f1e07c5e54bfad9968e5f72c5f9"
+        },
+        {
+          "title": "Snap's Heavy AR Specs Criticized",
+          "description": "Snap's new AR Specs glasses receive backlash for being heavy and awkward. Users find them less than appealing.",
+          "category": "Software",
+          "source": "404 Media",
+          "url": "https://www.404media.co/snaps-ai-ar-specs-lol/",
+          "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/CleanShot-2026-06-24-at-06.24.50@2x.png",
+          "published_at": "2026-06-24T13:36:57Z",
+          "key_points": [
+            "AR Specs criticized for weight",
+            "Users find them awkward",
+            "Design lacks appeal"
+          ],
+          "impact": "User feedback may impact future designs.",
+          "id": "1f54e59015bba5a57ef4b1a72194ca2c"
+        },
+        {
+          "title": "Prime Day Deals on Switch 2 Accessories",
+          "description": "Prime Day offers discounts on various Nintendo Switch 2 accessories, including controllers and cases.",
+          "category": "Gaming",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/951950/prime-day-nintendo-switch-2-accessories-cases-controllers-docks-chargers-deal-sale",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257880_8BitDo_Pro_3_CFaulkner_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-24T13:00:00Z",
+          "key_points": [
+            "Discounts on Switch 2 accessories",
+            "Includes cases and controllers",
+            "Great Prime Day offers"
+          ],
+          "impact": "Gamers can save on essential accessories.",
+          "id": "da0406d0f49bbefc1f5398462ed371e6"
+        },
+        {
+          "title": "Galaxy Z Flip 8 Chip Details Leaked",
+          "description": "Samsung's Galaxy Z Flip 8 reveals Snapdragon 8 Elite Gen 5 chip in FCC filing, confirming key specifications.",
+          "category": "Business",
+          "source": "Android Authority",
+          "url": "https://www.androidauthority.com/samsung-galaxy-z-flip-8-fcc-snapdragon-3680839/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/Samsung-Galaxy-Z-Flip-8-leaked-renders_2.jpg",
+          "published_at": "2026-06-24T12:39:59Z",
+          "key_points": [
+            "Galaxy Z Flip 8 chip confirmed",
+            "Powered by Snapdragon 8 Elite Gen 5",
+            "FCC filing reveals details"
+          ],
+          "impact": "Samsung's new phone specs are now public.",
+          "id": "4cefdcba6d44f824435b140bdd4ce218"
+        },
+        {
+          "title": "Best Prime Day Deals for 2026",
+          "description": "Amazon Prime Day 2026 features significant discounts across various tech products, including Pixel and Galaxy devices.",
+          "category": "Business",
+          "source": "9to5Google",
+          "url": "http://9to5google.com/2026/06/25/best-prime-day-deals-pixel-galaxy/",
+          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Amazon-Prime-Day_green-2026.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "published_at": "2026-06-24T07:05:00Z",
+          "key_points": [
+            "Prime Day discounts across categories",
+            "Up to $400 off Pixel devices",
+            "Wide range of tech products on sale"
+          ],
+          "impact": "Shoppers can find great tech deals.",
+          "id": "4d293bdc5a46be81b143772024ea75e8"
+        },
+        {
+          "title": "Top Prime Day Deals for Gaming Gear",
+          "description": "Prime Day 2026 highlights the best deals on gaming handhelds, controllers, and accessories, perfect for enthusiasts.",
+          "category": "Gaming",
+          "source": "Retro Handhelds",
+          "url": "https://retrohandhelds.gg/rh-picks-best-prime-day-deals-of-2026/",
+          "image": "https://rh-handhelds-content.nyc3.cdn.digitaloceanspaces.com/2026/06/Amazon-Prime-Day-Deals-2026-MANGMI-Pocket-Max.jpg",
+          "published_at": "2026-06-23T18:05:52Z",
+          "key_points": [
+            "Best deals on gaming gear",
+            "Includes handhelds and accessories",
+            "Perfect for gaming enthusiasts"
+          ],
+          "impact": "Gamers can score excellent Prime Day bargains.",
+          "id": "0dec03ec3240d491702aaebd374b9742"
+        }
+      ]
+    },
+    {
       "id": "2026-06-26T14:22:07.426236+00:00",
       "fetched_at": "2026-06-26T14:22:07.426236+00:00",
       "label": "Jun 26, 2026 — 02:22 PM UTC",
@@ -5896,253 +6079,6 @@
           ],
           "impact": "This could reshape PlayStation's market strategy.",
           "id": "95d83c1f61b372c9e13d5ca65d3ef584"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-21T14:08:24.989722+00:00",
-      "fetched_at": "2026-06-21T14:08:24.989722+00:00",
-      "label": "Jun 21, 2026 — 02:08 PM UTC",
-      "articles": [
-        {
-          "title": "Control Resonant: A Creepypasta Action-RPG",
-          "description": "Remedy Entertainment enhances its creepypasta universe with a new action-RPG. Expect refined gameplay and immersive storytelling.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/control-resonant-hands-on-giving-one-of-the-most-consistently-surprising-developers-the-benefit-of-the-doubt-2000708654",
-          "image": "https://kotaku.com/app/uploads/2026/06/control-5.jpg",
-          "published_at": "2026-06-20T13:00:08Z",
-          "key_points": [
-            "Refined creepypasta world-building",
-            "Conventional action-RPG mechanics",
-            "Immersive storytelling experience"
-          ],
-          "impact": "This game could redefine the action-RPG genre.",
-          "id": "f2219645fd7618f9506a6c2a2041a29a"
-        },
-        {
-          "title": "Halo: Campaign Evolved Requires Xbox Account on PS5",
-          "description": "PS5 players must create an Xbox account and gamertag to access Halo: Campaign Evolved. PS Plus is also required for split-screen co-op.",
-          "category": "Gaming",
-          "source": "Eurogamer.net",
-          "url": "https://www.eurogamer.net/halo-campaign-evolved-ps5-xbox-account-gamertag-psplus",
-          "image": "https://assetsio.gnwcdn.com/halo-campaign-evolved-reveal-screen-3.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-20T12:51:01Z",
-          "key_points": [
-            "Xbox account needed for PS5",
-            "Gamertag required for gameplay",
-            "PS Plus for split-screen co-op"
-          ],
-          "impact": "This could limit accessibility for PS5 players.",
-          "id": "2fae46c21906b256df75f036528a389a"
-        },
-        {
-          "title": "Ubisoft Co-Founder Dies in Plane Crash",
-          "description": "Claude Guillemot, co-founder of Ubisoft, tragically died in a plane crash in France. His legacy in gaming is profound.",
-          "category": "Geopolitics",
-          "source": "Insider Gaming",
-          "url": "https://insider-gaming.com/ubisoft-co-founder-claude-guillemot-killed-plane/",
-          "image": "https://insider-gaming.com/wp-content/uploads/2026/05/ubisoft-ai.jpg",
-          "published_at": "2026-06-20T12:07:58Z",
-          "key_points": [
-            "Claude Guillemot killed in crash",
-            "Co-founded Ubisoft in 1986",
-            "Significant impact on gaming industry"
-          ],
-          "impact": "His death marks a significant loss for gaming.",
-          "id": "bc43699dd7f6fe4d476aa28c7bd5a514"
-        },
-        {
-          "title": "Pixel Battery Life Poll After Android 17 Update",
-          "description": "Users are polling to see if battery life improved after updating to Android 17. Feedback is crucial for future updates.",
-          "category": "Software",
-          "source": "9to5Google",
-          "url": "http://9to5google.com/2026/06/20/has-your-pixel-battery-life-improved-after-updating-to-android-17-poll/",
-          "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/Pixel-10a-battery-level-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-20T12:00:00Z",
-          "key_points": [
-            "Polling Pixel users' battery life",
-            "Feedback on Android 17 update",
-            "User experience is vital"
-          ],
-          "impact": "User feedback will guide future updates.",
-          "id": "fbef5df0db725c17433e400027d043c1"
-        },
-        {
-          "title": "SwitchBot’s Standing Circulator Fan Review",
-          "description": "SwitchBot’s fan is quiet, battery-operated, and versatile, transforming from desktop to standing fan easily. It also features a nightlight.",
-          "category": "Hardware",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/IMG_1636.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-          "published_at": "2026-06-20T07:00:00Z",
-          "key_points": [
-            "Quiet and battery-powered",
-            "Transforms easily between modes",
-            "Includes a nightlight feature"
-          ],
-          "impact": "This fan offers great versatility for users.",
-          "id": "051aca216267cd68f8ba0e56f66f0c94"
-        },
-        {
-          "title": "PlayStation Eyes Acquisition of Xbox Studio",
-          "description": "PlayStation may pursue acquiring an Xbox and Bethesda studio amid reports of Xbox's restructuring. This could shift industry dynamics.",
-          "category": "Business",
-          "source": "ComicBook.com",
-          "url": "http://comicbook.com/gaming/news/playstation-sony-bethesda-xbox-machinegames-studio/",
-          "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/09/p-l-a-y-s-t-a-t-i-o-n.png?resize=2000,1125",
-          "published_at": "2026-06-20T02:03:29Z",
-          "key_points": [
-            "PlayStation may acquire Xbox studio",
-            "Xbox restructuring underway",
-            "Potential industry shift ahead"
-          ],
-          "impact": "This acquisition could reshape gaming competition.",
-          "id": "74d5c3668694f44c93d63a7b6ff2c118"
-        },
-        {
-          "title": "Pokémon Go Frigibax Community Day Announced",
-          "description": "Frigibax will be featured in June's Community Day for Pokémon Go, offering chances to catch shiny variants and perfect IVs.",
-          "category": "Gaming",
-          "source": "Eurogamer.net",
-          "url": "https://www.eurogamer.net/pokemon-go-frigibax-community-day",
-          "image": "https://assetsio.gnwcdn.com/Pokemon-Go-Frigibax-CDay-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "published_at": "2026-06-19T23:01:00Z",
-          "key_points": [
-            "Frigibax featured in Community Day",
-            "Chance for shiny and perfect IVs",
-            "Exciting event for Pokémon fans"
-          ],
-          "impact": "This event boosts player engagement significantly.",
-          "id": "5361a24309553b28a554bbbab6d49e2c"
-        },
-        {
-          "title": "Concept Art for Marathon Revealed",
-          "description": "Explore the stunning concept art behind Bungie's upcoming game, Marathon. The visuals promise an exciting gaming experience.",
-          "category": "Gaming",
-          "source": "Aftermath.site",
-          "url": "https://aftermath.site/marathon-bungie-concept-art/",
-          "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/06/destop.jpg",
-          "published_at": "2026-06-19T22:48:45Z",
-          "key_points": [
-            "Stunning concept art revealed",
-            "Bungie's upcoming game",
-            "Exciting visuals for gamers"
-          ],
-          "impact": "This art builds anticipation for the game.",
-          "id": "b6d890ec29f14d317fcbfd3ca0256074"
-        },
-        {
-          "title": "Microsoft Office for Mac Sale Alert",
-          "description": "Microsoft Office for Mac is available for a one-time fee of $40, offering significant savings for users.",
-          "category": "Software",
-          "source": "Mashable",
-          "url": "https://mashable.com/tech/june-19-microsoft-office-home-business-for-mac-2021",
-          "image": "https://helios-i.mashable.com/imagery/articles/02KCdFZeG9MlAMKPTxvF5cX/hero-image.fill.size_1200x675.v1781532028.jpg",
-          "published_at": "2026-06-19T22:00:00Z",
-          "key_points": [
-            "Office for Mac on sale",
-            "One-time fee of $40",
-            "No ongoing subscription costs"
-          ],
-          "impact": "This sale makes Office more accessible.",
-          "id": "3763710ae7af7ec2a8ca5b8ce11697c3"
-        },
-        {
-          "title": "Pixel Users Report Touchscreen Bugs After Update",
-          "description": "Pixel users are experiencing touchscreen issues following the Android 17 update. Users are advised to delay updating.",
-          "category": "Software",
-          "source": "Android Police",
-          "url": "https://www.androidpolice.com/android-17-touchscreen-bug/",
-          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/02/android-17-hero.jpg?w=1200&h=675&fit=crop",
-          "published_at": "2026-06-19T20:49:27Z",
-          "key_points": [
-            "Touchscreen bugs reported",
-            "Delay updating advised",
-            "Common issue with new software"
-          ],
-          "impact": "This could frustrate Pixel users significantly.",
-          "id": "4e4abc491006fbfbf6bf37f889d09c08"
-        },
-        {
-          "title": "Fumito Ueda Discusses New Game Gen Atlas",
-          "description": "Fumito Ueda reveals details about Gen Atlas, a giant robot adventure game developed with Epic Games. Anticipation is building.",
-          "category": "Gaming",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/gen-atlas-fumito-ueda-gen-design-interview-preview/",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/project_robot_260601_4k_screenshot_trailer009_01.jpg?w=1600&h=900&fit=crop",
-          "published_at": "2026-06-19T20:30:22Z",
-          "key_points": [
-            "Details on Gen Atlas revealed",
-            "Collaboration with Epic Games",
-            "Exciting giant robot adventure"
-          ],
-          "impact": "This game promises to be a unique experience.",
-          "id": "02a68cfecd6535abd6747afa41c37a04"
-        },
-        {
-          "title": "2027 Video Game Release Schedule Updated",
-          "description": "Game Informer updates its list of announced video game release dates for 2027. Stay informed on upcoming titles.",
-          "category": "Gaming",
-          "source": "Game Informer",
-          "url": "https://gameinformer.com/2027",
-          "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/15/c3d8caab/ffviirevelation2027.jpg.webp",
-          "published_at": "2026-06-19T19:43:31Z",
-          "key_points": [
-            "Updated release schedule for 2027",
-            "Comprehensive list of titles",
-            "Stay informed on gaming releases"
-          ],
-          "impact": "This helps gamers plan for future purchases.",
-          "id": "1a8ff6e326bbc20a1f447b573e8662bd"
-        },
-        {
-          "title": "Google Services Update for Samsung Phones",
-          "description": "Important Google apps on Samsung phones require manual updates. Users should check for the latest versions.",
-          "category": "Software",
-          "source": "Android Authority",
-          "url": "https://www.androidauthority.com/samsung-phones-google-app-updates-3679566/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2022/03/Samsung-Galaxy-S20-Ultra-Updating-Android-Updates-Generic-scaled.jpg",
-          "published_at": "2026-06-19T19:20:48Z",
-          "key_points": [
-            "Manual updates needed for Google apps",
-            "Important updates for Samsung users",
-            "Check for latest versions"
-          ],
-          "impact": "This ensures optimal performance of apps.",
-          "id": "bce303b3af3e20ae01401b4f401c43b2"
-        },
-        {
-          "title": "Apple’s M6 Chip Launching This Fall",
-          "description": "Apple's next-generation M6 chip is set to launch this fall, with new products expected to feature it. Anticipation is high.",
-          "category": "Hardware",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/06/19/apples-m6-chip-launches-this-fall-with-these-new-products-rumored/",
-          "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/m6_regular.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "published_at": "2026-06-19T18:48:00Z",
-          "key_points": [
-            "M6 chip launching this fall",
-            "New products expected",
-            "High anticipation among users"
-          ],
-          "impact": "This could enhance Apple's product performance.",
-          "id": "cd68e86ae0e525219c481fd41ce30541"
-        },
-        {
-          "title": "MacRumors Show: iOS 27 and watchOS 27 Insights",
-          "description": "The latest episode of The MacRumors Show dives into iOS 27 and watchOS 27 updates from WWDC 2026. Key features are discussed.",
-          "category": "Software",
-          "source": "MacRumors",
-          "url": "https://www.macrumors.com/2026/06/19/the-macrumors-show-hands-on-with-ios-27/",
-          "image": "https://images.macrumors.com/t/9XRYLmjtF-pw7zMHXB7Y1YypOxs=/2500x/article-new/2026/06/TMRS-198-Platform-Discussion-Thumb.jpg",
-          "published_at": "2026-06-19T16:17:27Z",
-          "key_points": [
-            "Insights on iOS 27 features",
-            "Discussion on watchOS 27 cuts",
-            "Recap of WWDC 2026"
-          ],
-          "impact": "This informs users about upcoming software changes.",
-          "id": "5b84b4e133344109271273461ceaa10b"
         }
       ]
     }
