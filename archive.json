@@ -1,6 +1,189 @@
 {
   "batches": [
     {
+      "id": "2026-06-27T02:56:44.853844+00:00",
+      "fetched_at": "2026-06-27T02:56:44.853844+00:00",
+      "label": "Jun 27, 2026 — 02:57 AM UTC",
+      "articles": [
+        {
+          "title": "Best 150 Prime Day Deals Under $50",
+          "description": "Prime Day offers great deals under $50. Don't miss out on affordable finds from Ninja, Anker, and Samsung.",
+          "category": "Business",
+          "source": "CNET",
+          "url": "https://www.cnet.com/deals/best-prime-day-deals-under-50-2026-06-25/",
+          "image": "https://www.cnet.com/a/img/resize/d1de0c607658b1debb453bb6c9b62fc05109a1e5/hub/2026/06/25/22e246b8-3da6-490c-b181-eb9e097b6ab5/under-50-usd-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "published_at": "2026-06-26T00:42:44Z",
+          "key_points": [
+            "Affordable Prime Day finds",
+            "Deals on top brands",
+            "Limited time offers"
+          ],
+          "impact": "Grab these deals before they disappear!",
+          "id": "3eb13d6a05d67473a0c706652c5083f2"
+        },
+        {
+          "title": "Nintendo Switch 2 Consoles for $399",
+          "description": "Amazon's Woot offers Nintendo Switch 2 for $399. This deal is available for a limited time during Prime Day.",
+          "category": "Gaming",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/nintendo-switch-2-gaming-console-deal-at-woot-amazon-prime-day",
+          "image": "https://assets-prd.ignimgs.com/2026/06/25/nintendoswitch2-1782421471696.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "published_at": "2026-06-26T00:34:00Z",
+          "key_points": [
+            "Switch 2 at $399",
+            "Limited time offer",
+            "Prime Day special"
+          ],
+          "impact": "Don't miss this exclusive Prime Day deal!",
+          "id": "5342bffb1e33fb5f37ec2e1c2fe32548"
+        },
+        {
+          "title": "Valve Removes 4K Gaming Claim from Steam Machine",
+          "description": "Valve has removed the '4K gaming at 60 FPS' claim from its Steam Machine page. This follows backlash from early reviews.",
+          "category": "Gaming",
+          "source": "Kotaku",
+          "url": "https://kotaku.com/valve-removes-4k-gaming-at-60-fps-from-steam-machine-page-after-early-review-backlash-2000710663",
+          "image": "https://kotaku.com/app/uploads/2026/06/steam-machine-2.jpg",
+          "published_at": "2026-06-25T23:00:42Z",
+          "key_points": [
+            "4K claim removed",
+            "Backlash from reviews",
+            "Steam Machine update"
+          ],
+          "impact": "Valve responds to criticism by updating claims.",
+          "id": "cecbc0b97f857ccea3f62b05341a8c9e"
+        },
+        {
+          "title": "Android 17 Introduces Foldable Gaming Mode",
+          "description": "Android 17's new foldable gaming mode features a virtual gamepad. This aims to enhance gaming on foldable devices.",
+          "category": "Gaming",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+          "published_at": "2026-06-25T22:33:54Z",
+          "key_points": [
+            "New gaming mode",
+            "Virtual gamepad feature",
+            "Enhances foldable experience"
+          ],
+          "impact": "Foldable phones become more gaming-friendly.",
+          "id": "8d4661347dcb76549698d54b9fe56bac"
+        },
+        {
+          "title": "GTA VI Goes Digital-Only, Impacting Physical Media",
+          "description": "GTA VI will be released as a digital-only title. This decision raises concerns for the future of physical media.",
+          "category": "Gaming",
+          "source": "Hollywood Reporter",
+          "url": "http://www.hollywoodreporter.com/business/business-news/grand-theft-auto-vi-digital-only-no-disc-rip-physical-media-1236629695/",
+          "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/ULTIMATE_EDITION_VAPID_GANADO_RETRO_BUILD_01-H-2026.jpg?w=1296&h=730&crop=1",
+          "published_at": "2026-06-25T22:29:36Z",
+          "key_points": [
+            "GTA VI digital-only",
+            "Impact on physical media",
+            "Shift in gaming distribution"
+          ],
+          "impact": "This could signal the end of physical games.",
+          "id": "cb73d3c9c894b655f644a6b4dee54267"
+        },
+        {
+          "title": "Google Launches Finance Android App",
+          "description": "Google finally releases a Finance app for Android. An iOS version is expected later this year.",
+          "category": "Business",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Google_Finance-1152x648.png",
+          "published_at": "2026-06-25T18:38:51Z",
+          "key_points": [
+            "Finance app launched",
+            "iOS version coming soon",
+            "AI-powered features included"
+          ],
+          "impact": "Google enhances finance management with mobile app.",
+          "id": "043db2fe0fe2f516d4af0884d00961e2"
+        },
+        {
+          "title": "Apple M6 Launch Expected Without Pro Versions",
+          "description": "Apple will launch the M6 chip without Pro and Max versions. This marks a departure from previous releases.",
+          "category": "Hardware",
+          "source": "Wccftech",
+          "url": "https://wccftech.com/apple-m6-will-not-get-pro-and-max-versions/",
+          "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/Apple-M6.jpg",
+          "published_at": "2026-06-25T17:49:00Z",
+          "key_points": [
+            "M6 launch confirmed",
+            "No Pro or Max versions",
+            "Change in Apple strategy"
+          ],
+          "impact": "Apple shifts its M-series chip strategy.",
+          "id": "89ec27a51cac6eaaacbc43e59369713d"
+        },
+        {
+          "title": "Over 100 New Tech Deals on Prime Day",
+          "description": "Prime Day continues with over 100 new tech deals. Discounts available on various electronics and gadgets.",
+          "category": "Business",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/956199/best-prime-day-2026-deals-tech-electronics-sale-day-three",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published_at": "2026-06-25T16:56:07Z",
+          "key_points": [
+            "100+ new tech deals",
+            "Discounts on electronics",
+            "Prime Day savings continue"
+          ],
+          "impact": "Take advantage of these ongoing Prime Day deals!",
+          "id": "331e37dbd5e0342ad503370f48534150"
+        },
+        {
+          "title": "Microsoft Extends Windows 10 Security Updates",
+          "description": "Microsoft extends Windows 10's security updates until October 2027. This is a year longer than previously announced.",
+          "category": "Software",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/microsoft/windows-10/microsoft-quietly-extends-windows-10s-extra-security-updates-program-for-free-users-can-now-stay-on-windows-10-until-october-2027-securely",
+          "image": "https://cdn.mos.cms.futurecdn.net/uuJbsnXbg3gLpXj9J6AK8V-2000-80.jpg",
+          "published_at": "2026-06-25T16:35:42Z",
+          "key_points": [
+            "Security updates extended",
+            "Now until October 2027",
+            "Free for Windows 10 users"
+          ],
+          "impact": "Users can stay secure on Windows 10 longer.",
+          "id": "c8c4a2636f2e0fc61fb786a2494bef48"
+        },
+        {
+          "title": "Galaxy S23 Receives New Security Update",
+          "description": "Samsung rolls out a new security update for the Galaxy S23. This update enhances device security.",
+          "category": "Software",
+          "source": "SamMobile",
+          "url": "https://www.sammobile.com/news/new-galaxy-s23-software-update-makes-it-more-secure/",
+          "image": "https://www.sammobile.com/wp-content/uploads/2023/03/Galaxy-S23-Ultra-Green-2.jpg",
+          "published_at": "2026-06-25T11:15:00Z",
+          "key_points": [
+            "New security update released",
+            "Enhances Galaxy S23 security",
+            "Available in home market"
+          ],
+          "impact": "Galaxy S23 users benefit from improved security.",
+          "id": "f1bbdae2496b6e3f551f6a1d92b79045"
+        },
+        {
+          "title": "iPhone Ultra 2 Development Approved",
+          "description": "Apple's second-generation foldable iPhone, the Ultra 2, is approved for development. This news comes from a reliable leaker.",
+          "category": "Business",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/06/25/iphone-ultra-2-development-approved-by-apple/",
+          "image": "https://images.macrumors.com/t/tRyi6be_nH3YfYIKMeYwHL6L7mA=/2000x/article-new/2025/12/iphone-fold-3d-print.jpg",
+          "published_at": "2026-06-25T09:27:05Z",
+          "key_points": [
+            "iPhone Ultra 2 approved",
+            "Foldable design confirmed",
+            "Development underway"
+          ],
+          "impact": "Apple advances its foldable smartphone technology.",
+          "id": "8015214d7c631738dc5ee0f4a66c5377"
+        }
+      ]
+    },
+    {
       "id": "2026-06-26T22:12:17.693289+00:00",
       "fetched_at": "2026-06-26T22:12:17.693289+00:00",
       "label": "Jun 26, 2026 — 10:12 PM UTC",
@@ -5816,253 +5999,6 @@
           ],
           "impact": "This enhances merchandise offerings for fans.",
           "id": "6b088f86a3a4f832722e2572252cfce8"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-21T22:13:53.278645+00:00",
-      "fetched_at": "2026-06-21T22:13:53.278645+00:00",
-      "label": "Jun 21, 2026 — 10:14 PM UTC",
-      "articles": [
-        {
-          "title": "Richard Garriott Aims to Reclaim Ultima from EA",
-          "description": "Richard Garriott plans to regain control of the Ultima RPG series he sold to EA in the 90s using legal strategies. His approach is unconventional and intriguing.",
-          "category": "Gaming",
-          "source": "Kotaku",
-          "url": "https://kotaku.com/richard-garriott-wants-to-take-ultima-back-from-ea-using-some-legal-quirks-2000708685",
-          "image": "https://kotaku.com/app/uploads/2026/06/richardgariott.jpg",
-          "published_at": "2026-06-20T20:38:06Z",
-          "key_points": [
-            "Garriott seeks legal loopholes",
-            "Wants Ultima back from EA",
-            "Plans to avoid costs"
-          ],
-          "impact": "Garriott's move could reshape gaming rights.",
-          "id": "af07d3b89b1a46037ccd32a03c7e86fa"
-        },
-        {
-          "title": "NVIDIA DLSS Now Available in NVK Vulkan Driver",
-          "description": "NVIDIA's DLSS support has been integrated into the open-source NVK Vulkan driver for Linux, enhancing gaming performance. This update is part of Mesa 26.2-devel.",
-          "category": "Software",
-          "source": "Videocardz.com",
-          "url": "https://videocardz.com/newz/nvidia-dlss-support-lands-in-open-source-nvk-vulkan-driver-for-linux",
-          "image": "https://cdn.videocardz.com/1/2026/06/NVIDIA-DLSS-LINUX-NVK-MESA-HERO.webp",
-          "published_at": "2026-06-20T20:21:37Z",
-          "key_points": [
-            "DLSS boosts Linux gaming",
-            "Integrated into NVK driver",
-            "Part of Mesa 26.2-devel"
-          ],
-          "impact": "This enhances gaming experiences on Linux.",
-          "id": "651c6d3781ae0d54d9246a4730c98ab6"
-        },
-        {
-          "title": "Ubisoft Co-Founder Claude Guillemot Dies in Crash",
-          "description": "Claude Guillemot, co-founder of Ubisoft, tragically died in a plane crash in France. An investigation is currently underway.",
-          "category": "Geopolitics",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/claude-guillemot-dies-age-69-ubisoft-assassins-creed/",
-          "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/06/20/96417935-5e50-442a-a8de-fe342f1649a9/thumbnail/1200x630/4fd99476dfce599cbd0be2db74fbaa61/gettyimages-1246763230.jpg",
-          "published_at": "2026-06-20T19:49:48Z",
-          "key_points": [
-            "Guillemot was 69 years old",
-            "Investigation ongoing",
-            "Co-founded Ubisoft"
-          ],
-          "impact": "His death is a significant loss for gaming.",
-          "id": "56e7d495009a687237a1e78ab57a4107"
-        },
-        {
-          "title": "Microsoft to End Office 2021 Support This Year",
-          "description": "Microsoft will cease support for Office 2021 later this year, prompting users to consider alternatives. Details on transition options are forthcoming.",
-          "category": "Software",
-          "source": "Mashable",
-          "url": "https://mashable.com/tech/microsoft-ending-office-2021-support",
-          "image": "https://helios-i.mashable.com/imagery/articles/07dLYgQR044mliwS7T91Dvd/hero-image.fill.size_1200x675.v1781977555.jpg",
-          "published_at": "2026-06-20T17:52:49Z",
-          "key_points": [
-            "Office 2021 support ending",
-            "Users need alternatives",
-            "Transition details coming soon"
-          ],
-          "impact": "Users must prepare for software changes.",
-          "id": "ec969da6f225e9f41b4d302ab6b66105"
-        },
-        {
-          "title": "Unfixable Security Flaw Found in Seven iPhone Models",
-          "description": "A cybersecurity firm has identified an unfixable security flaw affecting seven iPhone models, posing risks to users. Hackers could exploit this vulnerability.",
-          "category": "Security",
-          "source": "New York Post",
-          "url": "https://nypost.com/2026/06/20/tech/unfixable-security-flaw-affects-seven-iphone-models/",
-          "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/newspress-collage-qjz6mlrz2-1781976622812.jpg?quality=75&strip=all&1781962259&w=1200",
-          "published_at": "2026-06-20T17:39:00Z",
-          "key_points": [
-            "Flaw affects seven iPhone models",
-            "No fix available",
-            "Hackers can exploit vulnerability"
-          ],
-          "impact": "Users should be cautious with affected devices.",
-          "id": "c4dd0e5020cdb4045e4de9efbc00f6df"
-        },
-        {
-          "title": "Details on WOTC's Cancelled Horror Game Revealed",
-          "description": "Exclusive insights into Wizards of the Coast's cancelled horror game 'Project Sundown' and its implications for the studio's future have emerged.",
-          "category": "Gaming",
-          "source": "MP1st",
-          "url": "https://mp1st.com/news/report-details-for-project-sundown-skeleton-key-wotcs-cancelled-horror-game",
-          "image": "https://mp1st.com/wp-content/uploads/2026/06/SKstdo-600x338.png",
-          "published_at": "2026-06-20T16:23:27Z",
-          "key_points": [
-            "Project Sundown cancelled",
-            "Details revealed",
-            "Impact on studio's future"
-          ],
-          "impact": "This cancellation affects WOTC's game lineup.",
-          "id": "914211b6599c79f22336e044c72739a9"
-        },
-        {
-          "title": "Top 10 PS5 Games of 2026 So Far",
-          "description": "Discover the best PS5 games of 2026 as voted by players. The list showcases the standout titles halfway through the year.",
-          "category": "Gaming",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/the-10-best-ps5-games-of-2026-so-far",
-          "image": "https://images.pushsquare.com/0a451374beff4/large.jpg",
-          "published_at": "2026-06-20T16:00:00Z",
-          "key_points": [
-            "Best PS5 games ranked",
-            "Voted by players",
-            "Mid-year highlights"
-          ],
-          "impact": "Highlights gaming trends for 2026.",
-          "id": "604c4b8b178f6e85bcc4b19f019a43d7"
-        },
-        {
-          "title": "Prime Day Tech Deals: Up to 55% Off",
-          "description": "Amazon's Prime Day offers significant discounts on tech products, including Apple and Samsung devices. Deals run from June 23 to June 26.",
-          "category": "Business",
-          "source": "Yahoo Entertainment",
-          "url": "https://tech.yahoo.com/deals/breaking-news/article/the-best-prime-day-tech-deals-are-here-shop-apple-beats-samsung-and-more-for-up-to-55-percent-off-050536810.html",
-          "image": "https://s.yimg.com/lo/mysterio/api/4f3dab48692f56956ac69d483dd8e05eb12053046b9885e926512d3048b843f0/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Famazon-prime-tech_7267.png",
-          "published_at": "2026-06-20T12:25:00Z",
-          "key_points": [
-            "Prime Day discounts available",
-            "Up to 55% off",
-            "Deals on major brands"
-          ],
-          "impact": "Shoppers can save significantly on tech.",
-          "id": "160699b3d7950bcd40f3e558a74b43d5"
-        },
-        {
-          "title": "Xbox Founder Warns of Resurgent Industry Fears",
-          "description": "Laura Fryer, an original Xbox founder, expresses concerns about rising hardware costs and AI's impact on the gaming industry. Old anxieties resurface.",
-          "category": "Gaming",
-          "source": "Windows Central",
-          "url": "https://www.windowscentral.com/gaming/xbox/xbox-founder-laura-fryer-speaks-on-fears",
-          "image": "https://cdn.mos.cms.futurecdn.net/v5FEhAepUiPqfhNMSLKfzA-1920-80.jpg",
-          "published_at": "2026-06-20T10:42:03Z",
-          "key_points": [
-            "Fryer highlights industry fears",
-            "Rising hardware costs",
-            "AI's impact on gaming"
-          ],
-          "impact": "Concerns may affect future gaming strategies.",
-          "id": "0be6ade5d87fc2fc1857eec2b9e2d295"
-        },
-        {
-          "title": "Xbox Series S Aids Switch 2 Development",
-          "description": "Digital Foundry suggests that the Xbox Series S has facilitated development for the upcoming Nintendo Switch 2, easing the process for developers.",
-          "category": "Gaming",
-          "source": "Windows Central",
-          "url": "https://www.windowscentral.com/gaming/xbox/it-helped-xbox-series-s-helped-make-life-easier-for-switch-2-developers",
-          "image": "https://cdn.mos.cms.futurecdn.net/kXprdXgC58F28f6qcUMjUd-1920-80.png",
-          "published_at": "2026-06-20T10:31:20Z",
-          "key_points": [
-            "Xbox Series S aids developers",
-            "Facilitates Switch 2 creation",
-            "Digital Foundry analysis"
-          ],
-          "impact": "This could enhance Switch 2's performance.",
-          "id": "55c8fe85f4d7f362c543964fb7134801"
-        },
-        {
-          "title": "Commodore's New Flip Phone Appeals to Gen Z",
-          "description": "The Commodore Callback flip phone offers essential features without social media, targeting Gen Z's desire for distraction-free communication.",
-          "category": "Business",
-          "source": "BGR",
-          "url": "https://www.bgr.com/2198236/commodore-flip-phone-callback/",
-          "image": "https://www.bgr.com/img/gallery/gen-z-is-going-to-love-commodores-new-minimalist-flip-phone/l-intro-1781903673.jpg",
-          "published_at": "2026-06-20T10:17:00Z",
-          "key_points": [
-            "Minimalist design",
-            "No social media distractions",
-            "Targets Gen Z market"
-          ],
-          "impact": "This phone could redefine mobile simplicity.",
-          "id": "e75a03a625531cca6c1415ed91ffe7aa"
-        },
-        {
-          "title": "Siri AI Offers Enhanced San Francisco Tour",
-          "description": "A hands-on experience with the new Siri AI reveals its conversational abilities and helpfulness in navigating San Francisco. Users find it more engaging.",
-          "category": "Software",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
-          "image": "https://media.wired.com/photos/6a33443c27f7de3a00911dff/191:100/w_1280,c_limit/Gear_TestingSiriAI-v1.jpg",
-          "published_at": "2026-06-20T10:00:00Z",
-          "key_points": [
-            "Siri AI is conversational",
-            "Helpful navigation tool",
-            "Engaging user experience"
-          ],
-          "impact": "Siri's improvements enhance user interaction.",
-          "id": "977190f7106ddb65eb0f079bd1f54d05"
-        },
-        {
-          "title": "Bentley Shocks Mat Armstrong with Service Verdict",
-          "description": "YouTuber Mat Armstrong received a surprising verdict during a service appointment for his rebuilt Bentley Continental GT, leaving him stunned.",
-          "category": "Business",
-          "source": "Supercarblondie.com",
-          "url": "https://supercarblondie.com/bentley-continental-gt-mat-armstrong-service/",
-          "image": "https://supercarblondie.com/cdn-cgi/image/width=1200,height=675,quality=80,format=webp,fit=cover/wp-content/uploads/Mat-Armstrong-Bentley-Continental-featured.webp",
-          "published_at": "2026-06-20T09:49:00Z",
-          "key_points": [
-            "Armstrong's Bentley serviced",
-            "Surprising verdict given",
-            "Luxury car maintenance issues"
-          ],
-          "impact": "This highlights challenges in luxury car care.",
-          "id": "bbd9a5357325a8c4c7778831691ad7e4"
-        },
-        {
-          "title": "Five Affordable Alternatives to Google Pixel 10 Pro",
-          "description": "Explore five budget-friendly Android phones that rival the Google Pixel 10 Pro in key features, offering solid competition without the high price.",
-          "category": "Business",
-          "source": "BGR",
-          "url": "https://www.bgr.com/2194441/google-pixel-10-pro-cheaper-android-phones-alternatives/",
-          "image": "https://www.bgr.com/img/gallery/5-cheaper-android-phones-you-should-try-instead-of-the-google-pixel-10-pro/l-intro-1781542798.jpg",
-          "published_at": "2026-06-20T09:47:00Z",
-          "key_points": [
-            "Affordable Android alternatives",
-            "Compete with Pixel 10 Pro",
-            "Solid features offered"
-          ],
-          "impact": "Consumers gain more budget-friendly options.",
-          "id": "dfdc6b4cac9aede1856adbfa742ec828"
-        },
-        {
-          "title": "Lifetime Access to AI Tools for Just $55",
-          "description": "Get lifetime access to Claude, Gemini, and Gemini AI tools for an unprecedented low price of $55. This offer is a significant deal for users.",
-          "category": "Software",
-          "source": "Mashable",
-          "url": "https://mashable.com/tech/june-20-chatplayground-ai-unlimited-plan-lifetime-subscriptions",
-          "image": "https://helios-i.mashable.com/imagery/articles/03mgPIvyvB9dcMjBy0Ra24T/hero-image.fill.size_1200x675.v1781605886.jpg",
-          "published_at": "2026-06-20T09:00:00Z",
-          "key_points": [
-            "Lifetime access for $55",
-            "Includes multiple AI tools",
-            "Unprecedented low price"
-          ],
-          "impact": "This deal makes AI tools more accessible.",
-          "id": "447859b3c2f4d93dcfe59d14cab85caf"
         }
       ]
     }

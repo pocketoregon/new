@@ -1,197 +1,181 @@
 {
-  "generated_at": "2026-06-26T22:12:17.693289+00:00",
+  "generated_at": "2026-06-27T02:56:44.853844+00:00",
   "articles": [
     {
-      "title": "Massive Discounts on Laptops This Prime Day",
-      "description": "Prime Day offers up to $970 off MacBooks and Windows PCs. Grab these deals before they end.",
+      "title": "Best 150 Prime Day Deals Under $50",
+      "description": "Prime Day offers great deals under $50. Don't miss out on affordable finds from Ninja, Anker, and Samsung.",
       "category": "Business",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/best-prime-day-laptop-deals-live-2026",
-      "image": "https://helios-i.mashable.com/imagery/articles/03zWeZDafuStAg34m1XaIRe/hero-image.fill.size_1200x675.v1782376261.png",
-      "published_at": "2026-06-25T20:36:49Z",
+      "source": "CNET",
+      "url": "https://www.cnet.com/deals/best-prime-day-deals-under-50-2026-06-25/",
+      "image": "https://www.cnet.com/a/img/resize/d1de0c607658b1debb453bb6c9b62fc05109a1e5/hub/2026/06/25/22e246b8-3da6-490c-b181-eb9e097b6ab5/under-50-usd-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "published_at": "2026-06-26T00:42:44Z",
       "key_points": [
-        "Up to $970 off laptops",
-        "Deals on MacBooks and PCs",
+        "Affordable Prime Day finds",
+        "Deals on top brands",
         "Limited time offers"
       ],
-      "impact": "Consumers can save significantly on laptops.",
-      "id": "8e4beade7e1d3dd5c6b3784a8f753394"
+      "impact": "Grab these deals before they disappear!",
+      "id": "3eb13d6a05d67473a0c706652c5083f2"
     },
     {
-      "title": "Windows 10 Extended Support Extended by Microsoft",
-      "description": "Microsoft extends Windows 10 update program by another year. A quarter of PCs still use this OS.",
-      "category": "Software",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/microsoft-windows-1024x648.jpg",
-      "published_at": "2026-06-25T20:24:09Z",
+      "title": "Nintendo Switch 2 Consoles for $399",
+      "description": "Amazon's Woot offers Nintendo Switch 2 for $399. This deal is available for a limited time during Prime Day.",
+      "category": "Gaming",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/nintendo-switch-2-gaming-console-deal-at-woot-amazon-prime-day",
+      "image": "https://assets-prd.ignimgs.com/2026/06/25/nintendoswitch2-1782421471696.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "published_at": "2026-06-26T00:34:00Z",
       "key_points": [
-        "Windows 10 support extended",
-        "Quarter of PCs still use it",
-        "Users can stay updated longer"
+        "Switch 2 at $399",
+        "Limited time offer",
+        "Prime Day special"
       ],
-      "impact": "Users benefit from continued support and updates.",
-      "id": "b8c293bad62526cbba8891cd3da36d6a"
+      "impact": "Don't miss this exclusive Prime Day deal!",
+      "id": "5342bffb1e33fb5f37ec2e1c2fe32548"
     },
     {
-      "title": "Prime Day Deals: 120+ Discounts Found",
-      "description": "Amazon's Prime Day features over 120 deals from brands like Apple and Lego. Don't miss out on these savings.",
-      "category": "Business",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/best-amazon-prime-day-deals-2026-live",
-      "image": "https://helios-i.mashable.com/imagery/articles/02pwcR33zGcCoOWyWDYNakl/hero-image.fill.size_1200x675.v1782417797.jpg",
-      "published_at": "2026-06-25T18:35:54Z",
-      "key_points": [
-        "120+ deals available",
-        "Discounts on top brands",
-        "Limited time offers"
-      ],
-      "impact": "Shoppers can save big on popular products.",
-      "id": "0ffbb472dbb0a8081f33871051314374"
-    },
-    {
-      "title": "Microsoft Raises Xbox Prices Amid Component Costs",
-      "description": "Microsoft announces price hikes for Xbox consoles due to rising component costs. Consumers can expect higher prices starting August 1.",
-      "category": "Business",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/25/microsoft-lifts-price-of-xbox-consoles-due-to-soaring-component-costs.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108275781-1773100803624-gettyimages-2230458864-tang-notitle250820_npmhW.jpeg?v=1773259314&w=1920&h=1080",
-      "published_at": "2026-06-25T17:34:13Z",
-      "key_points": [
-        "Xbox prices increasing",
-        "Effective August 1",
-        "Rising component costs"
-      ],
-      "impact": "Gamers will face higher console prices.",
-      "id": "01fad2d1758b115c59baa3c6a860624d"
-    },
-    {
-      "title": "YouTube Shorts Introduces New Features",
-      "description": "YouTube Shorts adds Clear Screen mode and 2x playback speed. Dislike button removed for a cleaner experience.",
-      "category": "Software",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/06/25/youtube-shorts-clear-screen-more/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/youtube-shorts-logo-circle-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-25T17:25:00Z",
-      "key_points": [
-        "New Clear Screen mode",
-        "2x playback speed added",
-        "Dislike button removed"
-      ],
-      "impact": "Shorts experience becomes more user-friendly.",
-      "id": "a3013dfca2571fb8b1fbdb7ba6644c05"
-    },
-    {
-      "title": "AI Chief Aims to Slash AI Power Costs",
-      "description": "Databricks' former AI chief proposes a system to reduce AI's power consumption by 1,000 times. Aiming for a breakthrough in efficiency.",
-      "category": "AI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-25-at-12.15.52-PM.jpg?resize=1200,615",
-      "published_at": "2026-06-25T16:48:11Z",
-      "key_points": [
-        "AI power costs could drop",
-        "1,000x efficiency goal",
-        "Innovative computing architecture"
-      ],
-      "impact": "Potentially transformative for AI energy use.",
-      "id": "ba304cad7d5154a68dfb1a5f7b217427"
-    },
-    {
-      "title": "Star Fox Remake Sparks Player Creativity",
-      "description": "Star Fox remake for Switch 2 encourages players to use VTuber avatars. The game offers a modern twist on a classic.",
+      "title": "Valve Removes 4K Gaming Claim from Steam Machine",
+      "description": "Valve has removed the '4K gaming at 60 FPS' claim from its Steam Machine page. This follows backlash from early reviews.",
       "category": "Gaming",
       "source": "Kotaku",
-      "url": "https://kotaku.com/star-fox-switch-2-nintendo-avatars-fox-falco-slippy-2000710547",
-      "image": "https://kotaku.com/app/uploads/2026/06/image-72.jpg",
-      "published_at": "2026-06-25T16:30:14Z",
+      "url": "https://kotaku.com/valve-removes-4k-gaming-at-60-fps-from-steam-machine-page-after-early-review-backlash-2000710663",
+      "image": "https://kotaku.com/app/uploads/2026/06/steam-machine-2.jpg",
+      "published_at": "2026-06-25T23:00:42Z",
       "key_points": [
-        "Star Fox remake released",
-        "Players use VTuber avatars",
-        "Modernized classic gameplay"
+        "4K claim removed",
+        "Backlash from reviews",
+        "Steam Machine update"
       ],
-      "impact": "Players engage creatively with the game.",
-      "id": "e1f21300929ab2470b358473c3d0c6a8"
+      "impact": "Valve responds to criticism by updating claims.",
+      "id": "cecbc0b97f857ccea3f62b05341a8c9e"
     },
     {
-      "title": "Notion to Shut Down AI Email Client",
-      "description": "Notion announces the closure of its AI-powered email client, Notion Mail, effective this fall. Users will need to transition to alternatives.",
-      "category": "Software",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/06/25/notion-shutting-down-its-ai-powered-email-client-including-mac-and-ios-apps/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/Notion-Mail-sunset.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-25T16:25:00Z",
-      "key_points": [
-        "Notion Mail shutting down",
-        "Closure effective this fall",
-        "Users need alternatives"
-      ],
-      "impact": "Users must find new email solutions.",
-      "id": "7d0e3dd868721154b224ae325bf34d31"
-    },
-    {
-      "title": "Bungie Lays Off Destiny 2 Development Team",
-      "description": "Bungie announces layoffs affecting most of the Destiny 2 development team. The company faces challenges in the gaming market.",
+      "title": "Android 17 Introduces Foldable Gaming Mode",
+      "description": "Android 17's new foldable gaming mode features a virtual gamepad. This aims to enhance gaming on foldable devices.",
       "category": "Gaming",
-      "source": "Game Informer",
-      "url": "https://gameinformer.com/2026/06/25/bungie-is-laying-off-most-of-the-destiny-2-development-team",
-      "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/25/46b792e9/destiny%202%20collection.jpg.webp",
-      "published_at": "2026-06-25T16:22:43Z",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "published_at": "2026-06-25T22:33:54Z",
       "key_points": [
-        "Most of Destiny 2 team laid off",
-        "Challenges in gaming market",
-        "Impact on future game development"
+        "New gaming mode",
+        "Virtual gamepad feature",
+        "Enhances foldable experience"
       ],
-      "impact": "Destiny 2's future may be uncertain.",
-      "id": "c7c49331c48d846500fa8d247d5988c1"
+      "impact": "Foldable phones become more gaming-friendly.",
+      "id": "8d4661347dcb76549698d54b9fe56bac"
     },
     {
-      "title": "Galaxy Z Fold 8 Leaks Reveal Key Details",
-      "description": "Leaks about the Galaxy Z Fold 8 reveal pre-order perks and release date. Initial impressions suggest limited upgrades.",
+      "title": "GTA VI Goes Digital-Only, Impacting Physical Media",
+      "description": "GTA VI will be released as a digital-only title. This decision raises concerns for the future of physical media.",
+      "category": "Gaming",
+      "source": "Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/business/business-news/grand-theft-auto-vi-digital-only-no-disc-rip-physical-media-1236629695/",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/ULTIMATE_EDITION_VAPID_GANADO_RETRO_BUILD_01-H-2026.jpg?w=1296&h=730&crop=1",
+      "published_at": "2026-06-25T22:29:36Z",
+      "key_points": [
+        "GTA VI digital-only",
+        "Impact on physical media",
+        "Shift in gaming distribution"
+      ],
+      "impact": "This could signal the end of physical games.",
+      "id": "cb73d3c9c894b655f644a6b4dee54267"
+    },
+    {
+      "title": "Google Launches Finance Android App",
+      "description": "Google finally releases a Finance app for Android. An iOS version is expected later this year.",
+      "category": "Business",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Google_Finance-1152x648.png",
+      "published_at": "2026-06-25T18:38:51Z",
+      "key_points": [
+        "Finance app launched",
+        "iOS version coming soon",
+        "AI-powered features included"
+      ],
+      "impact": "Google enhances finance management with mobile app.",
+      "id": "043db2fe0fe2f516d4af0884d00961e2"
+    },
+    {
+      "title": "Apple M6 Launch Expected Without Pro Versions",
+      "description": "Apple will launch the M6 chip without Pro and Max versions. This marks a departure from previous releases.",
       "category": "Hardware",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/06/25/galaxy-z-fold-8-release-date-leaks-hands-on-impressions-make-ultra-seem-pointless/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-62.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-25T15:15:00Z",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/apple-m6-will-not-get-pro-and-max-versions/",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/Apple-M6.jpg",
+      "published_at": "2026-06-25T17:49:00Z",
       "key_points": [
-        "Galaxy Z Fold 8 leaks",
-        "Pre-order perks revealed",
-        "Limited upgrades expected"
+        "M6 launch confirmed",
+        "No Pro or Max versions",
+        "Change in Apple strategy"
       ],
-      "impact": "Consumers await more details on the device.",
-      "id": "77d4811d324c2c4728a707dfe474d63e"
+      "impact": "Apple shifts its M-series chip strategy.",
+      "id": "89ec27a51cac6eaaacbc43e59369713d"
     },
     {
-      "title": "Samsung's New Budget Phone Price Increase",
-      "description": "Samsung's Galaxy A27 launches at $50 more despite downgraded features. New chip but lower camera quality.",
+      "title": "Over 100 New Tech Deals on Prime Day",
+      "description": "Prime Day continues with over 100 new tech deals. Discounts available on various electronics and gadgets.",
       "category": "Business",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/956835/samsung-galaxy-a27-5g-launch-price-specs",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/001-product-galaxy-a27-5g-black-front.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published_at": "2026-06-25T13:39:04Z",
+      "url": "https://www.theverge.com/gadgets/956199/best-prime-day-2026-deals-tech-electronics-sale-day-three",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "published_at": "2026-06-25T16:56:07Z",
       "key_points": [
-        "Galaxy A27 price increased",
-        "Worse features than predecessor",
-        "New chip introduced"
+        "100+ new tech deals",
+        "Discounts on electronics",
+        "Prime Day savings continue"
       ],
-      "impact": "Consumers face higher costs for less value.",
-      "id": "6d85d4863f7ff6fb0a42296335e06137"
+      "impact": "Take advantage of these ongoing Prime Day deals!",
+      "id": "331e37dbd5e0342ad503370f48534150"
     },
     {
-      "title": "Google Play Offers Games for Just $0.10",
-      "description": "Google Play's 'Mega Game Sale' discounts popular Android games to only $0.10. Sale runs until July 2.",
-      "category": "Gaming",
-      "source": "9to5Google",
-      "url": "http://9to5google.com/2026/06/24/google-play-mega-game-sale-discounts-these-popular-android-games-to-just-0-10/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/04/Google-Play-Store-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "published_at": "2026-06-24T14:20:00Z",
+      "title": "Microsoft Extends Windows 10 Security Updates",
+      "description": "Microsoft extends Windows 10's security updates until October 2027. This is a year longer than previously announced.",
+      "category": "Software",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/microsoft/windows-10/microsoft-quietly-extends-windows-10s-extra-security-updates-program-for-free-users-can-now-stay-on-windows-10-until-october-2027-securely",
+      "image": "https://cdn.mos.cms.futurecdn.net/uuJbsnXbg3gLpXj9J6AK8V-2000-80.jpg",
+      "published_at": "2026-06-25T16:35:42Z",
       "key_points": [
-        "Games discounted to $0.10",
-        "Mega Game Sale live now",
-        "Ends July 2"
+        "Security updates extended",
+        "Now until October 2027",
+        "Free for Windows 10 users"
       ],
-      "impact": "Gamers can enjoy significant savings.",
-      "id": "12dbdce788ba099437dfe2e58e0381e2"
+      "impact": "Users can stay secure on Windows 10 longer.",
+      "id": "c8c4a2636f2e0fc61fb786a2494bef48"
+    },
+    {
+      "title": "Galaxy S23 Receives New Security Update",
+      "description": "Samsung rolls out a new security update for the Galaxy S23. This update enhances device security.",
+      "category": "Software",
+      "source": "SamMobile",
+      "url": "https://www.sammobile.com/news/new-galaxy-s23-software-update-makes-it-more-secure/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2023/03/Galaxy-S23-Ultra-Green-2.jpg",
+      "published_at": "2026-06-25T11:15:00Z",
+      "key_points": [
+        "New security update released",
+        "Enhances Galaxy S23 security",
+        "Available in home market"
+      ],
+      "impact": "Galaxy S23 users benefit from improved security.",
+      "id": "f1bbdae2496b6e3f551f6a1d92b79045"
+    },
+    {
+      "title": "iPhone Ultra 2 Development Approved",
+      "description": "Apple's second-generation foldable iPhone, the Ultra 2, is approved for development. This news comes from a reliable leaker.",
+      "category": "Business",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/25/iphone-ultra-2-development-approved-by-apple/",
+      "image": "https://images.macrumors.com/t/tRyi6be_nH3YfYIKMeYwHL6L7mA=/2000x/article-new/2025/12/iphone-fold-3d-print.jpg",
+      "published_at": "2026-06-25T09:27:05Z",
+      "key_points": [
+        "iPhone Ultra 2 approved",
+        "Foldable design confirmed",
+        "Development underway"
+      ],
+      "impact": "Apple advances its foldable smartphone technology.",
+      "id": "8015214d7c631738dc5ee0f4a66c5377"
     }
   ]
 }
