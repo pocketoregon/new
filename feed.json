@@ -1,181 +1,37 @@
 {
-  "generated_at": "2026-06-27T02:56:44.853844+00:00",
+  "generated_at": "2026-06-27T06:31:24.952052+00:00",
   "articles": [
     {
-      "title": "Best 150 Prime Day Deals Under $50",
-      "description": "Prime Day offers great deals under $50. Don't miss out on affordable finds from Ninja, Anker, and Samsung.",
-      "category": "Business",
-      "source": "CNET",
-      "url": "https://www.cnet.com/deals/best-prime-day-deals-under-50-2026-06-25/",
-      "image": "https://www.cnet.com/a/img/resize/d1de0c607658b1debb453bb6c9b62fc05109a1e5/hub/2026/06/25/22e246b8-3da6-490c-b181-eb9e097b6ab5/under-50-usd-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "published_at": "2026-06-26T00:42:44Z",
-      "key_points": [
-        "Affordable Prime Day finds",
-        "Deals on top brands",
-        "Limited time offers"
-      ],
-      "impact": "Grab these deals before they disappear!",
-      "id": "3eb13d6a05d67473a0c706652c5083f2"
-    },
-    {
-      "title": "Nintendo Switch 2 Consoles for $399",
-      "description": "Amazon's Woot offers Nintendo Switch 2 for $399. This deal is available for a limited time during Prime Day.",
+      "title": "Star Fox Routes Walkthrough: Find Every Path",
+      "description": "Explore alternate routes in Star Fox to reach Venom. Each stage features regular and secret exits for strategic gameplay.",
       "category": "Gaming",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/nintendo-switch-2-gaming-console-deal-at-woot-amazon-prime-day",
-      "image": "https://assets-prd.ignimgs.com/2026/06/25/nintendoswitch2-1782421471696.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "published_at": "2026-06-26T00:34:00Z",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/guides/star-fox-walkthrough-routes-map-alternate-paths-switch-2",
+      "image": "https://images.nintendolife.com/a2f4e747feecc/large.jpg",
+      "published_at": "2026-06-25T16:27:08Z",
       "key_points": [
-        "Switch 2 at $399",
-        "Limited time offer",
-        "Prime Day special"
+        "Multiple routes for each stage",
+        "Secret exits enhance gameplay",
+        "Strategic planning required"
       ],
-      "impact": "Don't miss this exclusive Prime Day deal!",
-      "id": "5342bffb1e33fb5f37ec2e1c2fe32548"
+      "impact": "Players can enhance their Star Fox experience.",
+      "id": "227127e7ceec7a239ce02233f4f2e164"
     },
     {
-      "title": "Valve Removes 4K Gaming Claim from Steam Machine",
-      "description": "Valve has removed the '4K gaming at 60 FPS' claim from its Steam Machine page. This follows backlash from early reviews.",
-      "category": "Gaming",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/valve-removes-4k-gaming-at-60-fps-from-steam-machine-page-after-early-review-backlash-2000710663",
-      "image": "https://kotaku.com/app/uploads/2026/06/steam-machine-2.jpg",
-      "published_at": "2026-06-25T23:00:42Z",
-      "key_points": [
-        "4K claim removed",
-        "Backlash from reviews",
-        "Steam Machine update"
-      ],
-      "impact": "Valve responds to criticism by updating claims.",
-      "id": "cecbc0b97f857ccea3f62b05341a8c9e"
-    },
-    {
-      "title": "Android 17 Introduces Foldable Gaming Mode",
-      "description": "Android 17's new foldable gaming mode features a virtual gamepad. This aims to enhance gaming on foldable devices.",
-      "category": "Gaming",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-      "published_at": "2026-06-25T22:33:54Z",
-      "key_points": [
-        "New gaming mode",
-        "Virtual gamepad feature",
-        "Enhances foldable experience"
-      ],
-      "impact": "Foldable phones become more gaming-friendly.",
-      "id": "8d4661347dcb76549698d54b9fe56bac"
-    },
-    {
-      "title": "GTA VI Goes Digital-Only, Impacting Physical Media",
-      "description": "GTA VI will be released as a digital-only title. This decision raises concerns for the future of physical media.",
-      "category": "Gaming",
-      "source": "Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/business/business-news/grand-theft-auto-vi-digital-only-no-disc-rip-physical-media-1236629695/",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/ULTIMATE_EDITION_VAPID_GANADO_RETRO_BUILD_01-H-2026.jpg?w=1296&h=730&crop=1",
-      "published_at": "2026-06-25T22:29:36Z",
-      "key_points": [
-        "GTA VI digital-only",
-        "Impact on physical media",
-        "Shift in gaming distribution"
-      ],
-      "impact": "This could signal the end of physical games.",
-      "id": "cb73d3c9c894b655f644a6b4dee54267"
-    },
-    {
-      "title": "Google Launches Finance Android App",
-      "description": "Google finally releases a Finance app for Android. An iOS version is expected later this year.",
+      "title": "Google Finance Launches Dedicated Android App",
+      "description": "Google Finance now offers a dedicated Android app for real-time market data, watchlists, and AI-driven insights on stock movements.",
       "category": "Business",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Google_Finance-1152x648.png",
-      "published_at": "2026-06-25T18:38:51Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Google-Finance-blog-image.png?resize=1200,677",
+      "published_at": "2026-06-25T16:00:00Z",
       "key_points": [
-        "Finance app launched",
-        "iOS version coming soon",
-        "AI-powered features included"
+        "Real-time market data available",
+        "AI-powered stock insights",
+        "User-friendly watchlist feature"
       ],
-      "impact": "Google enhances finance management with mobile app.",
-      "id": "043db2fe0fe2f516d4af0884d00961e2"
-    },
-    {
-      "title": "Apple M6 Launch Expected Without Pro Versions",
-      "description": "Apple will launch the M6 chip without Pro and Max versions. This marks a departure from previous releases.",
-      "category": "Hardware",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/apple-m6-will-not-get-pro-and-max-versions/",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/Apple-M6.jpg",
-      "published_at": "2026-06-25T17:49:00Z",
-      "key_points": [
-        "M6 launch confirmed",
-        "No Pro or Max versions",
-        "Change in Apple strategy"
-      ],
-      "impact": "Apple shifts its M-series chip strategy.",
-      "id": "89ec27a51cac6eaaacbc43e59369713d"
-    },
-    {
-      "title": "Over 100 New Tech Deals on Prime Day",
-      "description": "Prime Day continues with over 100 new tech deals. Discounts available on various electronics and gadgets.",
-      "category": "Business",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/956199/best-prime-day-2026-deals-tech-electronics-sale-day-three",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "published_at": "2026-06-25T16:56:07Z",
-      "key_points": [
-        "100+ new tech deals",
-        "Discounts on electronics",
-        "Prime Day savings continue"
-      ],
-      "impact": "Take advantage of these ongoing Prime Day deals!",
-      "id": "331e37dbd5e0342ad503370f48534150"
-    },
-    {
-      "title": "Microsoft Extends Windows 10 Security Updates",
-      "description": "Microsoft extends Windows 10's security updates until October 2027. This is a year longer than previously announced.",
-      "category": "Software",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/microsoft/windows-10/microsoft-quietly-extends-windows-10s-extra-security-updates-program-for-free-users-can-now-stay-on-windows-10-until-october-2027-securely",
-      "image": "https://cdn.mos.cms.futurecdn.net/uuJbsnXbg3gLpXj9J6AK8V-2000-80.jpg",
-      "published_at": "2026-06-25T16:35:42Z",
-      "key_points": [
-        "Security updates extended",
-        "Now until October 2027",
-        "Free for Windows 10 users"
-      ],
-      "impact": "Users can stay secure on Windows 10 longer.",
-      "id": "c8c4a2636f2e0fc61fb786a2494bef48"
-    },
-    {
-      "title": "Galaxy S23 Receives New Security Update",
-      "description": "Samsung rolls out a new security update for the Galaxy S23. This update enhances device security.",
-      "category": "Software",
-      "source": "SamMobile",
-      "url": "https://www.sammobile.com/news/new-galaxy-s23-software-update-makes-it-more-secure/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2023/03/Galaxy-S23-Ultra-Green-2.jpg",
-      "published_at": "2026-06-25T11:15:00Z",
-      "key_points": [
-        "New security update released",
-        "Enhances Galaxy S23 security",
-        "Available in home market"
-      ],
-      "impact": "Galaxy S23 users benefit from improved security.",
-      "id": "f1bbdae2496b6e3f551f6a1d92b79045"
-    },
-    {
-      "title": "iPhone Ultra 2 Development Approved",
-      "description": "Apple's second-generation foldable iPhone, the Ultra 2, is approved for development. This news comes from a reliable leaker.",
-      "category": "Business",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/06/25/iphone-ultra-2-development-approved-by-apple/",
-      "image": "https://images.macrumors.com/t/tRyi6be_nH3YfYIKMeYwHL6L7mA=/2000x/article-new/2025/12/iphone-fold-3d-print.jpg",
-      "published_at": "2026-06-25T09:27:05Z",
-      "key_points": [
-        "iPhone Ultra 2 approved",
-        "Foldable design confirmed",
-        "Development underway"
-      ],
-      "impact": "Apple advances its foldable smartphone technology.",
-      "id": "8015214d7c631738dc5ee0f4a66c5377"
+      "impact": "Investors gain better access to financial information.",
+      "id": "c16a4d7e795d350f9f29427671840b9b"
     }
   ]
 }
